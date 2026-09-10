@@ -3,12 +3,12 @@
     {
       "name": "打开 AI 额度中控台",
       "priority": 1,
-      "action": "./start.sh"
+      "action": "start.sh"
     },
     {
       "name": "退出 AI 额度中控台",
       "priority": 2,
-      "action": "./stop.sh"
+      "action": "stop.sh"
     }
   ]
 }

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+  <information>
+    <name>AI 额度中控台</name>
+    <version>1.0</version>
+    <author>Local helper</author>
+    <id>ai-dashboard</id>
+  </information>
+  <menus>
+    <menu type="json">menu.json</menu>
+  </menus>
+</extension>
