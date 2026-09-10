@@ -2,8 +2,9 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="viewport" content="width=600, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>Kindle AI Quota Dashboard</title>
+<script>if (/Kindle|AppleWebKit\/53[0-9]/.test(navigator.userAgent)) document.documentElement.className = "legacy-kindle";</script>
 <style>
 :root {
   --bg: #FFFFFF; --fg: #000000; --mid: #444444; --light: #666666;
@@ -121,6 +122,34 @@ body {
 }
 .data-alert.on { display: block; }
 .footer .warn { color: #000; font-weight: 700; }
+/* Kindle Mesquite/WebKit 533 fallback: no CSS variables, Grid, or Flexbox. */
+.legacy-kindle body { background: #fff; color: #000; display: block; }
+.legacy-kindle .top-row { display: table; width: 100%; table-layout: fixed; }
+.legacy-kindle .datetime-card,
+.legacy-kindle .weather-card { display: table-cell; width: 50%; vertical-align: top; background: #f8f8f8; border: 1px solid #ccc; }
+.legacy-kindle .dt-meta,
+.legacy-kindle .dt-battery,
+.legacy-kindle .w-row,
+.legacy-kindle .q-head,
+.legacy-kindle .q-label,
+.legacy-kindle .footer { display: block; }
+.legacy-kindle .dt-date { margin-right: 10px; }
+.legacy-kindle .w-temp,
+.legacy-kindle .w-icon { display: inline-block; vertical-align: middle; }
+.legacy-kindle .quote { border: 1px solid #ccc; }
+.legacy-kindle .quota-grid { display: block; width: 100%; font-size: 0; }
+.legacy-kindle .q-card { display: inline-block; width: 264px; height: 188px; margin: 0 0 12px; padding: 12px 14px; vertical-align: top; background: #f8f8f8; border: 1px solid #ccc; -webkit-box-sizing: border-box; box-sizing: border-box; font-size: 16px; }
+.legacy-kindle .q-card:nth-child(odd) { margin-right: 12px; }
+.legacy-kindle .q-head svg { display: inline-block; vertical-align: middle; }
+.legacy-kindle .q-name { display: inline-block; vertical-align: middle; margin-left: 8px; }
+.legacy-kindle .q-label { overflow: hidden; color: #666; }
+.legacy-kindle .q-label .q-pct { float: right; color: #444; }
+.legacy-kindle .q-bar { background: #ddd; }
+.legacy-kindle .q-bar-fill { background: #333; }
+.legacy-kindle .q-refresh,
+.legacy-kindle .q-balance-sub { color: #999; }
+.legacy-kindle .footer { overflow: hidden; color: #666; }
+.legacy-kindle #dataStatus { float: right; }
 </style>
 </head>
 <body>
@@ -223,6 +252,6 @@ body {
 
 <script src="data.js"></script>
 <script src="live-endpoint.js"></script>
-<script src="dashboard-runtime.js?v=20260910"></script>
+<script src="dashboard-runtime.js?v=20260910b"></script>
 </body>
 </html>
