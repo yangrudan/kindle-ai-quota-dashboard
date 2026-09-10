@@ -2,10 +2,10 @@
 
 ```text
 本机采集器
-  ├─ DeepSeek：环境变量中的 API 密钥
-  ├─ Claude：可选读取本机 Claude Code 登录文件
-  ├─ Codex：可选启动本机 codex app-server
-  └─ Kimi：可选只读本机 Kimi Code 登录文件
+  ├─ GitHub Copilot：只读本机 Copilot CLI 用量缓存
+  ├─ OpenAI Codex：启动本机 codex app-server 查询额度
+  ├─ Xiaomi MiMo：读取本机 Token Plan 用量 JSON
+  └─ DeepSeek：使用环境变量中的 API 密钥查询余额
           │
           ▼
       state/data.json + state/data.js
@@ -20,7 +20,7 @@
 ## 设计原则
 
 - 采集与展示分离：页面永远只接触脱敏后的快照，不接触令牌。
-- 默认拒绝读取本机登录文件：Claude、Kimi 必须由用户双重显式开启。
+- 默认拒绝读取本机数据：Copilot 必须由用户显式允许读取缓存。
 - 单源失败隔离：一个服务失效时，其余卡片继续更新。
 - 最后成功值兜底：已启用的采集器临时失败时，保留上一次成功结果并标记“旧值”。
 - 真实运行数据不进入源码仓库：`state/`、`dist/` 和 `history/` 默认忽略。

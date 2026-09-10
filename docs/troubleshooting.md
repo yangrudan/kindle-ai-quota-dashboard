@@ -8,19 +8,18 @@
 
 说明这次采集失败，但程序保留了上一次成功结果。查看终端里的简短错误，先单独修复对应 CLI 的登录状态。
 
-## Claude 或 Kimi 显示未授权读取
+## GitHub Copilot 显示未授权读取
 
-这两个采集器默认不读取本机登录文件。确认理解风险后，同时设置：
+采集器默认不读取本机 Copilot 缓存。确认理解风险后设置：
 
 ```json
 {
   "enabled": true,
-  "experimental": true,
-  "allowLocalCredentialRead": true
+  "allowLocalCacheRead": true
 }
 ```
 
-不要把凭据复制进配置文件。
+缓存中只会提取额度字段，账号信息不会写入公开快照。Xiaomi MiMo 若未配置 `usageFile`，会保持“获取失败”，不会展示演示值。
 
 ## Kindle 在同一 Wi‑Fi 能开，换 Wi‑Fi 后打不开
 

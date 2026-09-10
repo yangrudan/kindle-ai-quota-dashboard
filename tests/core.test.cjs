@@ -27,27 +27,27 @@ test('demo snapshot passes the public schema', () => {
 test('last known good data is preserved only for enabled failing providers', () => {
   const previous = demoSnapshot();
   const next = demoSnapshot();
-  next.sources.claude = {
+  next.sources.copilot = {
     ok: false,
-    label: 'Claude',
+    label: 'GitHub Copilot',
     windows: [],
     fetchedAt: next.updatedAt,
     error: '临时失败',
   };
-  next.sources.kimi = {
+  next.sources.mimo = {
     ok: false,
-    label: 'Kimi',
+    label: 'Xiaomi MiMo',
     windows: [],
     fetchedAt: next.updatedAt,
     error: '未启用',
     disabled: true,
   };
   preserveLastKnownGood(next, previous);
-  assert.equal(next.sources.claude.ok, true);
-  assert.equal(next.sources.claude.stale, true);
-  assert.equal(next.sources.claude.error, '临时失败');
-  assert.equal(next.sources.kimi.ok, false);
-  assert.equal(next.sources.kimi.disabled, true);
+  assert.equal(next.sources.copilot.ok, true);
+  assert.equal(next.sources.copilot.stale, true);
+  assert.equal(next.sources.copilot.error, '临时失败');
+  assert.equal(next.sources.mimo.ok, false);
+  assert.equal(next.sources.mimo.disabled, true);
 });
 
 test('safeError removes obvious credential material', () => {
@@ -135,7 +135,7 @@ test('browser runtime restores a valid cache and rejects older replacement data'
   const storage = new Map();
   const fresh = demoSnapshot();
   runBrowserRuntime(fresh, storage);
-  const cacheKey = 'kindle_ai_quota_cache_v1';
+  const cacheKey = 'kindle_ai_quota_cache_v2';
   const cached = storage.get(cacheKey);
   assert.ok(cached, 'fresh data should be cached');
 

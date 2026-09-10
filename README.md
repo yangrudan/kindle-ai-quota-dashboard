@@ -1,6 +1,6 @@
 # Kindle AI 额度中控台
 
-把吃灰的 Kindle 变成 AI 额度监控屏。实时显示 Claude、Codex、Kimi、DeepSeek 的用量，外加天气和每日一语。
+把吃灰的 Kindle 变成 AI 额度监控屏。实时显示 GitHub Copilot、OpenAI Codex、Xiaomi MiMo、DeepSeek 的额度，外加天气和每日一语。
 
 **不需要同一个 WiFi。** 电脑和 Kindle 可以在不同的网络——数据通过 GitHub Pages 中转，只要两边都能上网就行。这是和 GitHub 上其他类似项目最大的区别：它们大多要求电脑和显示设备在同一个局域网里。
 
@@ -11,7 +11,7 @@
 ## 它能做什么？
 
 - **跨网络实时同步**——电脑在公司、Kindle 在家，额度照样更新
-- 实时监控多个 AI 平台的额度用量（支持 Claude / Codex / Kimi / DeepSeek，可自行增减）
+- 实时监控 GitHub Copilot / OpenAI Codex / Xiaomi MiMo / DeepSeek
 - 在 Kindle 墨水屏上全屏显示，放桌上一眼就能看到谁快没额度了
 - 自带天气显示、电池电量、每日一语
 - 夜间自动省电（03:00–08:00 停止刷新）
@@ -23,7 +23,7 @@
 - 一台 Kindle（越狱后体验最佳，也可以用自带浏览器先试试效果）
 - 一台常开的电脑（Windows / Mac / Linux，用来采集额度数据）
 - 一个 GitHub 账号（用于 GitHub Pages 数据中转）
-- 至少一个 AI Agent（Claude Code 或 Codex）来帮你完成配置
+- 至少一个 AI Agent 来帮你完成配置
 
 > 为什么需要 Agent？因为你既然用这个中控台来监控 AI 额度，说明你已经在用 AI 了。让它帮你配环境、改代码，比你自己照着文档折腾快十倍。
 
@@ -37,7 +37,7 @@
 
 ### 第二步：把仓库交给你的 Agent
 
-把仓库地址丢给你的 Claude Code 或 Codex，告诉它：
+把仓库地址交给你的 AI Agent，告诉它：
 
 > "我想用 Kindle 做一个 AI 额度中控台。这是开源项目的仓库，帮我看看怎么在我的电脑上跑起来。我用的 AI 平台是 ____（列出你在用的），我的 Kindle 型号是 ____，我的电脑是 Windows / Mac。"
 
@@ -62,7 +62,7 @@ Agent 会阅读仓库里的代码和文档，然后告诉你：
 
 ### 第四步：告诉 Agent 你的偏好
 
-- 你想监控哪几家 AI 的额度？（只用 Claude 一家也行）
+- 你要启用四个平台中的哪些真实数据源？
 - 每日一语想要什么风格？（古诗词 / 外国文学 / 励志 / 随机）
 - 前端想不想自己改？（颜色、布局、卡片顺序等都可以 DIY）
 
@@ -112,9 +112,9 @@ npm run serve
 
 | 数据源 | 数据来源 | 说明 |
 |--------|---------|------|
-| Claude | 本机 Claude Code 登录凭证 | 需要在配置中显式开启 |
-| Codex | 本机 Codex CLI | 需要在配置中显式开启 |
-| Kimi | 本机 Kimi Code 登录凭证 | 只读，不会刷新你的令牌 |
+| GitHub Copilot | 本机 Copilot CLI 缓存 | 只提取额度字段，不发布账号信息 |
+| OpenAI Codex | 本机 Codex CLI | 读取 5 小时和周额度窗口 |
+| Xiaomi MiMo | 本机 Token Plan 用量 JSON | 官方控制台用量需要先导出/接入 |
 | DeepSeek | 环境变量中的 API Key | 按量计费，显示余额 |
 
 详见 [系统架构](docs/architecture.md)。
@@ -173,8 +173,8 @@ npm run serve
 **Q: Kindle 费电吗？**
 比正常待机费一些（屏幕常亮 + 定时联网）。有夜间省电模式，03:00–08:00 自动停止刷新。
 
-**Q: 我只用 Claude 一家，也能用吗？**
-能。在 `config.json` 里只开启 Claude 即可；其他默认卡片会显示未启用。如果只想保留一张卡片，可以再调整 `web/index.html` 的布局。
+**Q: 某个平台还没配置，也能用吗？**
+能。未配置的卡片会明确显示获取失败，已配置的平台仍会正常更新。
 
 **Q: 天气需要单独买 API 吗？**
 不需要。可以用免费的公共天气 API，Agent 会帮你配好。

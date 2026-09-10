@@ -2,10 +2,10 @@
 
 const fs = require('node:fs');
 const path = require('node:path');
-const { collectClaude } = require('./collectors/claude.cjs');
+const { collectCopilot } = require('./collectors/copilot.cjs');
 const { collectCodex } = require('./collectors/codex.cjs');
 const { collectDeepSeek } = require('./collectors/deepseek.cjs');
-const { collectKimi } = require('./collectors/kimi.cjs');
+const { collectMimo } = require('./collectors/mimo.cjs');
 const { ROOT, loadConfig } = require('./lib/config.cjs');
 const {
   isoBeijing,
@@ -14,7 +14,7 @@ const {
   writeAtomic,
 } = require('./lib/common.cjs');
 
-const SOURCE_NAMES = ['claude', 'codex', 'kimi', 'deepseek'];
+const SOURCE_NAMES = ['copilot', 'codex', 'mimo', 'deepseek'];
 
 function readQuote(filePath) {
   if (!filePath) return null;
@@ -106,12 +106,11 @@ function demoSnapshot() {
       source: '开源演示',
     },
     sources: {
-      claude: {
+      copilot: {
         ok: true,
-        label: 'Claude',
+        label: 'GitHub Copilot',
         windows: [
-          { name: '5小时', usedPct: 23, resetAt: afterHours(3) },
-          { name: '7天', usedPct: 42, resetAt: afterHours(96) },
+          { name: '月度 AIC', usedPct: 55, resetAt: afterHours(240), detailText: '剩余 678 / 1500 AIC' },
         ],
         fetchedAt: now,
         error: null,
@@ -123,12 +122,11 @@ function demoSnapshot() {
         fetchedAt: now,
         error: null,
       },
-      kimi: {
+      mimo: {
         ok: true,
-        label: 'Kimi',
+        label: 'Xiaomi MiMo',
         windows: [
-          { name: '5小时', usedPct: 35, resetAt: afterHours(4) },
-          { name: '周', usedPct: 56, resetAt: afterHours(72) },
+          { name: 'Token Plan', usedPct: 35, resetAt: afterHours(72) },
         ],
         fetchedAt: now,
         error: null,
@@ -148,17 +146,17 @@ function demoSnapshot() {
 
 async function realSnapshot(config) {
   const providers = config.providers || {};
-  const [claude, codex, kimi, deepseek] = await Promise.all([
-    collectClaude(providers.claude),
+  const [copilot, codex, mimo, deepseek] = await Promise.all([
+    collectCopilot(providers.copilot),
     collectCodex(providers.codex),
-    collectKimi(providers.kimi),
+    collectMimo(providers.mimo),
     collectDeepSeek(providers.deepseek),
   ]);
   return {
     updatedAt: isoBeijing(),
     weather: readWeather(config.weatherFile),
     quote: readQuote(config.quoteFile),
-    sources: { claude, codex, kimi, deepseek },
+    sources: { copilot, codex, mimo, deepseek },
   };
 }
 
