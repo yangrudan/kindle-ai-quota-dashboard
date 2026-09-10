@@ -123,7 +123,7 @@ body {
 .data-alert.on { display: block; }
 .footer .warn { color: #000; font-weight: 700; }
 /* Kindle Mesquite/WebKit 533 fallback: no CSS variables, Grid, or Flexbox. */
-.legacy-kindle body { background: #fff; color: #000; display: block; }
+.legacy-kindle body { background: #fff; color: #000; display: block; -webkit-transform: scale(1.78); -webkit-transform-origin: 0 0; }
 .legacy-kindle .top-row { display: table; width: 100%; table-layout: fixed; }
 .legacy-kindle .datetime-card,
 .legacy-kindle .weather-card { display: table-cell; width: 50%; vertical-align: top; background: #f8f8f8; border: 1px solid #ccc; }
@@ -252,6 +252,6 @@ body {
 
 <script src="data.js"></script>
 <script src="live-endpoint.js"></script>
-<script src="dashboard-runtime.js?v=20260910b"></script>
+<script src="dashboard-runtime.js?v=20260910c"></script>
 </body>
 </html>
