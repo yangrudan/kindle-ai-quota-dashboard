@@ -1,18 +1,18 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-10T11:07:46.217+08:00",
+  "updatedAt": "2026-09-10T11:36:43.791+08:00",
   "weather": {
-    "ok": false,
-    "description": null,
-    "iconKey": null,
-    "tempC": null,
-    "feelsLikeC": null,
-    "humidity": null,
-    "windKph": null,
-    "windDir": null,
-    "place": null,
-    "observedAt": null,
-    "fetchedAt": "2026-09-10T11:07:46.217+08:00",
-    "error": "未配置天气文件"
+    "ok": true,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 26.4,
+    "feelsLikeC": 28,
+    "humidity": 53,
+    "windKph": 14.2,
+    "windDir": "北风",
+    "place": "杭州",
+    "observedAt": "2026-09-10T11:30:00.000+08:00",
+    "fetchedAt": "2026-09-10T11:36:43.791+08:00",
+    "error": null
   },
   "quote": null,
   "sources": {
@@ -27,7 +27,7 @@ window.DASH_DATA = {
           "detailText": "剩余 678 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-09-10T11:07:44.680+08:00",
+      "fetchedAt": "2026-09-10T11:36:42.806+08:00",
       "error": null
     },
     "codex": {
@@ -36,33 +36,35 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 47,
+          "usedPct": 84,
           "resetAt": "2026-09-10T14:52:27.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 37,
+          "usedPct": 42,
           "resetAt": "2026-09-15T13:41:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-10T11:07:44.680+08:00",
+      "fetchedAt": "2026-09-10T11:36:42.807+08:00",
       "error": null
     },
     "mimo": {
-      "ok": false,
+      "ok": true,
       "label": "Xiaomi MiMo",
-      "windows": [],
-      "fetchedAt": "2026-09-10T11:07:44.684+08:00",
-      "error": "尚未配置 MiMo Token Plan 用量文件"
+      "balance": 5.42,
+      "currency": "CNY",
+      "detail": "余额 ¥5.42",
+      "fetchedAt": "2026-09-10T11:36:42.810+08:00",
+      "error": null
     },
     "deepseek": {
-      "ok": false,
+      "ok": true,
       "label": "DeepSeek",
-      "balance": null,
+      "balance": 14.04,
       "currency": "CNY",
-      "detail": null,
-      "fetchedAt": "2026-09-10T11:07:44.684+08:00",
-      "error": "没有设置环境变量 DEEPSEEK_API_KEY"
+      "detail": "余额 ¥14.04",
+      "fetchedAt": "2026-09-10T11:36:42.810+08:00",
+      "error": null
     }
   }
 };

@@ -81,7 +81,7 @@
         typeof source.label !== 'string' || !validTime(source.fetchedAt, false)) return false;
     if (source.error != null && typeof source.error !== 'string') return false;
     if (source.stale != null && typeof source.stale !== 'boolean') return false;
-    if (name === 'deepseek') {
+    if (name === 'deepseek' || name === 'mimo') {
       return !source.ok || finiteNumber(source.balance);
     }
     if (!Array.isArray(source.windows)) return false;
@@ -383,14 +383,14 @@
     );
   }
 
-  function updateBalance(source) {
+  function updateBalance(source, balanceId, detailId) {
     if (source && source.ok && typeof source.balance === 'number') {
-      ui.text('deepSeekBalance', '¥ ' + Number(source.balance).toFixed(2));
-      ui.text('deepSeekDetail', source.stale ? '旧值 · 最近一次成功' : '实时余额 · 按量计费');
+      ui.text(balanceId, '¥ ' + Number(source.balance).toFixed(2));
+      ui.text(detailId, source.stale ? '旧值 · 最近一次成功' : '实时余额 · 按量计费');
       return;
     }
-    ui.text('deepSeekBalance', '¥ --');
-    ui.text('deepSeekDetail', '获取失败 · 等待下次采集');
+    ui.text(balanceId, '¥ --');
+    ui.text(detailId, '获取失败 · 等待下次采集');
   }
 
   function updateQuote(quote) {
@@ -414,8 +414,8 @@
       updateWeather(data.weather);
       updateQuotaCard('cardCopilot', data.sources.copilot);
       updateQuotaCard('cardCodex', data.sources.codex);
-      updateQuotaCard('cardMimo', data.sources.mimo);
-      updateBalance(data.sources.deepseek);
+      updateBalance(data.sources.mimo, 'mimoBalance', 'mimoDetail');
+      updateBalance(data.sources.deepseek, 'deepSeekBalance', 'deepSeekDetail');
       updateQuote(data.quote);
       relativeNode = ui.find('relTime');
       if (relativeNode) ui.attribute(relativeNode, 'data-ts', data.updatedAt);
