@@ -6,7 +6,7 @@
     endpointPointer: 'live-endpoint.js',
     pollEvery: 3 * 60 * 1000,
     pollOffset: 5000,
-    cacheKey: 'kindle_ai_quota_cache_v1',
+    cacheKey: 'kindle_ai_quota_cache_v2',
     maxCacheAge: 30 * 60 * 1000,
     quietStart: 3,
     quietEnd: 8
@@ -18,7 +18,7 @@
     usingCache: false,
     requestId: 0
   };
-  var sourceNames = ['claude', 'codex', 'kimi', 'deepseek'];
+  var sourceNames = ['copilot', 'codex', 'mimo', 'deepseek'];
   var weekdays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
 
   var ui = {
@@ -114,7 +114,7 @@
       raw = win.localStorage && win.localStorage.getItem(settings.cacheKey);
       if (!raw) return null;
       parsed = JSON.parse(raw);
-      if (!parsed || parsed.version !== 1 || !validPayload(parsed.payload)) return null;
+      if (!parsed || parsed.version !== 2 || !validPayload(parsed.payload)) return null;
       if (Date.now() - timestamp(parsed.payload.updatedAt) > settings.maxCacheAge) {
         win.localStorage.removeItem(settings.cacheKey);
         return null;
@@ -132,7 +132,7 @@
     if (cached && timestamp(data.updatedAt) < timestamp(cached.updatedAt)) return false;
     try {
       if (win.localStorage) {
-        win.localStorage.setItem(settings.cacheKey, JSON.stringify({ version: 1, payload: data }));
+        win.localStorage.setItem(settings.cacheKey, JSON.stringify({ version: 2, payload: data }));
       }
     } catch (error) {}
     return true;
@@ -317,7 +317,7 @@
     for (index = 0; index < rows.length; index += 1) {
       var quotaWindow;
       var labels;
-      var percentage;
+      var remainingPct;
       if (index >= windows.length) {
         ui.style(rows[index], 'display', 'none');
         continue;
@@ -332,17 +332,17 @@
           labels[1],
           quotaWindow.displayValue != null
             ? String(quotaWindow.displayValue)
-            : Math.round(Number(quotaWindow.usedPct) || 0) + '%'
+            : Math.round(100 - (Number(quotaWindow.usedPct) || 0)) + '% 剩余'
         );
       }
 
-      percentage = quotaWindow.barPct != null
+      remainingPct = quotaWindow.barPct != null
         ? quotaWindow.barPct
-        : quotaWindow.usedPct;
+        : 100 - quotaWindow.usedPct;
       ui.style(
         rows[index].querySelector('.q-bar-fill'),
         'width',
-        Math.max(0, Math.min(100, Number(percentage) || 0)) + '%'
+        Math.max(0, Math.min(100, Number(remainingPct) || 0)) + '%'
       );
       ui.textNode(
         rows[index].querySelector('.q-refresh'),
@@ -412,9 +412,9 @@
     if (data.updatedAt !== state.renderedAt) {
       state.renderedAt = data.updatedAt;
       updateWeather(data.weather);
-      updateQuotaCard('cardClaude', data.sources.claude);
+      updateQuotaCard('cardCopilot', data.sources.copilot);
       updateQuotaCard('cardCodex', data.sources.codex);
-      updateQuotaCard('cardKimi', data.sources.kimi);
+      updateQuotaCard('cardMimo', data.sources.mimo);
       updateBalance(data.sources.deepseek);
       updateQuote(data.quote);
       relativeNode = ui.find('relTime');
