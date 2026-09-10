@@ -20,6 +20,11 @@
   };
   var sourceNames = ['copilot', 'codex', 'mimo', 'deepseek'];
   var weekdays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+  var hangzhouOffsetMs = 8 * 60 * 60 * 1000;
+
+  function hangzhouDate(value) {
+    return new Date(value.getTime() + hangzhouOffsetMs);
+  }
 
   var ui = {
     find: function (id) {
@@ -139,13 +144,13 @@
   }
 
   function clockText(value) {
-    var date = new Date(value);
+    var date = hangzhouDate(new Date(value));
     if (isNaN(date.getTime())) return '--:--';
-    return twoDigits(date.getHours()) + ':' + twoDigits(date.getMinutes());
+    return twoDigits(date.getUTCHours()) + ':' + twoDigits(date.getUTCMinutes());
   }
 
   function isQuiet(date) {
-    var hour = (date || new Date()).getHours();
+    var hour = hangzhouDate(date || new Date()).getUTCHours();
     return hour >= settings.quietStart && hour < settings.quietEnd;
   }
 
@@ -215,10 +220,10 @@
   }
 
   function updateClock() {
-    var now = new Date();
-    ui.text('dtTime', twoDigits(now.getHours()) + ':' + twoDigits(now.getMinutes()));
-    ui.text('dtDate', now.getFullYear() + '年' + (now.getMonth() + 1) + '月' + now.getDate() + '日');
-    ui.text('dtWeek', weekdays[now.getDay()]);
+    var now = hangzhouDate(new Date());
+    ui.text('dtTime', twoDigits(now.getUTCHours()) + ':' + twoDigits(now.getUTCMinutes()));
+    ui.text('dtDate', now.getUTCFullYear() + '年' + (now.getUTCMonth() + 1) + '月' + now.getUTCDate() + '日');
+    ui.text('dtWeek', weekdays[now.getUTCDay()]);
     updateFreshness();
   }
 
