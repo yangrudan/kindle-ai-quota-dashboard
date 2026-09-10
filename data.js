@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-10T22:10:05.575+08:00",
+  "updatedAt": "2026-09-10T22:20:08.353+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.6,
+    "tempC": 22.5,
     "feelsLikeC": 22.5,
-    "humidity": 65,
-    "windKph": 13.9,
+    "humidity": 66,
+    "windKph": 13.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-09-10T22:00:00.000+08:00",
-    "fetchedAt": "2026-09-10T22:10:05.575+08:00",
+    "observedAt": "2026-09-10T22:15:00.000+08:00",
+    "fetchedAt": "2026-09-10T22:20:08.353+08:00",
     "error": null
   },
   "quote": null,
@@ -27,7 +27,7 @@ window.DASH_DATA = {
           "detailText": "剩余 678 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-09-10T22:10:04.608+08:00",
+      "fetchedAt": "2026-09-10T22:20:03.137+08:00",
       "error": null
     },
     "codex": {
@@ -46,7 +46,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-10T22:10:04.609+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-09-10T22:20:03.138+08:00"
     },
     "mimo": {
       "ok": true,
@@ -54,7 +56,7 @@ window.DASH_DATA = {
       "balance": 5.42,
       "currency": "CNY",
       "detail": "余额 ¥5.42",
-      "fetchedAt": "2026-09-10T22:10:04.612+08:00",
+      "fetchedAt": "2026-09-10T22:20:03.141+08:00",
       "error": null
     },
     "deepseek": {
@@ -66,7 +68,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-10T16:37:57.203+08:00",
       "error": "没有设置环境变量 DEEPSEEK_API_KEY",
       "stale": true,
-      "lastAttemptAt": "2026-09-10T22:10:04.612+08:00"
+      "lastAttemptAt": "2026-09-10T22:20:03.141+08:00"
     }
   }
 };
