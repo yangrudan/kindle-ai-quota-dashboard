@@ -114,7 +114,7 @@ npm run serve
 |--------|---------|------|
 | GitHub Copilot | 本机 Copilot CLI 缓存 | 只提取额度字段，不发布账号信息 |
 | OpenAI Codex | 本机 Codex CLI | 读取 5 小时和周额度窗口 |
-| Xiaomi MiMo | 本机 Token Plan 用量 JSON | 官方控制台用量需要先导出/接入 |
+| Xiaomi MiMo | 已登录控制台的账户余额 | 普通 API Key 不能查询充值余额 |
 | DeepSeek | 环境变量中的 API Key | 按量计费，显示余额 |
 
 详见 [系统架构](docs/architecture.md)。

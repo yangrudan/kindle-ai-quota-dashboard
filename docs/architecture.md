@@ -4,7 +4,7 @@
 本机采集器
   ├─ GitHub Copilot：只读本机 Copilot CLI 用量缓存
   ├─ OpenAI Codex：启动本机 codex app-server 查询额度
-  ├─ Xiaomi MiMo：读取本机 Token Plan 用量 JSON
+  ├─ Xiaomi MiMo：读取已登录控制台导出的账户余额
   └─ DeepSeek：使用环境变量中的 API 密钥查询余额
           │
           ▼

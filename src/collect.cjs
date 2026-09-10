@@ -125,9 +125,9 @@ function demoSnapshot() {
       mimo: {
         ok: true,
         label: 'Xiaomi MiMo',
-        windows: [
-          { name: 'Token Plan', usedPct: 35, resetAt: afterHours(72) },
-        ],
+        balance: 20,
+        currency: 'CNY',
+        detail: '余额 ¥20.00',
         fetchedAt: now,
         error: null,
       },
@@ -196,7 +196,7 @@ function validateSnapshot(snapshot) {
     if (!source || typeof source.ok !== 'boolean' || typeof source.label !== 'string') {
       throw new Error(`${name} 字段不完整`);
     }
-    if (name === 'deepseek') {
+    if (name === 'deepseek' || name === 'mimo') {
       if (!Object.prototype.hasOwnProperty.call(source, 'balance')) {
         throw new Error('deepseek 缺少 balance');
       }

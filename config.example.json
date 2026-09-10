@@ -20,7 +20,7 @@
     },
     "mimo": {
       "enabled": false,
-      "usageFile": ""
+      "balanceFile": ""
     }
   }
 }
