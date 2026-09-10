@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-10T22:20:08.353+08:00",
+  "updatedAt": "2026-09-10T22:30:04.299+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.5,
-    "feelsLikeC": 22.5,
-    "humidity": 66,
-    "windKph": 13.6,
+    "tempC": 22.4,
+    "feelsLikeC": 22.6,
+    "humidity": 67,
+    "windKph": 12.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-09-10T22:15:00.000+08:00",
-    "fetchedAt": "2026-09-10T22:20:08.353+08:00",
+    "observedAt": "2026-09-10T22:30:00.000+08:00",
+    "fetchedAt": "2026-09-10T22:30:04.300+08:00",
     "error": null
   },
   "quote": null,
@@ -27,7 +27,7 @@ window.DASH_DATA = {
           "detailText": "剩余 678 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-09-10T22:20:03.137+08:00",
+      "fetchedAt": "2026-09-10T22:30:03.159+08:00",
       "error": null
     },
     "codex": {
@@ -36,19 +36,17 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-09-11T03:10:05.000+08:00"
+          "usedPct": 7,
+          "resetAt": "2026-09-11T03:22:17.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 57,
+          "usedPct": 58,
           "resetAt": "2026-09-15T13:41:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-10T22:10:04.609+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-09-10T22:20:03.138+08:00"
+      "fetchedAt": "2026-09-10T22:30:03.160+08:00",
+      "error": null
     },
     "mimo": {
       "ok": true,
@@ -56,7 +54,7 @@ window.DASH_DATA = {
       "balance": 5.42,
       "currency": "CNY",
       "detail": "余额 ¥5.42",
-      "fetchedAt": "2026-09-10T22:20:03.141+08:00",
+      "fetchedAt": "2026-09-10T22:30:03.163+08:00",
       "error": null
     },
     "deepseek": {
@@ -68,7 +66,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-10T16:37:57.203+08:00",
       "error": "没有设置环境变量 DEEPSEEK_API_KEY",
       "stale": true,
-      "lastAttemptAt": "2026-09-10T22:20:03.141+08:00"
+      "lastAttemptAt": "2026-09-10T22:30:03.163+08:00"
     }
   }
 };
