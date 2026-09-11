@@ -1,20 +1,23 @@
 {
-  "updatedAt": "2026-09-11T14:10:05.035+08:00",
+  "updatedAt": "2026-09-11T14:15:24.119+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.4,
-    "feelsLikeC": 28.4,
-    "humidity": 64,
-    "windKph": 8.9,
+    "tempC": 26.5,
+    "feelsLikeC": 28.5,
+    "humidity": 63,
+    "windKph": 8.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-09-11T14:00:00.000+08:00",
-    "fetchedAt": "2026-09-11T14:10:05.035+08:00",
+    "observedAt": "2026-09-11T14:15:00.000+08:00",
+    "fetchedAt": "2026-09-11T14:15:24.119+08:00",
     "error": null
   },
-  "quote": null,
+  "quote": {
+    "text": "名不正，则言不顺；言不顺，则事不成。",
+    "source": "《论语·子路》"
+  },
   "sources": {
     "copilot": {
       "ok": true,
@@ -27,7 +30,7 @@
           "detailText": "剩余 678 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:03.193+08:00",
+      "fetchedAt": "2026-09-11T14:15:22.615+08:00",
       "error": null
     },
     "codex": {
@@ -36,16 +39,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
+          "usedPct": 27,
           "resetAt": "2026-09-11T19:07:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 75,
+          "usedPct": 77,
           "resetAt": "2026-09-15T13:41:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:03.194+08:00",
+      "fetchedAt": "2026-09-11T14:15:22.616+08:00",
       "error": null
     },
     "mimo": {
@@ -54,7 +57,7 @@
       "balance": 5.42,
       "currency": "CNY",
       "detail": "余额 ¥5.42",
-      "fetchedAt": "2026-09-11T14:10:03.197+08:00",
+      "fetchedAt": "2026-09-11T14:15:22.619+08:00",
       "error": null
     },
     "deepseek": {
@@ -63,7 +66,7 @@
       "balance": 31.66,
       "currency": "CNY",
       "detail": "余额 ¥31.66",
-      "fetchedAt": "2026-09-11T14:10:03.197+08:00",
+      "fetchedAt": "2026-09-11T14:15:22.619+08:00",
       "error": null
     }
   }
