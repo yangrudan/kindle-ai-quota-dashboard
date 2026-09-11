@@ -127,9 +127,17 @@ npm run serve
 
 ## 每日一语
 
-`examples/quote.example.json` 是模板，复制到 `config/` 后可以：
+仓库自带 [`content/quotes-365.json`](content/quotes-365.json)，收录 365 条不重复的公版经典语录，来源包括《论语》《诗经》《资治通鉴》《孟子》《史记》《红楼梦》《三国演义》《水浒传》和《幽梦影》。
 
-- 让你的 Agent 每天自动选一句推送（我们就是这么干的）
+采集器按照 `Asia/Shanghai` 的本地日期每天选择一条；连续 365 天不会重复，闰日也会正常前进。选择过程完全在电脑本地完成，不调用 AI 或第三方语录接口。把配置设为：
+
+```json
+"quoteFile": "content/quotes-365.json"
+```
+
+`examples/quote.example.json` 仍可作为单条自定义语录模板，复制到 `config/` 后可以：
+
+- 让你的 Agent 生成或维护自己的语录库
 - 自己手动改
 - 写一个定时脚本调用任意 AI 生成
 

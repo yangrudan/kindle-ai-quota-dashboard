@@ -15,15 +15,30 @@ const {
 } = require('./lib/common.cjs');
 
 const SOURCE_NAMES = ['copilot', 'codex', 'mimo', 'deepseek'];
+const DAY_MS = 24 * 60 * 60 * 1000;
+const BEIJING_OFFSET_MS = 8 * 60 * 60 * 1000;
 
-function readQuote(filePath) {
+function beijingDayNumber(value = new Date()) {
+  const date = value instanceof Date ? value : new Date(value);
+  if (!Number.isFinite(date.getTime())) throw new Error('无效的语录轮换日期');
+  return Math.floor((date.getTime() + BEIJING_OFFSET_MS) / DAY_MS);
+}
+
+function readQuote(filePath, value = new Date()) {
   if (!filePath) return null;
   try {
-    const value = readJson(filePath);
-    if (!value || !value.text) return null;
+    const payload = readJson(filePath);
+    const collection = Array.isArray(payload)
+      ? payload
+      : payload && Array.isArray(payload.quotes) ? payload.quotes : null;
+    if (collection && collection.length === 0) return null;
+    const selected = collection
+      ? collection[((beijingDayNumber(value) % collection.length) + collection.length) % collection.length]
+      : payload;
+    if (!selected || !selected.text) return null;
     return {
-      text: String(value.text).slice(0, 180),
-      source: String(value.source || '').slice(0, 80),
+      text: String(selected.text).slice(0, 180),
+      source: String(selected.source || '').slice(0, 80),
     };
   } catch {
     return null;
@@ -246,6 +261,7 @@ if (require.main === module) {
 }
 
 module.exports = {
+  beijingDayNumber,
   demoSnapshot,
   preserveLastKnownGood,
   readQuote,

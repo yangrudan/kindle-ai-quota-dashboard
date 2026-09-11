@@ -1,7 +1,7 @@
 {
   "outputDir": "state",
   "keepLocalHistory": false,
-  "quoteFile": "config/quote.json",
+  "quoteFile": "content/quotes-365.json",
   "weatherFile": "",
   "providers": {
     "deepseek": {

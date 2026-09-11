@@ -8,8 +8,10 @@ const vm = require('node:vm');
 const { spawnSync } = require('node:child_process');
 const test = require('node:test');
 const {
+  beijingDayNumber,
   demoSnapshot,
   preserveLastKnownGood,
+  readQuote,
   validateSnapshot,
   writeSnapshot,
 } = require('../src/collect.cjs');
@@ -22,6 +24,26 @@ test('demo snapshot passes the public schema', () => {
   assert.doesNotThrow(() => validateSnapshot(snapshot));
   assert.equal(snapshot.weather.place, '示例城市');
   assert.equal(snapshot.sources.deepseek.balance, 12.34);
+});
+
+test('365 local quotes rotate once per Beijing calendar day', () => {
+  const filePath = path.join(ROOT, 'content', 'quotes-365.json');
+  const payload = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  assert.equal(payload.quotes.length, 365);
+  assert.equal(new Set(payload.quotes.map((item) => item.text)).size, 365);
+  assert.ok(payload.quotes.every((item) => item.text && item.source));
+
+  const first = readQuote(filePath, '2026-09-11T00:01:00+08:00');
+  const sameDay = readQuote(filePath, '2026-09-11T23:59:00+08:00');
+  const nextDay = readQuote(filePath, '2026-09-12T00:01:00+08:00');
+  const nextCycle = readQuote(filePath, '2027-09-11T00:01:00+08:00');
+  assert.deepEqual(sameDay, first);
+  assert.notDeepEqual(nextDay, first);
+  assert.deepEqual(nextCycle, first);
+  assert.equal(
+    beijingDayNumber('2026-09-10T16:01:00Z'),
+    beijingDayNumber('2026-09-11T00:01:00+08:00'),
+  );
 });
 
 test('last known good data is preserved only for enabled failing providers', () => {

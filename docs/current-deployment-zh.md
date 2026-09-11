@@ -93,6 +93,10 @@ API Key 通过环境变量 `DEEPSEEK_API_KEY` 传入。密钥存放在仓库外�
 
 `scripts/collect-weather.cjs` 使用 Open-Meteo，坐标为杭州，时区固定为 `Asia/Shanghai`。天气先写入 `config/weather.json`，再由总采集器合并进公开快照。
 
+### 每日一语
+
+`content/quotes-365.json` 内置 365 条不重复的公版经典语录。采集器按杭州日期计算连续日序号并选取当天条目，所以跨越闰日也不会连续重复；整套轮换每 365 天循环一次，不需要联网请求语录服务。
+
 ## 4. 快照、失败隔离与前端刷新
 
 `src/collect.cjs` 并行运行四个 AI 数据采集器，生成：
