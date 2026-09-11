@@ -195,6 +195,7 @@ npm run check
 
 ## 更多文档
 
+- [当前部署架构与实施记录](docs/current-deployment-zh.md)
 - [系统架构](docs/architecture.md)
 - [隐私说明](docs/privacy.md)
 - [Kindle 兼容性与恢复](docs/compatibility.md)
