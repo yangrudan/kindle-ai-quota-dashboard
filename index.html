@@ -123,7 +123,7 @@ body {
 .data-alert.on { display: block; }
 .footer .warn { color: #000; font-weight: 700; }
 /* Kindle Mesquite/WebKit 533 fallback: no CSS variables, Grid, or Flexbox. */
-.legacy-kindle body { background: #fff; color: #000; display: block; -webkit-transform: scale(1.78); -webkit-transform-origin: 0 0; }
+.legacy-kindle body { width: 1072px; height: 1424px; padding: 43px 43px 28px; background: #fff; color: #000; display: block; -webkit-box-sizing: border-box; box-sizing: border-box; }
 .legacy-kindle .top-row { display: table; width: 100%; table-layout: fixed; }
 .legacy-kindle .datetime-card,
 .legacy-kindle .weather-card { display: table-cell; width: 50%; vertical-align: top; background: #f8f8f8; border: 1px solid #ccc; }
@@ -150,6 +150,34 @@ body {
 .legacy-kindle .q-balance-sub { color: #999; }
 .legacy-kindle .footer { overflow: hidden; color: #666; }
 .legacy-kindle #dataStatus { float: right; }
+.legacy-kindle .top-row { margin-bottom: 36px; }
+.legacy-kindle .datetime-card, .legacy-kindle .weather-card { padding: 25px 28px; }
+.legacy-kindle .dt-time, .legacy-kindle .w-temp { font-size: 71px; }
+.legacy-kindle .dt-meta { margin-top: 14px; }
+.legacy-kindle .dt-date { font-size: 27px; }
+.legacy-kindle .dt-week { font-size: 25px; }
+.legacy-kindle .dt-battery { display: none; }
+.legacy-kindle .w-icon svg { width: 53px; height: 53px; }
+.legacy-kindle .w-detail { font-size: 23px; line-height: 1.7; }
+.legacy-kindle .quote { padding: 29px 43px; margin-bottom: 36px; }
+.legacy-kindle .quote-text { font-size: 34px; }
+.legacy-kindle .quote-src { font-size: 21px; }
+.legacy-kindle .quote::before, .legacy-kindle .quote::after { font-size: 50px; }
+.legacy-kindle .data-alert { margin: -18px 0 21px; padding: 11px 18px; border-width: 3px; font-size: 23px; }
+.legacy-kindle .q-card { width: 474px; height: 380px; margin-bottom: 21px; padding: 21px 25px; font-size: 28px; }
+.legacy-kindle .q-card:nth-child(odd) { margin-right: 21px; }
+.legacy-kindle .q-head { margin-bottom: 18px; }
+.legacy-kindle .q-head svg { width: 36px; height: 36px; }
+.legacy-kindle .q-name { margin-left: 14px; font-size: 30px; }
+.legacy-kindle .q-row { margin-bottom: 14px; }
+.legacy-kindle .q-label { margin-bottom: 5px; font-size: 20px; }
+.legacy-kindle .q-label .q-pct { font-size: 23px; }
+.legacy-kindle .q-bar { height: 14px; }
+.legacy-kindle .q-refresh { margin-top: 4px; font-size: 20px; }
+.legacy-kindle .q-balance { margin: 11px 0 7px; font-size: 43px; }
+.legacy-kindle .q-balance-unit { font-size: 21px; }
+.legacy-kindle .q-balance-sub { font-size: 20px; }
+.legacy-kindle .footer { margin-top: 8px; padding-top: 14px; font-size: 20px; }
 </style>
 </head>
 <body>
@@ -252,6 +280,6 @@ body {
 
 <script src="data.js"></script>
 <script src="live-endpoint.js"></script>
-<script src="dashboard-runtime.js?v=20260910c"></script>
+<script src="dashboard-runtime.js?v=20260911a"></script>
 </body>
 </html>
