@@ -1,22 +1,22 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-12T23:50:05.880+08:00",
+  "updatedAt": "2026-09-13T00:00:05.754+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 23.2,
-    "feelsLikeC": 26,
+    "feelsLikeC": 26.1,
     "humidity": 79,
-    "windKph": 5.4,
+    "windKph": 4.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-09-12T23:45:00.000+08:00",
-    "fetchedAt": "2026-09-12T23:50:05.880+08:00",
+    "observedAt": "2026-09-13T00:00:00.000+08:00",
+    "fetchedAt": "2026-09-13T00:00:05.754+08:00",
     "error": null
   },
   "quote": {
-    "text": "非信无以使民，非民无以守国。",
-    "source": "《资治通鉴·周纪·周纪二》"
+    "text": "桃之夭夭，灼灼其华。之子于归，宜其室家。",
+    "source": "《诗经·周南·桃夭》"
   },
   "sources": {
     "copilot": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "剩余 678 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-09-12T23:50:03.701+08:00",
+      "fetchedAt": "2026-09-13T00:00:03.527+08:00",
       "error": null
     },
     "codex": {
@@ -40,15 +40,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-13T04:50:05.000+08:00"
+          "resetAt": "2026-09-13T05:00:04.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-09-19T23:50:05.000+08:00"
+          "resetAt": "2026-09-20T00:00:04.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-12T23:50:03.702+08:00",
+      "fetchedAt": "2026-09-13T00:00:03.527+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "balance": 5.42,
       "currency": "CNY",
       "detail": "余额 ¥5.42",
-      "fetchedAt": "2026-09-12T23:50:03.705+08:00",
+      "fetchedAt": "2026-09-13T00:00:03.530+08:00",
       "error": null
     },
     "deepseek": {
@@ -66,7 +66,7 @@ window.DASH_DATA = {
       "balance": 29.01,
       "currency": "CNY",
       "detail": "余额 ¥29.01",
-      "fetchedAt": "2026-09-12T23:50:03.705+08:00",
+      "fetchedAt": "2026-09-13T00:00:03.530+08:00",
       "error": null
     }
   }
