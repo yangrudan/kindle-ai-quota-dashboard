@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-13T19:10:04.460+08:00",
+  "updatedAt": "2026-09-13T19:20:06.188+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 28,
-    "feelsLikeC": 30.4,
-    "humidity": 57,
-    "windKph": 5.6,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 27.9,
+    "feelsLikeC": 30.2,
+    "humidity": 58,
+    "windKph": 5.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-09-13T19:00:00.000+08:00",
-    "fetchedAt": "2026-09-13T19:10:04.460+08:00",
+    "observedAt": "2026-09-13T19:15:00.000+08:00",
+    "fetchedAt": "2026-09-13T19:20:06.188+08:00",
     "error": null
   },
   "quote": {
@@ -27,10 +27,10 @@
           "name": "月度 AIC",
           "usedPct": 100,
           "resetAt": "2026-10-01T08:00:00.000+08:00",
-          "detailText": "剩余 -41 / 1500 AIC"
+          "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-13T19:10:03.012+08:00",
+      "fetchedAt": "2026-09-13T19:20:04.685+08:00",
       "error": null
     },
     "codex": {
@@ -39,16 +39,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
+          "usedPct": 19,
           "resetAt": "2026-09-13T23:57:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-09-20T18:57:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-13T19:10:03.012+08:00",
+      "fetchedAt": "2026-09-13T19:20:04.938+08:00",
       "error": null
     },
     "mimo": {
@@ -57,8 +57,9 @@
       "balance": 5.42,
       "currency": "CNY",
       "detail": "余额 ¥5.42",
-      "fetchedAt": "2026-09-13T19:10:03.016+08:00",
-      "error": null
+      "fetchedAt": "2026-09-10T11:36:18.002+08:00",
+      "stale": true,
+      "error": "MiMo 控制台余额快照已过期"
     },
     "deepseek": {
       "ok": true,
@@ -66,7 +67,7 @@
       "balance": 29.01,
       "currency": "CNY",
       "detail": "余额 ¥29.01",
-      "fetchedAt": "2026-09-13T19:10:03.016+08:00",
+      "fetchedAt": "2026-09-13T19:20:04.948+08:00",
       "error": null
     }
   }
