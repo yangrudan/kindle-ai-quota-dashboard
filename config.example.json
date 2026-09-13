@@ -10,6 +10,8 @@
     },
     "copilot": {
       "enabled": false,
+      "cloudQuery": true,
+      "ghExecutableEnv": "GH_CLI_PATH",
       "allowLocalCacheRead": false,
       "cacheFile": "~/.cache/copilot/copilot-user-cache.json"
     },
@@ -20,7 +22,8 @@
     },
     "mimo": {
       "enabled": false,
-      "balanceFile": ""
+      "balanceFile": "",
+      "staleAfterMinutes": 30
     }
   }
 }

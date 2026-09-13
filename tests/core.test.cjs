@@ -17,6 +17,9 @@ const {
 } = require('../src/collect.cjs');
 const { safeError } = require('../src/lib/common.cjs');
 const { ROOT, validateConfig } = require('../src/lib/config.cjs');
+const { copilotSource } = require('../src/collectors/copilot.cjs');
+const { collectMimo } = require('../src/collectors/mimo.cjs');
+const { apiPayload } = require('../scripts/collect-mimo-balance.cjs');
 const { collectProblems } = require('../scripts/check-public.cjs');
 
 test('demo snapshot passes the public schema', () => {
@@ -195,6 +198,60 @@ test('public checker skips ignored files on Windows paths but rejects exposed da
       collectProblems(dir).some((problem) => problem.includes('credentials.txt')),
       'unignored secrets should still be rejected',
     );
+  } finally {
+    fs.rmSync(dir, { recursive: true, force: true });
+  }
+});
+
+test('Copilot cloud quota reports overage without negative remaining credit', () => {
+  const source = copilotSource({
+    quota_reset_date_utc: '2026-10-01T00:00:00Z',
+    quota_snapshots: {
+      premium_interactions: {
+        entitlement: 1500,
+        quota_remaining: -40.7,
+        percent_remaining: 0,
+        overage_count: 40,
+        overage_entitlement: 100,
+        timestamp_utc: '2026-09-13T11:00:02.968Z',
+      },
+    },
+  });
+  assert.equal(source.windows[0].usedPct, 100);
+  assert.match(source.windows[0].detailText, /超额 41 \/ 100 AIC/);
+  assert.equal(source.fetchedAt, '2026-09-13T19:00:02.968+08:00');
+});
+
+test('MiMo snapshot exposes its real observation time and stale state', async () => {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'kindle-mimo-test-'));
+  const filePath = path.join(dir, 'balance.json');
+  try {
+    fs.writeFileSync(filePath, JSON.stringify({
+      balance: 7.25,
+      currency: 'CNY',
+      fetchedAt: '2020-01-01T00:00:00+08:00',
+    }));
+    const source = await collectMimo({
+      enabled: true,
+      balanceFile: filePath,
+      staleAfterMinutes: 30,
+    });
+    assert.equal(source.balance, 7.25);
+    assert.equal(source.fetchedAt, '2020-01-01T00:00:00.000+08:00');
+    assert.equal(source.stale, true);
+    assert.match(source.error, /快照已过期/);
+
+    const payload = apiPayload({
+      status: 200,
+      contentType: 'application/json; charset=utf-8',
+      text: '{"data":{"balance":6.5,"currency":"CNY"}}',
+    });
+    assert.equal(payload.data.balance, 6.5);
+    assert.throws(() => apiPayload({
+      status: 200,
+      contentType: 'text/html',
+      text: '<html>login</html>',
+    }), /登录已过期/);
   } finally {
     fs.rmSync(dir, { recursive: true, force: true });
   }

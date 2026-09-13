@@ -112,12 +112,26 @@ npm run serve
 
 | 数据源 | 数据来源 | 说明 |
 |--------|---------|------|
-| GitHub Copilot | 本机 Copilot CLI 缓存 | 只提取额度字段，不发布账号信息 |
+| GitHub Copilot | GitHub 云端额度接口 | 通过本机 `gh` 登录只读查询；CLI 缓存仅作兜底 |
 | OpenAI Codex | 本机 Codex CLI | 读取 5 小时和周额度窗口 |
-| Xiaomi MiMo | 已登录控制台的账户余额 | 普通 API Key 不能查询充值余额 |
+| Xiaomi MiMo | 已登录控制台的账户余额 | 独立 Chrome 会话定时刷新；普通 API Key 不能查询余额 |
 | DeepSeek | 环境变量中的 API Key | 按量计费，显示余额 |
 
 详见 [系统架构](docs/architecture.md)。
+MiMo 自动余额需要在发布电脑上建立一次独立控制台会话：
+
+```bash
+npm run mimo:login
+```
+
+在打开的官方窗口中登录并看到余额后，关闭整个窗口，然后验证：
+
+```bash
+npm run mimo:collect
+```
+
+登录 Cookie 保存在仓库外的私有 Chrome 配置目录，公开快照只包含余额和采集时间。发布任务应在 `npm run collect` 前执行 `npm run mimo:collect`；如果登录过期，其他数据源仍会继续发布，MiMo 会明确显示为旧值。
+
 
 ## 天气
 

@@ -45,13 +45,13 @@
 
 ### GitHub Copilot
 
-采集器读取本机 Copilot CLI 缓存：
+采集器优先通过本机已登录的 `gh` 执行 `gh api /copilot_internal/user`，直接读取 GitHub 云端额度，因此其他电脑产生的消耗也会在下一次采集中反映。云端查询失败时才读取本机 Copilot CLI 缓存：
 
 ```text
 ~/.cache/copilot/copilot-user-cache.json
 ```
 
-它只提取 `premium_interactions` 的月度 AIC 总额、剩余量、剩余百分比和重置时间。配置必须显式设置 `allowLocalCacheRead: true`，防止项目默认读取本机缓存。
+它只提取 `premium_interactions` 的月度 AIC 总额、剩余量、超额用量、剩余百分比和重置时间。缓存兜底必须显式设置 `allowLocalCacheRead: true`；使用缓存时沿用上游原始时间并标记“旧值”，不再把反复读取旧文件伪装成实时采集。
 
 ### OpenAI Codex
 
@@ -65,13 +65,13 @@ codex app-server --listen stdio://
 
 ### Xiaomi MiMo
 
-MiMo 的普通 API Key 可以调用模型，但不能查询充值账户余额。当前方案曾使用隔离的临时 Chrome 配置登录 MiMo 控制台，通过已登录会话读取 `/api/v1/balance`，只把余额和币种写入本地忽略文件：
+MiMo 的普通 API Key 可以调用模型，但不能查询充值账户余额。当前方案使用仓库外、权限受限的专用 Chrome 配置保存官方控制台登录会话；`scripts/collect-mimo-balance.cjs` 以无头 Chrome 打开同源页面并读取 `/api/v1/balance`，只把余额、币种和真实采集时间写入本地忽略文件：
 
 ```text
 config/mimo-balance.json
 ```
 
-临时浏览器配置、Cookie、控制台响应和辅助脚本在取值后已经清理。当前 cron 只会重新读取这个本地余额文件，不会自动登录 MiMo 控制台，因此 MiMo 余额只有在该文件被重新采集后才会变化。
+发布任务在总采集前刷新该文件。登录会话过期或 Chrome 启动失败时，不阻塞其他数据源发布；页面保留最后成功余额并显示“旧值”。首次建立或重新登录会话使用 `npm run mimo:login`，登录并看到余额后应关闭专用窗口，避免与定时启动的无头 Chrome 争用同一个配置目录。
 
 ### DeepSeek
 
