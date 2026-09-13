@@ -1,22 +1,22 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-13T23:50:30.761+08:00",
+  "updatedAt": "2026-09-14T00:00:29.107+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.7,
+    "tempC": 24.6,
     "feelsLikeC": 28.5,
-    "humidity": 81,
-    "windKph": 4.7,
+    "humidity": 82,
+    "windKph": 4.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-09-13T23:45:00.000+08:00",
-    "fetchedAt": "2026-09-13T23:50:30.761+08:00",
+    "observedAt": "2026-09-14T00:00:00.000+08:00",
+    "fetchedAt": "2026-09-14T00:00:29.108+08:00",
     "error": null
   },
   "quote": {
-    "text": "桃之夭夭，灼灼其华。之子于归，宜其室家。",
-    "source": "《诗经·周南·桃夭》"
+    "text": "尽信书，则不如无书。",
+    "source": "《孟子·尽心章句下·第三节》"
   },
   "sources": {
     "copilot": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-13T23:50:25.747+08:00",
+      "fetchedAt": "2026-09-14T00:00:26.866+08:00",
       "error": null
     },
     "codex": {
@@ -39,8 +39,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 34,
-          "resetAt": "2026-09-13T23:57:09.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-09-14T05:00:28.000+08:00"
         },
         {
           "name": "周",
@@ -48,7 +48,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-20T18:57:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-13T23:50:29.392+08:00",
+      "fetchedAt": "2026-09-14T00:00:27.629+08:00",
       "error": null
     },
     "mimo": {
@@ -67,7 +67,7 @@ window.DASH_DATA = {
       "balance": 29.01,
       "currency": "CNY",
       "detail": "余额 ¥29.01",
-      "fetchedAt": "2026-09-13T23:50:29.397+08:00",
+      "fetchedAt": "2026-09-14T00:00:27.638+08:00",
       "error": null
     }
   }
