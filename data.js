@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-13T12:40:04.745+08:00",
+  "updatedAt": "2026-09-13T12:50:05.372+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 31.2,
-    "feelsLikeC": 35,
-    "humidity": 45,
-    "windKph": 4.8,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 31.6,
+    "feelsLikeC": 35.2,
+    "humidity": 44,
+    "windKph": 5.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-09-13T12:30:00.000+08:00",
-    "fetchedAt": "2026-09-13T12:40:04.745+08:00",
+    "observedAt": "2026-09-13T12:45:00.000+08:00",
+    "fetchedAt": "2026-09-13T12:50:05.372+08:00",
     "error": null
   },
   "quote": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "剩余 678 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-09-13T12:40:03.044+08:00",
+      "fetchedAt": "2026-09-13T12:50:03.352+08:00",
       "error": null
     },
     "codex": {
@@ -40,15 +40,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-13T17:40:04.000+08:00"
+          "resetAt": "2026-09-13T17:50:05.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-09-20T12:40:04.000+08:00"
+          "resetAt": "2026-09-20T12:50:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-13T12:40:03.044+08:00",
+      "fetchedAt": "2026-09-13T12:50:03.352+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "balance": 5.42,
       "currency": "CNY",
       "detail": "余额 ¥5.42",
-      "fetchedAt": "2026-09-13T12:40:03.047+08:00",
+      "fetchedAt": "2026-09-13T12:50:03.355+08:00",
       "error": null
     },
     "deepseek": {
@@ -66,7 +66,7 @@ window.DASH_DATA = {
       "balance": 29.01,
       "currency": "CNY",
       "detail": "余额 ¥29.01",
-      "fetchedAt": "2026-09-13T12:40:03.048+08:00",
+      "fetchedAt": "2026-09-13T12:50:03.355+08:00",
       "error": null
     }
   }
