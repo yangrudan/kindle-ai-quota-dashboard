@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-14T09:30:59.169+08:00",
+  "updatedAt": "2026-09-14T09:31:59.599+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-09-14T09:30:00.000+08:00",
-    "fetchedAt": "2026-09-14T09:30:59.169+08:00",
+    "fetchedAt": "2026-09-14T09:31:59.599+08:00",
     "error": null
   },
   "quote": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-14T09:30:55.248+08:00",
+      "fetchedAt": "2026-09-14T09:31:57.626+08:00",
       "error": null
     },
     "codex": {
@@ -48,7 +48,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-20T18:57:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T09:30:57.630+08:00",
+      "fetchedAt": "2026-09-14T09:31:57.966+08:00",
       "error": null
     },
     "mimo": {
@@ -68,7 +68,9 @@ window.DASH_DATA = {
       "currency": "CNY",
       "detail": "余额 ¥29.01",
       "fetchedAt": "2026-09-14T09:30:57.633+08:00",
-      "error": null
+      "error": "没有设置环境变量 DEEPSEEK_API_KEY",
+      "stale": true,
+      "lastAttemptAt": "2026-09-14T09:31:57.969+08:00"
     }
   }
 };
