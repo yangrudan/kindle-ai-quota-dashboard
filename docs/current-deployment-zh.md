@@ -65,7 +65,7 @@ codex app-server --listen stdio://
 
 ### Xiaomi MiMo
 
-MiMo 的普通 API Key 可以调用模型，但不能查询充值账户余额。当前方案使用仓库外、权限受限的专用 Chrome 配置保存官方控制台登录会话；`scripts/collect-mimo-balance.cjs` 以无头 Chrome 打开同源页面并读取 `/api/v1/balance`，只把余额、币种和真实采集时间写入本地忽略文件：
+MiMo 的普通 API Key 可以调用模型，但不能查询充值账户余额。当前方案使用仓库外、权限受限的专用 Chrome 配置保存官方控制台登录会话；`scripts/collect-mimo-balance.cjs` 以无头 Chrome 打开官方余额页，读取页面实际显示的主余额，只把余额、币种和真实采集时间写入本地忽略文件：
 
 ```text
 config/mimo-balance.json
@@ -295,7 +295,7 @@ npm run check
 
 ## 10. 已知限制与后续建议
 
-1. MiMo 当前是本地余额快照，不会像 DeepSeek 一样每 10 分钟真实查询。若需要自动更新，应实现安全的控制台会话刷新，并处理登录过期。
+1. MiMo 自动更新依赖发布电脑上的专用控制台登录会话；会话过期后需要重新运行一次 `npm run mimo:login`。
 2. Pages 每 10 分钟产生一次提交，长期会形成较大的 `gh-pages` 历史；可以改为可覆盖的对象存储或单独数据服务。
 3. Kindle 上的 WebLaunch 兼容改动目前主要部署在设备文件中，应进一步整理成仓库内可重复安装的 legacy Mesquite 包。
 4. KPM 在此固件/设备组合上会因非法指令崩溃，当前不要依赖 `.kpkg` 更新仪表盘。
@@ -325,4 +325,4 @@ mv /mnt/us/extensions/WebLaunch/config.xml.disabled /mnt/us/extensions/WebLaunch
 
 ## 12. 结论
 
-当前系统已经从原项目的通用 Chromium/KPM 假设，演变为适合这台旧 WebKit Kindle 的“电脑采集并发布、Kindle 只负责全屏展示”架构。它已经覆盖四类额度、杭州天气、失败兜底、自动发布和旧浏览器兼容；后续工作的重点是自动刷新 MiMo 余额，以及把设备端 WebLaunch 改动整理成可重复安装包。
+当前系统已经从原项目的通用 Chromium/KPM 假设，演变为适合这台旧 WebKit Kindle 的“电脑采集并发布、Kindle 只负责全屏展示”架构。它已经覆盖四类额度、杭州天气、失败兜底、自动发布和旧浏览器兼容；后续工作的重点是监测 MiMo 登录会话有效期，以及把设备端 WebLaunch 改动整理成可重复安装包。

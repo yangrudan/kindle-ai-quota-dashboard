@@ -8,7 +8,6 @@ const { balanceValue } = require('../src/collectors/mimo.cjs');
 const { isoBeijing, writeAtomic } = require('../src/lib/common.cjs');
 
 const CONSOLE_URL = 'https://platform.xiaomimimo.com/console/balance';
-const BALANCE_PATH = '/api/v1/balance';
 const DEFAULT_PROFILE = path.resolve(ROOT, '..', '.mimo-dashboard-chrome');
 
 function wait(ms) {
@@ -81,21 +80,14 @@ async function openCdp(url) {
   });
 }
 
-function apiPayload(value) {
-  if (!value || Number(value.status) !== 200) {
-    throw new Error(`MiMo 余额接口返回 HTTP ${value && value.status}`);
-  }
-  if (!String(value.contentType || '').includes('application/json')) {
-    throw new Error('MiMo 登录已过期；请运行 npm run mimo:login 后重试');
-  }
-  let payload;
-  try {
-    payload = JSON.parse(value.text);
-  } catch {
-    throw new Error('MiMo 余额接口返回了无效 JSON');
-  }
-  balanceValue(payload);
-  return payload;
+function displayedBalance(value) {
+  const text = String(value || '').trim().replace(/,/g, '');
+  const match = text.match(/^([¥￥$])\s*(-?\d+(?:\.\d+)?)$/);
+  if (!match) throw new Error('MiMo 余额页面未返回有效余额');
+  return {
+    balance: Number(match[2]),
+    currency: match[1] === '$' ? 'USD' : 'CNY',
+  };
 }
 
 async function readBalanceWithChrome(profileDir) {
@@ -156,32 +148,26 @@ async function readBalanceWithChrome(profileDir) {
       throw new Error('MiMo 登录已过期；请运行 npm run mimo:login 后重试');
     }
 
-    const evaluated = await cdp.send('Runtime.evaluate', {
-      expression: `(async function () {
-        try {
-          const response = await fetch('${BALANCE_PATH}', {
-            credentials: 'include',
-            headers: { Accept: 'application/json' }
-          });
-          return {
-            status: response.status,
-            url: response.url,
-            contentType: response.headers.get('content-type') || '',
-            text: (await response.text()).slice(0, 50000)
-          };
-        } catch (error) {
-          return { clientError: String(error && error.message || error) };
-        }
-      })()`,
-      awaitPromise: true,
-      returnByValue: true,
-    });
-    if (evaluated.exceptionDetails) throw new Error('MiMo 页面执行余额查询失败');
-    const value = evaluated.result && evaluated.result.value;
-    if (value && value.clientError) {
-      throw new Error(`MiMo 余额接口请求失败：${value.clientError}`);
+    for (let attempt = 0; attempt < 120; attempt += 1) {
+      const evaluated = await cdp.send('Runtime.evaluate', {
+        expression: `(function () {
+          const labels = Array.from(document.querySelectorAll('p'))
+            .filter((item) => /^(余额|Balance)$/.test((item.textContent || '').trim()));
+          for (const label of labels) {
+            const value = label.nextElementSibling;
+            const text = value && (value.textContent || '').trim();
+            if (/^[¥￥$]\\s*-?\\d[\\d,.]*$/.test(text || '')) return text;
+          }
+          return '';
+        })()`,
+        returnByValue: true,
+      });
+      if (evaluated.exceptionDetails) throw new Error('MiMo 页面余额读取失败');
+      const value = evaluated.result && evaluated.result.value;
+      if (value) return displayedBalance(value);
+      await wait(250);
     }
-    return apiPayload(value);
+    throw new Error('未在 MiMo 控制台找到余额；登录可能已过期');
   } finally {
     if (cdp && cdp.socket.readyState < 2) cdp.socket.close();
     if (child.exitCode == null) child.kill('SIGTERM');
@@ -196,9 +182,8 @@ async function main() {
 
   const profileDir = path.resolve(process.env.MIMO_CHROME_PROFILE || DEFAULT_PROFILE);
   const payload = await readBalanceWithChrome(profileDir);
-  const source = payload.data || payload.result || payload;
   const balance = balanceValue(payload);
-  const currency = String(source.currency || source.currencyCode || 'CNY');
+  const currency = payload.currency;
   writeAtomic(balanceFile, `${JSON.stringify({
     balance,
     currency,
@@ -214,4 +199,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { apiPayload, readBalanceWithChrome };
+module.exports = { displayedBalance, readBalanceWithChrome };

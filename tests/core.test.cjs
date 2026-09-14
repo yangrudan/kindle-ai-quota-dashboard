@@ -19,7 +19,7 @@ const { safeError } = require('../src/lib/common.cjs');
 const { ROOT, validateConfig } = require('../src/lib/config.cjs');
 const { copilotSource } = require('../src/collectors/copilot.cjs');
 const { collectMimo } = require('../src/collectors/mimo.cjs');
-const { apiPayload } = require('../scripts/collect-mimo-balance.cjs');
+const { displayedBalance } = require('../scripts/collect-mimo-balance.cjs');
 const { collectProblems } = require('../scripts/check-public.cjs');
 
 test('demo snapshot passes the public schema', () => {
@@ -241,17 +241,9 @@ test('MiMo snapshot exposes its real observation time and stale state', async ()
     assert.equal(source.stale, true);
     assert.match(source.error, /快照已过期/);
 
-    const payload = apiPayload({
-      status: 200,
-      contentType: 'application/json; charset=utf-8',
-      text: '{"data":{"balance":6.5,"currency":"CNY"}}',
-    });
-    assert.equal(payload.data.balance, 6.5);
-    assert.throws(() => apiPayload({
-      status: 200,
-      contentType: 'text/html',
-      text: '<html>login</html>',
-    }), /登录已过期/);
+    assert.deepEqual(displayedBalance('¥ 28.39'), { balance: 28.39, currency: 'CNY' });
+    assert.deepEqual(displayedBalance('$ 1,234.50'), { balance: 1234.5, currency: 'USD' });
+    assert.throws(() => displayedBalance('余额加载中'), /未返回有效余额/);
   } finally {
     fs.rmSync(dir, { recursive: true, force: true });
   }
