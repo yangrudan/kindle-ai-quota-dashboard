@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-14T15:10:07.236+08:00",
+  "updatedAt": "2026-09-14T15:16:33.299+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 30.8,
-    "feelsLikeC": 31.3,
-    "humidity": 45,
-    "windKph": 14.1,
+    "tempC": 30.5,
+    "feelsLikeC": 31.1,
+    "humidity": 46,
+    "windKph": 14.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-09-14T15:00:00.000+08:00",
-    "fetchedAt": "2026-09-14T15:10:07.236+08:00",
+    "observedAt": "2026-09-14T15:15:00.000+08:00",
+    "fetchedAt": "2026-09-14T15:16:33.299+08:00",
     "error": null
   },
   "quote": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-14T15:10:04.247+08:00",
+      "fetchedAt": "2026-09-14T15:16:31.139+08:00",
       "error": null
     },
     "codex": {
@@ -39,16 +39,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 14,
           "resetAt": "2026-09-14T19:49:30.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 17,
-          "resetAt": "2026-09-20T18:57:09.000+08:00"
+          "usedPct": 18,
+          "resetAt": "2026-09-20T18:57:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T15:10:04.533+08:00",
+      "fetchedAt": "2026-09-14T15:16:31.455+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "balance": 28.39,
       "currency": "CNY",
       "detail": "余额 ¥28.39",
-      "fetchedAt": "2026-09-14T15:10:02.674+08:00",
+      "fetchedAt": "2026-09-14T15:16:27.817+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,9 @@ window.DASH_DATA = {
       "currency": "CNY",
       "detail": "余额 ¥27.34",
       "fetchedAt": "2026-09-14T15:10:04.544+08:00",
-      "error": null
+      "error": "没有设置环境变量 DEEPSEEK_API_KEY",
+      "stale": true,
+      "lastAttemptAt": "2026-09-14T15:16:31.461+08:00"
     }
   }
 };
