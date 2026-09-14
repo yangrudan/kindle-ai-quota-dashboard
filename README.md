@@ -124,13 +124,13 @@ MiMo 自动余额需要在发布电脑上建立一次独立控制台会话：
 npm run mimo:login
 ```
 
-在打开的官方窗口中登录并看到余额后，关闭整个窗口，然后验证：
+在打开的官方窗口中登录并看到余额后，先保持窗口打开，然后验证：
 
 ```bash
 npm run mimo:collect
 ```
 
-登录 Cookie 保存在仓库外的私有 Chrome 配置目录，公开快照只包含余额和采集时间。发布任务应在 `npm run collect` 前执行 `npm run mimo:collect`；如果登录过期，其他数据源仍会继续发布，MiMo 会明确显示为旧值。
+登录 Cookie 保存在仓库外的私有 Chrome 配置目录，公开快照只包含余额和采集时间。首次验证成功后可以关闭可见窗口，但专用 Chrome 后台进程需要保持运行，定时任务会复用它；电脑重启、后台进程退出或登录过期后需重新运行 `npm run mimo:login`。发布任务应在 `npm run collect` 前执行 `npm run mimo:collect`；如果会话不可用，其他数据源仍会继续发布，MiMo 会明确显示为旧值。
 
 
 ## 天气

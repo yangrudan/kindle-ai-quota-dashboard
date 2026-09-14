@@ -34,6 +34,38 @@ async function waitForDebugPort(profileDir, child, startedAt) {
   throw new Error('等待 Chrome 调试端口超时');
 }
 
+async function activeDebugPort(profileDir) {
+  try {
+    const [port] = fs.readFileSync(path.join(profileDir, 'DevToolsActivePort'), 'utf8').trim().split(/\r?\n/);
+    if (!/^\d+$/.test(port)) return null;
+    const response = await fetch(`http://127.0.0.1:${port}/json/version`);
+    if (response.ok) return Number(port);
+  } catch {}
+  return null;
+}
+
+async function consoleTarget(port) {
+  const listResponse = await fetch(`http://127.0.0.1:${port}/json/list`);
+  if (!listResponse.ok) throw new Error(`读取 Chrome 页面列表失败：HTTP ${listResponse.status}`);
+  const targets = await listResponse.json();
+  const expectedOrigin = new URL(CONSOLE_URL).origin;
+  const target = targets.find((item) => {
+    try {
+      const url = new URL(item.url);
+      return item.type === 'page' && url.origin === expectedOrigin && url.pathname === '/console/balance';
+    } catch {
+      return false;
+    }
+  });
+  if (target) return target;
+
+  const targetResponse = await fetch(
+    `http://127.0.0.1:${port}/json/new?${encodeURIComponent(CONSOLE_URL)}`,
+    { method: 'PUT' },
+  );
+  if (!targetResponse.ok) throw new Error(`创建 Chrome 页面失败：HTTP ${targetResponse.status}`);
+  return targetResponse.json();
+}
 async function openCdp(url) {
   return new Promise((resolve, reject) => {
     const socket = new WebSocket(url);
@@ -41,7 +73,10 @@ async function openCdp(url) {
     let sequence = 0;
 
     function fail(error) {
-      for (const item of pending.values()) item.reject(error);
+      for (const item of pending.values()) {
+        clearTimeout(item.timeout);
+        item.reject(error);
+      }
       pending.clear();
       reject(error);
     }
@@ -57,6 +92,7 @@ async function openCdp(url) {
       if (!message.id || !pending.has(message.id)) return;
       const item = pending.get(message.id);
       pending.delete(message.id);
+      clearTimeout(item.timeout);
       if (message.error) item.reject(new Error(message.error.message || 'Chrome 调试调用失败'));
       else item.resolve(message.result);
     });
@@ -66,13 +102,13 @@ async function openCdp(url) {
         send(method, params = {}) {
           return new Promise((resolveCall, rejectCall) => {
             const id = ++sequence;
-            pending.set(id, { resolve: resolveCall, reject: rejectCall });
-            socket.send(JSON.stringify({ id, method, params }));
-            setTimeout(() => {
+            const timeout = setTimeout(() => {
               if (!pending.has(id)) return;
               pending.delete(id);
               rejectCall(new Error(`Chrome 调试调用超时：${method}`));
             }, 20_000);
+            pending.set(id, { resolve: resolveCall, reject: rejectCall, timeout });
+            socket.send(JSON.stringify({ id, method, params }));
           });
         },
       });
@@ -97,32 +133,35 @@ async function readBalanceWithChrome(profileDir) {
   fs.mkdirSync(profileDir, { recursive: true, mode: 0o700 });
   try { fs.chmodSync(profileDir, 0o700); } catch {}
 
-  const startedAt = Date.now();
-  const child = spawn(chromeExecutable(), [
-    `--user-data-dir=${profileDir}`,
-    '--headless=new',
-    '--disable-gpu',
-    '--disable-dev-shm-usage',
-    '--disable-background-networking',
-    '--no-first-run',
-    '--no-default-browser-check',
-    '--remote-debugging-address=127.0.0.1',
-    '--remote-debugging-port=0',
-    '--remote-allow-origins=*',
-    'about:blank',
-  ], {
-    stdio: ['ignore', 'ignore', 'ignore'],
-  });
+  let child = null;
+  let ownsChrome = false;
+  let port = await activeDebugPort(profileDir);
+  if (!port) {
+    const startedAt = Date.now();
+    child = spawn(chromeExecutable(), [
+      `--user-data-dir=${profileDir}`,
+      '--headless=new',
+      '--disable-gpu',
+      '--disable-dev-shm-usage',
+      '--disable-background-networking',
+      '--no-first-run',
+      '--no-default-browser-check',
+      '--remote-debugging-address=127.0.0.1',
+      '--remote-debugging-port=0',
+      '--remote-allow-origins=*',
+      'about:blank',
+    ], {
+      detached: true,
+      stdio: ['ignore', 'ignore', 'ignore'],
+    });
+    ownsChrome = true;
+    port = await waitForDebugPort(profileDir, child, startedAt);
+  }
 
   let cdp = null;
+  let keepChrome = false;
   try {
-    const port = await waitForDebugPort(profileDir, child, startedAt);
-    const targetResponse = await fetch(
-      `http://127.0.0.1:${port}/json/new?${encodeURIComponent(CONSOLE_URL)}`,
-      { method: 'PUT' },
-    );
-    if (!targetResponse.ok) throw new Error(`创建 Chrome 页面失败：HTTP ${targetResponse.status}`);
-    const target = await targetResponse.json();
+    const target = await consoleTarget(port);
     cdp = await openCdp(target.webSocketDebuggerUrl);
     await cdp.send('Runtime.enable');
 
@@ -164,13 +203,19 @@ async function readBalanceWithChrome(profileDir) {
       });
       if (evaluated.exceptionDetails) throw new Error('MiMo 页面余额读取失败');
       const value = evaluated.result && evaluated.result.value;
-      if (value) return displayedBalance(value);
+      if (value) {
+        keepChrome = true;
+        return displayedBalance(value);
+      }
       await wait(250);
     }
     throw new Error('未在 MiMo 控制台找到余额；登录可能已过期');
   } finally {
     if (cdp && cdp.socket.readyState < 2) cdp.socket.close();
-    if (child.exitCode == null) child.kill('SIGTERM');
+    if (ownsChrome && child.exitCode == null) {
+      if (keepChrome) child.unref();
+      else child.kill('SIGTERM');
+    }
   }
 }
 

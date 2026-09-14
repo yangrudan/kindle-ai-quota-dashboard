@@ -65,13 +65,13 @@ codex app-server --listen stdio://
 
 ### Xiaomi MiMo
 
-MiMo 的普通 API Key 可以调用模型，但不能查询充值账户余额。当前方案使用仓库外、权限受限的专用 Chrome 配置保存官方控制台登录会话；`scripts/collect-mimo-balance.cjs` 以无头 Chrome 打开官方余额页，读取页面实际显示的主余额，只把余额、币种和真实采集时间写入本地忽略文件：
+MiMo 的普通 API Key 可以调用模型，但不能查询充值账户余额。当前方案使用仓库外、权限受限的专用 Chrome 配置保存官方控制台登录会话，并复用持续运行的专用 Chrome 后台进程；`scripts/collect-mimo-balance.cjs` 读取官方余额页实际显示的主余额，只把余额、币种和真实采集时间写入本地忽略文件：
 
 ```text
 config/mimo-balance.json
 ```
 
-发布任务在总采集前刷新该文件。登录会话过期或 Chrome 启动失败时，不阻塞其他数据源发布；页面保留最后成功余额并显示“旧值”。首次建立或重新登录会话使用 `npm run mimo:login`，登录并看到余额后应关闭专用窗口，避免与定时启动的无头 Chrome 争用同一个配置目录。
+发布任务在总采集前刷新该文件。登录会话过期或 Chrome 启动失败时，不阻塞其他数据源发布；页面保留最后成功余额并显示“旧值”。首次建立或重新登录会话使用 `npm run mimo:login`，登录并看到余额后先保持窗口打开完成验证；之后可以关闭可见窗口，但不要手工结束专用 Chrome 后台进程。电脑重启或后台进程退出后需要重新登录。
 
 ### DeepSeek
 

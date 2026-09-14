@@ -17,6 +17,9 @@ const child = spawn(executable, [
   `--user-data-dir=${profileDir}`,
   '--no-first-run',
   '--no-default-browser-check',
+  '--remote-debugging-address=127.0.0.1',
+  '--remote-debugging-port=0',
+  '--remote-allow-origins=*',
   '--new-window',
   'https://platform.xiaomimimo.com/console/balance',
 ], {
@@ -24,4 +27,4 @@ const child = spawn(executable, [
   stdio: 'ignore',
 });
 child.unref();
-process.stdout.write(`MiMo 登录窗口已打开。登录并看到余额后，请关闭整个窗口。\n会话目录：${profileDir}\n`);
+process.stdout.write(`MiMo 登录窗口已打开。登录并看到余额后先不要关闭窗口，请回来回复“好了”。\n会话目录：${profileDir}\n`);
