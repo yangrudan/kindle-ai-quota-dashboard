@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-14T20:20:07.166+08:00",
+  "updatedAt": "2026-09-14T20:30:07.966+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.7,
+    "tempC": 25.5,
     "feelsLikeC": 27.2,
-    "humidity": 60,
-    "windKph": 7.3,
+    "humidity": 61,
+    "windKph": 6.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-09-14T20:15:00.000+08:00",
-    "fetchedAt": "2026-09-14T20:20:07.166+08:00",
+    "observedAt": "2026-09-14T20:30:00.000+08:00",
+    "fetchedAt": "2026-09-14T20:30:07.967+08:00",
     "error": null
   },
   "quote": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-14T20:20:05.621+08:00",
+      "fetchedAt": "2026-09-14T20:30:06.201+08:00",
       "error": null
     },
     "codex": {
@@ -39,16 +39,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 35,
-          "resetAt": "2026-09-15T00:49:33.000+08:00"
+          "usedPct": 40,
+          "resetAt": "2026-09-15T00:49:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 32,
-          "resetAt": "2026-09-20T18:57:09.000+08:00"
+          "usedPct": 33,
+          "resetAt": "2026-09-20T18:57:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T20:20:05.862+08:00",
+      "fetchedAt": "2026-09-14T20:30:06.472+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "balance": 28.39,
       "currency": "CNY",
       "detail": "余额 ¥28.39",
-      "fetchedAt": "2026-09-14T20:20:03.980+08:00",
+      "fetchedAt": "2026-09-14T20:30:04.257+08:00",
       "stale": false,
       "error": null
     },
@@ -67,7 +67,7 @@ window.DASH_DATA = {
       "balance": 27.34,
       "currency": "CNY",
       "detail": "余额 ¥27.34",
-      "fetchedAt": "2026-09-14T20:20:05.870+08:00",
+      "fetchedAt": "2026-09-14T20:30:06.482+08:00",
       "error": null
     }
   }
