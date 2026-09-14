@@ -8,8 +8,8 @@
     pollOffset: 5000,
     cacheKey: 'kindle_ai_quota_cache_v2',
     maxCacheAge: 30 * 60 * 1000,
-    quietStart: 3,
-    quietEnd: 8
+    quietStart: 23,
+    quietEnd: 6
   };
   var state = {
     endpoint: win.DASH_LIVE_ENDPOINT || settings.fallbackData,
@@ -151,21 +151,29 @@
 
   function isQuiet(date) {
     var hour = hangzhouDate(date || new Date()).getUTCHours();
-    return hour >= settings.quietStart && hour < settings.quietEnd;
+    if (settings.quietStart === settings.quietEnd) return false;
+    if (settings.quietStart < settings.quietEnd) {
+      return hour >= settings.quietStart && hour < settings.quietEnd;
+    }
+    return hour >= settings.quietStart || hour < settings.quietEnd;
   }
 
   function millisecondsUntilMorning(date) {
     var now = date || new Date();
-    var morning = new Date(
-      now.getFullYear(),
-      now.getMonth(),
-      now.getDate(),
+    var hangzhouNow = hangzhouDate(now);
+    var morning = Date.UTC(
+      hangzhouNow.getUTCFullYear(),
+      hangzhouNow.getUTCMonth(),
+      hangzhouNow.getUTCDate(),
       settings.quietEnd,
       0,
       5,
       0
-    );
-    return Math.max(1000, morning.getTime() - now.getTime());
+    ) - hangzhouOffsetMs;
+    if (morning <= now.getTime()) {
+      morning += 24 * 60 * 60 * 1000;
+    }
+    return Math.max(1000, morning - now.getTime());
   }
 
   function updateFreshness() {
@@ -182,7 +190,7 @@
     }
 
     if (isQuiet()) {
-      ui.textNode(status, '夜间省电 · 08:00恢复');
+      ui.textNode(status, '夜间省电 · 06:00恢复');
       ui.className(status, '');
       ui.textNode(alert, '');
       ui.className(alert, 'data-alert');

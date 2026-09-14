@@ -113,7 +113,8 @@ test('browser runtime is valid JavaScript', () => {
   }
 });
 
-function runBrowserRuntime(snapshot, storage) {
+function runBrowserRuntime(snapshot, storage, options = {}) {
+  const delays = [];
   const nodes = new Map();
   function node() {
     return {
@@ -150,11 +151,35 @@ function runBrowserRuntime(snapshot, storage) {
   vm.runInNewContext(source, {
     window,
     document,
+    Date: options.Date || Date,
     location: { search: '' },
-    setTimeout: () => 1,
+    setTimeout: (callback, delay) => { delays.push(delay); return 1; },
   });
-  return { nodes, window };
+  return { delays, nodes, window };
 }
+
+function fixedDate(iso) {
+  const instant = Date.parse(iso);
+  return class FixedDate extends Date {
+    constructor(value) {
+      if (arguments.length) super(value);
+      else super(instant);
+    }
+
+    static now() { return instant; }
+  };
+}
+
+test('Kindle quiet hours wrap midnight from 23:00 to 06:00 Hangzhou time', () => {
+  const night = runBrowserRuntime(demoSnapshot(), new Map(), {
+    Date: fixedDate('2026-09-14T15:30:00Z'),
+  });
+  assert.equal(night.nodes.get('#dataStatus').textContent, '夜间省电 · 06:00恢复');
+  assert.ok(night.delays.some((delay) => delay > 6 * 60 * 60 * 1000 && delay < 7 * 60 * 60 * 1000));
+
+  const daytime = runBrowserRuntime(demoSnapshot(), new Map(), { Date: fixedDate('2026-09-14T22:30:00Z') });
+  assert.notEqual(daytime.nodes.get('#dataStatus').textContent, '夜间省电 · 06:00恢复');
+});
 
 test('browser runtime restores a valid cache and rejects older replacement data', () => {
   const storage = new Map();
