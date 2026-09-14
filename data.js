@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-14T23:50:06.391+08:00",
+  "updatedAt": "2026-09-15T00:00:05.770+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,12 +11,12 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-09-14T23:45:00.000+08:00",
-    "fetchedAt": "2026-09-14T23:50:06.391+08:00",
+    "fetchedAt": "2026-09-15T00:00:05.770+08:00",
     "error": null
   },
   "quote": {
-    "text": "尽信书，则不如无书。",
-    "source": "《孟子·尽心章句下·第三节》"
+    "text": "入世须学东方曼倩，出世须学佛印了元。",
+    "source": "《幽梦影》"
   },
   "sources": {
     "copilot": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-14T23:50:04.373+08:00",
+      "fetchedAt": "2026-09-15T00:00:04.482+08:00",
       "error": null
     },
     "codex": {
@@ -45,10 +45,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 42,
-          "resetAt": "2026-09-20T18:57:09.000+08:00"
+          "resetAt": "2026-09-20T18:57:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-14T23:50:04.475+08:00",
+      "fetchedAt": "2026-09-15T00:00:04.706+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "balance": 28.39,
       "currency": "CNY",
       "detail": "余额 ¥28.39",
-      "fetchedAt": "2026-09-14T23:50:02.654+08:00",
+      "fetchedAt": "2026-09-15T00:00:02.498+08:00",
       "stale": false,
       "error": null
     },
@@ -67,7 +67,7 @@ window.DASH_DATA = {
       "balance": 27.34,
       "currency": "CNY",
       "detail": "余额 ¥27.34",
-      "fetchedAt": "2026-09-14T23:50:04.481+08:00",
+      "fetchedAt": "2026-09-15T00:00:04.711+08:00",
       "error": null
     }
   }
