@@ -116,7 +116,7 @@ state/data.js
 
 Kindle 页面默认每 3 分钟请求一次 `data.js`，请求带时间戳参数以绕过缓存。有效快照还会写入浏览器本地缓存；网络临时失败时最多使用 30 分钟内的有效缓存，并明确显示“缓存”“延迟”或“离线”。
 
-页面的 23:00–06:00 省电逻辑只暂停 Kindle 侧轮询；电脑 cron 目前仍按 10 分钟运行。
+页面在 23:00–06:00 停止 Kindle 侧轮询；设备端 WebLaunch 电源监视器同时把 `preventScreenSaver` 恢复为 `0`，允许系统真正待机。电脑 cron 仍按 10 分钟运行，Kindle 唤醒后会取得最新快照。
 
 ## 5. 构建与 GitHub Pages 发布
 
@@ -172,7 +172,8 @@ Pages 工作区为：
 KUAL
   └─ /mnt/us/extensions/WebLaunch/bin/start.sh（root）
        ├─ 补齐 appreg.db 中的 WAF 注册项
-       ├─ 设置 preventScreenSaver=1
+       ├─ 06:00–23:00 设置 preventScreenSaver=1
+       ├─ 23:00–06:00 设置 preventScreenSaver=0，允许正常待机
        ├─ 启动 com.PaulFreund.WebLaunch
        └─ 后台监视应用退出，恢复 preventScreenSaver=0
               │
@@ -210,11 +211,15 @@ Mesquite 大致相当于 WebKit 533，不支持 CSS 自定义属性、CSS Grid�
 
 旧 WebLaunch 的 Pillow 电源键事件在 KPP 上没有生效，短按电源键只会进入锁屏。因此当前方案增加了：
 
-- `preventScreenSaver=1` 的 root 级启动设置
+- 白天 `preventScreenSaver=1` 的 root 级常亮设置
+- 每 60 秒检查一次杭州时间，夜间 23:00–06:00 释放防休眠并允许系统待机
+- 设备从待机中被用户唤醒后，监视器恢复白天常亮策略
 - 应用退出后的后台恢复监视器
 - KPP 原生 `KPP_CLOSE` 顶栏动作
 - 页面“主页”按钮，调用 `window.kindle.appmgr.start("com.lab126.booklet.home")`
 - KUAL 菜单的 `exitmenu: true`，避免关闭面板后回到 KUAL
+
+部署前的原始启动脚本保存在 `/mnt/us/extensions/WebLaunch/bin/start.sh.before-night-sleep-20260915.bak`。
 
 如果设备异常保持常亮，可通过 SSH/KTerm/KUAL 恢复：
 
