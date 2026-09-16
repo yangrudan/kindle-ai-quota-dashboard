@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-16T19:10:06.921+08:00",
+  "updatedAt": "2026-09-16T19:20:06.874+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.2,
-    "feelsLikeC": 27.7,
-    "humidity": 46,
-    "windKph": 6.9,
+    "tempC": 27,
+    "feelsLikeC": 27.5,
+    "humidity": 48,
+    "windKph": 7.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-09-16T19:00:00.000+08:00",
-    "fetchedAt": "2026-09-16T19:10:06.921+08:00",
+    "observedAt": "2026-09-16T19:15:00.000+08:00",
+    "fetchedAt": "2026-09-16T19:20:06.874+08:00",
     "error": null
   },
   "quote": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-16T19:10:04.229+08:00",
+      "fetchedAt": "2026-09-16T19:20:05.265+08:00",
       "error": null
     },
     "codex": {
@@ -39,16 +39,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 55,
-          "resetAt": "2026-09-16T19:16:19.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-09-17T00:20:06.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 83,
-          "resetAt": "2026-09-20T18:57:10.000+08:00"
+          "resetAt": "2026-09-20T18:57:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T19:10:04.531+08:00",
+      "fetchedAt": "2026-09-16T19:20:05.476+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "balance": 28.39,
       "currency": "CNY",
       "detail": "余额 ¥28.39",
-      "fetchedAt": "2026-09-16T19:10:02.423+08:00",
+      "fetchedAt": "2026-09-16T19:20:03.348+08:00",
       "stale": false,
       "error": null
     },
@@ -67,7 +67,7 @@ window.DASH_DATA = {
       "balance": 27.2,
       "currency": "CNY",
       "detail": "余额 ¥27.20",
-      "fetchedAt": "2026-09-16T19:10:04.540+08:00",
+      "fetchedAt": "2026-09-16T19:20:05.484+08:00",
       "error": null
     }
   }
