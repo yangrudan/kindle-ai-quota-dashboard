@@ -115,6 +115,8 @@ test('browser runtime is valid JavaScript', () => {
 
 function runBrowserRuntime(snapshot, storage, options = {}) {
   const delays = [];
+  const listeners = { document: {}, window: {} };
+  const scripts = [];
   const nodes = new Map();
   function node() {
     return {
@@ -133,20 +135,24 @@ function runBrowserRuntime(snapshot, storage, options = {}) {
     return nodes.get(name);
   }
   const head = node();
-  head.appendChild = (child) => { child.parentNode = head; };
+  head.appendChild = (child) => { child.parentNode = head; if (child.src) scripts.push(child.src); };
   head.removeChild = (child) => { child.parentNode = null; };
   const document = {
     createElement: () => node(),
     getElementById: (id) => namedNode(`#${id}`),
     getElementsByTagName: () => [head],
     querySelector: (selector) => namedNode(selector),
+    addEventListener: (name, handler) => { listeners.document[name] = handler; },
   };
   const localStorage = {
     getItem: (key) => storage.has(key) ? storage.get(key) : null,
     setItem: (key, value) => storage.set(key, value),
     removeItem: (key) => storage.delete(key),
   };
-  const window = { DASH_DATA: snapshot, localStorage };
+  const window = {
+    DASH_DATA: snapshot, localStorage,
+    addEventListener: (name, handler) => { listeners.window[name] = handler; },
+  };
   const source = fs.readFileSync(path.join(ROOT, 'web', 'dashboard-runtime.js'), 'utf8');
   vm.runInNewContext(source, {
     window,
@@ -155,11 +161,11 @@ function runBrowserRuntime(snapshot, storage, options = {}) {
     location: { search: '' },
     setTimeout: (callback, delay) => { delays.push(delay); return 1; },
   });
-  return { delays, nodes, window };
+  return { delays, listeners, nodes, scripts, window };
 }
 
 function fixedDate(iso) {
-  const instant = Date.parse(iso);
+  let instant = Date.parse(iso);
   return class FixedDate extends Date {
     constructor(value) {
       if (arguments.length) super(value);
@@ -167,6 +173,7 @@ function fixedDate(iso) {
     }
 
     static now() { return instant; }
+    static set(value) { instant = Date.parse(value); }
   };
 }
 
@@ -180,6 +187,16 @@ test('Kindle quiet hours wrap midnight from 23:00 to 06:00 Hangzhou time', () =>
   const daytime = runBrowserRuntime(demoSnapshot(), new Map(), { Date: fixedDate('2026-09-14T22:30:00Z') });
   assert.notEqual(daytime.nodes.get('#dataStatus').textContent, '夜间省电 · 06:00恢复');
 });
+test('Kindle runtime refreshes clock and data after browser focus resumes', () => {
+  const Clock = fixedDate('2026-09-15T22:30:00Z');
+  const runtime = runBrowserRuntime(demoSnapshot(), new Map(), { Date: Clock });
+  runtime.scripts.length = 0;
+  Clock.set('2026-09-16T01:15:00Z');
+  runtime.listeners.window.focus();
+  assert.equal(runtime.nodes.get('#dtTime').textContent, '09:15');
+  assert.ok(runtime.scripts.some((url) => /live-endpoint\.js\?_=/i.test(url)));
+});
+
 
 test('browser runtime restores a valid cache and rejects older replacement data', () => {
   const storage = new Map();
