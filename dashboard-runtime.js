@@ -7,6 +7,8 @@
     pollEvery: 3 * 60 * 1000,
     pollOffset: 5000,
     cacheKey: 'kindle_ai_quota_cache_v2',
+    heartbeatEvery: 60 * 1000,
+    resumeGap: 5 * 60 * 1000,
     maxCacheAge: 30 * 60 * 1000,
     quietStart: 23,
     quietEnd: 6
@@ -16,7 +18,9 @@
     latest: null,
     renderedAt: '',
     usingCache: false,
-    requestId: 0
+    requestId: 0,
+    lastHeartbeatAt: Date.now(),
+    lastResumeAt: Date.now()
   };
   var sourceNames = ['copilot', 'codex', 'mimo', 'deepseek'];
   var weekdays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
@@ -491,6 +495,40 @@
     );
   }
 
+  function resumeFromSleep(force) {
+    var now = Date.now();
+    var slept = now - state.lastHeartbeatAt >= settings.resumeGap;
+    state.lastHeartbeatAt = now;
+
+    if (!force && !slept) return;
+    if (now - state.lastResumeAt < 2000) return;
+    state.lastResumeAt = now;
+    updateClock();
+    if (!isQuiet(new Date(now))) refresh();
+  }
+
+  function bindResumeEvents() {
+    if (win.addEventListener) {
+      win.addEventListener('focus', function () { resumeFromSleep(true); }, false);
+      win.addEventListener('pageshow', function () { resumeFromSleep(true); }, false);
+      win.addEventListener('online', function () { resumeFromSleep(true); }, false);
+    }
+    if (doc.addEventListener) {
+      var handleVisibility = function () {
+        if (!doc.hidden && !doc.webkitHidden) resumeFromSleep(true);
+      };
+      doc.addEventListener('visibilitychange', handleVisibility, false);
+      doc.addEventListener('webkitvisibilitychange', handleVisibility, false);
+    }
+  }
+
+  function scheduleHeartbeat() {
+    setTimeout(function () {
+      resumeFromSleep(false);
+      scheduleHeartbeat();
+    }, settings.heartbeatEvery);
+  }
+
   function scheduleRefresh() {
     var now = new Date();
     var milliseconds = now.getTime();
@@ -527,7 +565,9 @@
   if (!present(win.DASH_DATA, false)) showValidatedCache();
   updateClock();
   updateBattery();
+  bindResumeEvents();
   if (!isQuiet()) refresh();
   scheduleRefresh();
   scheduleMinuteClock();
+  scheduleHeartbeat();
 }(window, document));

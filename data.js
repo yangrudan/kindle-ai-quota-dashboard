@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-16T09:10:08.089+08:00",
+  "updatedAt": "2026-09-16T09:20:06.642+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.6,
-    "feelsLikeC": 26.8,
-    "humidity": 50,
-    "windKph": 1.9,
+    "tempC": 26,
+    "feelsLikeC": 27,
+    "humidity": 48,
+    "windKph": 2.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-09-16T09:00:00.000+08:00",
-    "fetchedAt": "2026-09-16T09:10:08.089+08:00",
+    "observedAt": "2026-09-16T09:15:00.000+08:00",
+    "fetchedAt": "2026-09-16T09:20:06.642+08:00",
     "error": null
   },
   "quote": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-16T09:10:04.659+08:00",
+      "fetchedAt": "2026-09-16T09:20:04.657+08:00",
       "error": null
     },
     "codex": {
@@ -39,16 +39,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-09-16T14:10:07.000+08:00"
+          "usedPct": 12,
+          "resetAt": "2026-09-16T14:12:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 59,
+          "usedPct": 61,
           "resetAt": "2026-09-20T18:57:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T09:10:06.251+08:00",
+      "fetchedAt": "2026-09-16T09:20:04.969+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "balance": 28.39,
       "currency": "CNY",
       "detail": "余额 ¥28.39",
-      "fetchedAt": "2026-09-16T09:10:03.104+08:00",
+      "fetchedAt": "2026-09-16T09:20:03.190+08:00",
       "stale": false,
       "error": null
     },
@@ -67,7 +67,7 @@ window.DASH_DATA = {
       "balance": 27.25,
       "currency": "CNY",
       "detail": "余额 ¥27.25",
-      "fetchedAt": "2026-09-16T09:10:06.259+08:00",
+      "fetchedAt": "2026-09-16T09:20:04.981+08:00",
       "error": null
     }
   }
