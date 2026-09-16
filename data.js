@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-16T09:20:06.642+08:00",
+  "updatedAt": "2026-09-16T09:20:24.434+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-09-16T09:15:00.000+08:00",
-    "fetchedAt": "2026-09-16T09:20:06.642+08:00",
+    "fetchedAt": "2026-09-16T09:20:24.434+08:00",
     "error": null
   },
   "quote": {
@@ -48,7 +48,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-20T18:57:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-16T09:20:04.969+08:00",
+      "fetchedAt": "2026-09-16T09:20:22.812+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "balance": 28.39,
       "currency": "CNY",
       "detail": "余额 ¥28.39",
-      "fetchedAt": "2026-09-16T09:20:03.190+08:00",
+      "fetchedAt": "2026-09-16T09:20:20.507+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,9 @@ window.DASH_DATA = {
       "currency": "CNY",
       "detail": "余额 ¥27.25",
       "fetchedAt": "2026-09-16T09:20:04.981+08:00",
-      "error": null
+      "error": "没有设置环境变量 DEEPSEEK_API_KEY",
+      "stale": true,
+      "lastAttemptAt": "2026-09-16T09:20:22.820+08:00"
     }
   }
 };
