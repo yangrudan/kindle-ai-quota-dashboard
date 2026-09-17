@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-17T07:50:16.851+08:00",
+  "updatedAt": "2026-09-17T08:00:08.069+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.2,
-    "feelsLikeC": 25.1,
-    "humidity": 65,
-    "windKph": 1.7,
-    "windDir": "北风",
+    "tempC": 24.2,
+    "feelsLikeC": 25.9,
+    "humidity": 60,
+    "windKph": 1.8,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-09-17T07:30:00.000+08:00",
-    "fetchedAt": "2026-09-17T07:50:16.851+08:00",
+    "observedAt": "2026-09-17T08:00:00.000+08:00",
+    "fetchedAt": "2026-09-17T08:00:08.070+08:00",
     "error": null
   },
   "quote": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-17T07:50:15.387+08:00",
+      "fetchedAt": "2026-09-17T08:00:05.367+08:00",
       "error": null
     },
     "codex": {
@@ -40,15 +40,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-17T12:50:16.000+08:00"
+          "resetAt": "2026-09-17T13:00:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 83,
-          "resetAt": "2026-09-20T18:57:09.000+08:00"
+          "resetAt": "2026-09-20T18:57:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-17T07:50:15.569+08:00",
+      "fetchedAt": "2026-09-17T08:00:06.761+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "balance": 28.39,
       "currency": "CNY",
       "detail": "余额 ¥28.39",
-      "fetchedAt": "2026-09-17T07:50:12.386+08:00",
+      "fetchedAt": "2026-09-17T08:00:03.699+08:00",
       "stale": false,
       "error": null
     },
@@ -67,7 +67,7 @@ window.DASH_DATA = {
       "balance": 27.2,
       "currency": "CNY",
       "detail": "余额 ¥27.20",
-      "fetchedAt": "2026-09-17T07:50:15.578+08:00",
+      "fetchedAt": "2026-09-17T08:00:06.764+08:00",
       "error": null
     }
   }
