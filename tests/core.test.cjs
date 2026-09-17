@@ -19,7 +19,7 @@ const { safeError } = require('../src/lib/common.cjs');
 const { ROOT, validateConfig } = require('../src/lib/config.cjs');
 const { copilotSource } = require('../src/collectors/copilot.cjs');
 const { collectMimo } = require('../src/collectors/mimo.cjs');
-const { displayedBalance } = require('../scripts/collect-mimo-balance.cjs');
+const { displayedBalance, reloadConsolePage } = require('../scripts/collect-mimo-balance.cjs');
 const { collectProblems } = require('../scripts/check-public.cjs');
 
 test('demo snapshot passes the public schema', () => {
@@ -89,6 +89,37 @@ test('config rejects inline secrets but accepts environment variable names', () 
   assert.throws(() => validateConfig({
     providers: { demo: { token: 'this-should-never-be-here' } },
   }), /不允许保存密钥值/);
+});
+
+test('MiMo collector reloads the console before reading its balance', async () => {
+  const calls = [];
+  let marker = '';
+  const cdp = {
+    async send(method, params = {}) {
+      calls.push({ method, params });
+      if (method === 'Runtime.evaluate' && params.expression.includes('__mimoDashboardReloadMarker =')) {
+        marker = params.expression.match(/=\s*(".*")$/)[1];
+      }
+      if (method === 'Runtime.evaluate' && params.returnByValue) {
+        return {
+          result: {
+            value: JSON.stringify(['complete', 'https://platform.xiaomimimo.com/console/balance', '']),
+          },
+        };
+      }
+      return {};
+    },
+  };
+
+  const pageUrl = await reloadConsolePage(cdp);
+  assert.equal(pageUrl, 'https://platform.xiaomimimo.com/console/balance');
+  assert.ok(marker, 'reload marker should be installed before refreshing');
+  assert.deepEqual(calls.slice(0, 3).map((item) => item.method), [
+    'Page.enable',
+    'Runtime.evaluate',
+    'Page.reload',
+  ]);
+  assert.equal(calls[2].params.ignoreCache, true);
 });
 
 test('snapshot writer emits JSON and old-browser JavaScript', () => {

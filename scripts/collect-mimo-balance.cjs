@@ -126,6 +126,41 @@ function displayedBalance(value) {
   };
 }
 
+async function reloadConsolePage(cdp) {
+  const marker = `mimo-dashboard-${Date.now()}-${Math.random().toString(16).slice(2)}`;
+  await cdp.send('Page.enable');
+  await cdp.send('Runtime.evaluate', {
+    expression: `window.__mimoDashboardReloadMarker = ${JSON.stringify(marker)}`,
+  });
+  await cdp.send('Page.reload', { ignoreCache: true });
+
+  let pageUrl = '';
+  for (let attempt = 0; attempt < 120; attempt += 1) {
+    try {
+      const state = await cdp.send('Runtime.evaluate', {
+        expression: `JSON.stringify([
+          document.readyState,
+          location.href,
+          window.__mimoDashboardReloadMarker || ''
+        ])`,
+        returnByValue: true,
+      });
+      const value = state && state.result && state.result.value;
+      if (typeof value === 'string') {
+        const [readyState, currentUrl, currentMarker] = JSON.parse(value);
+        pageUrl = currentUrl;
+        if (currentMarker !== marker && pageUrl !== 'about:blank' && readyState === 'complete') {
+          return pageUrl;
+        }
+      }
+    } catch {
+      // Reloading briefly destroys the JavaScript execution context.
+    }
+    await wait(250);
+  }
+  throw new Error('刷新 MiMo 控制台页面超时');
+}
+
 async function readBalanceWithChrome(profileDir) {
   if (typeof WebSocket !== 'function') {
     throw new Error('MiMo 自动采集需要 Node.js 22 或更高版本');
@@ -164,25 +199,7 @@ async function readBalanceWithChrome(profileDir) {
     const target = await consoleTarget(port);
     cdp = await openCdp(target.webSocketDebuggerUrl);
     await cdp.send('Runtime.enable');
-
-    let pageUrl = '';
-    for (let attempt = 0; attempt < 120; attempt += 1) {
-      const state = await cdp.send('Runtime.evaluate', {
-        expression: 'document.readyState + "|" + location.href',
-        returnByValue: true,
-      });
-      const value = state && state.result && state.result.value;
-      if (typeof value === 'string') {
-        const separator = value.indexOf('|');
-        const readyState = value.slice(0, separator);
-        pageUrl = value.slice(separator + 1);
-        if (pageUrl !== 'about:blank' && readyState === 'complete') break;
-      }
-      await wait(250);
-    }
-    if (!pageUrl || pageUrl === 'about:blank') {
-      throw new Error('等待 MiMo 控制台页面加载超时');
-    }
+    const pageUrl = await reloadConsolePage(cdp);
     if (new URL(pageUrl).origin !== new URL(CONSOLE_URL).origin) {
       throw new Error('MiMo 登录已过期；请运行 npm run mimo:login 后重试');
     }
@@ -244,4 +261,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { displayedBalance, readBalanceWithChrome };
+module.exports = { displayedBalance, readBalanceWithChrome, reloadConsolePage };
