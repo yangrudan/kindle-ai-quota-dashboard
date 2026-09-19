@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-20T04:50:07.912+08:00",
+  "updatedAt": "2026-09-20T05:00:08.020+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 24.1,
     "feelsLikeC": 28.8,
     "humidity": 92,
-    "windKph": 4,
+    "windKph": 3.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-09-20T04:45:00.000+08:00",
-    "fetchedAt": "2026-09-20T04:50:07.912+08:00",
+    "observedAt": "2026-09-20T05:00:00.000+08:00",
+    "fetchedAt": "2026-09-20T05:00:08.020+08:00",
     "error": null
   },
   "quote": {
@@ -30,7 +30,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-20T04:50:05.709+08:00",
+      "fetchedAt": "2026-09-20T05:00:06.694+08:00",
       "error": null
     },
     "codex": {
@@ -40,7 +40,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-20T09:50:07.000+08:00"
+          "resetAt": "2026-09-20T10:00:07.000+08:00"
         },
         {
           "name": "周",
@@ -48,7 +48,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-24T10:51:48.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-20T04:50:06.022+08:00",
+      "fetchedAt": "2026-09-20T05:00:06.934+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@ window.DASH_DATA = {
       "balance": 28.14,
       "currency": "CNY",
       "detail": "余额 ¥28.14",
-      "fetchedAt": "2026-09-20T04:50:04.122+08:00",
+      "fetchedAt": "2026-09-20T05:00:04.987+08:00",
       "stale": false,
       "error": null
     },
@@ -67,7 +67,7 @@ window.DASH_DATA = {
       "balance": 27.2,
       "currency": "CNY",
       "detail": "余额 ¥27.20",
-      "fetchedAt": "2026-09-20T04:50:06.031+08:00",
+      "fetchedAt": "2026-09-20T05:00:06.942+08:00",
       "error": null
     }
   }
