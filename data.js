@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-21T12:00:45.384+08:00",
+  "updatedAt": "2026-09-21T12:10:44.718+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-09-21T12:00:00.000+08:00",
-    "fetchedAt": "2026-09-21T12:00:45.384+08:00",
+    "fetchedAt": "2026-09-21T12:10:44.719+08:00",
     "error": null
   },
   "quote": {
@@ -52,7 +52,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-21T11:50:06.692+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-09-21T12:00:34.853+08:00"
+      "lastAttemptAt": "2026-09-21T12:10:34.173+08:00"
     },
     "mimo": {
       "ok": true,
@@ -73,7 +73,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-09-21T11:50:06.702+08:00",
       "error": "fetch failed",
       "stale": true,
-      "lastAttemptAt": "2026-09-21T12:00:34.857+08:00"
+      "lastAttemptAt": "2026-09-21T12:10:34.181+08:00"
     }
   }
 };
