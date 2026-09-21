@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-21T15:20:08.005+08:00",
+  "updatedAt": "2026-09-21T15:30:08.930+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 31,
-    "feelsLikeC": 31.8,
-    "humidity": 42,
-    "windKph": 10.2,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 30.8,
+    "feelsLikeC": 31.7,
+    "humidity": 43,
+    "windKph": 10.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-09-21T15:15:00.000+08:00",
-    "fetchedAt": "2026-09-21T15:20:08.005+08:00",
+    "observedAt": "2026-09-21T15:30:00.000+08:00",
+    "fetchedAt": "2026-09-21T15:30:08.930+08:00",
     "error": null
   },
   "quote": {
@@ -30,7 +30,7 @@
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-21T15:20:06.473+08:00",
+      "fetchedAt": "2026-09-21T15:30:07.532+08:00",
       "error": null
     },
     "codex": {
@@ -48,7 +48,7 @@
           "resetAt": "2026-09-24T10:51:48.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T15:20:06.632+08:00",
+      "fetchedAt": "2026-09-21T15:30:07.689+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +57,7 @@
       "balance": 28.14,
       "currency": "CNY",
       "detail": "余额 ¥28.14",
-      "fetchedAt": "2026-09-21T15:20:05.085+08:00",
+      "fetchedAt": "2026-09-21T15:30:06.119+08:00",
       "stale": false,
       "error": null
     },
@@ -67,7 +67,7 @@
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-21T15:20:06.641+08:00",
+      "fetchedAt": "2026-09-21T15:30:07.698+08:00",
       "error": null
     }
   }
