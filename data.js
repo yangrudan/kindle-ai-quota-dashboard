@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-21T11:50:07.611+08:00",
+  "updatedAt": "2026-09-21T12:00:45.384+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 30.4,
-    "feelsLikeC": 32.5,
+    "tempC": 30.6,
+    "feelsLikeC": 32.7,
     "humidity": 37,
-    "windKph": 5.8,
+    "windKph": 5.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-09-21T11:45:00.000+08:00",
-    "fetchedAt": "2026-09-21T11:50:07.611+08:00",
+    "observedAt": "2026-09-21T12:00:00.000+08:00",
+    "fetchedAt": "2026-09-21T12:00:45.384+08:00",
     "error": null
   },
   "quote": {
@@ -30,8 +30,9 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-21T11:50:06.447+08:00",
-      "error": null
+      "fetchedAt": "2026-09-14T10:26:38.861+08:00",
+      "error": "云端查询失败：Get \"https://api.github.com/copilot_internal/user\": dial tcp 20.205.243.168:443: connect: no route to host\n",
+      "stale": true
     },
     "codex": {
       "ok": true,
@@ -49,7 +50,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-09-21T11:50:06.692+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-09-21T12:00:34.853+08:00"
     },
     "mimo": {
       "ok": true,
@@ -68,7 +71,9 @@ window.DASH_DATA = {
       "currency": "CNY",
       "detail": "余额 ¥24.93",
       "fetchedAt": "2026-09-21T11:50:06.702+08:00",
-      "error": null
+      "error": "fetch failed",
+      "stale": true,
+      "lastAttemptAt": "2026-09-21T12:00:34.857+08:00"
     }
   }
 };
