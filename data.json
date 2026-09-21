@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-21T12:10:44.718+08:00",
+  "updatedAt": "2026-09-21T12:20:45.925+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 30.6,
-    "feelsLikeC": 32.7,
+    "tempC": 30.8,
+    "feelsLikeC": 32.9,
     "humidity": 37,
-    "windKph": 5.9,
+    "windKph": 6.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-09-21T12:00:00.000+08:00",
-    "fetchedAt": "2026-09-21T12:10:44.719+08:00",
+    "observedAt": "2026-09-21T12:15:00.000+08:00",
+    "fetchedAt": "2026-09-21T12:20:45.925+08:00",
     "error": null
   },
   "quote": {
@@ -30,9 +30,8 @@
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-14T10:26:38.861+08:00",
-      "error": "云端查询失败：Get \"https://api.github.com/copilot_internal/user\": dial tcp 20.205.243.168:443: connect: no route to host\n",
-      "stale": true
+      "fetchedAt": "2026-09-21T12:20:35.148+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -40,7 +39,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 81,
+          "usedPct": 87,
           "resetAt": "2026-09-21T15:37:24.000+08:00"
         },
         {
@@ -49,10 +48,8 @@
           "resetAt": "2026-09-24T10:51:48.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-21T11:50:06.692+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-09-21T12:10:34.173+08:00"
+      "fetchedAt": "2026-09-21T12:20:35.387+08:00",
+      "error": null
     },
     "mimo": {
       "ok": true,
@@ -61,8 +58,8 @@
       "currency": "CNY",
       "detail": "余额 ¥28.14",
       "fetchedAt": "2026-09-21T11:50:04.939+08:00",
-      "stale": false,
-      "error": null
+      "stale": true,
+      "error": "MiMo 控制台余额快照已过期"
     },
     "deepseek": {
       "ok": true,
@@ -73,7 +70,7 @@
       "fetchedAt": "2026-09-21T11:50:06.702+08:00",
       "error": "fetch failed",
       "stale": true,
-      "lastAttemptAt": "2026-09-21T12:10:34.181+08:00"
+      "lastAttemptAt": "2026-09-21T12:20:35.396+08:00"
     }
   }
 }
