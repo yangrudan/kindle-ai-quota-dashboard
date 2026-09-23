@@ -34,15 +34,22 @@ test('365 local quotes rotate once per Beijing calendar day', () => {
   const payload = JSON.parse(fs.readFileSync(filePath, 'utf8'));
   assert.equal(payload.quotes.length, 365);
   assert.equal(new Set(payload.quotes.map((item) => item.text)).size, 365);
-  assert.ok(payload.quotes.every((item) => item.text && item.source));
+  assert.equal(payload.work, '资治通鉴');
+  assert.ok(payload.quotes.every((item) => (
+    item.text && item.source.includes('资治通鉴') && item.analysis
+  )));
+  assert.ok(payload.quotes.every((item) => !/[□�崐]/.test(item.text + item.analysis)));
 
   const first = readQuote(filePath, '2026-09-11T00:01:00+08:00');
   const sameDay = readQuote(filePath, '2026-09-11T23:59:00+08:00');
   const nextDay = readQuote(filePath, '2026-09-12T00:01:00+08:00');
   const nextCycle = readQuote(filePath, '2027-09-11T00:01:00+08:00');
+  const september23 = readQuote(filePath, '2026-09-23T12:00:00+08:00');
   assert.deepEqual(sameDay, first);
   assert.notDeepEqual(nextDay, first);
   assert.deepEqual(nextCycle, first);
+  assert.equal(september23.text, '兼听则明，偏信则暗。');
+  assert.match(september23.analysis, /多方意见/);
   assert.equal(
     beijingDayNumber('2026-09-10T16:01:00Z'),
     beijingDayNumber('2026-09-11T00:01:00+08:00'),

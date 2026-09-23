@@ -39,6 +39,7 @@ function readQuote(filePath, value = new Date()) {
     return {
       text: String(selected.text).slice(0, 180),
       source: String(selected.source || '').slice(0, 80),
+      analysis: String(selected.analysis || '').slice(0, 180),
     };
   } catch {
     return null;
@@ -117,8 +118,9 @@ function demoSnapshot() {
       error: null,
     },
     quote: {
-      text: '把无人走过的路，踩成后来人的近路。',
-      source: '开源演示',
+      text: '兼听则明，偏信则暗。',
+      source: '《资治通鉴·唐纪·卷一百九十二》',
+      analysis: '判断事情要尽量听取多方意见；只听一种声音，信息容易被遮蔽，决定也容易失真。',
     },
     sources: {
       copilot: {

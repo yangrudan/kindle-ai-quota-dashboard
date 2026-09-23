@@ -141,9 +141,9 @@ npm run mimo:collect
 
 ## 每日一语
 
-仓库自带 [`content/quotes-365.json`](content/quotes-365.json)，收录 365 条不重复的公版经典语录，来源包括《论语》《诗经》《资治通鉴》《孟子》《史记》《红楼梦》《三国演义》《水浒传》和《幽梦影》。
+仓库自带 [`content/quotes-365.json`](content/quotes-365.json)，收录 365 条不重复的《资治通鉴》语录。每条都包含准确卷次和一段简短白话解析，页面会把原文、出处与解析一起显示。
 
-采集器按照 `Asia/Shanghai` 的本地日期每天选择一条；连续 365 天不会重复，闰日也会正常前进。选择过程完全在电脑本地完成，不调用 AI 或第三方语录接口。把配置设为：
+采集器按照 `Asia/Shanghai` 的本地日期每天选择一条；连续 365 天不会重复，闰日也会正常前进。选择过程完全在电脑本地完成，不调用 AI 或第三方语录接口。语录原文来自公版古籍，点校与白话参考的许可信息见 [`content/THIRD_PARTY_NOTICES.md`](content/THIRD_PARTY_NOTICES.md)。把配置设为：
 
 ```json
 "quoteFile": "content/quotes-365.json"
