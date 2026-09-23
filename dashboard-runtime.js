@@ -416,6 +416,7 @@
     if (quote.source) {
       ui.textNode(doc.querySelector('.quote-src'), '— ' + quote.source);
     }
+    ui.textNode(doc.querySelector('.quote-analysis'), quote.analysis ? '解析：' + quote.analysis : '');
   }
 
   function present(data, fromCache) {

@@ -75,6 +75,7 @@ body {
 .quote::after { content: '\201D'; bottom: 2px; right: 12px; }
 .quote-text { font-size: 19px; line-height: 1.8; font-style: italic; margin-bottom: 4px; }
 .quote-src { font-size: 12px; color: var(--light); letter-spacing: 0.05em; }
+.quote-analysis { margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--border-light); font-size: 13px; line-height: 1.65; color: var(--mid); text-align: left; }
 
 /* ===== Quota cards ===== */
 .quota-grid {
@@ -162,6 +163,7 @@ body {
 .legacy-kindle .quote { padding: 29px 43px; margin-bottom: 36px; }
 .legacy-kindle .quote-text { font-size: 34px; }
 .legacy-kindle .quote-src { font-size: 21px; }
+.legacy-kindle .quote-analysis { margin-top: 16px; padding-top: 14px; border-top: 1px solid #ccc; font-size: 21px; line-height: 1.6; color: #555; text-align: left; }
 .legacy-kindle .quote::before, .legacy-kindle .quote::after { font-size: 50px; }
 .legacy-kindle .data-alert { margin: -18px 0 21px; padding: 11px 18px; border-width: 3px; font-size: 23px; }
 .legacy-kindle .q-card { width: 474px; height: 380px; margin-bottom: 21px; padding: 21px 25px; font-size: 28px; }
@@ -209,8 +211,9 @@ body {
 
 <!-- ===== Quote ===== -->
 <div class="quote">
-  <div class="quote-text" id="quoteText">重要的东西，用眼睛是看不见的。</div>
-  <div class="quote-src sans" id="quoteSrc">— 圣·埃克苏佩里 ·《小王子》</div>
+  <div class="quote-text" id="quoteText">兼听则明，偏信则暗。</div>
+  <div class="quote-src sans" id="quoteSrc">— 《资治通鉴·唐纪·卷一百九十二》</div>
+  <div class="quote-analysis sans" id="quoteAnalysis">解析：判断事情要尽量听取多方意见；只听一种声音，信息容易被遮蔽，决定也容易失真。</div>
 </div>
 
 <!-- ===== AI Quotas ===== -->
@@ -280,6 +283,6 @@ body {
 
 <script src="data.js"></script>
 <script src="live-endpoint.js"></script>
-<script src="dashboard-runtime.js?v=20260916a"></script>
+<script src="dashboard-runtime.js?v=20260923a"></script>
 </body>
 </html>

@@ -1,22 +1,23 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-23T15:10:12.948+08:00",
+  "updatedAt": "2026-09-23T15:20:11.310+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 31.1,
-    "feelsLikeC": 32.3,
-    "humidity": 48,
-    "windKph": 13.9,
+    "tempC": 30.9,
+    "feelsLikeC": 32.1,
+    "humidity": 49,
+    "windKph": 14.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-09-23T15:00:00.000+08:00",
-    "fetchedAt": "2026-09-23T15:10:12.948+08:00",
+    "observedAt": "2026-09-23T15:15:00.000+08:00",
+    "fetchedAt": "2026-09-23T15:20:11.310+08:00",
     "error": null
   },
   "quote": {
-    "text": "我善养吾浩然之气。",
-    "source": "《孟子·公孙丑章句上·第二节》"
+    "text": "兼听则明，偏信则暗。",
+    "source": "《资治通鉴·唐纪·卷一百九十二》",
+    "analysis": "判断事情要尽量听取多方意见；只听一种声音，信息容易被遮蔽，决定也容易失真。"
   },
   "sources": {
     "copilot": {
@@ -30,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-23T15:10:10.323+08:00",
+      "fetchedAt": "2026-09-23T15:20:09.619+08:00",
       "error": null
     },
     "codex": {
@@ -39,16 +40,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 68,
-          "resetAt": "2026-09-23T15:18:19.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-09-23T20:18:26.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 85,
+          "usedPct": 87,
           "resetAt": "2026-09-24T10:51:48.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-23T15:10:10.659+08:00",
+      "fetchedAt": "2026-09-23T15:20:09.888+08:00",
       "error": null
     },
     "mimo": {
@@ -57,7 +58,7 @@ window.DASH_DATA = {
       "balance": 28.14,
       "currency": "CNY",
       "detail": "余额 ¥28.14",
-      "fetchedAt": "2026-09-23T15:10:06.702+08:00",
+      "fetchedAt": "2026-09-23T15:20:06.807+08:00",
       "stale": false,
       "error": null
     },
@@ -67,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-23T15:10:10.668+08:00",
+      "fetchedAt": "2026-09-23T15:20:09.899+08:00",
       "error": null
     }
   }
