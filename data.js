@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-23T23:50:10.312+08:00",
+  "updatedAt": "2026-09-24T00:00:16.907+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,13 +11,13 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-09-23T23:45:00.000+08:00",
-    "fetchedAt": "2026-09-23T23:50:10.312+08:00",
+    "fetchedAt": "2026-09-24T00:00:16.908+08:00",
     "error": null
   },
   "quote": {
-    "text": "兼听则明，偏信则暗。",
-    "source": "《资治通鉴·唐纪·卷一百九十二》",
-    "analysis": "判断事情要尽量听取多方意见；只听一种声音，信息容易被遮蔽，决定也容易失真。"
+    "text": "汉家君天下四百许年，恩泽深渥，兆民戴之。今上富于春秋，未有不善宣于天下。公欲废嫡立庶，恐众不从公议也。",
+    "source": "《资治通鉴·汉纪·卷五十九》",
+    "analysis": "汉朝统治天下约四百年，恩德深厚，万民拥戴。如今皇上年龄尚幼，没有什么过失传布天下。您想废嫡立庶，恐怕众人不会赞同您的提议。"
   },
   "sources": {
     "copilot": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-23T23:50:07.720+08:00",
+      "fetchedAt": "2026-09-24T00:00:15.207+08:00",
       "error": null
     },
     "codex": {
@@ -41,7 +41,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-24T04:50:09.000+08:00"
+          "resetAt": "2026-09-24T05:00:16.000+08:00"
         },
         {
           "name": "周",
@@ -49,7 +49,7 @@ window.DASH_DATA = {
           "resetAt": "2026-09-24T10:51:48.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-23T23:50:08.009+08:00",
+      "fetchedAt": "2026-09-24T00:00:15.436+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 28.14,
       "currency": "CNY",
       "detail": "余额 ¥28.14",
-      "fetchedAt": "2026-09-23T23:50:04.427+08:00",
+      "fetchedAt": "2026-09-24T00:00:13.709+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-23T23:50:08.013+08:00",
+      "fetchedAt": "2026-09-24T00:00:15.444+08:00",
       "error": null
     }
   }
