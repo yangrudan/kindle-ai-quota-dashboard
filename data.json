@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-24T09:30:18.519+08:00",
+  "updatedAt": "2026-09-24T09:40:06.913+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28,
-    "feelsLikeC": 30.8,
-    "humidity": 62,
-    "windKph": 7,
+    "tempC": 29,
+    "feelsLikeC": 31.8,
+    "humidity": 58,
+    "windKph": 6.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-09-24T09:00:00.000+08:00",
-    "fetchedAt": "2026-09-24T09:30:18.520+08:00",
+    "observedAt": "2026-09-24T09:30:00.000+08:00",
+    "fetchedAt": "2026-09-24T09:40:06.913+08:00",
     "error": null
   },
   "quote": {
@@ -31,7 +31,7 @@
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-24T09:30:16.175+08:00",
+      "fetchedAt": "2026-09-24T09:40:06.390+08:00",
       "error": null
     },
     "codex": {
@@ -50,7 +50,9 @@
         }
       ],
       "fetchedAt": "2026-09-24T09:30:16.384+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-09-24T09:40:06.687+08:00"
     },
     "mimo": {
       "ok": true,
@@ -58,7 +60,7 @@
       "balance": 28.14,
       "currency": "CNY",
       "detail": "余额 ¥28.14",
-      "fetchedAt": "2026-09-24T09:30:13.486+08:00",
+      "fetchedAt": "2026-09-24T09:40:04.141+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +70,7 @@
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-24T09:30:16.388+08:00",
+      "fetchedAt": "2026-09-24T09:40:06.696+08:00",
       "error": null
     }
   }
