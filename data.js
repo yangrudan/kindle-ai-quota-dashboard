@@ -1,23 +1,23 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-26T23:50:09.071+08:00",
+  "updatedAt": "2026-09-27T00:00:08.207+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25,
-    "feelsLikeC": 30.4,
+    "tempC": 24.9,
+    "feelsLikeC": 30.5,
     "humidity": 93,
-    "windKph": 2.8,
+    "windKph": 2,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-09-26T23:45:00.000+08:00",
-    "fetchedAt": "2026-09-26T23:50:09.072+08:00",
+    "observedAt": "2026-09-27T00:00:00.000+08:00",
+    "fetchedAt": "2026-09-27T00:00:08.207+08:00",
     "error": null
   },
   "quote": {
-    "text": "无钓者中大鱼，则纵而随之，须可制而后牵，则无不得也。人主之威，岂徒大鱼而已！予诚直臣，然计不足采，不可不精思也。",
-    "source": "《资治通鉴·魏纪·卷七十二》",
-    "analysis": "渔夫钓到一条大鱼，就要放长线跟在后，必须到可以制用时再用线将它牵回，那就没有得不到的。帝王的威严，难道只是一条大鱼而已！你诚然是正直的臣僚，然而计谋不足以采纳，不可不仔细想一想。"
+    "text": "此去长安百八十里，智光夜眠不敢舒足，恐踏破长安城，至于挟天子令诸侯，惟周智光能之。",
+    "source": "《资治通鉴·唐纪·卷二百二十四》",
+    "analysis": "这里距长安一百八十里地，我晚上睡觉不敢伸展双足，害怕踏破长安城。至于挟天子以令诸侯，只有周智光才能办到。"
   },
   "sources": {
     "copilot": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-26T23:50:07.068+08:00",
+      "fetchedAt": "2026-09-27T00:00:07.047+08:00",
       "error": null
     },
     "codex": {
@@ -41,7 +41,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-27T04:50:08.000+08:00"
+          "resetAt": "2026-09-27T05:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -49,7 +49,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-01T12:17:41.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-26T23:50:07.232+08:00",
+      "fetchedAt": "2026-09-27T00:00:07.183+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 28.14,
       "currency": "CNY",
       "detail": "余额 ¥28.14",
-      "fetchedAt": "2026-09-26T23:50:05.636+08:00",
+      "fetchedAt": "2026-09-27T00:00:05.363+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-26T23:50:07.243+08:00",
+      "fetchedAt": "2026-09-27T00:00:07.189+08:00",
       "error": null
     }
   }
