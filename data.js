@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-27T01:40:08.566+08:00",
+  "updatedAt": "2026-09-27T01:50:08.684+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.8,
-    "feelsLikeC": 30.6,
+    "tempC": 24.7,
+    "feelsLikeC": 30.3,
     "humidity": 94,
-    "windKph": 0.7,
-    "windDir": "南风",
+    "windKph": 1.6,
+    "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-09-27T01:30:00.000+08:00",
-    "fetchedAt": "2026-09-27T01:40:08.567+08:00",
+    "observedAt": "2026-09-27T01:45:00.000+08:00",
+    "fetchedAt": "2026-09-27T01:50:08.684+08:00",
     "error": null
   },
   "quote": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-27T01:40:06.913+08:00",
+      "fetchedAt": "2026-09-27T01:50:06.822+08:00",
       "error": null
     },
     "codex": {
@@ -41,15 +41,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-27T06:40:08.000+08:00"
+          "resetAt": "2026-09-27T06:50:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-04T01:40:08.000+08:00"
+          "resetAt": "2026-10-04T01:50:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T01:40:07.575+08:00",
+      "fetchedAt": "2026-09-27T01:50:07.134+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 28.14,
       "currency": "CNY",
       "detail": "余额 ¥28.14",
-      "fetchedAt": "2026-09-27T01:40:05.392+08:00",
+      "fetchedAt": "2026-09-27T01:50:05.178+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-27T01:40:07.584+08:00",
+      "fetchedAt": "2026-09-27T01:50:07.142+08:00",
       "error": null
     }
   }
