@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-27T17:10:08.194+08:00",
+  "updatedAt": "2026-09-27T17:20:10.335+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
+    "description": "多云",
+    "iconKey": "cloudy",
     "tempC": 27,
-    "feelsLikeC": 33,
-    "humidity": 90,
-    "windKph": 5.6,
+    "feelsLikeC": 32.9,
+    "humidity": 89,
+    "windKph": 6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-09-27T17:00:00.000+08:00",
-    "fetchedAt": "2026-09-27T17:10:08.194+08:00",
+    "observedAt": "2026-09-27T17:15:00.000+08:00",
+    "fetchedAt": "2026-09-27T17:20:10.335+08:00",
     "error": null
   },
   "quote": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-27T17:10:05.757+08:00",
+      "fetchedAt": "2026-09-27T17:20:08.447+08:00",
       "error": null
     },
     "codex": {
@@ -41,15 +41,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-27T22:10:07.000+08:00"
+          "resetAt": "2026-09-27T22:20:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-04T17:10:07.000+08:00"
+          "resetAt": "2026-10-04T17:20:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T17:10:06.110+08:00",
+      "fetchedAt": "2026-09-27T17:20:08.720+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 28.14,
       "currency": "CNY",
       "detail": "余额 ¥28.14",
-      "fetchedAt": "2026-09-27T17:10:04.477+08:00",
+      "fetchedAt": "2026-09-27T17:20:06.723+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-27T17:10:06.118+08:00",
+      "fetchedAt": "2026-09-27T17:20:08.729+08:00",
       "error": null
     }
   }
