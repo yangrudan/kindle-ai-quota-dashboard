@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-27T15:10:10.102+08:00",
+  "updatedAt": "2026-09-27T15:20:08.383+08:00",
   "weather": {
     "ok": true,
-    "description": "雷雨",
-    "iconKey": "thunder",
-    "tempC": 25.8,
-    "feelsLikeC": 30.3,
-    "humidity": 93,
-    "windKph": 13.3,
+    "description": "阵雨",
+    "iconKey": "rain",
+    "tempC": 25.4,
+    "feelsLikeC": 30.2,
+    "humidity": 96,
+    "windKph": 12.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-09-27T15:00:00.000+08:00",
-    "fetchedAt": "2026-09-27T15:10:10.102+08:00",
+    "observedAt": "2026-09-27T15:15:00.000+08:00",
+    "fetchedAt": "2026-09-27T15:20:08.383+08:00",
     "error": null
   },
   "quote": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-27T15:10:07.404+08:00",
+      "fetchedAt": "2026-09-27T15:20:06.976+08:00",
       "error": null
     },
     "codex": {
@@ -41,15 +41,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-27T20:10:09.000+08:00"
+          "resetAt": "2026-09-27T20:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-04T15:10:09.000+08:00"
+          "resetAt": "2026-10-04T15:20:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T15:10:07.725+08:00",
+      "fetchedAt": "2026-09-27T15:20:07.231+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 28.14,
       "currency": "CNY",
       "detail": "余额 ¥28.14",
-      "fetchedAt": "2026-09-27T15:10:05.231+08:00",
+      "fetchedAt": "2026-09-27T15:20:05.242+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-27T15:10:07.734+08:00",
+      "fetchedAt": "2026-09-27T15:20:07.241+08:00",
       "error": null
     }
   }
