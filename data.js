@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-27T11:10:10.476+08:00",
+  "updatedAt": "2026-09-27T11:20:09.152+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 32.1,
-    "feelsLikeC": 38.1,
-    "humidity": 62,
-    "windKph": 6.5,
+    "tempC": 32.3,
+    "feelsLikeC": 38.3,
+    "humidity": 61,
+    "windKph": 6.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-09-27T11:00:00.000+08:00",
-    "fetchedAt": "2026-09-27T11:10:10.476+08:00",
+    "observedAt": "2026-09-27T11:15:00.000+08:00",
+    "fetchedAt": "2026-09-27T11:20:09.152+08:00",
     "error": null
   },
   "quote": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-27T11:10:08.575+08:00",
+      "fetchedAt": "2026-09-27T11:20:07.168+08:00",
       "error": null
     },
     "codex": {
@@ -41,15 +41,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-09-27T16:10:09.000+08:00"
+          "resetAt": "2026-09-27T16:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-04T11:10:09.000+08:00"
+          "resetAt": "2026-10-04T11:20:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-27T11:10:08.877+08:00",
+      "fetchedAt": "2026-09-27T11:20:07.506+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 28.14,
       "currency": "CNY",
       "detail": "余额 ¥28.14",
-      "fetchedAt": "2026-09-27T11:10:05.942+08:00",
+      "fetchedAt": "2026-09-27T11:20:05.338+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-27T11:10:08.888+08:00",
+      "fetchedAt": "2026-09-27T11:20:07.513+08:00",
       "error": null
     }
   }
