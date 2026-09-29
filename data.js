@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-09-29T13:30:10.940+08:00",
+  "updatedAt": "2026-09-29T13:40:11.964+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-09-29T13:30:00.000+08:00",
-    "fetchedAt": "2026-09-29T13:30:10.940+08:00",
+    "fetchedAt": "2026-09-29T13:40:11.965+08:00",
     "error": null
   },
   "quote": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-29T13:30:09.802+08:00",
+      "fetchedAt": "2026-09-29T13:40:06.250+08:00",
       "error": null
     },
     "codex": {
@@ -49,16 +49,16 @@ window.DASH_DATA = {
           "resetAt": "2026-10-04T19:45:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-29T13:30:10.076+08:00",
+      "fetchedAt": "2026-09-29T13:40:06.493+08:00",
       "error": null
     },
     "mimo": {
       "ok": true,
       "label": "Xiaomi MiMo",
-      "balance": 26.97,
+      "balance": 26.7,
       "currency": "CNY",
-      "detail": "余额 ¥26.97",
-      "fetchedAt": "2026-09-29T13:30:07.615+08:00",
+      "detail": "余额 ¥26.70",
+      "fetchedAt": "2026-09-29T13:40:04.744+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-29T13:30:10.085+08:00",
+      "fetchedAt": "2026-09-29T13:40:06.498+08:00",
       "error": null
     }
   }
