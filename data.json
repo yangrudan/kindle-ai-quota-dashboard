@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:30:17.136+08:00",
+  "updatedAt": "2026-09-29T15:40:18.415+08:00",
   "weather": {
     "ok": true,
     "description": "雷雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-09-29T15:15:00.000+08:00",
-    "fetchedAt": "2026-09-29T15:30:17.136+08:00",
+    "fetchedAt": "2026-09-29T15:40:18.415+08:00",
     "error": null
   },
   "quote": {
@@ -31,7 +31,7 @@
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-29T15:30:15.852+08:00",
+      "fetchedAt": "2026-09-29T15:40:17.177+08:00",
       "error": null
     },
     "codex": {
@@ -40,7 +40,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 24,
+          "usedPct": 25,
           "resetAt": "2026-09-29T19:24:46.000+08:00"
         },
         {
@@ -49,16 +49,16 @@
           "resetAt": "2026-10-04T19:45:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-29T15:30:16.239+08:00",
+      "fetchedAt": "2026-09-29T15:40:17.523+08:00",
       "error": null
     },
     "mimo": {
       "ok": true,
       "label": "Xiaomi MiMo",
-      "balance": 23.72,
+      "balance": 23.63,
       "currency": "CNY",
-      "detail": "余额 ¥23.72",
-      "fetchedAt": "2026-09-29T15:30:14.107+08:00",
+      "detail": "余额 ¥23.63",
+      "fetchedAt": "2026-09-29T15:40:15.279+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-29T15:30:16.247+08:00",
+      "fetchedAt": "2026-09-29T15:40:17.526+08:00",
       "error": null
     }
   }
