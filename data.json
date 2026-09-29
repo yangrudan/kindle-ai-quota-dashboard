@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-09-28T14:50:16.795+08:00",
+  "updatedAt": "2026-09-29T09:32:22.588+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 31.5,
-    "feelsLikeC": 36.4,
-    "humidity": 62,
-    "windKph": 5.2,
-    "windDir": "东风",
+    "tempC": 25.6,
+    "feelsLikeC": 30.5,
+    "humidity": 86,
+    "windKph": 3.8,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-09-28T14:30:00.000+08:00",
-    "fetchedAt": "2026-09-28T14:50:16.795+08:00",
+    "observedAt": "2026-09-29T09:30:00.000+08:00",
+    "fetchedAt": "2026-09-29T09:32:22.588+08:00",
     "error": null
   },
   "quote": {
-    "text": "大雅兄弟，宜善相保，司马氏，汝曹之前车也。中山王宜深思周、霍，勿为将来口实。",
-    "source": "《资治通鉴·晋纪·卷九十五》",
-    "analysis": "石弘兄弟，应当好好相互扶持，司马氏就是你们的前车之鉴。中山王石虎应当深深追思周公、霍光，不要为后世留下口实。"
+    "text": "法真名可得闻，身难得而见。逃名而名我随，避名而名我追，可谓百世之师者矣。",
+    "source": "《资治通鉴·汉纪·卷五十二》",
+    "analysis": "法真，可以听见他的名，却很难见到他这个人。他越是逃避名声，名声越是随着他，越是躲开名声，名声越是追着他，他这个人真可以说是百世之师了。"
   },
   "sources": {
     "copilot": {
@@ -31,7 +31,7 @@
           "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-09-28T14:50:15.153+08:00",
+      "fetchedAt": "2026-09-29T09:32:21.073+08:00",
       "error": null
     },
     "codex": {
@@ -40,25 +40,25 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-09-28T19:50:16.000+08:00"
+          "usedPct": 20,
+          "resetAt": "2026-09-29T14:23:39.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 7,
+          "usedPct": 16,
           "resetAt": "2026-10-04T19:45:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-09-28T14:50:15.461+08:00",
+      "fetchedAt": "2026-09-29T09:32:21.336+08:00",
       "error": null
     },
     "mimo": {
       "ok": true,
       "label": "Xiaomi MiMo",
-      "balance": 27.83,
+      "balance": 27.76,
       "currency": "CNY",
-      "detail": "余额 ¥27.83",
-      "fetchedAt": "2026-09-28T14:50:13.771+08:00",
+      "detail": "余额 ¥27.76",
+      "fetchedAt": "2026-09-29T09:32:18.973+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-09-28T14:50:15.464+08:00",
+      "fetchedAt": "2026-09-29T09:32:21.348+08:00",
       "error": null
     }
   }
