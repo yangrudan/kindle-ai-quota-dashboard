@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-01T07:50:08.007+08:00",
+  "updatedAt": "2026-10-01T08:00:08.682+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21,
-    "feelsLikeC": 22.5,
-    "humidity": 80,
-    "windKph": 8,
+    "tempC": 21.1,
+    "feelsLikeC": 22.6,
+    "humidity": 78,
+    "windKph": 7.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-01T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-01T07:50:08.008+08:00",
+    "observedAt": "2026-10-01T08:00:00.000+08:00",
+    "fetchedAt": "2026-10-01T08:00:08.683+08:00",
     "error": null
   },
   "quote": {
@@ -26,12 +26,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 100,
-          "resetAt": "2026-10-01T08:00:00.000+08:00",
-          "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
+          "usedPct": 0,
+          "resetAt": "2026-11-01T08:00:00.000+08:00",
+          "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-01T07:50:06.818+08:00",
+      "fetchedAt": "2026-10-01T08:00:07.351+08:00",
       "error": null
     },
     "codex": {
@@ -41,7 +41,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-01T12:50:07.000+08:00"
+          "resetAt": "2026-10-01T13:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -49,7 +49,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-04T19:45:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-01T07:50:07.164+08:00",
+      "fetchedAt": "2026-10-01T08:00:07.749+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-01T07:50:04.783+08:00",
+      "fetchedAt": "2026-10-01T08:00:05.185+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-01T07:50:07.168+08:00",
+      "fetchedAt": "2026-10-01T08:00:07.758+08:00",
       "error": null
     }
   }
