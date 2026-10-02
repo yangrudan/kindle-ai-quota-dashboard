@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T06:30:12.049+08:00",
+  "updatedAt": "2026-10-03T06:40:08.182+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-03T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-03T06:30:12.049+08:00",
+    "fetchedAt": "2026-10-03T06:40:08.182+08:00",
     "error": null
   },
   "quote": {
@@ -31,7 +31,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-03T06:30:06.584+08:00",
+      "fetchedAt": "2026-10-03T06:40:07.025+08:00",
       "error": null
     },
     "codex": {
@@ -41,18 +41,16 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-03T11:20:06.000+08:00"
+          "resetAt": "2026-10-03T11:40:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-10T06:20:06.000+08:00"
+          "resetAt": "2026-10-10T06:40:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-03T06:20:05.974+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-10-03T06:30:06.861+08:00"
+      "fetchedAt": "2026-10-03T06:40:07.334+08:00",
+      "error": null
     },
     "mimo": {
       "ok": true,
@@ -60,7 +58,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-03T06:30:04.974+08:00",
+      "fetchedAt": "2026-10-03T06:40:05.145+08:00",
       "stale": false,
       "error": null
     },
@@ -70,7 +68,7 @@
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-03T06:30:06.868+08:00",
+      "fetchedAt": "2026-10-03T06:40:07.339+08:00",
       "error": null
     }
   }
