@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-04T06:10:25.573+08:00",
+  "updatedAt": "2026-10-04T06:20:08.205+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.9,
+    "tempC": 19,
     "feelsLikeC": 20.3,
-    "humidity": 98,
-    "windKph": 12,
+    "humidity": 97,
+    "windKph": 12.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-04T06:00:00.000+08:00",
-    "fetchedAt": "2026-10-04T06:10:25.574+08:00",
+    "observedAt": "2026-10-04T06:15:00.000+08:00",
+    "fetchedAt": "2026-10-04T06:20:08.205+08:00",
     "error": null
   },
   "quote": {
@@ -26,14 +26,13 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 100,
-          "resetAt": "2026-10-01T08:00:00.000+08:00",
-          "detailText": "基础额度已用尽 · 超额 103 / 100 AIC"
+          "usedPct": 0,
+          "resetAt": "2026-11-01T08:00:00.000+08:00",
+          "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-09-14T10:26:38.861+08:00",
-      "error": "云端查询失败：spawnSync gh ETIMEDOUT",
-      "stale": true
+      "fetchedAt": "2026-10-04T06:20:06.260+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -42,7 +41,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-04T11:10:25.000+08:00"
+          "resetAt": "2026-10-04T11:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -50,7 +49,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-10T07:57:55.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-04T06:10:24.641+08:00",
+      "fetchedAt": "2026-10-04T06:20:06.538+08:00",
       "error": null
     },
     "mimo": {
@@ -59,7 +58,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-04T06:10:04.486+08:00",
+      "fetchedAt": "2026-10-04T06:20:04.636+08:00",
       "stale": false,
       "error": null
     },
@@ -69,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-04T06:10:24.651+08:00",
+      "fetchedAt": "2026-10-04T06:20:06.548+08:00",
       "error": null
     }
   }
