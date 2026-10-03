@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-03T20:10:09.544+08:00",
+  "updatedAt": "2026-10-03T20:20:09.283+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
+    "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 20.4,
-    "feelsLikeC": 22.8,
-    "humidity": 95,
-    "windKph": 8.6,
-    "windDir": "北风",
+    "tempC": 20,
+    "feelsLikeC": 22.2,
+    "humidity": 97,
+    "windKph": 8.9,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-03T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-03T20:10:09.544+08:00",
+    "observedAt": "2026-10-03T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-03T20:20:09.283+08:00",
     "error": null
   },
   "quote": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-03T20:10:07.657+08:00",
+      "fetchedAt": "2026-10-03T20:20:08.156+08:00",
       "error": null
     },
     "codex": {
@@ -40,16 +40,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
+          "usedPct": 73,
           "resetAt": "2026-10-03T23:39:16.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 37,
-          "resetAt": "2026-10-10T07:57:56.000+08:00"
+          "usedPct": 39,
+          "resetAt": "2026-10-10T07:57:55.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-03T20:10:07.986+08:00",
+      "fetchedAt": "2026-10-03T20:20:08.463+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-03T20:10:05.942+08:00",
+      "fetchedAt": "2026-10-03T20:20:06.441+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-03T20:10:07.995+08:00",
+      "fetchedAt": "2026-10-03T20:20:08.469+08:00",
       "error": null
     }
   }
