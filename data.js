@@ -1,23 +1,23 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-05T23:50:08.097+08:00",
+  "updatedAt": "2026-10-06T00:00:09.282+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.9,
-    "feelsLikeC": 14.8,
-    "humidity": 70,
-    "windKph": 7.6,
+    "tempC": 15.5,
+    "feelsLikeC": 14.5,
+    "humidity": 71,
+    "windKph": 7.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-05T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-05T23:50:08.097+08:00",
+    "observedAt": "2026-10-06T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-06T00:00:09.282+08:00",
     "error": null
   },
   "quote": {
-    "text": "吾子徒见徐公用法平允，谓可置司刑；仆睹其人，方寸之地，何所不容，若其用之，何事不可，岂直司刑而已哉。",
-    "source": "《资治通鉴·唐纪·卷二百零五》",
-    "analysis": "您只看到徐公用法平允，以为可任司刑卿；我观察他这个人，心里什么都有，如果得以发挥，什么事情都能胜任，何止司刑卿而已。"
+    "text": "张俭负罪亡命，笃岂得藏之！若审在此，此人名士，明廷宁宜执之乎。",
+    "source": "《资治通鉴·汉纪·卷五十六》",
+    "analysis": "张俭是背负重罪的逃犯，我怎么会窝藏他！假如他真的在我这里，这人是有名的人士，您难道非捉拿他不可。"
   },
   "sources": {
     "copilot": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-05T23:50:06.404+08:00",
+      "fetchedAt": "2026-10-06T00:00:07.965+08:00",
       "error": null
     },
     "codex": {
@@ -41,7 +41,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-06T04:50:08.000+08:00"
+          "resetAt": "2026-10-06T05:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -49,7 +49,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-10T07:57:55.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-05T23:50:06.655+08:00",
+      "fetchedAt": "2026-10-06T00:00:08.259+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-05T23:50:04.759+08:00",
+      "fetchedAt": "2026-10-06T00:00:06.166+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-05T23:50:06.662+08:00",
+      "fetchedAt": "2026-10-06T00:00:08.267+08:00",
       "error": null
     }
   }
