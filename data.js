@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-06T23:50:08.448+08:00",
+  "updatedAt": "2026-10-07T00:00:17.387+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,13 +11,13 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-06T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-06T23:50:08.449+08:00",
+    "fetchedAt": "2026-10-07T00:00:17.387+08:00",
     "error": null
   },
   "quote": {
-    "text": "张俭负罪亡命，笃岂得藏之！若审在此，此人名士，明廷宁宜执之乎。",
-    "source": "《资治通鉴·汉纪·卷五十六》",
-    "analysis": "张俭是背负重罪的逃犯，我怎么会窝藏他！假如他真的在我这里，这人是有名的人士，您难道非捉拿他不可。"
+    "text": "明府心虽不尔，无以自明，惟有以贤子付随耳。",
+    "source": "《资治通鉴·晋纪·卷九十四》",
+    "analysis": "您心中虽然不是这样想，但却无从证明自己，只有把您的儿子交给我。"
   },
   "sources": {
     "copilot": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-06T23:50:07.110+08:00",
+      "fetchedAt": "2026-10-07T00:00:16.185+08:00",
       "error": null
     },
     "codex": {
@@ -41,7 +41,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-07T04:50:08.000+08:00"
+          "resetAt": "2026-10-07T05:00:17.000+08:00"
         },
         {
           "name": "周",
@@ -49,7 +49,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-10T07:57:55.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-06T23:50:07.418+08:00",
+      "fetchedAt": "2026-10-07T00:00:16.492+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-06T23:50:04.425+08:00",
+      "fetchedAt": "2026-10-07T00:00:14.284+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-06T23:50:07.426+08:00",
+      "fetchedAt": "2026-10-07T00:00:16.501+08:00",
       "error": null
     }
   }
