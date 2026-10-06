@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-06T21:20:16.188+08:00",
+  "updatedAt": "2026-10-06T21:30:09.085+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.7,
-    "feelsLikeC": 16.7,
-    "humidity": 68,
-    "windKph": 1.4,
+    "tempC": 16.6,
+    "feelsLikeC": 16.6,
+    "humidity": 69,
+    "windKph": 1.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-06T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-06T21:20:16.189+08:00",
+    "observedAt": "2026-10-06T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-06T21:30:09.085+08:00",
     "error": null
   },
   "quote": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-06T21:20:10.429+08:00",
+      "fetchedAt": "2026-10-06T21:30:07.215+08:00",
       "error": null
     },
     "codex": {
@@ -41,7 +41,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-07T02:10:09.000+08:00"
+          "resetAt": "2026-10-07T02:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -49,10 +49,8 @@ window.DASH_DATA = {
           "resetAt": "2026-10-10T07:57:55.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-06T21:10:08.943+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-10-06T21:20:10.775+08:00"
+      "fetchedAt": "2026-10-06T21:30:07.568+08:00",
+      "error": null
     },
     "mimo": {
       "ok": true,
@@ -60,7 +58,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-06T21:20:08.909+08:00",
+      "fetchedAt": "2026-10-06T21:30:05.428+08:00",
       "stale": false,
       "error": null
     },
@@ -70,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-06T21:20:10.785+08:00",
+      "fetchedAt": "2026-10-06T21:30:07.577+08:00",
       "error": null
     }
   }
