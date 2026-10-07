@@ -1,23 +1,23 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-07T23:50:07.980+08:00",
+  "updatedAt": "2026-10-08T00:00:10.211+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.5,
-    "feelsLikeC": 16.3,
+    "tempC": 16.4,
+    "feelsLikeC": 16.1,
     "humidity": 64,
-    "windKph": 0.4,
-    "windDir": "东北风",
+    "windKph": 0.9,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-07T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-07T23:50:07.980+08:00",
+    "observedAt": "2026-10-08T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-08T00:00:10.211+08:00",
     "error": null
   },
   "quote": {
-    "text": "明府心虽不尔，无以自明，惟有以贤子付随耳。",
-    "source": "《资治通鉴·晋纪·卷九十四》",
-    "analysis": "您心中虽然不是这样想，但却无从证明自己，只有把您的儿子交给我。"
+    "text": "贵主居僻陋之国而淫名僭礼，以小事大而心不纯壹，外慕仁义而实无道德，其亡可翘足待也。吾将择木，先集于魏；与子暂违，非久阔也。",
+    "source": "《资治通鉴·宋纪·卷一百二十三》",
+    "analysis": "贵国的主人身居穷乡僻壤的小国，却敢滥用名分，超越礼制；以小国事奉大国却又不诚心敬服；表面上仰慕仁义，实际上却不讲道德，他的灭亡就在眼前了。我将象鸟儿一样，择木而栖，先到魏国去。与你暂且辞别，不会久别的。"
   },
   "sources": {
     "copilot": {
@@ -31,7 +31,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-07T23:50:06.327+08:00",
+      "fetchedAt": "2026-10-08T00:00:08.286+08:00",
       "error": null
     },
     "codex": {
@@ -41,15 +41,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-08T04:50:07.000+08:00"
+          "resetAt": "2026-10-08T05:00:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-14T23:50:07.000+08:00"
+          "resetAt": "2026-10-15T00:00:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-07T23:50:06.632+08:00",
+      "fetchedAt": "2026-10-08T00:00:08.657+08:00",
       "error": null
     },
     "mimo": {
@@ -58,7 +58,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-07T23:50:04.838+08:00",
+      "fetchedAt": "2026-10-08T00:00:06.411+08:00",
       "stale": false,
       "error": null
     },
@@ -68,7 +68,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-07T23:50:06.641+08:00",
+      "fetchedAt": "2026-10-08T00:00:08.669+08:00",
       "error": null
     }
   }
