@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T16:00:10.742+08:00",
+  "updatedAt": "2026-10-08T16:10:10.043+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-08T16:00:10.742+08:00",
+    "fetchedAt": "2026-10-08T16:10:10.044+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中方对欧盟贸易官员访华有何期待？ 外交部回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709163.shtml",
-        "publishedAt": "2026-10-08T15:59:04.000+08:00"
+        "title": "中国官方：国庆假期1546.2万人次出入境",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709154.shtml",
+        "publishedAt": "2026-10-08T16:08:59.000+08:00"
       },
       {
-        "title": "国庆假期江西消费市场活力迸发",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709114.shtml",
-        "publishedAt": "2026-10-08T15:58:34.000+08:00"
+        "title": "山西万荣：汾河两岸秋色浓 万亩良田绘丰收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709140.shtml",
+        "publishedAt": "2026-10-08T16:06:25.000+08:00"
       },
       {
-        "title": "法国总统外事顾问博纳将来华举行中法战略对话 外交部介绍相关安排",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709159.shtml",
-        "publishedAt": "2026-10-08T15:57:10.000+08:00"
+        "title": "中国最高法等发布典型案例 聚焦解决拖欠企业账款纠纷",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709153.shtml",
+        "publishedAt": "2026-10-08T16:06:17.000+08:00"
       },
       {
-        "title": "受暴雨影响，海南万宁停课半天",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-08/10709148.shtml",
-        "publishedAt": "2026-10-08T15:56:14.000+08:00"
+        "title": "霍尔木兹海峡船只遇袭事件增加 伊朗称将很快关闭“非法航道”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709157.shtml",
+        "publishedAt": "2026-10-08T16:06:03.000+08:00"
       },
       {
-        "title": "超6278万人次游客 国庆爆火的广东文旅里藏着什么？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709145.shtml",
-        "publishedAt": "2026-10-08T15:56:12.000+08:00"
+        "title": "“上海国际体育潮流文化节”升级 联动商圈、贯通赛事和消费",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709152.shtml",
+        "publishedAt": "2026-10-08T16:04:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T16:00:03.669+08:00",
+    "fetchedAt": "2026-10-08T16:10:03.705+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T16:00:08.684+08:00",
+      "fetchedAt": "2026-10-08T16:10:08.298+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-10-08T20:39:01.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T16:00:08.974+08:00",
+      "fetchedAt": "2026-10-08T16:10:08.787+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T16:00:05.865+08:00",
+      "fetchedAt": "2026-10-08T16:10:05.391+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T16:00:08.985+08:00",
+      "fetchedAt": "2026-10-08T16:10:08.798+08:00",
       "error": null
     }
   }
