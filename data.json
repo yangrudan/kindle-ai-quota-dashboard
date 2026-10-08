@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T21:30:11.215+08:00",
+  "updatedAt": "2026-10-08T21:40:09.669+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T21:30:11.215+08:00",
+    "fetchedAt": "2026-10-08T21:40:09.670+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "长春大冬会｜火种将越千山 青春奔赴长春",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709375.shtml",
+        "publishedAt": "2026-10-08T21:33:46.000+08:00"
+      },
+      {
+        "title": "“超长待机”的假期有哪些新亮点？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709369.shtml",
+        "publishedAt": "2026-10-08T21:29:46.000+08:00"
+      },
+      {
+        "title": "零时差｜还在怪中国？德国这份报告讲了句大实话",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-08/10709368.shtml",
+        "publishedAt": "2026-10-08T21:26:48.000+08:00"
+      },
       {
         "title": "外交部：再次敦促日方严惩持刀侵闯中国驻日使馆凶犯",
         "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709367.shtml",
@@ -28,24 +43,9 @@
         "title": "网传“喀纳斯棕熊索食险酿大祸”系AI编造（2026·10·08）",
         "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709364.shtml",
         "publishedAt": "2026-10-08T21:21:04.000+08:00"
-      },
-      {
-        "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709363.shtml",
-        "publishedAt": "2026-10-08T21:14:45.000+08:00"
-      },
-      {
-        "title": "WTT中国大满贯赛：中国选手何卓佳止步女单16强",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-08/1207275.shtml",
-        "publishedAt": "2026-10-08T21:12:30.000+08:00"
-      },
-      {
-        "title": "央广财评丨国庆消费多点开花 新政策新场景催生新引擎",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709361.shtml",
-        "publishedAt": "2026-10-08T21:10:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T21:30:06.254+08:00",
+    "fetchedAt": "2026-10-08T21:40:03.628+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T21:30:09.700+08:00",
+      "fetchedAt": "2026-10-08T21:40:07.382+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-09T02:30:10.000+08:00"
+          "resetAt": "2026-10-09T02:37:24.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T21:30:10.013+08:00",
+      "fetchedAt": "2026-10-08T21:40:07.757+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T21:30:08.258+08:00",
+      "fetchedAt": "2026-10-08T21:40:05.440+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T21:30:10.023+08:00",
+      "fetchedAt": "2026-10-08T21:40:07.767+08:00",
       "error": null
     }
   }
