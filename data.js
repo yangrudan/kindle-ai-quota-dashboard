@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T14:50:11.078+08:00",
+  "updatedAt": "2026-10-08T15:00:09.774+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-08T14:50:11.078+08:00",
+    "fetchedAt": "2026-10-08T15:00:09.774+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国庆假期420.28万人次涌入徐州 总消费达41.35亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709095.shtml",
+        "publishedAt": "2026-10-08T14:54:41.000+08:00"
+      },
+      {
+        "title": "江西省九江市政府二级巡视员王斌被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709094.shtml",
+        "publishedAt": "2026-10-08T14:52:11.000+08:00"
+      },
       {
         "title": "发票数据显示国庆假期服务消费旺盛",
         "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709089.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "厄尔尼诺致菲律宾逾42.8万人受影响 农业损失超55亿比索",
         "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709040.shtml",
         "publishedAt": "2026-10-08T14:28:43.000+08:00"
-      },
-      {
-        "title": "（经济观察）中国民企破局“无人物流”新赛道",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709076.shtml",
-        "publishedAt": "2026-10-08T14:28:01.000+08:00"
-      },
-      {
-        "title": "山东国庆黄金周揽客逾6000万人次 旅游收入达576.9亿元",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709072.shtml",
-        "publishedAt": "2026-10-08T14:24:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T14:50:04.722+08:00",
+    "fetchedAt": "2026-10-08T15:00:03.459+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T14:50:08.918+08:00",
+      "fetchedAt": "2026-10-08T15:00:07.885+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T14:50:09.220+08:00",
+      "fetchedAt": "2026-10-08T15:00:08.460+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T14:50:07.377+08:00",
+      "fetchedAt": "2026-10-08T15:00:05.266+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T14:50:09.227+08:00",
+      "fetchedAt": "2026-10-08T15:00:08.464+08:00",
       "error": null
     }
   }
