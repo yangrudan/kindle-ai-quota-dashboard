@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T18:10:08.487+08:00",
+  "updatedAt": "2026-10-08T18:20:07.184+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.6,
-    "feelsLikeC": 20.1,
-    "humidity": 65,
+    "tempC": 20.2,
+    "feelsLikeC": 19.7,
+    "humidity": 67,
     "windKph": 11.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-08T18:10:08.487+08:00",
+    "observedAt": "2026-10-08T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-08T18:20:07.184+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我驻马尔代夫使馆提醒中国游客注意涉水活动安全",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-08/10709260.shtml",
+        "publishedAt": "2026-10-08T18:12:24.000+08:00"
+      },
+      {
+        "title": "金与正：朝鲜绝不跟韩国交换什么东西，也不需与其打交道；朝韩关系敌对性质不变",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709258.shtml",
+        "publishedAt": "2026-10-08T18:09:37.000+08:00"
+      },
+      {
+        "title": "（乡村行·看振兴）福建尤溪4.1万亩杂交水稻制种迎丰收 全链条机械化助农增收",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709246.shtml",
+        "publishedAt": "2026-10-08T18:05:19.000+08:00"
+      },
       {
         "title": "A股电池板块10月收获“开门红”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709254.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国人民银行发布关于人民币汇率的政策立场",
         "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709251.shtml",
         "publishedAt": "2026-10-08T17:54:15.000+08:00"
-      },
-      {
-        "title": "《哈利·波特：魔法幻境》中国首秀落地四川成都",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709245.shtml",
-        "publishedAt": "2026-10-08T17:53:26.000+08:00"
-      },
-      {
-        "title": "天津国庆假期消费活力释放 454家企业销售额达26.6亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709224.shtml",
-        "publishedAt": "2026-10-08T17:43:08.000+08:00"
-      },
-      {
-        "title": "河南镇平现“平流雾”景观",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709209.shtml",
-        "publishedAt": "2026-10-08T17:41:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T18:10:02.794+08:00",
+    "fetchedAt": "2026-10-08T18:20:02.661+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T18:10:06.568+08:00",
+      "fetchedAt": "2026-10-08T18:20:05.825+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T18:10:06.824+08:00",
+      "fetchedAt": "2026-10-08T18:20:06.091+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T18:10:04.756+08:00",
+      "fetchedAt": "2026-10-08T18:20:04.395+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T18:10:06.834+08:00",
+      "fetchedAt": "2026-10-08T18:20:06.100+08:00",
       "error": null
     }
   }
