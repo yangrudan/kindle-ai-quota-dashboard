@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T07:30:08.952+08:00",
+  "updatedAt": "2026-10-09T07:40:07.590+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-09T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T07:30:08.952+08:00",
+    "fetchedAt": "2026-10-09T07:40:07.591+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "厨师离职被索要烹饪配方，手艺与配方究竟归谁？",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-09/10709436.shtml",
+        "publishedAt": "2026-10-09T07:29:29.000+08:00"
+      },
       {
         "title": "超60家企业发涨价函！汽车重要部件，原料价格暴涨",
         "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709435.shtml",
@@ -38,14 +43,9 @@
         "title": "警惕“免费午餐”！抢着买单的“知心好友”竟是境外间谍",
         "url": "https://www.chinanews.com.cn/fz/2026/10-09/10709432.shtml",
         "publishedAt": "2026-10-09T07:12:25.000+08:00"
-      },
-      {
-        "title": "10月9日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-09/10709430.shtml",
-        "publishedAt": "2026-10-09T06:58:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T07:30:04.419+08:00",
+    "fetchedAt": "2026-10-09T07:40:03.061+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T07:30:07.745+08:00",
+      "fetchedAt": "2026-10-09T07:40:06.495+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T07:30:08.001+08:00",
+      "fetchedAt": "2026-10-09T07:40:06.778+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T07:30:06.217+08:00",
+      "fetchedAt": "2026-10-09T07:40:04.833+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T07:30:08.011+08:00",
+      "fetchedAt": "2026-10-09T07:40:06.788+08:00",
       "error": null
     }
   }
