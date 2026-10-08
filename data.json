@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T06:50:07.799+08:00",
+  "updatedAt": "2026-10-09T07:00:08.603+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-09T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T06:50:07.800+08:00",
+    "fetchedAt": "2026-10-09T07:00:08.603+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "WTT中国大满贯赛：王曼昱女单险胜 周启豪力压张本智和晋级",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709422.shtml",
-        "publishedAt": "2026-10-09T06:44:37.000+08:00"
+        "title": "特朗普称不会在11月美国中期选举前攻击伊朗",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709429.shtml",
+        "publishedAt": "2026-10-09T06:48:13.000+08:00"
       },
       {
-        "title": "“奔县游”成旅游消费新热点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709427.shtml",
-        "publishedAt": "2026-10-09T06:43:21.000+08:00"
+        "title": "俄官方宣布伊尔库茨克市正解除防疫措施",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709428.shtml",
+        "publishedAt": "2026-10-09T06:47:41.000+08:00"
       },
       {
-        "title": "特朗普称中期选举前不会攻击伊朗 美伊战事重启风险犹存",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709421.shtml",
-        "publishedAt": "2026-10-09T06:38:53.000+08:00"
+        "title": "美国30年期贷款利率升至7.4% 创近3年来最高值",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709426.shtml",
+        "publishedAt": "2026-10-09T06:46:51.000+08:00"
       },
       {
-        "title": "泰国9月消费者信心下降 为4个月来首次下降",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709420.shtml",
-        "publishedAt": "2026-10-08T23:58:52.000+08:00"
+        "title": "美国检方对马杜罗夫妇提出新指控 指其涉嫌实施酷刑",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709425.shtml",
+        "publishedAt": "2026-10-09T06:46:25.000+08:00"
       },
       {
-        "title": "第八届中亚国家和阿塞拜疆元首协商会议在土库曼斯坦举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709419.shtml",
-        "publishedAt": "2026-10-08T23:53:08.000+08:00"
+        "title": "国际游客锐减 柬埔寨旅游业路在何方？",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709424.shtml",
+        "publishedAt": "2026-10-09T06:46:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T06:50:02.992+08:00",
+    "fetchedAt": "2026-10-09T07:00:03.488+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T06:50:06.566+08:00",
+      "fetchedAt": "2026-10-09T07:00:06.927+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T06:50:06.854+08:00",
+      "fetchedAt": "2026-10-09T07:00:07.220+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T06:50:04.870+08:00",
+      "fetchedAt": "2026-10-09T07:00:05.253+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T06:50:06.863+08:00",
+      "fetchedAt": "2026-10-09T07:00:07.226+08:00",
       "error": null
     }
   }
