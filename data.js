@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T19:20:08.110+08:00",
+  "updatedAt": "2026-10-08T19:30:07.993+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.5,
-    "feelsLikeC": 19.2,
+    "tempC": 19.4,
+    "feelsLikeC": 19.1,
     "humidity": 70,
-    "windKph": 10.5,
+    "windKph": 10.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-08T19:20:08.111+08:00",
+    "observedAt": "2026-10-08T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-08T19:30:07.994+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "强降雨来袭 海南连发多个警报",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709272.shtml",
-        "publishedAt": "2026-10-08T19:10:19.000+08:00"
+        "title": "广西以商文旅体健居融合打造新场景 国庆假期消费市场热度攀升",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709286.shtml",
+        "publishedAt": "2026-10-08T19:25:53.000+08:00"
       },
       {
-        "title": "长三角国际青年电影周将在宁波举行 让青年人站“C位”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709270.shtml",
-        "publishedAt": "2026-10-08T19:10:13.000+08:00"
+        "title": "今年国庆假期 广东跨区域人员流动量约2.51亿人次",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709285.shtml",
+        "publishedAt": "2026-10-08T19:25:07.000+08:00"
       },
       {
-        "title": "海南什运至白沙高速公路鹦哥岭隧道项目全线路面摊铺完成",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709268.shtml",
-        "publishedAt": "2026-10-08T19:08:33.000+08:00"
+        "title": "郭泰来《艳彩中国》当代艺术展在京启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709287.shtml",
+        "publishedAt": "2026-10-08T19:23:45.000+08:00"
       },
       {
-        "title": "广西龙胜：寒露节气 罗汉果丰收村民采摘忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709288.shtml",
-        "publishedAt": "2026-10-08T19:08:25.000+08:00"
+        "title": "海南自贸港封关后首个国庆假期进出岛旅客同比增长11.76%",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709279.shtml",
+        "publishedAt": "2026-10-08T19:23:25.000+08:00"
       },
       {
-        "title": "越界伸手，自食其果｜新漫评",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709177.shtml",
-        "publishedAt": "2026-10-08T19:02:10.000+08:00"
+        "title": "2026世界旅游小姐中国黑龙江赛区年度总决赛在鸡西落幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709289.shtml",
+        "publishedAt": "2026-10-08T19:22:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T19:20:02.429+08:00",
+    "fetchedAt": "2026-10-08T19:30:03.829+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T19:20:06.427+08:00",
+      "fetchedAt": "2026-10-08T19:30:06.881+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 35,
-          "resetAt": "2026-10-08T20:39:01.000+08:00"
+          "resetAt": "2026-10-08T20:39:00.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T19:20:06.757+08:00",
+      "fetchedAt": "2026-10-08T19:30:07.120+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T19:20:04.798+08:00",
+      "fetchedAt": "2026-10-08T19:30:05.282+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T19:20:06.768+08:00",
+      "fetchedAt": "2026-10-08T19:30:07.130+08:00",
       "error": null
     }
   }
