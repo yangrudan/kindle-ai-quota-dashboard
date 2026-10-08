@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T11:22:30.924+08:00",
+  "updatedAt": "2026-10-08T11:30:09.829+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.1,
-    "feelsLikeC": 24.3,
+    "tempC": 24.2,
+    "feelsLikeC": 24.6,
     "humidity": 40,
-    "windKph": 7.8,
+    "windKph": 7.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-08T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-08T11:22:30.924+08:00",
+    "observedAt": "2026-10-08T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-08T11:30:09.829+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "贵州医科大学附属医院原副院长李建阳被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708978.shtml",
+        "publishedAt": "2026-10-08T11:23:15.000+08:00"
+      },
+      {
+        "title": "中华人民共和国柳州海关涉案财物公开拍卖公告（二次拍卖桂B9U823）",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-08/10708981.shtml",
+        "publishedAt": "2026-10-08T11:21:43.000+08:00"
+      },
       {
         "title": "到西藏 为什么一定要去山南？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-08/10708972.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（文化中国行·校馆弦歌）中国海洋大学图书馆：百年文脉弦歌不辍 一馆书香向海而生",
         "url": "https://www.chinanews.com.cn/cul/2026/10-08/10708961.shtml",
         "publishedAt": "2026-10-08T11:12:01.000+08:00"
-      },
-      {
-        "title": "“那时我们没有飞机”，而今松花岭的轰鸣响彻天际丨企步新长征",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708968.shtml",
-        "publishedAt": "2026-10-08T11:11:33.000+08:00"
-      },
-      {
-        "title": "2026年世界划联桨板世界杯在苏州圆满收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-08/10708959.shtml",
-        "publishedAt": "2026-10-08T11:11:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T11:22:26.424+08:00",
+    "fetchedAt": "2026-10-08T11:30:03.969+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T11:22:29.804+08:00",
+      "fetchedAt": "2026-10-08T11:30:08.116+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 25,
           "resetAt": "2026-10-08T15:25:42.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T11:22:30.044+08:00",
+      "fetchedAt": "2026-10-08T11:30:08.378+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T11:22:28.268+08:00",
+      "fetchedAt": "2026-10-08T11:30:06.425+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T11:22:30.052+08:00",
+      "fetchedAt": "2026-10-08T11:30:08.387+08:00",
       "error": null
     }
   }
