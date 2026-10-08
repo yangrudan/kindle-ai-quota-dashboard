@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T12:10:08.864+08:00",
+  "updatedAt": "2026-10-08T12:20:11.614+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.4,
-    "feelsLikeC": 24.9,
+    "tempC": 24.5,
+    "feelsLikeC": 25.1,
     "humidity": 40,
-    "windKph": 7.2,
+    "windKph": 7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-08T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-08T12:10:08.864+08:00",
+    "observedAt": "2026-10-08T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-08T12:20:11.614+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "物流网究竟要建什么？三个问题说清楚",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709002.shtml",
+        "publishedAt": "2026-10-08T12:07:56.000+08:00"
+      },
+      {
+        "title": "天气转凉，身体真正需要的可能不是“秋膘”！",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-08/10709001.shtml",
+        "publishedAt": "2026-10-08T12:06:26.000+08:00"
+      },
       {
         "title": "你的押金退了吗？假期归来，这笔账记得查→",
         "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709000.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "9月末外储为34003亿美元 美联储加息预期下多类资产价格承压",
         "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708962.shtml",
         "publishedAt": "2026-10-08T11:58:13.000+08:00"
-      },
-      {
-        "title": "人民银行连续23个月增持黄金",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708955.shtml",
-        "publishedAt": "2026-10-08T11:56:31.000+08:00"
-      },
-      {
-        "title": "从一个设想到覆盖全球！北斗卫星不断突破 稳步提升",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708999.shtml",
-        "publishedAt": "2026-10-08T11:56:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T12:10:03.735+08:00",
+    "fetchedAt": "2026-10-08T12:20:03.020+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T12:10:06.692+08:00",
+      "fetchedAt": "2026-10-08T12:20:06.931+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T12:10:06.925+08:00",
+      "fetchedAt": "2026-10-08T12:20:09.549+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T12:10:05.187+08:00",
+      "fetchedAt": "2026-10-08T12:20:05.224+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T12:10:06.934+08:00",
+      "fetchedAt": "2026-10-08T12:20:09.558+08:00",
       "error": null
     }
   }
