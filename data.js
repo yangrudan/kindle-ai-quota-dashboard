@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T07:00:08.603+08:00",
+  "updatedAt": "2026-10-09T07:10:07.985+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.8,
-    "feelsLikeC": 16.7,
-    "humidity": 90,
-    "windKph": 3.1,
+    "tempC": 16.3,
+    "feelsLikeC": 17.2,
+    "humidity": 89,
+    "windKph": 3.3,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-09T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T07:00:08.603+08:00",
+    "observedAt": "2026-10-09T07:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T07:10:07.985+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月9日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-09/10709430.shtml",
+        "publishedAt": "2026-10-09T06:58:22.000+08:00"
+      },
       {
         "title": "特朗普称不会在11月美国中期选举前攻击伊朗",
         "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709429.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "美国检方对马杜罗夫妇提出新指控 指其涉嫌实施酷刑",
         "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709425.shtml",
         "publishedAt": "2026-10-09T06:46:25.000+08:00"
-      },
-      {
-        "title": "国际游客锐减 柬埔寨旅游业路在何方？",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709424.shtml",
-        "publishedAt": "2026-10-09T06:46:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T07:00:03.488+08:00",
+    "fetchedAt": "2026-10-09T07:10:02.820+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T07:00:06.927+08:00",
+      "fetchedAt": "2026-10-09T07:10:06.858+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T07:00:07.220+08:00",
+      "fetchedAt": "2026-10-09T07:10:07.115+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T07:00:05.253+08:00",
+      "fetchedAt": "2026-10-09T07:10:05.205+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T07:00:07.226+08:00",
+      "fetchedAt": "2026-10-09T07:10:07.125+08:00",
       "error": null
     }
   }
