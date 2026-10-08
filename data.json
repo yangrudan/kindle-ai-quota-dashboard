@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T19:50:08.073+08:00",
+  "updatedAt": "2026-10-08T20:00:09.455+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-08T19:50:08.073+08:00",
+    "fetchedAt": "2026-10-08T20:00:09.456+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "吃降压药会“成瘾”？这些误区很多人还在信",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709307.shtml",
+        "publishedAt": "2026-10-08T19:51:01.000+08:00"
+      },
+      {
+        "title": "金与正：韩国声称要对朝医疗援助系“严重挑衅”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709252.shtml",
+        "publishedAt": "2026-10-08T19:44:54.000+08:00"
+      },
+      {
+        "title": "2026国庆中国游客东盟旅游热度榜出炉：体验型旅游项目异军突起",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-08/10709297.shtml",
+        "publishedAt": "2026-10-08T19:44:44.000+08:00"
+      },
       {
         "title": "中国—东盟商贸资讯平台推出中国游客东盟旅游热榜",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-08/10709294.shtml",
@@ -28,24 +43,9 @@
         "title": "市场监管总局深入整治网络食品销售虚假宣传 保障国庆假期食品消费安全",
         "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709293.shtml",
         "publishedAt": "2026-10-08T19:30:16.000+08:00"
-      },
-      {
-        "title": "广西以商文旅体健居融合打造新场景 国庆假期消费市场热度攀升",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709286.shtml",
-        "publishedAt": "2026-10-08T19:25:53.000+08:00"
-      },
-      {
-        "title": "今年国庆假期 广东跨区域人员流动量约2.51亿人次",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709285.shtml",
-        "publishedAt": "2026-10-08T19:25:07.000+08:00"
-      },
-      {
-        "title": "郭泰来《艳彩中国》当代艺术展在京启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709287.shtml",
-        "publishedAt": "2026-10-08T19:23:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T19:50:02.939+08:00",
+    "fetchedAt": "2026-10-08T20:00:03.143+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T19:50:06.195+08:00",
+      "fetchedAt": "2026-10-08T20:00:08.288+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T19:50:06.451+08:00",
+      "fetchedAt": "2026-10-08T20:00:08.596+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T19:50:04.661+08:00",
+      "fetchedAt": "2026-10-08T20:00:05.514+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T19:50:06.460+08:00",
+      "fetchedAt": "2026-10-08T20:00:08.601+08:00",
       "error": null
     }
   }
