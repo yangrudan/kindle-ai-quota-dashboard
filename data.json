@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T12:30:10.179+08:00",
+  "updatedAt": "2026-10-08T12:40:08.071+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-08T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T12:30:10.179+08:00",
+    "fetchedAt": "2026-10-08T12:40:08.071+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月1日至7日，累计全社会跨区域人员流动量21.42亿人次",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709006.shtml",
+        "publishedAt": "2026-10-08T12:32:37.000+08:00"
+      },
       {
         "title": "沙特两座机场遭袭已致3死36伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708996.shtml",
@@ -38,14 +43,9 @@
         "title": "江苏太仓存在代孕机构？当地通报：已开展现场核查",
         "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709003.shtml",
         "publishedAt": "2026-10-08T12:17:56.000+08:00"
-      },
-      {
-        "title": "物流网究竟要建什么？三个问题说清楚",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709002.shtml",
-        "publishedAt": "2026-10-08T12:07:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T12:30:03.426+08:00",
+    "fetchedAt": "2026-10-08T12:40:03.528+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T12:30:08.798+08:00",
+      "fetchedAt": "2026-10-08T12:40:07.001+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T12:30:09.007+08:00",
+      "fetchedAt": "2026-10-08T12:40:07.251+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T12:30:06.167+08:00",
+      "fetchedAt": "2026-10-08T12:40:05.520+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T12:30:09.011+08:00",
+      "fetchedAt": "2026-10-08T12:40:07.256+08:00",
       "error": null
     }
   }
