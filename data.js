@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T23:50:08.116+08:00",
+  "updatedAt": "2026-10-09T00:00:10.004+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.2,
-    "feelsLikeC": 17.3,
-    "humidity": 76,
-    "windKph": 5.7,
+    "tempC": 17.1,
+    "feelsLikeC": 17.2,
+    "humidity": 77,
+    "windKph": 5.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-08T23:50:08.116+08:00",
+    "observedAt": "2026-10-09T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T00:00:10.004+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泰国9月消费者信心下降 为4个月来首次下降",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709420.shtml",
+        "publishedAt": "2026-10-08T23:58:52.000+08:00"
+      },
+      {
+        "title": "第八届中亚国家和阿塞拜疆元首协商会议在土库曼斯坦举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709419.shtml",
+        "publishedAt": "2026-10-08T23:53:08.000+08:00"
+      },
       {
         "title": "英国出台对俄新一轮制裁",
         "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709418.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国海警局新闻发言人发表谈话",
         "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709417.shtml",
         "publishedAt": "2026-10-08T23:31:45.000+08:00"
-      },
-      {
-        "title": "国庆假期，多地探索城市治理新方法应对大客流 接得住流量 留得下人心",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709415.shtml",
-        "publishedAt": "2026-10-08T23:28:11.000+08:00"
-      },
-      {
-        "title": "长假客流涌动 玩法迭代出新——香港国庆假期旅游市场观察",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709414.shtml",
-        "publishedAt": "2026-10-08T23:26:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T23:50:03.367+08:00",
+    "fetchedAt": "2026-10-09T00:00:04.327+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T23:50:06.799+08:00",
+      "fetchedAt": "2026-10-09T00:00:07.913+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T23:50:07.121+08:00",
+      "fetchedAt": "2026-10-09T00:00:08.207+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T23:50:05.152+08:00",
+      "fetchedAt": "2026-10-09T00:00:06.314+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T23:50:07.130+08:00",
+      "fetchedAt": "2026-10-09T00:00:08.213+08:00",
       "error": null
     }
   }
