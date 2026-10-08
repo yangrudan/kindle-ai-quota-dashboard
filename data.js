@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T12:50:10.730+08:00",
+  "updatedAt": "2026-10-08T13:00:08.371+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-08T12:50:10.730+08:00",
+    "fetchedAt": "2026-10-08T13:00:08.371+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国牵头制定的大型藻类固碳量测算国际标准发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709008.shtml",
+        "publishedAt": "2026-10-08T12:51:00.000+08:00"
+      },
+      {
+        "title": "日均超3亿人次！国庆假期多项出行数据创新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709007.shtml",
+        "publishedAt": "2026-10-08T12:49:48.000+08:00"
+      },
       {
         "title": "国庆假期全社会跨区域人员流动量达21.42亿人次",
         "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709006.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "多方携手助中医针灸走进南非开普敦社区医疗中心",
         "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708958.shtml",
         "publishedAt": "2026-10-08T12:18:28.000+08:00"
-      },
-      {
-        "title": "机构称英国9月房价环比持平",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708952.shtml",
-        "publishedAt": "2026-10-08T12:17:58.000+08:00"
-      },
-      {
-        "title": "江苏太仓存在代孕机构？当地通报：已开展现场核查",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709003.shtml",
-        "publishedAt": "2026-10-08T12:17:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T12:50:03.824+08:00",
+    "fetchedAt": "2026-10-08T13:00:02.821+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T12:50:09.209+08:00",
+      "fetchedAt": "2026-10-08T13:00:06.288+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T12:50:09.484+08:00",
+      "fetchedAt": "2026-10-08T13:00:06.993+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T12:50:06.380+08:00",
+      "fetchedAt": "2026-10-08T13:00:04.806+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T12:50:09.494+08:00",
+      "fetchedAt": "2026-10-08T13:00:07.000+08:00",
       "error": null
     }
   }
