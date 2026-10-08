@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-08T14:30:17.846+08:00",
+  "updatedAt": "2026-10-08T14:40:10.936+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 24.8,
-    "feelsLikeC": 24.3,
+    "feelsLikeC": 24,
     "humidity": 41,
-    "windKph": 7.6,
+    "windKph": 7.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-08T14:30:17.846+08:00",
+    "observedAt": "2026-10-08T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-08T14:40:10.937+08:00",
     "error": null
   },
   "news": {
@@ -23,6 +23,11 @@
         "title": "厄尔尼诺致菲律宾逾42.8万人受影响 农业损失超55亿比索",
         "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709040.shtml",
         "publishedAt": "2026-10-08T14:28:43.000+08:00"
+      },
+      {
+        "title": "（经济观察）中国民企破局“无人物流”新赛道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709076.shtml",
+        "publishedAt": "2026-10-08T14:28:01.000+08:00"
       },
       {
         "title": "山东国庆黄金周揽客逾6000万人次 旅游收入达576.9亿元",
@@ -38,14 +43,9 @@
         "title": "云南的神秘山洞，藏有人民军队夜视装备的源头 | 企步新长征",
         "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709077.shtml",
         "publishedAt": "2026-10-08T14:24:11.000+08:00"
-      },
-      {
-        "title": "聚集罕见病群体 《中国医生4：罕见人生》将开播",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709070.shtml",
-        "publishedAt": "2026-10-08T14:21:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T14:30:12.163+08:00",
+    "fetchedAt": "2026-10-08T14:40:03.462+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T14:30:15.750+08:00",
+      "fetchedAt": "2026-10-08T14:40:08.728+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T14:30:16.091+08:00",
+      "fetchedAt": "2026-10-08T14:40:09.102+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T14:30:13.949+08:00",
+      "fetchedAt": "2026-10-08T14:40:05.681+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T14:30:16.097+08:00",
+      "fetchedAt": "2026-10-08T14:40:09.111+08:00",
       "error": null
     }
   }
