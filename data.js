@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T15:40:11.013+08:00",
+  "updatedAt": "2026-10-08T15:50:09.995+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.5,
-    "feelsLikeC": 23.9,
+    "tempC": 24.4,
+    "feelsLikeC": 23.8,
     "humidity": 45,
-    "windKph": 8.1,
+    "windKph": 7.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T15:40:11.013+08:00",
+    "observedAt": "2026-10-08T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-08T15:50:09.995+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国庆假期广州多口岸现跨境客流高峰",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709115.shtml",
-        "publishedAt": "2026-10-08T15:35:57.000+08:00"
+        "title": "日方称中方应对其首相给予尊重 外交部回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709130.shtml",
+        "publishedAt": "2026-10-08T15:42:39.000+08:00"
       },
       {
-        "title": "黑龙江省佳木斯市政府原副市长姜涛被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709119.shtml",
-        "publishedAt": "2026-10-08T15:35:09.000+08:00"
+        "title": "琼州海峡国庆假期过海新能源车日均同比增逾七成",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709124.shtml",
+        "publishedAt": "2026-10-08T15:41:59.000+08:00"
       },
       {
-        "title": "国庆假期琼州海峡63万人次旅客平安过海",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709113.shtml",
-        "publishedAt": "2026-10-08T15:34:51.000+08:00"
+        "title": "民生领域信访问题集中治理：让群众“心头事”变为“放心事”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709128.shtml",
+        "publishedAt": "2026-10-08T15:41:57.000+08:00"
       },
       {
-        "title": "以外长：英国驻耶路撒冷领事馆8日起关闭 20名外交官将离境",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709110.shtml",
-        "publishedAt": "2026-10-08T15:34:51.000+08:00"
+        "title": "焦点访谈｜国庆假期丰富游玩体验 多元场景激发消费活力",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709125.shtml",
+        "publishedAt": "2026-10-08T15:40:03.000+08:00"
       },
       {
-        "title": "外交部：再次敦促日方严惩凶犯、以儆效尤",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709120.shtml",
-        "publishedAt": "2026-10-08T15:33:57.000+08:00"
+        "title": "江南水乡浙江绍兴：黄酒醇香弥漫 吸引游客体验",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709118.shtml",
+        "publishedAt": "2026-10-08T15:38:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T15:40:04.821+08:00",
+    "fetchedAt": "2026-10-08T15:50:04.019+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T15:40:09.544+08:00",
+      "fetchedAt": "2026-10-08T15:50:06.934+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-08T20:39:01.000+08:00"
+          "resetAt": "2026-10-08T20:39:00.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T15:40:09.775+08:00",
+      "fetchedAt": "2026-10-08T15:50:08.633+08:00",
       "error": null
     },
     "mimo": {
@@ -87,17 +87,17 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T15:40:06.797+08:00",
+      "fetchedAt": "2026-10-08T15:50:05.545+08:00",
       "stale": false,
       "error": null
     },
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 24.79,
+      "balance": 24.75,
       "currency": "CNY",
-      "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T15:40:09.786+08:00",
+      "detail": "余额 ¥24.75",
+      "fetchedAt": "2026-10-08T15:50:08.645+08:00",
       "error": null
     }
   }
