@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T14:06:50.130+08:00",
+  "updatedAt": "2026-10-08T14:10:08.715+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-08T14:06:50.131+08:00",
+    "fetchedAt": "2026-10-08T14:10:08.715+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "长三角铁路2026年国庆假期共发送旅客逾2770万人次",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709031.shtml",
+        "publishedAt": "2026-10-08T14:03:34.000+08:00"
+      },
+      {
+        "title": "国庆节期间1546.2万人次出入境",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709043.shtml",
+        "publishedAt": "2026-10-08T14:03:24.000+08:00"
+      },
       {
         "title": "美媒：美军为再次大规模打击伊朗做准备",
         "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709021.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国驻沙特使馆再次提醒在沙中资机构和中国公民加强安全防范",
         "url": "https://www.chinanews.com.cn/hr/2026/10-08/10709037.shtml",
         "publishedAt": "2026-10-08T13:43:11.000+08:00"
-      },
-      {
-        "title": "国庆假期 上海两大国际机场共保障进出港旅客294万人次",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709038.shtml",
-        "publishedAt": "2026-10-08T13:42:21.000+08:00"
-      },
-      {
-        "title": "同心引智赋能 农工党助推四川德阳肉牛产业升级",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-08/10709035.shtml",
-        "publishedAt": "2026-10-08T13:41:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T14:06:45.036+08:00",
+    "fetchedAt": "2026-10-08T14:10:03.694+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T14:06:48.194+08:00",
+      "fetchedAt": "2026-10-08T14:10:07.103+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 52,
+          "usedPct": 54,
           "resetAt": "2026-10-08T15:25:42.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T14:06:48.562+08:00",
+      "fetchedAt": "2026-10-08T14:10:07.415+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T14:06:46.490+08:00",
+      "fetchedAt": "2026-10-08T14:10:05.429+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T14:06:48.572+08:00",
+      "fetchedAt": "2026-10-08T14:10:07.422+08:00",
       "error": null
     }
   }
