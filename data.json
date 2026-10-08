@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T17:50:09.491+08:00",
+  "updatedAt": "2026-10-08T18:00:07.753+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-08T17:50:09.491+08:00",
+    "fetchedAt": "2026-10-08T18:00:07.753+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国人民银行发布关于人民币汇率的政策立场",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709251.shtml",
+        "publishedAt": "2026-10-08T17:54:15.000+08:00"
+      },
+      {
+        "title": "《哈利·波特：魔法幻境》中国首秀落地四川成都",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709245.shtml",
+        "publishedAt": "2026-10-08T17:53:26.000+08:00"
+      },
       {
         "title": "天津国庆假期消费活力释放 454家企业销售额达26.6亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709224.shtml",
@@ -33,19 +43,9 @@
         "title": "四川省万源市人大常委会党组成员、副主任罗远兵接受纪律审查和监察调查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709223.shtml",
         "publishedAt": "2026-10-08T17:41:08.000+08:00"
-      },
-      {
-        "title": "红十字国际委员会就新一轮巴以冲突三周年发表声明",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709200.shtml",
-        "publishedAt": "2026-10-08T17:40:40.000+08:00"
-      },
-      {
-        "title": "广西南宁落羽杉“换装” 显秋韵",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709202.shtml",
-        "publishedAt": "2026-10-08T17:40:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T17:50:03.734+08:00",
+    "fetchedAt": "2026-10-08T18:00:03.161+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T17:50:07.950+08:00",
+      "fetchedAt": "2026-10-08T18:00:06.460+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T17:50:08.411+08:00",
+      "fetchedAt": "2026-10-08T18:00:06.739+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T17:50:05.724+08:00",
+      "fetchedAt": "2026-10-08T18:00:05.023+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T17:50:08.418+08:00",
+      "fetchedAt": "2026-10-08T18:00:06.747+08:00",
       "error": null
     }
   }
