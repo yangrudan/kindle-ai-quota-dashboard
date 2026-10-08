@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-08T14:10:08.715+08:00",
+  "updatedAt": "2026-10-08T14:20:10.987+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 24.8,
-    "feelsLikeC": 24.5,
-    "humidity": 40,
-    "windKph": 7.4,
+    "feelsLikeC": 24.3,
+    "humidity": 41,
+    "windKph": 7.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-08T14:10:08.715+08:00",
+    "observedAt": "2026-10-08T14:15:00.000+08:00",
+    "fetchedAt": "2026-10-08T14:20:10.987+08:00",
     "error": null
   },
   "news": {
@@ -20,13 +20,18 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "赤水河畔，红色基因照亮“绿色”征程 | 企步新长征",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709069.shtml",
+        "publishedAt": "2026-10-08T14:09:26.000+08:00"
+      },
+      {
         "title": "长三角铁路2026年国庆假期共发送旅客逾2770万人次",
         "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709031.shtml",
         "publishedAt": "2026-10-08T14:03:34.000+08:00"
       },
       {
         "title": "国庆节期间1546.2万人次出入境",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709043.shtml",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709043.shtml",
         "publishedAt": "2026-10-08T14:03:24.000+08:00"
       },
       {
@@ -38,14 +43,9 @@
         "title": "宁夏银川：全域文旅释放消费活力",
         "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709039.shtml",
         "publishedAt": "2026-10-08T13:43:15.000+08:00"
-      },
-      {
-        "title": "中国驻沙特使馆再次提醒在沙中资机构和中国公民加强安全防范",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-08/10709037.shtml",
-        "publishedAt": "2026-10-08T13:43:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T14:10:03.694+08:00",
+    "fetchedAt": "2026-10-08T14:20:03.343+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T14:10:07.103+08:00",
+      "fetchedAt": "2026-10-08T14:20:06.821+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 54,
+          "usedPct": 56,
           "resetAt": "2026-10-08T15:25:42.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T14:10:07.415+08:00",
+      "fetchedAt": "2026-10-08T14:20:08.232+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T14:10:05.429+08:00",
+      "fetchedAt": "2026-10-08T14:20:05.291+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T14:10:07.422+08:00",
+      "fetchedAt": "2026-10-08T14:20:08.240+08:00",
       "error": null
     }
   }
