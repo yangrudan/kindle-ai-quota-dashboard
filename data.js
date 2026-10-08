@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T19:40:10.675+08:00",
+  "updatedAt": "2026-10-08T19:50:08.073+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.4,
-    "feelsLikeC": 19.1,
+    "tempC": 19.2,
+    "feelsLikeC": 18.9,
     "humidity": 70,
-    "windKph": 10.1,
+    "windKph": 9.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T19:40:10.675+08:00",
+    "observedAt": "2026-10-08T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-08T19:50:08.073+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国—东盟商贸资讯平台推出中国游客东盟旅游热榜",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-08/10709294.shtml",
+        "publishedAt": "2026-10-08T19:39:28.000+08:00"
+      },
       {
         "title": "市场监管总局深入整治网络食品销售虚假宣传 保障国庆假期食品消费安全",
         "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709293.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "郭泰来《艳彩中国》当代艺术展在京启幕",
         "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709287.shtml",
         "publishedAt": "2026-10-08T19:23:45.000+08:00"
-      },
-      {
-        "title": "海南自贸港封关后首个国庆假期进出岛旅客同比增长11.76%",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709279.shtml",
-        "publishedAt": "2026-10-08T19:23:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T19:40:03.211+08:00",
+    "fetchedAt": "2026-10-08T19:50:02.939+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T19:40:07.560+08:00",
+      "fetchedAt": "2026-10-08T19:50:06.195+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T19:40:07.816+08:00",
+      "fetchedAt": "2026-10-08T19:50:06.451+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T19:40:04.947+08:00",
+      "fetchedAt": "2026-10-08T19:50:04.661+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T19:40:07.823+08:00",
+      "fetchedAt": "2026-10-08T19:50:06.460+08:00",
       "error": null
     }
   }
