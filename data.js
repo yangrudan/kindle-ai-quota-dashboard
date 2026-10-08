@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T17:30:10.602+08:00",
+  "updatedAt": "2026-10-08T17:40:08.449+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T17:30:10.602+08:00",
+    "fetchedAt": "2026-10-08T17:40:08.450+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "辽宁政务服务技能大赛落地阜新 数字政府释放惠企利民效能",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709236.shtml",
+        "publishedAt": "2026-10-08T17:34:45.000+08:00"
+      },
+      {
+        "title": "WTT中国大满贯赛：周启豪胜张本智和 晋级男单8强",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-08/1207251.shtml",
+        "publishedAt": "2026-10-08T17:30:47.000+08:00"
+      },
+      {
+        "title": "218.78亿元，杭州国庆假期消费成色几何？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709235.shtml",
+        "publishedAt": "2026-10-08T17:27:51.000+08:00"
+      },
+      {
+        "title": "四川省甘孜州理塘县政府党组成员、副县长翁登主动投案 接受纪律审查和监察调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709229.shtml",
+        "publishedAt": "2026-10-08T17:25:33.000+08:00"
+      },
+      {
         "title": "四川合江：秋酿酱油香飘赤水河畔",
         "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709211.shtml",
         "publishedAt": "2026-10-08T17:25:07.000+08:00"
-      },
-      {
-        "title": "国庆假期 广州海事部门保障35.5万旅客水上平安出行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709219.shtml",
-        "publishedAt": "2026-10-08T17:24:11.000+08:00"
-      },
-      {
-        "title": "瓦努阿图附近海域发生6.6级地震",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709234.shtml",
-        "publishedAt": "2026-10-08T17:22:33.000+08:00"
-      },
-      {
-        "title": "“一起好状态”登陆上海西岸",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-08/1207248.shtml",
-        "publishedAt": "2026-10-08T17:22:15.000+08:00"
-      },
-      {
-        "title": "新华社快讯：瓦努阿图附近海域发生6.6级地震",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709232.shtml",
-        "publishedAt": "2026-10-08T17:18:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T17:30:03.929+08:00",
+    "fetchedAt": "2026-10-08T17:40:03.098+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T17:30:07.570+08:00",
+      "fetchedAt": "2026-10-08T17:40:07.007+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 33,
+          "usedPct": 35,
           "resetAt": "2026-10-08T20:39:00.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T17:30:07.865+08:00",
+      "fetchedAt": "2026-10-08T17:40:07.333+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T17:30:06.122+08:00",
+      "fetchedAt": "2026-10-08T17:40:05.371+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T17:30:07.872+08:00",
+      "fetchedAt": "2026-10-08T17:40:07.341+08:00",
       "error": null
     }
   }
