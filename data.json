@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-08T16:20:08.088+08:00",
+  "updatedAt": "2026-10-08T16:30:10.558+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24,
-    "feelsLikeC": 23.6,
-    "humidity": 48,
-    "windKph": 7.8,
+    "tempC": 23.8,
+    "feelsLikeC": 23.4,
+    "humidity": 50,
+    "windKph": 7.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-08T16:20:08.088+08:00",
+    "observedAt": "2026-10-08T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-08T16:30:10.558+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "体验VR考古 四川“沉浸式”文博游走热",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709161.shtml",
-        "publishedAt": "2026-10-08T16:15:17.000+08:00"
+        "title": "国庆假期长三角消费诉求整体平稳",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709168.shtml",
+        "publishedAt": "2026-10-08T16:27:56.000+08:00"
       },
       {
-        "title": "国庆假期福州对台空中直航航班往来台胞3100余人次",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709160.shtml",
-        "publishedAt": "2026-10-08T16:14:15.000+08:00"
+        "title": "直播海报：国新办就“十五五”时期推进就业和社会保障高质量发展有关情况举行新闻发布会",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709179.shtml",
+        "publishedAt": "2026-10-08T16:24:32.000+08:00"
       },
       {
-        "title": "寒露节气 北京老舍故居深秋柿香",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-08/1207240.shtml",
-        "publishedAt": "2026-10-08T16:14:02.000+08:00"
+        "title": "国庆假期，红色文化与青春力量“双向奔赴”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709180.shtml",
+        "publishedAt": "2026-10-08T16:23:06.000+08:00"
       },
       {
-        "title": "2026年国庆假期近9万人次外籍旅客从上海口岸入境",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709158.shtml",
-        "publishedAt": "2026-10-08T16:13:31.000+08:00"
+        "title": "扎根乡土 阳原晋韵在坚守与传承中焕发新彩",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709172.shtml",
+        "publishedAt": "2026-10-08T16:20:19.000+08:00"
       },
       {
-        "title": "（神州写真）山海为证 “目的地婚礼”成中国年轻人婚恋新风尚",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709156.shtml",
-        "publishedAt": "2026-10-08T16:11:11.000+08:00"
+        "title": "上海大师赛“漂”上黄浦江 解锁水上网球新体验",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-08/10709167.shtml",
+        "publishedAt": "2026-10-08T16:17:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T16:20:03.153+08:00",
+    "fetchedAt": "2026-10-08T16:30:03.617+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T16:20:06.368+08:00",
+      "fetchedAt": "2026-10-08T16:30:06.860+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 1,
-          "resetAt": "2026-10-08T20:39:00.000+08:00"
+          "resetAt": "2026-10-08T20:39:01.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T16:20:06.697+08:00",
+      "fetchedAt": "2026-10-08T16:30:07.171+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T16:20:04.882+08:00",
+      "fetchedAt": "2026-10-08T16:30:05.065+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T16:20:06.700+08:00",
+      "fetchedAt": "2026-10-08T16:30:07.181+08:00",
       "error": null
     }
   }
