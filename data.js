@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T22:00:11.471+08:00",
+  "updatedAt": "2026-10-08T22:10:09.561+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-08T22:00:11.471+08:00",
+    "fetchedAt": "2026-10-08T22:10:09.561+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“十一”假期中国多地楼市现暖意",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709374.shtml",
-        "publishedAt": "2026-10-08T21:55:18.000+08:00"
+        "title": "国庆假期 福建5A级景区累计接待281.02万人次",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709389.shtml",
+        "publishedAt": "2026-10-08T22:04:44.000+08:00"
       },
       {
-        "title": "（粤港澳大湾区）前三季度深圳用电量超1000亿千瓦时",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709373.shtml",
-        "publishedAt": "2026-10-08T21:54:31.000+08:00"
+        "title": "成都金堂警方通报“小区楼顶可疑骨头”：均非人类骨骼 造谣者被行政处罚",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709391.shtml",
+        "publishedAt": "2026-10-08T22:03:02.000+08:00"
       },
       {
-        "title": "“流动的中国”：美好在延展",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-08/10709385.shtml",
-        "publishedAt": "2026-10-08T21:53:29.000+08:00"
+        "title": "浙江中欧班列（义新欧）今年进出口超20万标箱",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709384.shtml",
+        "publishedAt": "2026-10-08T22:02:16.000+08:00"
       },
       {
-        "title": "中缅边境云南畹町口岸迎旅游热 戍边民警化身多角色",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709358.shtml",
-        "publishedAt": "2026-10-08T21:50:37.000+08:00"
+        "title": "国庆假期中缅边境云南打洛口岸出入境旅客3.8万余人次",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-08/10709380.shtml",
+        "publishedAt": "2026-10-08T22:02:12.000+08:00"
       },
       {
-        "title": "百年铁桥接续中美世纪情缘：满宝本后裔踏访兰州忆先辈往事",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709379.shtml",
-        "publishedAt": "2026-10-08T21:50:13.000+08:00"
+        "title": "浙江统一战线成员的“黄金周”剪影",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-08/10709386.shtml",
+        "publishedAt": "2026-10-08T22:02:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T22:00:06.241+08:00",
+    "fetchedAt": "2026-10-08T22:10:03.358+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T22:00:10.299+08:00",
+      "fetchedAt": "2026-10-08T22:10:07.719+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T22:00:10.614+08:00",
+      "fetchedAt": "2026-10-08T22:10:08.010+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T22:00:08.504+08:00",
+      "fetchedAt": "2026-10-08T22:10:05.351+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T22:00:10.619+08:00",
+      "fetchedAt": "2026-10-08T22:10:08.021+08:00",
       "error": null
     }
   }
