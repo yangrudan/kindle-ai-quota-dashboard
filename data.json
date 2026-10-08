@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T18:30:09.525+08:00",
+  "updatedAt": "2026-10-08T18:40:08.431+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T18:30:09.525+08:00",
+    "fetchedAt": "2026-10-08T18:40:08.431+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "台风“诺洛”向西偏北方向移动 “小熊”将快速增强",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709269.shtml",
+        "publishedAt": "2026-10-08T18:27:54.000+08:00"
+      },
+      {
+        "title": "吉林红石林区首座古树名木专业保护站投用",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709248.shtml",
+        "publishedAt": "2026-10-08T18:26:36.000+08:00"
+      },
+      {
+        "title": "中国沙漠“太空舱”营地成外籍游客新宠",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709249.shtml",
+        "publishedAt": "2026-10-08T18:26:30.000+08:00"
+      },
       {
         "title": "报告称国庆档单人观影比例达六年最高",
         "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709247.shtml",
@@ -28,24 +43,9 @@
         "title": "云岭动态第十三期",
         "url": "https://www.chinanews.com.cn/txy/2026/10-08/10709243.shtml",
         "publishedAt": "2026-10-08T18:22:12.000+08:00"
-      },
-      {
-        "title": "国庆假期青藏集团公司发送旅客创历史同期新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709244.shtml",
-        "publishedAt": "2026-10-08T18:20:32.000+08:00"
-      },
-      {
-        "title": "广东省人大常委会副主任张硕辅被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709255.shtml",
-        "publishedAt": "2026-10-08T18:19:34.000+08:00"
-      },
-      {
-        "title": "中韩海上执法部门开展中韩渔业协定暂定措施水域联合巡航",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709253.shtml",
-        "publishedAt": "2026-10-08T18:19:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T18:30:03.894+08:00",
+    "fetchedAt": "2026-10-08T18:40:03.080+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T18:30:07.994+08:00",
+      "fetchedAt": "2026-10-08T18:40:06.709+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T18:30:08.275+08:00",
+      "fetchedAt": "2026-10-08T18:40:07.115+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T18:30:06.327+08:00",
+      "fetchedAt": "2026-10-08T18:40:04.926+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T18:30:08.285+08:00",
+      "fetchedAt": "2026-10-08T18:40:07.125+08:00",
       "error": null
     }
   }
