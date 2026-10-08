@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-08T22:20:08.024+08:00",
+  "updatedAt": "2026-10-08T22:30:09.201+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.2,
+    "tempC": 18.1,
     "feelsLikeC": 17.6,
-    "humidity": 69,
-    "windKph": 8.8,
+    "humidity": 70,
+    "windKph": 8.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-08T22:20:08.024+08:00",
+    "observedAt": "2026-10-08T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-08T22:30:09.201+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泰国洪灾救济开始拨付 首批8219户获6800万泰铢",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709397.shtml",
+        "publishedAt": "2026-10-08T22:17:09.000+08:00"
+      },
+      {
+        "title": "2027长春大冬会火种在意大利都灵成功采集",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709401.shtml",
+        "publishedAt": "2026-10-08T22:13:18.000+08:00"
+      },
       {
         "title": "明德战略对话与会中外嘉宾走进江西新余 参访现代工业产业",
         "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709392.shtml",
@@ -33,19 +43,9 @@
         "title": "成都金堂警方通报“小区楼顶可疑骨头”：均非人类骨骼 造谣者被行政处罚",
         "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709391.shtml",
         "publishedAt": "2026-10-08T22:03:02.000+08:00"
-      },
-      {
-        "title": "浙江中欧班列（义新欧）今年进出口超20万标箱",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709384.shtml",
-        "publishedAt": "2026-10-08T22:02:16.000+08:00"
-      },
-      {
-        "title": "国庆假期中缅边境云南打洛口岸出入境旅客3.8万余人次",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-08/10709380.shtml",
-        "publishedAt": "2026-10-08T22:02:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T22:20:03.031+08:00",
+    "fetchedAt": "2026-10-08T22:30:03.912+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T22:20:06.466+08:00",
+      "fetchedAt": "2026-10-08T22:30:07.366+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T22:20:06.670+08:00",
+      "fetchedAt": "2026-10-08T22:30:07.693+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T22:20:04.938+08:00",
+      "fetchedAt": "2026-10-08T22:30:05.729+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T22:20:06.678+08:00",
+      "fetchedAt": "2026-10-08T22:30:07.702+08:00",
       "error": null
     }
   }
