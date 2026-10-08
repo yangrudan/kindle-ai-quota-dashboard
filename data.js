@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T20:00:09.455+08:00",
+  "updatedAt": "2026-10-08T20:10:08.213+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.2,
-    "feelsLikeC": 18.9,
+    "tempC": 19.1,
+    "feelsLikeC": 18.8,
     "humidity": 70,
     "windKph": 9.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-08T20:00:09.456+08:00",
+    "observedAt": "2026-10-08T20:00:00.000+08:00",
+    "fetchedAt": "2026-10-08T20:10:08.213+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "吃降压药会“成瘾”？这些误区很多人还在信",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709307.shtml",
-        "publishedAt": "2026-10-08T19:51:01.000+08:00"
+        "title": "中国央行：2005年汇改以来人民币对美元汇率累计升值23%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709309.shtml",
+        "publishedAt": "2026-10-08T20:08:00.000+08:00"
       },
       {
-        "title": "金与正：韩国声称要对朝医疗援助系“严重挑衅”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709252.shtml",
-        "publishedAt": "2026-10-08T19:44:54.000+08:00"
+        "title": "台积电2026年前三季合并营收超2025年全年",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709296.shtml",
+        "publishedAt": "2026-10-08T20:07:46.000+08:00"
       },
       {
-        "title": "2026国庆中国游客东盟旅游热度榜出炉：体验型旅游项目异军突起",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-08/10709297.shtml",
-        "publishedAt": "2026-10-08T19:44:44.000+08:00"
+        "title": "今年前9月广西电网投产72项主网、6200余项配网工程",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709314.shtml",
+        "publishedAt": "2026-10-08T20:07:08.000+08:00"
       },
       {
-        "title": "中国—东盟商贸资讯平台推出中国游客东盟旅游热榜",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-08/10709294.shtml",
-        "publishedAt": "2026-10-08T19:39:28.000+08:00"
+        "title": "新就业形态劳动者权益保障办法公开征求意见",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709310.shtml",
+        "publishedAt": "2026-10-08T20:06:54.000+08:00"
       },
       {
-        "title": "市场监管总局深入整治网络食品销售虚假宣传 保障国庆假期食品消费安全",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709293.shtml",
-        "publishedAt": "2026-10-08T19:30:16.000+08:00"
+        "title": "NBA传奇球星韦德访港 与球迷亲切互动",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709311.shtml",
+        "publishedAt": "2026-10-08T20:03:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T20:00:03.143+08:00",
+    "fetchedAt": "2026-10-08T20:10:02.912+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T20:00:08.288+08:00",
+      "fetchedAt": "2026-10-08T20:10:06.328+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T20:00:08.596+08:00",
+      "fetchedAt": "2026-10-08T20:10:06.630+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T20:00:05.514+08:00",
+      "fetchedAt": "2026-10-08T20:10:04.664+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T20:00:08.601+08:00",
+      "fetchedAt": "2026-10-08T20:10:06.639+08:00",
       "error": null
     }
   }
