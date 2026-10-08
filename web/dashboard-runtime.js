@@ -107,9 +107,21 @@
     return true;
   }
 
+  function validNews(news) {
+    var index;
+    if (!news || typeof news.ok !== 'boolean' || !validTime(news.fetchedAt, false) || !Array.isArray(news.items)) return false;
+    if (!news.ok) return true;
+    if (news.items.length !== 5) return false;
+    for (index = 0; index < news.items.length; index += 1) {
+      if (!news.items[index] || typeof news.items[index].title !== 'string' ||
+          !validTime(news.items[index].publishedAt, false)) return false;
+    }
+    return true;
+  }
+
   function validPayload(data) {
     var index;
-    if (!data || !validTime(data.updatedAt, false) || !data.sources || !validWeather(data.weather)) return false;
+    if (!data || !validTime(data.updatedAt, false) || !data.sources || !validWeather(data.weather) || !validNews(data.news)) return false;
     for (index = 0; index < sourceNames.length; index += 1) {
       if (!validSource(sourceNames[index], data.sources[sourceNames[index]])) return false;
     }
@@ -410,13 +422,32 @@
     ui.text(detailId, '获取失败 · 等待下次采集');
   }
 
-  function updateQuote(quote) {
-    if (!quote || !quote.text) return;
-    ui.textNode(doc.querySelector('.quote-text'), quote.text);
-    if (quote.source) {
-      ui.textNode(doc.querySelector('.quote-src'), '— ' + quote.source);
+  function escapeHtml(value) {
+    return String(value || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function updateNews(news) {
+    var list = ui.find('newsList');
+    var html = '';
+    var index;
+    if (!list) return;
+    if (!news || !news.ok || !news.items.length) {
+      ui.text('newsUpdated', '获取失败');
+      ui.html(list, '<li class="news-item"><div class="news-text">等待下一次新闻采集</div></li>');
+      return;
     }
-    ui.textNode(doc.querySelector('.quote-analysis'), quote.analysis ? '解析：' + quote.analysis : '');
+    ui.text('newsUpdated', String(news.source || '新闻') + ' · ' + clockText(news.fetchedAt) + '更新');
+    for (index = 0; index < news.items.length; index += 1) {
+      html += '<li class="news-item"><span class="news-time">' +
+        escapeHtml(clockText(news.items[index].publishedAt)) +
+        '</span><div class="news-text">' +
+        escapeHtml(news.items[index].title) + '</div></li>';
+    }
+    ui.html(list, html);
   }
 
   function present(data, fromCache) {
@@ -434,7 +465,7 @@
       updateQuotaCard('cardCodex', data.sources.codex);
       updateBalance(data.sources.mimo, 'mimoBalance', 'mimoDetail');
       updateBalance(data.sources.deepseek, 'deepSeekBalance', 'deepSeekDetail');
-      updateQuote(data.quote);
+      updateNews(data.news);
       relativeNode = ui.find('relTime');
       if (relativeNode) ui.attribute(relativeNode, 'data-ts', data.updatedAt);
     }

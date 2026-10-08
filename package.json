@@ -12,6 +12,7 @@
     "demo": "node src/collect.cjs --demo",
     "collect": "node src/collect.cjs",
     "weather": "node scripts/collect-weather.cjs",
+    "news": "node scripts/collect-news.cjs",
     "mimo:login": "node scripts/login-mimo-console.cjs",
     "mimo:collect": "node scripts/collect-mimo-balance.cjs",
     "build": "node scripts/build-site.cjs",

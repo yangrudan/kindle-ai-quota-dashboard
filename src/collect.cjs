@@ -7,6 +7,7 @@ const { collectCodex } = require('./collectors/codex.cjs');
 const { collectDeepSeek } = require('./collectors/deepseek.cjs');
 const { collectMimo } = require('./collectors/mimo.cjs');
 const { ROOT, loadConfig } = require('./lib/config.cjs');
+const { readNews } = require('./lib/news-file.cjs');
 const {
   isoBeijing,
   readJson,
@@ -117,10 +118,19 @@ function demoSnapshot() {
       fetchedAt: now,
       error: null,
     },
-    quote: {
-      text: '兼听则明，偏信则暗。',
-      source: '《资治通鉴·唐纪·卷一百九十二》',
-      analysis: '判断事情要尽量听取多方意见；只听一种声音，信息容易被遮蔽，决定也容易失真。',
+    news: {
+      ok: true,
+      source: '示例新闻',
+      sourceUrl: 'https://example.com/news.xml',
+      items: [
+        { title: '第一条示例新闻标题', url: 'https://example.com/1', publishedAt: now },
+        { title: '第二条示例新闻标题', url: 'https://example.com/2', publishedAt: now },
+        { title: '第三条示例新闻标题', url: 'https://example.com/3', publishedAt: now },
+        { title: '第四条示例新闻标题', url: 'https://example.com/4', publishedAt: now },
+        { title: '第五条示例新闻标题', url: 'https://example.com/5', publishedAt: now },
+      ],
+      fetchedAt: now,
+      error: null,
     },
     sources: {
       copilot: {
@@ -172,7 +182,7 @@ async function realSnapshot(config) {
   return {
     updatedAt: isoBeijing(),
     weather: readWeather(config.weatherFile),
-    quote: readQuote(config.quoteFile),
+    news: readNews(config.newsFile),
     sources: { copilot, codex, mimo, deepseek },
   };
 }
@@ -207,6 +217,12 @@ function validateSnapshot(snapshot) {
   }
   if (!snapshot.weather || typeof snapshot.weather.ok !== 'boolean') {
     throw new Error('快照缺少 weather');
+  }
+  if (!snapshot.news || typeof snapshot.news.ok !== 'boolean' || !Array.isArray(snapshot.news.items)) {
+    throw new Error('快照缺少 news');
+  }
+  if (snapshot.news.ok && snapshot.news.items.length !== 5) {
+    throw new Error('news 必须包含 5 条新闻');
   }
   for (const name of SOURCE_NAMES) {
     const source = snapshot.sources[name];
@@ -266,6 +282,7 @@ module.exports = {
   beijingDayNumber,
   demoSnapshot,
   preserveLastKnownGood,
+  readNews,
   readQuote,
   readWeather,
   validateSnapshot,

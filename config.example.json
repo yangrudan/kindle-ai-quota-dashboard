@@ -1,7 +1,11 @@
 {
   "outputDir": "state",
   "keepLocalHistory": false,
-  "quoteFile": "content/quotes-365.json",
+  "newsFile": "config/news.json",
+  "news": {
+    "source": "中国新闻网",
+    "feedUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml"
+  },
   "weatherFile": "",
   "providers": {
     "deepseek": {

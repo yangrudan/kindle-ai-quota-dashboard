@@ -62,20 +62,16 @@ body {
 .w-icon svg { width: 30px; height: 30px; }
 .w-detail { font-size: 13px; color: var(--light); line-height: 1.7; }
 
-/* ===== Quote ===== */
-.quote {
-  text-align: center; padding: 16px 24px;
-  border: 1px solid var(--border-light); position: relative;
-  margin-bottom: 20px;
-}
-.quote::before, .quote::after {
-  position: absolute; font-size: 28px; color: var(--faint); font-family: Georgia, serif; line-height: 1;
-}
-.quote::before { content: '\201C'; top: 6px; left: 12px; }
-.quote::after { content: '\201D'; bottom: 2px; right: 12px; }
-.quote-text { font-size: 19px; line-height: 1.8; font-style: italic; margin-bottom: 4px; }
-.quote-src { font-size: 12px; color: var(--light); letter-spacing: 0.05em; }
-.quote-analysis { margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--border-light); font-size: 13px; line-height: 1.65; color: var(--mid); text-align: left; }
+/* ===== Latest news ===== */
+.news-panel { padding: 12px 16px; border: 1px solid var(--border-light); margin-bottom: 20px; }
+.news-head { overflow: hidden; padding-bottom: 6px; margin-bottom: 3px; border-bottom: 1px solid var(--border-light); }
+.news-title { float: left; font-size: 15px; font-weight: 700; }
+.news-updated { float: right; padding-top: 2px; font-size: 11px; color: var(--light); }
+.news-list { list-style: none; }
+.news-item { min-height: 24px; padding: 3px 0; border-top: 1px solid var(--border-light); overflow: hidden; }
+.news-item:first-child { border-top: 0; }
+.news-time { float: left; width: 40px; padding-top: 2px; color: var(--light); font-size: 11px; }
+.news-text { margin-left: 42px; font-size: 14px; line-height: 1.4; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 /* ===== Quota cards ===== */
 .quota-grid {
@@ -137,7 +133,7 @@ body {
 .legacy-kindle .dt-date { margin-right: 10px; }
 .legacy-kindle .w-temp,
 .legacy-kindle .w-icon { display: inline-block; vertical-align: middle; }
-.legacy-kindle .quote { border: 1px solid #ccc; }
+.legacy-kindle .news-panel { border: 1px solid #ccc; }
 .legacy-kindle .quota-grid { display: block; width: 100%; font-size: 0; }
 .legacy-kindle .q-card { display: inline-block; width: 264px; height: 188px; margin: 0 0 12px; padding: 12px 14px; vertical-align: top; background: #f8f8f8; border: 1px solid #ccc; -webkit-box-sizing: border-box; box-sizing: border-box; font-size: 16px; }
 .legacy-kindle .q-card:nth-child(odd) { margin-right: 12px; }
@@ -160,11 +156,13 @@ body {
 .legacy-kindle .dt-battery { display: none; }
 .legacy-kindle .w-icon svg { width: 53px; height: 53px; }
 .legacy-kindle .w-detail { font-size: 23px; line-height: 1.7; }
-.legacy-kindle .quote { padding: 29px 43px; margin-bottom: 36px; }
-.legacy-kindle .quote-text { font-size: 34px; }
-.legacy-kindle .quote-src { font-size: 21px; }
-.legacy-kindle .quote-analysis { margin-top: 16px; padding-top: 14px; border-top: 1px solid #ccc; font-size: 21px; line-height: 1.6; color: #555; text-align: left; }
-.legacy-kindle .quote::before, .legacy-kindle .quote::after { font-size: 50px; }
+.legacy-kindle .news-panel { padding: 14px 28px; margin-bottom: 26px; }
+.legacy-kindle .news-head { padding-bottom: 9px; margin-bottom: 5px; border-bottom: 1px solid #ccc; }
+.legacy-kindle .news-title { font-size: 27px; }
+.legacy-kindle .news-updated { padding-top: 4px; font-size: 20px; color: #666; }
+.legacy-kindle .news-item { height: 35px; padding: 2px 0; border-top: 1px solid #ddd; }
+.legacy-kindle .news-time { width: 78px; padding-top: 2px; font-size: 20px; color: #666; }
+.legacy-kindle .news-text { margin-left: 82px; font-size: 23px; line-height: 30px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .legacy-kindle .data-alert { margin: -18px 0 21px; padding: 11px 18px; border-width: 3px; font-size: 23px; }
 .legacy-kindle .q-card { width: 474px; height: 380px; margin-bottom: 21px; padding: 21px 25px; font-size: 28px; }
 .legacy-kindle .q-card:nth-child(odd) { margin-right: 21px; }
@@ -209,11 +207,15 @@ body {
 
 <div class="data-alert" id="dataAlert"></div>
 
-<!-- ===== Quote ===== -->
-<div class="quote">
-  <div class="quote-text" id="quoteText">兼听则明，偏信则暗。</div>
-  <div class="quote-src sans" id="quoteSrc">— 《资治通鉴·唐纪·卷一百九十二》</div>
-  <div class="quote-analysis sans" id="quoteAnalysis">解析：判断事情要尽量听取多方意见；只听一种声音，信息容易被遮蔽，决定也容易失真。</div>
+<!-- ===== Latest news ===== -->
+<div class="news-panel sans">
+  <div class="news-head">
+    <span class="news-title">最新新闻</span>
+    <span class="news-updated" id="newsUpdated">等待更新</span>
+  </div>
+  <ol class="news-list" id="newsList">
+    <li class="news-item"><span class="news-time">--:--</span><div class="news-text">正在获取最新新闻…</div></li>
+  </ol>
 </div>
 
 <!-- ===== AI Quotas ===== -->
