@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-08T16:40:08.880+08:00",
+  "updatedAt": "2026-10-08T16:50:08.415+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.8,
-    "feelsLikeC": 23.4,
-    "humidity": 50,
-    "windKph": 7.9,
+    "tempC": 23.4,
+    "feelsLikeC": 23.1,
+    "humidity": 52,
+    "windKph": 8.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T16:40:08.880+08:00",
+    "observedAt": "2026-10-08T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-08T16:50:08.415+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南镇雄大营煤矿“12·24”较大煤与瓦斯突出事故调查报告公布 40名责任人被追责问责",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709182.shtml",
-        "publishedAt": "2026-10-08T16:28:42.000+08:00"
+        "title": "福州机场口岸国庆假期出入境旅客3.44万余人次",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709194.shtml",
+        "publishedAt": "2026-10-08T16:49:13.000+08:00"
       },
       {
-        "title": "国庆假期长三角消费诉求整体平稳",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709168.shtml",
-        "publishedAt": "2026-10-08T16:27:56.000+08:00"
+        "title": "雪场不候雪 秋景引客来：吉林雪场绘就秋游新画卷",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709193.shtml",
+        "publishedAt": "2026-10-08T16:48:29.000+08:00"
       },
       {
-        "title": "直播海报：国新办就“十五五”时期推进就业和社会保障高质量发展有关情况举行新闻发布会",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709179.shtml",
-        "publishedAt": "2026-10-08T16:24:32.000+08:00"
+        "title": "东西问｜“95后”博主夏雪：讲述中国故事，微观视角动人",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-08/10709192.shtml",
+        "publishedAt": "2026-10-08T16:47:41.000+08:00"
       },
       {
-        "title": "国庆假期，红色文化与青春力量“双向奔赴”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709180.shtml",
-        "publishedAt": "2026-10-08T16:23:06.000+08:00"
+        "title": "最新统计：台湾人口连续33个月负增长",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709195.shtml",
+        "publishedAt": "2026-10-08T16:45:07.000+08:00"
       },
       {
-        "title": "扎根乡土 阳原晋韵在坚守与传承中焕发新彩",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709172.shtml",
-        "publishedAt": "2026-10-08T16:20:19.000+08:00"
+        "title": "越界有风险，偷果自食苦果｜新漫评",
+        "url": "http://www.chinanews.com.cn/gj/shipin/2026/10-08/news1071223.shtml",
+        "publishedAt": "2026-10-08T16:39:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T16:40:03.189+08:00",
+    "fetchedAt": "2026-10-08T16:50:03.401+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T16:40:06.980+08:00",
+      "fetchedAt": "2026-10-08T16:50:07.163+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 22,
           "resetAt": "2026-10-08T20:39:01.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 13,
+          "usedPct": 14,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T16:40:07.331+08:00",
+      "fetchedAt": "2026-10-08T16:50:07.493+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T16:40:05.065+08:00",
+      "fetchedAt": "2026-10-08T16:50:05.112+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T16:40:07.340+08:00",
+      "fetchedAt": "2026-10-08T16:50:07.498+08:00",
       "error": null
     }
   }
