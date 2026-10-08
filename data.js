@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T18:20:07.184+08:00",
+  "updatedAt": "2026-10-08T18:30:09.525+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.2,
-    "feelsLikeC": 19.7,
-    "humidity": 67,
-    "windKph": 11.7,
+    "tempC": 20,
+    "feelsLikeC": 19.6,
+    "humidity": 68,
+    "windKph": 11.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-08T18:20:07.184+08:00",
+    "observedAt": "2026-10-08T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-08T18:30:09.525+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "我驻马尔代夫使馆提醒中国游客注意涉水活动安全",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-08/10709260.shtml",
-        "publishedAt": "2026-10-08T18:12:24.000+08:00"
+        "title": "报告称国庆档单人观影比例达六年最高",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709247.shtml",
+        "publishedAt": "2026-10-08T18:23:12.000+08:00"
       },
       {
-        "title": "金与正：朝鲜绝不跟韩国交换什么东西，也不需与其打交道；朝韩关系敌对性质不变",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709258.shtml",
-        "publishedAt": "2026-10-08T18:09:37.000+08:00"
+        "title": "云岭动态第十三期",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-08/10709243.shtml",
+        "publishedAt": "2026-10-08T18:22:12.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）福建尤溪4.1万亩杂交水稻制种迎丰收 全链条机械化助农增收",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709246.shtml",
-        "publishedAt": "2026-10-08T18:05:19.000+08:00"
+        "title": "国庆假期青藏集团公司发送旅客创历史同期新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709244.shtml",
+        "publishedAt": "2026-10-08T18:20:32.000+08:00"
       },
       {
-        "title": "A股电池板块10月收获“开门红”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709254.shtml",
-        "publishedAt": "2026-10-08T18:02:19.000+08:00"
+        "title": "广东省人大常委会副主任张硕辅被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709255.shtml",
+        "publishedAt": "2026-10-08T18:19:34.000+08:00"
       },
       {
-        "title": "中国人民银行发布关于人民币汇率的政策立场",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709251.shtml",
-        "publishedAt": "2026-10-08T17:54:15.000+08:00"
+        "title": "中韩海上执法部门开展中韩渔业协定暂定措施水域联合巡航",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709253.shtml",
+        "publishedAt": "2026-10-08T18:19:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T18:20:02.661+08:00",
+    "fetchedAt": "2026-10-08T18:30:03.894+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T18:20:05.825+08:00",
+      "fetchedAt": "2026-10-08T18:30:07.994+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 35,
-          "resetAt": "2026-10-08T20:39:00.000+08:00"
+          "resetAt": "2026-10-08T20:39:01.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T18:20:06.091+08:00",
+      "fetchedAt": "2026-10-08T18:30:08.275+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T18:20:04.395+08:00",
+      "fetchedAt": "2026-10-08T18:30:06.327+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T18:20:06.100+08:00",
+      "fetchedAt": "2026-10-08T18:30:08.285+08:00",
       "error": null
     }
   }
