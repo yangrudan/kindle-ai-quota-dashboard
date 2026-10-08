@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T16:10:10.043+08:00",
+  "updatedAt": "2026-10-08T16:20:08.088+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.3,
-    "feelsLikeC": 23.8,
-    "humidity": 46,
-    "windKph": 7.6,
+    "tempC": 24,
+    "feelsLikeC": 23.6,
+    "humidity": 48,
+    "windKph": 7.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-08T16:10:10.044+08:00",
+    "observedAt": "2026-10-08T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-08T16:20:08.088+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国官方：国庆假期1546.2万人次出入境",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709154.shtml",
-        "publishedAt": "2026-10-08T16:08:59.000+08:00"
+        "title": "体验VR考古 四川“沉浸式”文博游走热",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709161.shtml",
+        "publishedAt": "2026-10-08T16:15:17.000+08:00"
       },
       {
-        "title": "山西万荣：汾河两岸秋色浓 万亩良田绘丰收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709140.shtml",
-        "publishedAt": "2026-10-08T16:06:25.000+08:00"
+        "title": "国庆假期福州对台空中直航航班往来台胞3100余人次",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709160.shtml",
+        "publishedAt": "2026-10-08T16:14:15.000+08:00"
       },
       {
-        "title": "中国最高法等发布典型案例 聚焦解决拖欠企业账款纠纷",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709153.shtml",
-        "publishedAt": "2026-10-08T16:06:17.000+08:00"
+        "title": "寒露节气 北京老舍故居深秋柿香",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-08/1207240.shtml",
+        "publishedAt": "2026-10-08T16:14:02.000+08:00"
       },
       {
-        "title": "霍尔木兹海峡船只遇袭事件增加 伊朗称将很快关闭“非法航道”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709157.shtml",
-        "publishedAt": "2026-10-08T16:06:03.000+08:00"
+        "title": "2026年国庆假期近9万人次外籍旅客从上海口岸入境",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709158.shtml",
+        "publishedAt": "2026-10-08T16:13:31.000+08:00"
       },
       {
-        "title": "“上海国际体育潮流文化节”升级 联动商圈、贯通赛事和消费",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709152.shtml",
-        "publishedAt": "2026-10-08T16:04:41.000+08:00"
+        "title": "（神州写真）山海为证 “目的地婚礼”成中国年轻人婚恋新风尚",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709156.shtml",
+        "publishedAt": "2026-10-08T16:11:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T16:10:03.705+08:00",
+    "fetchedAt": "2026-10-08T16:20:03.153+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T16:10:08.298+08:00",
+      "fetchedAt": "2026-10-08T16:20:06.368+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 1,
-          "resetAt": "2026-10-08T20:39:01.000+08:00"
+          "resetAt": "2026-10-08T20:39:00.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T16:10:08.787+08:00",
+      "fetchedAt": "2026-10-08T16:20:06.697+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T16:10:05.391+08:00",
+      "fetchedAt": "2026-10-08T16:20:04.882+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T16:10:08.798+08:00",
+      "fetchedAt": "2026-10-08T16:20:06.700+08:00",
       "error": null
     }
   }
