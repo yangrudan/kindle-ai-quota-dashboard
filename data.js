@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T20:10:08.213+08:00",
+  "updatedAt": "2026-10-08T20:20:14.184+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.1,
-    "feelsLikeC": 18.8,
+    "tempC": 19,
+    "feelsLikeC": 18.7,
     "humidity": 70,
-    "windKph": 9.9,
+    "windKph": 9.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-08T20:10:08.213+08:00",
+    "observedAt": "2026-10-08T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-08T20:20:14.184+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国央行：2005年汇改以来人民币对美元汇率累计升值23%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709309.shtml",
-        "publishedAt": "2026-10-08T20:08:00.000+08:00"
+        "title": "国庆假期广州零售额同比增长10.1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709299.shtml",
+        "publishedAt": "2026-10-08T20:13:14.000+08:00"
       },
       {
-        "title": "台积电2026年前三季合并营收超2025年全年",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709296.shtml",
-        "publishedAt": "2026-10-08T20:07:46.000+08:00"
+        "title": "逾400名选手齐聚广州“以棋会友”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709320.shtml",
+        "publishedAt": "2026-10-08T20:12:24.000+08:00"
       },
       {
-        "title": "今年前9月广西电网投产72项主网、6200余项配网工程",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709314.shtml",
-        "publishedAt": "2026-10-08T20:07:08.000+08:00"
+        "title": "9月中国钢铁运营景气指数为54.1 钢材需求有望小幅回升",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709305.shtml",
+        "publishedAt": "2026-10-08T20:12:06.000+08:00"
       },
       {
-        "title": "新就业形态劳动者权益保障办法公开征求意见",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709310.shtml",
-        "publishedAt": "2026-10-08T20:06:54.000+08:00"
+        "title": "中央巡视组原副部级巡视专员许传智一审获刑12年",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709303.shtml",
+        "publishedAt": "2026-10-08T20:11:24.000+08:00"
       },
       {
-        "title": "NBA传奇球星韦德访港 与球迷亲切互动",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709311.shtml",
-        "publishedAt": "2026-10-08T20:03:41.000+08:00"
+        "title": "海南自贸港封关后首个国庆假期：离岛免税销售额8.55亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709298.shtml",
+        "publishedAt": "2026-10-08T20:10:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T20:10:02.912+08:00",
+    "fetchedAt": "2026-10-08T20:20:05.248+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T20:10:06.328+08:00",
+      "fetchedAt": "2026-10-08T20:20:12.921+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 35,
-          "resetAt": "2026-10-08T20:39:00.000+08:00"
+          "resetAt": "2026-10-08T20:39:01.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T20:10:06.630+08:00",
+      "fetchedAt": "2026-10-08T20:20:13.259+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T20:10:04.664+08:00",
+      "fetchedAt": "2026-10-08T20:20:06.994+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T20:10:06.639+08:00",
+      "fetchedAt": "2026-10-08T20:20:13.268+08:00",
       "error": null
     }
   }
