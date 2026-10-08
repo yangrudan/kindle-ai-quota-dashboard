@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T21:40:09.669+08:00",
+  "updatedAt": "2026-10-08T21:50:09.146+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.6,
-    "feelsLikeC": 17.9,
+    "tempC": 18.5,
+    "feelsLikeC": 17.8,
     "humidity": 67,
-    "windKph": 9.6,
+    "windKph": 9.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T21:40:09.670+08:00",
+    "observedAt": "2026-10-08T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-08T21:50:09.146+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "长春大冬会｜火种将越千山 青春奔赴长春",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709375.shtml",
-        "publishedAt": "2026-10-08T21:33:46.000+08:00"
+        "title": "2026钻石杯青少年网球挑战赛总决赛在北京落幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-08/10709356.shtml",
+        "publishedAt": "2026-10-08T21:45:07.000+08:00"
       },
       {
-        "title": "“超长待机”的假期有哪些新亮点？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709369.shtml",
-        "publishedAt": "2026-10-08T21:29:46.000+08:00"
+        "title": "原创舞剧《黄飞鸿》将于2027年在香港开启世界巡演",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-08/10709355.shtml",
+        "publishedAt": "2026-10-08T21:44:59.000+08:00"
       },
       {
-        "title": "零时差｜还在怪中国？德国这份报告讲了句大实话",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-08/10709368.shtml",
-        "publishedAt": "2026-10-08T21:26:48.000+08:00"
+        "title": "成都一小区楼顶发现7岁男童坟墓系谣言 警方通报",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709381.shtml",
+        "publishedAt": "2026-10-08T21:43:35.000+08:00"
       },
       {
-        "title": "外交部：再次敦促日方严惩持刀侵闯中国驻日使馆凶犯",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709367.shtml",
-        "publishedAt": "2026-10-08T21:24:26.000+08:00"
+        "title": "专家：AI赋能泌尿肿瘤早筛早诊 精准评估成临床创新“发力点”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-08/10709349.shtml",
+        "publishedAt": "2026-10-08T21:42:37.000+08:00"
       },
       {
-        "title": "网传“喀纳斯棕熊索食险酿大祸”系AI编造（2026·10·08）",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709364.shtml",
-        "publishedAt": "2026-10-08T21:21:04.000+08:00"
+        "title": "辽上京考古：实证宋元时期农耕文明与草原文明交融互鉴",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709354.shtml",
+        "publishedAt": "2026-10-08T21:42:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T21:40:03.628+08:00",
+    "fetchedAt": "2026-10-08T21:50:03.324+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T21:40:07.382+08:00",
+      "fetchedAt": "2026-10-08T21:50:07.524+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T21:40:07.757+08:00",
+      "fetchedAt": "2026-10-08T21:50:07.805+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T21:40:05.440+08:00",
+      "fetchedAt": "2026-10-08T21:50:05.834+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T21:40:07.767+08:00",
+      "fetchedAt": "2026-10-08T21:50:07.815+08:00",
       "error": null
     }
   }
