@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T11:40:09.315+08:00",
+  "updatedAt": "2026-10-08T11:50:08.458+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.2,
-    "feelsLikeC": 24.6,
+    "tempC": 24.3,
+    "feelsLikeC": 24.8,
     "humidity": 40,
-    "windKph": 7.6,
+    "windKph": 7.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-08T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T11:40:09.316+08:00",
+    "observedAt": "2026-10-08T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-08T11:50:08.458+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国庆假期进出京客流单日首破560万人次创新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708979.shtml",
-        "publishedAt": "2026-10-08T11:33:58.000+08:00"
+        "title": "我国第16次北冰洋考察有哪些丰硕成果？这些国产装备大显身手→",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10708991.shtml",
+        "publishedAt": "2026-10-08T11:42:40.000+08:00"
       },
       {
-        "title": "福建大田：国庆假期“戏”味浓 文化惠民“周周有戏看”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10708973.shtml",
-        "publishedAt": "2026-10-08T11:33:24.000+08:00"
+        "title": "长三角铁路2026年国庆假期共发送旅客逾2770万人次",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10708988.shtml",
+        "publishedAt": "2026-10-08T11:38:46.000+08:00"
       },
       {
-        "title": "重庆火车站国庆假期共计发送旅客234.2万人次",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10708971.shtml",
-        "publishedAt": "2026-10-08T11:32:44.000+08:00"
+        "title": "接待游客910万人次 重庆国庆假期文旅市场热力十足",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10708987.shtml",
+        "publishedAt": "2026-10-08T11:38:10.000+08:00"
       },
       {
-        "title": "“少作业”实现“多稳产” 大庆油田老油田精益治理降本增效",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708970.shtml",
-        "publishedAt": "2026-10-08T11:32:04.000+08:00"
+        "title": "海南岛东半部地区将有强降雨 发布黄色山洪预警",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10708986.shtml",
+        "publishedAt": "2026-10-08T11:37:38.000+08:00"
       },
       {
-        "title": "贵州医科大学附属医院原副院长李建阳被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708978.shtml",
-        "publishedAt": "2026-10-08T11:23:15.000+08:00"
+        "title": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708989.shtml",
+        "publishedAt": "2026-10-08T11:37:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T11:40:03.928+08:00",
+    "fetchedAt": "2026-10-08T11:50:03.773+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T11:40:07.892+08:00",
+      "fetchedAt": "2026-10-08T11:50:06.761+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T11:40:08.214+08:00",
+      "fetchedAt": "2026-10-08T11:50:07.173+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T11:40:06.231+08:00",
+      "fetchedAt": "2026-10-08T11:50:05.236+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T11:40:08.223+08:00",
+      "fetchedAt": "2026-10-08T11:50:07.183+08:00",
       "error": null
     }
   }
