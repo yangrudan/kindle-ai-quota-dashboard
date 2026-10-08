@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-08T12:20:11.614+08:00",
+  "updatedAt": "2026-10-08T12:30:10.179+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.5,
+    "tempC": 24.6,
     "feelsLikeC": 25.1,
     "humidity": 40,
     "windKph": 7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-08T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-08T12:20:11.614+08:00",
+    "observedAt": "2026-10-08T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-08T12:30:10.179+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "沙特两座机场遭袭已致3死36伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708996.shtml",
+        "publishedAt": "2026-10-08T12:19:04.000+08:00"
+      },
+      {
+        "title": "多方携手助中医针灸走进南非开普敦社区医疗中心",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708958.shtml",
+        "publishedAt": "2026-10-08T12:18:28.000+08:00"
+      },
+      {
+        "title": "机构称英国9月房价环比持平",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708952.shtml",
+        "publishedAt": "2026-10-08T12:17:58.000+08:00"
+      },
+      {
+        "title": "江苏太仓存在代孕机构？当地通报：已开展现场核查",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709003.shtml",
+        "publishedAt": "2026-10-08T12:17:56.000+08:00"
+      },
+      {
         "title": "物流网究竟要建什么？三个问题说清楚",
         "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709002.shtml",
         "publishedAt": "2026-10-08T12:07:56.000+08:00"
-      },
-      {
-        "title": "天气转凉，身体真正需要的可能不是“秋膘”！",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-08/10709001.shtml",
-        "publishedAt": "2026-10-08T12:06:26.000+08:00"
-      },
-      {
-        "title": "你的押金退了吗？假期归来，这笔账记得查→",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709000.shtml",
-        "publishedAt": "2026-10-08T12:02:15.000+08:00"
-      },
-      {
-        "title": "百强房企“交卷”：1~9月销售总额超2.25万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708967.shtml",
-        "publishedAt": "2026-10-08T11:59:11.000+08:00"
-      },
-      {
-        "title": "9月末外储为34003亿美元 美联储加息预期下多类资产价格承压",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708962.shtml",
-        "publishedAt": "2026-10-08T11:58:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T12:20:03.020+08:00",
+    "fetchedAt": "2026-10-08T12:30:03.426+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T12:20:06.931+08:00",
+      "fetchedAt": "2026-10-08T12:30:08.798+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T12:20:09.549+08:00",
+      "fetchedAt": "2026-10-08T12:30:09.007+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T12:20:05.224+08:00",
+      "fetchedAt": "2026-10-08T12:30:06.167+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T12:20:09.558+08:00",
+      "fetchedAt": "2026-10-08T12:30:09.011+08:00",
       "error": null
     }
   }
