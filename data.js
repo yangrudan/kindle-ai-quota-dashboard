@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T14:20:10.987+08:00",
+  "updatedAt": "2026-10-08T14:30:17.846+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-08T14:20:10.987+08:00",
+    "fetchedAt": "2026-10-08T14:30:17.846+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "赤水河畔，红色基因照亮“绿色”征程 | 企步新长征",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709069.shtml",
-        "publishedAt": "2026-10-08T14:09:26.000+08:00"
+        "title": "厄尔尼诺致菲律宾逾42.8万人受影响 农业损失超55亿比索",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709040.shtml",
+        "publishedAt": "2026-10-08T14:28:43.000+08:00"
       },
       {
-        "title": "长三角铁路2026年国庆假期共发送旅客逾2770万人次",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-08/10709031.shtml",
-        "publishedAt": "2026-10-08T14:03:34.000+08:00"
+        "title": "山东国庆黄金周揽客逾6000万人次 旅游收入达576.9亿元",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709072.shtml",
+        "publishedAt": "2026-10-08T14:24:39.000+08:00"
       },
       {
-        "title": "国庆节期间1546.2万人次出入境",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709043.shtml",
-        "publishedAt": "2026-10-08T14:03:24.000+08:00"
+        "title": "国庆假期中国高速公路新能源汽车日均充电量同比增逾51%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709071.shtml",
+        "publishedAt": "2026-10-08T14:24:37.000+08:00"
       },
       {
-        "title": "美媒：美军为再次大规模打击伊朗做准备",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709021.shtml",
-        "publishedAt": "2026-10-08T13:43:25.000+08:00"
+        "title": "云南的神秘山洞，藏有人民军队夜视装备的源头 | 企步新长征",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709077.shtml",
+        "publishedAt": "2026-10-08T14:24:11.000+08:00"
       },
       {
-        "title": "宁夏银川：全域文旅释放消费活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709039.shtml",
-        "publishedAt": "2026-10-08T13:43:15.000+08:00"
+        "title": "聚集罕见病群体 《中国医生4：罕见人生》将开播",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-08/10709070.shtml",
+        "publishedAt": "2026-10-08T14:21:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T14:20:03.343+08:00",
+    "fetchedAt": "2026-10-08T14:30:12.163+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T14:20:06.821+08:00",
+      "fetchedAt": "2026-10-08T14:30:15.750+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 56,
+          "usedPct": 67,
           "resetAt": "2026-10-08T15:25:42.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 9,
+          "usedPct": 11,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T14:20:08.232+08:00",
+      "fetchedAt": "2026-10-08T14:30:16.091+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T14:20:05.291+08:00",
+      "fetchedAt": "2026-10-08T14:30:13.949+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T14:20:08.240+08:00",
+      "fetchedAt": "2026-10-08T14:30:16.097+08:00",
       "error": null
     }
   }
