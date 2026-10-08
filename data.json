@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T23:30:09.266+08:00",
+  "updatedAt": "2026-10-08T23:40:07.254+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T23:30:09.266+08:00",
+    "fetchedAt": "2026-10-08T23:40:07.254+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国海警局新闻发言人发表谈话",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709417.shtml",
+        "publishedAt": "2026-10-08T23:31:45.000+08:00"
+      },
+      {
+        "title": "国庆假期，多地探索城市治理新方法应对大客流 接得住流量 留得下人心",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709415.shtml",
+        "publishedAt": "2026-10-08T23:28:11.000+08:00"
+      },
       {
         "title": "长假客流涌动 玩法迭代出新——香港国庆假期旅游市场观察",
         "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709414.shtml",
@@ -33,19 +43,9 @@
         "title": "美媒：中国引领全球航空旅游热潮",
         "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709412.shtml",
         "publishedAt": "2026-10-08T23:21:26.000+08:00"
-      },
-      {
-        "title": "徽评：红色游“热气腾腾”，长征精神永驻心田",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-08/10709411.shtml",
-        "publishedAt": "2026-10-08T23:18:34.000+08:00"
-      },
-      {
-        "title": "行进中国丨红色家风代代传",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709410.shtml",
-        "publishedAt": "2026-10-08T23:17:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T23:30:04.141+08:00",
+    "fetchedAt": "2026-10-08T23:40:02.958+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T23:30:07.965+08:00",
+      "fetchedAt": "2026-10-08T23:40:06.018+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T23:30:08.260+08:00",
+      "fetchedAt": "2026-10-08T23:40:06.340+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T23:30:06.074+08:00",
+      "fetchedAt": "2026-10-08T23:40:04.679+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-08T23:30:08.270+08:00",
+      "fetchedAt": "2026-10-08T23:40:06.349+08:00",
       "error": null
     }
   }
