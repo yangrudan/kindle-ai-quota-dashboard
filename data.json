@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-08T13:20:18.761+08:00",
+  "updatedAt": "2026-10-08T13:30:09.654+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.7,
-    "feelsLikeC": 25.1,
+    "tempC": 24.8,
+    "feelsLikeC": 25,
     "humidity": 40,
-    "windKph": 6.8,
+    "windKph": 6.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-08T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-08T13:20:18.761+08:00",
+    "observedAt": "2026-10-08T13:30:00.000+08:00",
+    "fetchedAt": "2026-10-08T13:30:09.654+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江苏海事局党组成员、副局长马一意被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709012.shtml",
-        "publishedAt": "2026-10-08T13:13:45.000+08:00"
+        "title": "田纳西州注射死刑执行失败后，美国得州完成一例注射死刑",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709025.shtml",
+        "publishedAt": "2026-10-08T13:29:06.000+08:00"
       },
       {
-        "title": "国庆假期高速公路新能源汽车日均充电量同比增长51.42%",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709013.shtml",
-        "publishedAt": "2026-10-08T13:13:23.000+08:00"
+        "title": "中国男足世界排名下降至第96名",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-08/10709019.shtml",
+        "publishedAt": "2026-10-08T13:28:02.000+08:00"
       },
       {
-        "title": "国铁集团工电部原主任曾宪海接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709011.shtml",
-        "publishedAt": "2026-10-08T13:13:07.000+08:00"
+        "title": "范波任江苏省委副书记，边学文任江苏省委常委、省纪委书记",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709022.shtml",
+        "publishedAt": "2026-10-08T13:27:22.000+08:00"
       },
       {
-        "title": "中国牵头制定的大型藻类固碳量测算国际标准发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709008.shtml",
-        "publishedAt": "2026-10-08T12:51:00.000+08:00"
+        "title": "全球首个人工冰雪景观专业国际标准化技术组织落地中国",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709018.shtml",
+        "publishedAt": "2026-10-08T13:27:08.000+08:00"
       },
       {
-        "title": "日均超3亿人次！国庆假期多项出行数据创新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709007.shtml",
-        "publishedAt": "2026-10-08T12:49:48.000+08:00"
+        "title": "静态观展转向沉浸体验 四川文博多元体验点亮国庆假期",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709017.shtml",
+        "publishedAt": "2026-10-08T13:25:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T13:20:13.266+08:00",
+    "fetchedAt": "2026-10-08T13:30:03.959+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T13:20:16.337+08:00",
+      "fetchedAt": "2026-10-08T13:30:07.211+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T13:20:16.600+08:00",
+      "fetchedAt": "2026-10-08T13:30:07.865+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T13:20:14.735+08:00",
+      "fetchedAt": "2026-10-08T13:30:05.647+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T13:20:16.609+08:00",
+      "fetchedAt": "2026-10-08T13:30:07.874+08:00",
       "error": null
     }
   }
