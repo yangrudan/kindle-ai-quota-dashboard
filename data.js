@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-08T15:30:09.267+08:00",
+  "updatedAt": "2026-10-08T15:40:11.013+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-08T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-08T15:30:09.267+08:00",
+    "fetchedAt": "2026-10-08T15:40:11.013+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "贵州省铜仁市人大常委会原副主任龙群跃被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709105.shtml",
-        "publishedAt": "2026-10-08T15:16:12.000+08:00"
+        "title": "国庆假期广州多口岸现跨境客流高峰",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709115.shtml",
+        "publishedAt": "2026-10-08T15:35:57.000+08:00"
       },
       {
-        "title": "北京市园林绿化局原副局长戴明超受贿案一审宣判",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709102.shtml",
-        "publishedAt": "2026-10-08T15:14:40.000+08:00"
+        "title": "黑龙江省佳木斯市政府原副市长姜涛被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709119.shtml",
+        "publishedAt": "2026-10-08T15:35:09.000+08:00"
       },
       {
-        "title": "国庆深港跨境客流旺 港人北上解锁消费新体验",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-08/10709108.shtml",
-        "publishedAt": "2026-10-08T15:10:30.000+08:00"
+        "title": "国庆假期琼州海峡63万人次旅客平安过海",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-08/10709113.shtml",
+        "publishedAt": "2026-10-08T15:34:51.000+08:00"
       },
       {
-        "title": "总台记者观察丨日本谋求核潜艇计划引发多方坚决反对",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709106.shtml",
-        "publishedAt": "2026-10-08T15:08:20.000+08:00"
+        "title": "以外长：英国驻耶路撒冷领事馆8日起关闭 20名外交官将离境",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-08/10709110.shtml",
+        "publishedAt": "2026-10-08T15:34:51.000+08:00"
       },
       {
-        "title": "A股收评：超3700只个股飘绿，三大指数集体收跌，科创50跌超4%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709104.shtml",
-        "publishedAt": "2026-10-08T15:08:00.000+08:00"
+        "title": "外交部：再次敦促日方严惩凶犯、以儆效尤",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709120.shtml",
+        "publishedAt": "2026-10-08T15:33:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-08T15:30:03.983+08:00",
+    "fetchedAt": "2026-10-08T15:40:04.821+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-08T15:30:07.557+08:00",
+      "fetchedAt": "2026-10-08T15:40:09.544+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-08T20:30:08.000+08:00"
+          "resetAt": "2026-10-08T20:39:01.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-08T15:30:07.921+08:00",
+      "fetchedAt": "2026-10-08T15:40:09.775+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-08T15:30:05.443+08:00",
+      "fetchedAt": "2026-10-08T15:40:06.797+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.79,
       "currency": "CNY",
       "detail": "余额 ¥24.79",
-      "fetchedAt": "2026-10-08T15:30:07.931+08:00",
+      "fetchedAt": "2026-10-08T15:40:09.786+08:00",
       "error": null
     }
   }
