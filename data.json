@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T07:00:07.826+08:00",
+  "updatedAt": "2026-10-10T07:10:38.553+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.8,
-    "feelsLikeC": 18.4,
-    "humidity": 96,
-    "windKph": 3.4,
+    "tempC": 17.1,
+    "feelsLikeC": 18.8,
+    "humidity": 95,
+    "windKph": 3.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-10T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T07:00:07.826+08:00",
+    "observedAt": "2026-10-10T07:00:00.000+08:00",
+    "fetchedAt": "2026-10-10T07:10:38.553+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今年的台风为何不走“寻常路”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10709974.shtml",
-        "publishedAt": "2026-10-10T06:49:18.000+08:00"
+        "title": "10月10日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-10/10709975.shtml",
+        "publishedAt": "2026-10-10T07:02:53.000+08:00"
       },
       {
-        "title": "特朗普宣布：任命凯蒂·扎卡里亚出任白宫新闻秘书",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709973.shtml",
-        "publishedAt": "2026-10-10T06:46:50.000+08:00"
+        "title": "欧盟对美国宣布制裁国际刑事法院深表遗憾 将全力确保国际刑事法院履职",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709970.shtml",
+        "publishedAt": "2026-10-10T07:01:07.000+08:00"
       },
       {
-        "title": "大模型要“读懂”科学需要怎样的科技语料？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10709972.shtml",
-        "publishedAt": "2026-10-10T06:45:54.000+08:00"
+        "title": "美国宣布制裁国际刑事法院",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709969.shtml",
+        "publishedAt": "2026-10-10T07:00:35.000+08:00"
       },
       {
-        "title": "超5万家机构一年出具报告5.71亿份 检验检测机构为经济发展添动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10709971.shtml",
-        "publishedAt": "2026-10-10T06:43:36.000+08:00"
+        "title": "俄美总统通话：俄将向美及全球市场供应石油和石油产品",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709968.shtml",
+        "publishedAt": "2026-10-10T06:58:39.000+08:00"
       },
       {
-        "title": "菲律宾宿务市山体滑坡致3人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709965.shtml",
-        "publishedAt": "2026-10-10T06:40:42.000+08:00"
+        "title": "科威特3.7亿英镑采购英国人工智能防空系统",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709967.shtml",
+        "publishedAt": "2026-10-10T06:57:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T07:00:03.067+08:00",
+    "fetchedAt": "2026-10-10T07:10:03.385+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T07:00:06.724+08:00",
+      "fetchedAt": "2026-10-10T07:10:37.161+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-10T12:00:07.000+08:00"
+          "resetAt": "2026-10-10T12:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T07:00:06.988+08:00",
+      "fetchedAt": "2026-10-10T07:10:37.582+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T07:00:06.997+08:00",
+      "fetchedAt": "2026-10-10T07:10:37.592+08:00",
       "error": null
     }
   }
