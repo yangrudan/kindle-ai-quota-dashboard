@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T14:50:07.936+08:00",
+  "updatedAt": "2026-10-09T15:00:11.444+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 25.5,
-    "feelsLikeC": 26.1,
+    "feelsLikeC": 25.8,
     "humidity": 48,
-    "windKph": 3.8,
+    "windKph": 5.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T14:50:07.936+08:00",
+    "observedAt": "2026-10-09T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T15:00:11.444+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“2026紫荆文化论坛”在港开幕 聚焦香港第一个五年规划实施路径",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-09/10709620.shtml",
-        "publishedAt": "2026-10-09T14:40:41.000+08:00"
+        "title": "男子醉酒后辱骂击打民警被重庆警方刑事拘留",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709612.shtml",
+        "publishedAt": "2026-10-09T14:57:34.000+08:00"
       },
       {
-        "title": "天地双重视角跨越90年时空 科普图书《遥看长征路》在北京发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709604.shtml",
-        "publishedAt": "2026-10-09T14:36:51.000+08:00"
+        "title": "两部门组织开展2026—2027年度全国受灾群众冬春救助工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709622.shtml",
+        "publishedAt": "2026-10-09T14:57:10.000+08:00"
       },
       {
-        "title": "第37届世界运河大会将于桂林启幕 千年灵渠引古今治水对话",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709596.shtml",
-        "publishedAt": "2026-10-09T14:36:23.000+08:00"
+        "title": "国庆假期 重庆高速全路网总车流量达1332.2万辆次",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709602.shtml",
+        "publishedAt": "2026-10-09T14:48:51.000+08:00"
       },
       {
-        "title": "从“多双筷子”到30万份免费餐 成都一餐厅爱心餐温暖一座城",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709581.shtml",
-        "publishedAt": "2026-10-09T14:35:27.000+08:00"
+        "title": "外卖小哥拦凶、七旬奶奶救人 致敬身边的英雄",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709624.shtml",
+        "publishedAt": "2026-10-09T14:48:15.000+08:00"
       },
       {
-        "title": "2026年全国马术三项赛青少年锦标赛落幕 香港骑手包揽冠亚军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709585.shtml",
-        "publishedAt": "2026-10-09T14:34:33.000+08:00"
+        "title": "中国科研团队揭示宇宙早期“小红点”消失之谜",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709599.shtml",
+        "publishedAt": "2026-10-09T14:46:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T14:50:03.218+08:00",
+    "fetchedAt": "2026-10-09T15:00:05.068+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T14:50:06.481+08:00",
+      "fetchedAt": "2026-10-09T15:00:09.294+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 16,
-          "resetAt": "2026-10-09T19:09:39.000+08:00"
+          "resetAt": "2026-10-09T19:09:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T14:50:06.912+08:00",
+      "fetchedAt": "2026-10-09T15:00:09.667+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T14:50:04.711+08:00",
+      "fetchedAt": "2026-10-09T15:00:07.578+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T14:50:06.922+08:00",
+      "fetchedAt": "2026-10-09T15:00:09.676+08:00",
       "error": null
     }
   }
