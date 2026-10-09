@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T17:20:40.225+08:00",
+  "updatedAt": "2026-10-09T17:30:42.490+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24,
-    "feelsLikeC": 25.7,
-    "humidity": 61,
-    "windKph": 2,
+    "tempC": 23.5,
+    "feelsLikeC": 24.8,
+    "humidity": 63,
+    "windKph": 4.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-09T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-09T17:20:40.225+08:00",
+    "observedAt": "2026-10-09T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-09T17:30:42.490+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "探访河北大理石长城：从雄关险口到“长城风景道”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709749.shtml",
-        "publishedAt": "2026-10-09T17:13:53.000+08:00"
+        "title": "“今日中国法兰克福会客厅”成立",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709746.shtml",
+        "publishedAt": "2026-10-09T17:23:22.000+08:00"
       },
       {
-        "title": "断航140余天 乌江白马段航道恢复通航",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709748.shtml",
-        "publishedAt": "2026-10-09T17:12:59.000+08:00"
+        "title": "从“要我创新”到“我要创新” 山西“十五五”激发企业创新活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709764.shtml",
+        "publishedAt": "2026-10-09T17:21:56.000+08:00"
       },
       {
-        "title": "栾树挂“灯笼” 江西南昌秋意渐浓",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709703.shtml",
-        "publishedAt": "2026-10-09T17:12:31.000+08:00"
+        "title": "重庆李子坝单轨穿楼 中外游客解锁趣味打卡新姿势",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709732.shtml",
+        "publishedAt": "2026-10-09T17:20:50.000+08:00"
       },
       {
-        "title": "“2026年中华文化大乐园—澳大利亚墨尔本园”闭园仪式暨汇报演出隆重举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709731.shtml",
-        "publishedAt": "2026-10-09T17:12:25.000+08:00"
+        "title": "直播海报：长征路上学党史 | 在“红飘带”起点 追忆峥嵘寻初心",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709761.shtml",
+        "publishedAt": "2026-10-09T17:19:46.000+08:00"
       },
       {
-        "title": "电影《大改水》将在电影频道首映",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709747.shtml",
-        "publishedAt": "2026-10-09T17:12:13.000+08:00"
+        "title": "超强厄尔尼诺已形成，对今冬气温有啥影响？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709751.shtml",
+        "publishedAt": "2026-10-09T17:18:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T17:20:05.570+08:00",
+    "fetchedAt": "2026-10-09T17:30:06.745+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T17:20:39.003+08:00",
+      "fetchedAt": "2026-10-09T17:30:41.291+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-10-09T19:09:40.000+08:00"
+          "resetAt": "2026-10-09T19:09:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T17:20:39.301+08:00",
+      "fetchedAt": "2026-10-09T17:30:41.659+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T17:20:39.305+08:00",
+      "fetchedAt": "2026-10-09T17:30:41.667+08:00",
       "error": null
     }
   }
