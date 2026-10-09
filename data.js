@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T10:10:07.538+08:00",
+  "updatedAt": "2026-10-09T10:20:08.191+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.8,
-    "feelsLikeC": 24.7,
-    "humidity": 61,
-    "windKph": 2.9,
+    "tempC": 23.2,
+    "feelsLikeC": 25.2,
+    "humidity": 59,
+    "windKph": 3.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T10:10:07.538+08:00",
+    "observedAt": "2026-10-09T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-09T10:20:08.192+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国家统计局：9月下旬生猪（外三元）价格环比下降3.7%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709474.shtml",
-        "publishedAt": "2026-10-09T10:00:52.000+08:00"
+        "title": "贵州省自然资源厅原副厅长杨兵被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709479.shtml",
+        "publishedAt": "2026-10-09T10:12:26.000+08:00"
       },
       {
-        "title": "平均54秒一趟车 国庆高铁织就流动消费图景",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709475.shtml",
-        "publishedAt": "2026-10-09T09:57:26.000+08:00"
+        "title": "我国加快建立全链条循环经济体系",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709481.shtml",
+        "publishedAt": "2026-10-09T10:08:14.000+08:00"
       },
       {
-        "title": "10月9日人民币对美元中间价报6.7330 上调37个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709469.shtml",
-        "publishedAt": "2026-10-09T09:42:51.000+08:00"
+        "title": "安徽检察机关依法对陈伟俊涉嫌受贿案提起公诉",
+        "url": "https://www.chinanews.com.cn/${mypath}/2026/10-09/10709480.shtml",
+        "publishedAt": "2026-10-09T10:07:58.000+08:00"
       },
       {
-        "title": "海南万宁启动防汛防风Ⅱ级应急响应 全市中小学今日停课半天",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709466.shtml",
-        "publishedAt": "2026-10-09T09:39:17.000+08:00"
+        "title": "特朗普政府暂停微软等企业外籍员工绿卡申请",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709473.shtml",
+        "publishedAt": "2026-10-09T10:07:16.000+08:00"
       },
       {
-        "title": "海南国庆假期文旅市场烟火气与潮流感交织",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709464.shtml",
-        "publishedAt": "2026-10-09T09:38:00.000+08:00"
+        "title": "联合国教科文组织新报告揭示女童教育面临的挑战",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709465.shtml",
+        "publishedAt": "2026-10-09T10:06:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T10:10:03.296+08:00",
+    "fetchedAt": "2026-10-09T10:20:03.465+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T10:10:06.250+08:00",
+      "fetchedAt": "2026-10-09T10:20:07.011+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 16,
+          "usedPct": 18,
           "resetAt": "2026-10-09T14:06:46.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T10:10:06.625+08:00",
+      "fetchedAt": "2026-10-09T10:20:07.376+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T10:10:04.962+08:00",
+      "fetchedAt": "2026-10-09T10:20:05.164+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T10:10:06.628+08:00",
+      "fetchedAt": "2026-10-09T10:20:07.389+08:00",
       "error": null
     }
   }
