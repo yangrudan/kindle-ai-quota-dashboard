@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T19:10:08.047+08:00",
+  "updatedAt": "2026-10-09T19:20:08.593+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21,
-    "feelsLikeC": 21.3,
-    "humidity": 72,
-    "windKph": 11.2,
+    "tempC": 20.8,
+    "feelsLikeC": 21.1,
+    "humidity": 73,
+    "windKph": 11,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T19:10:08.047+08:00",
+    "observedAt": "2026-10-09T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-09T19:20:08.593+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国铁北京局中秋国庆假期运输圆满结束 累计发送旅客2368万人次",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709803.shtml",
-        "publishedAt": "2026-10-09T19:05:29.000+08:00"
+        "title": "平遥古城国庆假期接待游客55万余人次 传统与新潮双向融合",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709816.shtml",
+        "publishedAt": "2026-10-09T19:14:52.000+08:00"
       },
       {
-        "title": "广西凭祥国庆假期文旅市场“热”力十足 千年雄关引客来",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709801.shtml",
-        "publishedAt": "2026-10-09T19:05:01.000+08:00"
+        "title": "江西云居山千年古刹秋收忙：一镰一落 农禅并举",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709805.shtml",
+        "publishedAt": "2026-10-09T19:14:30.000+08:00"
       },
       {
-        "title": "港股三大指数本周齐涨 前三季度港股IPO募资额同比上升106%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709821.shtml",
-        "publishedAt": "2026-10-09T19:04:49.000+08:00"
+        "title": "1.5米大蛇闯入民宅 鸡西边境民警成功抓捕放归山林",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709817.shtml",
+        "publishedAt": "2026-10-09T19:11:10.000+08:00"
       },
       {
-        "title": "北京城市副中心将推动环球主题公园后续项目建设",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709823.shtml",
-        "publishedAt": "2026-10-09T19:02:55.000+08:00"
+        "title": "“双节”期间疆电外送电量超52亿千瓦时",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709808.shtml",
+        "publishedAt": "2026-10-09T19:10:28.000+08:00"
       },
       {
-        "title": "北京搭建创新服务平台让养老更智慧",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709824.shtml",
-        "publishedAt": "2026-10-09T19:01:45.000+08:00"
+        "title": "青海新型电力系统研究中心组建成立",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709818.shtml",
+        "publishedAt": "2026-10-09T19:10:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T19:10:02.933+08:00",
+    "fetchedAt": "2026-10-09T19:20:03.660+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T19:10:06.651+08:00",
+      "fetchedAt": "2026-10-09T19:20:07.384+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-10T00:10:07.000+08:00"
+          "resetAt": "2026-10-10T00:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T19:10:06.987+08:00",
+      "fetchedAt": "2026-10-09T19:20:07.668+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T19:10:06.990+08:00",
+      "fetchedAt": "2026-10-09T19:20:07.672+08:00",
       "error": null
     }
   }
