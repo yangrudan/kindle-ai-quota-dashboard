@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T09:00:08.655+08:00",
+  "updatedAt": "2026-10-09T09:10:09.310+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-09T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T09:00:08.655+08:00",
+    "fetchedAt": "2026-10-09T09:10:09.310+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国代表在联大一委阐述战略安全和军控问题政策主张",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709431.shtml",
-        "publishedAt": "2026-10-09T08:31:47.000+08:00"
+        "title": "以色列驱逐20名英国外交官，要关掉近200年历史的领馆，现场一幕耐人寻味",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709455.shtml",
+        "publishedAt": "2026-10-09T09:02:53.000+08:00"
       },
       {
-        "title": "多重因素推动猪价10月以来小幅反弹",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709450.shtml",
-        "publishedAt": "2026-10-09T08:26:29.000+08:00"
+        "title": "平孟海关2026年度食堂食材配送服务成交结果公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709454.shtml",
+        "publishedAt": "2026-10-09T09:02:00.000+08:00"
       },
       {
-        "title": "上山砍毛竹突然被“刺”，处置不当可能诱发致命感染！医生提醒→",
-        "url": "https://www.chinanews.com.cn/life/2026/10-09/10709448.shtml",
-        "publishedAt": "2026-10-09T08:21:46.000+08:00"
+        "title": "中华人民共和国柳州海关涉案财物公开拍卖公告（二次拍卖桂B9U823）",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709453.shtml",
+        "publishedAt": "2026-10-09T09:00:46.000+08:00"
       },
       {
-        "title": "“一周备餐”会产生亚硝酸盐吗？合理储存有讲究",
-        "url": "https://www.chinanews.com.cn/life/2026/10-09/10709447.shtml",
-        "publishedAt": "2026-10-09T08:19:06.000+08:00"
+        "title": "南宁海关关于开展2026年10月份“关长接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709452.shtml",
+        "publishedAt": "2026-10-09T08:56:58.000+08:00"
       },
       {
-        "title": "海南岛有强降雨 青藏高原和华西地区多阴雨天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709446.shtml",
-        "publishedAt": "2026-10-09T08:18:00.000+08:00"
+        "title": "AI辅助面试火爆 算法打分靠谱吗？能否替代真人判断？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709451.shtml",
+        "publishedAt": "2026-10-09T08:56:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T09:00:03.749+08:00",
+    "fetchedAt": "2026-10-09T09:10:04.613+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T09:00:07.511+08:00",
+      "fetchedAt": "2026-10-09T09:10:08.012+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-09T14:00:08.000+08:00"
+          "usedPct": 4,
+          "resetAt": "2026-10-09T14:06:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 16,
+          "usedPct": 17,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T09:00:07.751+08:00",
+      "fetchedAt": "2026-10-09T09:10:08.273+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T09:00:06.010+08:00",
+      "fetchedAt": "2026-10-09T09:10:06.392+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T09:00:07.760+08:00",
+      "fetchedAt": "2026-10-09T09:10:08.278+08:00",
       "error": null
     }
   }
