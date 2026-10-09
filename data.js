@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T18:40:08.606+08:00",
+  "updatedAt": "2026-10-09T18:50:09.086+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.7,
-    "feelsLikeC": 21.9,
-    "humidity": 68,
+    "tempC": 21.3,
+    "feelsLikeC": 21.6,
+    "humidity": 70,
     "windKph": 11.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T18:40:08.606+08:00",
+    "observedAt": "2026-10-09T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-09T18:50:09.087+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "海峡两岸桥牌邀请赛在福建湄洲岛开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709792.shtml",
+        "publishedAt": "2026-10-09T18:44:40.000+08:00"
+      },
+      {
+        "title": "方寸印章载河山 南京与北京开展“中轴线”对话",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709791.shtml",
+        "publishedAt": "2026-10-09T18:35:42.000+08:00"
+      },
+      {
+        "title": "台风“诺洛”向西北方向移动 “小熊”加强为强台风级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709800.shtml",
+        "publishedAt": "2026-10-09T18:35:36.000+08:00"
+      },
       {
         "title": "地质灾害气象风险预警：海南东南部部分地区风险较高",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709797.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "今年前9月黄埔海关中智协定项下享惠进口货值4.8亿元",
         "url": "https://www.chinanews.com.cn/ydyl/2026/10-09/10709789.shtml",
         "publishedAt": "2026-10-09T18:31:11.000+08:00"
-      },
-      {
-        "title": "中国国学大家楼宇烈辞世 享年92岁",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709778.shtml",
-        "publishedAt": "2026-10-09T18:28:39.000+08:00"
-      },
-      {
-        "title": "受权发布丨中共中央 国务院关于发展新质生产力的意见",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709783.shtml",
-        "publishedAt": "2026-10-09T18:25:03.000+08:00"
-      },
-      {
-        "title": "2026中国新媒体智库报告（“紫皮书”）正式发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709788.shtml",
-        "publishedAt": "2026-10-09T18:24:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T18:40:03.532+08:00",
+    "fetchedAt": "2026-10-09T18:50:03.256+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T18:40:07.378+08:00",
+      "fetchedAt": "2026-10-09T18:50:07.658+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T18:40:07.631+08:00",
+      "fetchedAt": "2026-10-09T18:50:08.177+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T18:40:07.640+08:00",
+      "fetchedAt": "2026-10-09T18:50:08.183+08:00",
       "error": null
     }
   }
