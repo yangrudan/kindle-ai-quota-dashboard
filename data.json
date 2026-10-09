@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T10:20:08.191+08:00",
+  "updatedAt": "2026-10-09T10:30:09.130+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.2,
-    "feelsLikeC": 25.2,
-    "humidity": 59,
-    "windKph": 3.2,
+    "tempC": 23.5,
+    "feelsLikeC": 25.6,
+    "humidity": 58,
+    "windKph": 3.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-09T10:20:08.192+08:00",
+    "observedAt": "2026-10-09T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-09T10:30:09.130+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "青海省海北州委原副书记张爱红被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709484.shtml",
+        "publishedAt": "2026-10-09T10:18:09.000+08:00"
+      },
+      {
+        "title": "原贵州水城矿业（集团）副总经理张思明被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709482.shtml",
+        "publishedAt": "2026-10-09T10:16:33.000+08:00"
+      },
       {
         "title": "贵州省自然资源厅原副厅长杨兵被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709479.shtml",
@@ -31,21 +41,11 @@
       },
       {
         "title": "安徽检察机关依法对陈伟俊涉嫌受贿案提起公诉",
-        "url": "https://www.chinanews.com.cn/${mypath}/2026/10-09/10709480.shtml",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709480.shtml",
         "publishedAt": "2026-10-09T10:07:58.000+08:00"
-      },
-      {
-        "title": "特朗普政府暂停微软等企业外籍员工绿卡申请",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709473.shtml",
-        "publishedAt": "2026-10-09T10:07:16.000+08:00"
-      },
-      {
-        "title": "联合国教科文组织新报告揭示女童教育面临的挑战",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709465.shtml",
-        "publishedAt": "2026-10-09T10:06:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T10:20:03.465+08:00",
+    "fetchedAt": "2026-10-09T10:30:03.671+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T10:20:07.011+08:00",
+      "fetchedAt": "2026-10-09T10:30:07.055+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T10:20:07.376+08:00",
+      "fetchedAt": "2026-10-09T10:30:07.276+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T10:20:05.164+08:00",
+      "fetchedAt": "2026-10-09T10:30:05.226+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T10:20:07.389+08:00",
+      "fetchedAt": "2026-10-09T10:30:07.284+08:00",
       "error": null
     }
   }
