@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T11:40:08.410+08:00",
+  "updatedAt": "2026-10-09T11:50:07.132+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.5,
-    "feelsLikeC": 26.6,
+    "tempC": 24.6,
+    "feelsLikeC": 26.7,
     "humidity": 53,
-    "windKph": 4.9,
+    "windKph": 5.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T11:40:08.410+08:00",
+    "observedAt": "2026-10-09T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-09T11:50:07.132+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "英镑纸币将迎“新面孔”，丘吉尔等历史人物将被取代",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709497.shtml",
+        "publishedAt": "2026-10-09T11:43:55.000+08:00"
+      },
+      {
+        "title": "A股午评：超4300只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709553.shtml",
+        "publishedAt": "2026-10-09T11:42:35.000+08:00"
+      },
+      {
+        "title": "乘坐垂直电梯，这4点千万要记住",
+        "url": "https://www.chinanews.com.cn/life/2026/10-09/10709552.shtml",
+        "publishedAt": "2026-10-09T11:39:53.000+08:00"
+      },
       {
         "title": "十年一诺，他为困难群众守好“粮袋子” ——记盐城市大丰区粮食局退休职工、退伍老兵高汉荣",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709549.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "台风“诺洛”向西偏北方向移动 “小熊”继续增强",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709548.shtml",
         "publishedAt": "2026-10-09T11:32:19.000+08:00"
-      },
-      {
-        "title": "瑞典乒乓名将莫雷加德：“乒乓之心”在赛场中生长",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709542.shtml",
-        "publishedAt": "2026-10-09T11:25:42.000+08:00"
-      },
-      {
-        "title": "出租汽车无障碍运营服务国家标准发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709543.shtml",
-        "publishedAt": "2026-10-09T11:24:46.000+08:00"
-      },
-      {
-        "title": "《中国美术年鉴·2025》在京发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709538.shtml",
-        "publishedAt": "2026-10-09T11:23:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T11:40:03.292+08:00",
+    "fetchedAt": "2026-10-09T11:50:03.156+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T11:40:07.146+08:00",
+      "fetchedAt": "2026-10-09T11:50:05.857+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T11:40:07.430+08:00",
+      "fetchedAt": "2026-10-09T11:50:06.178+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T11:40:05.239+08:00",
+      "fetchedAt": "2026-10-09T11:50:04.549+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T11:40:07.438+08:00",
+      "fetchedAt": "2026-10-09T11:50:06.182+08:00",
       "error": null
     }
   }
