@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T16:00:08.334+08:00",
+  "updatedAt": "2026-10-09T16:10:07.172+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.3,
+    "tempC": 25.2,
     "feelsLikeC": 25.8,
-    "humidity": 48,
-    "windKph": 4.2,
+    "humidity": 49,
+    "windKph": 3.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T16:00:08.334+08:00",
+    "observedAt": "2026-10-09T16:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T16:10:07.172+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "开局之年看中国·潮涌荆楚｜推进“微更新”，激活城市“金角银边”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709674.shtml",
-        "publishedAt": "2026-10-09T15:54:37.000+08:00"
+        "title": "中方就加强和振兴联大工作提出三点主张",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709683.shtml",
+        "publishedAt": "2026-10-09T16:05:18.000+08:00"
       },
       {
-        "title": "人均三个行李箱来华爆买，“China Haul”火了！",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709669.shtml",
-        "publishedAt": "2026-10-09T15:52:57.000+08:00"
+        "title": "“为全球南方国家提供新的发展选项” ——访古巴国际政治研究中心中国问题专家雷加拉多",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-09/10709682.shtml",
+        "publishedAt": "2026-10-09T16:03:57.000+08:00"
       },
       {
-        "title": "外交部：敦促美方与中方通过平等对话协商共同应对网络安全风险",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709637.shtml",
-        "publishedAt": "2026-10-09T15:51:15.000+08:00"
+        "title": "【好评中国】秦平 | 假期服务消费旺盛，助力经济持续向新向优向好",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-09/10709681.shtml",
+        "publishedAt": "2026-10-09T16:02:05.000+08:00"
       },
       {
-        "title": "从一米窄轨到朝发夕至 两条铁路见证百年澜湄情谊",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-09/10709667.shtml",
-        "publishedAt": "2026-10-09T15:48:45.000+08:00"
+        "title": "墨西哥西北部一监狱发生骚乱 致10死16伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709597.shtml",
+        "publishedAt": "2026-10-09T16:01:27.000+08:00"
       },
       {
-        "title": "我国具身智能产业化加速落地",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709665.shtml",
-        "publishedAt": "2026-10-09T15:47:43.000+08:00"
+        "title": "一根丝线里的伊桑文化——探访泰国东北部传统泰丝生产",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709590.shtml",
+        "publishedAt": "2026-10-09T16:00:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T16:00:02.689+08:00",
+    "fetchedAt": "2026-10-09T16:10:03.009+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 0,
+          "usedPct": 0.4,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 1500 / 1500 AIC"
+          "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T16:00:06.142+08:00",
+      "fetchedAt": "2026-10-09T16:10:05.793+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 37,
-          "resetAt": "2026-10-09T19:09:39.000+08:00"
+          "usedPct": 55,
+          "resetAt": "2026-10-09T19:09:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 31,
+          "usedPct": 34,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T16:00:07.534+08:00",
+      "fetchedAt": "2026-10-09T16:10:06.063+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T16:00:04.656+08:00",
+      "fetchedAt": "2026-10-09T16:10:04.440+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T16:00:07.543+08:00",
+      "fetchedAt": "2026-10-09T16:10:06.074+08:00",
       "error": null
     }
   }
