@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T15:40:08.695+08:00",
+  "updatedAt": "2026-10-09T15:50:07.744+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.4,
+    "tempC": 25.3,
     "feelsLikeC": 25.8,
     "humidity": 48,
-    "windKph": 4.9,
+    "windKph": 4.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T15:40:08.696+08:00",
+    "observedAt": "2026-10-09T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-09T15:50:07.745+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国汽车流通协会：2026年9月份汽车消费指数为83.2",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709647.shtml",
-        "publishedAt": "2026-10-09T15:33:42.000+08:00"
+        "title": "中方回应菲转运非法“坐滩”船只伤员：倒打一耙，令人不齿",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709660.shtml",
+        "publishedAt": "2026-10-09T15:39:18.000+08:00"
       },
       {
-        "title": "报道称中美讨论互访核设施可能性？ 外交部：与事实不符",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709654.shtml",
-        "publishedAt": "2026-10-09T15:33:00.000+08:00"
+        "title": "财政部安排使用5500亿元地方政府债务结存限额",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709657.shtml",
+        "publishedAt": "2026-10-09T15:37:04.000+08:00"
       },
       {
-        "title": "玉渊谭天丨央行为什么发布关于人民币汇率的政策立场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709653.shtml",
-        "publishedAt": "2026-10-09T15:32:56.000+08:00"
+        "title": "假日中国新图景丨山河奔赴 “数”观假日经济活力",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709656.shtml",
+        "publishedAt": "2026-10-09T15:35:38.000+08:00"
       },
       {
-        "title": "国际锐评丨透过国庆“黄金周”，世界看到怎样的中国？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709650.shtml",
-        "publishedAt": "2026-10-09T15:31:14.000+08:00"
+        "title": "（经济观察）中国民企把“柔性”练成硬功夫",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709634.shtml",
+        "publishedAt": "2026-10-09T15:35:00.000+08:00"
       },
       {
-        "title": "福建闽侯：宋代古桥变身文旅打卡地",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709632.shtml",
-        "publishedAt": "2026-10-09T15:30:32.000+08:00"
+        "title": "日本右翼势力持续向国际主流大模型提供经过篡改的二战历史语料 中方驳斥",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709655.shtml",
+        "publishedAt": "2026-10-09T15:34:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T15:40:03.655+08:00",
+    "fetchedAt": "2026-10-09T15:50:03.598+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T15:40:07.576+08:00",
+      "fetchedAt": "2026-10-09T15:50:06.547+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
-          "resetAt": "2026-10-09T19:09:39.000+08:00"
+          "usedPct": 28,
+          "resetAt": "2026-10-09T19:09:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T15:40:07.853+08:00",
+      "fetchedAt": "2026-10-09T15:50:06.825+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T15:40:05.964+08:00",
+      "fetchedAt": "2026-10-09T15:50:05.051+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T15:40:07.862+08:00",
+      "fetchedAt": "2026-10-09T15:50:06.835+08:00",
       "error": null
     }
   }
