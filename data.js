@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T21:40:09.602+08:00",
+  "updatedAt": "2026-10-09T21:50:10.191+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.6,
-    "feelsLikeC": 21.1,
-    "humidity": 82,
-    "windKph": 5,
+    "tempC": 19.5,
+    "feelsLikeC": 21,
+    "humidity": 83,
+    "windKph": 4.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T21:40:09.602+08:00",
+    "observedAt": "2026-10-09T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-09T21:50:10.191+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "今年前三季度柬埔寨国际贸易总额同比增长逾两成",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709874.shtml",
+        "publishedAt": "2026-10-09T21:45:20.000+08:00"
+      },
+      {
+        "title": "中欧贸易投资磋商机制第二次例会形成多项成果共识",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709913.shtml",
+        "publishedAt": "2026-10-09T21:44:22.000+08:00"
+      },
+      {
+        "title": "10月9日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-09/10709922.shtml",
+        "publishedAt": "2026-10-09T21:42:30.000+08:00"
+      },
+      {
+        "title": "开局之年看中国・潮涌荆楚｜他们是最值得追的星",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709921.shtml",
+        "publishedAt": "2026-10-09T21:39:02.000+08:00"
+      },
+      {
         "title": "折损81架军机，美军遭遇越战以来最惨重飞机损失",
         "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709586.shtml",
         "publishedAt": "2026-10-09T21:30:41.000+08:00"
-      },
-      {
-        "title": "何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709919.shtml",
-        "publishedAt": "2026-10-09T21:29:43.000+08:00"
-      },
-      {
-        "title": "2026年环崇明岛国际自行车联盟女子公路世巡赛开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709879.shtml",
-        "publishedAt": "2026-10-09T21:20:11.000+08:00"
-      },
-      {
-        "title": "中国财政政策展望：重点做好六大工作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709912.shtml",
-        "publishedAt": "2026-10-09T21:18:40.000+08:00"
-      },
-      {
-        "title": "热评丨文化IP持续出圈激发经济新动能",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-09/10709916.shtml",
-        "publishedAt": "2026-10-09T21:17:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T21:40:02.957+08:00",
+    "fetchedAt": "2026-10-09T21:50:03.752+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T21:40:06.797+08:00",
+      "fetchedAt": "2026-10-09T21:50:08.789+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T21:40:07.177+08:00",
+      "fetchedAt": "2026-10-09T21:50:09.153+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T21:40:07.181+08:00",
+      "fetchedAt": "2026-10-09T21:50:09.161+08:00",
       "error": null
     }
   }
