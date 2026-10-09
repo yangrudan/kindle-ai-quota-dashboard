@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T21:00:37.521+08:00",
+  "updatedAt": "2026-10-09T21:10:10.741+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20,
-    "feelsLikeC": 21.2,
-    "humidity": 80,
-    "windKph": 6.6,
+    "tempC": 19.8,
+    "feelsLikeC": 21.1,
+    "humidity": 81,
+    "windKph": 6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T21:00:37.521+08:00",
+    "observedAt": "2026-10-09T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T21:10:10.741+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "坦桑尼亚发生卡车与客车相撞事故 已致28人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709896.shtml",
-        "publishedAt": "2026-10-09T20:57:27.000+08:00"
+        "title": "河南郑州：陇海铁路二阶段集中修全面启动",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709890.shtml",
+        "publishedAt": "2026-10-09T21:02:08.000+08:00"
       },
       {
-        "title": "飞驰铁轨上的匠心答卷：义乌新站房的蝶变与新生",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709870.shtml",
-        "publishedAt": "2026-10-09T20:56:57.000+08:00"
+        "title": "湖南永州官方回应商务局干部相关网络举报",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709883.shtml",
+        "publishedAt": "2026-10-09T21:01:58.000+08:00"
       },
       {
-        "title": "守护档案、守住信仰 电影《密档》走进复旦大学",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709865.shtml",
-        "publishedAt": "2026-10-09T20:56:31.000+08:00"
+        "title": "中国科学院院长会见美国国家科学院院长 推动双方交流合作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709875.shtml",
+        "publishedAt": "2026-10-09T21:00:37.000+08:00"
       },
       {
-        "title": "中澳学者合作研究3.6亿年前鱼化石 建立肺鱼类一新属新种",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709894.shtml",
-        "publishedAt": "2026-10-09T20:56:21.000+08:00"
+        "title": "多国专家在“锂都”江西新余畅谈未来锂电产业发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709892.shtml",
+        "publishedAt": "2026-10-09T20:59:33.000+08:00"
       },
       {
-        "title": "四川省林业和草原局原党组成员、副局长宾军宜严重违纪违法被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709882.shtml",
-        "publishedAt": "2026-10-09T20:53:27.000+08:00"
+        "title": "胰头癌发病隐匿 专家：皮肤、眼白发黄等需特别警惕",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-09/10709895.shtml",
+        "publishedAt": "2026-10-09T20:58:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T21:00:02.865+08:00",
+    "fetchedAt": "2026-10-09T21:10:04.520+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T21:00:36.411+08:00",
+      "fetchedAt": "2026-10-09T21:10:09.180+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T21:00:36.619+08:00",
+      "fetchedAt": "2026-10-09T21:10:09.497+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T21:00:36.629+08:00",
+      "fetchedAt": "2026-10-09T21:10:09.500+08:00",
       "error": null
     }
   }
