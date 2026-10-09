@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T18:20:10.718+08:00",
+  "updatedAt": "2026-10-09T18:30:08.421+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.1,
-    "feelsLikeC": 22.3,
-    "humidity": 67,
-    "windKph": 10.9,
-    "windDir": "东北风",
+    "tempC": 21.7,
+    "feelsLikeC": 21.9,
+    "humidity": 68,
+    "windKph": 11.2,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-09T18:20:10.718+08:00",
+    "observedAt": "2026-10-09T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-09T18:30:08.421+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "太平洋岛国政治家联合考察团参访中共党史馆",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-09/1207343.shtml",
-        "publishedAt": "2026-10-09T18:14:21.000+08:00"
+        "title": "吉林长春秋景如画 市民踏叶赏秋",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709774.shtml",
+        "publishedAt": "2026-10-09T18:23:57.000+08:00"
       },
       {
-        "title": "浙江落地首票新能源汽车动力电池保税维修业务",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709779.shtml",
-        "publishedAt": "2026-10-09T18:13:20.000+08:00"
+        "title": "湖南新田芥菜首茬丰收 轮作模式助农稳增收",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709777.shtml",
+        "publishedAt": "2026-10-09T18:23:29.000+08:00"
       },
       {
-        "title": "锚定3.5万亿！东莞以系统思维亮出先进制造业升级新“解法”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709775.shtml",
-        "publishedAt": "2026-10-09T18:11:40.000+08:00"
+        "title": "中国证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709784.shtml",
+        "publishedAt": "2026-10-09T18:23:25.000+08:00"
       },
       {
-        "title": "汇聚统战力量 江西安福藏香猪“拱”出共富路",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709773.shtml",
-        "publishedAt": "2026-10-09T18:03:58.000+08:00"
+        "title": "万里奔赴 民盟盟员把“中文+”职业教育送到东非高原",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709776.shtml",
+        "publishedAt": "2026-10-09T18:23:21.000+08:00"
       },
       {
-        "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709782.shtml",
-        "publishedAt": "2026-10-09T18:01:54.000+08:00"
+        "title": "广西壮族自治区玉林市人大常委会原主任杨红接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709786.shtml",
+        "publishedAt": "2026-10-09T18:21:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T18:20:03.956+08:00",
+    "fetchedAt": "2026-10-09T18:30:03.339+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T18:20:09.615+08:00",
+      "fetchedAt": "2026-10-09T18:30:07.317+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T18:20:09.875+08:00",
+      "fetchedAt": "2026-10-09T18:30:07.559+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T18:20:09.885+08:00",
+      "fetchedAt": "2026-10-09T18:30:07.564+08:00",
       "error": null
     }
   }
