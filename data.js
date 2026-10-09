@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T20:10:09.953+08:00",
+  "updatedAt": "2026-10-09T20:20:39.942+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.3,
-    "feelsLikeC": 21.1,
-    "humidity": 77,
-    "windKph": 8.9,
+    "tempC": 20.1,
+    "feelsLikeC": 21.2,
+    "humidity": 79,
+    "windKph": 7.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T20:10:09.954+08:00",
+    "observedAt": "2026-10-09T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-09T20:20:39.942+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "青海湖景区2026冬春季旅游启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709845.shtml",
+        "publishedAt": "2026-10-09T20:06:21.000+08:00"
+      },
       {
         "title": "电视剧《伟大的长征》开播",
         "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709847.shtml",
@@ -35,17 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-09T20:00:14.000+08:00"
       },
       {
-        "title": "制造业重镇佛山加速“智造强市”转型 规上工业企业数字化转型率逾八成",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709842.shtml",
-        "publishedAt": "2026-10-09T19:57:36.000+08:00"
-      },
-      {
-        "title": "中秋国庆假期北京铁警查获各类危险品9.8万余起",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709840.shtml",
-        "publishedAt": "2026-10-09T19:56:36.000+08:00"
+        "title": "香港举办太空主题展览 沉浸式体验“飞奔到月球”",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-09/1207365.shtml",
+        "publishedAt": "2026-10-09T19:58:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T20:10:03.898+08:00",
+    "fetchedAt": "2026-10-09T20:20:04.448+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T20:10:07.968+08:00",
+      "fetchedAt": "2026-10-09T20:20:38.572+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T20:10:08.292+08:00",
+      "fetchedAt": "2026-10-09T20:20:38.891+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T20:10:08.301+08:00",
+      "fetchedAt": "2026-10-09T20:20:38.902+08:00",
       "error": null
     }
   }
