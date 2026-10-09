@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T14:30:09.526+08:00",
+  "updatedAt": "2026-10-09T14:40:07.465+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T14:30:09.526+08:00",
+    "fetchedAt": "2026-10-09T14:40:07.465+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中山海关中山六路办公区网球场顶棚改造项目竞争性磋商公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709615.shtml",
-        "publishedAt": "2026-10-09T14:22:30.000+08:00"
+        "title": "第37届世界运河大会将于桂林启幕 千年灵渠引古今治水对话",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709596.shtml",
+        "publishedAt": "2026-10-09T14:36:23.000+08:00"
       },
       {
-        "title": "拱北海关缉私局移动警务终端服务采购项目公开招标公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709610.shtml",
-        "publishedAt": "2026-10-09T14:18:30.000+08:00"
+        "title": "从“多双筷子”到30万份免费餐 成都一餐厅爱心餐温暖一座城",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709581.shtml",
+        "publishedAt": "2026-10-09T14:35:27.000+08:00"
       },
       {
-        "title": "接住全球小众需求！中国民企凭“柔性功夫”把“小单急单怪单”做成硬实力丨经观中国",
-        "url": "https://www.chinanews.com.cn/gsztc/2026/10-09/10709607.shtml",
-        "publishedAt": "2026-10-09T14:15:24.000+08:00"
+        "title": "2026年全国马术三项赛青少年锦标赛落幕 香港骑手包揽冠亚军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709585.shtml",
+        "publishedAt": "2026-10-09T14:34:33.000+08:00"
       },
       {
-        "title": "海口美兰机场海关2026-2028年公务用车保险服务采购项目第二次比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709608.shtml",
-        "publishedAt": "2026-10-09T14:13:39.000+08:00"
+        "title": "（长江十年行）渔网收起之后：“长江第一城”渔民的转身",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709609.shtml",
+        "publishedAt": "2026-10-09T14:33:31.000+08:00"
       },
       {
-        "title": "中老铁路累计发送旅客突破8000万人次",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709598.shtml",
-        "publishedAt": "2026-10-09T14:13:11.000+08:00"
+        "title": "笔墨铺展申城美 海派书画家展出45件佳作",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709579.shtml",
+        "publishedAt": "2026-10-09T14:32:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T14:30:03.879+08:00",
+    "fetchedAt": "2026-10-09T14:40:02.606+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T14:30:08.032+08:00",
+      "fetchedAt": "2026-10-09T14:40:05.784+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
-          "resetAt": "2026-10-09T19:09:39.000+08:00"
+          "usedPct": 16,
+          "resetAt": "2026-10-09T19:09:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 27,
+          "usedPct": 28,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T14:30:08.380+08:00",
+      "fetchedAt": "2026-10-09T14:40:06.013+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T14:30:06.337+08:00",
+      "fetchedAt": "2026-10-09T14:40:04.294+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T14:30:08.390+08:00",
+      "fetchedAt": "2026-10-09T14:40:06.023+08:00",
       "error": null
     }
   }
