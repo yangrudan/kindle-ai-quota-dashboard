@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T17:00:08.960+08:00",
+  "updatedAt": "2026-10-09T17:10:10.811+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.9,
-    "feelsLikeC": 26.4,
-    "humidity": 54,
-    "windKph": 0.7,
-    "windDir": "东风",
+    "tempC": 24.4,
+    "feelsLikeC": 26.3,
+    "humidity": 60,
+    "windKph": 0.9,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-09T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T17:00:08.961+08:00",
+    "observedAt": "2026-10-09T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T17:10:10.811+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江西省职业技能大赛已带动超20万人岗位“练兵”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709652.shtml",
-        "publishedAt": "2026-10-09T16:52:14.000+08:00"
+        "title": "湖北长阳：1905尾中国小鲵放归山野",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709697.shtml",
+        "publishedAt": "2026-10-09T17:03:09.000+08:00"
       },
       {
-        "title": "港城大举办首届国际文化论坛 多国艺术家共话艺术科技融合",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-09/10709649.shtml",
-        "publishedAt": "2026-10-09T16:51:40.000+08:00"
+        "title": "中国艺术研究院原院长连辑严重违纪违法被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709742.shtml",
+        "publishedAt": "2026-10-09T17:02:27.000+08:00"
       },
       {
-        "title": "中储粮集团广西分公司总经理余珂被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709721.shtml",
-        "publishedAt": "2026-10-09T16:51:00.000+08:00"
+        "title": "聚焦建设生育友好型社会 湖北省政协建言献策",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709641.shtml",
+        "publishedAt": "2026-10-09T17:02:17.000+08:00"
       },
       {
-        "title": "民企攻坚脑起搏器：探“小宇宙” 破“垄断局”",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709633.shtml",
-        "publishedAt": "2026-10-09T16:50:54.000+08:00"
+        "title": "西藏自治区人大常委会原党组副书记、副主任丁业现严重违纪违法被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709741.shtml",
+        "publishedAt": "2026-10-09T17:02:13.000+08:00"
       },
       {
-        "title": "中秋国庆假期全国铁路发送旅客3.02亿人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709720.shtml",
-        "publishedAt": "2026-10-09T16:49:44.000+08:00"
+        "title": "东西问丨李光辉：中国边疆经济如何从“发展末端”变成“世界接口”",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-09/10709714.shtml",
+        "publishedAt": "2026-10-09T17:01:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T17:00:03.148+08:00",
+    "fetchedAt": "2026-10-09T17:10:03.965+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T17:00:07.600+08:00",
+      "fetchedAt": "2026-10-09T17:10:09.580+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 95,
+          "usedPct": 98,
           "resetAt": "2026-10-09T19:09:39.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 40,
+          "usedPct": 41,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T17:00:07.869+08:00",
+      "fetchedAt": "2026-10-09T17:10:09.867+08:00",
       "error": null
     },
     "mimo": {
@@ -88,8 +88,8 @@ window.DASH_DATA = {
       "currency": "CNY",
       "detail": "余额 ¥20.47",
       "fetchedAt": "2026-10-09T16:30:09.585+08:00",
-      "stale": false,
-      "error": null
+      "stale": true,
+      "error": "MiMo 控制台余额快照已过期"
     },
     "deepseek": {
       "ok": true,
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T17:00:07.878+08:00",
+      "fetchedAt": "2026-10-09T17:10:09.872+08:00",
       "error": null
     }
   }
