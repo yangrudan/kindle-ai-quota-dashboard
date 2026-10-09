@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T12:00:11.456+08:00",
+  "updatedAt": "2026-10-09T12:10:08.217+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T12:00:11.456+08:00",
+    "fetchedAt": "2026-10-09T12:10:08.217+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一个被低估的抗炎方法：每顿饭少吃几口，炎症降了、衰老慢了",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-09/10709558.shtml",
+        "publishedAt": "2026-10-09T11:59:34.000+08:00"
+      },
       {
         "title": "登记封存的公车，怎么会出现加油记录？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709556.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "央行为什么发布关于人民币汇率的政策立场",
         "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709554.shtml",
         "publishedAt": "2026-10-09T11:48:46.000+08:00"
-      },
-      {
-        "title": "高市减税政策持续遭质疑：日本民众对政治不信任感加剧",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709537.shtml",
-        "publishedAt": "2026-10-09T11:47:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T12:00:06.224+08:00",
+    "fetchedAt": "2026-10-09T12:10:03.045+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T12:00:09.999+08:00",
+      "fetchedAt": "2026-10-09T12:10:07.007+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T12:00:10.402+08:00",
+      "fetchedAt": "2026-10-09T12:10:07.205+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T12:00:07.918+08:00",
+      "fetchedAt": "2026-10-09T12:10:04.995+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T12:00:10.411+08:00",
+      "fetchedAt": "2026-10-09T12:10:07.210+08:00",
       "error": null
     }
   }
