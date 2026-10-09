@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T11:20:09.028+08:00",
+  "updatedAt": "2026-10-09T11:30:07.977+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-09T11:20:09.028+08:00",
+    "fetchedAt": "2026-10-09T11:30:07.977+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "长春大冬会火种在意大利都灵成功采集 逐梦冰雪 长驻青春（大冬会来了）",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709534.shtml",
-        "publishedAt": "2026-10-09T11:13:50.000+08:00"
+        "title": "出租汽车无障碍运营服务国家标准发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709543.shtml",
+        "publishedAt": "2026-10-09T11:24:46.000+08:00"
       },
       {
-        "title": "完整模拟真实外卖消费流程 “虚拟外卖”到底安不安全？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709531.shtml",
-        "publishedAt": "2026-10-09T11:12:44.000+08:00"
+        "title": "《中国美术年鉴·2025》在京发布",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709538.shtml",
+        "publishedAt": "2026-10-09T11:23:16.000+08:00"
       },
       {
-        "title": "日本自民党再曝丑闻 爱知县副议长强闯亚运赛场",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709527.shtml",
-        "publishedAt": "2026-10-09T11:09:31.000+08:00"
+        "title": "全国首个“百万级客流”高铁站见证粤港澳大湾区澎湃活力",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-09/10709544.shtml",
+        "publishedAt": "2026-10-09T11:22:10.000+08:00"
       },
       {
-        "title": "邦加岛惨案，日军罪行岂容遗忘（环球走笔）",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709526.shtml",
-        "publishedAt": "2026-10-09T11:06:59.000+08:00"
+        "title": "2026年全国足球发展重点城市U14精英赛暨青训营（全国）收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709532.shtml",
+        "publishedAt": "2026-10-09T11:22:04.000+08:00"
       },
       {
-        "title": "中国代表在联合国批驳日本再军事化图谋",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709523.shtml",
-        "publishedAt": "2026-10-09T11:04:49.000+08:00"
+        "title": "国家气候中心：超强厄尔尼诺已正式形成",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709539.shtml",
+        "publishedAt": "2026-10-09T11:21:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T11:20:04.348+08:00",
+    "fetchedAt": "2026-10-09T11:30:03.454+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T11:20:07.712+08:00",
+      "fetchedAt": "2026-10-09T11:30:06.692+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 34,
+          "usedPct": 43,
           "resetAt": "2026-10-09T14:06:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 22,
+          "usedPct": 23,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T11:20:08.137+08:00",
+      "fetchedAt": "2026-10-09T11:30:06.978+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T11:20:05.841+08:00",
+      "fetchedAt": "2026-10-09T11:30:05.393+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T11:20:08.141+08:00",
+      "fetchedAt": "2026-10-09T11:30:06.989+08:00",
       "error": null
     }
   }
