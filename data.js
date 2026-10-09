@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T23:20:09.466+08:00",
+  "updatedAt": "2026-10-09T23:30:09.701+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 19.2,
-    "feelsLikeC": 21,
+    "feelsLikeC": 21.1,
     "humidity": 83,
-    "windKph": 2.5,
+    "windKph": 1.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T23:15:00.000+08:00",
-    "fetchedAt": "2026-10-09T23:20:09.466+08:00",
+    "observedAt": "2026-10-09T23:30:00.000+08:00",
+    "fetchedAt": "2026-10-09T23:30:09.701+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第35届飞天奖揭晓 宋佳同一角色集齐三大奖",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709958.shtml",
+        "publishedAt": "2026-10-09T23:17:25.000+08:00"
+      },
       {
         "title": "WTT中国大满贯赛：王曼昱女双、女单双线晋级",
         "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709956.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "伊朗革命卫队：加剧地区海上运输紧张局势的责任在美军",
         "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709955.shtml",
         "publishedAt": "2026-10-09T22:52:08.000+08:00"
-      },
-      {
-        "title": "谌贻琴在会见第20届亚运会中国体育代表团时强调 戒骄戒躁 再接再厉 扎实推进洛杉矶奥运会备战工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709952.shtml",
-        "publishedAt": "2026-10-09T22:26:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T23:20:04.149+08:00",
+    "fetchedAt": "2026-10-09T23:30:03.485+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T23:20:08.093+08:00",
+      "fetchedAt": "2026-10-09T23:30:07.271+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 7,
           "resetAt": "2026-10-10T00:32:13.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T23:20:08.444+08:00",
+      "fetchedAt": "2026-10-09T23:30:07.586+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T23:20:08.453+08:00",
+      "fetchedAt": "2026-10-09T23:30:07.589+08:00",
       "error": null
     }
   }
