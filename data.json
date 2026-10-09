@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T14:40:07.465+08:00",
+  "updatedAt": "2026-10-09T14:50:07.936+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 25.5,
     "feelsLikeC": 26.1,
-    "humidity": 47,
-    "windKph": 4.2,
+    "humidity": 48,
+    "windKph": 3.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T14:40:07.465+08:00",
+    "observedAt": "2026-10-09T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-09T14:50:07.936+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“2026紫荆文化论坛”在港开幕 聚焦香港第一个五年规划实施路径",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-09/10709620.shtml",
+        "publishedAt": "2026-10-09T14:40:41.000+08:00"
+      },
+      {
+        "title": "天地双重视角跨越90年时空 科普图书《遥看长征路》在北京发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709604.shtml",
+        "publishedAt": "2026-10-09T14:36:51.000+08:00"
+      },
       {
         "title": "第37届世界运河大会将于桂林启幕 千年灵渠引古今治水对话",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709596.shtml",
@@ -33,19 +43,9 @@
         "title": "2026年全国马术三项赛青少年锦标赛落幕 香港骑手包揽冠亚军",
         "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709585.shtml",
         "publishedAt": "2026-10-09T14:34:33.000+08:00"
-      },
-      {
-        "title": "（长江十年行）渔网收起之后：“长江第一城”渔民的转身",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709609.shtml",
-        "publishedAt": "2026-10-09T14:33:31.000+08:00"
-      },
-      {
-        "title": "笔墨铺展申城美 海派书画家展出45件佳作",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709579.shtml",
-        "publishedAt": "2026-10-09T14:32:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T14:40:02.606+08:00",
+    "fetchedAt": "2026-10-09T14:50:03.218+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T14:40:05.784+08:00",
+      "fetchedAt": "2026-10-09T14:50:06.481+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 16,
-          "resetAt": "2026-10-09T19:09:40.000+08:00"
+          "resetAt": "2026-10-09T19:09:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T14:40:06.013+08:00",
+      "fetchedAt": "2026-10-09T14:50:06.912+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T14:40:04.294+08:00",
+      "fetchedAt": "2026-10-09T14:50:04.711+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T14:40:06.023+08:00",
+      "fetchedAt": "2026-10-09T14:50:06.922+08:00",
       "error": null
     }
   }
