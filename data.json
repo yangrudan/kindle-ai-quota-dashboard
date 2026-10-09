@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T15:50:07.744+08:00",
+  "updatedAt": "2026-10-09T16:00:08.334+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T15:50:07.745+08:00",
+    "fetchedAt": "2026-10-09T16:00:08.334+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中方回应菲转运非法“坐滩”船只伤员：倒打一耙，令人不齿",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709660.shtml",
-        "publishedAt": "2026-10-09T15:39:18.000+08:00"
+        "title": "开局之年看中国·潮涌荆楚｜推进“微更新”，激活城市“金角银边”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709674.shtml",
+        "publishedAt": "2026-10-09T15:54:37.000+08:00"
       },
       {
-        "title": "财政部安排使用5500亿元地方政府债务结存限额",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709657.shtml",
-        "publishedAt": "2026-10-09T15:37:04.000+08:00"
+        "title": "人均三个行李箱来华爆买，“China Haul”火了！",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709669.shtml",
+        "publishedAt": "2026-10-09T15:52:57.000+08:00"
       },
       {
-        "title": "假日中国新图景丨山河奔赴 “数”观假日经济活力",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709656.shtml",
-        "publishedAt": "2026-10-09T15:35:38.000+08:00"
+        "title": "外交部：敦促美方与中方通过平等对话协商共同应对网络安全风险",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709637.shtml",
+        "publishedAt": "2026-10-09T15:51:15.000+08:00"
       },
       {
-        "title": "（经济观察）中国民企把“柔性”练成硬功夫",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709634.shtml",
-        "publishedAt": "2026-10-09T15:35:00.000+08:00"
+        "title": "从一米窄轨到朝发夕至 两条铁路见证百年澜湄情谊",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-09/10709667.shtml",
+        "publishedAt": "2026-10-09T15:48:45.000+08:00"
       },
       {
-        "title": "日本右翼势力持续向国际主流大模型提供经过篡改的二战历史语料 中方驳斥",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709655.shtml",
-        "publishedAt": "2026-10-09T15:34:50.000+08:00"
+        "title": "我国具身智能产业化加速落地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709665.shtml",
+        "publishedAt": "2026-10-09T15:47:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T15:50:03.598+08:00",
+    "fetchedAt": "2026-10-09T16:00:02.689+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T15:50:06.547+08:00",
+      "fetchedAt": "2026-10-09T16:00:06.142+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 28,
-          "resetAt": "2026-10-09T19:09:40.000+08:00"
+          "usedPct": 37,
+          "resetAt": "2026-10-09T19:09:39.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 29,
+          "usedPct": 31,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T15:50:06.825+08:00",
+      "fetchedAt": "2026-10-09T16:00:07.534+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T15:50:05.051+08:00",
+      "fetchedAt": "2026-10-09T16:00:04.656+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T15:50:06.835+08:00",
+      "fetchedAt": "2026-10-09T16:00:07.543+08:00",
       "error": null
     }
   }
