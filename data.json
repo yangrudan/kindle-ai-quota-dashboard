@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T08:00:08.644+08:00",
+  "updatedAt": "2026-10-09T08:10:14.672+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-09T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T08:00:08.644+08:00",
+    "fetchedAt": "2026-10-09T08:10:14.673+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "每天几分钟 用1个瓶子护好颈、心、腿3处关键血管",
+        "url": "https://www.chinanews.com.cn/life/2026/10-09/10709444.shtml",
+        "publishedAt": "2026-10-09T08:04:43.000+08:00"
+      },
+      {
+        "title": "美媒：特朗普政府暂停8家科技公司外籍员工绿卡申请",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709443.shtml",
+        "publishedAt": "2026-10-09T08:02:09.000+08:00"
+      },
+      {
+        "title": "事关骑手、网约车司机等！新就业形态保障新规将带来哪些改变？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709442.shtml",
+        "publishedAt": "2026-10-09T07:59:05.000+08:00"
+      },
       {
         "title": "2027年研考生注意 今起网上预报名启动",
         "url": "https://www.chinanews.com.cn/edu/2026/10-09/10709441.shtml",
@@ -28,24 +43,9 @@
         "title": "广西贵港闪爆事故2名失联人员确认已无生命体征",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709439.shtml",
         "publishedAt": "2026-10-09T07:46:30.000+08:00"
-      },
-      {
-        "title": "广东佛山通报多人就餐后身体不适：初判为食源性疾病聚集事件",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709438.shtml",
-        "publishedAt": "2026-10-09T07:44:40.000+08:00"
-      },
-      {
-        "title": "厨师离职被索要烹饪配方，手艺与配方究竟归谁？",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-09/10709436.shtml",
-        "publishedAt": "2026-10-09T07:29:29.000+08:00"
-      },
-      {
-        "title": "超60家企业发涨价函！汽车重要部件，原料价格暴涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709435.shtml",
-        "publishedAt": "2026-10-09T07:21:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T08:00:04.029+08:00",
+    "fetchedAt": "2026-10-09T08:10:10.043+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T08:00:07.448+08:00",
+      "fetchedAt": "2026-10-09T08:10:13.418+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T08:00:07.777+08:00",
+      "fetchedAt": "2026-10-09T08:10:13.796+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T08:00:05.809+08:00",
+      "fetchedAt": "2026-10-09T08:10:11.952+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T08:00:07.786+08:00",
+      "fetchedAt": "2026-10-09T08:10:13.801+08:00",
       "error": null
     }
   }
