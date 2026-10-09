@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T09:10:09.310+08:00",
+  "updatedAt": "2026-10-09T09:20:07.807+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.1,
-    "feelsLikeC": 22.5,
-    "humidity": 68,
-    "windKph": 1.4,
+    "tempC": 21.6,
+    "feelsLikeC": 23,
+    "humidity": 66,
+    "windKph": 1.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-09T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T09:10:09.310+08:00",
+    "observedAt": "2026-10-09T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-09T09:20:07.807+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "以色列驱逐20名英国外交官，要关掉近200年历史的领馆，现场一幕耐人寻味",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709455.shtml",
-        "publishedAt": "2026-10-09T09:02:53.000+08:00"
+        "title": "海南岛强降雨还将持续 华西地区多阴雨",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709461.shtml",
+        "publishedAt": "2026-10-09T09:14:39.000+08:00"
       },
       {
-        "title": "平孟海关2026年度食堂食材配送服务成交结果公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709454.shtml",
-        "publishedAt": "2026-10-09T09:02:00.000+08:00"
+        "title": "三部门联合印发《农业品牌保护专项行动实施方案（2026—2027年）》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709460.shtml",
+        "publishedAt": "2026-10-09T09:11:39.000+08:00"
       },
       {
-        "title": "中华人民共和国柳州海关涉案财物公开拍卖公告（二次拍卖桂B9U823）",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709453.shtml",
-        "publishedAt": "2026-10-09T09:00:46.000+08:00"
+        "title": "中东部大部天气晴好昼夜温差增大 后天起冷空气携降雨降温来袭",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709459.shtml",
+        "publishedAt": "2026-10-09T09:09:47.000+08:00"
       },
       {
-        "title": "南宁海关关于开展2026年10月份“关长接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709452.shtml",
-        "publishedAt": "2026-10-09T08:56:58.000+08:00"
+        "title": "东兴海关综合技术服务中心试剂耗材定点供应商补充采购项目（重）（GXGL2026M-G273-Z）的中标结",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709458.shtml",
+        "publishedAt": "2026-10-09T09:07:11.000+08:00"
       },
       {
-        "title": "AI辅助面试火爆 算法打分靠谱吗？能否替代真人判断？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709451.shtml",
-        "publishedAt": "2026-10-09T08:56:44.000+08:00"
+        "title": "中央政法委发布2026年第三季度见义勇为勇士榜",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709457.shtml",
+        "publishedAt": "2026-10-09T09:05:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T09:10:04.613+08:00",
+    "fetchedAt": "2026-10-09T09:20:03.616+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T09:10:08.012+08:00",
+      "fetchedAt": "2026-10-09T09:20:06.648+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T09:10:08.273+08:00",
+      "fetchedAt": "2026-10-09T09:20:06.986+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T09:10:06.392+08:00",
+      "fetchedAt": "2026-10-09T09:20:05.344+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T09:10:08.278+08:00",
+      "fetchedAt": "2026-10-09T09:20:06.996+08:00",
       "error": null
     }
   }
