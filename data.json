@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:30:09.130+08:00",
+  "updatedAt": "2026-10-09T10:40:07.886+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T10:30:09.130+08:00",
+    "fetchedAt": "2026-10-09T10:40:07.886+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青海省海北州委原副书记张爱红被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709484.shtml",
-        "publishedAt": "2026-10-09T10:18:09.000+08:00"
+        "title": "深度游、入境游、以旧换新火热 假日消费“新”意十足",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709498.shtml",
+        "publishedAt": "2026-10-09T10:32:41.000+08:00"
       },
       {
-        "title": "原贵州水城矿业（集团）副总经理张思明被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709482.shtml",
-        "publishedAt": "2026-10-09T10:16:33.000+08:00"
+        "title": "中方回应欧洲议会发布欧中政治关系报告：停止煽动对立对抗",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709491.shtml",
+        "publishedAt": "2026-10-09T10:30:53.000+08:00"
       },
       {
-        "title": "贵州省自然资源厅原副厅长杨兵被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709479.shtml",
-        "publishedAt": "2026-10-09T10:12:26.000+08:00"
+        "title": "【赓续长征精神 奋进复兴征程】广西：桂北大地传薪火 向海图强启新程",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709495.shtml",
+        "publishedAt": "2026-10-09T10:29:33.000+08:00"
       },
       {
-        "title": "我国加快建立全链条循环经济体系",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709481.shtml",
-        "publishedAt": "2026-10-09T10:08:14.000+08:00"
+        "title": "从长征出发地到落脚点 坐上高铁去延安",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709494.shtml",
+        "publishedAt": "2026-10-09T10:28:19.000+08:00"
       },
       {
-        "title": "安徽检察机关依法对陈伟俊涉嫌受贿案提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709480.shtml",
-        "publishedAt": "2026-10-09T10:07:58.000+08:00"
+        "title": "从“藏书楼”到“育人场”（校馆弦歌）",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-09/10709493.shtml",
+        "publishedAt": "2026-10-09T10:26:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T10:30:03.671+08:00",
+    "fetchedAt": "2026-10-09T10:40:02.838+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T10:30:07.055+08:00",
+      "fetchedAt": "2026-10-09T10:40:05.940+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 23,
           "resetAt": "2026-10-09T14:06:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 19,
+          "usedPct": 20,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T10:30:07.276+08:00",
+      "fetchedAt": "2026-10-09T10:40:06.159+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T10:30:05.226+08:00",
+      "fetchedAt": "2026-10-09T10:40:04.374+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T10:30:07.284+08:00",
+      "fetchedAt": "2026-10-09T10:40:06.162+08:00",
       "error": null
     }
   }
