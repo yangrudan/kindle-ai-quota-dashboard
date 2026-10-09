@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T18:30:08.421+08:00",
+  "updatedAt": "2026-10-09T18:40:08.606+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T18:30:08.421+08:00",
+    "fetchedAt": "2026-10-09T18:40:08.606+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "吉林长春秋景如画 市民踏叶赏秋",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709774.shtml",
-        "publishedAt": "2026-10-09T18:23:57.000+08:00"
+        "title": "地质灾害气象风险预警：海南东南部部分地区风险较高",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709797.shtml",
+        "publishedAt": "2026-10-09T18:32:48.000+08:00"
       },
       {
-        "title": "湖南新田芥菜首茬丰收 轮作模式助农稳增收",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709777.shtml",
-        "publishedAt": "2026-10-09T18:23:29.000+08:00"
+        "title": "今年前9月黄埔海关中智协定项下享惠进口货值4.8亿元",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-09/10709789.shtml",
+        "publishedAt": "2026-10-09T18:31:11.000+08:00"
       },
       {
-        "title": "中国证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709784.shtml",
-        "publishedAt": "2026-10-09T18:23:25.000+08:00"
+        "title": "中国国学大家楼宇烈辞世 享年92岁",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709778.shtml",
+        "publishedAt": "2026-10-09T18:28:39.000+08:00"
       },
       {
-        "title": "万里奔赴 民盟盟员把“中文+”职业教育送到东非高原",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709776.shtml",
-        "publishedAt": "2026-10-09T18:23:21.000+08:00"
+        "title": "受权发布丨中共中央 国务院关于发展新质生产力的意见",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709783.shtml",
+        "publishedAt": "2026-10-09T18:25:03.000+08:00"
       },
       {
-        "title": "广西壮族自治区玉林市人大常委会原主任杨红接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709786.shtml",
-        "publishedAt": "2026-10-09T18:21:01.000+08:00"
+        "title": "2026中国新媒体智库报告（“紫皮书”）正式发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709788.shtml",
+        "publishedAt": "2026-10-09T18:24:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T18:30:03.339+08:00",
+    "fetchedAt": "2026-10-09T18:40:03.532+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T18:30:07.317+08:00",
+      "fetchedAt": "2026-10-09T18:40:07.378+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-10-09T19:09:40.000+08:00"
+          "resetAt": "2026-10-09T19:09:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T18:30:07.559+08:00",
+      "fetchedAt": "2026-10-09T18:40:07.631+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T18:30:07.564+08:00",
+      "fetchedAt": "2026-10-09T18:40:07.640+08:00",
       "error": null
     }
   }
