@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T17:10:10.811+08:00",
+  "updatedAt": "2026-10-09T17:20:40.225+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.4,
-    "feelsLikeC": 26.3,
-    "humidity": 60,
-    "windKph": 0.9,
-    "windDir": "西北风",
+    "tempC": 24,
+    "feelsLikeC": 25.7,
+    "humidity": 61,
+    "windKph": 2,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-09T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T17:10:10.811+08:00",
+    "observedAt": "2026-10-09T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-09T17:20:40.225+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖北长阳：1905尾中国小鲵放归山野",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709697.shtml",
-        "publishedAt": "2026-10-09T17:03:09.000+08:00"
+        "title": "探访河北大理石长城：从雄关险口到“长城风景道”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709749.shtml",
+        "publishedAt": "2026-10-09T17:13:53.000+08:00"
       },
       {
-        "title": "中国艺术研究院原院长连辑严重违纪违法被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709742.shtml",
-        "publishedAt": "2026-10-09T17:02:27.000+08:00"
+        "title": "断航140余天 乌江白马段航道恢复通航",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709748.shtml",
+        "publishedAt": "2026-10-09T17:12:59.000+08:00"
       },
       {
-        "title": "聚焦建设生育友好型社会 湖北省政协建言献策",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709641.shtml",
-        "publishedAt": "2026-10-09T17:02:17.000+08:00"
+        "title": "栾树挂“灯笼” 江西南昌秋意渐浓",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709703.shtml",
+        "publishedAt": "2026-10-09T17:12:31.000+08:00"
       },
       {
-        "title": "西藏自治区人大常委会原党组副书记、副主任丁业现严重违纪违法被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709741.shtml",
-        "publishedAt": "2026-10-09T17:02:13.000+08:00"
+        "title": "“2026年中华文化大乐园—澳大利亚墨尔本园”闭园仪式暨汇报演出隆重举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709731.shtml",
+        "publishedAt": "2026-10-09T17:12:25.000+08:00"
       },
       {
-        "title": "东西问丨李光辉：中国边疆经济如何从“发展末端”变成“世界接口”",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-09/10709714.shtml",
-        "publishedAt": "2026-10-09T17:01:11.000+08:00"
+        "title": "电影《大改水》将在电影频道首映",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709747.shtml",
+        "publishedAt": "2026-10-09T17:12:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T17:10:03.965+08:00",
+    "fetchedAt": "2026-10-09T17:20:05.570+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T17:10:09.580+08:00",
+      "fetchedAt": "2026-10-09T17:20:39.003+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 98,
-          "resetAt": "2026-10-09T19:09:39.000+08:00"
+          "usedPct": 100,
+          "resetAt": "2026-10-09T19:09:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T17:10:09.867+08:00",
+      "fetchedAt": "2026-10-09T17:20:39.301+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T17:10:09.872+08:00",
+      "fetchedAt": "2026-10-09T17:20:39.305+08:00",
       "error": null
     }
   }
