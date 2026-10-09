@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T14:00:09.845+08:00",
+  "updatedAt": "2026-10-09T14:10:08.362+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T14:00:09.845+08:00",
+    "fetchedAt": "2026-10-09T14:10:08.362+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "国庆假期超16万人次从福建口岸出入境",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709574.shtml",
+        "publishedAt": "2026-10-09T14:03:07.000+08:00"
+      },
+      {
+        "title": "粤北部分市县出现寒露风天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709573.shtml",
+        "publishedAt": "2026-10-09T14:01:23.000+08:00"
+      },
+      {
+        "title": "驻马尔代夫大使馆提醒中国游客注意涉水活动安全",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-09/10709601.shtml",
+        "publishedAt": "2026-10-09T13:59:43.000+08:00"
+      },
+      {
+        "title": "当前刚果（金）安全形势复杂严峻 中使馆发布重要提醒",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-09/10709593.shtml",
+        "publishedAt": "2026-10-09T13:57:43.000+08:00"
+      },
+      {
         "title": "广东2030年底将建成碧带1000公里以上",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-09/10709587.shtml",
         "publishedAt": "2026-10-09T13:52:18.000+08:00"
-      },
-      {
-        "title": "两路寸滩海关固体废物属性鉴别服务项目中标公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709600.shtml",
-        "publishedAt": "2026-10-09T13:51:22.000+08:00"
-      },
-      {
-        "title": "东兴海关关于开展2026年10月份“关领导接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709589.shtml",
-        "publishedAt": "2026-10-09T13:42:28.000+08:00"
-      },
-      {
-        "title": "菲律宾：塔阿尔火山喷发 多个市镇将现火山灰沉降",
-        "url": "http://www.chinanews.com.cn/gj/shipin/2026/10-09/news1071280.shtml",
-        "publishedAt": "2026-10-09T13:28:43.000+08:00"
-      },
-      {
-        "title": "内蒙古赤峰：霜染杏海映山河",
-        "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-09/news1071287.shtml",
-        "publishedAt": "2026-10-09T13:01:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T14:00:05.250+08:00",
+    "fetchedAt": "2026-10-09T14:10:03.523+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T14:00:08.382+08:00",
+      "fetchedAt": "2026-10-09T14:10:07.241+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 57,
-          "resetAt": "2026-10-09T14:06:46.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-10-09T19:09:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T14:00:08.679+08:00",
+      "fetchedAt": "2026-10-09T14:10:07.459+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T14:00:06.709+08:00",
+      "fetchedAt": "2026-10-09T14:10:05.507+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T14:00:08.688+08:00",
+      "fetchedAt": "2026-10-09T14:10:07.465+08:00",
       "error": null
     }
   }
