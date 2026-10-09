@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T20:00:40.952+08:00",
+  "updatedAt": "2026-10-09T20:10:09.953+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T20:00:40.953+08:00",
+    "fetchedAt": "2026-10-09T20:10:09.954+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "沙特利雅得机场遭袭事件致三死多伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709794.shtml",
-        "publishedAt": "2026-10-09T19:54:02.000+08:00"
+        "title": "电视剧《伟大的长征》开播",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709847.shtml",
+        "publishedAt": "2026-10-09T20:04:46.000+08:00"
       },
       {
-        "title": "2026年全国全民参保集中宣传月在重庆启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709838.shtml",
-        "publishedAt": "2026-10-09T19:53:14.000+08:00"
+        "title": "电视剧《伟大的长征》9日开播 全景式构建长征影像志",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709848.shtml",
+        "publishedAt": "2026-10-09T20:03:56.000+08:00"
       },
       {
-        "title": "国庆假期广东多领域消费增速亮眼",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709837.shtml",
-        "publishedAt": "2026-10-09T19:47:08.000+08:00"
+        "title": "青海西宁：3.6万盆菊花争奇斗艳",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709849.shtml",
+        "publishedAt": "2026-10-09T20:00:14.000+08:00"
       },
       {
-        "title": "“十五五”时期北京城市副中心打造首都发展新的增长极",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709836.shtml",
-        "publishedAt": "2026-10-09T19:45:23.000+08:00"
+        "title": "制造业重镇佛山加速“智造强市”转型 规上工业企业数字化转型率逾八成",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709842.shtml",
+        "publishedAt": "2026-10-09T19:57:36.000+08:00"
       },
       {
-        "title": "2026年中国国庆节假期国内出游8.26亿人次",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709834.shtml",
-        "publishedAt": "2026-10-09T19:43:19.000+08:00"
+        "title": "中秋国庆假期北京铁警查获各类危险品9.8万余起",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709840.shtml",
+        "publishedAt": "2026-10-09T19:56:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T20:00:05.552+08:00",
+    "fetchedAt": "2026-10-09T20:10:03.898+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T20:00:39.265+08:00",
+      "fetchedAt": "2026-10-09T20:10:07.968+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T20:00:39.551+08:00",
+      "fetchedAt": "2026-10-09T20:10:08.292+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T20:00:39.560+08:00",
+      "fetchedAt": "2026-10-09T20:10:08.301+08:00",
       "error": null
     }
   }
