@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T08:30:10.558+08:00",
+  "updatedAt": "2026-10-09T08:40:08.089+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-10-09T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T08:30:10.558+08:00",
+    "fetchedAt": "2026-10-09T08:40:08.090+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国代表在联大一委阐述战略安全和军控问题政策主张",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709431.shtml",
+        "publishedAt": "2026-10-09T08:31:47.000+08:00"
+      },
       {
         "title": "多重因素推动猪价10月以来小幅反弹",
         "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709450.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "海南岛有强降雨 青藏高原和华西地区多阴雨天气",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709446.shtml",
         "publishedAt": "2026-10-09T08:18:00.000+08:00"
-      },
-      {
-        "title": "鼻塞喷嚏不一定是感冒，这份秋季花粉过敏防护指南请收好",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-09/10709445.shtml",
-        "publishedAt": "2026-10-09T08:12:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T08:30:05.221+08:00",
+    "fetchedAt": "2026-10-09T08:40:03.760+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T08:30:09.319+08:00",
+      "fetchedAt": "2026-10-09T08:40:07.035+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T08:30:09.604+08:00",
+      "fetchedAt": "2026-10-09T08:40:07.294+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T08:30:07.091+08:00",
+      "fetchedAt": "2026-10-09T08:40:05.505+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T08:30:09.608+08:00",
+      "fetchedAt": "2026-10-09T08:40:07.300+08:00",
       "error": null
     }
   }
