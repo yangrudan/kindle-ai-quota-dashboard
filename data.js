@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T12:20:08.534+08:00",
+  "updatedAt": "2026-10-09T12:30:12.034+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.9,
+    "tempC": 25,
     "feelsLikeC": 26.9,
     "humidity": 51,
-    "windKph": 6,
+    "windKph": 6.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-09T12:20:08.534+08:00",
+    "observedAt": "2026-10-09T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-09T12:30:12.034+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "多只银行股创历史新高 透露哪些投资信号？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709562.shtml",
+        "publishedAt": "2026-10-09T12:22:31.000+08:00"
+      },
       {
         "title": "品边地风情学非遗技艺 云南边境小城“慢游”走热",
         "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709557.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "一个被低估的抗炎方法：每顿饭少吃几口，炎症降了、衰老慢了",
         "url": "https://www.chinanews.com.cn/jk/2026/10-09/10709558.shtml",
         "publishedAt": "2026-10-09T11:59:34.000+08:00"
-      },
-      {
-        "title": "登记封存的公车，怎么会出现加油记录？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709556.shtml",
-        "publishedAt": "2026-10-09T11:54:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T12:20:03.975+08:00",
+    "fetchedAt": "2026-10-09T12:30:05.113+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T12:20:07.112+08:00",
+      "fetchedAt": "2026-10-09T12:30:08.524+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
+          "usedPct": 45,
           "resetAt": "2026-10-09T14:06:46.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T12:20:07.439+08:00",
+      "fetchedAt": "2026-10-09T12:30:08.832+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T12:20:05.406+08:00",
+      "fetchedAt": "2026-10-09T12:30:06.790+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T12:20:07.449+08:00",
+      "fetchedAt": "2026-10-09T12:30:08.841+08:00",
       "error": null
     }
   }
