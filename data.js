@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T08:20:13.317+08:00",
+  "updatedAt": "2026-10-09T08:30:10.558+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.5,
-    "feelsLikeC": 20.9,
-    "humidity": 74,
-    "windKph": 0.7,
+    "tempC": 20.1,
+    "feelsLikeC": 21.5,
+    "humidity": 72,
+    "windKph": 0.9,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-09T08:15:00.000+08:00",
-    "fetchedAt": "2026-10-09T08:20:13.317+08:00",
+    "observedAt": "2026-10-09T08:30:00.000+08:00",
+    "fetchedAt": "2026-10-09T08:30:10.558+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "每天几分钟 用1个瓶子护好颈、心、腿3处关键血管",
-        "url": "https://www.chinanews.com.cn/life/2026/10-09/10709444.shtml",
-        "publishedAt": "2026-10-09T08:04:43.000+08:00"
+        "title": "多重因素推动猪价10月以来小幅反弹",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709450.shtml",
+        "publishedAt": "2026-10-09T08:26:29.000+08:00"
       },
       {
-        "title": "美媒：特朗普政府暂停8家科技公司外籍员工绿卡申请",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709443.shtml",
-        "publishedAt": "2026-10-09T08:02:09.000+08:00"
+        "title": "上山砍毛竹突然被“刺”，处置不当可能诱发致命感染！医生提醒→",
+        "url": "https://www.chinanews.com.cn/life/2026/10-09/10709448.shtml",
+        "publishedAt": "2026-10-09T08:21:46.000+08:00"
       },
       {
-        "title": "事关骑手、网约车司机等！新就业形态保障新规将带来哪些改变？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709442.shtml",
-        "publishedAt": "2026-10-09T07:59:05.000+08:00"
+        "title": "“一周备餐”会产生亚硝酸盐吗？合理储存有讲究",
+        "url": "https://www.chinanews.com.cn/life/2026/10-09/10709447.shtml",
+        "publishedAt": "2026-10-09T08:19:06.000+08:00"
       },
       {
-        "title": "2027年研考生注意 今起网上预报名启动",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-09/10709441.shtml",
-        "publishedAt": "2026-10-09T07:49:11.000+08:00"
+        "title": "海南岛有强降雨 青藏高原和华西地区多阴雨天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709446.shtml",
+        "publishedAt": "2026-10-09T08:18:00.000+08:00"
       },
       {
-        "title": "广西贵港闪爆事故2名失联人员确认已无生命体征",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709439.shtml",
-        "publishedAt": "2026-10-09T07:46:30.000+08:00"
+        "title": "鼻塞喷嚏不一定是感冒，这份秋季花粉过敏防护指南请收好",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-09/10709445.shtml",
+        "publishedAt": "2026-10-09T08:12:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T08:20:08.821+08:00",
+    "fetchedAt": "2026-10-09T08:30:05.221+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T08:20:12.149+08:00",
+      "fetchedAt": "2026-10-09T08:30:09.319+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T08:20:12.454+08:00",
+      "fetchedAt": "2026-10-09T08:30:09.604+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T08:20:10.667+08:00",
+      "fetchedAt": "2026-10-09T08:30:07.091+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T08:20:12.458+08:00",
+      "fetchedAt": "2026-10-09T08:30:09.608+08:00",
       "error": null
     }
   }
