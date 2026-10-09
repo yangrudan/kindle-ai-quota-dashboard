@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T20:20:39.942+08:00",
+  "updatedAt": "2026-10-09T20:30:10.056+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 20.1,
     "feelsLikeC": 21.2,
-    "humidity": 79,
-    "windKph": 7.6,
+    "humidity": 78,
+    "windKph": 7.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-09T20:20:39.942+08:00",
+    "observedAt": "2026-10-09T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-09T20:30:10.057+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青海湖景区2026冬春季旅游启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709845.shtml",
-        "publishedAt": "2026-10-09T20:06:21.000+08:00"
+        "title": "“印记北京中轴线 —— 大众篆刻作品展” 亮相南京",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709852.shtml",
+        "publishedAt": "2026-10-09T20:23:49.000+08:00"
       },
       {
-        "title": "电视剧《伟大的长征》开播",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709847.shtml",
-        "publishedAt": "2026-10-09T20:04:46.000+08:00"
+        "title": "河北曹妃甸：35万亩盐田迎丰收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709851.shtml",
+        "publishedAt": "2026-10-09T20:23:17.000+08:00"
       },
       {
-        "title": "电视剧《伟大的长征》9日开播 全景式构建长征影像志",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709848.shtml",
-        "publishedAt": "2026-10-09T20:03:56.000+08:00"
+        "title": "广东省第八届民族传统体育运动会11月举行 参与人数为历届之最",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709844.shtml",
+        "publishedAt": "2026-10-09T20:23:17.000+08:00"
       },
       {
-        "title": "青海西宁：3.6万盆菊花争奇斗艳",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709849.shtml",
-        "publishedAt": "2026-10-09T20:00:14.000+08:00"
+        "title": "2026年全国“四季村歌”示范活动在山东青岛举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709843.shtml",
+        "publishedAt": "2026-10-09T20:23:05.000+08:00"
       },
       {
-        "title": "香港举办太空主题展览 沉浸式体验“飞奔到月球”",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-09/1207365.shtml",
-        "publishedAt": "2026-10-09T19:58:21.000+08:00"
+        "title": "中国官方连打“虎” 连辑、丁业现分别被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709855.shtml",
+        "publishedAt": "2026-10-09T20:22:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T20:20:04.448+08:00",
+    "fetchedAt": "2026-10-09T20:30:04.900+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T20:20:38.572+08:00",
+      "fetchedAt": "2026-10-09T20:30:08.756+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T20:20:38.891+08:00",
+      "fetchedAt": "2026-10-09T20:30:09.061+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T20:20:38.902+08:00",
+      "fetchedAt": "2026-10-09T20:30:09.071+08:00",
       "error": null
     }
   }
