@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T20:50:08.592+08:00",
+  "updatedAt": "2026-10-09T21:00:37.521+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T20:50:08.593+08:00",
+    "fetchedAt": "2026-10-09T21:00:37.521+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "陈国基：香港未来5年体育资源投放预计增加20%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-09/10709861.shtml",
-        "publishedAt": "2026-10-09T20:45:19.000+08:00"
+        "title": "坦桑尼亚发生卡车与客车相撞事故 已致28人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709896.shtml",
+        "publishedAt": "2026-10-09T20:57:27.000+08:00"
       },
       {
-        "title": "全国首个知识产权纠纷中立评估规则在上海落地",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709858.shtml",
-        "publishedAt": "2026-10-09T20:43:41.000+08:00"
+        "title": "飞驰铁轨上的匠心答卷：义乌新站房的蝶变与新生",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709870.shtml",
+        "publishedAt": "2026-10-09T20:56:57.000+08:00"
       },
       {
-        "title": "2026世界传统医药大会将举行：国际报告嘉宾占比达六成",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709854.shtml",
-        "publishedAt": "2026-10-09T20:42:58.000+08:00"
+        "title": "守护档案、守住信仰 电影《密档》走进复旦大学",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709865.shtml",
+        "publishedAt": "2026-10-09T20:56:31.000+08:00"
       },
       {
-        "title": "中国铁路中秋国庆假期运输收官 发送旅客超3亿人次",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709853.shtml",
-        "publishedAt": "2026-10-09T20:42:50.000+08:00"
+        "title": "中澳学者合作研究3.6亿年前鱼化石 建立肺鱼类一新属新种",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709894.shtml",
+        "publishedAt": "2026-10-09T20:56:21.000+08:00"
       },
       {
-        "title": "尼泊尔博克拉校车坠崖致5死14伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709825.shtml",
-        "publishedAt": "2026-10-09T20:38:46.000+08:00"
+        "title": "四川省林业和草原局原党组成员、副局长宾军宜严重违纪违法被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709882.shtml",
+        "publishedAt": "2026-10-09T20:53:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T20:50:02.908+08:00",
+    "fetchedAt": "2026-10-09T21:00:02.865+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T20:50:07.294+08:00",
+      "fetchedAt": "2026-10-09T21:00:36.411+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T20:50:07.533+08:00",
+      "fetchedAt": "2026-10-09T21:00:36.619+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T20:50:07.543+08:00",
+      "fetchedAt": "2026-10-09T21:00:36.629+08:00",
       "error": null
     }
   }
