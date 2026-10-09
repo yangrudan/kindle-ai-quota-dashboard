@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T09:30:09.150+08:00",
+  "updatedAt": "2026-10-09T09:40:17.200+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-09T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T09:30:09.151+08:00",
+    "fetchedAt": "2026-10-09T09:40:17.200+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中央政法委发布2026年第三季度见义勇为勇士榜 79人上榜",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709462.shtml",
+        "publishedAt": "2026-10-09T09:30:18.000+08:00"
+      },
       {
         "title": "分贝不高却来源分散，如此噪声如何治理",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709463.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中东部大部天气晴好昼夜温差增大 后天起冷空气携降雨降温来袭",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709459.shtml",
         "publishedAt": "2026-10-09T09:09:47.000+08:00"
-      },
-      {
-        "title": "东兴海关综合技术服务中心试剂耗材定点供应商补充采购项目（重）（GXGL2026M-G273-Z）的中标结",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709458.shtml",
-        "publishedAt": "2026-10-09T09:07:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T09:30:04.316+08:00",
+    "fetchedAt": "2026-10-09T09:40:12.781+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T09:30:07.614+08:00",
+      "fetchedAt": "2026-10-09T09:40:15.826+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 8,
           "resetAt": "2026-10-09T14:06:46.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T09:30:07.906+08:00",
+      "fetchedAt": "2026-10-09T09:40:16.155+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T09:30:05.815+08:00",
+      "fetchedAt": "2026-10-09T09:40:14.258+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T09:30:07.911+08:00",
+      "fetchedAt": "2026-10-09T09:40:16.165+08:00",
       "error": null
     }
   }
