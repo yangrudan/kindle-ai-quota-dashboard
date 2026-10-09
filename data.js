@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T17:30:42.490+08:00",
+  "updatedAt": "2026-10-09T17:40:09.486+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-09T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T17:30:42.490+08:00",
+    "fetchedAt": "2026-10-09T17:40:09.487+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广东：到2030年全省竹产业总产值达500亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709763.shtml",
+        "publishedAt": "2026-10-09T17:28:08.000+08:00"
+      },
       {
         "title": "“今日中国法兰克福会客厅”成立",
         "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709746.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "直播海报：长征路上学党史 | 在“红飘带”起点 追忆峥嵘寻初心",
         "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709761.shtml",
         "publishedAt": "2026-10-09T17:19:46.000+08:00"
-      },
-      {
-        "title": "超强厄尔尼诺已形成，对今冬气温有啥影响？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709751.shtml",
-        "publishedAt": "2026-10-09T17:18:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T17:30:06.745+08:00",
+    "fetchedAt": "2026-10-09T17:40:03.891+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T17:30:41.291+08:00",
+      "fetchedAt": "2026-10-09T17:40:08.088+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T17:30:41.659+08:00",
+      "fetchedAt": "2026-10-09T17:40:08.546+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T17:30:41.667+08:00",
+      "fetchedAt": "2026-10-09T17:40:08.554+08:00",
       "error": null
     }
   }
