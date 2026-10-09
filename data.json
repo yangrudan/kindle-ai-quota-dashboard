@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T11:10:12.654+08:00",
+  "updatedAt": "2026-10-09T11:20:09.028+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24,
-    "feelsLikeC": 26.2,
-    "humidity": 55,
-    "windKph": 4.1,
+    "tempC": 24.3,
+    "feelsLikeC": 26.5,
+    "humidity": 54,
+    "windKph": 4.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T11:10:12.655+08:00",
+    "observedAt": "2026-10-09T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-09T11:20:09.028+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "长春大冬会火种在意大利都灵成功采集 逐梦冰雪 长驻青春（大冬会来了）",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709534.shtml",
+        "publishedAt": "2026-10-09T11:13:50.000+08:00"
+      },
+      {
+        "title": "完整模拟真实外卖消费流程 “虚拟外卖”到底安不安全？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709531.shtml",
+        "publishedAt": "2026-10-09T11:12:44.000+08:00"
+      },
+      {
+        "title": "日本自民党再曝丑闻 爱知县副议长强闯亚运赛场",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709527.shtml",
+        "publishedAt": "2026-10-09T11:09:31.000+08:00"
+      },
+      {
+        "title": "邦加岛惨案，日军罪行岂容遗忘（环球走笔）",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709526.shtml",
+        "publishedAt": "2026-10-09T11:06:59.000+08:00"
+      },
+      {
         "title": "中国代表在联合国批驳日本再军事化图谋",
         "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709523.shtml",
         "publishedAt": "2026-10-09T11:04:49.000+08:00"
-      },
-      {
-        "title": "新疆维吾尔自治区政府原副主席陈伟俊被公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709507.shtml",
-        "publishedAt": "2026-10-09T11:04:43.000+08:00"
-      },
-      {
-        "title": "中国的“十一”，世界的“黄金周”",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-09/10709519.shtml",
-        "publishedAt": "2026-10-09T11:01:05.000+08:00"
-      },
-      {
-        "title": "“向东看” 看什么（评论员观察）",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-09/10709518.shtml",
-        "publishedAt": "2026-10-09T10:59:45.000+08:00"
-      },
-      {
-        "title": "假日经济升腾活力 开放中国共享机遇（和音）",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-09/10709517.shtml",
-        "publishedAt": "2026-10-09T10:57:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T11:10:03.022+08:00",
+    "fetchedAt": "2026-10-09T11:20:04.348+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T11:10:06.579+08:00",
+      "fetchedAt": "2026-10-09T11:20:07.712+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 34,
           "resetAt": "2026-10-09T14:06:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 20,
+          "usedPct": 22,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T11:10:06.856+08:00",
+      "fetchedAt": "2026-10-09T11:20:08.137+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T11:10:05.298+08:00",
+      "fetchedAt": "2026-10-09T11:20:05.841+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T11:10:06.866+08:00",
+      "fetchedAt": "2026-10-09T11:20:08.141+08:00",
       "error": null
     }
   }
