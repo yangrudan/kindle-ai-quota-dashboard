@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T16:50:17.203+08:00",
+  "updatedAt": "2026-10-09T17:00:08.960+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T16:50:17.203+08:00",
+    "fetchedAt": "2026-10-09T17:00:08.961+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "世界邮政日： 四川邮政兜底打通乡村寄递路",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709710.shtml",
-        "publishedAt": "2026-10-09T16:38:49.000+08:00"
+        "title": "江西省职业技能大赛已带动超20万人岗位“练兵”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709652.shtml",
+        "publishedAt": "2026-10-09T16:52:14.000+08:00"
       },
       {
-        "title": "2026—2027赛季陕西省大学生足球联赛开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709702.shtml",
-        "publishedAt": "2026-10-09T16:38:01.000+08:00"
+        "title": "港城大举办首届国际文化论坛 多国艺术家共话艺术科技融合",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-09/10709649.shtml",
+        "publishedAt": "2026-10-09T16:51:40.000+08:00"
       },
       {
-        "title": "3艘新造船从长江江苏段出江试航",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709648.shtml",
-        "publishedAt": "2026-10-09T16:37:21.000+08:00"
+        "title": "中储粮集团广西分公司总经理余珂被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709721.shtml",
+        "publishedAt": "2026-10-09T16:51:00.000+08:00"
       },
       {
-        "title": "从长征到新长征：一位委内瑞拉记者的中国观察",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709716.shtml",
-        "publishedAt": "2026-10-09T16:36:17.000+08:00"
+        "title": "民企攻坚脑起搏器：探“小宇宙” 破“垄断局”",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709633.shtml",
+        "publishedAt": "2026-10-09T16:50:54.000+08:00"
       },
       {
-        "title": "银川车站国庆假期发送旅客人次同比增长13%",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709645.shtml",
-        "publishedAt": "2026-10-09T16:35:57.000+08:00"
+        "title": "中秋国庆假期全国铁路发送旅客3.02亿人次",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709720.shtml",
+        "publishedAt": "2026-10-09T16:49:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T16:50:11.958+08:00",
+    "fetchedAt": "2026-10-09T17:00:03.148+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T16:50:15.948+08:00",
+      "fetchedAt": "2026-10-09T17:00:07.600+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 88,
-          "resetAt": "2026-10-09T19:09:40.000+08:00"
+          "usedPct": 95,
+          "resetAt": "2026-10-09T19:09:39.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 39,
+          "usedPct": 40,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T16:50:16.192+08:00",
+      "fetchedAt": "2026-10-09T17:00:07.869+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T16:50:16.196+08:00",
+      "fetchedAt": "2026-10-09T17:00:07.878+08:00",
       "error": null
     }
   }
