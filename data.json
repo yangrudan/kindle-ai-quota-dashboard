@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T16:30:13.929+08:00",
+  "updatedAt": "2026-10-09T16:40:17.571+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T16:30:13.929+08:00",
+    "fetchedAt": "2026-10-09T16:40:17.571+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "直播海报：从一米窄轨到朝发夕至 两条铁路见证百年澜湄情谊",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709700.shtml",
-        "publishedAt": "2026-10-09T16:22:18.000+08:00"
+        "title": "湖北宜昌全力护航三峡水运新通道建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709631.shtml",
+        "publishedAt": "2026-10-09T16:30:35.000+08:00"
       },
       {
-        "title": "全国铁路中秋国庆假期运输发送旅客3.02亿人次 同比增长24.6%",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-09/1207309.shtml",
-        "publishedAt": "2026-10-09T16:18:33.000+08:00"
+        "title": "社科青年重走长征路：百色·薪火",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709711.shtml",
+        "publishedAt": "2026-10-09T16:30:09.000+08:00"
       },
       {
-        "title": "秋色未央冰雪可期！黑龙江伊春将迎高铁通车后首个完整冰雪季",
-        "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-09/news1071309.shtml",
-        "publishedAt": "2026-10-09T16:16:16.000+08:00"
+        "title": "“丝路百城传”之《法兰克福传》新书首发式在法兰克福举行",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-09/10709705.shtml",
+        "publishedAt": "2026-10-09T16:29:57.000+08:00"
       },
       {
-        "title": "湖北宜城烟花爆燃事故调查报告公布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709692.shtml",
-        "publishedAt": "2026-10-09T16:14:44.000+08:00"
+        "title": "国庆假期结束，大家记住了一群新疆娃娃",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709708.shtml",
+        "publishedAt": "2026-10-09T16:28:21.000+08:00"
       },
       {
-        "title": "博茨瓦纳总统博科将访华 中方介绍此访安排和期待",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709663.shtml",
-        "publishedAt": "2026-10-09T16:11:48.000+08:00"
+        "title": "泰国泰丝吸引各国游客",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-09/1207313.shtml",
+        "publishedAt": "2026-10-09T16:25:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T16:30:05.574+08:00",
+    "fetchedAt": "2026-10-09T16:40:12.212+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T16:30:11.857+08:00",
+      "fetchedAt": "2026-10-09T16:40:16.468+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 78,
-          "resetAt": "2026-10-09T19:09:40.000+08:00"
+          "usedPct": 88,
+          "resetAt": "2026-10-09T19:09:39.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 37,
+          "usedPct": 39,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T16:30:12.117+08:00",
+      "fetchedAt": "2026-10-09T16:40:16.720+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T16:30:12.133+08:00",
+      "fetchedAt": "2026-10-09T16:40:16.725+08:00",
       "error": null
     }
   }
