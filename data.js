@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T21:20:40.488+08:00",
+  "updatedAt": "2026-10-09T21:30:39.285+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.7,
+    "tempC": 19.6,
     "feelsLikeC": 21.1,
     "humidity": 82,
-    "windKph": 5.4,
+    "windKph": 5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-09T21:20:40.488+08:00",
+    "observedAt": "2026-10-09T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-09T21:30:39.285+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026年环崇明岛国际自行车联盟女子公路世巡赛开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709879.shtml",
+        "publishedAt": "2026-10-09T21:20:11.000+08:00"
+      },
+      {
+        "title": "中国财政政策展望：重点做好六大工作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709912.shtml",
+        "publishedAt": "2026-10-09T21:18:40.000+08:00"
+      },
+      {
+        "title": "热评丨文化IP持续出圈激发经济新动能",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-09/10709916.shtml",
+        "publishedAt": "2026-10-09T21:17:52.000+08:00"
+      },
+      {
+        "title": "晒秋“晒”出好日子（“三农”观察）",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-09/10709915.shtml",
+        "publishedAt": "2026-10-09T21:16:00.000+08:00"
+      },
+      {
         "title": "第17批中国援尼泊尔医疗队开展惠侨援尼义诊",
         "url": "https://www.chinanews.com.cn/hr/2026/10-09/10709880.shtml",
         "publishedAt": "2026-10-09T21:09:08.000+08:00"
-      },
-      {
-        "title": "重庆商业投资集团有限公司原董事长范光明被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709904.shtml",
-        "publishedAt": "2026-10-09T21:05:12.000+08:00"
-      },
-      {
-        "title": "河南郑州：陇海铁路二阶段集中修全面启动",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709890.shtml",
-        "publishedAt": "2026-10-09T21:02:08.000+08:00"
-      },
-      {
-        "title": "湖南永州官方回应商务局干部相关网络举报",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709883.shtml",
-        "publishedAt": "2026-10-09T21:01:58.000+08:00"
-      },
-      {
-        "title": "中国科学院院长会见美国国家科学院院长 推动双方交流合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709875.shtml",
-        "publishedAt": "2026-10-09T21:00:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T21:20:03.670+08:00",
+    "fetchedAt": "2026-10-09T21:30:04.680+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T21:20:37.958+08:00",
+      "fetchedAt": "2026-10-09T21:30:38.017+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-10-10T00:32:13.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T21:20:38.316+08:00",
+      "fetchedAt": "2026-10-09T21:30:38.421+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T21:20:38.320+08:00",
+      "fetchedAt": "2026-10-09T21:30:38.430+08:00",
       "error": null
     }
   }
