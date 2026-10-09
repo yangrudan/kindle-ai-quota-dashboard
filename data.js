@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T18:00:10.575+08:00",
+  "updatedAt": "2026-10-09T18:10:39.420+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-09T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T18:00:10.575+08:00",
+    "fetchedAt": "2026-10-09T18:10:39.421+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "汇聚统战力量 江西安福藏香猪“拱”出共富路",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709773.shtml",
+        "publishedAt": "2026-10-09T18:03:58.000+08:00"
+      },
+      {
+        "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709782.shtml",
+        "publishedAt": "2026-10-09T18:01:54.000+08:00"
+      },
+      {
+        "title": "权益类基金成立门槛拟降至5000万元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709781.shtml",
+        "publishedAt": "2026-10-09T18:00:24.000+08:00"
+      },
+      {
         "title": "王毅会见太平洋岛国政治家联合考察团",
         "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709769.shtml",
         "publishedAt": "2026-10-09T17:57:42.000+08:00"
       },
       {
-        "title": "四川省林业和草原局原副局长宾军宜被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709770.shtml",
-        "publishedAt": "2026-10-09T17:49:33.000+08:00"
-      },
-      {
-        "title": "广西壮族自治区计划生育协会原常务副会长苏英权被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709768.shtml",
-        "publishedAt": "2026-10-09T17:48:19.000+08:00"
-      },
-      {
-        "title": "广东省纪委监委驻省能源集团有限公司纪检监察组原组长李辉被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709766.shtml",
-        "publishedAt": "2026-10-09T17:47:05.000+08:00"
-      },
-      {
-        "title": "浙江义乌铁路新站房启用 年可发送旅客3000万人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709771.shtml",
-        "publishedAt": "2026-10-09T17:44:25.000+08:00"
+        "title": "广东省能源集团原纪委书记李辉接受纪律审查和监察调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709772.shtml",
+        "publishedAt": "2026-10-09T17:57:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T18:00:04.920+08:00",
+    "fetchedAt": "2026-10-09T18:10:04.832+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T18:00:08.821+08:00",
+      "fetchedAt": "2026-10-09T18:10:38.148+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T18:00:09.404+08:00",
+      "fetchedAt": "2026-10-09T18:10:38.526+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T18:00:09.413+08:00",
+      "fetchedAt": "2026-10-09T18:10:38.532+08:00",
       "error": null
     }
   }
