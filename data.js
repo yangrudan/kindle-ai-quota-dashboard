@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T09:40:17.200+08:00",
+  "updatedAt": "2026-10-09T09:50:07.541+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22,
-    "feelsLikeC": 23.7,
-    "humidity": 64,
-    "windKph": 2.1,
+    "tempC": 22.4,
+    "feelsLikeC": 24.2,
+    "humidity": 62,
+    "windKph": 2.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-09T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T09:40:17.200+08:00",
+    "observedAt": "2026-10-09T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-09T09:50:07.542+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "10月9日人民币对美元中间价报6.7330 上调37个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709469.shtml",
+        "publishedAt": "2026-10-09T09:42:51.000+08:00"
+      },
+      {
+        "title": "海南万宁启动防汛防风Ⅱ级应急响应 全市中小学今日停课半天",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709466.shtml",
+        "publishedAt": "2026-10-09T09:39:17.000+08:00"
+      },
+      {
+        "title": "海南国庆假期文旅市场烟火气与潮流感交织",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709464.shtml",
+        "publishedAt": "2026-10-09T09:38:00.000+08:00"
+      },
+      {
+        "title": "鄂州花湖机场北区公共国际货站首次保障超长货物",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709470.shtml",
+        "publishedAt": "2026-10-09T09:34:48.000+08:00"
+      },
+      {
         "title": "中央政法委发布2026年第三季度见义勇为勇士榜 79人上榜",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709462.shtml",
         "publishedAt": "2026-10-09T09:30:18.000+08:00"
-      },
-      {
-        "title": "分贝不高却来源分散，如此噪声如何治理",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709463.shtml",
-        "publishedAt": "2026-10-09T09:18:43.000+08:00"
-      },
-      {
-        "title": "海南岛强降雨还将持续 华西地区多阴雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709461.shtml",
-        "publishedAt": "2026-10-09T09:14:39.000+08:00"
-      },
-      {
-        "title": "三部门联合印发《农业品牌保护专项行动实施方案（2026—2027年）》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709460.shtml",
-        "publishedAt": "2026-10-09T09:11:39.000+08:00"
-      },
-      {
-        "title": "中东部大部天气晴好昼夜温差增大 后天起冷空气携降雨降温来袭",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709459.shtml",
-        "publishedAt": "2026-10-09T09:09:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T09:40:12.781+08:00",
+    "fetchedAt": "2026-10-09T09:50:03.271+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T09:40:15.826+08:00",
+      "fetchedAt": "2026-10-09T09:50:06.086+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 10,
           "resetAt": "2026-10-09T14:06:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 17,
+          "usedPct": 18,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T09:40:16.155+08:00",
+      "fetchedAt": "2026-10-09T09:50:06.402+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T09:40:14.258+08:00",
+      "fetchedAt": "2026-10-09T09:50:04.736+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T09:40:16.165+08:00",
+      "fetchedAt": "2026-10-09T09:50:06.407+08:00",
       "error": null
     }
   }
