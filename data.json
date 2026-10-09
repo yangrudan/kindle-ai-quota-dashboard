@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T10:50:08.062+08:00",
+  "updatedAt": "2026-10-09T11:00:09.107+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.8,
-    "feelsLikeC": 26,
-    "humidity": 56,
-    "windKph": 3.8,
+    "tempC": 24,
+    "feelsLikeC": 26.2,
+    "humidity": 55,
+    "windKph": 4.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T10:50:08.063+08:00",
+    "observedAt": "2026-10-09T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T11:00:09.107+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "金观平：上下协同稳投资要把握三个维度",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-09/10709510.shtml",
+        "publishedAt": "2026-10-09T10:52:23.000+08:00"
+      },
+      {
+        "title": "好评中国｜AI漫评：假日消费红火升腾，“流动中国”奋楫向前",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-09/10709506.shtml",
+        "publishedAt": "2026-10-09T10:50:30.000+08:00"
+      },
       {
         "title": "寒露节气田间地头好“丰”光 多地将特色农业资源转化为文旅消费优势",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709505.shtml",
@@ -33,19 +43,9 @@
         "title": "伊朗拒绝放弃铀浓缩 特朗普称美中期选举前不会攻击伊朗",
         "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709492.shtml",
         "publishedAt": "2026-10-09T10:45:40.000+08:00"
-      },
-      {
-        "title": "“新时代中国与世界”主题研讨暨多语种新书发布会在法兰克福举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709490.shtml",
-        "publishedAt": "2026-10-09T10:45:10.000+08:00"
-      },
-      {
-        "title": "电力数据看消费：景区亮、文博热、民宿火、车流密",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709504.shtml",
-        "publishedAt": "2026-10-09T10:45:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T10:50:03.841+08:00",
+    "fetchedAt": "2026-10-09T11:00:04.455+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T10:50:06.863+08:00",
+      "fetchedAt": "2026-10-09T11:00:07.859+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T10:50:07.124+08:00",
+      "fetchedAt": "2026-10-09T11:00:08.136+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T10:50:05.336+08:00",
+      "fetchedAt": "2026-10-09T11:00:06.186+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T10:50:07.133+08:00",
+      "fetchedAt": "2026-10-09T11:00:08.146+08:00",
       "error": null
     }
   }
