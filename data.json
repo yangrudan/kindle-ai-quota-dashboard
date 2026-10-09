@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T23:00:10.736+08:00",
+  "updatedAt": "2026-10-09T23:10:08.852+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-09T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T23:00:10.737+08:00",
+    "fetchedAt": "2026-10-09T23:10:08.852+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "WTT中国大满贯赛：王曼昱女双、女单双线晋级",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709956.shtml",
+        "publishedAt": "2026-10-09T23:03:14.000+08:00"
+      },
+      {
+        "title": "（经济观察）发展新质生产力 中国明确企业做创新主角",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709953.shtml",
+        "publishedAt": "2026-10-09T23:00:52.000+08:00"
+      },
       {
         "title": "马来西亚明年拟将最低月工资提高17.6%",
         "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709954.shtml",
@@ -33,19 +43,9 @@
         "title": "谌贻琴在会见第20届亚运会中国体育代表团时强调 戒骄戒躁 再接再厉 扎实推进洛杉矶奥运会备战工作",
         "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709952.shtml",
         "publishedAt": "2026-10-09T22:26:38.000+08:00"
-      },
-      {
-        "title": "马来西亚拟优化全球服务枢纽税收优惠 企业所得税率低至5%",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709950.shtml",
-        "publishedAt": "2026-10-09T22:20:46.000+08:00"
-      },
-      {
-        "title": "CBA季前赛汕头站：广州队不敌天津队",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709939.shtml",
-        "publishedAt": "2026-10-09T22:20:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T23:00:04.624+08:00",
+    "fetchedAt": "2026-10-09T23:10:03.190+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T23:00:09.451+08:00",
+      "fetchedAt": "2026-10-09T23:10:07.620+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T23:00:09.801+08:00",
+      "fetchedAt": "2026-10-09T23:10:07.947+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T23:00:09.810+08:00",
+      "fetchedAt": "2026-10-09T23:10:07.955+08:00",
       "error": null
     }
   }
