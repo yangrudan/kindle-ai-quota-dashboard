@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T12:50:07.022+08:00",
+  "updatedAt": "2026-10-09T13:00:16.083+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.1,
-    "feelsLikeC": 26.8,
-    "humidity": 51,
-    "windKph": 6.5,
+    "tempC": 25.2,
+    "feelsLikeC": 26.7,
+    "humidity": 50,
+    "windKph": 6.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T12:50:07.022+08:00",
+    "observedAt": "2026-10-09T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T13:00:16.083+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "今年国庆假期5.3万余人次旅客经福建口岸往来两岸",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709563.shtml",
+        "publishedAt": "2026-10-09T12:50:57.000+08:00"
+      },
+      {
+        "title": "超长部署300多天，美国“林肯”号航母返回圣迭戈母港",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709561.shtml",
+        "publishedAt": "2026-10-09T12:49:07.000+08:00"
+      },
+      {
+        "title": "男子外出眼睛扎入近100根细刺 秋季大风中藏着这种“刺客”→",
+        "url": "https://www.chinanews.com.cn/life/2026/10-09/10709566.shtml",
+        "publishedAt": "2026-10-09T12:47:15.000+08:00"
+      },
       {
         "title": "别跑空！新疆多家景区季节性停运、调整开放时间",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709565.shtml",
@@ -28,24 +43,9 @@
         "title": "多只银行股创历史新高 透露哪些投资信号？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709562.shtml",
         "publishedAt": "2026-10-09T12:22:31.000+08:00"
-      },
-      {
-        "title": "品边地风情学非遗技艺 云南边境小城“慢游”走热",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709557.shtml",
-        "publishedAt": "2026-10-09T12:10:39.000+08:00"
-      },
-      {
-        "title": "AI短剧里爆火的“吃了不烧心”，真的是好食材的标志吗？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-09/10709560.shtml",
-        "publishedAt": "2026-10-09T12:08:25.000+08:00"
-      },
-      {
-        "title": "部分地区停课！红色预警！海南局地特大暴雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709559.shtml",
-        "publishedAt": "2026-10-09T12:05:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T12:50:02.923+08:00",
+    "fetchedAt": "2026-10-09T13:00:05.721+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T12:50:05.871+08:00",
+      "fetchedAt": "2026-10-09T13:00:10.623+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 46,
+          "usedPct": 47,
           "resetAt": "2026-10-09T14:06:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 23,
+          "usedPct": 24,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T12:50:06.150+08:00",
+      "fetchedAt": "2026-10-09T13:00:10.962+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T12:50:04.357+08:00",
+      "fetchedAt": "2026-10-09T13:00:08.623+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T12:50:06.156+08:00",
+      "fetchedAt": "2026-10-09T13:00:10.972+08:00",
       "error": null
     }
   }
