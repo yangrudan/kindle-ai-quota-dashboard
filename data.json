@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T06:30:09.395+08:00",
+  "updatedAt": "2026-10-10T06:40:07.863+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-10T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T06:30:09.395+08:00",
+    "fetchedAt": "2026-10-10T06:40:07.863+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "巴拿马发生强震 我使馆提醒在巴中国公民防范地震灾害",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709963.shtml",
+        "publishedAt": "2026-10-10T06:35:11.000+08:00"
+      },
       {
         "title": "这个很多人晚上都在做的事，正在加速牙齿老化！还可能会变丑！",
         "url": "https://www.chinanews.com.cn/life/2026/10-09/10709962.shtml",
@@ -38,14 +43,9 @@
         "title": "独联体国家元首理事会会议在土库曼斯坦举行",
         "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709959.shtml",
         "publishedAt": "2026-10-09T23:32:16.000+08:00"
-      },
-      {
-        "title": "第35届飞天奖揭晓 宋佳同一角色集齐三大奖",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709958.shtml",
-        "publishedAt": "2026-10-09T23:17:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T06:30:03.684+08:00",
+    "fetchedAt": "2026-10-10T06:40:02.785+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T06:30:08.008+08:00",
+      "fetchedAt": "2026-10-10T06:40:06.650+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-10T11:30:09.000+08:00"
+          "resetAt": "2026-10-10T11:40:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T06:30:08.326+08:00",
+      "fetchedAt": "2026-10-10T06:40:06.898+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T06:30:08.335+08:00",
+      "fetchedAt": "2026-10-10T06:40:06.925+08:00",
       "error": null
     }
   }
