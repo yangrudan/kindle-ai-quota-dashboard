@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T10:00:16.738+08:00",
+  "updatedAt": "2026-10-09T10:10:07.538+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.4,
-    "feelsLikeC": 24.2,
-    "humidity": 62,
-    "windKph": 2.6,
-    "windDir": "东南风",
+    "tempC": 22.8,
+    "feelsLikeC": 24.7,
+    "humidity": 61,
+    "windKph": 2.9,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T10:00:16.739+08:00",
+    "observedAt": "2026-10-09T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T10:10:07.538+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家统计局：9月下旬生猪（外三元）价格环比下降3.7%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709474.shtml",
+        "publishedAt": "2026-10-09T10:00:52.000+08:00"
+      },
       {
         "title": "平均54秒一趟车 国庆高铁织就流动消费图景",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709475.shtml",
@@ -38,14 +43,9 @@
         "title": "海南国庆假期文旅市场烟火气与潮流感交织",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709464.shtml",
         "publishedAt": "2026-10-09T09:38:00.000+08:00"
-      },
-      {
-        "title": "鄂州花湖机场北区公共国际货站首次保障超长货物",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709470.shtml",
-        "publishedAt": "2026-10-09T09:34:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T10:00:12.362+08:00",
+    "fetchedAt": "2026-10-09T10:10:03.296+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T10:00:15.509+08:00",
+      "fetchedAt": "2026-10-09T10:10:06.250+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
+          "usedPct": 16,
           "resetAt": "2026-10-09T14:06:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 18,
+          "usedPct": 19,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T10:00:15.813+08:00",
+      "fetchedAt": "2026-10-09T10:10:06.625+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T10:00:13.811+08:00",
+      "fetchedAt": "2026-10-09T10:10:04.962+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T10:00:15.822+08:00",
+      "fetchedAt": "2026-10-09T10:10:06.628+08:00",
       "error": null
     }
   }
