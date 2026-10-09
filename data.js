@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T20:30:10.056+08:00",
+  "updatedAt": "2026-10-09T20:40:10.851+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T20:30:10.057+08:00",
+    "fetchedAt": "2026-10-09T20:40:10.851+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "广东力争到2028年人形机器人年产量突破8万台",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709876.shtml",
+        "publishedAt": "2026-10-09T20:35:14.000+08:00"
+      },
+      {
+        "title": "侨乡变迁主题书画摄影作品展南宁举行 展现广西侨乡巨变",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709872.shtml",
+        "publishedAt": "2026-10-09T20:33:02.000+08:00"
+      },
+      {
+        "title": "超强厄尔尼诺事件形成 今年秋末冬初或达峰值",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709856.shtml",
+        "publishedAt": "2026-10-09T20:27:54.000+08:00"
+      },
+      {
+        "title": "划重点！《中共中央 国务院关于发展新质生产力的意见》极简版来了",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709857.shtml",
+        "publishedAt": "2026-10-09T20:27:52.000+08:00"
+      },
+      {
         "title": "“印记北京中轴线 —— 大众篆刻作品展” 亮相南京",
         "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709852.shtml",
         "publishedAt": "2026-10-09T20:23:49.000+08:00"
-      },
-      {
-        "title": "河北曹妃甸：35万亩盐田迎丰收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709851.shtml",
-        "publishedAt": "2026-10-09T20:23:17.000+08:00"
-      },
-      {
-        "title": "广东省第八届民族传统体育运动会11月举行 参与人数为历届之最",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709844.shtml",
-        "publishedAt": "2026-10-09T20:23:17.000+08:00"
-      },
-      {
-        "title": "2026年全国“四季村歌”示范活动在山东青岛举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709843.shtml",
-        "publishedAt": "2026-10-09T20:23:05.000+08:00"
-      },
-      {
-        "title": "中国官方连打“虎” 连辑、丁业现分别被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709855.shtml",
-        "publishedAt": "2026-10-09T20:22:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T20:30:04.900+08:00",
+    "fetchedAt": "2026-10-09T20:40:04.458+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T20:30:08.756+08:00",
+      "fetchedAt": "2026-10-09T20:40:08.652+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T20:30:09.061+08:00",
+      "fetchedAt": "2026-10-09T20:40:09.118+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T20:30:09.071+08:00",
+      "fetchedAt": "2026-10-09T20:40:09.126+08:00",
       "error": null
     }
   }
