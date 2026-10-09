@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T21:10:10.741+08:00",
+  "updatedAt": "2026-10-09T21:20:40.488+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.8,
+    "tempC": 19.7,
     "feelsLikeC": 21.1,
-    "humidity": 81,
-    "windKph": 6,
+    "humidity": 82,
+    "windKph": 5.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T21:10:10.741+08:00",
+    "observedAt": "2026-10-09T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-09T21:20:40.488+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第17批中国援尼泊尔医疗队开展惠侨援尼义诊",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-09/10709880.shtml",
+        "publishedAt": "2026-10-09T21:09:08.000+08:00"
+      },
+      {
+        "title": "重庆商业投资集团有限公司原董事长范光明被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709904.shtml",
+        "publishedAt": "2026-10-09T21:05:12.000+08:00"
+      },
       {
         "title": "河南郑州：陇海铁路二阶段集中修全面启动",
         "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709890.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国科学院院长会见美国国家科学院院长 推动双方交流合作",
         "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709875.shtml",
         "publishedAt": "2026-10-09T21:00:37.000+08:00"
-      },
-      {
-        "title": "多国专家在“锂都”江西新余畅谈未来锂电产业发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709892.shtml",
-        "publishedAt": "2026-10-09T20:59:33.000+08:00"
-      },
-      {
-        "title": "胰头癌发病隐匿 专家：皮肤、眼白发黄等需特别警惕",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-09/10709895.shtml",
-        "publishedAt": "2026-10-09T20:58:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T21:10:04.520+08:00",
+    "fetchedAt": "2026-10-09T21:20:03.670+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T21:10:09.180+08:00",
+      "fetchedAt": "2026-10-09T21:20:37.958+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T21:10:09.497+08:00",
+      "fetchedAt": "2026-10-09T21:20:38.316+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T21:10:09.500+08:00",
+      "fetchedAt": "2026-10-09T21:20:38.320+08:00",
       "error": null
     }
   }
