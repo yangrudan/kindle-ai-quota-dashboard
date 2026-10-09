@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T08:50:08.830+08:00",
+  "updatedAt": "2026-10-09T09:00:08.655+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.6,
-    "feelsLikeC": 22,
-    "humidity": 70,
-    "windKph": 1.2,
+    "tempC": 21.1,
+    "feelsLikeC": 22.5,
+    "humidity": 68,
+    "windKph": 1.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-09T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T08:50:08.830+08:00",
+    "observedAt": "2026-10-09T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T09:00:08.655+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-10-09T08:18:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T08:50:03.459+08:00",
+    "fetchedAt": "2026-10-09T09:00:03.749+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T08:50:07.692+08:00",
+      "fetchedAt": "2026-10-09T09:00:07.511+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-09T13:50:08.000+08:00"
+          "resetAt": "2026-10-09T14:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T08:50:07.966+08:00",
+      "fetchedAt": "2026-10-09T09:00:07.751+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T08:50:05.720+08:00",
+      "fetchedAt": "2026-10-09T09:00:06.010+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T08:50:07.969+08:00",
+      "fetchedAt": "2026-10-09T09:00:07.760+08:00",
       "error": null
     }
   }
