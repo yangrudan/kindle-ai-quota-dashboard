@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T13:40:08.446+08:00",
+  "updatedAt": "2026-10-09T13:50:10.102+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.3,
-    "feelsLikeC": 26.6,
-    "humidity": 49,
-    "windKph": 6.3,
+    "tempC": 25.4,
+    "feelsLikeC": 26.5,
+    "humidity": 48,
+    "windKph": 5.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T13:40:08.446+08:00",
+    "observedAt": "2026-10-09T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-09T13:50:10.102+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "东兴海关关于开展2026年10月份“关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-09/10709589.shtml",
+        "publishedAt": "2026-10-09T13:42:28.000+08:00"
+      },
       {
         "title": "菲律宾：塔阿尔火山喷发 多个市镇将现火山灰沉降",
         "url": "http://www.chinanews.com.cn/gj/shipin/2026/10-09/news1071280.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "超长部署300多天，美国“林肯”号航母返回圣迭戈母港",
         "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709561.shtml",
         "publishedAt": "2026-10-09T12:49:07.000+08:00"
-      },
-      {
-        "title": "男子外出眼睛扎入近100根细刺 秋季大风中藏着这种“刺客”→",
-        "url": "https://www.chinanews.com.cn/life/2026/10-09/10709566.shtml",
-        "publishedAt": "2026-10-09T12:47:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T13:40:03.264+08:00",
+    "fetchedAt": "2026-10-09T13:50:02.450+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T13:40:07.360+08:00",
+      "fetchedAt": "2026-10-09T13:50:05.455+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T13:40:07.621+08:00",
+      "fetchedAt": "2026-10-09T13:50:05.685+08:00",
       "error": null
     },
     "mimo": {
@@ -87,7 +87,7 @@ window.DASH_DATA = {
       "balance": 20.47,
       "currency": "CNY",
       "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T13:40:05.512+08:00",
+      "fetchedAt": "2026-10-09T13:50:04.130+08:00",
       "stale": false,
       "error": null
     },
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T13:40:07.627+08:00",
+      "fetchedAt": "2026-10-09T13:50:05.696+08:00",
       "error": null
     }
   }
