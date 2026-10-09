@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T19:30:39.067+08:00",
+  "updatedAt": "2026-10-09T19:40:09.261+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T19:30:39.067+08:00",
+    "fetchedAt": "2026-10-09T19:40:09.261+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "青年“入田”，一所农业大学与“齐鲁粮仓”的双向奔赴",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709832.shtml",
+        "publishedAt": "2026-10-09T19:31:09.000+08:00"
+      },
       {
         "title": "一群浙江商人与一座内蒙古小城的40年",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709813.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "超3500家中外展商将齐聚南京 第115届全国糖酒会开幕在即",
         "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709810.shtml",
         "publishedAt": "2026-10-09T19:24:32.000+08:00"
-      },
-      {
-        "title": "中欧贸易投资磋商机制第二次例会联合声明",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709829.shtml",
-        "publishedAt": "2026-10-09T19:19:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T19:30:04.393+08:00",
+    "fetchedAt": "2026-10-09T19:40:03.521+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T19:30:37.859+08:00",
+      "fetchedAt": "2026-10-09T19:40:08.083+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-10T00:30:38.000+08:00"
+          "usedPct": 3,
+          "resetAt": "2026-10-10T00:32:13.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T19:30:38.142+08:00",
+      "fetchedAt": "2026-10-09T19:40:08.323+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T19:30:38.151+08:00",
+      "fetchedAt": "2026-10-09T19:40:08.326+08:00",
       "error": null
     }
   }
