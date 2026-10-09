@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T22:00:41.596+08:00",
+  "updatedAt": "2026-10-09T22:10:37.952+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-09T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-09T22:00:41.597+08:00",
+    "fetchedAt": "2026-10-09T22:10:37.953+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广州“陆海空”“芯显药”六大赛道总产值超万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709903.shtml",
-        "publishedAt": "2026-10-09T21:50:08.000+08:00"
+        "title": "中国官方：推动中医药国际合作更加贴近各国卫生健康需求",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-09/10709927.shtml",
+        "publishedAt": "2026-10-09T22:05:25.000+08:00"
       },
       {
-        "title": "四川自贡至重庆永川高速公路四川段进入路面工程施工阶段",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709902.shtml",
-        "publishedAt": "2026-10-09T21:50:00.000+08:00"
+        "title": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709942.shtml",
+        "publishedAt": "2026-10-09T22:04:15.000+08:00"
       },
       {
-        "title": "黑龙江省推进“人工智能+普法”应用 推动法治精神浸润生活日常",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709901.shtml",
-        "publishedAt": "2026-10-09T21:49:08.000+08:00"
+        "title": "（八闽千姿）畲族服饰传承人的针线人生 一针一线绣“凤凰”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709926.shtml",
+        "publishedAt": "2026-10-09T22:03:55.000+08:00"
       },
       {
-        "title": "云南推进工会工作法治化 三年为职工挽回直接经济损失超1.6亿元",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709900.shtml",
-        "publishedAt": "2026-10-09T21:49:02.000+08:00"
+        "title": "何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709929.shtml",
+        "publishedAt": "2026-10-09T22:03:11.000+08:00"
       },
       {
-        "title": "郑州新郑综合保税区扩区项目通过联合验收",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709897.shtml",
-        "publishedAt": "2026-10-09T21:48:00.000+08:00"
+        "title": "上海网球大师赛：吴易昺不敌兹维列夫 德约科维奇爆冷出局",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709925.shtml",
+        "publishedAt": "2026-10-09T22:03:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T22:00:04.551+08:00",
+    "fetchedAt": "2026-10-09T22:10:03.004+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T22:00:39.314+08:00",
+      "fetchedAt": "2026-10-09T22:10:36.069+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T22:00:39.595+08:00",
+      "fetchedAt": "2026-10-09T22:10:36.315+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T22:00:39.602+08:00",
+      "fetchedAt": "2026-10-09T22:10:36.323+08:00",
       "error": null
     }
   }
