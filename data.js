@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-09T23:40:09.263+08:00",
+  "updatedAt": "2026-10-09T23:50:10.516+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 19.2,
     "feelsLikeC": 21.1,
     "humidity": 83,
-    "windKph": 1.6,
-    "windDir": "东风",
+    "windKph": 1,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-09T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T23:40:09.263+08:00",
+    "observedAt": "2026-10-09T23:45:00.000+08:00",
+    "fetchedAt": "2026-10-09T23:50:10.516+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国际刑事法院强烈反对美国制裁 呼吁成员国支持其运作",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709960.shtml",
+        "publishedAt": "2026-10-09T23:36:12.000+08:00"
+      },
+      {
+        "title": "独联体国家元首理事会会议在土库曼斯坦举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709959.shtml",
+        "publishedAt": "2026-10-09T23:32:16.000+08:00"
+      },
       {
         "title": "第35届飞天奖揭晓 宋佳同一角色集齐三大奖",
         "url": "https://www.chinanews.com.cn/cul/2026/10-09/10709958.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（经济观察）发展新质生产力 中国明确企业做创新主角",
         "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709953.shtml",
         "publishedAt": "2026-10-09T23:00:52.000+08:00"
-      },
-      {
-        "title": "马来西亚明年拟将最低月工资提高17.6%",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709954.shtml",
-        "publishedAt": "2026-10-09T22:56:56.000+08:00"
-      },
-      {
-        "title": "伊朗革命卫队：加剧地区海上运输紧张局势的责任在美军",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709955.shtml",
-        "publishedAt": "2026-10-09T22:52:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T23:40:03.044+08:00",
+    "fetchedAt": "2026-10-09T23:50:03.806+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T23:40:07.571+08:00",
+      "fetchedAt": "2026-10-09T23:50:08.115+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T23:40:07.946+08:00",
+      "fetchedAt": "2026-10-09T23:50:08.420+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T23:40:07.955+08:00",
+      "fetchedAt": "2026-10-09T23:50:08.430+08:00",
       "error": null
     }
   }
