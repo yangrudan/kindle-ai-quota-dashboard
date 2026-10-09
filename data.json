@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T17:40:09.486+08:00",
+  "updatedAt": "2026-10-09T17:50:07.962+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.5,
-    "feelsLikeC": 24.8,
-    "humidity": 63,
-    "windKph": 4.7,
+    "tempC": 22.9,
+    "feelsLikeC": 23.7,
+    "humidity": 64,
+    "windKph": 7.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-09T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-09T17:40:09.487+08:00",
+    "observedAt": "2026-10-09T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-09T17:50:07.962+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东：到2030年全省竹产业总产值达500亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709763.shtml",
-        "publishedAt": "2026-10-09T17:28:08.000+08:00"
+        "title": "广东省纪委监委驻省能源集团有限公司纪检监察组原组长李辉被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709766.shtml",
+        "publishedAt": "2026-10-09T17:47:05.000+08:00"
       },
       {
-        "title": "“今日中国法兰克福会客厅”成立",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709746.shtml",
-        "publishedAt": "2026-10-09T17:23:22.000+08:00"
+        "title": "浙江义乌铁路新站房启用 年可发送旅客3000万人次",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709771.shtml",
+        "publishedAt": "2026-10-09T17:44:25.000+08:00"
       },
       {
-        "title": "从“要我创新”到“我要创新” 山西“十五五”激发企业创新活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709764.shtml",
-        "publishedAt": "2026-10-09T17:21:56.000+08:00"
+        "title": "河北泊头：大运河畔山楂红",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709730.shtml",
+        "publishedAt": "2026-10-09T17:43:53.000+08:00"
       },
       {
-        "title": "重庆李子坝单轨穿楼 中外游客解锁趣味打卡新姿势",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-09/10709732.shtml",
-        "publishedAt": "2026-10-09T17:20:50.000+08:00"
+        "title": "云岭动态第十四期",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709765.shtml",
+        "publishedAt": "2026-10-09T17:41:55.000+08:00"
       },
       {
-        "title": "直播海报：长征路上学党史 | 在“红飘带”起点 追忆峥嵘寻初心",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709761.shtml",
-        "publishedAt": "2026-10-09T17:19:46.000+08:00"
+        "title": "行走思政课 研学促交融——曲靖市会泽县各族青少年赴普洱参加交流活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-09/10709753.shtml",
+        "publishedAt": "2026-10-09T17:40:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T17:40:03.891+08:00",
+    "fetchedAt": "2026-10-09T17:50:03.296+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T17:40:08.088+08:00",
+      "fetchedAt": "2026-10-09T17:50:06.842+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T17:40:08.546+08:00",
+      "fetchedAt": "2026-10-09T17:50:07.150+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T17:40:08.554+08:00",
+      "fetchedAt": "2026-10-09T17:50:07.154+08:00",
       "error": null
     }
   }
