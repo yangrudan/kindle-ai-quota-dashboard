@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09T18:50:09.086+08:00",
+  "updatedAt": "2026-10-09T19:00:09.529+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.3,
-    "feelsLikeC": 21.6,
-    "humidity": 70,
+    "tempC": 21,
+    "feelsLikeC": 21.3,
+    "humidity": 72,
     "windKph": 11.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-09T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-09T18:50:09.087+08:00",
+    "observedAt": "2026-10-09T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-09T19:00:09.529+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国网球公开赛：郑钦文晋级女单四强 追平最佳战绩",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-09/1207355.shtml",
+        "publishedAt": "2026-10-09T18:47:50.000+08:00"
+      },
+      {
+        "title": "东西问｜拉先加：为什么说活佛转世是佛教传入西藏后本土化、中国化的基本象征？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-09/10709787.shtml",
+        "publishedAt": "2026-10-09T18:46:56.000+08:00"
+      },
       {
         "title": "海峡两岸桥牌邀请赛在福建湄洲岛开赛",
         "url": "https://www.chinanews.com.cn/ty/2026/10-09/10709792.shtml",
@@ -33,19 +43,9 @@
         "title": "台风“诺洛”向西北方向移动 “小熊”加强为强台风级",
         "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709800.shtml",
         "publishedAt": "2026-10-09T18:35:36.000+08:00"
-      },
-      {
-        "title": "地质灾害气象风险预警：海南东南部部分地区风险较高",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709797.shtml",
-        "publishedAt": "2026-10-09T18:32:48.000+08:00"
-      },
-      {
-        "title": "今年前9月黄埔海关中智协定项下享惠进口货值4.8亿元",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-09/10709789.shtml",
-        "publishedAt": "2026-10-09T18:31:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-09T18:50:03.256+08:00",
+    "fetchedAt": "2026-10-09T19:00:04.028+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-09T18:50:07.658+08:00",
+      "fetchedAt": "2026-10-09T19:00:08.471+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-09T18:50:08.177+08:00",
+      "fetchedAt": "2026-10-09T19:00:08.742+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-09T18:50:08.183+08:00",
+      "fetchedAt": "2026-10-09T19:00:08.750+08:00",
       "error": null
     }
   }
