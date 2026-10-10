@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T22:10:08.404+08:00",
+  "updatedAt": "2026-10-10T22:20:39.272+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.9,
-    "feelsLikeC": 21.8,
-    "humidity": 84,
-    "windKph": 4.2,
+    "tempC": 19.8,
+    "feelsLikeC": 21.7,
+    "humidity": 85,
+    "windKph": 4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T22:10:08.404+08:00",
+    "observedAt": "2026-10-10T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-10T22:20:39.272+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "北京着力建设知识产权强国示范城市",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710835.shtml",
-        "publishedAt": "2026-10-10T22:06:40.000+08:00"
+        "title": "\"侨力量·影像云南\"主题摄影展昆明开幕 近百幅影像串联70载侨界历程",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710830.shtml",
+        "publishedAt": "2026-10-10T22:16:48.000+08:00"
       },
       {
-        "title": "河北冀州学生制作90枚模型火箭致敬长征胜利90周年",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710837.shtml",
-        "publishedAt": "2026-10-10T22:05:52.000+08:00"
+        "title": "外交部发言人就巴拿马发生7.6级地震答记者问",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710843.shtml",
+        "publishedAt": "2026-10-10T22:15:18.000+08:00"
       },
       {
-        "title": "服务惠民、文旅旺城、消费增效 机关大院开放解锁了哪些新服务？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710838.shtml",
-        "publishedAt": "2026-10-10T22:04:56.000+08:00"
+        "title": "巴拿马再发地震",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710841.shtml",
+        "publishedAt": "2026-10-10T22:13:20.000+08:00"
       },
       {
-        "title": "政企面对面恳谈 杭州助新兴赛道企业破解“成长的烦恼”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710828.shtml",
-        "publishedAt": "2026-10-10T22:03:44.000+08:00"
+        "title": "昔日长征路 今朝幸福路（赓续长征精神 奋进复兴征程·记者再走长征路）",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710840.shtml",
+        "publishedAt": "2026-10-10T22:12:22.000+08:00"
       },
       {
-        "title": "中外青年走进浙江衢州感受文化传承与基层治理实践",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710832.shtml",
-        "publishedAt": "2026-10-10T22:02:43.000+08:00"
+        "title": "双节消费观察｜智能“上岗”，消费“焕新”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710839.shtml",
+        "publishedAt": "2026-10-10T22:10:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T22:10:03.559+08:00",
+    "fetchedAt": "2026-10-10T22:20:04.090+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T22:10:07.202+08:00",
+      "fetchedAt": "2026-10-10T22:20:38.125+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T03:10:08.000+08:00"
+          "resetAt": "2026-10-11T03:20:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T22:10:07.509+08:00",
+      "fetchedAt": "2026-10-10T22:20:38.389+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T22:10:07.518+08:00",
+      "fetchedAt": "2026-10-10T22:20:38.395+08:00",
       "error": null
     }
   }
