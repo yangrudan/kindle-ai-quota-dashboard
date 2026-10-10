@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T10:50:08.482+08:00",
+  "updatedAt": "2026-10-10T11:00:17.368+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-10T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T10:50:08.482+08:00",
+    "fetchedAt": "2026-10-10T11:00:17.368+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "三峡水运新通道葛洲坝航运扩能主体工程开工",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710077.shtml",
+        "publishedAt": "2026-10-10T10:52:55.000+08:00"
+      },
+      {
+        "title": "澳门特区强烈谴责欧洲议会干预司法",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-10/10710076.shtml",
+        "publishedAt": "2026-10-10T10:49:43.000+08:00"
+      },
       {
         "title": "美国防部称将网上直播枪决胡德堡枪击案凶手 万斯：我不看",
         "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710075.shtml",
@@ -33,19 +43,9 @@
         "title": "被告人痴迷盗墓小说自学盗墓获刑12年",
         "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710074.shtml",
         "publishedAt": "2026-10-10T10:45:41.000+08:00"
-      },
-      {
-        "title": "商务部等7部门部署品质电商“五优”行动",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710065.shtml",
-        "publishedAt": "2026-10-10T10:42:49.000+08:00"
-      },
-      {
-        "title": "中国成功发射卫星互联网低轨27组卫星",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207399.shtml",
-        "publishedAt": "2026-10-10T10:42:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T10:50:03.225+08:00",
+    "fetchedAt": "2026-10-10T11:00:12.257+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T10:50:07.308+08:00",
+      "fetchedAt": "2026-10-10T11:00:16.285+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T10:50:07.563+08:00",
+      "fetchedAt": "2026-10-10T11:00:16.562+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T10:50:07.573+08:00",
+      "fetchedAt": "2026-10-10T11:00:16.571+08:00",
       "error": null
     }
   }
