@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T18:50:09.861+08:00",
+  "updatedAt": "2026-10-10T19:00:08.222+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-10T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T18:50:09.861+08:00",
+    "fetchedAt": "2026-10-10T19:00:08.222+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国官方回应就美团收购麦芽田股权案举行公开听证",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710630.shtml",
+        "publishedAt": "2026-10-10T18:48:43.000+08:00"
+      },
+      {
+        "title": "平安人寿：发挥险资长期投资优势 以耐心资本赋能新质生产力发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710623.shtml",
+        "publishedAt": "2026-10-10T18:48:25.000+08:00"
+      },
       {
         "title": "京医千询通过十门高级卫生专业技术资格考试真题测试",
         "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710622.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "以智造赋能消费升级 长虹美菱探索家电产业数智转型新路径",
         "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710618.shtml",
         "publishedAt": "2026-10-10T18:44:37.000+08:00"
-      },
-      {
-        "title": "第六届中国－太平洋岛国政党对话会举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710614.shtml",
-        "publishedAt": "2026-10-10T18:43:39.000+08:00"
-      },
-      {
-        "title": "上海市宝山区人大常委会原副主任陈江接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710634.shtml",
-        "publishedAt": "2026-10-10T18:41:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T18:50:04.534+08:00",
+    "fetchedAt": "2026-10-10T19:00:03.237+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T18:50:08.575+08:00",
+      "fetchedAt": "2026-10-10T19:00:07.030+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 64,
-          "resetAt": "2026-10-10T18:58:22.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-11T00:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T18:50:08.901+08:00",
+      "fetchedAt": "2026-10-10T19:00:07.346+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T18:50:08.906+08:00",
+      "fetchedAt": "2026-10-10T19:00:07.352+08:00",
       "error": null
     }
   }
