@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T20:30:16.991+08:00",
+  "updatedAt": "2026-10-10T20:40:08.987+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T20:30:16.991+08:00",
+    "fetchedAt": "2026-10-10T20:40:08.987+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "大一统中国如何成型？考古专家解读汉长安城创造系列中国之最",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710722.shtml",
-        "publishedAt": "2026-10-10T20:27:14.000+08:00"
+        "title": "2026武汉网球公开赛挥拍 郑钦文在家乡出战",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710714.shtml",
+        "publishedAt": "2026-10-10T20:32:05.000+08:00"
       },
       {
-        "title": "河北坝上微型薯采收忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710728.shtml",
-        "publishedAt": "2026-10-10T20:26:58.000+08:00"
+        "title": "2026年环崇明岛女子世巡赛：参赛选手迎最长赛段考验",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710713.shtml",
+        "publishedAt": "2026-10-10T20:31:59.000+08:00"
       },
       {
-        "title": "普京向特朗普转达伊朗方面解决冲突构想",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710734.shtml",
-        "publishedAt": "2026-10-10T20:25:56.000+08:00"
+        "title": "江西出台法规促进民营经济发展 突出解决难点堵点问题",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710699.shtml",
+        "publishedAt": "2026-10-10T20:31:45.000+08:00"
       },
       {
-        "title": "重庆持续开展区县标准化精神卫生中心建设 织密心理健康服务网",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710704.shtml",
-        "publishedAt": "2026-10-10T20:24:56.000+08:00"
+        "title": "安徽国元金融控股集团有限公司原党委副书记、总经理吴天被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710726.shtml",
+        "publishedAt": "2026-10-10T20:30:35.000+08:00"
       },
       {
-        "title": "谭丕创任中共南宁市委书记",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710712.shtml",
-        "publishedAt": "2026-10-10T20:24:00.000+08:00"
+        "title": "安徽省水利厅原党组书记、厅长王荣喜被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710725.shtml",
+        "publishedAt": "2026-10-10T20:28:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T20:30:04.295+08:00",
+    "fetchedAt": "2026-10-10T20:40:03.018+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T20:30:15.597+08:00",
+      "fetchedAt": "2026-10-10T20:40:07.522+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T01:30:16.000+08:00"
+          "resetAt": "2026-10-11T01:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T20:30:16.036+08:00",
+      "fetchedAt": "2026-10-10T20:40:07.816+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T20:30:16.044+08:00",
+      "fetchedAt": "2026-10-10T20:40:07.826+08:00",
       "error": null
     }
   }
