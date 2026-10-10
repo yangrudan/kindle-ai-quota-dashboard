@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T07:20:07.982+08:00",
+  "updatedAt": "2026-10-11T07:30:08.805+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.3,
-    "feelsLikeC": 17.6,
-    "humidity": 97,
-    "windKph": 4.3,
+    "tempC": 16.9,
+    "feelsLikeC": 18.5,
+    "humidity": 96,
+    "windKph": 3.7,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-11T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-11T07:20:07.982+08:00",
+    "observedAt": "2026-10-11T07:30:00.000+08:00",
+    "fetchedAt": "2026-10-11T07:30:08.806+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "尚无中国公民伤亡报告 中国驻沙特大使馆公布应急电话",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710866.shtml",
+        "publishedAt": "2026-10-11T07:19:34.000+08:00"
+      },
       {
         "title": "美俄达成能源合作 泽连斯基感到“遭背叛” 美总统建议乌更换领导人",
         "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710865.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "焚烧厂“不够烧”与“堆不下”问题并存，怎么解决？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710862.shtml",
         "publishedAt": "2026-10-11T06:40:30.000+08:00"
-      },
-      {
-        "title": "食品安全法大幅修订回应哪些关切",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710861.shtml",
-        "publishedAt": "2026-10-11T06:35:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T07:20:03.025+08:00",
+    "fetchedAt": "2026-10-11T07:30:03.871+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T07:20:06.837+08:00",
+      "fetchedAt": "2026-10-11T07:30:07.768+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T12:20:07.000+08:00"
+          "resetAt": "2026-10-11T12:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T07:20:07.062+08:00",
+      "fetchedAt": "2026-10-11T07:30:07.999+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T07:20:07.066+08:00",
+      "fetchedAt": "2026-10-11T07:30:08.008+08:00",
       "error": null
     }
   }
