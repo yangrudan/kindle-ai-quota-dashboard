@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T18:30:09.492+08:00",
+  "updatedAt": "2026-10-10T18:40:09.630+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-10T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T18:30:09.492+08:00",
+    "fetchedAt": "2026-10-10T18:40:09.630+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国国防部：愿同美方一道，推动两军关系稳定健康可持续发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710611.shtml",
-        "publishedAt": "2026-10-10T18:23:28.000+08:00"
+        "title": "从四川古窖到伦敦大展，剑南春给世界倒了一杯什么酒？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710617.shtml",
+        "publishedAt": "2026-10-10T18:33:52.000+08:00"
       },
       {
-        "title": "重温楼宇烈先生《我国宗教中国化的三重意涵》",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710615.shtml",
-        "publishedAt": "2026-10-10T18:21:10.000+08:00"
+        "title": "中方将举办联合国维和参谋军官国际培训班",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710613.shtml",
+        "publishedAt": "2026-10-10T18:32:28.000+08:00"
       },
       {
-        "title": "中国国防部：日本“新型军国主义”这头灰犀牛正在变异失控",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710610.shtml",
-        "publishedAt": "2026-10-10T18:19:20.000+08:00"
+        "title": "2026武网签表出炉：郑钦文首轮迎战李吉妮 若晋级次轮将对战萨巴伦卡",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710633.shtml",
+        "publishedAt": "2026-10-10T18:31:00.000+08:00"
       },
       {
-        "title": "“杜立特行动”突袭者后代捐赠文物 寻访父辈上饶记忆",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710608.shtml",
-        "publishedAt": "2026-10-10T18:17:45.000+08:00"
+        "title": "中国与巴基斯坦将举行首次陆军联合训练",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710612.shtml",
+        "publishedAt": "2026-10-10T18:27:14.000+08:00"
       },
       {
-        "title": "中国工艺美术馆龟兹文化艺术展再现丝路风情",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207428.shtml",
-        "publishedAt": "2026-10-10T18:11:30.000+08:00"
+        "title": "国台办评赖清德“双十”讲话：误导民众、用心叵测",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710624.shtml",
+        "publishedAt": "2026-10-10T18:27:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T18:30:04.119+08:00",
+    "fetchedAt": "2026-10-10T18:40:03.968+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T18:30:08.274+08:00",
+      "fetchedAt": "2026-10-10T18:40:08.543+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T18:30:08.602+08:00",
+      "fetchedAt": "2026-10-10T18:40:08.805+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T18:30:08.630+08:00",
+      "fetchedAt": "2026-10-10T18:40:08.814+08:00",
       "error": null
     }
   }
