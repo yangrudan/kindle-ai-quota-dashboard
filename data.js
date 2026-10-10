@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T17:40:08.108+08:00",
+  "updatedAt": "2026-10-10T17:50:08.355+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.6,
-    "feelsLikeC": 25.5,
-    "humidity": 68,
-    "windKph": 4.2,
+    "tempC": 23.1,
+    "feelsLikeC": 25.1,
+    "humidity": 70,
+    "windKph": 4.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T17:40:08.108+08:00",
+    "observedAt": "2026-10-10T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T17:50:08.356+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "北京市出台“十五五”时期促进高质量充分就业专项规划",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710531.shtml",
-        "publishedAt": "2026-10-10T17:31:43.000+08:00"
+        "title": "聚焦秦汉都城考古 “统一多民族国家考古”学术研讨会在西安举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710596.shtml",
+        "publishedAt": "2026-10-10T17:36:31.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）硕果盈枝 江西安远特色林果产业铺就富民路",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710561.shtml",
-        "publishedAt": "2026-10-10T17:31:15.000+08:00"
+        "title": "美国AI霸权与数字殖民的实质与对全球危害",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710539.shtml",
+        "publishedAt": "2026-10-10T17:35:25.000+08:00"
       },
       {
-        "title": "长江入海口外贸“新三样”出口持续升温",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710528.shtml",
-        "publishedAt": "2026-10-10T17:30:01.000+08:00"
+        "title": "从玉米到酱椒 乌梁素海南岸再刷内蒙古单产纪录",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710594.shtml",
+        "publishedAt": "2026-10-10T17:33:21.000+08:00"
       },
       {
-        "title": "离境退税2.0版政策落地百日 海南退税商品总额超3000万元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710532.shtml",
-        "publishedAt": "2026-10-10T17:29:51.000+08:00"
+        "title": "厦金大桥（厦门段）建设稳步推进 年底实现海上主线桥通车",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710555.shtml",
+        "publishedAt": "2026-10-10T17:32:51.000+08:00"
       },
       {
-        "title": "打掉犯罪团伙16个，海南警方深化扫黑除恶专项斗争第二轮收网",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710534.shtml",
-        "publishedAt": "2026-10-10T17:29:49.000+08:00"
+        "title": "WTT中国大满贯赛：王曼昱/蒯曼获得女双冠军",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207416.shtml",
+        "publishedAt": "2026-10-10T17:32:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T17:40:03.261+08:00",
+    "fetchedAt": "2026-10-10T17:50:03.281+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T17:40:06.919+08:00",
+      "fetchedAt": "2026-10-10T17:50:06.971+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T17:40:07.198+08:00",
+      "fetchedAt": "2026-10-10T17:50:07.285+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T17:40:07.206+08:00",
+      "fetchedAt": "2026-10-10T17:50:07.293+08:00",
       "error": null
     }
   }
