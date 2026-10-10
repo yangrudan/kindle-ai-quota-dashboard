@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T20:50:38.302+08:00",
+  "updatedAt": "2026-10-10T21:00:39.444+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21,
-    "feelsLikeC": 22.9,
-    "humidity": 81,
+    "tempC": 20.8,
+    "feelsLikeC": 22.7,
+    "humidity": 82,
     "windKph": 5.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T20:50:38.302+08:00",
+    "observedAt": "2026-10-10T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-10T21:00:39.444+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "郑钦文晋级女单决赛 刷新个人中网最佳战绩",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710754.shtml",
-        "publishedAt": "2026-10-10T20:42:53.000+08:00"
+        "title": "检察官共话检察为民：把案件办到老百姓心坎上",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710753.shtml",
+        "publishedAt": "2026-10-10T20:53:36.000+08:00"
       },
       {
-        "title": "监督关怀“弱势群体” 守护民生温暖底色",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710733.shtml",
-        "publishedAt": "2026-10-10T20:39:35.000+08:00"
+        "title": "英雄从未远去 武警杭州支队纪念蔡永祥烈士牺牲60周年",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710748.shtml",
+        "publishedAt": "2026-10-10T20:53:08.000+08:00"
       },
       {
-        "title": "科尔沁艺术职业学院原党委书记高常亮被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710720.shtml",
-        "publishedAt": "2026-10-10T20:39:23.000+08:00"
+        "title": "第四届“良渚论坛”将启 以文明对话守护文化遗产",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710741.shtml",
+        "publishedAt": "2026-10-10T20:52:32.000+08:00"
       },
       {
-        "title": "重庆警方打掉一个涉嫌“舆情敲诈”恶势力组织 破获刑事案件25起",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710732.shtml",
-        "publishedAt": "2026-10-10T20:38:51.000+08:00"
+        "title": "江苏出台全国首个省级青年社区政策 21条措施支持青年安居创业",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710740.shtml",
+        "publishedAt": "2026-10-10T20:52:08.000+08:00"
       },
       {
-        "title": "中国（广西）—文莱美食文化交流活动在斯里巴加湾举办",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-10/10710735.shtml",
-        "publishedAt": "2026-10-10T20:38:47.000+08:00"
+        "title": "“汉语语言学丛书”英文版系列成果亮相法兰克福书展",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710755.shtml",
+        "publishedAt": "2026-10-10T20:51:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T20:50:03.441+08:00",
+    "fetchedAt": "2026-10-10T21:00:04.506+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T20:50:36.834+08:00",
+      "fetchedAt": "2026-10-10T21:00:38.110+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T01:50:37.000+08:00"
+          "resetAt": "2026-10-11T02:00:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T20:50:37.175+08:00",
+      "fetchedAt": "2026-10-10T21:00:38.465+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T20:50:37.183+08:00",
+      "fetchedAt": "2026-10-10T21:00:38.473+08:00",
       "error": null
     }
   }
