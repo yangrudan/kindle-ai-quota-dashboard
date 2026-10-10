@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T22:30:39.718+08:00",
+  "updatedAt": "2026-10-10T22:40:11.029+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-10T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T22:30:39.718+08:00",
+    "fetchedAt": "2026-10-10T22:40:11.029+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026上海网球大师赛：布云朝克特不敌鲁德 中国选手仅剩周意",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710848.shtml",
+        "publishedAt": "2026-10-10T22:38:21.000+08:00"
+      },
+      {
+        "title": "以色列空袭加沙地带致5人死亡多人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710847.shtml",
+        "publishedAt": "2026-10-10T22:37:43.000+08:00"
+      },
+      {
+        "title": "土耳其将禁止未满15周岁未成年人开社媒账号",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710846.shtml",
+        "publishedAt": "2026-10-10T22:37:17.000+08:00"
+      },
+      {
+        "title": "昔日长征落脚点“圈粉”八方游客",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710845.shtml",
+        "publishedAt": "2026-10-10T22:36:37.000+08:00"
+      },
+      {
         "title": "\"侨力量·影像云南\"主题摄影展昆明开幕 近百幅影像串联70载侨界历程",
         "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710830.shtml",
         "publishedAt": "2026-10-10T22:16:48.000+08:00"
-      },
-      {
-        "title": "外交部发言人就巴拿马发生7.6级地震答记者问",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710843.shtml",
-        "publishedAt": "2026-10-10T22:15:18.000+08:00"
-      },
-      {
-        "title": "巴拿马再发地震",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710841.shtml",
-        "publishedAt": "2026-10-10T22:13:20.000+08:00"
-      },
-      {
-        "title": "昔日长征路 今朝幸福路（赓续长征精神 奋进复兴征程·记者再走长征路）",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710840.shtml",
-        "publishedAt": "2026-10-10T22:12:22.000+08:00"
-      },
-      {
-        "title": "双节消费观察｜智能“上岗”，消费“焕新”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710839.shtml",
-        "publishedAt": "2026-10-10T22:10:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T22:30:04.039+08:00",
+    "fetchedAt": "2026-10-10T22:40:04.145+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T22:30:37.887+08:00",
+      "fetchedAt": "2026-10-10T22:40:08.608+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T03:30:38.000+08:00"
+          "resetAt": "2026-10-11T03:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T22:30:38.155+08:00",
+      "fetchedAt": "2026-10-10T22:40:09.028+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T22:30:38.165+08:00",
+      "fetchedAt": "2026-10-10T22:40:09.031+08:00",
       "error": null
     }
   }
