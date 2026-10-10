@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T09:30:09.501+08:00",
+  "updatedAt": "2026-10-10T09:40:09.255+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T09:30:09.501+08:00",
+    "fetchedAt": "2026-10-10T09:40:09.255+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "水利部发布8项水利行业标准",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710013.shtml",
-        "publishedAt": "2026-10-10T09:12:14.000+08:00"
+        "title": "云南省花灯滇剧艺术周昭通启幕 名家新秀同台唱滇韵",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710026.shtml",
+        "publishedAt": "2026-10-10T09:34:31.000+08:00"
       },
       {
-        "title": "金融监管总局发布《财产保险公司保险产品开发管理规定》",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710005.shtml",
-        "publishedAt": "2026-10-10T09:10:40.000+08:00"
+        "title": "《天地相和：海外专家谈狮子林》中英文对照版图书在法兰克福书展发布",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710020.shtml",
+        "publishedAt": "2026-10-10T09:33:49.000+08:00"
       },
       {
-        "title": "中国驻南非大使馆提醒中国公民加强安全防范",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710008.shtml",
-        "publishedAt": "2026-10-10T09:08:34.000+08:00"
+        "title": "央行10月10日7天期逆回购操作量为零",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710027.shtml",
+        "publishedAt": "2026-10-10T09:33:19.000+08:00"
       },
       {
-        "title": "爬山摔一跤 腿就“掉链子”了？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710009.shtml",
-        "publishedAt": "2026-10-10T09:05:05.000+08:00"
+        "title": "“云津艺渡·上海非物质文化遗产展” 在英国举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710019.shtml",
+        "publishedAt": "2026-10-10T09:32:39.000+08:00"
       },
       {
-        "title": "冷空气将影响北方地区 带来大风降温天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710006.shtml",
-        "publishedAt": "2026-10-10T09:05:01.000+08:00"
+        "title": "英国拟未来四年投入10亿英镑扶持创新集群",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710018.shtml",
+        "publishedAt": "2026-10-10T09:31:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T09:30:04.030+08:00",
+    "fetchedAt": "2026-10-10T09:40:03.712+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T09:30:08.002+08:00",
+      "fetchedAt": "2026-10-10T09:40:07.787+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T09:30:08.280+08:00",
+      "fetchedAt": "2026-10-10T09:40:08.038+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T09:30:08.283+08:00",
+      "fetchedAt": "2026-10-10T09:40:08.042+08:00",
       "error": null
     }
   }
