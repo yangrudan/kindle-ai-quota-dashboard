@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T17:10:08.613+08:00",
+  "updatedAt": "2026-10-10T17:20:08.998+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.5,
-    "feelsLikeC": 26.1,
-    "humidity": 62,
-    "windKph": 4.7,
+    "tempC": 24.1,
+    "feelsLikeC": 25.9,
+    "humidity": 65,
+    "windKph": 4.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T17:10:08.613+08:00",
+    "observedAt": "2026-10-10T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-10T17:20:08.998+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "市场监管总局：切实维护配送聚合平台服务市场公平竞争秩序，防范“内卷式”竞争",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710570.shtml",
-        "publishedAt": "2026-10-10T17:04:29.000+08:00"
+        "title": "走进泰国东北部社区 感受伊桑文化的古朴与活力",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710510.shtml",
+        "publishedAt": "2026-10-10T17:14:52.000+08:00"
       },
       {
-        "title": "吉林长春：市民开启“囤秋菜”模式",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710546.shtml",
-        "publishedAt": "2026-10-10T17:04:25.000+08:00"
+        "title": "加强汽车产品创新设计等方面管理 四部门征求意见",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710589.shtml",
+        "publishedAt": "2026-10-10T17:14:10.000+08:00"
       },
       {
-        "title": "广东开启晴朗干燥天气 林火气象风险升高",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710495.shtml",
-        "publishedAt": "2026-10-10T17:03:55.000+08:00"
+        "title": "人社部：今年前三季度中国城镇新增就业1052万人",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710556.shtml",
+        "publishedAt": "2026-10-10T17:13:30.000+08:00"
       },
       {
-        "title": "西藏巴松措国际漂流公开赛激情开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710526.shtml",
-        "publishedAt": "2026-10-10T17:02:57.000+08:00"
+        "title": "中国检察机关开展涉长征公益诉讼专项监督 今年立案434件",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710558.shtml",
+        "publishedAt": "2026-10-10T17:12:32.000+08:00"
       },
       {
-        "title": "受贿6050万余元 湖北省政协原副主席周先旺一审被判14年",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710566.shtml",
-        "publishedAt": "2026-10-10T17:01:13.000+08:00"
+        "title": "司法聚力综治阵地 在“家门口”解难题",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710504.shtml",
+        "publishedAt": "2026-10-10T17:12:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T17:10:03.059+08:00",
+    "fetchedAt": "2026-10-10T17:20:03.658+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T17:10:07.444+08:00",
+      "fetchedAt": "2026-10-10T17:20:07.628+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 45,
           "resetAt": "2026-10-10T18:58:22.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 60,
+          "usedPct": 61,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T17:10:07.704+08:00",
+      "fetchedAt": "2026-10-10T17:20:08.076+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T17:10:07.709+08:00",
+      "fetchedAt": "2026-10-10T17:20:08.087+08:00",
       "error": null
     }
   }
