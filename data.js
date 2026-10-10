@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T15:10:08.685+08:00",
+  "updatedAt": "2026-10-10T15:20:09.916+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.8,
-    "feelsLikeC": 26.2,
+    "tempC": 25.7,
+    "feelsLikeC": 26.1,
     "humidity": 52,
-    "windKph": 9.2,
+    "windKph": 9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T15:10:08.685+08:00",
+    "observedAt": "2026-10-10T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-10T15:20:09.917+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国防部：日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710483.shtml",
+        "publishedAt": "2026-10-10T15:09:51.000+08:00"
+      },
+      {
+        "title": "3小时获赔6500元！国寿“骑手保”跑出理赔加速度",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710474.shtml",
+        "publishedAt": "2026-10-10T15:06:51.000+08:00"
+      },
+      {
+        "title": "山东枣庄：霞光映桥 绘就湖山画卷",
+        "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-10/news1071419.shtml",
+        "publishedAt": "2026-10-10T15:05:19.000+08:00"
+      },
       {
         "title": "澳大利亚一架轻型飞机坠毁 致2人受重伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710481.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "民族交响戏剧音乐会《山河如愿》在京首演 将沿长征路线巡演全国",
         "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710479.shtml",
         "publishedAt": "2026-10-10T15:01:41.000+08:00"
-      },
-      {
-        "title": "成都公交首批网约公交车开启试运行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710480.shtml",
-        "publishedAt": "2026-10-10T15:00:51.000+08:00"
-      },
-      {
-        "title": "新疆兵团团场啤酒花迎丰收年 产量效益双提升",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710477.shtml",
-        "publishedAt": "2026-10-10T14:59:17.000+08:00"
-      },
-      {
-        "title": "2026金鸡海外影展开幕 五部佳片点亮首尔银幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710478.shtml",
-        "publishedAt": "2026-10-10T14:56:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T15:10:03.828+08:00",
+    "fetchedAt": "2026-10-10T15:20:04.281+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T15:10:07.530+08:00",
+      "fetchedAt": "2026-10-10T15:20:08.844+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T15:10:07.813+08:00",
+      "fetchedAt": "2026-10-10T15:20:09.090+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T15:10:07.822+08:00",
+      "fetchedAt": "2026-10-10T15:20:09.094+08:00",
       "error": null
     }
   }
