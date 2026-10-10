@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T08:30:10.032+08:00",
+  "updatedAt": "2026-10-10T08:40:09.344+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-10T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T08:30:10.032+08:00",
+    "fetchedAt": "2026-10-10T08:40:09.345+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国成功发射卫星互联网低轨27组卫星",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10709998.shtml",
+        "publishedAt": "2026-10-10T08:30:08.000+08:00"
+      },
+      {
+        "title": "北方大部地区将有冷空气活动 四川陕西局地有大雨或暴雨",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10709993.shtml",
+        "publishedAt": "2026-10-10T08:29:04.000+08:00"
+      },
+      {
+        "title": "感冒药和退烧药混用可能伤肝！这些用药规范要牢记",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10709997.shtml",
+        "publishedAt": "2026-10-10T08:26:43.000+08:00"
+      },
       {
         "title": "冷空气明起将给北方带来降雨降温 江南华南暖意持续升级",
         "url": "https://www.chinanews.com.cn/sh/2026/10-10/10709996.shtml",
@@ -28,24 +43,9 @@
         "title": "阿联酋检方：迪拜航空副驾驶企图实施自杀式袭击，造成尽可能多人员伤亡",
         "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709995.shtml",
         "publishedAt": "2026-10-10T08:22:01.000+08:00"
-      },
-      {
-        "title": "WTT中国大满贯赛：中国选手王曼昱晋级女单半决赛",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207385.shtml",
-        "publishedAt": "2026-10-10T08:18:49.000+08:00"
-      },
-      {
-        "title": "NBA中国赛2026在澳门打响 火箭队战胜独行侠队",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207381.shtml",
-        "publishedAt": "2026-10-10T07:57:03.000+08:00"
-      },
-      {
-        "title": "胃癌诊疗如何更早一步 更进一步",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10709991.shtml",
-        "publishedAt": "2026-10-10T07:55:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T08:30:04.270+08:00",
+    "fetchedAt": "2026-10-10T08:40:03.270+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T08:30:08.622+08:00",
+      "fetchedAt": "2026-10-10T08:40:08.246+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T08:30:08.865+08:00",
+      "fetchedAt": "2026-10-10T08:40:08.522+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T08:30:08.884+08:00",
+      "fetchedAt": "2026-10-10T08:40:08.532+08:00",
       "error": null
     }
   }
