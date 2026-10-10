@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T16:30:09.648+08:00",
+  "updatedAt": "2026-10-10T16:40:08.336+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T16:30:09.648+08:00",
+    "fetchedAt": "2026-10-10T16:40:08.336+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "全国秋粮收获过半 秋冬种陆续展开",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710525.shtml",
+        "publishedAt": "2026-10-10T16:38:26.000+08:00"
+      },
+      {
+        "title": "这些车内物品，可能是“定时炸弹”！",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710518.shtml",
+        "publishedAt": "2026-10-10T16:35:14.000+08:00"
+      },
+      {
+        "title": "（长征胜利90周年）福建三明长征主题陈列馆开馆 让红色资源“活”起来",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710476.shtml",
+        "publishedAt": "2026-10-10T16:29:34.000+08:00"
+      },
+      {
+        "title": "广西龙州：万亩黑皮果蔗喜获丰收 “甜蜜引擎”助力乡村振兴",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710497.shtml",
+        "publishedAt": "2026-10-10T16:24:47.000+08:00"
+      },
+      {
         "title": "行走美丽画卷｜宁夏贺兰：“稻渔共生”走出生态农业新路径",
         "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710463.shtml",
         "publishedAt": "2026-10-10T16:19:09.000+08:00"
-      },
-      {
-        "title": "教育部：教师发展中心全新上线 教师AI素养全覆盖培训启动",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-10/10710502.shtml",
-        "publishedAt": "2026-10-10T16:18:25.000+08:00"
-      },
-      {
-        "title": "日媒：日本警方37年间查处涉驻日美军刑案4998起",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710500.shtml",
-        "publishedAt": "2026-10-10T16:16:17.000+08:00"
-      },
-      {
-        "title": "中巴（基斯坦）将举行“喀喇昆仑－2026”陆军联合训练",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710485.shtml",
-        "publishedAt": "2026-10-10T16:07:26.000+08:00"
-      },
-      {
-        "title": "中老（挝）将举行第五次边境国防友好交流活动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710490.shtml",
-        "publishedAt": "2026-10-10T16:06:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T16:30:04.471+08:00",
+    "fetchedAt": "2026-10-10T16:40:03.163+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T16:30:08.354+08:00",
+      "fetchedAt": "2026-10-10T16:40:06.752+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T16:30:08.742+08:00",
+      "fetchedAt": "2026-10-10T16:40:06.988+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T16:30:08.749+08:00",
+      "fetchedAt": "2026-10-10T16:40:06.997+08:00",
       "error": null
     }
   }
