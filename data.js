@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T21:10:08.730+08:00",
+  "updatedAt": "2026-10-10T21:20:08.979+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.8,
-    "feelsLikeC": 22.7,
+    "tempC": 20.6,
+    "feelsLikeC": 22.4,
     "humidity": 82,
-    "windKph": 5.4,
+    "windKph": 5.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T21:10:08.730+08:00",
+    "observedAt": "2026-10-10T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-10T21:20:08.979+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广州海珠湖硫华菊花海吸引游客",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710769.shtml",
-        "publishedAt": "2026-10-10T21:03:48.000+08:00"
+        "title": "泰国21个府及曼谷仍受洪灾影响 总理部署防范新一轮降雨",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710796.shtml",
+        "publishedAt": "2026-10-10T21:14:21.000+08:00"
       },
       {
-        "title": "“河南新乡可直接申领摩托车D证”不实（2026·10·10）",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710784.shtml",
-        "publishedAt": "2026-10-10T21:03:36.000+08:00"
+        "title": "天津发布文商旅体展融合发展规划 五大产业联动创造消费大市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710771.shtml",
+        "publishedAt": "2026-10-10T21:14:15.000+08:00"
       },
       {
-        "title": "女超联赛：辽宁沈北禾丰主场胜浙江杭州银行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710767.shtml",
-        "publishedAt": "2026-10-10T21:03:10.000+08:00"
+        "title": "俄军袭击乌克兰扎波罗热地区 致12死14伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710791.shtml",
+        "publishedAt": "2026-10-10T21:13:43.000+08:00"
       },
       {
-        "title": "安徽省东至县委原书记洪克峰被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710772.shtml",
-        "publishedAt": "2026-10-10T21:00:02.000+08:00"
+        "title": "中国古代玉文化鉴赏讲座在悉尼举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710770.shtml",
+        "publishedAt": "2026-10-10T21:13:31.000+08:00"
       },
       {
-        "title": "“滇批”书写者后人昆明寻根 溯源工业抗战史中的家国情怀",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710773.shtml",
-        "publishedAt": "2026-10-10T20:58:54.000+08:00"
+        "title": "“记忆的地貌：中意艺术对话”展览在成都开展",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710785.shtml",
+        "publishedAt": "2026-10-10T21:11:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T21:10:03.886+08:00",
+    "fetchedAt": "2026-10-10T21:20:03.861+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T21:10:07.480+08:00",
+      "fetchedAt": "2026-10-10T21:20:07.907+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T02:10:08.000+08:00"
+          "resetAt": "2026-10-11T02:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T21:10:07.811+08:00",
+      "fetchedAt": "2026-10-10T21:20:08.187+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T21:10:07.820+08:00",
+      "fetchedAt": "2026-10-10T21:20:08.197+08:00",
       "error": null
     }
   }
