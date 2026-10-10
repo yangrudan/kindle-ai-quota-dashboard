@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T08:50:08.449+08:00",
+  "updatedAt": "2026-10-10T09:00:12.773+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21,
-    "feelsLikeC": 23.4,
-    "humidity": 81,
+    "tempC": 21.5,
+    "feelsLikeC": 23.9,
+    "humidity": 78,
     "windKph": 2.4,
-    "windDir": "西北风",
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T08:50:08.449+08:00",
+    "observedAt": "2026-10-10T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-10T09:00:12.774+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "WTT中国大满贯赛：中国选手朱思冰无缘女单半决赛",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207392.shtml",
+        "publishedAt": "2026-10-10T08:55:50.000+08:00"
+      },
+      {
+        "title": "中国驻巴拿马大使馆提醒在巴中国公民防范地震灾害",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710001.shtml",
+        "publishedAt": "2026-10-10T08:53:49.000+08:00"
+      },
       {
         "title": "WTT中国大满贯赛：中国选手周启豪晋级男单半决赛",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207389.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国成功发射卫星互联网低轨27组卫星",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10709998.shtml",
         "publishedAt": "2026-10-10T08:30:08.000+08:00"
-      },
-      {
-        "title": "北方大部地区将有冷空气活动 四川陕西局地有大雨或暴雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10709993.shtml",
-        "publishedAt": "2026-10-10T08:29:04.000+08:00"
-      },
-      {
-        "title": "感冒药和退烧药混用可能伤肝！这些用药规范要牢记",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10709997.shtml",
-        "publishedAt": "2026-10-10T08:26:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T08:50:02.818+08:00",
+    "fetchedAt": "2026-10-10T09:00:06.442+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T08:50:07.171+08:00",
+      "fetchedAt": "2026-10-10T09:00:11.470+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T08:50:07.476+08:00",
+      "fetchedAt": "2026-10-10T09:00:11.901+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T08:50:07.480+08:00",
+      "fetchedAt": "2026-10-10T09:00:11.911+08:00",
       "error": null
     }
   }
