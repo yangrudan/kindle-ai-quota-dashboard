@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T18:00:09.692+08:00",
+  "updatedAt": "2026-10-10T18:10:08.227+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-10T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T18:00:09.692+08:00",
+    "fetchedAt": "2026-10-10T18:10:08.227+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "紧盯人工智能、数字经济 “十五五”时期将开发培育更多新职业",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710616.shtml",
+        "publishedAt": "2026-10-10T18:01:09.000+08:00"
+      },
+      {
+        "title": "驻澳大使就澳大利亚知名汉学家马克林教授逝世表示深切哀悼",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710592.shtml",
+        "publishedAt": "2026-10-10T17:59:28.000+08:00"
+      },
       {
         "title": "江西省财政厅原巡视员潘昌坤接受审查调查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710605.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "甘肃省建设投资(控股)集团副总经理陈志亮接受审查调查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710603.shtml",
         "publishedAt": "2026-10-10T17:49:18.000+08:00"
-      },
-      {
-        "title": "2026上海劳力士大师赛火热进行 市民观赛打卡感受网球魅力",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710591.shtml",
-        "publishedAt": "2026-10-10T17:48:10.000+08:00"
-      },
-      {
-        "title": "广东省珠海市委原常委、统战部原部长郭才武被\"双开\"",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710601.shtml",
-        "publishedAt": "2026-10-10T17:46:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T18:00:04.403+08:00",
+    "fetchedAt": "2026-10-10T18:10:03.364+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T18:00:08.549+08:00",
+      "fetchedAt": "2026-10-10T18:10:07.143+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T18:00:08.861+08:00",
+      "fetchedAt": "2026-10-10T18:10:07.388+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T18:00:08.867+08:00",
+      "fetchedAt": "2026-10-10T18:10:07.393+08:00",
       "error": null
     }
   }
