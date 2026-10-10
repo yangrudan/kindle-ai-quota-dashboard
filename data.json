@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T23:20:08.606+08:00",
+  "updatedAt": "2026-10-10T23:30:08.370+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.3,
+    "tempC": 19.2,
     "feelsLikeC": 21.4,
-    "humidity": 88,
-    "windKph": 3,
+    "humidity": 89,
+    "windKph": 2.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T23:15:00.000+08:00",
-    "fetchedAt": "2026-10-10T23:20:08.607+08:00",
+    "observedAt": "2026-10-10T23:30:00.000+08:00",
+    "fetchedAt": "2026-10-10T23:30:08.371+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外交部：暂无中国公民在巴拿马地震中伤亡报告",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710856.shtml",
+        "publishedAt": "2026-10-10T23:22:44.000+08:00"
+      },
       {
         "title": "牛奶为什么能解辣？灯泡为何是梨形？一起get科普小知识",
         "url": "https://www.chinanews.com.cn/life/2026/10-10/10710855.shtml",
@@ -38,14 +43,9 @@
         "title": "2026上海网球大师赛：布云朝克特不敌鲁德 中国选手仅剩周意",
         "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710848.shtml",
         "publishedAt": "2026-10-10T22:38:21.000+08:00"
-      },
-      {
-        "title": "以色列空袭加沙地带致5人死亡多人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710847.shtml",
-        "publishedAt": "2026-10-10T22:37:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T23:20:03.553+08:00",
+    "fetchedAt": "2026-10-10T23:30:03.254+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T23:20:07.314+08:00",
+      "fetchedAt": "2026-10-10T23:30:07.229+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T04:20:08.000+08:00"
+          "resetAt": "2026-10-11T04:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T23:20:07.558+08:00",
+      "fetchedAt": "2026-10-10T23:30:07.478+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T23:20:07.566+08:00",
+      "fetchedAt": "2026-10-10T23:30:07.488+08:00",
       "error": null
     }
   }
