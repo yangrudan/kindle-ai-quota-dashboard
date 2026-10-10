@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T18:10:08.227+08:00",
+  "updatedAt": "2026-10-10T18:20:09.246+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.7,
-    "feelsLikeC": 24.8,
-    "humidity": 72,
+    "tempC": 22.5,
+    "feelsLikeC": 24.6,
+    "humidity": 74,
     "windKph": 4.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T18:10:08.227+08:00",
+    "observedAt": "2026-10-10T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-10T18:20:09.246+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "紧盯人工智能、数字经济 “十五五”时期将开发培育更多新职业",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710616.shtml",
-        "publishedAt": "2026-10-10T18:01:09.000+08:00"
+        "title": "“杜立特行动”突袭者后代捐赠文物 寻访父辈上饶记忆",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710608.shtml",
+        "publishedAt": "2026-10-10T18:17:45.000+08:00"
       },
       {
-        "title": "驻澳大使就澳大利亚知名汉学家马克林教授逝世表示深切哀悼",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710592.shtml",
-        "publishedAt": "2026-10-10T17:59:28.000+08:00"
+        "title": "中国工艺美术馆龟兹文化艺术展再现丝路风情",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207428.shtml",
+        "publishedAt": "2026-10-10T18:11:30.000+08:00"
       },
       {
-        "title": "江西省财政厅原巡视员潘昌坤接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710605.shtml",
-        "publishedAt": "2026-10-10T17:53:40.000+08:00"
+        "title": "多国前政要学者参访浙江温州 看好中国经济韧性",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710609.shtml",
+        "publishedAt": "2026-10-10T18:09:53.000+08:00"
       },
       {
-        "title": "中国海警舰艇编队10月10日在我钓鱼岛及其附属岛屿领海内维权巡航",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710606.shtml",
-        "publishedAt": "2026-10-10T17:51:36.000+08:00"
+        "title": "（经济观察）勿将贸易账算在汇率上 人民币涨跌由市场决定",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710607.shtml",
+        "publishedAt": "2026-10-10T18:07:01.000+08:00"
       },
       {
-        "title": "甘肃省建设投资(控股)集团副总经理陈志亮接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710603.shtml",
-        "publishedAt": "2026-10-10T17:49:18.000+08:00"
+        "title": "冷空气登场局地降温将超8℃ 为何南方多地热感不减反增？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710619.shtml",
+        "publishedAt": "2026-10-10T18:05:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T18:10:03.364+08:00",
+    "fetchedAt": "2026-10-10T18:20:03.906+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T18:10:07.143+08:00",
+      "fetchedAt": "2026-10-10T18:20:08.108+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T18:10:07.388+08:00",
+      "fetchedAt": "2026-10-10T18:20:08.331+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T18:10:07.393+08:00",
+      "fetchedAt": "2026-10-10T18:20:08.335+08:00",
       "error": null
     }
   }
