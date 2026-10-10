@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T12:00:39.462+08:00",
+  "updatedAt": "2026-10-10T12:10:09.039+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T12:00:39.462+08:00",
+    "fetchedAt": "2026-10-10T12:10:09.039+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第七届“北斗杯”全国青少年体育大赛（青海西宁站）开赛",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710110.shtml",
-        "publishedAt": "2026-10-10T11:54:35.000+08:00"
+        "title": "中国官方发布典型案例 涉打击效仿小说情节盗掘古墓葬等",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710115.shtml",
+        "publishedAt": "2026-10-10T12:01:43.000+08:00"
       },
       {
-        "title": "河南安阳红旗渠机场将开通“乌鲁木齐—安阳—厦门”航线",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710081.shtml",
-        "publishedAt": "2026-10-10T11:54:17.000+08:00"
+        "title": "“欧亚-反恐-2026”联合反恐演习举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710114.shtml",
+        "publishedAt": "2026-10-10T12:00:03.000+08:00"
       },
       {
-        "title": "海拔5350米 高海拔风电项目在西藏琼结完成全部吊装",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710099.shtml",
-        "publishedAt": "2026-10-10T11:53:53.000+08:00"
+        "title": "作家刘震云做客山东大学 与蒙古国汉学家畅谈文学里的哲思",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710117.shtml",
+        "publishedAt": "2026-10-10T11:57:05.000+08:00"
       },
       {
-        "title": "1月至9月上海口岸一线海关部门查发涉嫌侵权光伏产品案16起",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710091.shtml",
-        "publishedAt": "2026-10-10T11:52:31.000+08:00"
+        "title": "（长江十年行）从江边老厂到新能源产线：“长江首城”宜宾工业之变",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710112.shtml",
+        "publishedAt": "2026-10-10T11:55:57.000+08:00"
       },
       {
-        "title": "上海出入境管理部门首次在国庆长假后加开夜间办证专场",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710055.shtml",
-        "publishedAt": "2026-10-10T11:51:25.000+08:00"
+        "title": "吃顿饭，咋就成了“直播背景板”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710118.shtml",
+        "publishedAt": "2026-10-10T11:54:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T12:00:03.934+08:00",
+    "fetchedAt": "2026-10-10T12:10:03.279+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T12:00:37.864+08:00",
+      "fetchedAt": "2026-10-10T12:10:07.575+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T12:00:38.132+08:00",
+      "fetchedAt": "2026-10-10T12:10:07.883+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T12:00:38.138+08:00",
+      "fetchedAt": "2026-10-10T12:10:07.886+08:00",
       "error": null
     }
   }
