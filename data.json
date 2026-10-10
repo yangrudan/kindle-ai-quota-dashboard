@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T19:20:09.410+08:00",
+  "updatedAt": "2026-10-10T19:30:09.087+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-10T19:20:09.410+08:00",
+    "fetchedAt": "2026-10-10T19:30:09.088+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新列车运行图11日启用 粤港澳大湾区铁路网络进一步织密",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710671.shtml",
-        "publishedAt": "2026-10-10T19:14:10.000+08:00"
+        "title": "广东持续深化国有林场转型发展 激发绿美共富新动能",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710661.shtml",
+        "publishedAt": "2026-10-10T19:24:41.000+08:00"
       },
       {
-        "title": "庆祝中国侨联成立70周年 海南举办书画展尽显“翰墨侨心”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710643.shtml",
-        "publishedAt": "2026-10-10T19:13:20.000+08:00"
+        "title": "2026年全国华东区射击锦标赛（飞碟项目）在福建清流打响",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710663.shtml",
+        "publishedAt": "2026-10-10T19:23:09.000+08:00"
       },
       {
-        "title": "湖北省政协原副主席周先旺一审获刑14年",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710672.shtml",
-        "publishedAt": "2026-10-10T19:13:14.000+08:00"
+        "title": "文旅赋能羊城岭南老街“变身”大湾区水乡样本",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710655.shtml",
+        "publishedAt": "2026-10-10T19:21:05.000+08:00"
       },
       {
-        "title": "鄱阳湖沿湖多地联动守护“候鸟天堂”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710673.shtml",
-        "publishedAt": "2026-10-10T19:12:28.000+08:00"
+        "title": "一键查点位 长春124处秋菜销售点守护市民菜篮子",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710651.shtml",
+        "publishedAt": "2026-10-10T19:20:19.000+08:00"
       },
       {
-        "title": "“云端哨兵夫妻”：守护“神州北极”林海十余载",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710642.shtml",
-        "publishedAt": "2026-10-10T19:12:12.000+08:00"
+        "title": "爱知·名古屋亚残运会中国体育代表团成立",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710647.shtml",
+        "publishedAt": "2026-10-10T19:20:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T19:20:04.344+08:00",
+    "fetchedAt": "2026-10-10T19:30:03.603+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T19:20:08.283+08:00",
+      "fetchedAt": "2026-10-10T19:30:07.638+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T00:20:09.000+08:00"
+          "resetAt": "2026-10-11T00:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T19:20:08.577+08:00",
+      "fetchedAt": "2026-10-10T19:30:07.928+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T19:20:08.587+08:00",
+      "fetchedAt": "2026-10-10T19:30:07.932+08:00",
       "error": null
     }
   }
