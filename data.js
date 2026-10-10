@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T21:20:08.979+08:00",
+  "updatedAt": "2026-10-10T21:30:10.077+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.6,
-    "feelsLikeC": 22.4,
-    "humidity": 82,
-    "windKph": 5.3,
+    "tempC": 20.3,
+    "feelsLikeC": 22.2,
+    "humidity": 83,
+    "windKph": 5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-10T21:20:08.979+08:00",
+    "observedAt": "2026-10-10T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-10T21:30:10.077+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "泰国21个府及曼谷仍受洪灾影响 总理部署防范新一轮降雨",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710796.shtml",
-        "publishedAt": "2026-10-10T21:14:21.000+08:00"
+        "title": "一问到底丨最强厄尔尼诺来了，如何影响全球气候？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710809.shtml",
+        "publishedAt": "2026-10-10T21:23:57.000+08:00"
       },
       {
-        "title": "天津发布文商旅体展融合发展规划 五大产业联动创造消费大市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710771.shtml",
-        "publishedAt": "2026-10-10T21:14:15.000+08:00"
+        "title": "中国海警舰艇编队在中国钓鱼岛及其附属岛屿领海内维权巡航",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710787.shtml",
+        "publishedAt": "2026-10-10T21:22:47.000+08:00"
       },
       {
-        "title": "俄军袭击乌克兰扎波罗热地区 致12死14伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710791.shtml",
-        "publishedAt": "2026-10-10T21:13:43.000+08:00"
+        "title": "郑钦文首进中网女单决赛 将与米拉·安德列娃争冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710804.shtml",
+        "publishedAt": "2026-10-10T21:21:11.000+08:00"
       },
       {
-        "title": "中国古代玉文化鉴赏讲座在悉尼举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710770.shtml",
-        "publishedAt": "2026-10-10T21:13:31.000+08:00"
+        "title": "新华社快讯：沙特首都国际机场传出爆炸声",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710803.shtml",
+        "publishedAt": "2026-10-10T21:18:59.000+08:00"
       },
       {
-        "title": "“记忆的地貌：中意艺术对话”展览在成都开展",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710785.shtml",
-        "publishedAt": "2026-10-10T21:11:03.000+08:00"
+        "title": "证监会召开资本市场和金融形势专家座谈会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710778.shtml",
+        "publishedAt": "2026-10-10T21:18:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T21:20:03.861+08:00",
+    "fetchedAt": "2026-10-10T21:30:04.289+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T21:20:07.907+08:00",
+      "fetchedAt": "2026-10-10T21:30:08.850+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T02:20:08.000+08:00"
+          "resetAt": "2026-10-11T02:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T21:20:08.187+08:00",
+      "fetchedAt": "2026-10-10T21:30:09.175+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T21:20:08.197+08:00",
+      "fetchedAt": "2026-10-10T21:30:09.184+08:00",
       "error": null
     }
   }
