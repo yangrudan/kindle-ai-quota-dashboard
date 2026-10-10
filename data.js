@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T11:30:08.437+08:00",
+  "updatedAt": "2026-10-10T11:40:08.149+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-10T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T11:30:08.437+08:00",
+    "fetchedAt": "2026-10-10T11:40:08.149+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "江苏省靖江市德胜村：“德治”引领“善治” “有德”才会“有得”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710106.shtml",
+        "publishedAt": "2026-10-10T11:33:36.000+08:00"
+      },
+      {
+        "title": "（乡村行·看振兴）山西和顺：大棚科技提质效 特色果蔬促农增收",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710109.shtml",
+        "publishedAt": "2026-10-10T11:32:56.000+08:00"
+      },
+      {
+        "title": "“十五五”时期，每年将培养培训100万名高层次、急需紧缺技术人才",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710096.shtml",
+        "publishedAt": "2026-10-10T11:30:19.000+08:00"
+      },
       {
         "title": "人社部：截至9月底，我国基本养老保险参保人数达10.79亿人",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710094.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中新网直播：巴拿马发生7.6级强震 连线侨胞直击现场",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-10/10710097.shtml",
         "publishedAt": "2026-10-10T11:21:17.000+08:00"
-      },
-      {
-        "title": "人社部：今年1至9月我国城镇新增就业1052万人",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710090.shtml",
-        "publishedAt": "2026-10-10T11:20:41.000+08:00"
-      },
-      {
-        "title": "500人出征！第五届亚残运会中国体育代表团成立",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710088.shtml",
-        "publishedAt": "2026-10-10T11:14:03.000+08:00"
-      },
-      {
-        "title": "用一场胜利迎接24岁 郑钦文时隔两年重返中网四强",
-        "url": "http://www.chinanews.com.cn/ty/shipin/cns/2026/10-10/news1071378.shtml",
-        "publishedAt": "2026-10-10T11:11:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T11:30:03.616+08:00",
+    "fetchedAt": "2026-10-10T11:40:03.071+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T11:30:07.129+08:00",
+      "fetchedAt": "2026-10-10T11:40:07.088+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
+          "usedPct": 69,
           "resetAt": "2026-10-10T13:11:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 51,
+          "usedPct": 53,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T11:30:07.387+08:00",
+      "fetchedAt": "2026-10-10T11:40:07.320+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T11:30:07.397+08:00",
+      "fetchedAt": "2026-10-10T11:40:07.328+08:00",
       "error": null
     }
   }
