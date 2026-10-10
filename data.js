@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T17:00:09.998+08:00",
+  "updatedAt": "2026-10-10T17:10:08.613+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T17:00:09.998+08:00",
+    "fetchedAt": "2026-10-10T17:10:08.613+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "市场监管总局：经营者集中简易案件平均审查时间缩短至18.6天",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710529.shtml",
-        "publishedAt": "2026-10-10T16:54:13.000+08:00"
+        "title": "市场监管总局：切实维护配送聚合平台服务市场公平竞争秩序，防范“内卷式”竞争",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710570.shtml",
+        "publishedAt": "2026-10-10T17:04:29.000+08:00"
       },
       {
-        "title": "南京：寓意 “十全十美” 定格幸福瞬间",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710527.shtml",
-        "publishedAt": "2026-10-10T16:44:22.000+08:00"
+        "title": "吉林长春：市民开启“囤秋菜”模式",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710546.shtml",
+        "publishedAt": "2026-10-10T17:04:25.000+08:00"
       },
       {
-        "title": "全国秋粮收获过半 秋冬种陆续展开",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710525.shtml",
-        "publishedAt": "2026-10-10T16:38:26.000+08:00"
+        "title": "广东开启晴朗干燥天气 林火气象风险升高",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710495.shtml",
+        "publishedAt": "2026-10-10T17:03:55.000+08:00"
       },
       {
-        "title": "这些车内物品，可能是“定时炸弹”！",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710518.shtml",
-        "publishedAt": "2026-10-10T16:35:14.000+08:00"
+        "title": "西藏巴松措国际漂流公开赛激情开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710526.shtml",
+        "publishedAt": "2026-10-10T17:02:57.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）福建三明长征主题陈列馆开馆 让红色资源“活”起来",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710476.shtml",
-        "publishedAt": "2026-10-10T16:29:34.000+08:00"
+        "title": "受贿6050万余元 湖北省政协原副主席周先旺一审被判14年",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710566.shtml",
+        "publishedAt": "2026-10-10T17:01:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T17:00:04.496+08:00",
+    "fetchedAt": "2026-10-10T17:10:03.059+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T17:00:08.722+08:00",
+      "fetchedAt": "2026-10-10T17:10:07.444+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 36,
           "resetAt": "2026-10-10T18:58:22.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 57,
+          "usedPct": 60,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T17:00:08.976+08:00",
+      "fetchedAt": "2026-10-10T17:10:07.704+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T17:00:08.986+08:00",
+      "fetchedAt": "2026-10-10T17:10:07.709+08:00",
       "error": null
     }
   }
