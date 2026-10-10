@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T15:40:08.440+08:00",
+  "updatedAt": "2026-10-10T15:50:08.768+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.6,
-    "feelsLikeC": 26.1,
-    "humidity": 52,
-    "windKph": 8.6,
+    "tempC": 25.5,
+    "feelsLikeC": 26.2,
+    "humidity": 54,
+    "windKph": 8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T15:40:08.440+08:00",
+    "observedAt": "2026-10-10T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T15:50:08.768+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "国防部：日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710487.shtml",
+        "publishedAt": "2026-10-10T15:40:55.000+08:00"
+      },
+      {
+        "title": "中新健康｜陆林院士：别靠网上心理测评给自己下诊断",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710486.shtml",
+        "publishedAt": "2026-10-10T15:39:33.000+08:00"
+      },
+      {
+        "title": "中新健康｜精神病院为何扎堆更名？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710484.shtml",
+        "publishedAt": "2026-10-10T15:35:25.000+08:00"
+      },
+      {
         "title": "规范竞争与产业升级并举：分众新潮整合释放梯媒行业发展新信号",
         "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710467.shtml",
         "publishedAt": "2026-10-10T15:16:42.000+08:00"
       },
       {
-        "title": "国防部：日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710483.shtml",
-        "publishedAt": "2026-10-10T15:09:51.000+08:00"
-      },
-      {
         "title": "3小时获赔6500元！国寿“骑手保”跑出理赔加速度",
         "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710474.shtml",
         "publishedAt": "2026-10-10T15:06:51.000+08:00"
-      },
-      {
-        "title": "山东枣庄：霞光映桥 绘就湖山画卷",
-        "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-10/news1071419.shtml",
-        "publishedAt": "2026-10-10T15:05:19.000+08:00"
-      },
-      {
-        "title": "澳大利亚一架轻型飞机坠毁 致2人受重伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710481.shtml",
-        "publishedAt": "2026-10-10T15:03:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T15:40:03.217+08:00",
+    "fetchedAt": "2026-10-10T15:50:03.333+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T15:40:07.350+08:00",
+      "fetchedAt": "2026-10-10T15:50:07.544+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
+          "usedPct": 10,
           "resetAt": "2026-10-10T18:58:22.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 55,
+          "usedPct": 56,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T15:40:07.578+08:00",
+      "fetchedAt": "2026-10-10T15:50:07.838+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T15:40:07.588+08:00",
+      "fetchedAt": "2026-10-10T15:50:07.848+08:00",
       "error": null
     }
   }
