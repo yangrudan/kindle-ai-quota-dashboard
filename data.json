@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T21:40:09.260+08:00",
+  "updatedAt": "2026-10-10T21:50:08.975+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.3,
-    "feelsLikeC": 22.2,
-    "humidity": 83,
-    "windKph": 5,
+    "tempC": 20.1,
+    "feelsLikeC": 22,
+    "humidity": 84,
+    "windKph": 4.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T21:40:09.260+08:00",
+    "observedAt": "2026-10-10T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T21:50:08.975+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "WTT中国大满贯赛：中国组合王曼昱/蒯曼女双夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710797.shtml",
-        "publishedAt": "2026-10-10T21:35:30.000+08:00"
+        "title": "尺素金声｜发票数据增长19.5%，国庆假期服务消费旺盛",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710823.shtml",
+        "publishedAt": "2026-10-10T21:45:45.000+08:00"
       },
       {
-        "title": "中外嘉宾共聚对话纪实节目 围绕健康人文展开对谈",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710799.shtml",
-        "publishedAt": "2026-10-10T21:34:40.000+08:00"
+        "title": "重磅文件发布，新质生产力发展有了清晰路线图",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710822.shtml",
+        "publishedAt": "2026-10-10T21:44:08.000+08:00"
       },
       {
-        "title": "甘肃法院：立足向西开放前沿区位优势强化涉外司法服务保障",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710800.shtml",
-        "publishedAt": "2026-10-10T21:34:10.000+08:00"
+        "title": "10月10日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-10/10710821.shtml",
+        "publishedAt": "2026-10-10T21:43:40.000+08:00"
       },
       {
-        "title": "上海民盟盟员共探脑机接口产业发展",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710801.shtml",
-        "publishedAt": "2026-10-10T21:33:12.000+08:00"
+        "title": "藏北高原种出“黑珍珠” 索县308亩黑青稞藏着致富“粮”方",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710819.shtml",
+        "publishedAt": "2026-10-10T21:42:06.000+08:00"
       },
       {
-        "title": "2026年泉州市港澳台侨青年交流季启动",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710802.shtml",
-        "publishedAt": "2026-10-10T21:32:26.000+08:00"
+        "title": "第三次新疆综合科学考察成果发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710788.shtml",
+        "publishedAt": "2026-10-10T21:42:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T21:40:03.419+08:00",
+    "fetchedAt": "2026-10-10T21:50:03.414+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T21:40:08.192+08:00",
+      "fetchedAt": "2026-10-10T21:50:07.557+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T02:40:09.000+08:00"
+          "resetAt": "2026-10-11T02:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T21:40:08.440+08:00",
+      "fetchedAt": "2026-10-10T21:50:07.973+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T21:40:08.451+08:00",
+      "fetchedAt": "2026-10-10T21:50:07.982+08:00",
       "error": null
     }
   }
