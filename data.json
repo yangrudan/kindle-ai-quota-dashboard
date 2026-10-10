@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T16:20:10.507+08:00",
+  "updatedAt": "2026-10-10T16:30:09.648+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.3,
+    "tempC": 25,
     "feelsLikeC": 26.2,
-    "humidity": 56,
-    "windKph": 7.4,
+    "humidity": 58,
+    "windKph": 6.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-10T16:20:10.507+08:00",
+    "observedAt": "2026-10-10T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-10T16:30:09.648+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "行走美丽画卷｜宁夏贺兰：“稻渔共生”走出生态农业新路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710463.shtml",
+        "publishedAt": "2026-10-10T16:19:09.000+08:00"
+      },
+      {
+        "title": "教育部：教师发展中心全新上线 教师AI素养全覆盖培训启动",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-10/10710502.shtml",
+        "publishedAt": "2026-10-10T16:18:25.000+08:00"
+      },
+      {
+        "title": "日媒：日本警方37年间查处涉驻日美军刑案4998起",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710500.shtml",
+        "publishedAt": "2026-10-10T16:16:17.000+08:00"
+      },
       {
         "title": "中巴（基斯坦）将举行“喀喇昆仑－2026”陆军联合训练",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710485.shtml",
@@ -28,24 +43,9 @@
         "title": "中老（挝）将举行第五次边境国防友好交流活动",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710490.shtml",
         "publishedAt": "2026-10-10T16:06:24.000+08:00"
-      },
-      {
-        "title": "国防部：“长城－2026”反恐国际论坛将在北京举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710488.shtml",
-        "publishedAt": "2026-10-10T16:04:46.000+08:00"
-      },
-      {
-        "title": "全国性涉外法律服务平台“法通”网正式上线",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710461.shtml",
-        "publishedAt": "2026-10-10T16:02:22.000+08:00"
-      },
-      {
-        "title": "土里刨“金”！济南商河：小蚯蚓有大作为",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710489.shtml",
-        "publishedAt": "2026-10-10T15:57:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T16:20:03.472+08:00",
+    "fetchedAt": "2026-10-10T16:30:04.471+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T16:20:08.745+08:00",
+      "fetchedAt": "2026-10-10T16:30:08.354+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 16,
+          "usedPct": 18,
           "resetAt": "2026-10-10T18:58:22.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T16:20:08.954+08:00",
+      "fetchedAt": "2026-10-10T16:30:08.742+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T16:20:08.964+08:00",
+      "fetchedAt": "2026-10-10T16:30:08.749+08:00",
       "error": null
     }
   }
