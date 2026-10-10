@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T19:10:38.096+08:00",
+  "updatedAt": "2026-10-10T19:20:09.410+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.9,
-    "feelsLikeC": 24.1,
-    "humidity": 77,
+    "tempC": 21.7,
+    "feelsLikeC": 23.9,
+    "humidity": 78,
     "windKph": 3.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T19:10:38.096+08:00",
+    "observedAt": "2026-10-10T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-10T19:20:09.410+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（投资中国）德迅集团全球首席执行官：中国市场是企业增长的“动力源”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710628.shtml",
-        "publishedAt": "2026-10-10T19:07:48.000+08:00"
+        "title": "新列车运行图11日启用 粤港澳大湾区铁路网络进一步织密",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710671.shtml",
+        "publishedAt": "2026-10-10T19:14:10.000+08:00"
       },
       {
-        "title": "南京秋意渐浓 玄武湖畔向日葵引客来",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710664.shtml",
-        "publishedAt": "2026-10-10T19:07:42.000+08:00"
+        "title": "庆祝中国侨联成立70周年 海南举办书画展尽显“翰墨侨心”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710643.shtml",
+        "publishedAt": "2026-10-10T19:13:20.000+08:00"
       },
       {
-        "title": "青海首部本土方言移风易俗短剧走红 播放量超600万",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710662.shtml",
-        "publishedAt": "2026-10-10T19:06:42.000+08:00"
+        "title": "湖北省政协原副主席周先旺一审获刑14年",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710672.shtml",
+        "publishedAt": "2026-10-10T19:13:14.000+08:00"
       },
       {
-        "title": "中国官方附条件批准分众传媒收购新潮传媒股权案",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710627.shtml",
-        "publishedAt": "2026-10-10T19:06:38.000+08:00"
+        "title": "鄱阳湖沿湖多地联动守护“候鸟天堂”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710673.shtml",
+        "publishedAt": "2026-10-10T19:12:28.000+08:00"
       },
       {
-        "title": "（侨乡新貌）泉州培育侨批文化新业态 带火侨乡新玩法",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710629.shtml",
-        "publishedAt": "2026-10-10T19:05:28.000+08:00"
+        "title": "“云端哨兵夫妻”：守护“神州北极”林海十余载",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710642.shtml",
+        "publishedAt": "2026-10-10T19:12:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T19:10:03.300+08:00",
+    "fetchedAt": "2026-10-10T19:20:04.344+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T19:10:36.920+08:00",
+      "fetchedAt": "2026-10-10T19:20:08.283+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T00:10:37.000+08:00"
+          "resetAt": "2026-10-11T00:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T19:10:37.202+08:00",
+      "fetchedAt": "2026-10-10T19:20:08.577+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T19:10:37.207+08:00",
+      "fetchedAt": "2026-10-10T19:20:08.587+08:00",
       "error": null
     }
   }
