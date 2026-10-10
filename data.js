@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T07:10:08.164+08:00",
+  "updatedAt": "2026-10-11T07:20:07.982+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
-    "feelsLikeC": 17,
-    "humidity": 99,
-    "windKph": 4.6,
+    "tempC": 16.3,
+    "feelsLikeC": 17.6,
+    "humidity": 97,
+    "windKph": 4.3,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-11T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T07:10:08.164+08:00",
+    "observedAt": "2026-10-11T07:15:00.000+08:00",
+    "fetchedAt": "2026-10-11T07:20:07.982+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美俄达成能源合作 泽连斯基感到“遭背叛” 美总统建议乌更换领导人",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710865.shtml",
+        "publishedAt": "2026-10-11T07:13:20.000+08:00"
+      },
+      {
+        "title": "10月11日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-11/10710864.shtml",
+        "publishedAt": "2026-10-11T07:09:20.000+08:00"
+      },
       {
         "title": "美总统：美国有可能加入沙特对胡塞武装的打击行动",
         "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710863.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "食品安全法大幅修订回应哪些关切",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710861.shtml",
         "publishedAt": "2026-10-11T06:35:20.000+08:00"
-      },
-      {
-        "title": "美国宾州发生大规模枪击事件 至少9人身亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710860.shtml",
-        "publishedAt": "2026-10-11T06:22:39.000+08:00"
-      },
-      {
-        "title": "俄政府宣布部分解除柴油出口禁令",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710859.shtml",
-        "publishedAt": "2026-10-11T06:21:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T07:10:03.182+08:00",
+    "fetchedAt": "2026-10-11T07:20:03.025+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T07:10:07.051+08:00",
+      "fetchedAt": "2026-10-11T07:20:06.837+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T12:10:08.000+08:00"
+          "resetAt": "2026-10-11T12:20:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T07:10:07.354+08:00",
+      "fetchedAt": "2026-10-11T07:20:07.062+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T07:10:07.363+08:00",
+      "fetchedAt": "2026-10-11T07:20:07.066+08:00",
       "error": null
     }
   }
