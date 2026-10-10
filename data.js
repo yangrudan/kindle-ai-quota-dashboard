@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T11:50:08.672+08:00",
+  "updatedAt": "2026-10-10T12:00:39.462+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.4,
-    "feelsLikeC": 28.7,
-    "humidity": 59,
-    "windKph": 4.1,
-    "windDir": "东北风",
+    "tempC": 25.6,
+    "feelsLikeC": 28.8,
+    "humidity": 58,
+    "windKph": 4.4,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T11:50:08.672+08:00",
+    "observedAt": "2026-10-10T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-10T12:00:39.462+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "尊界V800风波后实地探访门店 工作人员：暂未接到退车要求",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710107.shtml",
-        "publishedAt": "2026-10-10T11:43:12.000+08:00"
+        "title": "第七届“北斗杯”全国青少年体育大赛（青海西宁站）开赛",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710110.shtml",
+        "publishedAt": "2026-10-10T11:54:35.000+08:00"
       },
       {
-        "title": "效仿盗墓小说、挖自家院中古墓都涉犯罪，两部门发布典型案例",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710101.shtml",
-        "publishedAt": "2026-10-10T11:40:24.000+08:00"
+        "title": "河南安阳红旗渠机场将开通“乌鲁木齐—安阳—厦门”航线",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710081.shtml",
+        "publishedAt": "2026-10-10T11:54:17.000+08:00"
       },
       {
-        "title": "三峡水库175米蓄水进入冲刺阶段 沿江小镇尽显平湖美景",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710108.shtml",
-        "publishedAt": "2026-10-10T11:38:10.000+08:00"
+        "title": "海拔5350米 高海拔风电项目在西藏琼结完成全部吊装",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710099.shtml",
+        "publishedAt": "2026-10-10T11:53:53.000+08:00"
       },
       {
-        "title": "巴拿马发生强震致建筑物倒塌 人们聚集空地避难",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207401.shtml",
-        "publishedAt": "2026-10-10T11:36:04.000+08:00"
+        "title": "1月至9月上海口岸一线海关部门查发涉嫌侵权光伏产品案16起",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710091.shtml",
+        "publishedAt": "2026-10-10T11:52:31.000+08:00"
       },
       {
-        "title": "江苏省靖江市德胜村：“德治”引领“善治” “有德”才会“有得”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710106.shtml",
-        "publishedAt": "2026-10-10T11:33:36.000+08:00"
+        "title": "上海出入境管理部门首次在国庆长假后加开夜间办证专场",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710055.shtml",
+        "publishedAt": "2026-10-10T11:51:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T11:50:03.550+08:00",
+    "fetchedAt": "2026-10-10T12:00:03.934+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T11:50:07.407+08:00",
+      "fetchedAt": "2026-10-10T12:00:37.864+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T11:50:07.630+08:00",
+      "fetchedAt": "2026-10-10T12:00:38.132+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T11:50:07.639+08:00",
+      "fetchedAt": "2026-10-10T12:00:38.138+08:00",
       "error": null
     }
   }
