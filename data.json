@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T22:00:10.679+08:00",
+  "updatedAt": "2026-10-10T22:10:08.404+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T22:00:10.679+08:00",
+    "fetchedAt": "2026-10-10T22:10:08.404+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "零时差 | 贸易工具，治不了欧洲“等不及”的焦虑",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710829.shtml",
-        "publishedAt": "2026-10-10T21:56:07.000+08:00"
+        "title": "北京着力建设知识产权强国示范城市",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710835.shtml",
+        "publishedAt": "2026-10-10T22:06:40.000+08:00"
       },
       {
-        "title": "赓续长征精神 奋进复兴征程·长征壮歌丨“绝命后卫师”转战粤北志不绝",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710827.shtml",
-        "publishedAt": "2026-10-10T21:54:01.000+08:00"
+        "title": "河北冀州学生制作90枚模型火箭致敬长征胜利90周年",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710837.shtml",
+        "publishedAt": "2026-10-10T22:05:52.000+08:00"
       },
       {
-        "title": "突发：美国宾州发生大规模枪击事件 已致9人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710826.shtml",
-        "publishedAt": "2026-10-10T21:53:21.000+08:00"
+        "title": "服务惠民、文旅旺城、消费增效 机关大院开放解锁了哪些新服务？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710838.shtml",
+        "publishedAt": "2026-10-10T22:04:56.000+08:00"
       },
       {
-        "title": "一线调研丨从“头痛医头”到全域统筹 六网交织托举起万家灯火",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710824.shtml",
-        "publishedAt": "2026-10-10T21:49:01.000+08:00"
+        "title": "政企面对面恳谈 杭州助新兴赛道企业破解“成长的烦恼”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710828.shtml",
+        "publishedAt": "2026-10-10T22:03:44.000+08:00"
       },
       {
-        "title": "纪念“一代报人”邵飘萍：“一只秃笔”的斗争",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710818.shtml",
-        "publishedAt": "2026-10-10T21:48:03.000+08:00"
+        "title": "中外青年走进浙江衢州感受文化传承与基层治理实践",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710832.shtml",
+        "publishedAt": "2026-10-10T22:02:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T22:00:04.411+08:00",
+    "fetchedAt": "2026-10-10T22:10:03.559+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T22:00:09.001+08:00",
+      "fetchedAt": "2026-10-10T22:10:07.202+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T03:00:10.000+08:00"
+          "resetAt": "2026-10-11T03:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T22:00:09.274+08:00",
+      "fetchedAt": "2026-10-10T22:10:07.509+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T22:00:09.280+08:00",
+      "fetchedAt": "2026-10-10T22:10:07.518+08:00",
       "error": null
     }
   }
