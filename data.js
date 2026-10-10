@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T13:00:09.339+08:00",
+  "updatedAt": "2026-10-10T13:10:37.999+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T13:00:09.339+08:00",
+    "fetchedAt": "2026-10-10T13:10:37.999+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "人社部：力争“十五五”时期工伤保险参保达3.45亿人",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710127.shtml",
+        "publishedAt": "2026-10-10T13:00:14.000+08:00"
+      },
+      {
+        "title": "习近平经济思想引领中国加快发展新质生产力",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710122.shtml",
+        "publishedAt": "2026-10-10T12:57:02.000+08:00"
+      },
+      {
+        "title": "孩子“不想上学”,其中“心事”要重视",
+        "url": "https://www.chinanews.com.cn/life/2026/10-10/10710128.shtml",
+        "publishedAt": "2026-10-10T12:55:12.000+08:00"
+      },
+      {
+        "title": "人社部：力争到2030年技能人才占就业人员比例升至35%",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710125.shtml",
+        "publishedAt": "2026-10-10T12:53:32.000+08:00"
+      },
+      {
         "title": "王曼昱/蒯曼夺冠 WTT中国大满贯国乒女双战胜日本组合",
         "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710126.shtml",
         "publishedAt": "2026-10-10T12:50:46.000+08:00"
-      },
-      {
-        "title": "澳门特区政府、澳门特区立法会强烈谴责欧洲议会干预特区司法程序",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-10/10710124.shtml",
-        "publishedAt": "2026-10-10T12:47:24.000+08:00"
-      },
-      {
-        "title": "郑丽文喊话：两岸绝不可因“台独”生战，中国国民党须肩负两岸和平重任",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710123.shtml",
-        "publishedAt": "2026-10-10T12:41:31.000+08:00"
-      },
-      {
-        "title": "阿联酋检方称迪拜航空副驾驶企图驾机实施自杀式袭击",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710116.shtml",
-        "publishedAt": "2026-10-10T12:21:24.000+08:00"
-      },
-      {
-        "title": "俄美就柴油贸易达成一致 美放松相关对俄制裁",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710083.shtml",
-        "publishedAt": "2026-10-10T12:20:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T13:00:04.000+08:00",
+    "fetchedAt": "2026-10-10T13:10:02.920+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T13:00:08.084+08:00",
+      "fetchedAt": "2026-10-10T13:10:36.769+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T13:00:08.359+08:00",
+      "fetchedAt": "2026-10-10T13:10:37.147+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T13:00:08.362+08:00",
+      "fetchedAt": "2026-10-10T13:10:37.152+08:00",
       "error": null
     }
   }
