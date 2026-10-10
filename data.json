@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T15:50:08.768+08:00",
+  "updatedAt": "2026-10-10T16:00:08.679+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T15:50:08.768+08:00",
+    "fetchedAt": "2026-10-10T16:00:08.679+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "土里刨“金”！济南商河：小蚯蚓有大作为",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710489.shtml",
+        "publishedAt": "2026-10-10T15:57:36.000+08:00"
+      },
+      {
+        "title": "山水藏羌·同心共鉴——2026海外华文媒体阿坝行在蓉启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710491.shtml",
+        "publishedAt": "2026-10-10T15:46:27.000+08:00"
+      },
+      {
+        "title": "国乒调整亚锦赛阵容，取消林诗栋男子单打、混双的参赛报名",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710492.shtml",
+        "publishedAt": "2026-10-10T15:45:21.000+08:00"
+      },
       {
         "title": "国防部：日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710487.shtml",
@@ -28,24 +43,9 @@
         "title": "中新健康｜陆林院士：别靠网上心理测评给自己下诊断",
         "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710486.shtml",
         "publishedAt": "2026-10-10T15:39:33.000+08:00"
-      },
-      {
-        "title": "中新健康｜精神病院为何扎堆更名？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710484.shtml",
-        "publishedAt": "2026-10-10T15:35:25.000+08:00"
-      },
-      {
-        "title": "规范竞争与产业升级并举：分众新潮整合释放梯媒行业发展新信号",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710467.shtml",
-        "publishedAt": "2026-10-10T15:16:42.000+08:00"
-      },
-      {
-        "title": "3小时获赔6500元！国寿“骑手保”跑出理赔加速度",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710474.shtml",
-        "publishedAt": "2026-10-10T15:06:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T15:50:03.333+08:00",
+    "fetchedAt": "2026-10-10T16:00:03.646+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T15:50:07.544+08:00",
+      "fetchedAt": "2026-10-10T16:00:07.442+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 10,
+          "usedPct": 15,
           "resetAt": "2026-10-10T18:58:22.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T15:50:07.838+08:00",
+      "fetchedAt": "2026-10-10T16:00:07.721+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T15:50:07.848+08:00",
+      "fetchedAt": "2026-10-10T16:00:07.730+08:00",
       "error": null
     }
   }

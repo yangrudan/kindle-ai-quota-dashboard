@@ -214,7 +214,7 @@
     }
 
     if (state.latest && state.usingCache) {
-      ui.textNode(status, '缓存 · ' + age + ' 分钟前');
+      ui.textNode(status, '缓存 · 最近一次更新 ' + age + ' 分钟前');
       ui.className(status, 'warn');
       ui.textNode(alert, '网络暂时不可用 · 正在显示最近一次有效数据');
       ui.className(alert, 'data-alert on');
@@ -222,7 +222,7 @@
     }
 
     if (!state.latest || age > 15) {
-      ui.textNode(status, '离线 · 最后 ' + lastClock);
+      ui.textNode(status, state.latest ? '离线 · 最近一次更新 ' + age + ' 分钟前' : '离线 · 等待数据');
       ui.className(status, 'warn');
       ui.textNode(alert, '电脑或数据链路已离线 · 最后在线 ' + lastClock);
       ui.className(alert, 'data-alert on');
@@ -230,7 +230,7 @@
     }
 
     if (age >= 7) {
-      ui.textNode(status, '延迟 ' + age + ' 分钟 · ' + lastClock);
+      ui.textNode(status, '最近一次更新 ' + age + ' 分钟前');
       ui.className(status, 'warn');
       ui.textNode(alert, '实时数据延迟 ' + age + ' 分钟 · 正在显示最后一次结果');
       ui.className(alert, 'data-alert on');
