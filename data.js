@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T17:30:39.645+08:00",
+  "updatedAt": "2026-10-10T17:40:08.108+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-10T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T17:30:39.645+08:00",
+    "fetchedAt": "2026-10-10T17:40:08.108+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第五届沿黄观光路国际自行车赛在榆林吴堡开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710516.shtml",
-        "publishedAt": "2026-10-10T17:26:37.000+08:00"
+        "title": "北京市出台“十五五”时期促进高质量充分就业专项规划",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710531.shtml",
+        "publishedAt": "2026-10-10T17:31:43.000+08:00"
       },
       {
-        "title": "中国科学院院士葛均波当选世界心脏联盟候任主席",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710515.shtml",
-        "publishedAt": "2026-10-10T17:25:05.000+08:00"
+        "title": "（乡村行·看振兴）硕果盈枝 江西安远特色林果产业铺就富民路",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710561.shtml",
+        "publishedAt": "2026-10-10T17:31:15.000+08:00"
       },
       {
-        "title": "重庆铜梁打造西部新型储能高地",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710514.shtml",
-        "publishedAt": "2026-10-10T17:24:35.000+08:00"
+        "title": "长江入海口外贸“新三样”出口持续升温",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710528.shtml",
+        "publishedAt": "2026-10-10T17:30:01.000+08:00"
       },
       {
-        "title": "海南警方公布3起新型犯罪典型案例：“套路贷”涉案金额过亿元",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710540.shtml",
-        "publishedAt": "2026-10-10T17:24:29.000+08:00"
+        "title": "离境退税2.0版政策落地百日 海南退税商品总额超3000万元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710532.shtml",
+        "publishedAt": "2026-10-10T17:29:51.000+08:00"
       },
       {
-        "title": "渝昆高铁云南段首个配套220千伏变电站投运",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710569.shtml",
-        "publishedAt": "2026-10-10T17:24:01.000+08:00"
+        "title": "打掉犯罪团伙16个，海南警方深化扫黑除恶专项斗争第二轮收网",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710534.shtml",
+        "publishedAt": "2026-10-10T17:29:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T17:30:04.000+08:00",
+    "fetchedAt": "2026-10-10T17:40:03.261+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T17:30:38.393+08:00",
+      "fetchedAt": "2026-10-10T17:40:06.919+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 55,
+          "usedPct": 64,
           "resetAt": "2026-10-10T18:58:22.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 63,
+          "usedPct": 64,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T17:30:38.711+08:00",
+      "fetchedAt": "2026-10-10T17:40:07.198+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T17:30:38.722+08:00",
+      "fetchedAt": "2026-10-10T17:40:07.206+08:00",
       "error": null
     }
   }
