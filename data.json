@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T18:40:09.630+08:00",
+  "updatedAt": "2026-10-10T18:50:09.861+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.3,
-    "feelsLikeC": 24.5,
-    "humidity": 75,
+    "tempC": 22.1,
+    "feelsLikeC": 24.2,
+    "humidity": 76,
     "windKph": 4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T18:40:09.630+08:00",
+    "observedAt": "2026-10-10T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T18:50:09.861+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从四川古窖到伦敦大展，剑南春给世界倒了一杯什么酒？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710617.shtml",
-        "publishedAt": "2026-10-10T18:33:52.000+08:00"
+        "title": "京医千询通过十门高级卫生专业技术资格考试真题测试",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710622.shtml",
+        "publishedAt": "2026-10-10T18:46:11.000+08:00"
       },
       {
-        "title": "中方将举办联合国维和参谋军官国际培训班",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710613.shtml",
-        "publishedAt": "2026-10-10T18:32:28.000+08:00"
+        "title": "高德途途正式成为金沙中国001号机器狗导览员",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710620.shtml",
+        "publishedAt": "2026-10-10T18:46:07.000+08:00"
       },
       {
-        "title": "2026武网签表出炉：郑钦文首轮迎战李吉妮 若晋级次轮将对战萨巴伦卡",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710633.shtml",
-        "publishedAt": "2026-10-10T18:31:00.000+08:00"
+        "title": "以智造赋能消费升级 长虹美菱探索家电产业数智转型新路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710618.shtml",
+        "publishedAt": "2026-10-10T18:44:37.000+08:00"
       },
       {
-        "title": "中国与巴基斯坦将举行首次陆军联合训练",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710612.shtml",
-        "publishedAt": "2026-10-10T18:27:14.000+08:00"
+        "title": "第六届中国－太平洋岛国政党对话会举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710614.shtml",
+        "publishedAt": "2026-10-10T18:43:39.000+08:00"
       },
       {
-        "title": "国台办评赖清德“双十”讲话：误导民众、用心叵测",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710624.shtml",
-        "publishedAt": "2026-10-10T18:27:08.000+08:00"
+        "title": "上海市宝山区人大常委会原副主任陈江接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710634.shtml",
+        "publishedAt": "2026-10-10T18:41:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T18:40:03.968+08:00",
+    "fetchedAt": "2026-10-10T18:50:04.534+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T18:40:08.543+08:00",
+      "fetchedAt": "2026-10-10T18:50:08.575+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T18:40:08.805+08:00",
+      "fetchedAt": "2026-10-10T18:50:08.901+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T18:40:08.814+08:00",
+      "fetchedAt": "2026-10-10T18:50:08.906+08:00",
       "error": null
     }
   }
