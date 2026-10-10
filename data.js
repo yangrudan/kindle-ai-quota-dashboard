@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T14:20:08.178+08:00",
+  "updatedAt": "2026-10-10T14:30:08.906+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.2,
-    "feelsLikeC": 27,
+    "tempC": 26.1,
+    "feelsLikeC": 26.6,
     "humidity": 52,
-    "windKph": 8.7,
+    "windKph": 8.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-10T14:20:08.178+08:00",
+    "observedAt": "2026-10-10T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-10T14:30:08.906+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "葛洲坝航运扩能主体工程开工",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710466.shtml",
+        "publishedAt": "2026-10-10T14:23:59.000+08:00"
+      },
+      {
+        "title": "中国铁路今起实行新的货物列车运行图",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710465.shtml",
+        "publishedAt": "2026-10-10T14:23:05.000+08:00"
+      },
       {
         "title": "景区商场AI拍照机暗藏哪些安全风险？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710158.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "太原市正式实施中小学春秋假制度",
         "url": "https://www.chinanews.com.cn/edu/2026/10-10/10710150.shtml",
         "publishedAt": "2026-10-10T13:43:21.000+08:00"
-      },
-      {
-        "title": "日本执政党丑闻风波持续 高市内阁深陷信任危机",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710147.shtml",
-        "publishedAt": "2026-10-10T13:37:04.000+08:00"
-      },
-      {
-        "title": "商务部电子商务司负责人解读《关于实施品质电商“五优”行动的通知》",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710146.shtml",
-        "publishedAt": "2026-10-10T13:36:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T14:20:03.122+08:00",
+    "fetchedAt": "2026-10-10T14:30:03.452+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T14:20:06.880+08:00",
+      "fetchedAt": "2026-10-10T14:30:07.816+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 2,
           "resetAt": "2026-10-10T18:58:22.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T14:20:07.060+08:00",
+      "fetchedAt": "2026-10-10T14:30:07.941+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 23.62,
+      "balance": 23.32,
       "currency": "CNY",
-      "detail": "余额 ¥23.62",
-      "fetchedAt": "2026-10-10T14:20:07.071+08:00",
+      "detail": "余额 ¥23.32",
+      "fetchedAt": "2026-10-10T14:30:07.950+08:00",
       "error": null
     }
   }
