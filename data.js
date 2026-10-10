@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T20:40:08.987+08:00",
+  "updatedAt": "2026-10-10T20:50:38.302+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.2,
-    "feelsLikeC": 23.2,
+    "tempC": 21,
+    "feelsLikeC": 22.9,
     "humidity": 81,
-    "windKph": 5,
+    "windKph": 5.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T20:40:08.987+08:00",
+    "observedAt": "2026-10-10T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T20:50:38.302+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026武汉网球公开赛挥拍 郑钦文在家乡出战",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710714.shtml",
-        "publishedAt": "2026-10-10T20:32:05.000+08:00"
+        "title": "郑钦文晋级女单决赛 刷新个人中网最佳战绩",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710754.shtml",
+        "publishedAt": "2026-10-10T20:42:53.000+08:00"
       },
       {
-        "title": "2026年环崇明岛女子世巡赛：参赛选手迎最长赛段考验",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710713.shtml",
-        "publishedAt": "2026-10-10T20:31:59.000+08:00"
+        "title": "监督关怀“弱势群体” 守护民生温暖底色",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710733.shtml",
+        "publishedAt": "2026-10-10T20:39:35.000+08:00"
       },
       {
-        "title": "江西出台法规促进民营经济发展 突出解决难点堵点问题",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710699.shtml",
-        "publishedAt": "2026-10-10T20:31:45.000+08:00"
+        "title": "科尔沁艺术职业学院原党委书记高常亮被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710720.shtml",
+        "publishedAt": "2026-10-10T20:39:23.000+08:00"
       },
       {
-        "title": "安徽国元金融控股集团有限公司原党委副书记、总经理吴天被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710726.shtml",
-        "publishedAt": "2026-10-10T20:30:35.000+08:00"
+        "title": "重庆警方打掉一个涉嫌“舆情敲诈”恶势力组织 破获刑事案件25起",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710732.shtml",
+        "publishedAt": "2026-10-10T20:38:51.000+08:00"
       },
       {
-        "title": "安徽省水利厅原党组书记、厅长王荣喜被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710725.shtml",
-        "publishedAt": "2026-10-10T20:28:02.000+08:00"
+        "title": "中国（广西）—文莱美食文化交流活动在斯里巴加湾举办",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-10/10710735.shtml",
+        "publishedAt": "2026-10-10T20:38:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T20:40:03.018+08:00",
+    "fetchedAt": "2026-10-10T20:50:03.441+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T20:40:07.522+08:00",
+      "fetchedAt": "2026-10-10T20:50:36.834+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T01:40:08.000+08:00"
+          "resetAt": "2026-10-11T01:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T20:40:07.816+08:00",
+      "fetchedAt": "2026-10-10T20:50:37.175+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T20:40:07.826+08:00",
+      "fetchedAt": "2026-10-10T20:50:37.183+08:00",
       "error": null
     }
   }
