@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T18:20:09.246+08:00",
+  "updatedAt": "2026-10-10T18:30:09.492+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.5,
-    "feelsLikeC": 24.6,
-    "humidity": 74,
-    "windKph": 4.2,
+    "tempC": 22.3,
+    "feelsLikeC": 24.5,
+    "humidity": 75,
+    "windKph": 4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-10T18:20:09.246+08:00",
+    "observedAt": "2026-10-10T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-10T18:30:09.492+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国国防部：愿同美方一道，推动两军关系稳定健康可持续发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710611.shtml",
+        "publishedAt": "2026-10-10T18:23:28.000+08:00"
+      },
+      {
+        "title": "重温楼宇烈先生《我国宗教中国化的三重意涵》",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710615.shtml",
+        "publishedAt": "2026-10-10T18:21:10.000+08:00"
+      },
+      {
+        "title": "中国国防部：日本“新型军国主义”这头灰犀牛正在变异失控",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710610.shtml",
+        "publishedAt": "2026-10-10T18:19:20.000+08:00"
+      },
       {
         "title": "“杜立特行动”突袭者后代捐赠文物 寻访父辈上饶记忆",
         "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710608.shtml",
@@ -28,24 +43,9 @@
         "title": "中国工艺美术馆龟兹文化艺术展再现丝路风情",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207428.shtml",
         "publishedAt": "2026-10-10T18:11:30.000+08:00"
-      },
-      {
-        "title": "多国前政要学者参访浙江温州 看好中国经济韧性",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710609.shtml",
-        "publishedAt": "2026-10-10T18:09:53.000+08:00"
-      },
-      {
-        "title": "（经济观察）勿将贸易账算在汇率上 人民币涨跌由市场决定",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710607.shtml",
-        "publishedAt": "2026-10-10T18:07:01.000+08:00"
-      },
-      {
-        "title": "冷空气登场局地降温将超8℃ 为何南方多地热感不减反增？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710619.shtml",
-        "publishedAt": "2026-10-10T18:05:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T18:20:03.906+08:00",
+    "fetchedAt": "2026-10-10T18:30:04.119+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T18:20:08.108+08:00",
+      "fetchedAt": "2026-10-10T18:30:08.274+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T18:20:08.331+08:00",
+      "fetchedAt": "2026-10-10T18:30:08.602+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T18:20:08.335+08:00",
+      "fetchedAt": "2026-10-10T18:30:08.630+08:00",
       "error": null
     }
   }
