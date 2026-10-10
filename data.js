@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T16:40:08.336+08:00",
+  "updatedAt": "2026-10-10T16:50:09.633+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25,
+    "tempC": 24.8,
     "feelsLikeC": 26.2,
-    "humidity": 58,
-    "windKph": 6.5,
+    "humidity": 60,
+    "windKph": 5.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T16:40:08.336+08:00",
+    "observedAt": "2026-10-10T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T16:50:09.633+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "南京：寓意 “十全十美” 定格幸福瞬间",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710527.shtml",
+        "publishedAt": "2026-10-10T16:44:22.000+08:00"
+      },
       {
         "title": "全国秋粮收获过半 秋冬种陆续展开",
         "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710525.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广西龙州：万亩黑皮果蔗喜获丰收 “甜蜜引擎”助力乡村振兴",
         "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710497.shtml",
         "publishedAt": "2026-10-10T16:24:47.000+08:00"
-      },
-      {
-        "title": "行走美丽画卷｜宁夏贺兰：“稻渔共生”走出生态农业新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710463.shtml",
-        "publishedAt": "2026-10-10T16:19:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T16:40:03.163+08:00",
+    "fetchedAt": "2026-10-10T16:50:03.808+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T16:40:06.752+08:00",
+      "fetchedAt": "2026-10-10T16:50:07.990+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T16:40:06.988+08:00",
+      "fetchedAt": "2026-10-10T16:50:08.224+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T16:40:06.997+08:00",
+      "fetchedAt": "2026-10-10T16:50:08.234+08:00",
       "error": null
     }
   }
