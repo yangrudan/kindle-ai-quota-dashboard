@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T22:40:11.029+08:00",
+  "updatedAt": "2026-10-10T22:50:08.012+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.6,
-    "feelsLikeC": 21.6,
-    "humidity": 86,
-    "windKph": 3.7,
-    "windDir": "东北风",
+    "tempC": 19.5,
+    "feelsLikeC": 21.5,
+    "humidity": 87,
+    "windKph": 3.5,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T22:40:11.029+08:00",
+    "observedAt": "2026-10-10T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T22:50:08.012+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "牛奶为什么能解辣？灯泡为何是梨形？一起get科普小知识",
+        "url": "https://www.chinanews.com.cn/life/2026/10-10/10710855.shtml",
+        "publishedAt": "2026-10-10T22:48:46.000+08:00"
+      },
+      {
+        "title": "沙特利雅得机场频繁遭袭 我使馆发布领事提醒",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710854.shtml",
+        "publishedAt": "2026-10-10T22:45:44.000+08:00"
+      },
+      {
+        "title": "广西大学现代造纸产业技术研究院揭牌 助力林浆纸产业发展",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-10/10710852.shtml",
+        "publishedAt": "2026-10-10T22:38:53.000+08:00"
+      },
       {
         "title": "2026上海网球大师赛：布云朝克特不敌鲁德 中国选手仅剩周意",
         "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710848.shtml",
@@ -28,24 +43,9 @@
         "title": "以色列空袭加沙地带致5人死亡多人受伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710847.shtml",
         "publishedAt": "2026-10-10T22:37:43.000+08:00"
-      },
-      {
-        "title": "土耳其将禁止未满15周岁未成年人开社媒账号",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710846.shtml",
-        "publishedAt": "2026-10-10T22:37:17.000+08:00"
-      },
-      {
-        "title": "昔日长征落脚点“圈粉”八方游客",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710845.shtml",
-        "publishedAt": "2026-10-10T22:36:37.000+08:00"
-      },
-      {
-        "title": "\"侨力量·影像云南\"主题摄影展昆明开幕 近百幅影像串联70载侨界历程",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710830.shtml",
-        "publishedAt": "2026-10-10T22:16:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T22:40:04.145+08:00",
+    "fetchedAt": "2026-10-10T22:50:03.053+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T22:40:08.608+08:00",
+      "fetchedAt": "2026-10-10T22:50:06.907+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T03:40:09.000+08:00"
+          "resetAt": "2026-10-11T03:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T22:40:09.028+08:00",
+      "fetchedAt": "2026-10-10T22:50:07.129+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T22:40:09.031+08:00",
+      "fetchedAt": "2026-10-10T22:50:07.132+08:00",
       "error": null
     }
   }
