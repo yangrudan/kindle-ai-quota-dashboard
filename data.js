@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T21:50:08.975+08:00",
+  "updatedAt": "2026-10-10T22:00:10.679+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.1,
-    "feelsLikeC": 22,
+    "tempC": 19.9,
+    "feelsLikeC": 21.8,
     "humidity": 84,
-    "windKph": 4.5,
+    "windKph": 4.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T21:50:08.975+08:00",
+    "observedAt": "2026-10-10T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-10T22:00:10.679+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "尺素金声｜发票数据增长19.5%，国庆假期服务消费旺盛",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710823.shtml",
-        "publishedAt": "2026-10-10T21:45:45.000+08:00"
+        "title": "零时差 | 贸易工具，治不了欧洲“等不及”的焦虑",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710829.shtml",
+        "publishedAt": "2026-10-10T21:56:07.000+08:00"
       },
       {
-        "title": "重磅文件发布，新质生产力发展有了清晰路线图",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710822.shtml",
-        "publishedAt": "2026-10-10T21:44:08.000+08:00"
+        "title": "赓续长征精神 奋进复兴征程·长征壮歌丨“绝命后卫师”转战粤北志不绝",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710827.shtml",
+        "publishedAt": "2026-10-10T21:54:01.000+08:00"
       },
       {
-        "title": "10月10日新闻夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-10/10710821.shtml",
-        "publishedAt": "2026-10-10T21:43:40.000+08:00"
+        "title": "突发：美国宾州发生大规模枪击事件 已致9人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710826.shtml",
+        "publishedAt": "2026-10-10T21:53:21.000+08:00"
       },
       {
-        "title": "藏北高原种出“黑珍珠” 索县308亩黑青稞藏着致富“粮”方",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710819.shtml",
-        "publishedAt": "2026-10-10T21:42:06.000+08:00"
+        "title": "一线调研丨从“头痛医头”到全域统筹 六网交织托举起万家灯火",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710824.shtml",
+        "publishedAt": "2026-10-10T21:49:01.000+08:00"
       },
       {
-        "title": "第三次新疆综合科学考察成果发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710788.shtml",
-        "publishedAt": "2026-10-10T21:42:04.000+08:00"
+        "title": "纪念“一代报人”邵飘萍：“一只秃笔”的斗争",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710818.shtml",
+        "publishedAt": "2026-10-10T21:48:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T21:50:03.414+08:00",
+    "fetchedAt": "2026-10-10T22:00:04.411+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T21:50:07.557+08:00",
+      "fetchedAt": "2026-10-10T22:00:09.001+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T02:50:08.000+08:00"
+          "resetAt": "2026-10-11T03:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T21:50:07.973+08:00",
+      "fetchedAt": "2026-10-10T22:00:09.274+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T21:50:07.982+08:00",
+      "fetchedAt": "2026-10-10T22:00:09.280+08:00",
       "error": null
     }
   }
