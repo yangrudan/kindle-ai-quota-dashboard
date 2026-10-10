@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T16:00:08.679+08:00",
+  "updatedAt": "2026-10-10T16:05:31.039+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 25.5,
     "feelsLikeC": 26.2,
-    "humidity": 54,
-    "windKph": 8,
+    "humidity": 55,
+    "windKph": 8.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T16:00:08.679+08:00",
+    "observedAt": "2026-10-10T16:00:00.000+08:00",
+    "fetchedAt": "2026-10-10T16:05:31.039+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国性涉外法律服务平台“法通”网正式上线",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710461.shtml",
+        "publishedAt": "2026-10-10T16:02:22.000+08:00"
+      },
       {
         "title": "土里刨“金”！济南商河：小蚯蚓有大作为",
         "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710489.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "国防部：日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710487.shtml",
         "publishedAt": "2026-10-10T15:40:55.000+08:00"
-      },
-      {
-        "title": "中新健康｜陆林院士：别靠网上心理测评给自己下诊断",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710486.shtml",
-        "publishedAt": "2026-10-10T15:39:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T16:00:03.646+08:00",
+    "fetchedAt": "2026-10-10T16:05:25.888+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T16:00:07.442+08:00",
+      "fetchedAt": "2026-10-10T16:05:30.053+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T16:00:07.721+08:00",
+      "fetchedAt": "2026-10-10T16:05:30.236+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,9 @@ window.DASH_DATA = {
       "currency": "CNY",
       "detail": "余额 ¥23.09",
       "fetchedAt": "2026-10-10T16:00:07.730+08:00",
-      "error": null
+      "error": "没有设置环境变量 DEEPSEEK_API_KEY",
+      "stale": true,
+      "lastAttemptAt": "2026-10-10T16:05:30.245+08:00"
     }
   }
 };
