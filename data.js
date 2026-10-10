@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T15:20:09.916+08:00",
+  "updatedAt": "2026-10-10T15:30:38.757+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.7,
+    "tempC": 25.6,
     "feelsLikeC": 26.1,
     "humidity": 52,
-    "windKph": 9,
+    "windKph": 8.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-10T15:20:09.917+08:00",
+    "observedAt": "2026-10-10T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-10T15:30:38.757+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "规范竞争与产业升级并举：分众新潮整合释放梯媒行业发展新信号",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710467.shtml",
+        "publishedAt": "2026-10-10T15:16:42.000+08:00"
+      },
       {
         "title": "国防部：日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710483.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "澳大利亚一架轻型飞机坠毁 致2人受重伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710481.shtml",
         "publishedAt": "2026-10-10T15:03:27.000+08:00"
-      },
-      {
-        "title": "民族交响戏剧音乐会《山河如愿》在京首演 将沿长征路线巡演全国",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710479.shtml",
-        "publishedAt": "2026-10-10T15:01:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T15:20:04.281+08:00",
+    "fetchedAt": "2026-10-10T15:30:03.982+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T15:20:08.844+08:00",
+      "fetchedAt": "2026-10-10T15:30:37.639+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T15:20:09.090+08:00",
+      "fetchedAt": "2026-10-10T15:30:37.938+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T15:20:09.094+08:00",
+      "fetchedAt": "2026-10-10T15:30:37.943+08:00",
       "error": null
     }
   }
