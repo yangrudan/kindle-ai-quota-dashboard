@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T20:00:10.689+08:00",
+  "updatedAt": "2026-10-10T20:10:09.709+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T20:00:10.689+08:00",
+    "fetchedAt": "2026-10-10T20:10:09.709+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026澳大利亚人工智能生态链峰会在悉尼举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710637.shtml",
+        "publishedAt": "2026-10-10T19:59:55.000+08:00"
+      },
+      {
+        "title": "巴拿马地震已致27人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710674.shtml",
+        "publishedAt": "2026-10-10T19:59:25.000+08:00"
+      },
       {
         "title": "食品安全法修订草案公开征求意见 涉及AI监管、校园食品安全等",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710706.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国证监会召开资本市场和金融形势专家座谈会",
         "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710695.shtml",
         "publishedAt": "2026-10-10T19:48:54.000+08:00"
-      },
-      {
-        "title": "第四届粤港澳大湾区人才高质量发展大会将在东莞举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-10/10710691.shtml",
-        "publishedAt": "2026-10-10T19:46:30.000+08:00"
-      },
-      {
-        "title": "7国政要学者齐聚 2026温商发展对话在浙江温州举办",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710690.shtml",
-        "publishedAt": "2026-10-10T19:45:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T20:00:05.571+08:00",
+    "fetchedAt": "2026-10-10T20:10:03.132+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T20:00:09.560+08:00",
+      "fetchedAt": "2026-10-10T20:10:07.890+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T01:00:10.000+08:00"
+          "resetAt": "2026-10-11T01:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T20:00:09.826+08:00",
+      "fetchedAt": "2026-10-10T20:10:08.144+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T20:00:09.831+08:00",
+      "fetchedAt": "2026-10-10T20:10:08.154+08:00",
       "error": null
     }
   }
