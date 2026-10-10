@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T11:20:17.701+08:00",
+  "updatedAt": "2026-10-10T11:30:08.437+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.5,
-    "feelsLikeC": 28.1,
-    "humidity": 65,
-    "windKph": 3.5,
+    "tempC": 25.1,
+    "feelsLikeC": 28.6,
+    "humidity": 61,
+    "windKph": 3.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T11:20:17.701+08:00",
+    "observedAt": "2026-10-10T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-10T11:30:08.437+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "人社部：截至9月底，我国基本养老保险参保人数达10.79亿人",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710094.shtml",
+        "publishedAt": "2026-10-10T11:23:23.000+08:00"
+      },
+      {
+        "title": "中新网直播：巴拿马发生7.6级强震 连线侨胞直击现场",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-10/10710097.shtml",
+        "publishedAt": "2026-10-10T11:21:17.000+08:00"
+      },
+      {
+        "title": "人社部：今年1至9月我国城镇新增就业1052万人",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710090.shtml",
+        "publishedAt": "2026-10-10T11:20:41.000+08:00"
+      },
+      {
+        "title": "500人出征！第五届亚残运会中国体育代表团成立",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710088.shtml",
+        "publishedAt": "2026-10-10T11:14:03.000+08:00"
+      },
+      {
         "title": "用一场胜利迎接24岁 郑钦文时隔两年重返中网四强",
         "url": "http://www.chinanews.com.cn/ty/shipin/cns/2026/10-10/news1071378.shtml",
         "publishedAt": "2026-10-10T11:11:20.000+08:00"
-      },
-      {
-        "title": "《国家残疾预防行动计划（2026—2030年）》印发",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710084.shtml",
-        "publishedAt": "2026-10-10T11:07:50.000+08:00"
-      },
-      {
-        "title": "云岭动态第十五期",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710050.shtml",
-        "publishedAt": "2026-10-10T11:05:52.000+08:00"
-      },
-      {
-        "title": "纪录片｜永远的地球红飘带",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710080.shtml",
-        "publishedAt": "2026-10-10T10:58:44.000+08:00"
-      },
-      {
-        "title": "河南洛阳举行盛唐风格入城仪式 迎接中外嘉宾",
-        "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-10/news1071376.shtml",
-        "publishedAt": "2026-10-10T10:58:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T11:20:12.417+08:00",
+    "fetchedAt": "2026-10-10T11:30:03.616+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T11:20:16.240+08:00",
+      "fetchedAt": "2026-10-10T11:30:07.129+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
+          "usedPct": 58,
           "resetAt": "2026-10-10T13:11:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 49,
+          "usedPct": 51,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T11:20:16.538+08:00",
+      "fetchedAt": "2026-10-10T11:30:07.387+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T11:20:16.547+08:00",
+      "fetchedAt": "2026-10-10T11:30:07.397+08:00",
       "error": null
     }
   }
