@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T13:30:11.459+08:00",
+  "updatedAt": "2026-10-10T13:40:08.867+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T13:30:11.459+08:00",
+    "fetchedAt": "2026-10-10T13:40:08.867+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "商务部电子商务司负责人解读《关于实施品质电商“五优”行动的通知》",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710146.shtml",
+        "publishedAt": "2026-10-10T13:36:24.000+08:00"
+      },
+      {
+        "title": "商务部欧洲司负责人解读中欧贸易投资磋商机制第二次例会成果",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710144.shtml",
+        "publishedAt": "2026-10-10T13:33:48.000+08:00"
+      },
+      {
+        "title": "锦州市实施“链上工作法” 创新新的社会阶层人士统战工作",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-10/10710135.shtml",
+        "publishedAt": "2026-10-10T13:27:10.000+08:00"
+      },
       {
         "title": "人社部：力争“十五五”时期工伤保险参保达3.45亿人",
         "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710127.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "习近平经济思想引领中国加快发展新质生产力",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710122.shtml",
         "publishedAt": "2026-10-10T12:57:02.000+08:00"
-      },
-      {
-        "title": "孩子“不想上学”,其中“心事”要重视",
-        "url": "https://www.chinanews.com.cn/life/2026/10-10/10710128.shtml",
-        "publishedAt": "2026-10-10T12:55:12.000+08:00"
-      },
-      {
-        "title": "人社部：力争到2030年技能人才占就业人员比例升至35%",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710125.shtml",
-        "publishedAt": "2026-10-10T12:53:32.000+08:00"
-      },
-      {
-        "title": "王曼昱/蒯曼夺冠 WTT中国大满贯国乒女双战胜日本组合",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710126.shtml",
-        "publishedAt": "2026-10-10T12:50:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T13:30:04.894+08:00",
+    "fetchedAt": "2026-10-10T13:40:03.934+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T13:30:09.941+08:00",
+      "fetchedAt": "2026-10-10T13:40:07.535+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-10T18:30:11.000+08:00"
+          "resetAt": "2026-10-10T18:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T13:30:10.462+08:00",
+      "fetchedAt": "2026-10-10T13:40:07.860+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T13:30:10.471+08:00",
+      "fetchedAt": "2026-10-10T13:40:07.871+08:00",
       "error": null
     }
   }
