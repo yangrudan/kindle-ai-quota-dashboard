@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T14:30:08.906+08:00",
+  "updatedAt": "2026-10-10T14:40:40.275+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T14:30:08.906+08:00",
+    "fetchedAt": "2026-10-10T14:40:40.275+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国七部门发文推动电商领域高水平开放",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710464.shtml",
+        "publishedAt": "2026-10-10T14:25:35.000+08:00"
+      },
       {
         "title": "葛洲坝航运扩能主体工程开工",
         "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710466.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "安徽石台：雾绕山村 稻浪流金",
         "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-10/news1071407.shtml",
         "publishedAt": "2026-10-10T13:44:13.000+08:00"
-      },
-      {
-        "title": "太原市正式实施中小学春秋假制度",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-10/10710150.shtml",
-        "publishedAt": "2026-10-10T13:43:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T14:30:03.452+08:00",
+    "fetchedAt": "2026-10-10T14:40:03.657+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T14:30:07.816+08:00",
+      "fetchedAt": "2026-10-10T14:40:37.784+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-10-10T18:58:22.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T14:30:07.941+08:00",
+      "fetchedAt": "2026-10-10T14:40:37.909+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 23.32,
+      "balance": 23.26,
       "currency": "CNY",
-      "detail": "余额 ¥23.32",
-      "fetchedAt": "2026-10-10T14:30:07.950+08:00",
+      "detail": "余额 ¥23.26",
+      "fetchedAt": "2026-10-10T14:40:37.914+08:00",
       "error": null
     }
   }
