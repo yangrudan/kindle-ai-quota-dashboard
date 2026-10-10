@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T15:00:40.578+08:00",
+  "updatedAt": "2026-10-10T15:10:08.685+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T15:00:40.578+08:00",
+    "fetchedAt": "2026-10-10T15:10:08.685+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "甘肃嘉峪关：雄关染秋色 清秋意正浓",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207412.shtml",
-        "publishedAt": "2026-10-10T14:53:03.000+08:00"
+        "title": "澳大利亚一架轻型飞机坠毁 致2人受重伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710481.shtml",
+        "publishedAt": "2026-10-10T15:03:27.000+08:00"
       },
       {
-        "title": "徐州鼓楼国庆假日消费新态势：把流量留住，让爆红长红",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710473.shtml",
-        "publishedAt": "2026-10-10T14:52:26.000+08:00"
+        "title": "民族交响戏剧音乐会《山河如愿》在京首演 将沿长征路线巡演全国",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710479.shtml",
+        "publishedAt": "2026-10-10T15:01:41.000+08:00"
       },
       {
-        "title": "3名美团骑手荣登全国见义勇为榜，美团回应：将加大奖励骑手好人好事",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710472.shtml",
-        "publishedAt": "2026-10-10T14:48:48.000+08:00"
+        "title": "成都公交首批网约公交车开启试运行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710480.shtml",
+        "publishedAt": "2026-10-10T15:00:51.000+08:00"
       },
       {
-        "title": "建行国庆期间快速落地房贷贴息政策，服务居民及时享受贴息实惠",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710468.shtml",
-        "publishedAt": "2026-10-10T14:45:00.000+08:00"
+        "title": "新疆兵团团场啤酒花迎丰收年 产量效益双提升",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710477.shtml",
+        "publishedAt": "2026-10-10T14:59:17.000+08:00"
       },
       {
-        "title": "第五届亚残运会中国体育代表团成立",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207407.shtml",
-        "publishedAt": "2026-10-10T14:38:35.000+08:00"
+        "title": "2026金鸡海外影展开幕 五部佳片点亮首尔银幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710478.shtml",
+        "publishedAt": "2026-10-10T14:56:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T15:00:04.647+08:00",
+    "fetchedAt": "2026-10-10T15:10:03.828+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T15:00:39.057+08:00",
+      "fetchedAt": "2026-10-10T15:10:07.530+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T15:00:39.224+08:00",
+      "fetchedAt": "2026-10-10T15:10:07.813+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T15:00:39.228+08:00",
+      "fetchedAt": "2026-10-10T15:10:07.822+08:00",
       "error": null
     }
   }
