@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T08:20:08.754+08:00",
+  "updatedAt": "2026-10-10T08:30:10.032+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20,
-    "feelsLikeC": 22.2,
-    "humidity": 84,
+    "tempC": 20.5,
+    "feelsLikeC": 22.8,
+    "humidity": 82,
     "windKph": 2.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T08:15:00.000+08:00",
-    "fetchedAt": "2026-10-10T08:20:08.754+08:00",
+    "observedAt": "2026-10-10T08:30:00.000+08:00",
+    "fetchedAt": "2026-10-10T08:30:10.032+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冷空气明起将给北方带来降雨降温 江南华南暖意持续升级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10709996.shtml",
+        "publishedAt": "2026-10-10T08:23:31.000+08:00"
+      },
+      {
+        "title": "阿联酋检方：迪拜航空副驾驶企图实施自杀式袭击，造成尽可能多人员伤亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709995.shtml",
+        "publishedAt": "2026-10-10T08:22:01.000+08:00"
+      },
+      {
+        "title": "WTT中国大满贯赛：中国选手王曼昱晋级女单半决赛",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207385.shtml",
+        "publishedAt": "2026-10-10T08:18:49.000+08:00"
+      },
       {
         "title": "NBA中国赛2026在澳门打响 火箭队战胜独行侠队",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207381.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "胃癌诊疗如何更早一步 更进一步",
         "url": "https://www.chinanews.com.cn/jk/2026/10-10/10709991.shtml",
         "publishedAt": "2026-10-10T07:55:32.000+08:00"
-      },
-      {
-        "title": "中新网直播：国新办就“十五五”时期推进就业和社会保障高质量发展有关情况举行新闻发布会",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-10/10709990.shtml",
-        "publishedAt": "2026-10-10T07:55:18.000+08:00"
-      },
-      {
-        "title": "彭丽媛向2026年联合国教科文组织女童和妇女教育奖颁奖仪式发表视频致辞",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10709984.shtml",
-        "publishedAt": "2026-10-10T07:52:12.000+08:00"
-      },
-      {
-        "title": "《三体》里的“不要回答”会成真吗？刘慈欣这样看",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10709989.shtml",
-        "publishedAt": "2026-10-10T07:50:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T08:20:03.546+08:00",
+    "fetchedAt": "2026-10-10T08:30:04.270+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T08:20:07.561+08:00",
+      "fetchedAt": "2026-10-10T08:30:08.622+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T08:20:07.802+08:00",
+      "fetchedAt": "2026-10-10T08:30:08.865+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T08:20:07.811+08:00",
+      "fetchedAt": "2026-10-10T08:30:08.884+08:00",
       "error": null
     }
   }
