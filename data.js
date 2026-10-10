@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T08:40:09.344+08:00",
+  "updatedAt": "2026-10-10T08:50:08.449+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.5,
-    "feelsLikeC": 22.8,
-    "humidity": 82,
-    "windKph": 2.3,
+    "tempC": 21,
+    "feelsLikeC": 23.4,
+    "humidity": 81,
+    "windKph": 2.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T08:40:09.345+08:00",
+    "observedAt": "2026-10-10T08:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T08:50:08.449+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "WTT中国大满贯赛：中国选手周启豪晋级男单半决赛",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207389.shtml",
+        "publishedAt": "2026-10-10T08:42:17.000+08:00"
+      },
+      {
+        "title": "美国宣布：对国际刑事法院实施制裁",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709999.shtml",
+        "publishedAt": "2026-10-10T08:37:16.000+08:00"
+      },
       {
         "title": "中国成功发射卫星互联网低轨27组卫星",
         "url": "https://www.chinanews.com.cn/gn/2026/10-10/10709998.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "感冒药和退烧药混用可能伤肝！这些用药规范要牢记",
         "url": "https://www.chinanews.com.cn/jk/2026/10-10/10709997.shtml",
         "publishedAt": "2026-10-10T08:26:43.000+08:00"
-      },
-      {
-        "title": "冷空气明起将给北方带来降雨降温 江南华南暖意持续升级",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10709996.shtml",
-        "publishedAt": "2026-10-10T08:23:31.000+08:00"
-      },
-      {
-        "title": "阿联酋检方：迪拜航空副驾驶企图实施自杀式袭击，造成尽可能多人员伤亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709995.shtml",
-        "publishedAt": "2026-10-10T08:22:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T08:40:03.270+08:00",
+    "fetchedAt": "2026-10-10T08:50:02.818+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T08:40:08.246+08:00",
+      "fetchedAt": "2026-10-10T08:50:07.171+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T08:40:08.522+08:00",
+      "fetchedAt": "2026-10-10T08:50:07.476+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T08:40:08.532+08:00",
+      "fetchedAt": "2026-10-10T08:50:07.480+08:00",
       "error": null
     }
   }
