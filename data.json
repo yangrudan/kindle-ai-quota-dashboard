@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T07:50:39.145+08:00",
+  "updatedAt": "2026-10-10T08:00:08.709+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-10T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T07:50:39.146+08:00",
+    "fetchedAt": "2026-10-10T08:00:08.709+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "《三体》里的“不要回答”会成真吗？刘慈欣这样看",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-10/10709989.shtml",
+        "publishedAt": "2026-10-10T07:50:31.000+08:00"
+      },
+      {
+        "title": "近日，多地陆续官宣中小学春秋假安排→",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-10/10709987.shtml",
+        "publishedAt": "2026-10-10T07:46:25.000+08:00"
+      },
+      {
+        "title": "巴拿马发生强震 首都震感明显",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709988.shtml",
+        "publishedAt": "2026-10-10T07:46:23.000+08:00"
+      },
+      {
+        "title": "三万元买一段“实习”？他们为什么付费",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-10/10709986.shtml",
+        "publishedAt": "2026-10-10T07:43:03.000+08:00"
+      },
+      {
         "title": "从东博会“新秀”看中国—东盟合作引力",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-10/10709985.shtml",
         "publishedAt": "2026-10-10T07:41:37.000+08:00"
-      },
-      {
-        "title": "从赶景点到沉浸式体验 年轻人在旅行中体验“在地化”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10709983.shtml",
-        "publishedAt": "2026-10-10T07:29:14.000+08:00"
-      },
-      {
-        "title": "视频丨补肝明目、防癌抗癌！厨房中常见的它有超多好处",
-        "url": "https://www.chinanews.com.cn/life/2026/10-10/10709981.shtml",
-        "publishedAt": "2026-10-10T07:20:52.000+08:00"
-      },
-      {
-        "title": "普京与特朗普通话 确认俄将向美及全球供应石油",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709982.shtml",
-        "publishedAt": "2026-10-10T07:19:30.000+08:00"
-      },
-      {
-        "title": "超强厄尔尼诺已经形成 如何防备和应对？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10709980.shtml",
-        "publishedAt": "2026-10-10T07:16:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T07:50:03.428+08:00",
+    "fetchedAt": "2026-10-10T08:00:03.472+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T07:50:37.733+08:00",
+      "fetchedAt": "2026-10-10T08:00:07.402+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-10T12:50:38.000+08:00"
+          "resetAt": "2026-10-10T13:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T07:50:38.024+08:00",
+      "fetchedAt": "2026-10-10T08:00:07.612+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T07:50:38.027+08:00",
+      "fetchedAt": "2026-10-10T08:00:07.620+08:00",
       "error": null
     }
   }
