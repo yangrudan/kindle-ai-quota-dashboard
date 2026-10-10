@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T10:30:11.043+08:00",
+  "updatedAt": "2026-10-10T10:40:09.587+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-10T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T10:30:11.043+08:00",
+    "fetchedAt": "2026-10-10T10:40:09.587+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "市场监管总局：国庆期间全国涉旅游特种设备安全形势总体平稳",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710051.shtml",
-        "publishedAt": "2026-10-10T10:24:52.000+08:00"
+        "title": "在加沙苦战三载，哈马斯武装还剩多少人马？",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710038.shtml",
+        "publishedAt": "2026-10-10T10:34:38.000+08:00"
       },
       {
-        "title": "【新闻特写】“六张网”带来的新机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710059.shtml",
-        "publishedAt": "2026-10-10T10:24:42.000+08:00"
+        "title": "迈向世界高端制造中心——广东持续做大做强先进制造业观察",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710066.shtml",
+        "publishedAt": "2026-10-10T10:33:20.000+08:00"
       },
       {
-        "title": "两部门联合发布依法惩治文物犯罪典型案例",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-10/10710048.shtml",
-        "publishedAt": "2026-10-10T10:19:06.000+08:00"
+        "title": "巴西一架军警飞机坠毁致3人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710043.shtml",
+        "publishedAt": "2026-10-10T10:33:06.000+08:00"
       },
       {
-        "title": "5方面15条举措 商务部等7部门部署品质电商“五优”行动",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710053.shtml",
-        "publishedAt": "2026-10-10T10:18:57.000+08:00"
+        "title": "红星照耀中国丨于都河畔重演烽火送别 薪火接力传承长征精神",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710063.shtml",
+        "publishedAt": "2026-10-10T10:30:46.000+08:00"
       },
       {
-        "title": "德国前总理施罗德出席普京生日庆祝活动 两人微笑握手",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710052.shtml",
-        "publishedAt": "2026-10-10T10:16:11.000+08:00"
+        "title": "新华视点｜当车变成“移动的家”：这种旅行方式火了",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710062.shtml",
+        "publishedAt": "2026-10-10T10:29:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T10:30:04.047+08:00",
+    "fetchedAt": "2026-10-10T10:40:03.765+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T10:30:09.878+08:00",
+      "fetchedAt": "2026-10-10T10:40:07.856+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T10:30:10.184+08:00",
+      "fetchedAt": "2026-10-10T10:40:08.103+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T10:30:10.194+08:00",
+      "fetchedAt": "2026-10-10T10:40:08.107+08:00",
       "error": null
     }
   }
