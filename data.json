@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10T09:40:09.255+08:00",
+  "updatedAt": "2026-10-10T09:50:09.603+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.3,
-    "feelsLikeC": 25,
-    "humidity": 76,
-    "windKph": 2.5,
+    "tempC": 22.7,
+    "feelsLikeC": 25.7,
+    "humidity": 74,
+    "windKph": 2.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T09:40:09.255+08:00",
+    "observedAt": "2026-10-10T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T09:50:09.604+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "今年第七期和第八期凭证式国债今天开售",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710030.shtml",
+        "publishedAt": "2026-10-10T09:42:58.000+08:00"
+      },
+      {
+        "title": "“法通”网上线！为“走出去”企业、公民提供一站式服务",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-10/10710029.shtml",
+        "publishedAt": "2026-10-10T09:41:21.000+08:00"
+      },
       {
         "title": "云南省花灯滇剧艺术周昭通启幕 名家新秀同台唱滇韵",
         "url": "https://www.chinanews.com.cn/cul/2026/10-10/10710026.shtml",
@@ -33,19 +43,9 @@
         "title": "央行10月10日7天期逆回购操作量为零",
         "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710027.shtml",
         "publishedAt": "2026-10-10T09:33:19.000+08:00"
-      },
-      {
-        "title": "“云津艺渡·上海非物质文化遗产展” 在英国举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710019.shtml",
-        "publishedAt": "2026-10-10T09:32:39.000+08:00"
-      },
-      {
-        "title": "英国拟未来四年投入10亿英镑扶持创新集群",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710018.shtml",
-        "publishedAt": "2026-10-10T09:31:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T09:40:03.712+08:00",
+    "fetchedAt": "2026-10-10T09:50:03.798+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T09:40:07.787+08:00",
+      "fetchedAt": "2026-10-10T09:50:08.282+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 27,
           "resetAt": "2026-10-10T13:11:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 45,
+          "usedPct": 46,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T09:40:08.038+08:00",
+      "fetchedAt": "2026-10-10T09:50:08.549+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T09:40:08.042+08:00",
+      "fetchedAt": "2026-10-10T09:50:08.559+08:00",
       "error": null
     }
   }
