@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T17:20:08.998+08:00",
+  "updatedAt": "2026-10-10T17:30:39.645+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.1,
-    "feelsLikeC": 25.9,
-    "humidity": 65,
-    "windKph": 4.4,
-    "windDir": "北风",
+    "tempC": 23.6,
+    "feelsLikeC": 25.5,
+    "humidity": 68,
+    "windKph": 4.2,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-10T17:20:08.998+08:00",
+    "observedAt": "2026-10-10T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-10T17:30:39.645+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "走进泰国东北部社区 感受伊桑文化的古朴与活力",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710510.shtml",
-        "publishedAt": "2026-10-10T17:14:52.000+08:00"
+        "title": "第五届沿黄观光路国际自行车赛在榆林吴堡开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-10/10710516.shtml",
+        "publishedAt": "2026-10-10T17:26:37.000+08:00"
       },
       {
-        "title": "加强汽车产品创新设计等方面管理 四部门征求意见",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710589.shtml",
-        "publishedAt": "2026-10-10T17:14:10.000+08:00"
+        "title": "中国科学院院士葛均波当选世界心脏联盟候任主席",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710515.shtml",
+        "publishedAt": "2026-10-10T17:25:05.000+08:00"
       },
       {
-        "title": "人社部：今年前三季度中国城镇新增就业1052万人",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710556.shtml",
-        "publishedAt": "2026-10-10T17:13:30.000+08:00"
+        "title": "重庆铜梁打造西部新型储能高地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710514.shtml",
+        "publishedAt": "2026-10-10T17:24:35.000+08:00"
       },
       {
-        "title": "中国检察机关开展涉长征公益诉讼专项监督 今年立案434件",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710558.shtml",
-        "publishedAt": "2026-10-10T17:12:32.000+08:00"
+        "title": "海南警方公布3起新型犯罪典型案例：“套路贷”涉案金额过亿元",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710540.shtml",
+        "publishedAt": "2026-10-10T17:24:29.000+08:00"
       },
       {
-        "title": "司法聚力综治阵地 在“家门口”解难题",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710504.shtml",
-        "publishedAt": "2026-10-10T17:12:00.000+08:00"
+        "title": "渝昆高铁云南段首个配套220千伏变电站投运",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710569.shtml",
+        "publishedAt": "2026-10-10T17:24:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T17:20:03.658+08:00",
+    "fetchedAt": "2026-10-10T17:30:04.000+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T17:20:07.628+08:00",
+      "fetchedAt": "2026-10-10T17:30:38.393+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 45,
+          "usedPct": 55,
           "resetAt": "2026-10-10T18:58:22.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 61,
+          "usedPct": 63,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T17:20:08.076+08:00",
+      "fetchedAt": "2026-10-10T17:30:38.711+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T17:20:08.087+08:00",
+      "fetchedAt": "2026-10-10T17:30:38.722+08:00",
       "error": null
     }
   }
