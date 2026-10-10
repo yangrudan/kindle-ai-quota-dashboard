@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T09:00:12.773+08:00",
+  "updatedAt": "2026-10-10T09:10:08.883+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.5,
-    "feelsLikeC": 23.9,
-    "humidity": 78,
-    "windKph": 2.4,
+    "tempC": 21.4,
+    "feelsLikeC": 23.8,
+    "humidity": 79,
+    "windKph": 2.2,
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-10T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T09:00:12.774+08:00",
+    "fetchedAt": "2026-10-10T09:10:08.883+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "欠了“睡眠债”如何还？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710004.shtml",
+        "publishedAt": "2026-10-10T08:59:17.000+08:00"
+      },
+      {
+        "title": "长假过后，你的作息调过来了吗？",
+        "url": "https://www.chinanews.com.cn/life/2026/10-10/10710003.shtml",
+        "publishedAt": "2026-10-10T08:57:13.000+08:00"
+      },
       {
         "title": "WTT中国大满贯赛：中国选手朱思冰无缘女单半决赛",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207392.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "WTT中国大满贯赛：中国选手周启豪晋级男单半决赛",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207389.shtml",
         "publishedAt": "2026-10-10T08:42:17.000+08:00"
-      },
-      {
-        "title": "美国宣布：对国际刑事法院实施制裁",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709999.shtml",
-        "publishedAt": "2026-10-10T08:37:16.000+08:00"
-      },
-      {
-        "title": "中国成功发射卫星互联网低轨27组卫星",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10709998.shtml",
-        "publishedAt": "2026-10-10T08:30:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T09:00:06.442+08:00",
+    "fetchedAt": "2026-10-10T09:10:03.841+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T09:00:11.470+08:00",
+      "fetchedAt": "2026-10-10T09:10:07.681+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 7,
           "resetAt": "2026-10-10T13:11:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 42,
+          "usedPct": 43,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T09:00:11.901+08:00",
+      "fetchedAt": "2026-10-10T09:10:08.025+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T09:00:11.911+08:00",
+      "fetchedAt": "2026-10-10T09:10:08.034+08:00",
       "error": null
     }
   }
