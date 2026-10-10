@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T10:40:09.587+08:00",
+  "updatedAt": "2026-10-10T10:50:08.482+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.9,
-    "feelsLikeC": 27.3,
-    "humidity": 69,
+    "tempC": 24.2,
+    "feelsLikeC": 27.7,
+    "humidity": 67,
     "windKph": 3.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T10:40:09.587+08:00",
+    "observedAt": "2026-10-10T10:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T10:50:08.482+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "在加沙苦战三载，哈马斯武装还剩多少人马？",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710038.shtml",
-        "publishedAt": "2026-10-10T10:34:38.000+08:00"
+        "title": "美国防部称将网上直播枪决胡德堡枪击案凶手 万斯：我不看",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710075.shtml",
+        "publishedAt": "2026-10-10T10:46:03.000+08:00"
       },
       {
-        "title": "迈向世界高端制造中心——广东持续做大做强先进制造业观察",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710066.shtml",
-        "publishedAt": "2026-10-10T10:33:20.000+08:00"
+        "title": "重庆贵州湖南北部等地降水持续偏多 中东部地区气温偏高",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710070.shtml",
+        "publishedAt": "2026-10-10T10:45:53.000+08:00"
       },
       {
-        "title": "巴西一架军警飞机坠毁致3人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710043.shtml",
-        "publishedAt": "2026-10-10T10:33:06.000+08:00"
+        "title": "被告人痴迷盗墓小说自学盗墓获刑12年",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710074.shtml",
+        "publishedAt": "2026-10-10T10:45:41.000+08:00"
       },
       {
-        "title": "红星照耀中国丨于都河畔重演烽火送别 薪火接力传承长征精神",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710063.shtml",
-        "publishedAt": "2026-10-10T10:30:46.000+08:00"
+        "title": "商务部等7部门部署品质电商“五优”行动",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710065.shtml",
+        "publishedAt": "2026-10-10T10:42:49.000+08:00"
       },
       {
-        "title": "新华视点｜当车变成“移动的家”：这种旅行方式火了",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710062.shtml",
-        "publishedAt": "2026-10-10T10:29:10.000+08:00"
+        "title": "中国成功发射卫星互联网低轨27组卫星",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207399.shtml",
+        "publishedAt": "2026-10-10T10:42:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T10:40:03.765+08:00",
+    "fetchedAt": "2026-10-10T10:50:03.225+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T10:40:07.856+08:00",
+      "fetchedAt": "2026-10-10T10:50:07.308+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 43,
           "resetAt": "2026-10-10T13:11:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 48,
+          "usedPct": 49,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T10:40:08.103+08:00",
+      "fetchedAt": "2026-10-10T10:50:07.563+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T10:40:08.107+08:00",
+      "fetchedAt": "2026-10-10T10:50:07.573+08:00",
       "error": null
     }
   }
