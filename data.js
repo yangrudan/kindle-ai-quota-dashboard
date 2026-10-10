@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T16:50:09.633+08:00",
+  "updatedAt": "2026-10-10T17:00:09.998+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.8,
-    "feelsLikeC": 26.2,
-    "humidity": 60,
-    "windKph": 5.4,
+    "tempC": 24.5,
+    "feelsLikeC": 26.1,
+    "humidity": 62,
+    "windKph": 4.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-10T16:50:09.633+08:00",
+    "observedAt": "2026-10-10T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-10T17:00:09.998+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "市场监管总局：经营者集中简易案件平均审查时间缩短至18.6天",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710529.shtml",
+        "publishedAt": "2026-10-10T16:54:13.000+08:00"
+      },
       {
         "title": "南京：寓意 “十全十美” 定格幸福瞬间",
         "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710527.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（长征胜利90周年）福建三明长征主题陈列馆开馆 让红色资源“活”起来",
         "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710476.shtml",
         "publishedAt": "2026-10-10T16:29:34.000+08:00"
-      },
-      {
-        "title": "广西龙州：万亩黑皮果蔗喜获丰收 “甜蜜引擎”助力乡村振兴",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-10/10710497.shtml",
-        "publishedAt": "2026-10-10T16:24:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T16:50:03.808+08:00",
+    "fetchedAt": "2026-10-10T17:00:04.496+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T16:50:07.990+08:00",
+      "fetchedAt": "2026-10-10T17:00:08.722+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T16:50:08.224+08:00",
+      "fetchedAt": "2026-10-10T17:00:08.976+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-10T16:50:08.234+08:00",
+      "fetchedAt": "2026-10-10T17:00:08.986+08:00",
       "error": null
     }
   }
