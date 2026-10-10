@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T14:40:40.275+08:00",
+  "updatedAt": "2026-10-10T14:50:07.481+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.1,
-    "feelsLikeC": 26.6,
+    "tempC": 26,
+    "feelsLikeC": 26.4,
     "humidity": 52,
-    "windKph": 8.9,
+    "windKph": 9.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-10T14:40:40.275+08:00",
+    "observedAt": "2026-10-10T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-10T14:50:07.481+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第五届亚残运会中国体育代表团成立",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207407.shtml",
+        "publishedAt": "2026-10-10T14:38:35.000+08:00"
+      },
       {
         "title": "中国七部门发文推动电商领域高水平开放",
         "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710464.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "景区商场AI拍照机暗藏哪些安全风险？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710158.shtml",
         "publishedAt": "2026-10-10T13:56:39.000+08:00"
-      },
-      {
-        "title": "安徽石台：雾绕山村 稻浪流金",
-        "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-10/news1071407.shtml",
-        "publishedAt": "2026-10-10T13:44:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T14:40:03.657+08:00",
+    "fetchedAt": "2026-10-10T14:50:02.906+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T14:40:37.784+08:00",
+      "fetchedAt": "2026-10-10T14:50:06.523+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 9,
           "resetAt": "2026-10-10T18:58:22.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 54,
+          "usedPct": 55,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T14:40:37.909+08:00",
+      "fetchedAt": "2026-10-10T14:50:06.609+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 23.26,
+      "balance": 23.21,
       "currency": "CNY",
-      "detail": "余额 ¥23.26",
-      "fetchedAt": "2026-10-10T14:40:37.914+08:00",
+      "detail": "余额 ¥23.21",
+      "fetchedAt": "2026-10-10T14:50:06.618+08:00",
       "error": null
     }
   }
