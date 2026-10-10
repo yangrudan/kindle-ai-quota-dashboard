@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-10T09:10:08.883+08:00",
+  "updatedAt": "2026-10-10T09:20:09.478+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.4,
-    "feelsLikeC": 23.8,
-    "humidity": 79,
-    "windKph": 2.2,
+    "tempC": 21.9,
+    "feelsLikeC": 24.3,
+    "humidity": 77,
+    "windKph": 2.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-10T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-10T09:10:08.883+08:00",
+    "observedAt": "2026-10-10T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-10T09:20:09.479+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "欠了“睡眠债”如何还？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710004.shtml",
-        "publishedAt": "2026-10-10T08:59:17.000+08:00"
+        "title": "水利部发布8项水利行业标准",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710013.shtml",
+        "publishedAt": "2026-10-10T09:12:14.000+08:00"
       },
       {
-        "title": "长假过后，你的作息调过来了吗？",
-        "url": "https://www.chinanews.com.cn/life/2026/10-10/10710003.shtml",
-        "publishedAt": "2026-10-10T08:57:13.000+08:00"
+        "title": "金融监管总局发布《财产保险公司保险产品开发管理规定》",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710005.shtml",
+        "publishedAt": "2026-10-10T09:10:40.000+08:00"
       },
       {
-        "title": "WTT中国大满贯赛：中国选手朱思冰无缘女单半决赛",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207392.shtml",
-        "publishedAt": "2026-10-10T08:55:50.000+08:00"
+        "title": "中国驻南非大使馆提醒中国公民加强安全防范",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710008.shtml",
+        "publishedAt": "2026-10-10T09:08:34.000+08:00"
       },
       {
-        "title": "中国驻巴拿马大使馆提醒在巴中国公民防范地震灾害",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-10/10710001.shtml",
-        "publishedAt": "2026-10-10T08:53:49.000+08:00"
+        "title": "爬山摔一跤 腿就“掉链子”了？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710009.shtml",
+        "publishedAt": "2026-10-10T09:05:05.000+08:00"
       },
       {
-        "title": "WTT中国大满贯赛：中国选手周启豪晋级男单半决赛",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-10/1207389.shtml",
-        "publishedAt": "2026-10-10T08:42:17.000+08:00"
+        "title": "冷空气将影响北方地区 带来大风降温天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710006.shtml",
+        "publishedAt": "2026-10-10T09:05:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-10T09:10:03.841+08:00",
+    "fetchedAt": "2026-10-10T09:20:03.387+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-10T09:10:07.681+08:00",
+      "fetchedAt": "2026-10-10T09:20:07.845+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 14,
           "resetAt": "2026-10-10T13:11:46.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 43,
+          "usedPct": 44,
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-10T09:10:08.025+08:00",
+      "fetchedAt": "2026-10-10T09:20:08.277+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.75,
       "currency": "CNY",
       "detail": "余额 ¥24.75",
-      "fetchedAt": "2026-10-10T09:10:08.034+08:00",
+      "fetchedAt": "2026-10-10T09:20:08.289+08:00",
       "error": null
     }
   }
