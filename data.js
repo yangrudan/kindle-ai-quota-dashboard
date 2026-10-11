@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T00:30:08.886+08:00",
+  "updatedAt": "2026-10-12T00:40:08.852+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-12T00:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T00:30:08.886+08:00",
+    "fetchedAt": "2026-10-12T00:40:08.853+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "吉布提沿海移民船只倾覆事故死亡人数升至139人",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711157.shtml",
+        "publishedAt": "2026-10-12T00:29:17.000+08:00"
+      },
       {
         "title": "全球媒体聚焦 | “长征是值得非洲探讨的国家发展理念”",
         "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711156.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "波黑前部长会议主席：中国以长远眼光谋划未来",
         "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
         "publishedAt": "2026-10-11T23:52:14.000+08:00"
-      },
-      {
-        "title": "“袁稻思源”杂交水稻智能育种平台长沙发布 AI赋能育种创新",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711148.shtml",
-        "publishedAt": "2026-10-11T23:46:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T00:30:03.929+08:00",
+    "fetchedAt": "2026-10-12T00:40:03.042+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T00:30:07.739+08:00",
+      "fetchedAt": "2026-10-12T00:40:07.509+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T05:30:08.000+08:00"
+          "resetAt": "2026-10-12T05:40:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-19T00:30:08.000+08:00"
+          "resetAt": "2026-10-19T00:40:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T00:30:08.024+08:00",
+      "fetchedAt": "2026-10-12T00:40:07.897+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T00:30:08.033+08:00",
+      "fetchedAt": "2026-10-12T00:40:07.906+08:00",
       "error": null
     }
   }
