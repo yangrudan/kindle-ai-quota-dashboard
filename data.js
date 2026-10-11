@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T00:00:42.519+08:00",
+  "updatedAt": "2026-10-12T00:10:09.248+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-12T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T00:00:42.520+08:00",
+    "fetchedAt": "2026-10-12T00:10:09.248+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "IMF和世行年会将在曼谷举行 泰国加强安保和城市保障",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711153.shtml",
+        "publishedAt": "2026-10-11T23:56:20.000+08:00"
+      },
       {
         "title": "中超第27轮：蓉城遭绝杀暂缓夺冠 海牛提前降级",
         "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711154.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "澳大利亚前总理陆克文：呼吁共建平等开放的亚太共同体",
         "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711147.shtml",
         "publishedAt": "2026-10-11T23:41:27.000+08:00"
-      },
-      {
-        "title": "中国·敦煌国际武术公开赛开幕 20余国选手“以武会友”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711146.shtml",
-        "publishedAt": "2026-10-11T23:37:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T00:00:04.488+08:00",
+    "fetchedAt": "2026-10-12T00:10:03.244+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T00:00:41.378+08:00",
+      "fetchedAt": "2026-10-12T00:10:07.040+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T05:00:42.000+08:00"
+          "resetAt": "2026-10-12T05:10:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-19T00:00:42.000+08:00"
+          "resetAt": "2026-10-19T00:10:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T00:00:41.683+08:00",
+      "fetchedAt": "2026-10-12T00:10:07.351+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T00:00:41.688+08:00",
+      "fetchedAt": "2026-10-12T00:10:07.361+08:00",
       "error": null
     }
   }
