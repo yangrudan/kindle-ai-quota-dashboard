@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T15:30:09.551+08:00",
+  "updatedAt": "2026-10-11T15:40:10.672+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T15:30:09.551+08:00",
+    "fetchedAt": "2026-10-11T15:40:10.672+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "黄金玉米带的新考题：“吨粮田”之后，如何把丰产变成丰收",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710998.shtml",
+        "publishedAt": "2026-10-11T15:31:21.000+08:00"
+      },
+      {
+        "title": "西渝高铁高升二号隧道顺利贯通",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710997.shtml",
+        "publishedAt": "2026-10-11T15:31:13.000+08:00"
+      },
+      {
+        "title": "中法战略对话，走进千年古都大同",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710996.shtml",
+        "publishedAt": "2026-10-11T15:29:43.000+08:00"
+      },
       {
         "title": "南京—欧洲滚装外贸航线开通 出海口“搬”到车企厂门口",
         "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710987.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "东北秋菜囤货悄然轻量化：留存一口秋日鲜",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710978.shtml",
         "publishedAt": "2026-10-11T15:23:40.000+08:00"
-      },
-      {
-        "title": "中国侨联成立70周年主题展在北京开幕",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-11/10710995.shtml",
-        "publishedAt": "2026-10-11T15:23:38.000+08:00"
-      },
-      {
-        "title": "从“忧居”到“优居” 广西城中村改造“改”出安居新生活",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710989.shtml",
-        "publishedAt": "2026-10-11T15:22:58.000+08:00"
-      },
-      {
-        "title": "寻访四省边际衢州 中外青年感知中华文明新生",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710988.shtml",
-        "publishedAt": "2026-10-11T15:22:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T15:30:03.619+08:00",
+    "fetchedAt": "2026-10-11T15:40:04.997+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T15:30:08.423+08:00",
+      "fetchedAt": "2026-10-11T15:40:09.313+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T20:30:09.000+08:00"
+          "resetAt": "2026-10-11T20:40:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T15:30:09.000+08:00"
+          "resetAt": "2026-10-18T15:40:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T15:30:08.725+08:00",
+      "fetchedAt": "2026-10-11T15:40:09.669+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T15:30:08.742+08:00",
+      "fetchedAt": "2026-10-11T15:40:09.678+08:00",
       "error": null
     }
   }
