@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T16:10:08.140+08:00",
+  "updatedAt": "2026-10-11T16:20:08.754+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.3,
-    "feelsLikeC": 26.3,
-    "humidity": 62,
+    "tempC": 25,
+    "feelsLikeC": 26,
+    "humidity": 63,
     "windKph": 11.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T16:10:08.140+08:00",
+    "observedAt": "2026-10-11T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-11T16:20:08.754+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "卧龙大熊猫苑通报多起不文明行为 多人被终身禁入",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711012.shtml",
+        "publishedAt": "2026-10-11T16:11:41.000+08:00"
+      },
+      {
+        "title": "第六届易水学派传承创新发展大会在河北易县开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711007.shtml",
+        "publishedAt": "2026-10-11T16:07:05.000+08:00"
+      },
+      {
+        "title": "第三届川渝集体婚礼在重庆举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711006.shtml",
+        "publishedAt": "2026-10-11T16:06:39.000+08:00"
+      },
       {
         "title": "香港升旗队总会举行大型升旗礼 千余人参与仪式",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711004.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "海峡两岸暨港澳地区高校现代书院制教育论坛在广州举行",
         "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710999.shtml",
         "publishedAt": "2026-10-11T15:42:45.000+08:00"
-      },
-      {
-        "title": "尼泊尔北部突发洪水致4人失踪 多处房屋及水电设施受损",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710960.shtml",
-        "publishedAt": "2026-10-11T15:38:57.000+08:00"
-      },
-      {
-        "title": "黄金玉米带的新考题：“吨粮田”之后，如何把丰产变成丰收",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710998.shtml",
-        "publishedAt": "2026-10-11T15:31:21.000+08:00"
-      },
-      {
-        "title": "西渝高铁高升二号隧道顺利贯通",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710997.shtml",
-        "publishedAt": "2026-10-11T15:31:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T16:10:03.046+08:00",
+    "fetchedAt": "2026-10-11T16:20:03.004+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T16:10:06.870+08:00",
+      "fetchedAt": "2026-10-11T16:20:07.356+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T21:10:08.000+08:00"
+          "resetAt": "2026-10-11T21:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T16:10:08.000+08:00"
+          "resetAt": "2026-10-18T16:20:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T16:10:07.276+08:00",
+      "fetchedAt": "2026-10-11T16:20:07.495+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T16:10:07.285+08:00",
+      "fetchedAt": "2026-10-11T16:20:07.505+08:00",
       "error": null
     }
   }
