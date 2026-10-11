@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T11:00:39.815+08:00",
+  "updatedAt": "2026-10-11T11:10:08.222+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T11:00:39.816+08:00",
+    "fetchedAt": "2026-10-11T11:10:08.222+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "拱北-关闸口岸年内客流突破1亿人次",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10710920.shtml",
+        "publishedAt": "2026-10-11T11:03:00.000+08:00"
+      },
       {
         "title": "（文化中国行·校馆弦歌）闽南师范大学图书馆：“两岸一家亲”的证据库",
         "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710912.shtml",
@@ -38,14 +43,9 @@
         "title": "中国首个南亚热带人工林全要素碳通量综合监测应用场景建成",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-11/10710914.shtml",
         "publishedAt": "2026-10-11T10:44:59.000+08:00"
-      },
-      {
-        "title": "CBA季前赛汕头站：广州队战胜广东队",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10710915.shtml",
-        "publishedAt": "2026-10-11T10:43:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T11:00:04.513+08:00",
+    "fetchedAt": "2026-10-11T11:10:03.219+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T11:00:38.646+08:00",
+      "fetchedAt": "2026-10-11T11:10:06.977+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T16:00:39.000+08:00"
+          "resetAt": "2026-10-11T16:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T11:00:38.872+08:00",
+      "fetchedAt": "2026-10-11T11:10:07.317+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T11:00:38.882+08:00",
+      "fetchedAt": "2026-10-11T11:10:07.326+08:00",
       "error": null
     }
   }
