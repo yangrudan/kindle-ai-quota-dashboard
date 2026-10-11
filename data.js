@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T08:50:10.039+08:00",
+  "updatedAt": "2026-10-11T09:00:38.590+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-11T08:50:10.039+08:00",
+    "fetchedAt": "2026-10-11T09:00:38.590+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "高频数据显示 三季度居民消费意愿稳步回暖",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710879.shtml",
+        "publishedAt": "2026-10-11T08:54:25.000+08:00"
+      },
+      {
+        "title": "（寻味中华丨艺林）兰州太平鼓：刚柔相济凌空跃 擂鼓发声寄太平",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10710871.shtml",
+        "publishedAt": "2026-10-11T08:50:31.000+08:00"
+      },
+      {
+        "title": "这座西北千年古县，藏着大唐皇帝都夸过的“枣中贵族”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710878.shtml",
+        "publishedAt": "2026-10-11T08:48:01.000+08:00"
+      },
+      {
+        "title": "2026华盛顿国际青年艺术家音乐季收官",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10710870.shtml",
+        "publishedAt": "2026-10-11T08:47:11.000+08:00"
+      },
+      {
         "title": "多国战机导弹云集沙特，也门胡塞武装将遭围攻？",
         "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710867.shtml",
         "publishedAt": "2026-10-11T08:44:19.000+08:00"
-      },
-      {
-        "title": "沙特利雅得机场遇袭造成12人死亡300多人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710877.shtml",
-        "publishedAt": "2026-10-11T08:43:29.000+08:00"
-      },
-      {
-        "title": "为什么接到陌生来电要先沉默三秒？国家安全部提醒",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710876.shtml",
-        "publishedAt": "2026-10-11T08:39:25.000+08:00"
-      },
-      {
-        "title": "推动“智慧监管”等 食品安全法修订草案回应这些关切",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710875.shtml",
-        "publishedAt": "2026-10-11T08:36:46.000+08:00"
-      },
-      {
-        "title": "300个名额超8000人报名 职业教育迎来哪些新变化？",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-11/10710874.shtml",
-        "publishedAt": "2026-10-11T08:35:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T08:50:04.799+08:00",
+    "fetchedAt": "2026-10-11T09:00:02.954+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T08:50:08.883+08:00",
+      "fetchedAt": "2026-10-11T09:00:37.359+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T13:50:09.000+08:00"
+          "resetAt": "2026-10-11T14:00:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T08:50:09.197+08:00",
+      "fetchedAt": "2026-10-11T09:00:37.619+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T08:50:09.207+08:00",
+      "fetchedAt": "2026-10-11T09:00:37.629+08:00",
       "error": null
     }
   }
