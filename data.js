@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T11:20:39.787+08:00",
+  "updatedAt": "2026-10-11T11:30:10.290+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.9,
-    "feelsLikeC": 27.8,
-    "humidity": 63,
-    "windKph": 5.4,
+    "tempC": 25.1,
+    "feelsLikeC": 28,
+    "humidity": 62,
+    "windKph": 5.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-11T11:20:39.787+08:00",
+    "observedAt": "2026-10-11T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-11T11:30:10.290+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "四川理县：海外华媒探秘被誉为“羌族建筑艺术活化石”的桃坪羌寨",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710906.shtml",
+        "publishedAt": "2026-10-11T11:26:18.000+08:00"
+      },
+      {
+        "title": "中超联赛：成都蓉城队0比1负于天津津门虎队",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710918.shtml",
+        "publishedAt": "2026-10-11T11:24:36.000+08:00"
+      },
+      {
+        "title": "河南洛阳：多国市长实地探访洛邑古城",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710917.shtml",
+        "publishedAt": "2026-10-11T11:21:41.000+08:00"
+      },
+      {
+        "title": "国防部新闻发言人陈曦就赖清德发表所谓“双十”讲话答记者问",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710924.shtml",
+        "publishedAt": "2026-10-11T11:16:49.000+08:00"
+      },
+      {
         "title": "香港律政司欢迎司法部发布《粤港澳大湾区律师执业考试和执业活动管理办法》",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10710921.shtml",
         "publishedAt": "2026-10-11T11:08:51.000+08:00"
-      },
-      {
-        "title": "拱北-关闸口岸年内客流突破1亿人次",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10710920.shtml",
-        "publishedAt": "2026-10-11T11:03:00.000+08:00"
-      },
-      {
-        "title": "（文化中国行·校馆弦歌）闽南师范大学图书馆：“两岸一家亲”的证据库",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710912.shtml",
-        "publishedAt": "2026-10-11T10:46:07.000+08:00"
-      },
-      {
-        "title": "“渔火猎风——黑龙江省民间工艺皮艺作品展”开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710911.shtml",
-        "publishedAt": "2026-10-11T10:45:57.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）“淘金客”后代归巢 吉林百年金矿焕新",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710913.shtml",
-        "publishedAt": "2026-10-11T10:45:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T11:20:04.008+08:00",
+    "fetchedAt": "2026-10-11T11:30:04.807+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T11:20:38.546+08:00",
+      "fetchedAt": "2026-10-11T11:30:08.975+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T16:20:39.000+08:00"
+          "resetAt": "2026-10-11T16:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T11:20:38.979+08:00",
+      "fetchedAt": "2026-10-11T11:30:09.473+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T11:20:38.988+08:00",
+      "fetchedAt": "2026-10-11T11:30:09.482+08:00",
       "error": null
     }
   }
