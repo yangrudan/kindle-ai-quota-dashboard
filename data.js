@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T22:30:08.400+08:00",
+  "updatedAt": "2026-10-11T22:40:08.802+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-11T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T22:30:08.400+08:00",
+    "fetchedAt": "2026-10-11T22:40:08.802+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "郑钦文生涯首夺WTA1000级别赛事冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711137.shtml",
+        "publishedAt": "2026-10-11T22:29:32.000+08:00"
+      },
       {
         "title": "“外卖诗人”王计兵：普通人的笔，也能写下生活的重量",
         "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711136.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广州天气晴好 游客登鸿鹄楼观景",
         "url": "https://www.chinanews.com.cn/tp/2026/10-11/10711126.shtml",
         "publishedAt": "2026-10-11T21:24:00.000+08:00"
-      },
-      {
-        "title": "王沪宁会见越南国会主席陈青敏",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207540.shtml",
-        "publishedAt": "2026-10-11T21:16:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T22:30:03.717+08:00",
+    "fetchedAt": "2026-10-11T22:40:03.785+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T22:30:07.193+08:00",
+      "fetchedAt": "2026-10-11T22:40:07.692+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T03:30:08.000+08:00"
+          "resetAt": "2026-10-12T03:40:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T22:30:08.000+08:00"
+          "resetAt": "2026-10-18T22:40:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T22:30:07.445+08:00",
+      "fetchedAt": "2026-10-11T22:40:07.930+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T22:30:07.454+08:00",
+      "fetchedAt": "2026-10-11T22:40:07.938+08:00",
       "error": null
     }
   }
