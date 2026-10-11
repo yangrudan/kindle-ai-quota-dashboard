@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T18:00:09.679+08:00",
+  "updatedAt": "2026-10-11T18:10:08.148+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T18:00:09.679+08:00",
+    "fetchedAt": "2026-10-11T18:10:08.148+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "祝贺！王曼昱成功卫冕WTT中国大满贯女单冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711046.shtml",
+        "publishedAt": "2026-10-11T17:55:31.000+08:00"
+      },
       {
         "title": "2026“建乐合作”工作推进会暨民建企业家走进乐山活动在四川乐山举行",
         "url": "https://www.chinanews.com.cn/txy/2026/10-11/10711042.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "WTT中国大满贯赛：中国选手周启豪无缘男单决赛",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207500.shtml",
         "publishedAt": "2026-10-11T17:44:55.000+08:00"
-      },
-      {
-        "title": "（投资中国）奥镁集团：以上海为枢纽 抢抓中国工业绿色转型机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711039.shtml",
-        "publishedAt": "2026-10-11T17:30:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T18:00:04.492+08:00",
+    "fetchedAt": "2026-10-11T18:10:03.130+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T18:00:08.411+08:00",
+      "fetchedAt": "2026-10-11T18:10:07.020+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T23:00:09.000+08:00"
+          "resetAt": "2026-10-11T23:10:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T18:00:09.000+08:00"
+          "resetAt": "2026-10-18T18:10:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T18:00:08.820+08:00",
+      "fetchedAt": "2026-10-11T18:10:07.294+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T18:00:08.829+08:00",
+      "fetchedAt": "2026-10-11T18:10:07.300+08:00",
       "error": null
     }
   }
