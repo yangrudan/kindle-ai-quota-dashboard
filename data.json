@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T09:50:08.708+08:00",
+  "updatedAt": "2026-10-11T10:00:07.985+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-11T09:50:08.709+08:00",
+    "fetchedAt": "2026-10-11T10:00:07.985+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "藏羌山村结硕果 海外华媒点赞茂县苹果产业振兴路径",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-11/10710889.shtml",
-        "publishedAt": "2026-10-11T09:45:08.000+08:00"
+        "title": "国庆假期后错峰出游 这几条松弛线路带你“慢旅行”",
+        "url": "https://www.chinanews.com.cn/life/2026/10-11/10710897.shtml",
+        "publishedAt": "2026-10-11T09:54:55.000+08:00"
       },
       {
-        "title": "海外华媒走进藏羌大地 探访理县乡村振兴鲜活实践",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-11/10710888.shtml",
-        "publishedAt": "2026-10-11T09:44:38.000+08:00"
+        "title": "开局之年看中国·潮涌荆楚｜搬迁35公里，为中华鲟让出生命通道",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710896.shtml",
+        "publishedAt": "2026-10-11T09:53:37.000+08:00"
       },
       {
-        "title": "中新健康｜伏美替尼全球III期临床试验不达标？艾力斯市值蒸发超百亿",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-11/10710891.shtml",
-        "publishedAt": "2026-10-11T09:42:22.000+08:00"
+        "title": "把招聘会开进厂区商圈 “点对点”精准对接促就业",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710894.shtml",
+        "publishedAt": "2026-10-11T09:52:23.000+08:00"
       },
       {
-        "title": "逛古街、游龙门 ，一位意大利市长在古都洛阳“拍拍拍”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710887.shtml",
-        "publishedAt": "2026-10-11T09:27:39.000+08:00"
+        "title": "习近平总书记同卫生健康工作者的故事",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710890.shtml",
+        "publishedAt": "2026-10-11T09:49:10.000+08:00"
       },
       {
-        "title": "同城景区“冷热不均”，文旅竞争从“拼资源”迈向“拼内容”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710886.shtml",
-        "publishedAt": "2026-10-11T09:15:08.000+08:00"
+        "title": "【红星照耀中国】工业与自然相融，看江西制造的生态实践",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710893.shtml",
+        "publishedAt": "2026-10-11T09:46:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T09:50:03.653+08:00",
+    "fetchedAt": "2026-10-11T10:00:02.890+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T09:50:07.134+08:00",
+      "fetchedAt": "2026-10-11T10:00:06.757+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T14:50:08.000+08:00"
+          "resetAt": "2026-10-11T15:00:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T09:50:07.504+08:00",
+      "fetchedAt": "2026-10-11T10:00:07.063+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T09:50:07.510+08:00",
+      "fetchedAt": "2026-10-11T10:00:07.072+08:00",
       "error": null
     }
   }
