@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T08:40:11.873+08:00",
+  "updatedAt": "2026-10-11T08:50:10.039+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20,
-    "feelsLikeC": 22.3,
-    "humidity": 85,
-    "windKph": 1.9,
-    "windDir": "西北风",
+    "tempC": 20.8,
+    "feelsLikeC": 23.1,
+    "humidity": 82,
+    "windKph": 2.6,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T08:40:11.873+08:00",
+    "observedAt": "2026-10-11T08:45:00.000+08:00",
+    "fetchedAt": "2026-10-11T08:50:10.039+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "目标占比35%！我国加速壮大技能劳动者队伍",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710873.shtml",
-        "publishedAt": "2026-10-11T08:33:52.000+08:00"
+        "title": "多国战机导弹云集沙特，也门胡塞武装将遭围攻？",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710867.shtml",
+        "publishedAt": "2026-10-11T08:44:19.000+08:00"
       },
       {
-        "title": "“小熊”加强为超强台风级 未来对我国海域无影响",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710872.shtml",
-        "publishedAt": "2026-10-11T08:28:54.000+08:00"
+        "title": "沙特利雅得机场遇袭造成12人死亡300多人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710877.shtml",
+        "publishedAt": "2026-10-11T08:43:29.000+08:00"
       },
       {
-        "title": "中央气象台：北方大部地区将有冷空气活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710868.shtml",
-        "publishedAt": "2026-10-11T08:27:32.000+08:00"
+        "title": "为什么接到陌生来电要先沉默三秒？国家安全部提醒",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710876.shtml",
+        "publishedAt": "2026-10-11T08:39:25.000+08:00"
       },
       {
-        "title": "“蛟龙”号载人潜水器入海 计划下潜约4500米",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710869.shtml",
-        "publishedAt": "2026-10-11T08:27:16.000+08:00"
+        "title": "推动“智慧监管”等 食品安全法修订草案回应这些关切",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710875.shtml",
+        "publishedAt": "2026-10-11T08:36:46.000+08:00"
       },
       {
-        "title": "尚无中国公民伤亡报告 中国驻沙特大使馆公布应急电话",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710866.shtml",
-        "publishedAt": "2026-10-11T07:19:34.000+08:00"
+        "title": "300个名额超8000人报名 职业教育迎来哪些新变化？",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-11/10710874.shtml",
+        "publishedAt": "2026-10-11T08:35:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T08:40:05.037+08:00",
+    "fetchedAt": "2026-10-11T08:50:04.799+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T08:40:10.060+08:00",
+      "fetchedAt": "2026-10-11T08:50:08.883+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T13:40:11.000+08:00"
+          "resetAt": "2026-10-11T13:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T08:40:10.303+08:00",
+      "fetchedAt": "2026-10-11T08:50:09.197+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T08:40:10.314+08:00",
+      "fetchedAt": "2026-10-11T08:50:09.207+08:00",
       "error": null
     }
   }
