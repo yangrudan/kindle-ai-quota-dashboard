@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T18:10:08.148+08:00",
+  "updatedAt": "2026-10-11T18:20:08.480+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.5,
-    "feelsLikeC": 24.5,
-    "humidity": 76,
-    "windKph": 6.6,
+    "tempC": 22.3,
+    "feelsLikeC": 24.3,
+    "humidity": 77,
+    "windKph": 6.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T18:10:08.148+08:00",
+    "observedAt": "2026-10-11T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-11T18:20:08.480+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（乡村行·看振兴）山西和顺做强木耳特色产业 链式发展赋能乡村振兴",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711047.shtml",
+        "publishedAt": "2026-10-11T18:09:37.000+08:00"
+      },
       {
         "title": "祝贺！王曼昱成功卫冕WTT中国大满贯女单冠军",
         "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711046.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "斗南国际花卉数据流通中心成立 由“卖鲜花”转向“卖数据”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711043.shtml",
         "publishedAt": "2026-10-11T17:49:16.000+08:00"
-      },
-      {
-        "title": "WTT中国大满贯赛：中国选手周启豪无缘男单决赛",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207500.shtml",
-        "publishedAt": "2026-10-11T17:44:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T18:10:03.130+08:00",
+    "fetchedAt": "2026-10-11T18:20:02.805+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T18:10:07.020+08:00",
+      "fetchedAt": "2026-10-11T18:20:07.356+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T23:10:08.000+08:00"
+          "resetAt": "2026-10-11T23:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T18:10:08.000+08:00"
+          "resetAt": "2026-10-18T18:20:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T18:10:07.294+08:00",
+      "fetchedAt": "2026-10-11T18:20:07.610+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T18:10:07.300+08:00",
+      "fetchedAt": "2026-10-11T18:20:07.619+08:00",
       "error": null
     }
   }
