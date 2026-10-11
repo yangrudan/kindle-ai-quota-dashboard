@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T10:40:07.797+08:00",
+  "updatedAt": "2026-10-11T10:50:38.489+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 23.9,
-    "feelsLikeC": 26.5,
-    "humidity": 68,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 24.2,
+    "feelsLikeC": 27,
+    "humidity": 67,
     "windKph": 5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T10:40:07.797+08:00",
+    "observedAt": "2026-10-11T10:45:00.000+08:00",
+    "fetchedAt": "2026-10-11T10:50:38.489+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从“失控入侵”到“擅自行动”，人工智能为何频频“闯祸”？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710910.shtml",
-        "publishedAt": "2026-10-11T10:20:34.000+08:00"
+        "title": "（文化中国行·校馆弦歌）闽南师范大学图书馆：“两岸一家亲”的证据库",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710912.shtml",
+        "publishedAt": "2026-10-11T10:46:07.000+08:00"
       },
       {
-        "title": "多地雅思考试突发取消 退费重考如何安排？最新解答→",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-11/10710909.shtml",
-        "publishedAt": "2026-10-11T10:20:26.000+08:00"
+        "title": "“渔火猎风——黑龙江省民间工艺皮艺作品展”开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710911.shtml",
+        "publishedAt": "2026-10-11T10:45:57.000+08:00"
       },
       {
-        "title": "这些地方的公积金功能再上新",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710908.shtml",
-        "publishedAt": "2026-10-11T10:18:38.000+08:00"
+        "title": "（乡村行·看振兴）“淘金客”后代归巢 吉林百年金矿焕新",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710913.shtml",
+        "publishedAt": "2026-10-11T10:45:11.000+08:00"
       },
       {
-        "title": "（长江十年行）四川泸州“捕鱼人”变“护渔人” 守护一江清水出川",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710900.shtml",
-        "publishedAt": "2026-10-11T10:08:15.000+08:00"
+        "title": "中国首个南亚热带人工林全要素碳通量综合监测应用场景建成",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-11/10710914.shtml",
+        "publishedAt": "2026-10-11T10:44:59.000+08:00"
       },
       {
-        "title": "香江观澜：全球最自由经济体评选“三连冠” 香港独特竞争力再获国际认可",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10710907.shtml",
-        "publishedAt": "2026-10-11T10:07:25.000+08:00"
+        "title": "CBA季前赛汕头站：广州队战胜广东队",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10710915.shtml",
+        "publishedAt": "2026-10-11T10:43:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T10:40:03.123+08:00",
+    "fetchedAt": "2026-10-11T10:50:03.672+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T10:40:06.734+08:00",
+      "fetchedAt": "2026-10-11T10:50:37.399+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T15:40:07.000+08:00"
+          "resetAt": "2026-10-11T15:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T10:40:06.911+08:00",
+      "fetchedAt": "2026-10-11T10:50:37.557+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T10:40:06.922+08:00",
+      "fetchedAt": "2026-10-11T10:50:37.567+08:00",
       "error": null
     }
   }
