@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T15:00:11.776+08:00",
+  "updatedAt": "2026-10-11T15:10:08.666+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T15:00:11.776+08:00",
+    "fetchedAt": "2026-10-11T15:10:08.666+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "机票价格明显回落、住宿折扣加大 节后错峰出游持续升温",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710973.shtml",
-        "publishedAt": "2026-10-11T14:35:28.000+08:00"
+        "title": "【红星照耀中国】药香、绿意、黑科技！探访江西这座“最美中国工厂”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710985.shtml",
+        "publishedAt": "2026-10-11T15:07:42.000+08:00"
       },
       {
-        "title": "中国物流业景气指数连续5个月处扩张区间 呈多维度改善态势",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710968.shtml",
-        "publishedAt": "2026-10-11T14:24:25.000+08:00"
+        "title": "晶采观察丨银幕外产业加速跑 “电影+”激发消费新活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710984.shtml",
+        "publishedAt": "2026-10-11T15:06:44.000+08:00"
       },
       {
-        "title": "院士专家齐聚广州探讨食品营养与健康领域发展前沿方向",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710971.shtml",
-        "publishedAt": "2026-10-11T14:23:29.000+08:00"
+        "title": "陈茂波：强合作、稳增长、保民生为APEC财长会重要课题",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10710974.shtml",
+        "publishedAt": "2026-10-11T15:05:29.000+08:00"
       },
       {
-        "title": "渭北果乡翩跹起舞 国家级广场舞大赛落地陕西长武",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10710970.shtml",
-        "publishedAt": "2026-10-11T14:23:17.000+08:00"
+        "title": "【红星照耀中国】钢铁厂里藏了个4A景区！南昌钢企解锁绿色工业新模样",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710983.shtml",
+        "publishedAt": "2026-10-11T15:05:13.000+08:00"
       },
       {
-        "title": "法国总统当年首次访华，为何把大同作为京外第一站？答案藏在石窟里",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-11/10710969.shtml",
-        "publishedAt": "2026-10-11T14:10:12.000+08:00"
+        "title": "千年壁画前，青春与科技并肩 | 文化中国行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10710982.shtml",
+        "publishedAt": "2026-10-11T15:03:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T15:00:05.692+08:00",
+    "fetchedAt": "2026-10-11T15:10:02.984+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T15:00:10.142+08:00",
+      "fetchedAt": "2026-10-11T15:10:07.255+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T20:00:11.000+08:00"
+          "resetAt": "2026-10-11T20:10:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T15:00:11.000+08:00"
+          "resetAt": "2026-10-18T15:10:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T15:00:10.414+08:00",
+      "fetchedAt": "2026-10-11T15:10:07.680+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T15:00:10.424+08:00",
+      "fetchedAt": "2026-10-11T15:10:07.689+08:00",
       "error": null
     }
   }
