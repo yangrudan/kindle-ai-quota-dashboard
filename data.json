@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T17:30:09.040+08:00",
+  "updatedAt": "2026-10-11T17:40:38.383+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-11T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T17:30:09.040+08:00",
+    "fetchedAt": "2026-10-11T17:40:38.383+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（投资中国）奥镁集团：以上海为枢纽 抢抓中国工业绿色转型机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711039.shtml",
+        "publishedAt": "2026-10-11T17:30:49.000+08:00"
+      },
+      {
+        "title": "云南多条高速公路建设迎来新进展",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711036.shtml",
+        "publishedAt": "2026-10-11T17:30:21.000+08:00"
+      },
+      {
+        "title": "“铜鼓黄精”区域公用品牌亮相江西南昌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711037.shtml",
+        "publishedAt": "2026-10-11T17:30:15.000+08:00"
+      },
       {
         "title": "第四届“麒麟杯”海峡两岸（平潭）青少年棒球冠军赛举行",
         "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711035.shtml",
@@ -28,24 +43,9 @@
         "title": "直播海报：长征路上学党史 | 在金沙江畔听云岭大地红色回响",
         "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711040.shtml",
         "publishedAt": "2026-10-11T17:22:53.000+08:00"
-      },
-      {
-        "title": "陕西榆林成立工作专班整治危货运输超载问题",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711038.shtml",
-        "publishedAt": "2026-10-11T17:19:37.000+08:00"
-      },
-      {
-        "title": "探访陇西“黄芪法庭”：道地良方补“益气”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711017.shtml",
-        "publishedAt": "2026-10-11T17:14:36.000+08:00"
-      },
-      {
-        "title": "广东加速推进人工智能发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711030.shtml",
-        "publishedAt": "2026-10-11T17:11:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T17:30:03.899+08:00",
+    "fetchedAt": "2026-10-11T17:40:03.121+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T17:30:07.886+08:00",
+      "fetchedAt": "2026-10-11T17:40:37.237+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T22:30:08.000+08:00"
+          "resetAt": "2026-10-11T22:40:38.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T17:30:08.000+08:00"
+          "resetAt": "2026-10-18T17:40:38.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T17:30:08.173+08:00",
+      "fetchedAt": "2026-10-11T17:40:37.512+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T17:30:08.183+08:00",
+      "fetchedAt": "2026-10-11T17:40:37.521+08:00",
       "error": null
     }
   }
