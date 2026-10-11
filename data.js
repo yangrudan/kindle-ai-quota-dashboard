@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T19:20:40.003+08:00",
+  "updatedAt": "2026-10-11T19:30:09.990+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.5,
-    "feelsLikeC": 23.5,
+    "tempC": 21.4,
+    "feelsLikeC": 23.3,
     "humidity": 81,
-    "windKph": 6.7,
+    "windKph": 6.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-11T19:20:40.003+08:00",
+    "observedAt": "2026-10-11T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-11T19:30:09.991+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一边秋雨降温，一边暖热犹盛，南北方上演“冬夏并存”",
+        "url": "https://www.chinanews.com.cn/life/2026/10-11/10711077.shtml",
+        "publishedAt": "2026-10-11T19:26:36.000+08:00"
+      },
+      {
+        "title": "广西南宁青秀山年游客首破千万 东盟客源成重要增量",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-11/10711076.shtml",
+        "publishedAt": "2026-10-11T19:23:47.000+08:00"
+      },
       {
         "title": "温饱不愁后 年近百岁的独龙族文面女有了新心愿",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711075.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“辽超”：本溪队1:0大连队拿到四强门票",
         "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711072.shtml",
         "publishedAt": "2026-10-11T19:05:26.000+08:00"
-      },
-      {
-        "title": "一移民船在吉布提沿海倾覆致至少109人死亡，包括15名儿童",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711074.shtml",
-        "publishedAt": "2026-10-11T19:05:12.000+08:00"
-      },
-      {
-        "title": "从黄浦江到涅瓦河：中俄青年以诗、歌为桥“双向奔赴”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711071.shtml",
-        "publishedAt": "2026-10-11T19:04:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T19:20:04.606+08:00",
+    "fetchedAt": "2026-10-11T19:30:04.628+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T19:20:38.621+08:00",
+      "fetchedAt": "2026-10-11T19:30:08.774+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T00:20:39.000+08:00"
+          "resetAt": "2026-10-12T00:30:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T19:20:39.000+08:00"
+          "resetAt": "2026-10-18T19:30:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T19:20:38.936+08:00",
+      "fetchedAt": "2026-10-11T19:30:09.086+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T19:20:38.947+08:00",
+      "fetchedAt": "2026-10-11T19:30:09.089+08:00",
       "error": null
     }
   }
