@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-11T11:40:08.286+08:00",
+  "updatedAt": "2026-10-11T11:50:08.401+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.1,
-    "feelsLikeC": 28,
-    "humidity": 62,
-    "windKph": 5.8,
+    "tempC": 25.4,
+    "feelsLikeC": 28.1,
+    "humidity": 60,
+    "windKph": 6.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T11:40:08.287+08:00",
+    "observedAt": "2026-10-11T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-11T11:50:08.401+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "长征路上学党史｜在黔山叠翠间 回顾伟大转折",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-11/10710930.shtml",
+        "publishedAt": "2026-10-11T11:44:53.000+08:00"
+      },
       {
         "title": "（走进中国乡村）“淘金客”后代归乡 吉林百年金矿焕新",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710927.shtml",
@@ -38,14 +43,9 @@
         "title": "四川理县：海外华媒探秘被誉为“羌族建筑艺术活化石”的桃坪羌寨",
         "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710906.shtml",
         "publishedAt": "2026-10-11T11:26:18.000+08:00"
-      },
-      {
-        "title": "中超联赛：成都蓉城队0比1负于天津津门虎队",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710918.shtml",
-        "publishedAt": "2026-10-11T11:24:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T11:40:03.615+08:00",
+    "fetchedAt": "2026-10-11T11:50:03.371+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T11:40:07.063+08:00",
+      "fetchedAt": "2026-10-11T11:50:07.260+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T16:40:08.000+08:00"
+          "resetAt": "2026-10-11T16:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T11:40:07.479+08:00",
+      "fetchedAt": "2026-10-11T11:50:07.511+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T11:40:07.484+08:00",
+      "fetchedAt": "2026-10-11T11:50:07.514+08:00",
       "error": null
     }
   }
