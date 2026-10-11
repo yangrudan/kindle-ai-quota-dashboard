@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T20:30:10.824+08:00",
+  "updatedAt": "2026-10-11T20:40:08.554+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T20:30:10.825+08:00",
+    "fetchedAt": "2026-10-11T20:40:08.554+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美食文旅节目《寻味山海》走进浙江金华赴一场火腿的风味之约",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711113.shtml",
-        "publishedAt": "2026-10-11T20:29:27.000+08:00"
+        "title": "“纪念中国工农红军长征胜利九十周年主题创作展”开幕式在穗举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-11/10711107.shtml",
+        "publishedAt": "2026-10-11T20:34:05.000+08:00"
       },
       {
-        "title": "“红军长征与上海统一战线”学习沙龙在沪举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-11/10711111.shtml",
-        "publishedAt": "2026-10-11T20:28:53.000+08:00"
+        "title": "2026全国健身瑜伽公益活动走进西藏藏医药大学 持续助力高原全民健身事业发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711112.shtml",
+        "publishedAt": "2026-10-11T20:33:49.000+08:00"
       },
       {
-        "title": "美丽家园侨心共筑 2026上海侨界公益慈善行活动举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-11/10711108.shtml",
-        "publishedAt": "2026-10-11T20:24:41.000+08:00"
+        "title": "2026总票房破310亿！国产电影加速出海 “电影+”持续释放大能量",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711115.shtml",
+        "publishedAt": "2026-10-11T20:33:03.000+08:00"
       },
       {
-        "title": "长三角数字音乐佳作在上海展演",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711106.shtml",
-        "publishedAt": "2026-10-11T20:21:51.000+08:00"
+        "title": "2026年中网：张帅/西尼亚科娃获女双亚军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207517.shtml",
+        "publishedAt": "2026-10-11T20:31:55.000+08:00"
       },
       {
-        "title": "皇岗口岸开通仪式举行 李家超称将进一步推动湾区深度融合",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711105.shtml",
-        "publishedAt": "2026-10-11T20:17:32.000+08:00"
+        "title": "西班牙高空音乐舞剧《站台奇妙夜》“飞临”上海复兴岛",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711110.shtml",
+        "publishedAt": "2026-10-11T20:30:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T20:30:05.789+08:00",
+    "fetchedAt": "2026-10-11T20:40:03.552+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T20:30:09.629+08:00",
+      "fetchedAt": "2026-10-11T20:40:07.395+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T01:30:10.000+08:00"
+          "resetAt": "2026-10-12T01:40:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T20:30:10.000+08:00"
+          "resetAt": "2026-10-18T20:40:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T20:30:09.913+08:00",
+      "fetchedAt": "2026-10-11T20:40:07.687+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T20:30:09.923+08:00",
+      "fetchedAt": "2026-10-11T20:40:07.691+08:00",
       "error": null
     }
   }
