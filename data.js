@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T19:10:10.116+08:00",
+  "updatedAt": "2026-10-11T19:20:40.003+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.7,
-    "feelsLikeC": 23.7,
-    "humidity": 80,
+    "tempC": 21.5,
+    "feelsLikeC": 23.5,
+    "humidity": 81,
     "windKph": 6.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T19:10:10.117+08:00",
+    "observedAt": "2026-10-11T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-11T19:20:40.003+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "温饱不愁后 年近百岁的独龙族文面女有了新心愿",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711075.shtml",
+        "publishedAt": "2026-10-11T19:08:33.000+08:00"
+      },
+      {
+        "title": "辽宁深耕“演艺+”融合模式 激活文旅消费新动能",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711073.shtml",
+        "publishedAt": "2026-10-11T19:06:07.000+08:00"
+      },
       {
         "title": "“辽超”：本溪队1:0大连队拿到四强门票",
         "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711072.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "从黄浦江到涅瓦河：中俄青年以诗、歌为桥“双向奔赴”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711071.shtml",
         "publishedAt": "2026-10-11T19:04:52.000+08:00"
-      },
-      {
-        "title": "特写：破风维港 “骑”遇香江",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711068.shtml",
-        "publishedAt": "2026-10-11T19:02:40.000+08:00"
-      },
-      {
-        "title": "宁波舟山港单月作业超1900艘次 船舶待泊时间恢复正常水平",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711063.shtml",
-        "publishedAt": "2026-10-11T18:43:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T19:10:02.797+08:00",
+    "fetchedAt": "2026-10-11T19:20:04.606+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T19:10:08.794+08:00",
+      "fetchedAt": "2026-10-11T19:20:38.621+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T00:10:09.000+08:00"
+          "resetAt": "2026-10-12T00:20:39.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T19:10:09.000+08:00"
+          "resetAt": "2026-10-18T19:20:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T19:10:09.231+08:00",
+      "fetchedAt": "2026-10-11T19:20:38.936+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T19:10:09.239+08:00",
+      "fetchedAt": "2026-10-11T19:20:38.947+08:00",
       "error": null
     }
   }
