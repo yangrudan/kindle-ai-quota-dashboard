@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T07:30:09.904+08:00",
+  "updatedAt": "2026-10-12T07:40:07.974+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-12T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T07:30:09.904+08:00",
+    "fetchedAt": "2026-10-12T07:40:07.975+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "打卡跟练、大数据定制食谱……AI成职场人“减重搭子”",
+        "url": "https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
+        "publishedAt": "2026-10-12T07:30:28.000+08:00"
+      },
+      {
+        "title": "AI虚拟人代言产品“亲测有效”，是否站得住脚？专家说法",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
+        "publishedAt": "2026-10-12T07:27:29.000+08:00"
+      },
       {
         "title": "10月12日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10711165.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "连接深港两地 新皇岗口岸正式开通运行",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
         "publishedAt": "2026-10-12T06:48:39.000+08:00"
-      },
-      {
-        "title": "一路闯关、创多项历史！回顾郑钦文2026中网冠军之路",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
-        "publishedAt": "2026-10-12T06:46:19.000+08:00"
-      },
-      {
-        "title": "伊朗称美国已接受伊方所提部分条件",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
-        "publishedAt": "2026-10-12T06:28:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T07:30:04.665+08:00",
+    "fetchedAt": "2026-10-12T07:40:02.975+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T07:30:08.635+08:00",
+      "fetchedAt": "2026-10-12T07:40:06.716+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T12:30:09.000+08:00"
+          "resetAt": "2026-10-12T12:40:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-19T07:30:09.000+08:00"
+          "resetAt": "2026-10-19T07:40:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T07:30:08.900+08:00",
+      "fetchedAt": "2026-10-12T07:40:06.999+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T07:30:08.903+08:00",
+      "fetchedAt": "2026-10-12T07:40:07.010+08:00",
       "error": null
     }
   }
