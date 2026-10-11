@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T21:00:39.040+08:00",
+  "updatedAt": "2026-10-11T21:10:09.084+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T21:00:39.041+08:00",
+    "fetchedAt": "2026-10-11T21:10:09.084+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "浙江乡村化身“毛孩子”度假区 吸引携宠游客",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711123.shtml",
-        "publishedAt": "2026-10-11T20:53:42.000+08:00"
+        "title": "新疆新星市举办奇石文化旅游活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711131.shtml",
+        "publishedAt": "2026-10-11T21:01:49.000+08:00"
       },
       {
-        "title": "津巴布韦梦想秀艺术团在上海演出 以艺传情筑丝路友谊",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711118.shtml",
-        "publishedAt": "2026-10-11T20:52:52.000+08:00"
+        "title": "2026年河北省赛事资源策划运营对接洽谈会举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711129.shtml",
+        "publishedAt": "2026-10-11T20:58:25.000+08:00"
       },
       {
-        "title": "万吨巨梁精准转体 津潍高铁胡家园特大桥取得关键突破",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711116.shtml",
-        "publishedAt": "2026-10-11T20:52:44.000+08:00"
+        "title": "（机遇香港）全球电竞市场升温 香港搭台对接全球买家觅商机",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10711130.shtml",
+        "publishedAt": "2026-10-11T20:58:15.000+08:00"
       },
       {
-        "title": "从草场放牧到高原种菊 西藏特色种养产业让群众致富增收",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711122.shtml",
-        "publishedAt": "2026-10-11T20:47:26.000+08:00"
+        "title": "马来西亚中总：新时代华商可以成为区域连接者",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-11/10711121.shtml",
+        "publishedAt": "2026-10-11T20:57:27.000+08:00"
       },
       {
-        "title": "一部纪录片引发的追问：日本政府究竟保护谁？",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711120.shtml",
-        "publishedAt": "2026-10-11T20:46:12.000+08:00"
+        "title": "《苍穹之剑——纪念无名英雄蔡威百幅画卷》在福建宁德首展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711124.shtml",
+        "publishedAt": "2026-10-11T20:57:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T21:00:04.352+08:00",
+    "fetchedAt": "2026-10-11T21:10:04.049+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T21:00:37.753+08:00",
+      "fetchedAt": "2026-10-11T21:10:07.860+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T02:00:38.000+08:00"
+          "resetAt": "2026-10-12T02:10:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T21:00:38.000+08:00"
+          "resetAt": "2026-10-18T21:10:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T21:00:38.019+08:00",
+      "fetchedAt": "2026-10-11T21:10:08.129+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T21:00:38.029+08:00",
+      "fetchedAt": "2026-10-11T21:10:08.138+08:00",
       "error": null
     }
   }
