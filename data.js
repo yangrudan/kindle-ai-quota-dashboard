@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T19:50:37.812+08:00",
+  "updatedAt": "2026-10-11T20:00:38.467+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-11T19:50:37.812+08:00",
+    "fetchedAt": "2026-10-11T20:00:38.468+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "台青骑行内蒙古：一路风景，两岸分享",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711078.shtml",
-        "publishedAt": "2026-10-11T19:34:46.000+08:00"
+        "title": "2026中国网球公开赛观众入园人数和票房创新高",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711092.shtml",
+        "publishedAt": "2026-10-11T19:57:05.000+08:00"
       },
       {
-        "title": "一边秋雨降温，一边暖热犹盛，南北方上演“冬夏并存”",
-        "url": "https://www.chinanews.com.cn/life/2026/10-11/10711077.shtml",
-        "publishedAt": "2026-10-11T19:26:36.000+08:00"
+        "title": "推动国家公园理念走进百校千社区 国家公园科普宣传推介活动举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711091.shtml",
+        "publishedAt": "2026-10-11T19:56:57.000+08:00"
       },
       {
-        "title": "广西南宁青秀山年游客首破千万 东盟客源成重要增量",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-11/10711076.shtml",
-        "publishedAt": "2026-10-11T19:23:47.000+08:00"
+        "title": "福建漳州大型海工设备出口新加坡",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711090.shtml",
+        "publishedAt": "2026-10-11T19:55:59.000+08:00"
       },
       {
-        "title": "王沪宁会见越南国会主席陈青敏",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711070.shtml",
-        "publishedAt": "2026-10-11T19:10:49.000+08:00"
+        "title": "从大画幅到掌心：浙江丽水“遇鉴”全球影像大时代",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711089.shtml",
+        "publishedAt": "2026-10-11T19:55:51.000+08:00"
       },
       {
-        "title": "温饱不愁后 年近百岁的独龙族文面女有了新心愿",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711075.shtml",
-        "publishedAt": "2026-10-11T19:08:33.000+08:00"
+        "title": "“一带一路”地区极端气候事件及影响国际培训班在西安开班",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711087.shtml",
+        "publishedAt": "2026-10-11T19:55:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T19:50:03.081+08:00",
+    "fetchedAt": "2026-10-11T20:00:03.347+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T19:50:36.442+08:00",
+      "fetchedAt": "2026-10-11T20:00:37.339+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T00:50:37.000+08:00"
+          "resetAt": "2026-10-12T01:00:38.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T19:50:37.000+08:00"
+          "resetAt": "2026-10-18T20:00:38.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T19:50:36.724+08:00",
+      "fetchedAt": "2026-10-11T20:00:37.599+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T19:50:36.734+08:00",
+      "fetchedAt": "2026-10-11T20:00:37.608+08:00",
       "error": null
     }
   }
