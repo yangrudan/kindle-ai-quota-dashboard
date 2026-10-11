@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T18:30:09.433+08:00",
+  "updatedAt": "2026-10-11T18:40:09.678+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T18:30:09.433+08:00",
+    "fetchedAt": "2026-10-11T18:40:09.678+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "台青扎根南京 用银针传递中医温度",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711058.shtml",
+        "publishedAt": "2026-10-11T18:28:55.000+08:00"
+      },
+      {
+        "title": "青田国际桨板公开赛举行 擦亮侨乡水上运动新名片",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711057.shtml",
+        "publishedAt": "2026-10-11T18:28:04.000+08:00"
+      },
       {
         "title": "拉萨：铁纪护航民生 守护群众“钱袋子”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711056.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "清华大学美术学院敦煌艺术研究及设计成果中国香港特展启幕",
         "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711055.shtml",
         "publishedAt": "2026-10-11T18:22:56.000+08:00"
-      },
-      {
-        "title": "歌从田间来 安徽芜湖“四季村歌”唱出乡村之美",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711053.shtml",
-        "publishedAt": "2026-10-11T18:22:24.000+08:00"
-      },
-      {
-        "title": "（投资中国）阿迪达斯CEO：中国市场充满能量",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711051.shtml",
-        "publishedAt": "2026-10-11T18:17:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T18:30:04.241+08:00",
+    "fetchedAt": "2026-10-11T18:40:03.898+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T18:30:08.311+08:00",
+      "fetchedAt": "2026-10-11T18:40:08.478+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T23:30:09.000+08:00"
+          "resetAt": "2026-10-11T23:40:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T18:30:09.000+08:00"
+          "resetAt": "2026-10-18T18:40:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T18:30:08.561+08:00",
+      "fetchedAt": "2026-10-11T18:40:08.821+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T18:30:08.569+08:00",
+      "fetchedAt": "2026-10-11T18:40:08.830+08:00",
       "error": null
     }
   }
