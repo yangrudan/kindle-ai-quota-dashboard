@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T23:50:08.179+08:00",
+  "updatedAt": "2026-10-12T00:00:42.519+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.3,
-    "feelsLikeC": 21.5,
-    "humidity": 89,
+    "tempC": 19.1,
+    "feelsLikeC": 21.3,
+    "humidity": 90,
     "windKph": 3.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-11T23:50:08.179+08:00",
+    "observedAt": "2026-10-12T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-12T00:00:42.520+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中超第27轮：蓉城遭绝杀暂缓夺冠 海牛提前降级",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711154.shtml",
+        "publishedAt": "2026-10-11T23:54:54.000+08:00"
+      },
+      {
+        "title": "波黑前部长会议主席：中国以长远眼光谋划未来",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
+        "publishedAt": "2026-10-11T23:52:14.000+08:00"
+      },
+      {
+        "title": "“袁稻思源”杂交水稻智能育种平台长沙发布 AI赋能育种创新",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711148.shtml",
+        "publishedAt": "2026-10-11T23:46:44.000+08:00"
+      },
       {
         "title": "澳大利亚前总理陆克文：呼吁共建平等开放的亚太共同体",
         "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711147.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国·敦煌国际武术公开赛开幕 20余国选手“以武会友”",
         "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711146.shtml",
         "publishedAt": "2026-10-11T23:37:13.000+08:00"
-      },
-      {
-        "title": "泰国前外长：乐见中方调停斡旋泰柬边境冲突",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711145.shtml",
-        "publishedAt": "2026-10-11T23:31:41.000+08:00"
-      },
-      {
-        "title": "WTT中国大满贯赛：王曼昱女单卫冕 国乒两冠收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711144.shtml",
-        "publishedAt": "2026-10-11T23:30:59.000+08:00"
-      },
-      {
-        "title": "沙特主导联军称利雅得机场航站楼遭袭",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711149.shtml",
-        "publishedAt": "2026-10-11T23:17:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T23:50:03.061+08:00",
+    "fetchedAt": "2026-10-12T00:00:04.488+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T23:50:07.038+08:00",
+      "fetchedAt": "2026-10-12T00:00:41.378+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T04:50:08.000+08:00"
+          "resetAt": "2026-10-12T05:00:42.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T23:50:08.000+08:00"
+          "resetAt": "2026-10-19T00:00:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T23:50:07.287+08:00",
+      "fetchedAt": "2026-10-12T00:00:41.683+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T23:50:07.294+08:00",
+      "fetchedAt": "2026-10-12T00:00:41.688+08:00",
       "error": null
     }
   }
