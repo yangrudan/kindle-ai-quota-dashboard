@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T00:10:09.248+08:00",
+  "updatedAt": "2026-10-12T00:20:08.749+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.1,
-    "feelsLikeC": 21.3,
+    "tempC": 19,
+    "feelsLikeC": 21.2,
     "humidity": 90,
-    "windKph": 3.1,
+    "windKph": 3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T00:10:09.248+08:00",
+    "observedAt": "2026-10-12T00:15:00.000+08:00",
+    "fetchedAt": "2026-10-12T00:20:08.749+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全球媒体聚焦 | “长征是值得非洲探讨的国家发展理念”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711156.shtml",
+        "publishedAt": "2026-10-12T00:13:26.000+08:00"
+      },
       {
         "title": "IMF和世行年会将在曼谷举行 泰国加强安保和城市保障",
         "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711153.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“袁稻思源”杂交水稻智能育种平台长沙发布 AI赋能育种创新",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711148.shtml",
         "publishedAt": "2026-10-11T23:46:44.000+08:00"
-      },
-      {
-        "title": "澳大利亚前总理陆克文：呼吁共建平等开放的亚太共同体",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711147.shtml",
-        "publishedAt": "2026-10-11T23:41:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T00:10:03.244+08:00",
+    "fetchedAt": "2026-10-12T00:20:03.650+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T00:10:07.040+08:00",
+      "fetchedAt": "2026-10-12T00:20:07.503+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T05:10:09.000+08:00"
+          "resetAt": "2026-10-12T05:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-19T00:10:09.000+08:00"
+          "resetAt": "2026-10-19T00:20:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T00:10:07.351+08:00",
+      "fetchedAt": "2026-10-12T00:20:07.777+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T00:10:07.361+08:00",
+      "fetchedAt": "2026-10-12T00:20:07.788+08:00",
       "error": null
     }
   }
