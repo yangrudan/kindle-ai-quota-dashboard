@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T22:40:08.802+08:00",
+  "updatedAt": "2026-10-11T22:50:38.538+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.9,
+    "tempC": 19.8,
     "feelsLikeC": 22.1,
-    "humidity": 86,
-    "windKph": 3.3,
+    "humidity": 87,
+    "windKph": 3.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T22:40:08.802+08:00",
+    "observedAt": "2026-10-11T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-11T22:50:38.539+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "音乐剧《四十天》重庆站大幕开启 演绎“宜昌大撤退”实业救国史诗",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711139.shtml",
+        "publishedAt": "2026-10-11T22:33:58.000+08:00"
+      },
       {
         "title": "郑钦文生涯首夺WTA1000级别赛事冠军",
         "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711137.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "郑钦文成为中网首位本土女单冠军",
         "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711134.shtml",
         "publishedAt": "2026-10-11T21:29:28.000+08:00"
-      },
-      {
-        "title": "广州天气晴好 游客登鸿鹄楼观景",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-11/10711126.shtml",
-        "publishedAt": "2026-10-11T21:24:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T22:40:03.785+08:00",
+    "fetchedAt": "2026-10-11T22:50:03.599+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T22:40:07.692+08:00",
+      "fetchedAt": "2026-10-11T22:50:37.486+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T03:40:08.000+08:00"
+          "resetAt": "2026-10-12T03:50:38.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T22:40:08.000+08:00"
+          "resetAt": "2026-10-18T22:50:38.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T22:40:07.930+08:00",
+      "fetchedAt": "2026-10-11T22:50:37.711+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T22:40:07.938+08:00",
+      "fetchedAt": "2026-10-11T22:50:37.716+08:00",
       "error": null
     }
   }
