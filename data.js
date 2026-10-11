@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T09:10:08.451+08:00",
+  "updatedAt": "2026-10-11T09:20:09.036+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.5,
-    "feelsLikeC": 23.8,
-    "humidity": 79,
-    "windKph": 3.2,
+    "tempC": 22,
+    "feelsLikeC": 24.2,
+    "humidity": 77,
+    "windKph": 3.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T09:10:08.451+08:00",
+    "observedAt": "2026-10-11T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-11T09:20:09.036+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "手机下单、认证护士按约上门，破解“ 居家护理难 ”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-11/10710884.shtml",
+        "publishedAt": "2026-10-11T09:12:18.000+08:00"
+      },
+      {
+        "title": "（长征胜利90周年）舌尖上的长征往事：“红军粉”销海内外",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710883.shtml",
+        "publishedAt": "2026-10-11T09:11:06.000+08:00"
+      },
+      {
+        "title": "证书年检、定期换证不得重复申报个税专项附加扣除",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710882.shtml",
+        "publishedAt": "2026-10-11T09:06:14.000+08:00"
+      },
+      {
+        "title": "全国秋粮收获过半 多要素协同筑牢丰收根基",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710881.shtml",
+        "publishedAt": "2026-10-11T09:02:38.000+08:00"
+      },
+      {
         "title": "特朗普：美国可能加入沙特打击胡塞武装的行动",
         "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710880.shtml",
         "publishedAt": "2026-10-11T09:01:36.000+08:00"
-      },
-      {
-        "title": "高频数据显示 三季度居民消费意愿稳步回暖",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710879.shtml",
-        "publishedAt": "2026-10-11T08:54:25.000+08:00"
-      },
-      {
-        "title": "（寻味中华丨艺林）兰州太平鼓：刚柔相济凌空跃 擂鼓发声寄太平",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10710871.shtml",
-        "publishedAt": "2026-10-11T08:50:31.000+08:00"
-      },
-      {
-        "title": "这座西北千年古县，藏着大唐皇帝都夸过的“枣中贵族”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710878.shtml",
-        "publishedAt": "2026-10-11T08:48:01.000+08:00"
-      },
-      {
-        "title": "2026华盛顿国际青年艺术家音乐季收官",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10710870.shtml",
-        "publishedAt": "2026-10-11T08:47:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T09:10:02.962+08:00",
+    "fetchedAt": "2026-10-11T09:20:03.552+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T09:10:06.679+08:00",
+      "fetchedAt": "2026-10-11T09:20:07.597+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T14:10:07.000+08:00"
+          "resetAt": "2026-10-11T14:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T09:10:07.001+08:00",
+      "fetchedAt": "2026-10-11T09:20:07.904+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T09:10:07.009+08:00",
+      "fetchedAt": "2026-10-11T09:20:07.910+08:00",
       "error": null
     }
   }
