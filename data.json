@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-11T18:20:08.480+08:00",
+  "updatedAt": "2026-10-11T18:30:09.433+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.3,
-    "feelsLikeC": 24.3,
-    "humidity": 77,
-    "windKph": 6.2,
+    "tempC": 22.1,
+    "feelsLikeC": 24.1,
+    "humidity": 78,
+    "windKph": 6.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-11T18:20:08.480+08:00",
+    "observedAt": "2026-10-11T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-11T18:30:09.433+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（乡村行·看振兴）山西和顺做强木耳特色产业 链式发展赋能乡村振兴",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711047.shtml",
-        "publishedAt": "2026-10-11T18:09:37.000+08:00"
+        "title": "拉萨：铁纪护航民生 守护群众“钱袋子”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711056.shtml",
+        "publishedAt": "2026-10-11T18:24:26.000+08:00"
       },
       {
-        "title": "祝贺！王曼昱成功卫冕WTT中国大满贯女单冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711046.shtml",
-        "publishedAt": "2026-10-11T17:55:31.000+08:00"
+        "title": "亚洲首座专业货运机场成中国新能源汽车出海新门户",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711054.shtml",
+        "publishedAt": "2026-10-11T18:23:26.000+08:00"
       },
       {
-        "title": "2026“建乐合作”工作推进会暨民建企业家走进乐山活动在四川乐山举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-11/10711042.shtml",
-        "publishedAt": "2026-10-11T17:53:29.000+08:00"
+        "title": "清华大学美术学院敦煌艺术研究及设计成果中国香港特展启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711055.shtml",
+        "publishedAt": "2026-10-11T18:22:56.000+08:00"
       },
       {
-        "title": "中新健康｜哈药股份董事兼总裁芦传有被立案、实施留置",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-11/10711041.shtml",
-        "publishedAt": "2026-10-11T17:52:06.000+08:00"
+        "title": "歌从田间来 安徽芜湖“四季村歌”唱出乡村之美",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711053.shtml",
+        "publishedAt": "2026-10-11T18:22:24.000+08:00"
       },
       {
-        "title": "斗南国际花卉数据流通中心成立 由“卖鲜花”转向“卖数据”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711043.shtml",
-        "publishedAt": "2026-10-11T17:49:16.000+08:00"
+        "title": "（投资中国）阿迪达斯CEO：中国市场充满能量",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711051.shtml",
+        "publishedAt": "2026-10-11T18:17:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T18:20:02.805+08:00",
+    "fetchedAt": "2026-10-11T18:30:04.241+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T18:20:07.356+08:00",
+      "fetchedAt": "2026-10-11T18:30:08.311+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T23:20:08.000+08:00"
+          "resetAt": "2026-10-11T23:30:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T18:20:08.000+08:00"
+          "resetAt": "2026-10-18T18:30:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T18:20:07.610+08:00",
+      "fetchedAt": "2026-10-11T18:30:08.561+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T18:20:07.619+08:00",
+      "fetchedAt": "2026-10-11T18:30:08.569+08:00",
       "error": null
     }
   }
