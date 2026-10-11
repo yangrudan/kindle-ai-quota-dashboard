@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T15:20:37.883+08:00",
+  "updatedAt": "2026-10-11T15:30:09.551+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.8,
-    "feelsLikeC": 26.8,
-    "humidity": 59,
-    "windKph": 10.9,
+    "tempC": 25.7,
+    "feelsLikeC": 26.7,
+    "humidity": 60,
+    "windKph": 11.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-11T15:20:37.883+08:00",
+    "observedAt": "2026-10-11T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-11T15:30:09.551+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "开局之年看中国·潮涌荆楚｜下一代光通信，用空芯光纤造一条“磁悬浮”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710986.shtml",
-        "publishedAt": "2026-10-11T15:09:36.000+08:00"
+        "title": "南京—欧洲滚装外贸航线开通 出海口“搬”到车企厂门口",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710987.shtml",
+        "publishedAt": "2026-10-11T15:25:05.000+08:00"
       },
       {
-        "title": "【红星照耀中国】药香、绿意、黑科技！探访江西这座“最美中国工厂”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710985.shtml",
-        "publishedAt": "2026-10-11T15:07:42.000+08:00"
+        "title": "东北秋菜囤货悄然轻量化：留存一口秋日鲜",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710978.shtml",
+        "publishedAt": "2026-10-11T15:23:40.000+08:00"
       },
       {
-        "title": "晶采观察丨银幕外产业加速跑 “电影+”激发消费新活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710984.shtml",
-        "publishedAt": "2026-10-11T15:06:44.000+08:00"
+        "title": "中国侨联成立70周年主题展在北京开幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-11/10710995.shtml",
+        "publishedAt": "2026-10-11T15:23:38.000+08:00"
       },
       {
-        "title": "陈茂波：强合作、稳增长、保民生为APEC财长会重要课题",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10710974.shtml",
-        "publishedAt": "2026-10-11T15:05:29.000+08:00"
+        "title": "从“忧居”到“优居” 广西城中村改造“改”出安居新生活",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710989.shtml",
+        "publishedAt": "2026-10-11T15:22:58.000+08:00"
       },
       {
-        "title": "【红星照耀中国】钢铁厂里藏了个4A景区！南昌钢企解锁绿色工业新模样",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710983.shtml",
-        "publishedAt": "2026-10-11T15:05:13.000+08:00"
+        "title": "寻访四省边际衢州 中外青年感知中华文明新生",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710988.shtml",
+        "publishedAt": "2026-10-11T15:22:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T15:20:03.154+08:00",
+    "fetchedAt": "2026-10-11T15:30:03.619+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T15:20:36.744+08:00",
+      "fetchedAt": "2026-10-11T15:30:08.423+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T20:20:37.000+08:00"
+          "resetAt": "2026-10-11T20:30:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T15:20:37.000+08:00"
+          "resetAt": "2026-10-18T15:30:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T15:20:37.054+08:00",
+      "fetchedAt": "2026-10-11T15:30:08.725+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T15:20:37.057+08:00",
+      "fetchedAt": "2026-10-11T15:30:08.742+08:00",
       "error": null
     }
   }
