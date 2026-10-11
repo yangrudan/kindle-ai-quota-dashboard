@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T11:50:08.401+08:00",
+  "updatedAt": "2026-10-11T12:00:09.983+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-11T11:50:08.401+08:00",
+    "fetchedAt": "2026-10-11T12:00:09.984+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "办“社保卡金卡”能提高报销、领补贴？警惕诈骗新话术",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710932.shtml",
+        "publishedAt": "2026-10-11T11:51:55.000+08:00"
+      },
+      {
+        "title": "食品安全法修订草案公开征求意见 回应了这些民生关切",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710931.shtml",
+        "publishedAt": "2026-10-11T11:50:11.000+08:00"
+      },
       {
         "title": "长征路上学党史｜在黔山叠翠间 回顾伟大转折",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-11/10710930.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "天津北塘古镇焕新升级 东方卫城解锁国风夜游新体验",
         "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710904.shtml",
         "publishedAt": "2026-10-11T11:29:12.000+08:00"
-      },
-      {
-        "title": "梅艳芳离世23年后骨灰被盗，歌迷会发文找线索，亲哥梅启明发声",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10710926.shtml",
-        "publishedAt": "2026-10-11T11:28:16.000+08:00"
-      },
-      {
-        "title": "四川理县：海外华媒探秘被誉为“羌族建筑艺术活化石”的桃坪羌寨",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710906.shtml",
-        "publishedAt": "2026-10-11T11:26:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T11:50:03.371+08:00",
+    "fetchedAt": "2026-10-11T12:00:04.030+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T11:50:07.260+08:00",
+      "fetchedAt": "2026-10-11T12:00:08.745+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T16:50:08.000+08:00"
+          "resetAt": "2026-10-11T17:00:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 64,
-          "resetAt": "2026-10-15T10:25:42.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-18T12:00:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T11:50:07.511+08:00",
+      "fetchedAt": "2026-10-11T12:00:09.043+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T11:50:07.514+08:00",
+      "fetchedAt": "2026-10-11T12:00:09.052+08:00",
       "error": null
     }
   }
