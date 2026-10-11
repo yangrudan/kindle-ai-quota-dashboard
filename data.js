@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T17:10:07.841+08:00",
+  "updatedAt": "2026-10-11T17:20:07.973+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24,
-    "feelsLikeC": 25.1,
-    "humidity": 67,
-    "windKph": 10.6,
+    "tempC": 23.6,
+    "feelsLikeC": 24.9,
+    "humidity": 69,
+    "windKph": 9.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T17:10:07.841+08:00",
+    "observedAt": "2026-10-11T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-11T17:20:07.973+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "探访陇西“黄芪法庭”：道地良方补“益气”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711017.shtml",
+        "publishedAt": "2026-10-11T17:14:36.000+08:00"
+      },
+      {
+        "title": "广东加速推进人工智能发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711030.shtml",
+        "publishedAt": "2026-10-11T17:11:24.000+08:00"
+      },
+      {
+        "title": "中国侨联成立70周年主题展在北京开幕",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-11/1207495.shtml",
+        "publishedAt": "2026-10-11T17:10:07.000+08:00"
+      },
       {
         "title": "专家：赖清德“双十”讲话暴露其“台独”分裂本质不变、毒性不减",
         "url": "https://www.chinanews.com.cn/ll/2026/10-11/10711028.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "高新产业接续落地 续写西藏高质量发展新篇章",
         "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711027.shtml",
         "publishedAt": "2026-10-11T17:03:32.000+08:00"
-      },
-      {
-        "title": "“核” “潜” “艇”，三个词写尽日本步步为营的危险试探",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711026.shtml",
-        "publishedAt": "2026-10-11T17:02:14.000+08:00"
-      },
-      {
-        "title": "日本民间团体举行集会 反对政府军事扩张",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711025.shtml",
-        "publishedAt": "2026-10-11T17:02:00.000+08:00"
-      },
-      {
-        "title": "猴戏经典名作再现 百戏聚昆曲故里争奇斗艳",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711016.shtml",
-        "publishedAt": "2026-10-11T17:01:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T17:10:03.026+08:00",
+    "fetchedAt": "2026-10-11T17:20:02.909+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T17:10:06.759+08:00",
+      "fetchedAt": "2026-10-11T17:20:06.752+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T22:10:07.000+08:00"
+          "resetAt": "2026-10-11T22:20:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T17:10:07.000+08:00"
+          "resetAt": "2026-10-18T17:20:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T17:10:07.030+08:00",
+      "fetchedAt": "2026-10-11T17:20:07.070+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T17:10:07.039+08:00",
+      "fetchedAt": "2026-10-11T17:20:07.075+08:00",
       "error": null
     }
   }
