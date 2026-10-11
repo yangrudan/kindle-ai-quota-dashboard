@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T14:20:08.214+08:00",
+  "updatedAt": "2026-10-11T14:30:09.912+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 26.4,
-    "feelsLikeC": 27,
+    "feelsLikeC": 26.9,
     "humidity": 52,
-    "windKph": 9.4,
+    "windKph": 9.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-11T14:20:08.214+08:00",
+    "observedAt": "2026-10-11T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-11T14:30:09.913+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国物流业景气指数连续5个月处扩张区间 呈多维度改善态势",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710968.shtml",
+        "publishedAt": "2026-10-11T14:24:25.000+08:00"
+      },
+      {
+        "title": "院士专家齐聚广州探讨食品营养与健康领域发展前沿方向",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710971.shtml",
+        "publishedAt": "2026-10-11T14:23:29.000+08:00"
+      },
+      {
+        "title": "渭北果乡翩跹起舞 国家级广场舞大赛落地陕西长武",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10710970.shtml",
+        "publishedAt": "2026-10-11T14:23:17.000+08:00"
+      },
       {
         "title": "法国总统当年首次访华，为何把大同作为京外第一站？答案藏在石窟里",
         "url": "https://www.chinanews.com.cn/dxw/2026/10-11/10710969.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "藏不住了！110岁干家务、105岁骑三轮，长寿原来还能这么过......",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710967.shtml",
         "publishedAt": "2026-10-11T14:00:54.000+08:00"
-      },
-      {
-        "title": "“欧洲与中国对话，才是务实做法”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710966.shtml",
-        "publishedAt": "2026-10-11T13:58:04.000+08:00"
-      },
-      {
-        "title": "广东省省长孟凡利会见蒂姆·库克一行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710965.shtml",
-        "publishedAt": "2026-10-11T13:51:25.000+08:00"
-      },
-      {
-        "title": "回望“宜昌大撤退”壮举 专家学者解读卢作孚爱国企业家精神的当下意义",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710957.shtml",
-        "publishedAt": "2026-10-11T13:42:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T14:20:03.377+08:00",
+    "fetchedAt": "2026-10-11T14:30:04.368+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T14:20:07.136+08:00",
+      "fetchedAt": "2026-10-11T14:30:08.668+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T19:20:08.000+08:00"
+          "resetAt": "2026-10-11T19:30:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T14:20:08.000+08:00"
+          "resetAt": "2026-10-18T14:30:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T14:20:07.409+08:00",
+      "fetchedAt": "2026-10-11T14:30:09.010+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T14:20:07.415+08:00",
+      "fetchedAt": "2026-10-11T14:30:09.014+08:00",
       "error": null
     }
   }
