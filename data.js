@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T23:20:08.558+08:00",
+  "updatedAt": "2026-10-11T23:30:09.197+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.5,
-    "feelsLikeC": 21.7,
-    "humidity": 88,
+    "tempC": 19.4,
+    "feelsLikeC": 21.6,
+    "humidity": 89,
     "windKph": 3.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T23:15:00.000+08:00",
-    "fetchedAt": "2026-10-11T23:20:08.558+08:00",
+    "observedAt": "2026-10-11T23:30:00.000+08:00",
+    "fetchedAt": "2026-10-11T23:30:09.197+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "沙特主导联军称利雅得机场航站楼遭袭",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711149.shtml",
+        "publishedAt": "2026-10-11T23:17:28.000+08:00"
+      },
       {
         "title": "2026上海网球大师赛：周意惜败胡尔卡奇 中国单打选手全部出局",
         "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711143.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（文化新纪行）从一座古城读懂千年吴越",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711140.shtml",
         "publishedAt": "2026-10-11T23:10:14.000+08:00"
-      },
-      {
-        "title": "音乐剧《四十天》重庆站大幕开启 演绎“宜昌大撤退”实业救国史诗",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711139.shtml",
-        "publishedAt": "2026-10-11T22:33:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T23:20:03.828+08:00",
+    "fetchedAt": "2026-10-11T23:30:03.574+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T23:20:07.372+08:00",
+      "fetchedAt": "2026-10-11T23:30:08.079+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T04:20:08.000+08:00"
+          "resetAt": "2026-10-12T04:30:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T23:20:08.000+08:00"
+          "resetAt": "2026-10-18T23:30:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T23:20:07.610+08:00",
+      "fetchedAt": "2026-10-11T23:30:08.322+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T23:20:07.619+08:00",
+      "fetchedAt": "2026-10-11T23:30:08.325+08:00",
       "error": null
     }
   }
