@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T01:00:09.346+08:00",
+  "updatedAt": "2026-10-12T01:10:08.790+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-12T01:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T01:00:09.346+08:00",
+    "fetchedAt": "2026-10-12T01:10:08.791+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "郑钦文创造历史 首夺中网女单冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711158.shtml",
+        "publishedAt": "2026-10-12T01:03:06.000+08:00"
+      },
       {
         "title": "吉布提沿海移民船只倾覆事故死亡人数升至139人",
         "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711157.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中超第27轮：蓉城遭绝杀暂缓夺冠 海牛提前降级",
         "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711154.shtml",
         "publishedAt": "2026-10-11T23:54:54.000+08:00"
-      },
-      {
-        "title": "波黑前部长会议主席：中国以长远眼光谋划未来",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
-        "publishedAt": "2026-10-11T23:52:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T01:00:03.746+08:00",
+    "fetchedAt": "2026-10-12T01:10:03.572+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T01:00:08.179+08:00",
+      "fetchedAt": "2026-10-12T01:10:07.264+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T06:00:09.000+08:00"
+          "resetAt": "2026-10-12T06:10:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-19T01:00:09.000+08:00"
+          "resetAt": "2026-10-19T01:10:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T01:00:08.488+08:00",
+      "fetchedAt": "2026-10-12T01:10:07.601+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T01:00:08.498+08:00",
+      "fetchedAt": "2026-10-12T01:10:07.605+08:00",
       "error": null
     }
   }
