@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-11T16:50:08.217+08:00",
+  "updatedAt": "2026-10-11T17:00:09.714+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.3,
-    "feelsLikeC": 25.4,
-    "humidity": 66,
-    "windKph": 10.9,
+    "tempC": 24,
+    "feelsLikeC": 25.1,
+    "humidity": 67,
+    "windKph": 10.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-11T16:50:08.217+08:00",
+    "observedAt": "2026-10-11T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-11T17:00:09.715+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "青春华章·强农报国丨青春执笔，绘就沃野新图景",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711019.shtml",
+        "publishedAt": "2026-10-11T16:55:13.000+08:00"
+      },
       {
         "title": "“最亮小行星”冲日 十月夜空添看点",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711009.shtml",
@@ -38,14 +43,9 @@
         "title": "四川成都地铁武侯祠站以场景为“试验田”探索智慧车站建设",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711010.shtml",
         "publishedAt": "2026-10-11T16:14:35.000+08:00"
-      },
-      {
-        "title": "知名企业高管：跨国企业可成为中企出海“超级合伙人”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711011.shtml",
-        "publishedAt": "2026-10-11T16:14:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T16:50:03.523+08:00",
+    "fetchedAt": "2026-10-11T17:00:04.216+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T16:50:06.983+08:00",
+      "fetchedAt": "2026-10-11T17:00:08.463+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T21:50:08.000+08:00"
+          "resetAt": "2026-10-11T22:00:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T16:50:08.000+08:00"
+          "resetAt": "2026-10-18T17:00:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T16:50:07.334+08:00",
+      "fetchedAt": "2026-10-11T17:00:08.722+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T16:50:07.342+08:00",
+      "fetchedAt": "2026-10-11T17:00:08.731+08:00",
       "error": null
     }
   }
