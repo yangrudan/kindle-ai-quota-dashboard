@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-11T09:00:38.590+08:00",
+  "updatedAt": "2026-10-11T09:10:08.451+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.8,
-    "feelsLikeC": 23.1,
-    "humidity": 82,
-    "windKph": 2.6,
+    "tempC": 21.5,
+    "feelsLikeC": 23.8,
+    "humidity": 79,
+    "windKph": 3.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-11T09:00:38.590+08:00",
+    "observedAt": "2026-10-11T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-11T09:10:08.451+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普：美国可能加入沙特打击胡塞武装的行动",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710880.shtml",
+        "publishedAt": "2026-10-11T09:01:36.000+08:00"
+      },
       {
         "title": "高频数据显示 三季度居民消费意愿稳步回暖",
         "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710879.shtml",
@@ -38,14 +43,9 @@
         "title": "2026华盛顿国际青年艺术家音乐季收官",
         "url": "https://www.chinanews.com.cn/cul/2026/10-11/10710870.shtml",
         "publishedAt": "2026-10-11T08:47:11.000+08:00"
-      },
-      {
-        "title": "多国战机导弹云集沙特，也门胡塞武装将遭围攻？",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710867.shtml",
-        "publishedAt": "2026-10-11T08:44:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T09:00:02.954+08:00",
+    "fetchedAt": "2026-10-11T09:10:02.962+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T09:00:37.359+08:00",
+      "fetchedAt": "2026-10-11T09:10:06.679+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T14:00:38.000+08:00"
+          "resetAt": "2026-10-11T14:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T09:00:37.619+08:00",
+      "fetchedAt": "2026-10-11T09:10:07.001+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T09:00:37.629+08:00",
+      "fetchedAt": "2026-10-11T09:10:07.009+08:00",
       "error": null
     }
   }
