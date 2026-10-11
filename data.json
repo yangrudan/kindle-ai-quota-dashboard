@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-11T13:10:09.819+08:00",
+  "updatedAt": "2026-10-11T13:20:09.115+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.1,
-    "feelsLikeC": 27.9,
-    "humidity": 56,
-    "windKph": 8.5,
+    "tempC": 26.2,
+    "feelsLikeC": 27.8,
+    "humidity": 55,
+    "windKph": 8.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T13:10:09.820+08:00",
+    "observedAt": "2026-10-11T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-11T13:20:09.115+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆结束2026年汛期 今年雨情汛情总体偏多偏强",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710945.shtml",
-        "publishedAt": "2026-10-11T13:01:27.000+08:00"
+        "title": "行走美丽画卷｜海南五指山：把热带雨林护得更好",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710937.shtml",
+        "publishedAt": "2026-10-11T13:11:53.000+08:00"
       },
       {
-        "title": "国防部：赖清德所谓“双十”讲话暴露其“台湾之祸”“和平之灾”本质",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710944.shtml",
-        "publishedAt": "2026-10-11T12:59:13.000+08:00"
+        "title": "广州边检推16项举措护航第140届广交会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710954.shtml",
+        "publishedAt": "2026-10-11T13:10:37.000+08:00"
       },
       {
-        "title": "傅莹率团参加2026年北极圈论坛大会",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710922.shtml",
-        "publishedAt": "2026-10-11T12:58:11.000+08:00"
+        "title": "第四届“豫见新疆”农特产品交易会在哈密启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710946.shtml",
+        "publishedAt": "2026-10-11T13:09:41.000+08:00"
       },
       {
-        "title": "青春华章 强农报国丨把青春“种”进土地",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710938.shtml",
-        "publishedAt": "2026-10-11T12:35:09.000+08:00"
+        "title": "“青春华章 强农报国”大思政课网络主题宣传和互动引导活动在山东农业大学举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710948.shtml",
+        "publishedAt": "2026-10-11T13:09:35.000+08:00"
       },
       {
-        "title": "东西问｜张振和：中国度量衡如何诠释文明互鉴与制度演进？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710936.shtml",
-        "publishedAt": "2026-10-11T12:10:58.000+08:00"
+        "title": "贵州从江糯稻谷收割忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710947.shtml",
+        "publishedAt": "2026-10-11T13:09:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T13:10:04.487+08:00",
+    "fetchedAt": "2026-10-11T13:20:04.037+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T13:10:08.333+08:00",
+      "fetchedAt": "2026-10-11T13:20:07.879+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T18:10:09.000+08:00"
+          "resetAt": "2026-10-11T18:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T13:10:09.000+08:00"
+          "resetAt": "2026-10-18T13:20:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T13:10:08.641+08:00",
+      "fetchedAt": "2026-10-11T13:20:08.270+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T13:10:08.650+08:00",
+      "fetchedAt": "2026-10-11T13:20:08.279+08:00",
       "error": null
     }
   }
