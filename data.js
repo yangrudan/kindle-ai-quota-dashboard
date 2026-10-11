@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T19:30:09.990+08:00",
+  "updatedAt": "2026-10-11T19:40:09.063+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T19:30:09.991+08:00",
+    "fetchedAt": "2026-10-11T19:40:09.063+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "台青骑行内蒙古：一路风景，两岸分享",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711078.shtml",
+        "publishedAt": "2026-10-11T19:34:46.000+08:00"
+      },
       {
         "title": "一边秋雨降温，一边暖热犹盛，南北方上演“冬夏并存”",
         "url": "https://www.chinanews.com.cn/life/2026/10-11/10711077.shtml",
@@ -30,22 +35,17 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-11T19:23:47.000+08:00"
       },
       {
+        "title": "王沪宁会见越南国会主席陈青敏",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711070.shtml",
+        "publishedAt": "2026-10-11T19:10:49.000+08:00"
+      },
+      {
         "title": "温饱不愁后 年近百岁的独龙族文面女有了新心愿",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711075.shtml",
         "publishedAt": "2026-10-11T19:08:33.000+08:00"
-      },
-      {
-        "title": "辽宁深耕“演艺+”融合模式 激活文旅消费新动能",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711073.shtml",
-        "publishedAt": "2026-10-11T19:06:07.000+08:00"
-      },
-      {
-        "title": "“辽超”：本溪队1:0大连队拿到四强门票",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711072.shtml",
-        "publishedAt": "2026-10-11T19:05:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T19:30:04.628+08:00",
+    "fetchedAt": "2026-10-11T19:40:03.556+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T19:30:08.774+08:00",
+      "fetchedAt": "2026-10-11T19:40:07.637+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T00:30:09.000+08:00"
+          "resetAt": "2026-10-12T00:40:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T19:30:09.000+08:00"
+          "resetAt": "2026-10-18T19:40:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T19:30:09.086+08:00",
+      "fetchedAt": "2026-10-11T19:40:08.188+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T19:30:09.089+08:00",
+      "fetchedAt": "2026-10-11T19:40:08.195+08:00",
       "error": null
     }
   }
