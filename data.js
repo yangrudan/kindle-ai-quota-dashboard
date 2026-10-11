@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T10:10:09.158+08:00",
+  "updatedAt": "2026-10-11T10:20:10.141+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.1,
-    "feelsLikeC": 25.2,
-    "humidity": 72,
+    "tempC": 23.5,
+    "feelsLikeC": 25.9,
+    "humidity": 70,
     "windKph": 5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T10:10:09.158+08:00",
+    "observedAt": "2026-10-11T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-11T10:20:10.141+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（长江十年行）四川泸州“捕鱼人”变“护渔人” 守护一江清水出川",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710900.shtml",
+        "publishedAt": "2026-10-11T10:08:15.000+08:00"
+      },
+      {
+        "title": "香江观澜：全球最自由经济体评选“三连冠” 香港独特竞争力再获国际认可",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10710907.shtml",
+        "publishedAt": "2026-10-11T10:07:25.000+08:00"
+      },
+      {
+        "title": "中国女子高尔夫球公开赛：石昱莉1杆优势领跑冲冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10710903.shtml",
+        "publishedAt": "2026-10-11T10:07:19.000+08:00"
+      },
       {
         "title": "何以中国·纹样里的中国｜绣在裙摆上的路",
         "url": "https://www.chinanews.com.cn/cul/2026/10-11/10710905.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "从“流量”到“留量”：8.26亿人次出游背后的文旅经济之变",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710901.shtml",
         "publishedAt": "2026-10-11T10:01:03.000+08:00"
-      },
-      {
-        "title": "中企承建的马拉维利隆圭供水项目让约5万村民告别“用水难”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710899.shtml",
-        "publishedAt": "2026-10-11T09:59:05.000+08:00"
-      },
-      {
-        "title": "红星照耀中国丨红色根脉点亮赣鄱三农新图景",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710898.shtml",
-        "publishedAt": "2026-10-11T09:56:17.000+08:00"
-      },
-      {
-        "title": "国庆假期后错峰出游 这几条松弛线路带你“慢旅行”",
-        "url": "https://www.chinanews.com.cn/life/2026/10-11/10710897.shtml",
-        "publishedAt": "2026-10-11T09:54:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T10:10:03.659+08:00",
+    "fetchedAt": "2026-10-11T10:20:03.913+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T10:10:07.853+08:00",
+      "fetchedAt": "2026-10-11T10:20:08.758+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T15:10:08.000+08:00"
+          "resetAt": "2026-10-11T15:20:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T10:10:08.162+08:00",
+      "fetchedAt": "2026-10-11T10:20:09.093+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T10:10:08.171+08:00",
+      "fetchedAt": "2026-10-11T10:20:09.102+08:00",
       "error": null
     }
   }
