@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-11T08:30:10.818+08:00",
+  "updatedAt": "2026-10-11T08:40:11.873+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 20,
-    "feelsLikeC": 22.4,
-    "humidity": 86,
+    "feelsLikeC": 22.3,
+    "humidity": 85,
     "windKph": 1.9,
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-11T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T08:30:10.818+08:00",
+    "fetchedAt": "2026-10-11T08:40:11.873+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "目标占比35%！我国加速壮大技能劳动者队伍",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710873.shtml",
+        "publishedAt": "2026-10-11T08:33:52.000+08:00"
+      },
+      {
+        "title": "“小熊”加强为超强台风级 未来对我国海域无影响",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710872.shtml",
+        "publishedAt": "2026-10-11T08:28:54.000+08:00"
+      },
+      {
+        "title": "中央气象台：北方大部地区将有冷空气活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710868.shtml",
+        "publishedAt": "2026-10-11T08:27:32.000+08:00"
+      },
+      {
+        "title": "“蛟龙”号载人潜水器入海 计划下潜约4500米",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710869.shtml",
+        "publishedAt": "2026-10-11T08:27:16.000+08:00"
+      },
+      {
         "title": "尚无中国公民伤亡报告 中国驻沙特大使馆公布应急电话",
         "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710866.shtml",
         "publishedAt": "2026-10-11T07:19:34.000+08:00"
-      },
-      {
-        "title": "美俄达成能源合作 泽连斯基感到“遭背叛” 美总统建议乌更换领导人",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710865.shtml",
-        "publishedAt": "2026-10-11T07:13:20.000+08:00"
-      },
-      {
-        "title": "10月11日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-11/10710864.shtml",
-        "publishedAt": "2026-10-11T07:09:20.000+08:00"
-      },
-      {
-        "title": "美总统：美国有可能加入沙特对胡塞武装的打击行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710863.shtml",
-        "publishedAt": "2026-10-11T06:43:52.000+08:00"
-      },
-      {
-        "title": "焚烧厂“不够烧”与“堆不下”问题并存，怎么解决？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710862.shtml",
-        "publishedAt": "2026-10-11T06:40:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T08:30:05.669+08:00",
+    "fetchedAt": "2026-10-11T08:40:05.037+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T08:30:09.557+08:00",
+      "fetchedAt": "2026-10-11T08:40:10.060+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T13:30:10.000+08:00"
+          "resetAt": "2026-10-11T13:40:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T08:30:09.839+08:00",
+      "fetchedAt": "2026-10-11T08:40:10.303+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T08:30:09.843+08:00",
+      "fetchedAt": "2026-10-11T08:40:10.314+08:00",
       "error": null
     }
   }
