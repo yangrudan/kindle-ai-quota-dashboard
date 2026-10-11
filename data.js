@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T07:40:07.974+08:00",
+  "updatedAt": "2026-10-12T07:50:08.747+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.2,
-    "feelsLikeC": 21.4,
-    "humidity": 89,
-    "windKph": 2.3,
+    "tempC": 19.7,
+    "feelsLikeC": 21.9,
+    "humidity": 86,
+    "windKph": 2.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T07:40:07.975+08:00",
+    "observedAt": "2026-10-12T07:45:00.000+08:00",
+    "fetchedAt": "2026-10-12T07:50:08.747+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "人这一辈子，一定要去一趟马鞍山：一半是铁水奔流，一半是诗仙明月",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711170.shtml",
+        "publishedAt": "2026-10-12T07:44:00.000+08:00"
+      },
+      {
+        "title": "特朗普宣布俄乌进入“能源停火”，泽连斯基回应",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711169.shtml",
+        "publishedAt": "2026-10-12T07:40:40.000+08:00"
+      },
+      {
+        "title": "真相来了丨所谓“金卡社保卡”是电信诈骗 不要轻信“升级骗局”",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-12/10711168.shtml",
+        "publishedAt": "2026-10-12T07:33:56.000+08:00"
+      },
       {
         "title": "打卡跟练、大数据定制食谱……AI成职场人“减重搭子”",
         "url": "https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "AI虚拟人代言产品“亲测有效”，是否站得住脚？专家说法",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711166.shtml",
         "publishedAt": "2026-10-12T07:27:29.000+08:00"
-      },
-      {
-        "title": "10月12日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10711165.shtml",
-        "publishedAt": "2026-10-12T06:59:42.000+08:00"
-      },
-      {
-        "title": "伊朗：美国接受伊方所提部分条件，但其回应“不够充分”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
-        "publishedAt": "2026-10-12T06:54:58.000+08:00"
-      },
-      {
-        "title": "连接深港两地 新皇岗口岸正式开通运行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
-        "publishedAt": "2026-10-12T06:48:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T07:40:02.975+08:00",
+    "fetchedAt": "2026-10-12T07:50:03.324+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T07:40:06.716+08:00",
+      "fetchedAt": "2026-10-12T07:50:07.635+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T12:40:07.000+08:00"
+          "resetAt": "2026-10-12T12:50:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-19T07:40:07.000+08:00"
+          "resetAt": "2026-10-19T07:50:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T07:40:06.999+08:00",
+      "fetchedAt": "2026-10-12T07:50:07.877+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T07:40:07.010+08:00",
+      "fetchedAt": "2026-10-12T07:50:07.886+08:00",
       "error": null
     }
   }
