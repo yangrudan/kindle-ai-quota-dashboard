@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T06:50:08.741+08:00",
+  "updatedAt": "2026-10-12T07:00:39.628+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18,
-    "feelsLikeC": 20.1,
-    "humidity": 95,
+    "tempC": 18.3,
+    "feelsLikeC": 20.5,
+    "humidity": 94,
     "windKph": 2.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-12T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-12T06:50:08.741+08:00",
+    "observedAt": "2026-10-12T07:00:00.000+08:00",
+    "fetchedAt": "2026-10-12T07:00:39.628+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "连接深港两地 新皇岗口岸正式开通运行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711163.shtml",
+        "publishedAt": "2026-10-12T06:48:39.000+08:00"
+      },
+      {
+        "title": "一路闯关、创多项历史！回顾郑钦文2026中网冠军之路",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
+        "publishedAt": "2026-10-12T06:46:19.000+08:00"
+      },
       {
         "title": "伊朗称美国已接受伊方所提部分条件",
         "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711161.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "沙特民航总局：达曼法赫德国王国际机场遭袭",
         "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711159.shtml",
         "publishedAt": "2026-10-12T05:52:38.000+08:00"
-      },
-      {
-        "title": "郑钦文创造历史 首夺中网女单冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711158.shtml",
-        "publishedAt": "2026-10-12T01:03:06.000+08:00"
-      },
-      {
-        "title": "吉布提沿海移民船只倾覆事故死亡人数升至139人",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711157.shtml",
-        "publishedAt": "2026-10-12T00:29:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T06:50:03.657+08:00",
+    "fetchedAt": "2026-10-12T07:00:04.533+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T06:50:07.432+08:00",
+      "fetchedAt": "2026-10-12T07:00:37.998+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T11:50:08.000+08:00"
+          "resetAt": "2026-10-12T12:00:39.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-19T06:50:08.000+08:00"
+          "resetAt": "2026-10-19T07:00:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T06:50:07.798+08:00",
+      "fetchedAt": "2026-10-12T07:00:38.281+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T06:50:07.801+08:00",
+      "fetchedAt": "2026-10-12T07:00:38.289+08:00",
       "error": null
     }
   }
