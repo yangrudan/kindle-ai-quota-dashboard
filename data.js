@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T23:10:39.061+08:00",
+  "updatedAt": "2026-10-11T23:20:08.558+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.7,
-    "feelsLikeC": 21.9,
-    "humidity": 87,
+    "tempC": 19.5,
+    "feelsLikeC": 21.7,
+    "humidity": 88,
     "windKph": 3.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T23:10:39.061+08:00",
+    "observedAt": "2026-10-11T23:15:00.000+08:00",
+    "fetchedAt": "2026-10-11T23:20:08.558+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026上海网球大师赛：周意惜败胡尔卡奇 中国单打选手全部出局",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711143.shtml",
+        "publishedAt": "2026-10-11T23:13:48.000+08:00"
+      },
+      {
+        "title": "第三次中柬泰二轨对话会举行 推动落实抚仙会晤共识",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711142.shtml",
+        "publishedAt": "2026-10-11T23:12:12.000+08:00"
+      },
+      {
+        "title": "长春书写生态“立体答卷”：虎豹归林 笑语满河",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711141.shtml",
+        "publishedAt": "2026-10-11T23:11:18.000+08:00"
+      },
+      {
+        "title": "（文化新纪行）从一座古城读懂千年吴越",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711140.shtml",
+        "publishedAt": "2026-10-11T23:10:14.000+08:00"
+      },
+      {
         "title": "音乐剧《四十天》重庆站大幕开启 演绎“宜昌大撤退”实业救国史诗",
         "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711139.shtml",
         "publishedAt": "2026-10-11T22:33:58.000+08:00"
-      },
-      {
-        "title": "郑钦文生涯首夺WTA1000级别赛事冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711137.shtml",
-        "publishedAt": "2026-10-11T22:29:32.000+08:00"
-      },
-      {
-        "title": "“外卖诗人”王计兵：普通人的笔，也能写下生活的重量",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10711136.shtml",
-        "publishedAt": "2026-10-11T21:59:54.000+08:00"
-      },
-      {
-        "title": "东西问丨专访陆克文：我不认为自己是“中国通”",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-11/10711135.shtml",
-        "publishedAt": "2026-10-11T21:50:41.000+08:00"
-      },
-      {
-        "title": "郑钦文成为中网首位本土女单冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711134.shtml",
-        "publishedAt": "2026-10-11T21:29:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T23:10:03.377+08:00",
+    "fetchedAt": "2026-10-11T23:20:03.828+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T23:10:37.848+08:00",
+      "fetchedAt": "2026-10-11T23:20:07.372+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T04:10:39.000+08:00"
+          "resetAt": "2026-10-12T04:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T23:10:39.000+08:00"
+          "resetAt": "2026-10-18T23:20:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T23:10:38.227+08:00",
+      "fetchedAt": "2026-10-11T23:20:07.610+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T23:10:38.233+08:00",
+      "fetchedAt": "2026-10-11T23:20:07.619+08:00",
       "error": null
     }
   }
