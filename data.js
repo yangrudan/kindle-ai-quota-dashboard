@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-11T20:10:08.496+08:00",
+  "updatedAt": "2026-10-11T20:20:11.262+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21,
-    "feelsLikeC": 23,
-    "humidity": 82,
-    "windKph": 6.1,
+    "tempC": 20.9,
+    "feelsLikeC": 22.8,
+    "humidity": 83,
+    "windKph": 5.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-11T20:10:08.496+08:00",
+    "observedAt": "2026-10-11T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-11T20:20:11.262+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026中国网球公开赛观众入园人数和票房创新高",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711092.shtml",
-        "publishedAt": "2026-10-11T19:57:05.000+08:00"
+        "title": "2026南京铁人三项公开赛鸣笛开赛 国内外选手逐浪竞驰江心洲",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-11/10711101.shtml",
+        "publishedAt": "2026-10-11T20:13:32.000+08:00"
       },
       {
-        "title": "推动国家公园理念走进百校千社区 国家公园科普宣传推介活动举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711091.shtml",
-        "publishedAt": "2026-10-11T19:56:57.000+08:00"
+        "title": "七年磨一展 浙江温州泵阀产业“链”全球",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711102.shtml",
+        "publishedAt": "2026-10-11T20:13:26.000+08:00"
       },
       {
-        "title": "福建漳州大型海工设备出口新加坡",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711090.shtml",
-        "publishedAt": "2026-10-11T19:55:59.000+08:00"
+        "title": "产业新、薪资优、政策暖 湖南携6100余岗位赴沪揽才",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711099.shtml",
+        "publishedAt": "2026-10-11T20:12:48.000+08:00"
       },
       {
-        "title": "从大画幅到掌心：浙江丽水“遇鉴”全球影像大时代",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711089.shtml",
-        "publishedAt": "2026-10-11T19:55:51.000+08:00"
+        "title": "沈阳：台商爱心赋能青少年成长",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711098.shtml",
+        "publishedAt": "2026-10-11T20:12:40.000+08:00"
       },
       {
-        "title": "“一带一路”地区极端气候事件及影响国际培训班在西安开班",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711087.shtml",
-        "publishedAt": "2026-10-11T19:55:09.000+08:00"
+        "title": "四川成都至西藏拉萨图定班列在蓉首发",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711094.shtml",
+        "publishedAt": "2026-10-11T20:12:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T20:10:02.982+08:00",
+    "fetchedAt": "2026-10-11T20:20:06.042+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T20:10:06.995+08:00",
+      "fetchedAt": "2026-10-11T20:20:10.015+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T01:10:08.000+08:00"
+          "resetAt": "2026-10-12T01:20:11.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-18T20:10:08.000+08:00"
+          "resetAt": "2026-10-18T20:20:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T20:10:07.402+08:00",
+      "fetchedAt": "2026-10-11T20:20:10.350+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T20:10:07.411+08:00",
+      "fetchedAt": "2026-10-11T20:20:10.354+08:00",
       "error": null
     }
   }
