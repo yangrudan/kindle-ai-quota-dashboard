@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-11T09:20:09.036+08:00",
+  "updatedAt": "2026-10-11T09:30:09.090+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22,
-    "feelsLikeC": 24.2,
-    "humidity": 77,
-    "windKph": 3.8,
+    "tempC": 22.4,
+    "feelsLikeC": 24.6,
+    "humidity": 75,
+    "windKph": 4.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-11T09:15:00.000+08:00",
-    "fetchedAt": "2026-10-11T09:20:09.036+08:00",
+    "observedAt": "2026-10-11T09:30:00.000+08:00",
+    "fetchedAt": "2026-10-11T09:30:09.090+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "逛古街、游龙门 ，一位意大利市长在古都洛阳“拍拍拍”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710887.shtml",
+        "publishedAt": "2026-10-11T09:27:39.000+08:00"
+      },
+      {
+        "title": "同城景区“冷热不均”，文旅竞争从“拼资源”迈向“拼内容”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710886.shtml",
+        "publishedAt": "2026-10-11T09:15:08.000+08:00"
+      },
+      {
+        "title": "特朗普：乌克兰该换个新总统了",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710885.shtml",
+        "publishedAt": "2026-10-11T09:13:52.000+08:00"
+      },
       {
         "title": "手机下单、认证护士按约上门，破解“ 居家护理难 ”",
         "url": "https://www.chinanews.com.cn/jk/2026/10-11/10710884.shtml",
@@ -28,24 +43,9 @@
         "title": "（长征胜利90周年）舌尖上的长征往事：“红军粉”销海内外",
         "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710883.shtml",
         "publishedAt": "2026-10-11T09:11:06.000+08:00"
-      },
-      {
-        "title": "证书年检、定期换证不得重复申报个税专项附加扣除",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710882.shtml",
-        "publishedAt": "2026-10-11T09:06:14.000+08:00"
-      },
-      {
-        "title": "全国秋粮收获过半 多要素协同筑牢丰收根基",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710881.shtml",
-        "publishedAt": "2026-10-11T09:02:38.000+08:00"
-      },
-      {
-        "title": "特朗普：美国可能加入沙特打击胡塞武装的行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710880.shtml",
-        "publishedAt": "2026-10-11T09:01:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T09:20:03.552+08:00",
+    "fetchedAt": "2026-10-11T09:30:03.924+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T09:20:07.597+08:00",
+      "fetchedAt": "2026-10-11T09:30:08.010+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T14:20:08.000+08:00"
+          "resetAt": "2026-10-11T14:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T09:20:07.904+08:00",
+      "fetchedAt": "2026-10-11T09:30:08.300+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T09:20:07.910+08:00",
+      "fetchedAt": "2026-10-11T09:30:08.307+08:00",
       "error": null
     }
   }
