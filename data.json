@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T11:30:10.290+08:00",
+  "updatedAt": "2026-10-11T11:40:08.286+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-11T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-11T11:30:10.290+08:00",
+    "fetchedAt": "2026-10-11T11:40:08.287+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（走进中国乡村）“淘金客”后代归乡 吉林百年金矿焕新",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710927.shtml",
+        "publishedAt": "2026-10-11T11:32:56.000+08:00"
+      },
+      {
+        "title": "天津北塘古镇焕新升级 东方卫城解锁国风夜游新体验",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710904.shtml",
+        "publishedAt": "2026-10-11T11:29:12.000+08:00"
+      },
+      {
+        "title": "梅艳芳离世23年后骨灰被盗，歌迷会发文找线索，亲哥梅启明发声",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-11/10710926.shtml",
+        "publishedAt": "2026-10-11T11:28:16.000+08:00"
+      },
       {
         "title": "四川理县：海外华媒探秘被誉为“羌族建筑艺术活化石”的桃坪羌寨",
         "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710906.shtml",
@@ -28,24 +43,9 @@
         "title": "中超联赛：成都蓉城队0比1负于天津津门虎队",
         "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710918.shtml",
         "publishedAt": "2026-10-11T11:24:36.000+08:00"
-      },
-      {
-        "title": "河南洛阳：多国市长实地探访洛邑古城",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-11/10710917.shtml",
-        "publishedAt": "2026-10-11T11:21:41.000+08:00"
-      },
-      {
-        "title": "国防部新闻发言人陈曦就赖清德发表所谓“双十”讲话答记者问",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710924.shtml",
-        "publishedAt": "2026-10-11T11:16:49.000+08:00"
-      },
-      {
-        "title": "香港律政司欢迎司法部发布《粤港澳大湾区律师执业考试和执业活动管理办法》",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-11/10710921.shtml",
-        "publishedAt": "2026-10-11T11:08:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-11T11:30:04.807+08:00",
+    "fetchedAt": "2026-10-11T11:40:03.615+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-11T11:30:08.975+08:00",
+      "fetchedAt": "2026-10-11T11:40:07.063+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-11T16:30:10.000+08:00"
+          "resetAt": "2026-10-11T16:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-15T10:25:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-11T11:30:09.473+08:00",
+      "fetchedAt": "2026-10-11T11:40:07.479+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-11T11:30:09.482+08:00",
+      "fetchedAt": "2026-10-11T11:40:07.484+08:00",
       "error": null
     }
   }
