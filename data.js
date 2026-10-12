@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T16:50:08.998+08:00",
+  "updatedAt": "2026-10-12T17:00:10.949+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.4,
-    "feelsLikeC": 24.8,
-    "humidity": 55,
-    "windKph": 7.9,
+    "tempC": 24,
+    "feelsLikeC": 24.4,
+    "humidity": 56,
+    "windKph": 7.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-12T16:50:08.998+08:00",
+    "observedAt": "2026-10-12T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-12T17:00:10.949+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "教育部：“十四五”期间全国职业教育经费增长23.3%",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712133.shtml",
-        "publishedAt": "2026-10-12T16:44:25.000+08:00"
+        "title": "湖北巴东：晨光映宽谷 长江似“金缎”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712110.shtml",
+        "publishedAt": "2026-10-12T16:53:14.000+08:00"
       },
       {
-        "title": "大连公安公布5起典型案例 一利用“著作版权”敲诈高校教师新型涉恶团伙被抓获",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712069.shtml",
-        "publishedAt": "2026-10-12T16:43:37.000+08:00"
+        "title": "中央气象台：我国北部海域将有6~7级风",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712135.shtml",
+        "publishedAt": "2026-10-12T16:52:28.000+08:00"
       },
       {
-        "title": "2026粤港澳企业家经贸交流会在深圳举办",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-12/10712097.shtml",
-        "publishedAt": "2026-10-12T16:42:37.000+08:00"
+        "title": "重庆再度公布食品行业禁业人员名单 新增255人终身禁业",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712123.shtml",
+        "publishedAt": "2026-10-12T16:50:26.000+08:00"
       },
       {
-        "title": "人在眷村，心牵故乡！跨越海峡，他们终于圆梦“归来”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712128.shtml",
-        "publishedAt": "2026-10-12T16:35:23.000+08:00"
+        "title": "乘联分会：9月新能源乘用车零售渗透率达67.0%，创历史新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712022.shtml",
+        "publishedAt": "2026-10-12T16:48:46.000+08:00"
       },
       {
-        "title": "“务实台独工作者”的“本色表演”欺骗不了世人（日月谈）",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712125.shtml",
-        "publishedAt": "2026-10-12T16:31:47.000+08:00"
+        "title": "宝鸡：从青铜器到云端 一座城市的“石榴籽”之约",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-12/10711970.shtml",
+        "publishedAt": "2026-10-12T16:47:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T16:50:02.927+08:00",
+    "fetchedAt": "2026-10-12T17:00:04.387+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T16:50:07.677+08:00",
+      "fetchedAt": "2026-10-12T17:00:09.758+08:00",
       "error": null
     },
     "codex": {
@@ -75,10 +75,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 16,
-          "resetAt": "2026-10-19T10:00:00.000+08:00"
+          "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T16:50:07.994+08:00",
+      "fetchedAt": "2026-10-12T17:00:10.060+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T16:50:08.000+08:00",
+      "fetchedAt": "2026-10-12T17:00:10.069+08:00",
       "error": null
     }
   }
