@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T19:10:08.599+08:00",
+  "updatedAt": "2026-10-12T19:20:08.730+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.6,
-    "feelsLikeC": 22.6,
+    "tempC": 21.4,
+    "feelsLikeC": 22.4,
     "humidity": 67,
     "windKph": 4.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T19:10:08.600+08:00",
+    "observedAt": "2026-10-12T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-12T19:20:08.730+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王刚同志任河北省委常委、石家庄市委书记",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712213.shtml",
+        "publishedAt": "2026-10-12T19:11:01.000+08:00"
+      },
+      {
+        "title": "习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电 李强同巴新总理马拉佩互致贺电",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712201.shtml",
+        "publishedAt": "2026-10-12T19:05:25.000+08:00"
+      },
       {
         "title": "云南怒江独龙族青年返乡创业 “织”就文化传承路",
         "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712202.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "盘活闲劳力 内蒙古乡村 “二闺女” 带出四千乡邻务工团",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712192.shtml",
         "publishedAt": "2026-10-12T18:38:30.000+08:00"
-      },
-      {
-        "title": "15名孟加拉国政府高级官员来滇探寻治国理政“云南答案”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712191.shtml",
-        "publishedAt": "2026-10-12T18:37:44.000+08:00"
-      },
-      {
-        "title": "多项新技术新产品亮相第六届中国(宁夏)国际葡萄酒文化旅游博览会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712190.shtml",
-        "publishedAt": "2026-10-12T18:37:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T19:10:03.153+08:00",
+    "fetchedAt": "2026-10-12T19:20:03.464+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T19:10:07.291+08:00",
+      "fetchedAt": "2026-10-12T19:20:07.358+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T19:10:07.657+08:00",
+      "fetchedAt": "2026-10-12T19:20:07.760+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T19:10:07.661+08:00",
+      "fetchedAt": "2026-10-12T19:20:07.768+08:00",
       "error": null
     }
   }
