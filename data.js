@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T17:50:09.829+08:00",
+  "updatedAt": "2026-10-12T18:00:10.918+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.7,
-    "feelsLikeC": 23.7,
-    "humidity": 63,
-    "windKph": 5,
+    "tempC": 22.3,
+    "feelsLikeC": 23.4,
+    "humidity": 65,
+    "windKph": 4.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-12T17:50:09.829+08:00",
+    "observedAt": "2026-10-12T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-12T18:00:10.918+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年诺贝尔经济学奖揭晓，两名经济学家获奖",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712164.shtml",
+        "publishedAt": "2026-10-12T17:51:45.000+08:00"
+      },
+      {
+        "title": "皇岗口岸正式开通 港深迈入“一地两检”新时代",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-12/10712156.shtml",
+        "publishedAt": "2026-10-12T17:50:05.000+08:00"
+      },
+      {
+        "title": "（活力中国调研行）江海联通重塑中国西南货运格局 广西拓新道链东盟",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10712155.shtml",
+        "publishedAt": "2026-10-12T17:45:33.000+08:00"
+      },
       {
         "title": "山西柳林：黄河滩上“薯”香浓 特色产业助农增收",
         "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712163.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "重庆农检能手赛场比拼“真功夫”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712152.shtml",
         "publishedAt": "2026-10-12T17:40:44.000+08:00"
-      },
-      {
-        "title": "哈萨克斯坦国家统计局：中小企业吸纳该国近半数就业人口",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712151.shtml",
-        "publishedAt": "2026-10-12T17:38:52.000+08:00"
-      },
-      {
-        "title": "红星照耀中国｜钢厂有湿地、药谷有森林，江西把工厂“种”进自然里",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712147.shtml",
-        "publishedAt": "2026-10-12T17:37:26.000+08:00"
-      },
-      {
-        "title": "合肥已集聚机器人和具身智能产业链上下游企业近200家",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712154.shtml",
-        "publishedAt": "2026-10-12T17:32:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T17:50:04.129+08:00",
+    "fetchedAt": "2026-10-12T18:00:05.417+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T17:50:08.814+08:00",
+      "fetchedAt": "2026-10-12T18:00:09.696+08:00",
       "error": null
     },
     "codex": {
@@ -75,10 +75,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-10-19T09:59:59.000+08:00"
+          "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T17:50:08.965+08:00",
+      "fetchedAt": "2026-10-12T18:00:09.890+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T17:50:08.972+08:00",
+      "fetchedAt": "2026-10-12T18:00:09.894+08:00",
       "error": null
     }
   }
