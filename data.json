@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T15:20:11.015+08:00",
+  "updatedAt": "2026-10-12T15:30:08.960+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26,
-    "feelsLikeC": 26.6,
-    "humidity": 50,
-    "windKph": 6.8,
-    "windDir": "北风",
+    "tempC": 25.9,
+    "feelsLikeC": 26.4,
+    "humidity": 51,
+    "windKph": 7,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-12T15:20:11.015+08:00",
+    "observedAt": "2026-10-12T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-12T15:30:08.960+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "阿尔及利亚逮捕61名摩洛哥公民 称其涉嫌策划破坏活动",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712021.shtml",
-        "publishedAt": "2026-10-12T15:13:47.000+08:00"
+        "title": "平孟海关关于2026年10月份“关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10712050.shtml",
+        "publishedAt": "2026-10-12T15:24:43.000+08:00"
       },
       {
-        "title": "特朗普称乌克兰应该换总统 英大臣：我们支持泽连斯基",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712038.shtml",
-        "publishedAt": "2026-10-12T15:10:56.000+08:00"
+        "title": "教育部：“十四五”期间全国职业教育经费增长23.3%",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-12/10712049.shtml",
+        "publishedAt": "2026-10-12T15:22:37.000+08:00"
       },
       {
-        "title": "全国多地同步开展罚没走私烟草集中销毁活动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712034.shtml",
-        "publishedAt": "2026-10-12T15:01:26.000+08:00"
+        "title": "患者超1亿！教你4个动作自测关节健康",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-12/10712048.shtml",
+        "publishedAt": "2026-10-12T15:21:37.000+08:00"
       },
       {
-        "title": "教育部：我国已在32个国家共建了38家鲁班工坊",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-12/10712033.shtml",
-        "publishedAt": "2026-10-12T15:00:38.000+08:00"
+        "title": "A股收评：超4300只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712046.shtml",
+        "publishedAt": "2026-10-12T15:18:35.000+08:00"
       },
       {
-        "title": "第三轮第七批中央生态环境保护督察启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712031.shtml",
-        "publishedAt": "2026-10-12T14:57:04.000+08:00"
+        "title": "第三轮第七批中央生态环境保护督察全面启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712043.shtml",
+        "publishedAt": "2026-10-12T15:18:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T15:20:03.787+08:00",
+    "fetchedAt": "2026-10-12T15:30:03.491+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T15:20:08.581+08:00",
+      "fetchedAt": "2026-10-12T15:30:07.559+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T20:20:10.000+08:00"
+          "resetAt": "2026-10-12T20:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T15:20:08.911+08:00",
+      "fetchedAt": "2026-10-12T15:30:07.821+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T15:20:08.921+08:00",
+      "fetchedAt": "2026-10-12T15:30:07.829+08:00",
       "error": null
     }
   }
