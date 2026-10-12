@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T16:10:39.934+08:00",
+  "updatedAt": "2026-10-12T16:20:13.954+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.4,
-    "feelsLikeC": 26,
-    "humidity": 52,
-    "windKph": 7.3,
+    "tempC": 25.1,
+    "feelsLikeC": 25.6,
+    "humidity": 53,
+    "windKph": 7.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T16:10:39.934+08:00",
+    "observedAt": "2026-10-12T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-12T16:20:13.954+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美国制裁国际刑事法院 中国外交部回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712077.shtml",
-        "publishedAt": "2026-10-12T15:54:45.000+08:00"
+        "title": "新华深读｜体验经济为内需增长注入新动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712090.shtml",
+        "publishedAt": "2026-10-12T16:12:24.000+08:00"
       },
       {
-        "title": "冷空气频繁来袭 南北方雨水发展 未来三天江南等局地降雨有极端性",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712076.shtml",
-        "publishedAt": "2026-10-12T15:53:51.000+08:00"
+        "title": "教育部：我国已在32个国家共建了38家鲁班工坊",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712055.shtml",
+        "publishedAt": "2026-10-12T16:11:36.000+08:00"
       },
       {
-        "title": "19位知名作家湖北驻村 致力书写乡村新面貌",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712047.shtml",
-        "publishedAt": "2026-10-12T15:53:19.000+08:00"
+        "title": "鄱阳湖长江江豚密度居长江流域之首",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712079.shtml",
+        "publishedAt": "2026-10-12T16:07:55.000+08:00"
       },
       {
-        "title": "奔赴亚残运会赛场！中国体育代表团首批队伍抵达日本",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712075.shtml",
-        "publishedAt": "2026-10-12T15:51:25.000+08:00"
+        "title": "王毅将作为习近平主席特别代表出席亚信峰会 中方介绍此访期待",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712080.shtml",
+        "publishedAt": "2026-10-12T16:07:41.000+08:00"
       },
       {
-        "title": "尼泊尔最新洪灾是否影响到中国公民？中方回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712074.shtml",
-        "publishedAt": "2026-10-12T15:49:43.000+08:00"
+        "title": "数据显示中国纳税人税法遵从意识有效提升",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712078.shtml",
+        "publishedAt": "2026-10-12T16:07:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T16:10:04.129+08:00",
+    "fetchedAt": "2026-10-12T16:20:07.604+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T16:10:38.758+08:00",
+      "fetchedAt": "2026-10-12T16:20:11.919+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-10-12T20:37:27.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T16:10:39.044+08:00",
+      "fetchedAt": "2026-10-12T16:20:12.209+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T16:10:39.053+08:00",
+      "fetchedAt": "2026-10-12T16:20:12.218+08:00",
       "error": null
     }
   }
