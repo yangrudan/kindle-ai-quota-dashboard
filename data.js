@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T12:20:07.708+08:00",
+  "updatedAt": "2026-10-12T12:30:09.710+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.2,
-    "feelsLikeC": 27.4,
-    "humidity": 53,
-    "windKph": 5.1,
+    "tempC": 25.4,
+    "feelsLikeC": 27.5,
+    "humidity": 51,
+    "windKph": 5.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-12T12:20:07.709+08:00",
+    "observedAt": "2026-10-12T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-12T12:30:09.711+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "李强将出席第140届广交会开幕式及相关活动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711910.shtml",
+        "publishedAt": "2026-10-12T12:26:24.000+08:00"
+      },
+      {
+        "title": "中方对巴拉圭通信和技术部长比利亚特采取反制措施",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711908.shtml",
+        "publishedAt": "2026-10-12T12:25:13.000+08:00"
+      },
+      {
+        "title": "中央政法委有关负责同志解读《关于依法从严查处危害食品安全违法犯罪的意见》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711936.shtml",
+        "publishedAt": "2026-10-12T12:21:47.000+08:00"
+      },
+      {
+        "title": "（经济观察）第二十六届工博会：机器人技多不压身，“智”造业东风吹更劲",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711909.shtml",
+        "publishedAt": "2026-10-12T12:21:33.000+08:00"
+      },
+      {
         "title": "万名跑者参与角逐海淀马拉松 9人刷新赛事纪录",
         "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711926.shtml",
         "publishedAt": "2026-10-12T12:11:33.000+08:00"
-      },
-      {
-        "title": "事关肉制品、校园食品，中央政法委发文！这些行为将被从严查处",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711927.shtml",
-        "publishedAt": "2026-10-12T12:02:48.000+08:00"
-      },
-      {
-        "title": "中方决定对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711907.shtml",
-        "publishedAt": "2026-10-12T11:58:10.000+08:00"
-      },
-      {
-        "title": "心愿清单暖侨心 上海普陀70个侨界微心愿全部兑现",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-12/10711906.shtml",
-        "publishedAt": "2026-10-12T11:56:38.000+08:00"
-      },
-      {
-        "title": "《低空经济气象保障》系列丛书出版发行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711905.shtml",
-        "publishedAt": "2026-10-12T11:55:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T12:20:02.730+08:00",
+    "fetchedAt": "2026-10-12T12:30:04.054+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T12:20:06.624+08:00",
+      "fetchedAt": "2026-10-12T12:30:08.420+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 62,
-          "resetAt": "2026-10-12T14:59:59.000+08:00"
+          "resetAt": "2026-10-12T15:00:00.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 10,
-          "resetAt": "2026-10-19T09:59:59.000+08:00"
+          "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T12:20:06.889+08:00",
+      "fetchedAt": "2026-10-12T12:30:08.682+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T12:20:06.899+08:00",
+      "fetchedAt": "2026-10-12T12:30:08.689+08:00",
       "error": null
     }
   }
