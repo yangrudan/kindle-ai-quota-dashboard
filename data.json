@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T11:10:08.207+08:00",
+  "updatedAt": "2026-10-12T11:20:17.837+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T11:10:08.207+08:00",
+    "fetchedAt": "2026-10-12T11:20:17.838+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "消防供水管网长期未入户、船厂违规“一钩多吊” 中央考核巡查组暗访福建多地→",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711890.shtml",
-        "publishedAt": "2026-10-12T11:03:33.000+08:00"
+        "title": "快递保价，为何起纠纷？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711895.shtml",
+        "publishedAt": "2026-10-12T11:08:15.000+08:00"
       },
       {
-        "title": "长征路上看新颜｜重走黔北红色村落 见证老区民生蝶变",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711889.shtml",
-        "publishedAt": "2026-10-12T11:02:23.000+08:00"
+        "title": "日本民众抗议驻日美军暴行 批评高市政府不作为",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711891.shtml",
+        "publishedAt": "2026-10-12T11:08:01.000+08:00"
       },
       {
-        "title": "开局之年看江西丨一只鸟一棵柚一条链 上饶让“两山”转化落地生金",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711888.shtml",
-        "publishedAt": "2026-10-12T11:00:53.000+08:00"
+        "title": "一座三界碑 “无界”新故事",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711894.shtml",
+        "publishedAt": "2026-10-12T11:07:49.000+08:00"
       },
       {
-        "title": "聚焦科技和经济紧密结合深化改革 发展新质生产力明确四条原则",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711886.shtml",
-        "publishedAt": "2026-10-12T10:58:29.000+08:00"
+        "title": "特写：军史里的布衣英雄",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711893.shtml",
+        "publishedAt": "2026-10-12T11:06:05.000+08:00"
       },
       {
-        "title": "时空观察丨错峰游升温 文旅市场如何玩出新花样",
-        "url": "https://www.chinanews.com.cn/kong/2026/10-12/10711885.shtml",
-        "publishedAt": "2026-10-12T10:57:27.000+08:00"
+        "title": "培育赛事经济新增长极",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711892.shtml",
+        "publishedAt": "2026-10-12T11:04:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T11:10:02.743+08:00",
+    "fetchedAt": "2026-10-12T11:20:12.197+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1097 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T11:10:06.497+08:00",
+      "fetchedAt": "2026-10-12T11:20:16.584+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 35,
           "resetAt": "2026-10-12T14:59:59.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T11:10:06.764+08:00",
+      "fetchedAt": "2026-10-12T11:20:16.974+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T11:10:06.775+08:00",
+      "fetchedAt": "2026-10-12T11:20:16.983+08:00",
       "error": null
     }
   }
