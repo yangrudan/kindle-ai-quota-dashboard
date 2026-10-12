@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T21:10:08.704+08:00",
+  "updatedAt": "2026-10-12T21:20:13.454+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.5,
+    "tempC": 20.4,
     "feelsLikeC": 21.9,
-    "humidity": 73,
-    "windKph": 3,
+    "humidity": 74,
+    "windKph": 2.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T21:10:08.705+08:00",
+    "observedAt": "2026-10-12T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-12T21:20:13.455+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月12日夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10712297.shtml",
+        "publishedAt": "2026-10-12T21:13:30.000+08:00"
+      },
+      {
+        "title": "2026赛季中乙联赛：山西崇德荣海胜江西庐山",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712272.shtml",
+        "publishedAt": "2026-10-12T21:09:16.000+08:00"
+      },
+      {
+        "title": "第六届中国（宁夏）国际葡萄酒文化旅游博览会开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712274.shtml",
+        "publishedAt": "2026-10-12T21:06:00.000+08:00"
+      },
       {
         "title": "王沪宁出席中国侨联成立70周年纪念大会",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-12/1207623.shtml",
@@ -28,24 +43,9 @@
         "title": "纸短情长 代代相传——“中国好人”张美生与侨批文化的传承",
         "url": "https://www.chinanews.com.cn/hr/2026/10-12/10712241.shtml",
         "publishedAt": "2026-10-12T20:59:19.000+08:00"
-      },
-      {
-        "title": "红星照耀中国｜红绿古交相辉映 赣鄱大地气象新",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712275.shtml",
-        "publishedAt": "2026-10-12T20:48:59.000+08:00"
-      },
-      {
-        "title": "习近平致电祝贺马迪塞就任爱沙尼亚总统",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712269.shtml",
-        "publishedAt": "2026-10-12T20:48:39.000+08:00"
-      },
-      {
-        "title": "中国团队研发推动跑腿机器人“自主理解”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712242.shtml",
-        "publishedAt": "2026-10-12T20:42:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T21:10:03.408+08:00",
+    "fetchedAt": "2026-10-12T21:20:08.082+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T21:10:07.440+08:00",
+      "fetchedAt": "2026-10-12T21:20:12.085+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T02:10:08.000+08:00"
+          "resetAt": "2026-10-13T02:20:13.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T21:10:07.819+08:00",
+      "fetchedAt": "2026-10-12T21:20:12.400+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T21:10:07.830+08:00",
+      "fetchedAt": "2026-10-12T21:20:12.405+08:00",
       "error": null
     }
   }
