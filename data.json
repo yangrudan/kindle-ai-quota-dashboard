@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T22:10:10.049+08:00",
+  "updatedAt": "2026-10-12T22:20:08.716+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.1,
-    "feelsLikeC": 21.9,
+    "tempC": 20,
+    "feelsLikeC": 21.8,
     "humidity": 76,
-    "windKph": 1.1,
-    "windDir": "北风",
+    "windKph": 1,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T22:10:10.049+08:00",
+    "observedAt": "2026-10-12T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-12T22:20:08.716+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国官方曝光5起涉税中介违规助人偷逃税案件",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712321.shtml",
-        "publishedAt": "2026-10-12T22:00:25.000+08:00"
+        "title": "百余项成果将在2026金融街论坛年会首发",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712329.shtml",
+        "publishedAt": "2026-10-12T22:09:53.000+08:00"
       },
       {
-        "title": "纪念中国侨联成立70周年专题音乐会在京举行",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-12/1207631.shtml",
-        "publishedAt": "2026-10-12T21:58:37.000+08:00"
+        "title": "赫尔曼·西蒙：中国中小民营企业想要成为“隐形冠军”，关键在于三大支柱",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712323.shtml",
+        "publishedAt": "2026-10-12T22:07:21.000+08:00"
       },
       {
-        "title": "赵乐际同越南国会主席陈青敏会谈并共同主持中越立法机构联合委员会第二次会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712319.shtml",
-        "publishedAt": "2026-10-12T21:55:14.000+08:00"
+        "title": "甘肃青少年“三大球”赛场逐梦竞芳华",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712326.shtml",
+        "publishedAt": "2026-10-12T22:07:15.000+08:00"
       },
       {
-        "title": "柬埔寨民众与国际游客共度传统“亡人节”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712295.shtml",
-        "publishedAt": "2026-10-12T21:55:06.000+08:00"
+        "title": "马来西亚华人社团组团参访海南探寻商机",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-12/10712322.shtml",
+        "publishedAt": "2026-10-12T22:07:11.000+08:00"
       },
       {
-        "title": "中国调整新能源汽车等部分产品出口退税政策",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712320.shtml",
-        "publishedAt": "2026-10-12T21:54:54.000+08:00"
+        "title": "北京提升社区公共空间品质 鼓励住宅“推窗见绿”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712328.shtml",
+        "publishedAt": "2026-10-12T22:06:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T22:10:03.179+08:00",
+    "fetchedAt": "2026-10-12T22:20:03.629+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T22:10:07.860+08:00",
+      "fetchedAt": "2026-10-12T22:20:07.490+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T03:10:09.000+08:00"
+          "resetAt": "2026-10-13T03:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-10-19T10:00:00.000+08:00"
+          "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T22:10:08.188+08:00",
+      "fetchedAt": "2026-10-12T22:20:07.850+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T22:10:08.196+08:00",
+      "fetchedAt": "2026-10-12T22:20:07.858+08:00",
       "error": null
     }
   }
