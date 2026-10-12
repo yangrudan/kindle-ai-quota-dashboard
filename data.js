@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T06:10:09.486+08:00",
+  "updatedAt": "2026-10-13T06:20:38.211+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.8,
-    "feelsLikeC": 17.9,
-    "humidity": 91,
-    "windKph": 4.1,
+    "tempC": 17,
+    "feelsLikeC": 18.1,
+    "humidity": 89,
+    "windKph": 4.2,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-13T06:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T06:10:09.486+08:00",
+    "observedAt": "2026-10-13T06:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T06:20:38.211+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西班牙一列高铁起火致线路中断 逾1万名旅客受影响",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712348.shtml",
+        "publishedAt": "2026-10-13T06:12:04.000+08:00"
+      },
       {
         "title": "尼日利亚军方称打死40余名“疑似恐怖分子”",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712347.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "以色列北部发生疑似未爆弹药爆炸致1死19伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712344.shtml",
         "publishedAt": "2026-10-13T00:10:26.000+08:00"
-      },
-      {
-        "title": "尼日利亚西北部袭击事件致22人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712343.shtml",
-        "publishedAt": "2026-10-13T00:06:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T06:10:03.633+08:00",
+    "fetchedAt": "2026-10-13T06:20:03.335+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T06:10:08.095+08:00",
+      "fetchedAt": "2026-10-13T06:20:36.796+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T11:10:09.000+08:00"
+          "resetAt": "2026-10-13T11:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T06:10:08.587+08:00",
+      "fetchedAt": "2026-10-13T06:20:37.415+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T06:10:08.595+08:00",
+      "fetchedAt": "2026-10-13T06:20:37.418+08:00",
       "error": null
     }
   }
