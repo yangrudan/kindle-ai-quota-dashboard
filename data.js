@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T00:10:11.028+08:00",
+  "updatedAt": "2026-10-13T00:20:38.502+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.9,
-    "feelsLikeC": 20.5,
-    "humidity": 82,
-    "windKph": 2.9,
+    "tempC": 18.8,
+    "feelsLikeC": 20.3,
+    "humidity": 84,
+    "windKph": 3.3,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-13T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T00:10:11.028+08:00",
+    "observedAt": "2026-10-13T00:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T00:20:38.502+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712346.shtml",
+        "publishedAt": "2026-10-13T00:13:58.000+08:00"
+      },
+      {
+        "title": "胡塞武装称沙特空袭也门北部已致9死7伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712345.shtml",
+        "publishedAt": "2026-10-13T00:12:16.000+08:00"
+      },
+      {
+        "title": "以色列北部发生疑似未爆弹药爆炸致1死19伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712344.shtml",
+        "publishedAt": "2026-10-13T00:10:26.000+08:00"
+      },
+      {
+        "title": "尼日利亚西北部袭击事件致22人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712343.shtml",
+        "publishedAt": "2026-10-13T00:06:24.000+08:00"
+      },
+      {
         "title": "欧盟将俄罗斯近1600名个人和实体列为制裁对象",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712342.shtml",
         "publishedAt": "2026-10-13T00:00:48.000+08:00"
-      },
-      {
-        "title": "世界最大室外冰雪主题乐园今冬规划园区面积规模创新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712339.shtml",
-        "publishedAt": "2026-10-12T23:31:03.000+08:00"
-      },
-      {
-        "title": "纪念中国侨联成立70周年专题音乐会在北京举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712338.shtml",
-        "publishedAt": "2026-10-12T23:27:23.000+08:00"
-      },
-      {
-        "title": "广交会首次推出境外采购商会员服务",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712337.shtml",
-        "publishedAt": "2026-10-12T23:26:29.000+08:00"
-      },
-      {
-        "title": "武网首轮上演中国“金花”德比 王曦雨晋级次轮",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712336.shtml",
-        "publishedAt": "2026-10-12T23:25:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T00:10:04.644+08:00",
+    "fetchedAt": "2026-10-13T00:20:03.570+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T00:10:09.565+08:00",
+      "fetchedAt": "2026-10-13T00:20:37.169+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T05:10:10.000+08:00"
+          "resetAt": "2026-10-13T05:20:38.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-10-19T09:59:59.000+08:00"
+          "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T00:10:09.949+08:00",
+      "fetchedAt": "2026-10-13T00:20:37.581+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T00:10:09.955+08:00",
+      "fetchedAt": "2026-10-13T00:20:37.591+08:00",
       "error": null
     }
   }
