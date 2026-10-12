@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T23:30:08.796+08:00",
+  "updatedAt": "2026-10-12T23:40:08.503+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-12T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T23:30:08.797+08:00",
+    "fetchedAt": "2026-10-12T23:40:08.503+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "琼瑶童年四川往事将拍成短剧",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712334.shtml",
-        "publishedAt": "2026-10-12T23:23:17.000+08:00"
+        "title": "世界最大室外冰雪主题乐园今冬规划园区面积规模创新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712339.shtml",
+        "publishedAt": "2026-10-12T23:31:03.000+08:00"
       },
       {
-        "title": "王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712340.shtml",
-        "publishedAt": "2026-10-12T23:14:25.000+08:00"
+        "title": "纪念中国侨联成立70周年专题音乐会在北京举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712338.shtml",
+        "publishedAt": "2026-10-12T23:27:23.000+08:00"
       },
       {
-        "title": "中外专家考察平陆运河 探访工程建设经验",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712333.shtml",
-        "publishedAt": "2026-10-12T23:06:56.000+08:00"
+        "title": "广交会首次推出境外采购商会员服务",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712337.shtml",
+        "publishedAt": "2026-10-12T23:26:29.000+08:00"
       },
       {
-        "title": "东西问丨格伦·迪森：中国展现负责任大国形象，令人印象深刻",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-12/10712332.shtml",
-        "publishedAt": "2026-10-12T22:51:15.000+08:00"
+        "title": "武网首轮上演中国“金花”德比 王曦雨晋级次轮",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712336.shtml",
+        "publishedAt": "2026-10-12T23:25:39.000+08:00"
       },
       {
-        "title": "赵乐际同越南国会主席陈青敏会谈并共同主持中越立法机构联合委员会第二次会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712330.shtml",
-        "publishedAt": "2026-10-12T22:22:24.000+08:00"
+        "title": "马来西亚教育部扩大烟霾停课范围",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712335.shtml",
+        "publishedAt": "2026-10-12T23:24:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T23:30:03.829+08:00",
+    "fetchedAt": "2026-10-12T23:40:03.288+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T23:30:07.541+08:00",
+      "fetchedAt": "2026-10-12T23:40:06.756+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T04:30:08.000+08:00"
+          "resetAt": "2026-10-13T04:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T23:30:07.838+08:00",
+      "fetchedAt": "2026-10-12T23:40:07.188+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T23:30:07.844+08:00",
+      "fetchedAt": "2026-10-12T23:40:07.197+08:00",
       "error": null
     }
   }
