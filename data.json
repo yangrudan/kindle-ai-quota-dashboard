@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T17:30:12.980+08:00",
+  "updatedAt": "2026-10-12T17:40:10.120+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-12T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T17:30:12.980+08:00",
+    "fetchedAt": "2026-10-12T17:40:10.120+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "合肥已集聚机器人和具身智能产业链上下游企业近200家",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712154.shtml",
+        "publishedAt": "2026-10-12T17:32:12.000+08:00"
+      },
+      {
+        "title": "河北沧县20万亩金丝小枣迎丰收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712153.shtml",
+        "publishedAt": "2026-10-12T17:30:54.000+08:00"
+      },
+      {
+        "title": "巴拿马强震：救援物资运往灾区",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-12/1207618.shtml",
+        "publishedAt": "2026-10-12T17:29:25.000+08:00"
+      },
       {
         "title": "广西医科大学原党委副书记、校长赵劲民被开除党籍",
         "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712145.shtml",
@@ -28,24 +43,9 @@
         "title": "广东省教育厅原党组书记、厅长罗伟其被开除党籍",
         "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712144.shtml",
         "publishedAt": "2026-10-12T17:18:55.000+08:00"
-      },
-      {
-        "title": "关于调整部分产品出口退税政策的公告",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712149.shtml",
-        "publishedAt": "2026-10-12T17:18:43.000+08:00"
-      },
-      {
-        "title": "潍宿高铁跨京杭大运河特大桥全桥合龙",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712141.shtml",
-        "publishedAt": "2026-10-12T17:14:23.000+08:00"
-      },
-      {
-        "title": "艺术回乡 张晓凌师生作品展2026亮相安徽阜南",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712139.shtml",
-        "publishedAt": "2026-10-12T17:13:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T17:30:07.332+08:00",
+    "fetchedAt": "2026-10-12T17:40:03.945+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T17:30:11.820+08:00",
+      "fetchedAt": "2026-10-12T17:40:09.026+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 26,
+          "usedPct": 30,
           "resetAt": "2026-10-12T20:37:27.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 19,
-          "resetAt": "2026-10-19T10:00:00.000+08:00"
+          "usedPct": 20,
+          "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T17:30:12.010+08:00",
+      "fetchedAt": "2026-10-12T17:40:09.191+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T17:30:12.015+08:00",
+      "fetchedAt": "2026-10-12T17:40:09.194+08:00",
       "error": null
     }
   }
