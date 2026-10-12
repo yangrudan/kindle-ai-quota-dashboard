@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T16:20:13.954+08:00",
+  "updatedAt": "2026-10-12T16:30:11.262+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.1,
-    "feelsLikeC": 25.6,
-    "humidity": 53,
-    "windKph": 7.5,
+    "tempC": 24.8,
+    "feelsLikeC": 25.2,
+    "humidity": 54,
+    "windKph": 7.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-12T16:20:13.954+08:00",
+    "observedAt": "2026-10-12T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-12T16:30:11.262+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新华深读｜体验经济为内需增长注入新动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712090.shtml",
-        "publishedAt": "2026-10-12T16:12:24.000+08:00"
+        "title": "5500亿元财政增量资金用在哪儿？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712103.shtml",
+        "publishedAt": "2026-10-12T16:22:24.000+08:00"
       },
       {
-        "title": "教育部：我国已在32个国家共建了38家鲁班工坊",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712055.shtml",
-        "publishedAt": "2026-10-12T16:11:36.000+08:00"
+        "title": "上海检察机关依法对刘海涛涉嫌受贿案提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712096.shtml",
+        "publishedAt": "2026-10-12T16:22:10.000+08:00"
       },
       {
-        "title": "鄱阳湖长江江豚密度居长江流域之首",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712079.shtml",
-        "publishedAt": "2026-10-12T16:07:55.000+08:00"
+        "title": "我国氢能产业进入发展快车道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712098.shtml",
+        "publishedAt": "2026-10-12T16:21:20.000+08:00"
       },
       {
-        "title": "王毅将作为习近平主席特别代表出席亚信峰会 中方介绍此访期待",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712080.shtml",
-        "publishedAt": "2026-10-12T16:07:41.000+08:00"
+        "title": "寻迹长征（一）红军架的这座桥，我们守了90余年",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712095.shtml",
+        "publishedAt": "2026-10-12T16:19:44.000+08:00"
       },
       {
-        "title": "数据显示中国纳税人税法遵从意识有效提升",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712078.shtml",
-        "publishedAt": "2026-10-12T16:07:19.000+08:00"
+        "title": "【红星照耀中国】古韵赣鄱“大变身”：文旅红火 科创出圈",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712094.shtml",
+        "publishedAt": "2026-10-12T16:18:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T16:20:07.604+08:00",
+    "fetchedAt": "2026-10-12T16:30:03.619+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T16:20:11.919+08:00",
+      "fetchedAt": "2026-10-12T16:30:10.044+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T16:20:12.209+08:00",
+      "fetchedAt": "2026-10-12T16:30:10.428+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T16:20:12.218+08:00",
+      "fetchedAt": "2026-10-12T16:30:10.439+08:00",
       "error": null
     }
   }
