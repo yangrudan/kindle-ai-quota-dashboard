@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T21:20:13.454+08:00",
+  "updatedAt": "2026-10-12T21:30:18.270+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-12T21:20:13.455+08:00",
+    "fetchedAt": "2026-10-12T21:30:18.271+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "10月12日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10712297.shtml",
-        "publishedAt": "2026-10-12T21:13:30.000+08:00"
+        "title": "金山寺——福州唯一水上寺庙江夜禅意美",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712299.shtml",
+        "publishedAt": "2026-10-12T21:26:27.000+08:00"
       },
       {
-        "title": "2026赛季中乙联赛：山西崇德荣海胜江西庐山",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712272.shtml",
-        "publishedAt": "2026-10-12T21:09:16.000+08:00"
+        "title": "吉林预测今冬偏暖多降水 警惕极端天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712249.shtml",
+        "publishedAt": "2026-10-12T21:22:51.000+08:00"
       },
       {
-        "title": "第六届中国（宁夏）国际葡萄酒文化旅游博览会开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712274.shtml",
-        "publishedAt": "2026-10-12T21:06:00.000+08:00"
+        "title": "浙江经济观察：印染废水治理，如何“商量”着来？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712250.shtml",
+        "publishedAt": "2026-10-12T21:22:49.000+08:00"
       },
       {
-        "title": "王沪宁出席中国侨联成立70周年纪念大会",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-12/1207623.shtml",
-        "publishedAt": "2026-10-12T21:00:09.000+08:00"
+        "title": "广东三大俱乐部出战2026-2027赛季CBA联赛季前赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712256.shtml",
+        "publishedAt": "2026-10-12T21:22:47.000+08:00"
       },
       {
-        "title": "纸短情长 代代相传——“中国好人”张美生与侨批文化的传承",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-12/10712241.shtml",
-        "publishedAt": "2026-10-12T20:59:19.000+08:00"
+        "title": "多项新技术新产品亮相第六届中国（宁夏）国际葡萄酒文化旅游博览会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712257.shtml",
+        "publishedAt": "2026-10-12T21:22:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T21:20:08.082+08:00",
+    "fetchedAt": "2026-10-12T21:30:12.248+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T21:20:12.085+08:00",
+      "fetchedAt": "2026-10-12T21:30:16.777+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T02:20:13.000+08:00"
+          "resetAt": "2026-10-13T02:30:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T21:20:12.400+08:00",
+      "fetchedAt": "2026-10-12T21:30:17.131+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T21:20:12.405+08:00",
+      "fetchedAt": "2026-10-12T21:30:17.140+08:00",
       "error": null
     }
   }
