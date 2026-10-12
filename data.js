@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T11:30:08.729+08:00",
+  "updatedAt": "2026-10-12T11:40:38.606+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T11:30:08.729+08:00",
+    "fetchedAt": "2026-10-12T11:40:38.606+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "自然资源部部署开展第二届自然资源节约集约示范县（市）创建工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711902.shtml",
+        "publishedAt": "2026-10-12T11:27:36.000+08:00"
+      },
       {
         "title": "【光明时评】科技创新应向利民惠民倾斜",
         "url": "https://www.chinanews.com.cn/ll/2026/10-12/10711901.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "金观平：用好保障人民健康的“大处方”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711898.shtml",
         "publishedAt": "2026-10-12T11:20:32.000+08:00"
-      },
-      {
-        "title": "“赛考斯”将在罗马与殷玉珍重逢：很期待！可能还会哭；计划2027年再去中国",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711897.shtml",
-        "publishedAt": "2026-10-12T11:18:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T11:30:03.503+08:00",
+    "fetchedAt": "2026-10-12T11:40:03.625+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T11:30:07.562+08:00",
+      "fetchedAt": "2026-10-12T11:40:37.363+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 40,
-          "resetAt": "2026-10-12T14:59:59.000+08:00"
+          "usedPct": 46,
+          "resetAt": "2026-10-12T15:00:00.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 6,
-          "resetAt": "2026-10-19T09:59:59.000+08:00"
+          "usedPct": 7,
+          "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T11:30:07.822+08:00",
+      "fetchedAt": "2026-10-12T11:40:37.622+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T11:30:07.828+08:00",
+      "fetchedAt": "2026-10-12T11:40:37.629+08:00",
       "error": null
     }
   }
