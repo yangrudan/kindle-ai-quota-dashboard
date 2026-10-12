@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T09:40:07.617+08:00",
+  "updatedAt": "2026-10-12T09:50:38.242+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 22.7,
-    "feelsLikeC": 23.8,
-    "humidity": 66,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 23,
+    "feelsLikeC": 24.1,
+    "humidity": 65,
     "windKph": 6.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T09:40:07.617+08:00",
+    "observedAt": "2026-10-12T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-12T09:50:38.242+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "10月12日央行开展500亿元7天期逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711818.shtml",
-        "publishedAt": "2026-10-12T09:34:20.000+08:00"
+        "title": "中欧要做彼此稳定、平衡的关键贸易伙伴（钟声）",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-12/10711833.shtml",
+        "publishedAt": "2026-10-12T09:44:17.000+08:00"
       },
       {
-        "title": "10月12日人民币对美元中间价报6.7313 上调17个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711815.shtml",
-        "publishedAt": "2026-10-12T09:31:48.000+08:00"
+        "title": "云南昆明一路段突发塌方 多车受损暂无人员伤亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711830.shtml",
+        "publishedAt": "2026-10-12T09:43:51.000+08:00"
       },
       {
-        "title": "“舞”力觉醒 下班去“刷课”正流行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10711816.shtml",
-        "publishedAt": "2026-10-12T09:31:40.000+08:00"
+        "title": "宁夏举办非遗研修班 探索传统工艺活化新路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711208.shtml",
+        "publishedAt": "2026-10-12T09:42:17.000+08:00"
       },
       {
-        "title": "红星照耀中国｜一发炮弹、一把生姜、一次死守……他们记得长征的每一步",
-        "url": "https://www.chinanews.com.cn/chuangyi/2026/10-12/10711189.shtml",
-        "publishedAt": "2026-10-12T09:28:20.000+08:00"
+        "title": "虚实航标“接力”护航 广州港20万吨级航道拓宽工程有序推进",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711211.shtml",
+        "publishedAt": "2026-10-12T09:41:51.000+08:00"
       },
       {
-        "title": "昆明一道路突发塌方 官方：现场搜救未发现人员伤亡",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711206.shtml",
-        "publishedAt": "2026-10-12T09:25:34.000+08:00"
+        "title": "浙江义乌：专家学者共话平安建设与基层社会治理现代化",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711821.shtml",
+        "publishedAt": "2026-10-12T09:41:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T09:40:02.537+08:00",
+    "fetchedAt": "2026-10-12T09:50:03.580+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T09:40:06.254+08:00",
+      "fetchedAt": "2026-10-12T09:50:36.823+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 30,
+          "usedPct": 65,
           "resetAt": "2026-10-12T14:12:50.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 5,
+          "usedPct": 10,
           "resetAt": "2026-10-19T09:12:50.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T09:40:06.502+08:00",
+      "fetchedAt": "2026-10-12T09:50:37.070+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T09:40:06.513+08:00",
+      "fetchedAt": "2026-10-12T09:50:37.077+08:00",
       "error": null
     }
   }
