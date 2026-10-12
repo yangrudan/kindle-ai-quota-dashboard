@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T21:00:11.765+08:00",
+  "updatedAt": "2026-10-12T21:10:08.704+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T21:00:11.766+08:00",
+    "fetchedAt": "2026-10-12T21:10:08.705+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王沪宁出席中国侨联成立70周年纪念大会",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-12/1207623.shtml",
+        "publishedAt": "2026-10-12T21:00:09.000+08:00"
+      },
+      {
+        "title": "纸短情长 代代相传——“中国好人”张美生与侨批文化的传承",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-12/10712241.shtml",
+        "publishedAt": "2026-10-12T20:59:19.000+08:00"
+      },
       {
         "title": "红星照耀中国｜红绿古交相辉映 赣鄱大地气象新",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712275.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国团队研发推动跑腿机器人“自主理解”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712242.shtml",
         "publishedAt": "2026-10-12T20:42:26.000+08:00"
-      },
-      {
-        "title": "工博会高校科技秀：给无人机配“大脑”、让机器人去“种树”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712255.shtml",
-        "publishedAt": "2026-10-12T20:41:28.000+08:00"
-      },
-      {
-        "title": "两名美国经济学家获得2026年诺贝尔经济学奖",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712264.shtml",
-        "publishedAt": "2026-10-12T20:39:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T21:00:06.477+08:00",
+    "fetchedAt": "2026-10-12T21:10:03.408+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T21:00:10.379+08:00",
+      "fetchedAt": "2026-10-12T21:10:07.440+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T02:00:11.000+08:00"
+          "resetAt": "2026-10-13T02:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T21:00:10.615+08:00",
+      "fetchedAt": "2026-10-12T21:10:07.819+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T21:00:10.624+08:00",
+      "fetchedAt": "2026-10-12T21:10:07.830+08:00",
       "error": null
     }
   }
