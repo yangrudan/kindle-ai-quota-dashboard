@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T17:00:10.949+08:00",
+  "updatedAt": "2026-10-12T17:10:10.948+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-12T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T17:00:10.949+08:00",
+    "fetchedAt": "2026-10-12T17:10:10.948+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "江西省政协原副主席胡幼桃受贿案一审被判十三年",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712138.shtml",
+        "publishedAt": "2026-10-12T17:01:48.000+08:00"
+      },
+      {
+        "title": "直播海报：长征路上学党史｜瞰会宁城下 忆三军会师",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712137.shtml",
+        "publishedAt": "2026-10-12T17:01:02.000+08:00"
+      },
+      {
+        "title": "东西问丨龚文政：书写艺术各美其美，笔墨何以跨越文明？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712129.shtml",
+        "publishedAt": "2026-10-12T17:00:52.000+08:00"
+      },
+      {
+        "title": "三峡枢纽新通道“试验场”：土方废水循环增效",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712130.shtml",
+        "publishedAt": "2026-10-12T16:58:18.000+08:00"
+      },
+      {
         "title": "湖北巴东：晨光映宽谷 长江似“金缎”",
         "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712110.shtml",
         "publishedAt": "2026-10-12T16:53:14.000+08:00"
-      },
-      {
-        "title": "中央气象台：我国北部海域将有6~7级风",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712135.shtml",
-        "publishedAt": "2026-10-12T16:52:28.000+08:00"
-      },
-      {
-        "title": "重庆再度公布食品行业禁业人员名单 新增255人终身禁业",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712123.shtml",
-        "publishedAt": "2026-10-12T16:50:26.000+08:00"
-      },
-      {
-        "title": "乘联分会：9月新能源乘用车零售渗透率达67.0%，创历史新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712022.shtml",
-        "publishedAt": "2026-10-12T16:48:46.000+08:00"
-      },
-      {
-        "title": "宝鸡：从青铜器到云端 一座城市的“石榴籽”之约",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-12/10711970.shtml",
-        "publishedAt": "2026-10-12T16:47:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T17:00:04.387+08:00",
+    "fetchedAt": "2026-10-12T17:10:05.220+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T17:00:09.758+08:00",
+      "fetchedAt": "2026-10-12T17:10:09.874+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 7,
           "resetAt": "2026-10-12T20:37:27.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T17:00:10.060+08:00",
+      "fetchedAt": "2026-10-12T17:10:10.117+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T17:00:10.069+08:00",
+      "fetchedAt": "2026-10-12T17:10:10.126+08:00",
       "error": null
     }
   }
