@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T21:40:40.138+08:00",
+  "updatedAt": "2026-10-12T21:50:08.644+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.3,
+    "tempC": 20.2,
     "feelsLikeC": 21.9,
-    "humidity": 74,
-    "windKph": 2,
+    "humidity": 75,
+    "windKph": 1.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T21:40:40.139+08:00",
+    "observedAt": "2026-10-12T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-12T21:50:08.644+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“携手自媒体·筑梦大湾区”台湾青年湾区行活动在穗启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712301.shtml",
-        "publishedAt": "2026-10-12T21:32:51.000+08:00"
+        "title": "国际货币基金组织和世界银行集团2026年年会在曼谷开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712311.shtml",
+        "publishedAt": "2026-10-12T21:44:00.000+08:00"
       },
       {
-        "title": "城有绿肺 村有金山——长春城乡生态转型记",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712280.shtml",
-        "publishedAt": "2026-10-12T21:31:45.000+08:00"
+        "title": "四川新设3家省级标准化技术委员会 两项标准化成果同日发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712315.shtml",
+        "publishedAt": "2026-10-12T21:43:00.000+08:00"
       },
       {
-        "title": "第三届海峡两岸书画艺术交流展在上海开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712278.shtml",
-        "publishedAt": "2026-10-12T21:31:43.000+08:00"
+        "title": "广东省首个人工智能骨科中心在穗揭牌 AI赋能骨科诊疗全流程",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712314.shtml",
+        "publishedAt": "2026-10-12T21:42:58.000+08:00"
       },
       {
-        "title": "草原上的“红石榴”暖了万里侨心",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-12/10712277.shtml",
-        "publishedAt": "2026-10-12T21:31:41.000+08:00"
+        "title": "余电不再“远走” 浙江温岭绿电就近消纳助力企业出口",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712313.shtml",
+        "publishedAt": "2026-10-12T21:42:56.000+08:00"
       },
       {
-        "title": "广西壮族自治区第一届“千里杯”青少年校园足球联赛开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712273.shtml",
-        "publishedAt": "2026-10-12T21:31:39.000+08:00"
+        "title": "南航广州-长沙-亚的斯亚贝巴航线首航",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712312.shtml",
+        "publishedAt": "2026-10-12T21:42:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T21:40:04.229+08:00",
+    "fetchedAt": "2026-10-12T21:50:03.593+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T21:40:38.237+08:00",
+      "fetchedAt": "2026-10-12T21:50:07.366+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T02:40:39.000+08:00"
+          "resetAt": "2026-10-13T02:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T21:40:38.622+08:00",
+      "fetchedAt": "2026-10-12T21:50:07.677+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T21:40:38.627+08:00",
+      "fetchedAt": "2026-10-12T21:50:07.680+08:00",
       "error": null
     }
   }
