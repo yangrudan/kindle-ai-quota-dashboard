@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T09:50:38.242+08:00",
+  "updatedAt": "2026-10-12T10:00:10.874+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23,
-    "feelsLikeC": 24.1,
-    "humidity": 65,
+    "tempC": 23.2,
+    "feelsLikeC": 24.5,
+    "humidity": 63,
     "windKph": 6.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-12T09:50:38.242+08:00",
+    "observedAt": "2026-10-12T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-12T10:00:10.874+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全球嘉宾共话亚太未来 通州·全球发展论坛（2026）在北京举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711834.shtml",
+        "publishedAt": "2026-10-12T09:49:47.000+08:00"
+      },
+      {
+        "title": "CBA季前赛汕头站：广州队不敌山东队",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711203.shtml",
+        "publishedAt": "2026-10-12T09:45:59.000+08:00"
+      },
       {
         "title": "中欧要做彼此稳定、平衡的关键贸易伙伴（钟声）",
         "url": "https://www.chinanews.com.cn/ll/2026/10-12/10711833.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "宁夏举办非遗研修班 探索传统工艺活化新路径",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711208.shtml",
         "publishedAt": "2026-10-12T09:42:17.000+08:00"
-      },
-      {
-        "title": "虚实航标“接力”护航 广州港20万吨级航道拓宽工程有序推进",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711211.shtml",
-        "publishedAt": "2026-10-12T09:41:51.000+08:00"
-      },
-      {
-        "title": "浙江义乌：专家学者共话平安建设与基层社会治理现代化",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711821.shtml",
-        "publishedAt": "2026-10-12T09:41:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T09:50:03.580+08:00",
+    "fetchedAt": "2026-10-12T10:00:04.088+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T09:50:36.823+08:00",
+      "fetchedAt": "2026-10-12T10:00:09.749+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 65,
-          "resetAt": "2026-10-12T14:12:50.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-10-12T14:59:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 10,
-          "resetAt": "2026-10-19T09:12:50.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T09:50:37.070+08:00",
+      "fetchedAt": "2026-10-12T10:00:10.004+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T09:50:37.077+08:00",
+      "fetchedAt": "2026-10-12T10:00:10.011+08:00",
       "error": null
     }
   }
