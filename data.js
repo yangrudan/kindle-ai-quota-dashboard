@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T20:30:12.183+08:00",
+  "updatedAt": "2026-10-12T20:40:07.948+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T20:30:12.183+08:00",
+    "fetchedAt": "2026-10-12T20:40:07.948+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从太湖之滨到塔河之畔 湖蟹西迁“游”出新故事",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712234.shtml",
-        "publishedAt": "2026-10-12T20:27:15.000+08:00"
+        "title": "（乡村行·看振兴）浙江涌泉镇：“蜜橘+旗袍”可“甜”更可体验",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712239.shtml",
+        "publishedAt": "2026-10-12T20:30:00.000+08:00"
       },
       {
-        "title": "中蒙唯一铁路口岸今年以来进出口运量突破1500万吨",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712232.shtml",
-        "publishedAt": "2026-10-12T20:27:11.000+08:00"
+        "title": "从一赛一展一会，看浙江如何答好AI三“问”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712240.shtml",
+        "publishedAt": "2026-10-12T20:29:54.000+08:00"
       },
       {
-        "title": "纪念长征胜利90周年 “绘长征·映史诗”系列活动在京启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712231.shtml",
-        "publishedAt": "2026-10-12T20:26:21.000+08:00"
+        "title": "陕西省体能大赛黄龙赛区开赛 近800选手同台比拼",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712254.shtml",
+        "publishedAt": "2026-10-12T20:28:38.000+08:00"
       },
       {
-        "title": "“湖鲜疆养”获成功 新疆阿拉尔白玉蟹迎规模化捕捞",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712230.shtml",
-        "publishedAt": "2026-10-12T20:26:17.000+08:00"
+        "title": "黑龙江发布寒潮大风预报 局地降温可达10℃～12℃",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712252.shtml",
+        "publishedAt": "2026-10-12T20:28:34.000+08:00"
       },
       {
-        "title": "坚持生态立区 北京平谷打造农业新质生产力策源地",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712229.shtml",
-        "publishedAt": "2026-10-12T20:26:11.000+08:00"
+        "title": "银川铁路物流中心首列粉煤灰进藏图定班列开行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712251.shtml",
+        "publishedAt": "2026-10-12T20:28:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T20:30:05.981+08:00",
+    "fetchedAt": "2026-10-12T20:40:03.084+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T20:30:10.250+08:00",
+      "fetchedAt": "2026-10-12T20:40:06.847+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 30,
-          "resetAt": "2026-10-12T20:37:27.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-13T01:40:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T20:30:10.439+08:00",
+      "fetchedAt": "2026-10-12T20:40:07.028+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T20:30:10.443+08:00",
+      "fetchedAt": "2026-10-12T20:40:07.038+08:00",
       "error": null
     }
   }
