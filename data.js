@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T09:30:10.519+08:00",
+  "updatedAt": "2026-10-12T09:40:07.617+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T09:30:10.519+08:00",
+    "fetchedAt": "2026-10-12T09:40:07.617+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "凭祥海关生活小区一体化微型供水泵站采购项目竞价公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711209.shtml",
-        "publishedAt": "2026-10-12T09:24:00.000+08:00"
+        "title": "10月12日央行开展500亿元7天期逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711818.shtml",
+        "publishedAt": "2026-10-12T09:34:20.000+08:00"
       },
       {
-        "title": "膝盖一疼就静养？错！用对方法才能科学护膝",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-12/10711210.shtml",
-        "publishedAt": "2026-10-12T09:23:52.000+08:00"
+        "title": "10月12日人民币对美元中间价报6.7313 上调17个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711815.shtml",
+        "publishedAt": "2026-10-12T09:31:48.000+08:00"
       },
       {
-        "title": "水口海关关于开展2026年10月份“关领导接待日”的 公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711204.shtml",
-        "publishedAt": "2026-10-12T09:20:09.000+08:00"
+        "title": "“舞”力觉醒 下班去“刷课”正流行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10711816.shtml",
+        "publishedAt": "2026-10-12T09:31:40.000+08:00"
       },
       {
-        "title": "“中国天眼”让我国天文学家站上人类视野最前沿",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711202.shtml",
-        "publishedAt": "2026-10-12T09:18:55.000+08:00"
+        "title": "红星照耀中国｜一发炮弹、一把生姜、一次死守……他们记得长征的每一步",
+        "url": "https://www.chinanews.com.cn/chuangyi/2026/10-12/10711189.shtml",
+        "publishedAt": "2026-10-12T09:28:20.000+08:00"
       },
       {
-        "title": "防城海关关于开展2026年10月份“关领导接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711197.shtml",
-        "publishedAt": "2026-10-12T09:16:07.000+08:00"
+        "title": "昆明一道路突发塌方 官方：现场搜救未发现人员伤亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711206.shtml",
+        "publishedAt": "2026-10-12T09:25:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T09:30:03.895+08:00",
+    "fetchedAt": "2026-10-12T09:40:02.537+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T09:30:09.108+08:00",
+      "fetchedAt": "2026-10-12T09:40:06.254+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 30,
           "resetAt": "2026-10-12T14:12:50.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 5,
           "resetAt": "2026-10-19T09:12:50.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T09:30:09.385+08:00",
+      "fetchedAt": "2026-10-12T09:40:06.502+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T09:30:09.388+08:00",
+      "fetchedAt": "2026-10-12T09:40:06.513+08:00",
       "error": null
     }
   }
