@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T11:50:40.488+08:00",
+  "updatedAt": "2026-10-12T12:04:16.290+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.8,
-    "feelsLikeC": 27.1,
-    "humidity": 55,
+    "tempC": 25,
+    "feelsLikeC": 27.3,
+    "humidity": 54,
     "windKph": 5.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-12T11:50:40.488+08:00",
+    "observedAt": "2026-10-12T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-12T12:04:16.290+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "心愿清单暖侨心 上海普陀70个侨界微心愿全部兑现",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-12/10711906.shtml",
+        "publishedAt": "2026-10-12T11:56:38.000+08:00"
+      },
+      {
+        "title": "《低空经济气象保障》系列丛书出版发行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711905.shtml",
+        "publishedAt": "2026-10-12T11:55:32.000+08:00"
+      },
+      {
+        "title": "长征路上学党史｜在金沙江畔听云岭大地红色回响",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10711922.shtml",
+        "publishedAt": "2026-10-12T11:52:02.000+08:00"
+      },
+      {
+        "title": "A股午评：超4000只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711920.shtml",
+        "publishedAt": "2026-10-12T11:48:56.000+08:00"
+      },
+      {
         "title": "街边绿化带上红彤彤的“迷你小苹果”，别摘也别吃！",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711917.shtml",
         "publishedAt": "2026-10-12T11:42:45.000+08:00"
-      },
-      {
-        "title": "郑钦文退出武汉网球公开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711913.shtml",
-        "publishedAt": "2026-10-12T11:38:07.000+08:00"
-      },
-      {
-        "title": "自然资源部部署开展第二届自然资源节约集约示范县（市）创建工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711902.shtml",
-        "publishedAt": "2026-10-12T11:27:36.000+08:00"
-      },
-      {
-        "title": "【光明时评】科技创新应向利民惠民倾斜",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-12/10711901.shtml",
-        "publishedAt": "2026-10-12T11:24:18.000+08:00"
-      },
-      {
-        "title": "四部门就汽车设计测试等征求意见 哪些热点问题有了新解答？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711899.shtml",
-        "publishedAt": "2026-10-12T11:22:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T11:50:03.278+08:00",
+    "fetchedAt": "2026-10-12T12:03:39.255+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T11:50:38.621+08:00",
+      "fetchedAt": "2026-10-12T12:04:13.923+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 54,
+          "usedPct": 58,
           "resetAt": "2026-10-12T14:59:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T11:50:38.884+08:00",
+      "fetchedAt": "2026-10-12T12:04:14.270+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T11:50:38.896+08:00",
+      "fetchedAt": "2026-10-12T12:04:14.289+08:00",
       "error": null
     }
   }
