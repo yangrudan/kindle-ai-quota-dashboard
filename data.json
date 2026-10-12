@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T13:30:10.006+08:00",
+  "updatedAt": "2026-10-12T13:40:11.517+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T13:30:10.006+08:00",
+    "fetchedAt": "2026-10-12T13:40:11.517+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "昆明海关关于2026年10月“关长接待日”的通知",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711958.shtml",
+        "publishedAt": "2026-10-12T13:32:41.000+08:00"
+      },
+      {
+        "title": "沙特首都国际机场再遭袭 已致1死11伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711939.shtml",
+        "publishedAt": "2026-10-12T13:26:27.000+08:00"
+      },
+      {
+        "title": "晚年托付给谁？老人可提前指定监护人 自己说了算",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711956.shtml",
+        "publishedAt": "2026-10-12T13:24:01.000+08:00"
+      },
+      {
         "title": "北京警方：对宜信相关公司立案侦查，对实控人等采取刑事强制措施",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711946.shtml",
         "publishedAt": "2026-10-12T13:21:41.000+08:00"
       },
       {
         "title": "商务部新闻发言人就中欧混动汽车、电动汽车磋商共识答记者问",
-        "url": "https://www.chinanews.com.cn/kong/2026/10-12/10711954.shtml",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711954.shtml",
         "publishedAt": "2026-10-12T13:19:50.000+08:00"
-      },
-      {
-        "title": "重庆海关2026年进口牙刷及口腔器具、进口液体加热器风险监测服务项目中标公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10711952.shtml",
-        "publishedAt": "2026-10-12T13:18:26.000+08:00"
-      },
-      {
-        "title": "海洋经济持续提速，270多家企业，集体招人！这类人才急缺→",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-12/10711951.shtml",
-        "publishedAt": "2026-10-12T13:17:26.000+08:00"
-      },
-      {
-        "title": "不是所有蔬菜都控糖！研究：有的蔬菜吃多了，糖尿病风险反升11%",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-12/10711945.shtml",
-        "publishedAt": "2026-10-12T13:11:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T13:30:04.211+08:00",
+    "fetchedAt": "2026-10-12T13:40:03.855+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T13:30:08.669+08:00",
+      "fetchedAt": "2026-10-12T13:40:09.429+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T13:30:09.016+08:00",
+      "fetchedAt": "2026-10-12T13:40:09.664+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T13:30:09.026+08:00",
+      "fetchedAt": "2026-10-12T13:40:09.673+08:00",
       "error": null
     }
   }
