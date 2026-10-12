@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T23:20:09.379+08:00",
+  "updatedAt": "2026-10-12T23:30:08.796+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.4,
-    "feelsLikeC": 21.1,
-    "humidity": 79,
-    "windKph": 1.9,
+    "tempC": 19.3,
+    "feelsLikeC": 20.9,
+    "humidity": 80,
+    "windKph": 2.2,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-12T23:15:00.000+08:00",
-    "fetchedAt": "2026-10-12T23:20:09.379+08:00",
+    "observedAt": "2026-10-12T23:30:00.000+08:00",
+    "fetchedAt": "2026-10-12T23:30:08.797+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "琼瑶童年四川往事将拍成短剧",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712334.shtml",
+        "publishedAt": "2026-10-12T23:23:17.000+08:00"
+      },
+      {
+        "title": "王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712340.shtml",
+        "publishedAt": "2026-10-12T23:14:25.000+08:00"
+      },
       {
         "title": "中外专家考察平陆运河 探访工程建设经验",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712333.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "赵乐际同越南国会主席陈青敏会谈并共同主持中越立法机构联合委员会第二次会议",
         "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712330.shtml",
         "publishedAt": "2026-10-12T22:22:24.000+08:00"
-      },
-      {
-        "title": "李强会见越南国会主席陈青敏",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712324.shtml",
-        "publishedAt": "2026-10-12T22:21:10.000+08:00"
-      },
-      {
-        "title": "百余项成果将在2026金融街论坛年会首发",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712329.shtml",
-        "publishedAt": "2026-10-12T22:09:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T23:20:03.325+08:00",
+    "fetchedAt": "2026-10-12T23:30:03.829+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T23:20:08.008+08:00",
+      "fetchedAt": "2026-10-12T23:30:07.541+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T04:20:09.000+08:00"
+          "resetAt": "2026-10-13T04:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T23:20:08.460+08:00",
+      "fetchedAt": "2026-10-12T23:30:07.838+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T23:20:08.466+08:00",
+      "fetchedAt": "2026-10-12T23:30:07.844+08:00",
       "error": null
     }
   }
