@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T21:30:18.270+08:00",
+  "updatedAt": "2026-10-12T21:40:40.138+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.4,
+    "tempC": 20.3,
     "feelsLikeC": 21.9,
     "humidity": 74,
-    "windKph": 2.6,
+    "windKph": 2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-12T21:30:18.271+08:00",
+    "observedAt": "2026-10-12T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-12T21:40:40.139+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "金山寺——福州唯一水上寺庙江夜禅意美",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712299.shtml",
-        "publishedAt": "2026-10-12T21:26:27.000+08:00"
+        "title": "“携手自媒体·筑梦大湾区”台湾青年湾区行活动在穗启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712301.shtml",
+        "publishedAt": "2026-10-12T21:32:51.000+08:00"
       },
       {
-        "title": "吉林预测今冬偏暖多降水 警惕极端天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712249.shtml",
-        "publishedAt": "2026-10-12T21:22:51.000+08:00"
+        "title": "城有绿肺 村有金山——长春城乡生态转型记",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712280.shtml",
+        "publishedAt": "2026-10-12T21:31:45.000+08:00"
       },
       {
-        "title": "浙江经济观察：印染废水治理，如何“商量”着来？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712250.shtml",
-        "publishedAt": "2026-10-12T21:22:49.000+08:00"
+        "title": "第三届海峡两岸书画艺术交流展在上海开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712278.shtml",
+        "publishedAt": "2026-10-12T21:31:43.000+08:00"
       },
       {
-        "title": "广东三大俱乐部出战2026-2027赛季CBA联赛季前赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712256.shtml",
-        "publishedAt": "2026-10-12T21:22:47.000+08:00"
+        "title": "草原上的“红石榴”暖了万里侨心",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-12/10712277.shtml",
+        "publishedAt": "2026-10-12T21:31:41.000+08:00"
       },
       {
-        "title": "多项新技术新产品亮相第六届中国（宁夏）国际葡萄酒文化旅游博览会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712257.shtml",
-        "publishedAt": "2026-10-12T21:22:45.000+08:00"
+        "title": "广西壮族自治区第一届“千里杯”青少年校园足球联赛开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712273.shtml",
+        "publishedAt": "2026-10-12T21:31:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T21:30:12.248+08:00",
+    "fetchedAt": "2026-10-12T21:40:04.229+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T21:30:16.777+08:00",
+      "fetchedAt": "2026-10-12T21:40:38.237+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T02:30:17.000+08:00"
+          "resetAt": "2026-10-13T02:40:39.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-10-19T09:59:59.000+08:00"
+          "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T21:30:17.131+08:00",
+      "fetchedAt": "2026-10-12T21:40:38.622+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T21:30:17.140+08:00",
+      "fetchedAt": "2026-10-12T21:40:38.627+08:00",
       "error": null
     }
   }
