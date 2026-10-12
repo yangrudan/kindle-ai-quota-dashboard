@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T12:10:08.512+08:00",
+  "updatedAt": "2026-10-12T12:20:07.708+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25,
-    "feelsLikeC": 27.3,
-    "humidity": 54,
+    "tempC": 25.2,
+    "feelsLikeC": 27.4,
+    "humidity": 53,
     "windKph": 5.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T12:10:08.513+08:00",
+    "observedAt": "2026-10-12T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-12T12:20:07.709+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "万名跑者参与角逐海淀马拉松 9人刷新赛事纪录",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711926.shtml",
+        "publishedAt": "2026-10-12T12:11:33.000+08:00"
+      },
+      {
+        "title": "事关肉制品、校园食品，中央政法委发文！这些行为将被从严查处",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711927.shtml",
+        "publishedAt": "2026-10-12T12:02:48.000+08:00"
+      },
       {
         "title": "中方决定对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施",
         "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711907.shtml",
@@ -33,19 +43,9 @@
         "title": "《低空经济气象保障》系列丛书出版发行",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711905.shtml",
         "publishedAt": "2026-10-12T11:55:32.000+08:00"
-      },
-      {
-        "title": "长征路上学党史｜在金沙江畔听云岭大地红色回响",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-12/10711922.shtml",
-        "publishedAt": "2026-10-12T11:52:02.000+08:00"
-      },
-      {
-        "title": "A股午评：超4000只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711920.shtml",
-        "publishedAt": "2026-10-12T11:48:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T12:10:03.592+08:00",
+    "fetchedAt": "2026-10-12T12:20:02.730+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T12:10:07.329+08:00",
+      "fetchedAt": "2026-10-12T12:20:06.624+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T12:10:07.681+08:00",
+      "fetchedAt": "2026-10-12T12:20:06.889+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T12:10:07.687+08:00",
+      "fetchedAt": "2026-10-12T12:20:06.899+08:00",
       "error": null
     }
   }
