@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T20:40:07.948+08:00",
+  "updatedAt": "2026-10-12T20:50:39.589+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.9,
-    "feelsLikeC": 22.2,
-    "humidity": 71,
-    "windKph": 3.6,
+    "tempC": 20.7,
+    "feelsLikeC": 22,
+    "humidity": 72,
+    "windKph": 3.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T20:40:07.948+08:00",
+    "observedAt": "2026-10-12T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-12T20:50:39.589+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（乡村行·看振兴）浙江涌泉镇：“蜜橘+旗袍”可“甜”更可体验",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712239.shtml",
-        "publishedAt": "2026-10-12T20:30:00.000+08:00"
+        "title": "中国团队研发推动跑腿机器人“自主理解”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712242.shtml",
+        "publishedAt": "2026-10-12T20:42:26.000+08:00"
       },
       {
-        "title": "从一赛一展一会，看浙江如何答好AI三“问”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712240.shtml",
-        "publishedAt": "2026-10-12T20:29:54.000+08:00"
+        "title": "工博会高校科技秀：给无人机配“大脑”、让机器人去“种树”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712255.shtml",
+        "publishedAt": "2026-10-12T20:41:28.000+08:00"
       },
       {
-        "title": "陕西省体能大赛黄龙赛区开赛 近800选手同台比拼",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712254.shtml",
-        "publishedAt": "2026-10-12T20:28:38.000+08:00"
+        "title": "两名美国经济学家获得2026年诺贝尔经济学奖",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712264.shtml",
+        "publishedAt": "2026-10-12T20:39:40.000+08:00"
       },
       {
-        "title": "黑龙江发布寒潮大风预报 局地降温可达10℃～12℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712252.shtml",
-        "publishedAt": "2026-10-12T20:28:34.000+08:00"
+        "title": "中国健康美丽产业代表团亮相印尼",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712253.shtml",
+        "publishedAt": "2026-10-12T20:39:10.000+08:00"
       },
       {
-        "title": "银川铁路物流中心首列粉煤灰进藏图定班列开行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712251.shtml",
-        "publishedAt": "2026-10-12T20:28:32.000+08:00"
+        "title": "首届柏林“多彩三月三”民族文化运动会举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712223.shtml",
+        "publishedAt": "2026-10-12T20:38:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T20:40:03.084+08:00",
+    "fetchedAt": "2026-10-12T20:50:04.567+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T20:40:06.847+08:00",
+      "fetchedAt": "2026-10-12T20:50:38.388+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T01:40:07.000+08:00"
+          "resetAt": "2026-10-13T01:50:39.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-10-19T09:59:59.000+08:00"
+          "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T20:40:07.028+08:00",
+      "fetchedAt": "2026-10-12T20:50:38.686+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T20:40:07.038+08:00",
+      "fetchedAt": "2026-10-12T20:50:38.690+08:00",
       "error": null
     }
   }
