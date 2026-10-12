@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T14:00:09.876+08:00",
+  "updatedAt": "2026-10-12T14:10:08.415+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T14:00:09.876+08:00",
+    "fetchedAt": "2026-10-12T14:10:08.415+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（走进中国乡村）湖南乡村马术“骑”出文旅新业态",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711979.shtml",
+        "publishedAt": "2026-10-12T14:03:53.000+08:00"
+      },
+      {
+        "title": "台湾经济的两面性：冰火两重天",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711977.shtml",
+        "publishedAt": "2026-10-12T14:02:53.000+08:00"
+      },
+      {
+        "title": "2026青少年游泳邀请赛暨CSA等级达标赛在南京收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711976.shtml",
+        "publishedAt": "2026-10-12T14:01:37.000+08:00"
+      },
+      {
+        "title": "蒙古国草原火蔓延 内蒙古2000余人正在堵截",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10711947.shtml",
+        "publishedAt": "2026-10-12T14:00:31.000+08:00"
+      },
+      {
         "title": "国民假期出行新标配，哈啰租车国庆订单增幅逾120%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711969.shtml",
         "publishedAt": "2026-10-12T13:54:14.000+08:00"
-      },
-      {
-        "title": "他山拾珍 新知共鉴——“新竹学堂”学习分享活动成功举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-12/10711968.shtml",
-        "publishedAt": "2026-10-12T13:53:30.000+08:00"
-      },
-      {
-        "title": "“电驴”带娃隐患多 别图方便存侥幸",
-        "url": "https://www.chinanews.com.cn/life/2026/10-12/10711972.shtml",
-        "publishedAt": "2026-10-12T13:53:10.000+08:00"
-      },
-      {
-        "title": "乘联分会：9月新能源乘用车厂商出口55.8万辆，同比增长163.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711966.shtml",
-        "publishedAt": "2026-10-12T13:51:18.000+08:00"
-      },
-      {
-        "title": "同心共筑田园梦！济南这片闲置大棚的“数智”蝶变",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-12/10711965.shtml",
-        "publishedAt": "2026-10-12T13:49:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T14:00:04.075+08:00",
+    "fetchedAt": "2026-10-12T14:10:03.006+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T14:00:08.042+08:00",
+      "fetchedAt": "2026-10-12T14:10:07.227+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 62,
-          "resetAt": "2026-10-12T15:00:00.000+08:00"
+          "usedPct": 67,
+          "resetAt": "2026-10-12T14:59:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 10,
-          "resetAt": "2026-10-19T10:00:00.000+08:00"
+          "usedPct": 11,
+          "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T14:00:08.305+08:00",
+      "fetchedAt": "2026-10-12T14:10:07.496+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T14:00:08.308+08:00",
+      "fetchedAt": "2026-10-12T14:10:07.499+08:00",
       "error": null
     }
   }
