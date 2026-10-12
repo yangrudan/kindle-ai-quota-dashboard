@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T13:00:09.814+08:00",
+  "updatedAt": "2026-10-12T13:10:08.504+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T13:00:09.815+08:00",
+    "fetchedAt": "2026-10-12T13:10:08.505+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "小学生布置多少作业最好？广东这份作业“体检”报告出炉",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-12/10711941.shtml",
+        "publishedAt": "2026-10-12T13:03:26.000+08:00"
+      },
       {
         "title": "四川大熊猫种群稳步恢复 伞护效应逐步显现",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711940.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "李强将出席第140届广交会开幕式及相关活动",
         "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711910.shtml",
         "publishedAt": "2026-10-12T12:26:24.000+08:00"
-      },
-      {
-        "title": "中方对巴拉圭通信和技术部长比利亚特采取反制措施",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711908.shtml",
-        "publishedAt": "2026-10-12T12:25:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T13:00:03.977+08:00",
+    "fetchedAt": "2026-10-12T13:10:02.967+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T13:00:08.707+08:00",
+      "fetchedAt": "2026-10-12T13:10:07.290+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T13:00:08.914+08:00",
+      "fetchedAt": "2026-10-12T13:10:07.493+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T13:00:08.920+08:00",
+      "fetchedAt": "2026-10-12T13:10:07.501+08:00",
       "error": null
     }
   }
