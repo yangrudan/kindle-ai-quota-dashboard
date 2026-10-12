@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T14:40:13.032+08:00",
+  "updatedAt": "2026-10-12T14:50:14.368+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26,
+    "tempC": 25.9,
     "feelsLikeC": 26.3,
     "humidity": 48,
-    "windKph": 6.5,
+    "windKph": 6.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T14:40:13.033+08:00",
+    "observedAt": "2026-10-12T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-12T14:50:14.369+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海口海关缉私局西海岸办公区消防安全评估项目比选成交公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10712016.shtml",
-        "publishedAt": "2026-10-12T14:32:42.000+08:00"
+        "title": "吉林松原回应“大棚撂荒仍领补贴”：成立联合调查组开展调查",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712020.shtml",
+        "publishedAt": "2026-10-12T14:44:03.000+08:00"
       },
       {
-        "title": "河南农业大学举办“石榴映农·同心红” 民族团结进步宣传教育活动启动仪式",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-12/10711993.shtml",
-        "publishedAt": "2026-10-12T14:30:36.000+08:00"
+        "title": "青海省国有资产投资管理有限公司副总经理冯鹏被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712018.shtml",
+        "publishedAt": "2026-10-12T14:42:47.000+08:00"
       },
       {
-        "title": "聚焦前沿发展与创新应用 首届亚太地球科学与遥感大会召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712010.shtml",
-        "publishedAt": "2026-10-12T14:29:36.000+08:00"
+        "title": "专访孙吉胜：发挥二轨对话独特作用 为促进柬泰关系缓和积蓄和平力量",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711973.shtml",
+        "publishedAt": "2026-10-12T14:41:39.000+08:00"
       },
       {
-        "title": "皇岗口岸联检大楼投入使用 功能与建筑美学有机统一",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712014.shtml",
-        "publishedAt": "2026-10-12T14:28:38.000+08:00"
+        "title": "世界一级方程式赛车锦标赛（F1）新加坡大奖赛正赛：维斯塔潘夺冠",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-12/1207595.shtml",
+        "publishedAt": "2026-10-12T14:41:31.000+08:00"
       },
       {
-        "title": "海口海关2026年数据库运维服务项目比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10712015.shtml",
-        "publishedAt": "2026-10-12T14:24:22.000+08:00"
+        "title": "一块降落伞残布，如何包裹84年的中美民间友谊？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712017.shtml",
+        "publishedAt": "2026-10-12T14:40:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T14:40:04.085+08:00",
+    "fetchedAt": "2026-10-12T14:50:04.701+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T14:40:11.279+08:00",
+      "fetchedAt": "2026-10-12T14:50:12.495+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 89,
+          "usedPct": 93,
           "resetAt": "2026-10-12T14:59:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 14,
+          "usedPct": 15,
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T14:40:11.582+08:00",
+      "fetchedAt": "2026-10-12T14:50:12.810+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T14:40:11.592+08:00",
+      "fetchedAt": "2026-10-12T14:50:12.829+08:00",
       "error": null
     }
   }
