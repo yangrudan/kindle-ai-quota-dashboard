@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T11:00:12.105+08:00",
+  "updatedAt": "2026-10-12T11:10:08.207+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T11:00:12.105+08:00",
+    "fetchedAt": "2026-10-12T11:10:08.207+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖南杂交水稻育种迈入智能决策新阶段",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711879.shtml",
-        "publishedAt": "2026-10-12T10:53:05.000+08:00"
+        "title": "消防供水管网长期未入户、船厂违规“一钩多吊” 中央考核巡查组暗访福建多地→",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711890.shtml",
+        "publishedAt": "2026-10-12T11:03:33.000+08:00"
       },
       {
-        "title": "前三季度新开工重大水利工程数量超去年全年",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711882.shtml",
-        "publishedAt": "2026-10-12T10:52:18.000+08:00"
+        "title": "长征路上看新颜｜重走黔北红色村落 见证老区民生蝶变",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711889.shtml",
+        "publishedAt": "2026-10-12T11:02:23.000+08:00"
       },
       {
-        "title": "南京青年登上戏剧舞台“想和世界谈谈”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10711880.shtml",
-        "publishedAt": "2026-10-12T10:51:56.000+08:00"
+        "title": "开局之年看江西丨一只鸟一棵柚一条链 上饶让“两山”转化落地生金",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711888.shtml",
+        "publishedAt": "2026-10-12T11:00:53.000+08:00"
       },
       {
-        "title": "贵州赫章县归侨侨眷联合会成立",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-12/10711881.shtml",
-        "publishedAt": "2026-10-12T10:49:58.000+08:00"
+        "title": "聚焦科技和经济紧密结合深化改革 发展新质生产力明确四条原则",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711886.shtml",
+        "publishedAt": "2026-10-12T10:58:29.000+08:00"
       },
       {
-        "title": "东西问丨挪威政治学者：中国无意复刻美式霸权，传递的和平之声令人安心",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-12/10711861.shtml",
-        "publishedAt": "2026-10-12T10:48:20.000+08:00"
+        "title": "时空观察丨错峰游升温 文旅市场如何玩出新花样",
+        "url": "https://www.chinanews.com.cn/kong/2026/10-12/10711885.shtml",
+        "publishedAt": "2026-10-12T10:57:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T11:00:04.505+08:00",
+    "fetchedAt": "2026-10-12T11:10:02.743+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1097 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T11:00:10.053+08:00",
+      "fetchedAt": "2026-10-12T11:10:06.497+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T11:00:10.306+08:00",
+      "fetchedAt": "2026-10-12T11:10:06.764+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T11:00:10.314+08:00",
+      "fetchedAt": "2026-10-12T11:10:06.775+08:00",
       "error": null
     }
   }
