@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T11:20:17.837+08:00",
+  "updatedAt": "2026-10-12T11:30:08.729+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.1,
-    "feelsLikeC": 26.1,
-    "humidity": 59,
-    "windKph": 5.4,
+    "tempC": 24.6,
+    "feelsLikeC": 26.8,
+    "humidity": 56,
+    "windKph": 5.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T11:20:17.838+08:00",
+    "observedAt": "2026-10-12T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-12T11:30:08.729+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "快递保价，为何起纠纷？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711895.shtml",
-        "publishedAt": "2026-10-12T11:08:15.000+08:00"
+        "title": "【光明时评】科技创新应向利民惠民倾斜",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-12/10711901.shtml",
+        "publishedAt": "2026-10-12T11:24:18.000+08:00"
       },
       {
-        "title": "日本民众抗议驻日美军暴行 批评高市政府不作为",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711891.shtml",
-        "publishedAt": "2026-10-12T11:08:01.000+08:00"
+        "title": "四部门就汽车设计测试等征求意见 哪些热点问题有了新解答？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711899.shtml",
+        "publishedAt": "2026-10-12T11:22:10.000+08:00"
       },
       {
-        "title": "一座三界碑 “无界”新故事",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711894.shtml",
-        "publishedAt": "2026-10-12T11:07:49.000+08:00"
+        "title": "红星照耀中国｜弘扬伟大长征精神，在新的长征路上创造新的辉煌",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-12/10711900.shtml",
+        "publishedAt": "2026-10-12T11:21:56.000+08:00"
       },
       {
-        "title": "特写：军史里的布衣英雄",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711893.shtml",
-        "publishedAt": "2026-10-12T11:06:05.000+08:00"
+        "title": "金观平：用好保障人民健康的“大处方”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711898.shtml",
+        "publishedAt": "2026-10-12T11:20:32.000+08:00"
       },
       {
-        "title": "培育赛事经济新增长极",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711892.shtml",
-        "publishedAt": "2026-10-12T11:04:43.000+08:00"
+        "title": "“赛考斯”将在罗马与殷玉珍重逢：很期待！可能还会哭；计划2027年再去中国",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711897.shtml",
+        "publishedAt": "2026-10-12T11:18:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T11:20:12.197+08:00",
+    "fetchedAt": "2026-10-12T11:30:03.503+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 26.9,
+          "usedPct": 28.9,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 1097 / 1500 AIC"
+          "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T11:20:16.584+08:00",
+      "fetchedAt": "2026-10-12T11:30:07.562+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 35,
+          "usedPct": 40,
           "resetAt": "2026-10-12T14:59:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T11:20:16.974+08:00",
+      "fetchedAt": "2026-10-12T11:30:07.822+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T11:20:16.983+08:00",
+      "fetchedAt": "2026-10-12T11:30:07.828+08:00",
       "error": null
     }
   }
