@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T12:50:08.430+08:00",
+  "updatedAt": "2026-10-12T13:00:09.814+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.6,
+    "tempC": 25.7,
     "feelsLikeC": 27.5,
-    "humidity": 50,
-    "windKph": 5.2,
+    "humidity": 49,
+    "windKph": 5.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-12T12:50:08.430+08:00",
+    "observedAt": "2026-10-12T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-12T13:00:09.815+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "四川大熊猫种群稳步恢复 伞护效应逐步显现",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711940.shtml",
+        "publishedAt": "2026-10-12T12:54:17.000+08:00"
+      },
+      {
+        "title": "广州新沙港铁海联运汽车出口前三季同比增近两倍",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711938.shtml",
+        "publishedAt": "2026-10-12T12:53:33.000+08:00"
+      },
       {
         "title": "郑钦文谈“低谷期”：这不一定是坏事，总有回来的时候",
         "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711937.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中方对巴拉圭通信和技术部长比利亚特采取反制措施",
         "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711908.shtml",
         "publishedAt": "2026-10-12T12:25:13.000+08:00"
-      },
-      {
-        "title": "中央政法委有关负责同志解读《关于依法从严查处危害食品安全违法犯罪的意见》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711936.shtml",
-        "publishedAt": "2026-10-12T12:21:47.000+08:00"
-      },
-      {
-        "title": "（经济观察）第二十六届工博会：机器人技多不压身，“智”造业东风吹更劲",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711909.shtml",
-        "publishedAt": "2026-10-12T12:21:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T12:50:03.339+08:00",
+    "fetchedAt": "2026-10-12T13:00:03.977+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T12:50:07.231+08:00",
+      "fetchedAt": "2026-10-12T13:00:08.707+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T12:50:07.504+08:00",
+      "fetchedAt": "2026-10-12T13:00:08.914+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T12:50:07.509+08:00",
+      "fetchedAt": "2026-10-12T13:00:08.920+08:00",
       "error": null
     }
   }
