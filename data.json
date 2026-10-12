@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T08:50:17.865+08:00",
+  "updatedAt": "2026-10-12T09:00:39.175+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21,
-    "feelsLikeC": 22.9,
-    "humidity": 78,
-    "windKph": 3.6,
+    "tempC": 21.8,
+    "feelsLikeC": 23.5,
+    "humidity": 72,
+    "windKph": 4.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T08:50:17.865+08:00",
+    "observedAt": "2026-10-12T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-12T09:00:39.175+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第四届闽籍华侨华人社团联谊大会15日在榕开幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-12/10711184.shtml",
+        "publishedAt": "2026-10-12T08:58:14.000+08:00"
+      },
+      {
+        "title": "冷空气继续影响北方多地迎大风降温 华南等地气温持续偏高",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711183.shtml",
+        "publishedAt": "2026-10-12T08:57:06.000+08:00"
+      },
+      {
+        "title": "未来5年，卫生健康领域将迎这些发展！关键数字带你看",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711182.shtml",
+        "publishedAt": "2026-10-12T08:47:30.000+08:00"
+      },
       {
         "title": "特朗普宣布：新任白宫新闻秘书13日举行首次新闻发布会",
         "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711180.shtml",
@@ -28,24 +43,9 @@
         "title": "北方大部地区将有冷空气活动 西南地区东部江南北部等地有一次较强降水过程",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711174.shtml",
         "publishedAt": "2026-10-12T08:20:30.000+08:00"
-      },
-      {
-        "title": "WTT中国大满贯赛：中国选手王曼昱获得女单冠军",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-12/1207554.shtml",
-        "publishedAt": "2026-10-12T08:19:25.000+08:00"
-      },
-      {
-        "title": "泽连斯基回应特朗普：乌克兰领导人应由乌人民决定",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711178.shtml",
-        "publishedAt": "2026-10-12T08:13:28.000+08:00"
-      },
-      {
-        "title": "全国统一的数据产权登记制度正式实施 数据流通交易“有证可依”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711177.shtml",
-        "publishedAt": "2026-10-12T08:10:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T08:50:12.083+08:00",
+    "fetchedAt": "2026-10-12T09:00:03.815+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T08:50:16.387+08:00",
+      "fetchedAt": "2026-10-12T09:00:37.977+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T13:50:17.000+08:00"
+          "resetAt": "2026-10-12T14:00:39.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-19T08:50:17.000+08:00"
+          "resetAt": "2026-10-19T09:00:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T08:50:16.848+08:00",
+      "fetchedAt": "2026-10-12T09:00:38.264+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T08:50:16.857+08:00",
+      "fetchedAt": "2026-10-12T09:00:38.273+08:00",
       "error": null
     }
   }
