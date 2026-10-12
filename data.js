@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T15:10:08.277+08:00",
+  "updatedAt": "2026-10-12T15:20:11.015+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.2,
-    "feelsLikeC": 26.7,
-    "humidity": 49,
-    "windKph": 6.7,
+    "tempC": 26,
+    "feelsLikeC": 26.6,
+    "humidity": 50,
+    "windKph": 6.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T15:10:08.277+08:00",
+    "observedAt": "2026-10-12T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-12T15:20:11.015+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "阿尔及利亚逮捕61名摩洛哥公民 称其涉嫌策划破坏活动",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712021.shtml",
+        "publishedAt": "2026-10-12T15:13:47.000+08:00"
+      },
+      {
+        "title": "特朗普称乌克兰应该换总统 英大臣：我们支持泽连斯基",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10712038.shtml",
+        "publishedAt": "2026-10-12T15:10:56.000+08:00"
+      },
       {
         "title": "全国多地同步开展罚没走私烟草集中销毁活动",
         "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712034.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "第三轮第七批中央生态环境保护督察启动",
         "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712031.shtml",
         "publishedAt": "2026-10-12T14:57:04.000+08:00"
-      },
-      {
-        "title": "草原深处，两个红色符号的守望",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-12/10712029.shtml",
-        "publishedAt": "2026-10-12T14:56:04.000+08:00"
-      },
-      {
-        "title": "吴忠市深耕“五维互嵌”模式共筑和美家园",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-12/10712028.shtml",
-        "publishedAt": "2026-10-12T14:53:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T15:10:03.456+08:00",
+    "fetchedAt": "2026-10-12T15:20:03.787+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T15:10:07.087+08:00",
+      "fetchedAt": "2026-10-12T15:20:08.581+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T20:10:08.000+08:00"
+          "resetAt": "2026-10-12T20:20:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T15:10:07.439+08:00",
+      "fetchedAt": "2026-10-12T15:20:08.911+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T15:10:07.447+08:00",
+      "fetchedAt": "2026-10-12T15:20:08.921+08:00",
       "error": null
     }
   }
