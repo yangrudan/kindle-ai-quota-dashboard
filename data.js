@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T15:40:10.812+08:00",
+  "updatedAt": "2026-10-12T15:50:09.028+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.9,
-    "feelsLikeC": 26.4,
+    "tempC": 25.7,
+    "feelsLikeC": 26.2,
     "humidity": 51,
-    "windKph": 7,
+    "windKph": 7.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T15:40:10.812+08:00",
+    "observedAt": "2026-10-12T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-12T15:50:09.029+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外交部：台海的真正现状就是两岸同属一个中国",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712061.shtml",
-        "publishedAt": "2026-10-12T15:34:48.000+08:00"
+        "title": "中方近期是否会发布关于前往印度的旅行警告？外交部回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712070.shtml",
+        "publishedAt": "2026-10-12T15:45:20.000+08:00"
       },
       {
-        "title": "教育部：已遴选出220所职业院校，打造技能型高校“国家队”",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-12/10712056.shtml",
-        "publishedAt": "2026-10-12T15:32:26.000+08:00"
+        "title": "中新健康｜远视储备不足，近视还有多远？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-12/10712059.shtml",
+        "publishedAt": "2026-10-12T15:44:24.000+08:00"
       },
       {
-        "title": "理赔时效0.36天，国寿AI跑出数智“加速度”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711971.shtml",
-        "publishedAt": "2026-10-12T15:31:24.000+08:00"
+        "title": "中方：敦促日本当政者倾听和重视国内正义之声",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712066.shtml",
+        "publishedAt": "2026-10-12T15:42:52.000+08:00"
       },
       {
-        "title": "外交部：中方在台湾岛以东海域开展活动正当合法、无可非议",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712054.shtml",
-        "publishedAt": "2026-10-12T15:28:23.000+08:00"
+        "title": "中国多地公开销毁走私卷烟1.88亿支 烟丝2.7吨",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712062.shtml",
+        "publishedAt": "2026-10-12T15:41:28.000+08:00"
       },
       {
-        "title": "特朗普宣布俄乌达成“能源停火” 中方回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712053.shtml",
-        "publishedAt": "2026-10-12T15:26:59.000+08:00"
+        "title": "也门胡塞武装打击沙特机场 中方：一贯反对针对平民和民用设施的袭击",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712064.shtml",
+        "publishedAt": "2026-10-12T15:41:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T15:40:03.399+08:00",
+    "fetchedAt": "2026-10-12T15:50:03.309+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T15:40:07.694+08:00",
+      "fetchedAt": "2026-10-12T15:50:07.792+08:00",
       "error": null
     },
     "codex": {
@@ -75,10 +75,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 15,
-          "resetAt": "2026-10-19T10:00:00.000+08:00"
+          "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T15:40:08.123+08:00",
+      "fetchedAt": "2026-10-12T15:50:08.109+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T15:40:08.133+08:00",
+      "fetchedAt": "2026-10-12T15:50:08.119+08:00",
       "error": null
     }
   }
