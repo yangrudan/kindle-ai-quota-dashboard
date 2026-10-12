@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T20:10:12.247+08:00",
+  "updatedAt": "2026-10-12T20:20:10.510+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.8,
-    "feelsLikeC": 21.9,
+    "tempC": 21,
+    "feelsLikeC": 22.2,
     "humidity": 69,
-    "windKph": 3.9,
+    "windKph": 3.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T20:10:12.247+08:00",
+    "observedAt": "2026-10-12T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-12T20:20:10.510+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第三轮第七批中央生态环境保护督察全面启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712212.shtml",
-        "publishedAt": "2026-10-12T19:46:35.000+08:00"
+        "title": "王沪宁出席中国侨联成立70周年纪念大会",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712233.shtml",
+        "publishedAt": "2026-10-12T20:13:17.000+08:00"
       },
       {
-        "title": "众生同弈铺展命运群像 《醉梦》定档",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712211.shtml",
-        "publishedAt": "2026-10-12T19:44:11.000+08:00"
+        "title": "福建诏安优化涉台服务 助力台青创业逐梦",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712227.shtml",
+        "publishedAt": "2026-10-12T20:12:11.000+08:00"
       },
       {
-        "title": "从教师挂职到师生驻站：黑龙江高校把乡土资源变成国际研学课堂",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712210.shtml",
-        "publishedAt": "2026-10-12T19:42:59.000+08:00"
+        "title": "复旦大学团队研发纯视觉机器人端侧大脑",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712226.shtml",
+        "publishedAt": "2026-10-12T20:12:05.000+08:00"
       },
       {
-        "title": "第九届进博会首批海运展品抵达上海",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712204.shtml",
-        "publishedAt": "2026-10-12T19:42:53.000+08:00"
+        "title": "纪念长征胜利90周年 《颂长征·传薪火》晚会在广州举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712225.shtml",
+        "publishedAt": "2026-10-12T20:11:13.000+08:00"
       },
       {
-        "title": "前三季度中国新能源汽车产销双超1200万辆",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712207.shtml",
-        "publishedAt": "2026-10-12T19:42:47.000+08:00"
+        "title": "青岛崂山啤酒男篮举行2026-2027赛季CBA出征仪式",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712224.shtml",
+        "publishedAt": "2026-10-12T20:10:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T20:10:07.306+08:00",
+    "fetchedAt": "2026-10-12T20:20:05.003+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T20:10:11.150+08:00",
+      "fetchedAt": "2026-10-12T20:20:09.391+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T20:10:11.393+08:00",
+      "fetchedAt": "2026-10-12T20:20:09.605+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T20:10:11.403+08:00",
+      "fetchedAt": "2026-10-12T20:20:09.610+08:00",
       "error": null
     }
   }
