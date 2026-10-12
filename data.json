@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T00:40:47.200+08:00",
+  "updatedAt": "2026-10-13T00:50:37.982+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.6,
-    "feelsLikeC": 20,
-    "humidity": 85,
-    "windKph": 3.9,
+    "tempC": 18.4,
+    "feelsLikeC": 19.8,
+    "humidity": 86,
+    "windKph": 4.3,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-13T00:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T00:40:47.201+08:00",
+    "observedAt": "2026-10-13T00:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T00:50:37.982+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "尼日利亚军方称打死40余名“疑似恐怖分子”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712347.shtml",
+        "publishedAt": "2026-10-13T00:41:56.000+08:00"
+      },
       {
         "title": "伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712346.shtml",
@@ -38,14 +43,9 @@
         "title": "尼日利亚西北部袭击事件致22人死亡",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712343.shtml",
         "publishedAt": "2026-10-13T00:06:24.000+08:00"
-      },
-      {
-        "title": "欧盟将俄罗斯近1600名个人和实体列为制裁对象",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712342.shtml",
-        "publishedAt": "2026-10-13T00:00:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T00:40:12.680+08:00",
+    "fetchedAt": "2026-10-13T00:50:03.326+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T00:40:46.037+08:00",
+      "fetchedAt": "2026-10-13T00:50:36.872+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T05:40:47.000+08:00"
+          "resetAt": "2026-10-13T05:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T00:40:46.347+08:00",
+      "fetchedAt": "2026-10-13T00:50:37.065+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T00:40:46.356+08:00",
+      "fetchedAt": "2026-10-13T00:50:37.076+08:00",
       "error": null
     }
   }
