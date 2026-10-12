@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T10:50:17.814+08:00",
+  "updatedAt": "2026-10-12T11:00:12.105+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.7,
-    "feelsLikeC": 25.3,
-    "humidity": 61,
-    "windKph": 6,
+    "tempC": 24.1,
+    "feelsLikeC": 26.1,
+    "humidity": 59,
+    "windKph": 5.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T10:50:17.814+08:00",
+    "observedAt": "2026-10-12T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-12T11:00:12.105+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国首批国家公园建设成效显著",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711868.shtml",
-        "publishedAt": "2026-10-12T10:42:46.000+08:00"
+        "title": "湖南杂交水稻育种迈入智能决策新阶段",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711879.shtml",
+        "publishedAt": "2026-10-12T10:53:05.000+08:00"
       },
       {
-        "title": "中国物流业景气指数连续5个月扩张",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711876.shtml",
-        "publishedAt": "2026-10-12T10:42:28.000+08:00"
+        "title": "前三季度新开工重大水利工程数量超去年全年",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711882.shtml",
+        "publishedAt": "2026-10-12T10:52:18.000+08:00"
       },
       {
-        "title": "一艘移民船在吉布提沿海倾覆 造成至少139人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711852.shtml",
-        "publishedAt": "2026-10-12T10:42:06.000+08:00"
+        "title": "南京青年登上戏剧舞台“想和世界谈谈”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10711880.shtml",
+        "publishedAt": "2026-10-12T10:51:56.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）福建清流岭官村：侨资侨智汇聚 蹚出振兴新路",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711859.shtml",
-        "publishedAt": "2026-10-12T10:41:56.000+08:00"
+        "title": "贵州赫章县归侨侨眷联合会成立",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-12/10711881.shtml",
+        "publishedAt": "2026-10-12T10:49:58.000+08:00"
       },
       {
-        "title": "甘肃甘南学子港澳研学行启动：从雪域高原到南海之滨",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-12/10711855.shtml",
-        "publishedAt": "2026-10-12T10:41:48.000+08:00"
+        "title": "东西问丨挪威政治学者：中国无意复刻美式霸权，传递的和平之声令人安心",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-12/10711861.shtml",
+        "publishedAt": "2026-10-12T10:48:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T10:50:12.216+08:00",
+    "fetchedAt": "2026-10-12T11:00:04.505+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 26.6,
+          "usedPct": 26.9,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 1101 / 1500 AIC"
+          "detailText": "剩余 1097 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T10:50:16.517+08:00",
+      "fetchedAt": "2026-10-12T11:00:10.053+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T10:50:16.821+08:00",
+      "fetchedAt": "2026-10-12T11:00:10.306+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T10:50:16.826+08:00",
+      "fetchedAt": "2026-10-12T11:00:10.314+08:00",
       "error": null
     }
   }
