@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T11:40:38.606+08:00",
+  "updatedAt": "2026-10-12T11:50:40.488+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.6,
-    "feelsLikeC": 26.8,
-    "humidity": 56,
-    "windKph": 5.3,
+    "tempC": 24.8,
+    "feelsLikeC": 27.1,
+    "humidity": 55,
+    "windKph": 5.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T11:40:38.606+08:00",
+    "observedAt": "2026-10-12T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-12T11:50:40.488+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "街边绿化带上红彤彤的“迷你小苹果”，别摘也别吃！",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711917.shtml",
+        "publishedAt": "2026-10-12T11:42:45.000+08:00"
+      },
+      {
+        "title": "郑钦文退出武汉网球公开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10711913.shtml",
+        "publishedAt": "2026-10-12T11:38:07.000+08:00"
+      },
       {
         "title": "自然资源部部署开展第二届自然资源节约集约示范县（市）创建工作",
         "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711902.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "四部门就汽车设计测试等征求意见 哪些热点问题有了新解答？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711899.shtml",
         "publishedAt": "2026-10-12T11:22:10.000+08:00"
-      },
-      {
-        "title": "红星照耀中国｜弘扬伟大长征精神，在新的长征路上创造新的辉煌",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-12/10711900.shtml",
-        "publishedAt": "2026-10-12T11:21:56.000+08:00"
-      },
-      {
-        "title": "金观平：用好保障人民健康的“大处方”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711898.shtml",
-        "publishedAt": "2026-10-12T11:20:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T11:40:03.625+08:00",
+    "fetchedAt": "2026-10-12T11:50:03.278+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T11:40:37.363+08:00",
+      "fetchedAt": "2026-10-12T11:50:38.621+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 46,
-          "resetAt": "2026-10-12T15:00:00.000+08:00"
+          "usedPct": 54,
+          "resetAt": "2026-10-12T14:59:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 7,
-          "resetAt": "2026-10-19T10:00:00.000+08:00"
+          "usedPct": 8,
+          "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T11:40:37.622+08:00",
+      "fetchedAt": "2026-10-12T11:50:38.884+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T11:40:37.629+08:00",
+      "fetchedAt": "2026-10-12T11:50:38.896+08:00",
       "error": null
     }
   }
