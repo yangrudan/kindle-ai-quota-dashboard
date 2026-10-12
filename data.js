@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T14:20:11.009+08:00",
+  "updatedAt": "2026-10-12T14:30:09.041+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 26,
-    "feelsLikeC": 26.6,
+    "feelsLikeC": 26.3,
     "humidity": 48,
     "windKph": 6.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-12T14:20:11.010+08:00",
+    "observedAt": "2026-10-12T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-12T14:30:09.042+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "安徽池州：晨雾染秋林 古建藏诗意",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10711987.shtml",
-        "publishedAt": "2026-10-12T14:14:07.000+08:00"
+        "title": "海口海关2026年数据库运维服务项目比选公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-12/10712015.shtml",
+        "publishedAt": "2026-10-12T14:24:22.000+08:00"
       },
       {
-        "title": "黄百铁路全线最大跨度连续梁顺利完工",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711988.shtml",
-        "publishedAt": "2026-10-12T14:13:23.000+08:00"
+        "title": "沿黄观光路国际自行车赛迎来决胜赛段 中外骑手逐风黄河枣乡",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-12/10712012.shtml",
+        "publishedAt": "2026-10-12T14:24:18.000+08:00"
       },
       {
-        "title": "音乐剧《四十天》在卢作孚故乡上演 声声乐章牵起百年回响",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10711990.shtml",
-        "publishedAt": "2026-10-12T14:12:17.000+08:00"
+        "title": "世界葡萄与葡萄酒大会首次落地亚洲",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712013.shtml",
+        "publishedAt": "2026-10-12T14:23:16.000+08:00"
       },
       {
-        "title": "山姆整治副卡乱象 会员卡缘何衍生出“生意经”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712001.shtml",
-        "publishedAt": "2026-10-12T14:11:45.000+08:00"
+        "title": "方寸簧片传乡音 三代守艺人探寻口弦非遗新路径",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712011.shtml",
+        "publishedAt": "2026-10-12T14:22:24.000+08:00"
       },
       {
-        "title": "重庆推进中心城区第五立面治理提升",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711984.shtml",
-        "publishedAt": "2026-10-12T14:11:45.000+08:00"
+        "title": "《带着明星回西安》：走进西安的烟火生活",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712009.shtml",
+        "publishedAt": "2026-10-12T14:21:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T14:20:03.470+08:00",
+    "fetchedAt": "2026-10-12T14:30:03.767+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T14:20:08.373+08:00",
+      "fetchedAt": "2026-10-12T14:30:07.796+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 75,
+          "usedPct": 82,
           "resetAt": "2026-10-12T14:59:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 13,
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T14:20:08.821+08:00",
+      "fetchedAt": "2026-10-12T14:30:08.084+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T14:20:08.827+08:00",
+      "fetchedAt": "2026-10-12T14:30:08.087+08:00",
       "error": null
     }
   }
