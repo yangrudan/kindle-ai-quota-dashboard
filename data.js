@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T21:50:08.644+08:00",
+  "updatedAt": "2026-10-12T22:00:39.902+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.2,
+    "tempC": 20.1,
     "feelsLikeC": 21.9,
-    "humidity": 75,
-    "windKph": 1.4,
+    "humidity": 76,
+    "windKph": 1.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-12T21:50:08.644+08:00",
+    "observedAt": "2026-10-12T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-12T22:00:39.902+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李家超：香港多举措推进中外文化艺术交流中心建设",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-12/10712318.shtml",
+        "publishedAt": "2026-10-12T21:53:42.000+08:00"
+      },
+      {
+        "title": "李强同新西兰总理拉克森通电话",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712316.shtml",
+        "publishedAt": "2026-10-12T21:48:14.000+08:00"
+      },
+      {
+        "title": "广西持续强化食品安全全链条监管 广泛动员民众参与监督",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712317.shtml",
+        "publishedAt": "2026-10-12T21:44:58.000+08:00"
+      },
       {
         "title": "国际货币基金组织和世界银行集团2026年年会在曼谷开幕",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712311.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "四川新设3家省级标准化技术委员会 两项标准化成果同日发布",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712315.shtml",
         "publishedAt": "2026-10-12T21:43:00.000+08:00"
-      },
-      {
-        "title": "广东省首个人工智能骨科中心在穗揭牌 AI赋能骨科诊疗全流程",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712314.shtml",
-        "publishedAt": "2026-10-12T21:42:58.000+08:00"
-      },
-      {
-        "title": "余电不再“远走” 浙江温岭绿电就近消纳助力企业出口",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712313.shtml",
-        "publishedAt": "2026-10-12T21:42:56.000+08:00"
-      },
-      {
-        "title": "南航广州-长沙-亚的斯亚贝巴航线首航",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712312.shtml",
-        "publishedAt": "2026-10-12T21:42:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T21:50:03.593+08:00",
+    "fetchedAt": "2026-10-12T22:00:04.259+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T21:50:07.366+08:00",
+      "fetchedAt": "2026-10-12T22:00:38.657+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T02:50:08.000+08:00"
+          "resetAt": "2026-10-13T03:00:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T21:50:07.677+08:00",
+      "fetchedAt": "2026-10-12T22:00:38.977+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T21:50:07.680+08:00",
+      "fetchedAt": "2026-10-12T22:00:38.985+08:00",
       "error": null
     }
   }
