@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T07:40:08.978+08:00",
+  "updatedAt": "2026-10-13T07:50:38.515+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.4,
-    "feelsLikeC": 20.7,
-    "humidity": 77,
-    "windKph": 3.2,
+    "tempC": 20.1,
+    "feelsLikeC": 21.5,
+    "humidity": 75,
+    "windKph": 2.7,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-13T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T07:40:08.979+08:00",
+    "observedAt": "2026-10-13T07:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T07:50:38.515+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本一工厂起火 经24小时仍未扑灭 大量消防车赶赴现场",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712357.shtml",
+        "publishedAt": "2026-10-13T07:40:28.000+08:00"
+      },
+      {
+        "title": "李强会见越南国会主席陈青敏",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-12/1207634.shtml",
+        "publishedAt": "2026-10-13T07:39:54.000+08:00"
+      },
+      {
+        "title": "整治“付费实习”灰色产业链：付费实习与被贩卖的求职焦虑",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10712355.shtml",
+        "publishedAt": "2026-10-13T07:37:46.000+08:00"
+      },
       {
         "title": "基金公司依托App技术优势强制变更争议解决方式 法院：无效！",
         "url": "https://www.chinanews.com.cn/fz/2026/10-13/10712354.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "立人设、画大饼……拆解套路三步识破“假国安”骗局",
         "url": "https://www.chinanews.com.cn/gn/2026/10-13/10712353.shtml",
         "publishedAt": "2026-10-13T07:27:36.000+08:00"
-      },
-      {
-        "title": "朝中社：朝鲜试射战术弹道导弹（图）",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712352.shtml",
-        "publishedAt": "2026-10-13T07:08:15.000+08:00"
-      },
-      {
-        "title": "10月13日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-13/10712351.shtml",
-        "publishedAt": "2026-10-13T06:48:10.000+08:00"
-      },
-      {
-        "title": "也门政府军称打死近千名胡塞武装人员",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712350.shtml",
-        "publishedAt": "2026-10-13T06:15:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T07:40:03.706+08:00",
+    "fetchedAt": "2026-10-13T07:50:03.152+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T07:40:07.762+08:00",
+      "fetchedAt": "2026-10-13T07:50:37.352+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T12:40:08.000+08:00"
+          "resetAt": "2026-10-13T12:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T07:40:08.088+08:00",
+      "fetchedAt": "2026-10-13T07:50:37.614+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T07:40:08.098+08:00",
+      "fetchedAt": "2026-10-13T07:50:37.623+08:00",
       "error": null
     }
   }
