@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T17:10:10.948+08:00",
+  "updatedAt": "2026-10-12T17:20:38.369+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24,
-    "feelsLikeC": 24.4,
-    "humidity": 56,
-    "windKph": 7.8,
+    "tempC": 23.6,
+    "feelsLikeC": 24.1,
+    "humidity": 58,
+    "windKph": 7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-12T17:10:10.948+08:00",
+    "observedAt": "2026-10-12T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-12T17:20:38.369+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江西省政协原副主席胡幼桃受贿案一审被判十三年",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712138.shtml",
-        "publishedAt": "2026-10-12T17:01:48.000+08:00"
+        "title": "潍宿高铁跨京杭大运河特大桥全桥合龙",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712141.shtml",
+        "publishedAt": "2026-10-12T17:14:23.000+08:00"
       },
       {
-        "title": "直播海报：长征路上学党史｜瞰会宁城下 忆三军会师",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712137.shtml",
-        "publishedAt": "2026-10-12T17:01:02.000+08:00"
+        "title": "艺术回乡 张晓凌师生作品展2026亮相安徽阜南",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712139.shtml",
+        "publishedAt": "2026-10-12T17:13:09.000+08:00"
       },
       {
-        "title": "东西问丨龚文政：书写艺术各美其美，笔墨何以跨越文明？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712129.shtml",
-        "publishedAt": "2026-10-12T17:00:52.000+08:00"
+        "title": "深圳站高铁网络再扩容 助力粤西加速融入大湾区",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-12/10712140.shtml",
+        "publishedAt": "2026-10-12T17:07:35.000+08:00"
       },
       {
-        "title": "三峡枢纽新通道“试验场”：土方废水循环增效",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712130.shtml",
-        "publishedAt": "2026-10-12T16:58:18.000+08:00"
+        "title": "84年后，他再次带着父亲的降落伞残布来到中国",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712126.shtml",
+        "publishedAt": "2026-10-12T17:06:45.000+08:00"
       },
       {
-        "title": "湖北巴东：晨光映宽谷 长江似“金缎”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-12/10712110.shtml",
-        "publishedAt": "2026-10-12T16:53:14.000+08:00"
+        "title": "超越联讯仪器 贵州茅台重回“股王”宝座",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712051.shtml",
+        "publishedAt": "2026-10-12T17:05:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T17:10:05.220+08:00",
+    "fetchedAt": "2026-10-12T17:20:03.457+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 28.9,
+          "usedPct": 29.1,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 1068 / 1500 AIC"
+          "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T17:10:09.874+08:00",
+      "fetchedAt": "2026-10-12T17:20:37.332+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 18,
           "resetAt": "2026-10-12T20:37:27.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 16,
+          "usedPct": 18,
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T17:10:10.117+08:00",
+      "fetchedAt": "2026-10-12T17:20:37.574+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T17:10:10.126+08:00",
+      "fetchedAt": "2026-10-12T17:20:37.581+08:00",
       "error": null
     }
   }
