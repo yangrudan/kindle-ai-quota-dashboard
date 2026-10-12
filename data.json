@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T16:40:08.840+08:00",
+  "updatedAt": "2026-10-12T16:50:08.998+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.8,
-    "feelsLikeC": 25.2,
-    "humidity": 54,
-    "windKph": 7.8,
+    "tempC": 24.4,
+    "feelsLikeC": 24.8,
+    "humidity": 55,
+    "windKph": 7.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T16:40:08.840+08:00",
+    "observedAt": "2026-10-12T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-12T16:50:08.998+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "教育部：“十四五”期间全国职业教育经费增长23.3%",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712133.shtml",
+        "publishedAt": "2026-10-12T16:44:25.000+08:00"
+      },
+      {
+        "title": "大连公安公布5起典型案例 一利用“著作版权”敲诈高校教师新型涉恶团伙被抓获",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712069.shtml",
+        "publishedAt": "2026-10-12T16:43:37.000+08:00"
+      },
+      {
+        "title": "2026粤港澳企业家经贸交流会在深圳举办",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-12/10712097.shtml",
+        "publishedAt": "2026-10-12T16:42:37.000+08:00"
+      },
+      {
+        "title": "人在眷村，心牵故乡！跨越海峡，他们终于圆梦“归来”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712128.shtml",
+        "publishedAt": "2026-10-12T16:35:23.000+08:00"
+      },
+      {
         "title": "“务实台独工作者”的“本色表演”欺骗不了世人（日月谈）",
         "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712125.shtml",
         "publishedAt": "2026-10-12T16:31:47.000+08:00"
-      },
-      {
-        "title": "世界市长对话·洛阳：把会场搬进石窟、车间与古城",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712124.shtml",
-        "publishedAt": "2026-10-12T16:30:19.000+08:00"
-      },
-      {
-        "title": "广西检察机关依法对李裕科涉嫌受贿案提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712122.shtml",
-        "publishedAt": "2026-10-12T16:28:47.000+08:00"
-      },
-      {
-        "title": "红星照耀中国｜于都河畔启新程，赣鄱大地绘宏图",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712121.shtml",
-        "publishedAt": "2026-10-12T16:27:15.000+08:00"
-      },
-      {
-        "title": "云南检察机关依法对褚中志涉嫌贪污、受贿、滥用职权案提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712112.shtml",
-        "publishedAt": "2026-10-12T16:27:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T16:40:03.602+08:00",
+    "fetchedAt": "2026-10-12T16:50:02.927+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1068 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T16:40:07.536+08:00",
+      "fetchedAt": "2026-10-12T16:50:07.677+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T16:40:07.801+08:00",
+      "fetchedAt": "2026-10-12T16:50:07.994+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T16:40:07.806+08:00",
+      "fetchedAt": "2026-10-12T16:50:08.000+08:00",
       "error": null
     }
   }
