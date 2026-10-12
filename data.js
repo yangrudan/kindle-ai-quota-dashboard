@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T18:40:18.101+08:00",
+  "updatedAt": "2026-10-12T18:50:38.549+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.9,
-    "feelsLikeC": 23,
+    "tempC": 21.7,
+    "feelsLikeC": 22.8,
     "humidity": 66,
-    "windKph": 4,
+    "windKph": 4.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T18:40:18.101+08:00",
+    "observedAt": "2026-10-12T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-12T18:50:38.549+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "盘活闲劳力 内蒙古乡村 “二闺女” 带出四千乡邻务工团",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712192.shtml",
+        "publishedAt": "2026-10-12T18:38:30.000+08:00"
+      },
+      {
+        "title": "15名孟加拉国政府高级官员来滇探寻治国理政“云南答案”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712191.shtml",
+        "publishedAt": "2026-10-12T18:37:44.000+08:00"
+      },
+      {
+        "title": "多项新技术新产品亮相第六届中国(宁夏)国际葡萄酒文化旅游博览会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712190.shtml",
+        "publishedAt": "2026-10-12T18:37:08.000+08:00"
+      },
       {
         "title": "上海发布最新版产业地图 公布30个“市区协同”千亿级产业集群名单",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712188.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "山东枣庄市薛城区就“农业大棚闲置”问题开展全面核查",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712193.shtml",
         "publishedAt": "2026-10-12T18:31:15.000+08:00"
-      },
-      {
-        "title": "江西中欧（亚）班列通达15个共建“一带一路”国家",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712179.shtml",
-        "publishedAt": "2026-10-12T18:30:25.000+08:00"
-      },
-      {
-        "title": "山西平遥：一村民坠井被困逾20个小时后获救",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712183.shtml",
-        "publishedAt": "2026-10-12T18:28:13.000+08:00"
-      },
-      {
-        "title": "国家铁路局发布《铁路科技创新“十五五”规划》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712189.shtml",
-        "publishedAt": "2026-10-12T18:28:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T18:40:12.432+08:00",
+    "fetchedAt": "2026-10-12T18:50:03.762+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T18:40:16.585+08:00",
+      "fetchedAt": "2026-10-12T18:50:37.370+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T18:40:16.636+08:00",
+      "fetchedAt": "2026-10-12T18:50:37.631+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T18:40:16.643+08:00",
+      "fetchedAt": "2026-10-12T18:50:37.642+08:00",
       "error": null
     }
   }
