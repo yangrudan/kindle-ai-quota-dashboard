@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-12T17:20:38.369+08:00",
+  "updatedAt": "2026-10-12T17:30:12.980+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.6,
-    "feelsLikeC": 24.1,
-    "humidity": 58,
-    "windKph": 7,
+    "tempC": 23.1,
+    "feelsLikeC": 23.9,
+    "humidity": 60,
+    "windKph": 6.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-12T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-12T17:20:38.369+08:00",
+    "observedAt": "2026-10-12T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-12T17:30:12.980+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广西医科大学原党委副书记、校长赵劲民被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712145.shtml",
+        "publishedAt": "2026-10-12T17:21:29.000+08:00"
+      },
+      {
+        "title": "广东省教育厅原党组书记、厅长罗伟其被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712144.shtml",
+        "publishedAt": "2026-10-12T17:18:55.000+08:00"
+      },
+      {
+        "title": "关于调整部分产品出口退税政策的公告",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712149.shtml",
+        "publishedAt": "2026-10-12T17:18:43.000+08:00"
+      },
       {
         "title": "潍宿高铁跨京杭大运河特大桥全桥合龙",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712141.shtml",
@@ -28,24 +43,9 @@
         "title": "艺术回乡 张晓凌师生作品展2026亮相安徽阜南",
         "url": "https://www.chinanews.com.cn/cul/2026/10-12/10712139.shtml",
         "publishedAt": "2026-10-12T17:13:09.000+08:00"
-      },
-      {
-        "title": "深圳站高铁网络再扩容 助力粤西加速融入大湾区",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-12/10712140.shtml",
-        "publishedAt": "2026-10-12T17:07:35.000+08:00"
-      },
-      {
-        "title": "84年后，他再次带着父亲的降落伞残布来到中国",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712126.shtml",
-        "publishedAt": "2026-10-12T17:06:45.000+08:00"
-      },
-      {
-        "title": "超越联讯仪器 贵州茅台重回“股王”宝座",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712051.shtml",
-        "publishedAt": "2026-10-12T17:05:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T17:20:03.457+08:00",
+    "fetchedAt": "2026-10-12T17:30:07.332+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T17:20:37.332+08:00",
+      "fetchedAt": "2026-10-12T17:30:11.820+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 26,
           "resetAt": "2026-10-12T20:37:27.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 18,
-          "resetAt": "2026-10-19T09:59:59.000+08:00"
+          "usedPct": 19,
+          "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T17:20:37.574+08:00",
+      "fetchedAt": "2026-10-12T17:30:12.010+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T17:20:37.581+08:00",
+      "fetchedAt": "2026-10-12T17:30:12.015+08:00",
       "error": null
     }
   }
