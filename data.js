@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-12T08:30:09.445+08:00",
+  "updatedAt": "2026-10-12T08:40:37.682+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-12T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-12T08:30:09.445+08:00",
+    "fetchedAt": "2026-10-12T08:40:37.683+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普宣布：新任白宫新闻秘书13日举行首次新闻发布会",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711180.shtml",
+        "publishedAt": "2026-10-12T08:29:17.000+08:00"
+      },
       {
         "title": "北方大部地区将有冷空气活动 西南地区东部江南北部等地有一次较强降水过程",
         "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711174.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "全国统一的数据产权登记制度正式实施 数据流通交易“有证可依”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711177.shtml",
         "publishedAt": "2026-10-12T08:10:28.000+08:00"
-      },
-      {
-        "title": "严惩“黑飞”幕后推手 网警侦破非法破解无人机案",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711176.shtml",
-        "publishedAt": "2026-10-12T08:01:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-12T08:30:03.978+08:00",
+    "fetchedAt": "2026-10-12T08:40:02.889+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-12T08:30:08.092+08:00",
+      "fetchedAt": "2026-10-12T08:40:36.456+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-12T13:30:09.000+08:00"
+          "resetAt": "2026-10-12T13:40:37.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-19T08:30:09.000+08:00"
+          "resetAt": "2026-10-19T08:40:37.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-12T08:30:08.601+08:00",
+      "fetchedAt": "2026-10-12T08:40:36.844+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-12T08:30:08.609+08:00",
+      "fetchedAt": "2026-10-12T08:40:36.853+08:00",
       "error": null
     }
   }
