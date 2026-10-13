@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T16:00:39.492+08:00",
+  "updatedAt": "2026-10-13T16:10:12.038+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T16:00:39.492+08:00",
+    "fetchedAt": "2026-10-13T16:10:12.038+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山西持续扩大农机化覆盖范围 力争“十五五”末农作物耕种收综合机械化率达到80%以上",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713737.shtml",
-        "publishedAt": "2026-10-13T15:54:45.000+08:00"
+        "title": "国际锐评丨日本右翼新伎俩包藏多重祸心",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713811.shtml",
+        "publishedAt": "2026-10-13T16:04:40.000+08:00"
       },
       {
-        "title": "雅思主办方回应：受影响考生增设两天免费专场考试",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713801.shtml",
-        "publishedAt": "2026-10-13T15:54:39.000+08:00"
+        "title": "中国创新方法大赛青海区域赛开赛 民企参赛占比创历史新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713804.shtml",
+        "publishedAt": "2026-10-13T16:03:48.000+08:00"
       },
       {
-        "title": "来自10余个国家的90余名外国嘉宾齐聚洛阳，聊了啥？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713796.shtml",
-        "publishedAt": "2026-10-13T15:51:01.000+08:00"
+        "title": "报告：全球城市热线发展呈现多元化趋势 治理效能整体提升",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713724.shtml",
+        "publishedAt": "2026-10-13T16:03:02.000+08:00"
       },
       {
-        "title": "梵高、塞尚等天价拍卖品亮相香港苏富比",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713781.shtml",
-        "publishedAt": "2026-10-13T15:49:03.000+08:00"
+        "title": "（粤港澳大湾区）广州往返香港首条零碳集装箱航线投入运营",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713805.shtml",
+        "publishedAt": "2026-10-13T16:02:42.000+08:00"
       },
       {
-        "title": "全球媒体聚焦丨美媒：中国机器人产业进展惊人",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713788.shtml",
-        "publishedAt": "2026-10-13T15:48:07.000+08:00"
+        "title": "哈萨克斯坦商务旅游升温 山地度假区受青睐",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713795.shtml",
+        "publishedAt": "2026-10-13T16:02:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T16:00:03.938+08:00",
+    "fetchedAt": "2026-10-13T16:10:03.384+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T16:00:38.383+08:00",
+      "fetchedAt": "2026-10-13T16:10:09.306+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 19,
+          "usedPct": 25,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T16:00:38.620+08:00",
+      "fetchedAt": "2026-10-13T16:10:09.538+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.44,
       "currency": "CNY",
       "detail": "余额 ¥22.44",
-      "fetchedAt": "2026-10-13T16:00:38.631+08:00",
+      "fetchedAt": "2026-10-13T16:10:09.548+08:00",
       "error": null
     }
   }
