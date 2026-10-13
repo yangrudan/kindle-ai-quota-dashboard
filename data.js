@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T14:30:09.434+08:00",
+  "updatedAt": "2026-10-13T14:40:13.635+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T14:30:09.434+08:00",
+    "fetchedAt": "2026-10-13T14:40:13.635+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外交部：坚决反对印度方公布所谓标准地名",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713683.shtml",
-        "publishedAt": "2026-10-13T14:23:04.000+08:00"
+        "title": "咱家都有哪些“矿”？“户口簿”更新了！",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713701.shtml",
+        "publishedAt": "2026-10-13T14:33:13.000+08:00"
       },
       {
-        "title": "高市内阁丑闻接连不断引质疑：将持续消耗执政根基",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713677.shtml",
-        "publishedAt": "2026-10-13T14:22:16.000+08:00"
+        "title": "美国人柏大卫与青海省湟源县的故事引发关注 外交部回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713696.shtml",
+        "publishedAt": "2026-10-13T14:32:17.000+08:00"
+      },
+      {
+        "title": "中国援圭医疗队工地义诊：热带日光下的“家乡医声”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713663.shtml",
+        "publishedAt": "2026-10-13T14:32:15.000+08:00"
+      },
+      {
+        "title": "中方：坚决反对印方公布所谓“标准地名”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713695.shtml",
+        "publishedAt": "2026-10-13T14:32:13.000+08:00"
       },
       {
         "title": "外交部：敦促美停止向“台独”分裂势力发出错误信号",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713682.shtml",
-        "publishedAt": "2026-10-13T14:22:00.000+08:00"
-      },
-      {
-        "title": "中国央行批准威士公司筹备银行卡清算机构",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713678.shtml",
-        "publishedAt": "2026-10-13T14:18:34.000+08:00"
-      },
-      {
-        "title": "突发：韩国仁川发生持刀伤人事件 已致至少8人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713673.shtml",
-        "publishedAt": "2026-10-13T14:13:48.000+08:00"
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713686.shtml",
+        "publishedAt": "2026-10-13T14:26:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T14:30:04.481+08:00",
+    "fetchedAt": "2026-10-13T14:40:06.669+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T14:30:08.085+08:00",
+      "fetchedAt": "2026-10-13T14:40:12.336+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T14:30:08.387+08:00",
+      "fetchedAt": "2026-10-13T14:40:12.750+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T14:30:08.397+08:00",
+      "fetchedAt": "2026-10-13T14:40:12.762+08:00",
       "error": null
     }
   }
