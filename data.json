@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T16:10:12.038+08:00",
+  "updatedAt": "2026-10-13T16:20:10.512+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.4,
-    "feelsLikeC": 26.9,
-    "humidity": 47,
-    "windKph": 14.7,
+    "tempC": 27.1,
+    "feelsLikeC": 26.8,
+    "humidity": 48,
+    "windKph": 14.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T16:10:12.038+08:00",
+    "observedAt": "2026-10-13T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T16:20:10.513+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国际锐评丨日本右翼新伎俩包藏多重祸心",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713811.shtml",
-        "publishedAt": "2026-10-13T16:04:40.000+08:00"
+        "title": "大连市侨联组织多形式开展庆祝中国侨联成立70周年系列活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713739.shtml",
+        "publishedAt": "2026-10-13T16:15:04.000+08:00"
       },
       {
-        "title": "中国创新方法大赛青海区域赛开赛 民企参赛占比创历史新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713804.shtml",
-        "publishedAt": "2026-10-13T16:03:48.000+08:00"
+        "title": "（文化中国行·校馆弦歌）北京大学图书馆里，有一间古籍修复“急诊室”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713736.shtml",
+        "publishedAt": "2026-10-13T16:13:52.000+08:00"
       },
       {
-        "title": "报告：全球城市热线发展呈现多元化趋势 治理效能整体提升",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713724.shtml",
-        "publishedAt": "2026-10-13T16:03:02.000+08:00"
+        "title": "总台海峡时评：支持“台独” 只会搬起石头砸自己的脚！",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-13/10713818.shtml",
+        "publishedAt": "2026-10-13T16:12:14.000+08:00"
       },
       {
-        "title": "（粤港澳大湾区）广州往返香港首条零碳集装箱航线投入运营",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713805.shtml",
-        "publishedAt": "2026-10-13T16:02:42.000+08:00"
+        "title": "三部门：到2028年，内河新能源船舶保有量较2025年翻倍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713807.shtml",
+        "publishedAt": "2026-10-13T16:09:58.000+08:00"
       },
       {
-        "title": "哈萨克斯坦商务旅游升温 山地度假区受青睐",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713795.shtml",
-        "publishedAt": "2026-10-13T16:02:22.000+08:00"
+        "title": "医圣故里河南南阳计划培训1万人次海外中医学员",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713733.shtml",
+        "publishedAt": "2026-10-13T16:09:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T16:10:03.384+08:00",
+    "fetchedAt": "2026-10-13T16:20:03.928+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T16:10:09.306+08:00",
+      "fetchedAt": "2026-10-13T16:20:08.729+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 25,
+          "usedPct": 31,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T16:10:09.538+08:00",
+      "fetchedAt": "2026-10-13T16:20:08.987+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 22.44,
+      "balance": 22.42,
       "currency": "CNY",
-      "detail": "余额 ¥22.44",
-      "fetchedAt": "2026-10-13T16:10:09.548+08:00",
+      "detail": "余额 ¥22.42",
+      "fetchedAt": "2026-10-13T16:20:08.991+08:00",
       "error": null
     }
   }
