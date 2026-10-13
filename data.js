@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T09:00:08.803+08:00",
+  "updatedAt": "2026-10-13T09:10:09.792+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.9,
-    "feelsLikeC": 23.9,
-    "humidity": 59,
-    "windKph": 2.7,
-    "windDir": "西风",
+    "tempC": 23.4,
+    "feelsLikeC": 24.3,
+    "humidity": 56,
+    "windKph": 3,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-13T09:00:08.803+08:00",
+    "observedAt": "2026-10-13T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-13T09:10:09.793+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "农机油费每亩多花7到10元 农户种粮成本稳住了吗",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10712373.shtml",
-        "publishedAt": "2026-10-13T08:47:30.000+08:00"
+        "title": "南宁海关隶属桂林海关涉案财物拍卖摇珠公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713501.shtml",
+        "publishedAt": "2026-10-13T09:03:13.000+08:00"
       },
       {
-        "title": "2026年巴黎车展拉开帷幕",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-13/1207635.shtml",
-        "publishedAt": "2026-10-13T08:44:10.000+08:00"
+        "title": "利雅得机场四天四炸、300多人伤亡：中东能源王国的巨资防空网，竟成了“摆设”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713500.shtml",
+        "publishedAt": "2026-10-13T09:02:25.000+08:00"
       },
       {
-        "title": "南非拟向黑人农民转让约250万公顷国有土地",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712366.shtml",
-        "publishedAt": "2026-10-13T08:35:15.000+08:00"
+        "title": "南宁吴圩机场海关职工食堂劳务外包服务【FC(ZB3)2026157C】竞争性磋商公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713499.shtml",
+        "publishedAt": "2026-10-13T09:00:53.000+08:00"
       },
       {
-        "title": "俄副总理：俄美正在谈判柴油供应事宜",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712364.shtml",
-        "publishedAt": "2026-10-13T08:33:21.000+08:00"
+        "title": "凭祥海关关于开展2026年10月份“关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713497.shtml",
+        "publishedAt": "2026-10-13T08:59:15.000+08:00"
       },
       {
-        "title": "英国召见伊朗驻英大使并制裁两名伊朗籍人士",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712363.shtml",
-        "publishedAt": "2026-10-13T08:32:29.000+08:00"
+        "title": "爱店海关关于开展2026年10月份“关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10712378.shtml",
+        "publishedAt": "2026-10-13T08:54:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T09:00:03.624+08:00",
+    "fetchedAt": "2026-10-13T09:10:04.039+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T09:00:07.564+08:00",
+      "fetchedAt": "2026-10-13T09:10:08.589+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T14:00:08.000+08:00"
+          "resetAt": "2026-10-13T14:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T09:00:07.850+08:00",
+      "fetchedAt": "2026-10-13T09:10:08.944+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T09:00:07.868+08:00",
+      "fetchedAt": "2026-10-13T09:10:08.953+08:00",
       "error": null
     }
   }
