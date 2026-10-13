@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T12:50:09.894+08:00",
+  "updatedAt": "2026-10-13T13:00:11.504+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.8,
-    "feelsLikeC": 29,
-    "humidity": 45,
-    "windKph": 10,
+    "tempC": 28,
+    "feelsLikeC": 28.9,
+    "humidity": 44,
+    "windKph": 10.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-13T12:50:09.894+08:00",
+    "observedAt": "2026-10-13T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-13T13:00:11.505+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "魏怀仁、陈大卫、廖景芳被判死刑！缅北魏家犯罪集团案一审宣判",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713630.shtml",
+        "publishedAt": "2026-10-13T12:46:15.000+08:00"
+      },
       {
         "title": "1至8月中国支持卫生和健康事业发展减税降费2454亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713626.shtml",
@@ -38,14 +43,9 @@
         "title": "美国女演员塞尔玛·布莱尔涉嫌机上袭击空乘被捕",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713616.shtml",
         "publishedAt": "2026-10-13T12:11:37.000+08:00"
-      },
-      {
-        "title": "长征路上学党史｜瞰会宁城下 忆三军会师",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-13/10713623.shtml",
-        "publishedAt": "2026-10-13T12:06:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T12:50:03.049+08:00",
+    "fetchedAt": "2026-10-13T13:00:05.046+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T12:50:08.671+08:00",
+      "fetchedAt": "2026-10-13T13:00:10.399+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T12:50:09.055+08:00",
+      "fetchedAt": "2026-10-13T13:00:10.647+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T12:50:09.060+08:00",
+      "fetchedAt": "2026-10-13T13:00:10.653+08:00",
       "error": null
     }
   }
