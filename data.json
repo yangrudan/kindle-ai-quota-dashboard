@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:30:14.161+08:00",
+  "updatedAt": "2026-10-13T20:40:17.979+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T20:30:14.161+08:00",
+    "fetchedAt": "2026-10-13T20:40:17.980+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习近平会见多哥部长会议主席福雷",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713989.shtml",
-        "publishedAt": "2026-10-13T20:16:12.000+08:00"
+        "title": "习近平就推动中非矿业合作提出4点主张",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713994.shtml",
+        "publishedAt": "2026-10-13T20:32:16.000+08:00"
       },
       {
-        "title": "习近平同博茨瓦纳总统博科会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713986.shtml",
-        "publishedAt": "2026-10-13T20:16:01.000+08:00"
+        "title": "习近平就建设性参与非洲热点问题解决提出4条原则",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713997.shtml",
+        "publishedAt": "2026-10-13T20:31:52.000+08:00"
       },
       {
-        "title": "IPO涉嫌被人为操纵，茶百道被港交所停牌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713974.shtml",
-        "publishedAt": "2026-10-13T20:06:07.000+08:00"
+        "title": "两艘船只在黑海遭袭 保加利亚总理称“绝不接受”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713983.shtml",
+        "publishedAt": "2026-10-13T20:31:40.000+08:00"
       },
       {
-        "title": "打击“公考围岗”，国考报名需要实名实人认证",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713975.shtml",
-        "publishedAt": "2026-10-13T20:01:27.000+08:00"
+        "title": "中华人民共和国和博茨瓦纳共和国关于建立全面战略合作伙伴关系的联合声明",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713993.shtml",
+        "publishedAt": "2026-10-13T20:31:20.000+08:00"
       },
       {
-        "title": "浙江“四无婚礼”火了！新娘父亲：想过大办一场，但尊重年轻人想法",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713971.shtml",
-        "publishedAt": "2026-10-13T19:51:50.000+08:00"
+        "title": "欧盟拟建 “坏账银行”处置俄被冻结2100亿欧元资产 但这笔钱太烫手",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713979.shtml",
+        "publishedAt": "2026-10-13T20:31:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T20:30:04.388+08:00",
+    "fetchedAt": "2026-10-13T20:40:04.022+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T20:30:12.997+08:00",
+      "fetchedAt": "2026-10-13T20:40:15.879+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T01:30:14.000+08:00"
+          "resetAt": "2026-10-14T01:40:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T20:30:13.264+08:00",
+      "fetchedAt": "2026-10-13T20:40:16.139+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T20:30:13.274+08:00",
+      "fetchedAt": "2026-10-13T20:40:16.148+08:00",
       "error": null
     }
   }
