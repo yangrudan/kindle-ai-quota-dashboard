@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T15:20:39.777+08:00",
+  "updatedAt": "2026-10-13T15:30:11.223+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 27.9,
-    "feelsLikeC": 27.2,
-    "humidity": 44,
-    "windKph": 15,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 27.7,
+    "feelsLikeC": 27.1,
+    "humidity": 45,
+    "windKph": 15.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T15:20:39.778+08:00",
+    "observedAt": "2026-10-13T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-13T15:30:11.223+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“合肥造”机器人加速走向海内外市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713719.shtml",
+        "publishedAt": "2026-10-13T15:28:30.000+08:00"
+      },
+      {
+        "title": "“红星照耀中国·新长征再出发”网络主题宣传活动在江西于都举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713738.shtml",
+        "publishedAt": "2026-10-13T15:26:28.000+08:00"
+      },
+      {
+        "title": "（乡村行·看振兴）一碗酸辣粉的“碗”里乾坤",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713697.shtml",
+        "publishedAt": "2026-10-13T15:22:08.000+08:00"
+      },
+      {
+        "title": "新能源汽车月度出口占比连续四个月超50%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713757.shtml",
+        "publishedAt": "2026-10-13T15:21:33.000+08:00"
+      },
+      {
         "title": "（经济观察）不靠海的重庆，如何让 “渝车” 驶向世界？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713703.shtml",
         "publishedAt": "2026-10-13T15:18:27.000+08:00"
-      },
-      {
-        "title": "红星照耀中国｜孔霞：讲好有温度的人物故事，让伟大长征精神浸润当代青年",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713750.shtml",
-        "publishedAt": "2026-10-13T15:17:57.000+08:00"
-      },
-      {
-        "title": "开局之年看中国·潮涌荆楚｜拆除网箱后，这条鱼游向全球产业标杆",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713745.shtml",
-        "publishedAt": "2026-10-13T15:16:23.000+08:00"
-      },
-      {
-        "title": "重庆银龄志愿者赴渝东南地区开展医养援助",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713687.shtml",
-        "publishedAt": "2026-10-13T15:14:43.000+08:00"
-      },
-      {
-        "title": "A股收评：超2900只个股飘红，沪指收涨，深指、创业板指收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713741.shtml",
-        "publishedAt": "2026-10-13T15:11:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T15:20:03.942+08:00",
+    "fetchedAt": "2026-10-13T15:30:03.515+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T15:20:38.429+08:00",
+      "fetchedAt": "2026-10-13T15:30:09.753+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T15:20:38.702+08:00",
+      "fetchedAt": "2026-10-13T15:30:10.046+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 22.79,
+      "balance": 22.62,
       "currency": "CNY",
-      "detail": "余额 ¥22.79",
-      "fetchedAt": "2026-10-13T15:20:38.712+08:00",
+      "detail": "余额 ¥22.62",
+      "fetchedAt": "2026-10-13T15:30:10.056+08:00",
       "error": null
     }
   }
