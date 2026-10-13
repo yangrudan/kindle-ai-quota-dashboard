@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T07:20:37.990+08:00",
+  "updatedAt": "2026-10-14T07:30:38.793+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.1,
-    "feelsLikeC": 20.3,
-    "humidity": 84,
-    "windKph": 6.3,
+    "tempC": 19.5,
+    "feelsLikeC": 20.6,
+    "humidity": 81,
+    "windKph": 6.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-14T07:20:37.990+08:00",
+    "observedAt": "2026-10-14T07:30:00.000+08:00",
+    "fetchedAt": "2026-10-14T07:30:38.793+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "俄外交部：日本利用驻俄记者搜集情报 呼吁日方放弃敌对行动",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714105.shtml",
+        "publishedAt": "2026-10-14T07:17:44.000+08:00"
+      },
       {
         "title": "海军辽宁舰航母编队赴西太平洋相关海域开展训练",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714104.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控",
         "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714101.shtml",
         "publishedAt": "2026-10-14T05:57:12.000+08:00"
-      },
-      {
-        "title": "巴布亚新几内亚发生6.0级地震",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714100.shtml",
-        "publishedAt": "2026-10-14T05:53:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T07:20:03.140+08:00",
+    "fetchedAt": "2026-10-14T07:30:03.947+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T07:20:36.852+08:00",
+      "fetchedAt": "2026-10-14T07:30:37.459+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T12:20:37.000+08:00"
+          "resetAt": "2026-10-14T12:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T07:20:37.145+08:00",
+      "fetchedAt": "2026-10-14T07:30:37.731+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T07:20:37.154+08:00",
+      "fetchedAt": "2026-10-14T07:30:37.743+08:00",
       "error": null
     }
   }
