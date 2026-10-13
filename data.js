@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T10:00:11.655+08:00",
+  "updatedAt": "2026-10-13T10:10:40.115+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-13T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T10:00:11.655+08:00",
+    "fetchedAt": "2026-10-13T10:10:40.115+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国进出口银行今年前三季度投放外贸领域贷款近万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713544.shtml",
-        "publishedAt": "2026-10-13T09:56:14.000+08:00"
+        "title": "中新网评：“不烧心”火了，别让“良心”凉了",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713536.shtml",
+        "publishedAt": "2026-10-13T10:06:40.000+08:00"
       },
       {
-        "title": "【这个城市有点潮】四川泸定：大渡桥横处，天堑变通途",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-13/1207639.shtml",
-        "publishedAt": "2026-10-13T09:54:58.000+08:00"
+        "title": "新华社快讯：IMF上调2026年世界经济增长预期至3.1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713557.shtml",
+        "publishedAt": "2026-10-13T10:06:12.000+08:00"
       },
       {
-        "title": "中小企业发展目标设定，释放哪些信号？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713541.shtml",
-        "publishedAt": "2026-10-13T09:50:31.000+08:00"
+        "title": "商务部安全与管制局负责人就《民用航空领域相关两用物项出口凭证管理办法》（征求意见稿）答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713555.shtml",
+        "publishedAt": "2026-10-13T10:04:46.000+08:00"
       },
       {
-        "title": "辉煌七十载 奋进新贡山丨从“各唱各的山歌”到“幸福一家人”",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713518.shtml",
-        "publishedAt": "2026-10-13T09:47:35.000+08:00"
+        "title": "新华社权威快报|中央机关及其直属机构2027年度考试录用公务员报名即将开始",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713554.shtml",
+        "publishedAt": "2026-10-13T10:03:36.000+08:00"
       },
       {
-        "title": "“让跨越太平洋的友谊生生不息”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713540.shtml",
-        "publishedAt": "2026-10-13T09:45:35.000+08:00"
+        "title": "“玻璃大王”曹德旺港大畅谈实业兴教 寄语青年深耕实业",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713531.shtml",
+        "publishedAt": "2026-10-13T10:02:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T10:00:04.804+08:00",
+    "fetchedAt": "2026-10-13T10:10:03.469+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T10:00:10.277+08:00",
+      "fetchedAt": "2026-10-13T10:10:38.773+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 2,
           "resetAt": "2026-10-13T14:36:57.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T10:00:10.556+08:00",
+      "fetchedAt": "2026-10-13T10:10:39.105+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T10:00:10.566+08:00",
+      "fetchedAt": "2026-10-13T10:10:39.115+08:00",
       "error": null
     }
   }
