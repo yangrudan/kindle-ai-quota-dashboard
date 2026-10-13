@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T16:50:08.139+08:00",
+  "updatedAt": "2026-10-13T17:00:15.917+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.5,
-    "feelsLikeC": 26.6,
-    "humidity": 51,
-    "windKph": 12.4,
+    "tempC": 26.2,
+    "feelsLikeC": 26.4,
+    "humidity": 53,
+    "windKph": 11.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-13T16:50:08.140+08:00",
+    "observedAt": "2026-10-13T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-13T17:00:15.917+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一架美国飞以色列客机接到匿名炸弹威胁",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713853.shtml",
-        "publishedAt": "2026-10-13T16:47:20.000+08:00"
+        "title": "第140届广交会推出超50项创新举措 提升服务效能",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713883.shtml",
+        "publishedAt": "2026-10-13T16:53:27.000+08:00"
       },
       {
-        "title": "检察机关依法分别对廖正伟、江海、马忠华、雷楚英提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713863.shtml",
-        "publishedAt": "2026-10-13T16:46:22.000+08:00"
+        "title": "河南信阳市商城县：“代帮办”下沉园区 打造企业服务“快车道”",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713758.shtml",
+        "publishedAt": "2026-10-13T16:53:04.000+08:00"
       },
       {
-        "title": "广西发布中英文版《甘蔗无人机作业气象保障服务规范》团体标准",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713752.shtml",
-        "publishedAt": "2026-10-13T16:46:16.000+08:00"
+        "title": "博茨瓦纳总统博科向人民英雄纪念碑敬献花圈",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713881.shtml",
+        "publishedAt": "2026-10-13T16:52:18.000+08:00"
       },
       {
-        "title": "凭《生万物》《海天雄鹰》获飞天奖，导演刘家成：创作要回归土地",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713777.shtml",
-        "publishedAt": "2026-10-13T16:46:10.000+08:00"
+        "title": "多哥部长会议主席福雷向人民英雄纪念碑敬献花圈",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713880.shtml",
+        "publishedAt": "2026-10-13T16:52:12.000+08:00"
       },
       {
-        "title": "万台级人形力控臂在山东邹城成功交付 国产具身智能迎来规模化突破",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713749.shtml",
-        "publishedAt": "2026-10-13T16:44:50.000+08:00"
+        "title": "平陆运河通航即将满月 南宁港有哪些变化？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713879.shtml",
+        "publishedAt": "2026-10-13T16:52:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T16:50:02.561+08:00",
+    "fetchedAt": "2026-10-13T17:00:04.170+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T16:50:06.443+08:00",
+      "fetchedAt": "2026-10-13T17:00:13.615+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
+          "usedPct": 47,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T16:50:06.787+08:00",
+      "fetchedAt": "2026-10-13T17:00:13.941+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T16:50:06.797+08:00",
+      "fetchedAt": "2026-10-13T17:00:13.949+08:00",
       "error": null
     }
   }
