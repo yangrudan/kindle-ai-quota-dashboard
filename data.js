@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T12:00:11.652+08:00",
+  "updatedAt": "2026-10-13T12:10:09.254+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T12:00:11.652+08:00",
+    "fetchedAt": "2026-10-13T12:10:09.254+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中铁十局巴西阿拉拉夸拉厂房改造项目顺利竣工交付",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713613.shtml",
+        "publishedAt": "2026-10-13T11:59:58.000+08:00"
+      },
       {
         "title": "美国演员RJ·米特去世，年仅34岁 曾出演《绝命毒师》",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713619.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“碑帖之间——当代中青年书法家邀请展”亮相炎黄艺术馆",
         "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713606.shtml",
         "publishedAt": "2026-10-13T11:41:57.000+08:00"
-      },
-      {
-        "title": "记者探营第140届广交会：首设新品首发展示区",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713614.shtml",
-        "publishedAt": "2026-10-13T11:41:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T12:00:05.885+08:00",
+    "fetchedAt": "2026-10-13T12:10:02.838+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T12:00:09.893+08:00",
+      "fetchedAt": "2026-10-13T12:10:07.905+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 24,
           "resetAt": "2026-10-13T14:36:57.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 23,
+          "usedPct": 24,
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T12:00:10.194+08:00",
+      "fetchedAt": "2026-10-13T12:10:08.163+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T12:00:10.203+08:00",
+      "fetchedAt": "2026-10-13T12:10:08.166+08:00",
       "error": null
     }
   }
