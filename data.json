@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T18:00:10.746+08:00",
+  "updatedAt": "2026-10-13T18:10:10.846+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T18:00:10.746+08:00",
+    "fetchedAt": "2026-10-13T18:10:10.847+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "重庆市委原副书记、市政府原市长黄奇帆接受中央纪委国家监委纪律审查和监察调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713924.shtml",
+        "publishedAt": "2026-10-13T18:02:26.000+08:00"
+      },
+      {
+        "title": "香港秋季电子产品展揭幕 未来产业馆首登场",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713920.shtml",
+        "publishedAt": "2026-10-13T17:58:42.000+08:00"
+      },
+      {
+        "title": "青海西宁：300多万粒微型薯喜获丰收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713918.shtml",
+        "publishedAt": "2026-10-13T17:57:30.000+08:00"
+      },
       {
         "title": "男子在悬空寺古建横梁做引体向上 景区通报：公安机关已立案",
         "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713912.shtml",
@@ -28,24 +43,9 @@
         "title": "俄罗斯、哈萨克斯坦乳业商务代表团内蒙古“取经”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713910.shtml",
         "publishedAt": "2026-10-13T17:36:23.000+08:00"
-      },
-      {
-        "title": "中国空军多型主战装备、海军现役装备将亮相中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713911.shtml",
-        "publishedAt": "2026-10-13T17:34:51.000+08:00"
-      },
-      {
-        "title": "当雪域昂仁遇见齐韵淄博",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713852.shtml",
-        "publishedAt": "2026-10-13T17:34:43.000+08:00"
-      },
-      {
-        "title": "红星照耀中国 | 于都河畔忆初心 新长征路再出发",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713834.shtml",
-        "publishedAt": "2026-10-13T17:32:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T18:00:04.978+08:00",
+    "fetchedAt": "2026-10-13T18:10:04.499+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T18:00:09.067+08:00",
+      "fetchedAt": "2026-10-13T18:10:09.555+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T18:00:09.452+08:00",
+      "fetchedAt": "2026-10-13T18:10:09.824+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T18:00:09.461+08:00",
+      "fetchedAt": "2026-10-13T18:10:09.833+08:00",
       "error": null
     }
   }
