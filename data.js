@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T19:50:09.028+08:00",
+  "updatedAt": "2026-10-13T20:00:11.000+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.1,
-    "feelsLikeC": 25.7,
-    "humidity": 76,
+    "tempC": 23,
+    "feelsLikeC": 25.6,
+    "humidity": 77,
     "windKph": 4,
-    "windDir": "北风",
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-13T19:50:09.028+08:00",
+    "observedAt": "2026-10-13T20:00:00.000+08:00",
+    "fetchedAt": "2026-10-13T20:00:11.000+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "平陆运河荣膺绿色设计界“奥斯卡” 生态优先理念获国际肯定",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713953.shtml",
-        "publishedAt": "2026-10-13T19:43:56.000+08:00"
+        "title": "浙江“四无婚礼”火了！新娘父亲：想过大办一场，但尊重年轻人想法",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713971.shtml",
+        "publishedAt": "2026-10-13T19:51:50.000+08:00"
       },
       {
-        "title": "李家超：发展创新科技引领新质生产力是必答题",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713951.shtml",
-        "publishedAt": "2026-10-13T19:43:54.000+08:00"
+        "title": "打破“一刀切” 重庆专家全国首创血透导管继发血栓“分类诊疗”方案",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713966.shtml",
+        "publishedAt": "2026-10-13T19:49:40.000+08:00"
       },
       {
-        "title": "“两会一展”首合体 2026世界摄影人大会10月下旬亮相浙江丽水",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713950.shtml",
-        "publishedAt": "2026-10-13T19:43:48.000+08:00"
+        "title": "“中国第一龙乡”嘉荫赏秋正当时 游客打卡中俄边境风情",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713964.shtml",
+        "publishedAt": "2026-10-13T19:49:30.000+08:00"
       },
       {
-        "title": "内蒙古自贸试验区TIR跨境运输迎来数字化新突破",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713942.shtml",
-        "publishedAt": "2026-10-13T19:43:44.000+08:00"
+        "title": "观“一塔湖图”、读“行胜于言” 西藏青少年访北京高校",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713963.shtml",
+        "publishedAt": "2026-10-13T19:49:20.000+08:00"
       },
       {
-        "title": "河南南阳力争“十五五”末高新技术企业达800家",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713946.shtml",
-        "publishedAt": "2026-10-13T19:43:34.000+08:00"
+        "title": "黑龙江青冈：金秋玉米丰收忙 颗粒归仓稳粮安",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713962.shtml",
+        "publishedAt": "2026-10-13T19:49:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T19:50:03.090+08:00",
+    "fetchedAt": "2026-10-13T20:00:04.307+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T19:50:07.457+08:00",
+      "fetchedAt": "2026-10-13T20:00:09.779+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T00:50:08.000+08:00"
+          "resetAt": "2026-10-14T01:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T19:50:07.726+08:00",
+      "fetchedAt": "2026-10-13T20:00:10.045+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T19:50:07.735+08:00",
+      "fetchedAt": "2026-10-13T20:00:10.054+08:00",
       "error": null
     }
   }
