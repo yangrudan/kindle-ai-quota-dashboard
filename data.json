@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:30:39.263+08:00",
+  "updatedAt": "2026-10-13T10:40:08.099+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T10:30:39.263+08:00",
+    "fetchedAt": "2026-10-13T10:40:08.099+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "柴达木盆地万亩青稞种植基地迎秋收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713548.shtml",
-        "publishedAt": "2026-10-13T10:19:43.000+08:00"
+        "title": "日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713574.shtml",
+        "publishedAt": "2026-10-13T10:32:36.000+08:00"
       },
       {
-        "title": "湖北襄阳古城焕新“出圈” 一展古韵新姿",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713550.shtml",
-        "publishedAt": "2026-10-13T10:18:59.000+08:00"
+        "title": "加拿大多伦多侨团举办文艺演出暨图片展庆新中国77周年华诞",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-13/10713572.shtml",
+        "publishedAt": "2026-10-13T10:28:25.000+08:00"
       },
       {
-        "title": "长春：老净水厂蝶变生态园 秋日尽览工业遗韵",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713553.shtml",
-        "publishedAt": "2026-10-13T10:17:59.000+08:00"
+        "title": "中小学校教室采光照明新国标将于十一月起实施，有哪些主要变化？",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-13/10713571.shtml",
+        "publishedAt": "2026-10-13T10:27:59.000+08:00"
       },
       {
-        "title": "秋冬交替气温走低 心梗、脑梗背后常藏着同一个“元凶”→",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-13/10713567.shtml",
-        "publishedAt": "2026-10-13T10:17:03.000+08:00"
+        "title": "当外国游客体验“过”中国人的日子（环球走笔）",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713570.shtml",
+        "publishedAt": "2026-10-13T10:25:17.000+08:00"
       },
       {
-        "title": "地面战斗白热化，胡塞武装围困上万也门政府军",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713559.shtml",
-        "publishedAt": "2026-10-13T10:14:23.000+08:00"
+        "title": "全球专家联合开具的“长寿运动处方”！3种运动搭配做，长寿效果才最佳",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-13/10713569.shtml",
+        "publishedAt": "2026-10-13T10:23:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T10:30:03.625+08:00",
+    "fetchedAt": "2026-10-13T10:40:03.011+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T10:30:37.954+08:00",
+      "fetchedAt": "2026-10-13T10:40:06.803+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T10:30:38.207+08:00",
+      "fetchedAt": "2026-10-13T10:40:07.042+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T10:30:38.217+08:00",
+      "fetchedAt": "2026-10-13T10:40:07.052+08:00",
       "error": null
     }
   }
