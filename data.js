@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T21:00:14.998+08:00",
+  "updatedAt": "2026-10-13T21:10:39.140+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T21:00:14.998+08:00",
+    "fetchedAt": "2026-10-13T21:10:39.140+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“长城-2026”反恐国际论坛在北京开幕",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-13/1207735.shtml",
-        "publishedAt": "2026-10-13T20:53:17.000+08:00"
+        "title": "“中国辣椒之乡”河北鸡泽逾6万亩椒田迎丰收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10714007.shtml",
+        "publishedAt": "2026-10-13T21:05:26.000+08:00"
       },
       {
-        "title": "乍得执政党代表团访渝 冀拓展能源机械等合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713968.shtml",
-        "publishedAt": "2026-10-13T20:40:43.000+08:00"
+        "title": "客家祖地福建宁化：秋日田野色彩斑斓",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10714005.shtml",
+        "publishedAt": "2026-10-13T21:03:52.000+08:00"
       },
       {
-        "title": "习近平就推动中非矿业合作提出4点主张",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713994.shtml",
-        "publishedAt": "2026-10-13T20:32:16.000+08:00"
+        "title": "从“拼政策”到“拼生态” 山西探索高质量招商引资新路",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714003.shtml",
+        "publishedAt": "2026-10-13T21:02:48.000+08:00"
       },
       {
-        "title": "习近平就建设性参与非洲热点问题解决提出4条原则",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713997.shtml",
-        "publishedAt": "2026-10-13T20:31:52.000+08:00"
+        "title": "“循傅山足迹 赴霜红之约” 太原尖草坪区启动“崛围红叶”文旅系列活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714002.shtml",
+        "publishedAt": "2026-10-13T21:02:44.000+08:00"
       },
       {
-        "title": "两艘船只在黑海遭袭 保加利亚总理称“绝不接受”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713983.shtml",
-        "publishedAt": "2026-10-13T20:31:40.000+08:00"
+        "title": "日本民调：八成人反对为“台湾有事”参战",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714001.shtml",
+        "publishedAt": "2026-10-13T21:02:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T21:00:07.779+08:00",
+    "fetchedAt": "2026-10-13T21:10:03.104+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T21:00:13.282+08:00",
+      "fetchedAt": "2026-10-13T21:10:37.685+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T02:00:14.000+08:00"
+          "resetAt": "2026-10-14T02:10:39.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 11,
-          "resetAt": "2026-10-20T13:44:34.000+08:00"
+          "resetAt": "2026-10-20T13:44:35.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T21:00:13.784+08:00",
+      "fetchedAt": "2026-10-13T21:10:37.998+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T21:00:13.789+08:00",
+      "fetchedAt": "2026-10-13T21:10:38.007+08:00",
       "error": null
     }
   }
