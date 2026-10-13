@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:40:08.099+08:00",
+  "updatedAt": "2026-10-13T10:50:18.082+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T10:40:08.099+08:00",
+    "fetchedAt": "2026-10-13T10:50:18.082+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "为人民币汇率发声 央行首次系统阐明政策立场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713581.shtml",
+        "publishedAt": "2026-10-13T10:46:16.000+08:00"
+      },
+      {
+        "title": "深化新联通 创造新未来——皇岗口岸全新开通综述",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713578.shtml",
+        "publishedAt": "2026-10-13T10:40:30.000+08:00"
+      },
+      {
+        "title": "第37个国际减灾日国际减灾日，来了！",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713573.shtml",
+        "publishedAt": "2026-10-13T10:34:22.000+08:00"
+      },
       {
         "title": "日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713574.shtml",
@@ -28,24 +43,9 @@
         "title": "加拿大多伦多侨团举办文艺演出暨图片展庆新中国77周年华诞",
         "url": "https://www.chinanews.com.cn/hr/2026/10-13/10713572.shtml",
         "publishedAt": "2026-10-13T10:28:25.000+08:00"
-      },
-      {
-        "title": "中小学校教室采光照明新国标将于十一月起实施，有哪些主要变化？",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-13/10713571.shtml",
-        "publishedAt": "2026-10-13T10:27:59.000+08:00"
-      },
-      {
-        "title": "当外国游客体验“过”中国人的日子（环球走笔）",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713570.shtml",
-        "publishedAt": "2026-10-13T10:25:17.000+08:00"
-      },
-      {
-        "title": "全球专家联合开具的“长寿运动处方”！3种运动搭配做，长寿效果才最佳",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-13/10713569.shtml",
-        "publishedAt": "2026-10-13T10:23:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T10:40:03.011+08:00",
+    "fetchedAt": "2026-10-13T10:50:12.686+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T10:40:06.803+08:00",
+      "fetchedAt": "2026-10-13T10:50:16.754+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T10:40:07.042+08:00",
+      "fetchedAt": "2026-10-13T10:50:16.998+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T10:40:07.052+08:00",
+      "fetchedAt": "2026-10-13T10:50:17.005+08:00",
       "error": null
     }
   }
