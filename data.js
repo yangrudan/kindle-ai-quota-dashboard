@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T11:00:08.649+08:00",
+  "updatedAt": "2026-10-13T11:10:39.119+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.7,
-    "feelsLikeC": 27.2,
+    "tempC": 26.2,
+    "feelsLikeC": 27.9,
     "humidity": 50,
-    "windKph": 6.1,
+    "windKph": 7.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T11:00:08.649+08:00",
+    "observedAt": "2026-10-13T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-13T11:10:39.120+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "阿拉山口口岸今年通行中欧（中亚）班列突破7000列",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-13/10713586.shtml",
-        "publishedAt": "2026-10-13T10:54:23.000+08:00"
+        "title": "好评中国|未来网评：长征路上传薪火，发展潮头写新篇",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-13/10713592.shtml",
+        "publishedAt": "2026-10-13T11:05:11.000+08:00"
       },
       {
-        "title": "为人民币汇率发声 央行首次系统阐明政策立场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713581.shtml",
-        "publishedAt": "2026-10-13T10:46:16.000+08:00"
+        "title": "（粤港澳大湾区）皇岗口岸重建开通首日出入境人员达7.95万人次",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713563.shtml",
+        "publishedAt": "2026-10-13T11:04:45.000+08:00"
       },
       {
-        "title": "深化新联通 创造新未来——皇岗口岸全新开通综述",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713578.shtml",
-        "publishedAt": "2026-10-13T10:40:30.000+08:00"
+        "title": "穿越“风暴”，他们在中国找到“锚点”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713591.shtml",
+        "publishedAt": "2026-10-13T11:02:57.000+08:00"
       },
       {
-        "title": "国际减灾日，来了！",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713573.shtml",
-        "publishedAt": "2026-10-13T10:34:22.000+08:00"
+        "title": "【红星照耀中国】让好山水变成好产业、好光景",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-13/10713590.shtml",
+        "publishedAt": "2026-10-13T10:59:01.000+08:00"
       },
       {
-        "title": "日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713574.shtml",
-        "publishedAt": "2026-10-13T10:32:36.000+08:00"
+        "title": "全国大遗址工作会召开 大地上的遗产迎来更严保护",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713588.shtml",
+        "publishedAt": "2026-10-13T10:57:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T11:00:03.148+08:00",
+    "fetchedAt": "2026-10-13T11:10:03.221+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T11:00:07.411+08:00",
+      "fetchedAt": "2026-10-13T11:10:37.741+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 14,
           "resetAt": "2026-10-13T14:36:57.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 21,
+          "usedPct": 22,
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T11:00:07.628+08:00",
+      "fetchedAt": "2026-10-13T11:10:37.959+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T11:00:07.632+08:00",
+      "fetchedAt": "2026-10-13T11:10:37.965+08:00",
       "error": null
     }
   }
