@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T22:30:08.667+08:00",
+  "updatedAt": "2026-10-13T22:40:38.149+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T22:30:08.667+08:00",
+    "fetchedAt": "2026-10-13T22:40:38.149+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2025年欧盟进口纯电动汽车逾四成来自中国",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714065.shtml",
-        "publishedAt": "2026-10-13T22:12:58.000+08:00"
+        "title": "海外华文媒体齐聚贵州 以侨为桥向世界讲好多彩贵州故事",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-13/10714070.shtml",
+        "publishedAt": "2026-10-13T22:36:51.000+08:00"
       },
       {
-        "title": "赵乐际分别会见博茨瓦纳总统博科、多哥部长会议主席福雷",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714075.shtml",
-        "publishedAt": "2026-10-13T22:12:38.000+08:00"
+        "title": "中越班列累计发送货物超11万标箱",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10714085.shtml",
+        "publishedAt": "2026-10-13T22:34:37.000+08:00"
       },
       {
-        "title": "习近平同博茨瓦纳总统博科会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714060.shtml",
-        "publishedAt": "2026-10-13T22:12:10.000+08:00"
+        "title": "香港海洋公园50周年将推新场馆 大熊猫新家明年第三季度迎客",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10714068.shtml",
+        "publishedAt": "2026-10-13T22:33:41.000+08:00"
       },
       {
-        "title": "成渝中线高铁动走线跨沙河特大桥顺利合龙",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714064.shtml",
-        "publishedAt": "2026-10-13T22:12:02.000+08:00"
+        "title": "2026年全国中南区射击锦标赛（步手枪项目）在广州收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-13/10714067.shtml",
+        "publishedAt": "2026-10-13T22:31:25.000+08:00"
       },
       {
-        "title": "习近平会见多哥部长会议主席福雷",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714061.shtml",
-        "publishedAt": "2026-10-13T22:12:00.000+08:00"
+        "title": "多国议员天津行：民声直达立法 技能联通世界",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714066.shtml",
+        "publishedAt": "2026-10-13T22:30:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T22:30:03.671+08:00",
+    "fetchedAt": "2026-10-13T22:40:03.123+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T22:30:07.553+08:00",
+      "fetchedAt": "2026-10-13T22:40:36.788+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T03:30:08.000+08:00"
+          "resetAt": "2026-10-14T03:40:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T22:30:07.772+08:00",
+      "fetchedAt": "2026-10-13T22:40:37.169+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T22:30:07.781+08:00",
+      "fetchedAt": "2026-10-13T22:40:37.172+08:00",
       "error": null
     }
   }
