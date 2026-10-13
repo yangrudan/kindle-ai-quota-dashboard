@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T17:20:11.523+08:00",
+  "updatedAt": "2026-10-13T17:30:19.290+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T17:20:11.523+08:00",
+    "fetchedAt": "2026-10-13T17:30:19.291+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“十四五”以来南水北调中线水源地累计调水超800亿立方米",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713851.shtml",
-        "publishedAt": "2026-10-13T17:14:26.000+08:00"
+        "title": "辽宁出台若干举措推动要素市场化配置改革",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713901.shtml",
+        "publishedAt": "2026-10-13T17:25:00.000+08:00"
       },
       {
-        "title": "四川什邡：应急安全文化一条街开放 市民散步休闲即可学应急",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713854.shtml",
-        "publishedAt": "2026-10-13T17:13:04.000+08:00"
+        "title": "四川启动校园防震减灾科普教育与电子白板地震预警试点",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713899.shtml",
+        "publishedAt": "2026-10-13T17:24:20.000+08:00"
       },
       {
-        "title": "江苏扬州口岸新船出口达100艘 “隆福”轮鸣笛首航",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713855.shtml",
-        "publishedAt": "2026-10-13T17:12:16.000+08:00"
+        "title": "沈阳辽中：多措并举提效秋收农机作业 保障金秋粮食丰产丰收",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713898.shtml",
+        "publishedAt": "2026-10-13T17:23:34.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）科尔沁草原做活“牛文章” 串起百亿产业链",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713856.shtml",
-        "publishedAt": "2026-10-13T17:11:35.000+08:00"
+        "title": "2026环广西世巡赛在崇左开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713897.shtml",
+        "publishedAt": "2026-10-13T17:22:30.000+08:00"
       },
       {
-        "title": "临沂市打造“四共四有”新模式 汇聚统战力量赋能乡村振兴",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713859.shtml",
-        "publishedAt": "2026-10-13T17:09:57.000+08:00"
+        "title": "（长征胜利90周年）“万里长征第一面”串起长征记忆与乡村振兴",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713836.shtml",
+        "publishedAt": "2026-10-13T17:22:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T17:20:03.472+08:00",
+    "fetchedAt": "2026-10-13T17:30:12.293+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T17:20:09.798+08:00",
+      "fetchedAt": "2026-10-13T17:30:17.983+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 68,
+          "usedPct": 69,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T17:20:10.123+08:00",
+      "fetchedAt": "2026-10-13T17:30:18.287+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T17:20:10.128+08:00",
+      "fetchedAt": "2026-10-13T17:30:18.296+08:00",
       "error": null
     }
   }
