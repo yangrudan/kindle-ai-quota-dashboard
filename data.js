@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T19:40:38.939+08:00",
+  "updatedAt": "2026-10-13T19:50:09.028+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.3,
-    "feelsLikeC": 25.9,
+    "tempC": 23.1,
+    "feelsLikeC": 25.7,
     "humidity": 76,
     "windKph": 4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T19:40:38.939+08:00",
+    "observedAt": "2026-10-13T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T19:50:09.028+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河南睢县：菊花采摘正当时",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713967.shtml",
-        "publishedAt": "2026-10-13T19:35:11.000+08:00"
+        "title": "平陆运河荣膺绿色设计界“奥斯卡” 生态优先理念获国际肯定",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713953.shtml",
+        "publishedAt": "2026-10-13T19:43:56.000+08:00"
       },
       {
-        "title": "秋日砺兵 直击广西河池武警官兵实弹射击训练现场",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713952.shtml",
-        "publishedAt": "2026-10-13T19:32:25.000+08:00"
+        "title": "李家超：发展创新科技引领新质生产力是必答题",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713951.shtml",
+        "publishedAt": "2026-10-13T19:43:54.000+08:00"
       },
       {
-        "title": "首列“京铁燕赵班列·助汇冀黔号”开行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713949.shtml",
-        "publishedAt": "2026-10-13T19:31:31.000+08:00"
+        "title": "“两会一展”首合体 2026世界摄影人大会10月下旬亮相浙江丽水",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713950.shtml",
+        "publishedAt": "2026-10-13T19:43:48.000+08:00"
       },
       {
-        "title": "空军多型主战装备首次亮相、海军现役装备大规模展出……一文梳理本届中国航展看点！",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713959.shtml",
-        "publishedAt": "2026-10-13T19:25:23.000+08:00"
+        "title": "内蒙古自贸试验区TIR跨境运输迎来数字化新突破",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713942.shtml",
+        "publishedAt": "2026-10-13T19:43:44.000+08:00"
       },
       {
-        "title": "中联部部长刘海星会见德国驻华大使安凯明",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713937.shtml",
-        "publishedAt": "2026-10-13T19:21:55.000+08:00"
+        "title": "河南南阳力争“十五五”末高新技术企业达800家",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713946.shtml",
+        "publishedAt": "2026-10-13T19:43:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T19:40:02.753+08:00",
+    "fetchedAt": "2026-10-13T19:50:03.090+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T19:40:36.404+08:00",
+      "fetchedAt": "2026-10-13T19:50:07.457+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T00:40:37.000+08:00"
+          "resetAt": "2026-10-14T00:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T19:40:36.667+08:00",
+      "fetchedAt": "2026-10-13T19:50:07.726+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T19:40:36.676+08:00",
+      "fetchedAt": "2026-10-13T19:50:07.735+08:00",
       "error": null
     }
   }
