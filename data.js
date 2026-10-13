@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T13:20:10.175+08:00",
+  "updatedAt": "2026-10-13T13:30:08.651+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T13:20:10.176+08:00",
+    "fetchedAt": "2026-10-13T13:30:08.652+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "共话基层治理 同叙桑梓情深｜香港天津社团总会返津参访团来津",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713635.shtml",
+        "publishedAt": "2026-10-13T13:13:58.000+08:00"
+      },
+      {
+        "title": "消费订单回暖 9月份中国电商物流指数小幅上行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713637.shtml",
+        "publishedAt": "2026-10-13T13:13:26.000+08:00"
+      },
+      {
         "title": "自然资源部印发《盘活存量土地和低效用地典型案例2026版》",
         "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713621.shtml",
         "publishedAt": "2026-10-13T13:11:10.000+08:00"
       },
       {
+        "title": "魏怀仁、陈大卫、廖景芳被判死刑，缅北魏家犯罪集团案一审宣判",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713636.shtml",
+        "publishedAt": "2026-10-13T13:10:58.000+08:00"
+      },
+      {
         "title": "茶酒和鸣话相知——多国驻华使节在宁夏共品丝路文明交融之味",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713627.shtml",
         "publishedAt": "2026-10-13T13:10:14.000+08:00"
-      },
-      {
-        "title": "秋后蚊子来袭！预防“两热” 赶快消灭幼虫藏身地→",
-        "url": "https://www.chinanews.com.cn/life/2026/10-13/10713634.shtml",
-        "publishedAt": "2026-10-13T13:04:42.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）“中国枸杞之乡”：青年解锁“新农事”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713631.shtml",
-        "publishedAt": "2026-10-13T12:59:14.000+08:00"
-      },
-      {
-        "title": "第140届广交会在即 白云机场口岸日均客流量将达约5.8万人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713632.shtml",
-        "publishedAt": "2026-10-13T12:56:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T13:20:04.063+08:00",
+    "fetchedAt": "2026-10-13T13:30:03.324+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T13:20:08.894+08:00",
+      "fetchedAt": "2026-10-13T13:30:07.557+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T18:20:10.000+08:00"
+          "resetAt": "2026-10-13T18:30:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-20T13:20:10.000+08:00"
+          "resetAt": "2026-10-20T13:30:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T13:20:09.172+08:00",
+      "fetchedAt": "2026-10-13T13:30:07.830+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T13:20:09.180+08:00",
+      "fetchedAt": "2026-10-13T13:30:07.838+08:00",
       "error": null
     }
   }
