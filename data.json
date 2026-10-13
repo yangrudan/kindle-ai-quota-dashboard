@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:20:09.365+08:00",
+  "updatedAt": "2026-10-14T00:30:07.885+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-14T00:15:00.000+08:00",
-    "fetchedAt": "2026-10-14T00:20:09.365+08:00",
+    "fetchedAt": "2026-10-14T00:30:07.885+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "刚果（金）本轮埃博拉疫情确诊病例超9000例",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714098.shtml",
+        "publishedAt": "2026-10-14T00:22:43.000+08:00"
+      },
+      {
+        "title": "日本叶菜价格大幅上涨 白菜成“高价菜”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714097.shtml",
+        "publishedAt": "2026-10-14T00:19:23.000+08:00"
+      },
       {
         "title": "也门首都萨那传出爆炸声",
         "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714096.shtml",
@@ -33,19 +43,9 @@
         "title": "韩国KOSPI指数收跌超5% 两大半导体股延续跌势",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714095.shtml",
         "publishedAt": "2026-10-13T23:46:09.000+08:00"
-      },
-      {
-        "title": "2025年欧盟进口纯电动汽车逾四成来自中国",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714093.shtml",
-        "publishedAt": "2026-10-13T23:11:05.000+08:00"
-      },
-      {
-        "title": "柬埔寨亡人节三天假期吸引国内外游客逾216万人次",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10714092.shtml",
-        "publishedAt": "2026-10-13T23:10:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T00:20:03.592+08:00",
+    "fetchedAt": "2026-10-14T00:30:02.890+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T00:20:08.200+08:00",
+      "fetchedAt": "2026-10-14T00:30:06.766+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T05:20:09.000+08:00"
+          "resetAt": "2026-10-14T05:30:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T00:20:08.429+08:00",
+      "fetchedAt": "2026-10-14T00:30:07.070+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T00:20:08.438+08:00",
+      "fetchedAt": "2026-10-14T00:30:07.074+08:00",
       "error": null
     }
   }
