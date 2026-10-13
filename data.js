@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T17:40:09.333+08:00",
+  "updatedAt": "2026-10-13T17:50:09.114+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.3,
+    "tempC": 24.9,
     "feelsLikeC": 26.3,
-    "humidity": 59,
-    "windKph": 8.7,
+    "humidity": 62,
+    "windKph": 7.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T17:40:09.333+08:00",
+    "observedAt": "2026-10-13T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T17:50:09.114+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "辽宁省跨境电商协同创新基地在沈阳成立",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713892.shtml",
-        "publishedAt": "2026-10-13T17:30:35.000+08:00"
+        "title": "男子在悬空寺古建横梁做引体向上 景区通报：公安机关已立案",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713912.shtml",
+        "publishedAt": "2026-10-13T17:40:37.000+08:00"
       },
       {
-        "title": "“广州第一芯”粤芯半导体深交所上市",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713903.shtml",
-        "publishedAt": "2026-10-13T17:29:18.000+08:00"
+        "title": "俄罗斯、哈萨克斯坦乳业商务代表团内蒙古“取经”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713910.shtml",
+        "publishedAt": "2026-10-13T17:36:23.000+08:00"
       },
       {
-        "title": "从诉求回应到数智赋能 多国嘉宾热议城市治理现代化",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713906.shtml",
-        "publishedAt": "2026-10-13T17:28:44.000+08:00"
+        "title": "中国空军多型主战装备、海军现役装备将亮相中国航展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713911.shtml",
+        "publishedAt": "2026-10-13T17:34:51.000+08:00"
       },
       {
-        "title": "“手牵手”同心助医社会服务定远基地揭牌",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713907.shtml",
-        "publishedAt": "2026-10-13T17:26:58.000+08:00"
+        "title": "当雪域昂仁遇见齐韵淄博",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713852.shtml",
+        "publishedAt": "2026-10-13T17:34:43.000+08:00"
       },
       {
-        "title": "云南龙陵碧寨乡：牛油果错峰抢市场绘出新“丰”景",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713902.shtml",
-        "publishedAt": "2026-10-13T17:25:46.000+08:00"
+        "title": "红星照耀中国 | 于都河畔忆初心 新长征路再出发",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713834.shtml",
+        "publishedAt": "2026-10-13T17:32:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T17:40:04.438+08:00",
+    "fetchedAt": "2026-10-13T17:50:03.458+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T17:40:08.045+08:00",
+      "fetchedAt": "2026-10-13T17:50:07.900+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T17:40:08.350+08:00",
+      "fetchedAt": "2026-10-13T17:50:08.202+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T17:40:08.359+08:00",
+      "fetchedAt": "2026-10-13T17:50:08.212+08:00",
       "error": null
     }
   }
