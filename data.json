@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T11:10:39.119+08:00",
+  "updatedAt": "2026-10-13T11:20:10.514+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.2,
-    "feelsLikeC": 27.9,
+    "tempC": 26.4,
+    "feelsLikeC": 28.2,
     "humidity": 50,
-    "windKph": 7.2,
+    "windKph": 7.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T11:10:39.120+08:00",
+    "observedAt": "2026-10-13T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T11:20:10.515+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中越班列累计发送货物超11万标箱",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713595.shtml",
+        "publishedAt": "2026-10-13T11:06:48.000+08:00"
+      },
       {
         "title": "好评中国|未来网评：长征路上传薪火，发展潮头写新篇",
         "url": "https://www.chinanews.com.cn/ll/2026/10-13/10713592.shtml",
@@ -38,14 +43,9 @@
         "title": "【红星照耀中国】让好山水变成好产业、好光景",
         "url": "https://www.chinanews.com.cn/ll/2026/10-13/10713590.shtml",
         "publishedAt": "2026-10-13T10:59:01.000+08:00"
-      },
-      {
-        "title": "全国大遗址工作会召开 大地上的遗产迎来更严保护",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713588.shtml",
-        "publishedAt": "2026-10-13T10:57:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T11:10:03.221+08:00",
+    "fetchedAt": "2026-10-13T11:20:03.541+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T11:10:37.741+08:00",
+      "fetchedAt": "2026-10-13T11:20:09.210+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 14,
+          "usedPct": 19,
           "resetAt": "2026-10-13T14:36:57.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 22,
+          "usedPct": 23,
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T11:10:37.959+08:00",
+      "fetchedAt": "2026-10-13T11:20:09.459+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T11:10:37.965+08:00",
+      "fetchedAt": "2026-10-13T11:20:09.472+08:00",
       "error": null
     }
   }
