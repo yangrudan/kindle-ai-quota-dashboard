@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T16:20:10.512+08:00",
+  "updatedAt": "2026-10-13T16:30:20.967+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.1,
-    "feelsLikeC": 26.8,
-    "humidity": 48,
-    "windKph": 14.1,
+    "tempC": 26.8,
+    "feelsLikeC": 26.7,
+    "humidity": 49,
+    "windKph": 13.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T16:20:10.513+08:00",
+    "observedAt": "2026-10-13T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-13T16:30:20.967+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "短剧“洗稿”小说被判侵权，海南法院详解判定逻辑",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713793.shtml",
+        "publishedAt": "2026-10-13T16:20:23.000+08:00"
+      },
+      {
+        "title": "云南玉溪市建好用活“三支队伍”推动铸牢中华民族共同体意识宣传教育有形有感有效",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713743.shtml",
+        "publishedAt": "2026-10-13T16:20:07.000+08:00"
+      },
+      {
+        "title": "习近平会见多哥部长会议主席福雷",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713809.shtml",
+        "publishedAt": "2026-10-13T16:19:21.000+08:00"
+      },
+      {
+        "title": "超强厄尔尼诺形成 如何影响海南？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713740.shtml",
+        "publishedAt": "2026-10-13T16:17:35.000+08:00"
+      },
+      {
         "title": "大连市侨联组织多形式开展庆祝中国侨联成立70周年系列活动",
         "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713739.shtml",
         "publishedAt": "2026-10-13T16:15:04.000+08:00"
-      },
-      {
-        "title": "（文化中国行·校馆弦歌）北京大学图书馆里，有一间古籍修复“急诊室”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713736.shtml",
-        "publishedAt": "2026-10-13T16:13:52.000+08:00"
-      },
-      {
-        "title": "总台海峡时评：支持“台独” 只会搬起石头砸自己的脚！",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-13/10713818.shtml",
-        "publishedAt": "2026-10-13T16:12:14.000+08:00"
-      },
-      {
-        "title": "三部门：到2028年，内河新能源船舶保有量较2025年翻倍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713807.shtml",
-        "publishedAt": "2026-10-13T16:09:58.000+08:00"
-      },
-      {
-        "title": "医圣故里河南南阳计划培训1万人次海外中医学员",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713733.shtml",
-        "publishedAt": "2026-10-13T16:09:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T16:20:03.928+08:00",
+    "fetchedAt": "2026-10-13T16:30:04.256+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T16:20:08.729+08:00",
+      "fetchedAt": "2026-10-13T16:30:19.595+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 36,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T16:20:08.987+08:00",
+      "fetchedAt": "2026-10-13T16:30:19.918+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T16:20:08.991+08:00",
+      "fetchedAt": "2026-10-13T16:30:19.928+08:00",
       "error": null
     }
   }
