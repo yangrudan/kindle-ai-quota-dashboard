@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T15:00:39.311+08:00",
+  "updatedAt": "2026-10-13T15:10:11.796+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.3,
-    "feelsLikeC": 27.2,
-    "humidity": 40,
-    "windKph": 14.6,
+    "tempC": 28,
+    "feelsLikeC": 27.3,
+    "humidity": 44,
+    "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T15:00:39.311+08:00",
+    "observedAt": "2026-10-13T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-13T15:10:11.797+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今年前三季度烟台港中非件杂货班轮航线运量突破800万吨",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713680.shtml",
-        "publishedAt": "2026-10-13T14:52:00.000+08:00"
+        "title": "增值税法施行后，文旅行业这些政策有变化（政策解读）",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713729.shtml",
+        "publishedAt": "2026-10-13T15:02:36.000+08:00"
       },
       {
-        "title": "科技互联网行业成广州办公楼新增租赁需求核心引擎",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713667.shtml",
-        "publishedAt": "2026-10-13T14:49:12.000+08:00"
+        "title": "我国牵头制定的电气继电器领域国际标准发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713728.shtml",
+        "publishedAt": "2026-10-13T15:01:44.000+08:00"
       },
       {
-        "title": "湖南湘江新区AI短剧出海观察：全链条协同发力",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713666.shtml",
-        "publishedAt": "2026-10-13T14:48:42.000+08:00"
+        "title": "华强方特“熊出没”携手义乌 制造探索文化产业出海新路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713726.shtml",
+        "publishedAt": "2026-10-13T14:57:48.000+08:00"
       },
       {
-        "title": "陕西省三人篮球联赛总决赛西安收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713665.shtml",
-        "publishedAt": "2026-10-13T14:47:58.000+08:00"
+        "title": "我国服务业数智化改造加速落地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713721.shtml",
+        "publishedAt": "2026-10-13T14:57:32.000+08:00"
       },
       {
-        "title": "陕西省秋粮收获进程过半",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713660.shtml",
-        "publishedAt": "2026-10-13T14:46:48.000+08:00"
+        "title": "西渝高铁缪家梁特大桥顺利合龙 最高墩达103.5米",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713681.shtml",
+        "publishedAt": "2026-10-13T14:55:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T15:00:03.154+08:00",
+    "fetchedAt": "2026-10-13T15:10:05.331+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T15:00:38.116+08:00",
+      "fetchedAt": "2026-10-13T15:10:10.706+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 8,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T15:00:38.377+08:00",
+      "fetchedAt": "2026-10-13T15:10:10.949+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 23.09,
+      "balance": 22.85,
       "currency": "CNY",
-      "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T15:00:38.386+08:00",
+      "detail": "余额 ¥22.85",
+      "fetchedAt": "2026-10-13T15:10:10.959+08:00",
       "error": null
     }
   }
