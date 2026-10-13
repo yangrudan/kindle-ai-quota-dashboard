@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T23:10:08.833+08:00",
+  "updatedAt": "2026-10-13T23:20:10.533+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.8,
-    "feelsLikeC": 22.8,
-    "humidity": 75,
-    "windKph": 10.6,
+    "tempC": 21.6,
+    "feelsLikeC": 22.6,
+    "humidity": 76,
+    "windKph": 10.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T23:10:08.833+08:00",
+    "observedAt": "2026-10-13T23:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T23:20:10.533+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2025年欧盟进口纯电动汽车逾四成来自中国",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714093.shtml",
+        "publishedAt": "2026-10-13T23:11:05.000+08:00"
+      },
+      {
+        "title": "柬埔寨亡人节三天假期吸引国内外游客逾216万人次",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10714092.shtml",
+        "publishedAt": "2026-10-13T23:10:27.000+08:00"
+      },
+      {
+        "title": "在吉林市“护好一湖清水 守好一片青山”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714090.shtml",
+        "publishedAt": "2026-10-13T23:08:13.000+08:00"
+      },
+      {
+        "title": "聚焦“急难愁盼” 广西织密医保民生保障网",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714089.shtml",
+        "publishedAt": "2026-10-13T23:05:53.000+08:00"
+      },
+      {
         "title": "第七届“一带一路”税收征管合作论坛在雅加达开幕",
         "url": "https://www.chinanews.com.cn/ydyl/2026/10-13/10714088.shtml",
         "publishedAt": "2026-10-13T23:03:33.000+08:00"
-      },
-      {
-        "title": "中国科技企业华为：未来10年逻辑折叠技术具备持续演进空间",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714086.shtml",
-        "publishedAt": "2026-10-13T23:01:40.000+08:00"
-      },
-      {
-        "title": "“2026天下甬商家乡行”在宁波启幕 甬港协同成势",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714083.shtml",
-        "publishedAt": "2026-10-13T22:59:56.000+08:00"
-      },
-      {
-        "title": "大型原创历史舞台剧《大儒张载》升级版亮相第十一届陕西省艺术节",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10714082.shtml",
-        "publishedAt": "2026-10-13T22:57:50.000+08:00"
-      },
-      {
-        "title": "新兴市场客商组团赴浙江金华“淘货” 意向订单超1亿元",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10714081.shtml",
-        "publishedAt": "2026-10-13T22:56:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T23:10:02.922+08:00",
+    "fetchedAt": "2026-10-13T23:20:03.356+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T23:10:07.203+08:00",
+      "fetchedAt": "2026-10-13T23:20:07.944+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T04:10:08.000+08:00"
+          "resetAt": "2026-10-14T04:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T23:10:07.467+08:00",
+      "fetchedAt": "2026-10-13T23:20:08.208+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T23:10:07.476+08:00",
+      "fetchedAt": "2026-10-13T23:20:08.217+08:00",
       "error": null
     }
   }
