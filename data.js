@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T09:10:09.792+08:00",
+  "updatedAt": "2026-10-13T09:20:11.175+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.4,
-    "feelsLikeC": 24.3,
-    "humidity": 56,
-    "windKph": 3,
+    "tempC": 23.9,
+    "feelsLikeC": 24.7,
+    "humidity": 54,
+    "windKph": 3.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T09:10:09.793+08:00",
+    "observedAt": "2026-10-13T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T09:20:11.176+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "南宁海关隶属桂林海关涉案财物拍卖摇珠公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713501.shtml",
-        "publishedAt": "2026-10-13T09:03:13.000+08:00"
+        "title": "增值税法施行后，文旅行业这些政策有变化",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713509.shtml",
+        "publishedAt": "2026-10-13T09:13:59.000+08:00"
       },
       {
-        "title": "利雅得机场四天四炸、300多人伤亡：中东能源王国的巨资防空网，竟成了“摆设”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713500.shtml",
-        "publishedAt": "2026-10-13T09:02:25.000+08:00"
+        "title": "中国石化销售股份有限公司西藏石油分公司党委书记施长春接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713506.shtml",
+        "publishedAt": "2026-10-13T09:12:43.000+08:00"
       },
       {
-        "title": "南宁吴圩机场海关职工食堂劳务外包服务【FC(ZB3)2026157C】竞争性磋商公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713499.shtml",
-        "publishedAt": "2026-10-13T09:00:53.000+08:00"
+        "title": "广西三江：梯田翻金浪 苗寨剪禾忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10712385.shtml",
+        "publishedAt": "2026-10-13T09:10:45.000+08:00"
       },
       {
-        "title": "凭祥海关关于开展2026年10月份“关领导接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713497.shtml",
-        "publishedAt": "2026-10-13T08:59:15.000+08:00"
+        "title": "湖北水利发展集团党委副书记、总经理周俊接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713504.shtml",
+        "publishedAt": "2026-10-13T09:09:31.000+08:00"
       },
       {
-        "title": "爱店海关关于开展2026年10月份“关领导接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10712378.shtml",
-        "publishedAt": "2026-10-13T08:54:08.000+08:00"
+        "title": "“3天赚上千元” 普通人“卖脸兼职”真的可行吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713508.shtml",
+        "publishedAt": "2026-10-13T09:09:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T09:10:04.039+08:00",
+    "fetchedAt": "2026-10-13T09:20:03.925+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T09:10:08.589+08:00",
+      "fetchedAt": "2026-10-13T09:20:07.948+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T14:10:09.000+08:00"
+          "resetAt": "2026-10-13T14:20:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-10-19T09:59:59.000+08:00"
+          "resetAt": "2026-10-19T10:00:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T09:10:08.944+08:00",
+      "fetchedAt": "2026-10-13T09:20:08.382+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T09:10:08.953+08:00",
+      "fetchedAt": "2026-10-13T09:20:08.392+08:00",
       "error": null
     }
   }
