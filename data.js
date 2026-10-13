@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T08:20:08.887+08:00",
+  "updatedAt": "2026-10-13T08:30:39.620+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.5,
-    "feelsLikeC": 22.8,
-    "humidity": 67,
-    "windKph": 2.3,
-    "windDir": "西北风",
+    "tempC": 22.3,
+    "feelsLikeC": 23.5,
+    "humidity": 63,
+    "windKph": 1.9,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-13T08:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T08:20:08.887+08:00",
+    "observedAt": "2026-10-13T08:30:00.000+08:00",
+    "fetchedAt": "2026-10-13T08:30:39.620+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "雅思考试反复取消 “停考风波”何时休",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-13/10712370.shtml",
+        "publishedAt": "2026-10-13T08:22:55.000+08:00"
+      },
       {
         "title": "西南地区东部江南北部等地将有一次较强降水过程 冷空气继续影响东北地区",
         "url": "https://www.chinanews.com.cn/sh/2026/10-13/10712362.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026年巴黎车展拉开帷幕 多国汽车品牌同台亮相",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10712365.shtml",
         "publishedAt": "2026-10-13T08:09:10.000+08:00"
-      },
-      {
-        "title": "别被AI短剧带偏了 “吃了不烧心”≠食材一定好",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-13/10712367.shtml",
-        "publishedAt": "2026-10-13T08:09:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T08:20:03.695+08:00",
+    "fetchedAt": "2026-10-13T08:30:04.233+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T08:20:07.815+08:00",
+      "fetchedAt": "2026-10-13T08:30:38.174+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T13:20:08.000+08:00"
+          "resetAt": "2026-10-13T13:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T08:20:08.052+08:00",
+      "fetchedAt": "2026-10-13T08:30:38.512+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T08:20:08.063+08:00",
+      "fetchedAt": "2026-10-13T08:30:38.522+08:00",
       "error": null
     }
   }
