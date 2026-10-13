@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T14:20:11.695+08:00",
+  "updatedAt": "2026-10-13T14:30:09.434+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.4,
-    "feelsLikeC": 27.5,
+    "tempC": 28.3,
+    "feelsLikeC": 27.2,
     "humidity": 40,
-    "windKph": 14.2,
+    "windKph": 14.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T14:20:11.695+08:00",
+    "observedAt": "2026-10-13T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-13T14:30:09.434+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外交部：坚决反对印度方公布所谓标准地名",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713683.shtml",
+        "publishedAt": "2026-10-13T14:23:04.000+08:00"
+      },
+      {
+        "title": "高市内阁丑闻接连不断引质疑：将持续消耗执政根基",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713677.shtml",
+        "publishedAt": "2026-10-13T14:22:16.000+08:00"
+      },
+      {
+        "title": "外交部：敦促美停止向“台独”分裂势力发出错误信号",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713682.shtml",
+        "publishedAt": "2026-10-13T14:22:00.000+08:00"
+      },
       {
         "title": "中国央行批准威士公司筹备银行卡清算机构",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713678.shtml",
@@ -28,24 +43,9 @@
         "title": "突发：韩国仁川发生持刀伤人事件 已致至少8人受伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713673.shtml",
         "publishedAt": "2026-10-13T14:13:48.000+08:00"
-      },
-      {
-        "title": "习近平出席全国卫生与健康大会并发表重要讲话",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713671.shtml",
-        "publishedAt": "2026-10-13T14:13:22.000+08:00"
-      },
-      {
-        "title": "我国矿产资源重划“家底” 《矿产资源目录》发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713676.shtml",
-        "publishedAt": "2026-10-13T14:13:00.000+08:00"
-      },
-      {
-        "title": "维生素C含量比橙子还高，热量还超低！这种秋天水果错过真的会后悔",
-        "url": "https://www.chinanews.com.cn/life/2026/10-13/10713675.shtml",
-        "publishedAt": "2026-10-13T14:10:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T14:20:06.303+08:00",
+    "fetchedAt": "2026-10-13T14:30:04.481+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T14:20:10.354+08:00",
+      "fetchedAt": "2026-10-13T14:30:08.085+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T14:20:10.783+08:00",
+      "fetchedAt": "2026-10-13T14:30:08.387+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T14:20:10.788+08:00",
+      "fetchedAt": "2026-10-13T14:30:08.397+08:00",
       "error": null
     }
   }
