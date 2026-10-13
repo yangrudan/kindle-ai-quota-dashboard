@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T21:10:39.140+08:00",
+  "updatedAt": "2026-10-13T21:20:07.840+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.5,
-    "feelsLikeC": 24.5,
-    "humidity": 75,
-    "windKph": 5.3,
+    "tempC": 22.3,
+    "feelsLikeC": 24.3,
+    "humidity": 76,
+    "windKph": 6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T21:10:39.140+08:00",
+    "observedAt": "2026-10-13T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T21:20:07.841+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国车企亮相巴黎车展：积极迈向欧洲本地化之路",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714011.shtml",
+        "publishedAt": "2026-10-13T21:19:13.000+08:00"
+      },
+      {
+        "title": "沙特阿美总裁：全球原油库存逼近“危险低位”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10714022.shtml",
+        "publishedAt": "2026-10-13T21:16:05.000+08:00"
+      },
       {
         "title": "“中国辣椒之乡”河北鸡泽逾6万亩椒田迎丰收",
         "url": "https://www.chinanews.com.cn/tp/2026/10-13/10714007.shtml",
@@ -33,19 +43,9 @@
         "title": "从“拼政策”到“拼生态” 山西探索高质量招商引资新路",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714003.shtml",
         "publishedAt": "2026-10-13T21:02:48.000+08:00"
-      },
-      {
-        "title": "“循傅山足迹 赴霜红之约” 太原尖草坪区启动“崛围红叶”文旅系列活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714002.shtml",
-        "publishedAt": "2026-10-13T21:02:44.000+08:00"
-      },
-      {
-        "title": "日本民调：八成人反对为“台湾有事”参战",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714001.shtml",
-        "publishedAt": "2026-10-13T21:02:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T21:10:03.104+08:00",
+    "fetchedAt": "2026-10-13T21:20:03.059+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T21:10:37.685+08:00",
+      "fetchedAt": "2026-10-13T21:20:06.514+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T02:10:39.000+08:00"
+          "resetAt": "2026-10-14T02:20:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 11,
-          "resetAt": "2026-10-20T13:44:35.000+08:00"
+          "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T21:10:37.998+08:00",
+      "fetchedAt": "2026-10-13T21:20:06.825+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T21:10:38.007+08:00",
+      "fetchedAt": "2026-10-13T21:20:06.835+08:00",
       "error": null
     }
   }
