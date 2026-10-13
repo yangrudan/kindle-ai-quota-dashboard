@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T20:50:12.838+08:00",
+  "updatedAt": "2026-10-13T21:00:14.998+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.6,
-    "feelsLikeC": 24.7,
+    "tempC": 22.5,
+    "feelsLikeC": 24.5,
     "humidity": 75,
-    "windKph": 5,
+    "windKph": 5.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-13T20:50:12.839+08:00",
+    "observedAt": "2026-10-13T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-13T21:00:14.998+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“长城-2026”反恐国际论坛在北京开幕",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-13/1207735.shtml",
+        "publishedAt": "2026-10-13T20:53:17.000+08:00"
+      },
       {
         "title": "乍得执政党代表团访渝 冀拓展能源机械等合作",
         "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713968.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "两艘船只在黑海遭袭 保加利亚总理称“绝不接受”",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713983.shtml",
         "publishedAt": "2026-10-13T20:31:40.000+08:00"
-      },
-      {
-        "title": "中华人民共和国和博茨瓦纳共和国关于建立全面战略合作伙伴关系的联合声明",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713993.shtml",
-        "publishedAt": "2026-10-13T20:31:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T20:50:03.794+08:00",
+    "fetchedAt": "2026-10-13T21:00:07.779+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T20:50:10.215+08:00",
+      "fetchedAt": "2026-10-13T21:00:13.282+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T01:50:11.000+08:00"
+          "resetAt": "2026-10-14T02:00:14.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T20:50:10.476+08:00",
+      "fetchedAt": "2026-10-13T21:00:13.784+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T20:50:10.484+08:00",
+      "fetchedAt": "2026-10-13T21:00:13.789+08:00",
       "error": null
     }
   }
