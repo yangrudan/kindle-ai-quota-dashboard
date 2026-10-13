@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T11:50:13.929+08:00",
+  "updatedAt": "2026-10-13T12:00:11.652+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.9,
-    "feelsLikeC": 28.8,
+    "tempC": 27.1,
+    "feelsLikeC": 29,
     "humidity": 50,
-    "windKph": 8.4,
+    "windKph": 8.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-13T11:50:13.929+08:00",
+    "observedAt": "2026-10-13T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-13T12:00:11.652+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国演员RJ·米特去世，年仅34岁 曾出演《绝命毒师》",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713619.shtml",
+        "publishedAt": "2026-10-13T11:48:12.000+08:00"
+      },
       {
         "title": "A股午评：近3500只个股飘绿，三大指数集体收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713618.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "记者探营第140届广交会：首设新品首发展示区",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713614.shtml",
         "publishedAt": "2026-10-13T11:41:11.000+08:00"
-      },
-      {
-        "title": "中国人民银行批准威士公司筹备银行卡清算机构",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713615.shtml",
-        "publishedAt": "2026-10-13T11:39:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T11:50:03.948+08:00",
+    "fetchedAt": "2026-10-13T12:00:05.885+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T11:50:11.445+08:00",
+      "fetchedAt": "2026-10-13T12:00:09.893+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T11:50:11.765+08:00",
+      "fetchedAt": "2026-10-13T12:00:10.194+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T11:50:11.773+08:00",
+      "fetchedAt": "2026-10-13T12:00:10.203+08:00",
       "error": null
     }
   }
