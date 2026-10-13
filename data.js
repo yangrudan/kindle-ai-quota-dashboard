@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T00:10:08.714+08:00",
+  "updatedAt": "2026-10-14T00:20:09.365+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.1,
-    "feelsLikeC": 22.2,
-    "humidity": 79,
+    "tempC": 21,
+    "feelsLikeC": 22.1,
+    "humidity": 80,
     "windKph": 10.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T00:10:08.715+08:00",
+    "observedAt": "2026-10-14T00:15:00.000+08:00",
+    "fetchedAt": "2026-10-14T00:20:09.365+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "也门首都萨那传出爆炸声",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714096.shtml",
+        "publishedAt": "2026-10-14T00:17:09.000+08:00"
+      },
       {
         "title": "国考报名今开始：拟招3.57万人，打击“公考围岗”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714094.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "柬埔寨亡人节三天假期吸引国内外游客逾216万人次",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10714092.shtml",
         "publishedAt": "2026-10-13T23:10:27.000+08:00"
-      },
-      {
-        "title": "在吉林市“护好一湖清水 守好一片青山”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714090.shtml",
-        "publishedAt": "2026-10-13T23:08:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T00:10:03.542+08:00",
+    "fetchedAt": "2026-10-14T00:20:03.592+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T00:10:07.363+08:00",
+      "fetchedAt": "2026-10-14T00:20:08.200+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T05:10:08.000+08:00"
+          "resetAt": "2026-10-14T05:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T00:10:07.812+08:00",
+      "fetchedAt": "2026-10-14T00:20:08.429+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T00:10:07.816+08:00",
+      "fetchedAt": "2026-10-14T00:20:08.438+08:00",
       "error": null
     }
   }
