@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T15:30:11.223+08:00",
+  "updatedAt": "2026-10-13T15:40:11.663+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T15:30:11.223+08:00",
+    "fetchedAt": "2026-10-13T15:40:11.663+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“合肥造”机器人加速走向海内外市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713719.shtml",
-        "publishedAt": "2026-10-13T15:28:30.000+08:00"
+        "title": "龙邦海关关于发布2026年10月份“关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713770.shtml",
+        "publishedAt": "2026-10-13T15:33:12.000+08:00"
       },
       {
-        "title": "“红星照耀中国·新长征再出发”网络主题宣传活动在江西于都举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713738.shtml",
-        "publishedAt": "2026-10-13T15:26:28.000+08:00"
+        "title": "聚焦现代医学、电动汽车、工业城市 “自然图书”将首批出版三部专著",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713715.shtml",
+        "publishedAt": "2026-10-13T15:32:20.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）一碗酸辣粉的“碗”里乾坤",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713697.shtml",
-        "publishedAt": "2026-10-13T15:22:08.000+08:00"
+        "title": "四川解读《美丽四川建设“十五五”规划》：聚焦建设美丽中国先行区",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713753.shtml",
+        "publishedAt": "2026-10-13T15:31:34.000+08:00"
       },
       {
-        "title": "新能源汽车月度出口占比连续四个月超50%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713757.shtml",
-        "publishedAt": "2026-10-13T15:21:33.000+08:00"
+        "title": "上下楼就是上下游 合肥零碳中心构建全球领先零碳技术生态圈",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713692.shtml",
+        "publishedAt": "2026-10-13T15:30:54.000+08:00"
       },
       {
-        "title": "（经济观察）不靠海的重庆，如何让 “渝车” 驶向世界？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713703.shtml",
-        "publishedAt": "2026-10-13T15:18:27.000+08:00"
+        "title": "西藏青年曲艺工作者江村平措入选2026年度“时代风尚”文艺志愿者",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713691.shtml",
+        "publishedAt": "2026-10-13T15:30:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T15:30:03.515+08:00",
+    "fetchedAt": "2026-10-13T15:40:05.583+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T15:30:09.753+08:00",
+      "fetchedAt": "2026-10-13T15:40:10.469+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 11,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 1,
+          "usedPct": 2,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T15:30:10.046+08:00",
+      "fetchedAt": "2026-10-13T15:40:10.719+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 22.62,
+      "balance": 22.48,
       "currency": "CNY",
-      "detail": "余额 ¥22.62",
-      "fetchedAt": "2026-10-13T15:30:10.056+08:00",
+      "detail": "余额 ¥22.48",
+      "fetchedAt": "2026-10-13T15:40:10.729+08:00",
       "error": null
     }
   }
