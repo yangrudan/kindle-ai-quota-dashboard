@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T18:10:10.846+08:00",
+  "updatedAt": "2026-10-13T18:20:17.159+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.5,
+    "tempC": 24.2,
     "feelsLikeC": 26.2,
-    "humidity": 65,
-    "windKph": 6.4,
-    "windDir": "北风",
+    "humidity": 67,
+    "windKph": 5.7,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T18:10:10.847+08:00",
+    "observedAt": "2026-10-13T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T18:20:17.160+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆市委原副书记、市政府原市长黄奇帆接受中央纪委国家监委纪律审查和监察调查",
+        "title": "前三季度湖北郧西食用菌出口货值超4000万元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713919.shtml",
+        "publishedAt": "2026-10-13T18:12:43.000+08:00"
+      },
+      {
+        "title": "河北省邯郸陆港站至贵州省贵阳改貌站集装箱班列首发",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713917.shtml",
+        "publishedAt": "2026-10-13T18:12:39.000+08:00"
+      },
+      {
+        "title": "全国乒乓文化巡展（桑植站）湖南开展 点燃民众乒乓运动热情",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713916.shtml",
+        "publishedAt": "2026-10-13T18:12:35.000+08:00"
+      },
+      {
+        "title": "丝路高铁直通京沪 “如意甘肃”流动文旅专列兰州首发",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713915.shtml",
+        "publishedAt": "2026-10-13T18:12:29.000+08:00"
+      },
+      {
+        "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713924.shtml",
         "publishedAt": "2026-10-13T18:02:26.000+08:00"
-      },
-      {
-        "title": "香港秋季电子产品展揭幕 未来产业馆首登场",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713920.shtml",
-        "publishedAt": "2026-10-13T17:58:42.000+08:00"
-      },
-      {
-        "title": "青海西宁：300多万粒微型薯喜获丰收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713918.shtml",
-        "publishedAt": "2026-10-13T17:57:30.000+08:00"
-      },
-      {
-        "title": "男子在悬空寺古建横梁做引体向上 景区通报：公安机关已立案",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713912.shtml",
-        "publishedAt": "2026-10-13T17:40:37.000+08:00"
-      },
-      {
-        "title": "俄罗斯、哈萨克斯坦乳业商务代表团内蒙古“取经”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713910.shtml",
-        "publishedAt": "2026-10-13T17:36:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T18:10:04.499+08:00",
+    "fetchedAt": "2026-10-13T18:20:04.341+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T18:10:09.555+08:00",
+      "fetchedAt": "2026-10-13T18:20:16.032+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T18:10:09.824+08:00",
+      "fetchedAt": "2026-10-13T18:20:16.287+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T18:10:09.833+08:00",
+      "fetchedAt": "2026-10-13T18:20:16.297+08:00",
       "error": null
     }
   }
