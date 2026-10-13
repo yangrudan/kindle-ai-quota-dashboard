@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T09:20:11.175+08:00",
+  "updatedAt": "2026-10-13T09:30:38.799+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.9,
-    "feelsLikeC": 24.7,
-    "humidity": 54,
-    "windKph": 3.2,
+    "tempC": 24.3,
+    "feelsLikeC": 25.3,
+    "humidity": 53,
+    "windKph": 3.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T09:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T09:20:11.176+08:00",
+    "observedAt": "2026-10-13T09:30:00.000+08:00",
+    "fetchedAt": "2026-10-13T09:30:38.799+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "增值税法施行后，文旅行业这些政策有变化",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713509.shtml",
-        "publishedAt": "2026-10-13T09:13:59.000+08:00"
+        "title": "中国工厂，海外游客新目的地",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713517.shtml",
+        "publishedAt": "2026-10-13T09:23:38.000+08:00"
       },
       {
-        "title": "中国石化销售股份有限公司西藏石油分公司党委书记施长春接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713506.shtml",
-        "publishedAt": "2026-10-13T09:12:43.000+08:00"
+        "title": "报告称澳大利亚医疗系统应对老龄化准备不足",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712376.shtml",
+        "publishedAt": "2026-10-13T09:19:32.000+08:00"
       },
       {
-        "title": "广西三江：梯田翻金浪 苗寨剪禾忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10712385.shtml",
-        "publishedAt": "2026-10-13T09:10:45.000+08:00"
+        "title": "这条“红飘带”，舞出壮丽新风景",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713514.shtml",
+        "publishedAt": "2026-10-13T09:17:52.000+08:00"
       },
       {
-        "title": "湖北水利发展集团党委副书记、总经理周俊接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713504.shtml",
-        "publishedAt": "2026-10-13T09:09:31.000+08:00"
+        "title": "跨境协作，“数”清东北虎豹家底",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713513.shtml",
+        "publishedAt": "2026-10-13T09:17:16.000+08:00"
       },
       {
-        "title": "“3天赚上千元” 普通人“卖脸兼职”真的可行吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713508.shtml",
-        "publishedAt": "2026-10-13T09:09:25.000+08:00"
+        "title": "首届“全球学习型城市网络研究院校园活动”在沪启幕 搭建终身学习国际对话新平台",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-13/10713510.shtml",
+        "publishedAt": "2026-10-13T09:17:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T09:20:03.925+08:00",
+    "fetchedAt": "2026-10-13T09:30:04.189+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T09:20:07.948+08:00",
+      "fetchedAt": "2026-10-13T09:30:34.434+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T14:20:09.000+08:00"
+          "resetAt": "2026-10-13T14:30:38.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-10-19T10:00:00.000+08:00"
+          "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T09:20:08.382+08:00",
+      "fetchedAt": "2026-10-13T09:30:37.660+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T09:20:08.392+08:00",
+      "fetchedAt": "2026-10-13T09:30:37.670+08:00",
       "error": null
     }
   }
