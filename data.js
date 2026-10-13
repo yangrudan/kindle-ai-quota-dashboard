@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T09:30:38.799+08:00",
+  "updatedAt": "2026-10-13T09:40:08.711+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-13T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T09:30:38.799+08:00",
+    "fetchedAt": "2026-10-13T09:40:08.711+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国工厂，海外游客新目的地",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713517.shtml",
-        "publishedAt": "2026-10-13T09:23:38.000+08:00"
+        "title": "红星照耀中国丨“红小鬼”的脚步，走过长征，走向新生",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713530.shtml",
+        "publishedAt": "2026-10-13T09:36:01.000+08:00"
       },
       {
-        "title": "报告称澳大利亚医疗系统应对老龄化准备不足",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10712376.shtml",
-        "publishedAt": "2026-10-13T09:19:32.000+08:00"
+        "title": "不用做胃肠镜 在家就能自测胃肠癌的“早筛神器”靠谱吗？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-13/10713529.shtml",
+        "publishedAt": "2026-10-13T09:35:57.000+08:00"
       },
       {
-        "title": "这条“红飘带”，舞出壮丽新风景",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713514.shtml",
-        "publishedAt": "2026-10-13T09:17:52.000+08:00"
+        "title": "10月13日央行开展650亿元7天期逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713526.shtml",
+        "publishedAt": "2026-10-13T09:33:51.000+08:00"
       },
       {
-        "title": "跨境协作，“数”清东北虎豹家底",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713513.shtml",
-        "publishedAt": "2026-10-13T09:17:16.000+08:00"
+        "title": "马斯克投入超2.76亿美元支持共和党，如何影响中期选情？",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713505.shtml",
+        "publishedAt": "2026-10-13T09:32:44.000+08:00"
       },
       {
-        "title": "首届“全球学习型城市网络研究院校园活动”在沪启幕 搭建终身学习国际对话新平台",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-13/10713510.shtml",
-        "publishedAt": "2026-10-13T09:17:10.000+08:00"
+        "title": "A股开盘：超4800只个股飘绿，三大指数集体低开",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713524.shtml",
+        "publishedAt": "2026-10-13T09:29:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T09:30:04.189+08:00",
+    "fetchedAt": "2026-10-13T09:40:03.052+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T09:30:34.434+08:00",
+      "fetchedAt": "2026-10-13T09:40:07.339+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-13T14:30:38.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-10-13T14:36:57.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T09:30:37.660+08:00",
+      "fetchedAt": "2026-10-13T09:40:07.587+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T09:30:37.670+08:00",
+      "fetchedAt": "2026-10-13T09:40:07.591+08:00",
       "error": null
     }
   }
