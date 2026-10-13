@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T21:20:07.840+08:00",
+  "updatedAt": "2026-10-13T21:30:09.936+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.3,
-    "feelsLikeC": 24.3,
+    "tempC": 22.2,
+    "feelsLikeC": 24,
     "humidity": 76,
-    "windKph": 6,
+    "windKph": 6.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T21:20:07.841+08:00",
+    "observedAt": "2026-10-13T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-13T21:30:09.936+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "俄称“能源停火”无新进展 泽连斯基称俄继续打击乌",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10714025.shtml",
+        "publishedAt": "2026-10-13T21:19:41.000+08:00"
+      },
       {
         "title": "中国车企亮相巴黎车展：积极迈向欧洲本地化之路",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714011.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "客家祖地福建宁化：秋日田野色彩斑斓",
         "url": "https://www.chinanews.com.cn/tp/2026/10-13/10714005.shtml",
         "publishedAt": "2026-10-13T21:03:52.000+08:00"
-      },
-      {
-        "title": "从“拼政策”到“拼生态” 山西探索高质量招商引资新路",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714003.shtml",
-        "publishedAt": "2026-10-13T21:02:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T21:20:03.059+08:00",
+    "fetchedAt": "2026-10-13T21:30:04.136+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T21:20:06.514+08:00",
+      "fetchedAt": "2026-10-13T21:30:08.686+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T02:20:07.000+08:00"
+          "resetAt": "2026-10-14T02:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T21:20:06.825+08:00",
+      "fetchedAt": "2026-10-13T21:30:09.070+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T21:20:06.835+08:00",
+      "fetchedAt": "2026-10-13T21:30:09.075+08:00",
       "error": null
     }
   }
