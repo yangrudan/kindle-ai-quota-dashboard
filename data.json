@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T18:20:17.159+08:00",
+  "updatedAt": "2026-10-13T18:30:12.969+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.2,
+    "tempC": 24,
     "feelsLikeC": 26.2,
-    "humidity": 67,
-    "windKph": 5.7,
-    "windDir": "东北风",
+    "humidity": 70,
+    "windKph": 5.2,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T18:20:17.160+08:00",
+    "observedAt": "2026-10-13T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-13T18:30:12.969+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "前三季度湖北郧西食用菌出口货值超4000万元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713919.shtml",
-        "publishedAt": "2026-10-13T18:12:43.000+08:00"
+        "title": "红十字国际委员会主席就中东冲突升级发表声明",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713931.shtml",
+        "publishedAt": "2026-10-13T18:25:13.000+08:00"
       },
       {
-        "title": "河北省邯郸陆港站至贵州省贵阳改貌站集装箱班列首发",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713917.shtml",
-        "publishedAt": "2026-10-13T18:12:39.000+08:00"
+        "title": "习近平同博茨瓦纳总统博科共同出席合作文件签字仪式",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713926.shtml",
+        "publishedAt": "2026-10-13T18:23:15.000+08:00"
       },
       {
-        "title": "全国乒乓文化巡展（桑植站）湖南开展 点燃民众乒乓运动热情",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713916.shtml",
-        "publishedAt": "2026-10-13T18:12:35.000+08:00"
+        "title": "2026福建民企百强发布，6家营收破千亿",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713928.shtml",
+        "publishedAt": "2026-10-13T18:22:55.000+08:00"
       },
       {
-        "title": "丝路高铁直通京沪 “如意甘肃”流动文旅专列兰州首发",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713915.shtml",
-        "publishedAt": "2026-10-13T18:12:29.000+08:00"
+        "title": "60名泰国华裔中学生厦门开启中华文化体验之旅",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-13/10713925.shtml",
+        "publishedAt": "2026-10-13T18:22:53.000+08:00"
       },
       {
-        "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713924.shtml",
-        "publishedAt": "2026-10-13T18:02:26.000+08:00"
+        "title": "（乡村行·看振兴）云端直播特色物产 内蒙古乡村被更多人看见",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713922.shtml",
+        "publishedAt": "2026-10-13T18:22:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T18:20:04.341+08:00",
+    "fetchedAt": "2026-10-13T18:30:05.778+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:16.032+08:00",
+      "fetchedAt": "2026-10-13T18:30:11.522+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T18:20:16.287+08:00",
+      "fetchedAt": "2026-10-13T18:30:11.774+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T18:20:16.297+08:00",
+      "fetchedAt": "2026-10-13T18:30:11.784+08:00",
       "error": null
     }
   }
