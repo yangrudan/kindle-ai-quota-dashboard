@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T06:50:08.471+08:00",
+  "updatedAt": "2026-10-14T07:00:07.496+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-14T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T06:50:08.471+08:00",
+    "fetchedAt": "2026-10-14T07:00:07.496+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外媒：美以领导人近日通话 讨论重启对伊战事的可能性",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714103.shtml",
+        "publishedAt": "2026-10-14T06:45:02.000+08:00"
+      },
       {
         "title": "10月14日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-14/10714102.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "马达加斯加报告4例鼠疫确诊病例和5例疑似病例",
         "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714099.shtml",
         "publishedAt": "2026-10-14T00:46:23.000+08:00"
-      },
-      {
-        "title": "刚果（金）本轮埃博拉疫情确诊病例超9000例",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714098.shtml",
-        "publishedAt": "2026-10-14T00:22:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T06:50:03.095+08:00",
+    "fetchedAt": "2026-10-14T07:00:02.756+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T06:50:07.266+08:00",
+      "fetchedAt": "2026-10-14T07:00:06.393+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T11:50:08.000+08:00"
+          "resetAt": "2026-10-14T12:00:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T06:50:07.646+08:00",
+      "fetchedAt": "2026-10-14T07:00:06.677+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T06:50:07.654+08:00",
+      "fetchedAt": "2026-10-14T07:00:06.686+08:00",
       "error": null
     }
   }
