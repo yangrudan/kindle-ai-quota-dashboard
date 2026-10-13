@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T15:40:11.663+08:00",
+  "updatedAt": "2026-10-13T15:50:10.899+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.7,
-    "feelsLikeC": 27.1,
-    "humidity": 45,
+    "tempC": 27.6,
+    "feelsLikeC": 27,
+    "humidity": 46,
     "windKph": 15.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T15:40:11.663+08:00",
+    "observedAt": "2026-10-13T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T15:50:10.899+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "龙邦海关关于发布2026年10月份“关领导接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713770.shtml",
-        "publishedAt": "2026-10-13T15:33:12.000+08:00"
+        "title": "梵高、塞尚等天价拍卖品亮相香港苏富比",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713781.shtml",
+        "publishedAt": "2026-10-13T15:49:03.000+08:00"
       },
       {
-        "title": "聚焦现代医学、电动汽车、工业城市 “自然图书”将首批出版三部专著",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713715.shtml",
-        "publishedAt": "2026-10-13T15:32:20.000+08:00"
+        "title": "全球媒体聚焦丨美媒：中国机器人产业进展惊人",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713788.shtml",
+        "publishedAt": "2026-10-13T15:48:07.000+08:00"
       },
       {
-        "title": "四川解读《美丽四川建设“十五五”规划》：聚焦建设美丽中国先行区",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713753.shtml",
-        "publishedAt": "2026-10-13T15:31:34.000+08:00"
+        "title": "日本栃木县一工厂发生火灾 现场浓烟滚滚",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-13/1207688.shtml",
+        "publishedAt": "2026-10-13T15:41:10.000+08:00"
       },
       {
-        "title": "上下楼就是上下游 合肥零碳中心构建全球领先零碳技术生态圈",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713692.shtml",
-        "publishedAt": "2026-10-13T15:30:54.000+08:00"
+        "title": "我国牵头制定的电气继电器线圈特性测试国际标准发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713774.shtml",
+        "publishedAt": "2026-10-13T15:39:50.000+08:00"
       },
       {
-        "title": "西藏青年曲艺工作者江村平措入选2026年度“时代风尚”文艺志愿者",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713691.shtml",
-        "publishedAt": "2026-10-13T15:30:28.000+08:00"
+        "title": "广西北海海警局5天连续查获4起走私案件 案值约500万元",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713704.shtml",
+        "publishedAt": "2026-10-13T15:39:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T15:40:05.583+08:00",
+    "fetchedAt": "2026-10-13T15:50:03.456+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T15:40:10.469+08:00",
+      "fetchedAt": "2026-10-13T15:50:09.579+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
+          "usedPct": 14,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T15:40:10.719+08:00",
+      "fetchedAt": "2026-10-13T15:50:09.902+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 22.48,
+      "balance": 22.46,
       "currency": "CNY",
-      "detail": "余额 ¥22.48",
-      "fetchedAt": "2026-10-13T15:40:10.729+08:00",
+      "detail": "余额 ¥22.46",
+      "fetchedAt": "2026-10-13T15:50:09.911+08:00",
       "error": null
     }
   }
