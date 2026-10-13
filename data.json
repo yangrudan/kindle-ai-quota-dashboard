@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T20:10:08.090+08:00",
+  "updatedAt": "2026-10-13T20:20:17.058+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23,
-    "feelsLikeC": 25.6,
+    "tempC": 22.8,
+    "feelsLikeC": 25.4,
     "humidity": 77,
     "windKph": 4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T20:10:08.090+08:00",
+    "observedAt": "2026-10-13T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T20:20:17.059+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平会见多哥部长会议主席福雷",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713989.shtml",
+        "publishedAt": "2026-10-13T20:16:12.000+08:00"
+      },
+      {
+        "title": "习近平同博茨瓦纳总统博科会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713986.shtml",
+        "publishedAt": "2026-10-13T20:16:01.000+08:00"
+      },
+      {
+        "title": "IPO涉嫌被人为操纵，茶百道被港交所停牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713974.shtml",
+        "publishedAt": "2026-10-13T20:06:07.000+08:00"
+      },
       {
         "title": "打击“公考围岗”，国考报名需要实名实人认证",
         "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713975.shtml",
@@ -28,24 +43,9 @@
         "title": "浙江“四无婚礼”火了！新娘父亲：想过大办一场，但尊重年轻人想法",
         "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713971.shtml",
         "publishedAt": "2026-10-13T19:51:50.000+08:00"
-      },
-      {
-        "title": "打破“一刀切” 重庆专家全国首创血透导管继发血栓“分类诊疗”方案",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713966.shtml",
-        "publishedAt": "2026-10-13T19:49:40.000+08:00"
-      },
-      {
-        "title": "“中国第一龙乡”嘉荫赏秋正当时 游客打卡中俄边境风情",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713964.shtml",
-        "publishedAt": "2026-10-13T19:49:30.000+08:00"
-      },
-      {
-        "title": "观“一塔湖图”、读“行胜于言” 西藏青少年访北京高校",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713963.shtml",
-        "publishedAt": "2026-10-13T19:49:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T20:10:02.720+08:00",
+    "fetchedAt": "2026-10-13T20:20:03.210+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T20:10:06.357+08:00",
+      "fetchedAt": "2026-10-13T20:20:14.583+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T01:10:07.000+08:00"
+          "resetAt": "2026-10-14T01:20:16.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T20:10:06.613+08:00",
+      "fetchedAt": "2026-10-13T20:20:14.840+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T20:10:06.622+08:00",
+      "fetchedAt": "2026-10-13T20:20:14.849+08:00",
       "error": null
     }
   }
