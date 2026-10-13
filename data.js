@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T13:10:09.538+08:00",
+  "updatedAt": "2026-10-13T13:20:10.175+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28,
-    "feelsLikeC": 28.9,
-    "humidity": 44,
-    "windKph": 10.6,
+    "tempC": 28.2,
+    "feelsLikeC": 28.7,
+    "humidity": 43,
+    "windKph": 11.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T13:10:09.538+08:00",
+    "observedAt": "2026-10-13T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T13:20:10.176+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "自然资源部印发《盘活存量土地和低效用地典型案例2026版》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713621.shtml",
+        "publishedAt": "2026-10-13T13:11:10.000+08:00"
+      },
+      {
+        "title": "茶酒和鸣话相知——多国驻华使节在宁夏共品丝路文明交融之味",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713627.shtml",
+        "publishedAt": "2026-10-13T13:10:14.000+08:00"
+      },
+      {
+        "title": "秋后蚊子来袭！预防“两热” 赶快消灭幼虫藏身地→",
+        "url": "https://www.chinanews.com.cn/life/2026/10-13/10713634.shtml",
+        "publishedAt": "2026-10-13T13:04:42.000+08:00"
+      },
       {
         "title": "（走进中国乡村）“中国枸杞之乡”：青年解锁“新农事”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713631.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "第140届广交会在即 白云机场口岸日均客流量将达约5.8万人次",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713632.shtml",
         "publishedAt": "2026-10-13T12:56:24.000+08:00"
-      },
-      {
-        "title": "魏怀仁、陈大卫、廖景芳被判死刑！缅北魏家犯罪集团案一审宣判",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713630.shtml",
-        "publishedAt": "2026-10-13T12:46:15.000+08:00"
-      },
-      {
-        "title": "1至8月中国支持卫生和健康事业发展减税降费2454亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713626.shtml",
-        "publishedAt": "2026-10-13T12:42:59.000+08:00"
-      },
-      {
-        "title": "超强厄尔尼诺来袭，山洪避险别大意！记住这些逃生技巧",
-        "url": "https://www.chinanews.com.cn/life/2026/10-13/10713628.shtml",
-        "publishedAt": "2026-10-13T12:41:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T13:10:04.148+08:00",
+    "fetchedAt": "2026-10-13T13:20:04.063+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T13:10:08.225+08:00",
+      "fetchedAt": "2026-10-13T13:20:08.894+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-13T18:10:09.000+08:00"
+          "resetAt": "2026-10-13T18:20:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-20T13:10:09.000+08:00"
+          "resetAt": "2026-10-20T13:20:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T13:10:08.501+08:00",
+      "fetchedAt": "2026-10-13T13:20:09.172+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T13:10:08.511+08:00",
+      "fetchedAt": "2026-10-13T13:20:09.180+08:00",
       "error": null
     }
   }
