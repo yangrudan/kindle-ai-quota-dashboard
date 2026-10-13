@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T22:40:38.149+08:00",
+  "updatedAt": "2026-10-13T22:50:38.415+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 21.9,
-    "feelsLikeC": 23,
+    "feelsLikeC": 22.9,
     "humidity": 75,
-    "windKph": 9.9,
+    "windKph": 10.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T22:40:38.149+08:00",
+    "observedAt": "2026-10-13T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T22:50:38.415+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "海河流域AI短临预报模型在天津发布 每6分钟更新未来3小时预报",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714079.shtml",
+        "publishedAt": "2026-10-13T22:48:56.000+08:00"
+      },
+      {
+        "title": "雄安新区首单“保税+TIR”业务启运",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714074.shtml",
+        "publishedAt": "2026-10-13T22:45:34.000+08:00"
+      },
+      {
+        "title": "京津冀首趟“一单制”国际铁公联运班列石家庄首发",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714073.shtml",
+        "publishedAt": "2026-10-13T22:42:13.000+08:00"
+      },
+      {
+        "title": "多国议员参访天津：老厂房里听岁月 古街巷中见生活",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714071.shtml",
+        "publishedAt": "2026-10-13T22:40:25.000+08:00"
+      },
+      {
         "title": "海外华文媒体齐聚贵州 以侨为桥向世界讲好多彩贵州故事",
         "url": "https://www.chinanews.com.cn/hr/2026/10-13/10714070.shtml",
         "publishedAt": "2026-10-13T22:36:51.000+08:00"
-      },
-      {
-        "title": "中越班列累计发送货物超11万标箱",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10714085.shtml",
-        "publishedAt": "2026-10-13T22:34:37.000+08:00"
-      },
-      {
-        "title": "香港海洋公园50周年将推新场馆 大熊猫新家明年第三季度迎客",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10714068.shtml",
-        "publishedAt": "2026-10-13T22:33:41.000+08:00"
-      },
-      {
-        "title": "2026年全国中南区射击锦标赛（步手枪项目）在广州收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-13/10714067.shtml",
-        "publishedAt": "2026-10-13T22:31:25.000+08:00"
-      },
-      {
-        "title": "多国议员天津行：民声直达立法 技能联通世界",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714066.shtml",
-        "publishedAt": "2026-10-13T22:30:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T22:40:03.123+08:00",
+    "fetchedAt": "2026-10-13T22:50:03.264+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T22:40:36.788+08:00",
+      "fetchedAt": "2026-10-13T22:50:36.993+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T03:40:37.000+08:00"
+          "resetAt": "2026-10-14T03:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T22:40:37.169+08:00",
+      "fetchedAt": "2026-10-13T22:50:37.256+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T22:40:37.172+08:00",
+      "fetchedAt": "2026-10-13T22:50:37.265+08:00",
       "error": null
     }
   }
