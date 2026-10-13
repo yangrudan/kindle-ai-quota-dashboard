@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T17:10:08.709+08:00",
+  "updatedAt": "2026-10-13T17:20:11.523+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.2,
+    "tempC": 25.8,
     "feelsLikeC": 26.4,
-    "humidity": 53,
-    "windKph": 11.4,
+    "humidity": 55,
+    "windKph": 10.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T17:10:08.710+08:00",
+    "observedAt": "2026-10-13T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T17:20:11.523+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "直面气候变化新挑战 四川采取措施“扛”住极端天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713872.shtml",
-        "publishedAt": "2026-10-13T17:03:05.000+08:00"
+        "title": "“十四五”以来南水北调中线水源地累计调水超800亿立方米",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713851.shtml",
+        "publishedAt": "2026-10-13T17:14:26.000+08:00"
       },
       {
-        "title": "中国专家团队驰援乌兹别克斯坦 成功实施该国首例微创活体肝移植",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713887.shtml",
-        "publishedAt": "2026-10-13T17:02:33.000+08:00"
+        "title": "四川什邡：应急安全文化一条街开放 市民散步休闲即可学应急",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713854.shtml",
+        "publishedAt": "2026-10-13T17:13:04.000+08:00"
       },
       {
-        "title": "直播海报：长征路上学党史｜走进陕北 探访燎原星火",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713894.shtml",
-        "publishedAt": "2026-10-13T17:01:41.000+08:00"
+        "title": "江苏扬州口岸新船出口达100艘 “隆福”轮鸣笛首航",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713855.shtml",
+        "publishedAt": "2026-10-13T17:12:16.000+08:00"
       },
       {
-        "title": "官方科普“地震预警”：不是“给所有人发同一条消息”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713878.shtml",
-        "publishedAt": "2026-10-13T17:01:27.000+08:00"
+        "title": "（乡村行·看振兴）科尔沁草原做活“牛文章” 串起百亿产业链",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713856.shtml",
+        "publishedAt": "2026-10-13T17:11:35.000+08:00"
       },
       {
-        "title": "叫声像摇滚现场、尿味像爆米花的东北虎，一生只做三件事",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713821.shtml",
-        "publishedAt": "2026-10-13T17:01:23.000+08:00"
+        "title": "临沂市打造“四共四有”新模式 汇聚统战力量赋能乡村振兴",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713859.shtml",
+        "publishedAt": "2026-10-13T17:09:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T17:10:03.576+08:00",
+    "fetchedAt": "2026-10-13T17:20:03.472+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T17:10:07.519+08:00",
+      "fetchedAt": "2026-10-13T17:20:09.798+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 54,
+          "usedPct": 68,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
+          "usedPct": 11,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T17:10:07.837+08:00",
+      "fetchedAt": "2026-10-13T17:20:10.123+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T17:10:07.847+08:00",
+      "fetchedAt": "2026-10-13T17:20:10.128+08:00",
       "error": null
     }
   }
