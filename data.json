@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T09:40:08.711+08:00",
+  "updatedAt": "2026-10-13T09:50:08.319+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.3,
-    "feelsLikeC": 25.3,
-    "humidity": 53,
-    "windKph": 3.6,
+    "tempC": 24.7,
+    "feelsLikeC": 25.8,
+    "humidity": 52,
+    "windKph": 4.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T09:40:08.711+08:00",
+    "observedAt": "2026-10-13T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T09:50:08.319+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "红星照耀中国丨“红小鬼”的脚步，走过长征，走向新生",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713530.shtml",
-        "publishedAt": "2026-10-13T09:36:01.000+08:00"
+        "title": "“让跨越太平洋的友谊生生不息”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713540.shtml",
+        "publishedAt": "2026-10-13T09:45:35.000+08:00"
       },
       {
-        "title": "不用做胃肠镜 在家就能自测胃肠癌的“早筛神器”靠谱吗？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-13/10713529.shtml",
-        "publishedAt": "2026-10-13T09:35:57.000+08:00"
+        "title": "从“难约到车”到“有标可依” 出租汽车无障碍运营服务有了国家标准",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713539.shtml",
+        "publishedAt": "2026-10-13T09:44:33.000+08:00"
       },
       {
-        "title": "10月13日央行开展650亿元7天期逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713526.shtml",
-        "publishedAt": "2026-10-13T09:33:51.000+08:00"
+        "title": "CBA新赛季常规赛恢复46轮 执行升降级制度",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713538.shtml",
+        "publishedAt": "2026-10-13T09:44:07.000+08:00"
       },
       {
-        "title": "马斯克投入超2.76亿美元支持共和党，如何影响中期选情？",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713505.shtml",
-        "publishedAt": "2026-10-13T09:32:44.000+08:00"
+        "title": "学者谈人工智能普惠发展：全球南方不能只做原材料供应者",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713525.shtml",
+        "publishedAt": "2026-10-13T09:43:05.000+08:00"
       },
       {
-        "title": "A股开盘：超4800只个股飘绿，三大指数集体低开",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713524.shtml",
-        "publishedAt": "2026-10-13T09:29:36.000+08:00"
+        "title": "“长城－2026”反恐国际论坛今日在北京举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713537.shtml",
+        "publishedAt": "2026-10-13T09:40:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T09:40:03.052+08:00",
+    "fetchedAt": "2026-10-13T09:50:03.238+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T09:40:07.339+08:00",
+      "fetchedAt": "2026-10-13T09:50:07.175+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T09:40:07.587+08:00",
+      "fetchedAt": "2026-10-13T09:50:07.415+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T09:40:07.591+08:00",
+      "fetchedAt": "2026-10-13T09:50:07.426+08:00",
       "error": null
     }
   }
