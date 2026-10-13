@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T07:40:08.542+08:00",
+  "updatedAt": "2026-10-14T07:50:08.391+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.5,
-    "feelsLikeC": 20.6,
-    "humidity": 81,
-    "windKph": 6.4,
+    "tempC": 19.9,
+    "feelsLikeC": 20.9,
+    "humidity": 78,
+    "windKph": 6.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T07:40:08.543+08:00",
+    "observedAt": "2026-10-14T07:45:00.000+08:00",
+    "fetchedAt": "2026-10-14T07:50:08.391+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "别让“搭子”沦为灰色交易的幌子",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714108.shtml",
+        "publishedAt": "2026-10-14T07:42:21.000+08:00"
+      },
+      {
+        "title": "碳水节、烧烤节席卷各地，“舌尖上”的节日如何越做越红火？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714107.shtml",
+        "publishedAt": "2026-10-14T07:38:57.000+08:00"
+      },
+      {
+        "title": "今起报名！2027国考有这些新变化→",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714106.shtml",
+        "publishedAt": "2026-10-14T07:34:11.000+08:00"
+      },
       {
         "title": "俄外交部：日本利用驻俄记者搜集情报 呼吁日方放弃敌对行动",
         "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714105.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "海军辽宁舰航母编队赴西太平洋相关海域开展训练",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714104.shtml",
         "publishedAt": "2026-10-14T07:10:37.000+08:00"
-      },
-      {
-        "title": "外媒：美以领导人近日通话 讨论重启对伊战事的可能性",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714103.shtml",
-        "publishedAt": "2026-10-14T06:45:02.000+08:00"
-      },
-      {
-        "title": "10月14日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-14/10714102.shtml",
-        "publishedAt": "2026-10-14T06:34:36.000+08:00"
-      },
-      {
-        "title": "美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714101.shtml",
-        "publishedAt": "2026-10-14T05:57:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T07:40:03.499+08:00",
+    "fetchedAt": "2026-10-14T07:50:03.036+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T07:40:07.461+08:00",
+      "fetchedAt": "2026-10-14T07:50:07.083+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T12:40:08.000+08:00"
+          "resetAt": "2026-10-14T12:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T07:40:07.717+08:00",
+      "fetchedAt": "2026-10-14T07:50:07.426+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T07:40:07.723+08:00",
+      "fetchedAt": "2026-10-14T07:50:07.435+08:00",
       "error": null
     }
   }
