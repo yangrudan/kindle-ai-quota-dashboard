@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T14:50:18.898+08:00",
+  "updatedAt": "2026-10-13T15:00:39.311+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T14:50:18.898+08:00",
+    "fetchedAt": "2026-10-13T15:00:39.311+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "今年前三季度烟台港中非件杂货班轮航线运量突破800万吨",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713680.shtml",
+        "publishedAt": "2026-10-13T14:52:00.000+08:00"
+      },
+      {
+        "title": "科技互联网行业成广州办公楼新增租赁需求核心引擎",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713667.shtml",
+        "publishedAt": "2026-10-13T14:49:12.000+08:00"
+      },
       {
         "title": "湖南湘江新区AI短剧出海观察：全链条协同发力",
         "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713666.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "陕西省秋粮收获进程过半",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713660.shtml",
         "publishedAt": "2026-10-13T14:46:48.000+08:00"
-      },
-      {
-        "title": "（粤港澳大湾区）横琴口岸累计监管进出境车辆突破1000万辆次",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10713659.shtml",
-        "publishedAt": "2026-10-13T14:45:07.000+08:00"
-      },
-      {
-        "title": "一图读懂《内河新能源船舶推广应用行动方案(2026—2030年)》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713717.shtml",
-        "publishedAt": "2026-10-13T14:44:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T14:50:12.337+08:00",
+    "fetchedAt": "2026-10-13T15:00:03.154+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T14:50:17.378+08:00",
+      "fetchedAt": "2026-10-13T15:00:38.116+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 7,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T14:50:17.829+08:00",
+      "fetchedAt": "2026-10-13T15:00:38.377+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T14:50:17.838+08:00",
+      "fetchedAt": "2026-10-13T15:00:38.386+08:00",
       "error": null
     }
   }
