@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T10:20:10.469+08:00",
+  "updatedAt": "2026-10-13T10:30:39.263+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.4,
-    "feelsLikeC": 26.7,
+    "tempC": 25.7,
+    "feelsLikeC": 27.2,
     "humidity": 50,
-    "windKph": 5.6,
+    "windKph": 6.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T10:20:10.470+08:00",
+    "observedAt": "2026-10-13T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-13T10:30:39.263+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第十六届中国航展将于12月7日至13日举办 展览规模再创新高",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713562.shtml",
-        "publishedAt": "2026-10-13T10:11:31.000+08:00"
+        "title": "柴达木盆地万亩青稞种植基地迎秋收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713548.shtml",
+        "publishedAt": "2026-10-13T10:19:43.000+08:00"
       },
       {
-        "title": "“中国式现代化的万千气象”网络名人辽宁行活动在沈阳启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713556.shtml",
-        "publishedAt": "2026-10-13T10:10:37.000+08:00"
+        "title": "湖北襄阳古城焕新“出圈” 一展古韵新姿",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713550.shtml",
+        "publishedAt": "2026-10-13T10:18:59.000+08:00"
       },
       {
-        "title": "中国航展参展装备超3000件 约10%为“首展”“首秀”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713560.shtml",
-        "publishedAt": "2026-10-13T10:10:12.000+08:00"
+        "title": "长春：老净水厂蝶变生态园 秋日尽览工业遗韵",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713553.shtml",
+        "publishedAt": "2026-10-13T10:17:59.000+08:00"
       },
       {
-        "title": "中新网评：“不烧心”火了，别让“良心”凉了",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713536.shtml",
-        "publishedAt": "2026-10-13T10:06:40.000+08:00"
+        "title": "秋冬交替气温走低 心梗、脑梗背后常藏着同一个“元凶”→",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-13/10713567.shtml",
+        "publishedAt": "2026-10-13T10:17:03.000+08:00"
       },
       {
-        "title": "新华社快讯：IMF上调2026年世界经济增长预期至3.1%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713557.shtml",
-        "publishedAt": "2026-10-13T10:06:12.000+08:00"
+        "title": "地面战斗白热化，胡塞武装围困上万也门政府军",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713559.shtml",
+        "publishedAt": "2026-10-13T10:14:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T10:20:03.351+08:00",
+    "fetchedAt": "2026-10-13T10:30:03.625+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T10:20:08.083+08:00",
+      "fetchedAt": "2026-10-13T10:30:37.954+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T10:20:08.336+08:00",
+      "fetchedAt": "2026-10-13T10:30:38.207+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T10:20:08.346+08:00",
+      "fetchedAt": "2026-10-13T10:30:38.217+08:00",
       "error": null
     }
   }
