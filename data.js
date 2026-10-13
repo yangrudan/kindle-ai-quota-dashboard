@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T19:10:09.096+08:00",
+  "updatedAt": "2026-10-13T19:20:34.348+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.6,
+    "tempC": 23.4,
     "feelsLikeC": 26,
-    "humidity": 74,
-    "windKph": 4.6,
+    "humidity": 75,
+    "windKph": 4.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T19:10:09.097+08:00",
+    "observedAt": "2026-10-13T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T19:20:34.348+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国广东省围棋协会与哈萨克斯坦围棋协会建立常态化双边合作机制",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713932.shtml",
+        "publishedAt": "2026-10-13T19:15:20.000+08:00"
+      },
+      {
+        "title": "洛阳牡丹、信阳毛尖上榜 农业文化遗产如何活态传承？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713930.shtml",
+        "publishedAt": "2026-10-13T19:12:50.000+08:00"
+      },
       {
         "title": "重庆市原市长黄奇帆被查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713940.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "红十字国际委员会主席就中东冲突升级发表声明",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713931.shtml",
         "publishedAt": "2026-10-13T18:25:13.000+08:00"
-      },
-      {
-        "title": "习近平同博茨瓦纳总统博科共同出席合作文件签字仪式",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713926.shtml",
-        "publishedAt": "2026-10-13T18:23:15.000+08:00"
-      },
-      {
-        "title": "2026福建民企百强发布，6家营收破千亿",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713928.shtml",
-        "publishedAt": "2026-10-13T18:22:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T19:10:03.271+08:00",
+    "fetchedAt": "2026-10-13T19:20:04.212+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T19:10:07.950+08:00",
+      "fetchedAt": "2026-10-13T19:20:32.909+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T00:10:08.000+08:00"
+          "resetAt": "2026-10-14T00:20:33.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T19:10:08.210+08:00",
+      "fetchedAt": "2026-10-13T19:20:33.168+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T19:10:08.220+08:00",
+      "fetchedAt": "2026-10-13T19:20:33.172+08:00",
       "error": null
     }
   }
