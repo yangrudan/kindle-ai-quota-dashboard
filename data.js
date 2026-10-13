@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T12:40:09.796+08:00",
+  "updatedAt": "2026-10-13T12:50:09.894+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.6,
-    "feelsLikeC": 29.1,
-    "humidity": 47,
-    "windKph": 9.6,
+    "tempC": 27.8,
+    "feelsLikeC": 29,
+    "humidity": 45,
+    "windKph": 10,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T12:40:09.796+08:00",
+    "observedAt": "2026-10-13T12:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T12:50:09.894+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "1至8月中国支持卫生和健康事业发展减税降费2454亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713626.shtml",
+        "publishedAt": "2026-10-13T12:42:59.000+08:00"
+      },
+      {
+        "title": "超强厄尔尼诺来袭，山洪避险务必知晓",
+        "url": "https://www.chinanews.com.cn/life/2026/10-13/10713628.shtml",
+        "publishedAt": "2026-10-13T12:41:45.000+08:00"
+      },
       {
         "title": "农业农村部设立我国首个布氏鲸重要栖息地",
         "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713624.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "长征路上学党史｜瞰会宁城下 忆三军会师",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-13/10713623.shtml",
         "publishedAt": "2026-10-13T12:06:37.000+08:00"
-      },
-      {
-        "title": "本地来电成诈骗“帮凶” 民警演示远程控机完整流程→",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713622.shtml",
-        "publishedAt": "2026-10-13T12:05:43.000+08:00"
-      },
-      {
-        "title": "中铁十局巴西阿拉拉夸拉厂房改造项目顺利竣工交付",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713613.shtml",
-        "publishedAt": "2026-10-13T11:59:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T12:40:04.439+08:00",
+    "fetchedAt": "2026-10-13T12:50:03.049+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T12:40:08.658+08:00",
+      "fetchedAt": "2026-10-13T12:50:08.671+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T12:40:08.962+08:00",
+      "fetchedAt": "2026-10-13T12:50:09.055+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T12:40:08.965+08:00",
+      "fetchedAt": "2026-10-13T12:50:09.060+08:00",
       "error": null
     }
   }
