@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T16:40:32.848+08:00",
+  "updatedAt": "2026-10-13T16:50:08.139+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.8,
-    "feelsLikeC": 26.7,
-    "humidity": 49,
-    "windKph": 13.3,
+    "tempC": 26.5,
+    "feelsLikeC": 26.6,
+    "humidity": 51,
+    "windKph": 12.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T16:40:32.848+08:00",
+    "observedAt": "2026-10-13T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T16:50:08.140+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "王毅会见阿联酋总统中国事务特使哈勒敦",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713819.shtml",
-        "publishedAt": "2026-10-13T16:36:58.000+08:00"
+        "title": "一架美国飞以色列客机接到匿名炸弹威胁",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713853.shtml",
+        "publishedAt": "2026-10-13T16:47:20.000+08:00"
       },
       {
-        "title": "东西问丨埃塞前总统穆拉图·特肖梅：“中国的环境某种程度上塑造了我”",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-13/10713810.shtml",
-        "publishedAt": "2026-10-13T16:36:34.000+08:00"
+        "title": "检察机关依法分别对廖正伟、江海、马忠华、雷楚英提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713863.shtml",
+        "publishedAt": "2026-10-13T16:46:22.000+08:00"
       },
       {
-        "title": "2026年全国农产品产销大会（北部片区）落地山东",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713783.shtml",
-        "publishedAt": "2026-10-13T16:36:28.000+08:00"
+        "title": "广西发布中英文版《甘蔗无人机作业气象保障服务规范》团体标准",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713752.shtml",
+        "publishedAt": "2026-10-13T16:46:16.000+08:00"
       },
       {
-        "title": "联合国官员：古灵渠运河展示前辈管理水方面的非凡智慧",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713784.shtml",
-        "publishedAt": "2026-10-13T16:35:42.000+08:00"
+        "title": "凭《生万物》《海天雄鹰》获飞天奖，导演刘家成：创作要回归土地",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713777.shtml",
+        "publishedAt": "2026-10-13T16:46:10.000+08:00"
       },
       {
-        "title": "从窗口到数据端 辽宁政务多岗位精英阜新同台竞技",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713786.shtml",
-        "publishedAt": "2026-10-13T16:33:31.000+08:00"
+        "title": "万台级人形力控臂在山东邹城成功交付 国产具身智能迎来规模化突破",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713749.shtml",
+        "publishedAt": "2026-10-13T16:44:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T16:40:12.411+08:00",
+    "fetchedAt": "2026-10-13T16:50:02.561+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T16:40:27.316+08:00",
+      "fetchedAt": "2026-10-13T16:50:06.443+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 42,
+          "usedPct": 44,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 6,
+          "usedPct": 7,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T16:40:27.635+08:00",
+      "fetchedAt": "2026-10-13T16:50:06.787+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T16:40:27.638+08:00",
+      "fetchedAt": "2026-10-13T16:50:06.797+08:00",
       "error": null
     }
   }
