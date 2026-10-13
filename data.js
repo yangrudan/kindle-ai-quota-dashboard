@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T15:50:10.899+08:00",
+  "updatedAt": "2026-10-13T16:00:39.492+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.6,
-    "feelsLikeC": 27,
-    "humidity": 46,
-    "windKph": 15.1,
+    "tempC": 27.4,
+    "feelsLikeC": 26.9,
+    "humidity": 47,
+    "windKph": 14.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-13T15:50:10.899+08:00",
+    "observedAt": "2026-10-13T16:00:00.000+08:00",
+    "fetchedAt": "2026-10-13T16:00:39.492+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "山西持续扩大农机化覆盖范围 力争“十五五”末农作物耕种收综合机械化率达到80%以上",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713737.shtml",
+        "publishedAt": "2026-10-13T15:54:45.000+08:00"
+      },
+      {
+        "title": "雅思主办方回应：受影响考生增设两天免费专场考试",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713801.shtml",
+        "publishedAt": "2026-10-13T15:54:39.000+08:00"
+      },
+      {
+        "title": "来自10余个国家的90余名外国嘉宾齐聚洛阳，聊了啥？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713796.shtml",
+        "publishedAt": "2026-10-13T15:51:01.000+08:00"
+      },
       {
         "title": "梵高、塞尚等天价拍卖品亮相香港苏富比",
         "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713781.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "全球媒体聚焦丨美媒：中国机器人产业进展惊人",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713788.shtml",
         "publishedAt": "2026-10-13T15:48:07.000+08:00"
-      },
-      {
-        "title": "日本栃木县一工厂发生火灾 现场浓烟滚滚",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-13/1207688.shtml",
-        "publishedAt": "2026-10-13T15:41:10.000+08:00"
-      },
-      {
-        "title": "我国牵头制定的电气继电器线圈特性测试国际标准发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713774.shtml",
-        "publishedAt": "2026-10-13T15:39:50.000+08:00"
-      },
-      {
-        "title": "广西北海海警局5天连续查获4起走私案件 案值约500万元",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713704.shtml",
-        "publishedAt": "2026-10-13T15:39:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T15:50:03.456+08:00",
+    "fetchedAt": "2026-10-13T16:00:03.938+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T15:50:09.579+08:00",
+      "fetchedAt": "2026-10-13T16:00:38.383+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 14,
+          "usedPct": 19,
           "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T15:50:09.902+08:00",
+      "fetchedAt": "2026-10-13T16:00:38.620+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 22.46,
+      "balance": 22.44,
       "currency": "CNY",
-      "detail": "余额 ¥22.46",
-      "fetchedAt": "2026-10-13T15:50:09.911+08:00",
+      "detail": "余额 ¥22.44",
+      "fetchedAt": "2026-10-13T16:00:38.631+08:00",
       "error": null
     }
   }
