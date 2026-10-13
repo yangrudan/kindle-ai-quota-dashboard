@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T13:40:08.742+08:00",
+  "updatedAt": "2026-10-13T13:50:08.369+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.3,
-    "feelsLikeC": 28.5,
+    "tempC": 28.4,
+    "feelsLikeC": 28.2,
     "humidity": 41,
-    "windKph": 12.2,
+    "windKph": 13,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T13:40:08.742+08:00",
+    "observedAt": "2026-10-13T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T13:50:08.369+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026年U15女子垒球亚洲杯在山东威海开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713641.shtml",
+        "publishedAt": "2026-10-13T13:42:42.000+08:00"
+      },
+      {
+        "title": "受大风天气影响 新疆部分旅客列车停运",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713654.shtml",
+        "publishedAt": "2026-10-13T13:41:46.000+08:00"
+      },
+      {
+        "title": "海南新增四处中国重要农业文化遗产",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713640.shtml",
+        "publishedAt": "2026-10-13T13:40:20.000+08:00"
+      },
+      {
+        "title": "“新艺中国·数艺无界”文化和科技融合新质生产力大会在长沙举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713639.shtml",
+        "publishedAt": "2026-10-13T13:34:30.000+08:00"
+      },
+      {
         "title": "人这一辈子，一定要去一趟长征集结出发地！",
         "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713647.shtml",
         "publishedAt": "2026-10-13T13:31:45.000+08:00"
-      },
-      {
-        "title": "共话基层治理 同叙桑梓情深｜香港天津社团总会返津参访团来津",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-13/10713635.shtml",
-        "publishedAt": "2026-10-13T13:13:58.000+08:00"
-      },
-      {
-        "title": "消费订单回暖 9月份中国电商物流指数小幅上行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713637.shtml",
-        "publishedAt": "2026-10-13T13:13:26.000+08:00"
-      },
-      {
-        "title": "自然资源部印发《盘活存量土地和低效用地典型案例2026版》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713621.shtml",
-        "publishedAt": "2026-10-13T13:11:10.000+08:00"
-      },
-      {
-        "title": "魏怀仁、陈大卫、廖景芳被判死刑，缅北魏家犯罪集团案一审宣判",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713636.shtml",
-        "publishedAt": "2026-10-13T13:10:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T13:40:02.866+08:00",
+    "fetchedAt": "2026-10-13T13:50:03.225+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T13:40:07.564+08:00",
+      "fetchedAt": "2026-10-13T13:50:07.220+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-13T18:40:08.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-10-13T18:44:34.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-20T13:40:08.000+08:00"
+          "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T13:40:07.832+08:00",
+      "fetchedAt": "2026-10-13T13:50:07.500+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T13:40:07.841+08:00",
+      "fetchedAt": "2026-10-13T13:50:07.510+08:00",
       "error": null
     }
   }
