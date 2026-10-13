@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T19:30:17.095+08:00",
+  "updatedAt": "2026-10-13T19:40:38.939+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.4,
-    "feelsLikeC": 26,
-    "humidity": 75,
-    "windKph": 4.1,
+    "tempC": 23.3,
+    "feelsLikeC": 25.9,
+    "humidity": 76,
+    "windKph": 4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-13T19:30:17.095+08:00",
+    "observedAt": "2026-10-13T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-13T19:40:38.939+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "河南睢县：菊花采摘正当时",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713967.shtml",
+        "publishedAt": "2026-10-13T19:35:11.000+08:00"
+      },
+      {
+        "title": "秋日砺兵 直击广西河池武警官兵实弹射击训练现场",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713952.shtml",
+        "publishedAt": "2026-10-13T19:32:25.000+08:00"
+      },
+      {
+        "title": "首列“京铁燕赵班列·助汇冀黔号”开行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10713949.shtml",
+        "publishedAt": "2026-10-13T19:31:31.000+08:00"
+      },
       {
         "title": "空军多型主战装备首次亮相、海军现役装备大规模展出……一文梳理本届中国航展看点！",
         "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713959.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中联部部长刘海星会见德国驻华大使安凯明",
         "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713937.shtml",
         "publishedAt": "2026-10-13T19:21:55.000+08:00"
-      },
-      {
-        "title": "习言道｜不断提高人民健康水平",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713941.shtml",
-        "publishedAt": "2026-10-13T19:21:21.000+08:00"
-      },
-      {
-        "title": "台湾教师高龄化 舆论忧影响学校运作及教育质量",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713936.shtml",
-        "publishedAt": "2026-10-13T19:17:34.000+08:00"
-      },
-      {
-        "title": "中国广东省围棋协会与哈萨克斯坦围棋协会建立常态化双边合作机制",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713932.shtml",
-        "publishedAt": "2026-10-13T19:15:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T19:30:12.611+08:00",
+    "fetchedAt": "2026-10-13T19:40:02.753+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T19:30:16.005+08:00",
+      "fetchedAt": "2026-10-13T19:40:36.404+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T00:30:17.000+08:00"
+          "resetAt": "2026-10-14T00:40:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T19:30:16.270+08:00",
+      "fetchedAt": "2026-10-13T19:40:36.667+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T19:30:16.278+08:00",
+      "fetchedAt": "2026-10-13T19:40:36.676+08:00",
       "error": null
     }
   }
