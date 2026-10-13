@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T13:50:08.369+08:00",
+  "updatedAt": "2026-10-13T14:00:18.519+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-13T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-13T13:50:08.369+08:00",
+    "fetchedAt": "2026-10-13T14:00:18.519+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年U15女子垒球亚洲杯在山东威海开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-13/10713641.shtml",
-        "publishedAt": "2026-10-13T13:42:42.000+08:00"
+        "title": "中缅泰老青年相聚侨乡保山 讲述“我们共同的故事”",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713645.shtml",
+        "publishedAt": "2026-10-13T13:55:35.000+08:00"
       },
       {
-        "title": "受大风天气影响 新疆部分旅客列车停运",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713654.shtml",
-        "publishedAt": "2026-10-13T13:41:46.000+08:00"
+        "title": "海口海关2026年“两新”实验室仪器设备更新项目（分散采购部分）（二次招标）招标公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713664.shtml",
+        "publishedAt": "2026-10-13T13:53:25.000+08:00"
       },
       {
-        "title": "海南新增四处中国重要农业文化遗产",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713640.shtml",
-        "publishedAt": "2026-10-13T13:40:20.000+08:00"
+        "title": "（乡村行·看振兴）青年蹲点“浙中蜜蜂村”：大山里的“青春必修课”",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-13/10713644.shtml",
+        "publishedAt": "2026-10-13T13:52:21.000+08:00"
       },
       {
-        "title": "“新艺中国·数艺无界”文化和科技融合新质生产力大会在长沙举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713639.shtml",
-        "publishedAt": "2026-10-13T13:34:30.000+08:00"
+        "title": "海口美兰机场海关2026年协管员制服项目成交公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713662.shtml",
+        "publishedAt": "2026-10-13T13:51:43.000+08:00"
       },
       {
-        "title": "人这一辈子，一定要去一趟长征集结出发地！",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713647.shtml",
-        "publishedAt": "2026-10-13T13:31:45.000+08:00"
+        "title": "六盘山风味邂逅贺兰山佳酿 固原风物亮相中国（宁夏）国际葡萄酒文旅博览会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713643.shtml",
+        "publishedAt": "2026-10-13T13:51:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T13:50:03.225+08:00",
+    "fetchedAt": "2026-10-13T14:00:12.999+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T13:50:07.220+08:00",
+      "fetchedAt": "2026-10-13T14:00:17.238+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T13:50:07.500+08:00",
+      "fetchedAt": "2026-10-13T14:00:17.601+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T13:50:07.510+08:00",
+      "fetchedAt": "2026-10-13T14:00:17.612+08:00",
       "error": null
     }
   }
