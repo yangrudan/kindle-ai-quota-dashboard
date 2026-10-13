@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-14T06:40:08.674+08:00",
+  "updatedAt": "2026-10-14T06:50:08.471+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.5,
-    "feelsLikeC": 19.6,
-    "humidity": 88,
-    "windKph": 7.2,
+    "tempC": 18.6,
+    "feelsLikeC": 19.9,
+    "humidity": 87,
+    "windKph": 6.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T06:40:08.674+08:00",
+    "observedAt": "2026-10-14T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-14T06:50:08.471+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月14日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-14/10714102.shtml",
+        "publishedAt": "2026-10-14T06:34:36.000+08:00"
+      },
       {
         "title": "美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控",
         "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714101.shtml",
@@ -38,14 +43,9 @@
         "title": "刚果（金）本轮埃博拉疫情确诊病例超9000例",
         "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714098.shtml",
         "publishedAt": "2026-10-14T00:22:43.000+08:00"
-      },
-      {
-        "title": "日本叶菜价格大幅上涨 白菜成“高价菜”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714097.shtml",
-        "publishedAt": "2026-10-14T00:19:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T06:40:03.428+08:00",
+    "fetchedAt": "2026-10-14T06:50:03.095+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T06:40:07.469+08:00",
+      "fetchedAt": "2026-10-14T06:50:07.266+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T11:40:08.000+08:00"
+          "resetAt": "2026-10-14T11:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T06:40:07.779+08:00",
+      "fetchedAt": "2026-10-14T06:50:07.646+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T06:40:07.788+08:00",
+      "fetchedAt": "2026-10-14T06:50:07.654+08:00",
       "error": null
     }
   }
