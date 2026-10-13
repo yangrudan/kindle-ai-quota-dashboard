@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T14:00:18.519+08:00",
+  "updatedAt": "2026-10-13T14:10:09.063+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 28.4,
-    "feelsLikeC": 28.2,
-    "humidity": 41,
-    "windKph": 13,
+    "feelsLikeC": 27.9,
+    "humidity": 40,
+    "windKph": 13.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-13T14:00:18.519+08:00",
+    "observedAt": "2026-10-13T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-13T14:10:09.063+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "海口海关（本级）及其后勤管理中心2026-2028年公务车辆维修保养服务采购项目公开征集公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713672.shtml",
+        "publishedAt": "2026-10-13T14:03:11.000+08:00"
+      },
+      {
+        "title": "9月中国电商物流指数持续回升 供需两端向好",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713646.shtml",
+        "publishedAt": "2026-10-13T14:02:23.000+08:00"
+      },
+      {
+        "title": "19800元享终身免费旅居康养？北京警方打掉一养老诈骗团伙",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-13/10713670.shtml",
+        "publishedAt": "2026-10-13T13:59:25.000+08:00"
+      },
+      {
+        "title": "台湾网红柳杰克：台湾就是中国一个省！",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713648.shtml",
+        "publishedAt": "2026-10-13T13:58:53.000+08:00"
+      },
+      {
         "title": "中缅泰老青年相聚侨乡保山 讲述“我们共同的故事”",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713645.shtml",
         "publishedAt": "2026-10-13T13:55:35.000+08:00"
-      },
-      {
-        "title": "海口海关2026年“两新”实验室仪器设备更新项目（分散采购部分）（二次招标）招标公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713664.shtml",
-        "publishedAt": "2026-10-13T13:53:25.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）青年蹲点“浙中蜜蜂村”：大山里的“青春必修课”",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-13/10713644.shtml",
-        "publishedAt": "2026-10-13T13:52:21.000+08:00"
-      },
-      {
-        "title": "海口美兰机场海关2026年协管员制服项目成交公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713662.shtml",
-        "publishedAt": "2026-10-13T13:51:43.000+08:00"
-      },
-      {
-        "title": "六盘山风味邂逅贺兰山佳酿 固原风物亮相中国（宁夏）国际葡萄酒文旅博览会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713643.shtml",
-        "publishedAt": "2026-10-13T13:51:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T14:00:12.999+08:00",
+    "fetchedAt": "2026-10-13T14:10:03.251+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T14:00:17.238+08:00",
+      "fetchedAt": "2026-10-13T14:10:07.943+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T14:00:17.601+08:00",
+      "fetchedAt": "2026-10-13T14:10:08.246+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T14:00:17.612+08:00",
+      "fetchedAt": "2026-10-13T14:10:08.256+08:00",
       "error": null
     }
   }
