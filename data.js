@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T21:40:08.029+08:00",
+  "updatedAt": "2026-10-13T21:50:09.490+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.2,
-    "feelsLikeC": 24,
+    "tempC": 22.1,
+    "feelsLikeC": 23.6,
     "humidity": 76,
-    "windKph": 6.9,
+    "windKph": 7.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T21:40:08.029+08:00",
+    "observedAt": "2026-10-13T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T21:50:09.491+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "俄称“能源停火”无新进展 泽连斯基称俄继续打击乌",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10714025.shtml",
-        "publishedAt": "2026-10-13T21:19:41.000+08:00"
+        "title": "浙江杭州：人形机器人进厂“打工”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10714034.shtml",
+        "publishedAt": "2026-10-13T21:38:00.000+08:00"
       },
       {
-        "title": "中国车企亮相巴黎车展：积极迈向欧洲本地化之路",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714011.shtml",
-        "publishedAt": "2026-10-13T21:19:13.000+08:00"
+        "title": "10月13日夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-13/10714038.shtml",
+        "publishedAt": "2026-10-13T21:36:36.000+08:00"
       },
       {
-        "title": "沙特阿美总裁：全球原油库存逼近“危险低位”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10714022.shtml",
-        "publishedAt": "2026-10-13T21:16:05.000+08:00"
+        "title": "香港特区行政长官李家超嘉许“向国旗敬礼”访京团成员",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10714008.shtml",
+        "publishedAt": "2026-10-13T21:35:46.000+08:00"
       },
       {
-        "title": "“中国辣椒之乡”河北鸡泽逾6万亩椒田迎丰收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10714007.shtml",
-        "publishedAt": "2026-10-13T21:05:26.000+08:00"
+        "title": "笔墨弘扬中山精神 香港举行书画展纪念孙中山诞辰160周年",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-13/10714012.shtml",
+        "publishedAt": "2026-10-13T21:35:40.000+08:00"
       },
       {
-        "title": "客家祖地福建宁化：秋日田野色彩斑斓",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-13/10714005.shtml",
-        "publishedAt": "2026-10-13T21:03:52.000+08:00"
+        "title": "原海南省国土资源厅副厅长廖正伟被提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10714010.shtml",
+        "publishedAt": "2026-10-13T21:35:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T21:40:02.878+08:00",
+    "fetchedAt": "2026-10-13T21:50:03.121+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T21:40:06.598+08:00",
+      "fetchedAt": "2026-10-13T21:50:07.224+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T02:40:07.000+08:00"
+          "resetAt": "2026-10-14T02:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T21:40:07.179+08:00",
+      "fetchedAt": "2026-10-13T21:50:07.547+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T21:40:07.188+08:00",
+      "fetchedAt": "2026-10-13T21:50:07.556+08:00",
       "error": null
     }
   }
