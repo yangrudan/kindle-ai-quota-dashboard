@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T23:40:08.282+08:00",
+  "updatedAt": "2026-10-13T23:50:10.389+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.4,
-    "feelsLikeC": 22.4,
-    "humidity": 77,
+    "tempC": 21.2,
+    "feelsLikeC": 22.3,
+    "humidity": 78,
     "windKph": 10.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-13T23:40:08.282+08:00",
+    "observedAt": "2026-10-13T23:45:00.000+08:00",
+    "fetchedAt": "2026-10-13T23:50:10.389+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "韩国KOSPI指数收跌超5% 两大半导体股延续跌势",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714095.shtml",
+        "publishedAt": "2026-10-13T23:46:09.000+08:00"
+      },
       {
         "title": "2025年欧盟进口纯电动汽车逾四成来自中国",
         "url": "https://www.chinanews.com.cn/cj/2026/10-13/10714093.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "聚焦“急难愁盼” 广西织密医保民生保障网",
         "url": "https://www.chinanews.com.cn/sh/2026/10-13/10714089.shtml",
         "publishedAt": "2026-10-13T23:05:53.000+08:00"
-      },
-      {
-        "title": "第七届“一带一路”税收征管合作论坛在雅加达开幕",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-13/10714088.shtml",
-        "publishedAt": "2026-10-13T23:03:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T23:40:02.932+08:00",
+    "fetchedAt": "2026-10-13T23:50:03.793+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T23:40:07.103+08:00",
+      "fetchedAt": "2026-10-13T23:50:09.097+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T04:40:08.000+08:00"
+          "resetAt": "2026-10-14T04:50:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T23:40:07.401+08:00",
+      "fetchedAt": "2026-10-13T23:50:09.374+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-13T23:40:07.409+08:00",
+      "fetchedAt": "2026-10-13T23:50:09.382+08:00",
       "error": null
     }
   }
