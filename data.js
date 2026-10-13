@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-13T12:10:09.254+08:00",
+  "updatedAt": "2026-10-13T12:20:11.422+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.1,
-    "feelsLikeC": 29,
-    "humidity": 50,
-    "windKph": 8.8,
+    "tempC": 27.4,
+    "feelsLikeC": 29.1,
+    "humidity": 49,
+    "windKph": 9.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-13T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-13T12:10:09.254+08:00",
+    "observedAt": "2026-10-13T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-13T12:20:11.422+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "农业农村部设立我国首个布氏鲸重要栖息地",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713624.shtml",
+        "publishedAt": "2026-10-13T12:14:37.000+08:00"
+      },
+      {
+        "title": "美国女演员塞尔玛·布莱尔涉嫌机上袭击空乘被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713616.shtml",
+        "publishedAt": "2026-10-13T12:11:37.000+08:00"
+      },
+      {
+        "title": "长征路上学党史｜瞰会宁城下 忆三军会师",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-13/10713623.shtml",
+        "publishedAt": "2026-10-13T12:06:37.000+08:00"
+      },
+      {
+        "title": "本地来电成诈骗“帮凶” 民警演示远程控机完整流程→",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713622.shtml",
+        "publishedAt": "2026-10-13T12:05:43.000+08:00"
+      },
+      {
         "title": "中铁十局巴西阿拉拉夸拉厂房改造项目顺利竣工交付",
         "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713613.shtml",
         "publishedAt": "2026-10-13T11:59:58.000+08:00"
-      },
-      {
-        "title": "美国演员RJ·米特去世，年仅34岁 曾出演《绝命毒师》",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713619.shtml",
-        "publishedAt": "2026-10-13T11:48:12.000+08:00"
-      },
-      {
-        "title": "A股午评：近3500只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713618.shtml",
-        "publishedAt": "2026-10-13T11:46:46.000+08:00"
-      },
-      {
-        "title": "贵州从江：苗寨云海日出同框 构成秋日美丽画卷",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-13/1207679.shtml",
-        "publishedAt": "2026-10-13T11:43:43.000+08:00"
-      },
-      {
-        "title": "“碑帖之间——当代中青年书法家邀请展”亮相炎黄艺术馆",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-13/10713606.shtml",
-        "publishedAt": "2026-10-13T11:41:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-13T12:10:02.838+08:00",
+    "fetchedAt": "2026-10-13T12:20:03.924+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-13T12:10:07.905+08:00",
+      "fetchedAt": "2026-10-13T12:20:10.187+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-19T09:59:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-13T12:10:08.163+08:00",
+      "fetchedAt": "2026-10-13T12:20:10.550+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 23.09,
       "currency": "CNY",
       "detail": "余额 ¥23.09",
-      "fetchedAt": "2026-10-13T12:10:08.166+08:00",
+      "fetchedAt": "2026-10-13T12:20:10.559+08:00",
       "error": null
     }
   }
