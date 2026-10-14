@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-14T15:40:30.372+08:00",
+  "updatedAt": "2026-10-14T15:50:41.736+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.8,
-    "feelsLikeC": 24.8,
-    "humidity": 37,
-    "windKph": 7.3,
+    "tempC": 25.7,
+    "feelsLikeC": 24.6,
+    "humidity": 38,
+    "windKph": 7.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T15:40:30.372+08:00",
+    "observedAt": "2026-10-14T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-14T15:50:41.736+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习近平向第140届中国进出口商品交易会致贺信",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714424.shtml",
-        "publishedAt": "2026-10-14T15:28:35.000+08:00"
+        "title": "亚马逊全球集货仓落地天津 京津冀货源可经天津港直通全球",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714431.shtml",
+        "publishedAt": "2026-10-14T15:42:27.000+08:00"
       },
       {
-        "title": "500多人被骗1.6亿余元 起底项目投资骗局",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-14/10714430.shtml",
-        "publishedAt": "2026-10-14T15:27:35.000+08:00"
+        "title": "一室药香传匠心——第五届中药传统名堂职业技能竞赛决赛侧记",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714432.shtml",
+        "publishedAt": "2026-10-14T15:37:51.000+08:00"
       },
       {
-        "title": "台湾拟投资美国管道项目 外交部：打着经贸幌子谋求“台独”不会得逞",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714429.shtml",
-        "publishedAt": "2026-10-14T15:27:07.000+08:00"
+        "title": "中国接连举办系列国际性展会 外交部：中国坚持与世界共享发展机遇",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714442.shtml",
+        "publishedAt": "2026-10-14T15:36:07.000+08:00"
       },
       {
-        "title": "A股收评：超4400只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714428.shtml",
-        "publishedAt": "2026-10-14T15:26:21.000+08:00"
+        "title": "女子高铁开免提通话1小时引争议！乘坐高铁请避免这些行为→",
+        "url": "https://www.chinanews.com.cn/life/2026/10-14/10714441.shtml",
+        "publishedAt": "2026-10-14T15:34:17.000+08:00"
       },
       {
-        "title": "白宫新发言人首秀口误：“我的丈夫”说成“我的总统”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714427.shtml",
-        "publishedAt": "2026-10-14T15:25:32.000+08:00"
+        "title": "重庆酉阳“十五五”：向生态“颜值”要经济“价值”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714439.shtml",
+        "publishedAt": "2026-10-14T15:34:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T15:40:04.475+08:00",
+    "fetchedAt": "2026-10-14T15:50:06.195+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1061 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T15:40:28.962+08:00",
+      "fetchedAt": "2026-10-14T15:50:39.822+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T15:40:29.239+08:00",
+      "fetchedAt": "2026-10-14T15:50:40.103+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T15:40:29.245+08:00",
+      "fetchedAt": "2026-10-14T15:50:40.108+08:00",
       "error": null
     }
   }
