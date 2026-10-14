@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T23:00:43.695+08:00",
+  "updatedAt": "2026-10-14T23:10:13.821+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-14T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T23:00:43.696+08:00",
+    "fetchedAt": "2026-10-14T23:10:13.821+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广东发布总林长令加强森林防灭火与鸟类保护工作",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714733.shtml",
+        "publishedAt": "2026-10-14T23:01:13.000+08:00"
+      },
+      {
+        "title": "低俗广告不能出现一次热议一次，要让品牌不敢发、不能发、不想发",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714739.shtml",
+        "publishedAt": "2026-10-14T22:58:21.000+08:00"
+      },
       {
         "title": "一条施工道路成为连接中资企业与柬埔寨民心的纽带",
         "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714732.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "海南推广地质灾害一键报灾小程序 隐患即拍即报",
         "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714730.shtml",
         "publishedAt": "2026-10-14T22:09:01.000+08:00"
-      },
-      {
-        "title": "美国杜立特突袭者子女协会代表在华寻历史“拼图”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714689.shtml",
-        "publishedAt": "2026-10-14T22:04:26.000+08:00"
-      },
-      {
-        "title": "日本农林水产大臣梁和生因失言等丑闻辞职",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714666.shtml",
-        "publishedAt": "2026-10-14T22:04:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T23:00:04.840+08:00",
+    "fetchedAt": "2026-10-14T23:10:03.253+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T23:00:41.972+08:00",
+      "fetchedAt": "2026-10-14T23:10:12.485+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T23:00:42.208+08:00",
+      "fetchedAt": "2026-10-14T23:10:12.716+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T23:00:42.211+08:00",
+      "fetchedAt": "2026-10-14T23:10:12.726+08:00",
       "error": null
     }
   }
