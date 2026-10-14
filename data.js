@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T21:10:11.205+08:00",
+  "updatedAt": "2026-10-14T21:20:14.317+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.4,
-    "feelsLikeC": 19.7,
-    "humidity": 60,
-    "windKph": 9.7,
+    "tempC": 20.2,
+    "feelsLikeC": 19.5,
+    "humidity": 61,
+    "windKph": 9.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-14T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T21:10:11.205+08:00",
+    "observedAt": "2026-10-14T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-14T21:20:14.317+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“长城”观察：人工智能时代如何推进国际反恐合作？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714646.shtml",
-        "publishedAt": "2026-10-14T21:06:01.000+08:00"
+        "title": "“四川与智利、西班牙、巴西文化邂逅之旅”在成都举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714648.shtml",
+        "publishedAt": "2026-10-14T21:16:36.000+08:00"
       },
       {
-        "title": "习近平总书记为健康中国建设取得决定性进展指明方向",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714636.shtml",
-        "publishedAt": "2026-10-14T21:05:29.000+08:00"
+        "title": "一日跨越南京 外媒记者感受智造、生态与文脉",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714657.shtml",
+        "publishedAt": "2026-10-14T21:15:44.000+08:00"
       },
       {
-        "title": "10月14日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-14/10714661.shtml",
-        "publishedAt": "2026-10-14T21:03:01.000+08:00"
+        "title": "第六届百城万人健心跑公益活动东莞开跑",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714656.shtml",
+        "publishedAt": "2026-10-14T21:15:42.000+08:00"
       },
       {
-        "title": "侨界青年海口共探AI机遇：链接自贸港 抢滩新赛道",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-14/10714634.shtml",
-        "publishedAt": "2026-10-14T20:56:11.000+08:00"
+        "title": "上海初步形成现代职业教育发展格局",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714654.shtml",
+        "publishedAt": "2026-10-14T21:15:40.000+08:00"
       },
       {
-        "title": "2026（秋季）广州国际汽车零配件品牌出口交易会启幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714632.shtml",
-        "publishedAt": "2026-10-14T20:54:06.000+08:00"
+        "title": "湖南湘潭公共资源交易装上“AI大脑” 校园餐实现“降价不降质”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714653.shtml",
+        "publishedAt": "2026-10-14T21:15:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T21:10:04.193+08:00",
+    "fetchedAt": "2026-10-14T21:20:06.161+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T21:10:09.611+08:00",
+      "fetchedAt": "2026-10-14T21:20:13.079+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T21:10:09.884+08:00",
+      "fetchedAt": "2026-10-14T21:20:13.347+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T21:10:09.888+08:00",
+      "fetchedAt": "2026-10-14T21:20:13.351+08:00",
       "error": null
     }
   }
