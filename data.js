@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T23:20:12.063+08:00",
+  "updatedAt": "2026-10-14T23:30:14.440+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 18.4,
-    "humidity": 64,
-    "windKph": 8.1,
+    "tempC": 18.9,
+    "feelsLikeC": 18.3,
+    "humidity": 65,
+    "windKph": 8.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-14T23:15:00.000+08:00",
-    "fetchedAt": "2026-10-14T23:20:12.063+08:00",
+    "observedAt": "2026-10-14T23:30:00.000+08:00",
+    "fetchedAt": "2026-10-14T23:30:14.441+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国发现侏罗纪不会飞鸟类杨源𬸚𬸦 颠覆鸟类早期演化传统认知",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714740.shtml",
-        "publishedAt": "2026-10-14T23:07:16.000+08:00"
+        "title": "三季度中国对RCEP区域贸易稳中提质",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714743.shtml",
+        "publishedAt": "2026-10-14T23:27:49.000+08:00"
       },
       {
-        "title": "倒计时击沉美舰：伊朗在海峡摆下非对称口袋，沙特阿美总部14日再度起火",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714734.shtml",
-        "publishedAt": "2026-10-14T23:03:39.000+08:00"
+        "title": "内地险企在香港发行首宗“侧挂车”保险相连证券",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714742.shtml",
+        "publishedAt": "2026-10-14T23:27:05.000+08:00"
       },
       {
-        "title": "广东发布总林长令加强森林防灭火与鸟类保护工作",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714733.shtml",
-        "publishedAt": "2026-10-14T23:01:13.000+08:00"
+        "title": "海峡两岸暨港澳地区人士香港座谈 传承中山精神共谋民族复兴",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714741.shtml",
+        "publishedAt": "2026-10-14T23:26:11.000+08:00"
       },
       {
-        "title": "低俗广告不能出现一次热议一次，要让品牌不敢发、不能发、不想发",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714739.shtml",
-        "publishedAt": "2026-10-14T22:58:21.000+08:00"
+        "title": "全国职工红色主题阅读活动走进甘肃会宁",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714737.shtml",
+        "publishedAt": "2026-10-14T23:25:13.000+08:00"
       },
       {
-        "title": "一条施工道路成为连接中资企业与柬埔寨民心的纽带",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714732.shtml",
-        "publishedAt": "2026-10-14T22:35:58.000+08:00"
+        "title": "广西里高糯香米饼：老手艺“揉”出乡村新产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714736.shtml",
+        "publishedAt": "2026-10-14T23:23:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T23:20:03.837+08:00",
+    "fetchedAt": "2026-10-14T23:30:04.529+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T23:20:10.750+08:00",
+      "fetchedAt": "2026-10-14T23:30:13.134+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T23:20:10.979+08:00",
+      "fetchedAt": "2026-10-14T23:30:13.347+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T23:20:10.990+08:00",
+      "fetchedAt": "2026-10-14T23:30:13.350+08:00",
       "error": null
     }
   }
