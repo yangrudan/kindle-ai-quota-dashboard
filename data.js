@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T19:00:14.418+08:00",
+  "updatedAt": "2026-10-14T19:10:13.970+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.1,
-    "feelsLikeC": 21.3,
-    "humidity": 53,
-    "windKph": 9.4,
-    "windDir": "东北风",
+    "tempC": 21.8,
+    "feelsLikeC": 21.2,
+    "humidity": 55,
+    "windKph": 9.3,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-14T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T19:00:14.418+08:00",
+    "observedAt": "2026-10-14T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-14T19:10:13.970+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国商品期货成交量连续多年居世界前列",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714570.shtml",
-        "publishedAt": "2026-10-14T18:49:18.000+08:00"
+        "title": "（乡村行·看振兴）吉林黑土地“三辣” 富民记",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714582.shtml",
+        "publishedAt": "2026-10-14T19:02:58.000+08:00"
       },
       {
-        "title": "（经济观察）延续强劲增势 中国外贸交出优质“三季报”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714569.shtml",
-        "publishedAt": "2026-10-14T18:49:16.000+08:00"
+        "title": "炸串摊主被差评后跳河轻生，律师解析“避雷帖”边界｜法律顾问在身边",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714580.shtml",
+        "publishedAt": "2026-10-14T19:02:14.000+08:00"
       },
       {
-        "title": "山东发布7个垂直领域大模型 覆盖高端装备、化工等重点领域",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714567.shtml",
-        "publishedAt": "2026-10-14T18:49:12.000+08:00"
+        "title": "涉旅行社、酒店价格欺诈等 5起打击劣质低价典型案例公布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714562.shtml",
+        "publishedAt": "2026-10-14T18:57:06.000+08:00"
       },
       {
-        "title": "央行：今年9月末 社会融资规模存量同比增长7.1%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714561.shtml",
-        "publishedAt": "2026-10-14T18:47:17.000+08:00"
+        "title": "中国官方连打“虎” 伍浩被“双开”、包惠被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714577.shtml",
+        "publishedAt": "2026-10-14T18:56:02.000+08:00"
       },
       {
-        "title": "哈尔滨冰雪大世界联合迪士尼推出“冰雪奇缘”主题冰雪区域",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714566.shtml",
-        "publishedAt": "2026-10-14T18:45:03.000+08:00"
+        "title": "黑龙江“社保服务号”地铁主题车厢亮相 让“社保服务进万家”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714564.shtml",
+        "publishedAt": "2026-10-14T18:56:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T19:00:03.331+08:00",
+    "fetchedAt": "2026-10-14T19:10:04.272+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T19:00:10.829+08:00",
+      "fetchedAt": "2026-10-14T19:10:12.654+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 100,
-          "resetAt": "2026-10-14T19:00:59.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-15T00:10:13.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T19:00:11.098+08:00",
+      "fetchedAt": "2026-10-14T19:10:12.923+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T19:00:11.107+08:00",
+      "fetchedAt": "2026-10-14T19:10:12.927+08:00",
       "error": null
     }
   }
