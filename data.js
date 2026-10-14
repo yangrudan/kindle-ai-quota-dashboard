@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T10:40:13.272+08:00",
+  "updatedAt": "2026-10-14T10:50:45.119+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.7,
-    "feelsLikeC": 24,
-    "humidity": 50,
-    "windKph": 9.6,
+    "tempC": 24,
+    "feelsLikeC": 24.4,
+    "humidity": 49,
+    "windKph": 9.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T10:40:13.273+08:00",
+    "observedAt": "2026-10-14T10:45:00.000+08:00",
+    "fetchedAt": "2026-10-14T10:50:45.119+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "韩国公布政府核心部门大规模搬迁计划",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714197.shtml",
-        "publishedAt": "2026-10-14T10:36:09.000+08:00"
+        "title": "国台办回应台海巡粗暴驱离大陆渔船",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714231.shtml",
+        "publishedAt": "2026-10-14T10:47:47.000+08:00"
       },
       {
-        "title": "“薪火相传续华章——长征路上学党史”网上主题宣传活动启幕在即",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714218.shtml",
-        "publishedAt": "2026-10-14T10:36:05.000+08:00"
+        "title": "国台办回应台湾艺人为祖国献祝福",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714229.shtml",
+        "publishedAt": "2026-10-14T10:45:31.000+08:00"
       },
       {
-        "title": "乌克兰加入欧盟进程取得新进展",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714187.shtml",
-        "publishedAt": "2026-10-14T10:35:59.000+08:00"
+        "title": "国台办回应蔡英文窜美期间涉两岸言论",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714224.shtml",
+        "publishedAt": "2026-10-14T10:44:03.000+08:00"
       },
       {
-        "title": "国台办驳斥陆委会所谓胁迫施压叙事",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714217.shtml",
-        "publishedAt": "2026-10-14T10:35:35.000+08:00"
+        "title": "国台办回应台湾旅游业因民进党阻挠复苏迟缓",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714223.shtml",
+        "publishedAt": "2026-10-14T10:42:57.000+08:00"
       },
       {
-        "title": "墨西哥太平洋沿岸风暴造成至少6人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714186.shtml",
-        "publishedAt": "2026-10-14T10:34:57.000+08:00"
+        "title": "国台办回应蔡康永现身沈伯洋竞选会场",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714222.shtml",
+        "publishedAt": "2026-10-14T10:41:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T10:40:03.433+08:00",
+    "fetchedAt": "2026-10-14T10:50:04.327+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T10:40:10.024+08:00",
+      "fetchedAt": "2026-10-14T10:50:43.762+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T10:40:10.291+08:00",
+      "fetchedAt": "2026-10-14T10:50:44.109+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T10:40:10.301+08:00",
+      "fetchedAt": "2026-10-14T10:50:44.121+08:00",
       "error": null
     }
   }
