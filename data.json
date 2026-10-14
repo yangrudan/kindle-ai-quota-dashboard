@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-14T07:50:08.391+08:00",
+  "updatedAt": "2026-10-14T08:00:09.500+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.9,
-    "feelsLikeC": 20.9,
-    "humidity": 78,
-    "windKph": 6.7,
+    "tempC": 20.3,
+    "feelsLikeC": 21.2,
+    "humidity": 76,
+    "windKph": 7.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T07:50:08.391+08:00",
+    "observedAt": "2026-10-14T08:00:00.000+08:00",
+    "fetchedAt": "2026-10-14T08:00:09.500+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泽连斯基将访问英国 伯纳姆承诺向乌克兰提供新一轮军援",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714110.shtml",
+        "publishedAt": "2026-10-14T07:53:50.000+08:00"
+      },
+      {
+        "title": "雅思考试连续多日被取消 主办方：增设两天免费专场",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-14/10714109.shtml",
+        "publishedAt": "2026-10-14T07:49:28.000+08:00"
+      },
       {
         "title": "别让“搭子”沦为灰色交易的幌子",
         "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714108.shtml",
@@ -33,19 +43,9 @@
         "title": "今起报名！2027国考有这些新变化→",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714106.shtml",
         "publishedAt": "2026-10-14T07:34:11.000+08:00"
-      },
-      {
-        "title": "俄外交部：日本利用驻俄记者搜集情报 呼吁日方放弃敌对行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714105.shtml",
-        "publishedAt": "2026-10-14T07:17:44.000+08:00"
-      },
-      {
-        "title": "海军辽宁舰航母编队赴西太平洋相关海域开展训练",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714104.shtml",
-        "publishedAt": "2026-10-14T07:10:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T07:50:03.036+08:00",
+    "fetchedAt": "2026-10-14T08:00:03.882+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T07:50:07.083+08:00",
+      "fetchedAt": "2026-10-14T08:00:08.265+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T12:50:08.000+08:00"
+          "resetAt": "2026-10-14T13:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T07:50:07.426+08:00",
+      "fetchedAt": "2026-10-14T08:00:08.612+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T07:50:07.435+08:00",
+      "fetchedAt": "2026-10-14T08:00:08.621+08:00",
       "error": null
     }
   }
