@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T18:10:20.293+08:00",
+  "updatedAt": "2026-10-14T18:20:23.219+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-14T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T18:10:20.293+08:00",
+    "fetchedAt": "2026-10-14T18:20:23.220+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湘潭以“服务专员”优化营商环境",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714553.shtml",
-        "publishedAt": "2026-10-14T17:54:15.000+08:00"
+        "title": "中国科学院科创中心原党委副书记、主任伍浩严重违纪违法被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714533.shtml",
+        "publishedAt": "2026-10-14T18:05:45.000+08:00"
       },
       {
-        "title": "中国杂交水稻制种实现重大突破 科研团队揭秘高产故事",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714551.shtml",
-        "publishedAt": "2026-10-14T17:53:25.000+08:00"
+        "title": "四川省成都市人大常委会原党组书记、主任包惠严重违纪违法被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714532.shtml",
+        "publishedAt": "2026-10-14T18:02:59.000+08:00"
       },
       {
-        "title": "新能源硬派SUV银河战舰700全球上市16.98万起，与代言人谢霆锋共同诠释进化精神",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714556.shtml",
-        "publishedAt": "2026-10-14T17:52:12.000+08:00"
+        "title": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714549.shtml",
+        "publishedAt": "2026-10-14T18:02:41.000+08:00"
       },
       {
-        "title": "游客打卡都匀秦汉影视城 感受秦汉古韵",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714554.shtml",
-        "publishedAt": "2026-10-14T17:50:24.000+08:00"
+        "title": "国台办发布会聚焦中美元首会晤成果、回应沈伯洋相关热点",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714541.shtml",
+        "publishedAt": "2026-10-14T18:02:33.000+08:00"
       },
       {
-        "title": "演艺直播的下一程，深耕内容方能长效经营",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714548.shtml",
-        "publishedAt": "2026-10-14T17:40:34.000+08:00"
+        "title": "重庆市委常委会举行会议 坚决拥护党中央对黄奇帆涉嫌严重违纪违法进行纪律审查和监察调查的决定 市委书记袁家",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714528.shtml",
+        "publishedAt": "2026-10-14T18:01:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T18:10:08.081+08:00",
+    "fetchedAt": "2026-10-14T18:20:13.326+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T18:10:17.852+08:00",
+      "fetchedAt": "2026-10-14T18:20:21.684+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T18:10:18.118+08:00",
+      "fetchedAt": "2026-10-14T18:20:21.976+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T18:10:18.126+08:00",
+      "fetchedAt": "2026-10-14T18:20:21.981+08:00",
       "error": null
     }
   }
