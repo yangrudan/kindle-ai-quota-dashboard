@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T20:40:12.191+08:00",
+  "updatedAt": "2026-10-14T20:50:14.576+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.7,
-    "feelsLikeC": 20.2,
-    "humidity": 59,
-    "windKph": 9,
+    "tempC": 20.6,
+    "feelsLikeC": 20,
+    "humidity": 60,
+    "windKph": 9.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-14T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T20:40:12.191+08:00",
+    "observedAt": "2026-10-14T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-14T20:50:14.577+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714658.shtml",
+        "publishedAt": "2026-10-14T20:47:40.000+08:00"
+      },
       {
         "title": "宁波舟山港前三季度海铁联运业务量突破160万标箱",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714629.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714627.shtml",
         "publishedAt": "2026-10-14T20:07:54.000+08:00"
-      },
-      {
-        "title": "2026年国际议员友好交流论坛天津宣言",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714630.shtml",
-        "publishedAt": "2026-10-14T20:07:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T20:40:03.582+08:00",
+    "fetchedAt": "2026-10-14T20:50:03.919+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T20:40:10.848+08:00",
+      "fetchedAt": "2026-10-14T20:50:12.822+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T20:40:11.128+08:00",
+      "fetchedAt": "2026-10-14T20:50:13.077+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T20:40:11.138+08:00",
+      "fetchedAt": "2026-10-14T20:50:13.085+08:00",
       "error": null
     }
   }
