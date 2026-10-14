@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T13:40:17.306+08:00",
+  "updatedAt": "2026-10-14T13:50:11.871+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.1,
-    "feelsLikeC": 25.4,
-    "humidity": 38,
-    "windKph": 7.7,
+    "tempC": 26,
+    "feelsLikeC": 25,
+    "humidity": 37,
+    "windKph": 7.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T13:40:17.306+08:00",
+    "observedAt": "2026-10-14T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-14T13:50:11.871+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "刘海星应约会见博茨瓦纳民主变革联盟总裁、总统博科",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714330.shtml",
-        "publishedAt": "2026-10-14T13:28:20.000+08:00"
+        "title": "新疆哈密市骆驼产业高质量发展大会举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714336.shtml",
+        "publishedAt": "2026-10-14T13:39:23.000+08:00"
       },
       {
-        "title": "美国驻希腊大使辞职，曾与特朗普长子订婚",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714154.shtml",
-        "publishedAt": "2026-10-14T13:28:20.000+08:00"
+        "title": "解读全国卫生与健康大会，释放哪些新信号↓",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-14/10714337.shtml",
+        "publishedAt": "2026-10-14T13:37:37.000+08:00"
       },
       {
-        "title": "从头到脚防血栓，这些误区要避开",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-14/10714327.shtml",
-        "publishedAt": "2026-10-14T13:26:08.000+08:00"
+        "title": "辽宁省铁岭市“法企同心·共话发展”企业家座谈会举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714323.shtml",
+        "publishedAt": "2026-10-14T13:35:02.000+08:00"
       },
       {
-        "title": "从泰国招揽女子从事卖淫活动，香港警方通报跨国卖淫案",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714325.shtml",
-        "publishedAt": "2026-10-14T13:24:38.000+08:00"
+        "title": "爱尔眼科闵寒毅：三十余载匠心铸仁术，做眼底深处的守光人",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-14/10714335.shtml",
+        "publishedAt": "2026-10-14T13:34:14.000+08:00"
       },
       {
-        "title": "新一轮冷空气即将影响我国 北方多地气温将创新低",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714322.shtml",
-        "publishedAt": "2026-10-14T13:20:28.000+08:00"
+        "title": "武网赛后张帅袒露心声：为坚持的自己骄傲",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714324.shtml",
+        "publishedAt": "2026-10-14T13:34:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T13:40:03.930+08:00",
+    "fetchedAt": "2026-10-14T13:50:03.541+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T13:40:14.912+08:00",
+      "fetchedAt": "2026-10-14T13:50:10.465+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 37,
           "resetAt": "2026-10-14T13:59:33.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T13:40:15.232+08:00",
+      "fetchedAt": "2026-10-14T13:50:11.012+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T13:40:15.236+08:00",
+      "fetchedAt": "2026-10-14T13:50:11.020+08:00",
       "error": null
     }
   }
