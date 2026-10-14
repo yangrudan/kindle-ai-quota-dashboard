@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-14T10:20:52.145+08:00",
+  "updatedAt": "2026-10-14T10:30:44.382+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.5,
-    "feelsLikeC": 23.6,
-    "humidity": 51,
-    "windKph": 9.8,
+    "tempC": 23.7,
+    "feelsLikeC": 24,
+    "humidity": 50,
+    "windKph": 9.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-14T10:20:52.145+08:00",
+    "observedAt": "2026-10-14T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-14T10:30:44.382+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全球媒体聚焦丨外媒关注即将举行的APEC峰会及亚太合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714183.shtml",
-        "publishedAt": "2026-10-14T10:09:45.000+08:00"
+        "title": "路通山河变 中国唯一独龙族怒族自治县贡山走过七十载苦与甘",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714194.shtml",
+        "publishedAt": "2026-10-14T10:25:36.000+08:00"
       },
       {
-        "title": "用年轻人喜欢的方式，打开宝藏图书馆",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-14/10714182.shtml",
-        "publishedAt": "2026-10-14T10:08:29.000+08:00"
+        "title": "非洲喀麦隆小伙河南通许“嗦粉”记：美食无差异，只是做法和文化不同",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714202.shtml",
+        "publishedAt": "2026-10-14T10:25:34.000+08:00"
       },
       {
-        "title": "水位大幅上涨 伊瓜苏瀑布景区暂时关闭游客通道",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-14/1207767.shtml",
-        "publishedAt": "2026-10-14T10:04:17.000+08:00"
+        "title": "辣椒火红 日子红火（高质量发展在一线·小城宝藏）",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714211.shtml",
+        "publishedAt": "2026-10-14T10:25:22.000+08:00"
       },
       {
-        "title": "中朝新鸭绿江大桥将开通",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714178.shtml",
-        "publishedAt": "2026-10-14T10:03:25.000+08:00"
+        "title": "从浦东国际机场口岸入境外籍人员数量连续四天刷新年度纪录",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714203.shtml",
+        "publishedAt": "2026-10-14T10:24:30.000+08:00"
       },
       {
-        "title": "势头良好 前三季度我国外贸增长18.8%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714177.shtml",
-        "publishedAt": "2026-10-14T10:02:33.000+08:00"
+        "title": "两部门发布制止餐饮浪费典型经验做法",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714208.shtml",
+        "publishedAt": "2026-10-14T10:23:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T10:20:03.594+08:00",
+    "fetchedAt": "2026-10-14T10:30:09.877+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T10:20:50.655+08:00",
+      "fetchedAt": "2026-10-14T10:30:41.508+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
-          "resetAt": "2026-10-14T13:59:33.000+08:00"
+          "usedPct": 10,
+          "resetAt": "2026-10-14T13:59:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
-          "resetAt": "2026-10-20T13:44:34.000+08:00"
+          "usedPct": 13,
+          "resetAt": "2026-10-20T13:44:35.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T10:20:50.942+08:00",
+      "fetchedAt": "2026-10-14T10:30:41.762+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T10:20:50.952+08:00",
+      "fetchedAt": "2026-10-14T10:30:41.767+08:00",
       "error": null
     }
   }
