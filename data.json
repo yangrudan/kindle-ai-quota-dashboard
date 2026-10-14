@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T13:50:11.871+08:00",
+  "updatedAt": "2026-10-14T14:00:15.342+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-14T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T13:50:11.871+08:00",
+    "fetchedAt": "2026-10-14T14:00:15.342+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "税收数据：横琴粤澳深度合作区建成五年成效显",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714332.shtml",
+        "publishedAt": "2026-10-14T13:45:43.000+08:00"
+      },
+      {
+        "title": "人形机器人退休了怎么办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714347.shtml",
+        "publishedAt": "2026-10-14T13:45:21.000+08:00"
+      },
       {
         "title": "新疆哈密市骆驼产业高质量发展大会举办",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714336.shtml",
@@ -33,19 +43,9 @@
         "title": "辽宁省铁岭市“法企同心·共话发展”企业家座谈会举行",
         "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714323.shtml",
         "publishedAt": "2026-10-14T13:35:02.000+08:00"
-      },
-      {
-        "title": "爱尔眼科闵寒毅：三十余载匠心铸仁术，做眼底深处的守光人",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-14/10714335.shtml",
-        "publishedAt": "2026-10-14T13:34:14.000+08:00"
-      },
-      {
-        "title": "武网赛后张帅袒露心声：为坚持的自己骄傲",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714324.shtml",
-        "publishedAt": "2026-10-14T13:34:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T13:50:03.541+08:00",
+    "fetchedAt": "2026-10-14T14:00:04.405+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T13:50:10.465+08:00",
+      "fetchedAt": "2026-10-14T14:00:12.692+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 37,
-          "resetAt": "2026-10-14T13:59:33.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-14T19:00:15.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T13:50:11.012+08:00",
+      "fetchedAt": "2026-10-14T14:00:12.984+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T13:50:11.020+08:00",
+      "fetchedAt": "2026-10-14T14:00:12.993+08:00",
       "error": null
     }
   }
