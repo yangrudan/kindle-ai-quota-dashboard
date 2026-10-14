@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T08:50:10.605+08:00",
+  "updatedAt": "2026-10-14T09:00:44.558+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.5,
-    "feelsLikeC": 21.8,
-    "humidity": 67,
-    "windKph": 9.1,
+    "tempC": 21.9,
+    "feelsLikeC": 22,
+    "humidity": 64,
+    "windKph": 9.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T08:50:10.605+08:00",
+    "observedAt": "2026-10-14T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-14T09:00:44.558+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美国9月成屋销售量同比下降2.2% 房价连续39个月上涨",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714122.shtml",
-        "publishedAt": "2026-10-14T08:40:16.000+08:00"
+        "title": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714118.shtml",
+        "publishedAt": "2026-10-14T08:54:29.000+08:00"
       },
       {
-        "title": "刚果（金）埃博拉确诊病例超过9000例",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714121.shtml",
-        "publishedAt": "2026-10-14T08:37:34.000+08:00"
+        "title": "玉林海关2026年11月份“关领导接待日”公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714132.shtml",
+        "publishedAt": "2026-10-14T08:53:27.000+08:00"
       },
       {
-        "title": "报告称英格兰足球联赛体系面临严峻财务风险",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714119.shtml",
-        "publishedAt": "2026-10-14T08:37:26.000+08:00"
+        "title": "第33届世界大学生冬季运动会火种欢迎仪式在长春举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714131.shtml",
+        "publishedAt": "2026-10-14T08:51:21.000+08:00"
       },
       {
-        "title": "戒烟永远不会晚 各年龄段戒烟都能带来巨大健康回报",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-14/10714128.shtml",
-        "publishedAt": "2026-10-14T08:36:20.000+08:00"
+        "title": "年均增速超10%！这一万亿级赛道，与你的安全有关",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714130.shtml",
+        "publishedAt": "2026-10-14T08:49:15.000+08:00"
       },
       {
-        "title": "俄联邦安全局：一名涉嫌从事间谍活动的日本记者被捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714117.shtml",
-        "publishedAt": "2026-10-14T08:36:20.000+08:00"
+        "title": "南方多地有较强降雨伴强对流 明起新一股冷空气将登场",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714129.shtml",
+        "publishedAt": "2026-10-14T08:46:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T08:50:04.921+08:00",
+    "fetchedAt": "2026-10-14T09:00:06.971+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T08:50:09.098+08:00",
+      "fetchedAt": "2026-10-14T09:00:43.001+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-14T13:50:10.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-10-14T13:59:33.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T08:50:09.349+08:00",
+      "fetchedAt": "2026-10-14T09:00:43.264+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T08:50:09.359+08:00",
+      "fetchedAt": "2026-10-14T09:00:43.272+08:00",
       "error": null
     }
   }
