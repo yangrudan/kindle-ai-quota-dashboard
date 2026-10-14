@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T12:10:09.921+08:00",
+  "updatedAt": "2026-10-14T12:20:46.727+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.1,
-    "feelsLikeC": 25.8,
-    "humidity": 45,
-    "windKph": 8.2,
+    "tempC": 25.4,
+    "feelsLikeC": 26,
+    "humidity": 43,
+    "windKph": 7.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T12:10:09.922+08:00",
+    "observedAt": "2026-10-14T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-14T12:20:46.727+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“核”以报国 马余刚院士解码大科学时代的核科技前沿",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-14/10714290.shtml",
-        "publishedAt": "2026-10-14T11:53:59.000+08:00"
+        "title": "前三季度中国进出口总值同比增长18.8%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714285.shtml",
+        "publishedAt": "2026-10-14T12:19:22.000+08:00"
       },
       {
-        "title": "河南通许：一碗酸辣粉“煮”出百亿产业",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714259.shtml",
-        "publishedAt": "2026-10-14T11:51:11.000+08:00"
+        "title": "汇聚侨心侨力侨智 浙江召开全省侨务工作会议",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714288.shtml",
+        "publishedAt": "2026-10-14T12:18:50.000+08:00"
       },
       {
-        "title": "长春大冬会正式点燃“知识之火”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714292.shtml",
-        "publishedAt": "2026-10-14T11:48:39.000+08:00"
+        "title": "海外华文媒体探访四姑娘山 感受生态文旅新活力",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-14/10714276.shtml",
+        "publishedAt": "2026-10-14T12:17:46.000+08:00"
       },
       {
-        "title": "长征路上学党史｜走进陕北 探访燎原星火",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-14/10714299.shtml",
-        "publishedAt": "2026-10-14T11:48:33.000+08:00"
+        "title": "湖南江永蔬菜移栽“机器换人” 筑牢大湾区“菜篮子”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714266.shtml",
+        "publishedAt": "2026-10-14T12:16:40.000+08:00"
       },
       {
-        "title": "中国葡萄酒以本土化品种与新场景拥抱大众消费",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714293.shtml",
-        "publishedAt": "2026-10-14T11:47:53.000+08:00"
+        "title": "湖南新田“药果套种”探索精品农业 激活乡村土地效益",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714265.shtml",
+        "publishedAt": "2026-10-14T12:16:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T12:10:03.843+08:00",
+    "fetchedAt": "2026-10-14T12:20:06.156+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T12:10:08.616+08:00",
+      "fetchedAt": "2026-10-14T12:20:44.736+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 35,
+          "usedPct": 36,
           "resetAt": "2026-10-14T13:59:33.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 16,
+          "usedPct": 17,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T12:10:08.980+08:00",
+      "fetchedAt": "2026-10-14T12:20:44.994+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T12:10:08.989+08:00",
+      "fetchedAt": "2026-10-14T12:20:45.003+08:00",
       "error": null
     }
   }
