@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T16:50:44.566+08:00",
+  "updatedAt": "2026-10-14T17:00:28.709+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.6,
-    "feelsLikeC": 23.4,
-    "humidity": 41,
-    "windKph": 9.2,
+    "tempC": 24.2,
+    "feelsLikeC": 23,
+    "humidity": 42,
+    "windKph": 9.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T16:50:44.566+08:00",
+    "observedAt": "2026-10-14T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-14T17:00:28.710+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "早期像感冒却可能迅速致命 如何科学预防肺炭疽？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-14/10714510.shtml",
-        "publishedAt": "2026-10-14T16:47:13.000+08:00"
+        "title": "港大创新节2026开幕 逾120项科研成果亮相",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714508.shtml",
+        "publishedAt": "2026-10-14T16:52:09.000+08:00"
       },
       {
-        "title": "南宁海关关于2026年10月份“关长接待日”改期及接待领导调整的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714505.shtml",
-        "publishedAt": "2026-10-14T16:45:21.000+08:00"
+        "title": "辽宁大连办国际油脂油料大会 中国期货市场对外开放受关注",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714509.shtml",
+        "publishedAt": "2026-10-14T16:51:39.000+08:00"
       },
       {
-        "title": "直播海报：长征路上学党史｜登临六盘山 共赏红旗漫卷",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714502.shtml",
-        "publishedAt": "2026-10-14T16:42:43.000+08:00"
+        "title": "日媒称黑龙江省一代表团访问日俄争议地区 外交部回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714516.shtml",
+        "publishedAt": "2026-10-14T16:51:11.000+08:00"
       },
       {
-        "title": "两岸经贸数据戳破民进党当局“脱钩断链”幻想（两岸观察）",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714499.shtml",
-        "publishedAt": "2026-10-14T16:38:10.000+08:00"
+        "title": "评论：口岸“加速度” 湾区“心联通”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714515.shtml",
+        "publishedAt": "2026-10-14T16:50:29.000+08:00"
       },
       {
-        "title": "广州法院“广交会一站式解纷平台”上线",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714489.shtml",
-        "publishedAt": "2026-10-14T16:35:32.000+08:00"
+        "title": "长春大冬会将于2027年1月15日至25日举办 各项筹备工作已全面展开",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714473.shtml",
+        "publishedAt": "2026-10-14T16:50:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T16:50:04.629+08:00",
+    "fetchedAt": "2026-10-14T17:00:06.424+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 29.3,
+          "usedPct": 30.4,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 1061 / 1500 AIC"
+          "detailText": "剩余 1045 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T16:50:42.746+08:00",
+      "fetchedAt": "2026-10-14T17:00:26.743+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T16:50:42.998+08:00",
+      "fetchedAt": "2026-10-14T17:00:26.982+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T16:50:43.007+08:00",
+      "fetchedAt": "2026-10-14T17:00:26.991+08:00",
       "error": null
     }
   }
