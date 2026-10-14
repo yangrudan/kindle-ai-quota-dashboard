@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T17:50:22.183+08:00",
+  "updatedAt": "2026-10-14T18:00:15.887+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.2,
-    "feelsLikeC": 22,
-    "humidity": 47,
+    "tempC": 22.8,
+    "feelsLikeC": 21.8,
+    "humidity": 49,
     "windKph": 10.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T17:50:22.184+08:00",
+    "observedAt": "2026-10-14T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-14T18:00:15.887+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "游客打卡都匀秦汉影视城 感受秦汉古韵",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714554.shtml",
+        "publishedAt": "2026-10-14T17:50:24.000+08:00"
+      },
       {
         "title": "演艺直播的下一程，深耕内容方能长效经营",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714548.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "河南杞县：光通信器件生产忙",
         "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714539.shtml",
         "publishedAt": "2026-10-14T17:34:35.000+08:00"
-      },
-      {
-        "title": "阿迪达斯全球CEO古尔登：中国创意和人才正反哺全球市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714538.shtml",
-        "publishedAt": "2026-10-14T17:34:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T17:50:11.546+08:00",
+    "fetchedAt": "2026-10-14T18:00:06.687+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T17:50:20.849+08:00",
+      "fetchedAt": "2026-10-14T18:00:13.907+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T17:50:21.111+08:00",
+      "fetchedAt": "2026-10-14T18:00:14.175+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T17:50:21.120+08:00",
+      "fetchedAt": "2026-10-14T18:00:14.184+08:00",
       "error": null
     }
   }
