@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T21:40:11.614+08:00",
+  "updatedAt": "2026-10-14T21:50:50.016+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20,
-    "feelsLikeC": 19.2,
+    "tempC": 19.8,
+    "feelsLikeC": 18.9,
     "humidity": 61,
-    "windKph": 10,
+    "windKph": 9.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-14T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T21:40:11.614+08:00",
+    "observedAt": "2026-10-14T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-14T21:50:50.016+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中外学者：在多元与一统中探寻文明互鉴之道",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714664.shtml",
-        "publishedAt": "2026-10-14T21:32:47.000+08:00"
+        "title": "2026环广西世巡赛完成崇左—靖西赛段",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714685.shtml",
+        "publishedAt": "2026-10-14T21:42:17.000+08:00"
       },
       {
-        "title": "（投资中国）百隆中国总部迁址焕新 持续加码中国市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714663.shtml",
-        "publishedAt": "2026-10-14T21:28:22.000+08:00"
+        "title": "广西横州市云表镇20栋灾后新居集中交付",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714683.shtml",
+        "publishedAt": "2026-10-14T21:42:15.000+08:00"
       },
       {
-        "title": "航拍世界客家祖地福建宁化石壁 “丰”景如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714655.shtml",
-        "publishedAt": "2026-10-14T21:24:54.000+08:00"
+        "title": "邂逅“国宝”萌态 海外华媒实地探访四川卧龙大熊猫繁育保护一线",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-14/10714682.shtml",
+        "publishedAt": "2026-10-14T21:42:11.000+08:00"
       },
       {
-        "title": "杭州数千球形桂花树进入观赏期 交旅融合带动“赏桂热”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714644.shtml",
-        "publishedAt": "2026-10-14T21:23:16.000+08:00"
+        "title": "香港赈灾基金援助广西宾阳 万余户民众获救助物资",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714680.shtml",
+        "publishedAt": "2026-10-14T21:42:09.000+08:00"
       },
       {
-        "title": "海外华文媒体参访卧龙神树坪基地 聚焦大熊猫繁育救护与野化研究",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714633.shtml",
-        "publishedAt": "2026-10-14T21:20:28.000+08:00"
+        "title": "2025年度长三角G60科创走廊U30青年创业榜单在沪发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714679.shtml",
+        "publishedAt": "2026-10-14T21:42:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T21:40:03.957+08:00",
+    "fetchedAt": "2026-10-14T21:50:03.391+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T21:40:09.959+08:00",
+      "fetchedAt": "2026-10-14T21:50:48.522+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T21:40:10.245+08:00",
+      "fetchedAt": "2026-10-14T21:50:48.873+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T21:40:10.254+08:00",
+      "fetchedAt": "2026-10-14T21:50:48.881+08:00",
       "error": null
     }
   }
