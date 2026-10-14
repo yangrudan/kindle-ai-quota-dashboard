@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T20:10:45.275+08:00",
+  "updatedAt": "2026-10-14T20:20:15.329+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21,
-    "feelsLikeC": 20.4,
+    "tempC": 20.9,
+    "feelsLikeC": 20.2,
     "humidity": 59,
-    "windKph": 9.2,
+    "windKph": 9.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-14T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T20:10:45.275+08:00",
+    "observedAt": "2026-10-14T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-14T20:20:15.330+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714627.shtml",
+        "publishedAt": "2026-10-14T20:07:54.000+08:00"
+      },
+      {
+        "title": "2026年国际议员友好交流论坛天津宣言",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714630.shtml",
+        "publishedAt": "2026-10-14T20:07:38.000+08:00"
+      },
       {
         "title": "（活力中国调研行）陕西大荔：黄河岸边“蟹”丰收",
         "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714608.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "广西壮族自治区国资委原副主任聂江武接受审查调查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714625.shtml",
         "publishedAt": "2026-10-14T19:57:01.000+08:00"
-      },
-      {
-        "title": "赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714589.shtml",
-        "publishedAt": "2026-10-14T19:55:23.000+08:00"
-      },
-      {
-        "title": "广西壮族自治区南宁职业技术大学原党委书记黄明瑞被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714622.shtml",
-        "publishedAt": "2026-10-14T19:55:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T20:10:04.984+08:00",
+    "fetchedAt": "2026-10-14T20:20:05.353+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T20:10:43.562+08:00",
+      "fetchedAt": "2026-10-14T20:20:13.360+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T20:10:43.833+08:00",
+      "fetchedAt": "2026-10-14T20:20:13.627+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T20:10:43.843+08:00",
+      "fetchedAt": "2026-10-14T20:20:13.631+08:00",
       "error": null
     }
   }
