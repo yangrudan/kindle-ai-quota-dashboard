@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T18:00:15.887+08:00",
+  "updatedAt": "2026-10-14T18:10:20.293+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-14T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T18:00:15.887+08:00",
+    "fetchedAt": "2026-10-14T18:10:20.293+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "湘潭以“服务专员”优化营商环境",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714553.shtml",
+        "publishedAt": "2026-10-14T17:54:15.000+08:00"
+      },
+      {
+        "title": "中国杂交水稻制种实现重大突破 科研团队揭秘高产故事",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714551.shtml",
+        "publishedAt": "2026-10-14T17:53:25.000+08:00"
+      },
+      {
+        "title": "新能源硬派SUV银河战舰700全球上市16.98万起，与代言人谢霆锋共同诠释进化精神",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714556.shtml",
+        "publishedAt": "2026-10-14T17:52:12.000+08:00"
+      },
       {
         "title": "游客打卡都匀秦汉影视城 感受秦汉古韵",
         "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714554.shtml",
@@ -28,24 +43,9 @@
         "title": "演艺直播的下一程，深耕内容方能长效经营",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714548.shtml",
         "publishedAt": "2026-10-14T17:40:34.000+08:00"
-      },
-      {
-        "title": "上海南港船员驿站正式启用，每年可服务上岸船员约6000人次",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714543.shtml",
-        "publishedAt": "2026-10-14T17:38:18.000+08:00"
-      },
-      {
-        "title": "打通服务“最后一公里” 2026年山西省“社保服务进万家”活动启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714540.shtml",
-        "publishedAt": "2026-10-14T17:34:35.000+08:00"
-      },
-      {
-        "title": "河南杞县：光通信器件生产忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714539.shtml",
-        "publishedAt": "2026-10-14T17:34:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T18:00:06.687+08:00",
+    "fetchedAt": "2026-10-14T18:10:08.081+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T18:00:13.907+08:00",
+      "fetchedAt": "2026-10-14T18:10:17.852+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T18:00:14.175+08:00",
+      "fetchedAt": "2026-10-14T18:10:18.118+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T18:00:14.184+08:00",
+      "fetchedAt": "2026-10-14T18:10:18.126+08:00",
       "error": null
     }
   }
