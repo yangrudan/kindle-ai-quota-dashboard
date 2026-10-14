@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T23:50:11.257+08:00",
+  "updatedAt": "2026-10-15T00:00:15.181+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 18.2,
-    "humidity": 65,
-    "windKph": 8.4,
+    "tempC": 18.7,
+    "feelsLikeC": 18.1,
+    "humidity": 66,
+    "windKph": 8.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-14T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T23:50:11.257+08:00",
+    "observedAt": "2026-10-15T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-15T00:00:15.182+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "两艘新加坡籍船只在霍尔木兹海峡遭袭",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714745.shtml",
+        "publishedAt": "2026-10-14T23:54:50.000+08:00"
+      },
       {
         "title": "（经济观察）70年广交会，见证中国与世界的双向奔赴",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714744.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "海峡两岸暨港澳地区人士香港座谈 传承中山精神共谋民族复兴",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714741.shtml",
         "publishedAt": "2026-10-14T23:26:11.000+08:00"
-      },
-      {
-        "title": "全国职工红色主题阅读活动走进甘肃会宁",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714737.shtml",
-        "publishedAt": "2026-10-14T23:25:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T23:50:04.166+08:00",
+    "fetchedAt": "2026-10-15T00:00:04.077+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T23:50:09.815+08:00",
+      "fetchedAt": "2026-10-15T00:00:13.376+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T23:50:09.999+08:00",
+      "fetchedAt": "2026-10-15T00:00:13.549+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T23:50:10.004+08:00",
+      "fetchedAt": "2026-10-15T00:00:13.557+08:00",
       "error": null
     }
   }
