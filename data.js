@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T08:10:09.033+08:00",
+  "updatedAt": "2026-10-14T08:20:10.286+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.3,
-    "feelsLikeC": 21.2,
-    "humidity": 76,
-    "windKph": 7.1,
-    "windDir": "北风",
+    "tempC": 20.7,
+    "feelsLikeC": 21.5,
+    "humidity": 73,
+    "windKph": 7.6,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T08:10:09.034+08:00",
+    "observedAt": "2026-10-14T08:15:00.000+08:00",
+    "fetchedAt": "2026-10-14T08:20:10.286+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "近一小时报警录音解密美国女囚死刑幸存案：一度被指虚假报警",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714114.shtml",
+        "publishedAt": "2026-10-14T08:13:29.000+08:00"
+      },
+      {
+        "title": "公安网安部门公布4起涉舆情敲诈等类型黑恶犯罪典型案例",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-14/10714113.shtml",
+        "publishedAt": "2026-10-14T08:11:19.000+08:00"
+      },
+      {
+        "title": "手撕洗衣凝珠爆裂伤眼冲上热搜 产品无“禁止手撕”提示有何风险？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714112.shtml",
+        "publishedAt": "2026-10-14T08:03:26.000+08:00"
+      },
       {
         "title": "人这一辈子，一定要自驾一次阿禾公路看秋天！",
         "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714111.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "泽连斯基将访问英国 伯纳姆承诺向乌克兰提供新一轮军援",
         "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714110.shtml",
         "publishedAt": "2026-10-14T07:53:50.000+08:00"
-      },
-      {
-        "title": "雅思考试连续多日被取消 主办方：增设两天免费专场",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-14/10714109.shtml",
-        "publishedAt": "2026-10-14T07:49:28.000+08:00"
-      },
-      {
-        "title": "别让“搭子”沦为灰色交易的幌子",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714108.shtml",
-        "publishedAt": "2026-10-14T07:42:21.000+08:00"
-      },
-      {
-        "title": "碳水节、烧烤节席卷各地，“舌尖上”的节日如何越做越红火？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714107.shtml",
-        "publishedAt": "2026-10-14T07:38:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T08:10:04.021+08:00",
+    "fetchedAt": "2026-10-14T08:20:03.392+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T08:10:07.999+08:00",
+      "fetchedAt": "2026-10-14T08:20:09.141+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T13:10:08.000+08:00"
+          "resetAt": "2026-10-14T13:20:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T08:10:08.215+08:00",
+      "fetchedAt": "2026-10-14T08:20:09.346+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T08:10:08.220+08:00",
+      "fetchedAt": "2026-10-14T08:20:09.354+08:00",
       "error": null
     }
   }
