@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-14T21:50:50.016+08:00",
+  "updatedAt": "2026-10-14T22:00:13.518+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.8,
-    "feelsLikeC": 18.9,
+    "tempC": 19.6,
+    "feelsLikeC": 18.7,
     "humidity": 61,
-    "windKph": 9.9,
+    "windKph": 9.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-14T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T21:50:50.016+08:00",
+    "observedAt": "2026-10-14T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-14T22:00:13.518+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026环广西世巡赛完成崇左—靖西赛段",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714685.shtml",
-        "publishedAt": "2026-10-14T21:42:17.000+08:00"
+        "title": "前三季度广东全社会用电量同比增长7.67%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714726.shtml",
+        "publishedAt": "2026-10-14T21:53:20.000+08:00"
       },
       {
-        "title": "广西横州市云表镇20栋灾后新居集中交付",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714683.shtml",
-        "publishedAt": "2026-10-14T21:42:15.000+08:00"
+        "title": "（长征胜利90周年）湖南桑植“火把”新传：从长征夜路到振兴征途",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714717.shtml",
+        "publishedAt": "2026-10-14T21:52:12.000+08:00"
       },
       {
-        "title": "邂逅“国宝”萌态 海外华媒实地探访四川卧龙大熊猫繁育保护一线",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-14/10714682.shtml",
-        "publishedAt": "2026-10-14T21:42:11.000+08:00"
+        "title": "2026国际大学生葡萄酒艺术嘉年华银川启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714716.shtml",
+        "publishedAt": "2026-10-14T21:50:39.000+08:00"
       },
       {
-        "title": "香港赈灾基金援助广西宾阳 万余户民众获救助物资",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714680.shtml",
-        "publishedAt": "2026-10-14T21:42:09.000+08:00"
+        "title": "进口增速快于出口，中国大市场澎湃全球新机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714713.shtml",
+        "publishedAt": "2026-10-14T21:50:11.000+08:00"
       },
       {
-        "title": "2025年度长三角G60科创走廊U30青年创业榜单在沪发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714679.shtml",
-        "publishedAt": "2026-10-14T21:42:07.000+08:00"
+        "title": "黑龙江双鸭山：挠力河保护区迎来秋季候鸟迁徙高峰",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714714.shtml",
+        "publishedAt": "2026-10-14T21:49:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T21:50:03.391+08:00",
+    "fetchedAt": "2026-10-14T22:00:05.097+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T21:50:48.522+08:00",
+      "fetchedAt": "2026-10-14T22:00:12.182+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T21:50:48.873+08:00",
+      "fetchedAt": "2026-10-14T22:00:12.501+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T21:50:48.881+08:00",
+      "fetchedAt": "2026-10-14T22:00:12.510+08:00",
       "error": null
     }
   }
