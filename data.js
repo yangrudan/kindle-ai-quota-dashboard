@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T14:00:15.342+08:00",
+  "updatedAt": "2026-10-14T14:10:23.048+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 26,
-    "feelsLikeC": 25,
+    "feelsLikeC": 24.8,
     "humidity": 37,
-    "windKph": 7.6,
+    "windKph": 7.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T14:00:15.342+08:00",
+    "observedAt": "2026-10-14T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-14T14:10:23.048+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "一碗川渝酸辣粉，如何让河南小城长出百亿产值？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714363.shtml",
+        "publishedAt": "2026-10-14T14:01:46.000+08:00"
+      },
+      {
+        "title": "9月中国CPI同比涨幅扩大至0.9%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714359.shtml",
+        "publishedAt": "2026-10-14T14:01:10.000+08:00"
+      },
+      {
+        "title": "印度比哈尔邦翻船事故已致13人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714360.shtml",
+        "publishedAt": "2026-10-14T13:59:06.000+08:00"
+      },
+      {
+        "title": "沙特国家石油公司一栋办公楼遭袭起火",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714308.shtml",
+        "publishedAt": "2026-10-14T13:59:00.000+08:00"
+      },
+      {
         "title": "税收数据：横琴粤澳深度合作区建成五年成效显",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714332.shtml",
         "publishedAt": "2026-10-14T13:45:43.000+08:00"
-      },
-      {
-        "title": "人形机器人退休了怎么办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714347.shtml",
-        "publishedAt": "2026-10-14T13:45:21.000+08:00"
-      },
-      {
-        "title": "新疆哈密市骆驼产业高质量发展大会举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714336.shtml",
-        "publishedAt": "2026-10-14T13:39:23.000+08:00"
-      },
-      {
-        "title": "解读全国卫生与健康大会，释放哪些新信号↓",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-14/10714337.shtml",
-        "publishedAt": "2026-10-14T13:37:37.000+08:00"
-      },
-      {
-        "title": "辽宁省铁岭市“法企同心·共话发展”企业家座谈会举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714323.shtml",
-        "publishedAt": "2026-10-14T13:35:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T14:00:04.405+08:00",
+    "fetchedAt": "2026-10-14T14:10:05.044+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T14:00:12.692+08:00",
+      "fetchedAt": "2026-10-14T14:10:21.128+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-14T19:00:15.000+08:00"
+          "usedPct": 5,
+          "resetAt": "2026-10-14T19:00:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 17,
+          "usedPct": 18,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T14:00:12.984+08:00",
+      "fetchedAt": "2026-10-14T14:10:21.488+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T14:00:12.993+08:00",
+      "fetchedAt": "2026-10-14T14:10:21.492+08:00",
       "error": null
     }
   }
