@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T12:30:14.765+08:00",
+  "updatedAt": "2026-10-14T12:40:11.183+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-14T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T12:30:14.765+08:00",
+    "fetchedAt": "2026-10-14T12:40:11.183+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习言道｜要建成什么样的健康中国？习近平强调八个字",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714289.shtml",
-        "publishedAt": "2026-10-14T12:24:11.000+08:00"
+        "title": "全国泳坛小将齐聚西安 古城上演泳池竞速",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714274.shtml",
+        "publishedAt": "2026-10-14T12:33:35.000+08:00"
       },
       {
-        "title": "湖北九宫山秋季候鸟监测发现多种珍稀鸟类",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714282.shtml",
-        "publishedAt": "2026-10-14T12:22:43.000+08:00"
+        "title": "中欧数字环境下版权保护研讨会在银川举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714275.shtml",
+        "publishedAt": "2026-10-14T12:30:07.000+08:00"
       },
       {
-        "title": "从浦东国际机场口岸入境外籍人员数量连续四天刷新年度纪录",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714284.shtml",
-        "publishedAt": "2026-10-14T12:20:44.000+08:00"
+        "title": "上海市侨务工作会议召开：凝聚侨心侨力 服务中心大局",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714278.shtml",
+        "publishedAt": "2026-10-14T12:29:15.000+08:00"
       },
       {
-        "title": "前三季度中国进出口总值同比增长18.8%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714285.shtml",
-        "publishedAt": "2026-10-14T12:19:22.000+08:00"
+        "title": "湖南湘江新区动漫产业出海观察：从“借船”到“造船”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714279.shtml",
+        "publishedAt": "2026-10-14T12:27:29.000+08:00"
       },
       {
-        "title": "汇聚侨心侨力侨智 浙江召开全省侨务工作会议",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714288.shtml",
-        "publishedAt": "2026-10-14T12:18:50.000+08:00"
+        "title": "重庆统战青年：走进创新一线 彰显统战作为",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714281.shtml",
+        "publishedAt": "2026-10-14T12:25:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T12:30:05.746+08:00",
+    "fetchedAt": "2026-10-14T12:40:04.334+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T12:30:12.868+08:00",
+      "fetchedAt": "2026-10-14T12:40:10.063+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T12:30:13.025+08:00",
+      "fetchedAt": "2026-10-14T12:40:10.306+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T12:30:13.034+08:00",
+      "fetchedAt": "2026-10-14T12:40:10.312+08:00",
       "error": null
     }
   }
