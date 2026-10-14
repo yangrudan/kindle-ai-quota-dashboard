@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T14:30:33.490+08:00",
+  "updatedAt": "2026-10-14T14:40:16.895+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-14T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T14:30:33.490+08:00",
+    "fetchedAt": "2026-10-14T14:40:16.895+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美国佛州一囚犯被执行注射死刑",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714286.shtml",
-        "publishedAt": "2026-10-14T14:23:35.000+08:00"
+        "title": "电子档案如何“存得久”又“用得好”？ 政企学共探破题之道",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714386.shtml",
+        "publishedAt": "2026-10-14T14:32:40.000+08:00"
       },
       {
-        "title": "吉林桦甸：两百年金矿变身“黄金博物馆” 工业遗产焕发新活力",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714384.shtml",
-        "publishedAt": "2026-10-14T14:21:47.000+08:00"
+        "title": "远洋航运脱碳新选择！绿氨需求量持续增长 发展空间广阔",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714397.shtml",
+        "publishedAt": "2026-10-14T14:32:06.000+08:00"
       },
       {
-        "title": "安徽建成的国家级幸福河湖数量位居全国第一",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714383.shtml",
-        "publishedAt": "2026-10-14T14:20:51.000+08:00"
+        "title": "拱北海关技术中心实验室仪器设备校准服务项目（第二次）成交公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714391.shtml",
+        "publishedAt": "2026-10-14T14:28:41.000+08:00"
       },
       {
-        "title": "第33届世界大学生冬季运动会火种欢迎仪式在长春举行",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-14/1207782.shtml",
-        "publishedAt": "2026-10-14T14:20:08.000+08:00"
+        "title": "“侨聚楚雄·同心圆梦”海外侨领楚雄行圆满收官：以侨为桥共绘滇中合作新图景",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714326.shtml",
+        "publishedAt": "2026-10-14T14:28:31.000+08:00"
       },
       {
-        "title": "2026年广东省青少年武术套路锦标赛在佛山举行",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714366.shtml",
-        "publishedAt": "2026-10-14T14:19:35.000+08:00"
+        "title": "9月中国仓储行业运行向好 景气水平回升",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714351.shtml",
+        "publishedAt": "2026-10-14T14:26:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T14:30:04.741+08:00",
+    "fetchedAt": "2026-10-14T14:40:03.920+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T14:30:30.512+08:00",
+      "fetchedAt": "2026-10-14T14:40:15.396+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 14,
+          "usedPct": 22,
           "resetAt": "2026-10-14T19:00:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 19,
+          "usedPct": 21,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T14:30:30.734+08:00",
+      "fetchedAt": "2026-10-14T14:40:15.604+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T14:30:30.737+08:00",
+      "fetchedAt": "2026-10-14T14:40:15.609+08:00",
       "error": null
     }
   }
