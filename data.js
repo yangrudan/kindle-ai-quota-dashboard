@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T16:10:32.472+08:00",
+  "updatedAt": "2026-10-14T16:20:48.172+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.5,
-    "feelsLikeC": 24.4,
+    "tempC": 25.2,
+    "feelsLikeC": 24.1,
     "humidity": 39,
-    "windKph": 8,
+    "windKph": 8.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T16:10:32.473+08:00",
+    "observedAt": "2026-10-14T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-14T16:20:48.172+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河南洛栾快速通道德亭段发生交通事故致2人死亡",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714459.shtml",
-        "publishedAt": "2026-10-14T16:03:07.000+08:00"
+        "title": "国际油脂油料大会在辽宁大连举行 多国嘉宾看好中国期货市场对外开放机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714457.shtml",
+        "publishedAt": "2026-10-14T16:12:59.000+08:00"
       },
       {
-        "title": "高原上的接力者——湘鄂皖医疗援藏守护山南群众健康",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714455.shtml",
-        "publishedAt": "2026-10-14T16:00:30.000+08:00"
+        "title": "山西吕梁：一座山区市的教育“翻身仗”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714456.shtml",
+        "publishedAt": "2026-10-14T16:12:13.000+08:00"
       },
       {
-        "title": "全国卫生与健康大会，释放哪些新信号？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-14/10714454.shtml",
-        "publishedAt": "2026-10-14T15:59:24.000+08:00"
+        "title": "前三季度 我国与共建“一带一路”国家进出口超20万亿元",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-14/10714468.shtml",
+        "publishedAt": "2026-10-14T16:08:47.000+08:00"
       },
       {
-        "title": "畅通实体经济“筋络”多维度解读前8月物流成绩单",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714453.shtml",
-        "publishedAt": "2026-10-14T15:57:30.000+08:00"
+        "title": "福建宁化月产千万片镜片 远销海内外",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714466.shtml",
+        "publishedAt": "2026-10-14T16:08:05.000+08:00"
       },
       {
-        "title": "文旅消费市场活力奔涌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714452.shtml",
-        "publishedAt": "2026-10-14T15:56:28.000+08:00"
+        "title": "贵州都匀：绿博园秋景宜人",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714465.shtml",
+        "publishedAt": "2026-10-14T16:07:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T16:10:08.800+08:00",
+    "fetchedAt": "2026-10-14T16:20:04.782+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1061 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T16:10:30.537+08:00",
+      "fetchedAt": "2026-10-14T16:20:46.728+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 79,
+          "usedPct": 85,
           "resetAt": "2026-10-14T19:00:59.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T16:10:30.798+08:00",
+      "fetchedAt": "2026-10-14T16:20:46.983+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T16:10:30.805+08:00",
+      "fetchedAt": "2026-10-14T16:20:46.994+08:00",
       "error": null
     }
   }
