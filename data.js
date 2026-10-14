@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T21:20:14.317+08:00",
+  "updatedAt": "2026-10-14T21:30:45.795+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.2,
-    "feelsLikeC": 19.5,
+    "tempC": 20,
+    "feelsLikeC": 19.2,
     "humidity": 61,
-    "windKph": 9.8,
+    "windKph": 10,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-14T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-14T21:20:14.317+08:00",
+    "observedAt": "2026-10-14T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-14T21:30:45.795+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "杭州数千球形桂花树进入观赏期 交旅融合带动“赏桂热”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714644.shtml",
+        "publishedAt": "2026-10-14T21:23:16.000+08:00"
+      },
+      {
+        "title": "海外华文媒体参访卧龙神树坪基地 聚焦大熊猫繁育救护与野化研究",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714633.shtml",
+        "publishedAt": "2026-10-14T21:20:28.000+08:00"
+      },
       {
         "title": "“四川与智利、西班牙、巴西文化邂逅之旅”在成都举行",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714648.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "第六届百城万人健心跑公益活动东莞开跑",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714656.shtml",
         "publishedAt": "2026-10-14T21:15:42.000+08:00"
-      },
-      {
-        "title": "上海初步形成现代职业教育发展格局",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714654.shtml",
-        "publishedAt": "2026-10-14T21:15:40.000+08:00"
-      },
-      {
-        "title": "湖南湘潭公共资源交易装上“AI大脑” 校园餐实现“降价不降质”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714653.shtml",
-        "publishedAt": "2026-10-14T21:15:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T21:20:06.161+08:00",
+    "fetchedAt": "2026-10-14T21:30:05.065+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T21:20:13.079+08:00",
+      "fetchedAt": "2026-10-14T21:30:43.320+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T21:20:13.347+08:00",
+      "fetchedAt": "2026-10-14T21:30:43.613+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T21:20:13.351+08:00",
+      "fetchedAt": "2026-10-14T21:30:43.623+08:00",
       "error": null
     }
   }
