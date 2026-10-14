@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T13:00:19.204+08:00",
+  "updatedAt": "2026-10-14T13:10:10.857+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-14T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T13:00:19.204+08:00",
+    "fetchedAt": "2026-10-14T13:10:10.857+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国气象局启动重大气象灾害暴雨四级应急响应",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714304.shtml",
+        "publishedAt": "2026-10-14T12:57:22.000+08:00"
+      },
       {
         "title": "巴特尔率全国政协代表团访问圭亚那",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714303.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026年“低碳中国行”广东系列宣传活动启动",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714270.shtml",
         "publishedAt": "2026-10-14T12:36:51.000+08:00"
-      },
-      {
-        "title": "广东持续高温 全省最高气温达35.2℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714271.shtml",
-        "publishedAt": "2026-10-14T12:36:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T13:00:04.511+08:00",
+    "fetchedAt": "2026-10-14T13:10:05.298+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T13:00:17.572+08:00",
+      "fetchedAt": "2026-10-14T13:10:09.660+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T13:00:17.829+08:00",
+      "fetchedAt": "2026-10-14T13:10:10.005+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T13:00:17.839+08:00",
+      "fetchedAt": "2026-10-14T13:10:10.015+08:00",
       "error": null
     }
   }
