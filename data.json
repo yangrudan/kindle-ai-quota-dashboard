@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T20:30:14.067+08:00",
+  "updatedAt": "2026-10-14T20:40:12.191+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-14T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T20:30:14.067+08:00",
+    "fetchedAt": "2026-10-14T20:40:12.191+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "宁波舟山港前三季度海铁联运业务量突破160万标箱",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714629.shtml",
+        "publishedAt": "2026-10-14T20:24:35.000+08:00"
+      },
+      {
+        "title": "9月末中国社会融资规模存量同比增长7.1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714628.shtml",
+        "publishedAt": "2026-10-14T20:23:59.000+08:00"
+      },
       {
         "title": "李强出席“广交世界70年”座谈会",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-14/1207842.shtml",
@@ -33,19 +43,9 @@
         "title": "2026年国际议员友好交流论坛天津宣言",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714630.shtml",
         "publishedAt": "2026-10-14T20:07:38.000+08:00"
-      },
-      {
-        "title": "（活力中国调研行）陕西大荔：黄河岸边“蟹”丰收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714608.shtml",
-        "publishedAt": "2026-10-14T19:58:53.000+08:00"
-      },
-      {
-        "title": "新疆和静秋景如画引游人打卡",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714614.shtml",
-        "publishedAt": "2026-10-14T19:57:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T20:30:05.837+08:00",
+    "fetchedAt": "2026-10-14T20:40:03.582+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T20:30:12.573+08:00",
+      "fetchedAt": "2026-10-14T20:40:10.848+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T20:30:12.833+08:00",
+      "fetchedAt": "2026-10-14T20:40:11.128+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T20:30:12.836+08:00",
+      "fetchedAt": "2026-10-14T20:40:11.138+08:00",
       "error": null
     }
   }
