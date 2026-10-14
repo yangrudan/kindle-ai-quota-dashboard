@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T11:50:11.979+08:00",
+  "updatedAt": "2026-10-14T12:00:12.612+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.9,
-    "feelsLikeC": 25.7,
-    "humidity": 46,
-    "windKph": 8.3,
+    "tempC": 25.1,
+    "feelsLikeC": 25.8,
+    "humidity": 45,
+    "windKph": 8.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T11:50:11.980+08:00",
+    "observedAt": "2026-10-14T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-14T12:00:12.613+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "A股午评：超3600只个股飘绿，沪指收涨，深指、创业板指收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714295.shtml",
-        "publishedAt": "2026-10-14T11:39:38.000+08:00"
+        "title": "“核”以报国 马余刚院士解码大科学时代的核科技前沿",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-14/10714290.shtml",
+        "publishedAt": "2026-10-14T11:53:59.000+08:00"
       },
       {
-        "title": "2026年“乡村振兴杯”青少年足球邀请赛在京开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714244.shtml",
-        "publishedAt": "2026-10-14T11:32:02.000+08:00"
+        "title": "河南通许：一碗酸辣粉“煮”出百亿产业",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714259.shtml",
+        "publishedAt": "2026-10-14T11:51:11.000+08:00"
       },
       {
-        "title": "AI进课堂，带来哪些变化",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-14/10714272.shtml",
-        "publishedAt": "2026-10-14T11:25:33.000+08:00"
+        "title": "长春大冬会正式点燃“知识之火”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714292.shtml",
+        "publishedAt": "2026-10-14T11:48:39.000+08:00"
       },
       {
-        "title": "国之所需的“天大答卷”| 新华智见",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714262.shtml",
-        "publishedAt": "2026-10-14T11:23:57.000+08:00"
+        "title": "长征路上学党史｜走进陕北 探访燎原星火",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-14/10714299.shtml",
+        "publishedAt": "2026-10-14T11:48:33.000+08:00"
       },
       {
-        "title": "海关总署：前三季度我国与共建“一带一路”国家进出口20.37万亿元",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-14/10714253.shtml",
-        "publishedAt": "2026-10-14T11:22:03.000+08:00"
+        "title": "中国葡萄酒以本土化品种与新场景拥抱大众消费",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714293.shtml",
+        "publishedAt": "2026-10-14T11:47:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T11:50:03.742+08:00",
+    "fetchedAt": "2026-10-14T12:00:04.463+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T11:50:10.144+08:00",
+      "fetchedAt": "2026-10-14T12:00:10.918+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 35,
-          "resetAt": "2026-10-14T13:59:34.000+08:00"
+          "resetAt": "2026-10-14T13:59:33.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T11:50:10.544+08:00",
+      "fetchedAt": "2026-10-14T12:00:11.294+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T11:50:10.549+08:00",
+      "fetchedAt": "2026-10-14T12:00:11.303+08:00",
       "error": null
     }
   }
