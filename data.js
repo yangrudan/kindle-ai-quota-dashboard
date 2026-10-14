@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T12:20:46.727+08:00",
+  "updatedAt": "2026-10-14T12:30:14.765+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.4,
-    "feelsLikeC": 26,
-    "humidity": 43,
+    "tempC": 25.6,
+    "feelsLikeC": 26.1,
+    "humidity": 42,
     "windKph": 7.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-14T12:20:46.727+08:00",
+    "observedAt": "2026-10-14T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-14T12:30:14.765+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习言道｜要建成什么样的健康中国？习近平强调八个字",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714289.shtml",
+        "publishedAt": "2026-10-14T12:24:11.000+08:00"
+      },
+      {
+        "title": "湖北九宫山秋季候鸟监测发现多种珍稀鸟类",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714282.shtml",
+        "publishedAt": "2026-10-14T12:22:43.000+08:00"
+      },
+      {
+        "title": "从浦东国际机场口岸入境外籍人员数量连续四天刷新年度纪录",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714284.shtml",
+        "publishedAt": "2026-10-14T12:20:44.000+08:00"
+      },
       {
         "title": "前三季度中国进出口总值同比增长18.8%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714285.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "汇聚侨心侨力侨智 浙江召开全省侨务工作会议",
         "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714288.shtml",
         "publishedAt": "2026-10-14T12:18:50.000+08:00"
-      },
-      {
-        "title": "海外华文媒体探访四姑娘山 感受生态文旅新活力",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-14/10714276.shtml",
-        "publishedAt": "2026-10-14T12:17:46.000+08:00"
-      },
-      {
-        "title": "湖南江永蔬菜移栽“机器换人” 筑牢大湾区“菜篮子”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714266.shtml",
-        "publishedAt": "2026-10-14T12:16:40.000+08:00"
-      },
-      {
-        "title": "湖南新田“药果套种”探索精品农业 激活乡村土地效益",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714265.shtml",
-        "publishedAt": "2026-10-14T12:16:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T12:20:06.156+08:00",
+    "fetchedAt": "2026-10-14T12:30:05.746+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T12:20:44.736+08:00",
+      "fetchedAt": "2026-10-14T12:30:12.868+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T12:20:44.994+08:00",
+      "fetchedAt": "2026-10-14T12:30:13.025+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T12:20:45.003+08:00",
+      "fetchedAt": "2026-10-14T12:30:13.034+08:00",
       "error": null
     }
   }
