@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T18:40:12.306+08:00",
+  "updatedAt": "2026-10-14T18:50:14.004+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.3,
-    "feelsLikeC": 21.4,
-    "humidity": 52,
-    "windKph": 9.7,
+    "tempC": 22.1,
+    "feelsLikeC": 21.3,
+    "humidity": 53,
+    "windKph": 9.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T18:40:12.306+08:00",
+    "observedAt": "2026-10-14T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-14T18:50:14.004+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国科学院科创中心原党委副书记、主任伍浩严重违纪违法被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714533.shtml",
-        "publishedAt": "2026-10-14T18:05:45.000+08:00"
+        "title": "（活力中国）广西打造双向互通贸易高地 陆海联运载来“东盟味”",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714560.shtml",
+        "publishedAt": "2026-10-14T18:42:37.000+08:00"
       },
       {
-        "title": "四川省成都市人大常委会原党组书记、主任包惠严重违纪违法被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714532.shtml",
-        "publishedAt": "2026-10-14T18:02:59.000+08:00"
+        "title": "印度航空一飞机发出劫机警报，威胁解除后再度起飞",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714573.shtml",
+        "publishedAt": "2026-10-14T18:41:39.000+08:00"
       },
       {
-        "title": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714549.shtml",
-        "publishedAt": "2026-10-14T18:02:41.000+08:00"
+        "title": "湖北恩施航空口岸年出入境客流首破5万人次",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714563.shtml",
+        "publishedAt": "2026-10-14T18:41:27.000+08:00"
       },
       {
-        "title": "国台办发布会聚焦中美元首会晤成果、回应沈伯洋相关热点",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714541.shtml",
-        "publishedAt": "2026-10-14T18:02:33.000+08:00"
+        "title": "中国A股游戏板块周三逆势上涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714559.shtml",
+        "publishedAt": "2026-10-14T18:40:57.000+08:00"
       },
       {
-        "title": "重庆市委常委会举行会议 坚决拥护党中央对黄奇帆涉嫌严重违纪违法进行纪律审查和监察调查的决定 市委书记袁家",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714528.shtml",
-        "publishedAt": "2026-10-14T18:01:59.000+08:00"
+        "title": "2026年通北景泰蓝技艺展示交流活动在河北大厂举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714558.shtml",
+        "publishedAt": "2026-10-14T18:40:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T18:40:03.848+08:00",
+    "fetchedAt": "2026-10-14T18:50:05.307+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T18:40:11.040+08:00",
+      "fetchedAt": "2026-10-14T18:50:11.734+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T18:40:11.350+08:00",
+      "fetchedAt": "2026-10-14T18:50:12.019+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T18:40:11.353+08:00",
+      "fetchedAt": "2026-10-14T18:50:12.028+08:00",
       "error": null
     }
   }
