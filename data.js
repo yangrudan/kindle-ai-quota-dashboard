@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T22:30:45.454+08:00",
+  "updatedAt": "2026-10-14T22:40:13.058+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.4,
-    "feelsLikeC": 18.6,
-    "humidity": 62,
-    "windKph": 9.5,
+    "tempC": 19.3,
+    "feelsLikeC": 18.5,
+    "humidity": 63,
+    "windKph": 9.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-14T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-14T22:30:45.454+08:00",
+    "observedAt": "2026-10-14T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-14T22:40:13.059+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一条施工道路成为连接中资企业与柬埔寨民心的纽带",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714732.shtml",
+        "publishedAt": "2026-10-14T22:35:58.000+08:00"
+      },
+      {
+        "title": "中国首批绿证跨境集中交易达成 联通香港国际绿色金融市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714731.shtml",
+        "publishedAt": "2026-10-14T22:31:54.000+08:00"
+      },
       {
         "title": "海南推广地质灾害一键报灾小程序 隐患即拍即报",
         "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714730.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "日本农林水产大臣梁和生因失言等丑闻辞职",
         "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714666.shtml",
         "publishedAt": "2026-10-14T22:04:02.000+08:00"
-      },
-      {
-        "title": "印尼加强林火扑救和追责 223人和9家企业涉嫌疑",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714649.shtml",
-        "publishedAt": "2026-10-14T22:02:58.000+08:00"
-      },
-      {
-        "title": "广西三江：罗汉果甜富农家",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714729.shtml",
-        "publishedAt": "2026-10-14T22:02:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T22:30:04.348+08:00",
+    "fetchedAt": "2026-10-14T22:40:04.297+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T22:30:40.971+08:00",
+      "fetchedAt": "2026-10-14T22:40:09.958+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T22:30:41.227+08:00",
+      "fetchedAt": "2026-10-14T22:40:10.204+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T22:30:41.237+08:00",
+      "fetchedAt": "2026-10-14T22:40:10.215+08:00",
       "error": null
     }
   }
