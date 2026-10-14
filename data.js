@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T08:30:09.067+08:00",
+  "updatedAt": "2026-10-14T08:40:17.669+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.7,
-    "feelsLikeC": 21.5,
-    "humidity": 73,
-    "windKph": 7.6,
+    "tempC": 21.1,
+    "feelsLikeC": 21.7,
+    "humidity": 70,
+    "windKph": 8.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T08:15:00.000+08:00",
-    "fetchedAt": "2026-10-14T08:30:09.068+08:00",
+    "observedAt": "2026-10-14T08:30:00.000+08:00",
+    "fetchedAt": "2026-10-14T08:40:17.669+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "近一小时报警录音解密美国女囚死刑幸存案：一度被指虚假报警",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714114.shtml",
-        "publishedAt": "2026-10-14T08:13:29.000+08:00"
+        "title": "IMF上调英国今年经济增长预期",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714116.shtml",
+        "publishedAt": "2026-10-14T08:35:34.000+08:00"
       },
       {
-        "title": "公安网安部门公布4起涉舆情敲诈等类型黑恶犯罪典型案例",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-14/10714113.shtml",
-        "publishedAt": "2026-10-14T08:11:19.000+08:00"
+        "title": "哈萨克斯坦今年前三季度GDP同比增长4.2%",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714115.shtml",
+        "publishedAt": "2026-10-14T08:34:50.000+08:00"
       },
       {
-        "title": "手撕洗衣凝珠爆裂伤眼冲上热搜 产品无“禁止手撕”提示有何风险？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714112.shtml",
-        "publishedAt": "2026-10-14T08:03:26.000+08:00"
+        "title": "中国海军辽宁舰航母编队赴西太平洋相关海域开展训练",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714123.shtml",
+        "publishedAt": "2026-10-14T08:34:06.000+08:00"
       },
       {
-        "title": "人这一辈子，一定要自驾一次阿禾公路看秋天！",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714111.shtml",
-        "publishedAt": "2026-10-14T07:58:54.000+08:00"
+        "title": "苹果公司发布搭载人工智能语音助手的家居新品",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714120.shtml",
+        "publishedAt": "2026-10-14T08:33:46.000+08:00"
       },
       {
-        "title": "泽连斯基将访问英国 伯纳姆承诺向乌克兰提供新一轮军援",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714110.shtml",
-        "publishedAt": "2026-10-14T07:53:50.000+08:00"
+        "title": "一年中最舒服的日子来了 大数据揭秘哪里最易邂逅秋高气爽",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714126.shtml",
+        "publishedAt": "2026-10-14T08:25:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T08:30:03.957+08:00",
+    "fetchedAt": "2026-10-14T08:40:04.157+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T08:30:07.983+08:00",
+      "fetchedAt": "2026-10-14T08:40:16.330+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T13:30:09.000+08:00"
+          "resetAt": "2026-10-14T13:40:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T08:30:08.194+08:00",
+      "fetchedAt": "2026-10-14T08:40:16.549+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T08:30:08.204+08:00",
+      "fetchedAt": "2026-10-14T08:40:16.560+08:00",
       "error": null
     }
   }
