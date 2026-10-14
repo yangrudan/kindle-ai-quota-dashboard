@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T08:00:09.500+08:00",
+  "updatedAt": "2026-10-14T08:10:09.033+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-14T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T08:00:09.500+08:00",
+    "fetchedAt": "2026-10-14T08:10:09.034+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "人这一辈子，一定要自驾一次阿禾公路看秋天！",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714111.shtml",
+        "publishedAt": "2026-10-14T07:58:54.000+08:00"
+      },
       {
         "title": "泽连斯基将访问英国 伯纳姆承诺向乌克兰提供新一轮军援",
         "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714110.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "碳水节、烧烤节席卷各地，“舌尖上”的节日如何越做越红火？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714107.shtml",
         "publishedAt": "2026-10-14T07:38:57.000+08:00"
-      },
-      {
-        "title": "今起报名！2027国考有这些新变化→",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714106.shtml",
-        "publishedAt": "2026-10-14T07:34:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T08:00:03.882+08:00",
+    "fetchedAt": "2026-10-14T08:10:04.021+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T08:00:08.265+08:00",
+      "fetchedAt": "2026-10-14T08:10:07.999+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-14T13:00:09.000+08:00"
+          "resetAt": "2026-10-14T13:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T08:00:08.612+08:00",
+      "fetchedAt": "2026-10-14T08:10:08.215+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T08:00:08.621+08:00",
+      "fetchedAt": "2026-10-14T08:10:08.220+08:00",
       "error": null
     }
   }
