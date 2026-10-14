@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T07:40:38.456+08:00",
+  "updatedAt": "2026-10-15T07:50:13.010+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
+    "tempC": 19,
     "feelsLikeC": 19.4,
-    "humidity": 70,
-    "windKph": 2.9,
+    "humidity": 69,
+    "windKph": 3.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T07:40:38.457+08:00",
+    "observedAt": "2026-10-15T07:45:00.000+08:00",
+    "fetchedAt": "2026-10-15T07:50:13.011+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "前三季度金融数据出炉 融资渠道更多元 普通家庭如何打理手中资产？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714756.shtml",
+        "publishedAt": "2026-10-15T07:42:38.000+08:00"
+      },
+      {
+        "title": "职场“软监控”引担忧：“隐形监控”之下，隐私安全何在？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714755.shtml",
+        "publishedAt": "2026-10-15T07:40:06.000+08:00"
+      },
       {
         "title": "日本农相因丑闻辞职 在野党批评：暴露高市政权深层问题",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714754.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "朝中社：朝鲜试射两种潜射战略巡航导弹（图）",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714752.shtml",
         "publishedAt": "2026-10-15T06:44:57.000+08:00"
-      },
-      {
-        "title": "10月15日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-15/10714751.shtml",
-        "publishedAt": "2026-10-15T06:43:33.000+08:00"
-      },
-      {
-        "title": "美军称摧毁一艘与伊朗有关联的帆船 现场浓烟滚滚",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714750.shtml",
-        "publishedAt": "2026-10-15T06:36:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T07:40:02.780+08:00",
+    "fetchedAt": "2026-10-15T07:50:04.032+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T07:40:36.789+08:00",
+      "fetchedAt": "2026-10-15T07:50:11.811+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T12:40:38.000+08:00"
+          "resetAt": "2026-10-15T12:50:12.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T07:40:36.990+08:00",
+      "fetchedAt": "2026-10-15T07:50:12.002+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T07:40:36.994+08:00",
+      "fetchedAt": "2026-10-15T07:50:12.005+08:00",
       "error": null
     }
   }
