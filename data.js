@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T14:40:16.895+08:00",
+  "updatedAt": "2026-10-14T14:50:18.517+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.7,
-    "feelsLikeC": 24.5,
+    "tempC": 25.5,
+    "feelsLikeC": 24.2,
     "humidity": 38,
-    "windKph": 8.2,
+    "windKph": 8.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T14:40:16.895+08:00",
+    "observedAt": "2026-10-14T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-14T14:50:18.518+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "电子档案如何“存得久”又“用得好”？ 政企学共探破题之道",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714386.shtml",
-        "publishedAt": "2026-10-14T14:32:40.000+08:00"
+        "title": "海关总署：中国为应对全球算力和电力需求增长提供支撑",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714379.shtml",
+        "publishedAt": "2026-10-14T14:44:32.000+08:00"
       },
       {
-        "title": "远洋航运脱碳新选择！绿氨需求量持续增长 发展空间广阔",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714397.shtml",
-        "publishedAt": "2026-10-14T14:32:06.000+08:00"
+        "title": "海口海关后勤管理中心三亚市三亚湾路77号临街铺面第四次公开招租结果公示",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714405.shtml",
+        "publishedAt": "2026-10-14T14:42:50.000+08:00"
       },
       {
-        "title": "拱北海关技术中心实验室仪器设备校准服务项目（第二次）成交公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714391.shtml",
-        "publishedAt": "2026-10-14T14:28:41.000+08:00"
+        "title": "二度回应赖清德今年“双十”讲话 国台办指充满欺骗性",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714353.shtml",
+        "publishedAt": "2026-10-14T14:42:50.000+08:00"
       },
       {
-        "title": "“侨聚楚雄·同心圆梦”海外侨领楚雄行圆满收官：以侨为桥共绘滇中合作新图景",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714326.shtml",
-        "publishedAt": "2026-10-14T14:28:31.000+08:00"
+        "title": "《水运领域人工智能应用场景指引》解读",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714404.shtml",
+        "publishedAt": "2026-10-14T14:42:28.000+08:00"
       },
       {
-        "title": "9月中国仓储行业运行向好 景气水平回升",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714351.shtml",
-        "publishedAt": "2026-10-14T14:26:21.000+08:00"
+        "title": "交通运输部办公厅印发《水运领域人工智能应用场景指引》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714399.shtml",
+        "publishedAt": "2026-10-14T14:42:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T14:40:03.920+08:00",
+    "fetchedAt": "2026-10-14T14:50:05.817+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 29.1,
+          "usedPct": 29.3,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 1064 / 1500 AIC"
+          "detailText": "剩余 1061 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T14:40:15.396+08:00",
+      "fetchedAt": "2026-10-14T14:50:17.263+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 22,
+          "usedPct": 25,
           "resetAt": "2026-10-14T19:00:59.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T14:40:15.604+08:00",
+      "fetchedAt": "2026-10-14T14:50:17.513+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T14:40:15.609+08:00",
+      "fetchedAt": "2026-10-14T14:50:17.521+08:00",
       "error": null
     }
   }
