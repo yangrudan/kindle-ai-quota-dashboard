@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-14T14:10:23.048+08:00",
+  "updatedAt": "2026-10-14T14:20:18.762+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26,
-    "feelsLikeC": 24.8,
+    "tempC": 25.8,
+    "feelsLikeC": 24.7,
     "humidity": 37,
-    "windKph": 7.7,
+    "windKph": 7.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T14:10:23.048+08:00",
+    "observedAt": "2026-10-14T14:15:00.000+08:00",
+    "fetchedAt": "2026-10-14T14:20:18.762+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一碗川渝酸辣粉，如何让河南小城长出百亿产值？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714363.shtml",
-        "publishedAt": "2026-10-14T14:01:46.000+08:00"
+        "title": "三季度末中国仓储行业呈现恢复向好态势",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714371.shtml",
+        "publishedAt": "2026-10-14T14:13:49.000+08:00"
       },
       {
-        "title": "9月中国CPI同比涨幅扩大至0.9%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714359.shtml",
-        "publishedAt": "2026-10-14T14:01:10.000+08:00"
+        "title": "“数”“艺”何以“无界”？新阶层人士分享方法论",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714355.shtml",
+        "publishedAt": "2026-10-14T14:13:33.000+08:00"
       },
       {
-        "title": "印度比哈尔邦翻船事故已致13人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714360.shtml",
-        "publishedAt": "2026-10-14T13:59:06.000+08:00"
+        "title": "中国进口增速连续七个月超过两成",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714352.shtml",
+        "publishedAt": "2026-10-14T14:12:56.000+08:00"
       },
       {
-        "title": "沙特国家石油公司一栋办公楼遭袭起火",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714308.shtml",
-        "publishedAt": "2026-10-14T13:59:00.000+08:00"
+        "title": "13条靶向政策、700万元专项经费：湖南湘潭这样托举大学生创业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714373.shtml",
+        "publishedAt": "2026-10-14T14:12:12.000+08:00"
       },
       {
-        "title": "税收数据：横琴粤澳深度合作区建成五年成效显",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714332.shtml",
-        "publishedAt": "2026-10-14T13:45:43.000+08:00"
+        "title": "山西男篮出征新赛季：外教主导、三援落定，目标“更上一层楼”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714374.shtml",
+        "publishedAt": "2026-10-14T14:11:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T14:10:05.044+08:00",
+    "fetchedAt": "2026-10-14T14:20:04.081+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T14:10:21.128+08:00",
+      "fetchedAt": "2026-10-14T14:20:16.986+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 7,
           "resetAt": "2026-10-14T19:00:59.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T14:10:21.488+08:00",
+      "fetchedAt": "2026-10-14T14:20:17.220+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T14:10:21.492+08:00",
+      "fetchedAt": "2026-10-14T14:20:17.223+08:00",
       "error": null
     }
   }
