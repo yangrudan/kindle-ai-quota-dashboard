@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T13:20:13.999+08:00",
+  "updatedAt": "2026-10-14T13:30:14.192+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 26.1,
-    "feelsLikeC": 25.8,
+    "feelsLikeC": 25.4,
     "humidity": 38,
     "windKph": 7.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-14T13:20:13.999+08:00",
+    "observedAt": "2026-10-14T13:30:00.000+08:00",
+    "fetchedAt": "2026-10-14T13:30:14.192+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "阿姨难招，“员工制”能否弥合家政供需裂隙",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714313.shtml",
-        "publishedAt": "2026-10-14T13:12:17.000+08:00"
+        "title": "新一轮冷空气即将影响我国 北方多地气温将创新低",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714322.shtml",
+        "publishedAt": "2026-10-14T13:20:28.000+08:00"
       },
       {
-        "title": "课本照进现实：美国青少年在清华大学感知科创与文化魅力",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714310.shtml",
-        "publishedAt": "2026-10-14T13:09:09.000+08:00"
+        "title": "海关总署：前三季度粤港澳大湾区内地9市进出口8.42万亿元，同比增长24.7%",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714287.shtml",
+        "publishedAt": "2026-10-14T13:19:36.000+08:00"
       },
       {
-        "title": "今年前三季度两岸进出口贸易额同比增30.3%",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714306.shtml",
-        "publishedAt": "2026-10-14T13:05:43.000+08:00"
+        "title": "国台办批民进党施压台积电向美转移产能",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714320.shtml",
+        "publishedAt": "2026-10-14T13:17:58.000+08:00"
       },
       {
-        "title": "（走进中国乡村）贡米田畔飘书香 安徽千年古村烹出新“稻”路",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714305.shtml",
-        "publishedAt": "2026-10-14T13:04:33.000+08:00"
+        "title": "国台办批沈伯洋变脸比翻书还快",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714319.shtml",
+        "publishedAt": "2026-10-14T13:16:33.000+08:00"
       },
       {
-        "title": "长春大冬会正式点燃“知识之火”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714307.shtml",
-        "publishedAt": "2026-10-14T13:03:13.000+08:00"
+        "title": "国台办称巴拉圭伯利兹个别政客勾连台独",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714318.shtml",
+        "publishedAt": "2026-10-14T13:16:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T13:20:03.584+08:00",
+    "fetchedAt": "2026-10-14T13:30:05.715+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T13:20:12.239+08:00",
+      "fetchedAt": "2026-10-14T13:30:11.585+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T13:20:12.552+08:00",
+      "fetchedAt": "2026-10-14T13:30:11.930+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T13:20:12.561+08:00",
+      "fetchedAt": "2026-10-14T13:30:11.939+08:00",
       "error": null
     }
   }
