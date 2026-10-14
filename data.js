@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T00:00:15.181+08:00",
+  "updatedAt": "2026-10-15T00:10:16.072+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-15T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T00:00:15.182+08:00",
+    "fetchedAt": "2026-10-15T00:10:16.072+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "柬埔寨新批两个新能源发电项目 总投资2.58亿美元",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714747.shtml",
+        "publishedAt": "2026-10-14T23:58:04.000+08:00"
+      },
+      {
+        "title": "以军称已向约旦河西岸增兵 处于高级别战备状态",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714746.shtml",
+        "publishedAt": "2026-10-14T23:56:18.000+08:00"
+      },
       {
         "title": "两艘新加坡籍船只在霍尔木兹海峡遭袭",
         "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714745.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "三季度中国对RCEP区域贸易稳中提质",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714743.shtml",
         "publishedAt": "2026-10-14T23:27:49.000+08:00"
-      },
-      {
-        "title": "内地险企在香港发行首宗“侧挂车”保险相连证券",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714742.shtml",
-        "publishedAt": "2026-10-14T23:27:05.000+08:00"
-      },
-      {
-        "title": "海峡两岸暨港澳地区人士香港座谈 传承中山精神共谋民族复兴",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-14/10714741.shtml",
-        "publishedAt": "2026-10-14T23:26:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T00:00:04.077+08:00",
+    "fetchedAt": "2026-10-15T00:10:03.815+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T00:00:13.376+08:00",
+      "fetchedAt": "2026-10-15T00:10:12.683+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T00:00:13.549+08:00",
+      "fetchedAt": "2026-10-15T00:10:12.911+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T00:00:13.557+08:00",
+      "fetchedAt": "2026-10-15T00:10:12.920+08:00",
       "error": null
     }
   }
