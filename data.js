@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T15:00:38.249+08:00",
+  "updatedAt": "2026-10-14T15:10:45.729+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-14T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T15:00:38.250+08:00",
+    "fetchedAt": "2026-10-14T15:10:45.729+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "助力“中国服务”出海 第十届服务贸易标准化会议在京举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714411.shtml",
+        "publishedAt": "2026-10-14T15:00:57.000+08:00"
+      },
       {
         "title": "海外课堂上，河南商丘市的那场寻根之旅有了新回响",
         "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714396.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广西玉浦高速公路全线首座隧道贯通",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714407.shtml",
         "publishedAt": "2026-10-14T14:52:17.000+08:00"
-      },
-      {
-        "title": "河南驻马店确山县：以侨为桥担使命 同心筑梦谱新篇",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714395.shtml",
-        "publishedAt": "2026-10-14T14:51:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T15:00:07.629+08:00",
+    "fetchedAt": "2026-10-14T15:10:05.082+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1061 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T15:00:36.582+08:00",
+      "fetchedAt": "2026-10-14T15:10:43.022+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 40,
           "resetAt": "2026-10-14T19:00:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 22,
+          "usedPct": 23,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T15:00:36.860+08:00",
+      "fetchedAt": "2026-10-14T15:10:43.300+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T15:00:36.866+08:00",
+      "fetchedAt": "2026-10-14T15:10:43.309+08:00",
       "error": null
     }
   }
