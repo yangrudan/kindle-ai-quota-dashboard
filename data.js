@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T06:40:08.131+08:00",
+  "updatedAt": "2026-10-15T06:50:09.822+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.3,
-    "feelsLikeC": 18.9,
-    "humidity": 72,
-    "windKph": 2.9,
+    "tempC": 18.4,
+    "feelsLikeC": 19,
+    "humidity": 71,
+    "windKph": 2.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T06:40:08.131+08:00",
+    "observedAt": "2026-10-15T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-15T06:50:09.822+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "朝中社：朝鲜试射两种潜射战略巡航导弹（图）",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714752.shtml",
+        "publishedAt": "2026-10-15T06:44:57.000+08:00"
+      },
+      {
+        "title": "10月15日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-15/10714751.shtml",
+        "publishedAt": "2026-10-15T06:43:33.000+08:00"
+      },
+      {
+        "title": "美军称摧毁一艘与伊朗有关联的帆船 现场浓烟滚滚",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714750.shtml",
+        "publishedAt": "2026-10-15T06:36:49.000+08:00"
+      },
+      {
+        "title": "网传明星演唱会门票被炒至25万一张 天价黄牛票为何屡禁不止？",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-15/10714749.shtml",
+        "publishedAt": "2026-10-15T06:36:35.000+08:00"
+      },
+      {
         "title": "美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714748.shtml",
         "publishedAt": "2026-10-15T05:31:15.000+08:00"
-      },
-      {
-        "title": "柬埔寨新批两个新能源发电项目 总投资2.58亿美元",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714747.shtml",
-        "publishedAt": "2026-10-14T23:58:04.000+08:00"
-      },
-      {
-        "title": "以军称已向约旦河西岸增兵 处于高级别战备状态",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714746.shtml",
-        "publishedAt": "2026-10-14T23:56:18.000+08:00"
-      },
-      {
-        "title": "两艘新加坡籍船只在霍尔木兹海峡遭袭",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714745.shtml",
-        "publishedAt": "2026-10-14T23:54:50.000+08:00"
-      },
-      {
-        "title": "（经济观察）70年广交会，见证中国与世界的双向奔赴",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714744.shtml",
-        "publishedAt": "2026-10-14T23:30:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T06:40:02.746+08:00",
+    "fetchedAt": "2026-10-15T06:50:03.534+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T06:40:06.963+08:00",
+      "fetchedAt": "2026-10-15T06:50:08.376+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T11:40:08.000+08:00"
+          "resetAt": "2026-10-15T11:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T06:40:07.169+08:00",
+      "fetchedAt": "2026-10-15T06:50:08.608+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T06:40:07.176+08:00",
+      "fetchedAt": "2026-10-15T06:50:08.612+08:00",
       "error": null
     }
   }
