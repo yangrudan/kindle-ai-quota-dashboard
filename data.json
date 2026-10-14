@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T18:50:14.004+08:00",
+  "updatedAt": "2026-10-14T19:00:14.418+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-14T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T18:50:14.004+08:00",
+    "fetchedAt": "2026-10-14T19:00:14.418+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（活力中国）广西打造双向互通贸易高地 陆海联运载来“东盟味”",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714560.shtml",
-        "publishedAt": "2026-10-14T18:42:37.000+08:00"
+        "title": "中国商品期货成交量连续多年居世界前列",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714570.shtml",
+        "publishedAt": "2026-10-14T18:49:18.000+08:00"
       },
       {
-        "title": "印度航空一飞机发出劫机警报，威胁解除后再度起飞",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714573.shtml",
-        "publishedAt": "2026-10-14T18:41:39.000+08:00"
+        "title": "（经济观察）延续强劲增势 中国外贸交出优质“三季报”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714569.shtml",
+        "publishedAt": "2026-10-14T18:49:16.000+08:00"
       },
       {
-        "title": "湖北恩施航空口岸年出入境客流首破5万人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714563.shtml",
-        "publishedAt": "2026-10-14T18:41:27.000+08:00"
+        "title": "山东发布7个垂直领域大模型 覆盖高端装备、化工等重点领域",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714567.shtml",
+        "publishedAt": "2026-10-14T18:49:12.000+08:00"
       },
       {
-        "title": "中国A股游戏板块周三逆势上涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714559.shtml",
-        "publishedAt": "2026-10-14T18:40:57.000+08:00"
+        "title": "央行：今年9月末 社会融资规模存量同比增长7.1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714561.shtml",
+        "publishedAt": "2026-10-14T18:47:17.000+08:00"
       },
       {
-        "title": "2026年通北景泰蓝技艺展示交流活动在河北大厂举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714558.shtml",
-        "publishedAt": "2026-10-14T18:40:55.000+08:00"
+        "title": "哈尔滨冰雪大世界联合迪士尼推出“冰雪奇缘”主题冰雪区域",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714566.shtml",
+        "publishedAt": "2026-10-14T18:45:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T18:50:05.307+08:00",
+    "fetchedAt": "2026-10-14T19:00:03.331+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T18:50:11.734+08:00",
+      "fetchedAt": "2026-10-14T19:00:10.829+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T18:50:12.019+08:00",
+      "fetchedAt": "2026-10-14T19:00:11.098+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T18:50:12.028+08:00",
+      "fetchedAt": "2026-10-14T19:00:11.107+08:00",
       "error": null
     }
   }
