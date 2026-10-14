@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T19:10:13.970+08:00",
+  "updatedAt": "2026-10-14T19:20:16.609+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.8,
-    "feelsLikeC": 21.2,
-    "humidity": 55,
-    "windKph": 9.3,
+    "tempC": 21.6,
+    "feelsLikeC": 21.1,
+    "humidity": 56,
+    "windKph": 9.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-14T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-14T19:10:13.970+08:00",
+    "observedAt": "2026-10-14T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-14T19:20:16.609+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "直击武警崇左支队勤训轮换练兵现场",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714585.shtml",
+        "publishedAt": "2026-10-14T19:06:23.000+08:00"
+      },
+      {
+        "title": "北京将承办2027年苏迪曼杯决赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714584.shtml",
+        "publishedAt": "2026-10-14T19:04:36.000+08:00"
+      },
+      {
+        "title": "（活力中国调研行）秦岭北麓小山村的蝶变之路",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714583.shtml",
+        "publishedAt": "2026-10-14T19:04:06.000+08:00"
+      },
       {
         "title": "（乡村行·看振兴）吉林黑土地“三辣” 富民记",
         "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714582.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "炸串摊主被差评后跳河轻生，律师解析“避雷帖”边界｜法律顾问在身边",
         "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714580.shtml",
         "publishedAt": "2026-10-14T19:02:14.000+08:00"
-      },
-      {
-        "title": "涉旅行社、酒店价格欺诈等 5起打击劣质低价典型案例公布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714562.shtml",
-        "publishedAt": "2026-10-14T18:57:06.000+08:00"
-      },
-      {
-        "title": "中国官方连打“虎” 伍浩被“双开”、包惠被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714577.shtml",
-        "publishedAt": "2026-10-14T18:56:02.000+08:00"
-      },
-      {
-        "title": "黑龙江“社保服务号”地铁主题车厢亮相 让“社保服务进万家”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714564.shtml",
-        "publishedAt": "2026-10-14T18:56:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T19:10:04.272+08:00",
+    "fetchedAt": "2026-10-14T19:20:05.221+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T19:10:12.654+08:00",
+      "fetchedAt": "2026-10-14T19:20:15.377+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-15T00:10:13.000+08:00"
+          "usedPct": 6,
+          "resetAt": "2026-10-15T00:11:03.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 33,
+          "usedPct": 34,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T19:10:12.923+08:00",
+      "fetchedAt": "2026-10-14T19:20:15.644+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T19:10:12.927+08:00",
+      "fetchedAt": "2026-10-14T19:20:15.647+08:00",
       "error": null
     }
   }
