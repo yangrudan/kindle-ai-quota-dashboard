@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T11:00:19.858+08:00",
+  "updatedAt": "2026-10-14T11:10:12.474+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24,
-    "feelsLikeC": 24.4,
-    "humidity": 49,
-    "windKph": 9.2,
+    "tempC": 24.2,
+    "feelsLikeC": 24.8,
+    "humidity": 48,
+    "windKph": 9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-14T11:00:19.859+08:00",
+    "observedAt": "2026-10-14T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-14T11:10:12.474+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "人民论坛网评 | 让青春在强农报国中绽放光彩",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-14/10714238.shtml",
-        "publishedAt": "2026-10-14T10:57:26.000+08:00"
+        "title": "全国秋粮收获过六成",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714245.shtml",
+        "publishedAt": "2026-10-14T11:07:08.000+08:00"
       },
       {
-        "title": "今年前三季度外贸增速近五年同期最快",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714237.shtml",
-        "publishedAt": "2026-10-14T10:55:50.000+08:00"
+        "title": "赖清德称“不许扭曲二战历史” 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714232.shtml",
+        "publishedAt": "2026-10-14T11:06:44.000+08:00"
       },
       {
-        "title": "读懂黄金周出行样本背后的迭代密码",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714236.shtml",
-        "publishedAt": "2026-10-14T10:53:42.000+08:00"
+        "title": "健康是“1”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-14/10714240.shtml",
+        "publishedAt": "2026-10-14T11:04:06.000+08:00"
       },
       {
-        "title": "（活力中国调研行）平陆运河通航将满月 广西从“末梢”变“枢纽”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714201.shtml",
-        "publishedAt": "2026-10-14T10:53:22.000+08:00"
+        "title": "海关总署：前三季度我国货物贸易进出口39.94万亿元，同比增长18.8%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714235.shtml",
+        "publishedAt": "2026-10-14T11:01:46.000+08:00"
       },
       {
-        "title": "国台办回应欧洲议会涉台报告",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714234.shtml",
-        "publishedAt": "2026-10-14T10:52:18.000+08:00"
+        "title": "从能用到好用，养老机器人还要迈几道坎",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714239.shtml",
+        "publishedAt": "2026-10-14T11:00:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T11:00:05.906+08:00",
+    "fetchedAt": "2026-10-14T11:10:04.294+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1064 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T11:00:18.008+08:00",
+      "fetchedAt": "2026-10-14T11:10:10.318+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T11:00:18.377+08:00",
+      "fetchedAt": "2026-10-14T11:10:10.667+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T11:00:18.390+08:00",
+      "fetchedAt": "2026-10-14T11:10:10.677+08:00",
       "error": null
     }
   }
