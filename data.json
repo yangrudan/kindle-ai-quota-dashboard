@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-14T16:40:50.785+08:00",
+  "updatedAt": "2026-10-14T16:50:44.566+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.9,
-    "feelsLikeC": 23.8,
-    "humidity": 40,
-    "windKph": 8.7,
+    "tempC": 24.6,
+    "feelsLikeC": 23.4,
+    "humidity": 41,
+    "windKph": 9.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-14T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T16:40:50.785+08:00",
+    "observedAt": "2026-10-14T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-14T16:50:44.566+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "早期像感冒却可能迅速致命 如何科学预防肺炭疽？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-14/10714510.shtml",
+        "publishedAt": "2026-10-14T16:47:13.000+08:00"
+      },
+      {
+        "title": "南宁海关关于2026年10月份“关长接待日”改期及接待领导调整的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-14/10714505.shtml",
+        "publishedAt": "2026-10-14T16:45:21.000+08:00"
+      },
+      {
+        "title": "直播海报：长征路上学党史｜登临六盘山 共赏红旗漫卷",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714502.shtml",
+        "publishedAt": "2026-10-14T16:42:43.000+08:00"
+      },
+      {
+        "title": "两岸经贸数据戳破民进党当局“脱钩断链”幻想（两岸观察）",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714499.shtml",
+        "publishedAt": "2026-10-14T16:38:10.000+08:00"
+      },
+      {
         "title": "广州法院“广交会一站式解纷平台”上线",
         "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714489.shtml",
         "publishedAt": "2026-10-14T16:35:32.000+08:00"
-      },
-      {
-        "title": "突然追逐、仿真“尸体”……未成年人玩密室逃脱，谁来把关？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714496.shtml",
-        "publishedAt": "2026-10-14T16:34:20.000+08:00"
-      },
-      {
-        "title": "今年前9月中国牵头制定国际标准220项",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714474.shtml",
-        "publishedAt": "2026-10-14T16:32:12.000+08:00"
-      },
-      {
-        "title": "体教卫协同 “奔跑吧·少年”主题健身活动走进北京密云",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-14/10714488.shtml",
-        "publishedAt": "2026-10-14T16:32:10.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）“中国大蒜之乡”河南杞县“蒜”出百亿产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714491.shtml",
-        "publishedAt": "2026-10-14T16:30:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T16:40:04.443+08:00",
+    "fetchedAt": "2026-10-14T16:50:04.629+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1061 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T16:40:48.552+08:00",
+      "fetchedAt": "2026-10-14T16:50:42.746+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 98,
+          "usedPct": 100,
           "resetAt": "2026-10-14T19:00:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 32,
+          "usedPct": 33,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T16:40:48.796+08:00",
+      "fetchedAt": "2026-10-14T16:50:42.998+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T16:40:48.800+08:00",
+      "fetchedAt": "2026-10-14T16:50:43.007+08:00",
       "error": null
     }
   }
