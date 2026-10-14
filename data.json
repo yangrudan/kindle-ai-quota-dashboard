@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-14T20:20:15.329+08:00",
+  "updatedAt": "2026-10-14T20:30:14.067+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.9,
+    "tempC": 20.7,
     "feelsLikeC": 20.2,
     "humidity": 59,
-    "windKph": 9.7,
+    "windKph": 9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-14T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-14T20:20:15.330+08:00",
+    "observedAt": "2026-10-14T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-14T20:30:14.067+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李强出席“广交世界70年”座谈会",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-14/1207842.shtml",
+        "publishedAt": "2026-10-14T20:22:17.000+08:00"
+      },
       {
         "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功",
         "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714627.shtml",
@@ -38,14 +43,9 @@
         "title": "新疆和静秋景如画引游人打卡",
         "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714614.shtml",
         "publishedAt": "2026-10-14T19:57:07.000+08:00"
-      },
-      {
-        "title": "广西壮族自治区国资委原副主任聂江武接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714625.shtml",
-        "publishedAt": "2026-10-14T19:57:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T20:20:05.353+08:00",
+    "fetchedAt": "2026-10-14T20:30:05.837+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T20:20:13.360+08:00",
+      "fetchedAt": "2026-10-14T20:30:12.573+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T20:20:13.627+08:00",
+      "fetchedAt": "2026-10-14T20:30:12.833+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T20:20:13.631+08:00",
+      "fetchedAt": "2026-10-14T20:30:12.836+08:00",
       "error": null
     }
   }
