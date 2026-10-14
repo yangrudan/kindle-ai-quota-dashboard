@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-14T21:30:45.795+08:00",
+  "updatedAt": "2026-10-14T21:40:11.614+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-14T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-14T21:30:45.795+08:00",
+    "fetchedAt": "2026-10-14T21:40:11.614+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中外学者：在多元与一统中探寻文明互鉴之道",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-14/10714664.shtml",
+        "publishedAt": "2026-10-14T21:32:47.000+08:00"
+      },
+      {
+        "title": "（投资中国）百隆中国总部迁址焕新 持续加码中国市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714663.shtml",
+        "publishedAt": "2026-10-14T21:28:22.000+08:00"
+      },
+      {
+        "title": "航拍世界客家祖地福建宁化石壁 “丰”景如画",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714655.shtml",
+        "publishedAt": "2026-10-14T21:24:54.000+08:00"
+      },
       {
         "title": "杭州数千球形桂花树进入观赏期 交旅融合带动“赏桂热”",
         "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714644.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "海外华文媒体参访卧龙神树坪基地 聚焦大熊猫繁育救护与野化研究",
         "url": "https://www.chinanews.com.cn/tp/2026/10-14/10714633.shtml",
         "publishedAt": "2026-10-14T21:20:28.000+08:00"
-      },
-      {
-        "title": "“四川与智利、西班牙、巴西文化邂逅之旅”在成都举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714648.shtml",
-        "publishedAt": "2026-10-14T21:16:36.000+08:00"
-      },
-      {
-        "title": "一日跨越南京 外媒记者感受智造、生态与文脉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714657.shtml",
-        "publishedAt": "2026-10-14T21:15:44.000+08:00"
-      },
-      {
-        "title": "第六届百城万人健心跑公益活动东莞开跑",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714656.shtml",
-        "publishedAt": "2026-10-14T21:15:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-14T21:30:05.065+08:00",
+    "fetchedAt": "2026-10-14T21:40:03.957+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T21:30:43.320+08:00",
+      "fetchedAt": "2026-10-14T21:40:09.959+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-14T21:30:43.613+08:00",
+      "fetchedAt": "2026-10-14T21:40:10.245+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-14T21:30:43.623+08:00",
+      "fetchedAt": "2026-10-14T21:40:10.254+08:00",
       "error": null
     }
   }
