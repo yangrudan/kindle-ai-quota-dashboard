@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T19:00:10.299+08:00",
+  "updatedAt": "2026-10-15T19:10:12.203+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T19:00:10.299+08:00",
+    "fetchedAt": "2026-10-15T19:10:12.203+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "俄安全局逮捕一企图对俄实施恐袭的瑞典公民",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715197.shtml",
-        "publishedAt": "2026-10-15T18:41:28.000+08:00"
+        "title": "湖南江永早香芋抢“鲜”上市 特色产业助民稳增收",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715195.shtml",
+        "publishedAt": "2026-10-15T19:04:03.000+08:00"
       },
       {
-        "title": "中国工商银行深圳分行原副行长姚玉平被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715188.shtml",
-        "publishedAt": "2026-10-15T18:13:20.000+08:00"
+        "title": "武汉香港携手搭建科创协同平台",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10715193.shtml",
+        "publishedAt": "2026-10-15T19:03:25.000+08:00"
       },
       {
-        "title": "额济纳胡杨林美成“金色海洋” 蓝天碧水同框出片",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715181.shtml",
-        "publishedAt": "2026-10-15T18:09:02.000+08:00"
+        "title": "重庆举办专场招聘会 830余家单位释放6万余个岗位",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715199.shtml",
+        "publishedAt": "2026-10-15T19:02:37.000+08:00"
       },
       {
-        "title": "“中国第一展”磁力凸显 白云机场口岸单日入境外籍人员破2万人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715183.shtml",
-        "publishedAt": "2026-10-15T18:03:38.000+08:00"
+        "title": "卢浮宫馆长警告说可能被迫关闭卢浮宫",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715200.shtml",
+        "publishedAt": "2026-10-15T18:59:01.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）烟火伴丹青：吉林松花湖畔小镇绘就文旅新图景",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715184.shtml",
-        "publishedAt": "2026-10-15T18:03:36.000+08:00"
+        "title": "首趟“京铁燕赵班列·援疆号”多式联运班列石家庄首发",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715194.shtml",
+        "publishedAt": "2026-10-15T18:57:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T19:00:04.572+08:00",
+    "fetchedAt": "2026-10-15T19:10:05.599+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T19:00:09.138+08:00",
+      "fetchedAt": "2026-10-15T19:10:10.530+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T19:00:09.447+08:00",
+      "fetchedAt": "2026-10-15T19:10:10.965+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T19:00:09.450+08:00",
+      "fetchedAt": "2026-10-15T19:10:10.969+08:00",
       "error": null
     }
   }
