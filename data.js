@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T10:00:43.193+08:00",
+  "updatedAt": "2026-10-15T10:10:10.480+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-15T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T10:00:43.193+08:00",
+    "fetchedAt": "2026-10-15T10:10:10.480+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "国家药监局公布《牙膏分类目录》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714799.shtml",
+        "publishedAt": "2026-10-15T10:02:10.000+08:00"
+      },
+      {
+        "title": "受贿数额特别巨大 成都市委原副书记、原市长王凤朝被提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714840.shtml",
+        "publishedAt": "2026-10-15T10:02:04.000+08:00"
+      },
+      {
+        "title": "快新优好，外贸增速近5年同期最快",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714836.shtml",
+        "publishedAt": "2026-10-15T09:59:48.000+08:00"
+      },
+      {
+        "title": "《“一带一路”纳税服务产品体系（2.0版）》正式发布",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-15/10714794.shtml",
+        "publishedAt": "2026-10-15T09:58:35.000+08:00"
+      },
+      {
         "title": "中国驻沙特大使馆就当前沙特局势发布安全提醒",
         "url": "https://www.chinanews.com.cn/hr/2026/10-15/10714834.shtml",
         "publishedAt": "2026-10-15T09:56:05.000+08:00"
-      },
-      {
-        "title": "“帽”藏世界万象 外媒记者在江苏南通感受文明互鉴之美",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-15/10714793.shtml",
-        "publishedAt": "2026-10-15T09:54:37.000+08:00"
-      },
-      {
-        "title": "琶洲太空智算星组双星升空 开启“天数天算”新阶段",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714835.shtml",
-        "publishedAt": "2026-10-15T09:53:23.000+08:00"
-      },
-      {
-        "title": "辽宁省大连市交通运输局原局长王少成被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714825.shtml",
-        "publishedAt": "2026-10-15T09:52:35.000+08:00"
-      },
-      {
-        "title": "何立峰会见美国桥水投资公司创始人达利欧",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714818.shtml",
-        "publishedAt": "2026-10-15T09:50:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T10:00:04.503+08:00",
+    "fetchedAt": "2026-10-15T10:10:04.079+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T10:00:39.456+08:00",
+      "fetchedAt": "2026-10-15T10:10:09.145+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
+          "usedPct": 28,
           "resetAt": "2026-10-15T14:38:53.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 39,
+          "usedPct": 42,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T10:00:39.668+08:00",
+      "fetchedAt": "2026-10-15T10:10:09.273+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T10:00:39.676+08:00",
+      "fetchedAt": "2026-10-15T10:10:09.283+08:00",
       "error": null
     }
   }
