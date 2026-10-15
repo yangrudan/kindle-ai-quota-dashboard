@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T09:30:41.535+08:00",
+  "updatedAt": "2026-10-15T09:40:12.415+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T09:30:41.535+08:00",
+    "fetchedAt": "2026-10-15T09:40:12.415+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "铁路部门通报“一男子在高铁座位上排便”：该男子被行拘",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714800.shtml",
-        "publishedAt": "2026-10-15T09:24:36.000+08:00"
+        "title": "中国发现侏罗纪不会飞鸟类杨源𬸚𬸦 颠覆鸟类早期演化传统认知",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714787.shtml",
+        "publishedAt": "2026-10-15T09:33:06.000+08:00"
       },
       {
-        "title": "世界运河大会嘉宾走进兴安灵渠 探寻千年古运河",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714795.shtml",
-        "publishedAt": "2026-10-15T09:24:08.000+08:00"
+        "title": "A股开盘：超5300只个股飘绿，三大指数集体低开",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714821.shtml",
+        "publishedAt": "2026-10-15T09:32:58.000+08:00"
       },
       {
-        "title": "温和上行 9月份中国公路物流运价指数环比回升",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714804.shtml",
-        "publishedAt": "2026-10-15T09:22:07.000+08:00"
+        "title": "我国地理信息产业总产值超9000亿元 已构建起完整产业链",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714817.shtml",
+        "publishedAt": "2026-10-15T09:31:10.000+08:00"
       },
       {
-        "title": "香港青年交流团参访深圳 感受湾区科创产业发展成果",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10714796.shtml",
-        "publishedAt": "2026-10-15T09:20:29.000+08:00"
+        "title": "2027年全国硕士研究生招生考试今起正式报名",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-15/10714805.shtml",
+        "publishedAt": "2026-10-15T09:25:16.000+08:00"
       },
       {
-        "title": "甘肃民勤：戈壁农田的资源化循环新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714798.shtml",
-        "publishedAt": "2026-10-15T09:16:51.000+08:00"
+        "title": "洗衣服时一个操作，可能灼伤眼角膜！重要提醒→",
+        "url": "https://www.chinanews.com.cn/life/2026/10-15/10714806.shtml",
+        "publishedAt": "2026-10-15T09:24:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T09:30:04.395+08:00",
+    "fetchedAt": "2026-10-15T09:40:05.646+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T09:30:38.558+08:00",
+      "fetchedAt": "2026-10-15T09:40:10.395+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-15T14:30:40.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-10-15T14:38:53.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T09:30:38.779+08:00",
+      "fetchedAt": "2026-10-15T09:40:10.598+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T09:30:38.782+08:00",
+      "fetchedAt": "2026-10-15T09:40:10.608+08:00",
       "error": null
     }
   }
