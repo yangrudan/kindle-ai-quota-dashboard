@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T23:20:11.232+08:00",
+  "updatedAt": "2026-10-15T23:30:39.547+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 20.3,
-    "feelsLikeC": 22.2,
-    "humidity": 86,
-    "windKph": 6.1,
+    "feelsLikeC": 22.4,
+    "humidity": 87,
+    "windKph": 5.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T23:15:00.000+08:00",
-    "fetchedAt": "2026-10-15T23:20:11.232+08:00",
+    "observedAt": "2026-10-15T23:30:00.000+08:00",
+    "fetchedAt": "2026-10-15T23:30:39.547+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国产剧出海“四剑客”齐发力：从“零星出海”走向“规模化登陆”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715366.shtml",
+        "publishedAt": "2026-10-15T23:18:45.000+08:00"
+      },
       {
         "title": "一堂课、两场展、七十年——走进中央社会主义学院建院70周年开放日活动",
         "url": "https://www.chinanews.com.cn/txy/2026/10-15/10715364.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "探寻乡村发展变迁 海峡两岸媒体来湘联合采访启动",
         "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715360.shtml",
         "publishedAt": "2026-10-15T23:06:30.000+08:00"
-      },
-      {
-        "title": "王毅会见巴勒斯坦外长：坚定支持巴人民争取恢复民族合法权利的正义事业",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715361.shtml",
-        "publishedAt": "2026-10-15T22:46:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T23:20:03.911+08:00",
+    "fetchedAt": "2026-10-15T23:30:04.086+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T23:20:09.547+08:00",
+      "fetchedAt": "2026-10-15T23:30:38.197+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T23:20:10.085+08:00",
+      "fetchedAt": "2026-10-15T23:30:38.523+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T23:20:10.092+08:00",
+      "fetchedAt": "2026-10-15T23:30:38.532+08:00",
       "error": null
     }
   }
