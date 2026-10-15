@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-15T20:40:40.889+08:00",
+  "updatedAt": "2026-10-15T20:50:09.167+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22,
-    "feelsLikeC": 23.2,
-    "humidity": 69,
-    "windKph": 6.1,
+    "tempC": 21.8,
+    "feelsLikeC": 23,
+    "humidity": 70,
+    "windKph": 6.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T20:40:40.889+08:00",
+    "observedAt": "2026-10-15T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-15T20:50:09.168+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香格里拉纳帕海迎来首批越冬黑颈鹤",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715263.shtml",
-        "publishedAt": "2026-10-15T20:31:06.000+08:00"
+        "title": "山西省消协提醒老年消费者：警惕私域直播、免费体验等消费陷阱",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715283.shtml",
+        "publishedAt": "2026-10-15T20:43:37.000+08:00"
       },
       {
-        "title": "秋糖会三度落子南京：面对年轻市场 酒企集体“微醺就好”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715262.shtml",
-        "publishedAt": "2026-10-15T20:31:02.000+08:00"
+        "title": "中国运动员站上环广西世巡赛荣誉衫之巅",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-15/10715282.shtml",
+        "publishedAt": "2026-10-15T20:43:35.000+08:00"
       },
       {
-        "title": "今年10月上半月广东多地气温高到破纪录",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715261.shtml",
-        "publishedAt": "2026-10-15T20:30:58.000+08:00"
+        "title": "2026动物福利与可持续农食大会在北京开幕 助力中非农业合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715281.shtml",
+        "publishedAt": "2026-10-15T20:43:33.000+08:00"
       },
       {
-        "title": "第三轮第七批中央生态环境保护督察全部实现督察进驻",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715260.shtml",
-        "publishedAt": "2026-10-15T20:30:56.000+08:00"
+        "title": "安徽膏方节“新表达” 留学生成中医粉",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715279.shtml",
+        "publishedAt": "2026-10-15T20:43:31.000+08:00"
       },
       {
-        "title": "非遗同辉——中越师生越南题材美术作品展在南宁启幕",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715259.shtml",
-        "publishedAt": "2026-10-15T20:30:54.000+08:00"
+        "title": "广州秋游旺季来临 慢病中老年出游需警惕带状疱疹风险",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715278.shtml",
+        "publishedAt": "2026-10-15T20:43:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T20:40:04.443+08:00",
+    "fetchedAt": "2026-10-15T20:50:03.833+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T20:40:39.030+08:00",
+      "fetchedAt": "2026-10-15T20:50:07.888+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-16T01:40:40.000+08:00"
+          "usedPct": 5,
+          "resetAt": "2026-10-16T01:47:06.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 13,
+          "usedPct": 14,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T20:40:39.480+08:00",
+      "fetchedAt": "2026-10-15T20:50:08.167+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T20:40:39.489+08:00",
+      "fetchedAt": "2026-10-15T20:50:08.177+08:00",
       "error": null
     }
   }
