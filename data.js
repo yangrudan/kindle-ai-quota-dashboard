@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T10:50:08.534+08:00",
+  "updatedAt": "2026-10-15T11:00:16.260+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.4,
-    "feelsLikeC": 20.8,
-    "humidity": 63,
-    "windKph": 3.6,
+    "tempC": 20.6,
+    "feelsLikeC": 21,
+    "humidity": 62,
+    "windKph": 4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T10:50:08.534+08:00",
+    "observedAt": "2026-10-15T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-15T11:00:16.260+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中朝新鸭绿江大桥正式开通",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714850.shtml",
-        "publishedAt": "2026-10-15T10:38:10.000+08:00"
+        "title": "印尼林火持续 多地受烟霾笼罩",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-15/1207872.shtml",
+        "publishedAt": "2026-10-15T10:55:53.000+08:00"
       },
       {
-        "title": "第四十四届东盟能源部长系列会议在菲律宾召开",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10714848.shtml",
-        "publishedAt": "2026-10-15T10:14:44.000+08:00"
+        "title": "金价下跌，银价大跌！原因找到了→",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714867.shtml",
+        "publishedAt": "2026-10-15T10:53:04.000+08:00"
       },
       {
-        "title": "从“养老”到“享老”，银发族的悦己新选择",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714844.shtml",
-        "publishedAt": "2026-10-15T10:12:40.000+08:00"
+        "title": "云岭动态第十九期",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-15/10714838.shtml",
+        "publishedAt": "2026-10-15T10:50:52.000+08:00"
       },
       {
-        "title": "胡塞武装连日猛攻，也门第三大城市“弥漫绝望情绪”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714839.shtml",
-        "publishedAt": "2026-10-15T10:11:20.000+08:00"
+        "title": "湖北湖南江西重庆贵州等地将有短时强降水天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714845.shtml",
+        "publishedAt": "2026-10-15T10:49:46.000+08:00"
       },
       {
-        "title": "“中国鄂温克驯鹿社区的气候与社会变迁”边会在冰岛举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714797.shtml",
-        "publishedAt": "2026-10-15T10:11:06.000+08:00"
+        "title": "中新健康｜刷手机、熬夜会伤前额叶？告诉你关于前额叶的4个真相",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714847.shtml",
+        "publishedAt": "2026-10-15T10:49:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T10:50:03.051+08:00",
+    "fetchedAt": "2026-10-15T11:00:04.609+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T10:50:07.132+08:00",
+      "fetchedAt": "2026-10-15T11:00:14.694+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 45,
+          "usedPct": 46,
           "resetAt": "2026-10-15T14:38:53.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 44,
+          "usedPct": 45,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T10:50:07.404+08:00",
+      "fetchedAt": "2026-10-15T11:00:14.974+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T10:50:07.415+08:00",
+      "fetchedAt": "2026-10-15T11:00:14.984+08:00",
       "error": null
     }
   }
