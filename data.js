@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T18:00:10.021+08:00",
+  "updatedAt": "2026-10-15T18:10:11.802+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.6,
-    "feelsLikeC": 24.3,
+    "tempC": 23.4,
+    "feelsLikeC": 24.2,
     "humidity": 61,
-    "windKph": 7.8,
+    "windKph": 7.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T18:00:10.021+08:00",
+    "observedAt": "2026-10-15T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-15T18:10:11.802+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026上海衍生品市场论坛举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715173.shtml",
-        "publishedAt": "2026-10-15T17:55:37.000+08:00"
+        "title": "“中国第一展”磁力凸显 白云机场口岸单日入境外籍人员破2万人次",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715183.shtml",
+        "publishedAt": "2026-10-15T18:03:38.000+08:00"
       },
       {
-        "title": "2026年宁夏青少年足球超级联赛开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-15/10715172.shtml",
-        "publishedAt": "2026-10-15T17:55:35.000+08:00"
+        "title": "（乡村行·看振兴）烟火伴丹青：吉林松花湖畔小镇绘就文旅新图景",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715184.shtml",
+        "publishedAt": "2026-10-15T18:03:36.000+08:00"
       },
       {
-        "title": "川港职业与应用教育联盟成都研究院在蓉揭牌",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715174.shtml",
-        "publishedAt": "2026-10-15T17:55:31.000+08:00"
+        "title": "（校馆弦歌）一座未完成的“大屋顶”，如何长成一所大学的报国路？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715185.shtml",
+        "publishedAt": "2026-10-15T18:03:02.000+08:00"
       },
       {
-        "title": "东西问丨让-马丁·鲍尔：如何以创新实践守护全球餐桌？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-15/10715167.shtml",
-        "publishedAt": "2026-10-15T17:54:01.000+08:00"
+        "title": "中国首个全链条绿色低碳乙烯工程全面投入商业运营",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715182.shtml",
+        "publishedAt": "2026-10-15T17:58:04.000+08:00"
       },
       {
-        "title": "东西问｜蒙娜·法里德·巴德兰：中国开源人工智能如何惠及更多全球南方民众？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-15/10715168.shtml",
-        "publishedAt": "2026-10-15T17:50:45.000+08:00"
+        "title": "贝宁眼科博士抵宁研修 援贝宁“光明行”从“输血”走向“造血”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715180.shtml",
+        "publishedAt": "2026-10-15T17:58:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T18:00:03.579+08:00",
+    "fetchedAt": "2026-10-15T18:10:05.600+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T18:00:08.574+08:00",
+      "fetchedAt": "2026-10-15T18:10:10.474+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 64,
+          "usedPct": 71,
           "resetAt": "2026-10-15T19:12:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 10,
+          "usedPct": 11,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T18:00:08.891+08:00",
+      "fetchedAt": "2026-10-15T18:10:10.728+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T18:00:08.896+08:00",
+      "fetchedAt": "2026-10-15T18:10:10.735+08:00",
       "error": null
     }
   }
