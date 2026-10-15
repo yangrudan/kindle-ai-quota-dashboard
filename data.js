@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T17:30:10.969+08:00",
+  "updatedAt": "2026-10-15T17:40:09.949+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T17:30:10.969+08:00",
+    "fetchedAt": "2026-10-15T17:40:09.949+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "刘海星会见土耳其正义与发展党高级干部考察团",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715153.shtml",
-        "publishedAt": "2026-10-15T17:13:25.000+08:00"
+        "title": "商务部：中方将与欧方一道促进双方两用物项贸易发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715165.shtml",
+        "publishedAt": "2026-10-15T17:34:20.000+08:00"
       },
       {
-        "title": "商务部：反对个别国家将经贸问题政治化",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715147.shtml",
-        "publishedAt": "2026-10-15T16:58:40.000+08:00"
+        "title": "美媒爆料：特朗普考虑对伊朗动用“炸弹之母”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715118.shtml",
+        "publishedAt": "2026-10-15T17:32:56.000+08:00"
       },
       {
-        "title": "银行间市场首家！建设银行“AI交易员”用上AI大模型",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715146.shtml",
-        "publishedAt": "2026-10-15T16:57:24.000+08:00"
+        "title": "“华创杯”香港乒乓球赛启动礼在港举行 逾400人参赛",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10715162.shtml",
+        "publishedAt": "2026-10-15T17:32:02.000+08:00"
       },
       {
-        "title": "第140届广交会服务机器人专区展示前沿智造成果",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715148.shtml",
-        "publishedAt": "2026-10-15T16:56:54.000+08:00"
+        "title": "山东“银发课堂”多点开花 拓展“老有所学”新边界",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715161.shtml",
+        "publishedAt": "2026-10-15T17:32:00.000+08:00"
       },
       {
-        "title": "河北馆陶万亩黄梨迎丰收 果香远飘海内外",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715142.shtml",
-        "publishedAt": "2026-10-15T16:54:48.000+08:00"
+        "title": "2026厦门国际秋季茶博会开展 搭建“茶和天下”国际茶产业合作平台",
+        "url": "https://www.chinanews.com.cn/life/2026/10-15/10715160.shtml",
+        "publishedAt": "2026-10-15T17:31:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T17:30:04.661+08:00",
+    "fetchedAt": "2026-10-15T17:40:02.946+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T17:30:09.655+08:00",
+      "fetchedAt": "2026-10-15T17:40:08.540+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 54,
+          "usedPct": 57,
           "resetAt": "2026-10-15T19:12:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T17:30:09.878+08:00",
+      "fetchedAt": "2026-10-15T17:40:08.771+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T17:30:09.887+08:00",
+      "fetchedAt": "2026-10-15T17:40:08.788+08:00",
       "error": null
     }
   }
