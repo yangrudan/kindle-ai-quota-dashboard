@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T16:10:11.123+08:00",
+  "updatedAt": "2026-10-15T16:20:10.833+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.8,
-    "feelsLikeC": 25.5,
-    "humidity": 55,
-    "windKph": 7.2,
+    "tempC": 24.7,
+    "feelsLikeC": 25.3,
+    "humidity": 56,
+    "windKph": 7.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-15T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T16:10:11.124+08:00",
+    "observedAt": "2026-10-15T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-15T16:20:10.833+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "何以稻花香里说丰年？江西千年黄沙渠给出答案",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715041.shtml",
-        "publishedAt": "2026-10-15T16:03:39.000+08:00"
+        "title": "（活力中国调研行）“中国糖都”开启集装箱江海联运新模式",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715051.shtml",
+        "publishedAt": "2026-10-15T16:13:54.000+08:00"
       },
       {
-        "title": "市场监管总局、工业和信息化部、国家卫生健康委、国家疾控局联合调查组关于婴幼儿纸尿裤甲酰胺问题调查核实情况",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715100.shtml",
-        "publishedAt": "2026-10-15T16:03:21.000+08:00"
+        "title": "江西南昌30对新人穿汉服办集体婚礼 解锁“中式浪漫” 倡导文明新风",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715092.shtml",
+        "publishedAt": "2026-10-15T16:13:34.000+08:00"
       },
       {
-        "title": "取得丰硕成果 “长城-2026”反恐国际论坛闭幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715099.shtml",
-        "publishedAt": "2026-10-15T16:03:09.000+08:00"
+        "title": "寒潮中吉林迎首个“22℃采暖季”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715094.shtml",
+        "publishedAt": "2026-10-15T16:12:30.000+08:00"
       },
       {
-        "title": "湖北省法院近5年审结涉老继承纠纷18000余件",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-15/10715036.shtml",
-        "publishedAt": "2026-10-15T16:02:55.000+08:00"
+        "title": "澳大利亚9月失业率维持在4.7%",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715055.shtml",
+        "publishedAt": "2026-10-15T16:12:16.000+08:00"
       },
       {
-        "title": "商务部：中欧双方在混动汽车领域达成的谅解是对等互利的",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715098.shtml",
-        "publishedAt": "2026-10-15T16:01:41.000+08:00"
+        "title": "赴约太湖西南岸 中外青年解锁县域发展“密钥”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715063.shtml",
+        "publishedAt": "2026-10-15T16:11:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T16:10:03.779+08:00",
+    "fetchedAt": "2026-10-15T16:20:02.832+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T16:10:09.845+08:00",
+      "fetchedAt": "2026-10-15T16:20:09.505+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 24,
+          "usedPct": 31,
           "resetAt": "2026-10-15T19:12:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T16:10:10.131+08:00",
+      "fetchedAt": "2026-10-15T16:20:09.817+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T16:10:10.140+08:00",
+      "fetchedAt": "2026-10-15T16:20:09.827+08:00",
       "error": null
     }
   }
