@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-15T19:10:12.203+08:00",
+  "updatedAt": "2026-10-15T19:20:12.298+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.2,
-    "feelsLikeC": 24.4,
-    "humidity": 63,
+    "tempC": 23.1,
+    "feelsLikeC": 24.3,
+    "humidity": 64,
     "windKph": 5.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T19:10:12.203+08:00",
+    "observedAt": "2026-10-15T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-15T19:20:12.298+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "打造零碳科技城市 福建宁德发布《零碳宁德行动方案》",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715198.shtml",
+        "publishedAt": "2026-10-15T19:05:27.000+08:00"
+      },
+      {
+        "title": "新一代超大型油轮“弗朗特 德文”轮在辽宁命名交付",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715196.shtml",
+        "publishedAt": "2026-10-15T19:04:43.000+08:00"
+      },
       {
         "title": "湖南江永早香芋抢“鲜”上市 特色产业助民稳增收",
         "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715195.shtml",
@@ -33,19 +43,9 @@
         "title": "重庆举办专场招聘会 830余家单位释放6万余个岗位",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715199.shtml",
         "publishedAt": "2026-10-15T19:02:37.000+08:00"
-      },
-      {
-        "title": "卢浮宫馆长警告说可能被迫关闭卢浮宫",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715200.shtml",
-        "publishedAt": "2026-10-15T18:59:01.000+08:00"
-      },
-      {
-        "title": "首趟“京铁燕赵班列·援疆号”多式联运班列石家庄首发",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715194.shtml",
-        "publishedAt": "2026-10-15T18:57:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T19:10:05.599+08:00",
+    "fetchedAt": "2026-10-15T19:20:06.350+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T19:10:10.530+08:00",
+      "fetchedAt": "2026-10-15T19:20:11.190+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 84,
-          "resetAt": "2026-10-15T19:12:49.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-16T00:20:12.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T19:10:10.965+08:00",
+      "fetchedAt": "2026-10-15T19:20:11.477+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T19:10:10.969+08:00",
+      "fetchedAt": "2026-10-15T19:20:11.482+08:00",
       "error": null
     }
   }
