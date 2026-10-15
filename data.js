@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T15:10:16.895+08:00",
+  "updatedAt": "2026-10-15T15:20:09.498+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.3,
+    "tempC": 23.2,
     "feelsLikeC": 23.7,
-    "humidity": 57,
-    "windKph": 6.7,
+    "humidity": 58,
+    "windKph": 6.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-15T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T15:10:16.895+08:00",
+    "observedAt": "2026-10-15T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-15T15:20:09.498+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "郑州马拉松开赛在即 全国各地跑者相聚如意湖畔",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715005.shtml",
-        "publishedAt": "2026-10-15T15:00:58.000+08:00"
+        "title": "2026世界储能大会宁德举行 业界：储能要迈入新型基础设施时代",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715023.shtml",
+        "publishedAt": "2026-10-15T15:18:37.000+08:00"
       },
       {
-        "title": "调查指香港99.2%的市民去年未遇贪污 廉署：共享廉洁社会成果",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10715008.shtml",
-        "publishedAt": "2026-10-15T14:58:00.000+08:00"
+        "title": "（申城风景线）上海社区食堂探索一顿饭里的“AI方案”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715033.shtml",
+        "publishedAt": "2026-10-15T15:17:11.000+08:00"
       },
       {
-        "title": "聚焦下一代智能数字根基 专家探讨AI能力边界所在",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715013.shtml",
-        "publishedAt": "2026-10-15T14:55:20.000+08:00"
+        "title": "美国达美航空推出新一代至臻商务舱",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-15/1207900.shtml",
+        "publishedAt": "2026-10-15T15:15:31.000+08:00"
       },
       {
-        "title": "日本GDP或将降至全球第六 日本民众担忧：国力下滑趋势恐难逆转",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715015.shtml",
-        "publishedAt": "2026-10-15T14:54:10.000+08:00"
+        "title": "商务部：中方将与欧方一道促进双方两用物项贸易发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715032.shtml",
+        "publishedAt": "2026-10-15T15:12:29.000+08:00"
       },
       {
-        "title": "《公园城市指数2025》发布：成都“人气活力”连续三年居首",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715014.shtml",
-        "publishedAt": "2026-10-15T14:53:25.000+08:00"
+        "title": "《求是》杂志发表习近平总书记重要文章《以更高标准、更实举措推进全面从严治党》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715019.shtml",
+        "publishedAt": "2026-10-15T15:09:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T15:10:12.157+08:00",
+    "fetchedAt": "2026-10-15T15:20:03.699+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T15:10:04.530+08:00",
+      "fetchedAt": "2026-10-15T15:20:08.137+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T15:10:15.860+08:00",
+      "fetchedAt": "2026-10-15T15:20:08.437+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T15:10:15.872+08:00",
+      "fetchedAt": "2026-10-15T15:20:08.447+08:00",
       "error": null
     }
   }
