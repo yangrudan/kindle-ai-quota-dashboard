@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T08:30:09.054+08:00",
+  "updatedAt": "2026-10-15T08:40:18.499+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-15T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T08:30:09.054+08:00",
+    "fetchedAt": "2026-10-15T08:40:18.499+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第140届广交会今日开展 展期持续至11月4日",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714775.shtml",
+        "publishedAt": "2026-10-15T08:36:49.000+08:00"
+      },
+      {
+        "title": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714766.shtml",
+        "publishedAt": "2026-10-15T08:29:31.000+08:00"
+      },
       {
         "title": "巴拿马7.6级地震致1人死亡20余人受伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714768.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "国际能源署：全球柴油市场供应紧张状况加剧",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714765.shtml",
         "publishedAt": "2026-10-15T08:15:28.000+08:00"
-      },
-      {
-        "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714764.shtml",
-        "publishedAt": "2026-10-15T08:14:40.000+08:00"
-      },
-      {
-        "title": "英国首相伯纳姆会见泽连斯基 公布多项对乌支援措施",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714763.shtml",
-        "publishedAt": "2026-10-15T08:14:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T08:30:04.031+08:00",
+    "fetchedAt": "2026-10-15T08:40:12.776+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T08:30:07.652+08:00",
+      "fetchedAt": "2026-10-15T08:40:17.021+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T13:30:08.000+08:00"
+          "resetAt": "2026-10-15T13:40:18.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T08:30:07.932+08:00",
+      "fetchedAt": "2026-10-15T08:40:17.312+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T08:30:07.937+08:00",
+      "fetchedAt": "2026-10-15T08:40:17.319+08:00",
       "error": null
     }
   }
