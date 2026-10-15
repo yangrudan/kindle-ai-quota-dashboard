@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T13:50:10.348+08:00",
+  "updatedAt": "2026-10-15T14:00:09.118+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-15T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T13:50:10.349+08:00",
+    "fetchedAt": "2026-10-15T14:00:09.118+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新疆兵团甜菜迎采收季 全程机械化助力提质增效",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714950.shtml",
-        "publishedAt": "2026-10-15T13:48:10.000+08:00"
+        "title": "大同“十五五”文旅路线图出炉：从“过境观光”转向“深度体验”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714953.shtml",
+        "publishedAt": "2026-10-15T13:53:34.000+08:00"
       },
       {
-        "title": "增值税发票数据显示：今年前三季度广东人工智能产业发展动能充沛",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714964.shtml",
-        "publishedAt": "2026-10-15T13:47:28.000+08:00"
+        "title": "2025年中国地理信息产业总产值超9000亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714970.shtml",
+        "publishedAt": "2026-10-15T13:52:08.000+08:00"
       },
       {
-        "title": "第二十六届工博会：当工业制造遇到火热的人工智能浪潮",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714948.shtml",
-        "publishedAt": "2026-10-15T13:47:06.000+08:00"
+        "title": "寒潮来袭 吉林多地开栓供热",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714952.shtml",
+        "publishedAt": "2026-10-15T13:52:08.000+08:00"
       },
       {
-        "title": "陕西高校教师教学创新成果巡讲启动",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-15/10714956.shtml",
-        "publishedAt": "2026-10-15T13:46:12.000+08:00"
+        "title": "土耳其伊斯坦布尔遭遇强降雨 引发城市内涝",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-15/1207877.shtml",
+        "publishedAt": "2026-10-15T13:51:56.000+08:00"
       },
       {
-        "title": "鱼油、辅酶Q10、钙、蛋白粉，这四样老人到底要不要补？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714966.shtml",
-        "publishedAt": "2026-10-15T13:45:20.000+08:00"
+        "title": "长三角高校网球争霸赛在上海举办 以球会友促青年交流",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-15/10714951.shtml",
+        "publishedAt": "2026-10-15T13:51:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T13:50:03.706+08:00",
+    "fetchedAt": "2026-10-15T14:00:02.908+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T13:50:08.733+08:00",
+      "fetchedAt": "2026-10-15T14:00:07.503+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 66,
+          "usedPct": 68,
           "resetAt": "2026-10-15T14:38:53.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T13:50:09.002+08:00",
+      "fetchedAt": "2026-10-15T14:00:07.740+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T13:50:09.006+08:00",
+      "fetchedAt": "2026-10-15T14:00:07.749+08:00",
       "error": null
     }
   }
