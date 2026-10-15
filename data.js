@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T14:00:09.118+08:00",
+  "updatedAt": "2026-10-15T14:10:11.818+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.4,
-    "feelsLikeC": 23.7,
-    "humidity": 55,
-    "windKph": 6.5,
+    "tempC": 23.7,
+    "feelsLikeC": 24,
+    "humidity": 54,
+    "windKph": 6.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-15T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T14:00:09.118+08:00",
+    "observedAt": "2026-10-15T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-15T14:10:11.819+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "大同“十五五”文旅路线图出炉：从“过境观光”转向“深度体验”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714953.shtml",
-        "publishedAt": "2026-10-15T13:53:34.000+08:00"
+        "title": "“蒸馏”借口背后，霸权才是真相 | 新漫评",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714968.shtml",
+        "publishedAt": "2026-10-15T14:08:11.000+08:00"
       },
       {
-        "title": "2025年中国地理信息产业总产值超9000亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714970.shtml",
-        "publishedAt": "2026-10-15T13:52:08.000+08:00"
+        "title": "美式双标，“蒸馏”不了真相",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714967.shtml",
+        "publishedAt": "2026-10-15T14:06:41.000+08:00"
       },
       {
-        "title": "寒潮来袭 吉林多地开栓供热",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714952.shtml",
-        "publishedAt": "2026-10-15T13:52:08.000+08:00"
+        "title": "第140届广交会今起正式开展 实现多项“首次”突破",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714976.shtml",
+        "publishedAt": "2026-10-15T14:03:27.000+08:00"
       },
       {
-        "title": "土耳其伊斯坦布尔遭遇强降雨 引发城市内涝",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-15/1207877.shtml",
-        "publishedAt": "2026-10-15T13:51:56.000+08:00"
+        "title": "城市更新赋能产业升级 千年武昌城长出“新经济”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714957.shtml",
+        "publishedAt": "2026-10-15T13:58:45.000+08:00"
       },
       {
-        "title": "长三角高校网球争霸赛在上海举办 以球会友促青年交流",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-15/10714951.shtml",
-        "publishedAt": "2026-10-15T13:51:38.000+08:00"
+        "title": "从昆仑山到深圳湾的双向奔赴丨带着一箱高原心意 去赴一场看海的约定",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714975.shtml",
+        "publishedAt": "2026-10-15T13:58:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T14:00:02.908+08:00",
+    "fetchedAt": "2026-10-15T14:10:05.601+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T14:00:07.503+08:00",
+      "fetchedAt": "2026-10-15T14:10:10.616+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 68,
+          "usedPct": 70,
           "resetAt": "2026-10-15T14:38:53.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T14:00:07.740+08:00",
+      "fetchedAt": "2026-10-15T14:10:10.839+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T14:00:07.749+08:00",
+      "fetchedAt": "2026-10-15T14:10:10.848+08:00",
       "error": null
     }
   }
