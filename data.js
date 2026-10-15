@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T10:30:40.467+08:00",
+  "updatedAt": "2026-10-15T10:40:39.285+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T10:30:40.467+08:00",
+    "fetchedAt": "2026-10-15T10:40:39.286+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第四十四届东盟能源部长系列会议在菲律宾召开",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10714848.shtml",
+        "publishedAt": "2026-10-15T10:14:44.000+08:00"
+      },
       {
         "title": "从“养老”到“享老”，银发族的悦己新选择",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714844.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "湖南检察机关依法对王凤朝涉嫌受贿案提起公诉",
         "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714842.shtml",
         "publishedAt": "2026-10-15T10:08:24.000+08:00"
-      },
-      {
-        "title": "新华社快讯：10月15日上午，中朝新鸭绿江大桥开通仪式举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714841.shtml",
-        "publishedAt": "2026-10-15T10:04:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T10:30:04.536+08:00",
+    "fetchedAt": "2026-10-15T10:40:03.474+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T10:30:38.772+08:00",
+      "fetchedAt": "2026-10-15T10:40:37.680+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T10:30:39.054+08:00",
+      "fetchedAt": "2026-10-15T10:40:37.984+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T10:30:39.061+08:00",
+      "fetchedAt": "2026-10-15T10:40:37.993+08:00",
       "error": null
     }
   }
