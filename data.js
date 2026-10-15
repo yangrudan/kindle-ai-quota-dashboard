@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T13:40:39.278+08:00",
+  "updatedAt": "2026-10-15T13:50:10.348+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.9,
-    "feelsLikeC": 23.2,
-    "humidity": 56,
-    "windKph": 5.8,
+    "tempC": 23.4,
+    "feelsLikeC": 23.7,
+    "humidity": 55,
+    "windKph": 6.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-15T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T13:40:39.279+08:00",
+    "observedAt": "2026-10-15T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-15T13:50:10.349+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "织密新就业群体保障网，也要防住钻进来牟利的\"黄牛\"",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714854.shtml",
-        "publishedAt": "2026-10-15T13:29:59.000+08:00"
+        "title": "新疆兵团甜菜迎采收季 全程机械化助力提质增效",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714950.shtml",
+        "publishedAt": "2026-10-15T13:48:10.000+08:00"
       },
       {
-        "title": "日月谭天丨一句“赖清德鬼话连篇”何以引发两岸关注",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714933.shtml",
-        "publishedAt": "2026-10-15T13:27:43.000+08:00"
+        "title": "增值税发票数据显示：今年前三季度广东人工智能产业发展动能充沛",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714964.shtml",
+        "publishedAt": "2026-10-15T13:47:28.000+08:00"
       },
       {
-        "title": "辨别低GI食品 4个要点很关键",
-        "url": "https://www.chinanews.com.cn/life/2026/10-15/10714931.shtml",
-        "publishedAt": "2026-10-15T13:25:31.000+08:00"
+        "title": "第二十六届工博会：当工业制造遇到火热的人工智能浪潮",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714948.shtml",
+        "publishedAt": "2026-10-15T13:47:06.000+08:00"
       },
       {
-        "title": "李强在中朝新鸭绿江大桥开通仪式上发表视频致辞",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714904.shtml",
-        "publishedAt": "2026-10-15T13:21:45.000+08:00"
+        "title": "陕西高校教师教学创新成果巡讲启动",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-15/10714956.shtml",
+        "publishedAt": "2026-10-15T13:46:12.000+08:00"
       },
       {
-        "title": "【社论】前三季度外贸持续增长，释放中国开放红利",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-15/10714930.shtml",
-        "publishedAt": "2026-10-15T13:20:06.000+08:00"
+        "title": "鱼油、辅酶Q10、钙、蛋白粉，这四样老人到底要不要补？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714966.shtml",
+        "publishedAt": "2026-10-15T13:45:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T13:40:03.599+08:00",
+    "fetchedAt": "2026-10-15T13:50:03.706+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T13:40:37.916+08:00",
+      "fetchedAt": "2026-10-15T13:50:08.733+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T13:40:38.155+08:00",
+      "fetchedAt": "2026-10-15T13:50:09.002+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T13:40:38.159+08:00",
+      "fetchedAt": "2026-10-15T13:50:09.006+08:00",
       "error": null
     }
   }
