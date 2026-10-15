@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T11:20:10.880+08:00",
+  "updatedAt": "2026-10-15T11:30:10.504+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.8,
-    "feelsLikeC": 21.2,
+    "tempC": 21.1,
+    "feelsLikeC": 21.4,
     "humidity": 61,
     "windKph": 4.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-15T11:20:10.880+08:00",
+    "observedAt": "2026-10-15T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-15T11:30:10.504+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "说到“长征”，你最先想到的是什么？长征记忆从哪来？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714891.shtml",
+        "publishedAt": "2026-10-15T11:21:30.000+08:00"
+      },
+      {
+        "title": "就日本记者被拘事件 日本外务省召见俄罗斯大使提出抗议",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714889.shtml",
+        "publishedAt": "2026-10-15T11:16:56.000+08:00"
+      },
       {
         "title": "青海省果洛州政府原党组成员、副州长西热被查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714884.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“人工智能污染”来袭，如何应对",
         "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714886.shtml",
         "publishedAt": "2026-10-15T11:14:28.000+08:00"
-      },
-      {
-        "title": "以大湾区为创新实践沃土 专家研讨涉外检察制度建构与实践探索",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714883.shtml",
-        "publishedAt": "2026-10-15T11:10:43.000+08:00"
-      },
-      {
-        "title": "2026年崔致远祭享活动在扬州举行 120余名韩国崔氏宗亲缅怀先贤",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714882.shtml",
-        "publishedAt": "2026-10-15T11:10:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T11:20:03.264+08:00",
+    "fetchedAt": "2026-10-15T11:30:03.800+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T11:20:09.267+08:00",
+      "fetchedAt": "2026-10-15T11:30:08.531+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 55,
+          "usedPct": 59,
           "resetAt": "2026-10-15T14:38:53.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 46,
+          "usedPct": 47,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T11:20:09.661+08:00",
+      "fetchedAt": "2026-10-15T11:30:08.840+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T11:20:09.668+08:00",
+      "fetchedAt": "2026-10-15T11:30:08.851+08:00",
       "error": null
     }
   }
