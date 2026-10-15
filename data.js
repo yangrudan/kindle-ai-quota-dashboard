@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T22:20:08.997+08:00",
+  "updatedAt": "2026-10-15T22:30:39.659+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20.6,
-    "feelsLikeC": 22.3,
-    "humidity": 83,
+    "tempC": 20.5,
+    "feelsLikeC": 22.2,
+    "humidity": 84,
     "windKph": 6.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-15T22:20:08.997+08:00",
+    "observedAt": "2026-10-15T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-15T22:30:39.660+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "【东盟专线】（活力中国）数智加持 “柳州造” 借平陆运河出海东盟",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715358.shtml",
+        "publishedAt": "2026-10-15T22:16:38.000+08:00"
+      },
       {
         "title": "四川省达州市政协原党组书记陈文胜被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715201.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "8月台湾制造业加班工时创46年同月新高",
         "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715351.shtml",
         "publishedAt": "2026-10-15T22:05:19.000+08:00"
-      },
-      {
-        "title": "武部新接任日本农林水产大臣",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715334.shtml",
-        "publishedAt": "2026-10-15T22:04:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T22:20:03.084+08:00",
+    "fetchedAt": "2026-10-15T22:30:04.022+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T22:20:07.340+08:00",
+      "fetchedAt": "2026-10-15T22:30:37.986+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 20,
-          "resetAt": "2026-10-16T01:47:06.000+08:00"
+          "resetAt": "2026-10-16T01:47:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T22:20:07.701+08:00",
+      "fetchedAt": "2026-10-15T22:30:38.159+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T22:20:07.708+08:00",
+      "fetchedAt": "2026-10-15T22:30:38.164+08:00",
       "error": null
     }
   }
