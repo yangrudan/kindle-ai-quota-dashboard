@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T13:00:39.527+08:00",
+  "updatedAt": "2026-10-15T13:10:10.339+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T13:00:39.527+08:00",
+    "fetchedAt": "2026-10-15T13:10:10.339+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从老街区到新地标 海外侨胞探索唐人街保护更新",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-15/10714916.shtml",
+        "publishedAt": "2026-10-15T13:05:58.000+08:00"
+      },
+      {
+        "title": "随身“消毒卡”虚假宣传 中消协胜诉 企业退一赔三",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714917.shtml",
+        "publishedAt": "2026-10-15T13:00:41.000+08:00"
+      },
       {
         "title": "美官员称美方考虑对伊朗使用“炸弹之母”",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714914.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "9月中国公路运输市场更趋活跃",
         "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714909.shtml",
         "publishedAt": "2026-10-15T12:28:20.000+08:00"
-      },
-      {
-        "title": "甘肃讨赖河绿洲灌溉系统入选世界灌溉工程遗产",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714912.shtml",
-        "publishedAt": "2026-10-15T12:26:07.000+08:00"
-      },
-      {
-        "title": "红星照耀中国｜一碗“无盐汤”，映照鱼水情",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714910.shtml",
-        "publishedAt": "2026-10-15T12:23:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T13:00:04.471+08:00",
+    "fetchedAt": "2026-10-15T13:10:03.032+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T13:00:38.187+08:00",
+      "fetchedAt": "2026-10-15T13:10:08.435+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T13:00:38.460+08:00",
+      "fetchedAt": "2026-10-15T13:10:08.676+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T13:00:38.464+08:00",
+      "fetchedAt": "2026-10-15T13:10:08.681+08:00",
       "error": null
     }
   }
