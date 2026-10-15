@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T18:40:40.404+08:00",
+  "updatedAt": "2026-10-15T18:50:11.884+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 23.3,
-    "feelsLikeC": 24.3,
-    "humidity": 62,
-    "windKph": 6.1,
+    "feelsLikeC": 24.4,
+    "humidity": 63,
+    "windKph": 5.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T18:40:40.404+08:00",
+    "observedAt": "2026-10-15T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-15T18:50:11.884+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "俄安全局逮捕一企图对俄实施恐袭的瑞典公民",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715197.shtml",
+        "publishedAt": "2026-10-15T18:41:28.000+08:00"
+      },
       {
         "title": "中国工商银行深圳分行原副行长姚玉平被开除党籍",
         "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715188.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（乡村行·看振兴）烟火伴丹青：吉林松花湖畔小镇绘就文旅新图景",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715184.shtml",
         "publishedAt": "2026-10-15T18:03:36.000+08:00"
-      },
-      {
-        "title": "（校馆弦歌）一座未完成的“大屋顶”，如何长成一所大学的报国路？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715185.shtml",
-        "publishedAt": "2026-10-15T18:03:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T18:40:04.747+08:00",
+    "fetchedAt": "2026-10-15T18:50:05.808+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T18:40:39.291+08:00",
+      "fetchedAt": "2026-10-15T18:50:10.596+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T18:40:39.503+08:00",
+      "fetchedAt": "2026-10-15T18:50:10.823+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T18:40:39.512+08:00",
+      "fetchedAt": "2026-10-15T18:50:10.832+08:00",
       "error": null
     }
   }
