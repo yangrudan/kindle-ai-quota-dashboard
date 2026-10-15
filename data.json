@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T14:30:13.153+08:00",
+  "updatedAt": "2026-10-15T14:40:10.564+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-15T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T14:30:13.153+08:00",
+    "fetchedAt": "2026-10-15T14:40:10.564+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "市场监管总局曝光一批“内卷式”竞争严重违法失信名单",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714999.shtml",
+        "publishedAt": "2026-10-15T14:31:58.000+08:00"
+      },
+      {
+        "title": "第七届海峡两岸（陕西）经贸科技合作大会在西安开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714991.shtml",
+        "publishedAt": "2026-10-15T14:31:48.000+08:00"
+      },
+      {
+        "title": "张雪机车携多款车型亮相第140届广交会",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10714994.shtml",
+        "publishedAt": "2026-10-15T14:31:28.000+08:00"
+      },
+      {
+        "title": "江西南昌：30对新人穿汉服办集体婚礼 倡导文明新风",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10714992.shtml",
+        "publishedAt": "2026-10-15T14:29:30.000+08:00"
+      },
+      {
         "title": "酒精能杀灭诺如病毒？2026年9月科学领域流言榜来了→",
         "url": "https://www.chinanews.com.cn/life/2026/10-15/10714998.shtml",
         "publishedAt": "2026-10-15T14:24:26.000+08:00"
-      },
-      {
-        "title": "赏红叶访古建 千年国保在漫山红叶中“活”起来",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714995.shtml",
-        "publishedAt": "2026-10-15T14:23:08.000+08:00"
-      },
-      {
-        "title": "中国援贝宁医疗队完成洛科萨地区首例低龄儿童先天性外耳道肿物摘除术",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714990.shtml",
-        "publishedAt": "2026-10-15T14:21:54.000+08:00"
-      },
-      {
-        "title": "山海不为远 辽疆一家亲 ——辽宁阜新市“阜疆一家亲 同心石榴红”非遗文化交流活动走进新疆石河子市",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-15/10714980.shtml",
-        "publishedAt": "2026-10-15T14:21:14.000+08:00"
-      },
-      {
-        "title": "23年前，中国人飞向太空！回望载入史册的那一天",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714997.shtml",
-        "publishedAt": "2026-10-15T14:21:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T14:30:04.285+08:00",
+    "fetchedAt": "2026-10-15T14:40:03.311+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T14:30:10.061+08:00",
+      "fetchedAt": "2026-10-15T14:40:08.965+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 10,
           "resetAt": "2026-10-15T19:12:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 1,
+          "usedPct": 2,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T14:30:10.311+08:00",
+      "fetchedAt": "2026-10-15T14:40:09.247+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T14:30:10.322+08:00",
+      "fetchedAt": "2026-10-15T14:40:09.253+08:00",
       "error": null
     }
   }
