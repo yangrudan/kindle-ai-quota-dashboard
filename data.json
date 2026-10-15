@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-15T21:50:10.363+08:00",
+  "updatedAt": "2026-10-15T22:00:11.588+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 21,
-    "feelsLikeC": 22.5,
-    "humidity": 79,
+    "tempC": 20.8,
+    "feelsLikeC": 22.4,
+    "humidity": 81,
     "windKph": 6.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T21:50:10.363+08:00",
+    "observedAt": "2026-10-15T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-15T22:00:11.589+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715330.shtml",
-        "publishedAt": "2026-10-15T21:42:28.000+08:00"
+        "title": "中国上海国际艺术节举办国际演艺大会 中外艺术机构达成多项合作",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715321.shtml",
+        "publishedAt": "2026-10-15T21:54:58.000+08:00"
       },
       {
-        "title": "（经济观察）中国储能携手全球共筑零碳未来 从“产品出海”到“生态共赢”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715304.shtml",
-        "publishedAt": "2026-10-15T21:36:11.000+08:00"
+        "title": "别让一瓶1.9元的饮料，伤了医患之间的信任",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10715312.shtml",
+        "publishedAt": "2026-10-15T21:54:56.000+08:00"
       },
       {
-        "title": "“东方威尼斯”——浙江绍兴上演乌篷船马拉松",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715318.shtml",
-        "publishedAt": "2026-10-15T21:33:53.000+08:00"
+        "title": "闻香识邛崃 海外华媒解码邛崃酒产业发展新势能",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-15/10715346.shtml",
+        "publishedAt": "2026-10-15T21:54:48.000+08:00"
       },
       {
-        "title": "泰国媒体网红走进云南 冀以媒体之力促滇泰经贸文旅双向奔赴",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715310.shtml",
-        "publishedAt": "2026-10-15T21:32:57.000+08:00"
+        "title": "淄博琉璃艺术展亮相澳门",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10715343.shtml",
+        "publishedAt": "2026-10-15T21:54:12.000+08:00"
       },
       {
-        "title": "中巴高校搭建海洋、农业科研协作新平台",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715305.shtml",
-        "publishedAt": "2026-10-15T21:32:55.000+08:00"
+        "title": "电影《喂喂喂，足球队》在上海无障碍放映",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715341.shtml",
+        "publishedAt": "2026-10-15T21:54:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T21:50:03.300+08:00",
+    "fetchedAt": "2026-10-15T22:00:05.108+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T21:50:08.615+08:00",
+      "fetchedAt": "2026-10-15T22:00:10.237+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T21:50:09.054+08:00",
+      "fetchedAt": "2026-10-15T22:00:10.465+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T21:50:09.058+08:00",
+      "fetchedAt": "2026-10-15T22:00:10.470+08:00",
       "error": null
     }
   }
