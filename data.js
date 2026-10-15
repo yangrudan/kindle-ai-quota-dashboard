@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T08:00:39.412+08:00",
+  "updatedAt": "2026-10-15T08:10:09.675+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 19.4,
-    "humidity": 69,
-    "windKph": 3.5,
+    "tempC": 19.1,
+    "feelsLikeC": 19.5,
+    "humidity": 68,
+    "windKph": 4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T08:00:39.412+08:00",
+    "observedAt": "2026-10-15T08:00:00.000+08:00",
+    "fetchedAt": "2026-10-15T08:10:09.675+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,12 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "超重 大件 爬楼订单有望多拿钱 外卖骑手额外劳动该如何定价？",
+        "title": "流感季将至，流感疫苗如何打？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714759.shtml",
+        "publishedAt": "2026-10-15T07:55:11.000+08:00"
+      },
+      {
+        "title": "超重、大件、爬楼订单有望多拿钱，外卖骑手额外劳动该如何定价？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714758.shtml",
         "publishedAt": "2026-10-15T07:50:27.000+08:00"
       },
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "职场“软监控”引担忧：“隐形监控”之下，隐私安全何在？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714755.shtml",
         "publishedAt": "2026-10-15T07:40:06.000+08:00"
-      },
-      {
-        "title": "日本农相因丑闻辞职 在野党批评：暴露高市政权深层问题",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714754.shtml",
-        "publishedAt": "2026-10-15T07:30:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T08:00:03.018+08:00",
+    "fetchedAt": "2026-10-15T08:10:05.189+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T08:00:37.988+08:00",
+      "fetchedAt": "2026-10-15T08:10:08.487+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T13:00:39.000+08:00"
+          "resetAt": "2026-10-15T13:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T08:00:38.223+08:00",
+      "fetchedAt": "2026-10-15T08:10:08.811+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T08:00:38.232+08:00",
+      "fetchedAt": "2026-10-15T08:10:08.820+08:00",
       "error": null
     }
   }
