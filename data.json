@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-15T09:20:11.123+08:00",
+  "updatedAt": "2026-10-15T09:30:41.535+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 19.6,
-    "feelsLikeC": 19.9,
+    "feelsLikeC": 20.1,
     "humidity": 66,
-    "windKph": 3.9,
+    "windKph": 3.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T09:15:00.000+08:00",
-    "fetchedAt": "2026-10-15T09:20:11.124+08:00",
+    "observedAt": "2026-10-15T09:30:00.000+08:00",
+    "fetchedAt": "2026-10-15T09:30:41.535+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖南江西等地有大雨或暴雨 明日起我国降水将增多增强",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714781.shtml",
-        "publishedAt": "2026-10-15T09:09:05.000+08:00"
+        "title": "铁路部门通报“一男子在高铁座位上排便”：该男子被行拘",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714800.shtml",
+        "publishedAt": "2026-10-15T09:24:36.000+08:00"
       },
       {
-        "title": "新华社权威快报|第五届中国考古学大会开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714784.shtml",
-        "publishedAt": "2026-10-15T09:08:17.000+08:00"
+        "title": "世界运河大会嘉宾走进兴安灵渠 探寻千年古运河",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714795.shtml",
+        "publishedAt": "2026-10-15T09:24:08.000+08:00"
       },
       {
-        "title": "流感疫苗“四价变三价”，效果会下降吗？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714783.shtml",
-        "publishedAt": "2026-10-15T09:06:33.000+08:00"
+        "title": "温和上行 9月份中国公路物流运价指数环比回升",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714804.shtml",
+        "publishedAt": "2026-10-15T09:22:07.000+08:00"
       },
       {
-        "title": "动静相宜，八段锦这样练",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714782.shtml",
-        "publishedAt": "2026-10-15T09:04:57.000+08:00"
+        "title": "香港青年交流团参访深圳 感受湾区科创产业发展成果",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10714796.shtml",
+        "publishedAt": "2026-10-15T09:20:29.000+08:00"
       },
       {
-        "title": "海关总署：优化进境粮食企业监管措施及有关事宜",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714779.shtml",
-        "publishedAt": "2026-10-15T09:04:13.000+08:00"
+        "title": "甘肃民勤：戈壁农田的资源化循环新路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714798.shtml",
+        "publishedAt": "2026-10-15T09:16:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T09:20:04.292+08:00",
+    "fetchedAt": "2026-10-15T09:30:04.395+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T09:20:09.740+08:00",
+      "fetchedAt": "2026-10-15T09:30:38.558+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T14:20:10.000+08:00"
+          "resetAt": "2026-10-15T14:30:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T09:20:09.994+08:00",
+      "fetchedAt": "2026-10-15T09:30:38.779+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T09:20:10.003+08:00",
+      "fetchedAt": "2026-10-15T09:30:38.782+08:00",
       "error": null
     }
   }
