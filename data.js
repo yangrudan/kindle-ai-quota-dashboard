@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T17:00:11.281+08:00",
+  "updatedAt": "2026-10-15T17:10:08.817+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T17:00:11.281+08:00",
+    "fetchedAt": "2026-10-15T17:10:08.817+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河南标准化IP形象“标小象”发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715144.shtml",
-        "publishedAt": "2026-10-15T16:53:38.000+08:00"
+        "title": "商务部：反对个别国家将经贸问题政治化",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715147.shtml",
+        "publishedAt": "2026-10-15T16:58:40.000+08:00"
       },
       {
-        "title": "中俄合作共建俄罗斯岐黄学院在圣彼得堡揭牌",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-15/10715143.shtml",
-        "publishedAt": "2026-10-15T16:53:00.000+08:00"
+        "title": "银行间市场首家！建设银行“AI交易员”用上AI大模型",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715146.shtml",
+        "publishedAt": "2026-10-15T16:57:24.000+08:00"
       },
       {
-        "title": "四川绵遂资内铁路罗家湾特大桥连续梁合龙",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715141.shtml",
-        "publishedAt": "2026-10-15T16:52:04.000+08:00"
+        "title": "第140届广交会服务机器人专区展示前沿智造成果",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715148.shtml",
+        "publishedAt": "2026-10-15T16:56:54.000+08:00"
       },
       {
-        "title": "迎建校120周年 暨南大学香港主题展开幕",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10715139.shtml",
-        "publishedAt": "2026-10-15T16:51:34.000+08:00"
+        "title": "河北馆陶万亩黄梨迎丰收 果香远飘海内外",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715142.shtml",
+        "publishedAt": "2026-10-15T16:54:48.000+08:00"
       },
       {
-        "title": "全球装箱量领先的双燃料集装箱船从江苏泰州出江",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715138.shtml",
-        "publishedAt": "2026-10-15T16:47:22.000+08:00"
+        "title": "福建建宁：种子机械化烘干率超95% 筑牢全国杂交水稻制种“底盘”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715145.shtml",
+        "publishedAt": "2026-10-15T16:54:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T17:00:04.546+08:00",
+    "fetchedAt": "2026-10-15T17:10:03.071+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T17:00:10.176+08:00",
+      "fetchedAt": "2026-10-15T17:10:07.364+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T17:00:10.416+08:00",
+      "fetchedAt": "2026-10-15T17:10:07.636+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T17:00:10.419+08:00",
+      "fetchedAt": "2026-10-15T17:10:07.646+08:00",
       "error": null
     }
   }
