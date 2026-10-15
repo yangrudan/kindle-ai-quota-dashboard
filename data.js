@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T12:30:40.097+08:00",
+  "updatedAt": "2026-10-15T12:40:08.785+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T12:30:40.097+08:00",
+    "fetchedAt": "2026-10-15T12:40:08.785+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "专家：中欧混动汽车贸易达成“三大原则”稳预期利好多",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714905.shtml",
-        "publishedAt": "2026-10-15T12:13:35.000+08:00"
+        "title": "美官员称美方考虑对伊朗使用“炸弹之母”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714914.shtml",
+        "publishedAt": "2026-10-15T12:38:14.000+08:00"
       },
       {
-        "title": "韩国股市暴跌触发熔断机制",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714908.shtml",
-        "publishedAt": "2026-10-15T12:07:53.000+08:00"
+        "title": "陕西宝鸡太白县一公路发生山体滑坡 当地正全力抢通",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714913.shtml",
+        "publishedAt": "2026-10-15T12:35:40.000+08:00"
       },
       {
-        "title": "成都市原市长王凤朝涉嫌受贿被公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714900.shtml",
-        "publishedAt": "2026-10-15T12:04:36.000+08:00"
+        "title": "9月中国公路运输市场更趋活跃",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714909.shtml",
+        "publishedAt": "2026-10-15T12:28:20.000+08:00"
       },
       {
-        "title": "9月广东CPI、PPI同比涨幅均扩大",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714899.shtml",
-        "publishedAt": "2026-10-15T12:01:02.000+08:00"
+        "title": "甘肃讨赖河绿洲灌溉系统入选世界灌溉工程遗产",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714912.shtml",
+        "publishedAt": "2026-10-15T12:26:07.000+08:00"
       },
       {
-        "title": "策马踏长风 成败皆从容——访香港骑师何泽尧",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10714898.shtml",
-        "publishedAt": "2026-10-15T11:58:38.000+08:00"
+        "title": "红星照耀中国｜一碗“无盐汤”，映照鱼水情",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714910.shtml",
+        "publishedAt": "2026-10-15T12:23:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T12:30:04.082+08:00",
+    "fetchedAt": "2026-10-15T12:40:03.007+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T12:30:38.571+08:00",
+      "fetchedAt": "2026-10-15T12:40:07.647+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T12:30:38.890+08:00",
+      "fetchedAt": "2026-10-15T12:40:07.912+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T12:30:38.893+08:00",
+      "fetchedAt": "2026-10-15T12:40:07.917+08:00",
       "error": null
     }
   }
