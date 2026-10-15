@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-15T09:10:09.430+08:00",
+  "updatedAt": "2026-10-15T09:20:11.123+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.5,
-    "feelsLikeC": 19.7,
-    "humidity": 67,
-    "windKph": 5.2,
-    "windDir": "东南风",
+    "tempC": 19.6,
+    "feelsLikeC": 19.9,
+    "humidity": 66,
+    "windKph": 3.9,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T09:10:09.431+08:00",
+    "observedAt": "2026-10-15T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-15T09:20:11.124+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "无症状高血压别忽视！没有不适不等于没有伤害",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714780.shtml",
-        "publishedAt": "2026-10-15T08:59:18.000+08:00"
+        "title": "湖南江西等地有大雨或暴雨 明日起我国降水将增多增强",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714781.shtml",
+        "publishedAt": "2026-10-15T09:09:05.000+08:00"
       },
       {
-        "title": "新一股冷空气携降雨降温来袭 北方将迎同期少见强降雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714776.shtml",
-        "publishedAt": "2026-10-15T08:48:08.000+08:00"
+        "title": "新华社权威快报|第五届中国考古学大会开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714784.shtml",
+        "publishedAt": "2026-10-15T09:08:17.000+08:00"
       },
       {
-        "title": "第140届广交会今日开展 展期持续至11月4日",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714775.shtml",
-        "publishedAt": "2026-10-15T08:36:49.000+08:00"
+        "title": "流感疫苗“四价变三价”，效果会下降吗？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714783.shtml",
+        "publishedAt": "2026-10-15T09:06:33.000+08:00"
       },
       {
-        "title": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714766.shtml",
-        "publishedAt": "2026-10-15T08:29:31.000+08:00"
+        "title": "动静相宜，八段锦这样练",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714782.shtml",
+        "publishedAt": "2026-10-15T09:04:57.000+08:00"
       },
       {
-        "title": "巴拿马7.6级地震致1人死亡20余人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714768.shtml",
-        "publishedAt": "2026-10-15T08:22:12.000+08:00"
+        "title": "海关总署：优化进境粮食企业监管措施及有关事宜",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714779.shtml",
+        "publishedAt": "2026-10-15T09:04:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T09:10:03.070+08:00",
+    "fetchedAt": "2026-10-15T09:20:04.292+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T09:10:07.605+08:00",
+      "fetchedAt": "2026-10-15T09:20:09.740+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T14:10:09.000+08:00"
+          "resetAt": "2026-10-15T14:20:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T09:10:08.200+08:00",
+      "fetchedAt": "2026-10-15T09:20:09.994+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T09:10:08.210+08:00",
+      "fetchedAt": "2026-10-15T09:20:10.003+08:00",
       "error": null
     }
   }
