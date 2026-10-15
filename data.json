@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-15T11:40:12.047+08:00",
+  "updatedAt": "2026-10-15T11:50:12.338+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.1,
-    "feelsLikeC": 21.4,
-    "humidity": 61,
-    "windKph": 4.1,
+    "tempC": 21.3,
+    "feelsLikeC": 21.6,
+    "humidity": 60,
+    "windKph": 4.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T11:40:12.047+08:00",
+    "observedAt": "2026-10-15T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-15T11:50:12.338+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "A股午评：超5000只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714896.shtml",
+        "publishedAt": "2026-10-15T11:41:35.000+08:00"
+      },
+      {
+        "title": "长征路上学党史｜登临六盘山 共赏红旗漫卷",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-15/10714895.shtml",
+        "publishedAt": "2026-10-15T11:41:33.000+08:00"
+      },
+      {
+        "title": "将群众关切转化为工作指南 市场监管总局发布国家标准化指导性技术文件",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714894.shtml",
+        "publishedAt": "2026-10-15T11:37:39.000+08:00"
+      },
       {
         "title": "“薪火相传续华章——长征路上学党史”网上主题宣传活动启幕在即",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-15/10714893.shtml",
@@ -28,24 +43,9 @@
         "title": "暴风雨袭击希腊多地已致1人死亡",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714881.shtml",
         "publishedAt": "2026-10-15T11:35:27.000+08:00"
-      },
-      {
-        "title": "吃蛋黄到底会不会升高血脂？每天吃几个更健康？",
-        "url": "https://www.chinanews.com.cn/life/2026/10-15/10714892.shtml",
-        "publishedAt": "2026-10-15T11:28:46.000+08:00"
-      },
-      {
-        "title": "说到“长征”，你最先想到的是什么？长征记忆从哪来？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714891.shtml",
-        "publishedAt": "2026-10-15T11:21:30.000+08:00"
-      },
-      {
-        "title": "就日本记者被拘事件 日本外务省召见俄罗斯大使提出抗议",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714889.shtml",
-        "publishedAt": "2026-10-15T11:16:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T11:40:03.481+08:00",
+    "fetchedAt": "2026-10-15T11:50:04.392+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T11:40:10.622+08:00",
+      "fetchedAt": "2026-10-15T11:50:10.607+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 64,
+          "usedPct": 66,
           "resetAt": "2026-10-15T14:38:53.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 47,
+          "usedPct": 48,
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T11:40:10.908+08:00",
+      "fetchedAt": "2026-10-15T11:50:10.877+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T11:40:10.915+08:00",
+      "fetchedAt": "2026-10-15T11:50:10.880+08:00",
       "error": null
     }
   }
