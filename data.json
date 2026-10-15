@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T11:30:10.504+08:00",
+  "updatedAt": "2026-10-15T11:40:12.047+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T11:30:10.504+08:00",
+    "fetchedAt": "2026-10-15T11:40:12.047+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“薪火相传续华章——长征路上学党史”网上主题宣传活动启幕在即",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-15/10714893.shtml",
+        "publishedAt": "2026-10-15T11:35:31.000+08:00"
+      },
+      {
+        "title": "暴风雨袭击希腊多地已致1人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714881.shtml",
+        "publishedAt": "2026-10-15T11:35:27.000+08:00"
+      },
+      {
+        "title": "吃蛋黄到底会不会升高血脂？每天吃几个更健康？",
+        "url": "https://www.chinanews.com.cn/life/2026/10-15/10714892.shtml",
+        "publishedAt": "2026-10-15T11:28:46.000+08:00"
+      },
       {
         "title": "说到“长征”，你最先想到的是什么？长征记忆从哪来？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714891.shtml",
@@ -28,24 +43,9 @@
         "title": "就日本记者被拘事件 日本外务省召见俄罗斯大使提出抗议",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714889.shtml",
         "publishedAt": "2026-10-15T11:16:56.000+08:00"
-      },
-      {
-        "title": "青海省果洛州政府原党组成员、副州长西热被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714884.shtml",
-        "publishedAt": "2026-10-15T11:16:38.000+08:00"
-      },
-      {
-        "title": "广西百色打造西部陆海新通道集散联运枢纽",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10714887.shtml",
-        "publishedAt": "2026-10-15T11:15:08.000+08:00"
-      },
-      {
-        "title": "“人工智能污染”来袭，如何应对",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714886.shtml",
-        "publishedAt": "2026-10-15T11:14:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T11:30:03.800+08:00",
+    "fetchedAt": "2026-10-15T11:40:03.481+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T11:30:08.531+08:00",
+      "fetchedAt": "2026-10-15T11:40:10.622+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 59,
+          "usedPct": 64,
           "resetAt": "2026-10-15T14:38:53.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T11:30:08.840+08:00",
+      "fetchedAt": "2026-10-15T11:40:10.908+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T11:30:08.851+08:00",
+      "fetchedAt": "2026-10-15T11:40:10.915+08:00",
       "error": null
     }
   }
