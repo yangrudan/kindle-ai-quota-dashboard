@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T19:20:12.298+08:00",
+  "updatedAt": "2026-10-15T19:30:10.148+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.1,
-    "feelsLikeC": 24.3,
+    "tempC": 23,
+    "feelsLikeC": 24.2,
     "humidity": 64,
-    "windKph": 5.3,
+    "windKph": 5.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-15T19:20:12.298+08:00",
+    "observedAt": "2026-10-15T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-15T19:30:10.148+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "打造零碳科技城市 福建宁德发布《零碳宁德行动方案》",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715198.shtml",
-        "publishedAt": "2026-10-15T19:05:27.000+08:00"
+        "title": "2026“北京超高清视听·行！视听奇境”公共服务主题活动启动“收官站”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715205.shtml",
+        "publishedAt": "2026-10-15T19:23:54.000+08:00"
       },
       {
-        "title": "新一代超大型油轮“弗朗特 德文”轮在辽宁命名交付",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715196.shtml",
-        "publishedAt": "2026-10-15T19:04:43.000+08:00"
+        "title": "邯郸市丛台区紫山风景区粉黛烟霞染秋色",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715208.shtml",
+        "publishedAt": "2026-10-15T19:22:40.000+08:00"
       },
       {
-        "title": "湖南江永早香芋抢“鲜”上市 特色产业助民稳增收",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715195.shtml",
-        "publishedAt": "2026-10-15T19:04:03.000+08:00"
+        "title": "从身边故事到世界视野 中国青年作家国际推介会举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715203.shtml",
+        "publishedAt": "2026-10-15T19:21:04.000+08:00"
       },
       {
-        "title": "武汉香港携手搭建科创协同平台",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10715193.shtml",
-        "publishedAt": "2026-10-15T19:03:25.000+08:00"
+        "title": "呼和浩特：总投资10亿元人民币金刚石材料项目加速建设",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715204.shtml",
+        "publishedAt": "2026-10-15T19:20:18.000+08:00"
       },
       {
-        "title": "重庆举办专场招聘会 830余家单位释放6万余个岗位",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715199.shtml",
-        "publishedAt": "2026-10-15T19:02:37.000+08:00"
+        "title": "“启新程——遇见彼此，共赴未来”中美青年交流活动在北京大学举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-15/1207944.shtml",
+        "publishedAt": "2026-10-15T19:19:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T19:20:06.350+08:00",
+    "fetchedAt": "2026-10-15T19:30:04.549+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T19:20:11.190+08:00",
+      "fetchedAt": "2026-10-15T19:30:08.318+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-16T00:20:12.000+08:00"
+          "resetAt": "2026-10-16T00:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T19:20:11.477+08:00",
+      "fetchedAt": "2026-10-15T19:30:08.769+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T19:20:11.482+08:00",
+      "fetchedAt": "2026-10-15T19:30:08.772+08:00",
       "error": null
     }
   }
