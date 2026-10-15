@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T23:10:39.336+08:00",
+  "updatedAt": "2026-10-15T23:20:11.232+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 20.3,
-    "feelsLikeC": 22.1,
+    "feelsLikeC": 22.2,
     "humidity": 86,
-    "windKph": 6.5,
+    "windKph": 6.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T23:10:39.336+08:00",
+    "observedAt": "2026-10-15T23:15:00.000+08:00",
+    "fetchedAt": "2026-10-15T23:20:11.232+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "一堂课、两场展、七十年——走进中央社会主义学院建院70周年开放日活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-15/10715364.shtml",
+        "publishedAt": "2026-10-15T23:13:29.000+08:00"
+      },
+      {
+        "title": "共探海洋产业升级路径 福建东山举办“做好‘海’的文章”水产品购销暨海洋经济招商大会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715363.shtml",
+        "publishedAt": "2026-10-15T23:11:39.000+08:00"
+      },
+      {
+        "title": "海口海关完成海南首家AEO高级认证企业简易复核",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715362.shtml",
+        "publishedAt": "2026-10-15T23:07:32.000+08:00"
+      },
+      {
+        "title": "探寻乡村发展变迁 海峡两岸媒体来湘联合采访启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715360.shtml",
+        "publishedAt": "2026-10-15T23:06:30.000+08:00"
+      },
+      {
         "title": "王毅会见巴勒斯坦外长：坚定支持巴人民争取恢复民族合法权利的正义事业",
         "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715361.shtml",
         "publishedAt": "2026-10-15T22:46:55.000+08:00"
-      },
-      {
-        "title": "深圳市退役军人无偿献血品牌活动启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715359.shtml",
-        "publishedAt": "2026-10-15T22:45:09.000+08:00"
-      },
-      {
-        "title": "【东盟专线】（活力中国）数智加持 “柳州造” 借平陆运河出海东盟",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715358.shtml",
-        "publishedAt": "2026-10-15T22:16:38.000+08:00"
-      },
-      {
-        "title": "四川省达州市政协原党组书记陈文胜被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715201.shtml",
-        "publishedAt": "2026-10-15T22:07:57.000+08:00"
-      },
-      {
-        "title": "西藏大学驻村工作队为高原群众免费筛查高原适应性调节功能",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715353.shtml",
-        "publishedAt": "2026-10-15T22:06:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T23:10:03.748+08:00",
+    "fetchedAt": "2026-10-15T23:20:03.911+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T23:10:38.279+08:00",
+      "fetchedAt": "2026-10-15T23:20:09.547+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T23:10:38.485+08:00",
+      "fetchedAt": "2026-10-15T23:20:10.085+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T23:10:38.489+08:00",
+      "fetchedAt": "2026-10-15T23:20:10.092+08:00",
       "error": null
     }
   }
