@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T15:00:40.438+08:00",
+  "updatedAt": "2026-10-15T15:10:16.895+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-15T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T15:00:40.438+08:00",
+    "fetchedAt": "2026-10-15T15:10:16.895+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "郑州马拉松开赛在即 全国各地跑者相聚如意湖畔",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715005.shtml",
+        "publishedAt": "2026-10-15T15:00:58.000+08:00"
+      },
+      {
+        "title": "调查指香港99.2%的市民去年未遇贪污 廉署：共享廉洁社会成果",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10715008.shtml",
+        "publishedAt": "2026-10-15T14:58:00.000+08:00"
+      },
       {
         "title": "聚焦下一代智能数字根基 专家探讨AI能力边界所在",
         "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715013.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "《公园城市指数2025》发布：成都“人气活力”连续三年居首",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715014.shtml",
         "publishedAt": "2026-10-15T14:53:25.000+08:00"
-      },
-      {
-        "title": "江水奔流，精神不息：从音乐剧《四十天》看爱国企业家精神的当代传承",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715006.shtml",
-        "publishedAt": "2026-10-15T14:52:49.000+08:00"
-      },
-      {
-        "title": "重庆动车安全“大体检” 护航秋冬运输",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715004.shtml",
-        "publishedAt": "2026-10-15T14:52:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T15:00:04.460+08:00",
+    "fetchedAt": "2026-10-15T15:10:12.157+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T15:00:38.986+08:00",
+      "fetchedAt": "2026-10-15T15:10:04.530+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T15:00:39.329+08:00",
+      "fetchedAt": "2026-10-15T15:10:15.860+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T15:00:39.338+08:00",
+      "fetchedAt": "2026-10-15T15:10:15.872+08:00",
       "error": null
     }
   }
