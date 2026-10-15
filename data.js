@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T20:50:09.167+08:00",
+  "updatedAt": "2026-10-15T21:00:20.211+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.8,
-    "feelsLikeC": 23,
-    "humidity": 70,
-    "windKph": 6.6,
+    "tempC": 21.7,
+    "feelsLikeC": 22.8,
+    "humidity": 72,
+    "windKph": 7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T20:50:09.168+08:00",
+    "observedAt": "2026-10-15T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-15T21:00:20.211+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "海外华媒走进成都天台山旅游景区 感受生态风光与历史交融的魅力",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10715286.shtml",
+        "publishedAt": "2026-10-15T20:56:49.000+08:00"
+      },
+      {
+        "title": "2026年澳中工商业委员会堪培拉联谊日招待会举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715264.shtml",
+        "publishedAt": "2026-10-15T20:56:37.000+08:00"
+      },
       {
         "title": "山西省消协提醒老年消费者：警惕私域直播、免费体验等消费陷阱",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715283.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026动物福利与可持续农食大会在北京开幕 助力中非农业合作",
         "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715281.shtml",
         "publishedAt": "2026-10-15T20:43:33.000+08:00"
-      },
-      {
-        "title": "安徽膏方节“新表达” 留学生成中医粉",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715279.shtml",
-        "publishedAt": "2026-10-15T20:43:31.000+08:00"
-      },
-      {
-        "title": "广州秋游旺季来临 慢病中老年出游需警惕带状疱疹风险",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715278.shtml",
-        "publishedAt": "2026-10-15T20:43:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T20:50:03.833+08:00",
+    "fetchedAt": "2026-10-15T21:00:05.755+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T20:50:07.888+08:00",
+      "fetchedAt": "2026-10-15T21:00:17.645+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 15,
           "resetAt": "2026-10-16T01:47:06.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 14,
+          "usedPct": 15,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T20:50:08.167+08:00",
+      "fetchedAt": "2026-10-15T21:00:17.951+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T20:50:08.177+08:00",
+      "fetchedAt": "2026-10-15T21:00:17.962+08:00",
       "error": null
     }
   }
