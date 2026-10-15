@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:20:09.498+08:00",
+  "updatedAt": "2026-10-15T15:30:08.430+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-15T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-15T15:20:09.498+08:00",
+    "fetchedAt": "2026-10-15T15:30:08.431+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "外交部：日当政者应正视历史，反省罪责，洗心革面",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715039.shtml",
+        "publishedAt": "2026-10-15T15:23:37.000+08:00"
+      },
+      {
+        "title": "中国香港代表团启程出征亚残运会 杨肇麒、王颖晞任旗手",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10715027.shtml",
+        "publishedAt": "2026-10-15T15:22:53.000+08:00"
+      },
+      {
+        "title": "山东民营企业家积极履行社会责任 促进共同富裕行稳致远",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715024.shtml",
+        "publishedAt": "2026-10-15T15:20:21.000+08:00"
+      },
+      {
         "title": "2026世界储能大会宁德举行 业界：储能要迈入新型基础设施时代",
         "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715023.shtml",
         "publishedAt": "2026-10-15T15:18:37.000+08:00"
       },
       {
-        "title": "（申城风景线）上海社区食堂探索一顿饭里的“AI方案”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715033.shtml",
-        "publishedAt": "2026-10-15T15:17:11.000+08:00"
-      },
-      {
-        "title": "美国达美航空推出新一代至臻商务舱",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-15/1207900.shtml",
-        "publishedAt": "2026-10-15T15:15:31.000+08:00"
-      },
-      {
-        "title": "商务部：中方将与欧方一道促进双方两用物项贸易发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715032.shtml",
-        "publishedAt": "2026-10-15T15:12:29.000+08:00"
-      },
-      {
-        "title": "《求是》杂志发表习近平总书记重要文章《以更高标准、更实举措推进全面从严治党》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715019.shtml",
-        "publishedAt": "2026-10-15T15:09:38.000+08:00"
+        "title": "李强将访问乌兹别克斯坦、塔吉克斯坦并出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议、赴俄罗斯",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715038.shtml",
+        "publishedAt": "2026-10-15T15:17:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T15:20:03.699+08:00",
+    "fetchedAt": "2026-10-15T15:30:02.768+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T15:20:08.137+08:00",
+      "fetchedAt": "2026-10-15T15:30:06.921+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T15:20:08.437+08:00",
+      "fetchedAt": "2026-10-15T15:30:07.276+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T15:20:08.447+08:00",
+      "fetchedAt": "2026-10-15T15:30:07.285+08:00",
       "error": null
     }
   }
