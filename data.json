@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-15T19:40:08.261+08:00",
+  "updatedAt": "2026-10-15T19:50:10.361+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23,
-    "feelsLikeC": 24.2,
+    "tempC": 22.9,
+    "feelsLikeC": 24.1,
     "humidity": 64,
-    "windKph": 5.4,
+    "windKph": 5.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T19:40:08.261+08:00",
+    "observedAt": "2026-10-15T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-15T19:50:10.361+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "前三季度广西外贸进出口同比增10.1% 规模创历史同期新高",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715218.shtml",
-        "publishedAt": "2026-10-15T19:32:37.000+08:00"
+        "title": "新疆吉木萨尔县重点产业招商签约逾66亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715235.shtml",
+        "publishedAt": "2026-10-15T19:42:13.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）山西和顺田间薯收正当时 小土豆撑起乡村致富业",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715215.shtml",
-        "publishedAt": "2026-10-15T19:30:43.000+08:00"
+        "title": "宝鸡马拉松吉祥物、奖牌发布 “逨盘”“泥塑”等元素彰显文脉",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-15/10715234.shtml",
+        "publishedAt": "2026-10-15T19:42:11.000+08:00"
       },
       {
-        "title": "海口联通马来西亚航点增至四城",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715214.shtml",
-        "publishedAt": "2026-10-15T19:30:41.000+08:00"
+        "title": "稳增长强产业 海南擦亮“投资自贸港”品牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715233.shtml",
+        "publishedAt": "2026-10-15T19:42:09.000+08:00"
       },
       {
-        "title": "2026年全国“我们的节日·重阳”主题文化示范活动在山西祁县举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715213.shtml",
-        "publishedAt": "2026-10-15T19:30:23.000+08:00"
+        "title": "大湾区空铁联运再扩容 城际接驳服务落地深圳宝安机场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715232.shtml",
+        "publishedAt": "2026-10-15T19:42:07.000+08:00"
       },
       {
-        "title": "2026广东候鸟护飞行动正式启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715211.shtml",
-        "publishedAt": "2026-10-15T19:27:34.000+08:00"
+        "title": "中国新疆与中亚国家职业资格互认签约落地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715228.shtml",
+        "publishedAt": "2026-10-15T19:39:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T19:40:03.446+08:00",
+    "fetchedAt": "2026-10-15T19:50:05.135+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T19:40:07.206+08:00",
+      "fetchedAt": "2026-10-15T19:50:09.099+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-16T00:40:08.000+08:00"
+          "resetAt": "2026-10-16T00:50:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T19:40:07.374+08:00",
+      "fetchedAt": "2026-10-15T19:50:09.303+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T19:40:07.383+08:00",
+      "fetchedAt": "2026-10-15T19:50:09.313+08:00",
       "error": null
     }
   }
