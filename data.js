@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T23:40:08.967+08:00",
+  "updatedAt": "2026-10-15T23:50:08.781+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 20.3,
-    "feelsLikeC": 22.4,
+    "feelsLikeC": 22.5,
     "humidity": 87,
-    "windKph": 5.4,
+    "windKph": 4.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T23:40:08.967+08:00",
+    "observedAt": "2026-10-15T23:45:00.000+08:00",
+    "fetchedAt": "2026-10-15T23:50:08.781+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "沙特称胡塞武装对利雅得机场袭击致17死333伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715369.shtml",
+        "publishedAt": "2026-10-15T23:43:36.000+08:00"
+      },
+      {
+        "title": "哥伦比亚一国际客运大巴翻车 致4死56伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715368.shtml",
+        "publishedAt": "2026-10-15T23:41:14.000+08:00"
+      },
       {
         "title": "国产剧出海“四剑客”齐发力：从“零星出海”走向“规模化登陆”",
         "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715366.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "共探海洋产业升级路径 福建东山举办“做好‘海’的文章”水产品购销暨海洋经济招商大会",
         "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715363.shtml",
         "publishedAt": "2026-10-15T23:11:39.000+08:00"
-      },
-      {
-        "title": "海口海关完成海南首家AEO高级认证企业简易复核",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715362.shtml",
-        "publishedAt": "2026-10-15T23:07:32.000+08:00"
-      },
-      {
-        "title": "探寻乡村发展变迁 海峡两岸媒体来湘联合采访启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715360.shtml",
-        "publishedAt": "2026-10-15T23:06:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T23:40:03.391+08:00",
+    "fetchedAt": "2026-10-15T23:50:03.402+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T23:40:07.307+08:00",
+      "fetchedAt": "2026-10-15T23:50:07.530+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T23:40:07.860+08:00",
+      "fetchedAt": "2026-10-15T23:50:07.732+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T23:40:07.863+08:00",
+      "fetchedAt": "2026-10-15T23:50:07.741+08:00",
       "error": null
     }
   }
