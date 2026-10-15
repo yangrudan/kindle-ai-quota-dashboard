@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T11:50:12.338+08:00",
+  "updatedAt": "2026-10-15T12:00:10.201+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T11:50:12.338+08:00",
+    "fetchedAt": "2026-10-15T12:00:10.201+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“守护乐龄 大家同行”十二城老年防诈公益宣传走进郑州",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714897.shtml",
+        "publishedAt": "2026-10-15T11:50:08.000+08:00"
+      },
       {
         "title": "A股午评：超5000只个股飘绿，三大指数集体收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714896.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“薪火相传续华章——长征路上学党史”网上主题宣传活动启幕在即",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-15/10714893.shtml",
         "publishedAt": "2026-10-15T11:35:31.000+08:00"
-      },
-      {
-        "title": "暴风雨袭击希腊多地已致1人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714881.shtml",
-        "publishedAt": "2026-10-15T11:35:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T11:50:04.392+08:00",
+    "fetchedAt": "2026-10-15T12:00:03.171+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T11:50:10.607+08:00",
+      "fetchedAt": "2026-10-15T12:00:07.601+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T11:50:10.877+08:00",
+      "fetchedAt": "2026-10-15T12:00:08.781+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T11:50:10.880+08:00",
+      "fetchedAt": "2026-10-15T12:00:08.786+08:00",
       "error": null
     }
   }
