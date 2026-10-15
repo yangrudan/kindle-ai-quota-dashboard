@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T07:20:09.026+08:00",
+  "updatedAt": "2026-10-16T07:30:09.468+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.5,
-    "feelsLikeC": 22.1,
-    "humidity": 82,
-    "windKph": 7.1,
+    "tempC": 20.8,
+    "feelsLikeC": 22.4,
+    "humidity": 80,
+    "windKph": 6.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-16T07:20:09.026+08:00",
+    "observedAt": "2026-10-16T07:30:00.000+08:00",
+    "fetchedAt": "2026-10-16T07:30:09.469+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“鱼腹藏金”即将寄出！新型理财骗局绕开转账、盯上实物黄金",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715380.shtml",
+        "publishedAt": "2026-10-16T07:23:02.000+08:00"
+      },
       {
         "title": "沙特：胡塞武装本月已袭击利雅得机场20次，致17死333伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715379.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "英法海底隧道法国入口处客车与列车相撞致19人伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715376.shtml",
         "publishedAt": "2026-10-16T05:53:11.000+08:00"
-      },
-      {
-        "title": "美货运“龙”飞船与国际空间站对接",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715375.shtml",
-        "publishedAt": "2026-10-16T05:50:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T07:20:03.348+08:00",
+    "fetchedAt": "2026-10-16T07:30:04.261+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T07:20:07.898+08:00",
+      "fetchedAt": "2026-10-16T07:30:08.159+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-16T12:20:08.000+08:00"
+          "resetAt": "2026-10-16T12:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T07:20:08.225+08:00",
+      "fetchedAt": "2026-10-16T07:30:08.603+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T07:20:08.229+08:00",
+      "fetchedAt": "2026-10-16T07:30:08.611+08:00",
       "error": null
     }
   }
