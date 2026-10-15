@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T08:10:09.675+08:00",
+  "updatedAt": "2026-10-15T08:20:09.424+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.1,
-    "feelsLikeC": 19.5,
+    "tempC": 19.3,
+    "feelsLikeC": 19.7,
     "humidity": 68,
-    "windKph": 4,
+    "windKph": 4.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T08:10:09.675+08:00",
+    "observedAt": "2026-10-15T08:15:00.000+08:00",
+    "fetchedAt": "2026-10-15T08:20:09.424+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "流感季将至，流感疫苗如何打？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714759.shtml",
-        "publishedAt": "2026-10-15T07:55:11.000+08:00"
+        "title": "国际能源署：全球柴油市场供应紧张状况加剧",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714765.shtml",
+        "publishedAt": "2026-10-15T08:15:28.000+08:00"
       },
       {
-        "title": "超重、大件、爬楼订单有望多拿钱，外卖骑手额外劳动该如何定价？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714758.shtml",
-        "publishedAt": "2026-10-15T07:50:27.000+08:00"
+        "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714764.shtml",
+        "publishedAt": "2026-10-15T08:14:40.000+08:00"
       },
       {
-        "title": "求职遭遇“限男性” 公益诉讼破歧视",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714757.shtml",
-        "publishedAt": "2026-10-15T07:48:24.000+08:00"
+        "title": "英国首相伯纳姆会见泽连斯基 公布多项对乌支援措施",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714763.shtml",
+        "publishedAt": "2026-10-15T08:14:34.000+08:00"
       },
       {
-        "title": "前三季度金融数据出炉 融资渠道更多元 普通家庭如何打理手中资产？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714756.shtml",
-        "publishedAt": "2026-10-15T07:42:38.000+08:00"
+        "title": "美国9月CPI同比上涨3.7%",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714762.shtml",
+        "publishedAt": "2026-10-15T08:13:14.000+08:00"
       },
       {
-        "title": "职场“软监控”引担忧：“隐形监控”之下，隐私安全何在？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714755.shtml",
-        "publishedAt": "2026-10-15T07:40:06.000+08:00"
+        "title": "心血管不好的人，真心建议你吃点“高钾食物”",
+        "url": "https://www.chinanews.com.cn/life/2026/10-15/10714761.shtml",
+        "publishedAt": "2026-10-15T08:04:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T08:10:05.189+08:00",
+    "fetchedAt": "2026-10-15T08:20:03.713+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T08:10:08.487+08:00",
+      "fetchedAt": "2026-10-15T08:20:08.242+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T13:10:09.000+08:00"
+          "resetAt": "2026-10-15T13:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T08:10:08.811+08:00",
+      "fetchedAt": "2026-10-15T08:20:08.589+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T08:10:08.820+08:00",
+      "fetchedAt": "2026-10-15T08:20:08.598+08:00",
       "error": null
     }
   }
