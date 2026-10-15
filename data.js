@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T14:20:08.513+08:00",
+  "updatedAt": "2026-10-15T14:30:13.153+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.8,
-    "feelsLikeC": 24,
+    "tempC": 23.6,
+    "feelsLikeC": 23.9,
     "humidity": 55,
-    "windKph": 7,
+    "windKph": 6.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-15T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-15T14:20:08.513+08:00",
+    "observedAt": "2026-10-15T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-15T14:30:13.153+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "深圳出台商品住房销售制度改革地方实施意见",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714987.shtml",
-        "publishedAt": "2026-10-15T14:10:55.000+08:00"
+        "title": "酒精能杀灭诺如病毒？2026年9月科学领域流言榜来了→",
+        "url": "https://www.chinanews.com.cn/life/2026/10-15/10714998.shtml",
+        "publishedAt": "2026-10-15T14:24:26.000+08:00"
       },
       {
-        "title": "中国再添4处世界灌溉工程遗产",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714984.shtml",
-        "publishedAt": "2026-10-15T14:10:43.000+08:00"
+        "title": "赏红叶访古建 千年国保在漫山红叶中“活”起来",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714995.shtml",
+        "publishedAt": "2026-10-15T14:23:08.000+08:00"
       },
       {
-        "title": "滇沪桂优秀文艺作品亮相“世界佤乡”云南临沧",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10714983.shtml",
-        "publishedAt": "2026-10-15T14:10:15.000+08:00"
+        "title": "中国援贝宁医疗队完成洛科萨地区首例低龄儿童先天性外耳道肿物摘除术",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714990.shtml",
+        "publishedAt": "2026-10-15T14:21:54.000+08:00"
       },
       {
-        "title": "9月北京CPI环比下降 同比涨幅回落",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714985.shtml",
-        "publishedAt": "2026-10-15T14:09:33.000+08:00"
+        "title": "山海不为远 辽疆一家亲 ——辽宁阜新市“阜疆一家亲 同心石榴红”非遗文化交流活动走进新疆石河子市",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-15/10714980.shtml",
+        "publishedAt": "2026-10-15T14:21:14.000+08:00"
       },
       {
-        "title": "四川邛崃：海外华媒探访邛窑国家考古遗址公园",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-15/10714978.shtml",
-        "publishedAt": "2026-10-15T14:09:29.000+08:00"
+        "title": "23年前，中国人飞向太空！回望载入史册的那一天",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714997.shtml",
+        "publishedAt": "2026-10-15T14:21:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T14:20:03.030+08:00",
+    "fetchedAt": "2026-10-15T14:30:04.285+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T14:20:07.424+08:00",
+      "fetchedAt": "2026-10-15T14:30:10.061+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 8,
           "resetAt": "2026-10-15T19:12:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T14:20:07.651+08:00",
+      "fetchedAt": "2026-10-15T14:30:10.311+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T14:20:07.662+08:00",
+      "fetchedAt": "2026-10-15T14:30:10.322+08:00",
       "error": null
     }
   }
