@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T23:50:08.781+08:00",
+  "updatedAt": "2026-10-16T00:00:19.222+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T23:50:08.781+08:00",
+    "fetchedAt": "2026-10-16T00:00:19.222+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本启动调查在东京附近设立核废料填埋场",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715370.shtml",
+        "publishedAt": "2026-10-15T23:47:39.000+08:00"
+      },
       {
         "title": "沙特称胡塞武装对利雅得机场袭击致17死333伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715369.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "一堂课、两场展、七十年——走进中央社会主义学院建院70周年开放日活动",
         "url": "https://www.chinanews.com.cn/txy/2026/10-15/10715364.shtml",
         "publishedAt": "2026-10-15T23:13:29.000+08:00"
-      },
-      {
-        "title": "共探海洋产业升级路径 福建东山举办“做好‘海’的文章”水产品购销暨海洋经济招商大会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715363.shtml",
-        "publishedAt": "2026-10-15T23:11:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T23:50:03.402+08:00",
+    "fetchedAt": "2026-10-16T00:00:12.935+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T23:50:07.530+08:00",
+      "fetchedAt": "2026-10-16T00:00:18.025+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T23:50:07.732+08:00",
+      "fetchedAt": "2026-10-16T00:00:18.336+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T23:50:07.741+08:00",
+      "fetchedAt": "2026-10-16T00:00:18.339+08:00",
       "error": null
     }
   }
