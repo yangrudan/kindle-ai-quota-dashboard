@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T09:00:13.317+08:00",
+  "updatedAt": "2026-10-15T09:10:09.430+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-15T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T09:00:13.317+08:00",
+    "fetchedAt": "2026-10-15T09:10:09.431+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "无症状高血压别忽视！没有不适不等于没有伤害",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714780.shtml",
+        "publishedAt": "2026-10-15T08:59:18.000+08:00"
+      },
       {
         "title": "新一股冷空气携降雨降温来袭 北方将迎同期少见强降雨",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714776.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "巴拿马7.6级地震致1人死亡20余人受伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714768.shtml",
         "publishedAt": "2026-10-15T08:22:12.000+08:00"
-      },
-      {
-        "title": "33年后，F1回非洲了！一场32亿美元的“豪赌”，卢旺达总统：今天属于非洲",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714767.shtml",
-        "publishedAt": "2026-10-15T08:20:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T09:00:07.772+08:00",
+    "fetchedAt": "2026-10-15T09:10:03.070+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T09:00:11.838+08:00",
+      "fetchedAt": "2026-10-15T09:10:07.605+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T14:00:13.000+08:00"
+          "resetAt": "2026-10-15T14:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T09:00:12.131+08:00",
+      "fetchedAt": "2026-10-15T09:10:08.200+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T09:00:12.140+08:00",
+      "fetchedAt": "2026-10-15T09:10:08.210+08:00",
       "error": null
     }
   }
