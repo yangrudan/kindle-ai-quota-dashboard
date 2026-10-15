@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T11:00:16.260+08:00",
+  "updatedAt": "2026-10-15T11:10:09.801+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T11:00:16.260+08:00",
+    "fetchedAt": "2026-10-15T11:10:09.801+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外交部组织驻华使节赴宁夏参访",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714872.shtml",
+        "publishedAt": "2026-10-15T11:00:15.000+08:00"
+      },
       {
         "title": "印尼林火持续 多地受烟霾笼罩",
         "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-15/1207872.shtml",
@@ -38,14 +43,9 @@
         "title": "湖北湖南江西重庆贵州等地将有短时强降水天气",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714845.shtml",
         "publishedAt": "2026-10-15T10:49:46.000+08:00"
-      },
-      {
-        "title": "中新健康｜刷手机、熬夜会伤前额叶？告诉你关于前额叶的4个真相",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-15/10714847.shtml",
-        "publishedAt": "2026-10-15T10:49:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T11:00:04.609+08:00",
+    "fetchedAt": "2026-10-15T11:10:03.952+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T11:00:14.694+08:00",
+      "fetchedAt": "2026-10-15T11:10:08.604+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 46,
+          "usedPct": 50,
           "resetAt": "2026-10-15T14:38:53.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T11:00:14.974+08:00",
+      "fetchedAt": "2026-10-15T11:10:08.956+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T11:00:14.984+08:00",
+      "fetchedAt": "2026-10-15T11:10:08.966+08:00",
       "error": null
     }
   }
