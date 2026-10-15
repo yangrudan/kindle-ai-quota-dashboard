@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T08:50:37.550+08:00",
+  "updatedAt": "2026-10-15T09:00:13.317+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.9,
-    "feelsLikeC": 20.1,
-    "humidity": 65,
+    "tempC": 19.5,
+    "feelsLikeC": 19.7,
+    "humidity": 67,
     "windKph": 5.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-15T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T08:50:37.550+08:00",
+    "observedAt": "2026-10-15T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-15T09:00:13.317+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新一股冷空气携降雨降温来袭 北方将迎同期少见强降雨",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714776.shtml",
+        "publishedAt": "2026-10-15T08:48:08.000+08:00"
+      },
       {
         "title": "第140届广交会今日开展 展期持续至11月4日",
         "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714775.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "33年后，F1回非洲了！一场32亿美元的“豪赌”，卢旺达总统：今天属于非洲",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714767.shtml",
         "publishedAt": "2026-10-15T08:20:00.000+08:00"
-      },
-      {
-        "title": "国际能源署：全球柴油市场供应紧张状况加剧",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714765.shtml",
-        "publishedAt": "2026-10-15T08:15:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T08:50:03.074+08:00",
+    "fetchedAt": "2026-10-15T09:00:07.772+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T08:50:36.224+08:00",
+      "fetchedAt": "2026-10-15T09:00:11.838+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T13:50:37.000+08:00"
+          "resetAt": "2026-10-15T14:00:13.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T08:50:36.581+08:00",
+      "fetchedAt": "2026-10-15T09:00:12.131+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T08:50:36.590+08:00",
+      "fetchedAt": "2026-10-15T09:00:12.140+08:00",
       "error": null
     }
   }
