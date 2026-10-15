@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-15T22:40:40.614+08:00",
+  "updatedAt": "2026-10-15T22:50:38.586+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20.5,
+    "tempC": 20.4,
     "feelsLikeC": 22.2,
-    "humidity": 84,
-    "windKph": 6.8,
+    "humidity": 85,
+    "windKph": 6.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-15T22:40:40.614+08:00",
+    "observedAt": "2026-10-15T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-15T22:50:38.586+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王毅会见巴勒斯坦外长：坚定支持巴人民争取恢复民族合法权利的正义事业",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715361.shtml",
+        "publishedAt": "2026-10-15T22:46:55.000+08:00"
+      },
+      {
+        "title": "深圳市退役军人无偿献血品牌活动启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715359.shtml",
+        "publishedAt": "2026-10-15T22:45:09.000+08:00"
+      },
       {
         "title": "【东盟专线】（活力中国）数智加持 “柳州造” 借平陆运河出海东盟",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-15/10715358.shtml",
@@ -33,19 +43,9 @@
         "title": "西藏大学驻村工作队为高原群众免费筛查高原适应性调节功能",
         "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715353.shtml",
         "publishedAt": "2026-10-15T22:06:29.000+08:00"
-      },
-      {
-        "title": "（投资中国）阿科玛集团董事长：中国市场对洞察应用趋势和客户需求尤为关键",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715352.shtml",
-        "publishedAt": "2026-10-15T22:06:13.000+08:00"
-      },
-      {
-        "title": "8月台湾制造业加班工时创46年同月新高",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715351.shtml",
-        "publishedAt": "2026-10-15T22:05:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T22:40:03.859+08:00",
+    "fetchedAt": "2026-10-15T22:50:03.341+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T22:40:39.238+08:00",
+      "fetchedAt": "2026-10-15T22:50:37.022+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T22:40:39.432+08:00",
+      "fetchedAt": "2026-10-15T22:50:37.229+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T22:40:39.441+08:00",
+      "fetchedAt": "2026-10-15T22:50:37.236+08:00",
       "error": null
     }
   }
