@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:10:09.863+08:00",
+  "updatedAt": "2026-10-16T01:20:10.555+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 19.8,
     "feelsLikeC": 21.6,
     "humidity": 90,
-    "windKph": 7.3,
+    "windKph": 7.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T01:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T01:10:09.864+08:00",
+    "observedAt": "2026-10-16T01:15:00.000+08:00",
+    "fetchedAt": "2026-10-16T01:20:10.555+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本记者涉间谍活动在俄被捕 俄方驳回日方交涉",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715373.shtml",
+        "publishedAt": "2026-10-16T01:11:58.000+08:00"
+      },
+      {
+        "title": "也门官员称胡塞武装袭击亚丁总统府致3人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715372.shtml",
+        "publishedAt": "2026-10-16T01:07:39.000+08:00"
+      },
       {
         "title": "日本启动调查在东京附近设立核废料填埋场",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715370.shtml",
@@ -33,19 +43,9 @@
         "title": "哥伦比亚一国际客运大巴翻车 致4死56伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715368.shtml",
         "publishedAt": "2026-10-15T23:41:14.000+08:00"
-      },
-      {
-        "title": "国产剧出海“四剑客”齐发力：从“零星出海”走向“规模化登陆”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-15/10715366.shtml",
-        "publishedAt": "2026-10-15T23:18:45.000+08:00"
-      },
-      {
-        "title": "一堂课、两场展、七十年——走进中央社会主义学院建院70周年开放日活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-15/10715364.shtml",
-        "publishedAt": "2026-10-15T23:13:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T01:10:03.741+08:00",
+    "fetchedAt": "2026-10-16T01:20:04.617+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T01:10:08.336+08:00",
+      "fetchedAt": "2026-10-16T01:20:09.405+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T01:10:08.633+08:00",
+      "fetchedAt": "2026-10-16T01:20:09.719+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T01:10:08.637+08:00",
+      "fetchedAt": "2026-10-16T01:20:09.722+08:00",
       "error": null
     }
   }
