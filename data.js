@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T20:20:11.611+08:00",
+  "updatedAt": "2026-10-15T20:30:10.550+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T20:20:11.612+08:00",
+    "fetchedAt": "2026-10-15T20:30:10.551+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香港8月进出口货量保持双位数增长",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-15/10715255.shtml",
-        "publishedAt": "2026-10-15T20:10:25.000+08:00"
+        "title": "土耳其伊斯坦布尔省教育机构因洪涝停课",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715240.shtml",
+        "publishedAt": "2026-10-15T20:21:05.000+08:00"
       },
       {
-        "title": "从流花到琶洲：“老广交”眼中的七十年之变",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715254.shtml",
-        "publishedAt": "2026-10-15T20:09:07.000+08:00"
+        "title": "菲律宾比索对美元汇率首次跌破63关口",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715231.shtml",
+        "publishedAt": "2026-10-15T20:20:37.000+08:00"
       },
       {
-        "title": "俄罗斯主播阿娜：直播间搭起中俄民间桥",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10715253.shtml",
-        "publishedAt": "2026-10-15T20:08:35.000+08:00"
+        "title": "尼泊尔与世界银行签署协议探索开发巨灾债券",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715226.shtml",
+        "publishedAt": "2026-10-15T20:18:37.000+08:00"
       },
       {
-        "title": "美籍华人循“滇批”足迹回昆：一份档案串起两代人记忆",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-15/10715250.shtml",
-        "publishedAt": "2026-10-15T20:08:33.000+08:00"
+        "title": "火灾污染空气 印尼报告急性呼吸道感染病例超27.7万例",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10715223.shtml",
+        "publishedAt": "2026-10-15T20:17:19.000+08:00"
       },
       {
-        "title": "通信感知网开通运行 渤海海域5G网络覆盖率超80%",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715256.shtml",
-        "publishedAt": "2026-10-15T20:04:38.000+08:00"
+        "title": "中华人民共和国政府和多哥共和国政府关于构建新时代中多命运共同体的联合声明",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10715249.shtml",
+        "publishedAt": "2026-10-15T20:16:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T20:20:05.313+08:00",
+    "fetchedAt": "2026-10-15T20:30:03.726+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T20:20:10.247+08:00",
+      "fetchedAt": "2026-10-15T20:30:08.495+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-16T01:20:11.000+08:00"
+          "resetAt": "2026-10-16T01:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T20:20:10.472+08:00",
+      "fetchedAt": "2026-10-15T20:30:08.711+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-15T20:20:10.475+08:00",
+      "fetchedAt": "2026-10-15T20:30:08.720+08:00",
       "error": null
     }
   }
