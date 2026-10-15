@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T12:00:10.201+08:00",
+  "updatedAt": "2026-10-15T12:10:39.185+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.3,
-    "feelsLikeC": 21.6,
+    "tempC": 21.5,
+    "feelsLikeC": 21.9,
     "humidity": 60,
     "windKph": 4.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T12:00:10.201+08:00",
+    "observedAt": "2026-10-15T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-15T12:10:39.185+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "韩国股市暴跌触发熔断机制",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714908.shtml",
+        "publishedAt": "2026-10-15T12:07:53.000+08:00"
+      },
+      {
+        "title": "成都市原市长王凤朝涉嫌受贿被公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714900.shtml",
+        "publishedAt": "2026-10-15T12:04:36.000+08:00"
+      },
+      {
+        "title": "9月广东CPI、PPI同比涨幅均扩大",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714899.shtml",
+        "publishedAt": "2026-10-15T12:01:02.000+08:00"
+      },
+      {
+        "title": "策马踏长风 成败皆从容——访香港骑师何泽尧",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-15/10714898.shtml",
+        "publishedAt": "2026-10-15T11:58:38.000+08:00"
+      },
+      {
         "title": "“守护乐龄 大家同行”十二城老年防诈公益宣传走进郑州",
         "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714897.shtml",
         "publishedAt": "2026-10-15T11:50:08.000+08:00"
-      },
-      {
-        "title": "A股午评：超5000只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714896.shtml",
-        "publishedAt": "2026-10-15T11:41:35.000+08:00"
-      },
-      {
-        "title": "长征路上学党史｜登临六盘山 共赏红旗漫卷",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-15/10714895.shtml",
-        "publishedAt": "2026-10-15T11:41:33.000+08:00"
-      },
-      {
-        "title": "将群众关切转化为工作指南 市场监管总局发布国家标准化指导性技术文件",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714894.shtml",
-        "publishedAt": "2026-10-15T11:37:39.000+08:00"
-      },
-      {
-        "title": "“薪火相传续华章——长征路上学党史”网上主题宣传活动启幕在即",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-15/10714893.shtml",
-        "publishedAt": "2026-10-15T11:35:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T12:00:03.171+08:00",
+    "fetchedAt": "2026-10-15T12:10:02.871+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T12:00:07.601+08:00",
+      "fetchedAt": "2026-10-15T12:10:37.676+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T12:00:08.781+08:00",
+      "fetchedAt": "2026-10-15T12:10:38.084+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T12:00:08.786+08:00",
+      "fetchedAt": "2026-10-15T12:10:38.088+08:00",
       "error": null
     }
   }
