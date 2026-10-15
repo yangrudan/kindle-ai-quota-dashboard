@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-15T07:50:13.010+08:00",
+  "updatedAt": "2026-10-15T08:00:39.412+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-15T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-15T07:50:13.011+08:00",
+    "fetchedAt": "2026-10-15T08:00:39.412+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "超重 大件 爬楼订单有望多拿钱 外卖骑手额外劳动该如何定价？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714758.shtml",
+        "publishedAt": "2026-10-15T07:50:27.000+08:00"
+      },
+      {
+        "title": "求职遭遇“限男性” 公益诉讼破歧视",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714757.shtml",
+        "publishedAt": "2026-10-15T07:48:24.000+08:00"
+      },
       {
         "title": "前三季度金融数据出炉 融资渠道更多元 普通家庭如何打理手中资产？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714756.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "日本农相因丑闻辞职 在野党批评：暴露高市政权深层问题",
         "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714754.shtml",
         "publishedAt": "2026-10-15T07:30:21.000+08:00"
-      },
-      {
-        "title": "央行将开展7000亿元买断式逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714753.shtml",
-        "publishedAt": "2026-10-15T07:28:03.000+08:00"
-      },
-      {
-        "title": "朝中社：朝鲜试射两种潜射战略巡航导弹（图）",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714752.shtml",
-        "publishedAt": "2026-10-15T06:44:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T07:50:04.032+08:00",
+    "fetchedAt": "2026-10-15T08:00:03.018+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T07:50:11.811+08:00",
+      "fetchedAt": "2026-10-15T08:00:37.988+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-15T12:50:12.000+08:00"
+          "resetAt": "2026-10-15T13:00:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T07:50:12.002+08:00",
+      "fetchedAt": "2026-10-15T08:00:38.223+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T07:50:12.005+08:00",
+      "fetchedAt": "2026-10-15T08:00:38.232+08:00",
       "error": null
     }
   }
