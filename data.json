@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-15T13:10:10.339+08:00",
+  "updatedAt": "2026-10-15T13:20:09.985+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22,
-    "feelsLikeC": 22.4,
-    "humidity": 59,
-    "windKph": 4.7,
+    "tempC": 22.4,
+    "feelsLikeC": 22.8,
+    "humidity": 58,
+    "windKph": 5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-15T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-15T13:10:10.339+08:00",
+    "observedAt": "2026-10-15T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-15T13:20:09.985+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "自然资源部：2025年我国地理信息产业总产值超9000亿元",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714925.shtml",
+        "publishedAt": "2026-10-15T13:15:46.000+08:00"
+      },
+      {
+        "title": "胡塞武装与沙特相互袭击 也门多地战事持续",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714915.shtml",
+        "publishedAt": "2026-10-15T13:15:44.000+08:00"
+      },
+      {
+        "title": "青春华章｜迈向更高精度的时间测量！中国科研团队研制出核光钟",
+        "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-15/news1071878.shtml",
+        "publishedAt": "2026-10-15T13:08:26.000+08:00"
+      },
+      {
+        "title": "算力上天！我国太空算力网持续“扩容”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714922.shtml",
+        "publishedAt": "2026-10-15T13:08:02.000+08:00"
+      },
+      {
         "title": "从老街区到新地标 海外侨胞探索唐人街保护更新",
         "url": "https://www.chinanews.com.cn/hr/2026/10-15/10714916.shtml",
         "publishedAt": "2026-10-15T13:05:58.000+08:00"
-      },
-      {
-        "title": "随身“消毒卡”虚假宣传 中消协胜诉 企业退一赔三",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714917.shtml",
-        "publishedAt": "2026-10-15T13:00:41.000+08:00"
-      },
-      {
-        "title": "美官员称美方考虑对伊朗使用“炸弹之母”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714914.shtml",
-        "publishedAt": "2026-10-15T12:38:14.000+08:00"
-      },
-      {
-        "title": "陕西宝鸡太白县一公路发生山体滑坡 当地正全力抢通",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714913.shtml",
-        "publishedAt": "2026-10-15T12:35:40.000+08:00"
-      },
-      {
-        "title": "9月中国公路运输市场更趋活跃",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714909.shtml",
-        "publishedAt": "2026-10-15T12:28:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-15T13:10:03.032+08:00",
+    "fetchedAt": "2026-10-15T13:20:03.757+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-15T13:10:08.435+08:00",
+      "fetchedAt": "2026-10-15T13:20:08.535+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-20T13:44:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-15T13:10:08.676+08:00",
+      "fetchedAt": "2026-10-15T13:20:08.797+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 22.42,
       "currency": "CNY",
       "detail": "余额 ¥22.42",
-      "fetchedAt": "2026-10-15T13:10:08.681+08:00",
+      "fetchedAt": "2026-10-15T13:20:08.804+08:00",
       "error": null
     }
   }
