@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T13:50:37.846+08:00",
+  "updatedAt": "2026-10-16T14:00:38.517+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-16T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-16T13:50:37.846+08:00",
+    "fetchedAt": "2026-10-16T14:00:38.517+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "椰城海关2026-2028年公务车辆保险服务采购项目比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715600.shtml",
-        "publishedAt": "2026-10-16T13:41:38.000+08:00"
+        "title": "从寒武纪化石到高原碧水 20余名泰国华裔抚仙湖畔聆听“自然课”",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-16/10715613.shtml",
+        "publishedAt": "2026-10-16T13:54:11.000+08:00"
       },
       {
-        "title": "应急管理部：严打烟花爆竹线上销售线下寄递等非法违法行为",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715588.shtml",
-        "publishedAt": "2026-10-16T13:40:38.000+08:00"
+        "title": "2025年中国研发经费投入总量突破3.9万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715606.shtml",
+        "publishedAt": "2026-10-16T13:53:31.000+08:00"
       },
       {
-        "title": "北京地铁迎来首家站内现制面包店",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-16/1207999.shtml",
-        "publishedAt": "2026-10-16T13:39:45.000+08:00"
+        "title": "直播海报：国新办就2026年前三季度国民经济运行情况举行新闻发布会",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715615.shtml",
+        "publishedAt": "2026-10-16T13:53:17.000+08:00"
       },
       {
-        "title": "小学教师转岗初中之惑",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-16/10715597.shtml",
-        "publishedAt": "2026-10-16T13:38:34.000+08:00"
+        "title": "中华人民共和国洋浦海关档案室改造项目中标公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715609.shtml",
+        "publishedAt": "2026-10-16T13:52:01.000+08:00"
       },
       {
-        "title": "危旧房改造，如何将“忧居”变“宜居”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715589.shtml",
-        "publishedAt": "2026-10-16T13:32:46.000+08:00"
+        "title": "搜索官方售后总遇“李鬼”，得治了",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-16/10715611.shtml",
+        "publishedAt": "2026-10-16T13:51:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T13:50:02.880+08:00",
+    "fetchedAt": "2026-10-16T14:00:02.803+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T13:50:36.611+08:00",
+      "fetchedAt": "2026-10-16T14:00:36.330+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T13:50:37.008+08:00",
+      "fetchedAt": "2026-10-16T14:00:36.698+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T13:50:37.017+08:00",
+      "fetchedAt": "2026-10-16T14:00:36.707+08:00",
       "error": null
     }
   }
