@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T22:30:39.164+08:00",
+  "updatedAt": "2026-10-16T22:40:10.571+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-16T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T22:30:39.164+08:00",
+    "fetchedAt": "2026-10-16T22:40:10.571+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "四川雅安：探访国家级非遗荥经砂器烧制技艺",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-16/1208046.shtml",
-        "publishedAt": "2026-10-16T22:23:49.000+08:00"
+        "title": "价格改革推动普惠养老服务提质扩面",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
+        "publishedAt": "2026-10-16T22:31:57.000+08:00"
       },
       {
-        "title": "青海多部门协同打击非法进入三江源国家公园行为",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10716008.shtml",
-        "publishedAt": "2026-10-16T22:23:13.000+08:00"
+        "title": "中国汽车质量信誉不能被刹车踏板踩断",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716038.shtml",
+        "publishedAt": "2026-10-16T22:30:53.000+08:00"
       },
       {
-        "title": "浙江金华面向非洲38国展播中国优秀影视作品",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715984.shtml",
-        "publishedAt": "2026-10-16T22:20:42.000+08:00"
+        "title": "广西钦州港单批工程机械出口创新高",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10716011.shtml",
+        "publishedAt": "2026-10-16T22:27:59.000+08:00"
       },
       {
-        "title": "四川雅安：1700岁“桢楠王”引客来",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-16/1208042.shtml",
-        "publishedAt": "2026-10-16T22:17:36.000+08:00"
+        "title": "2026 AI Cloud 100 China榜单在沪发布：物理AI领域企业成最大“黑马”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716010.shtml",
+        "publishedAt": "2026-10-16T22:26:59.000+08:00"
       },
       {
-        "title": "原创歌剧《可可西里》在青海大剧院上演",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10716027.shtml",
-        "publishedAt": "2026-10-16T22:07:30.000+08:00"
+        "title": "全国主流媒体走进雅安摄影采风 循茶香寻访茶乡新图景",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10716009.shtml",
+        "publishedAt": "2026-10-16T22:26:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T22:30:03.905+08:00",
+    "fetchedAt": "2026-10-16T22:40:03.092+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T22:30:37.623+08:00",
+      "fetchedAt": "2026-10-16T22:40:07.047+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 78,
+          "usedPct": 84,
           "resetAt": "2026-10-17T00:30:29.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 60,
+          "usedPct": 61,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T22:30:37.927+08:00",
+      "fetchedAt": "2026-10-16T22:40:07.317+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T22:30:37.936+08:00",
+      "fetchedAt": "2026-10-16T22:40:07.328+08:00",
       "error": null
     }
   }
