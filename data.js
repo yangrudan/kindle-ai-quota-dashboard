@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T22:20:08.583+08:00",
+  "updatedAt": "2026-10-16T22:30:39.164+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.9,
+    "tempC": 22,
     "feelsLikeC": 24.1,
-    "humidity": 81,
-    "windKph": 5.8,
+    "humidity": 80,
+    "windKph": 6.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-16T22:20:08.584+08:00",
+    "observedAt": "2026-10-16T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-16T22:30:39.164+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "四川雅安：探访国家级非遗荥经砂器烧制技艺",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-16/1208046.shtml",
+        "publishedAt": "2026-10-16T22:23:49.000+08:00"
+      },
+      {
+        "title": "青海多部门协同打击非法进入三江源国家公园行为",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10716008.shtml",
+        "publishedAt": "2026-10-16T22:23:13.000+08:00"
+      },
+      {
+        "title": "浙江金华面向非洲38国展播中国优秀影视作品",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715984.shtml",
+        "publishedAt": "2026-10-16T22:20:42.000+08:00"
+      },
+      {
+        "title": "四川雅安：1700岁“桢楠王”引客来",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-16/1208042.shtml",
+        "publishedAt": "2026-10-16T22:17:36.000+08:00"
+      },
+      {
         "title": "原创歌剧《可可西里》在青海大剧院上演",
         "url": "https://www.chinanews.com.cn/tp/2026/10-16/10716027.shtml",
         "publishedAt": "2026-10-16T22:07:30.000+08:00"
-      },
-      {
-        "title": "国家粮食和物资储备局：全谷物行动计划顺利推进",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716006.shtml",
-        "publishedAt": "2026-10-16T21:58:57.000+08:00"
-      },
-      {
-        "title": "中国商务部回应欧盟峰会提出对华“双轨”思路",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716004.shtml",
-        "publishedAt": "2026-10-16T21:58:03.000+08:00"
-      },
-      {
-        "title": "五集历史纪录片《突围21天》揭秘一段鲜为人知的长征史",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10716003.shtml",
-        "publishedAt": "2026-10-16T21:56:51.000+08:00"
-      },
-      {
-        "title": "海南自贸港封关后首家琼港联营律师事务所揭牌",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10716000.shtml",
-        "publishedAt": "2026-10-16T21:56:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T22:20:02.632+08:00",
+    "fetchedAt": "2026-10-16T22:30:03.905+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T22:20:07.386+08:00",
+      "fetchedAt": "2026-10-16T22:30:37.623+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 73,
+          "usedPct": 78,
           "resetAt": "2026-10-17T00:30:29.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 59,
+          "usedPct": 60,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T22:20:07.668+08:00",
+      "fetchedAt": "2026-10-16T22:30:37.927+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T22:20:07.677+08:00",
+      "fetchedAt": "2026-10-16T22:30:37.936+08:00",
       "error": null
     }
   }
