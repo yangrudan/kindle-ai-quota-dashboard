@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T00:50:09.014+08:00",
+  "updatedAt": "2026-10-17T01:00:38.105+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-17T00:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T00:50:09.015+08:00",
+    "fetchedAt": "2026-10-17T01:00:38.105+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "马来西亚第三季度经济同比增5.3%",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716033.shtml",
-        "publishedAt": "2026-10-17T00:44:51.000+08:00"
+        "title": "广东省退役军人应急救助资金累计发放突破3亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716018.shtml",
+        "publishedAt": "2026-10-17T00:54:13.000+08:00"
       },
       {
-        "title": "中外嘉宾福州共探全球海洋产业合作新路径",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716035.shtml",
-        "publishedAt": "2026-10-17T00:44:05.000+08:00"
+        "title": "中国官方确定14个“人工智能+文化和旅游”试点项目",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716015.shtml",
+        "publishedAt": "2026-10-17T00:47:29.000+08:00"
       },
       {
-        "title": "报告指上半年全球人形机器人出货量超2.2万台",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716044.shtml",
-        "publishedAt": "2026-10-17T00:43:23.000+08:00"
+        "title": "第二十六届中国国际工业博览会在上海闭幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716016.shtml",
+        "publishedAt": "2026-10-17T00:46:53.000+08:00"
       },
       {
-        "title": "“第十二届世界旅游经济论坛·澳门2026”举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-17/10716045.shtml",
-        "publishedAt": "2026-10-17T00:42:47.000+08:00"
+        "title": "国际自行车联盟主席：将增加在华赛事数量，提升民众参与度",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716017.shtml",
+        "publishedAt": "2026-10-17T00:46:15.000+08:00"
       },
       {
-        "title": "评论：“走出信息茧房”让台湾年轻一代态度有变",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716046.shtml",
-        "publishedAt": "2026-10-17T00:41:59.000+08:00"
+        "title": "错估震级9.9级 日本气象厅两度召开记者会致歉",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716023.shtml",
+        "publishedAt": "2026-10-17T00:45:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T00:50:03.476+08:00",
+    "fetchedAt": "2026-10-17T01:00:03.382+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T00:50:07.889+08:00",
+      "fetchedAt": "2026-10-17T01:00:36.852+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-17T05:50:08.000+08:00"
+          "resetAt": "2026-10-17T06:00:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T00:50:08.179+08:00",
+      "fetchedAt": "2026-10-17T01:00:37.211+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T00:50:08.188+08:00",
+      "fetchedAt": "2026-10-17T01:00:37.220+08:00",
       "error": null
     }
   }
