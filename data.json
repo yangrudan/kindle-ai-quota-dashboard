@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T20:00:11.864+08:00",
+  "updatedAt": "2026-10-16T20:10:09.085+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-16T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T20:00:11.864+08:00",
+    "fetchedAt": "2026-10-16T20:10:09.086+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "罚没1.43亿元 中国官方“零容忍” 严查加油机作弊",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715886.shtml",
+        "publishedAt": "2026-10-16T20:00:49.000+08:00"
+      },
+      {
+        "title": "当军马遇上无人机：古老兵种的“新长征”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715914.shtml",
+        "publishedAt": "2026-10-16T19:59:53.000+08:00"
+      },
       {
         "title": "工业和信息化部等四部门组织重点汽车生产企业开展座谈 加强汽车产品创新设计和研发测试验证管理",
         "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715905.shtml",
@@ -33,19 +43,9 @@
         "title": "广西旅游专列开行一年吸引1.2万人次出游",
         "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715884.shtml",
         "publishedAt": "2026-10-16T19:43:04.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）盐碱地里双丰收 浙江瑞安稻蟹共生见证“沧海变桑田”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715880.shtml",
-        "publishedAt": "2026-10-16T19:42:40.000+08:00"
-      },
-      {
-        "title": "小巷生“万象” 浙江丽水诠释摄影艺术“在地性”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715879.shtml",
-        "publishedAt": "2026-10-16T19:42:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T20:00:05.118+08:00",
+    "fetchedAt": "2026-10-16T20:10:04.262+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T20:00:10.371+08:00",
+      "fetchedAt": "2026-10-16T20:10:07.922+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T20:00:10.676+08:00",
+      "fetchedAt": "2026-10-16T20:10:08.254+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T20:00:10.686+08:00",
+      "fetchedAt": "2026-10-16T20:10:08.257+08:00",
       "error": null
     }
   }
