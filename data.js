@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T14:00:38.517+08:00",
+  "updatedAt": "2026-10-16T14:10:11.538+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 23.4,
-    "feelsLikeC": 25.4,
-    "humidity": 76,
+    "tempC": 23.6,
+    "feelsLikeC": 25.6,
+    "humidity": 75,
     "windKph": 8.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-16T14:00:38.517+08:00",
+    "observedAt": "2026-10-16T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-16T14:10:11.538+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从寒武纪化石到高原碧水 20余名泰国华裔抚仙湖畔聆听“自然课”",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-16/10715613.shtml",
-        "publishedAt": "2026-10-16T13:54:11.000+08:00"
+        "title": "全仓登首单登记镍现货仓单转让业务落地上海",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715626.shtml",
+        "publishedAt": "2026-10-16T14:09:34.000+08:00"
       },
       {
-        "title": "2025年中国研发经费投入总量突破3.9万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715606.shtml",
-        "publishedAt": "2026-10-16T13:53:31.000+08:00"
+        "title": "桂林理工大学举行参加南极科学考察队员出征仪式",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-16/10715628.shtml",
+        "publishedAt": "2026-10-16T14:08:18.000+08:00"
       },
       {
-        "title": "直播海报：国新办就2026年前三季度国民经济运行情况举行新闻发布会",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715615.shtml",
-        "publishedAt": "2026-10-16T13:53:17.000+08:00"
+        "title": "建设银行以综合金融服务护航第140届广交会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715639.shtml",
+        "publishedAt": "2026-10-16T14:07:30.000+08:00"
       },
       {
-        "title": "中华人民共和国洋浦海关档案室改造项目中标公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715609.shtml",
-        "publishedAt": "2026-10-16T13:52:01.000+08:00"
+        "title": "海内外人士齐聚重庆 共议生物医药产学研用合作",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-16/10715623.shtml",
+        "publishedAt": "2026-10-16T14:06:40.000+08:00"
       },
       {
-        "title": "搜索官方售后总遇“李鬼”，得治了",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-16/10715611.shtml",
-        "publishedAt": "2026-10-16T13:51:55.000+08:00"
+        "title": "AI驱动网络变革 业内预计未来十年AI总流量将增长5倍",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715633.shtml",
+        "publishedAt": "2026-10-16T14:05:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T14:00:02.803+08:00",
+    "fetchedAt": "2026-10-16T14:10:04.542+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T14:00:36.330+08:00",
+      "fetchedAt": "2026-10-16T14:10:10.168+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T14:00:36.698+08:00",
+      "fetchedAt": "2026-10-16T14:10:10.665+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T14:00:36.707+08:00",
+      "fetchedAt": "2026-10-16T14:10:10.672+08:00",
       "error": null
     }
   }
