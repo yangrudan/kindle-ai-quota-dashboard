@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:20:09.682+08:00",
+  "updatedAt": "2026-10-16T19:30:07.179+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-16T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-16T19:20:09.682+08:00",
+    "fetchedAt": "2026-10-16T19:30:07.179+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广西财政安排资金2.97亿元 支持房地产促消费",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715857.shtml",
+        "publishedAt": "2026-10-16T19:19:45.000+08:00"
+      },
+      {
+        "title": "广西药用植物园以“绿色宝库”之钥 解锁濒危药材资源保护密码",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715854.shtml",
+        "publishedAt": "2026-10-16T19:18:39.000+08:00"
+      },
+      {
+        "title": "2026环三峡自行车赛巫山站开赛 中外选手在“云端天路”上竞速",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-16/10715852.shtml",
+        "publishedAt": "2026-10-16T19:16:28.000+08:00"
+      },
       {
         "title": "（长征胜利90周年）“万水千山 情深意长——长征路上的民族团结”主题展在川开展",
         "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715856.shtml",
@@ -28,24 +43,9 @@
         "title": "（活力中国调研行）铜川 “金蛋” 带动陕西禽蛋产业升级",
         "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715853.shtml",
         "publishedAt": "2026-10-16T19:05:28.000+08:00"
-      },
-      {
-        "title": "国务院任免国家工作人员",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715851.shtml",
-        "publishedAt": "2026-10-16T18:51:59.000+08:00"
-      },
-      {
-        "title": "重庆永川布局建设渝西国际开放枢纽新城 支撑成渝中部崛起",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715838.shtml",
-        "publishedAt": "2026-10-16T18:33:52.000+08:00"
-      },
-      {
-        "title": "下楼就能找工作 吉林市打造“15分钟就业服务圈”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715840.shtml",
-        "publishedAt": "2026-10-16T18:33:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T19:20:04.350+08:00",
+    "fetchedAt": "2026-10-16T19:30:02.329+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T19:20:08.551+08:00",
+      "fetchedAt": "2026-10-16T19:30:06.044+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-17T00:20:09.000+08:00"
+          "resetAt": "2026-10-17T00:30:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T19:20:08.873+08:00",
+      "fetchedAt": "2026-10-16T19:30:06.327+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T19:20:08.880+08:00",
+      "fetchedAt": "2026-10-16T19:30:06.336+08:00",
       "error": null
     }
   }
