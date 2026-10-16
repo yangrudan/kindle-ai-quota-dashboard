@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T19:40:08.416+08:00",
+  "updatedAt": "2026-10-16T19:50:07.857+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.2,
-    "feelsLikeC": 25.3,
-    "humidity": 76,
-    "windKph": 7.8,
-    "windDir": "东北风",
+    "tempC": 23.1,
+    "feelsLikeC": 24.9,
+    "humidity": 75,
+    "windKph": 9,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-16T19:40:08.417+08:00",
+    "observedAt": "2026-10-16T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-16T19:50:07.857+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "深耕“三农”沃土：山西省政协常委会会议为乡村振兴破题建言",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715869.shtml",
-        "publishedAt": "2026-10-16T19:32:41.000+08:00"
+        "title": "广西旅游专列开行一年吸引1.2万人次出游",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715884.shtml",
+        "publishedAt": "2026-10-16T19:43:04.000+08:00"
       },
       {
-        "title": "广东省政府原副秘书长吴耿淡被开除党籍和公职",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715868.shtml",
-        "publishedAt": "2026-10-16T19:32:37.000+08:00"
+        "title": "（乡村行·看振兴）盐碱地里双丰收 浙江瑞安稻蟹共生见证“沧海变桑田”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715880.shtml",
+        "publishedAt": "2026-10-16T19:42:40.000+08:00"
       },
       {
-        "title": "2026年黄河九省（区）龙狮争霸赛在陕西黄河壶口瀑布景区举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715867.shtml",
-        "publishedAt": "2026-10-16T19:32:33.000+08:00"
+        "title": "小巷生“万象” 浙江丽水诠释摄影艺术“在地性”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715879.shtml",
+        "publishedAt": "2026-10-16T19:42:36.000+08:00"
       },
       {
-        "title": "中国首个百万吨级低浓度CCUS全链条示范工程在山东东营开工",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715865.shtml",
-        "publishedAt": "2026-10-16T19:31:37.000+08:00"
+        "title": "（粤港澳大湾区）广西贺州打造粤港澳大湾区“2小时康养生活圈”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-16/10715876.shtml",
+        "publishedAt": "2026-10-16T19:42:30.000+08:00"
       },
       {
-        "title": "出境政策将全面收紧？强降雨致北川多处泥石流？停止资助学生后反遭威胁？……别信，都是谣言",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715883.shtml",
-        "publishedAt": "2026-10-16T19:30:29.000+08:00"
+        "title": "四部门：组织30余家车企座谈 加强汽车产品研发测试验证管理",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715885.shtml",
+        "publishedAt": "2026-10-16T19:35:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T19:40:02.902+08:00",
+    "fetchedAt": "2026-10-16T19:50:03.191+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T19:40:07.229+08:00",
+      "fetchedAt": "2026-10-16T19:50:06.698+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 6,
+          "usedPct": 10,
           "resetAt": "2026-10-17T00:30:29.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 48,
+          "usedPct": 49,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T19:40:07.527+08:00",
+      "fetchedAt": "2026-10-16T19:50:06.981+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T19:40:07.537+08:00",
+      "fetchedAt": "2026-10-16T19:50:06.992+08:00",
       "error": null
     }
   }
