@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T09:50:10.175+08:00",
+  "updatedAt": "2026-10-16T10:00:09.221+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-16T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-16T09:50:10.176+08:00",
+    "fetchedAt": "2026-10-16T10:00:09.222+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "贵港海关小型工程项目设计委托采购代理服务和工程造价咨询机构采购成交结果公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715442.shtml",
-        "publishedAt": "2026-10-16T09:39:59.000+08:00"
+        "title": "防城海关口岸移动式检疫方舱维修项目（项目编号：GGZX2026-ZB-296）成交结果公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715455.shtml",
+        "publishedAt": "2026-10-16T09:53:34.000+08:00"
       },
       {
-        "title": "学习手记｜变废为宝 点绿成金",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715408.shtml",
-        "publishedAt": "2026-10-16T09:39:29.000+08:00"
+        "title": "美国一所小学突发枪击 5人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715434.shtml",
+        "publishedAt": "2026-10-16T09:52:54.000+08:00"
       },
       {
-        "title": "王毅会见以色列总统赫尔佐格",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715414.shtml",
-        "publishedAt": "2026-10-16T09:38:49.000+08:00"
+        "title": "南京市市长与2026年“一带一路”记者组织论坛国际嘉宾对话",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-16/10715448.shtml",
+        "publishedAt": "2026-10-16T09:52:44.000+08:00"
       },
       {
-        "title": "A股开盘：超4900只个股飘红，三大指数集体高开",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715441.shtml",
-        "publishedAt": "2026-10-16T09:36:41.000+08:00"
+        "title": "国家统计局：研究与试验发展（R&D）经费投入稳定增长，基础研究经费占比稳步提升",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715447.shtml",
+        "publishedAt": "2026-10-16T09:52:38.000+08:00"
       },
       {
-        "title": "王毅：亚洲不需要冷战思维，不欢迎阵营对抗",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715413.shtml",
-        "publishedAt": "2026-10-16T09:36:23.000+08:00"
+        "title": "保险销售人员将拥有信用档案 四大类信息纳入记录",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715407.shtml",
+        "publishedAt": "2026-10-16T09:51:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T09:50:03.873+08:00",
+    "fetchedAt": "2026-10-16T10:00:03.081+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T09:50:08.401+08:00",
+      "fetchedAt": "2026-10-16T10:00:08.130+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 6,
           "resetAt": "2026-10-16T14:14:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T09:50:08.665+08:00",
+      "fetchedAt": "2026-10-16T10:00:08.391+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T09:50:08.674+08:00",
+      "fetchedAt": "2026-10-16T10:00:08.400+08:00",
       "error": null
     }
   }
