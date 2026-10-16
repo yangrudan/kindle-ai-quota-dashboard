@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T18:30:38.562+08:00",
+  "updatedAt": "2026-10-16T18:40:09.434+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-16T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T18:30:38.562+08:00",
+    "fetchedAt": "2026-10-16T18:40:09.434+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江西东湖区Token产业运营中心启动 为企业提供便捷AI服务",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715834.shtml",
-        "publishedAt": "2026-10-16T18:20:39.000+08:00"
+        "title": "重庆永川布局建设渝西国际开放枢纽新城 支撑成渝中部崛起",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715838.shtml",
+        "publishedAt": "2026-10-16T18:33:52.000+08:00"
       },
       {
-        "title": "老厂房里喝新茶：中国北方工业城市包头焕新记",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715833.shtml",
-        "publishedAt": "2026-10-16T18:20:37.000+08:00"
+        "title": "下楼就能找工作 吉林市打造“15分钟就业服务圈”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715840.shtml",
+        "publishedAt": "2026-10-16T18:33:50.000+08:00"
       },
       {
-        "title": "今年以来江西共接报地质灾害灾（险）情2541起",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715830.shtml",
-        "publishedAt": "2026-10-16T18:20:33.000+08:00"
+        "title": "山东济南年产优质锦鲤2800万尾 以赛兴业推动全链条升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715842.shtml",
+        "publishedAt": "2026-10-16T18:33:48.000+08:00"
       },
       {
-        "title": "第48届世界葡萄与葡萄酒大会将在格鲁吉亚举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715828.shtml",
-        "publishedAt": "2026-10-16T18:20:31.000+08:00"
+        "title": "山西“十五五”基础教育扩优提质 力争普惠性幼儿园覆盖率达93%",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715837.shtml",
+        "publishedAt": "2026-10-16T18:32:56.000+08:00"
       },
       {
-        "title": "北京将打造全球人形机器人标杆赛事",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715827.shtml",
-        "publishedAt": "2026-10-16T18:20:29.000+08:00"
+        "title": "中国国际广告节将于10月在北京举办 发布多项团体标准",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715836.shtml",
+        "publishedAt": "2026-10-16T18:32:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T18:30:03.991+08:00",
+    "fetchedAt": "2026-10-16T18:40:03.536+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T18:30:37.536+08:00",
+      "fetchedAt": "2026-10-16T18:40:08.138+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T18:30:37.737+08:00",
+      "fetchedAt": "2026-10-16T18:40:08.365+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T18:30:37.747+08:00",
+      "fetchedAt": "2026-10-16T18:40:08.371+08:00",
       "error": null
     }
   }
