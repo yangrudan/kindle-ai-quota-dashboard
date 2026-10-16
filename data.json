@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T13:20:08.518+08:00",
+  "updatedAt": "2026-10-16T13:30:09.012+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-16T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-16T13:20:08.518+08:00",
+    "fetchedAt": "2026-10-16T13:30:09.012+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "财政部10月将在香港发行155亿元人民币国债",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715573.shtml",
-        "publishedAt": "2026-10-16T13:16:11.000+08:00"
+        "title": "海口海关缉私局执法办案场所平台系统和设备升级改造项目比选公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715586.shtml",
+        "publishedAt": "2026-10-16T13:27:40.000+08:00"
       },
       {
-        "title": "望远正当时！全国登高指数地图出炉 重阳节这十座名山值得奔赴",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715580.shtml",
-        "publishedAt": "2026-10-16T13:15:17.000+08:00"
+        "title": "2026年度两路寸滩海关在职职工健康体检服务项目比选公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715585.shtml",
+        "publishedAt": "2026-10-16T13:25:15.000+08:00"
       },
       {
-        "title": "同期少见！北方大范围大到暴雨来袭 为何秋日还有如此强的降雨？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715575.shtml",
-        "publishedAt": "2026-10-16T13:08:41.000+08:00"
+        "title": "三部门发文：精准开展安责险事故预防服务",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715582.shtml",
+        "publishedAt": "2026-10-16T13:24:43.000+08:00"
       },
       {
-        "title": "广交会观察：中国“智造”农机走俏海外市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715572.shtml",
-        "publishedAt": "2026-10-16T13:03:22.000+08:00"
+        "title": "涪陵海关机关大院绿化综合服务项目比选公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715584.shtml",
+        "publishedAt": "2026-10-16T13:22:31.000+08:00"
       },
       {
-        "title": "青海省公安厅原党委委员、副厅长杜海民被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715543.shtml",
-        "publishedAt": "2026-10-16T13:03:20.000+08:00"
+        "title": "从餐桌主食到骨科手术材料 看一粒玉米的“七十二变”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715583.shtml",
+        "publishedAt": "2026-10-16T13:21:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T13:20:03.536+08:00",
+    "fetchedAt": "2026-10-16T13:30:04.044+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T13:20:07.354+08:00",
+      "fetchedAt": "2026-10-16T13:30:07.846+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T13:20:07.652+08:00",
+      "fetchedAt": "2026-10-16T13:30:08.159+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T13:20:07.661+08:00",
+      "fetchedAt": "2026-10-16T13:30:08.167+08:00",
       "error": null
     }
   }
