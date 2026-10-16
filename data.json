@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-16T16:20:10.637+08:00",
+  "updatedAt": "2026-10-16T16:30:08.908+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.8,
-    "feelsLikeC": 28.2,
-    "humidity": 66,
-    "windKph": 6.3,
+    "tempC": 25.6,
+    "feelsLikeC": 28,
+    "humidity": 67,
+    "windKph": 6.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-16T16:20:10.637+08:00",
+    "observedAt": "2026-10-16T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-16T16:30:08.908+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“钧窑华彩：新时代钧瓷传承创新艺术作品巡展”北京站开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715727.shtml",
+        "publishedAt": "2026-10-16T16:21:31.000+08:00"
+      },
+      {
+        "title": "上海构建社会化急救新格局 葛均波、钟天使出任上海院前急救推广大使",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715725.shtml",
+        "publishedAt": "2026-10-16T16:20:43.000+08:00"
+      },
+      {
+        "title": "全网进入“不烧心”时代，包括台湾",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715749.shtml",
+        "publishedAt": "2026-10-16T16:20:21.000+08:00"
+      },
+      {
+        "title": "开局之年看中国｜在燕赵大地读懂粮食安全的中国密码",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715748.shtml",
+        "publishedAt": "2026-10-16T16:20:03.000+08:00"
+      },
+      {
         "title": "天然摄影棚变创作生产地（经济聚焦）",
         "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715747.shtml",
         "publishedAt": "2026-10-16T16:18:01.000+08:00"
-      },
-      {
-        "title": "第十一届中国京剧艺术节武汉开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715723.shtml",
-        "publishedAt": "2026-10-16T16:18:01.000+08:00"
-      },
-      {
-        "title": "92岁老人守着5公斤剪报，等到高铁开进延安那天",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715746.shtml",
-        "publishedAt": "2026-10-16T16:16:51.000+08:00"
-      },
-      {
-        "title": "第九届长垣腐蚀控制暨电力能源产业博览会启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715741.shtml",
-        "publishedAt": "2026-10-16T16:16:17.000+08:00"
-      },
-      {
-        "title": "“中国方案”赋能全球算力 外贸新动能加速释放",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715745.shtml",
-        "publishedAt": "2026-10-16T16:15:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T16:20:04.371+08:00",
+    "fetchedAt": "2026-10-16T16:30:03.835+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T16:20:09.321+08:00",
+      "fetchedAt": "2026-10-16T16:30:07.719+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 46,
+          "usedPct": 54,
           "resetAt": "2026-10-16T19:17:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 39,
+          "usedPct": 40,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T16:20:09.738+08:00",
+      "fetchedAt": "2026-10-16T16:30:07.955+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T16:20:09.747+08:00",
+      "fetchedAt": "2026-10-16T16:30:07.964+08:00",
       "error": null
     }
   }
