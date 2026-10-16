@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T20:40:09.355+08:00",
+  "updatedAt": "2026-10-16T20:50:08.750+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.5,
-    "feelsLikeC": 24.8,
-    "humidity": 80,
+    "tempC": 22.3,
+    "feelsLikeC": 24.6,
+    "humidity": 81,
     "windKph": 6.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T20:40:09.355+08:00",
+    "observedAt": "2026-10-16T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-16T20:50:08.750+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（经济观察）江西加速布局算力建设 多地抢滩“词元经济”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715938.shtml",
+        "publishedAt": "2026-10-16T20:41:17.000+08:00"
+      },
       {
         "title": "五部门发布警惕“央国企内推”等骗局风险提示",
         "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715927.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“粤艇南下”首航 粤港游艇双向游拓展大湾区优质生活圈",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-16/10715935.shtml",
         "publishedAt": "2026-10-16T20:30:47.000+08:00"
-      },
-      {
-        "title": "国际葡萄酒业者探访宁夏贺兰山东麓 深化产业交流",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715937.shtml",
-        "publishedAt": "2026-10-16T20:30:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T20:40:03.646+08:00",
+    "fetchedAt": "2026-10-16T20:50:03.325+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T20:40:08.089+08:00",
+      "fetchedAt": "2026-10-16T20:50:07.646+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
+          "usedPct": 20,
           "resetAt": "2026-10-17T00:30:29.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 49,
+          "usedPct": 50,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T20:40:08.285+08:00",
+      "fetchedAt": "2026-10-16T20:50:07.834+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T20:40:08.294+08:00",
+      "fetchedAt": "2026-10-16T20:50:07.839+08:00",
       "error": null
     }
   }
