@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T17:20:09.428+08:00",
+  "updatedAt": "2026-10-16T17:30:09.555+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.8,
-    "feelsLikeC": 27,
-    "humidity": 71,
-    "windKph": 7.7,
+    "tempC": 24.5,
+    "feelsLikeC": 26.7,
+    "humidity": 72,
+    "windKph": 7.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-16T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-16T17:20:09.428+08:00",
+    "observedAt": "2026-10-16T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-16T17:30:09.555+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "汕头“12·9”重大火灾事故调查报告公布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715790.shtml",
-        "publishedAt": "2026-10-16T17:08:17.000+08:00"
+        "title": "深圳举办企业竞争合规大讲堂，助力互联网平台合规发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715794.shtml",
+        "publishedAt": "2026-10-16T17:19:58.000+08:00"
       },
       {
-        "title": "第十二届“北阁对话”年会在北京大学举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715788.shtml",
-        "publishedAt": "2026-10-16T17:01:57.000+08:00"
+        "title": "长飞先进总裁：碳化硅市场短期看汽车、长期看AI",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715793.shtml",
+        "publishedAt": "2026-10-16T17:19:54.000+08:00"
       },
       {
-        "title": "2026年北京铸牢中华民族共同体意识研讨会举办",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-16/10715771.shtml",
-        "publishedAt": "2026-10-16T17:00:43.000+08:00"
+        "title": "“人工智能+文化和旅游”应用试点立项入选名单公布",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715724.shtml",
+        "publishedAt": "2026-10-16T17:17:24.000+08:00"
       },
       {
-        "title": "5艘LNG船订单落地 中船集团沪东中华锁定LNG船舱容量全球榜首",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715787.shtml",
-        "publishedAt": "2026-10-16T17:00:39.000+08:00"
+        "title": "湛江综合保税区首票出口集拼业务落地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715792.shtml",
+        "publishedAt": "2026-10-16T17:15:46.000+08:00"
       },
       {
-        "title": "微视频丨聆听总书记深情话语 赓续伟大长征精神",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715670.shtml",
-        "publishedAt": "2026-10-16T16:58:25.000+08:00"
+        "title": "中国海军将举办2026年西太平洋海军论坛医学研讨会",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715789.shtml",
+        "publishedAt": "2026-10-16T17:15:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T17:20:03.466+08:00",
+    "fetchedAt": "2026-10-16T17:30:04.516+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T17:20:08.116+08:00",
+      "fetchedAt": "2026-10-16T17:30:08.460+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 94,
+          "usedPct": 100,
           "resetAt": "2026-10-16T19:17:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 47,
+          "usedPct": 48,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T17:20:08.338+08:00",
+      "fetchedAt": "2026-10-16T17:30:08.678+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T17:20:08.342+08:00",
+      "fetchedAt": "2026-10-16T17:30:08.681+08:00",
       "error": null
     }
   }
