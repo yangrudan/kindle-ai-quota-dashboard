@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T16:10:12.641+08:00",
+  "updatedAt": "2026-10-16T16:20:10.637+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25,
-    "feelsLikeC": 27.3,
-    "humidity": 68,
-    "windKph": 5.7,
+    "tempC": 25.8,
+    "feelsLikeC": 28.2,
+    "humidity": 66,
+    "windKph": 6.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T16:10:12.641+08:00",
+    "observedAt": "2026-10-16T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-16T16:20:10.637+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "直播海报：长征路上学党史｜驻足将台堡 庆长征伟大胜利",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715719.shtml",
-        "publishedAt": "2026-10-16T15:59:56.000+08:00"
+        "title": "天然摄影棚变创作生产地（经济聚焦）",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715747.shtml",
+        "publishedAt": "2026-10-16T16:18:01.000+08:00"
       },
       {
-        "title": "外交部：现阶段要求中方参加所谓核裁军谈判，不公平、不合理、不可行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715718.shtml",
-        "publishedAt": "2026-10-16T15:57:56.000+08:00"
+        "title": "第十一届中国京剧艺术节武汉开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715723.shtml",
+        "publishedAt": "2026-10-16T16:18:01.000+08:00"
       },
       {
-        "title": "端牢中国饭碗 共护大国粮仓",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-16/10715717.shtml",
-        "publishedAt": "2026-10-16T15:56:08.000+08:00"
+        "title": "92岁老人守着5公斤剪报，等到高铁开进延安那天",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715746.shtml",
+        "publishedAt": "2026-10-16T16:16:51.000+08:00"
       },
       {
-        "title": "纪念红军长征胜利90周年大型粤剧史诗晚会在广州上演",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715704.shtml",
-        "publishedAt": "2026-10-16T15:53:47.000+08:00"
+        "title": "第九届长垣腐蚀控制暨电力能源产业博览会启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715741.shtml",
+        "publishedAt": "2026-10-16T16:16:17.000+08:00"
       },
       {
-        "title": "从稻田到油茶林 多地迎来秋收好“丰”景",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715716.shtml",
-        "publishedAt": "2026-10-16T15:52:37.000+08:00"
+        "title": "“中国方案”赋能全球算力 外贸新动能加速释放",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715745.shtml",
+        "publishedAt": "2026-10-16T16:15:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T16:10:03.248+08:00",
+    "fetchedAt": "2026-10-16T16:20:04.371+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T16:10:07.638+08:00",
+      "fetchedAt": "2026-10-16T16:20:09.321+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 35,
+          "usedPct": 46,
           "resetAt": "2026-10-16T19:17:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 37,
+          "usedPct": 39,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T16:10:07.885+08:00",
+      "fetchedAt": "2026-10-16T16:20:09.738+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T16:10:07.888+08:00",
+      "fetchedAt": "2026-10-16T16:20:09.747+08:00",
       "error": null
     }
   }
