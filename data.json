@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T17:30:09.555+08:00",
+  "updatedAt": "2026-10-16T17:40:39.690+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-16T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T17:30:09.555+08:00",
+    "fetchedAt": "2026-10-16T17:40:39.690+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王毅会见巴林外交大臣扎耶尼",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715791.shtml",
+        "publishedAt": "2026-10-16T17:29:19.000+08:00"
+      },
+      {
+        "title": "东西问｜爱德华·博阿滕：从零关税到“人文交流年”，中非如何为全球南南合作提供范式？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-16/10715795.shtml",
+        "publishedAt": "2026-10-16T17:28:35.000+08:00"
+      },
+      {
+        "title": "县领导片面理解“知耻而后勇”，安排低分教师在“耻辱”背景板前合影，通报之后更应追问：何为正确的“知耻”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715802.shtml",
+        "publishedAt": "2026-10-16T17:27:53.000+08:00"
+      },
       {
         "title": "深圳举办企业竞争合规大讲堂，助力互联网平台合规发展",
         "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715794.shtml",
@@ -28,24 +43,9 @@
         "title": "长飞先进总裁：碳化硅市场短期看汽车、长期看AI",
         "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715793.shtml",
         "publishedAt": "2026-10-16T17:19:54.000+08:00"
-      },
-      {
-        "title": "“人工智能+文化和旅游”应用试点立项入选名单公布",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715724.shtml",
-        "publishedAt": "2026-10-16T17:17:24.000+08:00"
-      },
-      {
-        "title": "湛江综合保税区首票出口集拼业务落地",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715792.shtml",
-        "publishedAt": "2026-10-16T17:15:46.000+08:00"
-      },
-      {
-        "title": "中国海军将举办2026年西太平洋海军论坛医学研讨会",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715789.shtml",
-        "publishedAt": "2026-10-16T17:15:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T17:30:04.516+08:00",
+    "fetchedAt": "2026-10-16T17:40:03.123+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T17:30:08.460+08:00",
+      "fetchedAt": "2026-10-16T17:40:38.581+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T17:30:08.678+08:00",
+      "fetchedAt": "2026-10-16T17:40:38.833+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T17:30:08.681+08:00",
+      "fetchedAt": "2026-10-16T17:40:38.837+08:00",
       "error": null
     }
   }
