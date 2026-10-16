@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T10:50:17.507+08:00",
+  "updatedAt": "2026-10-16T11:00:10.099+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 23.3,
-    "feelsLikeC": 25.2,
+    "tempC": 23.4,
+    "feelsLikeC": 25.5,
     "humidity": 72,
-    "windKph": 6.1,
+    "windKph": 5.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T10:50:17.507+08:00",
+    "observedAt": "2026-10-16T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-16T11:00:10.099+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "活力中国调研行丨钦州港“无人码头”，藏着多少黑科技？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715515.shtml",
-        "publishedAt": "2026-10-16T10:43:07.000+08:00"
+        "title": "赓续长征精神 奋进复兴征程 | 把信仰写进地名——红军镇、瑞金村、胜利山，这三地因何得名",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715527.shtml",
+        "publishedAt": "2026-10-16T10:53:47.000+08:00"
       },
       {
-        "title": "假专家坐堂 假买家收“保证金” 法院披露涉老诈骗套路",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-16/10715512.shtml",
-        "publishedAt": "2026-10-16T10:41:17.000+08:00"
+        "title": "“长城-2026”反恐国际论坛在北京闭幕",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-16/1207985.shtml",
+        "publishedAt": "2026-10-16T10:52:48.000+08:00"
       },
       {
-        "title": "快新优好，外贸增速近5年同期最快（权威发布）",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715509.shtml",
-        "publishedAt": "2026-10-16T10:38:38.000+08:00"
+        "title": "“不开心就想吃”？真不是你自制力差",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-16/10715526.shtml",
+        "publishedAt": "2026-10-16T10:52:27.000+08:00"
       },
       {
-        "title": "北方冷空气活动频繁 长江及其以北大部地区多降水",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715505.shtml",
-        "publishedAt": "2026-10-16T10:37:42.000+08:00"
+        "title": "外媒：西方情报显示伊朗正采取“极端举措” ，美以已就局势磋商",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715523.shtml",
+        "publishedAt": "2026-10-16T10:50:35.000+08:00"
       },
       {
-        "title": "今天，我们需要什么样的科学素质",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715507.shtml",
-        "publishedAt": "2026-10-16T10:36:26.000+08:00"
+        "title": "商务部：第九届进博会各项筹备基本就绪，4142家境外企业参展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715504.shtml",
+        "publishedAt": "2026-10-16T10:48:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T10:50:12.036+08:00",
+    "fetchedAt": "2026-10-16T11:00:04.193+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T10:50:16.019+08:00",
+      "fetchedAt": "2026-10-16T11:00:08.397+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-10-16T14:14:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T10:50:16.286+08:00",
+      "fetchedAt": "2026-10-16T11:00:08.661+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T10:50:16.297+08:00",
+      "fetchedAt": "2026-10-16T11:00:08.670+08:00",
       "error": null
     }
   }
