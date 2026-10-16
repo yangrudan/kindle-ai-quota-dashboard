@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T12:00:11.417+08:00",
+  "updatedAt": "2026-10-16T12:30:09.789+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 23,
-    "feelsLikeC": 24.9,
-    "humidity": 75,
-    "windKph": 7.4,
+    "tempC": 22.8,
+    "feelsLikeC": 24.8,
+    "humidity": 77,
+    "windKph": 8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-16T12:00:11.418+08:00",
+    "observedAt": "2026-10-16T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-16T12:30:09.789+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广交会七十载见证中国外贸之变",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715545.shtml",
-        "publishedAt": "2026-10-16T11:57:55.000+08:00"
+        "title": "从人才库、智囊团到生力军，欧美同学会海归人才正“向内聚力、向外发力”",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-16/10715544.shtml",
+        "publishedAt": "2026-10-16T12:24:02.000+08:00"
       },
       {
-        "title": "也门亚丁总统府遭袭已致5死 联合国安理会谴责胡塞武装袭击沙特",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715549.shtml",
-        "publishedAt": "2026-10-16T11:56:17.000+08:00"
+        "title": "辽宁省政务服务和数据系统职工职业技能大赛决赛在阜新收官",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715555.shtml",
+        "publishedAt": "2026-10-16T12:21:52.000+08:00"
       },
       {
-        "title": "美国俄勒冈州一小学发生枪击事件 至少5人身亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715546.shtml",
-        "publishedAt": "2026-10-16T11:55:39.000+08:00"
+        "title": "适应铁路快速发展需要 国铁集团启动全国铁路列车车次编排改革",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715566.shtml",
+        "publishedAt": "2026-10-16T12:20:54.000+08:00"
       },
       {
-        "title": "A股午评：超4800只个股飘红，三大指数集体收涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715562.shtml",
-        "publishedAt": "2026-10-16T11:49:08.000+08:00"
+        "title": "重庆长寿建设“三区一城” 力争2030年GDP达1500亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715551.shtml",
+        "publishedAt": "2026-10-16T12:19:22.000+08:00"
       },
       {
-        "title": "应急管理部：坚决整治安全监管执法“宽松软虚”问题",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715538.shtml",
-        "publishedAt": "2026-10-16T11:48:30.000+08:00"
+        "title": "洞庭湖区特色水产“大通湖大闸蟹”供港首发",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715554.shtml",
+        "publishedAt": "2026-10-16T12:18:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T12:00:04.221+08:00",
+    "fetchedAt": "2026-10-16T12:30:04.424+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T12:00:10.131+08:00",
+      "fetchedAt": "2026-10-16T12:30:09.570+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T12:00:10.445+08:00",
+      "fetchedAt": "2026-10-16T12:30:08.888+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T12:00:10.457+08:00",
+      "fetchedAt": "2026-10-16T12:30:08.896+08:00",
       "error": null
     }
   }
