@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T09:30:12.079+08:00",
+  "updatedAt": "2026-10-16T09:40:44.279+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-16T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T09:30:12.079+08:00",
+    "fetchedAt": "2026-10-16T09:40:44.279+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国驻曼彻斯特总领馆举办“领保进校园”活动",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-16/10715430.shtml",
-        "publishedAt": "2026-10-16T09:25:06.000+08:00"
+        "title": "反曲弓与复合弓，有何不同？",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-16/10715440.shtml",
+        "publishedAt": "2026-10-16T09:34:29.000+08:00"
       },
       {
-        "title": "这8所学校“零近视”，做对了什么",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715432.shtml",
-        "publishedAt": "2026-10-16T09:23:24.000+08:00"
+        "title": "“中国黄瓜之乡”河北馆陶10万亩黄瓜定植忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715416.shtml",
+        "publishedAt": "2026-10-16T09:34:25.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）从延安来，守护“另一条路”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715423.shtml",
-        "publishedAt": "2026-10-16T09:22:48.000+08:00"
+        "title": "友谊关海关关于开展2026年10月“关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715439.shtml",
+        "publishedAt": "2026-10-16T09:33:35.000+08:00"
       },
       {
-        "title": "海外川渝籍社团会长联席会在曼谷举办年会",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-16/10715426.shtml",
-        "publishedAt": "2026-10-16T09:21:28.000+08:00"
+        "title": "南宁海关技术中心2026-2027年试剂消耗品定点供应商采购中标公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715438.shtml",
+        "publishedAt": "2026-10-16T09:31:47.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）大山里的“铁公交”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715420.shtml",
-        "publishedAt": "2026-10-16T09:20:26.000+08:00"
+        "title": "安享幸福晚年，请收下这份健康指南",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-16/10715436.shtml",
+        "publishedAt": "2026-10-16T09:29:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T09:30:03.950+08:00",
+    "fetchedAt": "2026-10-16T09:40:03.653+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T09:30:09.144+08:00",
+      "fetchedAt": "2026-10-16T09:40:43.122+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T09:30:09.429+08:00",
+      "fetchedAt": "2026-10-16T09:40:43.402+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T09:30:09.432+08:00",
+      "fetchedAt": "2026-10-16T09:40:43.406+08:00",
       "error": null
     }
   }
