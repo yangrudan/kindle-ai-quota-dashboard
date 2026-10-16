@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-16T11:10:08.765+08:00",
+  "updatedAt": "2026-10-16T11:20:14.197+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 23.4,
-    "feelsLikeC": 25.5,
+    "tempC": 23.3,
+    "feelsLikeC": 25.3,
     "humidity": 72,
-    "windKph": 5.8,
+    "windKph": 6.1,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T11:10:08.765+08:00",
+    "observedAt": "2026-10-16T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-16T11:20:14.197+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国际能源署同意加快释放石油储备以增加市场供应",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715508.shtml",
+        "publishedAt": "2026-10-16T11:14:04.000+08:00"
+      },
+      {
+        "title": "真的想问：下巴凸起的小颗粒，到底是什么？",
+        "url": "https://www.chinanews.com.cn/life/2026/10-16/10715534.shtml",
+        "publishedAt": "2026-10-16T11:11:06.000+08:00"
+      },
       {
         "title": "于都河记得：一块门板“浮桥”到“长虹”的长征跨越",
         "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715531.shtml",
@@ -33,19 +43,9 @@
         "title": "多方在沪发起“金融智算云建设倡议”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715516.shtml",
         "publishedAt": "2026-10-16T11:03:02.000+08:00"
-      },
-      {
-        "title": "一只小笼包的百亿跃升（因地制宜发展县域经济）",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715529.shtml",
-        "publishedAt": "2026-10-16T10:58:29.000+08:00"
-      },
-      {
-        "title": "（活力中国调研行）广西南宁：Token工厂“智联”东盟",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715511.shtml",
-        "publishedAt": "2026-10-16T10:57:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T11:10:02.925+08:00",
+    "fetchedAt": "2026-10-16T11:20:03.473+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T11:10:07.696+08:00",
+      "fetchedAt": "2026-10-16T11:20:12.859+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T11:10:07.959+08:00",
+      "fetchedAt": "2026-10-16T11:20:13.202+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T11:10:07.962+08:00",
+      "fetchedAt": "2026-10-16T11:20:13.212+08:00",
       "error": null
     }
   }
