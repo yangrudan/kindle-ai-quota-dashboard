@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T00:30:37.798+08:00",
+  "updatedAt": "2026-10-17T00:40:09.467+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.8,
-    "feelsLikeC": 23.5,
+    "tempC": 21.7,
+    "feelsLikeC": 23.4,
     "humidity": 80,
-    "windKph": 7.9,
+    "windKph": 7.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-17T00:15:00.000+08:00",
-    "fetchedAt": "2026-10-17T00:30:37.798+08:00",
+    "observedAt": "2026-10-17T00:30:00.000+08:00",
+    "fetchedAt": "2026-10-17T00:40:09.467+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国考报名三天，热门岗位竞争已超1400:1",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716043.shtml",
+        "publishedAt": "2026-10-17T00:29:54.000+08:00"
+      },
       {
         "title": "七旬大爷大明湖畔演奏萨克斯火爆全网，网友从全国各地赶来捧场，称其“法拉利老了，依旧是法拉利”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716042.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "价格改革推动普惠养老服务提质扩面",
         "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
         "publishedAt": "2026-10-16T22:31:57.000+08:00"
-      },
-      {
-        "title": "中国汽车质量信誉不能被刹车踏板踩断",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716038.shtml",
-        "publishedAt": "2026-10-16T22:30:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T00:30:03.063+08:00",
+    "fetchedAt": "2026-10-17T00:40:03.408+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T00:30:36.519+08:00",
+      "fetchedAt": "2026-10-17T00:40:08.187+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-17T05:30:37.000+08:00"
+          "resetAt": "2026-10-17T05:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T00:30:36.801+08:00",
+      "fetchedAt": "2026-10-17T00:40:08.528+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T00:30:36.807+08:00",
+      "fetchedAt": "2026-10-17T00:40:08.536+08:00",
       "error": null
     }
   }
