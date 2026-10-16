@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T16:30:08.908+08:00",
+  "updatedAt": "2026-10-16T16:40:09.289+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-16T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T16:30:08.908+08:00",
+    "fetchedAt": "2026-10-16T16:40:09.289+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“钧窑华彩：新时代钧瓷传承创新艺术作品巡展”北京站开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715727.shtml",
-        "publishedAt": "2026-10-16T16:21:31.000+08:00"
+        "title": "南京发力智能电网产业 力争2030年规模达万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715740.shtml",
+        "publishedAt": "2026-10-16T16:34:40.000+08:00"
       },
       {
-        "title": "上海构建社会化急救新格局 葛均波、钟天使出任上海院前急救推广大使",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715725.shtml",
-        "publishedAt": "2026-10-16T16:20:43.000+08:00"
+        "title": "中国国防部：日方唯有真诚悔罪才能真正面向未来",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715735.shtml",
+        "publishedAt": "2026-10-16T16:32:40.000+08:00"
       },
       {
-        "title": "全网进入“不烧心”时代，包括台湾",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715749.shtml",
-        "publishedAt": "2026-10-16T16:20:21.000+08:00"
+        "title": "湖北沙市以“三创”融合激活发展新动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715744.shtml",
+        "publishedAt": "2026-10-16T16:32:24.000+08:00"
       },
       {
-        "title": "开局之年看中国｜在燕赵大地读懂粮食安全的中国密码",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715748.shtml",
-        "publishedAt": "2026-10-16T16:20:03.000+08:00"
+        "title": "国内首个汽车电子电气架构质量提升规程（CQEE）正式发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715739.shtml",
+        "publishedAt": "2026-10-16T16:32:24.000+08:00"
       },
       {
-        "title": "天然摄影棚变创作生产地（经济聚焦）",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715747.shtml",
-        "publishedAt": "2026-10-16T16:18:01.000+08:00"
+        "title": "广东首次滚装船舶绿色甲醇加注在广州南沙完成",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715736.shtml",
+        "publishedAt": "2026-10-16T16:31:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T16:30:03.835+08:00",
+    "fetchedAt": "2026-10-16T16:40:03.385+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T16:30:07.719+08:00",
+      "fetchedAt": "2026-10-16T16:40:07.585+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 54,
+          "usedPct": 61,
           "resetAt": "2026-10-16T19:17:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 40,
+          "usedPct": 41,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T16:30:07.955+08:00",
+      "fetchedAt": "2026-10-16T16:40:07.916+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T16:30:07.964+08:00",
+      "fetchedAt": "2026-10-16T16:40:07.919+08:00",
       "error": null
     }
   }
