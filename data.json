@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-16T13:10:10.109+08:00",
+  "updatedAt": "2026-10-16T13:20:08.518+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 22.9,
-    "feelsLikeC": 24.9,
+    "tempC": 23,
+    "feelsLikeC": 25.1,
     "humidity": 78,
-    "windKph": 8.1,
+    "windKph": 8.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T13:10:10.109+08:00",
+    "observedAt": "2026-10-16T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-16T13:20:08.518+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "AI玩具比较试验，智能交互与未成年人保护成消费痛点",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715574.shtml",
-        "publishedAt": "2026-10-16T13:01:36.000+08:00"
+        "title": "财政部10月将在香港发行155亿元人民币国债",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715573.shtml",
+        "publishedAt": "2026-10-16T13:16:11.000+08:00"
       },
       {
-        "title": "美媒：巴西总统卢拉指责Meta偏袒其竞选对手 自身内容遭限流",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715570.shtml",
-        "publishedAt": "2026-10-16T12:42:39.000+08:00"
+        "title": "望远正当时！全国登高指数地图出炉 重阳节这十座名山值得奔赴",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715580.shtml",
+        "publishedAt": "2026-10-16T13:15:17.000+08:00"
       },
       {
-        "title": "8卷本《档案中的南开》填补天津南开系统性档案汇编空白",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715560.shtml",
-        "publishedAt": "2026-10-16T12:32:59.000+08:00"
+        "title": "同期少见！北方大范围大到暴雨来袭 为何秋日还有如此强的降雨？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715575.shtml",
+        "publishedAt": "2026-10-16T13:08:41.000+08:00"
       },
       {
-        "title": "宁夏贺兰盐碱滩养出高端蟹 擦亮西北生态渔业名片",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715559.shtml",
-        "publishedAt": "2026-10-16T12:32:21.000+08:00"
+        "title": "广交会观察：中国“智造”农机走俏海外市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715572.shtml",
+        "publishedAt": "2026-10-16T13:03:22.000+08:00"
       },
       {
-        "title": "山西吕梁产业转型观察：铝水·风光·烟火",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715558.shtml",
-        "publishedAt": "2026-10-16T12:27:40.000+08:00"
+        "title": "青海省公安厅原党委委员、副厅长杜海民被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715543.shtml",
+        "publishedAt": "2026-10-16T13:03:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T13:10:03.682+08:00",
+    "fetchedAt": "2026-10-16T13:20:03.536+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T13:10:08.739+08:00",
+      "fetchedAt": "2026-10-16T13:20:07.354+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 78,
+          "usedPct": 100,
           "resetAt": "2026-10-16T14:14:45.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 28,
+          "usedPct": 32,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T13:10:09.108+08:00",
+      "fetchedAt": "2026-10-16T13:20:07.652+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T13:10:09.119+08:00",
+      "fetchedAt": "2026-10-16T13:20:07.661+08:00",
       "error": null
     }
   }
