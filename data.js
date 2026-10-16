@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T19:50:07.857+08:00",
+  "updatedAt": "2026-10-16T20:00:11.864+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.1,
-    "feelsLikeC": 24.9,
-    "humidity": 75,
-    "windKph": 9,
+    "tempC": 23,
+    "feelsLikeC": 24.6,
+    "humidity": 74,
+    "windKph": 9.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-16T19:50:07.857+08:00",
+    "observedAt": "2026-10-16T20:00:00.000+08:00",
+    "fetchedAt": "2026-10-16T20:00:11.864+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "工业和信息化部等四部门组织重点汽车生产企业开展座谈 加强汽车产品创新设计和研发测试验证管理",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715905.shtml",
+        "publishedAt": "2026-10-16T19:52:52.000+08:00"
+      },
+      {
+        "title": "丁薛祥出席2026年世界职业技术教育发展大会开幕式并会见与会外国政要",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715849.shtml",
+        "publishedAt": "2026-10-16T19:48:40.000+08:00"
+      },
       {
         "title": "广西旅游专列开行一年吸引1.2万人次出游",
         "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715884.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "小巷生“万象” 浙江丽水诠释摄影艺术“在地性”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715879.shtml",
         "publishedAt": "2026-10-16T19:42:36.000+08:00"
-      },
-      {
-        "title": "（粤港澳大湾区）广西贺州打造粤港澳大湾区“2小时康养生活圈”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-16/10715876.shtml",
-        "publishedAt": "2026-10-16T19:42:30.000+08:00"
-      },
-      {
-        "title": "四部门：组织30余家车企座谈 加强汽车产品研发测试验证管理",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715885.shtml",
-        "publishedAt": "2026-10-16T19:35:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T19:50:03.191+08:00",
+    "fetchedAt": "2026-10-16T20:00:05.118+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T19:50:06.698+08:00",
+      "fetchedAt": "2026-10-16T20:00:10.371+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 10,
+          "usedPct": 13,
           "resetAt": "2026-10-17T00:30:29.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T19:50:06.981+08:00",
+      "fetchedAt": "2026-10-16T20:00:10.676+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T19:50:06.992+08:00",
+      "fetchedAt": "2026-10-16T20:00:10.686+08:00",
       "error": null
     }
   }
