@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-16T17:40:39.690+08:00",
+  "updatedAt": "2026-10-16T17:50:09.408+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.5,
-    "feelsLikeC": 26.7,
-    "humidity": 72,
-    "windKph": 7.9,
+    "tempC": 24.1,
+    "feelsLikeC": 26.3,
+    "humidity": 73,
+    "windKph": 8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-16T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T17:40:39.690+08:00",
+    "observedAt": "2026-10-16T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-16T17:50:09.408+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "第十六届中国航展门票10月19日正式开售",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715799.shtml",
+        "publishedAt": "2026-10-16T17:37:11.000+08:00"
+      },
+      {
+        "title": "2026菊王争霸赛在河南开封举办 “三苏”穿越千年“夸菊”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715798.shtml",
+        "publishedAt": "2026-10-16T17:37:01.000+08:00"
+      },
+      {
+        "title": "第43届国际盲人节：上海眼科医护与视障艺术家同唱爱眼防盲主题曲",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715796.shtml",
+        "publishedAt": "2026-10-16T17:36:55.000+08:00"
+      },
+      {
+        "title": "持续践行四个月，累计减排13.79吨→",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-16/10715803.shtml",
+        "publishedAt": "2026-10-16T17:36:53.000+08:00"
+      },
+      {
         "title": "王毅会见巴林外交大臣扎耶尼",
         "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715791.shtml",
         "publishedAt": "2026-10-16T17:29:19.000+08:00"
-      },
-      {
-        "title": "东西问｜爱德华·博阿滕：从零关税到“人文交流年”，中非如何为全球南南合作提供范式？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-16/10715795.shtml",
-        "publishedAt": "2026-10-16T17:28:35.000+08:00"
-      },
-      {
-        "title": "县领导片面理解“知耻而后勇”，安排低分教师在“耻辱”背景板前合影，通报之后更应追问：何为正确的“知耻”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715802.shtml",
-        "publishedAt": "2026-10-16T17:27:53.000+08:00"
-      },
-      {
-        "title": "深圳举办企业竞争合规大讲堂，助力互联网平台合规发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715794.shtml",
-        "publishedAt": "2026-10-16T17:19:58.000+08:00"
-      },
-      {
-        "title": "长飞先进总裁：碳化硅市场短期看汽车、长期看AI",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715793.shtml",
-        "publishedAt": "2026-10-16T17:19:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T17:40:03.123+08:00",
+    "fetchedAt": "2026-10-16T17:50:03.559+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T17:40:38.581+08:00",
+      "fetchedAt": "2026-10-16T17:50:07.883+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T17:40:38.833+08:00",
+      "fetchedAt": "2026-10-16T17:50:08.094+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T17:40:38.837+08:00",
+      "fetchedAt": "2026-10-16T17:50:08.099+08:00",
       "error": null
     }
   }
