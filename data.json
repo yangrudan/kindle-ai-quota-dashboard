@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-16T20:30:08.824+08:00",
+  "updatedAt": "2026-10-16T20:40:09.355+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 22.5,
-    "feelsLikeC": 24.4,
+    "feelsLikeC": 24.8,
     "humidity": 80,
-    "windKph": 9.4,
+    "windKph": 6.8,
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-16T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T20:30:08.824+08:00",
+    "fetchedAt": "2026-10-16T20:40:09.355+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆以科技奖励赋能产业创新 近五年“三大奖”授奖625项",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715928.shtml",
-        "publishedAt": "2026-10-16T20:26:38.000+08:00"
+        "title": "五部门发布警惕“央国企内推”等骗局风险提示",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715927.shtml",
+        "publishedAt": "2026-10-16T20:36:03.000+08:00"
       },
       {
-        "title": "前三季度北京新增实体首店766家 消费版图加速扩容",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715926.shtml",
-        "publishedAt": "2026-10-16T20:26:36.000+08:00"
+        "title": "京津冀等5个城市群将开展氢能综合应用试点工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715941.shtml",
+        "publishedAt": "2026-10-16T20:34:57.000+08:00"
       },
       {
-        "title": "2026 Velosolutions UCI泵道世锦赛总决赛在京开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-16/10715925.shtml",
-        "publishedAt": "2026-10-16T20:26:34.000+08:00"
+        "title": "中国药都樟树办“药交会” 发布中药材AI检测大模型",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715939.shtml",
+        "publishedAt": "2026-10-16T20:30:55.000+08:00"
       },
       {
-        "title": "新疆兵团第六师五家渠市构建城乡融合发展新格局",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715923.shtml",
-        "publishedAt": "2026-10-16T20:26:32.000+08:00"
+        "title": "“粤艇南下”首航 粤港游艇双向游拓展大湾区优质生活圈",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-16/10715935.shtml",
+        "publishedAt": "2026-10-16T20:30:47.000+08:00"
       },
       {
-        "title": "智能服务暖客商 航空公司“加码”服务第140届广交会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715922.shtml",
-        "publishedAt": "2026-10-16T20:26:30.000+08:00"
+        "title": "国际葡萄酒业者探访宁夏贺兰山东麓 深化产业交流",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715937.shtml",
+        "publishedAt": "2026-10-16T20:30:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T20:30:04.115+08:00",
+    "fetchedAt": "2026-10-16T20:40:03.646+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T20:30:07.687+08:00",
+      "fetchedAt": "2026-10-16T20:40:08.089+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T20:30:07.906+08:00",
+      "fetchedAt": "2026-10-16T20:40:08.285+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T20:30:07.916+08:00",
+      "fetchedAt": "2026-10-16T20:40:08.294+08:00",
       "error": null
     }
   }
