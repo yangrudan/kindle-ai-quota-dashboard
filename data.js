@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T12:30:09.789+08:00",
+  "updatedAt": "2026-10-16T12:40:07.959+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-16T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T12:30:09.789+08:00",
+    "fetchedAt": "2026-10-16T12:40:07.960+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从人才库、智囊团到生力军，欧美同学会海归人才正“向内聚力、向外发力”",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-16/10715544.shtml",
-        "publishedAt": "2026-10-16T12:24:02.000+08:00"
+        "title": "8卷本《档案中的南开》填补天津南开系统性档案汇编空白",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715560.shtml",
+        "publishedAt": "2026-10-16T12:32:59.000+08:00"
       },
       {
-        "title": "辽宁省政务服务和数据系统职工职业技能大赛决赛在阜新收官",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715555.shtml",
-        "publishedAt": "2026-10-16T12:21:52.000+08:00"
+        "title": "宁夏贺兰盐碱滩养出高端蟹 擦亮西北生态渔业名片",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715559.shtml",
+        "publishedAt": "2026-10-16T12:32:21.000+08:00"
       },
       {
-        "title": "适应铁路快速发展需要 国铁集团启动全国铁路列车车次编排改革",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715566.shtml",
-        "publishedAt": "2026-10-16T12:20:54.000+08:00"
+        "title": "山西吕梁产业转型观察：铝水·风光·烟火",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715558.shtml",
+        "publishedAt": "2026-10-16T12:27:40.000+08:00"
       },
       {
-        "title": "重庆长寿建设“三区一城” 力争2030年GDP达1500亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715551.shtml",
-        "publishedAt": "2026-10-16T12:19:22.000+08:00"
+        "title": "南航冬春航季在广西加密运力 新开南宁至盐城航线",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715557.shtml",
+        "publishedAt": "2026-10-16T12:26:20.000+08:00"
       },
       {
-        "title": "洞庭湖区特色水产“大通湖大闸蟹”供港首发",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715554.shtml",
-        "publishedAt": "2026-10-16T12:18:36.000+08:00"
+        "title": "从“指标版”“要素版”到“产业版” 广州营商环境实现三级跃升",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-16/10715556.shtml",
+        "publishedAt": "2026-10-16T12:26:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T12:30:04.424+08:00",
+    "fetchedAt": "2026-10-16T12:40:02.782+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T12:30:09.570+08:00",
+      "fetchedAt": "2026-10-16T12:40:07.765+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 37,
           "resetAt": "2026-10-16T14:14:45.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 19,
+          "usedPct": 22,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T12:30:08.888+08:00",
+      "fetchedAt": "2026-10-16T12:40:07.075+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T12:30:08.896+08:00",
+      "fetchedAt": "2026-10-16T12:40:07.081+08:00",
       "error": null
     }
   }
