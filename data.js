@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T01:10:09.082+08:00",
+  "updatedAt": "2026-10-17T01:20:08.565+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.4,
-    "feelsLikeC": 23.2,
-    "humidity": 80,
+    "tempC": 21.3,
+    "feelsLikeC": 23,
+    "humidity": 81,
     "windKph": 7.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-17T01:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T01:10:09.082+08:00",
+    "observedAt": "2026-10-17T01:15:00.000+08:00",
+    "fetchedAt": "2026-10-17T01:20:08.565+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "天津REITs研究院揭牌 金融创新赋能实体经济发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716026.shtml",
-        "publishedAt": "2026-10-17T01:05:16.000+08:00"
+        "title": "特朗普称美国可能会对伊朗镐山核设施发动打击",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716047.shtml",
+        "publishedAt": "2026-10-17T01:19:13.000+08:00"
       },
       {
-        "title": "黑龙江秋粮收购有序展开 1271亿斤仓容待“秋粮归仓”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716025.shtml",
-        "publishedAt": "2026-10-17T01:04:24.000+08:00"
+        "title": "中新健康｜老人大量囤积废品被儿女“举报”，医生紧急提醒！",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716041.shtml",
+        "publishedAt": "2026-10-17T01:16:39.000+08:00"
       },
       {
-        "title": "青海“青BA”群众篮球联赛总决赛打响",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716024.shtml",
-        "publishedAt": "2026-10-17T01:03:44.000+08:00"
+        "title": "中央音乐学院举行“10·15”艺术节开幕音乐会",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716036.shtml",
+        "publishedAt": "2026-10-17T01:13:32.000+08:00"
       },
       {
-        "title": "海内外专家学者福州研讨余潜士教育思想",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716020.shtml",
-        "publishedAt": "2026-10-17T01:02:48.000+08:00"
+        "title": "樟树“药交会”观察：“05后”大学生让中医药“潮起来”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716032.shtml",
+        "publishedAt": "2026-10-17T01:12:06.000+08:00"
       },
       {
-        "title": "百余幅诗歌珍贵手稿在沪展出",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716019.shtml",
-        "publishedAt": "2026-10-17T00:59:40.000+08:00"
+        "title": "哈尔滨芭蕾舞团原创芭蕾舞剧《我们的北大荒》建组启动",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716031.shtml",
+        "publishedAt": "2026-10-17T01:11:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T01:10:03.636+08:00",
+    "fetchedAt": "2026-10-17T01:20:03.277+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T01:10:07.863+08:00",
+      "fetchedAt": "2026-10-17T01:20:07.102+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-17T06:10:08.000+08:00"
+          "resetAt": "2026-10-17T06:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T01:10:08.192+08:00",
+      "fetchedAt": "2026-10-17T01:20:07.542+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T01:10:08.199+08:00",
+      "fetchedAt": "2026-10-17T01:20:07.552+08:00",
       "error": null
     }
   }
