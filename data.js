@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T10:10:08.728+08:00",
+  "updatedAt": "2026-10-16T10:20:40.325+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 23,
-    "feelsLikeC": 24.8,
-    "humidity": 73,
-    "windKph": 6.8,
+    "tempC": 23.1,
+    "feelsLikeC": 25,
+    "humidity": 72,
+    "windKph": 6.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T10:10:08.729+08:00",
+    "observedAt": "2026-10-16T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-16T10:20:40.326+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中俄共筑“虎豹走廊” 珲春守护跨境家园",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715463.shtml",
-        "publishedAt": "2026-10-16T10:05:01.000+08:00"
+        "title": "日本有识之士警示：谨防日本重回“战前状态”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715475.shtml",
+        "publishedAt": "2026-10-16T10:16:41.000+08:00"
       },
       {
-        "title": "辽宁检察机关依法对毕宝文涉嫌受贿、利用影响力受贿案提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715460.shtml",
-        "publishedAt": "2026-10-16T10:02:06.000+08:00"
+        "title": "巴西亚马孙雨林发生野火",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-16/1207975.shtml",
+        "publishedAt": "2026-10-16T10:16:36.000+08:00"
       },
       {
-        "title": "王毅会见土耳其外长费丹",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715451.shtml",
-        "publishedAt": "2026-10-16T10:01:56.000+08:00"
+        "title": "首发、首展、首秀！ 第九届进博会多项数据创历年新高",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715473.shtml",
+        "publishedAt": "2026-10-16T10:15:23.000+08:00"
       },
       {
-        "title": "中国—苏格兰互联互通与能源发展论坛举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715450.shtml",
-        "publishedAt": "2026-10-16T10:00:00.000+08:00"
+        "title": "多项“首次”突破！第140届广交会焕发新光彩",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715472.shtml",
+        "publishedAt": "2026-10-16T10:13:29.000+08:00"
       },
       {
-        "title": "体检查出肺结节别不在意 小心拖成癌",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-16/10715406.shtml",
-        "publishedAt": "2026-10-16T09:58:16.000+08:00"
+        "title": "山东省济宁市委常委、副市长刘东波被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715459.shtml",
+        "publishedAt": "2026-10-16T10:12:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T10:10:03.140+08:00",
+    "fetchedAt": "2026-10-16T10:20:04.962+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T10:10:07.591+08:00",
+      "fetchedAt": "2026-10-16T10:20:39.161+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T10:10:07.841+08:00",
+      "fetchedAt": "2026-10-16T10:20:39.414+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T10:10:07.850+08:00",
+      "fetchedAt": "2026-10-16T10:20:39.423+08:00",
       "error": null
     }
   }
