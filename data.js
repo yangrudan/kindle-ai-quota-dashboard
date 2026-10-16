@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T15:00:11.095+08:00",
+  "updatedAt": "2026-10-16T15:10:08.692+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-16T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T15:00:11.095+08:00",
+    "fetchedAt": "2026-10-16T15:10:08.692+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "上交所：大力提升资本市场服务新质生产力的发展质效",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715665.shtml",
+        "publishedAt": "2026-10-16T15:01:53.000+08:00"
+      },
+      {
+        "title": "第五届雄安·雄州文化艺术节启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715655.shtml",
+        "publishedAt": "2026-10-16T15:01:01.000+08:00"
+      },
+      {
+        "title": "2026天津五大道金融论坛开幕 聚焦“大国创新与金融强国”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715664.shtml",
+        "publishedAt": "2026-10-16T15:00:53.000+08:00"
+      },
+      {
+        "title": "中国驻菲律宾大使回应菲防长涉华谬论：究竟谁才是麻烦制造者？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715660.shtml",
+        "publishedAt": "2026-10-16T14:57:04.000+08:00"
+      },
+      {
         "title": "风口上的景区NPC，职业化标准如何建立？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715662.shtml",
         "publishedAt": "2026-10-16T14:53:34.000+08:00"
-      },
-      {
-        "title": "南通警方通报：驾驶员因操作不当碰撞路人致1死4伤，已被公安机关依法控制",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715616.shtml",
-        "publishedAt": "2026-10-16T14:52:04.000+08:00"
-      },
-      {
-        "title": "侨乡揭阳邀请全球潮人回家“接福”",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-16/10715659.shtml",
-        "publishedAt": "2026-10-16T14:52:00.000+08:00"
-      },
-      {
-        "title": "5年430项惠青政策 黑龙江“青年朋友圈”聚力东北振兴发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715658.shtml",
-        "publishedAt": "2026-10-16T14:48:34.000+08:00"
-      },
-      {
-        "title": "我国已建成规模最大职业教育体系 产教融合赋能新质生产力",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-16/10715661.shtml",
-        "publishedAt": "2026-10-16T14:47:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T15:00:04.589+08:00",
+    "fetchedAt": "2026-10-16T15:10:03.092+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T15:00:09.883+08:00",
+      "fetchedAt": "2026-10-16T15:10:07.138+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T15:00:10.042+08:00",
+      "fetchedAt": "2026-10-16T15:10:07.297+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T15:00:10.046+08:00",
+      "fetchedAt": "2026-10-16T15:10:07.306+08:00",
       "error": null
     }
   }
