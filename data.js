@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T14:10:11.538+08:00",
+  "updatedAt": "2026-10-16T14:20:08.598+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 23.6,
-    "feelsLikeC": 25.6,
-    "humidity": 75,
-    "windKph": 8.5,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 23.8,
+    "feelsLikeC": 25.8,
+    "humidity": 74,
+    "windKph": 8.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T14:10:11.538+08:00",
+    "observedAt": "2026-10-16T14:15:00.000+08:00",
+    "fetchedAt": "2026-10-16T14:20:08.599+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全仓登首单登记镍现货仓单转让业务落地上海",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715626.shtml",
-        "publishedAt": "2026-10-16T14:09:34.000+08:00"
+        "title": "评论：秋收正酣 黑土地作答粮安之问",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715634.shtml",
+        "publishedAt": "2026-10-16T14:14:32.000+08:00"
       },
       {
-        "title": "桂林理工大学举行参加南极科学考察队员出征仪式",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-16/10715628.shtml",
-        "publishedAt": "2026-10-16T14:08:18.000+08:00"
+        "title": "（乡村行·看振兴）秦巴乡野葱苗旺 陕西洋县葱田书写富民答卷",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715635.shtml",
+        "publishedAt": "2026-10-16T14:13:52.000+08:00"
       },
       {
-        "title": "建设银行以综合金融服务护航第140届广交会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715639.shtml",
-        "publishedAt": "2026-10-16T14:07:30.000+08:00"
+        "title": "董新林解读中国科技考古：历经五期发展未来要成为“考古特种部队”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715636.shtml",
+        "publishedAt": "2026-10-16T14:12:58.000+08:00"
       },
       {
-        "title": "海内外人士齐聚重庆 共议生物医药产学研用合作",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-16/10715623.shtml",
-        "publishedAt": "2026-10-16T14:06:40.000+08:00"
+        "title": "2026中国—中亚交通基础设施工程技术标准国际论坛在西安举办",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-16/10715629.shtml",
+        "publishedAt": "2026-10-16T14:12:56.000+08:00"
       },
       {
-        "title": "AI驱动网络变革 业内预计未来十年AI总流量将增长5倍",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715633.shtml",
-        "publishedAt": "2026-10-16T14:05:14.000+08:00"
+        "title": "第七届“一带一路”税收征管合作论坛在雅加达闭幕",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-16/10715624.shtml",
+        "publishedAt": "2026-10-16T14:12:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T14:10:04.542+08:00",
+    "fetchedAt": "2026-10-16T14:20:02.963+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T14:10:10.168+08:00",
+      "fetchedAt": "2026-10-16T14:20:07.389+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 100,
-          "resetAt": "2026-10-16T14:14:45.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-10-16T19:17:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T14:10:10.665+08:00",
+      "fetchedAt": "2026-10-16T14:20:07.737+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T14:10:10.672+08:00",
+      "fetchedAt": "2026-10-16T14:20:07.742+08:00",
       "error": null
     }
   }
