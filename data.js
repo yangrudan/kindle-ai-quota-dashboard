@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T22:00:37.801+08:00",
+  "updatedAt": "2026-10-16T22:10:08.889+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 21.9,
-    "feelsLikeC": 24.2,
+    "feelsLikeC": 24.1,
     "humidity": 81,
     "windKph": 5.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-16T22:00:37.802+08:00",
+    "observedAt": "2026-10-16T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-16T22:10:08.889+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "逢山开路、遇水架桥 五位交通一线代表讲述平凡岗位不凡担当",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715996.shtml",
-        "publishedAt": "2026-10-16T21:52:49.000+08:00"
+        "title": "原创歌剧《可可西里》在青海大剧院上演",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10716027.shtml",
+        "publishedAt": "2026-10-16T22:07:30.000+08:00"
       },
       {
-        "title": "从网红到长红 长沙潮宗街的“活”字诀",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715995.shtml",
-        "publishedAt": "2026-10-16T21:51:21.000+08:00"
+        "title": "国家粮食和物资储备局：全谷物行动计划顺利推进",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716006.shtml",
+        "publishedAt": "2026-10-16T21:58:57.000+08:00"
       },
       {
-        "title": "2026第四届福建国际海洋装备博览会开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715980.shtml",
-        "publishedAt": "2026-10-16T21:50:45.000+08:00"
+        "title": "中国商务部回应欧盟峰会提出对华“双轨”思路",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716004.shtml",
+        "publishedAt": "2026-10-16T21:58:03.000+08:00"
       },
       {
-        "title": "国际资管机构：中国金融开放向制度型纵深推进",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715989.shtml",
-        "publishedAt": "2026-10-16T21:49:59.000+08:00"
+        "title": "五集历史纪录片《突围21天》揭秘一段鲜为人知的长征史",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10716003.shtml",
+        "publishedAt": "2026-10-16T21:56:51.000+08:00"
       },
       {
-        "title": "美国杜立特突袭者子女协会代表在衢州重温历史",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715979.shtml",
-        "publishedAt": "2026-10-16T21:47:59.000+08:00"
+        "title": "海南自贸港封关后首家琼港联营律师事务所揭牌",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10716000.shtml",
+        "publishedAt": "2026-10-16T21:56:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T22:00:03.170+08:00",
+    "fetchedAt": "2026-10-16T22:10:03.474+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T22:00:36.534+08:00",
+      "fetchedAt": "2026-10-16T22:10:07.747+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 61,
+          "usedPct": 67,
           "resetAt": "2026-10-17T00:30:29.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 57,
+          "usedPct": 58,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T22:00:36.859+08:00",
+      "fetchedAt": "2026-10-16T22:10:08.041+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T22:00:36.868+08:00",
+      "fetchedAt": "2026-10-16T22:10:08.050+08:00",
       "error": null
     }
   }
