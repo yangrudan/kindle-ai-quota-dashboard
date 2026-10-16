@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T20:20:10.365+08:00",
+  "updatedAt": "2026-10-16T20:30:08.824+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 22.9,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 22.5,
     "feelsLikeC": 24.4,
-    "humidity": 74,
-    "windKph": 9.6,
+    "humidity": 80,
+    "windKph": 9.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-16T20:20:10.366+08:00",
+    "observedAt": "2026-10-16T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-16T20:30:08.824+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "四川成都：2026天府书展启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715912.shtml",
-        "publishedAt": "2026-10-16T20:09:27.000+08:00"
+        "title": "重庆以科技奖励赋能产业创新 近五年“三大奖”授奖625项",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715928.shtml",
+        "publishedAt": "2026-10-16T20:26:38.000+08:00"
       },
       {
-        "title": "李强主持召开国务院常务会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715918.shtml",
-        "publishedAt": "2026-10-16T20:04:53.000+08:00"
+        "title": "前三季度北京新增实体首店766家 消费版图加速扩容",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715926.shtml",
+        "publishedAt": "2026-10-16T20:26:36.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）科技创新赋能 浙江龙泉千年灵芝产业加速发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715896.shtml",
-        "publishedAt": "2026-10-16T20:04:47.000+08:00"
+        "title": "2026 Velosolutions UCI泵道世锦赛总决赛在京开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-16/10715925.shtml",
+        "publishedAt": "2026-10-16T20:26:34.000+08:00"
       },
       {
-        "title": "探访大国粮仓：多维度升级守牢粮食安全底线",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715895.shtml",
-        "publishedAt": "2026-10-16T20:04:43.000+08:00"
+        "title": "新疆兵团第六师五家渠市构建城乡融合发展新格局",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715923.shtml",
+        "publishedAt": "2026-10-16T20:26:32.000+08:00"
       },
       {
-        "title": "中国城镇供热开启三年大改造",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715889.shtml",
-        "publishedAt": "2026-10-16T20:04:41.000+08:00"
+        "title": "智能服务暖客商 航空公司“加码”服务第140届广交会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715922.shtml",
+        "publishedAt": "2026-10-16T20:26:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T20:20:04.397+08:00",
+    "fetchedAt": "2026-10-16T20:30:04.115+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T20:20:09.176+08:00",
+      "fetchedAt": "2026-10-16T20:30:07.687+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T20:20:09.435+08:00",
+      "fetchedAt": "2026-10-16T20:30:07.906+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T20:20:09.445+08:00",
+      "fetchedAt": "2026-10-16T20:30:07.916+08:00",
       "error": null
     }
   }
