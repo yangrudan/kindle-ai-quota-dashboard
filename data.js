@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T08:50:09.094+08:00",
+  "updatedAt": "2026-10-16T09:00:10.846+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.1,
-    "feelsLikeC": 23.7,
+    "tempC": 22.3,
+    "feelsLikeC": 23.9,
     "humidity": 74,
-    "windKph": 6.3,
+    "windKph": 6.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-16T08:50:09.094+08:00",
+    "observedAt": "2026-10-16T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-16T09:00:10.846+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "局势升级！1879次打击刚过，5枚导弹袭击总统府……也门局势最新进展",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715403.shtml",
+        "publishedAt": "2026-10-16T08:46:20.000+08:00"
+      },
       {
         "title": "冷空气发威北方大部气温将创新低 大范围雨雪明起进入最强时段",
         "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715396.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "小区门店引流、假扮名医坐诊……多位老人掉进“天价膏方”陷阱",
         "url": "https://www.chinanews.com.cn/fz/2026/10-16/10715394.shtml",
         "publishedAt": "2026-10-16T08:20:37.000+08:00"
-      },
-      {
-        "title": "麻醉不只是“打一针 睡一觉” 这些常识要知道→",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-16/10715393.shtml",
-        "publishedAt": "2026-10-16T08:18:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T08:50:02.962+08:00",
+    "fetchedAt": "2026-10-16T09:00:05.133+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T08:50:07.800+08:00",
+      "fetchedAt": "2026-10-16T09:00:09.192+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-16T13:50:08.000+08:00"
+          "resetAt": "2026-10-16T14:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T08:50:08.173+08:00",
+      "fetchedAt": "2026-10-16T09:00:09.693+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T08:50:08.180+08:00",
+      "fetchedAt": "2026-10-16T09:00:09.702+08:00",
       "error": null
     }
   }
