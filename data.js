@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T20:10:09.085+08:00",
+  "updatedAt": "2026-10-16T20:20:10.365+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23,
-    "feelsLikeC": 24.6,
+    "tempC": 22.9,
+    "feelsLikeC": 24.4,
     "humidity": 74,
-    "windKph": 9.5,
+    "windKph": 9.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T20:10:09.086+08:00",
+    "observedAt": "2026-10-16T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-16T20:20:10.366+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "罚没1.43亿元 中国官方“零容忍” 严查加油机作弊",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715886.shtml",
-        "publishedAt": "2026-10-16T20:00:49.000+08:00"
+        "title": "四川成都：2026天府书展启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715912.shtml",
+        "publishedAt": "2026-10-16T20:09:27.000+08:00"
       },
       {
-        "title": "当军马遇上无人机：古老兵种的“新长征”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715914.shtml",
-        "publishedAt": "2026-10-16T19:59:53.000+08:00"
+        "title": "李强主持召开国务院常务会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715918.shtml",
+        "publishedAt": "2026-10-16T20:04:53.000+08:00"
       },
       {
-        "title": "工业和信息化部等四部门组织重点汽车生产企业开展座谈 加强汽车产品创新设计和研发测试验证管理",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715905.shtml",
-        "publishedAt": "2026-10-16T19:52:52.000+08:00"
+        "title": "（乡村行·看振兴）科技创新赋能 浙江龙泉千年灵芝产业加速发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715896.shtml",
+        "publishedAt": "2026-10-16T20:04:47.000+08:00"
       },
       {
-        "title": "丁薛祥出席2026年世界职业技术教育发展大会开幕式并会见与会外国政要",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715849.shtml",
-        "publishedAt": "2026-10-16T19:48:40.000+08:00"
+        "title": "探访大国粮仓：多维度升级守牢粮食安全底线",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715895.shtml",
+        "publishedAt": "2026-10-16T20:04:43.000+08:00"
       },
       {
-        "title": "广西旅游专列开行一年吸引1.2万人次出游",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715884.shtml",
-        "publishedAt": "2026-10-16T19:43:04.000+08:00"
+        "title": "中国城镇供热开启三年大改造",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715889.shtml",
+        "publishedAt": "2026-10-16T20:04:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T20:10:04.262+08:00",
+    "fetchedAt": "2026-10-16T20:20:04.397+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T20:10:07.922+08:00",
+      "fetchedAt": "2026-10-16T20:20:09.176+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T20:10:08.254+08:00",
+      "fetchedAt": "2026-10-16T20:20:09.435+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T20:10:08.257+08:00",
+      "fetchedAt": "2026-10-16T20:20:09.445+08:00",
       "error": null
     }
   }
