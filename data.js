@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T07:50:07.424+08:00",
+  "updatedAt": "2026-10-16T08:00:08.656+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-16T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-16T07:50:07.424+08:00",
+    "fetchedAt": "2026-10-16T08:00:08.656+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "关节疼痛，补充氨糖不能替代药品(名医讲堂)",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-16/10715383.shtml",
+        "publishedAt": "2026-10-16T07:52:23.000+08:00"
+      },
       {
         "title": "也门官员：胡塞武装袭击亚丁总统府 致5死16伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715382.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "沙特：胡塞武装本月已袭击利雅得机场20次，致17死333伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715379.shtml",
         "publishedAt": "2026-10-16T06:57:38.000+08:00"
-      },
-      {
-        "title": "10月16日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-16/10715378.shtml",
-        "publishedAt": "2026-10-16T06:31:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T07:50:02.522+08:00",
+    "fetchedAt": "2026-10-16T08:00:03.012+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T07:50:06.207+08:00",
+      "fetchedAt": "2026-10-16T08:00:07.083+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-16T12:50:07.000+08:00"
+          "resetAt": "2026-10-16T13:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T07:50:06.496+08:00",
+      "fetchedAt": "2026-10-16T08:00:07.378+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T07:50:06.505+08:00",
+      "fetchedAt": "2026-10-16T08:00:07.387+08:00",
       "error": null
     }
   }
