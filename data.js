@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T09:00:10.846+08:00",
+  "updatedAt": "2026-10-16T09:10:08.683+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-16T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T09:00:10.846+08:00",
+    "fetchedAt": "2026-10-16T09:10:08.683+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "局势升级！1879次打击刚过，5枚导弹袭击总统府……也门局势最新进展",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715403.shtml",
-        "publishedAt": "2026-10-16T08:46:20.000+08:00"
+        "title": "钦州港海关2026年10月份“关长接待日”公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715405.shtml",
+        "publishedAt": "2026-10-16T08:59:37.000+08:00"
       },
       {
-        "title": "冷空气发威北方大部气温将创新低 大范围雨雪明起进入最强时段",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715396.shtml",
-        "publishedAt": "2026-10-16T08:31:47.000+08:00"
+        "title": "北方大范围降温 多地做好供暖保障工作",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715404.shtml",
+        "publishedAt": "2026-10-16T08:58:05.000+08:00"
       },
       {
-        "title": "从百年巴黎车展看国产品牌出海——中国车企，加速布局欧洲市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715395.shtml",
-        "publishedAt": "2026-10-16T08:26:51.000+08:00"
+        "title": "中方呼吁解决中东矛盾根源 纠正巴勒斯坦历史不公",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715391.shtml",
+        "publishedAt": "2026-10-16T08:55:51.000+08:00"
       },
       {
-        "title": "我国大部地区有降水过程 较强冷空气将自西向东影响我国大部地区",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715388.shtml",
-        "publishedAt": "2026-10-16T08:25:37.000+08:00"
+        "title": "美国9月零售销售额环比增长0.8% 好于市场预期",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715390.shtml",
+        "publishedAt": "2026-10-16T08:55:01.000+08:00"
       },
       {
-        "title": "小区门店引流、假扮名医坐诊……多位老人掉进“天价膏方”陷阱",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-16/10715394.shtml",
-        "publishedAt": "2026-10-16T08:20:37.000+08:00"
+        "title": "中比商业对话会举行 探讨经贸合作新机遇",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715389.shtml",
+        "publishedAt": "2026-10-16T08:52:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T09:00:05.133+08:00",
+    "fetchedAt": "2026-10-16T09:10:03.290+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T09:00:09.192+08:00",
+      "fetchedAt": "2026-10-16T09:10:07.489+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-16T14:00:10.000+08:00"
+          "resetAt": "2026-10-16T14:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T09:00:09.693+08:00",
+      "fetchedAt": "2026-10-16T09:10:07.790+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T09:00:09.702+08:00",
+      "fetchedAt": "2026-10-16T09:10:07.799+08:00",
       "error": null
     }
   }
