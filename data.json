@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T22:10:08.889+08:00",
+  "updatedAt": "2026-10-16T22:20:08.583+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 21.9,
     "feelsLikeC": 24.1,
     "humidity": 81,
-    "windKph": 5.5,
+    "windKph": 5.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T22:10:08.889+08:00",
+    "observedAt": "2026-10-16T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-16T22:20:08.584+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-10-16T21:56:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T22:10:03.474+08:00",
+    "fetchedAt": "2026-10-16T22:20:02.632+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T22:10:07.747+08:00",
+      "fetchedAt": "2026-10-16T22:20:07.386+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 67,
+          "usedPct": 73,
           "resetAt": "2026-10-17T00:30:29.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 58,
+          "usedPct": 59,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T22:10:08.041+08:00",
+      "fetchedAt": "2026-10-16T22:20:07.668+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T22:10:08.050+08:00",
+      "fetchedAt": "2026-10-16T22:20:07.677+08:00",
       "error": null
     }
   }
