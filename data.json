@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-16T18:20:08.777+08:00",
+  "updatedAt": "2026-10-16T18:30:38.562+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.7,
-    "feelsLikeC": 25.8,
+    "tempC": 23.5,
+    "feelsLikeC": 25.7,
     "humidity": 75,
-    "windKph": 8.1,
+    "windKph": 7.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-16T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-16T18:20:08.777+08:00",
+    "observedAt": "2026-10-16T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-16T18:30:38.562+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆将建立食品安全专家库 为群众餐桌安全“把脉”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715822.shtml",
-        "publishedAt": "2026-10-16T18:06:23.000+08:00"
+        "title": "江西东湖区Token产业运营中心启动 为企业提供便捷AI服务",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715834.shtml",
+        "publishedAt": "2026-10-16T18:20:39.000+08:00"
       },
       {
-        "title": "甘肃天水幼儿园铅中毒案一审宣判",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715831.shtml",
-        "publishedAt": "2026-10-16T18:05:07.000+08:00"
+        "title": "老厂房里喝新茶：中国北方工业城市包头焕新记",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715833.shtml",
+        "publishedAt": "2026-10-16T18:20:37.000+08:00"
       },
       {
-        "title": "专家学者共探“构建中国哲学社会科学自主知识体系”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715821.shtml",
-        "publishedAt": "2026-10-16T18:02:52.000+08:00"
+        "title": "今年以来江西共接报地质灾害灾（险）情2541起",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715830.shtml",
+        "publishedAt": "2026-10-16T18:20:33.000+08:00"
       },
       {
-        "title": "北京互联网法院8年审结涉老年人网络侵权纠纷4667件",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-16/10715820.shtml",
-        "publishedAt": "2026-10-16T18:02:50.000+08:00"
+        "title": "第48届世界葡萄与葡萄酒大会将在格鲁吉亚举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715828.shtml",
+        "publishedAt": "2026-10-16T18:20:31.000+08:00"
       },
       {
-        "title": "逾800家海内外企业参展福建国际海洋装备博览会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715819.shtml",
-        "publishedAt": "2026-10-16T18:02:16.000+08:00"
+        "title": "北京将打造全球人形机器人标杆赛事",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715827.shtml",
+        "publishedAt": "2026-10-16T18:20:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T18:20:03.263+08:00",
+    "fetchedAt": "2026-10-16T18:30:03.991+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T18:20:07.750+08:00",
+      "fetchedAt": "2026-10-16T18:30:37.536+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T18:20:07.956+08:00",
+      "fetchedAt": "2026-10-16T18:30:37.737+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T18:20:07.965+08:00",
+      "fetchedAt": "2026-10-16T18:30:37.747+08:00",
       "error": null
     }
   }
