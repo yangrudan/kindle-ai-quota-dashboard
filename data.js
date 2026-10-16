@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T16:00:13.936+08:00",
+  "updatedAt": "2026-10-16T16:10:12.641+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-16T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T16:00:13.936+08:00",
+    "fetchedAt": "2026-10-16T16:10:12.641+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "直播海报：长征路上学党史｜驻足将台堡 庆长征伟大胜利",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715719.shtml",
+        "publishedAt": "2026-10-16T15:59:56.000+08:00"
+      },
+      {
+        "title": "外交部：现阶段要求中方参加所谓核裁军谈判，不公平、不合理、不可行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715718.shtml",
+        "publishedAt": "2026-10-16T15:57:56.000+08:00"
+      },
+      {
+        "title": "端牢中国饭碗 共护大国粮仓",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-16/10715717.shtml",
+        "publishedAt": "2026-10-16T15:56:08.000+08:00"
+      },
+      {
+        "title": "纪念红军长征胜利90周年大型粤剧史诗晚会在广州上演",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715704.shtml",
+        "publishedAt": "2026-10-16T15:53:47.000+08:00"
+      },
+      {
         "title": "从稻田到油茶林 多地迎来秋收好“丰”景",
         "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715716.shtml",
         "publishedAt": "2026-10-16T15:52:37.000+08:00"
-      },
-      {
-        "title": "中方：将继续与国际社会一道共促减贫合作，共推减贫进程",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715715.shtml",
-        "publishedAt": "2026-10-16T15:51:59.000+08:00"
-      },
-      {
-        "title": "19.2万人角逐3.5万名额 2026长沙马拉松11月开跑",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-16/10715705.shtml",
-        "publishedAt": "2026-10-16T15:51:19.000+08:00"
-      },
-      {
-        "title": "我国首批国家公园建设成效显著",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715714.shtml",
-        "publishedAt": "2026-10-16T15:51:11.000+08:00"
-      },
-      {
-        "title": "泰国投资机遇交流会在穗举行 现场签署两项合作框架协议",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715707.shtml",
-        "publishedAt": "2026-10-16T15:50:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T16:00:04.981+08:00",
+    "fetchedAt": "2026-10-16T16:10:03.248+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T16:00:12.676+08:00",
+      "fetchedAt": "2026-10-16T16:10:07.638+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 32,
+          "usedPct": 35,
           "resetAt": "2026-10-16T19:17:40.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T16:00:12.967+08:00",
+      "fetchedAt": "2026-10-16T16:10:07.885+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T16:00:12.973+08:00",
+      "fetchedAt": "2026-10-16T16:10:07.888+08:00",
       "error": null
     }
   }
