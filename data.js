@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T15:40:09.246+08:00",
+  "updatedAt": "2026-10-16T15:50:09.951+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.8,
-    "feelsLikeC": 27.1,
-    "humidity": 69,
-    "windKph": 6.3,
+    "tempC": 24.9,
+    "feelsLikeC": 27.2,
+    "humidity": 68,
+    "windKph": 6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T15:40:09.246+08:00",
+    "observedAt": "2026-10-16T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-16T15:50:09.951+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "科技赋能 海南应急保供蔬菜基地绿意盎然",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715693.shtml",
-        "publishedAt": "2026-10-16T15:34:46.000+08:00"
+        "title": "（长征胜利90周年）探访中国骑兵部队：老兵种焕发新生机",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715699.shtml",
+        "publishedAt": "2026-10-16T15:47:03.000+08:00"
       },
       {
-        "title": "联合国维和无人机培训班将在西安举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715692.shtml",
-        "publishedAt": "2026-10-16T15:34:16.000+08:00"
+        "title": "吉林前九个月国考断面水质持续向好",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715685.shtml",
+        "publishedAt": "2026-10-16T15:46:13.000+08:00"
       },
       {
-        "title": "国铁太原局中欧班列（去程）累计开行1000列",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715683.shtml",
-        "publishedAt": "2026-10-16T15:34:02.000+08:00"
+        "title": "第140届广交会启幕，广发银行展位亮点全揭秘！",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715678.shtml",
+        "publishedAt": "2026-10-16T15:45:35.000+08:00"
       },
       {
-        "title": "男子登山途中离队坠亡 家属索赔30万 法院判了",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-16/10715697.shtml",
-        "publishedAt": "2026-10-16T15:34:00.000+08:00"
+        "title": "“China Haul”在海外社交平台走红 外交部：中国将继续敞开大门",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715708.shtml",
+        "publishedAt": "2026-10-16T15:43:03.000+08:00"
       },
       {
-        "title": "中塞人文艺术教育研讨会在贝尔格莱德举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715681.shtml",
-        "publishedAt": "2026-10-16T15:33:42.000+08:00"
+        "title": "私挖盗采磷矿致5死1伤 曲靖会泽“5·31”较大坍塌事故调查报告公布",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715706.shtml",
+        "publishedAt": "2026-10-16T15:42:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T15:40:03.630+08:00",
+    "fetchedAt": "2026-10-16T15:50:03.647+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T15:40:08.202+08:00",
+      "fetchedAt": "2026-10-16T15:50:08.632+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 22,
+          "usedPct": 26,
           "resetAt": "2026-10-16T19:17:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 35,
+          "usedPct": 36,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T15:40:08.376+08:00",
+      "fetchedAt": "2026-10-16T15:50:08.846+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T15:40:08.384+08:00",
+      "fetchedAt": "2026-10-16T15:50:08.855+08:00",
       "error": null
     }
   }
