@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T11:50:10.266+08:00",
+  "updatedAt": "2026-10-16T12:00:11.417+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-16T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-16T11:50:10.266+08:00",
+    "fetchedAt": "2026-10-16T12:00:11.418+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国家林业和草原局原防火督查专员王海忠被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715539.shtml",
-        "publishedAt": "2026-10-16T11:32:41.000+08:00"
+        "title": "广交会七十载见证中国外贸之变",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715545.shtml",
+        "publishedAt": "2026-10-16T11:57:55.000+08:00"
       },
       {
-        "title": "铁路车次编排将调整 更高时速动车组新增X字头",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715541.shtml",
-        "publishedAt": "2026-10-16T11:32:31.000+08:00"
+        "title": "也门亚丁总统府遭袭已致5死 联合国安理会谴责胡塞武装袭击沙特",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715549.shtml",
+        "publishedAt": "2026-10-16T11:56:17.000+08:00"
       },
       {
-        "title": "何以中国｜群山之间的“圆” 贵州人画出的最大公约数",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715540.shtml",
-        "publishedAt": "2026-10-16T11:30:59.000+08:00"
+        "title": "美国俄勒冈州一小学发生枪击事件 至少5人身亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715546.shtml",
+        "publishedAt": "2026-10-16T11:55:39.000+08:00"
       },
       {
-        "title": "应急管理部：严格安全生产监管执法 依法惩治安全生产违法犯罪行为",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715530.shtml",
-        "publishedAt": "2026-10-16T11:29:53.000+08:00"
+        "title": "A股午评：超4800只个股飘红，三大指数集体收涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715562.shtml",
+        "publishedAt": "2026-10-16T11:49:08.000+08:00"
       },
       {
-        "title": "七秩风雨峥嵘路 多彩彝乡启新程——宁蒗彝族自治县成立七十周年发展综述",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-16/10715522.shtml",
-        "publishedAt": "2026-10-16T11:17:21.000+08:00"
+        "title": "应急管理部：坚决整治安全监管执法“宽松软虚”问题",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715538.shtml",
+        "publishedAt": "2026-10-16T11:48:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T11:50:04.103+08:00",
+    "fetchedAt": "2026-10-16T12:00:04.221+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T11:50:08.898+08:00",
+      "fetchedAt": "2026-10-16T12:00:10.131+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T11:50:09.216+08:00",
+      "fetchedAt": "2026-10-16T12:00:10.445+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T11:50:09.225+08:00",
+      "fetchedAt": "2026-10-16T12:00:10.457+08:00",
       "error": null
     }
   }
