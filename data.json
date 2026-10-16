@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:00:10.341+08:00",
+  "updatedAt": "2026-10-16T18:10:09.953+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-16T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-16T18:00:10.341+08:00",
+    "fetchedAt": "2026-10-16T18:10:09.953+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第十六届中国航展门票10月19日正式开售",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715799.shtml",
-        "publishedAt": "2026-10-16T17:37:11.000+08:00"
+        "title": "专家学者共探“构建中国哲学社会科学自主知识体系”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715821.shtml",
+        "publishedAt": "2026-10-16T18:02:52.000+08:00"
       },
       {
-        "title": "2026菊王争霸赛在河南开封举办 “三苏”穿越千年“夸菊”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715798.shtml",
-        "publishedAt": "2026-10-16T17:37:01.000+08:00"
+        "title": "北京互联网法院8年审结涉老年人网络侵权纠纷4667件",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-16/10715820.shtml",
+        "publishedAt": "2026-10-16T18:02:50.000+08:00"
       },
       {
-        "title": "第43届国际盲人节：上海眼科医护与视障艺术家同唱爱眼防盲主题曲",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715796.shtml",
-        "publishedAt": "2026-10-16T17:36:55.000+08:00"
+        "title": "逾800家海内外企业参展福建国际海洋装备博览会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715819.shtml",
+        "publishedAt": "2026-10-16T18:02:16.000+08:00"
       },
       {
-        "title": "持续践行四个月，累计减排13.79吨→",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-16/10715803.shtml",
-        "publishedAt": "2026-10-16T17:36:53.000+08:00"
+        "title": "中国官方在山西召开加快煤矿复产增产保供工作推进会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715818.shtml",
+        "publishedAt": "2026-10-16T18:01:44.000+08:00"
       },
       {
-        "title": "王毅会见巴林外交大臣扎耶尼",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715791.shtml",
-        "publishedAt": "2026-10-16T17:29:19.000+08:00"
+        "title": "有望启发AI系统设计 中国科研团队用诺奖技术助力神经元研究",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715817.shtml",
+        "publishedAt": "2026-10-16T18:01:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T18:00:05.093+08:00",
+    "fetchedAt": "2026-10-16T18:10:03.904+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T18:00:09.182+08:00",
+      "fetchedAt": "2026-10-16T18:10:08.653+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T18:00:09.404+08:00",
+      "fetchedAt": "2026-10-16T18:10:08.925+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T18:00:09.410+08:00",
+      "fetchedAt": "2026-10-16T18:10:08.934+08:00",
       "error": null
     }
   }
