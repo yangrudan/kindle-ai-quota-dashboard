@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T20:50:08.750+08:00",
+  "updatedAt": "2026-10-16T21:00:09.431+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.3,
-    "feelsLikeC": 24.6,
+    "tempC": 22.2,
+    "feelsLikeC": 24.5,
     "humidity": 81,
-    "windKph": 6.8,
+    "windKph": 6.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-16T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-16T20:50:08.750+08:00",
+    "observedAt": "2026-10-16T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-16T21:00:09.431+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（经济观察）江西加速布局算力建设 多地抢滩“词元经济”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715938.shtml",
-        "publishedAt": "2026-10-16T20:41:17.000+08:00"
+        "title": "甘肃天水幼儿园铅中毒案一审宣判",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715953.shtml",
+        "publishedAt": "2026-10-16T20:53:34.000+08:00"
       },
       {
-        "title": "五部门发布警惕“央国企内推”等骗局风险提示",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715927.shtml",
-        "publishedAt": "2026-10-16T20:36:03.000+08:00"
+        "title": "专家：我国研发经费投入稳步增长 夯实科技创新根基",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715948.shtml",
+        "publishedAt": "2026-10-16T20:51:46.000+08:00"
       },
       {
-        "title": "京津冀等5个城市群将开展氢能综合应用试点工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715941.shtml",
-        "publishedAt": "2026-10-16T20:34:57.000+08:00"
+        "title": "云南昆明机场口岸今年入出境外籍旅客突破100万人次",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715947.shtml",
+        "publishedAt": "2026-10-16T20:50:20.000+08:00"
       },
       {
-        "title": "中国药都樟树办“药交会” 发布中药材AI检测大模型",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715939.shtml",
-        "publishedAt": "2026-10-16T20:30:55.000+08:00"
+        "title": "2026世界算力网大会在深圳举办 “鹏城云脑Ⅲ”上线",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715945.shtml",
+        "publishedAt": "2026-10-16T20:46:15.000+08:00"
       },
       {
-        "title": "“粤艇南下”首航 粤港游艇双向游拓展大湾区优质生活圈",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-16/10715935.shtml",
-        "publishedAt": "2026-10-16T20:30:47.000+08:00"
+        "title": "近百节目轮番登场 第十二届中国曲艺节将在四川广安举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715944.shtml",
+        "publishedAt": "2026-10-16T20:46:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T20:50:03.325+08:00",
+    "fetchedAt": "2026-10-16T21:00:04.635+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T20:50:07.646+08:00",
+      "fetchedAt": "2026-10-16T21:00:08.299+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 20,
+          "usedPct": 26,
           "resetAt": "2026-10-17T00:30:29.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 50,
+          "usedPct": 51,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T20:50:07.834+08:00",
+      "fetchedAt": "2026-10-16T21:00:08.485+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T20:50:07.839+08:00",
+      "fetchedAt": "2026-10-16T21:00:08.493+08:00",
       "error": null
     }
   }
