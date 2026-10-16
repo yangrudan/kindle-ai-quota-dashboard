@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-16T14:40:09.069+08:00",
+  "updatedAt": "2026-10-16T14:50:09.458+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24,
-    "feelsLikeC": 26.1,
-    "humidity": 73,
-    "windKph": 7.9,
+    "tempC": 24.3,
+    "feelsLikeC": 26.4,
+    "humidity": 71,
+    "windKph": 7.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T14:40:09.069+08:00",
+    "observedAt": "2026-10-16T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-16T14:50:09.458+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“岭南烽火 长征印记——红军长征在广东档案史料展”开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715656.shtml",
+        "publishedAt": "2026-10-16T14:41:22.000+08:00"
+      },
+      {
+        "title": "国家发展改革委等三部门完善养老服务价格政策",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715657.shtml",
+        "publishedAt": "2026-10-16T14:40:54.000+08:00"
+      },
+      {
+        "title": "全国资源循环企业齐聚天津 助力京津冀产业创新",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715654.shtml",
+        "publishedAt": "2026-10-16T14:40:34.000+08:00"
+      },
       {
         "title": "2026世界航海装备大会福州开幕 聚焦全球可持续海事创新",
         "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715649.shtml",
@@ -28,24 +43,9 @@
         "title": "专家学者厦门探讨月港申遗",
         "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715650.shtml",
         "publishedAt": "2026-10-16T14:34:27.000+08:00"
-      },
-      {
-        "title": "2026年1月至9月我国发布国家标准外文版620项",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715646.shtml",
-        "publishedAt": "2026-10-16T14:34:19.000+08:00"
-      },
-      {
-        "title": "西藏首批组装生产专用车下线",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715651.shtml",
-        "publishedAt": "2026-10-16T14:33:45.000+08:00"
-      },
-      {
-        "title": "总投资超20亿元！中沙古雷乙烯项目关键配套工程建成投产",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715648.shtml",
-        "publishedAt": "2026-10-16T14:33:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T14:40:03.064+08:00",
+    "fetchedAt": "2026-10-16T14:50:02.609+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T14:40:07.190+08:00",
+      "fetchedAt": "2026-10-16T14:50:06.912+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 16,
           "resetAt": "2026-10-16T19:17:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 33,
+          "usedPct": 34,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T14:40:07.393+08:00",
+      "fetchedAt": "2026-10-16T14:50:07.082+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T14:40:07.403+08:00",
+      "fetchedAt": "2026-10-16T14:50:07.087+08:00",
       "error": null
     }
   }
