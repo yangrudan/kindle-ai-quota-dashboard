@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T21:30:08.737+08:00",
+  "updatedAt": "2026-10-16T21:40:09.257+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-16T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T21:30:08.737+08:00",
+    "fetchedAt": "2026-10-16T21:40:09.257+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习言道｜积极推动绿色算力产业发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715946.shtml",
+        "publishedAt": "2026-10-16T21:30:04.000+08:00"
+      },
+      {
+        "title": "粤港澳大湾区首个知识型综保区在穗正式封关运作",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715924.shtml",
+        "publishedAt": "2026-10-16T21:29:04.000+08:00"
+      },
       {
         "title": "新疆图木舒克200多万亩原始胡杨林进入最佳观赏期",
         "url": "https://www.chinanews.com.cn/tp/2026/10-16/10715921.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国（广西）—东盟应急语言服务团骨干培训班开班",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715971.shtml",
         "publishedAt": "2026-10-16T21:26:06.000+08:00"
-      },
-      {
-        "title": "广西贺州办会兴城 聚力打造康养长寿胜地",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715969.shtml",
-        "publishedAt": "2026-10-16T21:25:33.000+08:00"
-      },
-      {
-        "title": "西藏发布“十五五”开发区规划 锚定2030年建成高水平开放型经济目标",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715968.shtml",
-        "publishedAt": "2026-10-16T21:25:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T21:30:03.989+08:00",
+    "fetchedAt": "2026-10-16T21:40:03.659+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T21:30:07.608+08:00",
+      "fetchedAt": "2026-10-16T21:40:07.829+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 47,
+          "usedPct": 51,
           "resetAt": "2026-10-17T00:30:29.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T21:30:07.897+08:00",
+      "fetchedAt": "2026-10-16T21:40:08.222+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T21:30:07.907+08:00",
+      "fetchedAt": "2026-10-16T21:40:08.232+08:00",
       "error": null
     }
   }
