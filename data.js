@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T13:40:12.139+08:00",
+  "updatedAt": "2026-10-16T13:50:37.846+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 23.2,
-    "feelsLikeC": 25.2,
-    "humidity": 77,
-    "windKph": 8.6,
+    "tempC": 23.4,
+    "feelsLikeC": 25.4,
+    "humidity": 76,
+    "windKph": 8.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-16T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T13:40:12.140+08:00",
+    "observedAt": "2026-10-16T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-16T13:50:37.846+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "椰城海关2026-2028年公务车辆保险服务采购项目比选公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715600.shtml",
+        "publishedAt": "2026-10-16T13:41:38.000+08:00"
+      },
+      {
+        "title": "应急管理部：严打烟花爆竹线上销售线下寄递等非法违法行为",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715588.shtml",
+        "publishedAt": "2026-10-16T13:40:38.000+08:00"
+      },
+      {
+        "title": "北京地铁迎来首家站内现制面包店",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-16/1207999.shtml",
+        "publishedAt": "2026-10-16T13:39:45.000+08:00"
+      },
+      {
+        "title": "小学教师转岗初中之惑",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-16/10715597.shtml",
+        "publishedAt": "2026-10-16T13:38:34.000+08:00"
+      },
+      {
         "title": "危旧房改造，如何将“忧居”变“宜居”？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715589.shtml",
         "publishedAt": "2026-10-16T13:32:46.000+08:00"
-      },
-      {
-        "title": "海口海关缉私局执法办案场所平台系统和设备升级改造项目比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715586.shtml",
-        "publishedAt": "2026-10-16T13:27:40.000+08:00"
-      },
-      {
-        "title": "2026年度两路寸滩海关在职职工健康体检服务项目比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715585.shtml",
-        "publishedAt": "2026-10-16T13:25:15.000+08:00"
-      },
-      {
-        "title": "三部门发文：精准开展安责险事故预防服务",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715582.shtml",
-        "publishedAt": "2026-10-16T13:24:43.000+08:00"
-      },
-      {
-        "title": "涪陵海关机关大院绿化综合服务项目比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715584.shtml",
-        "publishedAt": "2026-10-16T13:22:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T13:40:06.778+08:00",
+    "fetchedAt": "2026-10-16T13:50:02.880+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T13:40:10.980+08:00",
+      "fetchedAt": "2026-10-16T13:50:36.611+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T13:40:11.306+08:00",
+      "fetchedAt": "2026-10-16T13:50:37.008+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T13:40:11.315+08:00",
+      "fetchedAt": "2026-10-16T13:50:37.017+08:00",
       "error": null
     }
   }
