@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-16T16:40:09.289+08:00",
+  "updatedAt": "2026-10-16T16:50:08.910+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.6,
-    "feelsLikeC": 28,
-    "humidity": 67,
-    "windKph": 6.4,
-    "windDir": "东风",
+    "tempC": 25.3,
+    "feelsLikeC": 27.7,
+    "humidity": 68,
+    "windKph": 7,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-16T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-16T16:40:09.289+08:00",
+    "observedAt": "2026-10-16T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-16T16:50:08.911+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "南京发力智能电网产业 力争2030年规模达万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715740.shtml",
-        "publishedAt": "2026-10-16T16:34:40.000+08:00"
+        "title": "新闻分析：中欧关于混动汽车提出三大原则，怎么看",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715763.shtml",
+        "publishedAt": "2026-10-16T16:44:14.000+08:00"
       },
       {
-        "title": "中国国防部：日方唯有真诚悔罪才能真正面向未来",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715735.shtml",
-        "publishedAt": "2026-10-16T16:32:40.000+08:00"
+        "title": "山西寿阳：长者食堂里的“热乎饭”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715758.shtml",
+        "publishedAt": "2026-10-16T16:44:08.000+08:00"
       },
       {
-        "title": "湖北沙市以“三创”融合激活发展新动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715744.shtml",
-        "publishedAt": "2026-10-16T16:32:24.000+08:00"
+        "title": "日本图谋删除“敌国条款”是痴人说梦（环球热点）",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-16/10715762.shtml",
+        "publishedAt": "2026-10-16T16:43:46.000+08:00"
       },
       {
-        "title": "国内首个汽车电子电气架构质量提升规程（CQEE）正式发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715739.shtml",
-        "publishedAt": "2026-10-16T16:32:24.000+08:00"
+        "title": "今年桂花迟到却更香了？想吃桂花建议别从路边采",
+        "url": "https://www.chinanews.com.cn/life/2026/10-16/10715761.shtml",
+        "publishedAt": "2026-10-16T16:43:30.000+08:00"
       },
       {
-        "title": "广东首次滚装船舶绿色甲醇加注在广州南沙完成",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10715736.shtml",
-        "publishedAt": "2026-10-16T16:31:28.000+08:00"
+        "title": "中国科学院院长侯建国当选发展中国家科学院院长",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10715756.shtml",
+        "publishedAt": "2026-10-16T16:42:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-16T16:40:03.385+08:00",
+    "fetchedAt": "2026-10-16T16:50:03.002+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-16T16:40:07.585+08:00",
+      "fetchedAt": "2026-10-16T16:50:07.561+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 61,
+          "usedPct": 68,
           "resetAt": "2026-10-16T19:17:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 41,
+          "usedPct": 42,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-16T16:40:07.916+08:00",
+      "fetchedAt": "2026-10-16T16:50:07.889+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-16T16:40:07.919+08:00",
+      "fetchedAt": "2026-10-16T16:50:07.899+08:00",
       "error": null
     }
   }
