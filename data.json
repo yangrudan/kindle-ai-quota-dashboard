@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T07:20:09.382+08:00",
+  "updatedAt": "2026-10-17T07:30:39.304+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.7,
-    "feelsLikeC": 23.2,
-    "humidity": 88,
-    "windKph": 4.5,
+    "tempC": 21.1,
+    "feelsLikeC": 23.6,
+    "humidity": 86,
+    "windKph": 4.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-17T07:20:09.383+08:00",
+    "observedAt": "2026-10-17T07:30:00.000+08:00",
+    "fetchedAt": "2026-10-17T07:30:39.304+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月17日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-17/10716051.shtml",
+        "publishedAt": "2026-10-17T07:22:36.000+08:00"
+      },
       {
         "title": "赞比亚霍乱疫情致25人死亡 官方紧急启动疫苗接种",
         "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
@@ -38,14 +43,9 @@
         "title": "特朗普称美国可能会对伊朗镐山核设施发动打击",
         "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716047.shtml",
         "publishedAt": "2026-10-17T01:19:13.000+08:00"
-      },
-      {
-        "title": "中新健康｜老人大量囤积废品被儿女“举报”，医生紧急提醒！",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716041.shtml",
-        "publishedAt": "2026-10-17T01:16:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T07:20:03.673+08:00",
+    "fetchedAt": "2026-10-17T07:30:03.879+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T07:20:08.094+08:00",
+      "fetchedAt": "2026-10-17T07:30:38.067+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-17T12:20:09.000+08:00"
+          "resetAt": "2026-10-17T12:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T07:20:08.536+08:00",
+      "fetchedAt": "2026-10-17T07:30:38.408+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T07:20:08.544+08:00",
+      "fetchedAt": "2026-10-17T07:30:38.417+08:00",
       "error": null
     }
   }
