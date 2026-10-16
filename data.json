@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T06:10:38.578+08:00",
+  "updatedAt": "2026-10-17T06:20:08.064+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.5,
-    "feelsLikeC": 21.8,
-    "humidity": 93,
-    "windKph": 4.7,
+    "tempC": 19.6,
+    "feelsLikeC": 21.9,
+    "humidity": 92,
+    "windKph": 4.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T06:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T06:10:38.578+08:00",
+    "observedAt": "2026-10-17T06:15:00.000+08:00",
+    "fetchedAt": "2026-10-17T06:20:08.064+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "赞比亚霍乱疫情致25人死亡 官方紧急启动疫苗接种",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
+        "publishedAt": "2026-10-17T06:07:00.000+08:00"
+      },
+      {
+        "title": "苏丹西部城市遭无人机袭击 造成至少30人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716049.shtml",
+        "publishedAt": "2026-10-17T06:04:04.000+08:00"
+      },
       {
         "title": "沙特主导联军称拦截3枚导弹和4架无人机",
         "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716048.shtml",
@@ -33,19 +43,9 @@
         "title": "中新健康｜老人大量囤积废品被儿女“举报”，医生紧急提醒！",
         "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716041.shtml",
         "publishedAt": "2026-10-17T01:16:39.000+08:00"
-      },
-      {
-        "title": "中央音乐学院举行“10·15”艺术节开幕音乐会",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716036.shtml",
-        "publishedAt": "2026-10-17T01:13:32.000+08:00"
-      },
-      {
-        "title": "樟树“药交会”观察：“05后”大学生让中医药“潮起来”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716032.shtml",
-        "publishedAt": "2026-10-17T01:12:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T06:10:03.164+08:00",
+    "fetchedAt": "2026-10-17T06:20:02.959+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T06:10:37.115+08:00",
+      "fetchedAt": "2026-10-17T06:20:06.685+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-17T11:10:38.000+08:00"
+          "resetAt": "2026-10-17T11:20:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T06:10:37.360+08:00",
+      "fetchedAt": "2026-10-17T06:20:06.968+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T06:10:37.369+08:00",
+      "fetchedAt": "2026-10-17T06:20:06.974+08:00",
       "error": null
     }
   }
