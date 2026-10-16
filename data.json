@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T00:40:09.467+08:00",
+  "updatedAt": "2026-10-17T00:50:09.014+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.7,
-    "feelsLikeC": 23.4,
+    "tempC": 21.5,
+    "feelsLikeC": 23.3,
     "humidity": 80,
-    "windKph": 7.8,
+    "windKph": 7.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-17T00:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T00:40:09.467+08:00",
+    "observedAt": "2026-10-17T00:45:00.000+08:00",
+    "fetchedAt": "2026-10-17T00:50:09.015+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国考报名三天，热门岗位竞争已超1400:1",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716043.shtml",
-        "publishedAt": "2026-10-17T00:29:54.000+08:00"
+        "title": "马来西亚第三季度经济同比增5.3%",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716033.shtml",
+        "publishedAt": "2026-10-17T00:44:51.000+08:00"
       },
       {
-        "title": "七旬大爷大明湖畔演奏萨克斯火爆全网，网友从全国各地赶来捧场，称其“法拉利老了，依旧是法拉利”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716042.shtml",
-        "publishedAt": "2026-10-17T00:27:04.000+08:00"
+        "title": "中外嘉宾福州共探全球海洋产业合作新路径",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716035.shtml",
+        "publishedAt": "2026-10-17T00:44:05.000+08:00"
       },
       {
-        "title": "五年15条新线建成投产 国铁广州局加快推进路网建设",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716012.shtml",
-        "publishedAt": "2026-10-17T00:08:55.000+08:00"
+        "title": "报告指上半年全球人形机器人出货量超2.2万台",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716044.shtml",
+        "publishedAt": "2026-10-17T00:43:23.000+08:00"
       },
       {
-        "title": "从过路客到留量客 社科专家为西双版纳勐海茶文旅康融合“开方”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-16/10716030.shtml",
-        "publishedAt": "2026-10-16T22:56:26.000+08:00"
+        "title": "“第十二届世界旅游经济论坛·澳门2026”举行",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-17/10716045.shtml",
+        "publishedAt": "2026-10-17T00:42:47.000+08:00"
       },
       {
-        "title": "价格改革推动普惠养老服务提质扩面",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
-        "publishedAt": "2026-10-16T22:31:57.000+08:00"
+        "title": "评论：“走出信息茧房”让台湾年轻一代态度有变",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716046.shtml",
+        "publishedAt": "2026-10-17T00:41:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T00:40:03.408+08:00",
+    "fetchedAt": "2026-10-17T00:50:03.476+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T00:40:08.187+08:00",
+      "fetchedAt": "2026-10-17T00:50:07.889+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-17T05:40:09.000+08:00"
+          "resetAt": "2026-10-17T05:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T00:40:08.528+08:00",
+      "fetchedAt": "2026-10-17T00:50:08.179+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T00:40:08.536+08:00",
+      "fetchedAt": "2026-10-17T00:50:08.188+08:00",
       "error": null
     }
   }
