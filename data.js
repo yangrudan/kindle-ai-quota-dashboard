@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T20:30:09.302+08:00",
+  "updatedAt": "2026-10-17T20:40:07.699+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 25.1,
-    "feelsLikeC": 28.1,
+    "feelsLikeC": 28.2,
     "humidity": 76,
-    "windKph": 7.9,
+    "windKph": 7.3,
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T20:30:09.302+08:00",
+    "fetchedAt": "2026-10-17T20:40:07.700+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "四川汉源：高山苹果迎丰收 果农采摘分拣忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716397.shtml",
-        "publishedAt": "2026-10-17T20:21:19.000+08:00"
+        "title": "泰国洪灾214万多人受影响",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716428.shtml",
+        "publishedAt": "2026-10-17T20:37:27.000+08:00"
       },
       {
-        "title": "浙江杭州：良渚文创市集释放文创吸引力",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716396.shtml",
-        "publishedAt": "2026-10-17T20:20:21.000+08:00"
+        "title": "“哪有什么神奇诀窍，不过是你让让我，我让让你”……这对百岁夫妻的日常，藏着相守80余年的答案",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716430.shtml",
+        "publishedAt": "2026-10-17T20:33:51.000+08:00"
       },
       {
-        "title": "“未完成的未来 —— 中国当代水墨年鉴10周年”展览开幕式在广州举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716374.shtml",
-        "publishedAt": "2026-10-17T20:11:40.000+08:00"
+        "title": "人这一辈子，一定要去一趟“Token之都”！",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716411.shtml",
+        "publishedAt": "2026-10-17T20:28:07.000+08:00"
       },
       {
-        "title": "7000余件海洋装备及科创成果亮相福州",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716363.shtml",
-        "publishedAt": "2026-10-17T20:00:11.000+08:00"
+        "title": "第四届“跳动的非遗”粤港澳青少年街舞交流赛在穗举办",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716409.shtml",
+        "publishedAt": "2026-10-17T20:27:31.000+08:00"
       },
       {
-        "title": "山东东昌府区：顾客选购葫芦忙 产品远销海内外",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716359.shtml",
-        "publishedAt": "2026-10-17T19:58:59.000+08:00"
+        "title": "“侨连五洲·相约河北”海外侨菁河北行活动走进雄安",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716406.shtml",
+        "publishedAt": "2026-10-17T20:26:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T20:30:04.703+08:00",
+    "fetchedAt": "2026-10-17T20:40:02.960+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T20:30:08.484+08:00",
+      "fetchedAt": "2026-10-17T20:40:06.801+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T20:30:08.491+08:00",
+      "fetchedAt": "2026-10-17T20:40:06.810+08:00",
       "error": null
     }
   }
