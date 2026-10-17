@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T08:50:08.371+08:00",
+  "updatedAt": "2026-10-17T09:00:08.819+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T08:50:08.371+08:00",
+    "fetchedAt": "2026-10-17T09:00:08.819+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "四川雅安：民宿成当地居民“绿色饭碗”",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208054.shtml",
+        "publishedAt": "2026-10-17T08:52:22.000+08:00"
+      },
+      {
+        "title": "铲屎官的快乐老家被我们找到了",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716058.shtml",
+        "publishedAt": "2026-10-17T08:47:57.000+08:00"
+      },
       {
         "title": "庆祝中俄建交77周年音乐会在莫斯科举行",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208051.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "日媒：高市早苗向靖国神社献祭品",
         "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716054.shtml",
         "publishedAt": "2026-10-17T08:19:44.000+08:00"
-      },
-      {
-        "title": "10月17日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-17/10716051.shtml",
-        "publishedAt": "2026-10-17T07:22:36.000+08:00"
-      },
-      {
-        "title": "赞比亚霍乱疫情致25人死亡 官方紧急启动疫苗接种",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
-        "publishedAt": "2026-10-17T06:07:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T08:50:03.237+08:00",
+    "fetchedAt": "2026-10-17T09:00:03.431+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T08:50:07.167+08:00",
+      "fetchedAt": "2026-10-17T09:00:07.178+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T08:50:07.498+08:00",
+      "fetchedAt": "2026-10-17T09:00:07.732+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T08:50:07.508+08:00",
+      "fetchedAt": "2026-10-17T09:00:07.740+08:00",
       "error": null
     }
   }
