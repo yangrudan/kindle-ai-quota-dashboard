@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T11:31:01.614+08:00",
+  "updatedAt": "2026-10-17T11:40:36.201+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T11:31:01.614+08:00",
+    "fetchedAt": "2026-10-17T11:40:36.201+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "企步新长征｜手搓麻线到3D打印，陕北窑洞里走出的鞋厂迈入智能时代",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716110.shtml",
+        "publishedAt": "2026-10-17T11:26:40.000+08:00"
+      },
+      {
+        "title": "活力中国调研行｜广西职教“出海” 老挝兄弟求学",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716113.shtml",
+        "publishedAt": "2026-10-17T11:23:01.000+08:00"
+      },
+      {
+        "title": "（近观中国）考察乌兰察布，习近平关注算力背后的考量",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716101.shtml",
+        "publishedAt": "2026-10-17T11:22:03.000+08:00"
+      },
       {
         "title": "红星照耀中国｜世界读懂红军制胜之道",
         "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716112.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "“十五五”专项规划里的文化力量",
         "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716111.shtml",
         "publishedAt": "2026-10-17T11:16:23.000+08:00"
-      },
-      {
-        "title": "AI乌镇 科创桐乡｜1米88“大个子”！濮院街头有了“机器人交警”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716109.shtml",
-        "publishedAt": "2026-10-17T11:13:11.000+08:00"
-      },
-      {
-        "title": "两部门联合发文 推动“电影+体育”跨界合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716105.shtml",
-        "publishedAt": "2026-10-17T11:05:32.000+08:00"
-      },
-      {
-        "title": "鲁班工坊系列国家标准公布",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716104.shtml",
-        "publishedAt": "2026-10-17T11:04:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T11:30:05.447+08:00",
+    "fetchedAt": "2026-10-17T11:40:03.598+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T11:30:58.231+08:00",
+      "fetchedAt": "2026-10-17T11:40:34.630+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 25,
           "resetAt": "2026-10-17T13:13:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 66,
+          "usedPct": 67,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T11:30:58.598+08:00",
+      "fetchedAt": "2026-10-17T11:40:34.994+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T11:30:58.608+08:00",
+      "fetchedAt": "2026-10-17T11:40:35.004+08:00",
       "error": null
     }
   }
