@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T15:50:41.779+08:00",
+  "updatedAt": "2026-10-17T16:00:08.651+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T15:50:41.779+08:00",
+    "fetchedAt": "2026-10-17T16:00:08.652+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《智能原生科学仪器创新发展上海共识》在沪发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716247.shtml",
+        "publishedAt": "2026-10-17T15:50:50.000+08:00"
+      },
       {
         "title": "张雪机车再登广交会 赛事冠军带动品牌加速出海",
         "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716246.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国—东盟特教合作成果在南宁发布",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716224.shtml",
         "publishedAt": "2026-10-17T15:39:29.000+08:00"
-      },
-      {
-        "title": "大范围降水进入最强时段 北方多地气温将创下半年来新低",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716237.shtml",
-        "publishedAt": "2026-10-17T15:27:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T15:50:03.244+08:00",
+    "fetchedAt": "2026-10-17T16:00:03.339+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T15:50:39.382+08:00",
+      "fetchedAt": "2026-10-17T16:00:07.268+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T15:50:40.085+08:00",
+      "fetchedAt": "2026-10-17T16:00:07.575+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T15:50:40.096+08:00",
+      "fetchedAt": "2026-10-17T16:00:07.579+08:00",
       "error": null
     }
   }
