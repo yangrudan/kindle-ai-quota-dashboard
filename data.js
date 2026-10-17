@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T18:50:55.545+08:00",
+  "updatedAt": "2026-10-17T19:00:32.536+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-17T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T18:50:55.545+08:00",
+    "fetchedAt": "2026-10-17T19:00:32.536+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026世界传统医药大会在北京开幕",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208129.shtml",
-        "publishedAt": "2026-10-17T18:27:01.000+08:00"
+        "title": "王沪宁在四川调研",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208143.shtml",
+        "publishedAt": "2026-10-17T18:57:45.000+08:00"
       },
       {
-        "title": "河南信阳南湾湖秋捕 丰收场景喜人",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716322.shtml",
-        "publishedAt": "2026-10-17T18:13:54.000+08:00"
+        "title": "首次突破、历史新高！一组数据感受中国经济澎湃动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716343.shtml",
+        "publishedAt": "2026-10-17T18:55:44.000+08:00"
       },
       {
-        "title": "四川雅安：大熊猫玩耍显萌态",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208133.shtml",
-        "publishedAt": "2026-10-17T18:09:55.000+08:00"
+        "title": "让民营企业敢投、愿投、能投",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716341.shtml",
+        "publishedAt": "2026-10-17T18:47:57.000+08:00"
       },
       {
-        "title": "成都：近4000名“小勇士”挑战斯巴达勇士儿童赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716308.shtml",
-        "publishedAt": "2026-10-17T18:03:21.000+08:00"
+        "title": "王沪宁在四川调研时强调 坚持为推进中国式现代化凝心聚力 扎实做好新时代党的民族宗教工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716329.shtml",
+        "publishedAt": "2026-10-17T18:47:15.000+08:00"
       },
       {
-        "title": "哈尔滨文庙银杏迎来最佳观赏季",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716313.shtml",
-        "publishedAt": "2026-10-17T18:02:45.000+08:00"
+        "title": "在发展中留住记忆，在更新中延续文脉",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716340.shtml",
+        "publishedAt": "2026-10-17T18:46:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T18:50:03.369+08:00",
+    "fetchedAt": "2026-10-17T19:00:03.589+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T18:50:53.266+08:00",
+      "fetchedAt": "2026-10-17T19:00:31.135+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 10,
+          "usedPct": 13,
           "resetAt": "2026-10-17T23:14:07.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T18:50:53.551+08:00",
+      "fetchedAt": "2026-10-17T19:00:31.416+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T18:50:53.556+08:00",
+      "fetchedAt": "2026-10-17T19:00:31.426+08:00",
       "error": null
     }
   }
