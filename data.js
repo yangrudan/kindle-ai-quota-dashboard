@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T06:20:06.501+08:00",
+  "updatedAt": "2026-10-18T06:30:37.619+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-18T06:15:00.000+08:00",
-    "fetchedAt": "2026-10-18T06:20:06.501+08:00",
+    "fetchedAt": "2026-10-18T06:30:37.619+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "纽约曼哈顿地铁站发生枪击事件致一人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716481.shtml",
+        "publishedAt": "2026-10-18T06:21:12.000+08:00"
+      },
+      {
+        "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716480.shtml",
+        "publishedAt": "2026-10-18T06:19:26.000+08:00"
+      },
       {
         "title": "孟加拉国度假村火灾已致10人死亡",
         "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "暹粒吴哥国际机场通航3年旅客吞吐量超463万人次",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716473.shtml",
         "publishedAt": "2026-10-17T23:01:23.000+08:00"
-      },
-      {
-        "title": "两岸学者福建南平共探朱子文化遗产与融合发展",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716472.shtml",
-        "publishedAt": "2026-10-17T22:58:03.000+08:00"
-      },
-      {
-        "title": "冀中能源集团董事会原董事陈亚杰接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716463.shtml",
-        "publishedAt": "2026-10-17T22:32:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T06:20:02.553+08:00",
+    "fetchedAt": "2026-10-18T06:30:03.005+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T11:20:06.000+08:00"
+          "resetAt": "2026-10-18T11:30:36.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T06:20:06.000+08:00"
+          "resetAt": "2026-10-25T06:30:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T06:20:05.649+08:00",
+      "fetchedAt": "2026-10-18T06:30:35.838+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T06:20:05.658+08:00",
+      "fetchedAt": "2026-10-18T06:30:35.843+08:00",
       "error": null
     }
   }
