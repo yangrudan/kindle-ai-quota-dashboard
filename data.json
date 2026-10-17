@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T17:20:08.560+08:00",
+  "updatedAt": "2026-10-17T17:30:38.407+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28.4,
-    "feelsLikeC": 31.3,
-    "humidity": 62,
-    "windKph": 7.3,
+    "tempC": 27.9,
+    "feelsLikeC": 31,
+    "humidity": 64,
+    "windKph": 6.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-17T17:20:08.561+08:00",
+    "observedAt": "2026-10-17T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-17T17:30:38.408+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中国城博会观察：机器人“上岗”城市运维",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716294.shtml",
+        "publishedAt": "2026-10-17T17:22:31.000+08:00"
+      },
+      {
+        "title": "第140届广交会首次设立国际医疗服务专区",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716292.shtml",
+        "publishedAt": "2026-10-17T17:20:49.000+08:00"
+      },
+      {
+        "title": "外宾沉浸式感受福建非遗魅力",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716287.shtml",
+        "publishedAt": "2026-10-17T17:19:59.000+08:00"
+      },
+      {
+        "title": "2026亚洲汽车扭樽（金卡纳）锦标赛香港站开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716286.shtml",
+        "publishedAt": "2026-10-17T17:19:09.000+08:00"
+      },
+      {
         "title": "2026北马参赛指南，请查收！",
         "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716285.shtml",
         "publishedAt": "2026-10-17T17:07:04.000+08:00"
-      },
-      {
-        "title": "朱子学与多元文明对话大会暨第五届考亭论坛在福建南平启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716275.shtml",
-        "publishedAt": "2026-10-17T17:04:44.000+08:00"
-      },
-      {
-        "title": "上任不到一周遭解雇 扎卡里亚发文：为特朗普工作是一种荣幸",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716282.shtml",
-        "publishedAt": "2026-10-17T17:04:40.000+08:00"
-      },
-      {
-        "title": "从厨房到3D打印机：内蒙古“矿嫂”的文创新生",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716274.shtml",
-        "publishedAt": "2026-10-17T17:04:02.000+08:00"
-      },
-      {
-        "title": "2026LPGA锦标赛第二轮：韩国球员崔慧珍保持领先",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716272.shtml",
-        "publishedAt": "2026-10-17T17:03:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T17:20:02.925+08:00",
+    "fetchedAt": "2026-10-17T17:30:03.829+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T17:20:07.393+08:00",
+      "fetchedAt": "2026-10-17T17:30:35.968+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T17:20:07.709+08:00",
+      "fetchedAt": "2026-10-17T17:30:36.249+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T17:20:07.721+08:00",
+      "fetchedAt": "2026-10-17T17:30:36.259+08:00",
       "error": null
     }
   }
