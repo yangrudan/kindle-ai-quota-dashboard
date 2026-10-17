@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T15:40:22.870+08:00",
+  "updatedAt": "2026-10-17T15:50:41.779+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 30.4,
-    "feelsLikeC": 32.4,
+    "tempC": 30.3,
+    "feelsLikeC": 32.5,
     "humidity": 52,
-    "windKph": 10.6,
+    "windKph": 9.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T15:40:22.870+08:00",
+    "observedAt": "2026-10-17T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-17T15:50:41.779+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "张雪机车再登广交会 赛事冠军带动品牌加速出海",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716246.shtml",
+        "publishedAt": "2026-10-17T15:41:41.000+08:00"
+      },
+      {
+        "title": "今年浙江义乌跨境电商进口清单量破1亿单",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716231.shtml",
+        "publishedAt": "2026-10-17T15:40:27.000+08:00"
+      },
+      {
+        "title": "中国职业教育国际合作拓展至80多个国家和地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716225.shtml",
+        "publishedAt": "2026-10-17T15:40:01.000+08:00"
+      },
+      {
+        "title": "中国—东盟特教合作成果在南宁发布",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716224.shtml",
+        "publishedAt": "2026-10-17T15:39:29.000+08:00"
+      },
+      {
         "title": "大范围降水进入最强时段 北方多地气温将创下半年来新低",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716237.shtml",
         "publishedAt": "2026-10-17T15:27:33.000+08:00"
-      },
-      {
-        "title": "把涉疆谎言写成“论文”，就成事实了？｜真相",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716229.shtml",
-        "publishedAt": "2026-10-17T15:12:34.000+08:00"
-      },
-      {
-        "title": "高市早苗向靖国神社献祭品",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716226.shtml",
-        "publishedAt": "2026-10-17T15:05:43.000+08:00"
-      },
-      {
-        "title": "中韩海上执法部门圆满完成中韩渔业协定暂定措施水域联合巡航",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716228.shtml",
-        "publishedAt": "2026-10-17T15:05:09.000+08:00"
-      },
-      {
-        "title": "菲律宾马荣火山排放火山灰 灰柱高约400米",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716216.shtml",
-        "publishedAt": "2026-10-17T15:03:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T15:40:03.458+08:00",
+    "fetchedAt": "2026-10-17T15:50:03.244+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T15:40:20.731+08:00",
+      "fetchedAt": "2026-10-17T15:50:39.382+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T15:40:21.027+08:00",
+      "fetchedAt": "2026-10-17T15:50:40.085+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T15:40:21.037+08:00",
+      "fetchedAt": "2026-10-17T15:50:40.096+08:00",
       "error": null
     }
   }
