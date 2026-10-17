@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T19:20:50.710+08:00",
+  "updatedAt": "2026-10-17T19:30:09.313+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26,
+    "tempC": 25.9,
     "feelsLikeC": 29.6,
     "humidity": 75,
-    "windKph": 5.2,
+    "windKph": 5.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-17T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-17T19:20:50.710+08:00",
+    "observedAt": "2026-10-17T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-17T19:30:09.313+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "李强抵达塔什干开始对乌兹别克斯坦进行正式访问",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716348.shtml",
-        "publishedAt": "2026-10-17T19:11:45.000+08:00"
+        "title": "李强在2026世界传统医药大会开幕式上的致辞（全文）",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716350.shtml",
+        "publishedAt": "2026-10-17T19:24:11.000+08:00"
       },
       {
-        "title": "2026年世界职业院校技能大赛冠军总决赛在天津收官",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716319.shtml",
-        "publishedAt": "2026-10-17T19:09:37.000+08:00"
+        "title": "李强出席2026世界传统医药大会开幕式并致辞",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716342.shtml",
+        "publishedAt": "2026-10-17T19:22:59.000+08:00"
       },
       {
-        "title": "AI创意长图：长江奔流，大国重器彰显发展底气",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716349.shtml",
-        "publishedAt": "2026-10-17T19:09:11.000+08:00"
+        "title": "2026年“铸牢共同体 中华一家亲”主题宣传活动云南集中采访启动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716320.shtml",
+        "publishedAt": "2026-10-17T19:22:51.000+08:00"
       },
       {
-        "title": "新品占比创新高！广交会开馆爆单，中国制造圈粉全球→",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716345.shtml",
-        "publishedAt": "2026-10-17T19:01:50.000+08:00"
+        "title": "一颗橙，250亿元！三峡库首结出“黄金果”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716353.shtml",
+        "publishedAt": "2026-10-17T19:22:17.000+08:00"
       },
       {
-        "title": "“援青杯”足球邀请赛在青海海东打响",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716337.shtml",
-        "publishedAt": "2026-10-17T18:59:58.000+08:00"
+        "title": "活力中国调研行｜通航满月！探寻平陆运河向海图强的活力密码",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716351.shtml",
+        "publishedAt": "2026-10-17T19:18:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T19:20:02.888+08:00",
+    "fetchedAt": "2026-10-17T19:30:03.593+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T19:20:15.496+08:00",
+      "fetchedAt": "2026-10-17T19:30:08.044+08:00",
       "error": null
     },
     "codex": {
@@ -69,19 +69,17 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 16,
+          "usedPct": 22,
           "resetAt": "2026-10-17T23:14:07.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 79,
+          "usedPct": 80,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T19:11:07.238+08:00",
-      "error": "Codex app-server 查询超时",
-      "stale": true,
-      "lastAttemptAt": "2026-10-17T19:20:15.811+08:00"
+      "fetchedAt": "2026-10-17T19:30:08.352+08:00",
+      "error": null
     },
     "mimo": {
       "ok": true,
@@ -99,10 +97,8 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T19:11:07.249+08:00",
-      "error": "This operation was aborted",
-      "stale": true,
-      "lastAttemptAt": "2026-10-17T19:20:15.818+08:00"
+      "fetchedAt": "2026-10-17T19:30:08.357+08:00",
+      "error": null
     }
   }
 }
