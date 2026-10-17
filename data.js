@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T19:50:09.913+08:00",
+  "updatedAt": "2026-10-17T20:00:09.460+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 25.8,
-    "feelsLikeC": 29.4,
+    "feelsLikeC": 29.2,
     "humidity": 75,
-    "windKph": 5.6,
-    "windDir": "东风",
+    "windKph": 6.1,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T19:50:09.913+08:00",
+    "observedAt": "2026-10-17T20:00:00.000+08:00",
+    "fetchedAt": "2026-10-17T20:00:09.460+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "让家庭成为安放生活的港湾",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716360.shtml",
+        "publishedAt": "2026-10-17T19:49:43.000+08:00"
+      },
+      {
+        "title": "45国发布首个国际职业教育标准《北京协议》",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716358.shtml",
+        "publishedAt": "2026-10-17T19:49:15.000+08:00"
+      },
+      {
+        "title": "大范围雨雪降温影响中国 局地降温幅度超12℃",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716357.shtml",
+        "publishedAt": "2026-10-17T19:49:13.000+08:00"
+      },
+      {
+        "title": "野象踩踏致人死伤 柬埔寨柏威夏加强监测",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716356.shtml",
+        "publishedAt": "2026-10-17T19:49:11.000+08:00"
+      },
+      {
         "title": "南京财经大学建校70周年高质量发展大会举行",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716332.shtml",
         "publishedAt": "2026-10-17T19:44:31.000+08:00"
-      },
-      {
-        "title": "聚焦“人工智能时代的肿瘤免疫学” 中外专家齐聚重庆论道",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716336.shtml",
-        "publishedAt": "2026-10-17T19:43:57.000+08:00"
-      },
-      {
-        "title": "“援青杯”足球邀请赛青海海东打响 四支劲旅角逐高原竞技场",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716335.shtml",
-        "publishedAt": "2026-10-17T19:43:53.000+08:00"
-      },
-      {
-        "title": "苏州“两岸两链”先进制造业专场举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716333.shtml",
-        "publishedAt": "2026-10-17T19:43:49.000+08:00"
-      },
-      {
-        "title": "北京出台26条措施推进托幼一体化发展",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716323.shtml",
-        "publishedAt": "2026-10-17T19:43:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T19:50:03.470+08:00",
+    "fetchedAt": "2026-10-17T20:00:05.290+08:00",
     "error": null
   },
   "sources": {
@@ -55,13 +55,14 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 34.5,
+          "usedPct": 29.3,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 984 / 1500 AIC"
+          "detailText": "剩余 1061 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T19:50:08.602+08:00",
-      "error": null
+      "fetchedAt": "2026-10-14T16:54:39.409+08:00",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "stale": true
     },
     "codex": {
       "ok": true,
@@ -78,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T19:50:08.876+08:00",
+      "fetchedAt": "2026-10-17T20:00:08.551+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T19:50:08.883+08:00",
+      "fetchedAt": "2026-10-17T20:00:08.560+08:00",
       "error": null
     }
   }
