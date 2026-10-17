@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T21:40:07.287+08:00",
+  "updatedAt": "2026-10-17T21:50:06.685+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.8,
+    "tempC": 24.7,
     "feelsLikeC": 27.4,
     "humidity": 77,
-    "windKph": 9.4,
+    "windKph": 9.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T21:40:07.287+08:00",
+    "observedAt": "2026-10-17T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-17T21:50:06.685+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "上海市侨联“为侨服务 康养资讯”平台上线",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-17/10716453.shtml",
+        "publishedAt": "2026-10-17T21:43:59.000+08:00"
+      },
+      {
+        "title": "广东中华职业教育社养老护理员初级公益培训班落地阳春",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716435.shtml",
+        "publishedAt": "2026-10-17T21:38:27.000+08:00"
+      },
       {
         "title": "（乡村行·看振兴）“茶”中建起黄金屋 湖南苗寨产业焕新见闻",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716414.shtml",
@@ -33,19 +43,9 @@
         "title": "宁波网球公开赛：网球名将探访甬城 感知城市魅力",
         "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716405.shtml",
         "publishedAt": "2026-10-17T21:26:30.000+08:00"
-      },
-      {
-        "title": "云南民族传统体育逾300项 美美与共促团结",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-17/10716442.shtml",
-        "publishedAt": "2026-10-17T21:23:30.000+08:00"
-      },
-      {
-        "title": "全国堆肥专家齐聚呼和浩特 探索绿色农牧循环新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716402.shtml",
-        "publishedAt": "2026-10-17T21:21:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T21:40:03.139+08:00",
+    "fetchedAt": "2026-10-17T21:50:02.792+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T21:40:06.271+08:00",
+      "fetchedAt": "2026-10-17T21:50:05.812+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T21:40:06.275+08:00",
+      "fetchedAt": "2026-10-17T21:50:05.821+08:00",
       "error": null
     }
   }
