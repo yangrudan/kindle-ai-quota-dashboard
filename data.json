@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T13:10:14.831+08:00",
+  "updatedAt": "2026-10-17T13:20:47.089+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 30,
+    "tempC": 30.1,
     "feelsLikeC": 32.8,
-    "humidity": 53,
-    "windKph": 10.3,
+    "humidity": 52,
+    "windKph": 10.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T13:10:14.831+08:00",
+    "observedAt": "2026-10-17T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-17T13:20:47.089+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "河南三门峡：黄河滩区黑豆抢收忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716169.shtml",
+        "publishedAt": "2026-10-17T13:14:21.000+08:00"
+      },
+      {
+        "title": "直播外链：长征路上学党史｜重返延安 回望窑洞灯火长明",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-17/10716195.shtml",
+        "publishedAt": "2026-10-17T13:12:27.000+08:00"
+      },
+      {
+        "title": "四川石棉：安顺场红色地标引客来",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208088.shtml",
+        "publishedAt": "2026-10-17T13:08:31.000+08:00"
+      },
+      {
+        "title": "自愿放弃无效 用人单位欠缴社保最高罚3倍 新规即将施行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716192.shtml",
+        "publishedAt": "2026-10-17T13:07:11.000+08:00"
+      },
+      {
         "title": "“审理一案、治理一片” 甘肃法院破题有“+”号",
         "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716177.shtml",
         "publishedAt": "2026-10-17T13:00:09.000+08:00"
-      },
-      {
-        "title": "鹤岗萝北：跨江传友谊 研学品风情",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716163.shtml",
-        "publishedAt": "2026-10-17T12:58:03.000+08:00"
-      },
-      {
-        "title": "第四届中国非物质文化遗产保护年会在辽宁朝阳启幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716166.shtml",
-        "publishedAt": "2026-10-17T12:57:07.000+08:00"
-      },
-      {
-        "title": "湖南探索可持续城市更新模式 盘活存量空间打造新消费地标",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716168.shtml",
-        "publishedAt": "2026-10-17T12:56:54.000+08:00"
-      },
-      {
-        "title": "四川石棉：川矿记忆陈列馆里感受工业精神",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208083.shtml",
-        "publishedAt": "2026-10-17T12:56:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T13:10:04.277+08:00",
+    "fetchedAt": "2026-10-17T13:20:03.705+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T13:10:13.372+08:00",
+      "fetchedAt": "2026-10-17T13:20:45.573+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
-          "resetAt": "2026-10-17T13:13:02.000+08:00"
+          "usedPct": 3,
+          "resetAt": "2026-10-17T18:14:03.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T13:10:13.609+08:00",
+      "fetchedAt": "2026-10-17T13:20:45.828+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T13:10:13.620+08:00",
+      "fetchedAt": "2026-10-17T13:20:45.839+08:00",
       "error": null
     }
   }
