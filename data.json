@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T10:30:09.553+08:00",
+  "updatedAt": "2026-10-17T10:40:07.846+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T10:30:09.553+08:00",
+    "fetchedAt": "2026-10-17T10:40:07.846+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "在海外影院，我们为同一幕中国神话鼓掌",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716093.shtml",
-        "publishedAt": "2026-10-17T10:13:34.000+08:00"
+        "title": "青年医生的破壁之路",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716096.shtml",
+        "publishedAt": "2026-10-17T10:33:59.000+08:00"
       },
       {
-        "title": "第二届迪利曼对话会在菲律宾举办 探讨南海和平之路",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716086.shtml",
-        "publishedAt": "2026-10-17T10:05:13.000+08:00"
+        "title": "也门亚丁国际机场遭袭 沙特主导联军称拦截多枚导弹和无人机",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716092.shtml",
+        "publishedAt": "2026-10-17T10:32:39.000+08:00"
       },
       {
-        "title": "普京：必须继续对乌军工企业实施大规模打击",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716089.shtml",
-        "publishedAt": "2026-10-17T10:03:13.000+08:00"
+        "title": "朝鲜试射采用人工智能技术的新型鱼雷武器系统",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716090.shtml",
+        "publishedAt": "2026-10-17T10:30:47.000+08:00"
       },
       {
-        "title": "我国技能人才新增劳动力平均受教育年限超14年",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716088.shtml",
-        "publishedAt": "2026-10-17T09:49:56.000+08:00"
+        "title": "致敬岁月｜一曲《南山崖》，唱尽重阳最温柔的人间晚霞",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716095.shtml",
+        "publishedAt": "2026-10-17T10:29:27.000+08:00"
       },
       {
-        "title": "2026中欧隐形冠军（宁德）ESG绿色产业合作对话活动举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716075.shtml",
-        "publishedAt": "2026-10-17T09:41:22.000+08:00"
+        "title": "普京视察俄联合部队集群一处辅助指挥所",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716071.shtml",
+        "publishedAt": "2026-10-17T10:28:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T10:30:04.654+08:00",
+    "fetchedAt": "2026-10-17T10:40:02.854+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T10:30:08.313+08:00",
+      "fetchedAt": "2026-10-17T10:40:06.669+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T10:30:08.446+08:00",
+      "fetchedAt": "2026-10-17T10:40:06.733+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T10:30:08.450+08:00",
+      "fetchedAt": "2026-10-17T10:40:06.740+08:00",
       "error": null
     }
   }
