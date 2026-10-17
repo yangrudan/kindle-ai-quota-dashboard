@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T11:00:08.645+08:00",
+  "updatedAt": "2026-10-17T11:10:49.510+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T11:00:08.646+08:00",
+    "fetchedAt": "2026-10-17T11:10:49.510+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "两部门联合发文 推动“电影+体育”跨界合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716105.shtml",
+        "publishedAt": "2026-10-17T11:05:32.000+08:00"
+      },
+      {
+        "title": "鲁班工坊系列国家标准公布",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716104.shtml",
+        "publishedAt": "2026-10-17T11:04:04.000+08:00"
+      },
+      {
+        "title": "长江为什么叫长江？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716103.shtml",
+        "publishedAt": "2026-10-17T10:57:10.000+08:00"
+      },
+      {
+        "title": "以长征之名",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716102.shtml",
+        "publishedAt": "2026-10-17T10:55:04.000+08:00"
+      },
+      {
         "title": "乡村大集，走红更要长红（“三农”观察）",
         "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716100.shtml",
         "publishedAt": "2026-10-17T10:49:20.000+08:00"
-      },
-      {
-        "title": "第140届广交会：以前沿创新展品对接全球供需",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716098.shtml",
-        "publishedAt": "2026-10-17T10:45:31.000+08:00"
-      },
-      {
-        "title": "中国冰雪产业万亿市场引客来 本土品牌加速出海",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716091.shtml",
-        "publishedAt": "2026-10-17T10:41:15.000+08:00"
-      },
-      {
-        "title": "青年医生的破壁之路",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716096.shtml",
-        "publishedAt": "2026-10-17T10:33:59.000+08:00"
-      },
-      {
-        "title": "也门亚丁国际机场遭袭 沙特主导联军称拦截多枚导弹和无人机",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716092.shtml",
-        "publishedAt": "2026-10-17T10:32:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T11:00:03.830+08:00",
+    "fetchedAt": "2026-10-17T11:10:03.491+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T11:00:07.406+08:00",
+      "fetchedAt": "2026-10-17T11:10:47.682+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 16,
+          "usedPct": 20,
           "resetAt": "2026-10-17T13:13:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 65,
+          "usedPct": 66,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T11:00:07.647+08:00",
+      "fetchedAt": "2026-10-17T11:10:47.977+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T11:00:07.658+08:00",
+      "fetchedAt": "2026-10-17T11:10:47.988+08:00",
       "error": null
     }
   }
