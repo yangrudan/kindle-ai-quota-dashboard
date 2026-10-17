@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T20:20:10.991+08:00",
+  "updatedAt": "2026-10-17T20:30:09.302+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.2,
-    "feelsLikeC": 28.3,
-    "humidity": 75,
-    "windKph": 7.2,
+    "tempC": 25.1,
+    "feelsLikeC": 28.1,
+    "humidity": 76,
+    "windKph": 7.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-17T20:20:10.991+08:00",
+    "observedAt": "2026-10-17T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-17T20:30:09.302+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "四川汉源：高山苹果迎丰收 果农采摘分拣忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716397.shtml",
+        "publishedAt": "2026-10-17T20:21:19.000+08:00"
+      },
+      {
+        "title": "浙江杭州：良渚文创市集释放文创吸引力",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716396.shtml",
+        "publishedAt": "2026-10-17T20:20:21.000+08:00"
+      },
       {
         "title": "“未完成的未来 —— 中国当代水墨年鉴10周年”展览开幕式在广州举行",
         "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716374.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "山东东昌府区：顾客选购葫芦忙 产品远销海内外",
         "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716359.shtml",
         "publishedAt": "2026-10-17T19:58:59.000+08:00"
-      },
-      {
-        "title": "台湾地区云南同乡会代表走进世遗景迈山：看茶林共生 品千年茶香",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716364.shtml",
-        "publishedAt": "2026-10-17T19:56:31.000+08:00"
-      },
-      {
-        "title": "从江南烟火到智造前沿 外国记者感受江苏活力",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716362.shtml",
-        "publishedAt": "2026-10-17T19:56:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T20:20:06.602+08:00",
+    "fetchedAt": "2026-10-17T20:30:04.703+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T20:20:10.032+08:00",
+      "fetchedAt": "2026-10-17T20:30:08.484+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T20:20:10.041+08:00",
+      "fetchedAt": "2026-10-17T20:30:08.491+08:00",
       "error": null
     }
   }
