@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T20:40:07.699+08:00",
+  "updatedAt": "2026-10-17T20:50:08.076+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.1,
-    "feelsLikeC": 28.2,
+    "tempC": 25,
+    "feelsLikeC": 27.9,
     "humidity": 76,
-    "windKph": 7.3,
+    "windKph": 8.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T20:40:07.700+08:00",
+    "observedAt": "2026-10-17T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-17T20:50:08.076+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "泰国洪灾214万多人受影响",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716428.shtml",
-        "publishedAt": "2026-10-17T20:37:27.000+08:00"
+        "title": "西藏小学生在上海解锁“人生第一次马戏体验”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716425.shtml",
+        "publishedAt": "2026-10-17T20:41:04.000+08:00"
       },
       {
-        "title": "“哪有什么神奇诀窍，不过是你让让我，我让让你”……这对百岁夫妻的日常，藏着相守80余年的答案",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716430.shtml",
-        "publishedAt": "2026-10-17T20:33:51.000+08:00"
+        "title": "“比专业更有趣，比有趣更专业” 中国一高校科普平台创办十周年",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716417.shtml",
+        "publishedAt": "2026-10-17T20:40:40.000+08:00"
       },
       {
-        "title": "人这一辈子，一定要去一趟“Token之都”！",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716411.shtml",
-        "publishedAt": "2026-10-17T20:28:07.000+08:00"
+        "title": "河北唐山：工程师迷上火笔画 铁笔烫出万千气象",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716381.shtml",
+        "publishedAt": "2026-10-17T20:40:40.000+08:00"
       },
       {
-        "title": "第四届“跳动的非遗”粤港澳青少年街舞交流赛在穗举办",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716409.shtml",
-        "publishedAt": "2026-10-17T20:27:31.000+08:00"
+        "title": "全国主流媒体走进“攀西阳光第一城” 品读汉源湖畔的“阳光”文章",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716380.shtml",
+        "publishedAt": "2026-10-17T20:40:22.000+08:00"
       },
       {
-        "title": "“侨连五洲·相约河北”海外侨菁河北行活动走进雄安",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716406.shtml",
-        "publishedAt": "2026-10-17T20:26:51.000+08:00"
+        "title": "AI落地的“检验标准”趋于多元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716379.shtml",
+        "publishedAt": "2026-10-17T20:40:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T20:40:02.960+08:00",
+    "fetchedAt": "2026-10-17T20:50:03.291+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T20:40:06.801+08:00",
+      "fetchedAt": "2026-10-17T20:50:07.148+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T20:40:06.810+08:00",
+      "fetchedAt": "2026-10-17T20:50:07.158+08:00",
       "error": null
     }
   }
