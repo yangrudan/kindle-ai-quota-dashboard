@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T17:30:38.407+08:00",
+  "updatedAt": "2026-10-17T17:41:02.912+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T17:30:38.408+08:00",
+    "fetchedAt": "2026-10-17T17:41:02.912+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国城博会观察：机器人“上岗”城市运维",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716294.shtml",
-        "publishedAt": "2026-10-17T17:22:31.000+08:00"
+        "title": "从碧海到古寺：普吉岛旅游体验融入多元文化",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716288.shtml",
+        "publishedAt": "2026-10-17T17:33:27.000+08:00"
       },
       {
-        "title": "第140届广交会首次设立国际医疗服务专区",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716292.shtml",
-        "publishedAt": "2026-10-17T17:20:49.000+08:00"
+        "title": "探寻诗歌的更多可能 臧棣诗集《部落玫瑰》研讨会在京举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716290.shtml",
+        "publishedAt": "2026-10-17T17:28:51.000+08:00"
       },
       {
-        "title": "外宾沉浸式感受福建非遗魅力",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716287.shtml",
-        "publishedAt": "2026-10-17T17:19:59.000+08:00"
+        "title": "世界冠军助阵 2026年棋牌项目西部行重庆主会场活动启动",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716291.shtml",
+        "publishedAt": "2026-10-17T17:27:57.000+08:00"
       },
       {
-        "title": "2026亚洲汽车扭樽（金卡纳）锦标赛香港站开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716286.shtml",
-        "publishedAt": "2026-10-17T17:19:09.000+08:00"
+        "title": "第八届全国业余手球公开赛南昌开赛 400名选手同台竞技",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716293.shtml",
+        "publishedAt": "2026-10-17T17:27:07.000+08:00"
       },
       {
-        "title": "2026北马参赛指南，请查收！",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716285.shtml",
-        "publishedAt": "2026-10-17T17:07:04.000+08:00"
+        "title": "沈阳东北亚人才交流大会释放AI引力向全球揽才",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716295.shtml",
+        "publishedAt": "2026-10-17T17:26:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T17:30:03.829+08:00",
+    "fetchedAt": "2026-10-17T17:40:04.103+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T17:30:35.968+08:00",
+      "fetchedAt": "2026-10-17T17:40:42.635+08:00",
       "error": null
     },
     "codex": {
@@ -79,7 +79,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-17T17:30:36.249+08:00",
-      "error": null
+      "error": "Codex app-server 查询超时",
+      "stale": true,
+      "lastAttemptAt": "2026-10-17T17:40:42.901+08:00"
     },
     "mimo": {
       "ok": true,
@@ -97,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T17:30:36.259+08:00",
+      "fetchedAt": "2026-10-17T17:40:42.912+08:00",
       "error": null
     }
   }
