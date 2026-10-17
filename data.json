@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-18T06:40:08.666+08:00",
+  "updatedAt": "2026-10-18T06:50:06.967+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.6,
-    "feelsLikeC": 25.8,
-    "humidity": 87,
-    "windKph": 4.9,
+    "tempC": 22.9,
+    "feelsLikeC": 26.1,
+    "humidity": 86,
+    "windKph": 5.2,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-18T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T06:40:08.667+08:00",
+    "observedAt": "2026-10-18T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T06:50:06.967+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-10-17T23:20:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T06:40:03.093+08:00",
+    "fetchedAt": "2026-10-18T06:50:03.159+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -71,15 +71,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T11:40:07.000+08:00"
+          "resetAt": "2026-10-18T11:50:06.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T06:40:07.000+08:00"
+          "resetAt": "2026-10-25T06:50:06.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T06:40:07.103+08:00",
+      "fetchedAt": "2026-10-18T06:50:06.055+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T06:40:07.108+08:00",
+      "fetchedAt": "2026-10-18T06:50:06.060+08:00",
       "error": null
     }
   }
