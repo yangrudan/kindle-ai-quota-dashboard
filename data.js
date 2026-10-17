@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T23:00:08.247+08:00",
+  "updatedAt": "2026-10-17T23:10:07.429+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-10-17T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T23:00:08.247+08:00",
+    "fetchedAt": "2026-10-17T23:10:07.430+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "暹粒吴哥国际机场通航3年旅客吞吐量超463万人次",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-17/10716473.shtml",
+        "publishedAt": "2026-10-17T23:01:23.000+08:00"
+      },
+      {
+        "title": "两岸学者福建南平共探朱子文化遗产与融合发展",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716472.shtml",
+        "publishedAt": "2026-10-17T22:58:03.000+08:00"
+      },
       {
         "title": "冀中能源集团董事会原董事陈亚杰接受审查调查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716463.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "辽宁省沈阳市委原常委、政法委原书记郭忠孝被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716465.shtml",
         "publishedAt": "2026-10-17T22:30:42.000+08:00"
-      },
-      {
-        "title": "做世界减贫事业的有力推动者",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716325.shtml",
-        "publishedAt": "2026-10-17T22:29:35.000+08:00"
-      },
-      {
-        "title": "学习手记｜答好“长征三问” 坚定必胜信念",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716338.shtml",
-        "publishedAt": "2026-10-17T22:27:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T23:00:04.088+08:00",
+    "fetchedAt": "2026-10-17T23:10:03.086+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T23:00:07.376+08:00",
+      "fetchedAt": "2026-10-17T23:10:06.368+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T23:00:07.386+08:00",
+      "fetchedAt": "2026-10-17T23:10:06.377+08:00",
       "error": null
     }
   }
