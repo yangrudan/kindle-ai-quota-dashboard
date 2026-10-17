@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T04:20:07.758+08:00",
+  "updatedAt": "2026-10-18T04:30:38.151+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.2,
+    "tempC": 23.1,
     "feelsLikeC": 25.8,
     "humidity": 83,
-    "windKph": 9.1,
+    "windKph": 8.3,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-18T04:15:00.000+08:00",
-    "fetchedAt": "2026-10-18T04:20:07.758+08:00",
+    "observedAt": "2026-10-18T04:30:00.000+08:00",
+    "fetchedAt": "2026-10-18T04:30:38.151+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-17T22:32:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T04:20:03.441+08:00",
+    "fetchedAt": "2026-10-18T04:30:03.915+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -71,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T09:20:07.000+08:00"
+          "resetAt": "2026-10-18T09:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T04:20:06.948+08:00",
+      "fetchedAt": "2026-10-18T04:30:37.314+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T04:20:06.953+08:00",
+      "fetchedAt": "2026-10-18T04:30:37.322+08:00",
       "error": null
     }
   }
