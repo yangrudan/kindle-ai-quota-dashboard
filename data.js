@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T21:50:06.685+08:00",
+  "updatedAt": "2026-10-17T22:00:08.753+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 24.7,
-    "feelsLikeC": 27.4,
-    "humidity": 77,
-    "windKph": 9.3,
+    "feelsLikeC": 27.2,
+    "humidity": 76,
+    "windKph": 9.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T21:50:06.685+08:00",
+    "observedAt": "2026-10-17T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-17T22:00:08.753+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "克罗地亚总理普连科维奇会见王毅",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716470.shtml",
+        "publishedAt": "2026-10-17T21:52:58.000+08:00"
+      },
       {
         "title": "上海市侨联“为侨服务 康养资讯”平台上线",
         "url": "https://www.chinanews.com.cn/hr/2026/10-17/10716453.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "当AI开始替人做决定，谁在杀死“租流量”的品牌？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716410.shtml",
         "publishedAt": "2026-10-17T21:31:04.000+08:00"
-      },
-      {
-        "title": "宁波网球公开赛：网球名将探访甬城 感知城市魅力",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716405.shtml",
-        "publishedAt": "2026-10-17T21:26:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T21:50:02.792+08:00",
+    "fetchedAt": "2026-10-17T22:00:04.294+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T21:50:05.812+08:00",
+      "fetchedAt": "2026-10-17T22:00:07.360+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T21:50:05.821+08:00",
+      "fetchedAt": "2026-10-17T22:00:07.364+08:00",
       "error": null
     }
   }
