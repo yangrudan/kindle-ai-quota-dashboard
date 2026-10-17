@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T12:30:25.823+08:00",
+  "updatedAt": "2026-10-17T12:40:22.006+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T12:30:25.823+08:00",
+    "fetchedAt": "2026-10-17T12:40:22.006+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日媒：高市内阁一名阁僚参拜靖国神社",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716165.shtml",
+        "publishedAt": "2026-10-17T12:34:23.000+08:00"
+      },
+      {
+        "title": "血管“杀手”常换马甲 警惕配料表中的这些词",
+        "url": "https://www.chinanews.com.cn/life/2026/10-17/10716162.shtml",
+        "publishedAt": "2026-10-17T12:32:45.000+08:00"
+      },
+      {
+        "title": "涉老年人在线教育类纠纷有什么特点？ “学到老”怎样才能避坑？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716152.shtml",
+        "publishedAt": "2026-10-17T12:24:09.000+08:00"
+      },
       {
         "title": "“来自一线的镜头最触动人心”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716147.shtml",
@@ -28,24 +43,9 @@
         "title": "西藏定日学子体验上海校园生活 架起友谊桥梁",
         "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716135.shtml",
         "publishedAt": "2026-10-17T12:10:26.000+08:00"
-      },
-      {
-        "title": "部分中介使用虚假图片打造“完美房源”引流 专家建议",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-17/10716138.shtml",
-        "publishedAt": "2026-10-17T12:09:32.000+08:00"
-      },
-      {
-        "title": "从看风景到看工厂：海外游客热衷来华“科技游”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716137.shtml",
-        "publishedAt": "2026-10-17T12:04:22.000+08:00"
-      },
-      {
-        "title": "科技赋能让中国故事更快跨越山海",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716136.shtml",
-        "publishedAt": "2026-10-17T12:01:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T12:30:03.685+08:00",
+    "fetchedAt": "2026-10-17T12:40:05.190+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T12:30:24.197+08:00",
+      "fetchedAt": "2026-10-17T12:40:20.725+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T12:30:24.481+08:00",
+      "fetchedAt": "2026-10-17T12:40:21.007+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T12:30:24.491+08:00",
+      "fetchedAt": "2026-10-17T12:40:21.016+08:00",
       "error": null
     }
   }
