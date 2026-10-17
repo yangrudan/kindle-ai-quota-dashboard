@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T17:41:02.912+08:00",
+  "updatedAt": "2026-10-17T17:51:00.977+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.9,
-    "feelsLikeC": 31,
-    "humidity": 64,
-    "windKph": 6.6,
+    "tempC": 27.5,
+    "feelsLikeC": 30.7,
+    "humidity": 66,
+    "windKph": 6.1,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T17:41:02.912+08:00",
+    "observedAt": "2026-10-17T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-17T17:51:00.978+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从碧海到古寺：普吉岛旅游体验融入多元文化",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716288.shtml",
-        "publishedAt": "2026-10-17T17:33:27.000+08:00"
+        "title": "美食爱好者赴《洪炉》之约分享川菜百味",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716277.shtml",
+        "publishedAt": "2026-10-17T17:45:44.000+08:00"
       },
       {
-        "title": "探寻诗歌的更多可能 臧棣诗集《部落玫瑰》研讨会在京举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716290.shtml",
-        "publishedAt": "2026-10-17T17:28:51.000+08:00"
+        "title": "科技点亮非遗 新阶层人士助力焕新“老手艺”",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716278.shtml",
+        "publishedAt": "2026-10-17T17:45:06.000+08:00"
       },
       {
-        "title": "世界冠军助阵 2026年棋牌项目西部行重庆主会场活动启动",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716291.shtml",
-        "publishedAt": "2026-10-17T17:27:57.000+08:00"
+        "title": "24个国家和地区选手竞技环贵州国际公路自行车赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716279.shtml",
+        "publishedAt": "2026-10-17T17:44:24.000+08:00"
       },
       {
-        "title": "第八届全国业余手球公开赛南昌开赛 400名选手同台竞技",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716293.shtml",
-        "publishedAt": "2026-10-17T17:27:07.000+08:00"
+        "title": "深圳举行APEC倒计时30天主题活动 以绿色出行聚共识",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716283.shtml",
+        "publishedAt": "2026-10-17T17:43:30.000+08:00"
       },
       {
-        "title": "沈阳东北亚人才交流大会释放AI引力向全球揽才",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716295.shtml",
-        "publishedAt": "2026-10-17T17:26:11.000+08:00"
+        "title": "百余幅水墨作品亮相王维故里 山西祁县以丹青赓续千年文脉",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716284.shtml",
+        "publishedAt": "2026-10-17T17:42:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T17:40:04.103+08:00",
+    "fetchedAt": "2026-10-17T17:50:03.275+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T17:40:42.635+08:00",
+      "fetchedAt": "2026-10-17T17:50:48.168+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 23,
           "resetAt": "2026-10-17T18:14:03.000+08:00"
         },
         {
@@ -78,10 +78,8 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T17:30:36.249+08:00",
-      "error": "Codex app-server 查询超时",
-      "stale": true,
-      "lastAttemptAt": "2026-10-17T17:40:42.901+08:00"
+      "fetchedAt": "2026-10-17T17:50:48.427+08:00",
+      "error": null
     },
     "mimo": {
       "ok": true,
@@ -99,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T17:40:42.912+08:00",
+      "fetchedAt": "2026-10-17T17:50:48.437+08:00",
       "error": null
     }
   }
