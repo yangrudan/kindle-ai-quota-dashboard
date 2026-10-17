@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T19:00:32.536+08:00",
+  "updatedAt": "2026-10-17T19:11:08.109+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.3,
-    "feelsLikeC": 29.9,
-    "humidity": 73,
+    "tempC": 26.1,
+    "feelsLikeC": 29.8,
+    "humidity": 74,
     "windKph": 5.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-17T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T19:00:32.536+08:00",
+    "observedAt": "2026-10-17T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-17T19:11:08.109+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新品占比创新高！广交会开馆爆单，中国制造圈粉全球→",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716345.shtml",
+        "publishedAt": "2026-10-17T19:01:50.000+08:00"
+      },
+      {
+        "title": "“援青杯”足球邀请赛在青海海东打响",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716337.shtml",
+        "publishedAt": "2026-10-17T18:59:58.000+08:00"
+      },
       {
         "title": "王沪宁在四川调研",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208143.shtml",
@@ -33,19 +43,9 @@
         "title": "让民营企业敢投、愿投、能投",
         "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716341.shtml",
         "publishedAt": "2026-10-17T18:47:57.000+08:00"
-      },
-      {
-        "title": "王沪宁在四川调研时强调 坚持为推进中国式现代化凝心聚力 扎实做好新时代党的民族宗教工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716329.shtml",
-        "publishedAt": "2026-10-17T18:47:15.000+08:00"
-      },
-      {
-        "title": "在发展中留住记忆，在更新中延续文脉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716340.shtml",
-        "publishedAt": "2026-10-17T18:46:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T19:00:03.589+08:00",
+    "fetchedAt": "2026-10-17T19:10:04.680+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T19:00:31.135+08:00",
+      "fetchedAt": "2026-10-17T19:11:06.936+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
+          "usedPct": 16,
           "resetAt": "2026-10-17T23:14:07.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 78,
+          "usedPct": 79,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T19:00:31.416+08:00",
+      "fetchedAt": "2026-10-17T19:11:07.238+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T19:00:31.426+08:00",
+      "fetchedAt": "2026-10-17T19:11:07.249+08:00",
       "error": null
     }
   }
