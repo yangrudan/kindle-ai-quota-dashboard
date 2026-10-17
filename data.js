@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T11:50:08.141+08:00",
+  "updatedAt": "2026-10-17T12:00:09.565+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.8,
-    "feelsLikeC": 32,
-    "humidity": 57,
-    "windKph": 9.4,
+    "tempC": 29.1,
+    "feelsLikeC": 32.3,
+    "humidity": 56,
+    "windKph": 9.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T11:50:08.141+08:00",
+    "observedAt": "2026-10-17T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-17T12:00:09.565+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从背着订单来，到带着资金来（探馆广交会）",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716130.shtml",
+        "publishedAt": "2026-10-17T11:51:25.000+08:00"
+      },
       {
         "title": "开放底色鲜明 创新动能强劲——第九届中国国际进口博览会亮点前瞻",
         "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716121.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "错估震级9.9级 日本气象厅两度召开记者会致歉",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208079.shtml",
         "publishedAt": "2026-10-17T11:36:34.000+08:00"
-      },
-      {
-        "title": "从三叠纪化石到明代屯堡，高原大地上的文明“石”书",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716114.shtml",
-        "publishedAt": "2026-10-17T11:31:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T11:50:02.723+08:00",
+    "fetchedAt": "2026-10-17T12:00:03.842+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T11:50:07.004+08:00",
+      "fetchedAt": "2026-10-17T12:00:08.218+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 28,
+          "usedPct": 32,
           "resetAt": "2026-10-17T13:13:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 67,
+          "usedPct": 68,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T11:50:07.328+08:00",
+      "fetchedAt": "2026-10-17T12:00:08.548+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T11:50:07.340+08:00",
+      "fetchedAt": "2026-10-17T12:00:08.557+08:00",
       "error": null
     }
   }
