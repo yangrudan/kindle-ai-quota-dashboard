@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T15:00:10.965+08:00",
+  "updatedAt": "2026-10-17T15:10:20.059+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 30.6,
+    "tempC": 30.5,
     "feelsLikeC": 32.3,
     "humidity": 51,
-    "windKph": 11.9,
+    "windKph": 11.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T15:00:10.965+08:00",
+    "observedAt": "2026-10-17T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-17T15:10:20.059+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "东西问｜邓贝西：中国如何积极推动北极的国际务实合作？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-17/10716218.shtml",
+        "publishedAt": "2026-10-17T14:59:07.000+08:00"
+      },
       {
         "title": "吉林前三季度新能源发电量占比近四成 绿电变燃料出海",
         "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716219.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "多型新型装备将同台亮相！中国航展亮点抢先看",
         "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716221.shtml",
         "publishedAt": "2026-10-17T14:40:02.000+08:00"
-      },
-      {
-        "title": "河北省第十七届运动会在唐山开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716220.shtml",
-        "publishedAt": "2026-10-17T14:36:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T15:00:03.239+08:00",
+    "fetchedAt": "2026-10-17T15:10:03.233+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T15:00:09.677+08:00",
+      "fetchedAt": "2026-10-17T15:10:17.726+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T15:00:10.004+08:00",
+      "fetchedAt": "2026-10-17T15:10:18.412+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T15:00:10.012+08:00",
+      "fetchedAt": "2026-10-17T15:10:18.421+08:00",
       "error": null
     }
   }
