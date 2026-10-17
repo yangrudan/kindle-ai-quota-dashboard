@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T21:00:09.984+08:00",
+  "updatedAt": "2026-10-17T21:10:08.132+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T21:00:09.984+08:00",
+    "fetchedAt": "2026-10-17T21:10:08.132+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“九九重阳”全民健身主题活动全国主会场落户西安楼观台",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716412.shtml",
-        "publishedAt": "2026-10-17T20:57:16.000+08:00"
+        "title": "美国医学专家：西方医学可借鉴传统医药“以人为本”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716444.shtml",
+        "publishedAt": "2026-10-17T21:08:15.000+08:00"
       },
       {
-        "title": "从“长江大咖”到本土小鱼 “寻鱼沪上”主题展在上海开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716431.shtml",
-        "publishedAt": "2026-10-17T20:56:44.000+08:00"
+        "title": "“救援先锋”王晓成：洪水中驾动力舟桥转移广西贵港被困师生",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716398.shtml",
+        "publishedAt": "2026-10-17T21:07:35.000+08:00"
       },
       {
-        "title": "2026赛季中乙联赛：山西崇德荣海胜深圳二零二八",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716439.shtml",
-        "publishedAt": "2026-10-17T20:56:08.000+08:00"
+        "title": "中国养老业从“照料”转向“智慧” 年轻人成新生力量",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716395.shtml",
+        "publishedAt": "2026-10-17T21:07:25.000+08:00"
       },
       {
-        "title": "从原料输出到加工增值 海南自贸港政策赋能屯昌橡胶产业升级",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716432.shtml",
-        "publishedAt": "2026-10-17T20:56:02.000+08:00"
+        "title": "哈工程兴海论坛启幕 聚海内外青年英才共赴兴海之约",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716394.shtml",
+        "publishedAt": "2026-10-17T21:07:23.000+08:00"
       },
       {
-        "title": "述评：千年古镇浙江乌镇如何打响“戏剧牌”？",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716434.shtml",
-        "publishedAt": "2026-10-17T20:54:50.000+08:00"
+        "title": "“中海幸福社区” 首个服务中心在港开幕 聚焦“进阶版”社区服务",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-17/10716457.shtml",
+        "publishedAt": "2026-10-17T21:06:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T21:00:05.018+08:00",
+    "fetchedAt": "2026-10-17T21:10:03.378+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -70,16 +70,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 26,
+          "usedPct": 34,
           "resetAt": "2026-10-17T23:14:07.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 80,
+          "usedPct": 82,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T21:00:08.069+08:00",
+      "fetchedAt": "2026-10-17T21:10:07.122+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T21:00:08.078+08:00",
+      "fetchedAt": "2026-10-17T21:10:07.126+08:00",
       "error": null
     }
   }
