@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:20:47.089+08:00",
+  "updatedAt": "2026-10-17T13:30:39.708+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-17T13:20:47.089+08:00",
+    "fetchedAt": "2026-10-17T13:30:39.709+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "打通为老服务“最后一公里” 各地出招便利老年人生活",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716198.shtml",
+        "publishedAt": "2026-10-17T13:19:02.000+08:00"
+      },
+      {
+        "title": "云南省第五届传统戏剧曲艺汇演在昆明启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716158.shtml",
+        "publishedAt": "2026-10-17T13:18:00.000+08:00"
+      },
+      {
+        "title": "中国研发全球农情遥感监测平台获联合国粮农组织成就奖",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716164.shtml",
+        "publishedAt": "2026-10-17T13:16:12.000+08:00"
+      },
+      {
+        "title": "首届新疆青年企业家大会暨新疆青年企业家商会成立大会举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716191.shtml",
+        "publishedAt": "2026-10-17T13:16:10.000+08:00"
+      },
+      {
         "title": "河南三门峡：黄河滩区黑豆抢收忙",
         "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716169.shtml",
         "publishedAt": "2026-10-17T13:14:21.000+08:00"
-      },
-      {
-        "title": "直播外链：长征路上学党史｜重返延安 回望窑洞灯火长明",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-17/10716195.shtml",
-        "publishedAt": "2026-10-17T13:12:27.000+08:00"
-      },
-      {
-        "title": "四川石棉：安顺场红色地标引客来",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208088.shtml",
-        "publishedAt": "2026-10-17T13:08:31.000+08:00"
-      },
-      {
-        "title": "自愿放弃无效 用人单位欠缴社保最高罚3倍 新规即将施行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716192.shtml",
-        "publishedAt": "2026-10-17T13:07:11.000+08:00"
-      },
-      {
-        "title": "“审理一案、治理一片” 甘肃法院破题有“+”号",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716177.shtml",
-        "publishedAt": "2026-10-17T13:00:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T13:20:03.705+08:00",
+    "fetchedAt": "2026-10-17T13:30:02.964+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T13:20:45.573+08:00",
+      "fetchedAt": "2026-10-17T13:30:36.918+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 6,
           "resetAt": "2026-10-17T18:14:03.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 72,
+          "usedPct": 73,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T13:20:45.828+08:00",
+      "fetchedAt": "2026-10-17T13:30:37.187+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T13:20:45.839+08:00",
+      "fetchedAt": "2026-10-17T13:30:37.198+08:00",
       "error": null
     }
   }
