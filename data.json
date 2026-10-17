@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T10:50:40.199+08:00",
+  "updatedAt": "2026-10-17T11:00:08.645+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.2,
-    "feelsLikeC": 30.3,
-    "humidity": 63,
-    "windKph": 8.7,
+    "tempC": 27.6,
+    "feelsLikeC": 30.8,
+    "humidity": 61,
+    "windKph": 8.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T10:50:40.199+08:00",
+    "observedAt": "2026-10-17T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-17T11:00:08.646+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "乡村大集，走红更要长红（“三农”观察）",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716100.shtml",
+        "publishedAt": "2026-10-17T10:49:20.000+08:00"
+      },
+      {
+        "title": "第140届广交会：以前沿创新展品对接全球供需",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716098.shtml",
+        "publishedAt": "2026-10-17T10:45:31.000+08:00"
+      },
       {
         "title": "中国冰雪产业万亿市场引客来 本土品牌加速出海",
         "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716091.shtml",
@@ -33,19 +43,9 @@
         "title": "也门亚丁国际机场遭袭 沙特主导联军称拦截多枚导弹和无人机",
         "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716092.shtml",
         "publishedAt": "2026-10-17T10:32:39.000+08:00"
-      },
-      {
-        "title": "朝鲜试射采用人工智能技术的新型鱼雷武器系统",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716090.shtml",
-        "publishedAt": "2026-10-17T10:30:47.000+08:00"
-      },
-      {
-        "title": "致敬岁月｜一曲《南山崖》，唱尽重阳最温柔的人间晚霞",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716095.shtml",
-        "publishedAt": "2026-10-17T10:29:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T10:50:04.400+08:00",
+    "fetchedAt": "2026-10-17T11:00:03.830+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T10:50:39.058+08:00",
+      "fetchedAt": "2026-10-17T11:00:07.406+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 16,
           "resetAt": "2026-10-17T13:13:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 64,
+          "usedPct": 65,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T10:50:39.219+08:00",
+      "fetchedAt": "2026-10-17T11:00:07.647+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T10:50:39.230+08:00",
+      "fetchedAt": "2026-10-17T11:00:07.658+08:00",
       "error": null
     }
   }
