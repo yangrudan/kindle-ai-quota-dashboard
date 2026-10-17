@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T19:40:55.428+08:00",
+  "updatedAt": "2026-10-17T19:50:09.913+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.9,
-    "feelsLikeC": 29.6,
+    "tempC": 25.8,
+    "feelsLikeC": 29.4,
     "humidity": 75,
-    "windKph": 5.3,
+    "windKph": 5.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-17T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T19:40:55.428+08:00",
+    "observedAt": "2026-10-17T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-17T19:50:09.913+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "智慧农机与时间“赛跑”抢收抢种 各地打出“组合拳”保障秋粮安全入库",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716355.shtml",
-        "publishedAt": "2026-10-17T19:28:52.000+08:00"
+        "title": "南京财经大学建校70周年高质量发展大会举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716332.shtml",
+        "publishedAt": "2026-10-17T19:44:31.000+08:00"
       },
       {
-        "title": "生产消费齐发力 三季度出口首破8万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716354.shtml",
-        "publishedAt": "2026-10-17T19:25:40.000+08:00"
+        "title": "聚焦“人工智能时代的肿瘤免疫学” 中外专家齐聚重庆论道",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716336.shtml",
+        "publishedAt": "2026-10-17T19:43:57.000+08:00"
       },
       {
-        "title": "马拉松“破2”第一人萨维到访北大 寄语年轻跑者保持热爱、耐心和自律",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716321.shtml",
-        "publishedAt": "2026-10-17T19:25:34.000+08:00"
+        "title": "“援青杯”足球邀请赛青海海东打响 四支劲旅角逐高原竞技场",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716335.shtml",
+        "publishedAt": "2026-10-17T19:43:53.000+08:00"
       },
       {
-        "title": "李强在2026世界传统医药大会开幕式上的致辞（全文）",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716350.shtml",
-        "publishedAt": "2026-10-17T19:24:11.000+08:00"
+        "title": "苏州“两岸两链”先进制造业专场举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716333.shtml",
+        "publishedAt": "2026-10-17T19:43:49.000+08:00"
       },
       {
-        "title": "李强出席2026世界传统医药大会开幕式并致辞",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716342.shtml",
-        "publishedAt": "2026-10-17T19:22:59.000+08:00"
+        "title": "北京出台26条措施推进托幼一体化发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716323.shtml",
+        "publishedAt": "2026-10-17T19:43:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T19:40:03.796+08:00",
+    "fetchedAt": "2026-10-17T19:50:03.470+08:00",
     "error": null
   },
   "sources": {
@@ -55,14 +55,13 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 29.3,
+          "usedPct": 34.5,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 1061 / 1500 AIC"
+          "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：spawnSync gh ETIMEDOUT",
-      "stale": true
+      "fetchedAt": "2026-10-17T19:50:08.602+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -79,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T19:40:54.611+08:00",
+      "fetchedAt": "2026-10-17T19:50:08.876+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T19:40:54.615+08:00",
+      "fetchedAt": "2026-10-17T19:50:08.883+08:00",
       "error": null
     }
   }
