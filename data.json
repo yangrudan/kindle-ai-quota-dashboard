@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T18:20:28.923+08:00",
+  "updatedAt": "2026-10-17T18:30:53.135+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.8,
-    "feelsLikeC": 30.2,
-    "humidity": 70,
-    "windKph": 5.2,
+    "tempC": 26.5,
+    "feelsLikeC": 30.1,
+    "humidity": 71,
+    "windKph": 5.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-17T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-17T18:20:28.923+08:00",
+    "observedAt": "2026-10-17T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-17T18:30:53.135+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026世界传统医药大会在北京开幕",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208129.shtml",
+        "publishedAt": "2026-10-17T18:27:01.000+08:00"
+      },
+      {
+        "title": "河南信阳南湾湖秋捕 丰收场景喜人",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716322.shtml",
+        "publishedAt": "2026-10-17T18:13:54.000+08:00"
+      },
       {
         "title": "成都：近4000名“小勇士”挑战斯巴达勇士儿童赛",
         "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716308.shtml",
@@ -33,19 +43,9 @@
         "title": "第十四届石壁客家论坛在宁化举行",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716314.shtml",
         "publishedAt": "2026-10-17T18:00:29.000+08:00"
-      },
-      {
-        "title": "招商银行举办“聚力共链 产业启航”2026年度活动",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716310.shtml",
-        "publishedAt": "2026-10-17T18:00:17.000+08:00"
-      },
-      {
-        "title": "核安全监管升级护航核电高质量发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716306.shtml",
-        "publishedAt": "2026-10-17T17:59:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T18:20:21.709+08:00",
+    "fetchedAt": "2026-10-17T18:30:05.488+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T18:20:27.693+08:00",
+      "fetchedAt": "2026-10-17T18:30:31.543+08:00",
       "error": null
     },
     "codex": {
@@ -79,7 +79,9 @@
         }
       ],
       "fetchedAt": "2026-10-17T18:20:28.029+08:00",
-      "error": null
+      "error": "Codex app-server 查询超时",
+      "stale": true,
+      "lastAttemptAt": "2026-10-17T18:30:33.122+08:00"
     },
     "mimo": {
       "ok": true,
@@ -97,7 +99,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T18:20:28.039+08:00",
+      "fetchedAt": "2026-10-17T18:30:33.131+08:00",
       "error": null
     }
   }
