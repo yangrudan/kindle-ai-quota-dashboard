@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T11:10:49.510+08:00",
+  "updatedAt": "2026-10-17T11:20:13.881+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.6,
-    "feelsLikeC": 30.8,
-    "humidity": 61,
-    "windKph": 8.9,
+    "tempC": 28,
+    "feelsLikeC": 31.3,
+    "humidity": 60,
+    "windKph": 9.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T11:10:49.510+08:00",
+    "observedAt": "2026-10-17T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-17T11:20:13.881+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“十五五”专项规划里的文化力量",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716111.shtml",
+        "publishedAt": "2026-10-17T11:16:23.000+08:00"
+      },
+      {
+        "title": "AI乌镇 科创桐乡｜1米88“大个子”！濮院街头有了“机器人交警”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716109.shtml",
+        "publishedAt": "2026-10-17T11:13:11.000+08:00"
+      },
       {
         "title": "两部门联合发文 推动“电影+体育”跨界合作",
         "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716105.shtml",
@@ -33,19 +43,9 @@
         "title": "长江为什么叫长江？",
         "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716103.shtml",
         "publishedAt": "2026-10-17T10:57:10.000+08:00"
-      },
-      {
-        "title": "以长征之名",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716102.shtml",
-        "publishedAt": "2026-10-17T10:55:04.000+08:00"
-      },
-      {
-        "title": "乡村大集，走红更要长红（“三农”观察）",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716100.shtml",
-        "publishedAt": "2026-10-17T10:49:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T11:10:03.491+08:00",
+    "fetchedAt": "2026-10-17T11:20:03.783+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T11:10:47.682+08:00",
+      "fetchedAt": "2026-10-17T11:20:12.620+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T11:10:47.977+08:00",
+      "fetchedAt": "2026-10-17T11:20:12.944+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T11:10:47.988+08:00",
+      "fetchedAt": "2026-10-17T11:20:12.953+08:00",
       "error": null
     }
   }
