@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:30:48.984+08:00",
+  "updatedAt": "2026-10-17T14:40:39.135+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T14:30:48.984+08:00",
+    "fetchedAt": "2026-10-17T14:40:39.136+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "李羽洁、闫盼盼将担任亚残运会开幕式中国体育代表团旗手",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716211.shtml",
-        "publishedAt": "2026-10-17T14:06:58.000+08:00"
+        "title": "第十六届中国摄影艺术节将于三门峡启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716217.shtml",
+        "publishedAt": "2026-10-17T14:31:22.000+08:00"
       },
       {
-        "title": "广交会观察：中国企业深耕共建“一带一路”国家市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716202.shtml",
-        "publishedAt": "2026-10-17T14:03:02.000+08:00"
+        "title": "书写隐蔽战线信仰史诗 电视剧《交锋》创作座谈会在京举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716215.shtml",
+        "publishedAt": "2026-10-17T14:31:12.000+08:00"
       },
       {
-        "title": "外国专家驳斥所谓“中国AI威胁论”：系西方担心落后而炮制的叙事丨新闻会客厅",
-        "url": "http://www.chinanews.com.cn/gj/shipin/2026/10-17/news1072092.shtml",
-        "publishedAt": "2026-10-17T13:57:05.000+08:00"
+        "title": "云南传统戏剧曲艺汇演在昆明启幕 展出42个优秀剧（节）目",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716200.shtml",
+        "publishedAt": "2026-10-17T14:30:26.000+08:00"
       },
       {
-        "title": "镜观中国｜千年岳麓 百年湖大 何以常新",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716087.shtml",
-        "publishedAt": "2026-10-17T13:53:00.000+08:00"
+        "title": "从个播到多元生态，抖音直播以规范护航行业向新而行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716201.shtml",
+        "publishedAt": "2026-10-17T14:30:24.000+08:00"
       },
       {
-        "title": "习言道｜前景广阔！习近平部署这张“网”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716197.shtml",
-        "publishedAt": "2026-10-17T13:43:19.000+08:00"
+        "title": "北京迎入秋以来最强降雨",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716203.shtml",
+        "publishedAt": "2026-10-17T14:30:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T14:30:04.231+08:00",
+    "fetchedAt": "2026-10-17T14:40:03.584+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T14:30:46.093+08:00",
+      "fetchedAt": "2026-10-17T14:40:36.140+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T14:30:47.569+08:00",
+      "fetchedAt": "2026-10-17T14:40:36.445+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T14:30:47.575+08:00",
+      "fetchedAt": "2026-10-17T14:40:36.454+08:00",
       "error": null
     }
   }
