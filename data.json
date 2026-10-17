@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T23:50:08.019+08:00",
+  "updatedAt": "2026-10-18T00:00:08.370+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-10-17T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T23:50:08.019+08:00",
+    "fetchedAt": "2026-10-18T00:00:08.370+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "孟加拉国度假村火灾已致10人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml",
+        "publishedAt": "2026-10-17T23:45:20.000+08:00"
+      },
       {
         "title": "世界超级摩托车锦标赛西班牙站：“张雪机车”首回合获第10名",
         "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716478.shtml",
@@ -38,14 +43,9 @@
         "title": "冀中能源集团董事会原董事陈亚杰接受审查调查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716463.shtml",
         "publishedAt": "2026-10-17T22:32:30.000+08:00"
-      },
-      {
-        "title": "辽宁省本溪市政协原党组副书记、副主席邵涛被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716464.shtml",
-        "publishedAt": "2026-10-17T22:31:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T23:50:04.076+08:00",
+    "fetchedAt": "2026-10-18T00:00:02.409+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -71,7 +71,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T04:50:07.000+08:00"
+          "resetAt": "2026-10-18T05:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T23:50:07.183+08:00",
+      "fetchedAt": "2026-10-18T00:00:07.517+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T23:50:07.190+08:00",
+      "fetchedAt": "2026-10-18T00:00:07.521+08:00",
       "error": null
     }
   }
