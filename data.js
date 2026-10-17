@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T09:50:08.722+08:00",
+  "updatedAt": "2026-10-17T10:00:07.761+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T09:50:08.723+08:00",
+    "fetchedAt": "2026-10-17T10:00:07.761+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我国技能人才新增劳动力平均受教育年限超14年",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716088.shtml",
+        "publishedAt": "2026-10-17T09:49:56.000+08:00"
+      },
       {
         "title": "2026中欧隐形冠军（宁德）ESG绿色产业合作对话活动举行",
         "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716075.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中外记者走进昆山 体验机器人6S店里的“中国智造”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716080.shtml",
         "publishedAt": "2026-10-17T09:36:32.000+08:00"
-      },
-      {
-        "title": "从“拼产能”到“拼精品” AI文旅互动剧为流量短剧“降温”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716079.shtml",
-        "publishedAt": "2026-10-17T09:35:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T09:50:02.963+08:00",
+    "fetchedAt": "2026-10-17T10:00:02.749+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T09:50:07.504+08:00",
+      "fetchedAt": "2026-10-17T10:00:06.707+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T09:50:07.778+08:00",
+      "fetchedAt": "2026-10-17T10:00:06.886+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T09:50:07.787+08:00",
+      "fetchedAt": "2026-10-17T10:00:06.894+08:00",
       "error": null
     }
   }
