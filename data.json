@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T21:30:07.666+08:00",
+  "updatedAt": "2026-10-17T21:40:07.287+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T21:30:07.666+08:00",
+    "fetchedAt": "2026-10-17T21:40:07.287+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（乡村行·看振兴）“茶”中建起黄金屋 湖南苗寨产业焕新见闻",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716414.shtml",
+        "publishedAt": "2026-10-17T21:34:02.000+08:00"
+      },
+      {
+        "title": "当AI开始替人做决定，谁在杀死“租流量”的品牌？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716410.shtml",
+        "publishedAt": "2026-10-17T21:31:04.000+08:00"
+      },
+      {
+        "title": "宁波网球公开赛：网球名将探访甬城 感知城市魅力",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716405.shtml",
+        "publishedAt": "2026-10-17T21:26:30.000+08:00"
+      },
+      {
+        "title": "云南民族传统体育逾300项 美美与共促团结",
+        "url": "https://www.chinanews.com.cn/mz/2026/10-17/10716442.shtml",
+        "publishedAt": "2026-10-17T21:23:30.000+08:00"
+      },
+      {
         "title": "全国堆肥专家齐聚呼和浩特 探索绿色农牧循环新路径",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716402.shtml",
         "publishedAt": "2026-10-17T21:21:38.000+08:00"
-      },
-      {
-        "title": "2026珠江国际贸易论坛举行 聚焦中国企业出海新赛道",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716459.shtml",
-        "publishedAt": "2026-10-17T21:21:20.000+08:00"
-      },
-      {
-        "title": "美国青年贵州行：在社区看见真实中国 在抗战公路读懂合作共赢",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716400.shtml",
-        "publishedAt": "2026-10-17T21:15:49.000+08:00"
-      },
-      {
-        "title": "韩国学者：朱子家礼海外本土化为多元文明互鉴提供古老智慧",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716460.shtml",
-        "publishedAt": "2026-10-17T21:14:33.000+08:00"
-      },
-      {
-        "title": "第二十五届中国上海国际艺术节与上海大歌剧院同步开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716443.shtml",
-        "publishedAt": "2026-10-17T21:12:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T21:30:03.570+08:00",
+    "fetchedAt": "2026-10-17T21:40:03.139+08:00",
     "error": null
   },
   "sources": {
@@ -70,16 +70,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 47,
+          "usedPct": 54,
           "resetAt": "2026-10-17T23:14:07.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 84,
+          "usedPct": 85,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T21:30:06.623+08:00",
+      "fetchedAt": "2026-10-17T21:40:06.271+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T21:30:06.632+08:00",
+      "fetchedAt": "2026-10-17T21:40:06.275+08:00",
       "error": null
     }
   }
