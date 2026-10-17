@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T22:30:10.953+08:00",
+  "updatedAt": "2026-10-17T22:40:08.044+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T22:30:10.953+08:00",
+    "fetchedAt": "2026-10-17T22:40:08.044+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "澳门卫生局局长：发挥澳门独特优势 助力中医药创新出海",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716469.shtml",
-        "publishedAt": "2026-10-17T22:21:39.000+08:00"
+        "title": "冀中能源集团董事会原董事陈亚杰接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716463.shtml",
+        "publishedAt": "2026-10-17T22:32:30.000+08:00"
       },
       {
-        "title": "（友城故事）福建拓国际友城务实合作 达成系列合作成果",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716471.shtml",
-        "publishedAt": "2026-10-17T22:12:45.000+08:00"
+        "title": "辽宁省本溪市政协原党组副书记、副主席邵涛被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716464.shtml",
+        "publishedAt": "2026-10-17T22:31:36.000+08:00"
       },
       {
-        "title": "克罗地亚总理普连科维奇会见王毅",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716470.shtml",
-        "publishedAt": "2026-10-17T21:52:58.000+08:00"
+        "title": "辽宁省沈阳市委原常委、政法委原书记郭忠孝被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716465.shtml",
+        "publishedAt": "2026-10-17T22:30:42.000+08:00"
       },
       {
-        "title": "上海市侨联“为侨服务 康养资讯”平台上线",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-17/10716453.shtml",
-        "publishedAt": "2026-10-17T21:43:59.000+08:00"
+        "title": "做世界减贫事业的有力推动者",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716325.shtml",
+        "publishedAt": "2026-10-17T22:29:35.000+08:00"
       },
       {
-        "title": "广东中华职业教育社养老护理员初级公益培训班落地阳春",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716435.shtml",
-        "publishedAt": "2026-10-17T21:38:27.000+08:00"
+        "title": "学习手记｜答好“长征三问” 坚定必胜信念",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716338.shtml",
+        "publishedAt": "2026-10-17T22:27:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T22:30:06.207+08:00",
+    "fetchedAt": "2026-10-17T22:40:03.375+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T22:30:09.692+08:00",
+      "fetchedAt": "2026-10-17T22:40:06.972+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T22:30:09.701+08:00",
+      "fetchedAt": "2026-10-17T22:40:06.980+08:00",
       "error": null
     }
   }
