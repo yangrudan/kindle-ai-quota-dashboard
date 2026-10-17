@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T09:10:07.975+08:00",
+  "updatedAt": "2026-10-17T09:20:09.943+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.6,
-    "feelsLikeC": 26.2,
-    "humidity": 76,
-    "windKph": 5.5,
+    "tempC": 24.8,
+    "feelsLikeC": 27.2,
+    "humidity": 71,
+    "windKph": 7.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T09:10:07.975+08:00",
+    "observedAt": "2026-10-17T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-17T09:20:09.943+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "在境外开放地图标注军队等涉密单位，许某被处理！国家安全部提醒",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-17/10716076.shtml",
+        "publishedAt": "2026-10-17T09:13:54.000+08:00"
+      },
       {
         "title": "直播间“高价航展门票”能买吗？官方回应",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716067.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "尼泊尔民众庆祝诗卡利节",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208059.shtml",
         "publishedAt": "2026-10-17T08:52:07.000+08:00"
-      },
-      {
-        "title": "铲屎官的快乐老家被我们找到了",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716058.shtml",
-        "publishedAt": "2026-10-17T08:47:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T09:10:02.806+08:00",
+    "fetchedAt": "2026-10-17T09:20:04.625+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T09:10:06.823+08:00",
+      "fetchedAt": "2026-10-17T09:20:08.710+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T09:10:07.130+08:00",
+      "fetchedAt": "2026-10-17T09:20:09.043+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T09:10:07.139+08:00",
+      "fetchedAt": "2026-10-17T09:20:09.053+08:00",
       "error": null
     }
   }
