@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T17:00:12.686+08:00",
+  "updatedAt": "2026-10-17T17:10:08.119+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T17:00:12.686+08:00",
+    "fetchedAt": "2026-10-17T17:10:08.119+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "警惕这些套路 市场监管部门发布重阳节消费提示",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716234.shtml",
-        "publishedAt": "2026-10-17T16:22:34.000+08:00"
+        "title": "中韩海上执法部门圆满完成中韩渔业协定暂定措施水域联合巡航",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716271.shtml",
+        "publishedAt": "2026-10-17T16:59:56.000+08:00"
       },
       {
-        "title": "雅万高铁开通运营三周年 累计发送旅客超1800万人次",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208116.shtml",
-        "publishedAt": "2026-10-17T16:22:02.000+08:00"
+        "title": "（友城故事）21世纪海上丝绸之路地方政府合作暨国际友好城市对话会在福州开幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716269.shtml",
+        "publishedAt": "2026-10-17T16:59:40.000+08:00"
       },
       {
-        "title": "人形机器人“打工”吸睛，张雪机车成网红打卡点，“中国第一展”凭实力圈粉！",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716264.shtml",
-        "publishedAt": "2026-10-17T16:17:27.000+08:00"
+        "title": "欧洲采购商争当代理：要务实面对中国新能源汽车领跑",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716270.shtml",
+        "publishedAt": "2026-10-17T16:58:32.000+08:00"
       },
       {
-        "title": "湖南张家界扶梯击掌走红网络：一记击掌何以打动人心？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716257.shtml",
-        "publishedAt": "2026-10-17T16:15:39.000+08:00"
+        "title": "闽港业界研讨海事法务合作 冀“拼船出海”拓航运服务",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-17/10716268.shtml",
+        "publishedAt": "2026-10-17T16:58:30.000+08:00"
       },
       {
-        "title": "CBA联赛新赛季揭幕战在沪打响 上海男篮取得开门红",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716256.shtml",
-        "publishedAt": "2026-10-17T16:15:37.000+08:00"
+        "title": "浙江“8090”和“00后”宣讲员的“长征路”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716266.shtml",
+        "publishedAt": "2026-10-17T16:58:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T17:00:05.968+08:00",
+    "fetchedAt": "2026-10-17T17:10:03.415+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T17:00:10.557+08:00",
+      "fetchedAt": "2026-10-17T17:10:06.572+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T17:00:10.864+08:00",
+      "fetchedAt": "2026-10-17T17:10:06.881+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T17:00:10.875+08:00",
+      "fetchedAt": "2026-10-17T17:10:06.891+08:00",
       "error": null
     }
   }
