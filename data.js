@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T20:00:09.460+08:00",
+  "updatedAt": "2026-10-17T20:10:07.272+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T20:00:09.460+08:00",
+    "fetchedAt": "2026-10-17T20:10:07.272+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "让家庭成为安放生活的港湾",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716360.shtml",
-        "publishedAt": "2026-10-17T19:49:43.000+08:00"
+        "title": "7000余件海洋装备及科创成果亮相福州",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716363.shtml",
+        "publishedAt": "2026-10-17T20:00:11.000+08:00"
       },
       {
-        "title": "45国发布首个国际职业教育标准《北京协议》",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716358.shtml",
-        "publishedAt": "2026-10-17T19:49:15.000+08:00"
+        "title": "山东东昌府区：顾客选购葫芦忙 产品远销海内外",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716359.shtml",
+        "publishedAt": "2026-10-17T19:58:59.000+08:00"
       },
       {
-        "title": "大范围雨雪降温影响中国 局地降温幅度超12℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716357.shtml",
-        "publishedAt": "2026-10-17T19:49:13.000+08:00"
+        "title": "台湾地区云南同乡会代表走进世遗景迈山：看茶林共生 品千年茶香",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716364.shtml",
+        "publishedAt": "2026-10-17T19:56:31.000+08:00"
       },
       {
-        "title": "野象踩踏致人死伤 柬埔寨柏威夏加强监测",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716356.shtml",
-        "publishedAt": "2026-10-17T19:49:11.000+08:00"
+        "title": "从江南烟火到智造前沿 外国记者感受江苏活力",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716362.shtml",
+        "publishedAt": "2026-10-17T19:56:07.000+08:00"
       },
       {
-        "title": "南京财经大学建校70周年高质量发展大会举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716332.shtml",
-        "publishedAt": "2026-10-17T19:44:31.000+08:00"
+        "title": "专家学者南昌研讨全国统一大市场与区域高质量发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716361.shtml",
+        "publishedAt": "2026-10-17T19:55:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T20:00:05.290+08:00",
+    "fetchedAt": "2026-10-17T20:10:03.307+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T20:00:08.551+08:00",
+      "fetchedAt": "2026-10-17T20:10:06.321+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T20:00:08.560+08:00",
+      "fetchedAt": "2026-10-17T20:10:06.326+08:00",
       "error": null
     }
   }
