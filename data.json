@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T08:40:39.002+08:00",
+  "updatedAt": "2026-10-17T08:50:08.371+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.1,
-    "feelsLikeC": 25.7,
-    "humidity": 78,
-    "windKph": 5.4,
+    "tempC": 23.6,
+    "feelsLikeC": 26.2,
+    "humidity": 76,
+    "windKph": 5.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T08:40:39.002+08:00",
+    "observedAt": "2026-10-17T08:45:00.000+08:00",
+    "fetchedAt": "2026-10-17T08:50:08.371+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "庆祝中俄建交77周年音乐会在莫斯科举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208051.shtml",
+        "publishedAt": "2026-10-17T08:42:31.000+08:00"
+      },
+      {
+        "title": "习言道｜一定要把我们的母亲河保护好",
+        "url": "http://www.chinanews.com.cn/gn/shipin/2026/10-17/news1072060.shtml",
+        "publishedAt": "2026-10-17T08:28:47.000+08:00"
+      },
       {
         "title": "日媒：高市早苗向靖国神社献祭品",
         "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716054.shtml",
@@ -33,19 +43,9 @@
         "title": "赞比亚霍乱疫情致25人死亡 官方紧急启动疫苗接种",
         "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
         "publishedAt": "2026-10-17T06:07:00.000+08:00"
-      },
-      {
-        "title": "苏丹西部城市遭无人机袭击 造成至少30人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716049.shtml",
-        "publishedAt": "2026-10-17T06:04:04.000+08:00"
-      },
-      {
-        "title": "沙特主导联军称拦截3枚导弹和4架无人机",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716048.shtml",
-        "publishedAt": "2026-10-17T01:22:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T08:40:04.240+08:00",
+    "fetchedAt": "2026-10-17T08:50:03.237+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T08:40:37.795+08:00",
+      "fetchedAt": "2026-10-17T08:50:07.167+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T08:40:38.144+08:00",
+      "fetchedAt": "2026-10-17T08:50:07.498+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T08:40:38.154+08:00",
+      "fetchedAt": "2026-10-17T08:50:07.508+08:00",
       "error": null
     }
   }
