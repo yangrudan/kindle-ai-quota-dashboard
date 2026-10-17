@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T05:40:36.406+08:00",
+  "updatedAt": "2026-10-18T05:50:06.775+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.5,
+    "tempC": 22.4,
     "feelsLikeC": 25.6,
-    "humidity": 86,
-    "windKph": 4.8,
+    "humidity": 87,
+    "windKph": 4.4,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-18T05:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T05:40:36.406+08:00",
+    "observedAt": "2026-10-18T05:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T05:50:06.775+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-17T22:32:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T05:40:02.687+08:00",
+    "fetchedAt": "2026-10-18T05:50:02.869+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T10:40:36.000+08:00"
+          "resetAt": "2026-10-18T10:50:06.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T05:40:36.000+08:00"
+          "resetAt": "2026-10-25T05:50:06.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T05:40:35.539+08:00",
+      "fetchedAt": "2026-10-18T05:50:05.766+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T05:40:35.549+08:00",
+      "fetchedAt": "2026-10-18T05:50:05.773+08:00",
       "error": null
     }
   }
