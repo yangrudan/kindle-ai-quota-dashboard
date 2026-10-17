@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T16:10:20.090+08:00",
+  "updatedAt": "2026-10-17T16:20:23.896+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 30.1,
-    "feelsLikeC": 32.3,
-    "humidity": 54,
-    "windKph": 10.3,
+    "tempC": 29.9,
+    "feelsLikeC": 32.2,
+    "humidity": 55,
+    "windKph": 9.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T16:10:20.090+08:00",
+    "observedAt": "2026-10-17T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-17T16:20:23.896+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年青海省“敬老月”情暖金秋系列活动在西宁启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716248.shtml",
-        "publishedAt": "2026-10-17T16:03:19.000+08:00"
+        "title": "湖南张家界扶梯击掌走红网络：一记击掌何以打动人心？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716257.shtml",
+        "publishedAt": "2026-10-17T16:15:39.000+08:00"
       },
       {
-        "title": "《智能原生科学仪器创新发展上海共识》在沪发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716247.shtml",
-        "publishedAt": "2026-10-17T15:50:50.000+08:00"
+        "title": "CBA联赛新赛季揭幕战在沪打响 上海男篮取得开门红",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716256.shtml",
+        "publishedAt": "2026-10-17T16:15:37.000+08:00"
       },
       {
-        "title": "张雪机车再登广交会 赛事冠军带动品牌加速出海",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716246.shtml",
-        "publishedAt": "2026-10-17T15:41:41.000+08:00"
+        "title": "河北正定“冠军伉俪”归乡执教 余热点亮乡村少年体育梦",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716255.shtml",
+        "publishedAt": "2026-10-17T16:15:33.000+08:00"
       },
       {
-        "title": "今年浙江义乌跨境电商进口清单量破1亿单",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716231.shtml",
-        "publishedAt": "2026-10-17T15:40:27.000+08:00"
+        "title": "从帝企鹅身上获取灵感 中船集团上船院向全球发布第二代智能型BLS",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716254.shtml",
+        "publishedAt": "2026-10-17T16:11:55.000+08:00"
       },
       {
-        "title": "中国职业教育国际合作拓展至80多个国家和地区",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716225.shtml",
-        "publishedAt": "2026-10-17T15:40:01.000+08:00"
+        "title": "2026海峡两岸八极拳技艺交流大会暨第二届大枪对抗赛在山东庆云开幕",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716253.shtml",
+        "publishedAt": "2026-10-17T16:11:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T16:10:03.742+08:00",
+    "fetchedAt": "2026-10-17T16:20:03.809+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T16:10:18.314+08:00",
+      "fetchedAt": "2026-10-17T16:20:19.686+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T16:10:18.627+08:00",
+      "fetchedAt": "2026-10-17T16:20:19.963+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T16:10:18.638+08:00",
+      "fetchedAt": "2026-10-17T16:20:19.974+08:00",
       "error": null
     }
   }
