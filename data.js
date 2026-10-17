@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T11:40:36.201+08:00",
+  "updatedAt": "2026-10-17T11:50:08.141+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.4,
-    "feelsLikeC": 31.7,
-    "humidity": 58,
-    "windKph": 9.3,
+    "tempC": 28.8,
+    "feelsLikeC": 32,
+    "humidity": 57,
+    "windKph": 9.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-17T11:40:36.201+08:00",
+    "observedAt": "2026-10-17T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-17T11:50:08.141+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "企步新长征｜手搓麻线到3D打印，陕北窑洞里走出的鞋厂迈入智能时代",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716110.shtml",
-        "publishedAt": "2026-10-17T11:26:40.000+08:00"
+        "title": "开放底色鲜明 创新动能强劲——第九届中国国际进口博览会亮点前瞻",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716121.shtml",
+        "publishedAt": "2026-10-17T11:45:01.000+08:00"
       },
       {
-        "title": "活力中国调研行｜广西职教“出海” 老挝兄弟求学",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716113.shtml",
-        "publishedAt": "2026-10-17T11:23:01.000+08:00"
+        "title": "AI正成为中国发展的关键驱动力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716120.shtml",
+        "publishedAt": "2026-10-17T11:42:26.000+08:00"
       },
       {
-        "title": "（近观中国）考察乌兰察布，习近平关注算力背后的考量",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716101.shtml",
-        "publishedAt": "2026-10-17T11:22:03.000+08:00"
+        "title": "探馆广交会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716118.shtml",
+        "publishedAt": "2026-10-17T11:36:52.000+08:00"
       },
       {
-        "title": "红星照耀中国｜世界读懂红军制胜之道",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716112.shtml",
-        "publishedAt": "2026-10-17T11:19:05.000+08:00"
+        "title": "错估震级9.9级 日本气象厅两度召开记者会致歉",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208079.shtml",
+        "publishedAt": "2026-10-17T11:36:34.000+08:00"
       },
       {
-        "title": "“十五五”专项规划里的文化力量",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716111.shtml",
-        "publishedAt": "2026-10-17T11:16:23.000+08:00"
+        "title": "从三叠纪化石到明代屯堡，高原大地上的文明“石”书",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716114.shtml",
+        "publishedAt": "2026-10-17T11:31:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T11:40:03.598+08:00",
+    "fetchedAt": "2026-10-17T11:50:02.723+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T11:40:34.630+08:00",
+      "fetchedAt": "2026-10-17T11:50:07.004+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 25,
+          "usedPct": 28,
           "resetAt": "2026-10-17T13:13:02.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T11:40:34.994+08:00",
+      "fetchedAt": "2026-10-17T11:50:07.328+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T11:40:35.004+08:00",
+      "fetchedAt": "2026-10-17T11:50:07.340+08:00",
       "error": null
     }
   }
