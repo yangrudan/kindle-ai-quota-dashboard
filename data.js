@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T08:20:39.855+08:00",
+  "updatedAt": "2026-10-17T08:30:10.024+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.5,
-    "feelsLikeC": 25.1,
-    "humidity": 81,
-    "windKph": 5.1,
+    "tempC": 23.1,
+    "feelsLikeC": 25.7,
+    "humidity": 78,
+    "windKph": 5.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T08:15:00.000+08:00",
-    "fetchedAt": "2026-10-17T08:20:39.855+08:00",
+    "observedAt": "2026-10-17T08:30:00.000+08:00",
+    "fetchedAt": "2026-10-17T08:30:10.024+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日媒：高市早苗向靖国神社献祭品",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716054.shtml",
+        "publishedAt": "2026-10-17T08:19:44.000+08:00"
+      },
       {
         "title": "10月17日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-17/10716051.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "沙特主导联军称拦截3枚导弹和4架无人机",
         "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716048.shtml",
         "publishedAt": "2026-10-17T01:22:23.000+08:00"
-      },
-      {
-        "title": "特朗普称美国可能会对伊朗镐山核设施发动打击",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716047.shtml",
-        "publishedAt": "2026-10-17T01:19:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T08:20:05.145+08:00",
+    "fetchedAt": "2026-10-17T08:30:05.107+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T08:20:38.639+08:00",
+      "fetchedAt": "2026-10-17T08:30:08.946+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T08:20:38.938+08:00",
+      "fetchedAt": "2026-10-17T08:30:09.197+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T08:20:38.947+08:00",
+      "fetchedAt": "2026-10-17T08:30:09.206+08:00",
       "error": null
     }
   }
