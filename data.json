@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T20:10:07.272+08:00",
+  "updatedAt": "2026-10-17T20:20:10.991+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.8,
-    "feelsLikeC": 29.2,
+    "tempC": 25.2,
+    "feelsLikeC": 28.3,
     "humidity": 75,
-    "windKph": 6.1,
+    "windKph": 7.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T20:10:07.272+08:00",
+    "observedAt": "2026-10-17T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-17T20:20:10.991+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“未完成的未来 —— 中国当代水墨年鉴10周年”展览开幕式在广州举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716374.shtml",
+        "publishedAt": "2026-10-17T20:11:40.000+08:00"
+      },
       {
         "title": "7000余件海洋装备及科创成果亮相福州",
         "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716363.shtml",
@@ -38,14 +43,9 @@
         "title": "从江南烟火到智造前沿 外国记者感受江苏活力",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716362.shtml",
         "publishedAt": "2026-10-17T19:56:07.000+08:00"
-      },
-      {
-        "title": "专家学者南昌研讨全国统一大市场与区域高质量发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716361.shtml",
-        "publishedAt": "2026-10-17T19:55:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T20:10:03.307+08:00",
+    "fetchedAt": "2026-10-17T20:20:06.602+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:06.321+08:00",
+      "fetchedAt": "2026-10-17T20:20:10.032+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T20:10:06.326+08:00",
+      "fetchedAt": "2026-10-17T20:20:10.041+08:00",
       "error": null
     }
   }
