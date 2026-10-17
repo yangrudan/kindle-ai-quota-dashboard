@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T17:51:00.977+08:00",
+  "updatedAt": "2026-10-17T18:00:11.609+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.5,
-    "feelsLikeC": 30.7,
-    "humidity": 66,
-    "windKph": 6.1,
+    "tempC": 27.1,
+    "feelsLikeC": 30.4,
+    "humidity": 68,
+    "windKph": 5.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T17:51:00.978+08:00",
+    "observedAt": "2026-10-17T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-17T18:00:11.609+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美食爱好者赴《洪炉》之约分享川菜百味",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716277.shtml",
-        "publishedAt": "2026-10-17T17:45:44.000+08:00"
+        "title": "传承闽南文脉 泉州人类非物质文化遗产综合展启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716276.shtml",
+        "publishedAt": "2026-10-17T17:55:53.000+08:00"
       },
       {
-        "title": "科技点亮非遗 新阶层人士助力焕新“老手艺”",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716278.shtml",
-        "publishedAt": "2026-10-17T17:45:06.000+08:00"
+        "title": "19国作品亮相今日丝绸之路国际艺术邀请展",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716300.shtml",
+        "publishedAt": "2026-10-17T17:55:21.000+08:00"
       },
       {
-        "title": "24个国家和地区选手竞技环贵州国际公路自行车赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716279.shtml",
-        "publishedAt": "2026-10-17T17:44:24.000+08:00"
+        "title": "粤闽开展2026年第三次海上联合执法行动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716301.shtml",
+        "publishedAt": "2026-10-17T17:54:55.000+08:00"
       },
       {
-        "title": "深圳举行APEC倒计时30天主题活动 以绿色出行聚共识",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716283.shtml",
-        "publishedAt": "2026-10-17T17:43:30.000+08:00"
+        "title": "全国近4000名“小勇士”齐聚成都挑战斯巴达勇士儿童赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716303.shtml",
+        "publishedAt": "2026-10-17T17:54:47.000+08:00"
       },
       {
-        "title": "百余幅水墨作品亮相王维故里 山西祁县以丹青赓续千年文脉",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716284.shtml",
-        "publishedAt": "2026-10-17T17:42:46.000+08:00"
+        "title": "内蒙古集宁生态蝶变记：玄武岩上“绣”出满城绿",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716304.shtml",
+        "publishedAt": "2026-10-17T17:53:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T17:50:03.275+08:00",
+    "fetchedAt": "2026-10-17T18:00:04.246+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T17:50:48.168+08:00",
+      "fetchedAt": "2026-10-17T18:00:08.981+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 26,
           "resetAt": "2026-10-17T18:14:03.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 75,
+          "usedPct": 76,
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T17:50:48.427+08:00",
+      "fetchedAt": "2026-10-17T18:00:09.267+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T17:50:48.437+08:00",
+      "fetchedAt": "2026-10-17T18:00:09.276+08:00",
       "error": null
     }
   }
