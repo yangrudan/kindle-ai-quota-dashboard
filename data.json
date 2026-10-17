@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T20:50:08.076+08:00",
+  "updatedAt": "2026-10-17T21:00:09.984+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25,
-    "feelsLikeC": 27.9,
-    "humidity": 76,
-    "windKph": 8.4,
+    "tempC": 24.9,
+    "feelsLikeC": 27.7,
+    "humidity": 77,
+    "windKph": 9.1,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T20:50:08.076+08:00",
+    "observedAt": "2026-10-17T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-17T21:00:09.984+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西藏小学生在上海解锁“人生第一次马戏体验”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716425.shtml",
-        "publishedAt": "2026-10-17T20:41:04.000+08:00"
+        "title": "“九九重阳”全民健身主题活动全国主会场落户西安楼观台",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716412.shtml",
+        "publishedAt": "2026-10-17T20:57:16.000+08:00"
       },
       {
-        "title": "“比专业更有趣，比有趣更专业” 中国一高校科普平台创办十周年",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716417.shtml",
-        "publishedAt": "2026-10-17T20:40:40.000+08:00"
+        "title": "从“长江大咖”到本土小鱼 “寻鱼沪上”主题展在上海开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716431.shtml",
+        "publishedAt": "2026-10-17T20:56:44.000+08:00"
       },
       {
-        "title": "河北唐山：工程师迷上火笔画 铁笔烫出万千气象",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716381.shtml",
-        "publishedAt": "2026-10-17T20:40:40.000+08:00"
+        "title": "2026赛季中乙联赛：山西崇德荣海胜深圳二零二八",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716439.shtml",
+        "publishedAt": "2026-10-17T20:56:08.000+08:00"
       },
       {
-        "title": "全国主流媒体走进“攀西阳光第一城” 品读汉源湖畔的“阳光”文章",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716380.shtml",
-        "publishedAt": "2026-10-17T20:40:22.000+08:00"
+        "title": "从原料输出到加工增值 海南自贸港政策赋能屯昌橡胶产业升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716432.shtml",
+        "publishedAt": "2026-10-17T20:56:02.000+08:00"
       },
       {
-        "title": "AI落地的“检验标准”趋于多元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716379.shtml",
-        "publishedAt": "2026-10-17T20:40:20.000+08:00"
+        "title": "述评：千年古镇浙江乌镇如何打响“戏剧牌”？",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-17/10716434.shtml",
+        "publishedAt": "2026-10-17T20:54:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T20:50:03.291+08:00",
+    "fetchedAt": "2026-10-17T21:00:05.018+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T20:50:07.148+08:00",
+      "fetchedAt": "2026-10-17T21:00:08.069+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T20:50:07.158+08:00",
+      "fetchedAt": "2026-10-17T21:00:08.078+08:00",
       "error": null
     }
   }
