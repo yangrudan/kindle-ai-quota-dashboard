@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17T16:20:23.896+08:00",
+  "updatedAt": "2026-10-17T16:30:33.879+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 29.9,
-    "feelsLikeC": 32.2,
-    "humidity": 55,
-    "windKph": 9.8,
+    "tempC": 29.5,
+    "feelsLikeC": 32,
+    "humidity": 57,
+    "windKph": 9.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-17T16:20:23.896+08:00",
+    "observedAt": "2026-10-17T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-17T16:30:33.879+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "雅万高铁开通运营三周年 累计发送旅客超1800万人次",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-17/1208116.shtml",
+        "publishedAt": "2026-10-17T16:22:02.000+08:00"
+      },
+      {
+        "title": "人形机器人“打工”吸睛，张雪机车成网红打卡点，“中国第一展”凭实力圈粉！",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716264.shtml",
+        "publishedAt": "2026-10-17T16:17:27.000+08:00"
+      },
       {
         "title": "湖南张家界扶梯击掌走红网络：一记击掌何以打动人心？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716257.shtml",
@@ -33,19 +43,9 @@
         "title": "河北正定“冠军伉俪”归乡执教 余热点亮乡村少年体育梦",
         "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716255.shtml",
         "publishedAt": "2026-10-17T16:15:33.000+08:00"
-      },
-      {
-        "title": "从帝企鹅身上获取灵感 中船集团上船院向全球发布第二代智能型BLS",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716254.shtml",
-        "publishedAt": "2026-10-17T16:11:55.000+08:00"
-      },
-      {
-        "title": "2026海峡两岸八极拳技艺交流大会暨第二届大枪对抗赛在山东庆云开幕",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-17/10716253.shtml",
-        "publishedAt": "2026-10-17T16:11:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T16:20:03.809+08:00",
+    "fetchedAt": "2026-10-17T16:30:05.716+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T16:20:19.686+08:00",
+      "fetchedAt": "2026-10-17T16:30:32.570+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T16:20:19.963+08:00",
+      "fetchedAt": "2026-10-17T16:30:32.839+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T16:20:19.974+08:00",
+      "fetchedAt": "2026-10-17T16:30:32.850+08:00",
       "error": null
     }
   }
