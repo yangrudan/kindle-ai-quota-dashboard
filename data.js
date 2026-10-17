@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T14:50:16.641+08:00",
+  "updatedAt": "2026-10-17T15:00:10.965+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-17T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-17T14:50:16.641+08:00",
+    "fetchedAt": "2026-10-17T15:00:10.965+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "吉林前三季度新能源发电量占比近四成 绿电变燃料出海",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716219.shtml",
+        "publishedAt": "2026-10-17T14:51:11.000+08:00"
+      },
+      {
+        "title": "火遍全网的发菜到底是什么“菜”？有店主因采卖获刑",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716223.shtml",
+        "publishedAt": "2026-10-17T14:50:41.000+08:00"
+      },
       {
         "title": "财政赤字逼近2万亿美元 美国财政压力有多大",
         "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716222.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "河北省第十七届运动会在唐山开幕",
         "url": "https://www.chinanews.com.cn/tp/2026/10-17/10716220.shtml",
         "publishedAt": "2026-10-17T14:36:44.000+08:00"
-      },
-      {
-        "title": "克罗地亚总统米拉诺维奇会见王毅",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716077.shtml",
-        "publishedAt": "2026-10-17T14:34:18.000+08:00"
-      },
-      {
-        "title": "第十六届中国摄影艺术节将于三门峡启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716217.shtml",
-        "publishedAt": "2026-10-17T14:31:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T14:50:03.898+08:00",
+    "fetchedAt": "2026-10-17T15:00:03.239+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T14:50:15.170+08:00",
+      "fetchedAt": "2026-10-17T15:00:09.677+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T14:50:15.481+08:00",
+      "fetchedAt": "2026-10-17T15:00:10.004+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T14:50:15.490+08:00",
+      "fetchedAt": "2026-10-17T15:00:10.012+08:00",
       "error": null
     }
   }
