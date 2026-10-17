@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-17T17:10:08.119+08:00",
+  "updatedAt": "2026-10-17T17:20:08.560+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28.8,
-    "feelsLikeC": 31.5,
-    "humidity": 60,
-    "windKph": 8,
+    "tempC": 28.4,
+    "feelsLikeC": 31.3,
+    "humidity": 62,
+    "windKph": 7.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-17T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-17T17:10:08.119+08:00",
+    "observedAt": "2026-10-17T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-17T17:20:08.561+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中韩海上执法部门圆满完成中韩渔业协定暂定措施水域联合巡航",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716271.shtml",
-        "publishedAt": "2026-10-17T16:59:56.000+08:00"
+        "title": "2026北马参赛指南，请查收！",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716285.shtml",
+        "publishedAt": "2026-10-17T17:07:04.000+08:00"
       },
       {
-        "title": "（友城故事）21世纪海上丝绸之路地方政府合作暨国际友好城市对话会在福州开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716269.shtml",
-        "publishedAt": "2026-10-17T16:59:40.000+08:00"
+        "title": "朱子学与多元文明对话大会暨第五届考亭论坛在福建南平启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716275.shtml",
+        "publishedAt": "2026-10-17T17:04:44.000+08:00"
       },
       {
-        "title": "欧洲采购商争当代理：要务实面对中国新能源汽车领跑",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716270.shtml",
-        "publishedAt": "2026-10-17T16:58:32.000+08:00"
+        "title": "上任不到一周遭解雇 扎卡里亚发文：为特朗普工作是一种荣幸",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716282.shtml",
+        "publishedAt": "2026-10-17T17:04:40.000+08:00"
       },
       {
-        "title": "闽港业界研讨海事法务合作 冀“拼船出海”拓航运服务",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-17/10716268.shtml",
-        "publishedAt": "2026-10-17T16:58:30.000+08:00"
+        "title": "从厨房到3D打印机：内蒙古“矿嫂”的文创新生",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716274.shtml",
+        "publishedAt": "2026-10-17T17:04:02.000+08:00"
       },
       {
-        "title": "浙江“8090”和“00后”宣讲员的“长征路”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716266.shtml",
-        "publishedAt": "2026-10-17T16:58:28.000+08:00"
+        "title": "2026LPGA锦标赛第二轮：韩国球员崔慧珍保持领先",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-17/10716272.shtml",
+        "publishedAt": "2026-10-17T17:03:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-17T17:10:03.415+08:00",
+    "fetchedAt": "2026-10-17T17:20:02.925+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-17T17:10:06.572+08:00",
+      "fetchedAt": "2026-10-17T17:20:07.393+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-22T14:12:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-17T17:10:06.881+08:00",
+      "fetchedAt": "2026-10-17T17:20:07.709+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-17T17:10:06.891+08:00",
+      "fetchedAt": "2026-10-17T17:20:07.721+08:00",
       "error": null
     }
   }
