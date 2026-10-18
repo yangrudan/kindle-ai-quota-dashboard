@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T11:20:07.795+08:00",
+  "updatedAt": "2026-10-18T11:30:08.664+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 30.1,
-    "feelsLikeC": 35,
+    "tempC": 30.4,
+    "feelsLikeC": 35.2,
     "humidity": 60,
-    "windKph": 4.5,
+    "windKph": 5.2,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-18T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-18T11:20:07.795+08:00",
+    "observedAt": "2026-10-18T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-18T11:30:08.664+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "开局之年看中国·潮涌荆楚｜几千年了，创造奇迹的步伐根本停不下来",
-        "url": "https://www.chinanews.com.cn/kong/2026/10-18/10716569.shtml",
-        "publishedAt": "2026-10-18T11:16:12.000+08:00"
+        "title": "广交会观察：中国机器人凭借实力出海 境外客商现场下单",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716564.shtml",
+        "publishedAt": "2026-10-18T11:28:30.000+08:00"
       },
       {
-        "title": "李强会见乌兹别克斯坦总统米尔济约耶夫",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716552.shtml",
-        "publishedAt": "2026-10-18T11:13:48.000+08:00"
+        "title": "著名小提琴家约书亚·贝尔登台上海音乐厅",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716562.shtml",
+        "publishedAt": "2026-10-18T11:27:36.000+08:00"
       },
       {
-        "title": "李强同乌兹别克斯坦总理阿里波夫会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716550.shtml",
-        "publishedAt": "2026-10-18T11:13:40.000+08:00"
+        "title": "黄渤海水域迎来大风 多地海事部门发布海上重大风险信息提醒",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716576.shtml",
+        "publishedAt": "2026-10-18T11:27:06.000+08:00"
       },
       {
-        "title": "（近观中国）从一湖水到一张网，读懂习近平乌兰察布之行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716549.shtml",
-        "publishedAt": "2026-10-18T11:12:05.000+08:00"
+        "title": "20余名泰国华裔走进云南玉溪：于村寨间看见中国乡村新样貌",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716559.shtml",
+        "publishedAt": "2026-10-18T11:26:04.000+08:00"
       },
       {
-        "title": "首届“闽超”福州队战胜厦门队夺冠",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716546.shtml",
-        "publishedAt": "2026-10-18T11:09:13.000+08:00"
+        "title": "蛋白粉涨价就喝蟑螂粉？别乱吃！难替代还有卫生隐患",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-18/10716575.shtml",
+        "publishedAt": "2026-10-18T11:25:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T11:20:03.500+08:00",
+    "fetchedAt": "2026-10-18T11:30:04.169+08:00",
     "error": null
   },
   "sources": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T16:20:07.000+08:00"
+          "resetAt": "2026-10-18T16:30:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T11:20:07.000+08:00"
+          "resetAt": "2026-10-25T11:30:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T11:20:06.815+08:00",
+      "fetchedAt": "2026-10-18T11:30:07.366+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T11:20:06.822+08:00",
+      "fetchedAt": "2026-10-18T11:30:07.375+08:00",
       "error": null
     }
   }
