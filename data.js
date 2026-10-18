@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T10:00:07.875+08:00",
+  "updatedAt": "2026-10-18T10:10:08.057+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.3,
-    "feelsLikeC": 32.2,
-    "humidity": 66,
-    "windKph": 5.5,
+    "tempC": 28.7,
+    "feelsLikeC": 32.8,
+    "humidity": 65,
+    "windKph": 5.6,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-18T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T10:00:07.875+08:00",
+    "observedAt": "2026-10-18T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-18T10:10:08.058+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "BFX战胜WE，获2026德玛西亚杯冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716523.shtml",
+        "publishedAt": "2026-10-18T09:59:06.000+08:00"
+      },
       {
         "title": "2小时03分10秒！2026北京马拉松诞生新的赛会纪录",
         "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716529.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "浙江杭州：航空航天科普展吸引民众",
         "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716525.shtml",
         "publishedAt": "2026-10-18T09:50:25.000+08:00"
-      },
-      {
-        "title": "东北和南方多地降水频繁 长江以北地区气温持续偏低",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716526.shtml",
-        "publishedAt": "2026-10-18T09:49:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T10:00:03.027+08:00",
+    "fetchedAt": "2026-10-18T10:10:03.352+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T15:00:07.000+08:00"
+          "resetAt": "2026-10-18T15:10:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T10:00:07.000+08:00"
+          "resetAt": "2026-10-25T10:10:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T10:00:06.902+08:00",
+      "fetchedAt": "2026-10-18T10:10:07.049+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T10:00:06.911+08:00",
+      "fetchedAt": "2026-10-18T10:10:07.058+08:00",
       "error": null
     }
   }
