@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-18T17:50:33.223+08:00",
+  "updatedAt": "2026-10-18T18:00:30.280+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25,
-    "feelsLikeC": 27.3,
-    "humidity": 78,
-    "windKph": 13.6,
+    "tempC": 24.7,
+    "feelsLikeC": 27,
+    "humidity": 79,
+    "windKph": 13,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T17:50:33.223+08:00",
+    "observedAt": "2026-10-18T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-18T18:00:30.281+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（活力中国调研行）数读海南自贸港：动能向新、结构向优、根基向实",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716731.shtml",
-        "publishedAt": "2026-10-18T17:43:03.000+08:00"
+        "title": "中外专家：AI可为传统医学提供现代科学语言“翻译”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716739.shtml",
+        "publishedAt": "2026-10-18T17:55:05.000+08:00"
       },
       {
-        "title": "古稀评剧洪派传人重阳授艺 培育少年戏曲新苗",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716724.shtml",
-        "publishedAt": "2026-10-18T17:41:21.000+08:00"
+        "title": "辽宁省装备制造领域数据标注先行先试工作大会在沈阳召开",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716738.shtml",
+        "publishedAt": "2026-10-18T17:54:07.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）云南姚安莲花落从苦音唱到欢调",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716730.shtml",
-        "publishedAt": "2026-10-18T17:40:25.000+08:00"
+        "title": "全球传统医学联盟成立 中外专家冀更多成果惠及民众",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716740.shtml",
+        "publishedAt": "2026-10-18T17:53:33.000+08:00"
       },
       {
-        "title": "第五届小十月文学奖在海盐颁奖",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716728.shtml",
-        "publishedAt": "2026-10-18T17:38:48.000+08:00"
+        "title": "浙江嘉兴南湖机场通航首年旅客吞吐量突破百万",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716737.shtml",
+        "publishedAt": "2026-10-18T17:53:27.000+08:00"
       },
       {
-        "title": "八方风味聚芦台 全国优质“土特产”走进京津冀活动在天津举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716727.shtml",
-        "publishedAt": "2026-10-18T17:37:56.000+08:00"
+        "title": "（活力中国调研行）海关念好“三字经” 推进海南自贸港高水平开放",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716735.shtml",
+        "publishedAt": "2026-10-18T17:52:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T17:50:03.750+08:00",
+    "fetchedAt": "2026-10-18T18:00:04.725+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -70,7 +70,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 6,
+          "usedPct": 7,
           "resetAt": "2026-10-18T22:01:35.000+08:00"
         },
         {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T17:50:32.306+08:00",
+      "fetchedAt": "2026-10-18T18:00:27.854+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T17:50:32.312+08:00",
+      "fetchedAt": "2026-10-18T18:00:27.863+08:00",
       "error": null
     }
   }
