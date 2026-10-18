@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T16:40:41.336+08:00",
+  "updatedAt": "2026-10-18T16:50:58.070+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.7,
-    "feelsLikeC": 28.7,
+    "tempC": 26.3,
+    "feelsLikeC": 28.2,
     "humidity": 73,
-    "windKph": 17.2,
+    "windKph": 16.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T16:40:41.337+08:00",
+    "observedAt": "2026-10-18T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T16:50:58.070+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "天津白云路文旅生活街区正式开放 打造“文旅+社区”津城新样本",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716685.shtml",
-        "publishedAt": "2026-10-18T16:34:59.000+08:00"
+        "title": "发挥互联网平台技术优势，用科技之光温暖老人生活",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716694.shtml",
+        "publishedAt": "2026-10-18T16:46:30.000+08:00"
       },
       {
-        "title": "开局之年看中国·潮涌荆楚丨荆州，半城烟火半城江",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716688.shtml",
-        "publishedAt": "2026-10-18T16:30:51.000+08:00"
+        "title": "五千跑者雨中畅跑湖北“橘马” 以赛兴城展活力",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716693.shtml",
+        "publishedAt": "2026-10-18T16:44:09.000+08:00"
       },
       {
-        "title": "半部电台起家、长征路上办学 长征精神传承至今",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716687.shtml",
-        "publishedAt": "2026-10-18T16:28:39.000+08:00"
+        "title": "2026景德镇“瓷博会”开幕 海内外瓷商加速双向合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716690.shtml",
+        "publishedAt": "2026-10-18T16:42:37.000+08:00"
       },
       {
-        "title": "香港医务卫生局局长：传统医学在科技方面有更大发展空间",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716675.shtml",
-        "publishedAt": "2026-10-18T16:27:31.000+08:00"
+        "title": "夜访交易量连续27年位居中国第一的昆明斗南花市",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716689.shtml",
+        "publishedAt": "2026-10-18T16:41:17.000+08:00"
       },
       {
-        "title": "报告：传统医学智能化的最终目标不是某一个国家的技术输出",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716673.shtml",
-        "publishedAt": "2026-10-18T16:26:17.000+08:00"
+        "title": "从卖产品到卖方案！广交会上“产品+服务”新模式受青睐",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716695.shtml",
+        "publishedAt": "2026-10-18T16:38:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T16:40:03.294+08:00",
+    "fetchedAt": "2026-10-18T16:50:03.204+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 53,
+          "usedPct": 54,
           "resetAt": "2026-10-18T16:59:47.000+08:00"
         },
         {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T16:40:35.336+08:00",
+      "fetchedAt": "2026-10-18T16:50:56.577+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T16:40:35.340+08:00",
+      "fetchedAt": "2026-10-18T16:50:56.587+08:00",
       "error": null
     }
   }
