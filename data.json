@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T07:30:09.247+08:00",
+  "updatedAt": "2026-10-19T07:40:07.567+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-19T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T07:30:09.247+08:00",
+    "fetchedAt": "2026-10-19T07:40:07.567+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "泽连斯基：若乌克兰被要求举行战时选举，他将竞选连任",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716921.shtml",
-        "publishedAt": "2026-10-19T07:20:18.000+08:00"
+        "title": "AI越“懂你”，青年越需要“我再想想”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716927.shtml",
+        "publishedAt": "2026-10-19T07:35:24.000+08:00"
       },
       {
-        "title": "以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716920.shtml",
-        "publishedAt": "2026-10-19T07:03:19.000+08:00"
+        "title": "大额存单缘何重启",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716926.shtml",
+        "publishedAt": "2026-10-19T07:33:10.000+08:00"
       },
       {
-        "title": "加拿大军事基地火灾致4人死数十人伤 总理卡尼发声",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716919.shtml",
-        "publishedAt": "2026-10-19T06:43:28.000+08:00"
+        "title": "日媒：日本首相高市早苗向靖国神社供奉“玉串料”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716925.shtml",
+        "publishedAt": "2026-10-19T07:32:54.000+08:00"
       },
       {
-        "title": "10月19日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10716918.shtml",
-        "publishedAt": "2026-10-19T06:41:58.000+08:00"
+        "title": "学生个人信息成为黑灰产交易筹码 记者实测注册校园交友软件后骚扰电话频繁",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716924.shtml",
+        "publishedAt": "2026-10-19T07:32:00.000+08:00"
       },
       {
-        "title": "特朗普发文支持内塔尼亚胡竞选连任以色列总理",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716917.shtml",
-        "publishedAt": "2026-10-19T06:03:47.000+08:00"
+        "title": "网传高铁座椅是HPV感染来源？无需过度恐慌",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716923.shtml",
+        "publishedAt": "2026-10-19T07:30:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T07:30:04.270+08:00",
+    "fetchedAt": "2026-10-19T07:40:03.146+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T12:30:09.000+08:00"
+          "resetAt": "2026-10-19T12:40:07.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T07:30:08.254+08:00",
+      "fetchedAt": "2026-10-19T07:40:06.587+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T07:30:08.263+08:00",
+      "fetchedAt": "2026-10-19T07:40:06.597+08:00",
       "error": null
     }
   }
