@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:30:23.815+08:00",
+  "updatedAt": "2026-10-18T15:40:18.949+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T15:30:23.815+08:00",
+    "fetchedAt": "2026-10-18T15:40:18.949+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "在沪台胞台属迎接设立台湾光复纪念日一周年",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716624.shtml",
-        "publishedAt": "2026-10-18T15:12:01.000+08:00"
+        "title": "第四届“良渚论坛”在浙江杭州开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716645.shtml",
+        "publishedAt": "2026-10-18T15:36:44.000+08:00"
       },
       {
-        "title": "纪念高居翰诞辰百年 中外学者杭州共话海外中国艺术史",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716634.shtml",
-        "publishedAt": "2026-10-18T15:09:36.000+08:00"
+        "title": "菲律宾国家气象局：超强台风“蔷琵”逼近责任区",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716648.shtml",
+        "publishedAt": "2026-10-18T15:35:02.000+08:00"
       },
       {
-        "title": "全国艺术疗愈高级人才研修班（首期）在重庆大学开班",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716627.shtml",
-        "publishedAt": "2026-10-18T15:07:26.000+08:00"
+        "title": "台湾古琴演奏家扎根重庆传艺授课促交流",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716644.shtml",
+        "publishedAt": "2026-10-18T15:33:56.000+08:00"
       },
       {
-        "title": "六盘山下 长征再启",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716642.shtml",
-        "publishedAt": "2026-10-18T15:03:36.000+08:00"
+        "title": "（友城故事）巴西坎皮纳斯市市长：期待与福州共赴下一个三十年",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716625.shtml",
+        "publishedAt": "2026-10-18T15:33:08.000+08:00"
       },
       {
-        "title": "“取消吃饭”的日本年轻人，正替日本扛下GDP排名下滑的代价",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716637.shtml",
-        "publishedAt": "2026-10-18T15:00:26.000+08:00"
+        "title": "海南省第八届少数民族传统体育运动会上演竞速激情",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716628.shtml",
+        "publishedAt": "2026-10-18T15:32:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T15:30:04.051+08:00",
+    "fetchedAt": "2026-10-18T15:40:03.645+08:00",
     "error": null
   },
   "sources": {
@@ -70,16 +70,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 33,
+          "usedPct": 37,
           "resetAt": "2026-10-18T16:59:47.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T15:30:22.549+08:00",
+      "fetchedAt": "2026-10-18T15:40:17.887+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T15:30:22.559+08:00",
+      "fetchedAt": "2026-10-18T15:40:17.892+08:00",
       "error": null
     }
   }
