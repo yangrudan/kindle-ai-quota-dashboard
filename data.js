@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T20:30:38.416+08:00",
+  "updatedAt": "2026-10-18T20:40:18.072+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.5,
-    "feelsLikeC": 24.2,
-    "humidity": 84,
-    "windKph": 13.5,
+    "tempC": 21.6,
+    "feelsLikeC": 22.9,
+    "humidity": 83,
+    "windKph": 13.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T20:30:38.416+08:00",
+    "observedAt": "2026-10-18T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-18T20:40:18.073+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中外选手湖北十堰比拼太极拳技艺",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716818.shtml",
-        "publishedAt": "2026-10-18T20:27:06.000+08:00"
+        "title": "16支篮球队伍齐聚芒康 西藏自治区第三届乡村篮球联赛开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716816.shtml",
+        "publishedAt": "2026-10-18T20:38:00.000+08:00"
       },
       {
-        "title": "（经济观察）中国民企AI大模型在全球“圈粉”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716821.shtml",
-        "publishedAt": "2026-10-18T20:24:11.000+08:00"
+        "title": "黑山总统米拉托维奇会见王毅",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716748.shtml",
+        "publishedAt": "2026-10-18T20:37:54.000+08:00"
       },
       {
-        "title": "外交部回应“China Haul”！开箱热潮晒出立体中国",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716822.shtml",
-        "publishedAt": "2026-10-18T20:23:49.000+08:00"
+        "title": "2026奉节半程马拉松鸣枪起跑 选手用脚步丈量“中华诗城”山水诗韵",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716814.shtml",
+        "publishedAt": "2026-10-18T20:36:50.000+08:00"
       },
       {
-        "title": "昆山两岸同胞踩街迎妈祖回銮",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716812.shtml",
-        "publishedAt": "2026-10-18T20:22:07.000+08:00"
+        "title": "访问港邮轮“精钻追寻”号首靠天津 逾八成旅客凭免签政策入境",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716808.shtml",
+        "publishedAt": "2026-10-18T20:35:46.000+08:00"
       },
       {
-        "title": "国风邂逅国际范 长春大冬会志愿者秀青春风采",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716815.shtml",
-        "publishedAt": "2026-10-18T20:19:53.000+08:00"
+        "title": "中国制造从“我会做”走到“我懂你日子怎么过” 外贸向技术、方案、服务出口升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716830.shtml",
+        "publishedAt": "2026-10-18T20:35:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T20:30:02.930+08:00",
+    "fetchedAt": "2026-10-18T20:40:03.092+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T20:30:36.862+08:00",
+      "fetchedAt": "2026-10-18T20:40:17.077+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T20:30:36.871+08:00",
+      "fetchedAt": "2026-10-18T20:40:17.086+08:00",
       "error": null
     }
   }
