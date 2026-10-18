@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-18T14:40:17.814+08:00",
+  "updatedAt": "2026-10-18T14:50:18.104+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 29.7,
-    "feelsLikeC": 32.7,
+    "tempC": 29.5,
+    "feelsLikeC": 32.5,
     "humidity": 63,
-    "windKph": 11.6,
+    "windKph": 12.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T14:40:17.814+08:00",
+    "observedAt": "2026-10-18T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T14:50:18.104+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第九届西安马拉松赛刷新多项赛会纪录 逾三万名跑者“跃”动古城",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716630.shtml",
+        "publishedAt": "2026-10-18T14:37:59.000+08:00"
+      },
       {
         "title": "在重庆这家产业园解锁传感器的多种“打开方式”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716622.shtml",
@@ -38,14 +43,9 @@
         "title": "近百佳作呈现当代花鸟画紫藤系列新意境",
         "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716620.shtml",
         "publishedAt": "2026-10-18T14:22:56.000+08:00"
-      },
-      {
-        "title": "宁夏沙坡头半马鸣枪开跑 6000余名跑友竞逐黄河赛道",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716619.shtml",
-        "publishedAt": "2026-10-18T14:20:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T14:40:02.893+08:00",
+    "fetchedAt": "2026-10-18T14:50:03.641+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T14:40:15.049+08:00",
+      "fetchedAt": "2026-10-18T14:50:17.156+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T14:40:15.056+08:00",
+      "fetchedAt": "2026-10-18T14:50:17.165+08:00",
       "error": null
     }
   }
