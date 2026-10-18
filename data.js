@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T12:00:08.502+08:00",
+  "updatedAt": "2026-10-18T12:10:24.250+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 30.5,
-    "feelsLikeC": 35.1,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 30.6,
+    "feelsLikeC": 35,
     "humidity": 59,
-    "windKph": 5.9,
+    "windKph": 6.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-18T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T12:00:08.502+08:00",
+    "observedAt": "2026-10-18T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-18T12:10:24.250+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "万米高空惊魂：一次失败的“自杀式袭击”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716594.shtml",
+        "publishedAt": "2026-10-18T12:04:36.000+08:00"
+      },
+      {
+        "title": "巴媒：巴基斯坦打击阿富汗武装边境军营，打死数名阿武装人员",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716590.shtml",
+        "publishedAt": "2026-10-18T11:59:58.000+08:00"
+      },
+      {
+        "title": "5A的金字招牌，过气了吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716589.shtml",
+        "publishedAt": "2026-10-18T11:57:26.000+08:00"
+      },
       {
         "title": "AI手机一句话办事 为何被各大应用说“不”？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716588.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国援外麻醉医生在莱索托开展困难气道培训",
         "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716568.shtml",
         "publishedAt": "2026-10-18T11:47:49.000+08:00"
-      },
-      {
-        "title": "也门媒体报道沙特空袭荷台达 胡塞武装称击落沙特直升机",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716566.shtml",
-        "publishedAt": "2026-10-18T11:46:29.000+08:00"
-      },
-      {
-        "title": "首次落地中国西南 国际汽联TCR世界巡回赛成都站开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716577.shtml",
-        "publishedAt": "2026-10-18T11:45:55.000+08:00"
-      },
-      {
-        "title": "健康中国迈入“十五五” 这场大会释放多重新信号",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716587.shtml",
-        "publishedAt": "2026-10-18T11:44:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T12:00:03.437+08:00",
+    "fetchedAt": "2026-10-18T12:10:03.911+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T12:00:07.538+08:00",
+      "fetchedAt": "2026-10-18T12:10:22.854+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T12:00:07.547+08:00",
+      "fetchedAt": "2026-10-18T12:10:22.863+08:00",
       "error": null
     }
   }
