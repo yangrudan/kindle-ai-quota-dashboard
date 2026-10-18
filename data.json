@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T08:20:06.825+08:00",
+  "updatedAt": "2026-10-18T08:30:07.573+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-18T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T08:20:06.826+08:00",
+    "fetchedAt": "2026-10-18T08:30:07.573+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-10-17T23:45:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T08:20:02.857+08:00",
+    "fetchedAt": "2026-10-18T08:30:03.384+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -71,15 +71,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T13:20:06.000+08:00"
+          "resetAt": "2026-10-18T13:30:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T08:20:06.000+08:00"
+          "resetAt": "2026-10-25T08:30:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T08:20:05.726+08:00",
+      "fetchedAt": "2026-10-18T08:30:06.475+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T08:20:05.732+08:00",
+      "fetchedAt": "2026-10-18T08:30:06.485+08:00",
       "error": null
     }
   }
