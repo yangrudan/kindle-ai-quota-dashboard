@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:50:07.810+08:00",
+  "updatedAt": "2026-10-18T16:00:11.455+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T15:50:07.810+08:00",
+    "fetchedAt": "2026-10-18T16:00:11.455+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（长征胜利90周年）长征“会师地”出圈引“共鸣”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716650.shtml",
-        "publishedAt": "2026-10-18T15:42:56.000+08:00"
+        "title": "2026北京马拉松举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-18/1208180.shtml",
+        "publishedAt": "2026-10-18T15:52:58.000+08:00"
       },
       {
-        "title": "海外侨胞话重阳：登高寄秋思 敬老祈安康",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716649.shtml",
-        "publishedAt": "2026-10-18T15:41:30.000+08:00"
+        "title": "南珠高铁岑溪东至桂粤省界段大华隧道贯通",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716659.shtml",
+        "publishedAt": "2026-10-18T15:52:15.000+08:00"
       },
       {
-        "title": "“朱子AI智能体”实现跨越八百年的古今对话",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716647.shtml",
-        "publishedAt": "2026-10-18T15:40:24.000+08:00"
+        "title": "（活力中国调研行）广西友谊关口岸“智”变升级 面向东盟跨境货运样板渐成",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-18/10716657.shtml",
+        "publishedAt": "2026-10-18T15:51:47.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）追忆开国归侨中将庄田：走没有路的路 打没有退路的仗",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716646.shtml",
-        "publishedAt": "2026-10-18T15:39:30.000+08:00"
+        "title": "以赛为媒 江西南昌积极推进三人篮球运动普及发展",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716656.shtml",
+        "publishedAt": "2026-10-18T15:50:47.000+08:00"
       },
       {
-        "title": "黑龙江大兴安岭：多地积极应对强降雪 筑牢民生防线",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716652.shtml",
-        "publishedAt": "2026-10-18T15:37:48.000+08:00"
+        "title": "第九届“董子杯”全国书法大展开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716655.shtml",
+        "publishedAt": "2026-10-18T15:50:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T15:50:03.478+08:00",
+    "fetchedAt": "2026-10-18T16:00:03.709+08:00",
     "error": null
   },
   "sources": {
@@ -70,16 +70,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 41,
+          "usedPct": 43,
           "resetAt": "2026-10-18T16:59:47.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 6,
+          "usedPct": 7,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:06.821+08:00",
+      "fetchedAt": "2026-10-18T16:00:10.447+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T15:50:06.830+08:00",
+      "fetchedAt": "2026-10-18T16:00:10.457+08:00",
       "error": null
     }
   }
