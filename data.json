@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T06:40:06.732+08:00",
+  "updatedAt": "2026-10-19T06:50:07.148+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.6,
+    "tempC": 20.7,
     "feelsLikeC": 23.1,
-    "humidity": 88,
-    "windKph": 4.3,
+    "humidity": 87,
+    "windKph": 4.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T06:40:06.732+08:00",
+    "observedAt": "2026-10-19T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-19T06:50:07.148+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "加拿大军事基地火灾致4人死数十人伤 总理卡尼发声",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716919.shtml",
+        "publishedAt": "2026-10-19T06:43:28.000+08:00"
+      },
+      {
+        "title": "10月19日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10716918.shtml",
+        "publishedAt": "2026-10-19T06:41:58.000+08:00"
+      },
       {
         "title": "特朗普发文支持内塔尼亚胡竞选连任以色列总理",
         "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716917.shtml",
@@ -33,19 +43,9 @@
         "title": "乌克兰首都基辅响起强烈爆炸声",
         "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716915.shtml",
         "publishedAt": "2026-10-19T06:01:29.000+08:00"
-      },
-      {
-        "title": "睡觉时身体会突然抽动？这几种表现可能是疾病信号",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10716914.shtml",
-        "publishedAt": "2026-10-19T06:00:13.000+08:00"
-      },
-      {
-        "title": "黑山总理斯帕伊奇会见王毅",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716913.shtml",
-        "publishedAt": "2026-10-19T05:55:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T06:40:02.726+08:00",
+    "fetchedAt": "2026-10-19T06:50:03.001+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T11:40:06.000+08:00"
+          "resetAt": "2026-10-19T11:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T06:40:05.682+08:00",
+      "fetchedAt": "2026-10-19T06:50:06.152+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T06:40:05.692+08:00",
+      "fetchedAt": "2026-10-19T06:50:06.163+08:00",
       "error": null
     }
   }
