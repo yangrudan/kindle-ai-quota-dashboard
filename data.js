@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T13:30:29.214+08:00",
+  "updatedAt": "2026-10-18T13:40:18.777+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-18T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T13:30:29.214+08:00",
+    "fetchedAt": "2026-10-18T13:40:18.777+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一条微信打开招标项目“内定”之门",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716602.shtml",
-        "publishedAt": "2026-10-18T13:09:50.000+08:00"
+        "title": "（文化新纪行｜校馆弦歌）厦门大学德旺图书馆：“玩”启数学之趣 “修”中触摸传承",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716607.shtml",
+        "publishedAt": "2026-10-18T13:36:13.000+08:00"
       },
       {
-        "title": "水平高、氛围好！2026北马诞生新纪录，赛事组织获选手认可",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716599.shtml",
-        "publishedAt": "2026-10-18T12:59:37.000+08:00"
+        "title": "2026海洋保护大会在海口举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716606.shtml",
+        "publishedAt": "2026-10-18T13:34:47.000+08:00"
       },
       {
-        "title": "黑龙江大兴安岭多地气象部门发布暴雪、道路结冰预警",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716600.shtml",
-        "publishedAt": "2026-10-18T12:56:37.000+08:00"
+        "title": "前三季度中国铁路发送旅客超37亿人次 创历史同期新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716603.shtml",
+        "publishedAt": "2026-10-18T13:33:09.000+08:00"
       },
       {
-        "title": "2026北京马拉松开跑",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-18/1208164.shtml",
-        "publishedAt": "2026-10-18T12:46:10.000+08:00"
+        "title": "广西壮族自治区政协原副主席黄日波接受国家监委监察调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716601.shtml",
+        "publishedAt": "2026-10-18T13:31:31.000+08:00"
       },
       {
-        "title": "白云机场重回榜首 航空枢纽格局生变",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716591.shtml",
-        "publishedAt": "2026-10-18T12:17:15.000+08:00"
+        "title": "（走进中国乡村）“中国小杂粮之乡”甘肃会宁的“康养密码”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716604.shtml",
+        "publishedAt": "2026-10-18T13:30:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T13:30:03.773+08:00",
+    "fetchedAt": "2026-10-18T13:40:02.712+08:00",
     "error": null
   },
   "sources": {
@@ -70,16 +70,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 23,
           "resetAt": "2026-10-18T16:59:47.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T13:30:28.246+08:00",
+      "fetchedAt": "2026-10-18T13:40:17.176+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T13:30:28.252+08:00",
+      "fetchedAt": "2026-10-18T13:40:17.186+08:00",
       "error": null
     }
   }
