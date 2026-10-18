@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T14:20:30.903+08:00",
+  "updatedAt": "2026-10-18T14:30:22.305+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 29.8,
-    "feelsLikeC": 33,
-    "humidity": 62,
-    "windKph": 10.8,
+    "tempC": 29.7,
+    "feelsLikeC": 32.7,
+    "humidity": 63,
+    "windKph": 11.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-18T14:20:30.903+08:00",
+    "observedAt": "2026-10-18T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-18T14:30:22.305+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "全球传统医学联盟成立 构建传统医学国际共同体",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716615.shtml",
+        "publishedAt": "2026-10-18T14:25:12.000+08:00"
+      },
+      {
+        "title": "近百佳作呈现当代花鸟画紫藤系列新意境",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716620.shtml",
+        "publishedAt": "2026-10-18T14:22:56.000+08:00"
+      },
+      {
+        "title": "宁夏沙坡头半马鸣枪开跑 6000余名跑友竞逐黄河赛道",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716619.shtml",
+        "publishedAt": "2026-10-18T14:20:52.000+08:00"
+      },
+      {
+        "title": "第八届中国反腐倡廉发展史暨廉政文献创新与发展研讨会在北京召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716623.shtml",
+        "publishedAt": "2026-10-18T14:19:24.000+08:00"
+      },
+      {
         "title": "（活力中国调研行）四个关键词读懂海南自贸港封关成效",
         "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716618.shtml",
         "publishedAt": "2026-10-18T14:01:43.000+08:00"
-      },
-      {
-        "title": "广西三江侗乡：周末艺站传非遗",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716617.shtml",
-        "publishedAt": "2026-10-18T14:00:11.000+08:00"
-      },
-      {
-        "title": "以色列回应欧洲官员在约旦河西岸遇袭：“切勿妄下结论”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716608.shtml",
-        "publishedAt": "2026-10-18T13:58:53.000+08:00"
-      },
-      {
-        "title": "东西问丨伊薇特·范德梅尔韦、约翰·巴克：世界葡萄与葡萄酒大会缘何首次落地中国？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-18/10716609.shtml",
-        "publishedAt": "2026-10-18T13:53:44.000+08:00"
-      },
-      {
-        "title": "日本一副市长参与庆典活动时被重约3吨太鼓台压住 不幸身亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716597.shtml",
-        "publishedAt": "2026-10-18T13:44:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T14:20:02.973+08:00",
+    "fetchedAt": "2026-10-18T14:30:05.096+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T14:20:29.699+08:00",
+      "fetchedAt": "2026-10-18T14:30:21.221+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T14:20:29.707+08:00",
+      "fetchedAt": "2026-10-18T14:30:21.226+08:00",
       "error": null
     }
   }
