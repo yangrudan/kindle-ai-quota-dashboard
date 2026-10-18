@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T14:30:22.305+08:00",
+  "updatedAt": "2026-10-18T14:40:17.814+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T14:30:22.305+08:00",
+    "fetchedAt": "2026-10-18T14:40:17.814+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "在重庆这家产业园解锁传感器的多种“打开方式”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716622.shtml",
+        "publishedAt": "2026-10-18T14:35:11.000+08:00"
+      },
+      {
+        "title": "北京中医医院院长刘清泉：以多元手段协同共抗耐药",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716616.shtml",
+        "publishedAt": "2026-10-18T14:28:32.000+08:00"
+      },
       {
         "title": "全球传统医学联盟成立 构建传统医学国际共同体",
         "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716615.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "宁夏沙坡头半马鸣枪开跑 6000余名跑友竞逐黄河赛道",
         "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716619.shtml",
         "publishedAt": "2026-10-18T14:20:52.000+08:00"
-      },
-      {
-        "title": "第八届中国反腐倡廉发展史暨廉政文献创新与发展研讨会在北京召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716623.shtml",
-        "publishedAt": "2026-10-18T14:19:24.000+08:00"
-      },
-      {
-        "title": "（活力中国调研行）四个关键词读懂海南自贸港封关成效",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716618.shtml",
-        "publishedAt": "2026-10-18T14:01:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T14:30:05.096+08:00",
+    "fetchedAt": "2026-10-18T14:40:02.893+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T14:30:21.221+08:00",
+      "fetchedAt": "2026-10-18T14:40:15.049+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T14:30:21.226+08:00",
+      "fetchedAt": "2026-10-18T14:40:15.056+08:00",
       "error": null
     }
   }
