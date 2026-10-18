@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T16:50:58.070+08:00",
+  "updatedAt": "2026-10-18T17:00:38.299+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.3,
-    "feelsLikeC": 28.2,
-    "humidity": 73,
-    "windKph": 16.9,
+    "tempC": 25.9,
+    "feelsLikeC": 27.8,
+    "humidity": 74,
+    "windKph": 16.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T16:50:58.070+08:00",
+    "observedAt": "2026-10-18T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-18T17:00:38.300+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一年4次向靖国神社献祭 高市要干什么？",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716697.shtml",
+        "publishedAt": "2026-10-18T16:49:34.000+08:00"
+      },
+      {
+        "title": "IMF官员：中国积极维护基于规则的多边贸易体系",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716696.shtml",
+        "publishedAt": "2026-10-18T16:46:50.000+08:00"
+      },
       {
         "title": "发挥互联网平台技术优势，用科技之光温暖老人生活",
         "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716694.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026景德镇“瓷博会”开幕 海内外瓷商加速双向合作",
         "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716690.shtml",
         "publishedAt": "2026-10-18T16:42:37.000+08:00"
-      },
-      {
-        "title": "夜访交易量连续27年位居中国第一的昆明斗南花市",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716689.shtml",
-        "publishedAt": "2026-10-18T16:41:17.000+08:00"
-      },
-      {
-        "title": "从卖产品到卖方案！广交会上“产品+服务”新模式受青睐",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716695.shtml",
-        "publishedAt": "2026-10-18T16:38:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T16:50:03.204+08:00",
+    "fetchedAt": "2026-10-18T17:00:04.055+08:00",
     "error": null
   },
   "sources": {
@@ -70,16 +70,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 54,
-          "resetAt": "2026-10-18T16:59:47.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-18T22:00:37.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T16:50:56.577+08:00",
+      "fetchedAt": "2026-10-18T17:00:36.562+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T16:50:56.587+08:00",
+      "fetchedAt": "2026-10-18T17:00:36.571+08:00",
       "error": null
     }
   }
