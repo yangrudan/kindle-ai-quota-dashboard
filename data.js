@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T00:40:08.545+08:00",
+  "updatedAt": "2026-10-19T00:50:07.657+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 21,
     "feelsLikeC": 23.5,
-    "humidity": 87,
+    "humidity": 88,
     "windKph": 5.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T00:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T00:40:08.545+08:00",
+    "observedAt": "2026-10-19T00:45:00.000+08:00",
+    "fetchedAt": "2026-10-19T00:50:07.657+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "厄尔尼诺加剧干旱风险 菲律宾强化森林保护与修复",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716910.shtml",
+        "publishedAt": "2026-10-19T00:45:40.000+08:00"
+      },
       {
         "title": "中超第28轮：蓉城负海港再失冠军点 英博三连胜紧追",
         "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716909.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“良渚论坛”配套双展开幕：“艺汇丝路”与“源浚者流长”绘文明互鉴",
         "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716882.shtml",
         "publishedAt": "2026-10-18T23:32:00.000+08:00"
-      },
-      {
-        "title": "广西区运会航空航天模型项目上演空中较量",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716872.shtml",
-        "publishedAt": "2026-10-18T23:31:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T00:40:03.863+08:00",
+    "fetchedAt": "2026-10-19T00:50:03.473+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T05:40:08.000+08:00"
+          "resetAt": "2026-10-19T05:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T00:40:07.716+08:00",
+      "fetchedAt": "2026-10-19T00:50:06.803+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T00:40:07.719+08:00",
+      "fetchedAt": "2026-10-19T00:50:06.813+08:00",
       "error": null
     }
   }
