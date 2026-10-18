@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T11:10:06.782+08:00",
+  "updatedAt": "2026-10-18T11:20:07.795+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 29.9,
-    "feelsLikeC": 34.8,
-    "humidity": 61,
-    "windKph": 4.2,
+    "tempC": 30.1,
+    "feelsLikeC": 35,
+    "humidity": 60,
+    "windKph": 4.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-18T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T11:10:06.783+08:00",
+    "observedAt": "2026-10-18T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-18T11:20:07.795+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "课本里的长征故事",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716556.shtml",
-        "publishedAt": "2026-10-18T10:56:27.000+08:00"
+        "title": "开局之年看中国·潮涌荆楚｜几千年了，创造奇迹的步伐根本停不下来",
+        "url": "https://www.chinanews.com.cn/kong/2026/10-18/10716569.shtml",
+        "publishedAt": "2026-10-18T11:16:12.000+08:00"
       },
       {
-        "title": "江西景德镇：人形机器人化身“售货员” 引客体验打卡",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716542.shtml",
-        "publishedAt": "2026-10-18T10:54:04.000+08:00"
+        "title": "李强会见乌兹别克斯坦总统米尔济约耶夫",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716552.shtml",
+        "publishedAt": "2026-10-18T11:13:48.000+08:00"
       },
       {
-        "title": "2026武汉网球公开赛：波兰选手赫瓦林斯卡晋级决赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716543.shtml",
-        "publishedAt": "2026-10-18T10:51:50.000+08:00"
+        "title": "李强同乌兹别克斯坦总理阿里波夫会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716550.shtml",
+        "publishedAt": "2026-10-18T11:13:40.000+08:00"
       },
       {
-        "title": "前八个月我国服务贸易保持较快增长",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716553.shtml",
-        "publishedAt": "2026-10-18T10:51:12.000+08:00"
+        "title": "（近观中国）从一湖水到一张网，读懂习近平乌兰察布之行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716549.shtml",
+        "publishedAt": "2026-10-18T11:12:05.000+08:00"
       },
       {
-        "title": "探访苏赫罗布艺术画廊：塔吉克斯坦画家笔下的“中国情缘”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716541.shtml",
-        "publishedAt": "2026-10-18T10:49:44.000+08:00"
+        "title": "首届“闽超”福州队战胜厦门队夺冠",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716546.shtml",
+        "publishedAt": "2026-10-18T11:09:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T11:10:02.278+08:00",
+    "fetchedAt": "2026-10-18T11:20:03.500+08:00",
     "error": null
   },
   "sources": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T16:10:06.000+08:00"
+          "resetAt": "2026-10-18T16:20:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T11:10:06.000+08:00"
+          "resetAt": "2026-10-25T11:20:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T11:10:05.764+08:00",
+      "fetchedAt": "2026-10-18T11:20:06.815+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T11:10:05.773+08:00",
+      "fetchedAt": "2026-10-18T11:20:06.822+08:00",
       "error": null
     }
   }
