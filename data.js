@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T11:30:08.664+08:00",
+  "updatedAt": "2026-10-18T11:40:07.480+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-18T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T11:30:08.664+08:00",
+    "fetchedAt": "2026-10-18T11:40:07.480+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广交会观察：中国机器人凭借实力出海 境外客商现场下单",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716564.shtml",
-        "publishedAt": "2026-10-18T11:28:30.000+08:00"
+        "title": "47台大科学装置相继投用 戈壁小镇如何成为世界级天文观测基地？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716581.shtml",
+        "publishedAt": "2026-10-18T11:33:11.000+08:00"
       },
       {
-        "title": "著名小提琴家约书亚·贝尔登台上海音乐厅",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716562.shtml",
-        "publishedAt": "2026-10-18T11:27:36.000+08:00"
+        "title": "改革、谋策、存典协同推进 上海演艺全新启航",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716563.shtml",
+        "publishedAt": "2026-10-18T11:32:27.000+08:00"
       },
       {
-        "title": "黄渤海水域迎来大风 多地海事部门发布海上重大风险信息提醒",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716576.shtml",
-        "publishedAt": "2026-10-18T11:27:06.000+08:00"
+        "title": "（长征胜利90周年）香港七旬老人郑镇炎重走长征路后：薪火相传，步履不停",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716565.shtml",
+        "publishedAt": "2026-10-18T11:31:06.000+08:00"
       },
       {
-        "title": "20余名泰国华裔走进云南玉溪：于村寨间看见中国乡村新样貌",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716559.shtml",
-        "publishedAt": "2026-10-18T11:26:04.000+08:00"
+        "title": "鲁比奥：美政府无人下令降低乌克兰接入“星链”速度",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716534.shtml",
+        "publishedAt": "2026-10-18T11:29:52.000+08:00"
       },
       {
-        "title": "蛋白粉涨价就喝蟑螂粉？别乱吃！难替代还有卫生隐患",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-18/10716575.shtml",
-        "publishedAt": "2026-10-18T11:25:56.000+08:00"
+        "title": "四川男篮97比85击败天津男篮 取得赛季开门红",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716570.shtml",
+        "publishedAt": "2026-10-18T11:29:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T11:30:04.169+08:00",
+    "fetchedAt": "2026-10-18T11:40:03.144+08:00",
     "error": null
   },
   "sources": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T16:30:08.000+08:00"
+          "resetAt": "2026-10-18T16:40:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T11:30:08.000+08:00"
+          "resetAt": "2026-10-25T11:40:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T11:30:07.366+08:00",
+      "fetchedAt": "2026-10-18T11:40:06.548+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T11:30:07.375+08:00",
+      "fetchedAt": "2026-10-18T11:40:06.552+08:00",
       "error": null
     }
   }
