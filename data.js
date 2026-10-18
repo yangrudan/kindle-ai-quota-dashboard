@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T18:40:09.672+08:00",
+  "updatedAt": "2026-10-18T18:50:28.651+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24,
-    "feelsLikeC": 26.1,
-    "humidity": 81,
-    "windKph": 13.7,
+    "tempC": 23.7,
+    "feelsLikeC": 25.7,
+    "humidity": 82,
+    "windKph": 14.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T18:40:09.672+08:00",
+    "observedAt": "2026-10-18T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T18:50:28.651+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "最高人民法院公布2026年前三季度司法审判工作主要数据",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716723.shtml",
-        "publishedAt": "2026-10-18T18:22:19.000+08:00"
+        "title": "第五届亚洲残疾人运动会开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716763.shtml",
+        "publishedAt": "2026-10-18T18:41:56.000+08:00"
       },
       {
-        "title": "陕西镇坪县遭遇强降雨 累计转移121户537人",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716742.shtml",
-        "publishedAt": "2026-10-18T17:58:05.000+08:00"
+        "title": "2026北京人才山地徒步大会在门头沟举办",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716757.shtml",
+        "publishedAt": "2026-10-18T18:40:42.000+08:00"
       },
       {
-        "title": "中外专家：AI可为传统医学提供现代科学语言“翻译”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716739.shtml",
-        "publishedAt": "2026-10-18T17:55:05.000+08:00"
+        "title": "海内外信众齐聚妈祖故里共祭妈祖",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716749.shtml",
+        "publishedAt": "2026-10-18T18:39:42.000+08:00"
       },
       {
-        "title": "辽宁省装备制造领域数据标注先行先试工作大会在沈阳召开",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716738.shtml",
-        "publishedAt": "2026-10-18T17:54:07.000+08:00"
+        "title": "机器科学家2.2系统在合肥发布 “AI造物”按下加速键",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716745.shtml",
+        "publishedAt": "2026-10-18T18:38:56.000+08:00"
       },
       {
-        "title": "全球传统医学联盟成立 中外专家冀更多成果惠及民众",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716740.shtml",
-        "publishedAt": "2026-10-18T17:53:33.000+08:00"
+        "title": "广交会观察：境外采购商青睐中国绿色智能电器“新品”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716750.shtml",
+        "publishedAt": "2026-10-18T18:33:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T18:40:04.362+08:00",
+    "fetchedAt": "2026-10-18T18:50:03.937+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T18:40:08.718+08:00",
+      "fetchedAt": "2026-10-18T18:50:26.861+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T18:40:08.727+08:00",
+      "fetchedAt": "2026-10-18T18:50:26.871+08:00",
       "error": null
     }
   }
