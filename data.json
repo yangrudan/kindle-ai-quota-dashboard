@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-18T18:50:28.651+08:00",
+  "updatedAt": "2026-10-18T19:00:11.320+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.7,
-    "feelsLikeC": 25.7,
-    "humidity": 82,
-    "windKph": 14.4,
+    "tempC": 23.4,
+    "feelsLikeC": 25.2,
+    "humidity": 83,
+    "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T18:50:28.651+08:00",
+    "observedAt": "2026-10-18T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-18T19:00:11.320+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第五届亚洲残疾人运动会开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716763.shtml",
-        "publishedAt": "2026-10-18T18:41:56.000+08:00"
+        "title": "要“降糖”也要“排酸”，专家给出糖尿病合并高尿酸患者“饮食指南”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716766.shtml",
+        "publishedAt": "2026-10-18T18:56:19.000+08:00"
       },
       {
-        "title": "2026北京人才山地徒步大会在门头沟举办",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716757.shtml",
-        "publishedAt": "2026-10-18T18:40:42.000+08:00"
+        "title": "超强台风“蔷琵”最新路径公布 21日前对我国海区无影响",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716765.shtml",
+        "publishedAt": "2026-10-18T18:54:03.000+08:00"
       },
       {
-        "title": "海内外信众齐聚妈祖故里共祭妈祖",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716749.shtml",
-        "publishedAt": "2026-10-18T18:39:42.000+08:00"
+        "title": "专家学者福州共话海洋文旅多元化发展 海洋文旅产业协同创新联盟成立",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716764.shtml",
+        "publishedAt": "2026-10-18T18:53:28.000+08:00"
       },
       {
-        "title": "机器科学家2.2系统在合肥发布 “AI造物”按下加速键",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716745.shtml",
-        "publishedAt": "2026-10-18T18:38:56.000+08:00"
+        "title": "双预警齐发！安徽河南等地可能发生山洪灾害 注意防范",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716701.shtml",
+        "publishedAt": "2026-10-18T18:50:28.000+08:00"
       },
       {
-        "title": "广交会观察：境外采购商青睐中国绿色智能电器“新品”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716750.shtml",
-        "publishedAt": "2026-10-18T18:33:13.000+08:00"
+        "title": "行业精英齐聚四川内江 聚力打造泛半导体及数据产业生态高地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716762.shtml",
+        "publishedAt": "2026-10-18T18:43:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T18:50:03.937+08:00",
+    "fetchedAt": "2026-10-18T19:00:05.033+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T18:50:26.861+08:00",
+      "fetchedAt": "2026-10-18T19:00:10.152+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T18:50:26.871+08:00",
+      "fetchedAt": "2026-10-18T19:00:10.161+08:00",
       "error": null
     }
   }
