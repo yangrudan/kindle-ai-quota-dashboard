@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T22:20:19.979+08:00",
+  "updatedAt": "2026-10-18T22:30:24.713+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 21,
-    "feelsLikeC": 22.8,
+    "feelsLikeC": 22.9,
     "humidity": 87,
-    "windKph": 9.9,
+    "windKph": 9.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-18T22:20:19.979+08:00",
+    "observedAt": "2026-10-18T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-18T22:30:24.713+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第三届全国新闻媒体匹克球邀请赛在衡水收拍",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716869.shtml",
+        "publishedAt": "2026-10-18T22:20:14.000+08:00"
+      },
       {
         "title": "广西国际中文教师比拼教学技能：让留学生读懂中国",
         "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716868.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "前海博物馆将于10月30日正式开放 十件展品来自国博",
         "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716864.shtml",
         "publishedAt": "2026-10-18T22:16:22.000+08:00"
-      },
-      {
-        "title": "中国原创AI赋能技术为传统针灸疗法提供“可视化证据”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716863.shtml",
-        "publishedAt": "2026-10-18T22:15:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T22:20:03.061+08:00",
+    "fetchedAt": "2026-10-18T22:30:03.484+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T03:20:19.000+08:00"
+          "resetAt": "2026-10-19T03:30:24.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T22:20:19.110+08:00",
+      "fetchedAt": "2026-10-18T22:30:21.878+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T22:20:19.119+08:00",
+      "fetchedAt": "2026-10-18T22:30:21.887+08:00",
       "error": null
     }
   }
