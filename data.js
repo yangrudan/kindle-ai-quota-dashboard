@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T00:50:07.657+08:00",
+  "updatedAt": "2026-10-19T01:00:09.538+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21,
-    "feelsLikeC": 23.5,
+    "tempC": 20.9,
+    "feelsLikeC": 23.4,
     "humidity": 88,
     "windKph": 5.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T00:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T00:50:07.657+08:00",
+    "observedAt": "2026-10-19T01:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T01:00:09.538+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-18T23:32:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T00:50:03.473+08:00",
+    "fetchedAt": "2026-10-19T01:00:04.688+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -71,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T05:50:07.000+08:00"
+          "resetAt": "2026-10-19T06:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T00:50:06.803+08:00",
+      "fetchedAt": "2026-10-19T01:00:08.434+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T00:50:06.813+08:00",
+      "fetchedAt": "2026-10-19T01:00:08.439+08:00",
       "error": null
     }
   }
