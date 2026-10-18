@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:00:38.299+08:00",
+  "updatedAt": "2026-10-18T17:10:30.765+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T17:00:38.300+08:00",
+    "fetchedAt": "2026-10-18T17:10:30.766+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日美将举行大规模联合军演 引发广泛担忧与反对",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716699.shtml",
+        "publishedAt": "2026-10-18T16:54:48.000+08:00"
+      },
+      {
+        "title": "日媒曝日本政府考虑增税筹措防卫费",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716698.shtml",
+        "publishedAt": "2026-10-18T16:51:58.000+08:00"
+      },
       {
         "title": "一年4次向靖国神社献祭 高市要干什么？",
         "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716697.shtml",
@@ -33,19 +43,9 @@
         "title": "发挥互联网平台技术优势，用科技之光温暖老人生活",
         "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716694.shtml",
         "publishedAt": "2026-10-18T16:46:30.000+08:00"
-      },
-      {
-        "title": "五千跑者雨中畅跑湖北“橘马” 以赛兴城展活力",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716693.shtml",
-        "publishedAt": "2026-10-18T16:44:09.000+08:00"
-      },
-      {
-        "title": "2026景德镇“瓷博会”开幕 海内外瓷商加速双向合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716690.shtml",
-        "publishedAt": "2026-10-18T16:42:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T17:00:04.055+08:00",
+    "fetchedAt": "2026-10-18T17:10:03.836+08:00",
     "error": null
   },
   "sources": {
@@ -70,8 +70,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-18T22:00:37.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-10-18T22:01:35.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T17:00:36.562+08:00",
+      "fetchedAt": "2026-10-18T17:10:29.106+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T17:00:36.571+08:00",
+      "fetchedAt": "2026-10-18T17:10:29.112+08:00",
       "error": null
     }
   }
