@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-18T10:30:07.399+08:00",
+  "updatedAt": "2026-10-18T10:40:07.785+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 29,
-    "feelsLikeC": 33.4,
-    "humidity": 64,
-    "windKph": 5.2,
+    "tempC": 29.3,
+    "feelsLikeC": 34,
+    "humidity": 63,
+    "windKph": 4.6,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-18T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-18T10:30:07.399+08:00",
+    "observedAt": "2026-10-18T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-18T10:40:07.785+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "警惕高市诡计：表面说“继承立场” 实则为战犯招魂",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716539.shtml",
+        "publishedAt": "2026-10-18T10:30:15.000+08:00"
+      },
       {
         "title": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义",
         "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716538.shtml",
@@ -38,14 +43,9 @@
         "title": "纯电续航1008公里，比亚迪王朝旗舰轿车大汉迎来上市",
         "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716532.shtml",
         "publishedAt": "2026-10-18T10:21:23.000+08:00"
-      },
-      {
-        "title": "俄外交部：中国正在进行“新的伟大长征”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716533.shtml",
-        "publishedAt": "2026-10-18T10:19:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T10:30:03.294+08:00",
+    "fetchedAt": "2026-10-18T10:40:02.994+08:00",
     "error": null
   },
   "sources": {
@@ -71,15 +71,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T15:30:07.000+08:00"
+          "resetAt": "2026-10-18T15:40:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T10:30:07.000+08:00"
+          "resetAt": "2026-10-25T10:40:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T10:30:06.394+08:00",
+      "fetchedAt": "2026-10-18T10:40:06.813+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T10:30:06.399+08:00",
+      "fetchedAt": "2026-10-18T10:40:06.820+08:00",
       "error": null
     }
   }
