@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T11:40:07.480+08:00",
+  "updatedAt": "2026-10-18T11:50:36.693+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 30.4,
-    "feelsLikeC": 35.2,
-    "humidity": 60,
-    "windKph": 5.2,
+    "tempC": 30.5,
+    "feelsLikeC": 35.1,
+    "humidity": 59,
+    "windKph": 5.9,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-18T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T11:40:07.480+08:00",
+    "observedAt": "2026-10-18T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T11:50:36.694+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "47台大科学装置相继投用 戈壁小镇如何成为世界级天文观测基地？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716581.shtml",
-        "publishedAt": "2026-10-18T11:33:11.000+08:00"
+        "title": "健康中国迈入“十五五” 这场大会释放多重新信号",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716587.shtml",
+        "publishedAt": "2026-10-18T11:44:29.000+08:00"
       },
       {
-        "title": "改革、谋策、存典协同推进 上海演艺全新启航",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716563.shtml",
-        "publishedAt": "2026-10-18T11:32:27.000+08:00"
+        "title": "马拉松“破2”第一人萨维在北京与中国跑者共话耕耘之道",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716574.shtml",
+        "publishedAt": "2026-10-18T11:43:41.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）香港七旬老人郑镇炎重走长征路后：薪火相传，步履不停",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716565.shtml",
-        "publishedAt": "2026-10-18T11:31:06.000+08:00"
+        "title": "2026年“一带一路”记者组织论坛聚焦“交汇融通·向新向前·世界变局中的媒体变革”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716572.shtml",
+        "publishedAt": "2026-10-18T11:42:43.000+08:00"
       },
       {
-        "title": "鲁比奥：美政府无人下令降低乌克兰接入“星链”速度",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716534.shtml",
-        "publishedAt": "2026-10-18T11:29:52.000+08:00"
+        "title": "回望长征 读懂跨越九十余载的信仰力量",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716586.shtml",
+        "publishedAt": "2026-10-18T11:41:57.000+08:00"
       },
       {
-        "title": "四川男篮97比85击败天津男篮 取得赛季开门红",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716570.shtml",
-        "publishedAt": "2026-10-18T11:29:48.000+08:00"
+        "title": "九载“西马”：一条赛道，半部唐诗",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716567.shtml",
+        "publishedAt": "2026-10-18T11:37:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T11:40:03.144+08:00",
+    "fetchedAt": "2026-10-18T11:50:02.993+08:00",
     "error": null
   },
   "sources": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T16:40:07.000+08:00"
+          "resetAt": "2026-10-18T16:50:36.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T11:40:07.000+08:00"
+          "resetAt": "2026-10-25T11:50:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T11:40:06.548+08:00",
+      "fetchedAt": "2026-10-18T11:50:35.800+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T11:40:06.552+08:00",
+      "fetchedAt": "2026-10-18T11:50:35.805+08:00",
       "error": null
     }
   }
