@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T07:10:07.332+08:00",
+  "updatedAt": "2026-10-19T07:20:07.043+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.8,
-    "feelsLikeC": 23.2,
-    "humidity": 87,
-    "windKph": 4.7,
+    "tempC": 20.9,
+    "feelsLikeC": 23.3,
+    "humidity": 86,
+    "windKph": 4.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T07:10:07.332+08:00",
+    "observedAt": "2026-10-19T07:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T07:20:07.043+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-10-19T06:02:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T07:10:03.179+08:00",
+    "fetchedAt": "2026-10-19T07:20:02.948+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -71,7 +71,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T12:10:07.000+08:00"
+          "resetAt": "2026-10-19T12:20:06.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T07:10:06.386+08:00",
+      "fetchedAt": "2026-10-19T07:20:06.072+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T07:10:06.395+08:00",
+      "fetchedAt": "2026-10-19T07:20:06.080+08:00",
       "error": null
     }
   }
