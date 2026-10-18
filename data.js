@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T18:30:09.244+08:00",
+  "updatedAt": "2026-10-18T18:40:09.672+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T18:30:09.244+08:00",
+    "fetchedAt": "2026-10-18T18:40:09.672+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "最高人民法院公布2026年前三季度司法审判工作主要数据",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716723.shtml",
+        "publishedAt": "2026-10-18T18:22:19.000+08:00"
+      },
       {
         "title": "陕西镇坪县遭遇强降雨 累计转移121户537人",
         "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716742.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "全球传统医学联盟成立 中外专家冀更多成果惠及民众",
         "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716740.shtml",
         "publishedAt": "2026-10-18T17:53:33.000+08:00"
-      },
-      {
-        "title": "浙江嘉兴南湖机场通航首年旅客吞吐量突破百万",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716737.shtml",
-        "publishedAt": "2026-10-18T17:53:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T18:30:04.138+08:00",
+    "fetchedAt": "2026-10-18T18:40:04.362+08:00",
     "error": null
   },
   "sources": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 14,
+          "usedPct": 16,
           "resetAt": "2026-10-18T22:01:35.000+08:00"
         },
         {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T18:30:08.116+08:00",
+      "fetchedAt": "2026-10-18T18:40:08.718+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T18:30:08.126+08:00",
+      "fetchedAt": "2026-10-18T18:40:08.727+08:00",
       "error": null
     }
   }
