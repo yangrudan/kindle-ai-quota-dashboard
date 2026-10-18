@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T15:00:17.165+08:00",
+  "updatedAt": "2026-10-18T15:10:10.465+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T15:00:17.165+08:00",
+    "fetchedAt": "2026-10-18T15:10:10.465+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“取消吃饭”的日本年轻人，正替日本扛下GDP排名下滑的代价",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716637.shtml",
+        "publishedAt": "2026-10-18T15:00:26.000+08:00"
+      },
+      {
+        "title": "西电“雷达人”：给卫星戴上“高清矫正镜”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716641.shtml",
+        "publishedAt": "2026-10-18T14:57:48.000+08:00"
+      },
+      {
+        "title": "第一观察丨从乌梁素海到黄旗海 总书记的生态关切一以贯之",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716638.shtml",
+        "publishedAt": "2026-10-18T14:56:52.000+08:00"
+      },
       {
         "title": "金观平：协同联动防止产业单兵突进——把握好发展新质生产力实践的总要求②",
         "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716640.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "焊花灼灼映初心 “80后”工匠易冉：扎根制造一线 以实干淬炼青春担当",
         "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716639.shtml",
         "publishedAt": "2026-10-18T14:53:10.000+08:00"
-      },
-      {
-        "title": "2026黄河口（东营）马拉松鸣枪开跑",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716629.shtml",
-        "publishedAt": "2026-10-18T14:48:23.000+08:00"
-      },
-      {
-        "title": "跨越百年跨海寻亲终圆梦 马来西亚侨胞重阳前夕致谢广州警方",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716621.shtml",
-        "publishedAt": "2026-10-18T14:42:33.000+08:00"
-      },
-      {
-        "title": "第九届西安马拉松赛刷新多项赛会纪录 逾三万名跑者“跃”动古城",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716630.shtml",
-        "publishedAt": "2026-10-18T14:37:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T15:00:03.688+08:00",
+    "fetchedAt": "2026-10-18T15:10:03.100+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:15.929+08:00",
+      "fetchedAt": "2026-10-18T15:10:09.470+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T15:00:15.939+08:00",
+      "fetchedAt": "2026-10-18T15:10:09.475+08:00",
       "error": null
     }
   }
