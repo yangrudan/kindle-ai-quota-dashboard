@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-18T14:00:19.218+08:00",
+  "updatedAt": "2026-10-18T14:10:18.412+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 30,
-    "feelsLikeC": 33.5,
+    "tempC": 29.9,
+    "feelsLikeC": 33.2,
     "humidity": 62,
-    "windKph": 9.4,
+    "windKph": 10.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T14:00:19.218+08:00",
+    "observedAt": "2026-10-18T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-18T14:10:18.412+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（活力中国调研行）四个关键词读懂海南自贸港封关成效",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716618.shtml",
+        "publishedAt": "2026-10-18T14:01:43.000+08:00"
+      },
+      {
+        "title": "广西三江侗乡：周末艺站传非遗",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716617.shtml",
+        "publishedAt": "2026-10-18T14:00:11.000+08:00"
+      },
+      {
+        "title": "以色列回应欧洲官员在约旦河西岸遇袭：“切勿妄下结论”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716608.shtml",
+        "publishedAt": "2026-10-18T13:58:53.000+08:00"
+      },
+      {
+        "title": "东西问丨伊薇特·范德梅尔韦、约翰·巴克：世界葡萄与葡萄酒大会缘何首次落地中国？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-18/10716609.shtml",
+        "publishedAt": "2026-10-18T13:53:44.000+08:00"
+      },
+      {
         "title": "日本一副市长参与庆典活动时被重约3吨太鼓台压住 不幸身亡",
         "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716597.shtml",
         "publishedAt": "2026-10-18T13:44:04.000+08:00"
-      },
-      {
-        "title": "印度踩踏事故致19死35伤 莫迪哀悼",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716537.shtml",
-        "publishedAt": "2026-10-18T13:43:38.000+08:00"
-      },
-      {
-        "title": "习言道｜这场会上，习近平说“今天可能要让你们失望了”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716605.shtml",
-        "publishedAt": "2026-10-18T13:39:54.000+08:00"
-      },
-      {
-        "title": "（文化新纪行｜校馆弦歌）厦门大学德旺图书馆：“玩”启数学之趣 “修”中触摸传承",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716607.shtml",
-        "publishedAt": "2026-10-18T13:36:13.000+08:00"
-      },
-      {
-        "title": "2026海洋保护大会在海口举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716606.shtml",
-        "publishedAt": "2026-10-18T13:34:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T14:00:02.450+08:00",
+    "fetchedAt": "2026-10-18T14:10:02.870+08:00",
     "error": null
   },
   "sources": {
@@ -70,7 +70,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 32,
           "resetAt": "2026-10-18T16:59:47.000+08:00"
         },
         {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T14:00:18.114+08:00",
+      "fetchedAt": "2026-10-18T14:10:17.472+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T14:00:18.126+08:00",
+      "fetchedAt": "2026-10-18T14:10:17.479+08:00",
       "error": null
     }
   }
