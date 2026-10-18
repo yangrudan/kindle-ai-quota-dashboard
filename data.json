@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T20:20:17.147+08:00",
+  "updatedAt": "2026-10-18T20:30:38.416+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T20:20:17.147+08:00",
+    "fetchedAt": "2026-10-18T20:30:38.416+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026场地自行车世锦赛在沪收官",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716803.shtml",
-        "publishedAt": "2026-10-18T20:13:49.000+08:00"
+        "title": "中外选手湖北十堰比拼太极拳技艺",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716818.shtml",
+        "publishedAt": "2026-10-18T20:27:06.000+08:00"
       },
       {
-        "title": "（活力中国调研行）“四笔账”衡量海南自由贸易港建设成效",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716810.shtml",
-        "publishedAt": "2026-10-18T20:13:21.000+08:00"
+        "title": "（经济观察）中国民企AI大模型在全球“圈粉”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716821.shtml",
+        "publishedAt": "2026-10-18T20:24:11.000+08:00"
       },
       {
-        "title": "国家肉羊产业技术体系成果推介会在安徽定远举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716809.shtml",
-        "publishedAt": "2026-10-18T20:12:09.000+08:00"
+        "title": "外交部回应“China Haul”！开箱热潮晒出立体中国",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716822.shtml",
+        "publishedAt": "2026-10-18T20:23:49.000+08:00"
       },
       {
-        "title": "西藏定结宗堡迎来黑颈鹤踏秋觅食",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716804.shtml",
-        "publishedAt": "2026-10-18T20:10:35.000+08:00"
+        "title": "昆山两岸同胞踩街迎妈祖回銮",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716812.shtml",
+        "publishedAt": "2026-10-18T20:22:07.000+08:00"
       },
       {
-        "title": "昆明市民周末赏菊感受春城秋韵",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716806.shtml",
-        "publishedAt": "2026-10-18T20:09:55.000+08:00"
+        "title": "国风邂逅国际范 长春大冬会志愿者秀青春风采",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716815.shtml",
+        "publishedAt": "2026-10-18T20:19:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T20:20:12.895+08:00",
+    "fetchedAt": "2026-10-18T20:30:02.930+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T20:20:16.181+08:00",
+      "fetchedAt": "2026-10-18T20:30:36.862+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T20:20:16.187+08:00",
+      "fetchedAt": "2026-10-18T20:30:36.871+08:00",
       "error": null
     }
   }
