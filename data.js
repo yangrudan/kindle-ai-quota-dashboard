@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T13:40:18.777+08:00",
+  "updatedAt": "2026-10-18T13:50:10.115+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 30.1,
-    "feelsLikeC": 33.7,
-    "humidity": 61,
-    "windKph": 8.9,
-    "windDir": "西北风",
+    "tempC": 30,
+    "feelsLikeC": 33.5,
+    "humidity": 62,
+    "windKph": 9.4,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T13:40:18.777+08:00",
+    "observedAt": "2026-10-18T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T13:50:10.115+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习言道｜这场会上，习近平说“今天可能要让你们失望了”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716605.shtml",
+        "publishedAt": "2026-10-18T13:39:54.000+08:00"
+      },
       {
         "title": "（文化新纪行｜校馆弦歌）厦门大学德旺图书馆：“玩”启数学之趣 “修”中触摸传承",
         "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716607.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广西壮族自治区政协原副主席黄日波接受国家监委监察调查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716601.shtml",
         "publishedAt": "2026-10-18T13:31:31.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）“中国小杂粮之乡”甘肃会宁的“康养密码”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716604.shtml",
-        "publishedAt": "2026-10-18T13:30:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T13:40:02.712+08:00",
+    "fetchedAt": "2026-10-18T13:50:04.379+08:00",
     "error": null
   },
   "sources": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 27,
           "resetAt": "2026-10-18T16:59:47.000+08:00"
         },
         {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T13:40:17.176+08:00",
+      "fetchedAt": "2026-10-18T13:50:08.581+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T13:40:17.186+08:00",
+      "fetchedAt": "2026-10-18T13:50:08.590+08:00",
       "error": null
     }
   }
