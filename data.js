@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T21:20:33.145+08:00",
+  "updatedAt": "2026-10-18T21:30:39.819+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 21.1,
-    "feelsLikeC": 22.6,
+    "feelsLikeC": 22.7,
     "humidity": 86,
-    "windKph": 11.3,
+    "windKph": 11,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-18T21:20:33.145+08:00",
+    "observedAt": "2026-10-18T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-18T21:30:39.820+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "影视跨越山海 中非电影人浙江宁波共话机遇",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716871.shtml",
+        "publishedAt": "2026-10-18T21:26:25.000+08:00"
+      },
       {
         "title": "第二届全国全民健身大赛（华南区）自行车骑游大会在清远举行",
         "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716846.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026机器人勇士挑战赛在北京亦庄举办",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-18/1208213.shtml",
         "publishedAt": "2026-10-18T20:54:06.000+08:00"
-      },
-      {
-        "title": "首都西南物流枢纽先导示范项目——深国际京西南综合物流枢纽开园投运",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716796.shtml",
-        "publishedAt": "2026-10-18T20:51:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T21:20:10.058+08:00",
+    "fetchedAt": "2026-10-18T21:30:03.706+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T21:20:31.667+08:00",
+      "fetchedAt": "2026-10-18T21:30:38.630+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T21:20:31.676+08:00",
+      "fetchedAt": "2026-10-18T21:30:38.641+08:00",
       "error": null
     }
   }
