@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T10:10:08.057+08:00",
+  "updatedAt": "2026-10-18T10:20:07.725+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.7,
-    "feelsLikeC": 32.8,
-    "humidity": 65,
-    "windKph": 5.6,
-    "windDir": "西南风",
+    "tempC": 29,
+    "feelsLikeC": 33.4,
+    "humidity": 64,
+    "windKph": 5.2,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-18T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T10:10:08.058+08:00",
+    "observedAt": "2026-10-18T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-18T10:20:07.725+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中超联赛：云南玉昆队1:1平重庆铜梁龙队",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716517.shtml",
+        "publishedAt": "2026-10-18T10:10:12.000+08:00"
+      },
+      {
+        "title": "批量“AI小海”卖惨博同情带货 哪些“姨姨妈妈”容易被收割？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716530.shtml",
+        "publishedAt": "2026-10-18T10:08:00.000+08:00"
+      },
       {
         "title": "BFX战胜WE，获2026德玛西亚杯冠军",
         "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716523.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "深秋养生怎么吃？老年人润燥护肺有讲究",
         "url": "https://www.chinanews.com.cn/jk/2026/10-18/10716528.shtml",
         "publishedAt": "2026-10-18T09:52:25.000+08:00"
-      },
-      {
-        "title": "重庆“洋人街”游人如织 老记忆焕发文旅新活力",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716527.shtml",
-        "publishedAt": "2026-10-18T09:52:19.000+08:00"
-      },
-      {
-        "title": "浙江杭州：航空航天科普展吸引民众",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716525.shtml",
-        "publishedAt": "2026-10-18T09:50:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T10:10:03.352+08:00",
+    "fetchedAt": "2026-10-18T10:20:02.773+08:00",
     "error": null
   },
   "sources": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T15:10:07.000+08:00"
+          "resetAt": "2026-10-18T15:20:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T10:10:07.000+08:00"
+          "resetAt": "2026-10-25T10:20:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T10:10:07.049+08:00",
+      "fetchedAt": "2026-10-18T10:20:06.698+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T10:10:07.058+08:00",
+      "fetchedAt": "2026-10-18T10:20:06.707+08:00",
       "error": null
     }
   }
