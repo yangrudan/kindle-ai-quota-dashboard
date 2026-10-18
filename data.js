@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T22:30:24.713+08:00",
+  "updatedAt": "2026-10-18T22:40:09.262+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T22:30:24.713+08:00",
+    "fetchedAt": "2026-10-18T22:40:09.262+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第三届全国新闻媒体匹克球邀请赛在衡水收拍",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716869.shtml",
-        "publishedAt": "2026-10-18T22:20:14.000+08:00"
+        "title": "以艺术激活乡土 “皖美宝藏小城”义安探索乡村振兴新路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716878.shtml",
+        "publishedAt": "2026-10-18T22:30:40.000+08:00"
       },
       {
-        "title": "广西国际中文教师比拼教学技能：让留学生读懂中国",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716868.shtml",
-        "publishedAt": "2026-10-18T22:17:52.000+08:00"
+        "title": "国家级极弱磁标准化工作组落户浙江 体系化发展提速",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716876.shtml",
+        "publishedAt": "2026-10-18T22:29:56.000+08:00"
       },
       {
-        "title": "丙午（2026）年重阳民祭轩辕黄帝活动在陕西黄陵举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716867.shtml",
-        "publishedAt": "2026-10-18T22:17:40.000+08:00"
+        "title": "云南数字影视产业园开园 多语种译制助力文化出海",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716877.shtml",
+        "publishedAt": "2026-10-18T22:29:50.000+08:00"
       },
       {
-        "title": "北京同仁医院建院140周年高质量发展大会举办 一批重点创新平台名单发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716866.shtml",
-        "publishedAt": "2026-10-18T22:16:54.000+08:00"
+        "title": "科创板多赛道龙头业绩、研发、回购“密集报喜”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716875.shtml",
+        "publishedAt": "2026-10-18T22:29:12.000+08:00"
       },
       {
-        "title": "前海博物馆将于10月30日正式开放 十件展品来自国博",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716864.shtml",
-        "publishedAt": "2026-10-18T22:16:22.000+08:00"
+        "title": "（乡村行·看振兴）浙江义乌：重阳节里赶一场靠山市集",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716874.shtml",
+        "publishedAt": "2026-10-18T22:29:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T22:30:03.484+08:00",
+    "fetchedAt": "2026-10-18T22:40:03.854+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T03:30:24.000+08:00"
+          "resetAt": "2026-10-19T03:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T22:30:21.878+08:00",
+      "fetchedAt": "2026-10-18T22:40:08.097+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T22:30:21.887+08:00",
+      "fetchedAt": "2026-10-18T22:40:08.105+08:00",
       "error": null
     }
   }
