@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-18T23:50:38.855+08:00",
+  "updatedAt": "2026-10-19T00:00:10.090+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 21.1,
-    "feelsLikeC": 23.4,
+    "feelsLikeC": 23.5,
     "humidity": 87,
-    "windKph": 6.3,
+    "windKph": 5.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T23:50:38.855+08:00",
+    "observedAt": "2026-10-19T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T00:00:10.090+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "CBA一周综述：升降级归来 四川队获新赛季“开门红”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716908.shtml",
+        "publishedAt": "2026-10-18T23:51:03.000+08:00"
+      },
+      {
+        "title": "CBA常规赛：布朗0.4秒三分绝杀吉林 北京首钢斩获赛季开门红",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716907.shtml",
+        "publishedAt": "2026-10-18T23:50:55.000+08:00"
+      },
       {
         "title": "“良渚论坛”配套双展开幕：“艺汇丝路”与“源浚者流长”绘文明互鉴",
         "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716882.shtml",
@@ -33,19 +43,9 @@
         "title": "2026中国公路自行车公开赛（眉山彭山站）鸣枪开赛",
         "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716865.shtml",
         "publishedAt": "2026-10-18T23:30:46.000+08:00"
-      },
-      {
-        "title": "福建湄洲岛举行海祭妈祖祈福大典",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716861.shtml",
-        "publishedAt": "2026-10-18T23:30:10.000+08:00"
-      },
-      {
-        "title": "河北涉县第二届“驰骋太行”骑游会：骑手追风太行赏深秋风光",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716860.shtml",
-        "publishedAt": "2026-10-18T23:29:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T23:50:03.384+08:00",
+    "fetchedAt": "2026-10-19T00:00:04.519+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -71,7 +71,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T04:50:38.000+08:00"
+          "resetAt": "2026-10-19T05:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T23:50:36.708+08:00",
+      "fetchedAt": "2026-10-19T00:00:09.018+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T23:50:36.713+08:00",
+      "fetchedAt": "2026-10-19T00:00:09.023+08:00",
       "error": null
     }
   }
