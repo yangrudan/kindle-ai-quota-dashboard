@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T19:40:22.368+08:00",
+  "updatedAt": "2026-10-18T19:50:40.572+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.9,
-    "feelsLikeC": 24.6,
-    "humidity": 83,
-    "windKph": 14.4,
+    "tempC": 22.7,
+    "feelsLikeC": 24.4,
+    "humidity": 84,
+    "windKph": 14,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T19:40:22.369+08:00",
+    "observedAt": "2026-10-18T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T19:50:40.572+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "近500名骑手环吉林松花湖竞速",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716784.shtml",
+        "publishedAt": "2026-10-18T19:45:09.000+08:00"
+      },
+      {
+        "title": "50名西藏定日少年上海研学：把红色故事、科技梦想“装进行囊”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716783.shtml",
+        "publishedAt": "2026-10-18T19:45:09.000+08:00"
+      },
+      {
+        "title": "粤超季军赛首回合：梅州队客场战胜广州队",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716785.shtml",
+        "publishedAt": "2026-10-18T19:44:01.000+08:00"
+      },
       {
         "title": "陕西省自行车联赛延安站开赛 500余名骑手串联生态风光与城乡风貌",
         "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716782.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "垂直大模型“同源观澜”在福州发布 数字赋能两岸融合发展",
         "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716780.shtml",
         "publishedAt": "2026-10-18T19:31:33.000+08:00"
-      },
-      {
-        "title": "李强赴杜尚别对塔吉克斯坦进行正式访问并出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716775.shtml",
-        "publishedAt": "2026-10-18T19:30:22.000+08:00"
-      },
-      {
-        "title": "相约漓江徒步赏秋 万人漫步甘棠江共赴山水之约",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716760.shtml",
-        "publishedAt": "2026-10-18T19:28:32.000+08:00"
-      },
-      {
-        "title": "丙午（2026）年重阳民祭轩辕黄帝活动在陕西黄陵举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716758.shtml",
-        "publishedAt": "2026-10-18T19:19:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T19:40:03.474+08:00",
+    "fetchedAt": "2026-10-18T19:50:04.390+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T19:40:21.382+08:00",
+      "fetchedAt": "2026-10-18T19:50:38.532+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T19:40:21.392+08:00",
+      "fetchedAt": "2026-10-18T19:50:38.541+08:00",
       "error": null
     }
   }
