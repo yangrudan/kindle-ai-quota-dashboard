@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T09:30:09.375+08:00",
+  "updatedAt": "2026-10-18T09:40:36.486+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-18T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T09:30:09.375+08:00",
+    "fetchedAt": "2026-10-18T09:40:36.486+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（同心同行长征路）从“一台发射车”到“多型导弹”，他在战位上干了20多年",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716520.shtml",
+        "publishedAt": "2026-10-18T09:37:30.000+08:00"
+      },
+      {
+        "title": "纽约曼哈顿一地铁站发生枪击事件 一男子身亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716491.shtml",
+        "publishedAt": "2026-10-18T09:34:10.000+08:00"
+      },
+      {
+        "title": "产业规模3.17万亿，5亿人参与！中国户外运动为什么这么火？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716518.shtml",
+        "publishedAt": "2026-10-18T09:32:54.000+08:00"
+      },
+      {
+        "title": "宁夏固原：重阳市集焕新登场 书香非遗演绎敬老情",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716512.shtml",
+        "publishedAt": "2026-10-18T09:28:50.000+08:00"
+      },
+      {
         "title": "今起可享优惠！老年旅客买“敬”字票“折上折”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716515.shtml",
         "publishedAt": "2026-10-18T09:28:26.000+08:00"
-      },
-      {
-        "title": "“金秋盛宴·畅游巴州”2026年罗布人村寨沙漠文化旅游节在新疆尉犁县开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716510.shtml",
-        "publishedAt": "2026-10-18T09:27:58.000+08:00"
-      },
-      {
-        "title": "“文化中国·锦绣四川”曼谷站活动成功举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716509.shtml",
-        "publishedAt": "2026-10-18T09:26:38.000+08:00"
-      },
-      {
-        "title": "供暖季来了 “内部人员”代缴采暖费能打折是真的吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716513.shtml",
-        "publishedAt": "2026-10-18T09:22:32.000+08:00"
-      },
-      {
-        "title": "超强厄尔尼诺来了，今年秋冬季大气污染会更严重吗？这些防范措施更有效",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716511.shtml",
-        "publishedAt": "2026-10-18T09:19:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T09:30:04.013+08:00",
+    "fetchedAt": "2026-10-18T09:40:02.798+08:00",
     "error": null
   },
   "sources": {
@@ -71,15 +71,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T14:30:09.000+08:00"
+          "resetAt": "2026-10-18T14:40:36.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T09:30:09.000+08:00"
+          "resetAt": "2026-10-25T09:40:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T09:30:08.005+08:00",
+      "fetchedAt": "2026-10-18T09:40:35.613+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T09:30:08.012+08:00",
+      "fetchedAt": "2026-10-18T09:40:35.619+08:00",
       "error": null
     }
   }
