@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T01:00:09.538+08:00",
+  "updatedAt": "2026-10-19T01:10:08.016+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-19T01:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T01:00:09.538+08:00",
+    "fetchedAt": "2026-10-19T01:10:08.016+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王毅同黑山副总理兼外长伊布拉希莫维奇会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716911.shtml",
+        "publishedAt": "2026-10-19T00:54:55.000+08:00"
+      },
       {
         "title": "厄尔尼诺加剧干旱风险 菲律宾强化森林保护与修复",
         "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716910.shtml",
@@ -38,14 +43,9 @@
         "title": "CBA常规赛：布朗0.4秒三分绝杀吉林 北京首钢斩获赛季开门红",
         "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716907.shtml",
         "publishedAt": "2026-10-18T23:50:55.000+08:00"
-      },
-      {
-        "title": "“良渚论坛”配套双展开幕：“艺汇丝路”与“源浚者流长”绘文明互鉴",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716882.shtml",
-        "publishedAt": "2026-10-18T23:32:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T01:00:04.688+08:00",
+    "fetchedAt": "2026-10-19T01:10:03.199+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -71,7 +71,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T06:00:09.000+08:00"
+          "resetAt": "2026-10-19T06:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T01:00:08.434+08:00",
+      "fetchedAt": "2026-10-19T01:10:06.953+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T01:00:08.439+08:00",
+      "fetchedAt": "2026-10-19T01:10:06.962+08:00",
       "error": null
     }
   }
