@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T20:40:18.072+08:00",
+  "updatedAt": "2026-10-18T20:50:13.860+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.6,
-    "feelsLikeC": 22.9,
-    "humidity": 83,
-    "windKph": 13.1,
+    "tempC": 21.4,
+    "feelsLikeC": 22.8,
+    "humidity": 84,
+    "windKph": 12.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T20:40:18.073+08:00",
+    "observedAt": "2026-10-18T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T20:50:13.860+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "16支篮球队伍齐聚芒康 西藏自治区第三届乡村篮球联赛开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716816.shtml",
-        "publishedAt": "2026-10-18T20:38:00.000+08:00"
+        "title": "第140届广交会：中国摩托车出口热",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716823.shtml",
+        "publishedAt": "2026-10-18T20:44:24.000+08:00"
       },
       {
-        "title": "黑山总统米拉托维奇会见王毅",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716748.shtml",
-        "publishedAt": "2026-10-18T20:37:54.000+08:00"
+        "title": "宁夏举办银龄阅读展演活动 长者登台分享岁月书香",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716832.shtml",
+        "publishedAt": "2026-10-18T20:44:14.000+08:00"
       },
       {
-        "title": "2026奉节半程马拉松鸣枪起跑 选手用脚步丈量“中华诗城”山水诗韵",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716814.shtml",
-        "publishedAt": "2026-10-18T20:36:50.000+08:00"
+        "title": "从不识“龟兹”到香港满座，舞剧《龟兹》做对了什么？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716838.shtml",
+        "publishedAt": "2026-10-18T20:43:52.000+08:00"
       },
       {
-        "title": "访问港邮轮“精钻追寻”号首靠天津 逾八成旅客凭免签政策入境",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716808.shtml",
-        "publishedAt": "2026-10-18T20:35:46.000+08:00"
+        "title": "2026年中国马术三项赛青少年冠军杯赛(西安站)收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716826.shtml",
+        "publishedAt": "2026-10-18T20:41:34.000+08:00"
       },
       {
-        "title": "中国制造从“我会做”走到“我懂你日子怎么过” 外贸向技术、方案、服务出口升级",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716830.shtml",
-        "publishedAt": "2026-10-18T20:35:40.000+08:00"
+        "title": "重阳登高炎帝陵 千余名跑者竞速神农故里",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716831.shtml",
+        "publishedAt": "2026-10-18T20:40:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T20:40:03.092+08:00",
+    "fetchedAt": "2026-10-18T20:50:02.544+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T20:40:17.077+08:00",
+      "fetchedAt": "2026-10-18T20:50:12.802+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T20:40:17.086+08:00",
+      "fetchedAt": "2026-10-18T20:50:12.811+08:00",
       "error": null
     }
   }
