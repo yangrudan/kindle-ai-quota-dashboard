@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T16:20:14.552+08:00",
+  "updatedAt": "2026-10-18T16:30:11.284+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.1,
-    "feelsLikeC": 29.2,
-    "humidity": 71,
-    "windKph": 17.4,
+    "tempC": 26.7,
+    "feelsLikeC": 28.7,
+    "humidity": 73,
+    "windKph": 17.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-18T16:20:14.552+08:00",
+    "observedAt": "2026-10-18T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-18T16:30:11.285+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "数字时代的“银发守护者”：修的是网络，解的是孤独",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716661.shtml",
-        "publishedAt": "2026-10-18T16:04:21.000+08:00"
+        "title": "中外学者证实湖北鳄为独立物种 厘清物种之争",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716674.shtml",
+        "publishedAt": "2026-10-18T16:23:52.000+08:00"
       },
       {
-        "title": "“2026体育文化全国行——走进西藏”活动在拉萨启幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716666.shtml",
-        "publishedAt": "2026-10-18T16:00:37.000+08:00"
+        "title": "开局之年看中国·潮涌荆楚丨新时代，新三峡",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716683.shtml",
+        "publishedAt": "2026-10-18T16:21:30.000+08:00"
       },
       {
-        "title": "（活力中国调研行）2026年“活力中国调研行”海南主题采访活动启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716660.shtml",
-        "publishedAt": "2026-10-18T15:59:55.000+08:00"
+        "title": "四川雅安：村民上山看牛途中偶遇野生大熊猫",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716678.shtml",
+        "publishedAt": "2026-10-18T16:21:12.000+08:00"
       },
       {
-        "title": "香港市民重阳节登高望远",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-18/1208184.shtml",
-        "publishedAt": "2026-10-18T15:58:40.000+08:00"
+        "title": "经济政策一线微观察丨银发经济暖意浓",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716677.shtml",
+        "publishedAt": "2026-10-18T16:19:00.000+08:00"
       },
       {
-        "title": "中国经济面面观丨新质生产力：顶层设计落地，产业一线如何作答？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716669.shtml",
-        "publishedAt": "2026-10-18T15:58:37.000+08:00"
+        "title": "四川雅安：红色精神与“熊猫老家” 营造宝兴幸福生活",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-18/1208187.shtml",
+        "publishedAt": "2026-10-18T16:17:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T16:20:02.759+08:00",
+    "fetchedAt": "2026-10-18T16:30:05.134+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 50,
+          "usedPct": 51,
           "resetAt": "2026-10-18T16:59:47.000+08:00"
         },
         {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T16:20:12.711+08:00",
+      "fetchedAt": "2026-10-18T16:30:09.366+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T16:20:12.721+08:00",
+      "fetchedAt": "2026-10-18T16:30:09.379+08:00",
       "error": null
     }
   }
