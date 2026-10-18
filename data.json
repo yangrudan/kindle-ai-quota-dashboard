@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-18T22:40:09.262+08:00",
+  "updatedAt": "2026-10-18T22:50:26.740+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 21,
-    "feelsLikeC": 22.9,
+    "feelsLikeC": 23,
     "humidity": 87,
-    "windKph": 9.4,
+    "windKph": 9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T22:40:09.262+08:00",
+    "observedAt": "2026-10-18T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T22:50:26.741+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "以艺术激活乡土 “皖美宝藏小城”义安探索乡村振兴新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716878.shtml",
-        "publishedAt": "2026-10-18T22:30:40.000+08:00"
+        "title": "2026环广西公路自行车世界巡回赛在南宁收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716890.shtml",
+        "publishedAt": "2026-10-18T22:44:29.000+08:00"
       },
       {
-        "title": "国家级极弱磁标准化工作组落户浙江 体系化发展提速",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716876.shtml",
-        "publishedAt": "2026-10-18T22:29:56.000+08:00"
+        "title": "韩国学者田炳郁：AI时代朱子学“修身”仍有现实意义",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716889.shtml",
+        "publishedAt": "2026-10-18T22:44:23.000+08:00"
       },
       {
-        "title": "云南数字影视产业园开园 多语种译制助力文化出海",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716877.shtml",
-        "publishedAt": "2026-10-18T22:29:50.000+08:00"
+        "title": "上海网球大师赛收官 弗基纳首夺大师赛冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716888.shtml",
+        "publishedAt": "2026-10-18T22:43:37.000+08:00"
       },
       {
-        "title": "科创板多赛道龙头业绩、研发、回购“密集报喜”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716875.shtml",
-        "publishedAt": "2026-10-18T22:29:12.000+08:00"
+        "title": "何立峰会见中投公司国际咨询委员会委员",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716887.shtml",
+        "publishedAt": "2026-10-18T22:42:59.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）浙江义乌：重阳节里赶一场靠山市集",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716874.shtml",
-        "publishedAt": "2026-10-18T22:29:04.000+08:00"
+        "title": "断桥与灭火成考场 机器人在北京闯关“实景作业”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716886.shtml",
+        "publishedAt": "2026-10-18T22:42:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T22:40:03.854+08:00",
+    "fetchedAt": "2026-10-18T22:50:03.461+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T03:40:08.000+08:00"
+          "resetAt": "2026-10-19T03:50:26.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T22:40:08.097+08:00",
+      "fetchedAt": "2026-10-18T22:50:25.444+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T22:40:08.105+08:00",
+      "fetchedAt": "2026-10-18T22:50:25.453+08:00",
       "error": null
     }
   }
