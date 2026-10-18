@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T01:50:07.990+08:00",
+  "updatedAt": "2026-10-19T02:00:10.745+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 20.9,
     "feelsLikeC": 23.2,
     "humidity": 88,
-    "windKph": 6,
+    "windKph": 6.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T01:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T01:50:07.990+08:00",
+    "observedAt": "2026-10-19T02:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T02:00:10.746+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "尼泊尔一客运吉普车坠河致3人遇难3人失踪",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716912.shtml",
+        "publishedAt": "2026-10-19T01:52:32.000+08:00"
+      },
       {
         "title": "王毅同黑山副总理兼外长伊布拉希莫维奇会谈",
         "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716911.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "CBA一周综述：升降级归来 四川队获新赛季“开门红”",
         "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716908.shtml",
         "publishedAt": "2026-10-18T23:51:03.000+08:00"
-      },
-      {
-        "title": "CBA常规赛：布朗0.4秒三分绝杀吉林 北京首钢斩获赛季开门红",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716907.shtml",
-        "publishedAt": "2026-10-18T23:50:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T01:50:03.745+08:00",
+    "fetchedAt": "2026-10-19T02:00:05.596+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T06:50:07.000+08:00"
+          "resetAt": "2026-10-19T07:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T01:50:06.963+08:00",
+      "fetchedAt": "2026-10-19T02:00:09.411+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T01:50:06.971+08:00",
+      "fetchedAt": "2026-10-19T02:00:09.414+08:00",
       "error": null
     }
   }
