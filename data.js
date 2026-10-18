@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T11:50:36.693+08:00",
+  "updatedAt": "2026-10-18T12:00:08.502+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-18T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T11:50:36.694+08:00",
+    "fetchedAt": "2026-10-18T12:00:08.502+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "AI手机一句话办事 为何被各大应用说“不”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716588.shtml",
+        "publishedAt": "2026-10-18T11:49:45.000+08:00"
+      },
+      {
+        "title": "中国援外麻醉医生在莱索托开展困难气道培训",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716568.shtml",
+        "publishedAt": "2026-10-18T11:47:49.000+08:00"
+      },
+      {
+        "title": "也门媒体报道沙特空袭荷台达 胡塞武装称击落沙特直升机",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716566.shtml",
+        "publishedAt": "2026-10-18T11:46:29.000+08:00"
+      },
+      {
+        "title": "首次落地中国西南 国际汽联TCR世界巡回赛成都站开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716577.shtml",
+        "publishedAt": "2026-10-18T11:45:55.000+08:00"
+      },
+      {
         "title": "健康中国迈入“十五五” 这场大会释放多重新信号",
         "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716587.shtml",
         "publishedAt": "2026-10-18T11:44:29.000+08:00"
-      },
-      {
-        "title": "马拉松“破2”第一人萨维在北京与中国跑者共话耕耘之道",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716574.shtml",
-        "publishedAt": "2026-10-18T11:43:41.000+08:00"
-      },
-      {
-        "title": "2026年“一带一路”记者组织论坛聚焦“交汇融通·向新向前·世界变局中的媒体变革”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716572.shtml",
-        "publishedAt": "2026-10-18T11:42:43.000+08:00"
-      },
-      {
-        "title": "回望长征 读懂跨越九十余载的信仰力量",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716586.shtml",
-        "publishedAt": "2026-10-18T11:41:57.000+08:00"
-      },
-      {
-        "title": "九载“西马”：一条赛道，半部唐诗",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716567.shtml",
-        "publishedAt": "2026-10-18T11:37:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T11:50:02.993+08:00",
+    "fetchedAt": "2026-10-18T12:00:03.437+08:00",
     "error": null
   },
   "sources": {
@@ -70,16 +70,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-18T16:50:36.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-10-18T16:59:47.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T11:50:36.000+08:00"
+          "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T11:50:35.800+08:00",
+      "fetchedAt": "2026-10-18T12:00:07.538+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T11:50:35.805+08:00",
+      "fetchedAt": "2026-10-18T12:00:07.547+08:00",
       "error": null
     }
   }
