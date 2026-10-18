@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T11:00:07.145+08:00",
+  "updatedAt": "2026-10-18T11:10:06.782+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 29.6,
-    "feelsLikeC": 34.5,
-    "humidity": 62,
-    "windKph": 4.1,
+    "tempC": 29.9,
+    "feelsLikeC": 34.8,
+    "humidity": 61,
+    "windKph": 4.2,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-18T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T11:00:07.145+08:00",
+    "observedAt": "2026-10-18T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-18T11:10:06.783+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "课本里的长征故事",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716556.shtml",
+        "publishedAt": "2026-10-18T10:56:27.000+08:00"
+      },
+      {
+        "title": "江西景德镇：人形机器人化身“售货员” 引客体验打卡",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716542.shtml",
+        "publishedAt": "2026-10-18T10:54:04.000+08:00"
+      },
       {
         "title": "2026武汉网球公开赛：波兰选手赫瓦林斯卡晋级决赛",
         "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716543.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "探访苏赫罗布艺术画廊：塔吉克斯坦画家笔下的“中国情缘”",
         "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716541.shtml",
         "publishedAt": "2026-10-18T10:49:44.000+08:00"
-      },
-      {
-        "title": "中国体育代表团亮相亚残运会欢迎仪式",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716551.shtml",
-        "publishedAt": "2026-10-18T10:47:58.000+08:00"
-      },
-      {
-        "title": "2026中国网球菁英团体邀请赛总决赛在北京落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716540.shtml",
-        "publishedAt": "2026-10-18T10:43:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T11:00:02.705+08:00",
+    "fetchedAt": "2026-10-18T11:10:02.278+08:00",
     "error": null
   },
   "sources": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T16:00:07.000+08:00"
+          "resetAt": "2026-10-18T16:10:06.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T11:00:07.000+08:00"
+          "resetAt": "2026-10-25T11:10:06.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T11:00:06.151+08:00",
+      "fetchedAt": "2026-10-18T11:10:05.764+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T11:00:06.160+08:00",
+      "fetchedAt": "2026-10-18T11:10:05.773+08:00",
       "error": null
     }
   }
