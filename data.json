@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:50:26.740+08:00",
+  "updatedAt": "2026-10-18T23:00:38.940+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 21,
     "feelsLikeC": 23,
     "humidity": 87,
-    "windKph": 9,
+    "windKph": 8.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T22:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T22:50:26.741+08:00",
+    "observedAt": "2026-10-18T23:00:00.000+08:00",
+    "fetchedAt": "2026-10-18T23:00:38.940+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026武网：波兰选手赫瓦林斯卡逆转夺冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716894.shtml",
+        "publishedAt": "2026-10-18T22:49:23.000+08:00"
+      },
+      {
+        "title": "世界超级摩托车锦标赛收官 “张雪机车”获制造商年度第三名",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716893.shtml",
+        "publishedAt": "2026-10-18T22:49:17.000+08:00"
+      },
+      {
+        "title": "第五届亚洲残疾人运动会在日本名古屋开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716891.shtml",
+        "publishedAt": "2026-10-18T22:45:11.000+08:00"
+      },
       {
         "title": "2026环广西公路自行车世界巡回赛在南宁收官",
         "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716890.shtml",
@@ -28,24 +43,9 @@
         "title": "韩国学者田炳郁：AI时代朱子学“修身”仍有现实意义",
         "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716889.shtml",
         "publishedAt": "2026-10-18T22:44:23.000+08:00"
-      },
-      {
-        "title": "上海网球大师赛收官 弗基纳首夺大师赛冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716888.shtml",
-        "publishedAt": "2026-10-18T22:43:37.000+08:00"
-      },
-      {
-        "title": "何立峰会见中投公司国际咨询委员会委员",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716887.shtml",
-        "publishedAt": "2026-10-18T22:42:59.000+08:00"
-      },
-      {
-        "title": "断桥与灭火成考场 机器人在北京闯关“实景作业”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716886.shtml",
-        "publishedAt": "2026-10-18T22:42:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T22:50:03.461+08:00",
+    "fetchedAt": "2026-10-18T23:00:04.287+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -71,7 +71,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T03:50:26.000+08:00"
+          "resetAt": "2026-10-19T04:00:37.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T22:50:25.444+08:00",
+      "fetchedAt": "2026-10-18T23:00:36.729+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T22:50:25.453+08:00",
+      "fetchedAt": "2026-10-18T23:00:36.739+08:00",
       "error": null
     }
   }
