@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T09:40:36.486+08:00",
+  "updatedAt": "2026-10-18T09:50:07.687+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.9,
-    "feelsLikeC": 31.6,
-    "humidity": 67,
-    "windKph": 5.3,
+    "tempC": 28.3,
+    "feelsLikeC": 32.2,
+    "humidity": 66,
+    "windKph": 5.5,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-18T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T09:40:36.486+08:00",
+    "observedAt": "2026-10-18T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T09:50:07.687+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "东北和南方多地降水频繁 长江以北地区气温持续偏低",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716526.shtml",
+        "publishedAt": "2026-10-18T09:49:09.000+08:00"
+      },
+      {
+        "title": "7年受理诉求量超2亿件 透过热线读懂中国之“治”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716524.shtml",
+        "publishedAt": "2026-10-18T09:46:33.000+08:00"
+      },
+      {
+        "title": "第二十五届中国上海国际艺术节开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716516.shtml",
+        "publishedAt": "2026-10-18T09:41:53.000+08:00"
+      },
+      {
+        "title": "（同心同行长征路）深山30年，他一直守着“大国长剑”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716522.shtml",
+        "publishedAt": "2026-10-18T09:41:21.000+08:00"
+      },
+      {
         "title": "（同心同行长征路）从“一台发射车”到“多型导弹”，他在战位上干了20多年",
         "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716520.shtml",
         "publishedAt": "2026-10-18T09:37:30.000+08:00"
-      },
-      {
-        "title": "纽约曼哈顿一地铁站发生枪击事件 一男子身亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716491.shtml",
-        "publishedAt": "2026-10-18T09:34:10.000+08:00"
-      },
-      {
-        "title": "产业规模3.17万亿，5亿人参与！中国户外运动为什么这么火？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716518.shtml",
-        "publishedAt": "2026-10-18T09:32:54.000+08:00"
-      },
-      {
-        "title": "宁夏固原：重阳市集焕新登场 书香非遗演绎敬老情",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716512.shtml",
-        "publishedAt": "2026-10-18T09:28:50.000+08:00"
-      },
-      {
-        "title": "今起可享优惠！老年旅客买“敬”字票“折上折”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716515.shtml",
-        "publishedAt": "2026-10-18T09:28:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T09:40:02.798+08:00",
+    "fetchedAt": "2026-10-18T09:50:03.439+08:00",
     "error": null
   },
   "sources": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T14:40:36.000+08:00"
+          "resetAt": "2026-10-18T14:50:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T09:40:36.000+08:00"
+          "resetAt": "2026-10-25T09:50:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T09:40:35.613+08:00",
+      "fetchedAt": "2026-10-18T09:50:06.535+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T09:40:35.619+08:00",
+      "fetchedAt": "2026-10-18T09:50:06.545+08:00",
       "error": null
     }
   }
