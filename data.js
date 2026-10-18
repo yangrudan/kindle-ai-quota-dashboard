@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T13:10:45.876+08:00",
+  "updatedAt": "2026-10-18T13:20:23.193+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 30.2,
-    "feelsLikeC": 34,
-    "humidity": 60,
-    "windKph": 8.4,
+    "tempC": 30.1,
+    "feelsLikeC": 33.9,
+    "humidity": 61,
+    "windKph": 8.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T13:10:45.876+08:00",
+    "observedAt": "2026-10-18T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-18T13:20:23.193+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一条微信打开招标项目“内定”之门",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716602.shtml",
+        "publishedAt": "2026-10-18T13:09:50.000+08:00"
+      },
       {
         "title": "水平高、氛围好！2026北马诞生新纪录，赛事组织获选手认可",
         "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716599.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "白云机场重回榜首 航空枢纽格局生变",
         "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716591.shtml",
         "publishedAt": "2026-10-18T12:17:15.000+08:00"
-      },
-      {
-        "title": "中新健康|更年期不是病，为什么还需要看医生？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-18/10716593.shtml",
-        "publishedAt": "2026-10-18T12:09:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T13:10:03.070+08:00",
+    "fetchedAt": "2026-10-18T13:20:02.890+08:00",
     "error": null
   },
   "sources": {
@@ -70,16 +70,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 14,
+          "usedPct": 18,
           "resetAt": "2026-10-18T16:59:47.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T13:10:44.984+08:00",
+      "fetchedAt": "2026-10-18T13:20:22.251+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T13:10:44.993+08:00",
+      "fetchedAt": "2026-10-18T13:20:22.260+08:00",
       "error": null
     }
   }
