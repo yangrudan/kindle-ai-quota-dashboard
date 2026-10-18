@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:10:07.623+08:00",
+  "updatedAt": "2026-10-18T22:20:19.979+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 21,
     "feelsLikeC": 22.8,
     "humidity": 87,
-    "windKph": 10.3,
+    "windKph": 9.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T22:10:07.623+08:00",
+    "observedAt": "2026-10-18T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-18T22:20:19.979+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "陕西省图书馆暖心适老化服务让重阳书香更有温度",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716879.shtml",
-        "publishedAt": "2026-10-18T22:08:07.000+08:00"
+        "title": "广西国际中文教师比拼教学技能：让留学生读懂中国",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716868.shtml",
+        "publishedAt": "2026-10-18T22:17:52.000+08:00"
       },
       {
-        "title": "江苏倾情支援青海十六载：投入资金超百亿元 种富民种子",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716881.shtml",
-        "publishedAt": "2026-10-18T22:07:01.000+08:00"
+        "title": "丙午（2026）年重阳民祭轩辕黄帝活动在陕西黄陵举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716867.shtml",
+        "publishedAt": "2026-10-18T22:17:40.000+08:00"
       },
       {
-        "title": "如何玩转气象科学？兰州上演气象科普嘉年华",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716883.shtml",
-        "publishedAt": "2026-10-18T22:06:57.000+08:00"
+        "title": "北京同仁医院建院140周年高质量发展大会举办 一批重点创新平台名单发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716866.shtml",
+        "publishedAt": "2026-10-18T22:16:54.000+08:00"
       },
       {
-        "title": "影视跨越山海 中非电影人浙江宁波共话机遇",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716871.shtml",
-        "publishedAt": "2026-10-18T21:26:25.000+08:00"
+        "title": "前海博物馆将于10月30日正式开放 十件展品来自国博",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716864.shtml",
+        "publishedAt": "2026-10-18T22:16:22.000+08:00"
       },
       {
-        "title": "第二届全国全民健身大赛（华南区）自行车骑游大会在清远举行",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716846.shtml",
-        "publishedAt": "2026-10-18T20:57:47.000+08:00"
+        "title": "中国原创AI赋能技术为传统针灸疗法提供“可视化证据”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716863.shtml",
+        "publishedAt": "2026-10-18T22:15:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T22:10:03.208+08:00",
+    "fetchedAt": "2026-10-18T22:20:03.061+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -71,7 +71,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T03:10:07.000+08:00"
+          "resetAt": "2026-10-19T03:20:19.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T22:10:06.760+08:00",
+      "fetchedAt": "2026-10-18T22:20:19.110+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T22:10:06.773+08:00",
+      "fetchedAt": "2026-10-18T22:20:19.119+08:00",
       "error": null
     }
   }
