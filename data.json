@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T20:10:16.725+08:00",
+  "updatedAt": "2026-10-18T20:20:17.147+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T20:10:16.725+08:00",
+    "fetchedAt": "2026-10-18T20:20:17.147+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "民族院校如何彰显“不可替代”？云南民族大学75周年论坛寻路",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716802.shtml",
-        "publishedAt": "2026-10-18T20:05:14.000+08:00"
+        "title": "2026场地自行车世锦赛在沪收官",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716803.shtml",
+        "publishedAt": "2026-10-18T20:13:49.000+08:00"
       },
       {
-        "title": "陶瓷智能制造设备及产品集中亮相2026景德镇“瓷博会”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716733.shtml",
-        "publishedAt": "2026-10-18T20:04:16.000+08:00"
+        "title": "（活力中国调研行）“四笔账”衡量海南自由贸易港建设成效",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716810.shtml",
+        "publishedAt": "2026-10-18T20:13:21.000+08:00"
       },
       {
-        "title": "中国“职教出海”绘就国际合作新图景",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716805.shtml",
-        "publishedAt": "2026-10-18T20:04:10.000+08:00"
+        "title": "国家肉羊产业技术体系成果推介会在安徽定远举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716809.shtml",
+        "publishedAt": "2026-10-18T20:12:09.000+08:00"
       },
       {
-        "title": "安徽池州：千年诗路“重阳有戏” 登高健身融入传统节俗",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716801.shtml",
-        "publishedAt": "2026-10-18T20:03:54.000+08:00"
+        "title": "西藏定结宗堡迎来黑颈鹤踏秋觅食",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716804.shtml",
+        "publishedAt": "2026-10-18T20:10:35.000+08:00"
       },
       {
-        "title": "西藏罗布林卡推出场景式婚姻登记服务",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716755.shtml",
-        "publishedAt": "2026-10-18T20:02:22.000+08:00"
+        "title": "昆明市民周末赏菊感受春城秋韵",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716806.shtml",
+        "publishedAt": "2026-10-18T20:09:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T20:10:04.326+08:00",
+    "fetchedAt": "2026-10-18T20:20:12.895+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T20:10:15.727+08:00",
+      "fetchedAt": "2026-10-18T20:20:16.181+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T20:10:15.737+08:00",
+      "fetchedAt": "2026-10-18T20:20:16.187+08:00",
       "error": null
     }
   }
