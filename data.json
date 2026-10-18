@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T06:00:08.648+08:00",
+  "updatedAt": "2026-10-19T06:10:07.352+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-19T06:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T06:00:08.648+08:00",
+    "fetchedAt": "2026-10-19T06:10:07.352+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "尼泊尔一客运吉普车坠河致3人遇难3人失踪",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716912.shtml",
-        "publishedAt": "2026-10-19T01:52:32.000+08:00"
+        "title": "特朗普发文支持内塔尼亚胡竞选连任以色列总理",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716917.shtml",
+        "publishedAt": "2026-10-19T06:03:47.000+08:00"
       },
       {
-        "title": "王毅同黑山副总理兼外长伊布拉希莫维奇会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716911.shtml",
-        "publishedAt": "2026-10-19T00:54:55.000+08:00"
+        "title": "沙特称胡塞武装投射物落入居民区 致6人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716916.shtml",
+        "publishedAt": "2026-10-19T06:02:53.000+08:00"
       },
       {
-        "title": "厄尔尼诺加剧干旱风险 菲律宾强化森林保护与修复",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716910.shtml",
-        "publishedAt": "2026-10-19T00:45:40.000+08:00"
+        "title": "乌克兰首都基辅响起强烈爆炸声",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716915.shtml",
+        "publishedAt": "2026-10-19T06:01:29.000+08:00"
       },
       {
-        "title": "中超第28轮：蓉城负海港再失冠军点 英博三连胜紧追",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716909.shtml",
-        "publishedAt": "2026-10-19T00:00:40.000+08:00"
+        "title": "睡觉时身体会突然抽动？这几种表现可能是疾病信号",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10716914.shtml",
+        "publishedAt": "2026-10-19T06:00:13.000+08:00"
       },
       {
-        "title": "CBA一周综述：升降级归来 四川队获新赛季“开门红”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716908.shtml",
-        "publishedAt": "2026-10-18T23:51:03.000+08:00"
+        "title": "黑山总理斯帕伊奇会见王毅",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716913.shtml",
+        "publishedAt": "2026-10-19T05:55:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T06:00:04.468+08:00",
+    "fetchedAt": "2026-10-19T06:10:03.071+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T11:00:08.000+08:00"
+          "resetAt": "2026-10-19T11:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T06:00:07.680+08:00",
+      "fetchedAt": "2026-10-19T06:10:06.467+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T06:00:07.690+08:00",
+      "fetchedAt": "2026-10-19T06:10:06.477+08:00",
       "error": null
     }
   }
