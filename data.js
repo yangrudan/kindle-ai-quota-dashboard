@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T01:10:08.016+08:00",
+  "updatedAt": "2026-10-19T01:20:08.284+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 20.9,
     "feelsLikeC": 23.4,
     "humidity": 88,
-    "windKph": 5.2,
+    "windKph": 5.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T01:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T01:10:08.016+08:00",
+    "observedAt": "2026-10-19T01:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T01:20:08.284+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-18T23:50:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T01:10:03.199+08:00",
+    "fetchedAt": "2026-10-19T01:20:03.249+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
       "stale": true
     },
     "codex": {
@@ -71,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T06:10:07.000+08:00"
+          "resetAt": "2026-10-19T06:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T01:10:06.953+08:00",
+      "fetchedAt": "2026-10-19T01:20:07.048+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T01:10:06.962+08:00",
+      "fetchedAt": "2026-10-19T01:20:07.051+08:00",
       "error": null
     }
   }
