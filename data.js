@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T17:40:25.744+08:00",
+  "updatedAt": "2026-10-18T17:50:33.223+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.2,
-    "feelsLikeC": 27.4,
-    "humidity": 77,
-    "windKph": 14.5,
+    "tempC": 25,
+    "feelsLikeC": 27.3,
+    "humidity": 78,
+    "windKph": 13.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T17:40:25.744+08:00",
+    "observedAt": "2026-10-18T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-18T17:50:33.223+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（活力中国调研行）数读海南自贸港：动能向新、结构向优、根基向实",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716731.shtml",
+        "publishedAt": "2026-10-18T17:43:03.000+08:00"
+      },
+      {
+        "title": "古稀评剧洪派传人重阳授艺 培育少年戏曲新苗",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716724.shtml",
+        "publishedAt": "2026-10-18T17:41:21.000+08:00"
+      },
+      {
+        "title": "（长征胜利90周年）云南姚安莲花落从苦音唱到欢调",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716730.shtml",
+        "publishedAt": "2026-10-18T17:40:25.000+08:00"
+      },
       {
         "title": "第五届小十月文学奖在海盐颁奖",
         "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716728.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "八方风味聚芦台 全国优质“土特产”走进京津冀活动在天津举行",
         "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716727.shtml",
         "publishedAt": "2026-10-18T17:37:56.000+08:00"
-      },
-      {
-        "title": "专家：更年期女性遇到情绪问题不要只是简单劝慰自己“想开点就好”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716726.shtml",
-        "publishedAt": "2026-10-18T17:37:06.000+08:00"
-      },
-      {
-        "title": "第三届中国·石家庄（深泽）生物能源产业发展大会暨全国绿色能源产业峰会举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716725.shtml",
-        "publishedAt": "2026-10-18T17:35:52.000+08:00"
-      },
-      {
-        "title": "第五届亚洲残疾人运动会开幕式举行 中国体育代表团入场",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716729.shtml",
-        "publishedAt": "2026-10-18T17:35:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T17:40:03.829+08:00",
+    "fetchedAt": "2026-10-18T17:50:03.750+08:00",
     "error": null
   },
   "sources": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T17:40:24.310+08:00",
+      "fetchedAt": "2026-10-18T17:50:32.306+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T17:40:24.320+08:00",
+      "fetchedAt": "2026-10-18T17:50:32.312+08:00",
       "error": null
     }
   }
