@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T13:50:10.115+08:00",
+  "updatedAt": "2026-10-18T14:00:19.218+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T13:50:10.115+08:00",
+    "fetchedAt": "2026-10-18T14:00:19.218+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本一副市长参与庆典活动时被重约3吨太鼓台压住 不幸身亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716597.shtml",
+        "publishedAt": "2026-10-18T13:44:04.000+08:00"
+      },
+      {
+        "title": "印度踩踏事故致19死35伤 莫迪哀悼",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716537.shtml",
+        "publishedAt": "2026-10-18T13:43:38.000+08:00"
+      },
       {
         "title": "习言道｜这场会上，习近平说“今天可能要让你们失望了”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716605.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026海洋保护大会在海口举行",
         "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716606.shtml",
         "publishedAt": "2026-10-18T13:34:47.000+08:00"
-      },
-      {
-        "title": "前三季度中国铁路发送旅客超37亿人次 创历史同期新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716603.shtml",
-        "publishedAt": "2026-10-18T13:33:09.000+08:00"
-      },
-      {
-        "title": "广西壮族自治区政协原副主席黄日波接受国家监委监察调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716601.shtml",
-        "publishedAt": "2026-10-18T13:31:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T13:50:04.379+08:00",
+    "fetchedAt": "2026-10-18T14:00:02.450+08:00",
     "error": null
   },
   "sources": {
@@ -70,16 +70,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
+          "usedPct": 31,
           "resetAt": "2026-10-18T16:59:47.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T13:50:08.581+08:00",
+      "fetchedAt": "2026-10-18T14:00:18.114+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T13:50:08.590+08:00",
+      "fetchedAt": "2026-10-18T14:00:18.126+08:00",
       "error": null
     }
   }
