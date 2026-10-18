@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T08:50:08.352+08:00",
+  "updatedAt": "2026-10-18T09:00:06.800+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-18T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-18T08:50:08.352+08:00",
+    "fetchedAt": "2026-10-18T09:00:06.800+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "河北大学，105岁生日快乐！",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716501.shtml",
+        "publishedAt": "2026-10-18T08:53:46.000+08:00"
+      },
+      {
+        "title": "李强出席2026世界传统医药大会开幕式并致辞",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-18/1208150.shtml",
+        "publishedAt": "2026-10-18T08:50:39.000+08:00"
+      },
+      {
+        "title": "中新网直播：2026北马鸣枪开跑 用脚步丈量“双奥之城”",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-18/10716495.shtml",
+        "publishedAt": "2026-10-18T08:47:44.000+08:00"
+      },
+      {
+        "title": "2026年粤港澳大湾区青少年足球交流赛在佛山举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716492.shtml",
+        "publishedAt": "2026-10-18T08:45:01.000+08:00"
+      },
+      {
         "title": "第五届成渝双城科幻研究论坛在重庆开幕",
         "url": "https://www.chinanews.com.cn/cul/2026/10-18/10716490.shtml",
         "publishedAt": "2026-10-18T08:35:39.000+08:00"
-      },
-      {
-        "title": "2026“喀什杯”足球超级邀请赛开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716489.shtml",
-        "publishedAt": "2026-10-18T08:34:43.000+08:00"
-      },
-      {
-        "title": "海南省民族体育盛会开赛首日：特色项目轮番登场",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716488.shtml",
-        "publishedAt": "2026-10-18T08:33:51.000+08:00"
-      },
-      {
-        "title": "铁人三项“双赛”北京怀柔启幕 多国选手雁栖湖畔对决",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716486.shtml",
-        "publishedAt": "2026-10-18T08:32:59.000+08:00"
-      },
-      {
-        "title": "四川成都：一部糖画江湖的“史记”在天府书展首发",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716485.shtml",
-        "publishedAt": "2026-10-18T08:31:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T08:50:04.311+08:00",
+    "fetchedAt": "2026-10-18T09:00:02.783+08:00",
     "error": null
   },
   "sources": {
@@ -71,15 +71,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-18T13:50:08.000+08:00"
+          "resetAt": "2026-10-18T14:00:06.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-25T08:50:08.000+08:00"
+          "resetAt": "2026-10-25T09:00:06.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T08:50:07.215+08:00",
+      "fetchedAt": "2026-10-18T09:00:05.654+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T08:50:07.225+08:00",
+      "fetchedAt": "2026-10-18T09:00:05.663+08:00",
       "error": null
     }
   }
