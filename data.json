@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T20:00:08.500+08:00",
+  "updatedAt": "2026-10-18T20:10:16.725+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T20:00:08.501+08:00",
+    "fetchedAt": "2026-10-18T20:10:16.725+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香港特区政府重阳节举行仪式 悼念为保卫香港而捐躯的人士",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-18/10716786.shtml",
-        "publishedAt": "2026-10-18T19:50:30.000+08:00"
+        "title": "民族院校如何彰显“不可替代”？云南民族大学75周年论坛寻路",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716802.shtml",
+        "publishedAt": "2026-10-18T20:05:14.000+08:00"
       },
       {
-        "title": "全国自行车户外公开挑战赛在湖北通城开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716790.shtml",
-        "publishedAt": "2026-10-18T19:49:34.000+08:00"
+        "title": "陶瓷智能制造设备及产品集中亮相2026景德镇“瓷博会”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716733.shtml",
+        "publishedAt": "2026-10-18T20:04:16.000+08:00"
       },
       {
-        "title": "登高揽秋度重阳 陕西300余名选手白云山竞速",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716789.shtml",
-        "publishedAt": "2026-10-18T19:48:43.000+08:00"
+        "title": "中国“职教出海”绘就国际合作新图景",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716805.shtml",
+        "publishedAt": "2026-10-18T20:04:10.000+08:00"
       },
       {
-        "title": "新西兰进博会展品抵沪通关",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716788.shtml",
-        "publishedAt": "2026-10-18T19:47:29.000+08:00"
+        "title": "安徽池州：千年诗路“重阳有戏” 登高健身融入传统节俗",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716801.shtml",
+        "publishedAt": "2026-10-18T20:03:54.000+08:00"
       },
       {
-        "title": "近500名骑手环吉林松花湖竞速",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716784.shtml",
-        "publishedAt": "2026-10-18T19:45:09.000+08:00"
+        "title": "西藏罗布林卡推出场景式婚姻登记服务",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716755.shtml",
+        "publishedAt": "2026-10-18T20:02:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T20:00:04.027+08:00",
+    "fetchedAt": "2026-10-18T20:10:04.326+08:00",
     "error": null
   },
   "sources": {
@@ -70,7 +70,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 16,
+          "usedPct": 17,
           "resetAt": "2026-10-18T22:01:35.000+08:00"
         },
         {
@@ -79,7 +79,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T20:00:07.552+08:00",
+      "fetchedAt": "2026-10-18T20:10:15.727+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T20:00:07.563+08:00",
+      "fetchedAt": "2026-10-18T20:10:15.737+08:00",
       "error": null
     }
   }
