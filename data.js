@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T21:10:49.781+08:00",
+  "updatedAt": "2026-10-18T21:20:33.145+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.2,
-    "feelsLikeC": 22.7,
-    "humidity": 85,
-    "windKph": 11.9,
+    "tempC": 21.1,
+    "feelsLikeC": 22.6,
+    "humidity": 86,
+    "windKph": 11.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-18T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-18T21:10:49.781+08:00",
+    "observedAt": "2026-10-18T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-18T21:20:33.145+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-18T20:51:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T21:10:03.513+08:00",
+    "fetchedAt": "2026-10-18T21:20:10.058+08:00",
     "error": null
   },
   "sources": {
@@ -61,7 +61,7 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: Requires authentication (HTTP 401)\n",
+      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
       "stale": true
     },
     "codex": {
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T21:10:48.822+08:00",
+      "fetchedAt": "2026-10-18T21:20:31.667+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T21:10:48.831+08:00",
+      "fetchedAt": "2026-10-18T21:20:31.676+08:00",
       "error": null
     }
   }
