@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-18T23:30:08.685+08:00",
+  "updatedAt": "2026-10-18T23:40:09.092+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-18T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-18T23:30:08.686+08:00",
+    "fetchedAt": "2026-10-18T23:40:09.092+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "周杰伦家在大陆有大鹿",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716906.shtml",
-        "publishedAt": "2026-10-18T23:21:33.000+08:00"
+        "title": "“良渚论坛”配套双展开幕：“艺汇丝路”与“源浚者流长”绘文明互鉴",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716882.shtml",
+        "publishedAt": "2026-10-18T23:32:00.000+08:00"
       },
       {
-        "title": "2026武网：波兰选手赫瓦林斯卡逆转夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716894.shtml",
-        "publishedAt": "2026-10-18T22:49:23.000+08:00"
+        "title": "广西区运会航空航天模型项目上演空中较量",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716872.shtml",
+        "publishedAt": "2026-10-18T23:31:32.000+08:00"
       },
       {
-        "title": "世界超级摩托车锦标赛收官 “张雪机车”获制造商年度第三名",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716893.shtml",
-        "publishedAt": "2026-10-18T22:49:17.000+08:00"
+        "title": "2026中国公路自行车公开赛（眉山彭山站）鸣枪开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716865.shtml",
+        "publishedAt": "2026-10-18T23:30:46.000+08:00"
       },
       {
-        "title": "第五届亚洲残疾人运动会在日本名古屋开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716891.shtml",
-        "publishedAt": "2026-10-18T22:45:11.000+08:00"
+        "title": "福建湄洲岛举行海祭妈祖祈福大典",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716861.shtml",
+        "publishedAt": "2026-10-18T23:30:10.000+08:00"
       },
       {
-        "title": "2026环广西公路自行车世界巡回赛在南宁收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716890.shtml",
-        "publishedAt": "2026-10-18T22:44:29.000+08:00"
+        "title": "河北涉县第二届“驰骋太行”骑游会：骑手追风太行赏深秋风光",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-18/10716860.shtml",
+        "publishedAt": "2026-10-18T23:29:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-18T23:30:03.774+08:00",
+    "fetchedAt": "2026-10-18T23:40:04.321+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T04:30:08.000+08:00"
+          "resetAt": "2026-10-19T04:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-18T23:30:07.703+08:00",
+      "fetchedAt": "2026-10-18T23:40:08.183+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-18T23:30:07.708+08:00",
+      "fetchedAt": "2026-10-18T23:40:08.192+08:00",
       "error": null
     }
   }
