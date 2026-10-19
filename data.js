@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T16:00:10.304+08:00",
+  "updatedAt": "2026-10-19T16:10:10.367+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 26.4,
-    "feelsLikeC": 29.8,
-    "humidity": 69,
-    "windKph": 4.1,
+    "feelsLikeC": 29.6,
+    "humidity": 70,
+    "windKph": 5.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T16:00:10.304+08:00",
+    "observedAt": "2026-10-19T16:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T16:10:10.367+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美年健康连续四年发布千万级体检数据蓝皮书",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717213.shtml",
-        "publishedAt": "2026-10-19T15:55:46.000+08:00"
+        "title": "长征精神何以穿越时空、历久弥新（人民论坛）",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717228.shtml",
+        "publishedAt": "2026-10-19T16:04:12.000+08:00"
       },
       {
-        "title": "中方回应提出各方建设性参与非洲热点问题解决四原则：有重要现实指导意义",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717201.shtml",
-        "publishedAt": "2026-10-19T15:55:10.000+08:00"
+        "title": "三部门公布优化调整无人机相关物项出口管制措施",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717218.shtml",
+        "publishedAt": "2026-10-19T16:02:24.000+08:00"
       },
       {
-        "title": "冯远征戳破艺考单一标准：满台“高富帅”，却找不到《茶馆》“黄胖子”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717212.shtml",
-        "publishedAt": "2026-10-19T15:50:55.000+08:00"
+        "title": "第五届中国报业创新发展大会在重庆举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717219.shtml",
+        "publishedAt": "2026-10-19T16:01:02.000+08:00"
       },
       {
-        "title": "吴璟：房地产趋稳的积极因素正不断积累",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717199.shtml",
-        "publishedAt": "2026-10-19T15:50:07.000+08:00"
+        "title": "“打非治违”重拳出击！安全生产绝不允许做“选择题”",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-19/10717220.shtml",
+        "publishedAt": "2026-10-19T16:00:14.000+08:00"
       },
       {
-        "title": "前三季度大连市出口增长18% 外贸规模占辽宁省62.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717194.shtml",
-        "publishedAt": "2026-10-19T15:48:29.000+08:00"
+        "title": "《南京照相馆》《给阿嬷的情书》等获多项中国电影金鸡奖提名",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717217.shtml",
+        "publishedAt": "2026-10-19T15:59:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T16:00:03.775+08:00",
+    "fetchedAt": "2026-10-19T16:10:03.589+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T16:00:08.513+08:00",
+      "fetchedAt": "2026-10-19T16:10:09.173+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 73,
+          "usedPct": 88,
           "resetAt": "2026-10-19T19:34:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 33,
+          "usedPct": 35,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T16:00:08.798+08:00",
+      "fetchedAt": "2026-10-19T16:10:09.453+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T16:00:08.810+08:00",
+      "fetchedAt": "2026-10-19T16:10:09.462+08:00",
       "error": null
     }
   }
