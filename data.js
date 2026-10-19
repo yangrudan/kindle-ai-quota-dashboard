@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T22:00:09.403+08:00",
+  "updatedAt": "2026-10-19T22:10:38.285+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-19T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T22:00:09.403+08:00",
+    "fetchedAt": "2026-10-19T22:10:38.285+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026第四届福建国际海洋装备博览会闭幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717474.shtml",
-        "publishedAt": "2026-10-19T21:56:15.000+08:00"
+        "title": "云南楚雄游乐船倾覆致4死事故调查报告：擅自改装违规载客 17名公职人员被追责",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717481.shtml",
+        "publishedAt": "2026-10-19T22:03:50.000+08:00"
       },
       {
-        "title": "中国驻东盟大使：让中国东盟民众如“走亲串门”般常来常往",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717473.shtml",
-        "publishedAt": "2026-10-19T21:54:53.000+08:00"
+        "title": "商务部就英方称将共同应对中国汽车产业占主导地位事答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717483.shtml",
+        "publishedAt": "2026-10-19T22:03:36.000+08:00"
       },
       {
-        "title": "探访中塔医学诊疗中心：旅塔华侨为患儿铺就求医“暖心”路",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717467.shtml",
-        "publishedAt": "2026-10-19T21:54:47.000+08:00"
+        "title": "第140届广交会第一期收官 白云机场口岸客流高位运行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717482.shtml",
+        "publishedAt": "2026-10-19T22:02:26.000+08:00"
       },
       {
-        "title": "鲁迅逝世90周年 鲁迅文学版本馆千余册典籍对外开放",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717469.shtml",
-        "publishedAt": "2026-10-19T21:53:35.000+08:00"
+        "title": "2026世界网联世界网球巡回赛青少年年终总决赛抽签仪式举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717479.shtml",
+        "publishedAt": "2026-10-19T22:01:42.000+08:00"
       },
       {
-        "title": "中国车企“出海”强化“品牌内功”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717472.shtml",
-        "publishedAt": "2026-10-19T21:53:29.000+08:00"
+        "title": "（经济观察）前三季度中国经济“成绩单”：外贸提速、新动能显效，经济增长底气足",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717478.shtml",
+        "publishedAt": "2026-10-19T22:01:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T22:00:04.178+08:00",
+    "fetchedAt": "2026-10-19T22:10:03.327+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T22:00:07.877+08:00",
+      "fetchedAt": "2026-10-19T22:10:36.857+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T22:00:08.164+08:00",
+      "fetchedAt": "2026-10-19T22:10:37.137+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T22:00:08.171+08:00",
+      "fetchedAt": "2026-10-19T22:10:37.144+08:00",
       "error": null
     }
   }
