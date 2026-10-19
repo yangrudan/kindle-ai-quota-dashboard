@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T15:20:11.228+08:00",
+  "updatedAt": "2026-10-19T15:30:09.309+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 26.4,
-    "feelsLikeC": 29.9,
+    "feelsLikeC": 30,
     "humidity": 69,
-    "windKph": 3.3,
-    "windDir": "东南风",
+    "windKph": 2.9,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-19T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-19T15:20:11.228+08:00",
+    "observedAt": "2026-10-19T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-19T15:30:09.309+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "强冷空气来袭多地降温 黑龙江部分区域达到暴雪量级",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717179.shtml",
-        "publishedAt": "2026-10-19T15:12:27.000+08:00"
+        "title": "外交部：坚决反对菲方个别人恶意炒作涉华议题",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717191.shtml",
+        "publishedAt": "2026-10-19T15:24:00.000+08:00"
       },
       {
-        "title": "火焰山下，“毛医生”把健康送到群众心坎上",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717178.shtml",
-        "publishedAt": "2026-10-19T15:09:53.000+08:00"
+        "title": "外交部：严厉谴责日方涉靖国神社消极动向",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717190.shtml",
+        "publishedAt": "2026-10-19T15:22:48.000+08:00"
       },
       {
-        "title": "张雪将在麻阳挑战机车水上漂吉尼斯世界纪录",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717176.shtml",
-        "publishedAt": "2026-10-19T15:08:55.000+08:00"
+        "title": "第170次中老缅泰湄公河联合巡逻执法行动启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717186.shtml",
+        "publishedAt": "2026-10-19T15:20:58.000+08:00"
       },
       {
-        "title": "逐绿黄河 2026沿黄公路（新能源）汽车拉力赛延安闭幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717175.shtml",
-        "publishedAt": "2026-10-19T15:07:51.000+08:00"
+        "title": "A股收评：超3100只个股飘绿，沪指、深指收涨，创业板指收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717123.shtml",
+        "publishedAt": "2026-10-19T15:20:00.000+08:00"
       },
       {
-        "title": "国家统计局：中国实现全年经济增长预期目标有坚实支撑",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717174.shtml",
-        "publishedAt": "2026-10-19T15:06:53.000+08:00"
+        "title": "国家统计局：人工智能成为中国经济增长新引擎",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717183.shtml",
+        "publishedAt": "2026-10-19T15:19:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T15:20:03.415+08:00",
+    "fetchedAt": "2026-10-19T15:30:03.542+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T15:20:09.981+08:00",
+      "fetchedAt": "2026-10-19T15:30:07.993+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 20,
+          "usedPct": 34,
           "resetAt": "2026-10-19T19:34:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 24,
+          "usedPct": 27,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T15:20:10.246+08:00",
+      "fetchedAt": "2026-10-19T15:30:08.289+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T15:20:10.253+08:00",
+      "fetchedAt": "2026-10-19T15:30:08.299+08:00",
       "error": null
     }
   }
