@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T11:30:11.716+08:00",
+  "updatedAt": "2026-10-19T11:40:12.513+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-19T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T11:30:11.716+08:00",
+    "fetchedAt": "2026-10-19T11:40:12.513+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东：到2030年经济林年产值超1200亿元",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10717063.shtml",
-        "publishedAt": "2026-10-19T11:22:17.000+08:00"
+        "title": "加勒比国家自媒体代表团参访新疆",
+        "url": "https://www.chinanews.com.cn/mz/2026/10-19/10717067.shtml",
+        "publishedAt": "2026-10-19T11:34:13.000+08:00"
       },
       {
-        "title": "2027年北京高考报名25日开始",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717065.shtml",
-        "publishedAt": "2026-10-19T11:21:57.000+08:00"
+        "title": "直播：长征路上学党史｜云聚陕甘宁 看星火映山河",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10717071.shtml",
+        "publishedAt": "2026-10-19T11:29:49.000+08:00"
       },
       {
-        "title": "全国16支代表队齐聚广州参加轮椅趣味运动邀请赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717062.shtml",
-        "publishedAt": "2026-10-19T11:20:27.000+08:00"
+        "title": "哈尔滨机场2026年旅客吞吐量突破2000万人次",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717069.shtml",
+        "publishedAt": "2026-10-19T11:29:39.000+08:00"
       },
       {
-        "title": "建设银行发布“健养安”养老金融新产品 探索金融与养老服务深度融合",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717060.shtml",
-        "publishedAt": "2026-10-19T11:18:31.000+08:00"
+        "title": "直播：长征路上学党史｜驻足将台堡 庆长征伟大胜利",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10717070.shtml",
+        "publishedAt": "2026-10-19T11:28:43.000+08:00"
       },
       {
-        "title": "把问题摆在台面上 市民“小建议”助力城市“大发展”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717055.shtml",
-        "publishedAt": "2026-10-19T11:14:46.000+08:00"
+        "title": "CBA常规赛：广州队战胜浙江队 取得“开门红”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717066.shtml",
+        "publishedAt": "2026-10-19T11:28:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T11:30:03.735+08:00",
+    "fetchedAt": "2026-10-19T11:40:04.754+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T11:30:10.216+08:00",
+      "fetchedAt": "2026-10-19T11:40:11.140+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 57,
-          "resetAt": "2026-10-19T14:34:05.000+08:00"
+          "resetAt": "2026-10-19T14:34:04.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T11:30:10.476+08:00",
+      "fetchedAt": "2026-10-19T11:40:11.402+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T11:30:10.480+08:00",
+      "fetchedAt": "2026-10-19T11:40:11.411+08:00",
       "error": null
     }
   }
