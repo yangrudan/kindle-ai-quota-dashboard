@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T08:50:11.758+08:00",
+  "updatedAt": "2026-10-19T09:00:09.069+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-19T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T08:50:11.758+08:00",
+    "fetchedAt": "2026-10-19T09:00:09.069+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "体育“饭圈化”是对竞技精神的围剿",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716941.shtml",
+        "publishedAt": "2026-10-19T08:50:09.000+08:00"
+      },
       {
         "title": "中超联赛：北京国安1比0战胜青岛西海岸",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208214.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "新一股冷空气将影响我国中东部大部地区",
         "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716932.shtml",
         "publishedAt": "2026-10-19T08:15:49.000+08:00"
-      },
-      {
-        "title": "中央档案馆向社会集中开放5000余件长征专题档案",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716931.shtml",
-        "publishedAt": "2026-10-19T07:54:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T08:50:07.509+08:00",
+    "fetchedAt": "2026-10-19T09:00:03.136+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T13:50:11.000+08:00"
+          "resetAt": "2026-10-19T14:00:07.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:10.781+08:00",
+      "fetchedAt": "2026-10-19T09:00:06.258+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T08:50:10.791+08:00",
+      "fetchedAt": "2026-10-19T09:00:06.269+08:00",
       "error": null
     }
   }
