@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T17:30:09.285+08:00",
+  "updatedAt": "2026-10-19T17:40:09.486+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-19T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T17:30:09.285+08:00",
+    "fetchedAt": "2026-10-19T17:40:09.486+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "年逾九旬仍深耕学术 傅作义之女谈建筑与城市规划",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717287.shtml",
-        "publishedAt": "2026-10-19T17:26:41.000+08:00"
+        "title": "中国对盾构机等物项实施出口管制",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717294.shtml",
+        "publishedAt": "2026-10-19T17:30:53.000+08:00"
       },
       {
-        "title": "广西夯实质量基础设施 为中国—东盟跨境贸易提供保障",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717288.shtml",
-        "publishedAt": "2026-10-19T17:26:23.000+08:00"
+        "title": "中国优化调整无人机相关物项出口管制措施",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717293.shtml",
+        "publishedAt": "2026-10-19T17:30:15.000+08:00"
       },
       {
-        "title": "江西首票进口汽车“两证合一”业务落地赣州",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717289.shtml",
-        "publishedAt": "2026-10-19T17:26:17.000+08:00"
+        "title": "（经济观察）中国经济三季报呈现五大亮点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717292.shtml",
+        "publishedAt": "2026-10-19T17:29:23.000+08:00"
       },
       {
-        "title": "从一杯咖啡到百味美食 海外华文媒体探寻贵州“生活感”",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717286.shtml",
-        "publishedAt": "2026-10-19T17:20:12.000+08:00"
+        "title": "中国新建商品房待售面积连续7个月下降",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717290.shtml",
+        "publishedAt": "2026-10-19T17:28:07.000+08:00"
       },
       {
-        "title": "东西问丨穆罕默德·贾布里：中国开源AI为何是全球南方“刚需”？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-19/10717280.shtml",
-        "publishedAt": "2026-10-19T17:20:10.000+08:00"
+        "title": "广西打通中国—东盟数字新通道 2亿美元海外Token订单落地",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717291.shtml",
+        "publishedAt": "2026-10-19T17:28:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T17:30:04.129+08:00",
+    "fetchedAt": "2026-10-19T17:40:03.571+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T17:30:07.945+08:00",
+      "fetchedAt": "2026-10-19T17:40:08.224+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T17:30:08.381+08:00",
+      "fetchedAt": "2026-10-19T17:40:08.492+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T17:30:08.391+08:00",
+      "fetchedAt": "2026-10-19T17:40:08.499+08:00",
       "error": null
     }
   }
