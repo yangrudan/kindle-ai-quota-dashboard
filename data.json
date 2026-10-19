@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T01:30:09.189+08:00",
+  "updatedAt": "2026-10-20T01:40:08.900+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-20T01:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T01:30:09.189+08:00",
+    "fetchedAt": "2026-10-20T01:40:08.900+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泰国拟追加105.08亿泰铢洪灾救助资金",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717543.shtml",
+        "publishedAt": "2026-10-20T01:37:54.000+08:00"
+      },
+      {
+        "title": "亚残运会首日：崔哲获中国代表团首金 郭玲玲刷新世界纪录",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-20/10717542.shtml",
+        "publishedAt": "2026-10-20T01:37:16.000+08:00"
+      },
       {
         "title": "2026VCT上海冠军赛收官 新英雄遐思亮相",
         "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717540.shtml",
@@ -33,19 +43,9 @@
         "title": "欧盟今年前9个月非法入境人次同比下降近三分之一",
         "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717538.shtml",
         "publishedAt": "2026-10-19T23:25:12.000+08:00"
-      },
-      {
-        "title": "韩国总统李在明：必须尽快收回战时作战指挥权",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717535.shtml",
-        "publishedAt": "2026-10-19T23:05:41.000+08:00"
-      },
-      {
-        "title": "柬埔寨正式启动“超级污染物减排加速计划”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717534.shtml",
-        "publishedAt": "2026-10-19T23:04:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T01:30:04.231+08:00",
+    "fetchedAt": "2026-10-20T01:40:03.142+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T01:30:07.945+08:00",
+      "fetchedAt": "2026-10-20T01:40:07.614+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-20T06:30:09.000+08:00"
+          "resetAt": "2026-10-20T06:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T01:30:08.130+08:00",
+      "fetchedAt": "2026-10-20T01:40:07.802+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T01:30:08.139+08:00",
+      "fetchedAt": "2026-10-20T01:40:07.808+08:00",
       "error": null
     }
   }
