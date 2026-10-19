@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T17:50:08.902+08:00",
+  "updatedAt": "2026-10-19T18:00:10.266+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.6,
-    "feelsLikeC": 27.9,
-    "humidity": 79,
-    "windKph": 6.8,
+    "tempC": 24.4,
+    "feelsLikeC": 27.6,
+    "humidity": 81,
+    "windKph": 7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T17:50:08.902+08:00",
+    "observedAt": "2026-10-19T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T18:00:10.266+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新疆电网首次实现输电工程全流程数字化验收",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717304.shtml",
-        "publishedAt": "2026-10-19T17:43:24.000+08:00"
+        "title": "拾光瓦肆 宋潮新生 于一场十年文化之约中遇见美好时光",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717312.shtml",
+        "publishedAt": "2026-10-19T17:52:32.000+08:00"
       },
       {
-        "title": "第四届冲绳中国音乐节在日本那霸举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717303.shtml",
-        "publishedAt": "2026-10-19T17:43:20.000+08:00"
+        "title": "多国专家学者景德镇共话世界遗产保护",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717311.shtml",
+        "publishedAt": "2026-10-19T17:52:26.000+08:00"
       },
       {
-        "title": "湖南江华建99所村级养老中心 互助养老温暖瑶山老人",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717302.shtml",
-        "publishedAt": "2026-10-19T17:43:16.000+08:00"
+        "title": "湖北发布山洪灾害气象预警",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717310.shtml",
+        "publishedAt": "2026-10-19T17:51:00.000+08:00"
       },
       {
-        "title": "湖南江永10.5万亩晚稻开镰 全程托管助粮农稳产增收",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717297.shtml",
-        "publishedAt": "2026-10-19T17:42:15.000+08:00"
+        "title": "湖北鄂州花湖机场首次保障国际文物珍品跨境运输",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717307.shtml",
+        "publishedAt": "2026-10-19T17:49:56.000+08:00"
       },
       {
-        "title": "福建泉州举办两岸融合发展银发人才志愿服务活动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717301.shtml",
-        "publishedAt": "2026-10-19T17:42:11.000+08:00"
+        "title": "广韶高速北段改扩建架起首片预制梁 粤北出省大通道建设提速",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717305.shtml",
+        "publishedAt": "2026-10-19T17:44:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T17:50:03.442+08:00",
+    "fetchedAt": "2026-10-19T18:00:03.947+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T17:50:07.514+08:00",
+      "fetchedAt": "2026-10-19T18:00:08.936+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-10-19T19:34:05.000+08:00"
+          "resetAt": "2026-10-19T19:34:06.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 37,
-          "resetAt": "2026-10-25T11:59:47.000+08:00"
+          "resetAt": "2026-10-25T11:59:48.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T17:50:07.776+08:00",
+      "fetchedAt": "2026-10-19T18:00:09.207+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T17:50:07.786+08:00",
+      "fetchedAt": "2026-10-19T18:00:09.212+08:00",
       "error": null
     }
   }
