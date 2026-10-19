@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:00:09.865+08:00",
+  "updatedAt": "2026-10-19T20:10:39.314+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-19T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T20:00:09.865+08:00",
+    "fetchedAt": "2026-10-19T20:10:39.314+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026—2027赛季国际滑联短道速滑世巡赛上海站将开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717371.shtml",
-        "publishedAt": "2026-10-19T19:50:58.000+08:00"
+        "title": "海南陵水现“一苇渡江” 父子联手演绎“水上轻功”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717385.shtml",
+        "publishedAt": "2026-10-19T20:04:19.000+08:00"
       },
       {
-        "title": "纠治“开票经济” 中国税务部门曝光三起涉税案件",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717369.shtml",
-        "publishedAt": "2026-10-19T19:49:38.000+08:00"
+        "title": "中国海拔最高的超超临界燃煤发电项目2号锅炉点火成功",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717383.shtml",
+        "publishedAt": "2026-10-19T20:01:53.000+08:00"
       },
       {
-        "title": "山东东营建起风机“考场” 企业家门口拿“准入证”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717367.shtml",
-        "publishedAt": "2026-10-19T19:49:38.000+08:00"
+        "title": "吴清：中国资产配置价值更加凸显",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717382.shtml",
+        "publishedAt": "2026-10-19T20:00:17.000+08:00"
       },
       {
-        "title": "中国多部门加快推进“科技兴商”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717362.shtml",
-        "publishedAt": "2026-10-19T19:48:44.000+08:00"
+        "title": "专家：乳腺结节演变为癌症的概率很小",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717381.shtml",
+        "publishedAt": "2026-10-19T19:57:29.000+08:00"
       },
       {
-        "title": "中国证监会有关部门负责人就《违规转让证券案件行政处罚实施规则》答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717373.shtml",
-        "publishedAt": "2026-10-19T19:47:06.000+08:00"
+        "title": "牙痛、头痛等常见疼痛如何“见招拆招”？这份应对指南请收好",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717377.shtml",
+        "publishedAt": "2026-10-19T19:55:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T20:00:04.751+08:00",
+    "fetchedAt": "2026-10-19T20:10:04.594+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T20:00:08.635+08:00",
+      "fetchedAt": "2026-10-19T20:10:38.174+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T20:00:08.940+08:00",
+      "fetchedAt": "2026-10-19T20:10:38.437+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T20:00:08.943+08:00",
+      "fetchedAt": "2026-10-19T20:10:38.446+08:00",
       "error": null
     }
   }
