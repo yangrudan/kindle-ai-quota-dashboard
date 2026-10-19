@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T11:40:12.513+08:00",
+  "updatedAt": "2026-10-19T11:50:08.613+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.6,
+    "tempC": 24.7,
     "feelsLikeC": 27.7,
     "humidity": 75,
-    "windKph": 4.6,
+    "windKph": 4.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T11:40:12.513+08:00",
+    "observedAt": "2026-10-19T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-19T11:50:08.613+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "CBA常规赛：北京首钢84比82客场胜吉林",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208239.shtml",
+        "publishedAt": "2026-10-19T11:39:48.000+08:00"
+      },
       {
         "title": "加勒比国家自媒体代表团参访新疆",
         "url": "https://www.chinanews.com.cn/mz/2026/10-19/10717067.shtml",
@@ -38,14 +43,9 @@
         "title": "直播：长征路上学党史｜驻足将台堡 庆长征伟大胜利",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10717070.shtml",
         "publishedAt": "2026-10-19T11:28:43.000+08:00"
-      },
-      {
-        "title": "CBA常规赛：广州队战胜浙江队 取得“开门红”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717066.shtml",
-        "publishedAt": "2026-10-19T11:28:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T11:40:04.754+08:00",
+    "fetchedAt": "2026-10-19T11:50:02.994+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T11:40:11.140+08:00",
+      "fetchedAt": "2026-10-19T11:50:07.498+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T11:40:11.402+08:00",
+      "fetchedAt": "2026-10-19T11:50:07.758+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T11:40:11.411+08:00",
+      "fetchedAt": "2026-10-19T11:50:07.767+08:00",
       "error": null
     }
   }
