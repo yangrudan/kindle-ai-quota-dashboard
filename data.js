@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T06:40:08.397+08:00",
+  "updatedAt": "2026-10-20T06:50:08.516+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.9,
-    "feelsLikeC": 25.8,
+    "tempC": 22,
+    "feelsLikeC": 25.9,
     "humidity": 93,
     "windKph": 2.3,
-    "windDir": "西风",
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T06:40:08.397+08:00",
+    "observedAt": "2026-10-20T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-20T06:50:08.517+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第二届东盟华商菁英峰会在马尼拉举行 聚焦区域经贸合作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10717551.shtml",
+        "publishedAt": "2026-10-20T06:41:52.000+08:00"
+      },
       {
         "title": "泽连斯基称俄无人机袭击哈尔科夫州一公园致6死14伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717550.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "伊朗波斯湾海峡管理局：122艘船舶被列入违规名单",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717547.shtml",
         "publishedAt": "2026-10-20T05:54:22.000+08:00"
-      },
-      {
-        "title": "王毅同保加利亚外长佩特罗娃会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717546.shtml",
-        "publishedAt": "2026-10-20T05:52:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T06:40:03.132+08:00",
+    "fetchedAt": "2026-10-20T06:50:02.751+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T06:40:07.253+08:00",
+      "fetchedAt": "2026-10-20T06:50:07.311+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-20T11:40:08.000+08:00"
+          "resetAt": "2026-10-20T11:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T06:40:07.437+08:00",
+      "fetchedAt": "2026-10-20T06:50:07.598+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T06:40:07.446+08:00",
+      "fetchedAt": "2026-10-20T06:50:07.608+08:00",
       "error": null
     }
   }
