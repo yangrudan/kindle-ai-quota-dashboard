@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T19:00:09.816+08:00",
+  "updatedAt": "2026-10-19T19:10:08.667+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-19T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T19:00:09.816+08:00",
+    "fetchedAt": "2026-10-19T19:10:08.667+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "工信部：以人形机器人为“小切口” 带动具身智能大产业发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717332.shtml",
-        "publishedAt": "2026-10-19T18:55:05.000+08:00"
+        "title": "中国人民大学发起成立教育法治联盟",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717346.shtml",
+        "publishedAt": "2026-10-19T19:05:32.000+08:00"
       },
       {
-        "title": "周密：中国外贸的亮点和优势将在四季度进一步增强",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717339.shtml",
-        "publishedAt": "2026-10-19T18:53:19.000+08:00"
+        "title": "如何科学控制“贴秋膘”？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717345.shtml",
+        "publishedAt": "2026-10-19T19:04:54.000+08:00"
       },
       {
-        "title": "台湾劳工团体要求全面加薪",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717338.shtml",
-        "publishedAt": "2026-10-19T18:53:09.000+08:00"
+        "title": "海外自媒体意见领袖走进山东 以镜头推动跨文化对话",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717343.shtml",
+        "publishedAt": "2026-10-19T19:02:12.000+08:00"
       },
       {
-        "title": "外媒关注中国经济数据：展现强大韧性 全年增长目标有望顺利实现",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717337.shtml",
-        "publishedAt": "2026-10-19T18:47:05.000+08:00"
+        "title": "规范“违规转让证券”的认定、处罚 证监会发布实施规则",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717341.shtml",
+        "publishedAt": "2026-10-19T19:01:48.000+08:00"
       },
       {
-        "title": "兴安盟牛产业“链”出致富路",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717336.shtml",
-        "publishedAt": "2026-10-19T18:44:13.000+08:00"
+        "title": "东江纵队北撤烟台八十载 后人踏访故地追忆岁月",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717342.shtml",
+        "publishedAt": "2026-10-19T18:59:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T19:00:04.178+08:00",
+    "fetchedAt": "2026-10-19T19:10:03.559+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T19:00:08.421+08:00",
+      "fetchedAt": "2026-10-19T19:10:07.510+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T19:00:08.904+08:00",
+      "fetchedAt": "2026-10-19T19:10:07.849+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T19:00:08.911+08:00",
+      "fetchedAt": "2026-10-19T19:10:07.858+08:00",
       "error": null
     }
   }
