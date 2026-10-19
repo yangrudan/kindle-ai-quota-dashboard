@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T22:10:38.285+08:00",
+  "updatedAt": "2026-10-19T22:20:08.363+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 22.4,
-    "feelsLikeC": 26.5,
-    "humidity": 91,
-    "windKph": 1.7,
+    "feelsLikeC": 26.4,
+    "humidity": 92,
+    "windKph": 2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T22:10:38.285+08:00",
+    "observedAt": "2026-10-19T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T22:20:08.363+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南楚雄游乐船倾覆致4死事故调查报告：擅自改装违规载客 17名公职人员被追责",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717481.shtml",
-        "publishedAt": "2026-10-19T22:03:50.000+08:00"
+        "title": "粤港澳22支青少年球队齐聚佛山“以赛会友”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10717490.shtml",
+        "publishedAt": "2026-10-19T22:11:22.000+08:00"
       },
       {
-        "title": "商务部就英方称将共同应对中国汽车产业占主导地位事答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717483.shtml",
-        "publishedAt": "2026-10-19T22:03:36.000+08:00"
+        "title": "浙江杭州：良渚遗址发现九十周年特展吸引民众",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717480.shtml",
+        "publishedAt": "2026-10-19T22:11:18.000+08:00"
       },
       {
-        "title": "第140届广交会第一期收官 白云机场口岸客流高位运行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717482.shtml",
-        "publishedAt": "2026-10-19T22:02:26.000+08:00"
+        "title": "第八届中国—东盟视听周在广西北海开幕",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717487.shtml",
+        "publishedAt": "2026-10-19T22:11:04.000+08:00"
       },
       {
-        "title": "2026世界网联世界网球巡回赛青少年年终总决赛抽签仪式举行",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717479.shtml",
-        "publishedAt": "2026-10-19T22:01:42.000+08:00"
+        "title": "贵州“银匠村”吸引青年进村学艺 传承苗族银饰锻制技艺",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717461.shtml",
+        "publishedAt": "2026-10-19T22:10:46.000+08:00"
       },
       {
-        "title": "（经济观察）前三季度中国经济“成绩单”：外贸提速、新动能显效，经济增长底气足",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717478.shtml",
-        "publishedAt": "2026-10-19T22:01:14.000+08:00"
+        "title": "宁夏探索黄河流域草畜循环利用新路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717485.shtml",
+        "publishedAt": "2026-10-19T22:09:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T22:10:03.327+08:00",
+    "fetchedAt": "2026-10-19T22:20:03.310+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T22:10:36.857+08:00",
+      "fetchedAt": "2026-10-19T22:20:07.178+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T22:10:37.137+08:00",
+      "fetchedAt": "2026-10-19T22:20:07.418+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T22:10:37.144+08:00",
+      "fetchedAt": "2026-10-19T22:20:07.428+08:00",
       "error": null
     }
   }
