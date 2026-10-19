@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T14:10:37.411+08:00",
+  "updatedAt": "2026-10-19T14:20:07.659+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.3,
-    "feelsLikeC": 29.8,
-    "humidity": 69,
-    "windKph": 2.6,
-    "windDir": "南风",
+    "tempC": 26.4,
+    "feelsLikeC": 30,
+    "humidity": 68,
+    "windKph": 1.9,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T14:10:37.411+08:00",
+    "observedAt": "2026-10-19T14:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T14:20:07.659+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "关于开展未成年人用户数量巨大和对未成年人群体具有显著影响的网络平台服务提供者认定工作的公告",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717141.shtml",
+        "publishedAt": "2026-10-19T14:13:08.000+08:00"
+      },
+      {
+        "title": "国家统计局：2027年1月1日起第四次全国农业普查将正式开启入户登记",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717122.shtml",
+        "publishedAt": "2026-10-19T14:12:34.000+08:00"
+      },
+      {
+        "title": "一封写给家乡的书信，何以打动世界？",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717140.shtml",
+        "publishedAt": "2026-10-19T14:12:04.000+08:00"
+      },
       {
         "title": "国家统计局：规模以上制造业人工智能技术重点场景应用普及率超过1/3",
         "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717119.shtml",
@@ -28,24 +43,9 @@
         "title": "第三十三届中外传记文学研究会年会在东北大学召开",
         "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717110.shtml",
         "publishedAt": "2026-10-19T14:06:26.000+08:00"
-      },
-      {
-        "title": "中欧班列“光雾山秋日班列”成都首发 巴中好物与红叶文旅共赴波兰罗兹",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-19/10717108.shtml",
-        "publishedAt": "2026-10-19T14:04:40.000+08:00"
-      },
-      {
-        "title": "《河北蓝皮书（2026）》系列丛书出版发行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717107.shtml",
-        "publishedAt": "2026-10-19T14:04:36.000+08:00"
-      },
-      {
-        "title": "李家超会见亚投行行长邹加怡 支持亚投行在港设办事处",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10717106.shtml",
-        "publishedAt": "2026-10-19T14:03:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T14:10:02.763+08:00",
+    "fetchedAt": "2026-10-19T14:20:02.826+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T14:10:36.211+08:00",
+      "fetchedAt": "2026-10-19T14:20:06.408+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T14:10:36.464+08:00",
+      "fetchedAt": "2026-10-19T14:20:06.663+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T14:10:36.474+08:00",
+      "fetchedAt": "2026-10-19T14:20:06.666+08:00",
       "error": null
     }
   }
