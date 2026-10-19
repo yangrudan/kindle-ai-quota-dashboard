@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T15:50:08.545+08:00",
+  "updatedAt": "2026-10-19T16:00:10.304+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-19T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T15:50:08.545+08:00",
+    "fetchedAt": "2026-10-19T16:00:10.304+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第39届中国电影金鸡奖评委会提名名单发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717202.shtml",
-        "publishedAt": "2026-10-19T15:41:13.000+08:00"
+        "title": "美年健康连续四年发布千万级体检数据蓝皮书",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717213.shtml",
+        "publishedAt": "2026-10-19T15:55:46.000+08:00"
       },
       {
-        "title": "商务部新闻发言人就盾构机等物项实施出口管制、优化调整挖泥船相关物项出口管制措施答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717205.shtml",
-        "publishedAt": "2026-10-19T15:40:39.000+08:00"
+        "title": "中方回应提出各方建设性参与非洲热点问题解决四原则：有重要现实指导意义",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717201.shtml",
+        "publishedAt": "2026-10-19T15:55:10.000+08:00"
       },
       {
-        "title": "打通预警信息传播“末梢” 重庆推动气象预警响应直达基层",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717195.shtml",
-        "publishedAt": "2026-10-19T15:39:19.000+08:00"
+        "title": "冯远征戳破艺考单一标准：满台“高富帅”，却找不到《茶馆》“黄胖子”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717212.shtml",
+        "publishedAt": "2026-10-19T15:50:55.000+08:00"
       },
       {
-        "title": "专业学位研究生凭实践成果申请学位，5个专业学位类别先行先试",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717193.shtml",
-        "publishedAt": "2026-10-19T15:37:43.000+08:00"
+        "title": "吴璟：房地产趋稳的积极因素正不断积累",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717199.shtml",
+        "publishedAt": "2026-10-19T15:50:07.000+08:00"
       },
       {
-        "title": "或将登陆我国？超强台风“蔷琵”移动路径成悬念",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717204.shtml",
-        "publishedAt": "2026-10-19T15:37:37.000+08:00"
+        "title": "前三季度大连市出口增长18% 外贸规模占辽宁省62.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717194.shtml",
+        "publishedAt": "2026-10-19T15:48:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T15:50:03.443+08:00",
+    "fetchedAt": "2026-10-19T16:00:03.775+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T15:50:06.917+08:00",
+      "fetchedAt": "2026-10-19T16:00:08.513+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 56,
+          "usedPct": 73,
           "resetAt": "2026-10-19T19:34:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 30,
+          "usedPct": 33,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T15:50:07.196+08:00",
+      "fetchedAt": "2026-10-19T16:00:08.798+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T15:50:07.208+08:00",
+      "fetchedAt": "2026-10-19T16:00:08.810+08:00",
       "error": null
     }
   }
