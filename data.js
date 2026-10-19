@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T23:40:39.264+08:00",
+  "updatedAt": "2026-10-19T23:50:08.167+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.9,
-    "feelsLikeC": 25.6,
-    "humidity": 94,
-    "windKph": 4.1,
+    "tempC": 21.8,
+    "feelsLikeC": 25.4,
+    "humidity": 95,
+    "windKph": 4.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T23:40:39.264+08:00",
+    "observedAt": "2026-10-19T23:45:00.000+08:00",
+    "fetchedAt": "2026-10-19T23:50:08.168+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026VCT上海冠军赛收官 新英雄遐思亮相",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717540.shtml",
+        "publishedAt": "2026-10-19T23:40:09.000+08:00"
+      },
+      {
+        "title": "CBA常规赛次轮：北控主场不敌卫冕冠军上海队",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717539.shtml",
+        "publishedAt": "2026-10-19T23:35:59.000+08:00"
+      },
       {
         "title": "欧盟今年前9个月非法入境人次同比下降近三分之一",
         "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717538.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "柬埔寨正式启动“超级污染物减排加速计划”",
         "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717534.shtml",
         "publishedAt": "2026-10-19T23:04:19.000+08:00"
-      },
-      {
-        "title": "青海举办第二届藏传佛教寺庙消防技能竞赛活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717533.shtml",
-        "publishedAt": "2026-10-19T23:01:37.000+08:00"
-      },
-      {
-        "title": "多国学者以东南亚华人与海外视角研讨中国式现代化",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717530.shtml",
-        "publishedAt": "2026-10-19T23:00:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T23:40:04.330+08:00",
+    "fetchedAt": "2026-10-19T23:50:02.733+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T23:40:38.080+08:00",
+      "fetchedAt": "2026-10-19T23:50:06.726+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T23:40:38.419+08:00",
+      "fetchedAt": "2026-10-19T23:50:07.048+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T23:40:38.425+08:00",
+      "fetchedAt": "2026-10-19T23:50:07.057+08:00",
       "error": null
     }
   }
