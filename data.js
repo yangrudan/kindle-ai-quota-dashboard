@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T19:10:08.667+08:00",
+  "updatedAt": "2026-10-19T19:20:08.837+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.9,
-    "feelsLikeC": 27,
-    "humidity": 84,
+    "tempC": 23.8,
+    "feelsLikeC": 26.8,
+    "humidity": 85,
     "windKph": 9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-19T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T19:10:08.667+08:00",
+    "observedAt": "2026-10-19T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T19:20:08.837+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "马来西亚侨亲福建永春考察入境游及“功夫永春”产业",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717348.shtml",
+        "publishedAt": "2026-10-19T19:10:42.000+08:00"
+      },
       {
         "title": "中国人民大学发起成立教育法治联盟",
         "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717346.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "规范“违规转让证券”的认定、处罚 证监会发布实施规则",
         "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717341.shtml",
         "publishedAt": "2026-10-19T19:01:48.000+08:00"
-      },
-      {
-        "title": "东江纵队北撤烟台八十载 后人踏访故地追忆岁月",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717342.shtml",
-        "publishedAt": "2026-10-19T18:59:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T19:10:03.559+08:00",
+    "fetchedAt": "2026-10-19T19:20:03.089+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T19:10:07.510+08:00",
+      "fetchedAt": "2026-10-19T19:20:07.310+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T19:10:07.849+08:00",
+      "fetchedAt": "2026-10-19T19:20:07.581+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T19:10:07.858+08:00",
+      "fetchedAt": "2026-10-19T19:20:07.585+08:00",
       "error": null
     }
   }
