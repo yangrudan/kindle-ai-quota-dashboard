@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T19:50:09.110+08:00",
+  "updatedAt": "2026-10-19T20:00:09.865+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.5,
-    "feelsLikeC": 26.7,
-    "humidity": 87,
-    "windKph": 8.2,
+    "tempC": 23.3,
+    "feelsLikeC": 26.6,
+    "humidity": 88,
+    "windKph": 7.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-19T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T19:50:09.110+08:00",
+    "observedAt": "2026-10-19T20:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T20:00:09.865+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "何以中国·当惊世界殊丨他没等到的高峡平湖，我们替他看见了",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717368.shtml",
-        "publishedAt": "2026-10-19T19:44:30.000+08:00"
+        "title": "2026—2027赛季国际滑联短道速滑世巡赛上海站将开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717371.shtml",
+        "publishedAt": "2026-10-19T19:50:58.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）一片“金叶”富山乡 湖北保康烟农丰收见闻",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717360.shtml",
-        "publishedAt": "2026-10-19T19:43:08.000+08:00"
+        "title": "纠治“开票经济” 中国税务部门曝光三起涉税案件",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717369.shtml",
+        "publishedAt": "2026-10-19T19:49:38.000+08:00"
       },
       {
-        "title": "经济运行向上、向新、向优 前三季度数据传递积极信号",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717365.shtml",
-        "publishedAt": "2026-10-19T19:42:30.000+08:00"
+        "title": "山东东营建起风机“考场” 企业家门口拿“准入证”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717367.shtml",
+        "publishedAt": "2026-10-19T19:49:38.000+08:00"
       },
       {
-        "title": "何以中国 | “长江王”林一山：治理长江，此生无怨无悔",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717363.shtml",
-        "publishedAt": "2026-10-19T19:37:28.000+08:00"
+        "title": "中国多部门加快推进“科技兴商”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717362.shtml",
+        "publishedAt": "2026-10-19T19:48:44.000+08:00"
       },
       {
-        "title": "“中欧人文班列”系列展示交流活动全球巡展（意大利站）开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717354.shtml",
-        "publishedAt": "2026-10-19T19:37:14.000+08:00"
+        "title": "中国证监会有关部门负责人就《违规转让证券案件行政处罚实施规则》答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717373.shtml",
+        "publishedAt": "2026-10-19T19:47:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T19:50:03.487+08:00",
+    "fetchedAt": "2026-10-19T20:00:04.751+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T19:50:07.791+08:00",
+      "fetchedAt": "2026-10-19T20:00:08.635+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T19:50:08.164+08:00",
+      "fetchedAt": "2026-10-19T20:00:08.940+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T19:50:08.168+08:00",
+      "fetchedAt": "2026-10-19T20:00:08.943+08:00",
       "error": null
     }
   }
