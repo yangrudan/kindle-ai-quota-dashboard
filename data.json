@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T12:10:41.234+08:00",
+  "updatedAt": "2026-10-19T12:20:12.058+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.7,
-    "feelsLikeC": 27.8,
-    "humidity": 75,
+    "tempC": 24.9,
+    "feelsLikeC": 28,
+    "humidity": 74,
     "windKph": 5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T12:10:41.234+08:00",
+    "observedAt": "2026-10-19T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T12:20:12.058+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从窑洞微光到万家灯火，陕北第一座火电厂用光明守护革命圣地丨企步新长征",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717086.shtml",
+        "publishedAt": "2026-10-19T12:10:39.000+08:00"
+      },
       {
         "title": "举重选手崔哲夺得名古屋亚残运会中国代表团首金",
         "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717082.shtml",
@@ -38,14 +43,9 @@
         "title": "CBA常规赛：北京首钢84比82客场胜吉林",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208239.shtml",
         "publishedAt": "2026-10-19T11:39:48.000+08:00"
-      },
-      {
-        "title": "加勒比国家自媒体代表团参访新疆",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-19/10717067.shtml",
-        "publishedAt": "2026-10-19T11:34:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T12:10:03.692+08:00",
+    "fetchedAt": "2026-10-19T12:20:03.824+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T12:10:39.892+08:00",
+      "fetchedAt": "2026-10-19T12:20:10.991+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T12:10:40.344+08:00",
+      "fetchedAt": "2026-10-19T12:20:11.214+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T12:10:40.349+08:00",
+      "fetchedAt": "2026-10-19T12:20:11.223+08:00",
       "error": null
     }
   }
