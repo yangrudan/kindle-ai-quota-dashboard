@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T20:50:08.426+08:00",
+  "updatedAt": "2026-10-19T21:00:09.290+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.7,
+    "tempC": 22.6,
     "feelsLikeC": 26.4,
     "humidity": 90,
-    "windKph": 4,
+    "windKph": 3.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-19T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T20:50:08.426+08:00",
+    "observedAt": "2026-10-19T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T21:00:09.290+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从经验到数据 AI如何续写“药不过樟树不灵”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717413.shtml",
+        "publishedAt": "2026-10-19T20:48:58.000+08:00"
+      },
       {
         "title": "上交所首批主动ETF获批 助力中长期资金入市",
         "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717417.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "第140届广交会第一期 采购商开启“扫货”模式",
         "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717391.shtml",
         "publishedAt": "2026-10-19T20:44:23.000+08:00"
-      },
-      {
-        "title": "中外青年走进浙江文成 感受人文山水与科创魅力",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717390.shtml",
-        "publishedAt": "2026-10-19T20:42:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T20:50:03.353+08:00",
+    "fetchedAt": "2026-10-19T21:00:04.406+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T20:50:07.005+08:00",
+      "fetchedAt": "2026-10-19T21:00:08.024+08:00",
       "error": null
     },
     "codex": {
@@ -74,11 +74,11 @@ window.DASH_DATA = {
         },
         {
           "name": "周",
-          "usedPct": 37,
+          "usedPct": 38,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T20:50:07.325+08:00",
+      "fetchedAt": "2026-10-19T21:00:08.331+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T20:50:07.330+08:00",
+      "fetchedAt": "2026-10-19T21:00:08.340+08:00",
       "error": null
     }
   }
