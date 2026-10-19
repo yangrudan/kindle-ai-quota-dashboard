@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T21:20:08.192+08:00",
+  "updatedAt": "2026-10-19T21:30:10.056+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 22.5,
-    "feelsLikeC": 26.4,
+    "feelsLikeC": 26.5,
     "humidity": 91,
-    "windKph": 2.7,
+    "windKph": 2.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-19T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-19T21:20:08.192+08:00",
+    "observedAt": "2026-10-19T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-19T21:30:10.056+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“共和国的脊梁——伟大建党精神与科学家精神”专题展在沪开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717435.shtml",
+        "publishedAt": "2026-10-19T21:17:37.000+08:00"
+      },
+      {
+        "title": "供需对接激活“一池春水” 扬州船舶海工产业前9月开票销售434.6亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717433.shtml",
+        "publishedAt": "2026-10-19T21:17:11.000+08:00"
+      },
+      {
+        "title": "AI重塑传媒格局 业界重庆共话“面向未来再出发”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717434.shtml",
+        "publishedAt": "2026-10-19T21:16:57.000+08:00"
+      },
+      {
+        "title": "云南医疗队赴孟加拉国开展“光明行” 助百名患者重见光明",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717432.shtml",
+        "publishedAt": "2026-10-19T21:14:51.000+08:00"
+      },
+      {
         "title": "广交会境外采购商带走三个“包”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717422.shtml",
         "publishedAt": "2026-10-19T21:09:47.000+08:00"
-      },
-      {
-        "title": "中国央行宣布将出台系列政策措施 扩大金融开放",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717421.shtml",
-        "publishedAt": "2026-10-19T21:08:51.000+08:00"
-      },
-      {
-        "title": "潘功胜：公开市场隔夜回购利率将成主要政策利率",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717423.shtml",
-        "publishedAt": "2026-10-19T21:08:13.000+08:00"
-      },
-      {
-        "title": "第140届广交会第一期闭幕 中国智造“圈粉”全球",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717425.shtml",
-        "publishedAt": "2026-10-19T21:08:07.000+08:00"
-      },
-      {
-        "title": "近半年青海修订新立26项林草制度",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717429.shtml",
-        "publishedAt": "2026-10-19T21:07:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T21:20:02.984+08:00",
+    "fetchedAt": "2026-10-19T21:30:04.417+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T21:20:06.959+08:00",
+      "fetchedAt": "2026-10-19T21:30:08.557+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-10-20T00:40:10.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T21:20:07.295+08:00",
+      "fetchedAt": "2026-10-19T21:30:08.806+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T21:20:07.304+08:00",
+      "fetchedAt": "2026-10-19T21:30:08.812+08:00",
       "error": null
     }
   }
