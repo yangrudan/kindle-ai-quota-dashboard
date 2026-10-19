@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T09:10:40.479+08:00",
+  "updatedAt": "2026-10-19T09:15:09.462+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-19T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T09:10:40.479+08:00",
+    "fetchedAt": "2026-10-19T09:15:09.462+08:00",
     "error": null
   },
   "news": {
@@ -55,14 +55,13 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 29.3,
+          "usedPct": 34.5,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 1061 / 1500 AIC"
+          "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-14T16:54:39.409+08:00",
-      "error": "云端查询失败：gh: API rate limit exceeded for 96.62.72.151. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
-      "stale": true
+      "fetchedAt": "2026-10-19T09:15:07.810+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -71,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T14:10:39.000+08:00"
+          "resetAt": "2026-10-19T14:15:09.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T09:10:38.905+08:00",
+      "fetchedAt": "2026-10-19T09:15:08.158+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T09:10:38.914+08:00",
+      "fetchedAt": "2026-10-19T09:15:08.169+08:00",
       "error": null
     }
   }
