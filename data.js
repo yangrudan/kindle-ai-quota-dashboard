@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T17:20:10.053+08:00",
+  "updatedAt": "2026-10-19T17:30:09.285+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.2,
-    "feelsLikeC": 28.4,
-    "humidity": 76,
+    "tempC": 24.9,
+    "feelsLikeC": 28.2,
+    "humidity": 78,
     "windKph": 6.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-19T17:20:10.054+08:00",
+    "observedAt": "2026-10-19T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-19T17:30:09.285+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "证监会将同意首批18只主动ETF注册",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717283.shtml",
-        "publishedAt": "2026-10-19T17:09:28.000+08:00"
+        "title": "年逾九旬仍深耕学术 傅作义之女谈建筑与城市规划",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717287.shtml",
+        "publishedAt": "2026-10-19T17:26:41.000+08:00"
       },
       {
-        "title": "中国人保原党委委员、副总裁俞小平被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717278.shtml",
-        "publishedAt": "2026-10-19T17:03:23.000+08:00"
+        "title": "广西夯实质量基础设施 为中国—东盟跨境贸易提供保障",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717288.shtml",
+        "publishedAt": "2026-10-19T17:26:23.000+08:00"
       },
       {
-        "title": "社保基金会原党组成员、副理事长王文灵被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717277.shtml",
-        "publishedAt": "2026-10-19T17:02:25.000+08:00"
+        "title": "江西首票进口汽车“两证合一”业务落地赣州",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717289.shtml",
+        "publishedAt": "2026-10-19T17:26:17.000+08:00"
       },
       {
-        "title": "自然资源部原党组成员，国家林草局原党组书记、局长张建龙被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717276.shtml",
-        "publishedAt": "2026-10-19T17:01:23.000+08:00"
+        "title": "从一杯咖啡到百味美食 海外华文媒体探寻贵州“生活感”",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717286.shtml",
+        "publishedAt": "2026-10-19T17:20:12.000+08:00"
       },
       {
-        "title": "接住入境游下沉的“小城机遇”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717275.shtml",
-        "publishedAt": "2026-10-19T17:00:07.000+08:00"
+        "title": "东西问丨穆罕默德·贾布里：中国开源AI为何是全球南方“刚需”？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-19/10717280.shtml",
+        "publishedAt": "2026-10-19T17:20:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T17:20:04.065+08:00",
+    "fetchedAt": "2026-10-19T17:30:04.129+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 56.9,
+          "usedPct": 64.1,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 648 / 1500 AIC"
+          "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T17:19:50.339+08:00",
+      "fetchedAt": "2026-10-19T17:30:07.945+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T17:20:08.666+08:00",
+      "fetchedAt": "2026-10-19T17:30:08.381+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T17:20:08.679+08:00",
+      "fetchedAt": "2026-10-19T17:30:08.391+08:00",
       "error": null
     }
   }
