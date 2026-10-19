@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T16:30:39.574+08:00",
+  "updatedAt": "2026-10-19T16:40:10.916+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-19T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T16:30:39.574+08:00",
+    "fetchedAt": "2026-10-19T16:40:10.916+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一支舞跳出“旺旺赞赞”",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717253.shtml",
+        "publishedAt": "2026-10-19T16:32:32.000+08:00"
+      },
+      {
+        "title": "网红“减重神器”西梅饮靠谱吗？最新消费提示",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717259.shtml",
+        "publishedAt": "2026-10-19T16:31:20.000+08:00"
+      },
+      {
+        "title": "一街汇聚多国风物 北京金融街举办寰球嘉年华",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717247.shtml",
+        "publishedAt": "2026-10-19T16:30:00.000+08:00"
+      },
       {
         "title": "成功研制国内首台设备！天津这家企业在全球DNA合成技术赛道上跑出“中国速度”！",
         "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717252.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "为什么既要控糖，又想念白砂糖？",
         "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717255.shtml",
         "publishedAt": "2026-10-19T16:26:45.000+08:00"
-      },
-      {
-        "title": "天津市社会主义学院举办2026年全市社会主义学院教师教学竞赛",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717250.shtml",
-        "publishedAt": "2026-10-19T16:24:47.000+08:00"
-      },
-      {
-        "title": "郭丽岩：今年无形资产投资占比或将达近年高点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717251.shtml",
-        "publishedAt": "2026-10-19T16:24:17.000+08:00"
-      },
-      {
-        "title": "西藏举办青少年田径夏令营暨业余体校对抗赛 创新模式选拔后备人才",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717248.shtml",
-        "publishedAt": "2026-10-19T16:23:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T16:30:03.686+08:00",
+    "fetchedAt": "2026-10-19T16:40:03.710+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 35.7,
+          "usedPct": 36.5,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 966 / 1500 AIC"
+          "detailText": "剩余 953 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T16:30:38.122+08:00",
+      "fetchedAt": "2026-10-19T16:40:09.693+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 93,
+          "usedPct": 100,
           "resetAt": "2026-10-19T19:34:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 36,
+          "usedPct": 37,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T16:30:38.406+08:00",
+      "fetchedAt": "2026-10-19T16:40:09.977+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T16:30:38.416+08:00",
+      "fetchedAt": "2026-10-19T16:40:09.990+08:00",
       "error": null
     }
   }
