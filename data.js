@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T05:50:08.734+08:00",
+  "updatedAt": "2026-10-20T06:00:08.100+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-20T05:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T05:50:08.734+08:00",
+    "fetchedAt": "2026-10-20T06:00:08.100+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊朗波斯湾海峡管理局：122艘船舶被列入违规名单",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717547.shtml",
+        "publishedAt": "2026-10-20T05:54:22.000+08:00"
+      },
+      {
+        "title": "王毅同保加利亚外长佩特罗娃会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717546.shtml",
+        "publishedAt": "2026-10-20T05:52:10.000+08:00"
+      },
+      {
+        "title": "王毅会见保加利亚副总理普列夫",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717545.shtml",
+        "publishedAt": "2026-10-20T05:50:48.000+08:00"
+      },
       {
         "title": "法国总统马克龙出访海湾国家 聚焦能源供应",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717544.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "泰国拟追加105.08亿泰铢洪灾救助资金",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717543.shtml",
         "publishedAt": "2026-10-20T01:37:54.000+08:00"
-      },
-      {
-        "title": "亚残运会首日：崔哲获中国代表团首金 郭玲玲刷新世界纪录",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-20/10717542.shtml",
-        "publishedAt": "2026-10-20T01:37:16.000+08:00"
-      },
-      {
-        "title": "2026VCT上海冠军赛收官 新英雄遐思亮相",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717540.shtml",
-        "publishedAt": "2026-10-19T23:40:09.000+08:00"
-      },
-      {
-        "title": "CBA常规赛次轮：北控主场不敌卫冕冠军上海队",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717539.shtml",
-        "publishedAt": "2026-10-19T23:35:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T05:50:03.224+08:00",
+    "fetchedAt": "2026-10-20T06:00:03.097+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T05:50:06.975+08:00",
+      "fetchedAt": "2026-10-20T06:00:06.744+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-20T10:50:08.000+08:00"
+          "resetAt": "2026-10-20T11:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T05:50:07.262+08:00",
+      "fetchedAt": "2026-10-20T06:00:07.153+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T05:50:07.265+08:00",
+      "fetchedAt": "2026-10-20T06:00:07.161+08:00",
       "error": null
     }
   }
