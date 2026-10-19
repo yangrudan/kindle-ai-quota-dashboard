@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T13:20:08.811+08:00",
+  "updatedAt": "2026-10-19T13:30:09.823+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.6,
-    "feelsLikeC": 28.8,
-    "humidity": 71,
-    "windKph": 4.3,
+    "tempC": 25.9,
+    "feelsLikeC": 29.2,
+    "humidity": 70,
+    "windKph": 3.7,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-19T13:20:08.811+08:00",
+    "observedAt": "2026-10-19T13:30:00.000+08:00",
+    "fetchedAt": "2026-10-19T13:30:09.823+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "河北沧州集中拆除村庄内违规危化品储存罐",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717113.shtml",
+        "publishedAt": "2026-10-19T13:26:36.000+08:00"
+      },
+      {
+        "title": "记者手记丨“去看科技中国、创新中国”——国际旅游界人士解读“中国游”魅力新密码",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717104.shtml",
+        "publishedAt": "2026-10-19T13:17:47.000+08:00"
+      },
       {
         "title": "加拿大军事基地火灾致4名军人丧生39人受伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717075.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "乌想要用美“星盾”打击俄纵深？鲁比奥：乌方未获授权",
         "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717098.shtml",
         "publishedAt": "2026-10-19T13:07:21.000+08:00"
-      },
-      {
-        "title": "经营假种子、未经许可出口……6起涉种违法典型案例公布",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717093.shtml",
-        "publishedAt": "2026-10-19T13:01:00.000+08:00"
-      },
-      {
-        "title": "（粤港澳大湾区）2025年粤港澳大湾区高温日数偏多 降水极端性强",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10717091.shtml",
-        "publishedAt": "2026-10-19T12:35:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T13:20:03.508+08:00",
+    "fetchedAt": "2026-10-19T13:30:04.354+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T13:20:07.670+08:00",
+      "fetchedAt": "2026-10-19T13:30:08.513+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T13:20:07.936+08:00",
+      "fetchedAt": "2026-10-19T13:30:08.775+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T13:20:07.939+08:00",
+      "fetchedAt": "2026-10-19T13:30:08.785+08:00",
       "error": null
     }
   }
