@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T15:40:38.917+08:00",
+  "updatedAt": "2026-10-19T15:50:08.545+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
+    "description": "晴",
+    "iconKey": "clear",
     "tempC": 26.4,
-    "feelsLikeC": 30,
+    "feelsLikeC": 29.8,
     "humidity": 69,
-    "windKph": 2.9,
-    "windDir": "东风",
+    "windKph": 4.1,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T15:40:38.917+08:00",
+    "observedAt": "2026-10-19T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-19T15:50:08.545+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "发往吉尔吉斯斯坦 江西井冈蜜橘首次出口中亚市场",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-19/10717189.shtml",
-        "publishedAt": "2026-10-19T15:35:39.000+08:00"
+        "title": "第39届中国电影金鸡奖评委会提名名单发布",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717202.shtml",
+        "publishedAt": "2026-10-19T15:41:13.000+08:00"
       },
       {
-        "title": "国家石油天然气管网集团有限公司北京管道公司副总经理、安全总监肖华平被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717182.shtml",
-        "publishedAt": "2026-10-19T15:32:42.000+08:00"
+        "title": "商务部新闻发言人就盾构机等物项实施出口管制、优化调整挖泥船相关物项出口管制措施答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717205.shtml",
+        "publishedAt": "2026-10-19T15:40:39.000+08:00"
       },
       {
-        "title": "（近观中国）习近平说长征：红军和少数民族同胞“就像兄弟姐妹一样”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717151.shtml",
-        "publishedAt": "2026-10-19T15:32:32.000+08:00"
+        "title": "打通预警信息传播“末梢” 重庆推动气象预警响应直达基层",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717195.shtml",
+        "publishedAt": "2026-10-19T15:39:19.000+08:00"
       },
       {
-        "title": "10月19日“农产品批发价格200指数”比上周五下降0.55个点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717150.shtml",
-        "publishedAt": "2026-10-19T15:31:38.000+08:00"
+        "title": "专业学位研究生凭实践成果申请学位，5个专业学位类别先行先试",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717193.shtml",
+        "publishedAt": "2026-10-19T15:37:43.000+08:00"
       },
       {
-        "title": "日本首相高市早苗向靖国神社供奉祭祀费",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717184.shtml",
-        "publishedAt": "2026-10-19T15:30:26.000+08:00"
+        "title": "或将登陆我国？超强台风“蔷琵”移动路径成悬念",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717204.shtml",
+        "publishedAt": "2026-10-19T15:37:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T15:40:03.610+08:00",
+    "fetchedAt": "2026-10-19T15:50:03.443+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T15:40:37.587+08:00",
+      "fetchedAt": "2026-10-19T15:50:06.917+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
+          "usedPct": 56,
           "resetAt": "2026-10-19T19:34:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 28,
+          "usedPct": 30,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T15:40:37.929+08:00",
+      "fetchedAt": "2026-10-19T15:50:07.196+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T15:40:37.938+08:00",
+      "fetchedAt": "2026-10-19T15:50:07.208+08:00",
       "error": null
     }
   }
