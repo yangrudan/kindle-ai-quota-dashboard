@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T14:30:11.226+08:00",
+  "updatedAt": "2026-10-19T14:40:10.186+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-19T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T14:30:11.226+08:00",
+    "fetchedAt": "2026-10-19T14:40:10.186+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "斯诺克北爱尔兰公开赛：中国军团首日两人晋级",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717143.shtml",
-        "publishedAt": "2026-10-19T14:23:29.000+08:00"
+        "title": "尺寸、动力、续航全方位定制 “三蹦子”成广交会爆款",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717158.shtml",
+        "publishedAt": "2026-10-19T14:36:21.000+08:00"
       },
       {
-        "title": "国家发改委向社会公开征求《电力现货市场基本规则（公开征求意见稿）》意见",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717109.shtml",
-        "publishedAt": "2026-10-19T14:19:53.000+08:00"
+        "title": "专访王磊：中医药出海，不能只靠“一张方子”闯天下",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717149.shtml",
+        "publishedAt": "2026-10-19T14:33:21.000+08:00"
       },
       {
-        "title": "青岛：碱蓬草如锦似霞层叠铺展 红海滩生态风光如画",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208242.shtml",
-        "publishedAt": "2026-10-19T14:19:47.000+08:00"
+        "title": "新启6条高速动脉 广东加快构建全域互联互通公路网",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10717148.shtml",
+        "publishedAt": "2026-10-19T14:32:23.000+08:00"
       },
       {
-        "title": "红色巡讲走进江苏响水 灌河岸畔这场沉浸式思政课超燃",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717139.shtml",
-        "publishedAt": "2026-10-19T14:16:54.000+08:00"
+        "title": "巴西圣保罗华社举行重阳敬老活动",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208246.shtml",
+        "publishedAt": "2026-10-19T14:31:06.000+08:00"
       },
       {
-        "title": "关于开展未成年人用户数量巨大和对未成年人群体具有显著影响的网络平台服务提供者认定工作的公告",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717141.shtml",
-        "publishedAt": "2026-10-19T14:13:08.000+08:00"
+        "title": "院士专家齐聚湖北恩施 共探硒产业大健康新赛道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717147.shtml",
+        "publishedAt": "2026-10-19T14:30:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T14:30:04.089+08:00",
+    "fetchedAt": "2026-10-19T14:40:03.273+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T14:30:09.716+08:00",
+      "fetchedAt": "2026-10-19T14:40:08.915+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 61,
-          "resetAt": "2026-10-19T14:34:05.000+08:00"
+          "usedPct": 8,
+          "resetAt": "2026-10-19T19:34:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 21,
+          "usedPct": 22,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T14:30:09.990+08:00",
+      "fetchedAt": "2026-10-19T14:40:09.179+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T14:30:09.996+08:00",
+      "fetchedAt": "2026-10-19T14:40:09.183+08:00",
       "error": null
     }
   }
