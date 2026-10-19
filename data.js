@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T22:30:09.208+08:00",
+  "updatedAt": "2026-10-19T22:40:08.236+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-19T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T22:30:09.208+08:00",
+    "fetchedAt": "2026-10-19T22:40:08.236+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "网球名将莱巴金娜再续宁波前缘：畅游东钱湖 赏宋韵文化",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717505.shtml",
-        "publishedAt": "2026-10-19T22:24:37.000+08:00"
+        "title": "海南加快建设国家级交通零碳服务区 推动行业绿色转型",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717511.shtml",
+        "publishedAt": "2026-10-19T22:36:47.000+08:00"
       },
       {
-        "title": "李强会见伊朗第一副总统阿雷夫",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717477.shtml",
-        "publishedAt": "2026-10-19T22:24:11.000+08:00"
+        "title": "乌镇峰会前瞻：“一展一会一赛一论坛”将绘智能互联新图景",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717510.shtml",
+        "publishedAt": "2026-10-19T22:35:43.000+08:00"
       },
       {
-        "title": "第六届RISC-V中国峰会举行 加快拓展应用场景",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717503.shtml",
-        "publishedAt": "2026-10-19T22:23:45.000+08:00"
+        "title": "一赛举办百业兴旺 “滇BA”激活体文旅融合新动能",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717507.shtml",
+        "publishedAt": "2026-10-19T22:35:07.000+08:00"
       },
       {
-        "title": "宁夏培育十大农文旅融合模式铺就乡村振兴共富路",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717502.shtml",
-        "publishedAt": "2026-10-19T22:22:51.000+08:00"
+        "title": "重庆武隆：“十五五”制造业产值、规上工业总产值锚定双翻番",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717506.shtml",
+        "publishedAt": "2026-10-19T22:32:45.000+08:00"
       },
       {
-        "title": "变林中“废料”为“新燃料”：阿木尔林业局用上木质颗粒新能源取暖",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717500.shtml",
-        "publishedAt": "2026-10-19T22:21:13.000+08:00"
+        "title": "中欧班列超2万列之后，郑州经开区如何把“流量”变“留量”？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717508.shtml",
+        "publishedAt": "2026-10-19T22:31:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T22:30:04.111+08:00",
+    "fetchedAt": "2026-10-19T22:40:02.998+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T22:30:07.961+08:00",
+      "fetchedAt": "2026-10-19T22:40:07.144+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T22:30:08.278+08:00",
+      "fetchedAt": "2026-10-19T22:40:07.417+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T22:30:08.282+08:00",
+      "fetchedAt": "2026-10-19T22:40:07.426+08:00",
       "error": null
     }
   }
