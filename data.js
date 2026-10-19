@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T21:30:10.056+08:00",
+  "updatedAt": "2026-10-19T21:40:39.971+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-19T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T21:30:10.056+08:00",
+    "fetchedAt": "2026-10-19T21:40:39.971+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“共和国的脊梁——伟大建党精神与科学家精神”专题展在沪开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717435.shtml",
-        "publishedAt": "2026-10-19T21:17:37.000+08:00"
+        "title": "广交会观察：从猪皮手套到仿生手 照见中国制造70年",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717456.shtml",
+        "publishedAt": "2026-10-19T21:34:10.000+08:00"
       },
       {
-        "title": "供需对接激活“一池春水” 扬州船舶海工产业前9月开票销售434.6亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717433.shtml",
-        "publishedAt": "2026-10-19T21:17:11.000+08:00"
+        "title": "上海芭蕾舞团赴美巡演 《梁祝》《吉赛尔》双剧出海",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717453.shtml",
+        "publishedAt": "2026-10-19T21:33:26.000+08:00"
       },
       {
-        "title": "AI重塑传媒格局 业界重庆共话“面向未来再出发”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717434.shtml",
-        "publishedAt": "2026-10-19T21:16:57.000+08:00"
+        "title": "中国团队发布“数字鲨鱼图谱” 为软骨鱼类研究提供三维解剖数据资源",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717452.shtml",
+        "publishedAt": "2026-10-19T21:32:56.000+08:00"
       },
       {
-        "title": "云南医疗队赴孟加拉国开展“光明行” 助百名患者重见光明",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717432.shtml",
-        "publishedAt": "2026-10-19T21:14:51.000+08:00"
+        "title": "重庆武隆：力争到“十五五”末地区生产总值突破300亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717451.shtml",
+        "publishedAt": "2026-10-19T21:32:50.000+08:00"
       },
       {
-        "title": "广交会境外采购商带走三个“包”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717422.shtml",
-        "publishedAt": "2026-10-19T21:09:47.000+08:00"
+        "title": "看熊猫、穿汉服、品雅韵 世界网坛新星解锁成都别样体验",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717450.shtml",
+        "publishedAt": "2026-10-19T21:32:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T21:30:04.417+08:00",
+    "fetchedAt": "2026-10-19T21:40:04.797+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T21:30:08.557+08:00",
+      "fetchedAt": "2026-10-19T21:40:38.797+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T21:30:08.806+08:00",
+      "fetchedAt": "2026-10-19T21:40:39.062+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T21:30:08.812+08:00",
+      "fetchedAt": "2026-10-19T21:40:39.068+08:00",
       "error": null
     }
   }
