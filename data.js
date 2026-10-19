@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T09:20:38.910+08:00",
+  "updatedAt": "2026-10-19T09:30:09.382+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.4,
-    "feelsLikeC": 25,
-    "humidity": 79,
-    "windKph": 3.4,
+    "tempC": 22.7,
+    "feelsLikeC": 25.4,
+    "humidity": 78,
+    "windKph": 3.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-19T09:15:00.000+08:00",
-    "fetchedAt": "2026-10-19T09:20:38.910+08:00",
+    "observedAt": "2026-10-19T09:30:00.000+08:00",
+    "fetchedAt": "2026-10-19T09:30:09.383+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "首都经济贸易大学建校70周年高质量发展大会举行",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-19/10716943.shtml",
-        "publishedAt": "2026-10-19T09:07:22.000+08:00"
+        "title": "黑山总理斯帕伊奇会见王毅",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716961.shtml",
+        "publishedAt": "2026-10-19T09:28:31.000+08:00"
       },
       {
-        "title": "体育“饭圈化”是对竞技精神的围剿",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716941.shtml",
-        "publishedAt": "2026-10-19T08:50:09.000+08:00"
+        "title": "青海湖“小浪花”青少年女子足球队亮相“援青杯”足球邀请赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10716954.shtml",
+        "publishedAt": "2026-10-19T09:27:17.000+08:00"
       },
       {
-        "title": "中超联赛：北京国安1比0战胜青岛西海岸",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208214.shtml",
-        "publishedAt": "2026-10-19T08:43:07.000+08:00"
+        "title": "“给暨南的情书”无人机展演在港举行 千架无人机点亮维港夜空",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10716957.shtml",
+        "publishedAt": "2026-10-19T09:25:21.000+08:00"
       },
       {
-        "title": "长江流域维持阴雨模式 新一股较强冷空气携大风降温来袭",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716935.shtml",
-        "publishedAt": "2026-10-19T08:28:29.000+08:00"
+        "title": "云南澜沧县升级发布暴雨红色预警",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716947.shtml",
+        "publishedAt": "2026-10-19T09:24:20.000+08:00"
       },
       {
-        "title": "零门槛、低成本 创业服务让岗位直通“家门口”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716934.shtml",
-        "publishedAt": "2026-10-19T08:22:43.000+08:00"
+        "title": "既保护版权，也不脱离过错责任基本框架",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-19/10716956.shtml",
+        "publishedAt": "2026-10-19T09:21:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T09:20:03.416+08:00",
+    "fetchedAt": "2026-10-19T09:30:04.072+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T09:20:37.612+08:00",
+      "fetchedAt": "2026-10-19T09:30:07.951+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T14:20:38.000+08:00"
+          "resetAt": "2026-10-19T14:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T09:20:37.905+08:00",
+      "fetchedAt": "2026-10-19T09:30:08.213+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T09:20:37.909+08:00",
+      "fetchedAt": "2026-10-19T09:30:08.217+08:00",
       "error": null
     }
   }
