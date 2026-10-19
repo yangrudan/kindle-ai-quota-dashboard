@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T05:40:09.667+08:00",
+  "updatedAt": "2026-10-20T05:50:08.734+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 21.8,
     "feelsLikeC": 25.7,
     "humidity": 94,
-    "windKph": 2.3,
+    "windKph": 2.2,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-20T05:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T05:40:09.667+08:00",
+    "observedAt": "2026-10-20T05:45:00.000+08:00",
+    "fetchedAt": "2026-10-20T05:50:08.734+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "法国总统马克龙出访海湾国家 聚焦能源供应",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717544.shtml",
+        "publishedAt": "2026-10-20T05:46:27.000+08:00"
+      },
       {
         "title": "泰国拟追加105.08亿泰铢洪灾救助资金",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717543.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "CBA常规赛次轮：北控主场不敌卫冕冠军上海队",
         "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717539.shtml",
         "publishedAt": "2026-10-19T23:35:59.000+08:00"
-      },
-      {
-        "title": "欧盟今年前9个月非法入境人次同比下降近三分之一",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717538.shtml",
-        "publishedAt": "2026-10-19T23:25:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T05:40:04.210+08:00",
+    "fetchedAt": "2026-10-20T05:50:03.224+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T05:40:08.411+08:00",
+      "fetchedAt": "2026-10-20T05:50:06.975+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-20T10:40:09.000+08:00"
+          "resetAt": "2026-10-20T10:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T05:40:08.741+08:00",
+      "fetchedAt": "2026-10-20T05:50:07.262+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T05:40:08.750+08:00",
+      "fetchedAt": "2026-10-20T05:50:07.265+08:00",
       "error": null
     }
   }
