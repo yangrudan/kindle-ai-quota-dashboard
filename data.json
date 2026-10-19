@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T18:10:08.673+08:00",
+  "updatedAt": "2026-10-19T18:20:11.284+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.4,
-    "feelsLikeC": 27.6,
-    "humidity": 81,
-    "windKph": 7,
+    "tempC": 24.2,
+    "feelsLikeC": 27.4,
+    "humidity": 82,
+    "windKph": 7.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T18:10:08.673+08:00",
+    "observedAt": "2026-10-19T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T18:20:11.285+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“四海归心”妈祖文化海外传播项目在莆田启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717315.shtml",
-        "publishedAt": "2026-10-19T17:58:50.000+08:00"
+        "title": "习言道｜长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717282.shtml",
+        "publishedAt": "2026-10-19T18:14:39.000+08:00"
       },
       {
-        "title": "中移（苏州）软件技术有限公司原董事长方力被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717314.shtml",
-        "publishedAt": "2026-10-19T17:58:18.000+08:00"
+        "title": "“睿宝”“辉宝”回国进入倒计时！爱宝乐园公布最新安排",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717326.shtml",
+        "publishedAt": "2026-10-19T18:14:01.000+08:00"
       },
       {
-        "title": "中国银行正式推出“全球科学家办公室”服务",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717313.shtml",
-        "publishedAt": "2026-10-19T17:58:02.000+08:00"
+        "title": "网传高铁座椅是HPV感染来源？真相来了→",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717325.shtml",
+        "publishedAt": "2026-10-19T18:14:01.000+08:00"
       },
       {
-        "title": "拾光瓦肆 宋潮新生 于一场十年文化之约中遇见美好时光",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717312.shtml",
-        "publishedAt": "2026-10-19T17:52:32.000+08:00"
+        "title": "从戈壁归来在戈壁扎根：一座侨乡70年的守望与新生",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717324.shtml",
+        "publishedAt": "2026-10-19T18:13:21.000+08:00"
       },
       {
-        "title": "多国专家学者景德镇共话世界遗产保护",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717311.shtml",
-        "publishedAt": "2026-10-19T17:52:26.000+08:00"
+        "title": "单德朋：石椅村给民族地区乡村振兴带来了哪些启示？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717321.shtml",
+        "publishedAt": "2026-10-19T18:11:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T18:10:03.883+08:00",
+    "fetchedAt": "2026-10-19T18:20:03.303+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T18:10:07.480+08:00",
+      "fetchedAt": "2026-10-19T18:20:10.071+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T18:10:07.834+08:00",
+      "fetchedAt": "2026-10-19T18:20:10.333+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T18:10:07.841+08:00",
+      "fetchedAt": "2026-10-19T18:20:10.339+08:00",
       "error": null
     }
   }
