@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T09:15:09.462+08:00",
+  "updatedAt": "2026-10-19T09:20:38.910+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.1,
-    "feelsLikeC": 24.7,
-    "humidity": 80,
-    "windKph": 3.3,
+    "tempC": 22.4,
+    "feelsLikeC": 25,
+    "humidity": 79,
+    "windKph": 3.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-19T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T09:15:09.462+08:00",
+    "observedAt": "2026-10-19T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T09:20:38.910+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "首都经济贸易大学建校70周年高质量发展大会举行",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-19/10716943.shtml",
+        "publishedAt": "2026-10-19T09:07:22.000+08:00"
+      },
       {
         "title": "体育“饭圈化”是对竞技精神的围剿",
         "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716941.shtml",
@@ -38,14 +43,9 @@
         "title": "零门槛、低成本 创业服务让岗位直通“家门口”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716934.shtml",
         "publishedAt": "2026-10-19T08:22:43.000+08:00"
-      },
-      {
-        "title": "广交会观察：中国企业深耕共建“一带一路”国家市场",
-        "url": "http://www.chinanews.com.cn/cj/shipin/cns/2026/10-19/news1072214.shtml",
-        "publishedAt": "2026-10-19T08:17:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T09:10:05.717+08:00",
+    "fetchedAt": "2026-10-19T09:20:03.416+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:07.810+08:00",
+      "fetchedAt": "2026-10-19T09:20:37.612+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T14:15:09.000+08:00"
+          "resetAt": "2026-10-19T14:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:08.158+08:00",
+      "fetchedAt": "2026-10-19T09:20:37.905+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T09:15:08.169+08:00",
+      "fetchedAt": "2026-10-19T09:20:37.909+08:00",
       "error": null
     }
   }
