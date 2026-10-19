@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T11:20:09.028+08:00",
+  "updatedAt": "2026-10-19T11:30:11.716+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 24.6,
-    "feelsLikeC": 27.6,
-    "humidity": 74,
-    "windKph": 4.2,
+    "feelsLikeC": 27.7,
+    "humidity": 75,
+    "windKph": 4.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-19T11:20:09.029+08:00",
+    "observedAt": "2026-10-19T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-19T11:30:11.716+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日美军演引争议：近6万人集结、多国首参演，日本民众忧虑难消",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717054.shtml",
-        "publishedAt": "2026-10-19T11:14:06.000+08:00"
+        "title": "广东：到2030年经济林年产值超1200亿元",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10717063.shtml",
+        "publishedAt": "2026-10-19T11:22:17.000+08:00"
       },
       {
-        "title": "法国官方称近2400人在17日大规模抗议活动中被捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716975.shtml",
-        "publishedAt": "2026-10-19T11:04:06.000+08:00"
+        "title": "2027年北京高考报名25日开始",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717065.shtml",
+        "publishedAt": "2026-10-19T11:21:57.000+08:00"
       },
       {
-        "title": "泰国华裔走进玉溪聂耳故居 探寻“人民音乐家”音符中的家国情怀",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717053.shtml",
-        "publishedAt": "2026-10-19T11:03:04.000+08:00"
+        "title": "全国16支代表队齐聚广州参加轮椅趣味运动邀请赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717062.shtml",
+        "publishedAt": "2026-10-19T11:20:27.000+08:00"
       },
       {
-        "title": "前三季度武汉中欧（亚）班列发运货值逾155亿元",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-19/10717050.shtml",
-        "publishedAt": "2026-10-19T11:02:52.000+08:00"
+        "title": "建设银行发布“健养安”养老金融新产品 探索金融与养老服务深度融合",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717060.shtml",
+        "publishedAt": "2026-10-19T11:18:31.000+08:00"
       },
       {
-        "title": "研究报告：读研向基础学科、前沿领域集中",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717048.shtml",
-        "publishedAt": "2026-10-19T11:00:32.000+08:00"
+        "title": "把问题摆在台面上 市民“小建议”助力城市“大发展”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717055.shtml",
+        "publishedAt": "2026-10-19T11:14:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T11:20:03.477+08:00",
+    "fetchedAt": "2026-10-19T11:30:03.735+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T11:20:07.881+08:00",
+      "fetchedAt": "2026-10-19T11:30:10.216+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 57,
-          "resetAt": "2026-10-19T14:34:04.000+08:00"
+          "resetAt": "2026-10-19T14:34:05.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T11:20:08.155+08:00",
+      "fetchedAt": "2026-10-19T11:30:10.476+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T11:20:08.164+08:00",
+      "fetchedAt": "2026-10-19T11:30:10.480+08:00",
       "error": null
     }
   }
