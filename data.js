@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T20:20:09.756+08:00",
+  "updatedAt": "2026-10-19T20:30:08.069+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-19T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-19T20:20:09.756+08:00",
+    "fetchedAt": "2026-10-19T20:30:08.069+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "抗日保台志士丘逢甲珍贵诗钞入藏中国人民抗日战争纪念馆",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717395.shtml",
-        "publishedAt": "2026-10-19T20:17:08.000+08:00"
+        "title": "稳步增长！前三季度我国邮政行业寄递业务量同比增长3.7%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717399.shtml",
+        "publishedAt": "2026-10-19T20:24:04.000+08:00"
       },
       {
-        "title": "山西启动新一轮高等教育百亿工程 3年安排105亿元实施“十大计划”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717392.shtml",
-        "publishedAt": "2026-10-19T20:17:00.000+08:00"
+        "title": "风清集合V1.0投入运行 未来将在极端天气预警等发挥更大作用",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717398.shtml",
+        "publishedAt": "2026-10-19T20:24:02.000+08:00"
       },
       {
-        "title": "“光辉万象——朱德群艺术回顾展”在杭州开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717387.shtml",
-        "publishedAt": "2026-10-19T20:08:41.000+08:00"
+        "title": "音乐剧《芝加哥》30周年纪念版11月登台北京天桥艺术中心",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717397.shtml",
+        "publishedAt": "2026-10-19T20:20:30.000+08:00"
       },
       {
-        "title": "致公党江苏省委会赴贵州毕节开展“地域+领域”帮扶活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717388.shtml",
-        "publishedAt": "2026-10-19T20:08:27.000+08:00"
+        "title": "第四个“柬中友好图书馆”在柬埔寨菩萨省正式启用",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717364.shtml",
+        "publishedAt": "2026-10-19T20:19:52.000+08:00"
       },
       {
-        "title": "海南陵水现“一苇渡江” 父子联手演绎“水上轻功”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717385.shtml",
-        "publishedAt": "2026-10-19T20:04:19.000+08:00"
+        "title": "河南玉米新品种连续三年亩产超2000斤",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717396.shtml",
+        "publishedAt": "2026-10-19T20:19:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T20:20:04.572+08:00",
+    "fetchedAt": "2026-10-19T20:30:03.125+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T20:20:08.528+08:00",
+      "fetchedAt": "2026-10-19T20:30:06.825+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T20:20:08.788+08:00",
+      "fetchedAt": "2026-10-19T20:30:07.150+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T20:20:08.792+08:00",
+      "fetchedAt": "2026-10-19T20:30:07.154+08:00",
       "error": null
     }
   }
