@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T07:50:13.715+08:00",
+  "updatedAt": "2026-10-19T08:00:07.145+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-19T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T07:50:13.715+08:00",
+    "fetchedAt": "2026-10-19T08:00:07.145+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "老年人口逐年增加 城乡多元模式破解照护难题",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716930.shtml",
+        "publishedAt": "2026-10-19T07:46:13.000+08:00"
+      },
+      {
+        "title": "直播外链：长征路上学党史｜云聚陕甘宁 看星火映山河",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-19/10716929.shtml",
+        "publishedAt": "2026-10-19T07:42:13.000+08:00"
+      },
       {
         "title": "一杯奶茶钱的惠民保如何更有吸引力？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716928.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "多期限大额存单上新 大额存单缘何重启？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716926.shtml",
         "publishedAt": "2026-10-19T07:33:10.000+08:00"
-      },
-      {
-        "title": "日媒：日本首相高市早苗向靖国神社供奉“玉串料”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716925.shtml",
-        "publishedAt": "2026-10-19T07:32:54.000+08:00"
-      },
-      {
-        "title": "学生个人信息成为黑灰产交易筹码 记者实测注册校园交友软件后骚扰电话频繁",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716924.shtml",
-        "publishedAt": "2026-10-19T07:32:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T07:50:09.176+08:00",
+    "fetchedAt": "2026-10-19T08:00:03.082+08:00",
     "error": null
   },
   "sources": {
@@ -71,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-19T12:50:13.000+08:00"
+          "resetAt": "2026-10-19T13:00:07.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T07:50:12.349+08:00",
+      "fetchedAt": "2026-10-19T08:00:06.253+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T07:50:12.358+08:00",
+      "fetchedAt": "2026-10-19T08:00:06.263+08:00",
       "error": null
     }
   }
