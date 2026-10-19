@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T09:50:08.088+08:00",
+  "updatedAt": "2026-10-19T10:00:11.566+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.1,
-    "feelsLikeC": 25.8,
+    "tempC": 23.4,
+    "feelsLikeC": 26.1,
     "humidity": 77,
-    "windKph": 4.1,
+    "windKph": 4.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T09:50:08.088+08:00",
+    "observedAt": "2026-10-19T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T10:00:11.566+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "旅居贵州国际推介会在港举行 黔港共谋文旅和旅居新发展",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10716969.shtml",
-        "publishedAt": "2026-10-19T09:45:46.000+08:00"
+        "title": "第十六届“古韵新妍”海峡两岸大学生诗词联吟大会在中南大学举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716985.shtml",
+        "publishedAt": "2026-10-19T09:50:34.000+08:00"
       },
       {
-        "title": "刘红莉：十年耕耘暖夕阳 一片初心守暮年",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10716970.shtml",
-        "publishedAt": "2026-10-19T09:45:10.000+08:00"
+        "title": "10月19日人民币对美元中间价报6.7208 上调12个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716959.shtml",
+        "publishedAt": "2026-10-19T09:50:34.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）浙江首条“甜”野智慧赛道：跑出农文旅融合“科技味”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716967.shtml",
-        "publishedAt": "2026-10-19T09:42:29.000+08:00"
+        "title": "去植物园看花，“石榴籽”说话",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10716978.shtml",
+        "publishedAt": "2026-10-19T09:49:24.000+08:00"
       },
       {
-        "title": "上海劳力士大师赛决赛上演西班牙德比 达维多维奇·福基纳苦战三盘夺得冠军",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10716958.shtml",
-        "publishedAt": "2026-10-19T09:42:11.000+08:00"
+        "title": "四维聚力兴民企 实干赋能促发展",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10716973.shtml",
+        "publishedAt": "2026-10-19T09:49:06.000+08:00"
       },
       {
-        "title": "鄂尔多斯：从“羊煤土气”到“暖城”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716982.shtml",
-        "publishedAt": "2026-10-19T09:41:03.000+08:00"
+        "title": "2026世界女孩冰球周末活动在哈尔滨举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716980.shtml",
+        "publishedAt": "2026-10-19T09:48:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T09:50:03.248+08:00",
+    "fetchedAt": "2026-10-19T10:00:04.696+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:06.874+08:00",
+      "fetchedAt": "2026-10-19T10:00:09.508+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:07.185+08:00",
+      "fetchedAt": "2026-10-19T10:00:09.710+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T09:50:07.195+08:00",
+      "fetchedAt": "2026-10-19T10:00:09.720+08:00",
       "error": null
     }
   }
