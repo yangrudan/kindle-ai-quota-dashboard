@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T22:20:08.363+08:00",
+  "updatedAt": "2026-10-19T22:30:09.208+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.4,
-    "feelsLikeC": 26.4,
+    "tempC": 22.3,
+    "feelsLikeC": 26.2,
     "humidity": 92,
-    "windKph": 2,
+    "windKph": 2.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-19T22:20:08.363+08:00",
+    "observedAt": "2026-10-19T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-19T22:30:09.208+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "粤港澳22支青少年球队齐聚佛山“以赛会友”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10717490.shtml",
-        "publishedAt": "2026-10-19T22:11:22.000+08:00"
+        "title": "网球名将莱巴金娜再续宁波前缘：畅游东钱湖 赏宋韵文化",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717505.shtml",
+        "publishedAt": "2026-10-19T22:24:37.000+08:00"
       },
       {
-        "title": "浙江杭州：良渚遗址发现九十周年特展吸引民众",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717480.shtml",
-        "publishedAt": "2026-10-19T22:11:18.000+08:00"
+        "title": "李强会见伊朗第一副总统阿雷夫",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717477.shtml",
+        "publishedAt": "2026-10-19T22:24:11.000+08:00"
       },
       {
-        "title": "第八届中国—东盟视听周在广西北海开幕",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717487.shtml",
-        "publishedAt": "2026-10-19T22:11:04.000+08:00"
+        "title": "第六届RISC-V中国峰会举行 加快拓展应用场景",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717503.shtml",
+        "publishedAt": "2026-10-19T22:23:45.000+08:00"
       },
       {
-        "title": "贵州“银匠村”吸引青年进村学艺 传承苗族银饰锻制技艺",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717461.shtml",
-        "publishedAt": "2026-10-19T22:10:46.000+08:00"
+        "title": "宁夏培育十大农文旅融合模式铺就乡村振兴共富路",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717502.shtml",
+        "publishedAt": "2026-10-19T22:22:51.000+08:00"
       },
       {
-        "title": "宁夏探索黄河流域草畜循环利用新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717485.shtml",
-        "publishedAt": "2026-10-19T22:09:54.000+08:00"
+        "title": "变林中“废料”为“新燃料”：阿木尔林业局用上木质颗粒新能源取暖",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717500.shtml",
+        "publishedAt": "2026-10-19T22:21:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T22:20:03.310+08:00",
+    "fetchedAt": "2026-10-19T22:30:04.111+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T22:20:07.178+08:00",
+      "fetchedAt": "2026-10-19T22:30:07.961+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T22:20:07.418+08:00",
+      "fetchedAt": "2026-10-19T22:30:08.278+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T22:20:07.428+08:00",
+      "fetchedAt": "2026-10-19T22:30:08.282+08:00",
       "error": null
     }
   }
