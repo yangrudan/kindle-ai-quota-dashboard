@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T21:40:39.971+08:00",
+  "updatedAt": "2026-10-19T21:50:10.705+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 22.5,
     "feelsLikeC": 26.5,
     "humidity": 91,
-    "windKph": 2.1,
-    "windDir": "东风",
+    "windKph": 1.7,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T21:40:39.971+08:00",
+    "observedAt": "2026-10-19T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-19T21:50:10.705+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "聚焦山西夏县西阴村遗址发掘百年 中国考古学大会专题交流研讨",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717458.shtml",
+        "publishedAt": "2026-10-19T21:40:14.000+08:00"
+      },
+      {
+        "title": "北京延庆打造文旅资源AI短片库",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717457.shtml",
+        "publishedAt": "2026-10-19T21:40:00.000+08:00"
+      },
+      {
+        "title": "中国在脑机接口领域实现国际标准新突破",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717454.shtml",
+        "publishedAt": "2026-10-19T21:35:04.000+08:00"
+      },
+      {
+        "title": "（经济观察）数据波动背后中国投资结构更优",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717455.shtml",
+        "publishedAt": "2026-10-19T21:35:00.000+08:00"
+      },
+      {
         "title": "广交会观察：从猪皮手套到仿生手 照见中国制造70年",
         "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717456.shtml",
         "publishedAt": "2026-10-19T21:34:10.000+08:00"
-      },
-      {
-        "title": "上海芭蕾舞团赴美巡演 《梁祝》《吉赛尔》双剧出海",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717453.shtml",
-        "publishedAt": "2026-10-19T21:33:26.000+08:00"
-      },
-      {
-        "title": "中国团队发布“数字鲨鱼图谱” 为软骨鱼类研究提供三维解剖数据资源",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717452.shtml",
-        "publishedAt": "2026-10-19T21:32:56.000+08:00"
-      },
-      {
-        "title": "重庆武隆：力争到“十五五”末地区生产总值突破300亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717451.shtml",
-        "publishedAt": "2026-10-19T21:32:50.000+08:00"
-      },
-      {
-        "title": "看熊猫、穿汉服、品雅韵 世界网坛新星解锁成都别样体验",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717450.shtml",
-        "publishedAt": "2026-10-19T21:32:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T21:40:04.797+08:00",
+    "fetchedAt": "2026-10-19T21:50:03.024+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T21:40:38.797+08:00",
+      "fetchedAt": "2026-10-19T21:50:09.492+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T21:40:39.062+08:00",
+      "fetchedAt": "2026-10-19T21:50:09.762+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T21:40:39.068+08:00",
+      "fetchedAt": "2026-10-19T21:50:09.771+08:00",
       "error": null
     }
   }
