@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T13:40:08.461+08:00",
+  "updatedAt": "2026-10-19T13:50:09.235+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.9,
-    "feelsLikeC": 29.2,
+    "tempC": 26.1,
+    "feelsLikeC": 29.5,
     "humidity": 70,
-    "windKph": 3.7,
+    "windKph": 3.3,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T13:40:08.461+08:00",
+    "observedAt": "2026-10-19T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-19T13:50:09.235+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-10-19T13:17:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T13:40:03.127+08:00",
+    "fetchedAt": "2026-10-19T13:50:03.502+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T13:40:06.832+08:00",
+      "fetchedAt": "2026-10-19T13:50:07.679+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T13:40:07.280+08:00",
+      "fetchedAt": "2026-10-19T13:50:07.963+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T13:40:07.286+08:00",
+      "fetchedAt": "2026-10-19T13:50:07.973+08:00",
       "error": null
     }
   }
