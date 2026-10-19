@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T07:00:08.915+08:00",
+  "updatedAt": "2026-10-20T07:10:08.748+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-20T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T07:00:08.915+08:00",
+    "fetchedAt": "2026-10-20T07:10:08.748+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普：该换泽连斯基以外的人代表乌克兰谈判",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717553.shtml",
+        "publishedAt": "2026-10-20T06:59:03.000+08:00"
+      },
       {
         "title": "10月20日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-20/10717552.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "特朗普称该换人代表乌克兰谈判",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717549.shtml",
         "publishedAt": "2026-10-20T05:57:16.000+08:00"
-      },
-      {
-        "title": "美国俄亥俄州哥伦布市东北部发生枪击事件 至少1人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717548.shtml",
-        "publishedAt": "2026-10-20T05:55:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T07:00:04.066+08:00",
+    "fetchedAt": "2026-10-20T07:10:03.530+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T07:00:07.746+08:00",
+      "fetchedAt": "2026-10-20T07:10:07.530+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-20T12:00:08.000+08:00"
+          "resetAt": "2026-10-20T12:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T07:00:08.021+08:00",
+      "fetchedAt": "2026-10-20T07:10:07.802+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T07:00:08.027+08:00",
+      "fetchedAt": "2026-10-20T07:10:07.811+08:00",
       "error": null
     }
   }
