@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T20:10:39.314+08:00",
+  "updatedAt": "2026-10-19T20:20:09.756+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.3,
-    "feelsLikeC": 26.6,
-    "humidity": 88,
-    "windKph": 7.6,
+    "tempC": 23.2,
+    "feelsLikeC": 26.7,
+    "humidity": 89,
+    "windKph": 6.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-19T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T20:10:39.314+08:00",
+    "observedAt": "2026-10-19T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T20:20:09.756+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "抗日保台志士丘逢甲珍贵诗钞入藏中国人民抗日战争纪念馆",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717395.shtml",
+        "publishedAt": "2026-10-19T20:17:08.000+08:00"
+      },
+      {
+        "title": "山西启动新一轮高等教育百亿工程 3年安排105亿元实施“十大计划”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717392.shtml",
+        "publishedAt": "2026-10-19T20:17:00.000+08:00"
+      },
+      {
+        "title": "“光辉万象——朱德群艺术回顾展”在杭州开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717387.shtml",
+        "publishedAt": "2026-10-19T20:08:41.000+08:00"
+      },
+      {
+        "title": "致公党江苏省委会赴贵州毕节开展“地域+领域”帮扶活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717388.shtml",
+        "publishedAt": "2026-10-19T20:08:27.000+08:00"
+      },
+      {
         "title": "海南陵水现“一苇渡江” 父子联手演绎“水上轻功”",
         "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717385.shtml",
         "publishedAt": "2026-10-19T20:04:19.000+08:00"
-      },
-      {
-        "title": "中国海拔最高的超超临界燃煤发电项目2号锅炉点火成功",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717383.shtml",
-        "publishedAt": "2026-10-19T20:01:53.000+08:00"
-      },
-      {
-        "title": "吴清：中国资产配置价值更加凸显",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717382.shtml",
-        "publishedAt": "2026-10-19T20:00:17.000+08:00"
-      },
-      {
-        "title": "专家：乳腺结节演变为癌症的概率很小",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717381.shtml",
-        "publishedAt": "2026-10-19T19:57:29.000+08:00"
-      },
-      {
-        "title": "牙痛、头痛等常见疼痛如何“见招拆招”？这份应对指南请收好",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717377.shtml",
-        "publishedAt": "2026-10-19T19:55:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T20:10:04.594+08:00",
+    "fetchedAt": "2026-10-19T20:20:04.572+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T20:10:38.174+08:00",
+      "fetchedAt": "2026-10-19T20:20:08.528+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T20:10:38.437+08:00",
+      "fetchedAt": "2026-10-19T20:20:08.788+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T20:10:38.446+08:00",
+      "fetchedAt": "2026-10-19T20:20:08.792+08:00",
       "error": null
     }
   }
