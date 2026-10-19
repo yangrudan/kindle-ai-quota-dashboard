@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T10:20:09.333+08:00",
+  "updatedAt": "2026-10-19T10:30:09.642+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.7,
-    "feelsLikeC": 26.5,
-    "humidity": 76,
+    "tempC": 24,
+    "feelsLikeC": 26.8,
+    "humidity": 75,
     "windKph": 4.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-19T10:20:09.334+08:00",
+    "observedAt": "2026-10-19T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-19T10:30:09.642+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "前三季度经济运行总体平稳 高质量发展取得新成效",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717002.shtml",
-        "publishedAt": "2026-10-19T10:13:15.000+08:00"
+        "title": "国家统计局：1-9月份社会消费品零售总额增长1.1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717018.shtml",
+        "publishedAt": "2026-10-19T10:23:34.000+08:00"
       },
       {
-        "title": "2026祁门安茶夜露活动启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10716997.shtml",
-        "publishedAt": "2026-10-19T10:09:21.000+08:00"
+        "title": "浙江省第十八届运动会在衢州开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-19/10717013.shtml",
+        "publishedAt": "2026-10-19T10:22:58.000+08:00"
       },
       {
-        "title": "鞍钢集团众元产业发展有限公司原董事长刘宝山接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716981.shtml",
-        "publishedAt": "2026-10-19T10:07:31.000+08:00"
+        "title": "国家统计局：1—9月份知识产权产品投资同比增长9.3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717015.shtml",
+        "publishedAt": "2026-10-19T10:22:50.000+08:00"
       },
       {
-        "title": "前三季度全国居民人均可支配收入34230元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716999.shtml",
-        "publishedAt": "2026-10-19T10:06:01.000+08:00"
+        "title": "中美代表长沙同植友谊树 庆祝湘雅医院建院120周年",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717016.shtml",
+        "publishedAt": "2026-10-19T10:21:22.000+08:00"
       },
       {
-        "title": "这里的竹笋为何在用硫磺熏",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717000.shtml",
-        "publishedAt": "2026-10-19T10:05:09.000+08:00"
+        "title": "近500名徒步爱好者安徽石台登高访古道",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716998.shtml",
+        "publishedAt": "2026-10-19T10:20:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T10:20:02.998+08:00",
+    "fetchedAt": "2026-10-19T10:30:04.175+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T10:20:07.994+08:00",
+      "fetchedAt": "2026-10-19T10:30:08.284+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 12,
-          "resetAt": "2026-10-19T14:34:05.000+08:00"
+          "resetAt": "2026-10-19T14:34:04.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T10:20:08.245+08:00",
+      "fetchedAt": "2026-10-19T10:30:08.534+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T10:20:08.255+08:00",
+      "fetchedAt": "2026-10-19T10:30:08.539+08:00",
       "error": null
     }
   }
