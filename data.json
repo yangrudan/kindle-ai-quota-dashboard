@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T16:50:07.804+08:00",
+  "updatedAt": "2026-10-19T17:00:09.920+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.8,
-    "feelsLikeC": 29,
-    "humidity": 73,
-    "windKph": 6.4,
+    "tempC": 25.5,
+    "feelsLikeC": 28.7,
+    "humidity": 75,
+    "windKph": 6.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T16:50:07.804+08:00",
+    "observedAt": "2026-10-19T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T17:00:09.920+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "农村未成年人心理健康教育三周年 “圆梦工程”专题成果展在北京开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717265.shtml",
-        "publishedAt": "2026-10-19T16:43:22.000+08:00"
+        "title": "“超级买家+超级卖家”照见中国经济底气",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717273.shtml",
+        "publishedAt": "2026-10-19T16:52:39.000+08:00"
       },
       {
-        "title": "直播海报：国新办就2026年前三季度工业和信息化发展情况举行新闻发布会",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717267.shtml",
-        "publishedAt": "2026-10-19T16:42:38.000+08:00"
+        "title": "华裔青年走进江西吉安 触摸千年窑火传播庐陵瓷韵",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717271.shtml",
+        "publishedAt": "2026-10-19T16:49:23.000+08:00"
       },
       {
-        "title": "上万台设备、数百个品牌、数千个型号……这位天津创业者帮医院把设备管理好！",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717257.shtml",
-        "publishedAt": "2026-10-19T16:37:10.000+08:00"
+        "title": "12岁女孩打赏11万元，钱能退吗？法院这样判",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-19/10717272.shtml",
+        "publishedAt": "2026-10-19T16:48:57.000+08:00"
       },
       {
-        "title": "大连市知联会成立医药卫生专委会同步启动“知联聚力·情暖重阳”健康基层行活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717256.shtml",
-        "publishedAt": "2026-10-19T16:36:54.000+08:00"
+        "title": "陆利平：经济政策正从短期刺激转向长期制度建设",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717268.shtml",
+        "publishedAt": "2026-10-19T16:47:51.000+08:00"
       },
       {
-        "title": "中国著名油画家、鲁迅美术学院原院长宋惠民逝世",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717262.shtml",
-        "publishedAt": "2026-10-19T16:36:20.000+08:00"
+        "title": "商务部：1-9月重点平台智能眼镜销售额增长1.1倍",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717266.shtml",
+        "publishedAt": "2026-10-19T16:46:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T16:50:02.990+08:00",
+    "fetchedAt": "2026-10-19T17:00:04.917+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 36.5,
+          "usedPct": 37.6,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 953 / 1500 AIC"
+          "detailText": "剩余 937 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T16:50:06.574+08:00",
+      "fetchedAt": "2026-10-19T17:00:08.762+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T16:50:06.842+08:00",
+      "fetchedAt": "2026-10-19T17:00:09.040+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T16:50:06.852+08:00",
+      "fetchedAt": "2026-10-19T17:00:09.051+08:00",
       "error": null
     }
   }
