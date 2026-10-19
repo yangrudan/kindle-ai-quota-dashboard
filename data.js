@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T17:10:12.270+08:00",
+  "updatedAt": "2026-10-19T17:20:10.053+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.5,
-    "feelsLikeC": 28.7,
-    "humidity": 75,
-    "windKph": 6.5,
+    "tempC": 25.2,
+    "feelsLikeC": 28.4,
+    "humidity": 76,
+    "windKph": 6.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T17:10:12.270+08:00",
+    "observedAt": "2026-10-19T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T17:20:10.054+08:00",
     "error": null
   },
   "news": {
@@ -20,17 +20,22 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国人保原党委委员、副总裁俞小平严重违纪违法被开除党籍",
+        "title": "证监会将同意首批18只主动ETF注册",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717283.shtml",
+        "publishedAt": "2026-10-19T17:09:28.000+08:00"
+      },
+      {
+        "title": "中国人保原党委委员、副总裁俞小平被开除党籍",
         "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717278.shtml",
         "publishedAt": "2026-10-19T17:03:23.000+08:00"
       },
       {
-        "title": "社保基金会原党组成员、副理事长王文灵严重违纪违法被开除党籍和公职",
+        "title": "社保基金会原党组成员、副理事长王文灵被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717277.shtml",
         "publishedAt": "2026-10-19T17:02:25.000+08:00"
       },
       {
-        "title": "自然资源部原党组成员，国家林草局原党组书记、局长张建龙严重违纪违法被开除党籍",
+        "title": "自然资源部原党组成员，国家林草局原党组书记、局长张建龙被开除党籍",
         "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717276.shtml",
         "publishedAt": "2026-10-19T17:01:23.000+08:00"
       },
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "接住入境游下沉的“小城机遇”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717275.shtml",
         "publishedAt": "2026-10-19T17:00:07.000+08:00"
-      },
-      {
-        "title": "中国正扮演两个超级角色",
-        "url": "http://www.chinanews.com.cn/cj/shipin/2026/10-19/news1072289.shtml",
-        "publishedAt": "2026-10-19T16:56:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T17:10:04.662+08:00",
+    "fetchedAt": "2026-10-19T17:20:04.065+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 46.5,
+          "usedPct": 56.9,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 803 / 1500 AIC"
+          "detailText": "剩余 648 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T17:10:08.666+08:00",
+      "fetchedAt": "2026-10-19T17:19:50.339+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T17:10:08.929+08:00",
+      "fetchedAt": "2026-10-19T17:20:08.666+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T17:10:08.932+08:00",
+      "fetchedAt": "2026-10-19T17:20:08.679+08:00",
       "error": null
     }
   }
