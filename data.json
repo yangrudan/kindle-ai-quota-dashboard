@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T19:40:38.248+08:00",
+  "updatedAt": "2026-10-19T19:50:09.110+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.6,
+    "tempC": 23.5,
     "feelsLikeC": 26.7,
-    "humidity": 86,
-    "windKph": 8.7,
+    "humidity": 87,
+    "windKph": 8.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-19T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T19:40:38.248+08:00",
+    "observedAt": "2026-10-19T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-19T19:50:09.110+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中医药出海观察：以循证为桥 加速融入全球健康体系",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717357.shtml",
-        "publishedAt": "2026-10-19T19:33:01.000+08:00"
+        "title": "何以中国·当惊世界殊丨他没等到的高峡平湖，我们替他看见了",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717368.shtml",
+        "publishedAt": "2026-10-19T19:44:30.000+08:00"
       },
       {
-        "title": "第二期海外川籍社团骨干国情研修活动在福建启动",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717356.shtml",
-        "publishedAt": "2026-10-19T19:28:21.000+08:00"
+        "title": "（乡村行·看振兴）一片“金叶”富山乡 湖北保康烟农丰收见闻",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717360.shtml",
+        "publishedAt": "2026-10-19T19:43:08.000+08:00"
       },
       {
-        "title": "海南民族武术比赛：老将新秀同台竞技，传统内蕴薪火相传",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717355.shtml",
-        "publishedAt": "2026-10-19T19:27:13.000+08:00"
+        "title": "经济运行向上、向新、向优 前三季度数据传递积极信号",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717365.shtml",
+        "publishedAt": "2026-10-19T19:42:30.000+08:00"
       },
       {
-        "title": "台湾地区云南同乡会代表访滇：寻文脉 叙乡情",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717350.shtml",
-        "publishedAt": "2026-10-19T19:26:33.000+08:00"
+        "title": "何以中国 | “长江王”林一山：治理长江，此生无怨无悔",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717363.shtml",
+        "publishedAt": "2026-10-19T19:37:28.000+08:00"
       },
       {
-        "title": "当代中青年书法作品邀请展续接笔墨文脉探索当代路径",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717353.shtml",
-        "publishedAt": "2026-10-19T19:25:53.000+08:00"
+        "title": "“中欧人文班列”系列展示交流活动全球巡展（意大利站）开幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717354.shtml",
+        "publishedAt": "2026-10-19T19:37:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T19:40:03.600+08:00",
+    "fetchedAt": "2026-10-19T19:50:03.487+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:37.116+08:00",
+      "fetchedAt": "2026-10-19T19:50:07.791+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 4,
           "resetAt": "2026-10-20T00:40:10.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T19:40:37.421+08:00",
+      "fetchedAt": "2026-10-19T19:50:08.164+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T19:40:37.430+08:00",
+      "fetchedAt": "2026-10-19T19:50:08.168+08:00",
       "error": null
     }
   }
