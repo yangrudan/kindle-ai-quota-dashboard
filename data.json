@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T10:40:09.020+08:00",
+  "updatedAt": "2026-10-19T10:50:11.831+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24,
-    "feelsLikeC": 26.8,
+    "tempC": 24.3,
+    "feelsLikeC": 27.2,
     "humidity": 75,
-    "windKph": 4.5,
+    "windKph": 4.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T10:40:09.020+08:00",
+    "observedAt": "2026-10-19T10:45:00.000+08:00",
+    "fetchedAt": "2026-10-19T10:50:11.832+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "挚友真情 同心同行！青岛市以统战文化周汇聚团结奋进力量",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717019.shtml",
-        "publishedAt": "2026-10-19T10:34:16.000+08:00"
+        "title": "广东省新的社会阶层人士纪念长征胜利90周年文艺展演在韶关举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717029.shtml",
+        "publishedAt": "2026-10-19T10:43:41.000+08:00"
       },
       {
-        "title": "（活力中国调研行）国家发展改革委官员：高水平推进海南自贸港全岛封关运作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717023.shtml",
-        "publishedAt": "2026-10-19T10:33:36.000+08:00"
+        "title": "（活力中国调研行）企业抢滩 海南自贸港注入“芯”动力",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717043.shtml",
+        "publishedAt": "2026-10-19T10:43:11.000+08:00"
       },
       {
-        "title": "山东省华侨中学建校70周年主题活动举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717020.shtml",
-        "publishedAt": "2026-10-19T10:32:08.000+08:00"
+        "title": "2026环三峡自行车赛收官 谢军夺得男子精英组总冠军穿上“传奇衫”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717025.shtml",
+        "publishedAt": "2026-10-19T10:41:15.000+08:00"
       },
       {
-        "title": "辽宁省大连市人大常委会副主任刘士武接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717027.shtml",
-        "publishedAt": "2026-10-19T10:31:30.000+08:00"
+        "title": "2026武汉网球公开赛：波兰选手赫瓦林斯卡夺得单打冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208218.shtml",
+        "publishedAt": "2026-10-19T10:40:05.000+08:00"
       },
       {
-        "title": "商务部等9部门发布关于加快推进科技兴商的意见",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717030.shtml",
-        "publishedAt": "2026-10-19T10:30:22.000+08:00"
+        "title": "首届“同心杯”全省统战系统气排球友谊赛圆满闭幕",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717022.shtml",
+        "publishedAt": "2026-10-19T10:38:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T10:40:03.399+08:00",
+    "fetchedAt": "2026-10-19T10:50:02.799+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T10:40:07.644+08:00",
+      "fetchedAt": "2026-10-19T10:50:09.457+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
+          "usedPct": 18,
           "resetAt": "2026-10-19T14:34:04.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 13,
+          "usedPct": 14,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T10:40:07.928+08:00",
+      "fetchedAt": "2026-10-19T10:50:09.791+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T10:40:07.936+08:00",
+      "fetchedAt": "2026-10-19T10:50:09.804+08:00",
       "error": null
     }
   }
