@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T07:10:08.748+08:00",
+  "updatedAt": "2026-10-20T07:20:07.872+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.1,
-    "feelsLikeC": 26,
+    "tempC": 22.3,
+    "feelsLikeC": 26.2,
     "humidity": 92,
-    "windKph": 2.3,
+    "windKph": 2.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T07:10:08.748+08:00",
+    "observedAt": "2026-10-20T07:15:00.000+08:00",
+    "fetchedAt": "2026-10-20T07:20:07.872+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "没撞上就不用赔？“无接触”交通事故，这些情形要担责",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717555.shtml",
+        "publishedAt": "2026-10-20T07:12:42.000+08:00"
+      },
+      {
+        "title": "从柴油吵到“星链” 俄油输美之际 美乌总统继续“隔空互怼”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717554.shtml",
+        "publishedAt": "2026-10-20T07:06:56.000+08:00"
+      },
       {
         "title": "特朗普：该换泽连斯基以外的人代表乌克兰谈判",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717553.shtml",
@@ -33,19 +43,9 @@
         "title": "第二届东盟华商菁英峰会在马尼拉举行 聚焦区域经贸合作",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10717551.shtml",
         "publishedAt": "2026-10-20T06:41:52.000+08:00"
-      },
-      {
-        "title": "泽连斯基称俄无人机袭击哈尔科夫州一公园致6死14伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717550.shtml",
-        "publishedAt": "2026-10-20T05:58:44.000+08:00"
-      },
-      {
-        "title": "特朗普称该换人代表乌克兰谈判",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717549.shtml",
-        "publishedAt": "2026-10-20T05:57:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T07:10:03.530+08:00",
+    "fetchedAt": "2026-10-20T07:20:03.142+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T07:10:07.530+08:00",
+      "fetchedAt": "2026-10-20T07:20:06.688+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-20T12:10:08.000+08:00"
+          "resetAt": "2026-10-20T12:20:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T07:10:07.802+08:00",
+      "fetchedAt": "2026-10-20T07:20:07.025+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T07:10:07.811+08:00",
+      "fetchedAt": "2026-10-20T07:20:07.029+08:00",
       "error": null
     }
   }
