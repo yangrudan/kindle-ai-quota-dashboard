@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T11:10:10.657+08:00",
+  "updatedAt": "2026-10-19T11:20:09.028+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.5,
-    "feelsLikeC": 27.5,
+    "tempC": 24.6,
+    "feelsLikeC": 27.6,
     "humidity": 74,
     "windKph": 4.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T11:10:10.657+08:00",
+    "observedAt": "2026-10-19T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T11:20:09.029+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日美军演引争议：近6万人集结、多国首参演，日本民众忧虑难消",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717054.shtml",
+        "publishedAt": "2026-10-19T11:14:06.000+08:00"
+      },
       {
         "title": "法国官方称近2400人在17日大规模抗议活动中被捕",
         "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716975.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "研究报告：读研向基础学科、前沿领域集中",
         "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717048.shtml",
         "publishedAt": "2026-10-19T11:00:32.000+08:00"
-      },
-      {
-        "title": "人不见虎豹 诸山皆虎豹",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717052.shtml",
-        "publishedAt": "2026-10-19T10:58:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T11:10:03.955+08:00",
+    "fetchedAt": "2026-10-19T11:20:03.477+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T11:10:09.541+08:00",
+      "fetchedAt": "2026-10-19T11:20:07.881+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T11:10:09.806+08:00",
+      "fetchedAt": "2026-10-19T11:20:08.155+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T11:10:09.815+08:00",
+      "fetchedAt": "2026-10-19T11:20:08.164+08:00",
       "error": null
     }
   }
