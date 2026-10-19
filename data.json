@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T10:50:11.831+08:00",
+  "updatedAt": "2026-10-19T11:00:18.671+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.3,
-    "feelsLikeC": 27.2,
-    "humidity": 75,
-    "windKph": 4.3,
+    "tempC": 24.5,
+    "feelsLikeC": 27.5,
+    "humidity": 74,
+    "windKph": 4.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T10:50:11.832+08:00",
+    "observedAt": "2026-10-19T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T11:00:18.672+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东省新的社会阶层人士纪念长征胜利90周年文艺展演在韶关举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717029.shtml",
-        "publishedAt": "2026-10-19T10:43:41.000+08:00"
+        "title": "哈萨克斯坦水文气象局：预计该国今冬气温高于常年同期",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717031.shtml",
+        "publishedAt": "2026-10-19T10:54:01.000+08:00"
       },
       {
-        "title": "（活力中国调研行）企业抢滩 海南自贸港注入“芯”动力",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717043.shtml",
-        "publishedAt": "2026-10-19T10:43:11.000+08:00"
+        "title": "同心砺学展风采 聚力建功强省会——2026年济南市优秀中青年党外干部培训班成功举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717035.shtml",
+        "publishedAt": "2026-10-19T10:53:39.000+08:00"
       },
       {
-        "title": "2026环三峡自行车赛收官 谢军夺得男子精英组总冠军穿上“传奇衫”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717025.shtml",
-        "publishedAt": "2026-10-19T10:41:15.000+08:00"
+        "title": "“OPC生态赋能 海归智创未来”——2026中国人工智能产业大会·OPC创新发展论坛成功举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717036.shtml",
+        "publishedAt": "2026-10-19T10:52:51.000+08:00"
       },
       {
-        "title": "2026武汉网球公开赛：波兰选手赫瓦林斯卡夺得单打冠军",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208218.shtml",
-        "publishedAt": "2026-10-19T10:40:05.000+08:00"
+        "title": "2026世界青年科学家峰会欧洲专场活动在布鲁塞尔举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717033.shtml",
+        "publishedAt": "2026-10-19T10:52:35.000+08:00"
       },
       {
-        "title": "首届“同心杯”全省统战系统气排球友谊赛圆满闭幕",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-19/10717022.shtml",
-        "publishedAt": "2026-10-19T10:38:00.000+08:00"
+        "title": "古老非遗打开当代生活新场景",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717049.shtml",
+        "publishedAt": "2026-10-19T10:52:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T10:50:02.799+08:00",
+    "fetchedAt": "2026-10-19T11:00:05.171+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 984 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T10:50:09.457+08:00",
+      "fetchedAt": "2026-10-19T10:59:58.153+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 44,
           "resetAt": "2026-10-19T14:34:04.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 14,
+          "usedPct": 18,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T10:50:09.791+08:00",
+      "fetchedAt": "2026-10-19T11:00:17.136+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T10:50:09.804+08:00",
+      "fetchedAt": "2026-10-19T11:00:17.150+08:00",
       "error": null
     }
   }
