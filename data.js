@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T13:50:09.235+08:00",
+  "updatedAt": "2026-10-19T14:00:40.762+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.1,
-    "feelsLikeC": 29.5,
-    "humidity": 70,
-    "windKph": 3.3,
+    "tempC": 26.3,
+    "feelsLikeC": 29.8,
+    "humidity": 69,
+    "windKph": 2.6,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-19T13:50:09.235+08:00",
+    "observedAt": "2026-10-19T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-19T14:00:40.763+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一块“打印”出的“三文鱼”",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717116.shtml",
-        "publishedAt": "2026-10-19T13:36:36.000+08:00"
+        "title": "“国际视听艺术共创行动”在沪启动 《视听友好倡议》发布",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717099.shtml",
+        "publishedAt": "2026-10-19T13:57:47.000+08:00"
       },
       {
-        "title": "9月一线城市房价环比继续上涨 二三线城市降幅收窄",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717097.shtml",
-        "publishedAt": "2026-10-19T13:33:30.000+08:00"
+        "title": "赋能优势特色产业，共绘发展新图景",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717118.shtml",
+        "publishedAt": "2026-10-19T13:56:13.000+08:00"
       },
       {
-        "title": "国家统计局谈前三季度GDP增速：符合全年经济预期增长目标",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717105.shtml",
-        "publishedAt": "2026-10-19T13:28:32.000+08:00"
+        "title": "国家统计局：前三季度内需逐步改善",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717115.shtml",
+        "publishedAt": "2026-10-19T13:55:57.000+08:00"
       },
       {
-        "title": "河北沧州集中拆除村庄内违规危化品储存罐",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717113.shtml",
-        "publishedAt": "2026-10-19T13:26:36.000+08:00"
+        "title": "现代职业教育体系的“四梁八柱”，立起来了",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717124.shtml",
+        "publishedAt": "2026-10-19T13:55:27.000+08:00"
       },
       {
-        "title": "记者手记丨“去看科技中国、创新中国”——国际旅游界人士解读“中国游”魅力新密码",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717104.shtml",
-        "publishedAt": "2026-10-19T13:17:47.000+08:00"
+        "title": "前三季度广东外贸进出口8.72万亿元 进口同比增长超42%",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717120.shtml",
+        "publishedAt": "2026-10-19T13:55:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T13:50:03.502+08:00",
+    "fetchedAt": "2026-10-19T14:00:05.488+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T13:50:07.679+08:00",
+      "fetchedAt": "2026-10-19T14:00:39.233+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
+          "usedPct": 61,
           "resetAt": "2026-10-19T14:34:04.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 20,
+          "usedPct": 21,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T13:50:07.963+08:00",
+      "fetchedAt": "2026-10-19T14:00:39.488+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T13:50:07.973+08:00",
+      "fetchedAt": "2026-10-19T14:00:39.494+08:00",
       "error": null
     }
   }
