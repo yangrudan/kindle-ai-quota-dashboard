@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T14:00:40.762+08:00",
+  "updatedAt": "2026-10-19T14:10:37.411+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-10-19T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T14:00:40.763+08:00",
+    "fetchedAt": "2026-10-19T14:10:37.411+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“国际视听艺术共创行动”在沪启动 《视听友好倡议》发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717099.shtml",
-        "publishedAt": "2026-10-19T13:57:47.000+08:00"
+        "title": "国家统计局：规模以上制造业人工智能技术重点场景应用普及率超过1/3",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717119.shtml",
+        "publishedAt": "2026-10-19T14:08:26.000+08:00"
       },
       {
-        "title": "赋能优势特色产业，共绘发展新图景",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717118.shtml",
-        "publishedAt": "2026-10-19T13:56:13.000+08:00"
+        "title": "第三十三届中外传记文学研究会年会在东北大学召开",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717110.shtml",
+        "publishedAt": "2026-10-19T14:06:26.000+08:00"
       },
       {
-        "title": "国家统计局：前三季度内需逐步改善",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717115.shtml",
-        "publishedAt": "2026-10-19T13:55:57.000+08:00"
+        "title": "中欧班列“光雾山秋日班列”成都首发 巴中好物与红叶文旅共赴波兰罗兹",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-19/10717108.shtml",
+        "publishedAt": "2026-10-19T14:04:40.000+08:00"
       },
       {
-        "title": "现代职业教育体系的“四梁八柱”，立起来了",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717124.shtml",
-        "publishedAt": "2026-10-19T13:55:27.000+08:00"
+        "title": "《河北蓝皮书（2026）》系列丛书出版发行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717107.shtml",
+        "publishedAt": "2026-10-19T14:04:36.000+08:00"
       },
       {
-        "title": "前三季度广东外贸进出口8.72万亿元 进口同比增长超42%",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717120.shtml",
-        "publishedAt": "2026-10-19T13:55:07.000+08:00"
+        "title": "李家超会见亚投行行长邹加怡 支持亚投行在港设办事处",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10717106.shtml",
+        "publishedAt": "2026-10-19T14:03:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T14:00:05.488+08:00",
+    "fetchedAt": "2026-10-19T14:10:02.763+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T14:00:39.233+08:00",
+      "fetchedAt": "2026-10-19T14:10:36.211+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T14:00:39.488+08:00",
+      "fetchedAt": "2026-10-19T14:10:36.464+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T14:00:39.494+08:00",
+      "fetchedAt": "2026-10-19T14:10:36.474+08:00",
       "error": null
     }
   }
