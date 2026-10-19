@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T16:10:10.367+08:00",
+  "updatedAt": "2026-10-19T16:20:07.916+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.4,
-    "feelsLikeC": 29.6,
+    "tempC": 26.2,
+    "feelsLikeC": 29.4,
     "humidity": 70,
-    "windKph": 5.3,
+    "windKph": 5.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-19T16:10:10.367+08:00",
+    "observedAt": "2026-10-19T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-19T16:20:07.916+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "长征精神何以穿越时空、历久弥新（人民论坛）",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717228.shtml",
-        "publishedAt": "2026-10-19T16:04:12.000+08:00"
+        "title": "（走进中国乡村）安徽犁桥把艺术“种”进田野",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717230.shtml",
+        "publishedAt": "2026-10-19T16:16:19.000+08:00"
       },
       {
-        "title": "三部门公布优化调整无人机相关物项出口管制措施",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717218.shtml",
-        "publishedAt": "2026-10-19T16:02:24.000+08:00"
+        "title": "税务部门公布3起纠治“开票经济”涉税问题相关案件",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717200.shtml",
+        "publishedAt": "2026-10-19T16:15:27.000+08:00"
       },
       {
-        "title": "第五届中国报业创新发展大会在重庆举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717219.shtml",
-        "publishedAt": "2026-10-19T16:01:02.000+08:00"
+        "title": "调查 | 网红餐厅黄牛号仍猖獗：5元收闲置号，50元转手卖",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717246.shtml",
+        "publishedAt": "2026-10-19T16:13:55.000+08:00"
       },
       {
-        "title": "“打非治违”重拳出击！安全生产绝不允许做“选择题”",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-19/10717220.shtml",
-        "publishedAt": "2026-10-19T16:00:14.000+08:00"
+        "title": "我国在脑机接口领域实现国际标准新突破",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717235.shtml",
+        "publishedAt": "2026-10-19T16:12:11.000+08:00"
       },
       {
-        "title": "《南京照相馆》《给阿嬷的情书》等获多项中国电影金鸡奖提名",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717217.shtml",
-        "publishedAt": "2026-10-19T15:59:50.000+08:00"
+        "title": "重庆海关2026年职业病危害因素检测服务项目（第二次）比选公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-19/10717242.shtml",
+        "publishedAt": "2026-10-19T16:11:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T16:10:03.589+08:00",
+    "fetchedAt": "2026-10-19T16:20:03.069+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T16:10:09.173+08:00",
+      "fetchedAt": "2026-10-19T16:20:06.514+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 88,
+          "usedPct": 90,
           "resetAt": "2026-10-19T19:34:05.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T16:10:09.453+08:00",
+      "fetchedAt": "2026-10-19T16:20:06.791+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T16:10:09.462+08:00",
+      "fetchedAt": "2026-10-19T16:20:06.800+08:00",
       "error": null
     }
   }
