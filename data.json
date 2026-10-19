@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19T14:20:07.659+08:00",
+  "updatedAt": "2026-10-19T14:30:11.226+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.4,
-    "feelsLikeC": 30,
+    "tempC": 26.6,
+    "feelsLikeC": 30.2,
     "humidity": 68,
-    "windKph": 1.9,
+    "windKph": 1.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-19T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-19T14:20:07.659+08:00",
+    "observedAt": "2026-10-19T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-19T14:30:11.226+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "斯诺克北爱尔兰公开赛：中国军团首日两人晋级",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717143.shtml",
+        "publishedAt": "2026-10-19T14:23:29.000+08:00"
+      },
+      {
+        "title": "国家发改委向社会公开征求《电力现货市场基本规则（公开征求意见稿）》意见",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717109.shtml",
+        "publishedAt": "2026-10-19T14:19:53.000+08:00"
+      },
+      {
+        "title": "青岛：碱蓬草如锦似霞层叠铺展 红海滩生态风光如画",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-19/1208242.shtml",
+        "publishedAt": "2026-10-19T14:19:47.000+08:00"
+      },
+      {
+        "title": "红色巡讲走进江苏响水 灌河岸畔这场沉浸式思政课超燃",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717139.shtml",
+        "publishedAt": "2026-10-19T14:16:54.000+08:00"
+      },
+      {
         "title": "关于开展未成年人用户数量巨大和对未成年人群体具有显著影响的网络平台服务提供者认定工作的公告",
         "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717141.shtml",
         "publishedAt": "2026-10-19T14:13:08.000+08:00"
-      },
-      {
-        "title": "国家统计局：2027年1月1日起第四次全国农业普查将正式开启入户登记",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717122.shtml",
-        "publishedAt": "2026-10-19T14:12:34.000+08:00"
-      },
-      {
-        "title": "一封写给家乡的书信，何以打动世界？",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717140.shtml",
-        "publishedAt": "2026-10-19T14:12:04.000+08:00"
-      },
-      {
-        "title": "国家统计局：规模以上制造业人工智能技术重点场景应用普及率超过1/3",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717119.shtml",
-        "publishedAt": "2026-10-19T14:08:26.000+08:00"
-      },
-      {
-        "title": "第三十三届中外传记文学研究会年会在东北大学召开",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-19/10717110.shtml",
-        "publishedAt": "2026-10-19T14:06:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T14:20:02.826+08:00",
+    "fetchedAt": "2026-10-19T14:30:04.089+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 966 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T14:20:06.408+08:00",
+      "fetchedAt": "2026-10-19T14:30:09.716+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 61,
-          "resetAt": "2026-10-19T14:34:04.000+08:00"
+          "resetAt": "2026-10-19T14:34:05.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T14:20:06.663+08:00",
+      "fetchedAt": "2026-10-19T14:30:09.990+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T14:20:06.666+08:00",
+      "fetchedAt": "2026-10-19T14:30:09.996+08:00",
       "error": null
     }
   }
