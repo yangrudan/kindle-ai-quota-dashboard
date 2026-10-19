@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-19T18:40:37.967+08:00",
+  "updatedAt": "2026-10-19T18:50:08.709+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.1,
-    "feelsLikeC": 27.3,
+    "tempC": 24,
+    "feelsLikeC": 27.1,
     "humidity": 83,
-    "windKph": 8,
+    "windKph": 8.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-19T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-19T18:40:37.967+08:00",
+    "observedAt": "2026-10-19T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-19T18:50:08.709+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习言道｜长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717282.shtml",
-        "publishedAt": "2026-10-19T18:14:39.000+08:00"
+        "title": "兴安盟牛产业“链”出致富路",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717336.shtml",
+        "publishedAt": "2026-10-19T18:44:13.000+08:00"
       },
       {
-        "title": "“睿宝”“辉宝”回国进入倒计时！爱宝乐园公布最新安排",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-19/10717326.shtml",
-        "publishedAt": "2026-10-19T18:14:01.000+08:00"
+        "title": "全国全民体能大赛总决赛汉中收官 汉水之滨上演体能竞技",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-19/10717335.shtml",
+        "publishedAt": "2026-10-19T18:39:53.000+08:00"
       },
       {
-        "title": "网传高铁座椅是HPV感染来源？真相来了→",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-19/10717325.shtml",
-        "publishedAt": "2026-10-19T18:14:01.000+08:00"
+        "title": "《鲁迅逝世九十周年纪念》封中封发行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717333.shtml",
+        "publishedAt": "2026-10-19T18:39:13.000+08:00"
       },
       {
-        "title": "从戈壁归来在戈壁扎根：一座侨乡70年的守望与新生",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-19/10717324.shtml",
-        "publishedAt": "2026-10-19T18:13:21.000+08:00"
+        "title": "香港重阳秋祭：游子不忘根脉，乡情绵延不息",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-19/10717330.shtml",
+        "publishedAt": "2026-10-19T18:38:37.000+08:00"
       },
       {
-        "title": "单德朋：石椅村给民族地区乡村振兴带来了哪些启示？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717321.shtml",
-        "publishedAt": "2026-10-19T18:11:23.000+08:00"
+        "title": "A股机器人相关板块周一走强 宇树科技股价大涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717329.shtml",
+        "publishedAt": "2026-10-19T18:37:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-19T18:40:03.228+08:00",
+    "fetchedAt": "2026-10-19T18:50:03.333+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-19T18:40:36.852+08:00",
+      "fetchedAt": "2026-10-19T18:50:07.275+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-19T18:40:37.120+08:00",
+      "fetchedAt": "2026-10-19T18:50:07.548+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-19T18:40:37.130+08:00",
+      "fetchedAt": "2026-10-19T18:50:07.557+08:00",
       "error": null
     }
   }
