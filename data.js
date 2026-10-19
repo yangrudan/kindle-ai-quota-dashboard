@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T07:20:07.872+08:00",
+  "updatedAt": "2026-10-20T07:30:10.235+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.3,
-    "feelsLikeC": 26.2,
-    "humidity": 92,
-    "windKph": 2.1,
+    "tempC": 22.5,
+    "feelsLikeC": 26.5,
+    "humidity": 90,
+    "windKph": 1.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-20T07:20:07.872+08:00",
+    "observedAt": "2026-10-20T07:30:00.000+08:00",
+    "fetchedAt": "2026-10-20T07:30:10.235+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "柴油车主“换季”，这两个“加油内幕”千万别信！",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717557.shtml",
+        "publishedAt": "2026-10-20T07:23:23.000+08:00"
+      },
+      {
+        "title": "哥伦比亚一非法金矿塌方 至少9人死",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717556.shtml",
+        "publishedAt": "2026-10-20T07:15:32.000+08:00"
+      },
       {
         "title": "没撞上就不用赔？“无接触”交通事故，这些情形要担责",
         "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717555.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "特朗普：该换泽连斯基以外的人代表乌克兰谈判",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717553.shtml",
         "publishedAt": "2026-10-20T06:59:03.000+08:00"
-      },
-      {
-        "title": "10月20日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-20/10717552.shtml",
-        "publishedAt": "2026-10-20T06:50:31.000+08:00"
-      },
-      {
-        "title": "第二届东盟华商菁英峰会在马尼拉举行 聚焦区域经贸合作",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10717551.shtml",
-        "publishedAt": "2026-10-20T06:41:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T07:20:03.142+08:00",
+    "fetchedAt": "2026-10-20T07:30:04.411+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T07:20:06.688+08:00",
+      "fetchedAt": "2026-10-20T07:30:08.990+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-20T12:20:07.000+08:00"
+          "resetAt": "2026-10-20T12:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T07:20:07.025+08:00",
+      "fetchedAt": "2026-10-20T07:30:09.369+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T07:20:07.029+08:00",
+      "fetchedAt": "2026-10-20T07:30:09.378+08:00",
       "error": null
     }
   }
