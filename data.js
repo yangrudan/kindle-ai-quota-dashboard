@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T14:10:07.867+08:00",
+  "updatedAt": "2026-10-20T14:20:12.902+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 29.4,
-    "feelsLikeC": 33.8,
+    "feelsLikeC": 33.7,
     "humidity": 63,
-    "windKph": 2,
+    "windKph": 2.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T14:10:07.867+08:00",
+    "observedAt": "2026-10-20T14:15:00.000+08:00",
+    "fetchedAt": "2026-10-20T14:20:12.903+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（文化中国行·校馆弦歌）武汉理工大学图书馆：沉浸式体验解锁阅读新趣",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717763.shtml",
+        "publishedAt": "2026-10-20T14:10:47.000+08:00"
+      },
+      {
+        "title": "百年开明",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717774.shtml",
+        "publishedAt": "2026-10-20T14:09:11.000+08:00"
+      },
+      {
+        "title": "民调：特朗普支持率降至31%，创历史新低",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717773.shtml",
+        "publishedAt": "2026-10-20T14:08:45.000+08:00"
+      },
+      {
+        "title": "七部门联合印发《广告产业发展“十五五”规划》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717768.shtml",
+        "publishedAt": "2026-10-20T14:03:12.000+08:00"
+      },
+      {
         "title": "新建重庆至万州高速铁路启动联调联试",
         "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717750.shtml",
         "publishedAt": "2026-10-20T13:59:50.000+08:00"
-      },
-      {
-        "title": "飒智智能CIIF 2026工博会收官",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717751.shtml",
-        "publishedAt": "2026-10-20T13:51:48.000+08:00"
-      },
-      {
-        "title": "古巴谴责美方对劳尔·卡斯特罗发出逮捕令",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717752.shtml",
-        "publishedAt": "2026-10-20T13:50:46.000+08:00"
-      },
-      {
-        "title": "中国工商银行发布中非人民币跨境使用十大举措",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717749.shtml",
-        "publishedAt": "2026-10-20T13:48:52.000+08:00"
-      },
-      {
-        "title": "中国银行推出20项举措 为基础研究提供全周期金融支持",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717748.shtml",
-        "publishedAt": "2026-10-20T13:46:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T14:10:03.125+08:00",
+    "fetchedAt": "2026-10-20T14:20:04.211+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T14:10:06.718+08:00",
+      "fetchedAt": "2026-10-20T14:20:11.748+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 4,
           "resetAt": "2026-10-20T19:08:48.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T14:10:07.006+08:00",
+      "fetchedAt": "2026-10-20T14:20:12.038+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T14:10:07.015+08:00",
+      "fetchedAt": "2026-10-20T14:20:12.042+08:00",
       "error": null
     }
   }
