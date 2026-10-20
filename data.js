@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T00:10:09.289+08:00",
+  "updatedAt": "2026-10-21T00:20:09.789+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 20.9,
-    "feelsLikeC": 22.7,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 20.8,
+    "feelsLikeC": 22.5,
     "humidity": 90,
-    "windKph": 11.1,
+    "windKph": 11.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T00:10:09.289+08:00",
+    "observedAt": "2026-10-21T00:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T00:20:09.790+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香港特区选举委员会界别分组一般选举提名期结束 接获1155份提名",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718215.shtml",
+        "publishedAt": "2026-10-21T00:14:12.000+08:00"
+      },
+      {
+        "title": "美以窃取商业秘密为由制裁中企 中国商务部回应",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718214.shtml",
+        "publishedAt": "2026-10-21T00:14:06.000+08:00"
+      },
       {
         "title": "国考报名时间过半，热门岗位报录比超2800:1",
         "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718213.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "刘海星分别会见意大利、阿联酋客人",
         "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718211.shtml",
         "publishedAt": "2026-10-20T23:37:38.000+08:00"
-      },
-      {
-        "title": "文化观察：从良渚看文化遗产如何点亮大众旅游？",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718207.shtml",
-        "publishedAt": "2026-10-20T23:27:03.000+08:00"
-      },
-      {
-        "title": "邯郸涉县“独臂信使”：五十载坚守报答乡土恩情",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718206.shtml",
-        "publishedAt": "2026-10-20T23:26:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T00:10:03.726+08:00",
+    "fetchedAt": "2026-10-21T00:20:04.042+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T00:10:08.091+08:00",
+      "fetchedAt": "2026-10-21T00:20:08.354+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T00:10:08.364+08:00",
+      "fetchedAt": "2026-10-21T00:20:08.730+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T00:10:08.374+08:00",
+      "fetchedAt": "2026-10-21T00:20:08.740+08:00",
       "error": null
     }
   }
