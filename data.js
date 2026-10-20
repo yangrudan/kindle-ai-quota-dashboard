@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T12:20:10.768+08:00",
+  "updatedAt": "2026-10-20T12:30:09.745+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.9,
-    "feelsLikeC": 32.1,
-    "humidity": 68,
-    "windKph": 2.5,
+    "tempC": 28.1,
+    "feelsLikeC": 32.5,
+    "humidity": 67,
+    "windKph": 1.5,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-20T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-20T12:20:10.768+08:00",
+    "observedAt": "2026-10-20T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-20T12:30:09.745+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "直击法国大规模抗议活动：巴黎街头的混乱景象",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717704.shtml",
+        "publishedAt": "2026-10-20T12:22:55.000+08:00"
+      },
+      {
+        "title": "（长征胜利90周年）“外眼”看长征，看到了什么？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717700.shtml",
+        "publishedAt": "2026-10-20T12:22:15.000+08:00"
+      },
+      {
+        "title": "法国多个城市实施局部宵禁 防范暴力行为",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717649.shtml",
+        "publishedAt": "2026-10-20T12:21:11.000+08:00"
+      },
       {
         "title": "国家文物局：促进优质展览资源直达基层",
         "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717712.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "国家文物局：加强国有博物馆藏品盘库建档和文物定级",
         "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717711.shtml",
         "publishedAt": "2026-10-20T12:13:20.000+08:00"
-      },
-      {
-        "title": "“十四五”期间，全国博物馆累计接待观众超62亿人次",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717710.shtml",
-        "publishedAt": "2026-10-20T12:11:40.000+08:00"
-      },
-      {
-        "title": "习近平致中央社会主义学院建院70周年的贺信",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717703.shtml",
-        "publishedAt": "2026-10-20T12:07:22.000+08:00"
-      },
-      {
-        "title": "A股午评：超3900只个股飘红，沪指收跌，深指、创业板指收涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717708.shtml",
-        "publishedAt": "2026-10-20T12:01:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T12:20:04.157+08:00",
+    "fetchedAt": "2026-10-20T12:30:04.295+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T12:20:08.947+08:00",
+      "fetchedAt": "2026-10-20T12:30:08.255+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T12:20:09.335+08:00",
+      "fetchedAt": "2026-10-20T12:30:08.824+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T12:20:09.338+08:00",
+      "fetchedAt": "2026-10-20T12:30:08.833+08:00",
       "error": null
     }
   }
