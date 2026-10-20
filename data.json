@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T22:50:38.732+08:00",
+  "updatedAt": "2026-10-20T23:00:37.859+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T22:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T22:50:38.732+08:00",
+    "fetchedAt": "2026-10-20T23:00:37.859+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国产“听觉脑干植入体”获批上市 更多先天性耳聋患儿迎来“有声”希望",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10718188.shtml",
-        "publishedAt": "2026-10-20T22:45:43.000+08:00"
+        "title": "宋庆龄青少中心在北京举办纪念长征胜利90周年主题活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718195.shtml",
+        "publishedAt": "2026-10-20T22:57:09.000+08:00"
       },
       {
-        "title": "长征文物资源家底基本摸清",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718191.shtml",
-        "publishedAt": "2026-10-20T22:42:31.000+08:00"
+        "title": "广西健全残疾人康复服务体系 深化与东盟相关领域务实合作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10718194.shtml",
+        "publishedAt": "2026-10-20T22:55:27.000+08:00"
       },
       {
-        "title": "2026年“中国新闻传播大讲堂”启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718187.shtml",
-        "publishedAt": "2026-10-20T22:39:28.000+08:00"
+        "title": "《看见豹之地·寻护者第二季》发布 王一博呼吁保护华北豹",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718193.shtml",
+        "publishedAt": "2026-10-20T22:54:29.000+08:00"
       },
       {
-        "title": "新时代高校“城载未来”育人共同体在上海成立",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718186.shtml",
-        "publishedAt": "2026-10-20T22:38:50.000+08:00"
+        "title": "沪港机场国际航空人才培训中心在沪揭牌 2026北外滩国际航空论坛同日举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718192.shtml",
+        "publishedAt": "2026-10-20T22:52:57.000+08:00"
       },
       {
-        "title": "风雪守北疆 哈铁人护航极寒铁路通道安全畅通",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718185.shtml",
-        "publishedAt": "2026-10-20T22:38:18.000+08:00"
+        "title": "宁夏构建社保基金监管新格局 织密基金安全防护网",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718190.shtml",
+        "publishedAt": "2026-10-20T22:51:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T22:50:03.479+08:00",
+    "fetchedAt": "2026-10-20T23:00:03.123+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T22:50:37.317+08:00",
+      "fetchedAt": "2026-10-20T23:00:36.715+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T22:50:37.630+08:00",
+      "fetchedAt": "2026-10-20T23:00:36.976+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T22:50:37.638+08:00",
+      "fetchedAt": "2026-10-20T23:00:36.980+08:00",
       "error": null
     }
   }
