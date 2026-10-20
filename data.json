@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T13:50:38.214+08:00",
+  "updatedAt": "2026-10-20T14:00:09.834+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 29.3,
-    "feelsLikeC": 33.7,
+    "tempC": 29.4,
+    "feelsLikeC": 33.8,
     "humidity": 63,
-    "windKph": 1.7,
+    "windKph": 2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T13:50:38.214+08:00",
+    "observedAt": "2026-10-20T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-20T14:00:09.834+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "拜靖国神社，日本再次撕下自己的“和平伪装”（钟声）",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-20/10717747.shtml",
-        "publishedAt": "2026-10-20T13:41:11.000+08:00"
+        "title": "飒智智能CIIF 2026工博会收官",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717751.shtml",
+        "publishedAt": "2026-10-20T13:51:48.000+08:00"
       },
       {
-        "title": "法国巴黎部分地区实施宵禁",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-20/1208307.shtml",
-        "publishedAt": "2026-10-20T13:39:48.000+08:00"
+        "title": "古巴谴责美方对劳尔·卡斯特罗发出逮捕令",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717752.shtml",
+        "publishedAt": "2026-10-20T13:50:46.000+08:00"
       },
       {
-        "title": "多省份用户访问异常跳转至博彩网站 调查报告公布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717732.shtml",
-        "publishedAt": "2026-10-20T13:39:15.000+08:00"
+        "title": "中国工商银行发布中非人民币跨境使用十大举措",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717749.shtml",
+        "publishedAt": "2026-10-20T13:48:52.000+08:00"
       },
       {
-        "title": "柬埔寨大米年内出口量首破百万吨 刷新历史纪录",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10717741.shtml",
-        "publishedAt": "2026-10-20T13:37:43.000+08:00"
+        "title": "中国银行推出20项举措 为基础研究提供全周期金融支持",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717748.shtml",
+        "publishedAt": "2026-10-20T13:46:37.000+08:00"
       },
       {
-        "title": "中国最高法发布典型案例 服务保障共建“一带一路”绿色发展",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-20/10717737.shtml",
-        "publishedAt": "2026-10-20T13:35:45.000+08:00"
+        "title": "京东健康与重医附一院战略签约，共建“心理康复与医疗智能体实验室”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717746.shtml",
+        "publishedAt": "2026-10-20T13:44:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T13:50:02.754+08:00",
+    "fetchedAt": "2026-10-20T14:00:04.262+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T13:50:36.747+08:00",
+      "fetchedAt": "2026-10-20T14:00:08.691+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
+          "usedPct": 18,
           "resetAt": "2026-10-20T14:08:31.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T13:50:37.094+08:00",
+      "fetchedAt": "2026-10-20T14:00:08.962+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T13:50:37.103+08:00",
+      "fetchedAt": "2026-10-20T14:00:08.970+08:00",
       "error": null
     }
   }
