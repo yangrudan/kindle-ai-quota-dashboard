@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T10:50:39.133+08:00",
+  "updatedAt": "2026-10-20T11:00:07.586+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-10-20T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T10:50:39.133+08:00",
+    "fetchedAt": "2026-10-20T11:00:07.587+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "何以中国·当惊世界殊丨三峡工程，从“难”字破题，由“闯”字作答",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717634.shtml",
-        "publishedAt": "2026-10-20T10:37:15.000+08:00"
+        "title": "国家移民管理局破获一批重特大案件、遣返一批重点“蛇头”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717646.shtml",
+        "publishedAt": "2026-10-20T10:52:02.000+08:00"
       },
       {
-        "title": "我国发布首批136项标志性重大应用场景项目",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717636.shtml",
-        "publishedAt": "2026-10-20T10:36:55.000+08:00"
+        "title": "与特朗普立场不同，万斯拒绝为内塔尼亚胡连任背书",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717644.shtml",
+        "publishedAt": "2026-10-20T10:51:38.000+08:00"
       },
       {
-        "title": "何以中国·当惊世界殊丨大江奔涌处，读懂“何以中国”的时代答卷",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717635.shtml",
-        "publishedAt": "2026-10-20T10:34:25.000+08:00"
+        "title": "A股三大指数集体翻红，超3700只个股上涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717643.shtml",
+        "publishedAt": "2026-10-20T10:50:04.000+08:00"
       },
       {
-        "title": "今年前三季度国家铁路累计发送货物30.5亿吨",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717633.shtml",
-        "publishedAt": "2026-10-20T10:33:55.000+08:00"
+        "title": "（活力中国）从引进来到供全球：一款国际创新药的海南自贸港之旅",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717639.shtml",
+        "publishedAt": "2026-10-20T10:49:48.000+08:00"
       },
       {
-        "title": "三季度全国共侦办妨害国（边）境管理犯罪案件4432起",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717632.shtml",
-        "publishedAt": "2026-10-20T10:28:05.000+08:00"
+        "title": "U17女足世界杯：中国队3:0完胜肯尼亚迎开门红",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-20/10717637.shtml",
+        "publishedAt": "2026-10-20T10:46:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T10:50:03.940+08:00",
+    "fetchedAt": "2026-10-20T11:00:03.159+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T10:50:37.917+08:00",
+      "fetchedAt": "2026-10-20T11:00:06.517+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T10:50:38.162+08:00",
+      "fetchedAt": "2026-10-20T11:00:06.758+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T10:50:38.172+08:00",
+      "fetchedAt": "2026-10-20T11:00:06.761+08:00",
       "error": null
     }
   }
