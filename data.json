@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T15:10:09.271+08:00",
+  "updatedAt": "2026-10-20T15:20:10.172+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 29.9,
-    "feelsLikeC": 33,
-    "humidity": 59,
-    "windKph": 8.7,
+    "tempC": 29.4,
+    "feelsLikeC": 32.6,
+    "humidity": 62,
+    "windKph": 9.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T15:10:09.271+08:00",
+    "observedAt": "2026-10-20T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-20T15:20:10.172+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "港澳会客厅｜国际调解院秘书长郑若骅：香港为调解工作带来多重利好",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10717787.shtml",
-        "publishedAt": "2026-10-20T15:02:04.000+08:00"
+        "title": "特朗普对APEC会议期间举行中美俄元首会谈持积极态度 中方回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717819.shtml",
+        "publishedAt": "2026-10-20T15:14:10.000+08:00"
       },
       {
-        "title": "法国卢浮宫入口遭抗议者封锁临时闭馆",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-20/1208309.shtml",
-        "publishedAt": "2026-10-20T15:00:36.000+08:00"
+        "title": "粤湘琼逾150名消防员在广东参与森林草原灭火业务集训",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10717811.shtml",
+        "publishedAt": "2026-10-20T15:13:38.000+08:00"
       },
       {
-        "title": "王毅会见保加利亚副总理普列夫",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717798.shtml",
-        "publishedAt": "2026-10-20T15:00:23.000+08:00"
+        "title": "广东省水网调度中心揭牌成立",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10717808.shtml",
+        "publishedAt": "2026-10-20T15:13:24.000+08:00"
       },
       {
-        "title": "国家发改委：针对氢能部分环节投资较热问题正制定方案",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717791.shtml",
-        "publishedAt": "2026-10-20T14:59:57.000+08:00"
+        "title": "维也纳国家歌剧院将于2028年来华驻演",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717807.shtml",
+        "publishedAt": "2026-10-20T15:13:18.000+08:00"
       },
       {
-        "title": "港澳会客厅｜国际调解院秘书长郑若骅：调解的优势在于尊重当事人自主权",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10717788.shtml",
-        "publishedAt": "2026-10-20T14:58:23.000+08:00"
+        "title": "《广告产业发展“十五五”规划》解读",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717794.shtml",
+        "publishedAt": "2026-10-20T15:13:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T15:10:04.233+08:00",
+    "fetchedAt": "2026-10-20T15:20:03.410+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T15:10:08.140+08:00",
+      "fetchedAt": "2026-10-20T15:20:08.610+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 10,
+          "usedPct": 13,
           "resetAt": "2026-10-20T19:33:49.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T15:10:08.420+08:00",
+      "fetchedAt": "2026-10-20T15:20:08.907+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T15:10:08.424+08:00",
+      "fetchedAt": "2026-10-20T15:20:08.913+08:00",
       "error": null
     }
   }
