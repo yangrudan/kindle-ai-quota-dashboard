@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T19:40:37.760+08:00",
+  "updatedAt": "2026-10-20T19:50:08.569+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.7,
-    "feelsLikeC": 26.9,
+    "tempC": 23.6,
+    "feelsLikeC": 26.7,
     "humidity": 88,
-    "windKph": 10.6,
+    "windKph": 10.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T19:40:37.760+08:00",
+    "observedAt": "2026-10-20T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-20T19:50:08.570+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "台湾媒体人探访湖南乡村热土 记录时代发展与变迁",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718033.shtml",
-        "publishedAt": "2026-10-20T19:31:12.000+08:00"
+        "title": "甘肃千余件丝路珍品文物获展示“新天地”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718048.shtml",
+        "publishedAt": "2026-10-20T19:45:31.000+08:00"
       },
       {
-        "title": "走进中亚地区首家鲁班工坊 与塔吉克斯坦师生同上“技能课”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718027.shtml",
-        "publishedAt": "2026-10-20T19:24:40.000+08:00"
+        "title": "四川漫剧产业创新伙伴大会举行 助力巴蜀文化数字“出海”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718043.shtml",
+        "publishedAt": "2026-10-20T19:44:55.000+08:00"
       },
       {
-        "title": "台湾拟巨资采购美国天然气引争议 舆论指忽视商业可行性",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718031.shtml",
-        "publishedAt": "2026-10-20T19:24:08.000+08:00"
+        "title": "9月份中国民航旅客运输量同比增长2.6%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718044.shtml",
+        "publishedAt": "2026-10-20T19:44:33.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）“北魏重镇”上新 冷凉蔬菜端上海外餐桌",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718032.shtml",
-        "publishedAt": "2026-10-20T19:24:00.000+08:00"
+        "title": "北外滩国际航运论坛开幕 超90项成果赋能航运业韧性增长",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718045.shtml",
+        "publishedAt": "2026-10-20T19:44:11.000+08:00"
       },
       {
-        "title": "草原小城新市民安家记",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718030.shtml",
-        "publishedAt": "2026-10-20T19:22:00.000+08:00"
+        "title": "中老泰图定快速班列增发郑州直达泰国马达普",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10718046.shtml",
+        "publishedAt": "2026-10-20T19:44:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T19:40:03.336+08:00",
+    "fetchedAt": "2026-10-20T19:50:03.303+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T19:40:09.076+08:00",
+      "fetchedAt": "2026-10-20T19:50:07.398+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-21T00:40:37.000+08:00"
+          "resetAt": "2026-10-21T00:45:58.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T19:40:36.731+08:00",
+      "fetchedAt": "2026-10-20T19:50:07.709+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T19:40:36.740+08:00",
+      "fetchedAt": "2026-10-20T19:50:07.718+08:00",
       "error": null
     }
   }
