@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T21:30:09.609+08:00",
+  "updatedAt": "2026-10-20T21:40:08.289+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T21:30:09.609+08:00",
+    "fetchedAt": "2026-10-20T21:40:08.290+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东农村地区“一老一小”流感疫苗免费接种开打",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718125.shtml",
-        "publishedAt": "2026-10-20T21:19:56.000+08:00"
+        "title": "商务部就美国土安全部发布针对中国企业的联邦采购排除和移除命令通知答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718136.shtml",
+        "publishedAt": "2026-10-20T21:36:01.000+08:00"
       },
       {
-        "title": "青藏集团公司今年货物发送量同比上升8.3%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718124.shtml",
-        "publishedAt": "2026-10-20T21:18:18.000+08:00"
+        "title": "河南商丘：冲刺四季度 企业生产忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718115.shtml",
+        "publishedAt": "2026-10-20T21:35:41.000+08:00"
       },
       {
-        "title": "今年1-9月海口海关签发原产地证书量同比增长98.29%",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10718123.shtml",
-        "publishedAt": "2026-10-20T21:18:00.000+08:00"
+        "title": "银川河湖长制推行十年：塞上湖城建成“15分钟亲水圈”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718129.shtml",
+        "publishedAt": "2026-10-20T21:32:19.000+08:00"
       },
       {
-        "title": "中国与阿塞拜疆青年在新疆赴“青春之约”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718097.shtml",
-        "publishedAt": "2026-10-20T21:17:18.000+08:00"
+        "title": "青海丹噶尔皮绣：针尖绣出皮上艺术",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718112.shtml",
+        "publishedAt": "2026-10-20T21:31:31.000+08:00"
       },
       {
-        "title": "2026年名古屋亚残运会：吴晴夺得女子F33级铅球金牌",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-20/10718122.shtml",
-        "publishedAt": "2026-10-20T21:17:10.000+08:00"
+        "title": "从匠心手作到智能好物 132件好物角逐2026浙江特色伴手礼",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718133.shtml",
+        "publishedAt": "2026-10-20T21:31:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T21:30:04.682+08:00",
+    "fetchedAt": "2026-10-20T21:40:03.104+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T21:30:08.206+08:00",
+      "fetchedAt": "2026-10-20T21:40:06.937+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T21:30:08.478+08:00",
+      "fetchedAt": "2026-10-20T21:40:07.257+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T21:30:08.487+08:00",
+      "fetchedAt": "2026-10-20T21:40:07.263+08:00",
       "error": null
     }
   }
