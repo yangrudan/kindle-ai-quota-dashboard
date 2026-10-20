@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T21:10:08.686+08:00",
+  "updatedAt": "2026-10-20T21:20:18.202+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 22.1,
-    "feelsLikeC": 24.2,
-    "humidity": 89,
-    "windKph": 13.2,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 21.9,
+    "feelsLikeC": 23.9,
+    "humidity": 90,
+    "windKph": 12.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T21:10:08.686+08:00",
+    "observedAt": "2026-10-20T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-20T21:20:18.202+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南建成国内规模最大咖啡资源圃 保存1500余份种质资源",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718111.shtml",
-        "publishedAt": "2026-10-20T21:06:01.000+08:00"
+        "title": "湖南永州开放34个AI应用场景 打造绿能智算产业高地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718121.shtml",
+        "publishedAt": "2026-10-20T21:16:14.000+08:00"
       },
       {
-        "title": "茶韵静心融山海 福建宁德解锁山海茶旅居新体验",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718109.shtml",
-        "publishedAt": "2026-10-20T21:03:57.000+08:00"
+        "title": "足球世界杯效应持续 9月中国彩票销售大涨27.3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718103.shtml",
+        "publishedAt": "2026-10-20T21:15:42.000+08:00"
       },
       {
-        "title": "应用场景项目以点带面撬动改革全局",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718108.shtml",
-        "publishedAt": "2026-10-20T21:03:55.000+08:00"
+        "title": "苏州阳澄湖大闸蟹近期价格保持稳定",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718099.shtml",
+        "publishedAt": "2026-10-20T21:15:00.000+08:00"
       },
       {
-        "title": "伦敦往返重庆航线推介会在伦敦召开",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10718092.shtml",
-        "publishedAt": "2026-10-20T21:03:03.000+08:00"
+        "title": "宁夏地级城市建成区13条黑臭水体全部消除 未发生返黑返臭",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718110.shtml",
+        "publishedAt": "2026-10-20T21:14:18.000+08:00"
       },
       {
-        "title": "“化工城”吉林推动能源转型 绘就绿色低碳发展图景",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718106.shtml",
-        "publishedAt": "2026-10-20T21:02:45.000+08:00"
+        "title": "2026中欧企业家青岛论坛将举办 首次聚焦国企、民企、外企协同发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718113.shtml",
+        "publishedAt": "2026-10-20T21:14:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T21:10:03.134+08:00",
+    "fetchedAt": "2026-10-20T21:20:03.559+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T21:10:07.494+08:00",
+      "fetchedAt": "2026-10-20T21:20:12.757+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T21:10:07.791+08:00",
+      "fetchedAt": "2026-10-20T21:20:13.044+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T21:10:07.795+08:00",
+      "fetchedAt": "2026-10-20T21:20:13.054+08:00",
       "error": null
     }
   }
