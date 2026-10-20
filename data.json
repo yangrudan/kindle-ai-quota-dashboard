@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:30:08.317+08:00",
+  "updatedAt": "2026-10-20T18:40:09.276+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T18:30:08.317+08:00",
+    "fetchedAt": "2026-10-20T18:40:09.276+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山东“八美共建”推进美丽中国先行区建设 构建全域美丽新格局",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717975.shtml",
-        "publishedAt": "2026-10-20T18:23:14.000+08:00"
+        "title": "新华社权威快报｜国家数据集团成立",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717985.shtml",
+        "publishedAt": "2026-10-20T18:34:41.000+08:00"
       },
       {
-        "title": "企业出海如何“扬帆远航” 杭州织密侨助出海协作网",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-20/10717976.shtml",
-        "publishedAt": "2026-10-20T18:23:08.000+08:00"
+        "title": "杨小伟一审获刑12年 曾任国家广播电视总局副局长等职",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717982.shtml",
+        "publishedAt": "2026-10-20T18:34:11.000+08:00"
       },
       {
-        "title": "重庆：半山崖线上的悬崖咖啡馆受青睐 游客崖壁上体验“8D魔幻”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10717971.shtml",
-        "publishedAt": "2026-10-20T18:22:14.000+08:00"
+        "title": "受台风“蔷琵”影响 两条“小三通”客运航线连续四天停航",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717980.shtml",
+        "publishedAt": "2026-10-20T18:30:45.000+08:00"
       },
       {
-        "title": "2026中国品牌出海博览会在海南海口启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10717969.shtml",
-        "publishedAt": "2026-10-20T18:21:28.000+08:00"
+        "title": "沪港首个“人才+出海”双站发布年度赋能计划",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10717979.shtml",
+        "publishedAt": "2026-10-20T18:29:53.000+08:00"
       },
       {
-        "title": "“一带一路”数学学科联盟会议在京举办",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-20/10717972.shtml",
-        "publishedAt": "2026-10-20T18:07:42.000+08:00"
+        "title": "住建部发布《历史文化名城（镇、村）与历史建筑保护传承“十五五”规划》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717981.shtml",
+        "publishedAt": "2026-10-20T18:29:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T18:30:03.770+08:00",
+    "fetchedAt": "2026-10-20T18:40:04.333+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T18:30:07.189+08:00",
+      "fetchedAt": "2026-10-20T18:40:08.027+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T18:30:07.482+08:00",
+      "fetchedAt": "2026-10-20T18:40:08.330+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T18:30:07.488+08:00",
+      "fetchedAt": "2026-10-20T18:40:08.339+08:00",
       "error": null
     }
   }
