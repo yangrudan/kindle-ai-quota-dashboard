@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T17:30:10.868+08:00",
+  "updatedAt": "2026-10-20T17:40:38.112+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T17:30:10.869+08:00",
+    "fetchedAt": "2026-10-20T17:40:38.112+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新疆兵团特色山药进入采收期",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717942.shtml",
+        "publishedAt": "2026-10-20T17:29:08.000+08:00"
+      },
       {
         "title": "广东省湛江市人大常委会原副主任陈云被开除党籍",
         "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717931.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "亚美尼亚学者：理解朱熹思想可更好促进文明交流互鉴",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717921.shtml",
         "publishedAt": "2026-10-20T17:19:13.000+08:00"
-      },
-      {
-        "title": "乌总统喊话美方：需要“星链”“星盾”更高速运行",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717913.shtml",
-        "publishedAt": "2026-10-20T17:17:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T17:30:04.083+08:00",
+    "fetchedAt": "2026-10-20T17:40:02.876+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T17:30:09.371+08:00",
+      "fetchedAt": "2026-10-20T17:40:36.841+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T17:30:09.784+08:00",
+      "fetchedAt": "2026-10-20T17:40:37.086+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T17:30:09.795+08:00",
+      "fetchedAt": "2026-10-20T17:40:37.096+08:00",
       "error": null
     }
   }
