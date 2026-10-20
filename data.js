@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T08:00:08.949+08:00",
+  "updatedAt": "2026-10-20T08:10:09.043+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.8,
-    "feelsLikeC": 26.8,
-    "humidity": 89,
-    "windKph": 1.7,
+    "tempC": 23,
+    "feelsLikeC": 27.1,
+    "humidity": 88,
+    "windKph": 1.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T08:00:08.949+08:00",
+    "observedAt": "2026-10-20T08:00:00.000+08:00",
+    "fetchedAt": "2026-10-20T08:10:09.043+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "颈椎牵引器能否“拯救低头族”？颈椎不舒服该如何缓解？医生解答",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717572.shtml",
+        "publishedAt": "2026-10-20T08:04:33.000+08:00"
+      },
+      {
+        "title": "美国战略石油储备原油库存降至1982年以来最低",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717571.shtml",
+        "publishedAt": "2026-10-20T08:03:07.000+08:00"
+      },
+      {
+        "title": "膝盖的“隐形杀手”不是跑步而是它！很多人天天在做",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717570.shtml",
+        "publishedAt": "2026-10-20T08:02:31.000+08:00"
+      },
+      {
+        "title": "泽连斯基：美国推迟对乌武器交付等决定“难以解释”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717569.shtml",
+        "publishedAt": "2026-10-20T08:02:01.000+08:00"
+      },
+      {
         "title": "打破“唯论文”标尺！5个专业推行用实践成果申请硕博学位",
         "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717568.shtml",
         "publishedAt": "2026-10-20T07:54:36.000+08:00"
-      },
-      {
-        "title": "以场带产 产城融合 商业航天发展持续提速",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717567.shtml",
-        "publishedAt": "2026-10-20T07:50:50.000+08:00"
-      },
-      {
-        "title": "减脂餐的“洋食材”成土特产",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717566.shtml",
-        "publishedAt": "2026-10-20T07:45:26.000+08:00"
-      },
-      {
-        "title": "智慧养老何时真正“落到老年人床头”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717564.shtml",
-        "publishedAt": "2026-10-20T07:40:53.000+08:00"
-      },
-      {
-        "title": "CBA常规赛：北京控股队负于上海久事队",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-20/1208276.shtml",
-        "publishedAt": "2026-10-20T07:37:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T08:00:03.213+08:00",
+    "fetchedAt": "2026-10-20T08:10:04.119+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T08:00:07.346+08:00",
+      "fetchedAt": "2026-10-20T08:10:07.822+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-20T13:00:08.000+08:00"
+          "resetAt": "2026-10-20T13:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T08:00:07.817+08:00",
+      "fetchedAt": "2026-10-20T08:10:08.110+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T08:00:07.826+08:00",
+      "fetchedAt": "2026-10-20T08:10:08.120+08:00",
       "error": null
     }
   }
