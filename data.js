@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T11:40:09.261+08:00",
+  "updatedAt": "2026-10-20T11:50:08.690+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.1,
-    "feelsLikeC": 31.1,
-    "humidity": 71,
-    "windKph": 4,
+    "tempC": 27.4,
+    "feelsLikeC": 31.4,
+    "humidity": 70,
+    "windKph": 3.8,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-20T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T11:40:09.261+08:00",
+    "observedAt": "2026-10-20T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-20T11:50:08.691+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "在前滩，滨江舞台奏响城市乐章",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717691.shtml",
+        "publishedAt": "2026-10-20T11:42:23.000+08:00"
+      },
+      {
+        "title": "以明晰程序稳定出口预期 持续提升出口管制效能",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717689.shtml",
+        "publishedAt": "2026-10-20T11:38:00.000+08:00"
+      },
       {
         "title": "我国发布首批136项标志性重大应用场景项目",
         "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717658.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（同心同行长征路）23年前他弃医从戎，如今已安全保障飞行1800余场次",
         "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717693.shtml",
         "publishedAt": "2026-10-20T11:33:30.000+08:00"
-      },
-      {
-        "title": "国家发展改革委：推动存量政策与增量政策协同发力",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717678.shtml",
-        "publishedAt": "2026-10-20T11:30:24.000+08:00"
-      },
-      {
-        "title": "（同心同行长征路）从木船到无人装备：“大渡河连”的“第一船”驶向新战场",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717687.shtml",
-        "publishedAt": "2026-10-20T11:28:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T11:40:03.151+08:00",
+    "fetchedAt": "2026-10-20T11:50:02.925+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T11:40:08.052+08:00",
+      "fetchedAt": "2026-10-20T11:50:07.113+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
+          "usedPct": 15,
           "resetAt": "2026-10-20T14:08:31.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T11:40:08.303+08:00",
+      "fetchedAt": "2026-10-20T11:50:07.569+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T11:40:08.313+08:00",
+      "fetchedAt": "2026-10-20T11:50:07.578+08:00",
       "error": null
     }
   }
