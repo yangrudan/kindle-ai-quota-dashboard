@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T11:00:07.586+08:00",
+  "updatedAt": "2026-10-20T11:10:09.137+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.1,
-    "feelsLikeC": 30,
-    "humidity": 75,
-    "windKph": 3.6,
+    "tempC": 26.4,
+    "feelsLikeC": 30.4,
+    "humidity": 74,
+    "windKph": 3.8,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-20T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T11:00:07.587+08:00",
+    "observedAt": "2026-10-20T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-20T11:10:09.137+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国家移民管理局破获一批重特大案件、遣返一批重点“蛇头”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717646.shtml",
-        "publishedAt": "2026-10-20T10:52:02.000+08:00"
+        "title": "（活力中国调研行）政策红利释放 海口综保区产业发展添活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717642.shtml",
+        "publishedAt": "2026-10-20T11:05:51.000+08:00"
       },
       {
-        "title": "与特朗普立场不同，万斯拒绝为内塔尼亚胡连任背书",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717644.shtml",
-        "publishedAt": "2026-10-20T10:51:38.000+08:00"
+        "title": "王毅：中国和欧盟完全可以通过对话协商妥处分歧",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717638.shtml",
+        "publishedAt": "2026-10-20T11:03:39.000+08:00"
       },
       {
-        "title": "A股三大指数集体翻红，超3700只个股上涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717643.shtml",
-        "publishedAt": "2026-10-20T10:50:04.000+08:00"
+        "title": "出行请注意！新疆两条自驾公路冬季通行调整",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717656.shtml",
+        "publishedAt": "2026-10-20T11:03:05.000+08:00"
       },
       {
-        "title": "（活力中国）从引进来到供全球：一款国际创新药的海南自贸港之旅",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717639.shtml",
-        "publishedAt": "2026-10-20T10:49:48.000+08:00"
+        "title": "三季度1.92亿人次出入境 免签入境外国人同比增长24.1%",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717650.shtml",
+        "publishedAt": "2026-10-20T11:02:03.000+08:00"
       },
       {
-        "title": "U17女足世界杯：中国队3:0完胜肯尼亚迎开门红",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-20/10717637.shtml",
-        "publishedAt": "2026-10-20T10:46:58.000+08:00"
+        "title": "重庆武隆“十五五”：让绿水青山持续转化为发展成效",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717641.shtml",
+        "publishedAt": "2026-10-20T10:59:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T11:00:03.159+08:00",
+    "fetchedAt": "2026-10-20T11:10:02.852+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T11:00:06.517+08:00",
+      "fetchedAt": "2026-10-20T11:10:07.449+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-10-20T14:08:31.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T11:00:06.758+08:00",
+      "fetchedAt": "2026-10-20T11:10:07.688+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T11:00:06.761+08:00",
+      "fetchedAt": "2026-10-20T11:10:07.694+08:00",
       "error": null
     }
   }
