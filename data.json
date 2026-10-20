@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-21T06:40:08.448+08:00",
+  "updatedAt": "2026-10-21T06:50:37.996+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.8,
-    "feelsLikeC": 17.9,
+    "tempC": 17.7,
+    "feelsLikeC": 17.8,
     "humidity": 96,
     "windKph": 16,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T06:40:08.448+08:00",
+    "observedAt": "2026-10-21T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-21T06:50:37.996+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月21日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-21/10718227.shtml",
+        "publishedAt": "2026-10-21T06:42:39.000+08:00"
+      },
+      {
+        "title": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718226.shtml",
+        "publishedAt": "2026-10-21T06:32:30.000+08:00"
+      },
       {
         "title": "巴黎等多个法国城市继续实施局部宵禁",
         "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718225.shtml",
@@ -33,19 +43,9 @@
         "title": "罗马尼亚新一届政府宣誓就职",
         "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718223.shtml",
         "publishedAt": "2026-10-21T06:01:21.000+08:00"
-      },
-      {
-        "title": "胡塞武装称过去24小时也门遭沙特空袭93次",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718222.shtml",
-        "publishedAt": "2026-10-21T05:58:41.000+08:00"
-      },
-      {
-        "title": "乌克兰问题会谈在挪威举行 美特使将赴俄转达相关内容",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718221.shtml",
-        "publishedAt": "2026-10-21T05:56:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T06:40:02.945+08:00",
+    "fetchedAt": "2026-10-21T06:50:03.508+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T06:40:07.286+08:00",
+      "fetchedAt": "2026-10-21T06:50:36.678+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-21T11:40:08.000+08:00"
+          "resetAt": "2026-10-21T11:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T06:40:07.521+08:00",
+      "fetchedAt": "2026-10-21T06:50:36.990+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T06:40:07.530+08:00",
+      "fetchedAt": "2026-10-21T06:50:36.999+08:00",
       "error": null
     }
   }
