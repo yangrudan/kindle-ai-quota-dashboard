@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T15:50:08.201+08:00",
+  "updatedAt": "2026-10-20T16:00:11.262+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 28.1,
-    "feelsLikeC": 31.8,
-    "humidity": 70,
-    "windKph": 9.2,
+    "tempC": 27.6,
+    "feelsLikeC": 31.4,
+    "humidity": 74,
+    "windKph": 9.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T15:50:08.201+08:00",
+    "observedAt": "2026-10-20T16:00:00.000+08:00",
+    "fetchedAt": "2026-10-20T16:00:11.263+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（长征胜利90周年）四川松潘：一位羌族土司的红色抉择与民族团结路",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717851.shtml",
+        "publishedAt": "2026-10-20T15:51:50.000+08:00"
+      },
       {
         "title": "韩国外交部发言人：将撤回驻乌克兰使馆部分人员",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717849.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "在闽宁协作中铸牢中华民族共同体意识",
         "url": "https://www.chinanews.com.cn/txy/2026/10-20/10717843.shtml",
         "publishedAt": "2026-10-20T15:37:53.000+08:00"
-      },
-      {
-        "title": "加快发展新一代智能制造 工信部明确四方面重点举措",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717842.shtml",
-        "publishedAt": "2026-10-20T15:35:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T15:50:03.224+08:00",
+    "fetchedAt": "2026-10-20T16:00:04.303+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T15:50:06.940+08:00",
+      "fetchedAt": "2026-10-20T16:00:08.554+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T15:50:07.220+08:00",
+      "fetchedAt": "2026-10-20T16:00:08.820+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T15:50:07.226+08:00",
+      "fetchedAt": "2026-10-20T16:00:08.825+08:00",
       "error": null
     }
   }
