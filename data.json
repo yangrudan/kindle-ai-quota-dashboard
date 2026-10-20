@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T11:10:09.137+08:00",
+  "updatedAt": "2026-10-20T11:20:08.630+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.4,
-    "feelsLikeC": 30.4,
-    "humidity": 74,
-    "windKph": 3.8,
+    "tempC": 26.8,
+    "feelsLikeC": 30.7,
+    "humidity": 72,
+    "windKph": 4,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-20T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T11:10:09.137+08:00",
+    "observedAt": "2026-10-20T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-20T11:20:08.630+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（活力中国调研行）政策红利释放 海口综保区产业发展添活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717642.shtml",
-        "publishedAt": "2026-10-20T11:05:51.000+08:00"
+        "title": "辽宁慈善力量助孤困儿童向阳成长",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717659.shtml",
+        "publishedAt": "2026-10-20T11:11:25.000+08:00"
       },
       {
-        "title": "王毅：中国和欧盟完全可以通过对话协商妥处分歧",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717638.shtml",
-        "publishedAt": "2026-10-20T11:03:39.000+08:00"
+        "title": "张健：三千余起救援淬炼出的“实战型尖兵”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717651.shtml",
+        "publishedAt": "2026-10-20T11:10:17.000+08:00"
       },
       {
-        "title": "出行请注意！新疆两条自驾公路冬季通行调整",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717656.shtml",
-        "publishedAt": "2026-10-20T11:03:05.000+08:00"
+        "title": "机器人手术技术架起交流桥梁 24名中亚医生赴四川“取经”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717648.shtml",
+        "publishedAt": "2026-10-20T11:09:09.000+08:00"
       },
       {
-        "title": "三季度1.92亿人次出入境 免签入境外国人同比增长24.1%",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717650.shtml",
-        "publishedAt": "2026-10-20T11:02:03.000+08:00"
+        "title": "何立峰会见金融监管总局国际咨询委员会委员时指出 中国将继续扩大金融高水平开放 加快建设金融强国",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717664.shtml",
+        "publishedAt": "2026-10-20T11:08:23.000+08:00"
       },
       {
-        "title": "重庆武隆“十五五”：让绿水青山持续转化为发展成效",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717641.shtml",
-        "publishedAt": "2026-10-20T10:59:50.000+08:00"
+        "title": "（活力中国调研行）海南自贸港打造国际商事纠纷解决“优选地”",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-20/10717645.shtml",
+        "publishedAt": "2026-10-20T11:07:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T11:10:02.852+08:00",
+    "fetchedAt": "2026-10-20T11:20:02.656+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T11:10:07.449+08:00",
+      "fetchedAt": "2026-10-20T11:20:07.202+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 6,
           "resetAt": "2026-10-20T14:08:31.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T11:10:07.688+08:00",
+      "fetchedAt": "2026-10-20T11:20:07.593+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T11:10:07.694+08:00",
+      "fetchedAt": "2026-10-20T11:20:07.598+08:00",
       "error": null
     }
   }
