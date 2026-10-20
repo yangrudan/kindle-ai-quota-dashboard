@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T20:00:10.520+08:00",
+  "updatedAt": "2026-10-20T20:10:09.591+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T20:00:10.520+08:00",
+    "fetchedAt": "2026-10-20T20:10:09.591+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王沪宁出席中央社会主义学院建院70周年庆祝大会并讲话",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-20/1208352.shtml",
+        "publishedAt": "2026-10-20T20:00:49.000+08:00"
+      },
+      {
+        "title": "沈阳大东“6·17”较大道路交通事故调查报告公布",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718054.shtml",
+        "publishedAt": "2026-10-20T19:59:04.000+08:00"
+      },
       {
         "title": "东西问丨良渚发现90周年：读懂文明多样比固守单一定论更要紧",
         "url": "https://www.chinanews.com.cn/dxw/2026/10-20/10718049.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "甘肃千余件丝路珍品文物获展示“新天地”",
         "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718048.shtml",
         "publishedAt": "2026-10-20T19:45:31.000+08:00"
-      },
-      {
-        "title": "四川漫剧产业创新伙伴大会举行 助力巴蜀文化数字“出海”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718043.shtml",
-        "publishedAt": "2026-10-20T19:44:55.000+08:00"
-      },
-      {
-        "title": "9月份中国民航旅客运输量同比增长2.6%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718044.shtml",
-        "publishedAt": "2026-10-20T19:44:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T20:00:05.357+08:00",
+    "fetchedAt": "2026-10-20T20:10:04.170+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T20:00:09.441+08:00",
+      "fetchedAt": "2026-10-20T20:10:08.402+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T20:00:09.702+08:00",
+      "fetchedAt": "2026-10-20T20:10:08.667+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T20:00:09.710+08:00",
+      "fetchedAt": "2026-10-20T20:10:08.671+08:00",
       "error": null
     }
   }
