@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T07:20:08.947+08:00",
+  "updatedAt": "2026-10-21T07:30:07.919+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T07:20:08.947+08:00",
+    "fetchedAt": "2026-10-21T07:30:07.920+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "求职者，警惕“央国企内推”骗局！",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718230.shtml",
+        "publishedAt": "2026-10-21T07:27:49.000+08:00"
+      },
+      {
+        "title": "CBA常规赛：北京首钢队战胜广东东阳光队",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-21/1208390.shtml",
+        "publishedAt": "2026-10-21T07:27:23.000+08:00"
+      },
       {
         "title": "以军宣布：打死哈马斯安全机构高级成员",
         "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718228.shtml",
@@ -33,19 +43,9 @@
         "title": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
         "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718226.shtml",
         "publishedAt": "2026-10-21T06:32:30.000+08:00"
-      },
-      {
-        "title": "巴黎等多个法国城市继续实施局部宵禁",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718225.shtml",
-        "publishedAt": "2026-10-21T06:29:36.000+08:00"
-      },
-      {
-        "title": "头发是早上洗还是晚上洗好？这些伤发行为，真的别再做了→",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-21/10718224.shtml",
-        "publishedAt": "2026-10-21T06:23:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T07:20:03.774+08:00",
+    "fetchedAt": "2026-10-21T07:30:03.064+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T07:20:07.714+08:00",
+      "fetchedAt": "2026-10-21T07:30:06.743+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-21T12:20:08.000+08:00"
+          "resetAt": "2026-10-21T12:30:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T07:20:07.989+08:00",
+      "fetchedAt": "2026-10-21T07:30:07.090+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T07:20:07.992+08:00",
+      "fetchedAt": "2026-10-21T07:30:07.096+08:00",
       "error": null
     }
   }
