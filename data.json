@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T17:10:13.613+08:00",
+  "updatedAt": "2026-10-20T17:20:09.761+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 26.5,
-    "feelsLikeC": 29.4,
-    "humidity": 77,
-    "windKph": 13.9,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 26.1,
+    "feelsLikeC": 29,
+    "humidity": 78,
+    "windKph": 14.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T17:10:13.613+08:00",
+    "observedAt": "2026-10-20T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-20T17:20:09.761+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "辽宁面向全球旅行商推广入境游 共商文旅合作路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717920.shtml",
-        "publishedAt": "2026-10-20T17:03:14.000+08:00"
+        "title": "冬春航季将启 重庆航空拟新开、加密及恢复近20条航线",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717934.shtml",
+        "publishedAt": "2026-10-20T17:15:19.000+08:00"
       },
       {
-        "title": "农业农村部部署“十五五”时期深入实施种业振兴行动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717904.shtml",
-        "publishedAt": "2026-10-20T17:03:10.000+08:00"
+        "title": "吉林长春：老工业遗址秋景如画引游人",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10717932.shtml",
+        "publishedAt": "2026-10-20T17:14:59.000+08:00"
       },
       {
-        "title": "枣庄市薛城区：“三维发力”推动多党合作事业高质量发展",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-20/10717918.shtml",
-        "publishedAt": "2026-10-20T17:02:56.000+08:00"
+        "title": "微短剧、AI点亮中国东盟视听交流新图景",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10717933.shtml",
+        "publishedAt": "2026-10-20T17:14:45.000+08:00"
       },
       {
-        "title": "解锁莱阳村歌大赛中的统战元素",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-20/10717917.shtml",
-        "publishedAt": "2026-10-20T17:01:40.000+08:00"
+        "title": "贵州省交通运输厅原一级巡视员章征宇被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717930.shtml",
+        "publishedAt": "2026-10-20T17:14:15.000+08:00"
       },
       {
-        "title": "非洲国家代表在福建泉州开展世界遗产能力建设培训",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717915.shtml",
-        "publishedAt": "2026-10-20T17:01:36.000+08:00"
+        "title": "贵州省监狱管理局原党委委员、副局长吴道明被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717929.shtml",
+        "publishedAt": "2026-10-20T17:13:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T17:10:05.953+08:00",
+    "fetchedAt": "2026-10-20T17:20:04.338+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T17:10:12.041+08:00",
+      "fetchedAt": "2026-10-20T17:20:08.513+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T17:10:12.320+08:00",
+      "fetchedAt": "2026-10-20T17:20:08.797+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T17:10:12.326+08:00",
+      "fetchedAt": "2026-10-20T17:20:08.801+08:00",
       "error": null
     }
   }
