@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T14:40:14.919+08:00",
+  "updatedAt": "2026-10-20T14:50:08.875+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 29.1,
-    "feelsLikeC": 33.3,
-    "humidity": 64,
-    "windKph": 3.4,
+    "tempC": 28.9,
+    "feelsLikeC": 32.9,
+    "humidity": 65,
+    "windKph": 4.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T14:40:14.919+08:00",
+    "observedAt": "2026-10-20T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-20T14:50:08.875+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "韩国外交部：将撤回驻乌克兰使馆部分工作人员",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717786.shtml",
+        "publishedAt": "2026-10-20T14:42:04.000+08:00"
+      },
+      {
+        "title": "10月20日“农产品批发价格200指数”比昨天下降0.55个点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717783.shtml",
+        "publishedAt": "2026-10-20T14:41:56.000+08:00"
+      },
+      {
+        "title": "编故事引流借机带货 “AI老人”卖惨只为消费老年人",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717784.shtml",
+        "publishedAt": "2026-10-20T14:38:48.000+08:00"
+      },
+      {
+        "title": "聚焦秋季森林草原防火关键期 黑龙江消防救援机动总队开展清源专项行动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717781.shtml",
+        "publishedAt": "2026-10-20T14:34:30.000+08:00"
+      },
+      {
         "title": "国家发展改革委：将以更大力度更实举措有效扩大内需",
         "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717764.shtml",
         "publishedAt": "2026-10-20T14:31:56.000+08:00"
-      },
-      {
-        "title": "港澳会客厅｜郑若骅：国际调解院落户香港一年，“东方智慧”如何化解国际争端？",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10717776.shtml",
-        "publishedAt": "2026-10-20T14:29:26.000+08:00"
-      },
-      {
-        "title": "江苏扬州网络餐饮食品安全治理见成效 民众满意度提升至93.87%",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717778.shtml",
-        "publishedAt": "2026-10-20T14:28:56.000+08:00"
-      },
-      {
-        "title": "国家发展改革委：发展新质生产力坚决避免“一哄而上”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717770.shtml",
-        "publishedAt": "2026-10-20T14:28:34.000+08:00"
-      },
-      {
-        "title": "中国官方：将进一步规范博物馆业务管理",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717779.shtml",
-        "publishedAt": "2026-10-20T14:27:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T14:40:03.450+08:00",
+    "fetchedAt": "2026-10-20T14:50:03.637+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T14:40:12.489+08:00",
+      "fetchedAt": "2026-10-20T14:50:07.712+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 5,
           "resetAt": "2026-10-20T19:33:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T14:40:12.798+08:00",
+      "fetchedAt": "2026-10-20T14:50:08.009+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T14:40:12.805+08:00",
+      "fetchedAt": "2026-10-20T14:50:08.019+08:00",
       "error": null
     }
   }
