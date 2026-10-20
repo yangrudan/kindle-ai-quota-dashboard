@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T14:00:09.834+08:00",
+  "updatedAt": "2026-10-20T14:10:07.867+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T14:00:09.834+08:00",
+    "fetchedAt": "2026-10-20T14:10:07.867+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新建重庆至万州高速铁路启动联调联试",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717750.shtml",
+        "publishedAt": "2026-10-20T13:59:50.000+08:00"
+      },
       {
         "title": "飒智智能CIIF 2026工博会收官",
         "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717751.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国银行推出20项举措 为基础研究提供全周期金融支持",
         "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717748.shtml",
         "publishedAt": "2026-10-20T13:46:37.000+08:00"
-      },
-      {
-        "title": "京东健康与重医附一院战略签约，共建“心理康复与医疗智能体实验室”",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717746.shtml",
-        "publishedAt": "2026-10-20T13:44:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T14:00:04.262+08:00",
+    "fetchedAt": "2026-10-20T14:10:03.125+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T14:00:08.691+08:00",
+      "fetchedAt": "2026-10-20T14:10:06.718+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
-          "resetAt": "2026-10-20T14:08:31.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-10-20T19:08:48.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 40,
+          "usedPct": 42,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T14:00:08.962+08:00",
+      "fetchedAt": "2026-10-20T14:10:07.006+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T14:00:08.970+08:00",
+      "fetchedAt": "2026-10-20T14:10:07.015+08:00",
       "error": null
     }
   }
