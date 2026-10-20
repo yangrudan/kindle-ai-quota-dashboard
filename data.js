@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T16:00:11.262+08:00",
+  "updatedAt": "2026-10-20T16:10:38.748+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T16:00:11.263+08:00",
+    "fetchedAt": "2026-10-20T16:10:38.748+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（长征胜利90周年）四川松潘：一位羌族土司的红色抉择与民族团结路",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717851.shtml",
-        "publishedAt": "2026-10-20T15:51:50.000+08:00"
+        "title": "A股收评：超3700只个股上涨，沪指收涨，深指、创业板指收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717864.shtml",
+        "publishedAt": "2026-10-20T16:03:47.000+08:00"
       },
       {
-        "title": "韩国外交部发言人：将撤回驻乌克兰使馆部分人员",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717849.shtml",
-        "publishedAt": "2026-10-20T15:46:30.000+08:00"
+        "title": "工信部：1—8月规上工业中小企业利润总额同比增长13.8%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717850.shtml",
+        "publishedAt": "2026-10-20T16:03:45.000+08:00"
       },
       {
-        "title": "4.65万亿！前三季度深圳外贸规模何以超过去年全年？",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10717846.shtml",
-        "publishedAt": "2026-10-20T15:42:40.000+08:00"
+        "title": "外交部：经贸问题上的分歧完全可通过对话加以解决，不应影响中欧关系大局",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717838.shtml",
+        "publishedAt": "2026-10-20T16:01:41.000+08:00"
       },
       {
-        "title": "一声哨响，千年盐田“热”起来",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-20/10717845.shtml",
-        "publishedAt": "2026-10-20T15:41:46.000+08:00"
+        "title": "30岁新疆小伙西安街头打馕爆火！10元3个，用料扎实，有人排队六七个小时等候，网友纷纷劝涨价",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717857.shtml",
+        "publishedAt": "2026-10-20T15:59:49.000+08:00"
       },
       {
-        "title": "在闽宁协作中铸牢中华民族共同体意识",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-20/10717843.shtml",
-        "publishedAt": "2026-10-20T15:37:53.000+08:00"
+        "title": "工信部：前三季度我国获批创新药中国产占比达80%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717847.shtml",
+        "publishedAt": "2026-10-20T15:58:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T16:00:04.303+08:00",
+    "fetchedAt": "2026-10-20T16:10:03.497+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T16:00:08.554+08:00",
+      "fetchedAt": "2026-10-20T16:10:37.485+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 18,
           "resetAt": "2026-10-20T19:33:49.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T16:00:08.820+08:00",
+      "fetchedAt": "2026-10-20T16:10:37.742+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T16:00:08.825+08:00",
+      "fetchedAt": "2026-10-20T16:10:37.751+08:00",
       "error": null
     }
   }
