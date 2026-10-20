@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T18:50:09.571+08:00",
+  "updatedAt": "2026-10-20T19:00:09.893+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 24,
-    "feelsLikeC": 27.1,
+    "tempC": 23.9,
+    "feelsLikeC": 27,
     "humidity": 88,
-    "windKph": 12.1,
+    "windKph": 11.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T18:50:09.571+08:00",
+    "observedAt": "2026-10-20T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-20T19:00:09.893+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国家数据集团有限公司今天在雄安成立 有何标志性意义？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717992.shtml",
-        "publishedAt": "2026-10-20T18:45:08.000+08:00"
+        "title": "河北唐山：攥紧渔业“芯片” 破解红鳍东方鲀产业成长密码",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718006.shtml",
+        "publishedAt": "2026-10-20T18:55:40.000+08:00"
       },
       {
-        "title": "台风“蔷琵”趋向台湾东部沿海 台闽浙等地将有强降雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717989.shtml",
-        "publishedAt": "2026-10-20T18:42:40.000+08:00"
+        "title": "把中华文化元素“种”进游戏 全球玩家在游戏中“打卡”中国",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717995.shtml",
+        "publishedAt": "2026-10-20T18:55:10.000+08:00"
       },
       {
-        "title": "韩国决定撤回驻乌克兰使馆部分人员",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717949.shtml",
-        "publishedAt": "2026-10-20T18:40:25.000+08:00"
+        "title": "红砖厂房蝶变创业街区 浙江丽水快门声中活化工业遗存",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718002.shtml",
+        "publishedAt": "2026-10-20T18:54:14.000+08:00"
       },
       {
-        "title": "冷空气喊你添衣啦！全国秋裤预警地图出炉 超15省份需秋裤保暖",
-        "url": "https://www.chinanews.com.cn/life/2026/10-20/10717988.shtml",
-        "publishedAt": "2026-10-20T18:40:05.000+08:00"
+        "title": "中国人寿许崇苗：行业共识正从ESG“讲故事”加速转向“算真账”的务实新阶段",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718001.shtml",
+        "publishedAt": "2026-10-20T18:54:00.000+08:00"
       },
       {
-        "title": "俞雷同志逝世",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717987.shtml",
-        "publishedAt": "2026-10-20T18:36:27.000+08:00"
+        "title": "夹金山上的守护人",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717999.shtml",
+        "publishedAt": "2026-10-20T18:50:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T18:50:03.412+08:00",
+    "fetchedAt": "2026-10-20T19:00:05.130+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T18:50:08.464+08:00",
+      "fetchedAt": "2026-10-20T19:00:08.773+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T18:50:08.725+08:00",
+      "fetchedAt": "2026-10-20T19:00:09.060+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T18:50:08.733+08:00",
+      "fetchedAt": "2026-10-20T19:00:09.069+08:00",
       "error": null
     }
   }
