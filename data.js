@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T11:30:08.675+08:00",
+  "updatedAt": "2026-10-20T11:40:09.261+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-10-20T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T11:30:08.676+08:00",
+    "fetchedAt": "2026-10-20T11:40:09.261+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南玉溪，聂耳的旋律穿越时空回响",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717674.shtml",
-        "publishedAt": "2026-10-20T11:26:14.000+08:00"
+        "title": "我国发布首批136项标志性重大应用场景项目",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717658.shtml",
+        "publishedAt": "2026-10-20T11:37:00.000+08:00"
       },
       {
-        "title": "我国将制定文化遗产保护法",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717670.shtml",
-        "publishedAt": "2026-10-20T11:25:34.000+08:00"
+        "title": "浙商观察：民生为本，大健康产业新生态如何重塑？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717686.shtml",
+        "publishedAt": "2026-10-20T11:33:36.000+08:00"
       },
       {
-        "title": "我国首次在文化遗产保护领域制定五年规划",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717666.shtml",
-        "publishedAt": "2026-10-20T11:23:32.000+08:00"
+        "title": "（同心同行长征路）23年前他弃医从戎，如今已安全保障飞行1800余场次",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717693.shtml",
+        "publishedAt": "2026-10-20T11:33:30.000+08:00"
       },
       {
-        "title": "安徽青阳举办九华黄精产业发展大会 以科技赋能产业升级",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717660.shtml",
-        "publishedAt": "2026-10-20T11:16:53.000+08:00"
+        "title": "国家发展改革委：推动存量政策与增量政策协同发力",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717678.shtml",
+        "publishedAt": "2026-10-20T11:30:24.000+08:00"
       },
       {
-        "title": "管住该管的 放开该放的——我国无人机出口管制政策优化调整",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717657.shtml",
-        "publishedAt": "2026-10-20T11:14:11.000+08:00"
+        "title": "（同心同行长征路）从木船到无人装备：“大渡河连”的“第一船”驶向新战场",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717687.shtml",
+        "publishedAt": "2026-10-20T11:28:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T11:30:03.865+08:00",
+    "fetchedAt": "2026-10-20T11:40:03.151+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T11:30:07.559+08:00",
+      "fetchedAt": "2026-10-20T11:40:08.052+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 13,
           "resetAt": "2026-10-20T14:08:31.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 39,
+          "usedPct": 40,
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T11:30:07.801+08:00",
+      "fetchedAt": "2026-10-20T11:40:08.303+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T11:30:07.814+08:00",
+      "fetchedAt": "2026-10-20T11:40:08.313+08:00",
       "error": null
     }
   }
