@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T14:20:12.902+08:00",
+  "updatedAt": "2026-10-20T14:30:43.083+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 29.4,
-    "feelsLikeC": 33.7,
-    "humidity": 63,
-    "windKph": 2.7,
+    "tempC": 29.1,
+    "feelsLikeC": 33.3,
+    "humidity": 64,
+    "windKph": 3.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-20T14:20:12.903+08:00",
+    "observedAt": "2026-10-20T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-20T14:30:43.083+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（文化中国行·校馆弦歌）武汉理工大学图书馆：沉浸式体验解锁阅读新趣",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717763.shtml",
-        "publishedAt": "2026-10-20T14:10:47.000+08:00"
+        "title": "中国官方：将进一步规范博物馆业务管理",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717779.shtml",
+        "publishedAt": "2026-10-20T14:27:20.000+08:00"
       },
       {
-        "title": "百年开明",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717774.shtml",
-        "publishedAt": "2026-10-20T14:09:11.000+08:00"
+        "title": "中国官方：第三季度免签入境外国人同比上升24.1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717769.shtml",
+        "publishedAt": "2026-10-20T14:26:34.000+08:00"
       },
       {
-        "title": "民调：特朗普支持率降至31%，创历史新低",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717773.shtml",
-        "publishedAt": "2026-10-20T14:08:45.000+08:00"
+        "title": "直播：国新办就2026年前三季度工业和信息化发展情况举行新闻发布会",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-20/10717780.shtml",
+        "publishedAt": "2026-10-20T14:26:32.000+08:00"
       },
       {
-        "title": "七部门联合印发《广告产业发展“十五五”规划》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717768.shtml",
-        "publishedAt": "2026-10-20T14:03:12.000+08:00"
+        "title": "聚焦养老、财富管理、传承需求 平安人寿御享禧越系列分红险重磅上市",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717766.shtml",
+        "publishedAt": "2026-10-20T14:25:20.000+08:00"
       },
       {
-        "title": "新建重庆至万州高速铁路启动联调联试",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717750.shtml",
-        "publishedAt": "2026-10-20T13:59:50.000+08:00"
+        "title": "作家麦家入职浙大：讲述慢写作的力量",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717771.shtml",
+        "publishedAt": "2026-10-20T14:24:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T14:20:04.211+08:00",
+    "fetchedAt": "2026-10-20T14:30:04.597+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T14:20:11.748+08:00",
+      "fetchedAt": "2026-10-20T14:30:41.591+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 7,
           "resetAt": "2026-10-20T19:08:48.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T14:20:12.038+08:00",
+      "fetchedAt": "2026-10-20T14:30:41.897+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T14:20:12.042+08:00",
+      "fetchedAt": "2026-10-20T14:30:41.902+08:00",
       "error": null
     }
   }
