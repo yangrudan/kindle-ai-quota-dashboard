@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T13:00:10.585+08:00",
+  "updatedAt": "2026-10-20T13:10:37.315+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-20T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T13:00:10.586+08:00",
+    "fetchedAt": "2026-10-20T13:10:37.315+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美舰冲闯中国南沙群岛仙宾礁附近海域 南部战区回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717717.shtml",
+        "publishedAt": "2026-10-20T12:57:31.000+08:00"
+      },
       {
         "title": "关于公开征集2027年卫生健康系统为民服务实事项目意见建议的公告",
         "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717715.shtml",
@@ -38,14 +43,9 @@
         "title": "长征路上学党史｜从“黄土地”到“绿家园” 长征路上的乡村振兴新答卷",
         "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717709.shtml",
         "publishedAt": "2026-10-20T12:27:45.000+08:00"
-      },
-      {
-        "title": "直击法国大规模抗议活动：巴黎街头的混乱景象",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717704.shtml",
-        "publishedAt": "2026-10-20T12:22:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T13:00:05.021+08:00",
+    "fetchedAt": "2026-10-20T13:10:02.836+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T13:00:09.289+08:00",
+      "fetchedAt": "2026-10-20T13:10:36.080+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T13:00:09.618+08:00",
+      "fetchedAt": "2026-10-20T13:10:36.422+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T13:00:09.623+08:00",
+      "fetchedAt": "2026-10-20T13:10:36.431+08:00",
       "error": null
     }
   }
