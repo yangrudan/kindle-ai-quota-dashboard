@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T02:10:08.330+08:00",
+  "updatedAt": "2026-10-21T02:20:08.151+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 19.8,
-    "feelsLikeC": 20.6,
-    "humidity": 90,
-    "windKph": 14.5,
+    "tempC": 19.6,
+    "feelsLikeC": 20.4,
+    "humidity": 91,
+    "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T02:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T02:10:08.330+08:00",
+    "observedAt": "2026-10-21T02:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T02:20:08.151+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "CBA常规赛次轮：北京队主场轻取广东队 斩获两连胜",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718218.shtml",
+        "publishedAt": "2026-10-21T02:16:27.000+08:00"
+      },
+      {
+        "title": "泰方称将加强泰中协调保障游客安全",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718217.shtml",
+        "publishedAt": "2026-10-21T02:16:11.000+08:00"
+      },
       {
         "title": "商务部回应美发布针对中企的联邦采购排除和移除命令通知",
         "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718216.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美以窃取商业秘密为由制裁中企 中国商务部回应",
         "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718214.shtml",
         "publishedAt": "2026-10-21T00:14:06.000+08:00"
-      },
-      {
-        "title": "国考报名时间过半，热门岗位报录比超2800:1",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718213.shtml",
-        "publishedAt": "2026-10-21T00:01:37.000+08:00"
-      },
-      {
-        "title": "李家超：APEC财长会在港举办是香港历史性时刻",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10718212.shtml",
-        "publishedAt": "2026-10-20T23:57:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T02:10:02.881+08:00",
+    "fetchedAt": "2026-10-21T02:20:02.659+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T02:10:06.992+08:00",
+      "fetchedAt": "2026-10-21T02:20:06.842+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-21T07:10:08.000+08:00"
+          "resetAt": "2026-10-21T07:20:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T02:10:07.321+08:00",
+      "fetchedAt": "2026-10-21T02:20:07.230+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T02:10:07.324+08:00",
+      "fetchedAt": "2026-10-21T02:20:07.238+08:00",
       "error": null
     }
   }
