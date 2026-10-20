@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T09:10:08.141+08:00",
+  "updatedAt": "2026-10-20T09:20:38.745+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.3,
-    "feelsLikeC": 28.3,
-    "humidity": 82,
-    "windKph": 2,
+    "tempC": 24.5,
+    "feelsLikeC": 28.5,
+    "humidity": 81,
+    "windKph": 1.9,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-20T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T09:10:08.141+08:00",
+    "observedAt": "2026-10-20T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-20T09:20:38.745+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "亚洲杯或推迟一年 中国足球“压力大了”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-20/10717592.shtml",
+        "publishedAt": "2026-10-20T09:14:19.000+08:00"
+      },
+      {
+        "title": "“爸爸AB型妈妈A型女儿O型”登上热搜，这些情况可能生出血型“不匹配”的孩子→",
+        "url": "https://www.chinanews.com.cn/life/2026/10-20/10717590.shtml",
+        "publishedAt": "2026-10-20T09:07:46.000+08:00"
+      },
       {
         "title": "红霉素软膏不是“万能药”！这几种情况千万别乱用",
         "url": "https://www.chinanews.com.cn/life/2026/10-20/10717584.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "人这一辈子，一定要去看一次世界连片面积最大原生胡杨林！",
         "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717579.shtml",
         "publishedAt": "2026-10-20T08:49:51.000+08:00"
-      },
-      {
-        "title": "冷空气将影响我国中东部大部地区 江淮江汉等地有较强降雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717573.shtml",
-        "publishedAt": "2026-10-20T08:39:29.000+08:00"
-      },
-      {
-        "title": "遣返、开除……中国留学生披旭日旗事件最新进展",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-20/10717577.shtml",
-        "publishedAt": "2026-10-20T08:31:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T09:10:02.621+08:00",
+    "fetchedAt": "2026-10-20T09:20:03.453+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T09:10:06.894+08:00",
+      "fetchedAt": "2026-10-20T09:20:37.018+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 3,
           "resetAt": "2026-10-20T14:08:31.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T09:10:07.216+08:00",
+      "fetchedAt": "2026-10-20T09:20:37.360+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T09:10:07.226+08:00",
+      "fetchedAt": "2026-10-20T09:20:37.368+08:00",
       "error": null
     }
   }
