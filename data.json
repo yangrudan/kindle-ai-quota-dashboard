@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T19:10:10.481+08:00",
+  "updatedAt": "2026-10-20T19:20:37.540+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 23.9,
-    "feelsLikeC": 27,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 23.8,
+    "feelsLikeC": 26.9,
     "humidity": 88,
-    "windKph": 11.3,
+    "windKph": 11,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T19:10:10.481+08:00",
+    "observedAt": "2026-10-20T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-20T19:20:37.541+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“孕妇取消订单后被快递员找上门质问，吓到先兆流产”引热议，律师解读｜法律顾问在身边",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718003.shtml",
-        "publishedAt": "2026-10-20T19:00:04.000+08:00"
+        "title": "从师范生培养到职称评价 山西全链条完善教师成长通道",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-20/10718022.shtml",
+        "publishedAt": "2026-10-20T19:15:35.000+08:00"
       },
       {
-        "title": "2026广西农博会将以水果茶饮“上新”对接东盟客商",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10718008.shtml",
-        "publishedAt": "2026-10-20T18:58:18.000+08:00"
+        "title": "“工业锈带”变“生活秀带” 重庆一工业遗产启动城市更新项目",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718023.shtml",
+        "publishedAt": "2026-10-20T19:15:25.000+08:00"
       },
       {
-        "title": "红色文化微短剧《铁血信使》正式开播",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718007.shtml",
-        "publishedAt": "2026-10-20T18:57:20.000+08:00"
+        "title": "“我们的力量”中外儿童分享汇在中国儿童中心举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718021.shtml",
+        "publishedAt": "2026-10-20T19:10:19.000+08:00"
       },
       {
-        "title": "河北唐山：攥紧渔业“芯片” 破解红鳍东方鲀产业成长密码",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718006.shtml",
-        "publishedAt": "2026-10-20T18:55:40.000+08:00"
+        "title": "慕田峪长城年接待入境游客突破百万人次 升级国际化服务",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718020.shtml",
+        "publishedAt": "2026-10-20T19:10:15.000+08:00"
       },
       {
-        "title": "把中华文化元素“种”进游戏 全球玩家在游戏中“打卡”中国",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717995.shtml",
-        "publishedAt": "2026-10-20T18:55:10.000+08:00"
+        "title": "海南出台一揽子措施推动建筑业转型升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718019.shtml",
+        "publishedAt": "2026-10-20T19:09:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T19:10:04.046+08:00",
+    "fetchedAt": "2026-10-20T19:20:02.954+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T19:10:07.637+08:00",
+      "fetchedAt": "2026-10-20T19:20:36.461+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 99,
+          "usedPct": 100,
           "resetAt": "2026-10-20T19:33:49.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T19:10:07.814+08:00",
+      "fetchedAt": "2026-10-20T19:20:36.637+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T19:10:07.817+08:00",
+      "fetchedAt": "2026-10-20T19:20:36.643+08:00",
       "error": null
     }
   }
