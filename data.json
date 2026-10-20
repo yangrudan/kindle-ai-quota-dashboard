@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:30:10.597+08:00",
+  "updatedAt": "2026-10-20T19:40:37.760+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T19:30:10.597+08:00",
+    "fetchedAt": "2026-10-20T19:40:37.760+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "台湾媒体人探访湖南乡村热土 记录时代发展与变迁",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718033.shtml",
+        "publishedAt": "2026-10-20T19:31:12.000+08:00"
+      },
       {
         "title": "走进中亚地区首家鲁班工坊 与塔吉克斯坦师生同上“技能课”",
         "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718027.shtml",
@@ -38,14 +43,9 @@
         "title": "草原小城新市民安家记",
         "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718030.shtml",
         "publishedAt": "2026-10-20T19:22:00.000+08:00"
-      },
-      {
-        "title": "光影叙事 信仰铸魂：皮影小戏《信仰》开展巡演",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718028.shtml",
-        "publishedAt": "2026-10-20T19:21:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T19:30:05.025+08:00",
+    "fetchedAt": "2026-10-20T19:40:03.336+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T19:30:09.528+08:00",
+      "fetchedAt": "2026-10-20T19:40:09.076+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 100,
-          "resetAt": "2026-10-20T19:33:49.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-21T00:40:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T19:30:09.680+08:00",
+      "fetchedAt": "2026-10-20T19:40:36.731+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T19:30:09.689+08:00",
+      "fetchedAt": "2026-10-20T19:40:36.740+08:00",
       "error": null
     }
   }
