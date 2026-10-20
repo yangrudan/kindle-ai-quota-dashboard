@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T14:50:08.875+08:00",
+  "updatedAt": "2026-10-20T15:00:10.630+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T14:50:08.875+08:00",
+    "fetchedAt": "2026-10-20T15:00:10.630+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家发改委：不少民企反映在先进制造业等领域投资意愿较强",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717789.shtml",
+        "publishedAt": "2026-10-20T14:51:43.000+08:00"
+      },
       {
         "title": "韩国外交部：将撤回驻乌克兰使馆部分工作人员",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717786.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "聚焦秋季森林草原防火关键期 黑龙江消防救援机动总队开展清源专项行动",
         "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717781.shtml",
         "publishedAt": "2026-10-20T14:34:30.000+08:00"
-      },
-      {
-        "title": "国家发展改革委：将以更大力度更实举措有效扩大内需",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717764.shtml",
-        "publishedAt": "2026-10-20T14:31:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T14:50:03.637+08:00",
+    "fetchedAt": "2026-10-20T15:00:03.450+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T14:50:07.712+08:00",
+      "fetchedAt": "2026-10-20T15:00:09.264+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-10-20T19:33:49.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T14:50:08.009+08:00",
+      "fetchedAt": "2026-10-20T15:00:09.554+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T14:50:08.019+08:00",
+      "fetchedAt": "2026-10-20T15:00:09.560+08:00",
       "error": null
     }
   }
