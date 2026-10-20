@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T17:40:38.112+08:00",
+  "updatedAt": "2026-10-20T17:50:08.534+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 25.6,
-    "feelsLikeC": 28.4,
-    "humidity": 81,
-    "windKph": 14.7,
+    "tempC": 25.1,
+    "feelsLikeC": 28,
+    "humidity": 83,
+    "windKph": 14.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T17:40:38.112+08:00",
+    "observedAt": "2026-10-20T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-20T17:50:08.534+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "直播海报：长征路上学党史｜红旗漫卷 共赴会师之约",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717944.shtml",
+        "publishedAt": "2026-10-20T17:32:42.000+08:00"
+      },
+      {
+        "title": "非洲国家代表在福建泉州开展世界遗产能力建设培训",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717943.shtml",
+        "publishedAt": "2026-10-20T17:32:20.000+08:00"
+      },
       {
         "title": "新疆兵团特色山药进入采收期",
         "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717942.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "阿卜耶伊地区一市场遇袭致73死 南苏丹强烈抗议",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717924.shtml",
         "publishedAt": "2026-10-20T17:20:55.000+08:00"
-      },
-      {
-        "title": "山洪影响持续 尼泊尔部分地区交通通信受阻",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717922.shtml",
-        "publishedAt": "2026-10-20T17:20:07.000+08:00"
-      },
-      {
-        "title": "亚美尼亚学者：理解朱熹思想可更好促进文明交流互鉴",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717921.shtml",
-        "publishedAt": "2026-10-20T17:19:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T17:40:02.876+08:00",
+    "fetchedAt": "2026-10-20T17:50:03.196+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T17:40:36.841+08:00",
+      "fetchedAt": "2026-10-20T17:50:07.396+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T17:40:37.086+08:00",
+      "fetchedAt": "2026-10-20T17:50:07.668+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T17:40:37.096+08:00",
+      "fetchedAt": "2026-10-20T17:50:07.672+08:00",
       "error": null
     }
   }
