@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T13:30:09.902+08:00",
+  "updatedAt": "2026-10-20T13:40:08.505+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-20T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T13:30:09.902+08:00",
+    "fetchedAt": "2026-10-20T13:40:08.505+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "工信部等三部门印发《氢能综合应用试点工作管理办法》",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717714.shtml",
-        "publishedAt": "2026-10-20T13:23:50.000+08:00"
+        "title": "中国最高法发布典型案例 服务保障共建“一带一路”绿色发展",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-20/10717737.shtml",
+        "publishedAt": "2026-10-20T13:35:45.000+08:00"
       },
       {
-        "title": "百年侨销安茶重走南洋路",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-20/10717727.shtml",
-        "publishedAt": "2026-10-20T13:22:58.000+08:00"
+        "title": "我国各级非遗代表性项目超过10万项",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717721.shtml",
+        "publishedAt": "2026-10-20T13:35:23.000+08:00"
       },
       {
-        "title": "良渚，何以古脉传新韵？",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717722.shtml",
-        "publishedAt": "2026-10-20T13:22:22.000+08:00"
+        "title": "石寨山考古遗址公园：由文物“讲述”中华民族共同体故事",
+        "url": "https://www.chinanews.com.cn/mz/2026/10-20/10717736.shtml",
+        "publishedAt": "2026-10-20T13:34:23.000+08:00"
       },
       {
-        "title": "山东聊城打造“水城法桥”工作品牌 以法治护航民营经济发展",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-20/10717719.shtml",
-        "publishedAt": "2026-10-20T13:22:20.000+08:00"
+        "title": "中国将建立全国文化遗产资源总目录 实现各类遗产“一本账”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717735.shtml",
+        "publishedAt": "2026-10-20T13:33:45.000+08:00"
       },
       {
-        "title": "多省份用户访问异常跳转至博彩网站 最新调查报告公布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717731.shtml",
-        "publishedAt": "2026-10-20T13:16:16.000+08:00"
+        "title": "（申城风景线）一杯咖啡的“双向流动”：世界风味入沪 中国滋味出海",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717733.shtml",
+        "publishedAt": "2026-10-20T13:32:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T13:30:04.188+08:00",
+    "fetchedAt": "2026-10-20T13:40:03.098+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T13:30:08.851+08:00",
+      "fetchedAt": "2026-10-20T13:40:07.032+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T13:30:09.057+08:00",
+      "fetchedAt": "2026-10-20T13:40:07.227+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T13:30:09.066+08:00",
+      "fetchedAt": "2026-10-20T13:40:07.238+08:00",
       "error": null
     }
   }
