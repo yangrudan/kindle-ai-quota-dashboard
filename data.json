@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:50:11.839+08:00",
+  "updatedAt": "2026-10-20T17:00:08.198+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T16:50:11.839+08:00",
+    "fetchedAt": "2026-10-20T17:00:08.198+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "湖南省第十一届少数民族传统体育运动会在张家界开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10717887.shtml",
+        "publishedAt": "2026-10-20T16:51:19.000+08:00"
+      },
+      {
+        "title": "防范“恩格斯停顿”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717879.shtml",
+        "publishedAt": "2026-10-20T16:44:21.000+08:00"
+      },
       {
         "title": "2026年前三季度重庆市GDP同比增长4.3%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717893.shtml",
@@ -33,19 +43,9 @@
         "title": "广深高速改扩建再迎关键节点 千吨钢箱梁完成带铰顶推",
         "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717882.shtml",
         "publishedAt": "2026-10-20T16:43:05.000+08:00"
-      },
-      {
-        "title": "重庆五部门联手整治生态环境技术服务数据造假",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717891.shtml",
-        "publishedAt": "2026-10-20T16:42:13.000+08:00"
-      },
-      {
-        "title": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717890.shtml",
-        "publishedAt": "2026-10-20T16:40:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T16:50:03.539+08:00",
+    "fetchedAt": "2026-10-20T17:00:03.403+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 73.1,
+          "usedPct": 80.1,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 404 / 1500 AIC"
+          "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T16:50:09.699+08:00",
+      "fetchedAt": "2026-10-20T17:00:06.948+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T16:50:09.959+08:00",
+      "fetchedAt": "2026-10-20T17:00:07.252+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T16:50:09.985+08:00",
+      "fetchedAt": "2026-10-20T17:00:07.260+08:00",
       "error": null
     }
   }
