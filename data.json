@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:00:08.956+08:00",
+  "updatedAt": "2026-10-20T18:10:37.593+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T18:00:08.956+08:00",
+    "fetchedAt": "2026-10-20T18:10:37.593+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "何以中国·当惊世界殊｜从三样“信物”看长江新生",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717958.shtml",
-        "publishedAt": "2026-10-20T17:53:37.000+08:00"
+        "title": "（经济观察）中国政策利率或将“换锚” 利率调控机制不断完善",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717967.shtml",
+        "publishedAt": "2026-10-20T18:03:29.000+08:00"
       },
       {
-        "title": "2026辽宁省全球旅行商入境游宣传推广活动在沈阳启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717956.shtml",
-        "publishedAt": "2026-10-20T17:51:39.000+08:00"
+        "title": "前三季度民航旅客运输量超5.9亿人次",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717970.shtml",
+        "publishedAt": "2026-10-20T18:02:51.000+08:00"
       },
       {
-        "title": "广西变“平面用海”为“立体用海” 提高海域资源利用水平",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717954.shtml",
-        "publishedAt": "2026-10-20T17:49:57.000+08:00"
+        "title": "草木见证！这些野草野菜，陪红军走过长征",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717968.shtml",
+        "publishedAt": "2026-10-20T18:01:55.000+08:00"
       },
       {
-        "title": "主播说联播丨这份重磅文件，让生活“智”感十足",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717955.shtml",
-        "publishedAt": "2026-10-20T17:49:55.000+08:00"
+        "title": "川剧秦腔同唱好戏，第四届川剧汇演启幕 “西安展演周”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717966.shtml",
+        "publishedAt": "2026-10-20T18:01:51.000+08:00"
       },
       {
-        "title": "国家外汇管理局：9月我国外汇市场运行总体稳健",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717951.shtml",
-        "publishedAt": "2026-10-20T17:49:17.000+08:00"
+        "title": "山西加快构建现代职业教育体系 让高技能人才供给更加精准",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717964.shtml",
+        "publishedAt": "2026-10-20T18:01:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T18:00:03.786+08:00",
+    "fetchedAt": "2026-10-20T18:10:03.361+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T18:00:07.667+08:00",
+      "fetchedAt": "2026-10-20T18:10:36.441+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T18:00:08.006+08:00",
+      "fetchedAt": "2026-10-20T18:10:36.735+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T18:00:08.010+08:00",
+      "fetchedAt": "2026-10-20T18:10:36.743+08:00",
       "error": null
     }
   }
