@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T21:40:08.289+08:00",
+  "updatedAt": "2026-10-20T21:50:07.768+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.8,
-    "feelsLikeC": 23.8,
-    "humidity": 90,
-    "windKph": 12.4,
+    "tempC": 21.7,
+    "feelsLikeC": 23.7,
+    "humidity": 89,
+    "windKph": 11.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T21:40:08.290+08:00",
+    "observedAt": "2026-10-20T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-20T21:50:07.769+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "英国将派遣战斗机 协助沙特抵御胡塞武装袭击",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10718145.shtml",
+        "publishedAt": "2026-10-20T21:41:19.000+08:00"
+      },
+      {
+        "title": "中阿携手共建“洋浦港—阿布扎比港”绿色航运走廊",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718135.shtml",
+        "publishedAt": "2026-10-20T21:38:41.000+08:00"
+      },
+      {
+        "title": "2026年粤商赋能县域经济高质量发展陆丰行活动举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718137.shtml",
+        "publishedAt": "2026-10-20T21:38:17.000+08:00"
+      },
       {
         "title": "商务部就美国土安全部发布针对中国企业的联邦采购排除和移除命令通知答记者问",
         "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718136.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "河南商丘：冲刺四季度 企业生产忙",
         "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718115.shtml",
         "publishedAt": "2026-10-20T21:35:41.000+08:00"
-      },
-      {
-        "title": "银川河湖长制推行十年：塞上湖城建成“15分钟亲水圈”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718129.shtml",
-        "publishedAt": "2026-10-20T21:32:19.000+08:00"
-      },
-      {
-        "title": "青海丹噶尔皮绣：针尖绣出皮上艺术",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718112.shtml",
-        "publishedAt": "2026-10-20T21:31:31.000+08:00"
-      },
-      {
-        "title": "从匠心手作到智能好物 132件好物角逐2026浙江特色伴手礼",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718133.shtml",
-        "publishedAt": "2026-10-20T21:31:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T21:40:03.104+08:00",
+    "fetchedAt": "2026-10-20T21:50:03.024+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T21:40:06.937+08:00",
+      "fetchedAt": "2026-10-20T21:50:06.383+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T21:40:07.257+08:00",
+      "fetchedAt": "2026-10-20T21:50:06.842+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T21:40:07.263+08:00",
+      "fetchedAt": "2026-10-20T21:50:06.850+08:00",
       "error": null
     }
   }
