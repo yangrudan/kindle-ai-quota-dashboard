@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T22:00:10.037+08:00",
+  "updatedAt": "2026-10-20T22:10:09.889+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T22:00:10.037+08:00",
+    "fetchedAt": "2026-10-20T22:10:09.889+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "探访新疆首家机器人9S中心",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718142.shtml",
-        "publishedAt": "2026-10-20T21:50:56.000+08:00"
+        "title": "湖南省第十一届少数民族传统体育运动会：板鞋选手齐步竞速",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718156.shtml",
+        "publishedAt": "2026-10-20T22:03:59.000+08:00"
       },
       {
-        "title": "河北馆陶：多彩社团丰富学生课后生活",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718138.shtml",
-        "publishedAt": "2026-10-20T21:50:18.000+08:00"
+        "title": "商务部新闻发言人就美以窃取商业秘密为由制裁中国企业答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718165.shtml",
+        "publishedAt": "2026-10-20T22:03:22.000+08:00"
       },
       {
-        "title": "首架投入阿联酋低空示范区的陆地航母飞行器在穗下线",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718152.shtml",
-        "publishedAt": "2026-10-20T21:50:12.000+08:00"
+        "title": "稻田渐黄芦花如雪 杭州良渚浓郁秋色令人流连",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-20/10718146.shtml",
+        "publishedAt": "2026-10-20T22:02:52.000+08:00"
       },
       {
-        "title": "今年前三季度香港国际机场客运量同比升10.1%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10718150.shtml",
-        "publishedAt": "2026-10-20T21:49:42.000+08:00"
+        "title": "“奇姆肯特-三亚-新加坡”国际定期客运航线开通",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718163.shtml",
+        "publishedAt": "2026-10-20T22:01:16.000+08:00"
       },
       {
-        "title": "第四届丝绸之路国际剧院联盟投洽会在深圳举行 10家新成员“入盟”",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-20/10718149.shtml",
-        "publishedAt": "2026-10-20T21:48:40.000+08:00"
+        "title": "第十八届傅雷翻译出版奖揭晓10部入围作品",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718161.shtml",
+        "publishedAt": "2026-10-20T22:00:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T22:00:04.579+08:00",
+    "fetchedAt": "2026-10-20T22:10:03.985+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T22:00:08.369+08:00",
+      "fetchedAt": "2026-10-20T22:10:08.503+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T22:00:08.872+08:00",
+      "fetchedAt": "2026-10-20T22:10:08.849+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T22:00:08.881+08:00",
+      "fetchedAt": "2026-10-20T22:10:08.855+08:00",
       "error": null
     }
   }
