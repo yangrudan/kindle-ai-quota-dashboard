@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T20:20:09.796+08:00",
+  "updatedAt": "2026-10-20T20:30:10.551+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 23.5,
-    "feelsLikeC": 26.4,
+    "tempC": 23.4,
+    "feelsLikeC": 26.3,
     "humidity": 88,
-    "windKph": 11,
+    "windKph": 11.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-20T20:20:09.797+08:00",
+    "observedAt": "2026-10-20T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-20T20:30:10.552+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "俄方表态：希望近期安排美总统特使与普京会面",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10718068.shtml",
-        "publishedAt": "2026-10-20T20:09:08.000+08:00"
+        "title": "老人误饮“白桃香氛洁厕慕斯” 误食日化品后四大急救误区（2026·10·20）",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718082.shtml",
+        "publishedAt": "2026-10-20T20:22:31.000+08:00"
       },
       {
-        "title": "王沪宁出席中央社会主义学院建院70周年庆祝大会并讲话",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-20/1208352.shtml",
-        "publishedAt": "2026-10-20T20:00:49.000+08:00"
+        "title": "广东省兰科植物分布新记录 广东连山首次发现小巧羊耳蒜",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718075.shtml",
+        "publishedAt": "2026-10-20T20:18:17.000+08:00"
       },
       {
-        "title": "沈阳大东“6·17”较大道路交通事故调查报告公布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718054.shtml",
-        "publishedAt": "2026-10-20T19:59:04.000+08:00"
+        "title": "第三届“越来越好”国际设计大赛全球推介会在穗举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718074.shtml",
+        "publishedAt": "2026-10-20T20:17:55.000+08:00"
       },
       {
-        "title": "东西问丨良渚发现90周年：读懂文明多样比固守单一定论更要紧",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-20/10718049.shtml",
-        "publishedAt": "2026-10-20T19:49:39.000+08:00"
+        "title": "《清代中国：边疆、民族与文化》新书发布 深化清代边疆研究",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718073.shtml",
+        "publishedAt": "2026-10-20T20:17:51.000+08:00"
       },
       {
-        "title": "东西问丨傅稻镰：一粒稻米，如何照见良渚与世界？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-20/10718047.shtml",
-        "publishedAt": "2026-10-20T19:49:35.000+08:00"
+        "title": "西藏自治区人大出台民族团结进步促进法实施决定",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718072.shtml",
+        "publishedAt": "2026-10-20T20:17:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T20:20:04.474+08:00",
+    "fetchedAt": "2026-10-20T20:30:04.847+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T20:20:08.208+08:00",
+      "fetchedAt": "2026-10-20T20:30:08.845+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T20:20:08.562+08:00",
+      "fetchedAt": "2026-10-20T20:30:09.264+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T20:20:08.565+08:00",
+      "fetchedAt": "2026-10-20T20:30:09.273+08:00",
       "error": null
     }
   }
