@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-21T07:30:07.919+08:00",
+  "updatedAt": "2026-10-21T07:40:38.408+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.7,
-    "feelsLikeC": 17.8,
-    "humidity": 95,
-    "windKph": 15.5,
+    "tempC": 17.8,
+    "feelsLikeC": 18,
+    "humidity": 94,
+    "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T07:30:07.920+08:00",
+    "observedAt": "2026-10-21T07:30:00.000+08:00",
+    "fetchedAt": "2026-10-21T07:40:38.408+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "真实岗位任务进入实训、产业数据进入学习……揭秘职教未来实训中心",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-21/10718233.shtml",
+        "publishedAt": "2026-10-21T07:32:54.000+08:00"
+      },
+      {
+        "title": "@所有人 满足这些条件 微信聊天记录才能当证据使用",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-21/10718231.shtml",
+        "publishedAt": "2026-10-21T07:30:52.000+08:00"
+      },
+      {
+        "title": "泽连斯基：讨论了美俄乌三方领导人会晤可能性",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718232.shtml",
+        "publishedAt": "2026-10-21T07:29:48.000+08:00"
+      },
       {
         "title": "求职者，警惕“央国企内推”骗局！",
         "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718230.shtml",
@@ -28,24 +43,9 @@
         "title": "CBA常规赛：北京首钢队战胜广东东阳光队",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-21/1208390.shtml",
         "publishedAt": "2026-10-21T07:27:23.000+08:00"
-      },
-      {
-        "title": "以军宣布：打死哈马斯安全机构高级成员",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718228.shtml",
-        "publishedAt": "2026-10-21T06:59:52.000+08:00"
-      },
-      {
-        "title": "10月21日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-21/10718227.shtml",
-        "publishedAt": "2026-10-21T06:42:39.000+08:00"
-      },
-      {
-        "title": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718226.shtml",
-        "publishedAt": "2026-10-21T06:32:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T07:30:03.064+08:00",
+    "fetchedAt": "2026-10-21T07:40:03.187+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T07:30:06.743+08:00",
+      "fetchedAt": "2026-10-21T07:40:36.907+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-21T12:30:07.000+08:00"
+          "resetAt": "2026-10-21T12:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T07:30:07.090+08:00",
+      "fetchedAt": "2026-10-21T07:40:37.138+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T07:30:07.096+08:00",
+      "fetchedAt": "2026-10-21T07:40:37.147+08:00",
       "error": null
     }
   }
