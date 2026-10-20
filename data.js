@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T13:10:37.315+08:00",
+  "updatedAt": "2026-10-20T13:20:37.805+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28.5,
-    "feelsLikeC": 32.9,
-    "humidity": 66,
-    "windKph": 1,
+    "tempC": 28.7,
+    "feelsLikeC": 33.2,
+    "humidity": 65,
+    "windKph": 1.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T13:10:37.315+08:00",
+    "observedAt": "2026-10-20T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-20T13:20:37.806+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "韩国检方：不考虑对李在明所涉案件撤诉",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717726.shtml",
+        "publishedAt": "2026-10-20T13:14:18.000+08:00"
+      },
+      {
+        "title": "广交会离境退税专区焕新升级 为境外采购商提供更加便捷、顺畅的退税体验",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10717725.shtml",
+        "publishedAt": "2026-10-20T13:12:46.000+08:00"
+      },
+      {
+        "title": "南水北调东线启动2026—2027年度全线调水",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717724.shtml",
+        "publishedAt": "2026-10-20T13:09:41.000+08:00"
+      },
       {
         "title": "美舰冲闯中国南沙群岛仙宾礁附近海域 南部战区回应",
         "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717717.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "关于公开征集2027年卫生健康系统为民服务实事项目意见建议的公告",
         "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717715.shtml",
         "publishedAt": "2026-10-20T12:37:02.000+08:00"
-      },
-      {
-        "title": "何以中国·当惊世界殊｜峡江大地唱响“新长江之歌”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717707.shtml",
-        "publishedAt": "2026-10-20T12:31:07.000+08:00"
-      },
-      {
-        "title": "向存量要增量盘活工业用地 温州“螺蛳壳里”巧做文章",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717706.shtml",
-        "publishedAt": "2026-10-20T12:28:51.000+08:00"
-      },
-      {
-        "title": "长征路上学党史｜从“黄土地”到“绿家园” 长征路上的乡村振兴新答卷",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717709.shtml",
-        "publishedAt": "2026-10-20T12:27:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T13:10:02.836+08:00",
+    "fetchedAt": "2026-10-20T13:20:02.772+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T13:10:36.080+08:00",
+      "fetchedAt": "2026-10-20T13:20:36.632+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T13:10:36.422+08:00",
+      "fetchedAt": "2026-10-20T13:20:36.907+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T13:10:36.431+08:00",
+      "fetchedAt": "2026-10-20T13:20:36.916+08:00",
       "error": null
     }
   }
