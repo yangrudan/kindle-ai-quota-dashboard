@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:30:10.551+08:00",
+  "updatedAt": "2026-10-20T20:40:08.995+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T20:30:10.552+08:00",
+    "fetchedAt": "2026-10-20T20:40:08.995+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "老人误饮“白桃香氛洁厕慕斯” 误食日化品后四大急救误区（2026·10·20）",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718082.shtml",
-        "publishedAt": "2026-10-20T20:22:31.000+08:00"
+        "title": "四川省南充市嘉陵区人民政府原党组成员、副区长任毅被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718089.shtml",
+        "publishedAt": "2026-10-20T20:32:46.000+08:00"
       },
       {
-        "title": "广东省兰科植物分布新记录 广东连山首次发现小巧羊耳蒜",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718075.shtml",
-        "publishedAt": "2026-10-20T20:18:17.000+08:00"
+        "title": "西藏出台陆生野生动物致害补偿地方性法规 补偿周期缩短至一个月",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718091.shtml",
+        "publishedAt": "2026-10-20T20:32:10.000+08:00"
       },
       {
-        "title": "第三届“越来越好”国际设计大赛全球推介会在穗举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718074.shtml",
-        "publishedAt": "2026-10-20T20:17:55.000+08:00"
+        "title": "“家底”基本摸清 六项良渚考古研究成果在杭发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718090.shtml",
+        "publishedAt": "2026-10-20T20:31:51.000+08:00"
       },
       {
-        "title": "《清代中国：边疆、民族与文化》新书发布 深化清代边疆研究",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718073.shtml",
-        "publishedAt": "2026-10-20T20:17:51.000+08:00"
+        "title": "前三季度吉林两大综保区进出口额均现倍数级增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718088.shtml",
+        "publishedAt": "2026-10-20T20:27:59.000+08:00"
       },
       {
-        "title": "西藏自治区人大出台民族团结进步促进法实施决定",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718072.shtml",
-        "publishedAt": "2026-10-20T20:17:21.000+08:00"
+        "title": "破坏红树林后补种，海南法院：不等于赔偿义务终结",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718087.shtml",
+        "publishedAt": "2026-10-20T20:27:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T20:30:04.847+08:00",
+    "fetchedAt": "2026-10-20T20:40:03.787+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T20:30:08.845+08:00",
+      "fetchedAt": "2026-10-20T20:40:07.790+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T20:30:09.264+08:00",
+      "fetchedAt": "2026-10-20T20:40:08.115+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T20:30:09.273+08:00",
+      "fetchedAt": "2026-10-20T20:40:08.121+08:00",
       "error": null
     }
   }
