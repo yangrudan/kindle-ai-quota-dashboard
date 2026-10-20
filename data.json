@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T07:50:08.238+08:00",
+  "updatedAt": "2026-10-20T08:00:08.949+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-20T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-20T07:50:08.239+08:00",
+    "fetchedAt": "2026-10-20T08:00:08.949+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "打破“唯论文”标尺！5个专业推行用实践成果申请硕博学位",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717568.shtml",
+        "publishedAt": "2026-10-20T07:54:36.000+08:00"
+      },
+      {
+        "title": "以场带产 产城融合 商业航天发展持续提速",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717567.shtml",
+        "publishedAt": "2026-10-20T07:50:50.000+08:00"
+      },
       {
         "title": "减脂餐的“洋食材”成土特产",
         "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717566.shtml",
@@ -33,19 +43,9 @@
         "title": "CBA常规赛：北京控股队负于上海久事队",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-20/1208276.shtml",
         "publishedAt": "2026-10-20T07:37:58.000+08:00"
-      },
-      {
-        "title": "点外卖、拍Vlog、喝咖啡……“新老人”的需求值得被看见",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717562.shtml",
-        "publishedAt": "2026-10-20T07:36:53.000+08:00"
-      },
-      {
-        "title": "“双11”购物节上新 服务消费成亮点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717561.shtml",
-        "publishedAt": "2026-10-20T07:36:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T07:50:03.126+08:00",
+    "fetchedAt": "2026-10-20T08:00:03.213+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T07:50:06.968+08:00",
+      "fetchedAt": "2026-10-20T08:00:07.346+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-20T12:50:08.000+08:00"
+          "resetAt": "2026-10-20T13:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T07:50:07.337+08:00",
+      "fetchedAt": "2026-10-20T08:00:07.817+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T07:50:07.346+08:00",
+      "fetchedAt": "2026-10-20T08:00:07.826+08:00",
       "error": null
     }
   }
