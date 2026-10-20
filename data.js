@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T16:10:38.748+08:00",
+  "updatedAt": "2026-10-20T16:20:12.202+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 27.6,
-    "feelsLikeC": 31.4,
-    "humidity": 74,
-    "windKph": 9.6,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 27.3,
+    "feelsLikeC": 30.9,
+    "humidity": 75,
+    "windKph": 10.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T16:10:38.748+08:00",
+    "observedAt": "2026-10-20T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-20T16:20:12.202+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "江西省吉安市委原常委王大胜接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717869.shtml",
+        "publishedAt": "2026-10-20T16:10:55.000+08:00"
+      },
+      {
+        "title": "海南省三亚市人民政府副市长陈克伯接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717868.shtml",
+        "publishedAt": "2026-10-20T16:09:33.000+08:00"
+      },
       {
         "title": "A股收评：超3700只个股上涨，沪指收涨，深指、创业板指收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717864.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "外交部：经贸问题上的分歧完全可通过对话加以解决，不应影响中欧关系大局",
         "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717838.shtml",
         "publishedAt": "2026-10-20T16:01:41.000+08:00"
-      },
-      {
-        "title": "30岁新疆小伙西安街头打馕爆火！10元3个，用料扎实，有人排队六七个小时等候，网友纷纷劝涨价",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717857.shtml",
-        "publishedAt": "2026-10-20T15:59:49.000+08:00"
-      },
-      {
-        "title": "工信部：前三季度我国获批创新药中国产占比达80%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717847.shtml",
-        "publishedAt": "2026-10-20T15:58:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T16:10:03.497+08:00",
+    "fetchedAt": "2026-10-20T16:20:02.962+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T16:10:37.485+08:00",
+      "fetchedAt": "2026-10-20T16:20:08.924+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 25,
           "resetAt": "2026-10-20T19:33:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T16:10:37.742+08:00",
+      "fetchedAt": "2026-10-20T16:20:10.299+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T16:10:37.751+08:00",
+      "fetchedAt": "2026-10-20T16:20:10.303+08:00",
       "error": null
     }
   }
