@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T08:30:45.100+08:00",
+  "updatedAt": "2026-10-20T08:40:08.045+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.5,
+    "tempC": 23.6,
     "feelsLikeC": 27.6,
     "humidity": 85,
-    "windKph": 1.1,
-    "windDir": "西风",
+    "windKph": 1.9,
+    "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-20T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T08:30:45.100+08:00",
+    "fetchedAt": "2026-10-20T08:40:08.046+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "遣返、开除……中国留学生披旭日旗事件最新进展",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-20/10717577.shtml",
+        "publishedAt": "2026-10-20T08:31:44.000+08:00"
+      },
+      {
+        "title": "长江中下游仍多降雨 北方多地将度过下半年来最冷一天",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717575.shtml",
+        "publishedAt": "2026-10-20T08:27:28.000+08:00"
+      },
       {
         "title": "安理会全票通过防范数字技术侵害冲突中儿童的决议",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717560.shtml",
@@ -33,19 +43,9 @@
         "title": "颈椎牵引器能否“拯救低头族”？颈椎不舒服该如何缓解？医生解答",
         "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717572.shtml",
         "publishedAt": "2026-10-20T08:04:33.000+08:00"
-      },
-      {
-        "title": "美国战略石油储备原油库存降至1982年以来最低",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717571.shtml",
-        "publishedAt": "2026-10-20T08:03:07.000+08:00"
-      },
-      {
-        "title": "膝盖的“隐形杀手”不是跑步而是它！很多人天天在做",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717570.shtml",
-        "publishedAt": "2026-10-20T08:02:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T08:30:09.155+08:00",
+    "fetchedAt": "2026-10-20T08:40:03.112+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T08:30:44.072+08:00",
+      "fetchedAt": "2026-10-20T08:40:06.862+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-20T13:30:45.000+08:00"
+          "resetAt": "2026-10-20T13:40:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T08:30:44.166+08:00",
+      "fetchedAt": "2026-10-20T08:40:06.951+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T08:30:44.170+08:00",
+      "fetchedAt": "2026-10-20T08:40:06.955+08:00",
       "error": null
     }
   }
