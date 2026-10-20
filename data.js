@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T12:40:38.452+08:00",
+  "updatedAt": "2026-10-20T12:50:07.856+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28.1,
-    "feelsLikeC": 32.5,
+    "tempC": 28.3,
+    "feelsLikeC": 32.8,
     "humidity": 67,
-    "windKph": 1.5,
-    "windDir": "南风",
+    "windKph": 0.6,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-20T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T12:40:38.452+08:00",
+    "observedAt": "2026-10-20T12:45:00.000+08:00",
+    "fetchedAt": "2026-10-20T12:50:07.857+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "关于公开征集2027年卫生健康系统为民服务实事项目意见建议的公告",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10717715.shtml",
+        "publishedAt": "2026-10-20T12:37:02.000+08:00"
+      },
       {
         "title": "何以中国·当惊世界殊｜峡江大地唱响“新长江之歌”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717707.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "直击法国大规模抗议活动：巴黎街头的混乱景象",
         "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717704.shtml",
         "publishedAt": "2026-10-20T12:22:55.000+08:00"
-      },
-      {
-        "title": "（长征胜利90周年）“外眼”看长征，看到了什么？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717700.shtml",
-        "publishedAt": "2026-10-20T12:22:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T12:40:03.720+08:00",
+    "fetchedAt": "2026-10-20T12:50:02.728+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T12:40:37.042+08:00",
+      "fetchedAt": "2026-10-20T12:50:06.492+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-25T11:59:47.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T12:40:37.339+08:00",
+      "fetchedAt": "2026-10-20T12:50:06.882+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T12:40:37.349+08:00",
+      "fetchedAt": "2026-10-20T12:50:06.891+08:00",
       "error": null
     }
   }
