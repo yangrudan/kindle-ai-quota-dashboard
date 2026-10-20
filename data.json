@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T14:30:43.083+08:00",
+  "updatedAt": "2026-10-20T14:40:14.919+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T14:30:43.083+08:00",
+    "fetchedAt": "2026-10-20T14:40:14.919+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "国家发展改革委：将以更大力度更实举措有效扩大内需",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717764.shtml",
+        "publishedAt": "2026-10-20T14:31:56.000+08:00"
+      },
+      {
+        "title": "港澳会客厅｜郑若骅：国际调解院落户香港一年，“东方智慧”如何化解国际争端？",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10717776.shtml",
+        "publishedAt": "2026-10-20T14:29:26.000+08:00"
+      },
+      {
+        "title": "江苏扬州网络餐饮食品安全治理见成效 民众满意度提升至93.87%",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717778.shtml",
+        "publishedAt": "2026-10-20T14:28:56.000+08:00"
+      },
+      {
+        "title": "国家发展改革委：发展新质生产力坚决避免“一哄而上”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717770.shtml",
+        "publishedAt": "2026-10-20T14:28:34.000+08:00"
+      },
+      {
         "title": "中国官方：将进一步规范博物馆业务管理",
         "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717779.shtml",
         "publishedAt": "2026-10-20T14:27:20.000+08:00"
-      },
-      {
-        "title": "中国官方：第三季度免签入境外国人同比上升24.1%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717769.shtml",
-        "publishedAt": "2026-10-20T14:26:34.000+08:00"
-      },
-      {
-        "title": "直播：国新办就2026年前三季度工业和信息化发展情况举行新闻发布会",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-20/10717780.shtml",
-        "publishedAt": "2026-10-20T14:26:32.000+08:00"
-      },
-      {
-        "title": "聚焦养老、财富管理、传承需求 平安人寿御享禧越系列分红险重磅上市",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717766.shtml",
-        "publishedAt": "2026-10-20T14:25:20.000+08:00"
-      },
-      {
-        "title": "作家麦家入职浙大：讲述慢写作的力量",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717771.shtml",
-        "publishedAt": "2026-10-20T14:24:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T14:30:04.597+08:00",
+    "fetchedAt": "2026-10-20T14:40:03.450+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 539 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T14:30:41.591+08:00",
+      "fetchedAt": "2026-10-20T14:40:12.489+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
-          "resetAt": "2026-10-20T19:08:48.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-10-20T19:33:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 42,
-          "resetAt": "2026-10-25T11:59:47.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T14:30:41.897+08:00",
+      "fetchedAt": "2026-10-20T14:40:12.798+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T14:30:41.902+08:00",
+      "fetchedAt": "2026-10-20T14:40:12.805+08:00",
       "error": null
     }
   }
