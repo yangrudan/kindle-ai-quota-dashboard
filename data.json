@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T21:00:10.459+08:00",
+  "updatedAt": "2026-10-20T21:10:08.686+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-20T21:00:10.460+08:00",
+    "fetchedAt": "2026-10-20T21:10:08.686+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "共庆共享促团结，一场民族体育赛事中的“天涯同心”",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-20/10718096.shtml",
-        "publishedAt": "2026-10-20T20:46:42.000+08:00"
+        "title": "云南建成国内规模最大咖啡资源圃 保存1500余份种质资源",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718111.shtml",
+        "publishedAt": "2026-10-20T21:06:01.000+08:00"
       },
       {
-        "title": "纪念中国工农红军长征胜利90周年文物联展用400余件展品构建历史与当代的对话",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718093.shtml",
-        "publishedAt": "2026-10-20T20:46:32.000+08:00"
+        "title": "茶韵静心融山海 福建宁德解锁山海茶旅居新体验",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718109.shtml",
+        "publishedAt": "2026-10-20T21:03:57.000+08:00"
       },
       {
-        "title": "四川省南充市嘉陵区人民政府原党组成员、副区长任毅被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718089.shtml",
-        "publishedAt": "2026-10-20T20:32:46.000+08:00"
+        "title": "应用场景项目以点带面撬动改革全局",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718108.shtml",
+        "publishedAt": "2026-10-20T21:03:55.000+08:00"
       },
       {
-        "title": "西藏出台陆生野生动物致害补偿地方性法规 补偿周期缩短至一个月",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718091.shtml",
-        "publishedAt": "2026-10-20T20:32:10.000+08:00"
+        "title": "伦敦往返重庆航线推介会在伦敦召开",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-20/10718092.shtml",
+        "publishedAt": "2026-10-20T21:03:03.000+08:00"
       },
       {
-        "title": "“家底”基本摸清 六项良渚考古研究成果在杭发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718090.shtml",
-        "publishedAt": "2026-10-20T20:31:51.000+08:00"
+        "title": "“化工城”吉林推动能源转型 绘就绿色低碳发展图景",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718106.shtml",
+        "publishedAt": "2026-10-20T21:02:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T21:00:04.700+08:00",
+    "fetchedAt": "2026-10-20T21:10:03.134+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T21:00:08.945+08:00",
+      "fetchedAt": "2026-10-20T21:10:07.494+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T21:00:09.140+08:00",
+      "fetchedAt": "2026-10-20T21:10:07.791+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T21:00:09.143+08:00",
+      "fetchedAt": "2026-10-20T21:10:07.795+08:00",
       "error": null
     }
   }
