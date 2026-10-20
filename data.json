@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:30:10.741+08:00",
+  "updatedAt": "2026-10-20T16:40:38.483+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T16:30:10.741+08:00",
+    "fetchedAt": "2026-10-20T16:40:38.484+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国央行将连续9个工作日开展隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717876.shtml",
-        "publishedAt": "2026-10-20T16:27:54.000+08:00"
+        "title": "报告：微短剧成为中国—东盟数字经济合作重要载体",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-20/10717878.shtml",
+        "publishedAt": "2026-10-20T16:38:09.000+08:00"
       },
       {
-        "title": "工信部：前三季度我国装备工业增加值同比增长7.1%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717870.shtml",
-        "publishedAt": "2026-10-20T16:27:50.000+08:00"
+        "title": "西安至重庆高铁向阳二号隧道贯通",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717885.shtml",
+        "publishedAt": "2026-10-20T16:36:47.000+08:00"
+      },
+      {
+        "title": "90年后，《红星照耀中国》何以依然“照耀”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717872.shtml",
+        "publishedAt": "2026-10-20T16:36:47.000+08:00"
+      },
+      {
+        "title": "55个优秀作品将于11月共聚长沙参加第二届全国小戏小品展演",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10717884.shtml",
+        "publishedAt": "2026-10-20T16:36:31.000+08:00"
       },
       {
         "title": "中韩自贸协定第二阶段第17轮谈判在首尔举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717880.shtml",
-        "publishedAt": "2026-10-20T16:27:30.000+08:00"
-      },
-      {
-        "title": "三季度北京办公楼租赁市场活跃度呈小幅回升态势",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717875.shtml",
-        "publishedAt": "2026-10-20T16:26:42.000+08:00"
-      },
-      {
-        "title": "把攻击做成生意，就别怪法律让你“买单”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717865.shtml",
-        "publishedAt": "2026-10-20T16:23:40.000+08:00"
+        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717888.shtml",
+        "publishedAt": "2026-10-20T16:36:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T16:30:04.123+08:00",
+    "fetchedAt": "2026-10-20T16:40:03.008+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 495 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T16:30:09.578+08:00",
+      "fetchedAt": "2026-10-20T16:40:36.781+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 77,
+          "usedPct": 99,
           "resetAt": "2026-10-20T19:33:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 15,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T16:30:09.828+08:00",
+      "fetchedAt": "2026-10-20T16:40:37.421+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T16:30:09.837+08:00",
+      "fetchedAt": "2026-10-20T16:40:37.433+08:00",
       "error": null
     }
   }
