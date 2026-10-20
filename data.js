@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T23:20:39.242+08:00",
+  "updatedAt": "2026-10-20T23:30:07.855+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-20T23:15:00.000+08:00",
-    "fetchedAt": "2026-10-20T23:20:39.242+08:00",
+    "fetchedAt": "2026-10-20T23:30:07.856+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国教育系统关工委主题教育活动成果展示在北京举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718200.shtml",
-        "publishedAt": "2026-10-20T23:05:20.000+08:00"
+        "title": "文化观察：从良渚看文化遗产如何点亮大众旅游？",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718207.shtml",
+        "publishedAt": "2026-10-20T23:27:03.000+08:00"
       },
       {
-        "title": "陕西医药健康产品亮相香港 冀推动秦药“借港出海”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10718199.shtml",
-        "publishedAt": "2026-10-20T23:03:08.000+08:00"
+        "title": "邯郸涉县“独臂信使”：五十载坚守报答乡土恩情",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718206.shtml",
+        "publishedAt": "2026-10-20T23:26:01.000+08:00"
       },
       {
-        "title": "报告称高碳行业转型、气候适应与生态保护蕴藏巨大投资就业潜力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718198.shtml",
-        "publishedAt": "2026-10-20T23:00:46.000+08:00"
+        "title": "2026年农村创业大赛全国总决赛在浙江举行 技术赋能作用凸显",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718205.shtml",
+        "publishedAt": "2026-10-20T23:25:29.000+08:00"
       },
       {
-        "title": "中埃签署地震减灾合作谅解备忘录 深化地震监测预警合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718197.shtml",
-        "publishedAt": "2026-10-20T23:00:04.000+08:00"
+        "title": "2026第八届“文化北海”建设活动周启幕 以文润城",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718204.shtml",
+        "publishedAt": "2026-10-20T23:24:33.000+08:00"
       },
       {
-        "title": "第10届中国校园戏剧节在蓉开幕 复旦话剧《长水悠悠》登台献演",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718196.shtml",
-        "publishedAt": "2026-10-20T22:58:37.000+08:00"
+        "title": "海外侨领杭州行活动启动 凝侨心汇侨智",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-20/10718203.shtml",
+        "publishedAt": "2026-10-20T23:22:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T23:20:03.801+08:00",
+    "fetchedAt": "2026-10-20T23:30:02.961+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T23:20:37.686+08:00",
+      "fetchedAt": "2026-10-20T23:30:06.771+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T23:20:37.968+08:00",
+      "fetchedAt": "2026-10-20T23:30:06.941+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T23:20:37.977+08:00",
+      "fetchedAt": "2026-10-20T23:30:06.949+08:00",
       "error": null
     }
   }
