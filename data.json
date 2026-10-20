@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T22:40:08.692+08:00",
+  "updatedAt": "2026-10-20T22:50:38.732+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 21.3,
+    "tempC": 21.2,
     "feelsLikeC": 23.4,
-    "humidity": 90,
-    "windKph": 10.7,
+    "humidity": 91,
+    "windKph": 10.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T22:40:08.692+08:00",
+    "observedAt": "2026-10-20T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-20T22:50:38.732+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "探寻从“运动员”到“职场人”的转型密码 上海市优秀运动员职业发展大讲堂开讲",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-20/10718183.shtml",
-        "publishedAt": "2026-10-20T22:30:54.000+08:00"
+        "title": "国产“听觉脑干植入体”获批上市 更多先天性耳聋患儿迎来“有声”希望",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-20/10718188.shtml",
+        "publishedAt": "2026-10-20T22:45:43.000+08:00"
       },
       {
-        "title": "刘心武新作《晚风拂柳笛声残》讲述“一个写作者的长路”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718182.shtml",
-        "publishedAt": "2026-10-20T22:29:52.000+08:00"
+        "title": "长征文物资源家底基本摸清",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718191.shtml",
+        "publishedAt": "2026-10-20T22:42:31.000+08:00"
       },
       {
-        "title": "政论专题片｜长征，永远在路上",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718174.shtml",
-        "publishedAt": "2026-10-20T22:29:12.000+08:00"
+        "title": "2026年“中国新闻传播大讲堂”启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718187.shtml",
+        "publishedAt": "2026-10-20T22:39:28.000+08:00"
       },
       {
-        "title": "合肥向香港青年发出科创邀约：“你只负责想象就行”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-20/10718181.shtml",
-        "publishedAt": "2026-10-20T22:28:44.000+08:00"
+        "title": "新时代高校“城载未来”育人共同体在上海成立",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718186.shtml",
+        "publishedAt": "2026-10-20T22:38:50.000+08:00"
       },
       {
-        "title": "金融支持建设北京（京津冀）国际科技创新中心实施方案在京发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718180.shtml",
-        "publishedAt": "2026-10-20T22:27:12.000+08:00"
+        "title": "风雪守北疆 哈铁人护航极寒铁路通道安全畅通",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718185.shtml",
+        "publishedAt": "2026-10-20T22:38:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T22:40:03.559+08:00",
+    "fetchedAt": "2026-10-20T22:50:03.479+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T22:40:06.993+08:00",
+      "fetchedAt": "2026-10-20T22:50:37.317+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 2,
           "resetAt": "2026-10-21T00:45:58.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T22:40:07.306+08:00",
+      "fetchedAt": "2026-10-20T22:50:37.630+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T22:40:07.310+08:00",
+      "fetchedAt": "2026-10-20T22:50:37.638+08:00",
       "error": null
     }
   }
