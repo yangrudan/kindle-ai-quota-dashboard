@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-20T23:40:08.487+08:00",
+  "updatedAt": "2026-10-20T23:50:08.595+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 21,
-    "feelsLikeC": 23.1,
-    "humidity": 91,
-    "windKph": 10.5,
+    "feelsLikeC": 22.9,
+    "humidity": 90,
+    "windKph": 10.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-20T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-20T23:40:08.488+08:00",
+    "observedAt": "2026-10-20T23:45:00.000+08:00",
+    "fetchedAt": "2026-10-20T23:50:08.595+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "刘海星分别会见意大利、阿联酋客人",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718211.shtml",
+        "publishedAt": "2026-10-20T23:37:38.000+08:00"
+      },
       {
         "title": "文化观察：从良渚看文化遗产如何点亮大众旅游？",
         "url": "https://www.chinanews.com.cn/cul/2026/10-20/10718207.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026第八届“文化北海”建设活动周启幕 以文润城",
         "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718204.shtml",
         "publishedAt": "2026-10-20T23:24:33.000+08:00"
-      },
-      {
-        "title": "海外侨领杭州行活动启动 凝侨心汇侨智",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-20/10718203.shtml",
-        "publishedAt": "2026-10-20T23:22:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-20T23:40:03.787+08:00",
+    "fetchedAt": "2026-10-20T23:50:03.134+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-20T23:40:07.557+08:00",
+      "fetchedAt": "2026-10-20T23:50:07.560+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-20T23:40:07.631+08:00",
+      "fetchedAt": "2026-10-20T23:50:07.717+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-20T23:40:07.634+08:00",
+      "fetchedAt": "2026-10-20T23:50:07.721+08:00",
       "error": null
     }
   }
