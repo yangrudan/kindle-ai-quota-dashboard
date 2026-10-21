@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T19:20:37.763+08:00",
+  "updatedAt": "2026-10-21T19:30:39.086+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.3,
-    "feelsLikeC": 16.6,
-    "humidity": 73,
+    "feelsLikeC": 16.5,
+    "humidity": 74,
     "windKph": 10.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T19:20:37.763+08:00",
+    "observedAt": "2026-10-21T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-21T19:30:39.087+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东西问丨曾珺：跨越90年，外籍友人与长征的故事何以不断书写？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-21/10718650.shtml",
-        "publishedAt": "2026-10-21T19:12:32.000+08:00"
+        "title": "国家知识产权局：第十五届专交会11月初在无锡举办将突出国际化",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718660.shtml",
+        "publishedAt": "2026-10-21T19:26:24.000+08:00"
       },
       {
-        "title": "沈联涛：香港可做中国走向世界“中间人”，战略价值将愈发凸显",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718651.shtml",
-        "publishedAt": "2026-10-21T19:10:44.000+08:00"
+        "title": "亚太旅游协会首席执行官：外国游客日益向往到中国旅游",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718656.shtml",
+        "publishedAt": "2026-10-21T19:25:58.000+08:00"
       },
       {
-        "title": "云南保山：窑火淬永子 方寸见同心",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718649.shtml",
-        "publishedAt": "2026-10-21T19:06:33.000+08:00"
+        "title": "AI水上交通风险控制系统亮相2026北外滩国际航运论坛",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718655.shtml",
+        "publishedAt": "2026-10-21T19:25:50.000+08:00"
       },
       {
-        "title": "今年前三季度长三角区域进出口总值创历史同期新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718644.shtml",
-        "publishedAt": "2026-10-21T19:06:25.000+08:00"
+        "title": "从“群山秘境”到“文旅新星”：大同新荣长城古堡“激活”塞北文旅",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718654.shtml",
+        "publishedAt": "2026-10-21T19:25:42.000+08:00"
       },
       {
-        "title": "前三季度山东外贸进出口总值2.75万亿元 规模创历史同期新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718643.shtml",
-        "publishedAt": "2026-10-21T19:05:19.000+08:00"
+        "title": "广东“智造”企业加速出海",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718657.shtml",
+        "publishedAt": "2026-10-21T19:25:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T19:20:02.909+08:00",
+    "fetchedAt": "2026-10-21T19:30:03.538+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T19:20:36.437+08:00",
+      "fetchedAt": "2026-10-21T19:30:37.446+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 6,
           "resetAt": "2026-10-22T00:20:26.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 47,
+          "usedPct": 48,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T19:20:36.705+08:00",
+      "fetchedAt": "2026-10-21T19:30:37.690+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T19:20:36.714+08:00",
+      "fetchedAt": "2026-10-21T19:30:37.704+08:00",
       "error": null
     }
   }
