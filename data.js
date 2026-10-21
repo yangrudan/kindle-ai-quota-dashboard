@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T17:00:12.095+08:00",
+  "updatedAt": "2026-10-21T17:10:14.100+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T17:00:12.095+08:00",
+    "fetchedAt": "2026-10-21T17:10:14.105+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "吉林大学2027届毕业生秋季双选会在长春举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718588.shtml",
-        "publishedAt": "2026-10-21T16:54:02.000+08:00"
+        "title": "“十五五”时期实现我国地震监测能力达到1.0—2.5级",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718596.shtml",
+        "publishedAt": "2026-10-21T17:04:57.000+08:00"
       },
       {
-        "title": "江西出台举措强化规划土地保障 助力城市更新行动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718585.shtml",
-        "publishedAt": "2026-10-21T16:53:52.000+08:00"
+        "title": "早期症状易误诊 这两类血液肿瘤专挑中老年人“下手”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-21/10718594.shtml",
+        "publishedAt": "2026-10-21T17:02:21.000+08:00"
       },
       {
-        "title": "川妹子组合夺得亚残运会女子复合弓双人团体公开级冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718586.shtml",
-        "publishedAt": "2026-10-21T16:53:14.000+08:00"
+        "title": "重庆政协委员为新就业群体权益保障支招",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718592.shtml",
+        "publishedAt": "2026-10-21T17:01:03.000+08:00"
       },
       {
-        "title": "伊利董事长潘刚出席2026可持续全球领导者大会 分享乳业ESG价值创造路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718581.shtml",
-        "publishedAt": "2026-10-21T16:51:46.000+08:00"
+        "title": "48小时“鲜”达海外 吉林延边松茸今年出口超亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718591.shtml",
+        "publishedAt": "2026-10-21T16:59:38.000+08:00"
       },
       {
-        "title": "联合国儿基会：苏丹两起袭击致至少12名儿童死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718571.shtml",
-        "publishedAt": "2026-10-21T16:50:28.000+08:00"
+        "title": "甘南少年港澳追梦记",
+        "url": "https://www.chinanews.com.cn/mz/2026/10-21/10718590.shtml",
+        "publishedAt": "2026-10-21T16:58:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T17:00:05.989+08:00",
+    "fetchedAt": "2026-10-21T17:10:04.590+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T17:00:10.886+08:00",
+      "fetchedAt": "2026-10-21T17:10:12.128+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 90,
+          "usedPct": 94,
           "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T17:00:11.212+08:00",
+      "fetchedAt": "2026-10-21T17:10:12.332+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T17:00:11.221+08:00",
+      "fetchedAt": "2026-10-21T17:10:12.344+08:00",
       "error": null
     }
   }
