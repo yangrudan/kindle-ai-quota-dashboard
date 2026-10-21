@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T11:00:10.393+08:00",
+  "updatedAt": "2026-10-21T11:10:08.866+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T11:00:10.393+08:00",
+    "fetchedAt": "2026-10-21T11:10:08.866+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "CBA常规赛：南京同曦宙光队不敌广州智都集团队",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718333.shtml",
+        "publishedAt": "2026-10-21T10:58:31.000+08:00"
+      },
+      {
+        "title": "国台办：开箱大陆成台湾青年生活风尚",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718339.shtml",
+        "publishedAt": "2026-10-21T10:56:43.000+08:00"
+      },
+      {
+        "title": "民进党当局拒绝艺人张凌赫赴台交流 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718327.shtml",
+        "publishedAt": "2026-10-21T10:56:03.000+08:00"
+      },
+      {
+        "title": "国台办：日方应充分认识台湾问题高度敏感性",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718334.shtml",
+        "publishedAt": "2026-10-21T10:54:55.000+08:00"
+      },
+      {
         "title": "国台办驳斥惩戒沈伯洋是干扰选举",
         "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718332.shtml",
         "publishedAt": "2026-10-21T10:53:23.000+08:00"
-      },
-      {
-        "title": "《人民法院司法责任追究条例》发布 明确司法追究范围处理方式等",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-21/10718311.shtml",
-        "publishedAt": "2026-10-21T10:52:47.000+08:00"
-      },
-      {
-        "title": "国台办回应IMF将台湾列为中国一省",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718328.shtml",
-        "publishedAt": "2026-10-21T10:48:52.000+08:00"
-      },
-      {
-        "title": "全国碳排放权交易市场成交量突破10亿吨",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718325.shtml",
-        "publishedAt": "2026-10-21T10:47:34.000+08:00"
-      },
-      {
-        "title": "国台办称赞台艺人认同中国歌手身份",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718324.shtml",
-        "publishedAt": "2026-10-21T10:47:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T11:00:04.010+08:00",
+    "fetchedAt": "2026-10-21T11:10:03.280+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T11:00:08.232+08:00",
+      "fetchedAt": "2026-10-21T11:10:07.389+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T11:00:08.477+08:00",
+      "fetchedAt": "2026-10-21T11:10:07.701+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T11:00:08.487+08:00",
+      "fetchedAt": "2026-10-21T11:10:07.707+08:00",
       "error": null
     }
   }
