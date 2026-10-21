@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T22:50:09.378+08:00",
+  "updatedAt": "2026-10-21T23:00:38.186+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-21T22:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T22:50:09.378+08:00",
+    "fetchedAt": "2026-10-21T23:00:38.186+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“绿茵逐梦 青春同行”2026苏澳青少年融媒体行动在澳门启动",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718790.shtml",
-        "publishedAt": "2026-10-21T22:45:07.000+08:00"
+        "title": "“香港连场好戏”旅游项目启动 推介50部电影逾百个取景地",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718795.shtml",
+        "publishedAt": "2026-10-21T22:49:11.000+08:00"
       },
       {
-        "title": "中央安全生产考核巡查二、三季度明查暗访发现重大事故隐患950项",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718789.shtml",
-        "publishedAt": "2026-10-21T22:44:53.000+08:00"
+        "title": "长春大冬会吉林市分赛区雪上项目赛道基础施工收官",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718794.shtml",
+        "publishedAt": "2026-10-21T22:48:29.000+08:00"
       },
       {
-        "title": "法国一架“幻影-2000”战斗机坠毁 致1人丧生1人失踪",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718786.shtml",
-        "publishedAt": "2026-10-21T22:43:25.000+08:00"
+        "title": "中华文学基金会“育才图书室”捐赠仪式在广西三江举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718793.shtml",
+        "publishedAt": "2026-10-21T22:47:09.000+08:00"
       },
       {
-        "title": "261个港澳台项目参加广州科技创新创业大赛",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718788.shtml",
-        "publishedAt": "2026-10-21T22:43:13.000+08:00"
+        "title": "香港邮政将发行“二十四节气——冬”特别邮票",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718792.shtml",
+        "publishedAt": "2026-10-21T22:46:47.000+08:00"
       },
       {
-        "title": "良渚，不止于“良渚”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718787.shtml",
-        "publishedAt": "2026-10-21T22:42:15.000+08:00"
+        "title": "中华农耕文明与时代新生主题版画巡展（哈尔滨站）开展",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718791.shtml",
+        "publishedAt": "2026-10-21T22:45:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T22:50:03.807+08:00",
+    "fetchedAt": "2026-10-21T23:00:03.081+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T22:50:07.973+08:00",
+      "fetchedAt": "2026-10-21T23:00:36.979+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T22:50:08.378+08:00",
+      "fetchedAt": "2026-10-21T23:00:37.257+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T22:50:08.387+08:00",
+      "fetchedAt": "2026-10-21T23:00:37.261+08:00",
       "error": null
     }
   }
