@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T14:30:11.371+08:00",
+  "updatedAt": "2026-10-21T14:40:45.341+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T14:30:11.371+08:00",
+    "fetchedAt": "2026-10-21T14:40:45.341+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（长征胜利90周年）从新兵到“排爆兵王” 彝族战士普有飞的“长征”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718453.shtml",
+        "publishedAt": "2026-10-21T14:32:59.000+08:00"
+      },
+      {
+        "title": "（长征胜利90周年）四川巴中：石刻未老，陵园常青",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718455.shtml",
+        "publishedAt": "2026-10-21T14:32:14.000+08:00"
+      },
       {
         "title": "四川能源核产业有限公司揭牌 加速布局微型反应堆新赛道",
         "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718451.shtml",
@@ -33,19 +43,9 @@
         "title": "天津七里海湿地过境水鸟累计超5万只",
         "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718461.shtml",
         "publishedAt": "2026-10-21T14:23:00.000+08:00"
-      },
-      {
-        "title": "活力中国调研行丨海口造 惠全国 供全球",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718459.shtml",
-        "publishedAt": "2026-10-21T14:18:02.000+08:00"
-      },
-      {
-        "title": "买得多≠消费者 “进货式网购”不适用退一赔三",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-21/10718457.shtml",
-        "publishedAt": "2026-10-21T14:15:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T14:30:04.055+08:00",
+    "fetchedAt": "2026-10-21T14:40:03.508+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T14:30:10.009+08:00",
+      "fetchedAt": "2026-10-21T14:40:43.641+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 25,
+          "usedPct": 26,
           "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T14:30:10.246+08:00",
+      "fetchedAt": "2026-10-21T14:40:43.872+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T14:30:10.259+08:00",
+      "fetchedAt": "2026-10-21T14:40:43.884+08:00",
       "error": null
     }
   }
