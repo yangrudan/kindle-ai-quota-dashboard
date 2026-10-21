@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T13:20:09.125+08:00",
+  "updatedAt": "2026-10-21T13:30:09.632+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.3,
-    "feelsLikeC": 19.2,
-    "humidity": 66,
-    "windKph": 15.9,
+    "tempC": 20.5,
+    "feelsLikeC": 19.3,
+    "humidity": 65,
+    "windKph": 15.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T13:20:09.125+08:00",
+    "observedAt": "2026-10-21T13:30:00.000+08:00",
+    "fetchedAt": "2026-10-21T13:30:09.632+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "也门多线交火致人道主义危机加剧 超25万人流离失所",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718391.shtml",
-        "publishedAt": "2026-10-21T13:16:02.000+08:00"
+        "title": "中国最高法：司法人员应对其履行审判职责行为终身负责",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718395.shtml",
+        "publishedAt": "2026-10-21T13:20:05.000+08:00"
       },
       {
-        "title": "国台办回应大陆在东沙海域执法巡查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718399.shtml",
-        "publishedAt": "2026-10-21T13:08:00.000+08:00"
+        "title": "东方雨虹董事长李卫国撰文谈慎终如始：守好每一处细节，夯实长期信赖根基",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718400.shtml",
+        "publishedAt": "2026-10-21T13:19:57.000+08:00"
       },
       {
-        "title": "COP31召开在即 我国将积极推动气候变化国际谈判进程",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718366.shtml",
-        "publishedAt": "2026-10-21T13:00:19.000+08:00"
+        "title": "北交所上市公司达351家 民营企业近九成",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718394.shtml",
+        "publishedAt": "2026-10-21T13:18:18.000+08:00"
       },
       {
-        "title": "内蒙古自治区赤峰市政协副主席郭玉强接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718389.shtml",
-        "publishedAt": "2026-10-21T12:57:53.000+08:00"
+        "title": "晚宴、球场、集会……特朗普屡遭刺杀威胁，美国政治暴力阴影难消",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718404.shtml",
+        "publishedAt": "2026-10-21T13:17:20.000+08:00"
       },
       {
-        "title": "（近观中国）习近平说长征：要走好我们这一代人的长征路",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718387.shtml",
-        "publishedAt": "2026-10-21T12:51:19.000+08:00"
+        "title": "伊朗强调所有核材料将留在国内 建立信任是谈判前提",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718402.shtml",
+        "publishedAt": "2026-10-21T13:16:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T13:20:03.551+08:00",
+    "fetchedAt": "2026-10-21T13:30:04.306+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T13:20:07.897+08:00",
+      "fetchedAt": "2026-10-21T13:30:08.234+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T13:20:08.220+08:00",
+      "fetchedAt": "2026-10-21T13:30:08.581+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T13:20:08.227+08:00",
+      "fetchedAt": "2026-10-21T13:30:08.586+08:00",
       "error": null
     }
   }
