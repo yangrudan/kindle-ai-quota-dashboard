@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T22:10:09.646+08:00",
+  "updatedAt": "2026-10-21T22:20:08.099+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.8,
-    "feelsLikeC": 15.1,
+    "tempC": 15.7,
+    "feelsLikeC": 15,
     "humidity": 79,
-    "windKph": 8.8,
+    "windKph": 8.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T22:10:09.646+08:00",
+    "observedAt": "2026-10-21T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T22:20:08.099+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "聚焦物理AI与世界模型 前沿科技成果集中亮相南京",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718774.shtml",
+        "publishedAt": "2026-10-21T22:12:07.000+08:00"
+      },
+      {
+        "title": "美媒：马斯克下令对军用级“星链”限速，令乌措手不及",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718782.shtml",
+        "publishedAt": "2026-10-21T22:11:07.000+08:00"
+      },
+      {
+        "title": "马中博士生与马来西亚上议院副议长面对面交流",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-21/10718781.shtml",
+        "publishedAt": "2026-10-21T22:11:03.000+08:00"
+      },
+      {
+        "title": "中外青年走进浙江宁波 探访海洋经济发展实践",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718773.shtml",
+        "publishedAt": "2026-10-21T22:09:57.000+08:00"
+      },
+      {
         "title": "中国科学院理化所王树涛研究员获国际仿生工程奖最高奖",
         "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718780.shtml",
         "publishedAt": "2026-10-21T22:08:59.000+08:00"
-      },
-      {
-        "title": "广西三江：彩线编吉祥 侗韵焕新彩",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718772.shtml",
-        "publishedAt": "2026-10-21T22:08:51.000+08:00"
-      },
-      {
-        "title": "朝鲜多名高官视察朝韩边境要塞化工程",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718712.shtml",
-        "publishedAt": "2026-10-21T22:03:55.000+08:00"
-      },
-      {
-        "title": "中、加、新三国合拍纪录电影《象行记》首映礼在京举行",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-21/1208485.shtml",
-        "publishedAt": "2026-10-21T22:03:19.000+08:00"
-      },
-      {
-        "title": "日本新农相连曝多起丑闻 民众对高市政府不信任感加剧",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718434.shtml",
-        "publishedAt": "2026-10-21T21:57:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T22:10:04.230+08:00",
+    "fetchedAt": "2026-10-21T22:20:03.293+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T22:10:08.377+08:00",
+      "fetchedAt": "2026-10-21T22:20:06.825+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T22:10:08.766+08:00",
+      "fetchedAt": "2026-10-21T22:20:07.218+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T22:10:08.771+08:00",
+      "fetchedAt": "2026-10-21T22:20:07.227+08:00",
       "error": null
     }
   }
