@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T21:50:38.928+08:00",
+  "updatedAt": "2026-10-21T22:00:09.199+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.9,
-    "feelsLikeC": 15.3,
-    "humidity": 78,
-    "windKph": 8.6,
+    "tempC": 15.8,
+    "feelsLikeC": 15.1,
+    "humidity": 79,
+    "windKph": 8.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T21:50:38.929+08:00",
+    "observedAt": "2026-10-21T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-21T22:00:09.200+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国碳排放权交易市场累计成交量突破10亿吨",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718769.shtml",
+        "publishedAt": "2026-10-21T21:48:12.000+08:00"
+      },
       {
         "title": "法国10年期国债收益率突破5% 创下2002年以来新高",
         "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718750.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "新疆兵团：非遗在民众指尖翻飞中活起来",
         "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718767.shtml",
         "publishedAt": "2026-10-21T21:45:50.000+08:00"
-      },
-      {
-        "title": "福建与台湾光复档案文献展在福州举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718723.shtml",
-        "publishedAt": "2026-10-21T21:44:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T21:50:03.917+08:00",
+    "fetchedAt": "2026-10-21T22:00:04.191+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T21:50:37.677+08:00",
+      "fetchedAt": "2026-10-21T22:00:07.774+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T21:50:37.878+08:00",
+      "fetchedAt": "2026-10-21T22:00:08.072+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T21:50:37.883+08:00",
+      "fetchedAt": "2026-10-21T22:00:08.083+08:00",
       "error": null
     }
   }
