@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T15:40:16.551+08:00",
+  "updatedAt": "2026-10-21T15:50:47.290+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.6,
-    "feelsLikeC": 19.3,
-    "humidity": 61,
+    "tempC": 20.3,
+    "feelsLikeC": 18.9,
+    "humidity": 62,
     "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T15:40:16.551+08:00",
+    "observedAt": "2026-10-21T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-21T15:50:47.291+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外交部：中方对日本实施出口管制 目的是制止日本“再军事化”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718517.shtml",
-        "publishedAt": "2026-10-21T15:34:54.000+08:00"
+        "title": "中俄界江乌苏里江秋季禁渔期结束 139艘渔船出港开捕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718523.shtml",
+        "publishedAt": "2026-10-21T15:41:44.000+08:00"
       },
       {
-        "title": "外交部：在乌克兰危机问题上，中方的立场是一贯的",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718515.shtml",
-        "publishedAt": "2026-10-21T15:34:50.000+08:00"
+        "title": "民进党当局禁赴大陆参加孙中山诞辰纪念 国台办指背叛民族、背叛历史",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718524.shtml",
+        "publishedAt": "2026-10-21T15:40:24.000+08:00"
       },
       {
-        "title": "云南前三季度新能源电池产业增加值同比增长90.4%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718512.shtml",
-        "publishedAt": "2026-10-21T15:33:56.000+08:00"
+        "title": "中国应对气候变化南南合作受到国际社会高度评价",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718521.shtml",
+        "publishedAt": "2026-10-21T15:39:34.000+08:00"
       },
       {
-        "title": "跨国产学研赋能产业升级 中德设计工坊激活顺昌杉木新动能",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718513.shtml",
-        "publishedAt": "2026-10-21T15:33:00.000+08:00"
+        "title": "瓷行千里越山海，一场瓷博会如何架起文明对话之桥？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718519.shtml",
+        "publishedAt": "2026-10-21T15:38:34.000+08:00"
       },
       {
-        "title": "韩国首尔江南区两栋大楼纵火嫌疑人承认罪行",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718510.shtml",
-        "publishedAt": "2026-10-21T15:32:54.000+08:00"
+        "title": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718511.shtml",
+        "publishedAt": "2026-10-21T15:37:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T15:40:04.475+08:00",
+    "fetchedAt": "2026-10-21T15:50:04.696+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T15:40:14.731+08:00",
+      "fetchedAt": "2026-10-21T15:50:45.521+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
+          "usedPct": 73,
           "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 41,
+          "usedPct": 43,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T15:40:15.067+08:00",
+      "fetchedAt": "2026-10-21T15:50:45.673+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T15:40:15.085+08:00",
+      "fetchedAt": "2026-10-21T15:50:45.696+08:00",
       "error": null
     }
   }
