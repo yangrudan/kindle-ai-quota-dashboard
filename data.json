@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T10:30:09.910+08:00",
+  "updatedAt": "2026-10-21T10:40:11.831+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T10:30:09.910+08:00",
+    "fetchedAt": "2026-10-21T10:40:11.831+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "民进党当局拒绝艺人张凌赫赴台交流 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718305.shtml",
-        "publishedAt": "2026-10-21T10:21:59.000+08:00"
+        "title": "国台办：积极推进两岸卫生健康领域交流合作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718310.shtml",
+        "publishedAt": "2026-10-21T10:33:37.000+08:00"
       },
       {
-        "title": "今年前三季度全国铁路完成固定资产投资6012亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718297.shtml",
-        "publishedAt": "2026-10-21T10:21:21.000+08:00"
+        "title": "第十届沙特未来投资倡议大会宣布推迟举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718281.shtml",
+        "publishedAt": "2026-10-21T10:33:01.000+08:00"
       },
       {
-        "title": "台当局禁赴陆参加孙中山诞辰纪念活动 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718304.shtml",
-        "publishedAt": "2026-10-21T10:20:45.000+08:00"
+        "title": "COP31召开在即 我国将积极推动气候变化国际谈判进程",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718312.shtml",
+        "publishedAt": "2026-10-21T10:32:41.000+08:00"
       },
       {
-        "title": "朝中社：日本执政者散布军国主义毒素",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718303.shtml",
-        "publishedAt": "2026-10-21T10:18:47.000+08:00"
+        "title": "局势持续升级！也门胡塞武装：沙特24小时内发动93次袭击",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718309.shtml",
+        "publishedAt": "2026-10-21T10:28:57.000+08:00"
       },
       {
-        "title": "科技可感可游 “赛博光谷”把科创铺进日常",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718278.shtml",
-        "publishedAt": "2026-10-21T10:16:07.000+08:00"
+        "title": "《人民法院司法责任追究条例》发布 明确司法追究范围处理方式等",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-21/10718307.shtml",
+        "publishedAt": "2026-10-21T10:27:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T10:30:03.518+08:00",
+    "fetchedAt": "2026-10-21T10:40:03.846+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T10:30:08.712+08:00",
+      "fetchedAt": "2026-10-21T10:40:09.679+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 10,
+          "usedPct": 15,
           "resetAt": "2026-10-21T14:09:39.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 17,
+          "usedPct": 18,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T10:30:08.951+08:00",
+      "fetchedAt": "2026-10-21T10:40:09.922+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T10:30:08.962+08:00",
+      "fetchedAt": "2026-10-21T10:40:09.929+08:00",
       "error": null
     }
   }
