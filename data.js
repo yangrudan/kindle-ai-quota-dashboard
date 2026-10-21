@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T07:00:10.073+08:00",
+  "updatedAt": "2026-10-22T07:10:09.109+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-22T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T07:00:10.073+08:00",
+    "fetchedAt": "2026-10-22T07:10:09.110+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国宣布制裁与伊朗相关的多家外国实体",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718825.shtml",
+        "publishedAt": "2026-10-22T07:00:21.000+08:00"
+      },
+      {
+        "title": "乌克兰首都基辅遭弹道导弹袭击",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718824.shtml",
+        "publishedAt": "2026-10-22T06:58:05.000+08:00"
+      },
       {
         "title": "10月22日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10718823.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国体操队时隔20年再夺世锦赛女团金牌",
         "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718821.shtml",
         "publishedAt": "2026-10-22T06:18:10.000+08:00"
-      },
-      {
-        "title": "沙特一油田设施遭无人机袭击 致2死2伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718820.shtml",
-        "publishedAt": "2026-10-22T05:59:33.000+08:00"
-      },
-      {
-        "title": "美国对伊朗实施新一轮制裁",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718819.shtml",
-        "publishedAt": "2026-10-22T05:58:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T07:00:04.664+08:00",
+    "fetchedAt": "2026-10-22T07:10:03.439+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T07:00:08.706+08:00",
+      "fetchedAt": "2026-10-22T07:10:07.914+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T12:00:09.000+08:00"
+          "resetAt": "2026-10-22T12:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T07:00:08.961+08:00",
+      "fetchedAt": "2026-10-22T07:10:08.221+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T07:00:08.972+08:00",
+      "fetchedAt": "2026-10-22T07:10:08.226+08:00",
       "error": null
     }
   }
