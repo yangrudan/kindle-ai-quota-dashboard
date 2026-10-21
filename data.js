@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T05:50:38.403+08:00",
+  "updatedAt": "2026-10-22T06:00:09.668+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 6.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T05:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T05:50:38.403+08:00",
+    "observedAt": "2026-10-22T06:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T06:00:09.668+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "俄国防部：俄军继续打击乌物流中心及港口基础设施",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718818.shtml",
+        "publishedAt": "2026-10-22T05:57:13.000+08:00"
+      },
+      {
+        "title": "泽连斯基：乌方支持尽快启动新一轮三方会谈",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718817.shtml",
+        "publishedAt": "2026-10-22T05:55:19.000+08:00"
+      },
+      {
+        "title": "牙膏分类新规来了 如何挑选适合自己的产品？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-22/10718816.shtml",
+        "publishedAt": "2026-10-22T05:53:33.000+08:00"
+      },
       {
         "title": "法国总统马克龙：将采取一切必要措施防范骚乱再次发生",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718815.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "香港《2026年法治指数》排名保持前列",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10718814.shtml",
         "publishedAt": "2026-10-22T00:22:37.000+08:00"
-      },
-      {
-        "title": "俄总统助理：俄方原则同意下月重启俄美乌三方谈判",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718813.shtml",
-        "publishedAt": "2026-10-22T00:22:33.000+08:00"
-      },
-      {
-        "title": "“致敬国家丰碑” 国情教育宣讲活动在港举行 厚植青年家国情怀",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718796.shtml",
-        "publishedAt": "2026-10-21T23:24:53.000+08:00"
-      },
-      {
-        "title": "2026金融街论坛年会金融科技大会在京举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718797.shtml",
-        "publishedAt": "2026-10-21T23:24:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T05:50:03.565+08:00",
+    "fetchedAt": "2026-10-22T06:00:04.697+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T05:50:37.006+08:00",
+      "fetchedAt": "2026-10-22T06:00:08.530+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T10:50:38.000+08:00"
+          "resetAt": "2026-10-22T11:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T05:50:37.247+08:00",
+      "fetchedAt": "2026-10-22T06:00:08.755+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T05:50:37.252+08:00",
+      "fetchedAt": "2026-10-22T06:00:08.761+08:00",
       "error": null
     }
   }
