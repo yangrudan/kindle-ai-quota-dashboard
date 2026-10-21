@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T16:30:10.921+08:00",
+  "updatedAt": "2026-10-21T16:40:40.782+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.9,
+    "tempC": 19.7,
     "feelsLikeC": 18.5,
-    "humidity": 63,
-    "windKph": 14.8,
+    "humidity": 64,
+    "windKph": 13.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T16:30:10.922+08:00",
+    "observedAt": "2026-10-21T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-21T16:40:40.782+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "以文聚力 以技赋能 南京江宁2026台青AI技能训练营暨非遗见学营开营",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718568.shtml",
-        "publishedAt": "2026-10-21T16:27:13.000+08:00"
+        "title": "2026世界网联世界网球巡回赛青少年年终总决赛在成都开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718570.shtml",
+        "publishedAt": "2026-10-21T16:36:55.000+08:00"
       },
       {
-        "title": "今年前三季度江门市侨资企业进出口逾569亿元",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-21/10718567.shtml",
-        "publishedAt": "2026-10-21T16:25:59.000+08:00"
+        "title": "“行知”花开乌蒙山——民盟中央“地域+领域”组团式帮扶毕节市体育运动学校综述",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-21/10718574.shtml",
+        "publishedAt": "2026-10-21T16:34:23.000+08:00"
       },
       {
-        "title": "报告：中国已初步形成多层次可持续投资市场体系",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718563.shtml",
-        "publishedAt": "2026-10-21T16:25:09.000+08:00"
+        "title": "《交通管理电子证照 机动车行驶证》国家标准发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718573.shtml",
+        "publishedAt": "2026-10-21T16:34:23.000+08:00"
       },
       {
-        "title": "山东省中鲁远洋渔业股份有限公司总经理王欢接受监察调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718562.shtml",
-        "publishedAt": "2026-10-21T16:23:39.000+08:00"
+        "title": "同程旅行“新旅人公益计划”直播课堂城市专场首站落地北京",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718572.shtml",
+        "publishedAt": "2026-10-21T16:31:57.000+08:00"
       },
       {
-        "title": "到2030年 中国特色大国消防救援力量体系基本建成",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718564.shtml",
-        "publishedAt": "2026-10-21T16:22:34.000+08:00"
+        "title": "2026世界网联世界网球巡回赛青少年年终总决赛在成都开拍",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718569.shtml",
+        "publishedAt": "2026-10-21T16:28:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T16:30:02.756+08:00",
+    "fetchedAt": "2026-10-21T16:40:04.059+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T16:30:06.607+08:00",
+      "fetchedAt": "2026-10-21T16:40:38.263+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 86,
+          "usedPct": 87,
           "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T16:30:06.893+08:00",
+      "fetchedAt": "2026-10-21T16:40:38.591+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T16:30:06.898+08:00",
+      "fetchedAt": "2026-10-21T16:40:38.597+08:00",
       "error": null
     }
   }
