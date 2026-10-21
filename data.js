@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T17:30:40.156+08:00",
+  "updatedAt": "2026-10-21T17:40:10.673+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T17:30:40.156+08:00",
+    "fetchedAt": "2026-10-21T17:40:10.673+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "三峡国际机场连续三年出入境流量突破10万人次",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718600.shtml",
-        "publishedAt": "2026-10-21T17:18:47.000+08:00"
+        "title": "（文化中国行·校馆弦歌）百年文脉润青春 四川大学图书馆的“守典”与“开新”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718605.shtml",
+        "publishedAt": "2026-10-21T17:31:26.000+08:00"
       },
       {
-        "title": "东西问丨希腊文化部长莉娜·门佐尼：古老文明智慧可为当下提供答案",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-21/10718593.shtml",
-        "publishedAt": "2026-10-21T17:14:39.000+08:00"
+        "title": "第33届APEC财长会在港举行 多项成果凝聚亚太财金合作共识",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718604.shtml",
+        "publishedAt": "2026-10-21T17:30:06.000+08:00"
       },
       {
-        "title": "“十五五”时期实现我国地震监测能力达到1.0—2.5级",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718596.shtml",
-        "publishedAt": "2026-10-21T17:04:57.000+08:00"
+        "title": "国家发展改革委资源节约和环境保护司原司长任树本被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718602.shtml",
+        "publishedAt": "2026-10-21T17:25:16.000+08:00"
       },
       {
-        "title": "早期症状易误诊 这两类血液肿瘤专挑中老年人“下手”",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-21/10718594.shtml",
-        "publishedAt": "2026-10-21T17:02:21.000+08:00"
+        "title": "聚焦网络食品销售虚假宣传等问题 市场监管总局公布6起典型案例",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718595.shtml",
+        "publishedAt": "2026-10-21T17:24:08.000+08:00"
       },
       {
-        "title": "重庆政协委员为新就业群体权益保障支招",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718592.shtml",
-        "publishedAt": "2026-10-21T17:01:03.000+08:00"
+        "title": "星巴克回应消费才能入座规定：10月22日起实施，执行会保有温度",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718603.shtml",
+        "publishedAt": "2026-10-21T17:22:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T17:30:04.308+08:00",
+    "fetchedAt": "2026-10-21T17:40:03.549+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T17:30:39.184+08:00",
+      "fetchedAt": "2026-10-21T17:40:09.673+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-10-21T19:10:52.000+08:00"
+          "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 47,
-          "resetAt": "2026-10-27T14:33:50.000+08:00"
+          "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T17:30:39.341+08:00",
+      "fetchedAt": "2026-10-21T17:40:09.809+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T17:30:39.350+08:00",
+      "fetchedAt": "2026-10-21T17:40:09.818+08:00",
       "error": null
     }
   }
