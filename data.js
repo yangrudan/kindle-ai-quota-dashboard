@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T07:50:07.573+08:00",
+  "updatedAt": "2026-10-21T08:00:10.503+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18,
-    "feelsLikeC": 18.3,
-    "humidity": 93,
-    "windKph": 14.3,
+    "tempC": 18.1,
+    "feelsLikeC": 18.4,
+    "humidity": 92,
+    "windKph": 14.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T07:50:07.574+08:00",
+    "observedAt": "2026-10-21T08:00:00.000+08:00",
+    "fetchedAt": "2026-10-21T08:00:10.503+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "手搓“微缩博物馆” 解锁文创新体验",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718240.shtml",
+        "publishedAt": "2026-10-21T07:48:47.000+08:00"
+      },
       {
         "title": "“产品溯源”不能沦为坑老营销的“新马甲”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718238.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“东西还能用，为什么没人要” 大件旧物回收现状调查",
         "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718234.shtml",
         "publishedAt": "2026-10-21T07:34:20.000+08:00"
-      },
-      {
-        "title": "真实岗位任务进入实训、产业数据进入学习……揭秘职教未来实训中心",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-21/10718233.shtml",
-        "publishedAt": "2026-10-21T07:32:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T07:50:02.911+08:00",
+    "fetchedAt": "2026-10-21T08:00:04.768+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T07:50:06.471+08:00",
+      "fetchedAt": "2026-10-21T08:00:09.438+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-21T12:50:07.000+08:00"
+          "resetAt": "2026-10-21T13:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T07:50:06.692+08:00",
+      "fetchedAt": "2026-10-21T08:00:09.653+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T07:50:06.702+08:00",
+      "fetchedAt": "2026-10-21T08:00:09.659+08:00",
       "error": null
     }
   }
