@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T06:50:08.466+08:00",
+  "updatedAt": "2026-10-22T07:00:10.073+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.9,
-    "feelsLikeC": 13.3,
-    "humidity": 82,
-    "windKph": 5.9,
+    "tempC": 14.1,
+    "feelsLikeC": 13.5,
+    "humidity": 81,
+    "windKph": 6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T06:50:08.466+08:00",
+    "observedAt": "2026-10-22T07:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T07:00:10.073+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月22日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10718823.shtml",
+        "publishedAt": "2026-10-22T06:48:02.000+08:00"
+      },
+      {
+        "title": "从奥斯陆到圣彼得堡 美特使密集斡旋 美俄乌三方会谈酝酿重启",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718822.shtml",
+        "publishedAt": "2026-10-22T06:46:30.000+08:00"
+      },
       {
         "title": "中国体操队时隔20年再夺世锦赛女团金牌",
         "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718821.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美国对伊朗实施新一轮制裁",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718819.shtml",
         "publishedAt": "2026-10-22T05:58:23.000+08:00"
-      },
-      {
-        "title": "俄国防部：俄军继续打击乌物流中心及港口基础设施",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718818.shtml",
-        "publishedAt": "2026-10-22T05:57:13.000+08:00"
-      },
-      {
-        "title": "泽连斯基：乌方支持尽快启动新一轮三方会谈",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718817.shtml",
-        "publishedAt": "2026-10-22T05:55:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T06:50:03.460+08:00",
+    "fetchedAt": "2026-10-22T07:00:04.664+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T06:50:07.269+08:00",
+      "fetchedAt": "2026-10-22T07:00:08.706+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T11:50:08.000+08:00"
+          "resetAt": "2026-10-22T12:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T06:50:07.553+08:00",
+      "fetchedAt": "2026-10-22T07:00:08.961+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T06:50:07.559+08:00",
+      "fetchedAt": "2026-10-22T07:00:08.972+08:00",
       "error": null
     }
   }
