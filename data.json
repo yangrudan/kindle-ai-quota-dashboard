@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-21T14:10:08.735+08:00",
+  "updatedAt": "2026-10-21T14:20:45.012+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.7,
-    "feelsLikeC": 19.6,
-    "humidity": 63,
-    "windKph": 15,
+    "tempC": 20.8,
+    "feelsLikeC": 19.7,
+    "humidity": 62,
+    "windKph": 14.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T14:10:08.735+08:00",
+    "observedAt": "2026-10-21T14:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T14:20:45.012+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国男团摘得体操世锦赛铜牌 锁定洛杉矶奥运会团体参赛席位",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-21/1208458.shtml",
-        "publishedAt": "2026-10-21T14:00:54.000+08:00"
+        "title": "买得多≠消费者 “进货式网购”不适用退一赔三",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-21/10718457.shtml",
+        "publishedAt": "2026-10-21T14:15:56.000+08:00"
       },
       {
-        "title": "2025年中国单位GDP二氧化碳排放较2020年降低17.7%",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718433.shtml",
-        "publishedAt": "2026-10-21T13:56:29.000+08:00"
+        "title": "世界在建最大跨径路轨两用悬索桥实现主桥合龙",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718442.shtml",
+        "publishedAt": "2026-10-21T14:11:15.000+08:00"
       },
       {
-        "title": "中国自愿减排交易市场加速发展 累计成交额近20亿元",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718429.shtml",
-        "publishedAt": "2026-10-21T13:54:56.000+08:00"
+        "title": "直播海报：挑战机车水上漂纪录 17年后张雪为梦再冲锋！",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718445.shtml",
+        "publishedAt": "2026-10-21T14:09:11.000+08:00"
       },
       {
-        "title": "今年前三季度中国铁路累计投产新线1625公里",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718432.shtml",
-        "publishedAt": "2026-10-21T13:54:32.000+08:00"
+        "title": "夫妻花67.3万购名表不试不挑 反常消费牵出投资诈骗",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-21/10718444.shtml",
+        "publishedAt": "2026-10-21T14:04:31.000+08:00"
       },
       {
-        "title": "如何应对空间研究当前挑战？国际组织和中外专家共商全球合作之策",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718425.shtml",
-        "publishedAt": "2026-10-21T13:53:16.000+08:00"
+        "title": "聚焦向海经济与人工智能 桂台携手拓“蓝海”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718436.shtml",
+        "publishedAt": "2026-10-21T14:02:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T14:10:03.490+08:00",
+    "fetchedAt": "2026-10-21T14:20:05.553+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T14:10:07.520+08:00",
+      "fetchedAt": "2026-10-21T14:20:43.368+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-21T19:10:08.000+08:00"
+          "usedPct": 17,
+          "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 32,
+          "usedPct": 34,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T14:10:07.755+08:00",
+      "fetchedAt": "2026-10-21T14:20:43.604+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T14:10:07.764+08:00",
+      "fetchedAt": "2026-10-21T14:20:43.613+08:00",
       "error": null
     }
   }
