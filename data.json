@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-21T19:10:09.378+08:00",
+  "updatedAt": "2026-10-21T19:20:37.763+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.4,
-    "feelsLikeC": 16.7,
+    "tempC": 17.3,
+    "feelsLikeC": 16.6,
     "humidity": 73,
-    "windKph": 10.3,
+    "windKph": 10.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T19:10:09.378+08:00",
+    "observedAt": "2026-10-21T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T19:20:37.763+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "受权发布丨中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718635.shtml",
-        "publishedAt": "2026-10-21T18:45:06.000+08:00"
+        "title": "东西问丨曾珺：跨越90年，外籍友人与长征的故事何以不断书写？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-21/10718650.shtml",
+        "publishedAt": "2026-10-21T19:12:32.000+08:00"
       },
       {
-        "title": "国台办发布会回应纪念孙中山诞辰、艺人赴台交流遭拒等热点",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718640.shtml",
-        "publishedAt": "2026-10-21T18:34:28.000+08:00"
+        "title": "沈联涛：香港可做中国走向世界“中间人”，战略价值将愈发凸显",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718651.shtml",
+        "publishedAt": "2026-10-21T19:10:44.000+08:00"
       },
       {
-        "title": "印度国家银行遭黑客攻击 超3000条客户信息被泄露",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718634.shtml",
-        "publishedAt": "2026-10-21T18:33:34.000+08:00"
+        "title": "云南保山：窑火淬永子 方寸见同心",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718649.shtml",
+        "publishedAt": "2026-10-21T19:06:33.000+08:00"
       },
       {
-        "title": "超强台风“罗莎尔”逼近吕宋岛北部 菲律宾多地将有强风降雨",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718632.shtml",
-        "publishedAt": "2026-10-21T18:33:28.000+08:00"
+        "title": "今年前三季度长三角区域进出口总值创历史同期新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718644.shtml",
+        "publishedAt": "2026-10-21T19:06:25.000+08:00"
       },
       {
-        "title": "印尼央行维持基准利率5.75%不变 上调存款便利利率",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718609.shtml",
-        "publishedAt": "2026-10-21T18:32:55.000+08:00"
+        "title": "前三季度山东外贸进出口总值2.75万亿元 规模创历史同期新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718643.shtml",
+        "publishedAt": "2026-10-21T19:05:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T19:10:03.581+08:00",
+    "fetchedAt": "2026-10-21T19:20:02.909+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T19:10:08.103+08:00",
+      "fetchedAt": "2026-10-21T19:20:36.437+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 100,
-          "resetAt": "2026-10-21T19:10:51.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-22T00:20:26.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T19:10:08.367+08:00",
+      "fetchedAt": "2026-10-21T19:20:36.705+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T19:10:08.372+08:00",
+      "fetchedAt": "2026-10-21T19:20:36.714+08:00",
       "error": null
     }
   }
