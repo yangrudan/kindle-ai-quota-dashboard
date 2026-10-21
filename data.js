@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T17:50:10.116+08:00",
+  "updatedAt": "2026-10-21T18:00:07.909+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T17:50:10.116+08:00",
+    "fetchedAt": "2026-10-21T18:00:07.909+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "长春市住房公积金管理中心原党组书记、主任祖国接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718613.shtml",
-        "publishedAt": "2026-10-21T17:43:55.000+08:00"
+        "title": "“陈敬贤生平事迹展”在厦门集美揭幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718621.shtml",
+        "publishedAt": "2026-10-21T17:53:59.000+08:00"
       },
       {
-        "title": "崔健在交响乐中摇滚 第29届北京国际音乐节在跨界中收官",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718615.shtml",
-        "publishedAt": "2026-10-21T17:42:09.000+08:00"
+        "title": "中国多了一种暖，核能供热加速落地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718620.shtml",
+        "publishedAt": "2026-10-21T17:52:27.000+08:00"
       },
       {
-        "title": "中国工农红军长征胜利90周年金银纪念币10月22日发行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718610.shtml",
-        "publishedAt": "2026-10-21T17:40:55.000+08:00"
+        "title": "从纸面到河畔 德州立法护航大运河文化遗产保护传承",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718619.shtml",
+        "publishedAt": "2026-10-21T17:51:39.000+08:00"
       },
       {
-        "title": "“境外媒体对话大学书记/校长”活动启动 首场亮相南京大学",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-21/10718607.shtml",
-        "publishedAt": "2026-10-21T17:36:18.000+08:00"
+        "title": "中新健康｜医生被豆包们逼得坐不住了？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-21/10718618.shtml",
+        "publishedAt": "2026-10-21T17:50:51.000+08:00"
       },
       {
-        "title": "（文化中国行·校馆弦歌）百年文脉润青春 四川大学图书馆的“守典”与“开新”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718605.shtml",
-        "publishedAt": "2026-10-21T17:31:26.000+08:00"
+        "title": "一行两局一会，集体发声释信号",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718617.shtml",
+        "publishedAt": "2026-10-21T17:50:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T17:50:05.042+08:00",
+    "fetchedAt": "2026-10-21T18:00:02.632+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T17:50:08.964+08:00",
+      "fetchedAt": "2026-10-21T18:00:06.796+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T17:50:09.195+08:00",
+      "fetchedAt": "2026-10-21T18:00:07.049+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T17:50:09.205+08:00",
+      "fetchedAt": "2026-10-21T18:00:07.058+08:00",
       "error": null
     }
   }
