@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T22:40:40.408+08:00",
+  "updatedAt": "2026-10-21T22:50:09.378+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.6,
-    "feelsLikeC": 14.9,
+    "tempC": 15.5,
+    "feelsLikeC": 14.8,
     "humidity": 79,
-    "windKph": 8.6,
+    "windKph": 8.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T22:40:40.408+08:00",
+    "observedAt": "2026-10-21T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-21T22:50:09.378+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "首届湖南安全应急装备产业博览会开幕 全链条装备亮相",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718785.shtml",
-        "publishedAt": "2026-10-21T22:24:08.000+08:00"
+        "title": "“绿茵逐梦 青春同行”2026苏澳青少年融媒体行动在澳门启动",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718790.shtml",
+        "publishedAt": "2026-10-21T22:45:07.000+08:00"
       },
       {
-        "title": "话剧《仰望者》上演 再现哈工大“八百壮士”报国路",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718784.shtml",
-        "publishedAt": "2026-10-21T22:23:12.000+08:00"
+        "title": "中央安全生产考核巡查二、三季度明查暗访发现重大事故隐患950项",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718789.shtml",
+        "publishedAt": "2026-10-21T22:44:53.000+08:00"
       },
       {
-        "title": "四川成都：18名粒子天体物理学家进校园解读宇宙奥秘",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718783.shtml",
-        "publishedAt": "2026-10-21T22:21:34.000+08:00"
+        "title": "法国一架“幻影-2000”战斗机坠毁 致1人丧生1人失踪",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718786.shtml",
+        "publishedAt": "2026-10-21T22:43:25.000+08:00"
       },
       {
-        "title": "聚焦物理AI与世界模型 前沿科技成果集中亮相南京",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718774.shtml",
-        "publishedAt": "2026-10-21T22:12:07.000+08:00"
+        "title": "261个港澳台项目参加广州科技创新创业大赛",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718788.shtml",
+        "publishedAt": "2026-10-21T22:43:13.000+08:00"
       },
       {
-        "title": "美媒：马斯克下令对军用级“星链”限速，令乌措手不及",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718782.shtml",
-        "publishedAt": "2026-10-21T22:11:07.000+08:00"
+        "title": "良渚，不止于“良渚”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718787.shtml",
+        "publishedAt": "2026-10-21T22:42:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T22:40:04.449+08:00",
+    "fetchedAt": "2026-10-21T22:50:03.807+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T22:40:38.063+08:00",
+      "fetchedAt": "2026-10-21T22:50:07.973+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T22:40:38.355+08:00",
+      "fetchedAt": "2026-10-21T22:50:08.378+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T22:40:38.358+08:00",
+      "fetchedAt": "2026-10-21T22:50:08.387+08:00",
       "error": null
     }
   }
