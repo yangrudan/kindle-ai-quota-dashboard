@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-21T09:40:09.471+08:00",
+  "updatedAt": "2026-10-21T09:50:08.223+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.4,
+    "tempC": 18.5,
     "feelsLikeC": 18.4,
-    "humidity": 86,
-    "windKph": 14.1,
+    "humidity": 85,
+    "windKph": 14.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T09:40:09.471+08:00",
+    "observedAt": "2026-10-21T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-21T09:50:08.223+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "厦门发布措施推动台胞台企登记审批便利化",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718271.shtml",
+        "publishedAt": "2026-10-21T09:45:07.000+08:00"
+      },
+      {
+        "title": "（寻味中华 | 艺林）高原水磨转千年 一缕藏香飘四方",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718259.shtml",
+        "publishedAt": "2026-10-21T09:41:19.000+08:00"
+      },
       {
         "title": "几块钱就能享受高阶会员 二手平台“破解版AI”靠谱吗",
         "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718270.shtml",
@@ -30,22 +40,12 @@
         "publishedAt": "2026-10-21T09:34:16.000+08:00"
       },
       {
-        "title": "A股开盘：超3200只个股飘红，三大指数集体高开",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718268.shtml",
-        "publishedAt": "2026-10-21T09:32:40.000+08:00"
-      },
-      {
-        "title": "长征具有跨越时代与国界的启示意义（国际论坛）",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-21/10718266.shtml",
-        "publishedAt": "2026-10-21T09:27:52.000+08:00"
-      },
-      {
-        "title": "费德勒：来中国书写给网球的“情书”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718260.shtml",
-        "publishedAt": "2026-10-21T09:23:16.000+08:00"
+        "title": "李强赴圣彼得堡举行中俄总理第三十一次定期会晤",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718262.shtml",
+        "publishedAt": "2026-10-21T09:33:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T09:40:03.327+08:00",
+    "fetchedAt": "2026-10-21T09:50:03.518+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T09:40:08.268+08:00",
+      "fetchedAt": "2026-10-21T09:50:06.958+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T09:40:08.522+08:00",
+      "fetchedAt": "2026-10-21T09:50:07.203+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T09:40:08.531+08:00",
+      "fetchedAt": "2026-10-21T09:50:07.207+08:00",
       "error": null
     }
   }
