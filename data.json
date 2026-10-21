@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T21:30:09.290+08:00",
+  "updatedAt": "2026-10-21T21:40:10.377+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-21T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T21:30:09.290+08:00",
+    "fetchedAt": "2026-10-21T21:40:10.377+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆市原江北区委副书记、区长何贵接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718752.shtml",
-        "publishedAt": "2026-10-21T21:26:19.000+08:00"
+        "title": "科技援疆赋能 新疆兵团第十二师农业育种迈向“选育创造”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718760.shtml",
+        "publishedAt": "2026-10-21T21:36:07.000+08:00"
       },
       {
-        "title": "国际青年福建中医药文化研习营福州开营",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718751.shtml",
-        "publishedAt": "2026-10-21T21:24:53.000+08:00"
+        "title": "哈萨克斯坦成甘肃最大贸易伙伴 “甘味”出口增长",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-21/10718758.shtml",
+        "publishedAt": "2026-10-21T21:35:01.000+08:00"
       },
       {
-        "title": "广州南沙多举措向全球引才",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718748.shtml",
-        "publishedAt": "2026-10-21T21:22:43.000+08:00"
+        "title": "通用人工智能大会行业智能体创新挑战赛在渝开赛",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718756.shtml",
+        "publishedAt": "2026-10-21T21:32:47.000+08:00"
       },
       {
-        "title": "又见·长征丨“局部打光了，也得打” 这句话藏着长征胜利的密码",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718749.shtml",
-        "publishedAt": "2026-10-21T21:22:35.000+08:00"
+        "title": "《金融支持建设北京（京津冀）国际科技创新中心实施方案》发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718754.shtml",
+        "publishedAt": "2026-10-21T21:29:27.000+08:00"
       },
       {
-        "title": "何以中国·新时代的长江之歌丨诗意长江焕发蓬勃生机",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718746.shtml",
-        "publishedAt": "2026-10-21T21:21:17.000+08:00"
+        "title": "《电动汽车动力蓄电池在役检测试验方法》国标发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718753.shtml",
+        "publishedAt": "2026-10-21T21:28:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T21:30:03.532+08:00",
+    "fetchedAt": "2026-10-21T21:40:03.668+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T21:30:08.156+08:00",
+      "fetchedAt": "2026-10-21T21:40:08.696+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T21:30:08.420+08:00",
+      "fetchedAt": "2026-10-21T21:40:08.883+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T21:30:08.429+08:00",
+      "fetchedAt": "2026-10-21T21:40:08.890+08:00",
       "error": null
     }
   }
