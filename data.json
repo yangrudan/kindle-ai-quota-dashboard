@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T07:40:09.147+08:00",
+  "updatedAt": "2026-10-22T07:50:07.946+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 14.7,
-    "feelsLikeC": 14,
-    "humidity": 78,
-    "windKph": 6.5,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 15.1,
+    "feelsLikeC": 14.4,
+    "humidity": 76,
+    "windKph": 6.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T07:40:09.147+08:00",
+    "observedAt": "2026-10-22T07:45:00.000+08:00",
+    "fetchedAt": "2026-10-22T07:50:07.946+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "AI制药能改变创新药“三个十定律”吗",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718827.shtml",
-        "publishedAt": "2026-10-22T07:28:32.000+08:00"
+        "title": "【我们的长征路】习言道｜一镜到底见证长征力量",
+        "url": "http://www.chinanews.com.cn/gn/shipin/2026/10-22/news1072587.shtml",
+        "publishedAt": "2026-10-22T07:43:27.000+08:00"
       },
       {
-        "title": "以媒：数十架以军战机飞近伊朗边境",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718826.shtml",
-        "publishedAt": "2026-10-22T07:27:06.000+08:00"
+        "title": "差价数十倍 概念“乱如麻” 网红钛制品真有那么神奇吗？",
+        "url": "https://www.chinanews.com.cn/life/2026/10-22/10718831.shtml",
+        "publishedAt": "2026-10-22T07:42:33.000+08:00"
       },
       {
-        "title": "美国宣布制裁与伊朗相关的多家外国实体",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718825.shtml",
-        "publishedAt": "2026-10-22T07:00:21.000+08:00"
+        "title": "旅客预订机票后因病申请退票被拒产生纠纷 专家解析",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718830.shtml",
+        "publishedAt": "2026-10-22T07:42:11.000+08:00"
       },
       {
-        "title": "乌克兰首都基辅遭弹道导弹袭击",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718824.shtml",
-        "publishedAt": "2026-10-22T06:58:05.000+08:00"
+        "title": "高龄老人独自参团出游，难在哪里？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718829.shtml",
+        "publishedAt": "2026-10-22T07:33:33.000+08:00"
       },
       {
-        "title": "10月22日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10718823.shtml",
-        "publishedAt": "2026-10-22T06:48:02.000+08:00"
+        "title": "平均每300米牺牲1人，这支队伍为什么没散？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718828.shtml",
+        "publishedAt": "2026-10-22T07:33:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T07:40:03.601+08:00",
+    "fetchedAt": "2026-10-22T07:50:03.393+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T07:40:08.030+08:00",
+      "fetchedAt": "2026-10-22T07:50:06.881+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T12:40:09.000+08:00"
+          "resetAt": "2026-10-22T12:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T07:40:08.219+08:00",
+      "fetchedAt": "2026-10-22T07:50:07.060+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T07:40:08.228+08:00",
+      "fetchedAt": "2026-10-22T07:50:07.070+08:00",
       "error": null
     }
   }
