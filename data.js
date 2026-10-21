@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T12:10:18.912+08:00",
+  "updatedAt": "2026-10-21T12:20:38.866+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.3,
+    "tempC": 20.4,
     "feelsLikeC": 19.2,
-    "humidity": 68,
+    "humidity": 66,
     "windKph": 16.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T12:10:18.913+08:00",
+    "observedAt": "2026-10-21T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T12:20:38.867+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国男团摘得体操世锦赛铜牌 锁定洛杉矶奥运会团体参赛席位",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718382.shtml",
+        "publishedAt": "2026-10-21T12:10:25.000+08:00"
+      },
       {
         "title": "谷神星一号海射型遥八运载火箭发射成功",
         "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718381.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "尼日利亚报告一例埃博拉确诊病例",
         "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718362.shtml",
         "publishedAt": "2026-10-21T11:59:40.000+08:00"
-      },
-      {
-        "title": "曾研发“会跳舞的导弹”，伊朗新防长警告美国别动武",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718263.shtml",
-        "publishedAt": "2026-10-21T11:59:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T12:10:12.798+08:00",
+    "fetchedAt": "2026-10-21T12:20:03.339+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T12:10:17.918+08:00",
+      "fetchedAt": "2026-10-21T12:20:37.240+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T12:10:18.050+08:00",
+      "fetchedAt": "2026-10-21T12:20:37.457+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T12:10:18.062+08:00",
+      "fetchedAt": "2026-10-21T12:20:37.461+08:00",
       "error": null
     }
   }
