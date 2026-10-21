@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:50:08.581+08:00",
+  "updatedAt": "2026-10-21T12:00:10.563+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T11:50:08.581+08:00",
+    "fetchedAt": "2026-10-21T12:00:10.563+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "男子造谣“艺人肖某演唱会第一排门票25万元”被依法查处",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718374.shtml",
+        "publishedAt": "2026-10-21T11:55:28.000+08:00"
+      },
+      {
+        "title": "何以中国·当惊世界殊丨以一江碧水写答卷，从荆楚新貌见中国",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718360.shtml",
+        "publishedAt": "2026-10-21T11:53:54.000+08:00"
+      },
+      {
+        "title": "印度尼西亚一客轮起火",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-21/1208446.shtml",
+        "publishedAt": "2026-10-21T11:51:16.000+08:00"
+      },
+      {
+        "title": "（台湾写真）AI浪潮驱动两岸供应链紧密嵌合",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718361.shtml",
+        "publishedAt": "2026-10-21T11:51:06.000+08:00"
+      },
+      {
         "title": "国台办：民进党当局“跪美卖台” 妄图“倚美谋独”不会得逞",
         "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718350.shtml",
         "publishedAt": "2026-10-21T11:34:37.000+08:00"
-      },
-      {
-        "title": "2026全国警务实战教官技能比武 手枪实战应用射击课目比拼激烈",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718348.shtml",
-        "publishedAt": "2026-10-21T11:34:05.000+08:00"
-      },
-      {
-        "title": "戎装虽卸初心在，爱尔眼科陈杰荣获全国退役军人服务保障先进个人",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718359.shtml",
-        "publishedAt": "2026-10-21T11:32:07.000+08:00"
-      },
-      {
-        "title": "公安部网安局：“肖某演唱会第一排门票25万元”不实",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718365.shtml",
-        "publishedAt": "2026-10-21T11:31:53.000+08:00"
-      },
-      {
-        "title": "向海而兴 向种而强 东盟记者镜头中的海南速度",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-21/10718364.shtml",
-        "publishedAt": "2026-10-21T11:30:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T11:50:03.242+08:00",
+    "fetchedAt": "2026-10-21T12:00:02.812+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T11:50:07.512+08:00",
+      "fetchedAt": "2026-10-21T12:00:09.517+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T11:50:07.766+08:00",
+      "fetchedAt": "2026-10-21T12:00:09.664+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T11:50:07.772+08:00",
+      "fetchedAt": "2026-10-21T12:00:09.668+08:00",
       "error": null
     }
   }
