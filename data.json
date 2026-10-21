@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-21T17:20:40.836+08:00",
+  "updatedAt": "2026-10-21T17:30:40.156+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19,
-    "feelsLikeC": 18.2,
-    "humidity": 68,
-    "windKph": 11.7,
+    "tempC": 18.7,
+    "feelsLikeC": 17.9,
+    "humidity": 69,
+    "windKph": 11.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T17:20:40.837+08:00",
+    "observedAt": "2026-10-21T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-21T17:30:40.156+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "三峡国际机场连续三年出入境流量突破10万人次",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718600.shtml",
+        "publishedAt": "2026-10-21T17:18:47.000+08:00"
+      },
       {
         "title": "东西问丨希腊文化部长莉娜·门佐尼：古老文明智慧可为当下提供答案",
         "url": "https://www.chinanews.com.cn/dxw/2026/10-21/10718593.shtml",
@@ -38,14 +43,9 @@
         "title": "重庆政协委员为新就业群体权益保障支招",
         "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718592.shtml",
         "publishedAt": "2026-10-21T17:01:03.000+08:00"
-      },
-      {
-        "title": "48小时“鲜”达海外 吉林延边松茸今年出口超亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718591.shtml",
-        "publishedAt": "2026-10-21T16:59:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T17:20:04.395+08:00",
+    "fetchedAt": "2026-10-21T17:30:04.308+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T17:20:39.500+08:00",
+      "fetchedAt": "2026-10-21T17:30:39.184+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-10-21T19:10:51.000+08:00"
+          "resetAt": "2026-10-21T19:10:52.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 47,
-          "resetAt": "2026-10-27T14:33:49.000+08:00"
+          "resetAt": "2026-10-27T14:33:50.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T17:20:39.747+08:00",
+      "fetchedAt": "2026-10-21T17:30:39.341+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T17:20:39.752+08:00",
+      "fetchedAt": "2026-10-21T17:30:39.350+08:00",
       "error": null
     }
   }
