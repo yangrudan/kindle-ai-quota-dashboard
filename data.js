@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T06:20:09.157+08:00",
+  "updatedAt": "2026-10-22T06:30:09.512+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.7,
-    "feelsLikeC": 12.9,
+    "tempC": 13.8,
+    "feelsLikeC": 13.1,
     "humidity": 82,
-    "windKph": 6.3,
+    "windKph": 6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T06:15:00.000+08:00",
-    "fetchedAt": "2026-10-22T06:20:09.157+08:00",
+    "observedAt": "2026-10-22T06:30:00.000+08:00",
+    "fetchedAt": "2026-10-22T06:30:09.512+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国体操队时隔20年再夺世锦赛女团金牌",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718821.shtml",
+        "publishedAt": "2026-10-22T06:18:10.000+08:00"
+      },
       {
         "title": "沙特一油田设施遭无人机袭击 致2死2伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718820.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "泽连斯基：乌方支持尽快启动新一轮三方会谈",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718817.shtml",
         "publishedAt": "2026-10-22T05:55:19.000+08:00"
-      },
-      {
-        "title": "牙膏分类新规来了 如何挑选适合自己的产品？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-22/10718816.shtml",
-        "publishedAt": "2026-10-22T05:53:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T06:20:03.629+08:00",
+    "fetchedAt": "2026-10-22T06:30:04.174+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T06:20:07.782+08:00",
+      "fetchedAt": "2026-10-22T06:30:08.392+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T11:20:08.000+08:00"
+          "resetAt": "2026-10-22T11:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T06:20:08.105+08:00",
+      "fetchedAt": "2026-10-22T06:30:08.707+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T06:20:08.109+08:00",
+      "fetchedAt": "2026-10-22T06:30:08.716+08:00",
       "error": null
     }
   }
