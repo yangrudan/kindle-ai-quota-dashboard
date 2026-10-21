@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T10:10:08.850+08:00",
+  "updatedAt": "2026-10-21T10:20:08.570+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 18.5,
-    "humidity": 83,
-    "windKph": 14.7,
+    "tempC": 19,
+    "feelsLikeC": 18.6,
+    "humidity": 80,
+    "windKph": 14.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T10:10:08.850+08:00",
+    "observedAt": "2026-10-21T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T10:20:08.570+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "赓续红色基因，金融活水助力革命老区焕发新机",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718294.shtml",
-        "publishedAt": "2026-10-21T10:02:20.000+08:00"
+        "title": "科技可感可游 “赛博光谷”把科创铺进日常",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718278.shtml",
+        "publishedAt": "2026-10-21T10:16:07.000+08:00"
       },
       {
-        "title": "AI答案靠不住？GEO给大模型配上“参考书”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718295.shtml",
-        "publishedAt": "2026-10-21T10:02:06.000+08:00"
+        "title": "全球媒体聚焦 | 多国产品瞄准进博会广阔商机",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718300.shtml",
+        "publishedAt": "2026-10-21T10:15:00.000+08:00"
       },
       {
-        "title": "中国驻佛罗伦萨总领馆提醒中国公民注意安全",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-21/10718291.shtml",
-        "publishedAt": "2026-10-21T10:01:50.000+08:00"
+        "title": "“发现最美铁路·穿越丝路筑梦山海”活动敦煌启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718277.shtml",
+        "publishedAt": "2026-10-21T10:14:52.000+08:00"
       },
       {
-        "title": "第三届“中华文明与铸牢中华民族共同体意识”学术研讨会在京召开",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-21/10718280.shtml",
-        "publishedAt": "2026-10-21T10:01:10.000+08:00"
+        "title": "2026年现代科技馆体系专题研讨提升科技馆教育理念与实践能力",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718296.shtml",
+        "publishedAt": "2026-10-21T10:14:02.000+08:00"
       },
       {
-        "title": "普兰店区统一战线举办纪念中国工农红军长征胜利90周年主题读书分享会",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-21/10718275.shtml",
-        "publishedAt": "2026-10-21T10:00:56.000+08:00"
+        "title": "我国应对气候变化工作取得显著成效",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718299.shtml",
+        "publishedAt": "2026-10-21T10:11:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T10:10:03.976+08:00",
+    "fetchedAt": "2026-10-21T10:20:03.703+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T10:10:07.499+08:00",
+      "fetchedAt": "2026-10-21T10:20:07.295+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-10-21T14:09:39.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T10:10:07.878+08:00",
+      "fetchedAt": "2026-10-21T10:20:07.552+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T10:10:07.888+08:00",
+      "fetchedAt": "2026-10-21T10:20:07.561+08:00",
       "error": null
     }
   }
