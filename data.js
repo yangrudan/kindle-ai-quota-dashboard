@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T12:40:08.755+08:00",
+  "updatedAt": "2026-10-21T12:50:08.462+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.3,
-    "feelsLikeC": 19.2,
-    "humidity": 66,
-    "windKph": 16.4,
+    "tempC": 20.2,
+    "feelsLikeC": 19.1,
+    "humidity": 67,
+    "windKph": 16.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T12:40:08.755+08:00",
+    "observedAt": "2026-10-21T12:45:00.000+08:00",
+    "fetchedAt": "2026-10-21T12:50:08.462+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "樊振东发文抵制偷拍！以爱为名，岂能成为僭越隐私的托词？",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718390.shtml",
+        "publishedAt": "2026-10-21T12:44:37.000+08:00"
+      },
+      {
+        "title": "谷神星一号海射型遥八运载火箭发射成功",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-21/1208455.shtml",
+        "publishedAt": "2026-10-21T12:36:08.000+08:00"
+      },
       {
         "title": "国台办批民进党当局对台积电“崽卖爷田不心疼”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718386.shtml",
@@ -30,22 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-21T12:27:36.000+08:00"
       },
       {
-        "title": "谷神星一号海射型遥八运载火箭发射成功",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718384.shtml",
-        "publishedAt": "2026-10-21T12:23:17.000+08:00"
-      },
-      {
         "title": "访那柯里：一个让人记得住乡愁也看到发展的地方",
         "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718371.shtml",
         "publishedAt": "2026-10-21T12:21:25.000+08:00"
-      },
-      {
-        "title": "五羊星座首发星发射 未来将具备30分钟级灾害应急响应能力",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718383.shtml",
-        "publishedAt": "2026-10-21T12:21:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T12:40:03.622+08:00",
+    "fetchedAt": "2026-10-21T12:50:02.664+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T12:40:07.675+08:00",
+      "fetchedAt": "2026-10-21T12:50:07.373+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T12:40:07.935+08:00",
+      "fetchedAt": "2026-10-21T12:50:07.651+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T12:40:07.942+08:00",
+      "fetchedAt": "2026-10-21T12:50:07.657+08:00",
       "error": null
     }
   }
