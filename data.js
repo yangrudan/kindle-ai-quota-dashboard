@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T13:40:09.279+08:00",
+  "updatedAt": "2026-10-21T13:50:08.124+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.5,
-    "feelsLikeC": 19.3,
-    "humidity": 65,
-    "windKph": 15.5,
+    "tempC": 20.6,
+    "feelsLikeC": 19.5,
+    "humidity": 64,
+    "windKph": 15.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T13:40:09.279+08:00",
+    "observedAt": "2026-10-21T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-21T13:50:08.124+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东工会开展就业服务进校园活动 供岗1.5万余个",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718405.shtml",
-        "publishedAt": "2026-10-21T13:34:19.000+08:00"
+        "title": "王蒙：经典活在生活里 AI替代不了文学的“人味”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718417.shtml",
+        "publishedAt": "2026-10-21T13:46:42.000+08:00"
       },
       {
-        "title": "纽约茱莉亚学院荣休院长：中国会成为世界古典音乐发展的中心之一",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718414.shtml",
-        "publishedAt": "2026-10-21T13:33:53.000+08:00"
+        "title": "业界共探航运脱碳路径 灵活性布局助力平稳转型",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718416.shtml",
+        "publishedAt": "2026-10-21T13:46:18.000+08:00"
       },
       {
-        "title": "台风“蔷琵”逼近 浙江启动海上防台风应急响应",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718403.shtml",
-        "publishedAt": "2026-10-21T13:29:55.000+08:00"
+        "title": "智慧通关新成果发布 虹桥国际机场已率先落地国际全流程无感通行场景",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718413.shtml",
+        "publishedAt": "2026-10-21T13:45:42.000+08:00"
+      },
+      {
+        "title": "“萨克斯大爷”：音乐漫湖岸,热爱抵流年",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718431.shtml",
+        "publishedAt": "2026-10-21T13:45:14.000+08:00"
       },
       {
         "title": "国际工商界代表齐聚山东 共觅金砖合作新机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718398.shtml",
-        "publishedAt": "2026-10-21T13:28:27.000+08:00"
-      },
-      {
-        "title": "【我们的长征路】习言道丨习近平讲过的长征故事",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718396.shtml",
-        "publishedAt": "2026-10-21T13:28:23.000+08:00"
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718412.shtml",
+        "publishedAt": "2026-10-21T13:44:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T13:40:04.131+08:00",
+    "fetchedAt": "2026-10-21T13:50:03.475+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T13:40:07.683+08:00",
+      "fetchedAt": "2026-10-21T13:50:06.952+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 34,
+          "usedPct": 55,
           "resetAt": "2026-10-21T14:09:39.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 21,
+          "usedPct": 25,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T13:40:08.006+08:00",
+      "fetchedAt": "2026-10-21T13:50:07.189+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T13:40:08.009+08:00",
+      "fetchedAt": "2026-10-21T13:50:07.194+08:00",
       "error": null
     }
   }
