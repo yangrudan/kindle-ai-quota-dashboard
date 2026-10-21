@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T18:10:09.645+08:00",
+  "updatedAt": "2026-10-21T18:20:09.205+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.1,
-    "feelsLikeC": 17.4,
-    "humidity": 71,
-    "windKph": 10.7,
+    "tempC": 17.9,
+    "feelsLikeC": 17.2,
+    "humidity": 72,
+    "windKph": 10.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T18:10:09.645+08:00",
+    "observedAt": "2026-10-21T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T18:20:09.205+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "守护银龄 多地开展2026年全国“敬老月”活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718624.shtml",
-        "publishedAt": "2026-10-21T17:57:34.000+08:00"
+        "title": "中办、国办《关于推动科技创新和产业创新深度融合的意见》对外发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718631.shtml",
+        "publishedAt": "2026-10-21T18:06:44.000+08:00"
       },
       {
-        "title": "缅甸一加油站储油罐起火 云南德宏消防跨境驰援",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718622.shtml",
-        "publishedAt": "2026-10-21T17:57:16.000+08:00"
+        "title": "广州地铁签约马来西亚基础设施维保服务项目",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-21/10718628.shtml",
+        "publishedAt": "2026-10-21T18:04:26.000+08:00"
       },
       {
-        "title": "“陈敬贤生平事迹展”在厦门集美揭幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718621.shtml",
-        "publishedAt": "2026-10-21T17:53:59.000+08:00"
+        "title": "重庆“千里轻舟”航线累计货运量突破1100万吨",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718626.shtml",
+        "publishedAt": "2026-10-21T18:02:14.000+08:00"
       },
       {
-        "title": "中国多了一种暖，核能供热加速落地",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718620.shtml",
-        "publishedAt": "2026-10-21T17:52:27.000+08:00"
+        "title": "前8月青海社会消费品零售总额超666亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718625.shtml",
+        "publishedAt": "2026-10-21T18:01:46.000+08:00"
       },
       {
-        "title": "从纸面到河畔 德州立法护航大运河文化遗产保护传承",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718619.shtml",
-        "publishedAt": "2026-10-21T17:51:39.000+08:00"
+        "title": "广东高院首次发布涉东盟商事海事纠纷典型案例",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-21/10718623.shtml",
+        "publishedAt": "2026-10-21T17:58:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T18:10:03.781+08:00",
+    "fetchedAt": "2026-10-21T18:20:03.674+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T18:10:08.250+08:00",
+      "fetchedAt": "2026-10-21T18:20:08.133+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T18:10:08.500+08:00",
+      "fetchedAt": "2026-10-21T18:20:08.390+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T18:10:08.510+08:00",
+      "fetchedAt": "2026-10-21T18:20:08.400+08:00",
       "error": null
     }
   }
