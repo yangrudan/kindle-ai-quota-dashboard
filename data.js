@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T15:10:10.335+08:00",
+  "updatedAt": "2026-10-21T15:20:09.230+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.9,
-    "feelsLikeC": 19.7,
+    "tempC": 20.8,
+    "feelsLikeC": 19.5,
     "humidity": 61,
     "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T15:10:10.335+08:00",
+    "observedAt": "2026-10-21T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T15:20:09.231+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外交部：中方维护关键矿产全球产供链稳定与安全的立场没有变化",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718506.shtml",
+        "publishedAt": "2026-10-21T15:19:37.000+08:00"
+      },
+      {
+        "title": "外交部：敦促美方立即停止对古巴的封锁和任何形式的胁迫施压",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718502.shtml",
+        "publishedAt": "2026-10-21T15:17:35.000+08:00"
+      },
+      {
+        "title": "A股收评：超3300只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718499.shtml",
+        "publishedAt": "2026-10-21T15:12:09.000+08:00"
+      },
       {
         "title": "国家能源局就《关于推动煤电与新能源融合发展的实施意见》答记者问",
         "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718498.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "硬X射线自由电子激光装置实现首次出光",
         "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718496.shtml",
         "publishedAt": "2026-10-21T15:03:54.000+08:00"
-      },
-      {
-        "title": "艺人张凌赫赴台遭拒 国台办促摒弃政治操弄",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718493.shtml",
-        "publishedAt": "2026-10-21T15:00:10.000+08:00"
-      },
-      {
-        "title": "2026世界沙滩冲刺总决赛在山东青岛落幕 中国队收获4金",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718494.shtml",
-        "publishedAt": "2026-10-21T14:58:08.000+08:00"
-      },
-      {
-        "title": "“统”说营商 “连”手共赢——大连市统一战线助力营商环境建设",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-21/10718489.shtml",
-        "publishedAt": "2026-10-21T14:57:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T15:10:03.688+08:00",
+    "fetchedAt": "2026-10-21T15:20:02.714+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T15:10:09.165+08:00",
+      "fetchedAt": "2026-10-21T15:20:08.084+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 39,
+          "usedPct": 45,
           "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 38,
+          "usedPct": 39,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T15:10:09.393+08:00",
+      "fetchedAt": "2026-10-21T15:20:08.370+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T15:10:09.396+08:00",
+      "fetchedAt": "2026-10-21T15:20:08.373+08:00",
       "error": null
     }
   }
