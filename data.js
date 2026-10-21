@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T14:20:45.012+08:00",
+  "updatedAt": "2026-10-21T14:30:11.371+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.8,
+    "tempC": 20.9,
     "feelsLikeC": 19.7,
     "humidity": 62,
     "windKph": 14.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T14:20:45.012+08:00",
+    "observedAt": "2026-10-21T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-21T14:30:11.371+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "四川能源核产业有限公司揭牌 加速布局微型反应堆新赛道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718451.shtml",
+        "publishedAt": "2026-10-21T14:26:56.000+08:00"
+      },
+      {
+        "title": "长征路上学党史丨从荒凉落后到生机盎然：长征会师圣地会宁谱新篇",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718447.shtml",
+        "publishedAt": "2026-10-21T14:26:34.000+08:00"
+      },
+      {
+        "title": "天津七里海湿地过境水鸟累计超5万只",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718461.shtml",
+        "publishedAt": "2026-10-21T14:23:00.000+08:00"
+      },
+      {
+        "title": "活力中国调研行丨海口造 惠全国 供全球",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718459.shtml",
+        "publishedAt": "2026-10-21T14:18:02.000+08:00"
+      },
+      {
         "title": "买得多≠消费者 “进货式网购”不适用退一赔三",
         "url": "https://www.chinanews.com.cn/fz/2026/10-21/10718457.shtml",
         "publishedAt": "2026-10-21T14:15:56.000+08:00"
-      },
-      {
-        "title": "世界在建最大跨径路轨两用悬索桥实现主桥合龙",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718442.shtml",
-        "publishedAt": "2026-10-21T14:11:15.000+08:00"
-      },
-      {
-        "title": "直播海报：挑战机车水上漂纪录 17年后张雪为梦再冲锋！",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718445.shtml",
-        "publishedAt": "2026-10-21T14:09:11.000+08:00"
-      },
-      {
-        "title": "夫妻花67.3万购名表不试不挑 反常消费牵出投资诈骗",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-21/10718444.shtml",
-        "publishedAt": "2026-10-21T14:04:31.000+08:00"
-      },
-      {
-        "title": "聚焦向海经济与人工智能 桂台携手拓“蓝海”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718436.shtml",
-        "publishedAt": "2026-10-21T14:02:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T14:20:05.553+08:00",
+    "fetchedAt": "2026-10-21T14:30:04.055+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T14:20:43.368+08:00",
+      "fetchedAt": "2026-10-21T14:30:10.009+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 25,
           "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 34,
+          "usedPct": 36,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T14:20:43.604+08:00",
+      "fetchedAt": "2026-10-21T14:30:10.246+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T14:20:43.613+08:00",
+      "fetchedAt": "2026-10-21T14:30:10.259+08:00",
       "error": null
     }
   }
