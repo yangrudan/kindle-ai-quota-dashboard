@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T05:40:08.253+08:00",
+  "updatedAt": "2026-10-22T05:50:38.403+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 6.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T05:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T05:40:08.253+08:00",
+    "observedAt": "2026-10-22T05:45:00.000+08:00",
+    "fetchedAt": "2026-10-22T05:50:38.403+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "法国总统马克龙：将采取一切必要措施防范骚乱再次发生",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718815.shtml",
+        "publishedAt": "2026-10-22T05:45:01.000+08:00"
+      },
       {
         "title": "香港《2026年法治指数》排名保持前列",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10718814.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026金融街论坛年会金融科技大会在京举办",
         "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718797.shtml",
         "publishedAt": "2026-10-21T23:24:45.000+08:00"
-      },
-      {
-        "title": "中俄界湖秋色“出圈” 兴凯湖五彩林海成千里打卡“目的地”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718799.shtml",
-        "publishedAt": "2026-10-21T23:24:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T05:40:03.472+08:00",
+    "fetchedAt": "2026-10-22T05:50:03.565+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T05:40:07.103+08:00",
+      "fetchedAt": "2026-10-22T05:50:37.006+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T10:40:08.000+08:00"
+          "resetAt": "2026-10-22T10:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T05:40:07.367+08:00",
+      "fetchedAt": "2026-10-22T05:50:37.247+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T05:40:07.376+08:00",
+      "fetchedAt": "2026-10-22T05:50:37.252+08:00",
       "error": null
     }
   }
