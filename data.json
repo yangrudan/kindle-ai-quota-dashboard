@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-21T11:10:08.866+08:00",
+  "updatedAt": "2026-10-21T11:20:39.174+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.7,
-    "feelsLikeC": 18.9,
-    "humidity": 72,
-    "windKph": 15.8,
+    "tempC": 19.9,
+    "feelsLikeC": 19,
+    "humidity": 71,
+    "windKph": 16,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T11:10:08.866+08:00",
+    "observedAt": "2026-10-21T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T11:20:39.174+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "CBA常规赛：南京同曦宙光队不敌广州智都集团队",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718333.shtml",
-        "publishedAt": "2026-10-21T10:58:31.000+08:00"
+        "title": "国台办：支持台胞台企抢抓新质生产力发展机遇 融入新发展格局",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718318.shtml",
+        "publishedAt": "2026-10-21T11:14:00.000+08:00"
       },
       {
-        "title": "国台办：开箱大陆成台湾青年生活风尚",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718339.shtml",
-        "publishedAt": "2026-10-21T10:56:43.000+08:00"
+        "title": "前三季度重庆外贸进出口总值同比增长29.1%",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-21/10718320.shtml",
+        "publishedAt": "2026-10-21T11:13:22.000+08:00"
       },
       {
-        "title": "民进党当局拒绝艺人张凌赫赴台交流 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718327.shtml",
-        "publishedAt": "2026-10-21T10:56:03.000+08:00"
+        "title": "（活力中国调研行）中国游戏，从海南链全球",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718319.shtml",
+        "publishedAt": "2026-10-21T11:12:20.000+08:00"
       },
       {
-        "title": "国台办：日方应充分认识台湾问题高度敏感性",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718334.shtml",
-        "publishedAt": "2026-10-21T10:54:55.000+08:00"
+        "title": "生态环境部：我国应对气候变化成效显著",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718329.shtml",
+        "publishedAt": "2026-10-21T11:10:21.000+08:00"
       },
       {
-        "title": "国台办驳斥惩戒沈伯洋是干扰选举",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718332.shtml",
-        "publishedAt": "2026-10-21T10:53:23.000+08:00"
+        "title": "向海而生 向新而行｜天津的百年潮涌",
+        "url": "https://www.chinanews.com.cn/chuangyi/2026/10-21/10718265.shtml",
+        "publishedAt": "2026-10-21T11:09:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T11:10:03.280+08:00",
+    "fetchedAt": "2026-10-21T11:20:03.505+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T11:10:07.389+08:00",
+      "fetchedAt": "2026-10-21T11:20:37.557+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T11:10:07.701+08:00",
+      "fetchedAt": "2026-10-21T11:20:37.795+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T11:10:07.707+08:00",
+      "fetchedAt": "2026-10-21T11:20:37.804+08:00",
       "error": null
     }
   }
