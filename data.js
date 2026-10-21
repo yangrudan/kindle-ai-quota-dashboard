@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T15:20:09.230+08:00",
+  "updatedAt": "2026-10-21T15:30:18.820+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.8,
-    "feelsLikeC": 19.5,
+    "tempC": 20.6,
+    "feelsLikeC": 19.3,
     "humidity": 61,
     "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T15:20:09.231+08:00",
+    "observedAt": "2026-10-21T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-21T15:30:18.820+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外交部：中方维护关键矿产全球产供链稳定与安全的立场没有变化",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718506.shtml",
-        "publishedAt": "2026-10-21T15:19:37.000+08:00"
+        "title": "前9月国家铁路煤炭运量15.61亿吨",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718501.shtml",
+        "publishedAt": "2026-10-21T15:24:43.000+08:00"
+      },
+      {
+        "title": "第十六届国际纳米技术产业博览会在苏州开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718500.shtml",
+        "publishedAt": "2026-10-21T15:23:49.000+08:00"
       },
       {
         "title": "外交部：敦促美方立即停止对古巴的封锁和任何形式的胁迫施压",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718502.shtml",
-        "publishedAt": "2026-10-21T15:17:35.000+08:00"
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718507.shtml",
+        "publishedAt": "2026-10-21T15:22:19.000+08:00"
       },
       {
-        "title": "A股收评：超3300只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718499.shtml",
-        "publishedAt": "2026-10-21T15:12:09.000+08:00"
+        "title": "解码温暖：波司登1/2世纪展于上海西岸梦中心启幕 开启品牌五十周年新程",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718505.shtml",
+        "publishedAt": "2026-10-21T15:21:37.000+08:00"
       },
       {
-        "title": "国家能源局就《关于推动煤电与新能源融合发展的实施意见》答记者问",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718498.shtml",
-        "publishedAt": "2026-10-21T15:07:54.000+08:00"
-      },
-      {
-        "title": "硬X射线自由电子激光装置实现首次出光",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718496.shtml",
-        "publishedAt": "2026-10-21T15:03:54.000+08:00"
+        "title": "外交部：中方维护关键矿产全球产供链稳定与安全的立场没有变化",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718506.shtml",
+        "publishedAt": "2026-10-21T15:19:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T15:20:02.714+08:00",
+    "fetchedAt": "2026-10-21T15:30:03.986+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T15:20:08.084+08:00",
+      "fetchedAt": "2026-10-21T15:30:17.770+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 45,
+          "usedPct": 50,
           "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 39,
+          "usedPct": 40,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T15:20:08.370+08:00",
+      "fetchedAt": "2026-10-21T15:30:17.989+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T15:20:08.373+08:00",
+      "fetchedAt": "2026-10-21T15:30:17.995+08:00",
       "error": null
     }
   }
