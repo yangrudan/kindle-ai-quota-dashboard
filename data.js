@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T10:00:09.283+08:00",
+  "updatedAt": "2026-10-21T10:10:08.850+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.5,
-    "feelsLikeC": 18.4,
-    "humidity": 85,
-    "windKph": 14.4,
+    "tempC": 18.7,
+    "feelsLikeC": 18.5,
+    "humidity": 83,
+    "windKph": 14.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T10:00:09.283+08:00",
+    "observedAt": "2026-10-21T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-21T10:10:08.850+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "央行10月21日7天期逆回购操作量为零",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718267.shtml",
-        "publishedAt": "2026-10-21T09:55:35.000+08:00"
+        "title": "赓续红色基因，金融活水助力革命老区焕发新机",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718294.shtml",
+        "publishedAt": "2026-10-21T10:02:20.000+08:00"
       },
       {
-        "title": "直播海报：回望九十载峥嵘岁月 从万里长征走向伟大复兴",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718287.shtml",
-        "publishedAt": "2026-10-21T09:55:11.000+08:00"
+        "title": "AI答案靠不住？GEO给大模型配上“参考书”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718295.shtml",
+        "publishedAt": "2026-10-21T10:02:06.000+08:00"
       },
       {
-        "title": "跨城接单20次就进“黑名单”？顺风车的合规边界该怎么划",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718286.shtml",
-        "publishedAt": "2026-10-21T09:54:53.000+08:00"
+        "title": "中国驻佛罗伦萨总领馆提醒中国公民注意安全",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-21/10718291.shtml",
+        "publishedAt": "2026-10-21T10:01:50.000+08:00"
       },
       {
-        "title": "（活力中国调研行）境外数据文昌加工 航天超算拓展应用场景",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718285.shtml",
-        "publishedAt": "2026-10-21T09:54:19.000+08:00"
+        "title": "第三届“中华文明与铸牢中华民族共同体意识”学术研讨会在京召开",
+        "url": "https://www.chinanews.com.cn/mz/2026/10-21/10718280.shtml",
+        "publishedAt": "2026-10-21T10:01:10.000+08:00"
       },
       {
-        "title": "10月21日人民币对美元中间价报6.7192 上调8个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718261.shtml",
-        "publishedAt": "2026-10-21T09:53:19.000+08:00"
+        "title": "普兰店区统一战线举办纪念中国工农红军长征胜利90周年主题读书分享会",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-21/10718275.shtml",
+        "publishedAt": "2026-10-21T10:00:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T10:00:03.236+08:00",
+    "fetchedAt": "2026-10-21T10:10:03.976+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T10:00:08.100+08:00",
+      "fetchedAt": "2026-10-21T10:10:07.499+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T10:00:08.399+08:00",
+      "fetchedAt": "2026-10-21T10:10:07.878+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T10:00:08.409+08:00",
+      "fetchedAt": "2026-10-21T10:10:07.888+08:00",
       "error": null
     }
   }
