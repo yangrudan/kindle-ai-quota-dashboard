@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T23:20:08.016+08:00",
+  "updatedAt": "2026-10-21T23:30:10.312+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.2,
-    "feelsLikeC": 14.4,
-    "humidity": 78,
-    "windKph": 8.2,
+    "tempC": 15,
+    "feelsLikeC": 14.2,
+    "humidity": 79,
+    "windKph": 8.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T23:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T23:20:08.016+08:00",
+    "observedAt": "2026-10-21T23:30:00.000+08:00",
+    "fetchedAt": "2026-10-21T23:30:10.312+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国团队创新突破分子筛催化 推动羰基化反应“百年老树发新枝”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718810.shtml",
-        "publishedAt": "2026-10-21T23:07:30.000+08:00"
+        "title": "“致敬国家丰碑” 国情教育宣讲活动在港举行 厚植青年家国情怀",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718796.shtml",
+        "publishedAt": "2026-10-21T23:24:53.000+08:00"
       },
       {
-        "title": "神秘丹尼索瓦人有何共性特征？中国科学家最新研究许家窑人揭秘",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718809.shtml",
-        "publishedAt": "2026-10-21T23:04:40.000+08:00"
+        "title": "2026金融街论坛年会金融科技大会在京举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718797.shtml",
+        "publishedAt": "2026-10-21T23:24:45.000+08:00"
       },
       {
-        "title": "“香港连场好戏”旅游项目启动 推介50部电影逾百个取景地",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718795.shtml",
-        "publishedAt": "2026-10-21T22:49:11.000+08:00"
+        "title": "中俄界湖秋色“出圈” 兴凯湖五彩林海成千里打卡“目的地”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718799.shtml",
+        "publishedAt": "2026-10-21T23:24:09.000+08:00"
       },
       {
-        "title": "长春大冬会吉林市分赛区雪上项目赛道基础施工收官",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718794.shtml",
-        "publishedAt": "2026-10-21T22:48:29.000+08:00"
+        "title": "四川搭建欧资企业政企沟通平台 以对话回应关切",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718798.shtml",
+        "publishedAt": "2026-10-21T23:23:59.000+08:00"
       },
       {
-        "title": "中华文学基金会“育才图书室”捐赠仪式在广西三江举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718793.shtml",
-        "publishedAt": "2026-10-21T22:47:09.000+08:00"
+        "title": "桂台经贸融合发展与玉林产业发展对接会在广西玉林举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718800.shtml",
+        "publishedAt": "2026-10-21T23:22:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T23:20:02.913+08:00",
+    "fetchedAt": "2026-10-21T23:30:04.516+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T23:20:06.694+08:00",
+      "fetchedAt": "2026-10-21T23:30:09.144+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T23:20:06.976+08:00",
+      "fetchedAt": "2026-10-21T23:30:09.437+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T23:20:06.980+08:00",
+      "fetchedAt": "2026-10-21T23:30:09.445+08:00",
       "error": null
     }
   }
