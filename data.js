@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T18:50:08.503+08:00",
+  "updatedAt": "2026-10-21T19:00:10.739+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 16.9,
+    "tempC": 17.4,
+    "feelsLikeC": 16.7,
     "humidity": 73,
-    "windKph": 10.4,
+    "windKph": 10.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T18:50:08.503+08:00",
+    "observedAt": "2026-10-21T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-21T19:00:10.740+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "受权发布丨中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718635.shtml",
+        "publishedAt": "2026-10-21T18:45:06.000+08:00"
+      },
       {
         "title": "国台办发布会回应纪念孙中山诞辰、艺人赴台交流遭拒等热点",
         "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718640.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "印尼央行维持基准利率5.75%不变 上调存款便利利率",
         "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718609.shtml",
         "publishedAt": "2026-10-21T18:32:55.000+08:00"
-      },
-      {
-        "title": "2026年前三季度医保统筹基金支出超1.7万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718639.shtml",
-        "publishedAt": "2026-10-21T18:29:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T18:50:03.754+08:00",
+    "fetchedAt": "2026-10-21T19:00:05.921+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T18:50:07.294+08:00",
+      "fetchedAt": "2026-10-21T19:00:09.610+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T18:50:07.523+08:00",
+      "fetchedAt": "2026-10-21T19:00:09.922+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T18:50:07.533+08:00",
+      "fetchedAt": "2026-10-21T19:00:09.933+08:00",
       "error": null
     }
   }
