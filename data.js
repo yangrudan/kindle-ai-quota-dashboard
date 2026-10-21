@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T13:50:08.124+08:00",
+  "updatedAt": "2026-10-21T14:00:07.740+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T13:50:08.124+08:00",
+    "fetchedAt": "2026-10-21T14:00:07.740+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "王蒙：经典活在生活里 AI替代不了文学的“人味”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718417.shtml",
-        "publishedAt": "2026-10-21T13:46:42.000+08:00"
+        "title": "2025年中国单位GDP二氧化碳排放较2020年降低17.7%",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718433.shtml",
+        "publishedAt": "2026-10-21T13:56:29.000+08:00"
       },
       {
-        "title": "业界共探航运脱碳路径 灵活性布局助力平稳转型",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718416.shtml",
-        "publishedAt": "2026-10-21T13:46:18.000+08:00"
+        "title": "中国自愿减排交易市场加速发展 累计成交额近20亿元",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718429.shtml",
+        "publishedAt": "2026-10-21T13:54:56.000+08:00"
       },
       {
-        "title": "智慧通关新成果发布 虹桥国际机场已率先落地国际全流程无感通行场景",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718413.shtml",
-        "publishedAt": "2026-10-21T13:45:42.000+08:00"
+        "title": "今年前三季度中国铁路累计投产新线1625公里",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718432.shtml",
+        "publishedAt": "2026-10-21T13:54:32.000+08:00"
       },
       {
-        "title": "“萨克斯大爷”：音乐漫湖岸,热爱抵流年",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718431.shtml",
-        "publishedAt": "2026-10-21T13:45:14.000+08:00"
+        "title": "如何应对空间研究当前挑战？国际组织和中外专家共商全球合作之策",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718425.shtml",
+        "publishedAt": "2026-10-21T13:53:16.000+08:00"
       },
       {
-        "title": "国际工商界代表齐聚山东 共觅金砖合作新机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718412.shtml",
-        "publishedAt": "2026-10-21T13:44:58.000+08:00"
+        "title": "约六成台湾青年支持主动与大陆对话谈判 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718418.shtml",
+        "publishedAt": "2026-10-21T13:52:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T13:50:03.475+08:00",
+    "fetchedAt": "2026-10-21T14:00:02.791+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T13:50:06.952+08:00",
+      "fetchedAt": "2026-10-21T14:00:06.626+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 55,
+          "usedPct": 64,
           "resetAt": "2026-10-21T14:09:39.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 25,
+          "usedPct": 26,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T13:50:07.189+08:00",
+      "fetchedAt": "2026-10-21T14:00:06.864+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T13:50:07.194+08:00",
+      "fetchedAt": "2026-10-21T14:00:06.875+08:00",
       "error": null
     }
   }
