@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T15:30:18.820+08:00",
+  "updatedAt": "2026-10-21T15:40:16.551+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T15:30:18.820+08:00",
+    "fetchedAt": "2026-10-21T15:40:16.551+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "前9月国家铁路煤炭运量15.61亿吨",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718501.shtml",
-        "publishedAt": "2026-10-21T15:24:43.000+08:00"
+        "title": "外交部：中方对日本实施出口管制 目的是制止日本“再军事化”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718517.shtml",
+        "publishedAt": "2026-10-21T15:34:54.000+08:00"
       },
       {
-        "title": "第十六届国际纳米技术产业博览会在苏州开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718500.shtml",
-        "publishedAt": "2026-10-21T15:23:49.000+08:00"
+        "title": "外交部：在乌克兰危机问题上，中方的立场是一贯的",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718515.shtml",
+        "publishedAt": "2026-10-21T15:34:50.000+08:00"
       },
       {
-        "title": "外交部：敦促美方立即停止对古巴的封锁和任何形式的胁迫施压",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718507.shtml",
-        "publishedAt": "2026-10-21T15:22:19.000+08:00"
+        "title": "云南前三季度新能源电池产业增加值同比增长90.4%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718512.shtml",
+        "publishedAt": "2026-10-21T15:33:56.000+08:00"
       },
       {
-        "title": "解码温暖：波司登1/2世纪展于上海西岸梦中心启幕 开启品牌五十周年新程",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718505.shtml",
-        "publishedAt": "2026-10-21T15:21:37.000+08:00"
+        "title": "跨国产学研赋能产业升级 中德设计工坊激活顺昌杉木新动能",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718513.shtml",
+        "publishedAt": "2026-10-21T15:33:00.000+08:00"
       },
       {
-        "title": "外交部：中方维护关键矿产全球产供链稳定与安全的立场没有变化",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718506.shtml",
-        "publishedAt": "2026-10-21T15:19:37.000+08:00"
+        "title": "韩国首尔江南区两栋大楼纵火嫌疑人承认罪行",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718510.shtml",
+        "publishedAt": "2026-10-21T15:32:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T15:30:03.986+08:00",
+    "fetchedAt": "2026-10-21T15:40:04.475+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T15:30:17.770+08:00",
+      "fetchedAt": "2026-10-21T15:40:14.731+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 50,
+          "usedPct": 58,
           "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 40,
+          "usedPct": 41,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T15:30:17.989+08:00",
+      "fetchedAt": "2026-10-21T15:40:15.067+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T15:30:17.995+08:00",
+      "fetchedAt": "2026-10-21T15:40:15.085+08:00",
       "error": null
     }
   }
