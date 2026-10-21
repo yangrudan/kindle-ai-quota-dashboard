@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T14:50:09.168+08:00",
+  "updatedAt": "2026-10-21T15:00:11.167+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T14:50:09.168+08:00",
+    "fetchedAt": "2026-10-21T15:00:11.167+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（走进中国乡村）江淮分水岭“酿”出年轻味 “无中生有”做新生意",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718475.shtml",
-        "publishedAt": "2026-10-21T14:43:07.000+08:00"
+        "title": "长征路上学党史专题外链",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-21/10718492.shtml",
+        "publishedAt": "2026-10-21T14:52:32.000+08:00"
       },
       {
-        "title": "“五羊星座”先导星成功发射 将服务粤港澳大湾区等地",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718478.shtml",
-        "publishedAt": "2026-10-21T14:42:31.000+08:00"
+        "title": "沈阳市新联会成功举办《人工智能发展及企业应用》专题讲座",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-21/10718490.shtml",
+        "publishedAt": "2026-10-21T14:51:19.000+08:00"
       },
       {
-        "title": "“空中ICU”护航长春大冬会雪上赛事 直升机搭建极速生命通道",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-21/10718467.shtml",
-        "publishedAt": "2026-10-21T14:42:05.000+08:00"
+        "title": "重阳护老进社区 优质服务暖民心——致公党辽宁省委会开展助力健康社区建设系列活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-21/10718482.shtml",
+        "publishedAt": "2026-10-21T14:51:17.000+08:00"
       },
       {
-        "title": "斯诺克北爱尔兰公开赛：赵心童首轮爆冷出局",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718476.shtml",
-        "publishedAt": "2026-10-21T14:41:17.000+08:00"
+        "title": "歌声里的“融”密码",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-21/10718491.shtml",
+        "publishedAt": "2026-10-21T14:51:09.000+08:00"
       },
       {
-        "title": "分工演戏、索要高额赔偿！警方打掉企业“碰瓷式”涉恶团伙",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-21/10718479.shtml",
-        "publishedAt": "2026-10-21T14:41:15.000+08:00"
+        "title": "云岭动态第二十三期",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-21/10718480.shtml",
+        "publishedAt": "2026-10-21T14:49:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T14:50:03.461+08:00",
+    "fetchedAt": "2026-10-21T15:00:03.281+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T14:50:08.044+08:00",
+      "fetchedAt": "2026-10-21T15:00:09.913+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
+          "usedPct": 30,
           "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T14:50:08.275+08:00",
+      "fetchedAt": "2026-10-21T15:00:10.145+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T14:50:08.284+08:00",
+      "fetchedAt": "2026-10-21T15:00:10.155+08:00",
       "error": null
     }
   }
