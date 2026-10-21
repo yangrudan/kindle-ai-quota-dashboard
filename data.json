@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T20:20:09.638+08:00",
+  "updatedAt": "2026-10-21T20:30:09.497+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 17.2,
     "feelsLikeC": 16.6,
     "humidity": 74,
-    "windKph": 9.7,
+    "windKph": 9.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T20:20:09.639+08:00",
+    "observedAt": "2026-10-21T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-21T20:30:09.497+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年世界科技与发展论坛在重庆开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718684.shtml",
-        "publishedAt": "2026-10-21T19:59:56.000+08:00"
+        "title": "四川：39个欠发达县域产业发展推进活动在蓉举行 增强内生造血能力",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718704.shtml",
+        "publishedAt": "2026-10-21T20:27:48.000+08:00"
       },
       {
-        "title": "联合国环境规划署：全球升温超1.5摄氏度“不可避免”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718647.shtml",
-        "publishedAt": "2026-10-21T19:59:30.000+08:00"
+        "title": "福建与台湾光复档案文献展在福州开展",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718705.shtml",
+        "publishedAt": "2026-10-21T20:25:42.000+08:00"
       },
       {
-        "title": "吉林北大湖启动大规模造雪 大冬会赛道进入“上雪”阶段",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718682.shtml",
-        "publishedAt": "2026-10-21T19:57:46.000+08:00"
+        "title": "澳门年度三展联合开幕 汇聚全球资源共拓商机",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718698.shtml",
+        "publishedAt": "2026-10-21T20:20:53.000+08:00"
       },
       {
-        "title": "重庆奉节加快建设山区库区生态产业强县",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718681.shtml",
-        "publishedAt": "2026-10-21T19:57:42.000+08:00"
+        "title": "老外来华进入4.0 “China Haul”时代！有人为好物买单，有人为惊喜落泪",
+        "url": "https://www.chinanews.com.cn/gsztc/2026/10-21/10718697.shtml",
+        "publishedAt": "2026-10-21T20:20:37.000+08:00"
       },
       {
-        "title": "台风“蔷琵”将向西北方向移动 东海等海域阵风可达9至10级",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718680.shtml",
-        "publishedAt": "2026-10-21T19:55:54.000+08:00"
+        "title": "四川广元发展集团有限公司党委书记、董事长刘兴明接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718696.shtml",
+        "publishedAt": "2026-10-21T20:19:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T20:20:04.152+08:00",
+    "fetchedAt": "2026-10-21T20:30:04.143+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T20:20:07.906+08:00",
+      "fetchedAt": "2026-10-21T20:30:08.335+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T20:20:08.324+08:00",
+      "fetchedAt": "2026-10-21T20:30:08.602+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T20:20:08.333+08:00",
+      "fetchedAt": "2026-10-21T20:30:08.608+08:00",
       "error": null
     }
   }
