@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T12:00:10.563+08:00",
+  "updatedAt": "2026-10-21T12:10:18.912+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-21T12:00:10.563+08:00",
+    "fetchedAt": "2026-10-21T12:10:18.913+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "男子造谣“艺人肖某演唱会第一排门票25万元”被依法查处",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718374.shtml",
-        "publishedAt": "2026-10-21T11:55:28.000+08:00"
+        "title": "谷神星一号海射型遥八运载火箭发射成功",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718381.shtml",
+        "publishedAt": "2026-10-21T12:06:13.000+08:00"
       },
       {
-        "title": "何以中国·当惊世界殊丨以一江碧水写答卷，从荆楚新貌见中国",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718360.shtml",
-        "publishedAt": "2026-10-21T11:53:54.000+08:00"
+        "title": "A股午评：超2800只个股飘红，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718379.shtml",
+        "publishedAt": "2026-10-21T12:01:10.000+08:00"
       },
       {
-        "title": "印度尼西亚一客轮起火",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-21/1208446.shtml",
-        "publishedAt": "2026-10-21T11:51:16.000+08:00"
+        "title": "乌克兰总统表示愿意同美俄举行三方会晤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718367.shtml",
+        "publishedAt": "2026-10-21T12:00:16.000+08:00"
       },
       {
-        "title": "（台湾写真）AI浪潮驱动两岸供应链紧密嵌合",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718361.shtml",
-        "publishedAt": "2026-10-21T11:51:06.000+08:00"
+        "title": "尼日利亚报告一例埃博拉确诊病例",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718362.shtml",
+        "publishedAt": "2026-10-21T11:59:40.000+08:00"
       },
       {
-        "title": "国台办：民进党当局“跪美卖台” 妄图“倚美谋独”不会得逞",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718350.shtml",
-        "publishedAt": "2026-10-21T11:34:37.000+08:00"
+        "title": "曾研发“会跳舞的导弹”，伊朗新防长警告美国别动武",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718263.shtml",
+        "publishedAt": "2026-10-21T11:59:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T12:00:02.812+08:00",
+    "fetchedAt": "2026-10-21T12:10:12.798+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T12:00:09.517+08:00",
+      "fetchedAt": "2026-10-21T12:10:17.918+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T12:00:09.664+08:00",
+      "fetchedAt": "2026-10-21T12:10:18.050+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T12:00:09.668+08:00",
+      "fetchedAt": "2026-10-21T12:10:18.062+08:00",
       "error": null
     }
   }
