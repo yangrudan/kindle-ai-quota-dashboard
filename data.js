@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T08:00:10.503+08:00",
+  "updatedAt": "2026-10-21T08:10:09.367+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T08:00:10.503+08:00",
+    "fetchedAt": "2026-10-21T08:10:09.367+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "56.5%受访者希望住宿预订平台减少“杀熟”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718245.shtml",
+        "publishedAt": "2026-10-21T08:03:41.000+08:00"
+      },
+      {
+        "title": "威胁刺杀特朗普 美国一男子遭逮捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718244.shtml",
+        "publishedAt": "2026-10-21T07:57:13.000+08:00"
+      },
+      {
+        "title": "直播外链：长征路上学党史｜红旗漫卷 共赴会师之约",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-21/10718242.shtml",
+        "publishedAt": "2026-10-21T07:56:15.000+08:00"
+      },
+      {
+        "title": "贵≠好用 冲锋衣怎么选、怎么洗？实用参考请收好",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718243.shtml",
+        "publishedAt": "2026-10-21T07:56:11.000+08:00"
+      },
+      {
         "title": "手搓“微缩博物馆” 解锁文创新体验",
         "url": "https://www.chinanews.com.cn/cul/2026/10-21/10718240.shtml",
         "publishedAt": "2026-10-21T07:48:47.000+08:00"
-      },
-      {
-        "title": "“产品溯源”不能沦为坑老营销的“新马甲”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718238.shtml",
-        "publishedAt": "2026-10-21T07:45:10.000+08:00"
-      },
-      {
-        "title": "集市挤满年轻面孔 这届年轻人为什么爱上了“赶集”？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718236.shtml",
-        "publishedAt": "2026-10-21T07:41:56.000+08:00"
-      },
-      {
-        "title": "“速成车”惹争议被叫停 新能源汽车如何重塑造车底层逻辑",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718235.shtml",
-        "publishedAt": "2026-10-21T07:39:54.000+08:00"
-      },
-      {
-        "title": "“东西还能用，为什么没人要” 大件旧物回收现状调查",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718234.shtml",
-        "publishedAt": "2026-10-21T07:34:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T08:00:04.768+08:00",
+    "fetchedAt": "2026-10-21T08:10:03.965+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T08:00:09.438+08:00",
+      "fetchedAt": "2026-10-21T08:10:07.924+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-21T13:00:10.000+08:00"
+          "resetAt": "2026-10-21T13:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T08:00:09.653+08:00",
+      "fetchedAt": "2026-10-21T08:10:08.305+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T08:00:09.659+08:00",
+      "fetchedAt": "2026-10-21T08:10:08.314+08:00",
       "error": null
     }
   }
