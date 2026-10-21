@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T09:30:09.691+08:00",
+  "updatedAt": "2026-10-21T09:40:09.471+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T09:30:09.692+08:00",
+    "fetchedAt": "2026-10-21T09:40:09.471+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "几块钱就能享受高阶会员 二手平台“破解版AI”靠谱吗",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718270.shtml",
+        "publishedAt": "2026-10-21T09:34:52.000+08:00"
+      },
+      {
+        "title": "【这个城市有点潮】甘肃会宁：90年，一座城的红色记忆",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-21/1208396.shtml",
+        "publishedAt": "2026-10-21T09:34:16.000+08:00"
+      },
+      {
+        "title": "A股开盘：超3200只个股飘红，三大指数集体高开",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718268.shtml",
+        "publishedAt": "2026-10-21T09:32:40.000+08:00"
+      },
+      {
+        "title": "长征具有跨越时代与国界的启示意义（国际论坛）",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-21/10718266.shtml",
+        "publishedAt": "2026-10-21T09:27:52.000+08:00"
+      },
+      {
         "title": "费德勒：来中国书写给网球的“情书”",
         "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718260.shtml",
         "publishedAt": "2026-10-21T09:23:16.000+08:00"
-      },
-      {
-        "title": "尼日利亚报告近期首例埃博拉确诊病例",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718247.shtml",
-        "publishedAt": "2026-10-21T09:20:32.000+08:00"
-      },
-      {
-        "title": "水利部出台母亲河复苏行动标准",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718252.shtml",
-        "publishedAt": "2026-10-21T09:19:01.000+08:00"
-      },
-      {
-        "title": "凛冬将至，欧洲再临“能源关”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718257.shtml",
-        "publishedAt": "2026-10-21T09:07:29.000+08:00"
-      },
-      {
-        "title": "高市执政满一年，日媒质问：“这场噩梦还要持续多久？”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718255.shtml",
-        "publishedAt": "2026-10-21T09:05:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T09:30:04.664+08:00",
+    "fetchedAt": "2026-10-21T09:40:03.327+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T09:30:08.380+08:00",
+      "fetchedAt": "2026-10-21T09:40:08.268+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T09:30:08.728+08:00",
+      "fetchedAt": "2026-10-21T09:40:08.522+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T09:30:08.737+08:00",
+      "fetchedAt": "2026-10-21T09:40:08.531+08:00",
       "error": null
     }
   }
