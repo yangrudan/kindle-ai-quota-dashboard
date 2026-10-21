@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-21T16:10:09.595+08:00",
+  "updatedAt": "2026-10-21T16:20:10.560+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.1,
-    "feelsLikeC": 18.6,
-    "humidity": 62,
-    "windKph": 15.5,
+    "tempC": 19.9,
+    "feelsLikeC": 18.5,
+    "humidity": 63,
+    "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T16:10:09.595+08:00",
+    "observedAt": "2026-10-21T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-21T16:20:10.560+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "如何推进IP与AI双向赋能？官方解读知识产权强国建设“江苏实践”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718546.shtml",
-        "publishedAt": "2026-10-21T16:07:02.000+08:00"
+        "title": "意大利批准治安法令 严打示威暴力行为",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718551.shtml",
+        "publishedAt": "2026-10-21T16:12:44.000+08:00"
       },
       {
-        "title": "台湾半导体遭美方掌控？ 国台办直言“崽卖爷田不心疼”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718544.shtml",
-        "publishedAt": "2026-10-21T16:03:01.000+08:00"
+        "title": "检察机关依法分别对黄伟、姚洪仲、包野、杜善周、罗佳玲提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718558.shtml",
+        "publishedAt": "2026-10-21T16:12:20.000+08:00"
       },
       {
-        "title": "从一座小镇看中国眼镜出海的“三味真火”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718538.shtml",
-        "publishedAt": "2026-10-21T16:02:57.000+08:00"
+        "title": "发挥宏观政策集成效应，努力实现“十五五”良好开局",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718560.shtml",
+        "publishedAt": "2026-10-21T16:11:56.000+08:00"
       },
       {
-        "title": "山东荣成：金秋果园好“丰”景",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718532.shtml",
-        "publishedAt": "2026-10-21T16:02:03.000+08:00"
+        "title": "罗马尼亚新一届政府宣誓就职",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718550.shtml",
+        "publishedAt": "2026-10-21T16:11:54.000+08:00"
       },
       {
-        "title": "第二届“美美与共”全国民族学田野研究论坛在京举行——在田野中发现“中华民族共同体”",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-21/10718534.shtml",
-        "publishedAt": "2026-10-21T16:01:39.000+08:00"
+        "title": "第八届“巴黎协定之友”高级别对话聚焦多边气候治理",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718548.shtml",
+        "publishedAt": "2026-10-21T16:11:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T16:10:04.286+08:00",
+    "fetchedAt": "2026-10-21T16:20:03.751+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T16:10:08.524+08:00",
+      "fetchedAt": "2026-10-21T16:20:08.768+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 84,
+          "usedPct": 86,
           "resetAt": "2026-10-21T19:10:51.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T16:10:08.671+08:00",
+      "fetchedAt": "2026-10-21T16:20:09.056+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T16:10:08.676+08:00",
+      "fetchedAt": "2026-10-21T16:20:09.065+08:00",
       "error": null
     }
   }
