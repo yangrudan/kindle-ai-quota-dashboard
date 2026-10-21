@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-21T08:40:09.188+08:00",
+  "updatedAt": "2026-10-21T08:50:38.065+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.9,
-    "feelsLikeC": 18,
-    "humidity": 91,
-    "windKph": 14.4,
+    "tempC": 18,
+    "feelsLikeC": 18.1,
+    "humidity": 90,
+    "windKph": 13.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T08:40:09.188+08:00",
+    "observedAt": "2026-10-21T08:45:00.000+08:00",
+    "fetchedAt": "2026-10-21T08:50:38.065+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中东部大部降水稀少 江南多地降温如换季",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718250.shtml",
+        "publishedAt": "2026-10-21T08:40:27.000+08:00"
+      },
       {
         "title": "21岁男子非法穿越稻城亚丁，因高反在帐篷里躺卧3天不幸身亡",
         "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718249.shtml",
@@ -38,14 +43,9 @@
         "title": "56.5%受访者希望住宿预订平台减少“杀熟”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718245.shtml",
         "publishedAt": "2026-10-21T08:03:41.000+08:00"
-      },
-      {
-        "title": "威胁刺杀特朗普 美国一男子遭逮捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718244.shtml",
-        "publishedAt": "2026-10-21T07:57:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T08:40:03.790+08:00",
+    "fetchedAt": "2026-10-21T08:50:03.461+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T08:40:07.743+08:00",
+      "fetchedAt": "2026-10-21T08:50:36.778+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-21T13:40:08.000+08:00"
+          "resetAt": "2026-10-21T13:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T08:40:07.916+08:00",
+      "fetchedAt": "2026-10-21T08:50:36.964+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T08:40:07.925+08:00",
+      "fetchedAt": "2026-10-21T08:50:36.969+08:00",
       "error": null
     }
   }
