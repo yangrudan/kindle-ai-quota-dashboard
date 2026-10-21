@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T10:20:08.570+08:00",
+  "updatedAt": "2026-10-21T10:30:09.910+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 18.6,
-    "humidity": 80,
-    "windKph": 14.9,
+    "tempC": 19.2,
+    "feelsLikeC": 18.7,
+    "humidity": 77,
+    "windKph": 15.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-21T10:20:08.570+08:00",
+    "observedAt": "2026-10-21T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-21T10:30:09.910+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "民进党当局拒绝艺人张凌赫赴台交流 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718305.shtml",
+        "publishedAt": "2026-10-21T10:21:59.000+08:00"
+      },
+      {
+        "title": "今年前三季度全国铁路完成固定资产投资6012亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718297.shtml",
+        "publishedAt": "2026-10-21T10:21:21.000+08:00"
+      },
+      {
+        "title": "台当局禁赴陆参加孙中山诞辰纪念活动 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718304.shtml",
+        "publishedAt": "2026-10-21T10:20:45.000+08:00"
+      },
+      {
+        "title": "朝中社：日本执政者散布军国主义毒素",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718303.shtml",
+        "publishedAt": "2026-10-21T10:18:47.000+08:00"
+      },
+      {
         "title": "科技可感可游 “赛博光谷”把科创铺进日常",
         "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718278.shtml",
         "publishedAt": "2026-10-21T10:16:07.000+08:00"
-      },
-      {
-        "title": "全球媒体聚焦 | 多国产品瞄准进博会广阔商机",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718300.shtml",
-        "publishedAt": "2026-10-21T10:15:00.000+08:00"
-      },
-      {
-        "title": "“发现最美铁路·穿越丝路筑梦山海”活动敦煌启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718277.shtml",
-        "publishedAt": "2026-10-21T10:14:52.000+08:00"
-      },
-      {
-        "title": "2026年现代科技馆体系专题研讨提升科技馆教育理念与实践能力",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718296.shtml",
-        "publishedAt": "2026-10-21T10:14:02.000+08:00"
-      },
-      {
-        "title": "我国应对气候变化工作取得显著成效",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718299.shtml",
-        "publishedAt": "2026-10-21T10:11:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T10:20:03.703+08:00",
+    "fetchedAt": "2026-10-21T10:30:03.518+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T10:20:07.295+08:00",
+      "fetchedAt": "2026-10-21T10:30:08.712+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 10,
           "resetAt": "2026-10-21T14:09:39.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 16,
+          "usedPct": 17,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T10:20:07.552+08:00",
+      "fetchedAt": "2026-10-21T10:30:08.951+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T10:20:07.561+08:00",
+      "fetchedAt": "2026-10-21T10:30:08.962+08:00",
       "error": null
     }
   }
