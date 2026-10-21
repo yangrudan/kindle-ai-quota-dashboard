@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T00:30:39.729+08:00",
+  "updatedAt": "2026-10-22T00:40:07.776+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-22T00:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T00:30:39.730+08:00",
+    "fetchedAt": "2026-10-22T00:40:07.776+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香港《2026年法治指数》排名保持前列",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10718814.shtml",
+        "publishedAt": "2026-10-22T00:22:37.000+08:00"
+      },
+      {
+        "title": "俄总统助理：俄方原则同意下月重启俄美乌三方谈判",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718813.shtml",
+        "publishedAt": "2026-10-22T00:22:33.000+08:00"
+      },
       {
         "title": "“致敬国家丰碑” 国情教育宣讲活动在港举行 厚植青年家国情怀",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718796.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中俄界湖秋色“出圈” 兴凯湖五彩林海成千里打卡“目的地”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718799.shtml",
         "publishedAt": "2026-10-21T23:24:09.000+08:00"
-      },
-      {
-        "title": "四川搭建欧资企业政企沟通平台 以对话回应关切",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718798.shtml",
-        "publishedAt": "2026-10-21T23:23:59.000+08:00"
-      },
-      {
-        "title": "桂台经贸融合发展与玉林产业发展对接会在广西玉林举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718800.shtml",
-        "publishedAt": "2026-10-21T23:22:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T00:30:04.358+08:00",
+    "fetchedAt": "2026-10-22T00:40:02.909+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T00:30:38.285+08:00",
+      "fetchedAt": "2026-10-22T00:40:06.329+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T05:30:39.000+08:00"
+          "resetAt": "2026-10-22T05:40:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T00:30:38.632+08:00",
+      "fetchedAt": "2026-10-22T00:40:06.648+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T00:30:38.639+08:00",
+      "fetchedAt": "2026-10-22T00:40:06.657+08:00",
       "error": null
     }
   }
