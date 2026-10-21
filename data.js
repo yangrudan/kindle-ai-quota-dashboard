@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T13:00:39.448+08:00",
+  "updatedAt": "2026-10-21T13:10:10.055+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-21T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-21T13:00:39.448+08:00",
+    "fetchedAt": "2026-10-21T13:10:10.055+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "COP31召开在即 我国将积极推动气候变化国际谈判进程",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718366.shtml",
+        "publishedAt": "2026-10-21T13:00:19.000+08:00"
+      },
+      {
+        "title": "内蒙古自治区赤峰市政协副主席郭玉强接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718389.shtml",
+        "publishedAt": "2026-10-21T12:57:53.000+08:00"
+      },
+      {
+        "title": "（近观中国）习近平说长征：要走好我们这一代人的长征路",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718387.shtml",
+        "publishedAt": "2026-10-21T12:51:19.000+08:00"
+      },
       {
         "title": "新阶层·新经济 | “老爸评测”创始人魏文锋：让“看不见的风险”被看见",
         "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718363.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "樊振东发文抵制偷拍！以爱为名，岂能成为僭越隐私的托词？",
         "url": "https://www.chinanews.com.cn/ty/2026/10-21/10718390.shtml",
         "publishedAt": "2026-10-21T12:44:37.000+08:00"
-      },
-      {
-        "title": "谷神星一号海射型遥八运载火箭发射成功",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-21/1208455.shtml",
-        "publishedAt": "2026-10-21T12:36:08.000+08:00"
-      },
-      {
-        "title": "国台办批民进党当局对台积电“崽卖爷田不心疼”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718386.shtml",
-        "publishedAt": "2026-10-21T12:32:10.000+08:00"
-      },
-      {
-        "title": "国台办回应在台陆生被驱逐出境：坚决反对民进党侵害在台陆生权益",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718385.shtml",
-        "publishedAt": "2026-10-21T12:27:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T13:00:04.067+08:00",
+    "fetchedAt": "2026-10-21T13:10:02.975+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T13:00:38.124+08:00",
+      "fetchedAt": "2026-10-21T13:10:08.814+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T13:00:38.466+08:00",
+      "fetchedAt": "2026-10-21T13:10:09.268+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T13:00:38.470+08:00",
+      "fetchedAt": "2026-10-21T13:10:09.277+08:00",
       "error": null
     }
   }
