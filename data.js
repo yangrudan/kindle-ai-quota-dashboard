@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-21T20:40:37.016+08:00",
+  "updatedAt": "2026-10-21T20:50:09.551+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.2,
-    "feelsLikeC": 16.5,
-    "humidity": 72,
-    "windKph": 9.5,
+    "tempC": 16.4,
+    "feelsLikeC": 15.7,
+    "humidity": 76,
+    "windKph": 9.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-21T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-21T20:40:37.016+08:00",
+    "observedAt": "2026-10-21T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-21T20:50:09.551+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香港民众试乘自动驾驶车辆",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-21/10718678.shtml",
-        "publishedAt": "2026-10-21T20:31:22.000+08:00"
+        "title": "山西万荣：葫芦藤下的致富经",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718719.shtml",
+        "publishedAt": "2026-10-21T20:44:21.000+08:00"
       },
       {
-        "title": "四川：39个欠发达县域产业发展推进活动在蓉举行 增强内生造血能力",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718704.shtml",
-        "publishedAt": "2026-10-21T20:27:48.000+08:00"
+        "title": "首批数字家庭场景将在深圳、青岛等6城先行落地建设",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718718.shtml",
+        "publishedAt": "2026-10-21T20:44:17.000+08:00"
       },
       {
-        "title": "福建与台湾光复档案文献展在福州开展",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718705.shtml",
-        "publishedAt": "2026-10-21T20:25:42.000+08:00"
+        "title": "中国官方：到2030年中国特色大国消防救援力量体系基本建成",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718714.shtml",
+        "publishedAt": "2026-10-21T20:43:59.000+08:00"
       },
       {
-        "title": "澳门年度三展联合开幕 汇聚全球资源共拓商机",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-21/10718698.shtml",
-        "publishedAt": "2026-10-21T20:20:53.000+08:00"
+        "title": "台积电高雄厂区工程安全事故致4人死亡",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718713.shtml",
+        "publishedAt": "2026-10-21T20:42:18.000+08:00"
       },
       {
-        "title": "老外来华进入4.0 “China Haul”时代！有人为好物买单，有人为惊喜落泪",
-        "url": "https://www.chinanews.com.cn/gsztc/2026/10-21/10718697.shtml",
-        "publishedAt": "2026-10-21T20:20:37.000+08:00"
+        "title": "第四届在台闽籍社团恳亲活动启动 台胞分享寻根故事",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718711.shtml",
+        "publishedAt": "2026-10-21T20:42:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-21T20:40:02.736+08:00",
+    "fetchedAt": "2026-10-21T20:50:03.508+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 299 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-21T20:40:35.933+08:00",
+      "fetchedAt": "2026-10-21T20:50:08.423+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-21T20:40:36.177+08:00",
+      "fetchedAt": "2026-10-21T20:50:08.673+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-21T20:40:36.183+08:00",
+      "fetchedAt": "2026-10-21T20:50:08.681+08:00",
       "error": null
     }
   }
