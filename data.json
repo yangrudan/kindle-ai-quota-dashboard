@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T19:40:10.057+08:00",
+  "updatedAt": "2026-10-22T19:50:08.491+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
-    "feelsLikeC": 16.4,
-    "humidity": 68,
+    "tempC": 17.5,
+    "feelsLikeC": 16.2,
+    "humidity": 67,
     "windKph": 12.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T19:40:10.057+08:00",
+    "observedAt": "2026-10-22T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-22T19:50:08.492+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国首个绿电溯源地方标准落地青海",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719272.shtml",
-        "publishedAt": "2026-10-22T19:32:43.000+08:00"
+        "title": "2026—2027冬春航季将至 黑龙江干支联动护航冰雪旅游客流",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719288.shtml",
+        "publishedAt": "2026-10-22T19:41:34.000+08:00"
       },
       {
-        "title": "湖南江永智能养殖孵出致富蛋 科技赋能乡村振兴",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719271.shtml",
-        "publishedAt": "2026-10-22T19:32:39.000+08:00"
+        "title": "海外嘉宾汇聚金融街论坛 冀以“和而不同”促共赢",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719274.shtml",
+        "publishedAt": "2026-10-22T19:40:16.000+08:00"
       },
       {
-        "title": "石榴花开烟火日常 浙江铺展“籽籽相拥”同心图景",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719269.shtml",
-        "publishedAt": "2026-10-22T19:32:19.000+08:00"
+        "title": "2026世界智能网联汽车大会聚焦自动驾驶安全与生态",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719276.shtml",
+        "publishedAt": "2026-10-22T19:40:08.000+08:00"
       },
       {
-        "title": "走近浙江的 “中国好医护”：岁月藏暖，医者如歌",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719266.shtml",
-        "publishedAt": "2026-10-22T19:31:15.000+08:00"
+        "title": "中国商务部：面向全球的自贸网络已经初步成形",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719277.shtml",
+        "publishedAt": "2026-10-22T19:39:46.000+08:00"
       },
       {
-        "title": "美下令驻沙特“非紧急”政府雇员及家属撤离",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719228.shtml",
-        "publishedAt": "2026-10-22T19:18:55.000+08:00"
+        "title": "法国国家图书馆执行馆长：信息丰盈的时代，图书馆更不可或缺",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-22/10719275.shtml",
+        "publishedAt": "2026-10-22T19:39:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T19:40:04.077+08:00",
+    "fetchedAt": "2026-10-22T19:50:03.355+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T19:40:08.617+08:00",
+      "fetchedAt": "2026-10-22T19:50:07.273+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T19:40:09.033+08:00",
+      "fetchedAt": "2026-10-22T19:50:07.621+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T19:40:09.043+08:00",
+      "fetchedAt": "2026-10-22T19:50:07.630+08:00",
       "error": null
     }
   }
