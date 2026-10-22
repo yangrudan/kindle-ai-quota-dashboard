@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T20:40:08.266+08:00",
+  "updatedAt": "2026-10-22T20:50:10.568+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.4,
-    "feelsLikeC": 15.9,
+    "feelsLikeC": 15.8,
     "humidity": 67,
-    "windKph": 12.6,
+    "windKph": 12.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T20:40:08.267+08:00",
+    "observedAt": "2026-10-22T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-22T20:50:10.568+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "世界反法西斯战士谢唯进事迹展在重庆启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719331.shtml",
+        "publishedAt": "2026-10-22T20:40:49.000+08:00"
+      },
+      {
+        "title": "在地书写的文旅传记如何从微观视角呈现宏观时代？",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-22/10719330.shtml",
+        "publishedAt": "2026-10-22T20:40:29.000+08:00"
+      },
+      {
+        "title": "国家发展改革委有关负责同志就《对外投资管理办法》答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719333.shtml",
+        "publishedAt": "2026-10-22T20:38:27.000+08:00"
+      },
       {
         "title": "第五届国际工程管理大会暨新基建“从蓉出海”生态伙伴合作大会在蓉举办",
         "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719329.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "行业智能体论坛在重庆举行 业界共话产业发展路径",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719328.shtml",
         "publishedAt": "2026-10-22T20:34:45.000+08:00"
-      },
-      {
-        "title": "沪市94家公司披露2026年三季报 超九成公司实现盈利",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719327.shtml",
-        "publishedAt": "2026-10-22T20:34:29.000+08:00"
-      },
-      {
-        "title": "香港海关侦破市值约2.3亿港元走私香烟案",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719326.shtml",
-        "publishedAt": "2026-10-22T20:33:41.000+08:00"
-      },
-      {
-        "title": "从工作一线走上T台 2026成都职工工装风尚T台秀举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719324.shtml",
-        "publishedAt": "2026-10-22T20:33:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T20:40:03.305+08:00",
+    "fetchedAt": "2026-10-22T20:50:03.810+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T20:40:07.134+08:00",
+      "fetchedAt": "2026-10-22T20:50:08.502+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T20:40:07.389+08:00",
+      "fetchedAt": "2026-10-22T20:50:08.801+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T20:40:07.399+08:00",
+      "fetchedAt": "2026-10-22T20:50:08.811+08:00",
       "error": null
     }
   }
