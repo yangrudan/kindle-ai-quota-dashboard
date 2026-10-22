@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T08:10:08.978+08:00",
+  "updatedAt": "2026-10-22T08:20:09.089+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.5,
-    "feelsLikeC": 14.8,
-    "humidity": 75,
-    "windKph": 7.2,
+    "tempC": 15.9,
+    "feelsLikeC": 15.1,
+    "humidity": 73,
+    "windKph": 7.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T08:10:08.978+08:00",
+    "observedAt": "2026-10-22T08:15:00.000+08:00",
+    "fetchedAt": "2026-10-22T08:20:09.089+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李强结束出访回到北京",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718839.shtml",
+        "publishedAt": "2026-10-22T08:13:23.000+08:00"
+      },
+      {
+        "title": "伊朗最高领袖会见议会议长 商讨最新局势",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718838.shtml",
+        "publishedAt": "2026-10-22T08:11:03.000+08:00"
+      },
       {
         "title": "泽连斯基：支持尽快举行美乌俄三方谈判",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718836.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "【我们的长征路】习言道｜长征精神，永向前",
         "url": "http://www.chinanews.com.cn/gn/shipin/2026/10-22/news1072588.shtml",
         "publishedAt": "2026-10-22T07:45:59.000+08:00"
-      },
-      {
-        "title": "【我们的长征路】习言道｜一镜到底见证长征力量",
-        "url": "http://www.chinanews.com.cn/gn/shipin/2026/10-22/news1072587.shtml",
-        "publishedAt": "2026-10-22T07:43:27.000+08:00"
-      },
-      {
-        "title": "差价数十倍 概念“乱如麻” 网红钛制品真有那么神奇吗？",
-        "url": "https://www.chinanews.com.cn/life/2026/10-22/10718831.shtml",
-        "publishedAt": "2026-10-22T07:42:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T08:10:03.447+08:00",
+    "fetchedAt": "2026-10-22T08:20:03.548+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T08:10:07.178+08:00",
+      "fetchedAt": "2026-10-22T08:20:07.621+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T13:10:08.000+08:00"
+          "resetAt": "2026-10-22T13:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T08:10:07.474+08:00",
+      "fetchedAt": "2026-10-22T08:20:07.958+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T08:10:07.478+08:00",
+      "fetchedAt": "2026-10-22T08:20:07.968+08:00",
       "error": null
     }
   }
