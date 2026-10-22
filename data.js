@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T12:40:07.779+08:00",
+  "updatedAt": "2026-10-22T12:50:09.501+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 21.1,
-    "feelsLikeC": 18.9,
+    "feelsLikeC": 19,
     "humidity": 52,
-    "windKph": 16.3,
+    "windKph": 16.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-22T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T12:40:07.779+08:00",
+    "observedAt": "2026-10-22T12:45:00.000+08:00",
+    "fetchedAt": "2026-10-22T12:50:09.501+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《广播电视和网络视听“十五五”规划》印发",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-22/10718966.shtml",
+        "publishedAt": "2026-10-22T12:40:19.000+08:00"
+      },
+      {
+        "title": "中国女团时隔20年再夺体操世锦赛金牌 获洛杉矶奥运会资格",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718960.shtml",
+        "publishedAt": "2026-10-22T12:38:51.000+08:00"
+      },
       {
         "title": "水利部针对4省市启动洪水防御Ⅳ级应急响应",
         "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718963.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美媒：美以制定计划 拟美国中期选举后再次打击伊朗",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml",
         "publishedAt": "2026-10-22T11:53:17.000+08:00"
-      },
-      {
-        "title": "新阶层·新经济 | “老爸评测”创始人魏文锋：流量是后面的“0”，企业的“1”是做好自己",
-        "url": "http://www.chinanews.com.cn/cj/shipin/2026/10-22/news1072620.shtml",
-        "publishedAt": "2026-10-22T11:52:50.000+08:00"
-      },
-      {
-        "title": "民进中央、民进上海市委会到毕节开展“地域+领域”组团式帮扶调研",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718954.shtml",
-        "publishedAt": "2026-10-22T11:50:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T12:40:02.539+08:00",
+    "fetchedAt": "2026-10-22T12:50:04.201+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T12:40:06.530+08:00",
+      "fetchedAt": "2026-10-22T12:50:08.327+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T12:40:06.922+08:00",
+      "fetchedAt": "2026-10-22T12:50:08.635+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T12:40:06.925+08:00",
+      "fetchedAt": "2026-10-22T12:50:08.643+08:00",
       "error": null
     }
   }
