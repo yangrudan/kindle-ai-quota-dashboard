@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T06:00:09.775+08:00",
+  "updatedAt": "2026-10-23T06:10:11.459+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T06:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T06:00:09.775+08:00",
+    "fetchedAt": "2026-10-23T06:10:11.459+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国或于明年开始扩建格陵兰岛军事设施",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719455.shtml",
+        "publishedAt": "2026-10-23T06:00:54.000+08:00"
+      },
+      {
+        "title": "西藏那曲巴青7.0级地震已造成16人遇难 46人受伤",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719454.shtml",
+        "publishedAt": "2026-10-23T05:56:14.000+08:00"
+      },
       {
         "title": "普京：重启俄美乌三方会谈不是仅为短暂停火",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719453.shtml",
@@ -33,19 +43,9 @@
         "title": "菲律宾央行加息50个基点应对通胀 比索再创历史新低",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719450.shtml",
         "publishedAt": "2026-10-23T05:46:29.000+08:00"
-      },
-      {
-        "title": "法国发现全球首例人类感染沙蒙达病毒病例 患者已病故",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719451.shtml",
-        "publishedAt": "2026-10-23T05:46:01.000+08:00"
-      },
-      {
-        "title": "联合国应对损失与损害基金为尼泊尔预留2000万美元",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719452.shtml",
-        "publishedAt": "2026-10-23T05:44:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T06:00:04.076+08:00",
+    "fetchedAt": "2026-10-23T06:10:02.997+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T06:00:08.446+08:00",
+      "fetchedAt": "2026-10-23T06:10:09.583+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-23T11:00:09.000+08:00"
+          "resetAt": "2026-10-23T11:10:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-30T06:00:09.000+08:00"
+          "resetAt": "2026-10-30T06:10:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T06:00:08.759+08:00",
+      "fetchedAt": "2026-10-23T06:10:09.932+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T06:00:08.768+08:00",
+      "fetchedAt": "2026-10-23T06:10:09.936+08:00",
       "error": null
     }
   }
