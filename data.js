@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T18:30:38.448+08:00",
+  "updatedAt": "2026-10-22T18:40:37.568+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-22T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T18:30:38.449+08:00",
+    "fetchedAt": "2026-10-22T18:40:37.568+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外媒援引伊朗消息人士：大规模轰炸或在以色列大选前开始",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719220.shtml",
-        "publishedAt": "2026-10-22T18:15:41.000+08:00"
+        "title": "天津“十五五”聚焦五方面布局能源项目 总投资2000亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719226.shtml",
+        "publishedAt": "2026-10-22T18:32:16.000+08:00"
       },
       {
-        "title": "伊朗高官警告：如对伊采取行动 美国将付出代价",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719218.shtml",
-        "publishedAt": "2026-10-22T18:14:21.000+08:00"
+        "title": "执行任务百余次、排除未爆弹500多枚……这位“排爆兵王”的“长征”从未停止",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719224.shtml",
+        "publishedAt": "2026-10-22T18:26:56.000+08:00"
       },
       {
-        "title": "直播：纪念中国工农红军长征胜利90周年电视文艺晚会《长征颂歌》",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10719215.shtml",
-        "publishedAt": "2026-10-22T18:12:41.000+08:00"
+        "title": "广西梧州加快构建特色现代化产业体系 加速布局新兴赛道",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719219.shtml",
+        "publishedAt": "2026-10-22T18:24:34.000+08:00"
       },
       {
-        "title": "习近平：长征的历史从未远去，长征的路在不断延伸",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719205.shtml",
-        "publishedAt": "2026-10-22T18:11:55.000+08:00"
+        "title": "澳大利亚资本投资公司何逸舟：看好中国科创与企业出海机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719211.shtml",
+        "publishedAt": "2026-10-22T18:23:38.000+08:00"
       },
       {
-        "title": "广交会进境展品首次实现“到馆查验”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719210.shtml",
-        "publishedAt": "2026-10-22T18:09:07.000+08:00"
+        "title": "（长征胜利90周年）双展启幕忆峥嵘 桂林博物馆两大长征主题展览开展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719223.shtml",
+        "publishedAt": "2026-10-22T18:23:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T18:30:03.826+08:00",
+    "fetchedAt": "2026-10-22T18:40:02.812+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T18:30:37.164+08:00",
+      "fetchedAt": "2026-10-22T18:40:36.275+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T18:30:37.387+08:00",
+      "fetchedAt": "2026-10-22T18:40:36.470+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T18:30:37.397+08:00",
+      "fetchedAt": "2026-10-22T18:40:36.480+08:00",
       "error": null
     }
   }
