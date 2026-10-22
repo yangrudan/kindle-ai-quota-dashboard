@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T20:50:10.568+08:00",
+  "updatedAt": "2026-10-22T21:00:08.456+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-22T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T20:50:10.568+08:00",
+    "fetchedAt": "2026-10-22T21:00:08.456+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "世界反法西斯战士谢唯进事迹展在重庆启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719331.shtml",
-        "publishedAt": "2026-10-22T20:40:49.000+08:00"
+        "title": "云南咖啡 交融生香",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719340.shtml",
+        "publishedAt": "2026-10-22T20:55:38.000+08:00"
       },
       {
-        "title": "在地书写的文旅传记如何从微观视角呈现宏观时代？",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-22/10719330.shtml",
-        "publishedAt": "2026-10-22T20:40:29.000+08:00"
+        "title": "青海乡村射手齐聚河湟“以箭会友”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719304.shtml",
+        "publishedAt": "2026-10-22T20:55:16.000+08:00"
       },
       {
-        "title": "国家发展改革委有关负责同志就《对外投资管理办法》答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719333.shtml",
-        "publishedAt": "2026-10-22T20:38:27.000+08:00"
+        "title": "阿根廷总统重申：将以外交手段收回马岛主权",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719344.shtml",
+        "publishedAt": "2026-10-22T20:54:44.000+08:00"
       },
       {
-        "title": "第五届国际工程管理大会暨新基建“从蓉出海”生态伙伴合作大会在蓉举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719329.shtml",
-        "publishedAt": "2026-10-22T20:34:55.000+08:00"
+        "title": "藏野驴在三江源国家公园觅食",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719303.shtml",
+        "publishedAt": "2026-10-22T20:54:00.000+08:00"
       },
       {
-        "title": "行业智能体论坛在重庆举行 业界共话产业发展路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719328.shtml",
-        "publishedAt": "2026-10-22T20:34:45.000+08:00"
+        "title": "江西交通职业技术学院原院长黄明忠接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719339.shtml",
+        "publishedAt": "2026-10-22T20:52:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T20:50:03.810+08:00",
+    "fetchedAt": "2026-10-22T21:00:03.186+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T20:50:08.502+08:00",
+      "fetchedAt": "2026-10-22T21:00:07.223+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T20:50:08.801+08:00",
+      "fetchedAt": "2026-10-22T21:00:07.613+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T20:50:08.811+08:00",
+      "fetchedAt": "2026-10-22T21:00:07.620+08:00",
       "error": null
     }
   }
