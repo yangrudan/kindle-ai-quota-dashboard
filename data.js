@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T18:00:10.919+08:00",
+  "updatedAt": "2026-10-22T18:10:10.072+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-22T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T18:00:10.919+08:00",
+    "fetchedAt": "2026-10-22T18:10:10.072+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "节目单发布！纪念中国工农红军长征胜利90周年电视文艺晚会《长征颂歌》今晚播出",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719202.shtml",
-        "publishedAt": "2026-10-22T17:51:08.000+08:00"
+        "title": "东莞港已常态化运营11条东盟航线",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719209.shtml",
+        "publishedAt": "2026-10-22T18:03:09.000+08:00"
       },
       {
-        "title": "民生调查局｜你的“双十一”女装模特，可能不是人",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719197.shtml",
-        "publishedAt": "2026-10-22T17:42:31.000+08:00"
+        "title": "两座特大桥相继贯通 通铜高速整体建设进度过半",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719207.shtml",
+        "publishedAt": "2026-10-22T18:02:36.000+08:00"
       },
       {
-        "title": "台风来袭！未来三天浙江东部局地或现大暴雨 沿海风力可达13级",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719199.shtml",
-        "publishedAt": "2026-10-22T17:40:39.000+08:00"
+        "title": "河北邯郸：“00后”OPC创业者借力AI打开个性化消费新空间",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719203.shtml",
+        "publishedAt": "2026-10-22T18:01:24.000+08:00"
       },
       {
-        "title": "侨企代表走进中国老挝磨憨—磨丁经济合作区觅商机",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-22/10719194.shtml",
-        "publishedAt": "2026-10-22T17:40:03.000+08:00"
+        "title": "今年横琴口岸出入境旅客已突破3000万人次",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719206.shtml",
+        "publishedAt": "2026-10-22T18:00:46.000+08:00"
       },
       {
-        "title": "瑞银亚太区总裁：中国有潜力成为未来财富转移的重要目的地",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719195.shtml",
-        "publishedAt": "2026-10-22T17:39:49.000+08:00"
+        "title": "宋庄当代艺术精品拍卖举槌在即 探索原创艺术可信交易新路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719201.shtml",
+        "publishedAt": "2026-10-22T17:58:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T18:00:04.454+08:00",
+    "fetchedAt": "2026-10-22T18:10:03.755+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T18:00:09.338+08:00",
+      "fetchedAt": "2026-10-22T18:10:08.334+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T18:00:09.789+08:00",
+      "fetchedAt": "2026-10-22T18:10:08.519+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T18:00:09.796+08:00",
+      "fetchedAt": "2026-10-22T18:10:08.526+08:00",
       "error": null
     }
   }
