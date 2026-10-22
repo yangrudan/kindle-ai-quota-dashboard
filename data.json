@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T19:10:07.699+08:00",
+  "updatedAt": "2026-10-22T19:20:07.543+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.9,
-    "feelsLikeC": 16.8,
+    "tempC": 17.8,
+    "feelsLikeC": 16.5,
     "humidity": 68,
-    "windKph": 11.9,
+    "windKph": 12.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T19:10:07.699+08:00",
+    "observedAt": "2026-10-22T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-22T19:20:07.543+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "三峡水库完成2026年度蓄水任务",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719249.shtml",
+        "publishedAt": "2026-10-22T19:10:22.000+08:00"
+      },
+      {
+        "title": "“芯片长廊”里的“未来课”：台企在桂打造AI科普窗口",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719244.shtml",
+        "publishedAt": "2026-10-22T19:09:42.000+08:00"
+      },
+      {
+        "title": "2026年珠澳琴职业技能大赛酒店接待项目决赛澳门收官",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719246.shtml",
+        "publishedAt": "2026-10-22T19:09:38.000+08:00"
+      },
+      {
+        "title": "第十五届世界猪业博览会在河南郑州启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719245.shtml",
+        "publishedAt": "2026-10-22T19:09:36.000+08:00"
+      },
+      {
         "title": "“突厥斯坦”？天方夜谭！",
         "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719243.shtml",
         "publishedAt": "2026-10-22T19:05:26.000+08:00"
-      },
-      {
-        "title": "纪念长征胜利90周年 爱奇艺出品AIGC动画电影《灰耳朵也是勇士》即将院线上映",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719242.shtml",
-        "publishedAt": "2026-10-22T19:01:06.000+08:00"
-      },
-      {
-        "title": "第二届全国民政行业职业技能大赛：以科技赋能行业发展",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719241.shtml",
-        "publishedAt": "2026-10-22T18:59:48.000+08:00"
-      },
-      {
-        "title": "第二十六届中国经济学年会在京举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719239.shtml",
-        "publishedAt": "2026-10-22T18:58:46.000+08:00"
-      },
-      {
-        "title": "北京：2026中国国际珠宝展开幕",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208547.shtml",
-        "publishedAt": "2026-10-22T18:58:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T19:10:02.851+08:00",
+    "fetchedAt": "2026-10-22T19:20:02.667+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T19:10:06.572+08:00",
+      "fetchedAt": "2026-10-22T19:20:06.471+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T19:10:06.783+08:00",
+      "fetchedAt": "2026-10-22T19:20:06.716+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T19:10:06.791+08:00",
+      "fetchedAt": "2026-10-22T19:20:06.725+08:00",
       "error": null
     }
   }
