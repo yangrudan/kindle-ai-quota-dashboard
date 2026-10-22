@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T18:40:37.568+08:00",
+  "updatedAt": "2026-10-22T18:50:08.674+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.1,
-    "feelsLikeC": 17.1,
+    "tempC": 18,
+    "feelsLikeC": 16.9,
     "humidity": 68,
-    "windKph": 11.7,
+    "windKph": 11.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-22T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T18:40:37.568+08:00",
+    "observedAt": "2026-10-22T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-22T18:50:08.674+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "天津“十五五”聚焦五方面布局能源项目 总投资2000亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719226.shtml",
-        "publishedAt": "2026-10-22T18:32:16.000+08:00"
+        "title": "前三季度湖北对全球97个国家和地区进出口实现增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719237.shtml",
+        "publishedAt": "2026-10-22T18:43:57.000+08:00"
       },
       {
-        "title": "执行任务百余次、排除未爆弹500多枚……这位“排爆兵王”的“长征”从未停止",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719224.shtml",
-        "publishedAt": "2026-10-22T18:26:56.000+08:00"
+        "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平发表重要讲话",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208543.shtml",
+        "publishedAt": "2026-10-22T18:38:27.000+08:00"
       },
       {
-        "title": "广西梧州加快构建特色现代化产业体系 加速布局新兴赛道",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719219.shtml",
-        "publishedAt": "2026-10-22T18:24:34.000+08:00"
+        "title": "统战搭桥 江西青原智慧育苗激活乡村振兴动能",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719232.shtml",
+        "publishedAt": "2026-10-22T18:36:36.000+08:00"
       },
       {
-        "title": "澳大利亚资本投资公司何逸舟：看好中国科创与企业出海机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719211.shtml",
-        "publishedAt": "2026-10-22T18:23:38.000+08:00"
+        "title": "通用人工智能大会在重庆启幕 发布明镜平台赋能超大城市治理",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719231.shtml",
+        "publishedAt": "2026-10-22T18:36:28.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）双展启幕忆峥嵘 桂林博物馆两大长征主题展览开展",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719223.shtml",
-        "publishedAt": "2026-10-22T18:23:08.000+08:00"
+        "title": "200余名中外教育界代表昆明共议RCEP教育合作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719230.shtml",
+        "publishedAt": "2026-10-22T18:36:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T18:40:02.812+08:00",
+    "fetchedAt": "2026-10-22T18:50:03.205+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T18:40:36.275+08:00",
+      "fetchedAt": "2026-10-22T18:50:07.479+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T18:40:36.470+08:00",
+      "fetchedAt": "2026-10-22T18:50:07.737+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T18:40:36.480+08:00",
+      "fetchedAt": "2026-10-22T18:50:07.746+08:00",
       "error": null
     }
   }
