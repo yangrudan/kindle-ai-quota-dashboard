@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T09:10:09.195+08:00",
+  "updatedAt": "2026-10-22T09:20:08.348+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.1,
-    "feelsLikeC": 16,
-    "humidity": 67,
-    "windKph": 9.3,
+    "tempC": 17.5,
+    "feelsLikeC": 16.3,
+    "humidity": 66,
+    "windKph": 9.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T09:10:09.195+08:00",
+    "observedAt": "2026-10-22T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-22T09:20:08.348+08:00",
     "error": null
   },
   "news": {
@@ -30,8 +30,8 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-22T09:04:07.000+08:00"
       },
       {
-        "title": "国家防总、应急管理部针对上海浙江福建 启动防汛防台风四级应急响应 派出工作组赴浙江协助指导防汛防台风工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718858.shtml",
+        "title": "国家防总、应急管理部针对沪浙闽启动防汛防台风四级应急响应",
+        "url": "https://www.chinanews.com.cn/${mypath}/2026/10-22/10718858.shtml",
         "publishedAt": "2026-10-22T09:02:17.000+08:00"
       },
       {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-22T08:42:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T09:10:03.028+08:00",
+    "fetchedAt": "2026-10-22T09:20:03.252+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:07.983+08:00",
+      "fetchedAt": "2026-10-22T09:20:07.185+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T14:10:09.000+08:00"
+          "resetAt": "2026-10-22T14:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:08.220+08:00",
+      "fetchedAt": "2026-10-22T09:20:07.504+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T09:10:08.226+08:00",
+      "fetchedAt": "2026-10-22T09:20:07.514+08:00",
       "error": null
     }
   }
