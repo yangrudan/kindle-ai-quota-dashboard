@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T07:50:07.946+08:00",
+  "updatedAt": "2026-10-22T08:00:09.761+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.1,
-    "feelsLikeC": 14.4,
-    "humidity": 76,
-    "windKph": 6.8,
+    "tempC": 15.5,
+    "feelsLikeC": 14.8,
+    "humidity": 75,
+    "windKph": 7.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T07:50:07.946+08:00",
+    "observedAt": "2026-10-22T08:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T08:00:09.762+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "400多件长征文物将在国博开展 这些藏品到底有多珍贵？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718834.shtml",
+        "publishedAt": "2026-10-22T07:48:01.000+08:00"
+      },
+      {
+        "title": "【我们的长征路】习言道｜长征精神，永向前",
+        "url": "http://www.chinanews.com.cn/gn/shipin/2026/10-22/news1072588.shtml",
+        "publishedAt": "2026-10-22T07:45:59.000+08:00"
+      },
       {
         "title": "【我们的长征路】习言道｜一镜到底见证长征力量",
         "url": "http://www.chinanews.com.cn/gn/shipin/2026/10-22/news1072587.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "旅客预订机票后因病申请退票被拒产生纠纷 专家解析",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718830.shtml",
         "publishedAt": "2026-10-22T07:42:11.000+08:00"
-      },
-      {
-        "title": "高龄老人独自参团出游，难在哪里？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718829.shtml",
-        "publishedAt": "2026-10-22T07:33:33.000+08:00"
-      },
-      {
-        "title": "平均每300米牺牲1人，这支队伍为什么没散？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718828.shtml",
-        "publishedAt": "2026-10-22T07:33:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T07:50:03.393+08:00",
+    "fetchedAt": "2026-10-22T08:00:04.607+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T07:50:06.881+08:00",
+      "fetchedAt": "2026-10-22T08:00:08.732+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T12:50:07.000+08:00"
+          "resetAt": "2026-10-22T13:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T07:50:07.060+08:00",
+      "fetchedAt": "2026-10-22T08:00:08.927+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T07:50:07.070+08:00",
+      "fetchedAt": "2026-10-22T08:00:08.938+08:00",
       "error": null
     }
   }
