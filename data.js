@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T13:30:09.601+08:00",
+  "updatedAt": "2026-10-22T13:40:08.401+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-22T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T13:30:09.601+08:00",
+    "fetchedAt": "2026-10-22T13:40:08.402+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "贵州麻阳河保护区探索黑叶猴保护治理新范式",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718979.shtml",
-        "publishedAt": "2026-10-22T13:23:51.000+08:00"
+        "title": "IDC最新报告：阿里云占中国汽车公共云市场份额超45%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718989.shtml",
+        "publishedAt": "2026-10-22T13:33:24.000+08:00"
       },
       {
-        "title": "海外学前华教需求旺 业界探路新“解法”",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-22/10718976.shtml",
-        "publishedAt": "2026-10-22T13:20:45.000+08:00"
+        "title": "上海洋山南港码头储能柜出海提速",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718982.shtml",
+        "publishedAt": "2026-10-22T13:32:46.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）强渡“第一船”靠岸91年后：大渡河畔的新生活",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718952.shtml",
-        "publishedAt": "2026-10-22T13:12:01.000+08:00"
+        "title": "2026年前三季度重庆市进出口商品主要贸易方式总值表(人民币值)",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10718990.shtml",
+        "publishedAt": "2026-10-22T13:32:08.000+08:00"
       },
       {
-        "title": "从春晚爆款IP到剧场力作 原创舞剧《锦鲤》即将首演",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-22/10718945.shtml",
-        "publishedAt": "2026-10-22T13:10:37.000+08:00"
+        "title": "山西广灵“东方亮”谷子开镰收割 小谷穗串起大产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718983.shtml",
+        "publishedAt": "2026-10-22T13:30:32.000+08:00"
       },
       {
-        "title": "武汉科研团队在非洲发现丽梭瓜属植物新种",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718951.shtml",
-        "publishedAt": "2026-10-22T13:09:23.000+08:00"
+        "title": "长春大冬会吉林市分赛区滑雪项目裁判员培训启动",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718978.shtml",
+        "publishedAt": "2026-10-22T13:29:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T13:30:03.802+08:00",
+    "fetchedAt": "2026-10-22T13:40:02.857+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T13:30:08.344+08:00",
+      "fetchedAt": "2026-10-22T13:40:07.066+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T13:30:08.640+08:00",
+      "fetchedAt": "2026-10-22T13:40:07.329+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T13:30:08.645+08:00",
+      "fetchedAt": "2026-10-22T13:40:07.341+08:00",
       "error": null
     }
   }
