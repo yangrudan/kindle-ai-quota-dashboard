@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T05:40:09.165+08:00",
+  "updatedAt": "2026-10-23T05:50:09.670+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.1,
-    "feelsLikeC": 14.7,
+    "feelsLikeC": 14.6,
     "humidity": 84,
-    "windKph": 7.8,
+    "windKph": 8.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T05:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T05:40:09.165+08:00",
+    "observedAt": "2026-10-23T05:45:00.000+08:00",
+    "fetchedAt": "2026-10-23T05:50:09.670+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "北京队主场大胜深圳队 收获CBA常规赛三连胜",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719445.shtml",
-        "publishedAt": "2026-10-23T00:49:01.000+08:00"
+        "title": "德国逮捕一名涉嫌为俄罗斯从事间谍活动的乌克兰籍男子",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719449.shtml",
+        "publishedAt": "2026-10-23T05:46:57.000+08:00"
       },
       {
-        "title": "CBA：山西队主场力克上海队 送卫冕冠军赛季首败",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719444.shtml",
-        "publishedAt": "2026-10-23T00:33:14.000+08:00"
+        "title": "菲律宾央行加息50个基点应对通胀 比索再创历史新低",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719450.shtml",
+        "publishedAt": "2026-10-23T05:46:29.000+08:00"
       },
       {
-        "title": "两部门启动国家地震灾害四级应急响应",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719441.shtml",
-        "publishedAt": "2026-10-22T23:58:24.000+08:00"
+        "title": "法国发现全球首例人类感染沙蒙达病毒病例 患者已病故",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719451.shtml",
+        "publishedAt": "2026-10-23T05:46:01.000+08:00"
       },
       {
-        "title": "中国地震局对西藏那曲市巴青县地震启动二级应急响应",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719438.shtml",
-        "publishedAt": "2026-10-22T23:30:26.000+08:00"
+        "title": "联合国应对损失与损害基金为尼泊尔预留2000万美元",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719452.shtml",
+        "publishedAt": "2026-10-23T05:44:39.000+08:00"
       },
       {
-        "title": "火灾烟霾污染空气 印尼急性呼吸道感染病例超33万例",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719434.shtml",
-        "publishedAt": "2026-10-22T23:12:37.000+08:00"
+        "title": "西藏那曲巴青7.0级地震 已造成16人遇难 32人受伤",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719448.shtml",
+        "publishedAt": "2026-10-23T05:39:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T05:40:03.598+08:00",
+    "fetchedAt": "2026-10-23T05:50:03.648+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T05:40:08.026+08:00",
+      "fetchedAt": "2026-10-23T05:50:08.353+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-23T10:40:09.000+08:00"
+          "resetAt": "2026-10-23T10:50:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-30T05:40:09.000+08:00"
+          "resetAt": "2026-10-30T05:50:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T05:40:08.280+08:00",
+      "fetchedAt": "2026-10-23T05:50:08.674+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T05:40:08.285+08:00",
+      "fetchedAt": "2026-10-23T05:50:08.678+08:00",
       "error": null
     }
   }
