@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T23:30:10.347+08:00",
+  "updatedAt": "2026-10-22T23:40:08.665+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-22T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T23:30:10.348+08:00",
+    "fetchedAt": "2026-10-22T23:40:08.665+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国地震局对西藏那曲市巴青县地震启动二级应急响应",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719438.shtml",
+        "publishedAt": "2026-10-22T23:30:26.000+08:00"
+      },
       {
         "title": "火灾烟霾污染空气 印尼急性呼吸道感染病例超33万例",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719434.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“手术发型”医生走红之后：一家公立医院如何“组织化”培养党外人才",
         "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719429.shtml",
         "publishedAt": "2026-10-22T23:06:09.000+08:00"
-      },
-      {
-        "title": "“讲好中国故事——觉醒年代”国情教育讲座在澳门举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719428.shtml",
-        "publishedAt": "2026-10-22T23:01:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T23:30:03.643+08:00",
+    "fetchedAt": "2026-10-22T23:40:03.871+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T23:30:09.071+08:00",
+      "fetchedAt": "2026-10-22T23:40:07.250+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T23:30:09.492+08:00",
+      "fetchedAt": "2026-10-22T23:40:07.612+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T23:30:09.501+08:00",
+      "fetchedAt": "2026-10-22T23:40:07.618+08:00",
       "error": null
     }
   }
