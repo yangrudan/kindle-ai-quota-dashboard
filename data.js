@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T09:00:39.193+08:00",
+  "updatedAt": "2026-10-22T09:10:09.195+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-22T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T09:00:39.193+08:00",
+    "fetchedAt": "2026-10-22T09:10:09.195+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "李强会见俄罗斯总统普京",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208495.shtml",
+        "publishedAt": "2026-10-22T09:07:36.000+08:00"
+      },
+      {
+        "title": "“黑色黄金”整线出口 纺织业的“高端自主”长啥样？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718844.shtml",
+        "publishedAt": "2026-10-22T09:04:07.000+08:00"
+      },
+      {
+        "title": "国家防总、应急管理部针对上海浙江福建 启动防汛防台风四级应急响应 派出工作组赴浙江协助指导防汛防台风工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718858.shtml",
+        "publishedAt": "2026-10-22T09:02:17.000+08:00"
+      },
+      {
+        "title": "我国中东部迎升温过程 东南沿海降雨将增多增强",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718855.shtml",
+        "publishedAt": "2026-10-22T08:59:11.000+08:00"
+      },
+      {
         "title": "美副总统万斯：乌克兰不是北约成员，也不应加入北约",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718847.shtml",
         "publishedAt": "2026-10-22T08:42:38.000+08:00"
-      },
-      {
-        "title": "中国体操队时隔20年再夺世锦赛女团金牌",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208489.shtml",
-        "publishedAt": "2026-10-22T08:41:37.000+08:00"
-      },
-      {
-        "title": "90年了，这群拼命赶路的人，不能忘！",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718843.shtml",
-        "publishedAt": "2026-10-22T08:32:34.000+08:00"
-      },
-      {
-        "title": "直播外链：回望九十载峥嵘岁月 从万里长征走向伟大复兴",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10718842.shtml",
-        "publishedAt": "2026-10-22T08:24:27.000+08:00"
-      },
-      {
-        "title": "中方主张不在外空搞“大国竞争”和阵营对抗",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718840.shtml",
-        "publishedAt": "2026-10-22T08:23:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T09:00:04.130+08:00",
+    "fetchedAt": "2026-10-22T09:10:03.028+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T09:00:38.006+08:00",
+      "fetchedAt": "2026-10-22T09:10:07.983+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T14:00:39.000+08:00"
+          "resetAt": "2026-10-22T14:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T09:00:38.264+08:00",
+      "fetchedAt": "2026-10-22T09:10:08.220+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T09:00:38.274+08:00",
+      "fetchedAt": "2026-10-22T09:10:08.226+08:00",
       "error": null
     }
   }
