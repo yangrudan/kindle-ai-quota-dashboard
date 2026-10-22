@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T20:00:38.226+08:00",
+  "updatedAt": "2026-10-22T20:10:08.465+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.5,
-    "feelsLikeC": 16.2,
+    "tempC": 17.4,
+    "feelsLikeC": 16,
     "humidity": 67,
-    "windKph": 12.1,
+    "windKph": 12.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T20:00:38.227+08:00",
+    "observedAt": "2026-10-22T20:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T20:10:08.465+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中国杯世界花样滑冰大奖赛首次落地深圳",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10719305.shtml",
+        "publishedAt": "2026-10-22T20:04:21.000+08:00"
+      },
+      {
+        "title": "今年前三季度东盟稳居河北第一大贸易伙伴",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719302.shtml",
+        "publishedAt": "2026-10-22T19:56:57.000+08:00"
+      },
+      {
+        "title": "李家超：香港会持续强化连接国家与全球资本的枢纽功能",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719301.shtml",
+        "publishedAt": "2026-10-22T19:56:25.000+08:00"
+      },
+      {
+        "title": "岑浩辉：欢迎投资者把握澳琴和大湾区市场机遇",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719300.shtml",
+        "publishedAt": "2026-10-22T19:55:29.000+08:00"
+      },
+      {
         "title": "《全球食事指数（GSI）报告2026》在澳门发布",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719299.shtml",
         "publishedAt": "2026-10-22T19:54:23.000+08:00"
-      },
-      {
-        "title": "2026“北京超高清视听·行！视听奇境”公共服务主题活动落幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-22/10719298.shtml",
-        "publishedAt": "2026-10-22T19:53:27.000+08:00"
-      },
-      {
-        "title": "委内瑞拉谴责美方对古巴革命领袖劳尔·卡斯特罗发逮捕令",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719229.shtml",
-        "publishedAt": "2026-10-22T19:52:36.000+08:00"
-      },
-      {
-        "title": "陕西省青少年篮球联赛收官 西安队包揽男女组冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10719297.shtml",
-        "publishedAt": "2026-10-22T19:51:54.000+08:00"
-      },
-      {
-        "title": "内蒙古阿拉善三大地标畜产品首次进入澳门市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719296.shtml",
-        "publishedAt": "2026-10-22T19:51:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T20:00:02.457+08:00",
+    "fetchedAt": "2026-10-22T20:10:03.404+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T20:00:36.577+08:00",
+      "fetchedAt": "2026-10-22T20:10:07.106+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T20:00:36.921+08:00",
+      "fetchedAt": "2026-10-22T20:10:07.279+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T20:00:36.932+08:00",
+      "fetchedAt": "2026-10-22T20:10:07.287+08:00",
       "error": null
     }
   }
