@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T05:50:09.670+08:00",
+  "updatedAt": "2026-10-23T06:00:09.775+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.1,
-    "feelsLikeC": 14.6,
+    "feelsLikeC": 14.5,
     "humidity": 84,
-    "windKph": 8.4,
+    "windKph": 8.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T05:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T05:50:09.670+08:00",
+    "observedAt": "2026-10-23T06:00:00.000+08:00",
+    "fetchedAt": "2026-10-23T06:00:09.775+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "普京：重启俄美乌三方会谈不是仅为短暂停火",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719453.shtml",
+        "publishedAt": "2026-10-23T05:50:34.000+08:00"
+      },
       {
         "title": "德国逮捕一名涉嫌为俄罗斯从事间谍活动的乌克兰籍男子",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719449.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "联合国应对损失与损害基金为尼泊尔预留2000万美元",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719452.shtml",
         "publishedAt": "2026-10-23T05:44:39.000+08:00"
-      },
-      {
-        "title": "西藏那曲巴青7.0级地震 已造成16人遇难 32人受伤",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719448.shtml",
-        "publishedAt": "2026-10-23T05:39:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T05:50:03.648+08:00",
+    "fetchedAt": "2026-10-23T06:00:04.076+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T05:50:08.353+08:00",
+      "fetchedAt": "2026-10-23T06:00:08.446+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-23T10:50:09.000+08:00"
+          "resetAt": "2026-10-23T11:00:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-30T05:50:09.000+08:00"
+          "resetAt": "2026-10-30T06:00:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T05:50:08.674+08:00",
+      "fetchedAt": "2026-10-23T06:00:08.759+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T05:50:08.678+08:00",
+      "fetchedAt": "2026-10-23T06:00:08.768+08:00",
       "error": null
     }
   }
