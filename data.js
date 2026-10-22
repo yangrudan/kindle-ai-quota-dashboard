@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T11:20:38.805+08:00",
+  "updatedAt": "2026-10-22T11:30:09.216+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 20.3,
-    "feelsLikeC": 19.4,
-    "humidity": 55,
-    "windKph": 12.7,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 20.6,
+    "feelsLikeC": 19.5,
+    "humidity": 54,
+    "windKph": 13.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-22T11:20:38.805+08:00",
+    "observedAt": "2026-10-22T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-22T11:30:09.216+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日媒：日企子公司高管活动引发蒙古国大火，多方提出批评",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718943.shtml",
+        "publishedAt": "2026-10-22T11:24:23.000+08:00"
+      },
+      {
+        "title": "粤九个案例入选 数量居全国首位",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10718939.shtml",
+        "publishedAt": "2026-10-22T11:17:01.000+08:00"
+      },
       {
         "title": "委内瑞拉执政党谴责美方对劳尔·卡斯特罗发逮捕令",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718938.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（乡村行·看振兴）“参”藏长白山：千年老行当育出百亿新产业",
         "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718924.shtml",
         "publishedAt": "2026-10-22T11:12:02.000+08:00"
-      },
-      {
-        "title": "黑龙江全省秋收进度近九成 部分区域秋收告捷",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718934.shtml",
-        "publishedAt": "2026-10-22T11:11:20.000+08:00"
-      },
-      {
-        "title": "国际金融协会总裁安德慕：AI将以积极方式改变世界",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718923.shtml",
-        "publishedAt": "2026-10-22T11:11:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T11:20:03.663+08:00",
+    "fetchedAt": "2026-10-22T11:30:04.098+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T11:20:37.388+08:00",
+      "fetchedAt": "2026-10-22T11:30:07.671+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 19,
+          "usedPct": 23,
           "resetAt": "2026-10-22T15:19:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 56,
+          "usedPct": 57,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T11:20:37.716+08:00",
+      "fetchedAt": "2026-10-22T11:30:07.904+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T11:20:37.728+08:00",
+      "fetchedAt": "2026-10-22T11:30:07.907+08:00",
       "error": null
     }
   }
