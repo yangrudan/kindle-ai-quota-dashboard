@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T17:10:08.638+08:00",
+  "updatedAt": "2026-10-22T17:20:09.490+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.6,
-    "feelsLikeC": 18.5,
-    "humidity": 63,
-    "windKph": 12.8,
+    "tempC": 19.3,
+    "feelsLikeC": 18.2,
+    "humidity": 65,
+    "windKph": 12.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-22T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T17:10:08.639+08:00",
+    "observedAt": "2026-10-22T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-22T17:20:09.490+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《中国工农红军长征胜利90周年》纪念邮票发行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719170.shtml",
+        "publishedAt": "2026-10-22T17:08:26.000+08:00"
+      },
+      {
+        "title": "宁夏首部民营经济地方性法规11月1日起施行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719177.shtml",
+        "publishedAt": "2026-10-22T17:08:24.000+08:00"
+      },
       {
         "title": "湖北航空口岸客流稳步攀升",
         "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719172.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "海南自贸港前三季度维修进境飞机超百架次",
         "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719176.shtml",
         "publishedAt": "2026-10-22T17:03:03.000+08:00"
-      },
-      {
-        "title": "从锁黄沙到“种Token”：化德绿电筑起乌兰察布算力底座",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719171.shtml",
-        "publishedAt": "2026-10-22T17:01:39.000+08:00"
-      },
-      {
-        "title": "学者建言公共卫生治理法治化改革：关注早期干预、制度预防等",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719162.shtml",
-        "publishedAt": "2026-10-22T16:59:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T17:10:03.434+08:00",
+    "fetchedAt": "2026-10-22T17:20:03.870+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T17:10:07.330+08:00",
+      "fetchedAt": "2026-10-22T17:20:08.369+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 59,
+          "usedPct": 64,
           "resetAt": "2026-10-22T20:20:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 78,
+          "usedPct": 79,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T17:10:07.719+08:00",
+      "fetchedAt": "2026-10-22T17:20:08.604+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T17:10:07.728+08:00",
+      "fetchedAt": "2026-10-22T17:20:08.616+08:00",
       "error": null
     }
   }
