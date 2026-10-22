@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T18:50:08.674+08:00",
+  "updatedAt": "2026-10-22T19:00:44.742+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18,
-    "feelsLikeC": 16.9,
+    "tempC": 17.9,
+    "feelsLikeC": 16.8,
     "humidity": 68,
-    "windKph": 11.8,
-    "windDir": "东风",
+    "windKph": 11.9,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T18:50:08.674+08:00",
+    "observedAt": "2026-10-22T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T19:00:44.742+08:00",
     "error": null
   },
   "news": {
@@ -23,6 +23,11 @@ window.DASH_DATA = {
         "title": "前三季度湖北对全球97个国家和地区进出口实现增长",
         "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719237.shtml",
         "publishedAt": "2026-10-22T18:43:57.000+08:00"
+      },
+      {
+        "title": "长江江豚联动跟踪监测系统南京投用：记录345头次江豚活动轨迹",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719236.shtml",
+        "publishedAt": "2026-10-22T18:43:51.000+08:00"
       },
       {
         "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平发表重要讲话",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "通用人工智能大会在重庆启幕 发布明镜平台赋能超大城市治理",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719231.shtml",
         "publishedAt": "2026-10-22T18:36:28.000+08:00"
-      },
-      {
-        "title": "200余名中外教育界代表昆明共议RCEP教育合作",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719230.shtml",
-        "publishedAt": "2026-10-22T18:36:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T18:50:03.205+08:00",
+    "fetchedAt": "2026-10-22T19:00:04.718+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T18:50:07.479+08:00",
+      "fetchedAt": "2026-10-22T19:00:43.478+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T18:50:07.737+08:00",
+      "fetchedAt": "2026-10-22T19:00:43.856+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T18:50:07.746+08:00",
+      "fetchedAt": "2026-10-22T19:00:43.863+08:00",
       "error": null
     }
   }
