@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T07:00:07.868+08:00",
+  "updatedAt": "2026-10-23T07:10:09.580+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 15.3,
-    "feelsLikeC": 14.9,
-    "humidity": 84,
-    "windKph": 8.3,
-    "windDir": "北风",
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 15.6,
+    "feelsLikeC": 15.2,
+    "humidity": 83,
+    "windKph": 8.2,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T07:00:07.868+08:00",
+    "observedAt": "2026-10-23T07:00:00.000+08:00",
+    "fetchedAt": "2026-10-23T07:10:09.580+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-23T06:37:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T07:00:02.718+08:00",
+    "fetchedAt": "2026-10-23T07:10:03.038+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T07:00:06.395+08:00",
+      "fetchedAt": "2026-10-23T07:10:07.802+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-23T12:00:07.000+08:00"
+          "resetAt": "2026-10-23T12:10:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-30T07:00:07.000+08:00"
+          "resetAt": "2026-10-30T07:10:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T07:00:06.674+08:00",
+      "fetchedAt": "2026-10-23T07:10:08.026+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T07:00:06.679+08:00",
+      "fetchedAt": "2026-10-23T07:10:08.030+08:00",
       "error": null
     }
   }
