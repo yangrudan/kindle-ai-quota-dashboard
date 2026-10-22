@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T22:10:08.632+08:00",
+  "updatedAt": "2026-10-22T22:20:11.903+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
-    "feelsLikeC": 15.8,
+    "tempC": 16.6,
+    "feelsLikeC": 15.7,
     "humidity": 72,
-    "windKph": 9.6,
+    "windKph": 9.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T22:10:08.632+08:00",
+    "observedAt": "2026-10-22T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-22T22:20:11.903+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "全国医保影像AI识图大赛决赛启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719414.shtml",
+        "publishedAt": "2026-10-22T22:10:14.000+08:00"
+      },
+      {
+        "title": "天津北辰法院发布建设工程审判白皮书 破解工程价款结算难题",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719413.shtml",
+        "publishedAt": "2026-10-22T22:09:14.000+08:00"
+      },
+      {
+        "title": "海南推出纪录片《中国南繁故事》献礼南繁70年",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719412.shtml",
+        "publishedAt": "2026-10-22T22:06:18.000+08:00"
+      },
+      {
+        "title": "2026年福建“村歌”美育活动在福州闽清举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719411.shtml",
+        "publishedAt": "2026-10-22T22:05:14.000+08:00"
+      },
+      {
         "title": "青海都兰：10万余亩藜麦迎丰收 特色产业赋能乡村振兴",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719410.shtml",
         "publishedAt": "2026-10-22T22:03:46.000+08:00"
-      },
-      {
-        "title": "台风“蔷琵”临近 台湾多地停班停课",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719408.shtml",
-        "publishedAt": "2026-10-22T22:03:18.000+08:00"
-      },
-      {
-        "title": "香港营商优势助力川企走出去交流会在成都举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719407.shtml",
-        "publishedAt": "2026-10-22T22:03:12.000+08:00"
-      },
-      {
-        "title": "调查指大湾区部分城市企业明年加薪幅度将上升",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719406.shtml",
-        "publishedAt": "2026-10-22T22:02:16.000+08:00"
-      },
-      {
-        "title": "2026年全国游泳锦标赛（25米）23日开赛 名将竞逐“水立方”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10719404.shtml",
-        "publishedAt": "2026-10-22T22:02:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T22:10:03.171+08:00",
+    "fetchedAt": "2026-10-22T22:20:04.383+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T22:10:07.116+08:00",
+      "fetchedAt": "2026-10-22T22:20:08.422+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T22:10:07.418+08:00",
+      "fetchedAt": "2026-10-22T22:20:08.733+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T22:10:07.427+08:00",
+      "fetchedAt": "2026-10-22T22:20:08.743+08:00",
       "error": null
     }
   }
