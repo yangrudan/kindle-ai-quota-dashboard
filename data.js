@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T14:30:13.885+08:00",
+  "updatedAt": "2026-10-22T14:40:40.845+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-22T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T14:30:13.885+08:00",
+    "fetchedAt": "2026-10-22T14:40:40.846+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "斯诺克北爱尔兰公开赛：张家玮、庞俊旭挺进16强",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10719021.shtml",
-        "publishedAt": "2026-10-22T14:18:28.000+08:00"
+        "title": "第四届澜湄区域电力技术及标准交流会在昆明举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719035.shtml",
+        "publishedAt": "2026-10-22T14:35:37.000+08:00"
       },
       {
-        "title": "日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719017.shtml",
-        "publishedAt": "2026-10-22T14:11:12.000+08:00"
+        "title": "台风“蔷琵”临近 福建提升防台风应急响应至三级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719032.shtml",
+        "publishedAt": "2026-10-22T14:32:19.000+08:00"
       },
       {
-        "title": "习近平：在纪念中国工农红军长征胜利90周年大会上的讲话",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719012.shtml",
-        "publishedAt": "2026-10-22T14:10:18.000+08:00"
+        "title": "长征路上学党史丨甘肃会宁“守塔人”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719031.shtml",
+        "publishedAt": "2026-10-22T14:31:39.000+08:00"
       },
       {
-        "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719006.shtml",
-        "publishedAt": "2026-10-22T14:10:08.000+08:00"
+        "title": "亚残运会之声：“运动改变人生，让我更有力量”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10719027.shtml",
+        "publishedAt": "2026-10-22T14:31:37.000+08:00"
       },
       {
-        "title": "武汉蔡甸做“生态加法” “知音故里”崛起科创发展带",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719011.shtml",
-        "publishedAt": "2026-10-22T14:07:26.000+08:00"
+        "title": "【长征胜利90周年】四川雅安安顺场：昔日革命渡口迎八方游客",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/10-22/news1072647.shtml",
+        "publishedAt": "2026-10-22T14:28:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T14:30:05.188+08:00",
+    "fetchedAt": "2026-10-22T14:40:05.183+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T14:30:12.660+08:00",
+      "fetchedAt": "2026-10-22T14:40:39.417+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 33,
+          "usedPct": 37,
           "resetAt": "2026-10-22T15:19:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 58,
+          "usedPct": 59,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T14:30:12.852+08:00",
+      "fetchedAt": "2026-10-22T14:40:39.762+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T14:30:12.862+08:00",
+      "fetchedAt": "2026-10-22T14:40:39.767+08:00",
       "error": null
     }
   }
