@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T22:00:39.306+08:00",
+  "updatedAt": "2026-10-22T22:10:08.632+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-22T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T22:00:39.306+08:00",
+    "fetchedAt": "2026-10-22T22:10:08.632+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "聚焦教师育心能力培养的AI实训平台在沪发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719393.shtml",
-        "publishedAt": "2026-10-22T21:50:53.000+08:00"
+        "title": "青海都兰：10万余亩藜麦迎丰收 特色产业赋能乡村振兴",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719410.shtml",
+        "publishedAt": "2026-10-22T22:03:46.000+08:00"
       },
       {
-        "title": "250余名专家聚云南临沧 共商核桃产业高质量发展新路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719392.shtml",
-        "publishedAt": "2026-10-22T21:50:39.000+08:00"
+        "title": "台风“蔷琵”临近 台湾多地停班停课",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719408.shtml",
+        "publishedAt": "2026-10-22T22:03:18.000+08:00"
       },
       {
-        "title": "聚焦OPC 第七届两岸青年创业孵化器沙龙在南京举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719391.shtml",
-        "publishedAt": "2026-10-22T21:50:31.000+08:00"
+        "title": "香港营商优势助力川企走出去交流会在成都举行",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719407.shtml",
+        "publishedAt": "2026-10-22T22:03:12.000+08:00"
       },
       {
-        "title": "航拍长江北源楚玛尔河",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719357.shtml",
-        "publishedAt": "2026-10-22T21:50:23.000+08:00"
+        "title": "调查指大湾区部分城市企业明年加薪幅度将上升",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719406.shtml",
+        "publishedAt": "2026-10-22T22:02:16.000+08:00"
       },
       {
-        "title": "粤港澳大湾区发展工商大会在澳门举行 为工商界合作搭建平台",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719389.shtml",
-        "publishedAt": "2026-10-22T21:50:09.000+08:00"
+        "title": "2026年全国游泳锦标赛（25米）23日开赛 名将竞逐“水立方”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10719404.shtml",
+        "publishedAt": "2026-10-22T22:02:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T22:00:04.115+08:00",
+    "fetchedAt": "2026-10-22T22:10:03.171+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T22:00:38.025+08:00",
+      "fetchedAt": "2026-10-22T22:10:07.116+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T22:00:38.440+08:00",
+      "fetchedAt": "2026-10-22T22:10:07.418+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T22:00:38.449+08:00",
+      "fetchedAt": "2026-10-22T22:10:07.427+08:00",
       "error": null
     }
   }
