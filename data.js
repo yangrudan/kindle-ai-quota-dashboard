@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T19:20:07.543+08:00",
+  "updatedAt": "2026-10-22T19:30:09.981+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.8,
-    "feelsLikeC": 16.5,
+    "tempC": 17.7,
+    "feelsLikeC": 16.4,
     "humidity": 68,
     "windKph": 12.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-22T19:20:07.543+08:00",
+    "observedAt": "2026-10-22T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-22T19:30:09.981+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "三峡水库完成2026年度蓄水任务",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719249.shtml",
-        "publishedAt": "2026-10-22T19:10:22.000+08:00"
+        "title": "美下令驻沙特“非紧急”政府雇员及家属撤离",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719228.shtml",
+        "publishedAt": "2026-10-22T19:18:55.000+08:00"
       },
       {
-        "title": "“芯片长廊”里的“未来课”：台企在桂打造AI科普窗口",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719244.shtml",
-        "publishedAt": "2026-10-22T19:09:42.000+08:00"
+        "title": "专访马来西亚教育部副部长：马中教育合作从人才交流迈向新领域",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719227.shtml",
+        "publishedAt": "2026-10-22T19:17:39.000+08:00"
       },
       {
-        "title": "2026年珠澳琴职业技能大赛酒店接待项目决赛澳门收官",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719246.shtml",
-        "publishedAt": "2026-10-22T19:09:38.000+08:00"
+        "title": "AI时代如何认识世界？蔡志忠、冯时、曾毅跨界对谈",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719256.shtml",
+        "publishedAt": "2026-10-22T19:17:17.000+08:00"
       },
       {
-        "title": "第十五届世界猪业博览会在河南郑州启幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719245.shtml",
-        "publishedAt": "2026-10-22T19:09:36.000+08:00"
+        "title": "政企协同提质改造 广西北海一“野生网红景点”蜕变规范景区",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719258.shtml",
+        "publishedAt": "2026-10-22T19:17:07.000+08:00"
       },
       {
-        "title": "“突厥斯坦”？天方夜谭！",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719243.shtml",
-        "publishedAt": "2026-10-22T19:05:26.000+08:00"
+        "title": "美媒：美军正在缩减约旦、卡塔尔、科威特驻军规模",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719260.shtml",
+        "publishedAt": "2026-10-22T19:16:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T19:20:02.667+08:00",
+    "fetchedAt": "2026-10-22T19:30:04.227+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T19:20:06.471+08:00",
+      "fetchedAt": "2026-10-22T19:30:08.437+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T19:20:06.716+08:00",
+      "fetchedAt": "2026-10-22T19:30:08.816+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T19:20:06.725+08:00",
+      "fetchedAt": "2026-10-22T19:30:08.823+08:00",
       "error": null
     }
   }
