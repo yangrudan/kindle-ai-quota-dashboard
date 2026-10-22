@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T13:00:09.611+08:00",
+  "updatedAt": "2026-10-22T13:10:08.502+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-22T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T13:00:09.612+08:00",
+    "fetchedAt": "2026-10-22T13:10:08.502+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "截至9月底我国电动汽车充电基础设施(枪)总数达2477.7万个",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718958.shtml",
-        "publishedAt": "2026-10-22T12:50:42.000+08:00"
+        "title": "一块“浩气凌霄”匾额 见证西藏嘉黎小镇多民族交往史",
+        "url": "https://www.chinanews.com.cn/mz/2026/10-22/10718949.shtml",
+        "publishedAt": "2026-10-22T13:07:29.000+08:00"
       },
       {
-        "title": "《广播电视和网络视听“十五五”规划》印发",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-22/10718966.shtml",
-        "publishedAt": "2026-10-22T12:40:19.000+08:00"
+        "title": "在世界文化遗产中探访云南古寨新生计",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718970.shtml",
+        "publishedAt": "2026-10-22T13:06:05.000+08:00"
       },
       {
-        "title": "中国女团时隔20年再夺体操世锦赛金牌 获洛杉矶奥运会资格",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10718960.shtml",
-        "publishedAt": "2026-10-22T12:38:51.000+08:00"
+        "title": "直播：胜利的回响·英雄连队云站岗",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10718972.shtml",
+        "publishedAt": "2026-10-22T13:05:22.000+08:00"
       },
       {
-        "title": "水利部针对4省市启动洪水防御Ⅳ级应急响应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718963.shtml",
-        "publishedAt": "2026-10-22T12:28:35.000+08:00"
+        "title": "中国海洋环境质量明显改善 海洋生态保护持续向好",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718968.shtml",
+        "publishedAt": "2026-10-22T13:05:14.000+08:00"
       },
       {
-        "title": "A股午评：超3900只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718957.shtml",
-        "publishedAt": "2026-10-22T11:59:55.000+08:00"
+        "title": "应急管理领域4个项目入选首批标志性重大应用场景项目",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718959.shtml",
+        "publishedAt": "2026-10-22T12:52:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T13:00:04.386+08:00",
+    "fetchedAt": "2026-10-22T13:10:03.228+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T13:00:08.514+08:00",
+      "fetchedAt": "2026-10-22T13:10:07.405+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T13:00:08.738+08:00",
+      "fetchedAt": "2026-10-22T13:10:07.665+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T13:00:08.747+08:00",
+      "fetchedAt": "2026-10-22T13:10:07.675+08:00",
       "error": null
     }
   }
