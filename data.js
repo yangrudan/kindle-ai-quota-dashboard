@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T23:10:11.571+08:00",
+  "updatedAt": "2026-10-22T23:20:10.765+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.4,
+    "tempC": 16.3,
     "feelsLikeC": 15.6,
-    "humidity": 74,
-    "windKph": 8.5,
+    "humidity": 75,
+    "windKph": 8.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T23:10:11.572+08:00",
+    "observedAt": "2026-10-22T23:15:00.000+08:00",
+    "fetchedAt": "2026-10-22T23:20:10.765+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "火灾烟霾污染空气 印尼急性呼吸道感染病例超33万例",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719434.shtml",
+        "publishedAt": "2026-10-22T23:12:37.000+08:00"
+      },
+      {
+        "title": "侨青赵建舟：扎根宁夏沃土 深耕“电竞+”产业",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-22/10719433.shtml",
+        "publishedAt": "2026-10-22T23:11:15.000+08:00"
+      },
+      {
+        "title": "非遗新唱 布朗族古调叙新事",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719431.shtml",
+        "publishedAt": "2026-10-22T23:10:21.000+08:00"
+      },
+      {
+        "title": "“手术发型”医生走红之后：一家公立医院如何“组织化”培养党外人才",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719429.shtml",
+        "publishedAt": "2026-10-22T23:06:09.000+08:00"
+      },
+      {
         "title": "“讲好中国故事——觉醒年代”国情教育讲座在澳门举行",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719428.shtml",
         "publishedAt": "2026-10-22T23:01:37.000+08:00"
-      },
-      {
-        "title": "2026中国·安平国际丝网博览会开幕 海外客商点赞“数字智造”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719427.shtml",
-        "publishedAt": "2026-10-22T22:55:34.000+08:00"
-      },
-      {
-        "title": "西藏那曲市巴青县发生7.0级地震 震源深度10千米",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719432.shtml",
-        "publishedAt": "2026-10-22T22:49:32.000+08:00"
-      },
-      {
-        "title": "西藏那曲市巴青县附近发生6.7级左右地震",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719430.shtml",
-        "publishedAt": "2026-10-22T22:44:08.000+08:00"
-      },
-      {
-        "title": "全国台企联西南西北区第六十届会长联谊会在广西玉林举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719426.shtml",
-        "publishedAt": "2026-10-22T22:39:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T23:10:03.923+08:00",
+    "fetchedAt": "2026-10-22T23:20:04.297+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T23:10:08.561+08:00",
+      "fetchedAt": "2026-10-22T23:20:08.768+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 16,
-          "resetAt": "2026-10-23T01:37:01.000+08:00"
+          "resetAt": "2026-10-23T01:37:02.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T23:10:08.821+08:00",
+      "fetchedAt": "2026-10-22T23:20:09.033+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T23:10:08.829+08:00",
+      "fetchedAt": "2026-10-22T23:20:09.043+08:00",
       "error": null
     }
   }
