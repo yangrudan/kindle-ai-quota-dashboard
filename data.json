@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T11:50:07.736+08:00",
+  "updatedAt": "2026-10-22T12:00:09.670+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.8,
-    "feelsLikeC": 19.4,
-    "humidity": 53,
-    "windKph": 14.8,
-    "windDir": "东北风",
+    "tempC": 21,
+    "feelsLikeC": 19.3,
+    "humidity": 52,
+    "windKph": 15.6,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-22T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T11:50:07.736+08:00",
+    "observedAt": "2026-10-22T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T12:00:09.670+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美媒：美以制定计划 拟美国中期选举后再次打击伊朗",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml",
+        "publishedAt": "2026-10-22T11:53:17.000+08:00"
+      },
+      {
+        "title": "新阶层·新经济 | “老爸评测”创始人魏文锋：流量是后面的“0”，企业的“1”是做好自己",
+        "url": "http://www.chinanews.com.cn/cj/shipin/2026/10-22/news1072620.shtml",
+        "publishedAt": "2026-10-22T11:52:50.000+08:00"
+      },
+      {
+        "title": "民进中央、民进上海市委会到毕节开展“地域+领域”组团式帮扶调研",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718954.shtml",
+        "publishedAt": "2026-10-22T11:50:40.000+08:00"
+      },
       {
         "title": "中欧班列累计开行突破14万列 发送货值超5600亿美元",
         "url": "https://www.chinanews.com.cn/ydyl/2026/10-22/10718948.shtml",
@@ -28,24 +43,9 @@
         "title": "没有路，那就走出一条路！",
         "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718950.shtml",
         "publishedAt": "2026-10-22T11:31:45.000+08:00"
-      },
-      {
-        "title": "乌克兰首都基辅遭弹道导弹袭击",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208515.shtml",
-        "publishedAt": "2026-10-22T11:30:49.000+08:00"
-      },
-      {
-        "title": "青海省玉树州政协党组成员、副主席刘中接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718935.shtml",
-        "publishedAt": "2026-10-22T11:28:41.000+08:00"
-      },
-      {
-        "title": "中移互联网有限公司原党委书记洪小勤被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718932.shtml",
-        "publishedAt": "2026-10-22T11:27:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T11:50:02.948+08:00",
+    "fetchedAt": "2026-10-22T12:00:04.265+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T11:50:06.670+08:00",
+      "fetchedAt": "2026-10-22T12:00:08.548+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T11:50:06.914+08:00",
+      "fetchedAt": "2026-10-22T12:00:08.801+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T11:50:06.918+08:00",
+      "fetchedAt": "2026-10-22T12:00:08.810+08:00",
       "error": null
     }
   }
