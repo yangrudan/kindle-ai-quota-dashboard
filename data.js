@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T14:20:09.264+08:00",
+  "updatedAt": "2026-10-22T14:30:13.885+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 21.1,
     "feelsLikeC": 19,
     "humidity": 53,
-    "windKph": 16.3,
+    "windKph": 16.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-22T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-22T14:20:09.265+08:00",
+    "observedAt": "2026-10-22T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-22T14:30:13.885+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "斯诺克北爱尔兰公开赛：张家玮、庞俊旭挺进16强",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10719021.shtml",
+        "publishedAt": "2026-10-22T14:18:28.000+08:00"
+      },
       {
         "title": "日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719017.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "武汉蔡甸做“生态加法” “知音故里”崛起科创发展带",
         "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719011.shtml",
         "publishedAt": "2026-10-22T14:07:26.000+08:00"
-      },
-      {
-        "title": "九三学社沈阳市委会开展纪念长征胜利90周年学习教育活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719001.shtml",
-        "publishedAt": "2026-10-22T14:05:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T14:20:03.328+08:00",
+    "fetchedAt": "2026-10-22T14:30:05.188+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T14:20:07.924+08:00",
+      "fetchedAt": "2026-10-22T14:30:12.660+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T14:20:08.232+08:00",
+      "fetchedAt": "2026-10-22T14:30:12.852+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T14:20:08.242+08:00",
+      "fetchedAt": "2026-10-22T14:30:12.862+08:00",
       "error": null
     }
   }
