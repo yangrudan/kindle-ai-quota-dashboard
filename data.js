@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T16:00:13.156+08:00",
+  "updatedAt": "2026-10-22T16:10:08.143+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-22T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T16:00:13.156+08:00",
+    "fetchedAt": "2026-10-22T16:10:08.144+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "党的十八大以来我国社零总额年均增长7.1%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719100.shtml",
-        "publishedAt": "2026-10-22T15:51:41.000+08:00"
+        "title": "第十九届欧洽会在成都开幕 聚焦拓展中欧合作新空间",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719108.shtml",
+        "publishedAt": "2026-10-22T16:02:34.000+08:00"
       },
       {
-        "title": "武汉东湖“圈粉”海外华媒：希望海外朋友看看东湖的美",
-        "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-22/news1072657.shtml",
-        "publishedAt": "2026-10-22T15:46:10.000+08:00"
+        "title": "中国电动汽车充电枪总数超2400万个",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719096.shtml",
+        "publishedAt": "2026-10-22T16:02:16.000+08:00"
       },
       {
-        "title": "前三季度我国高技术产业引资增幅达33.8%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719088.shtml",
-        "publishedAt": "2026-10-22T15:44:09.000+08:00"
+        "title": "今年前三季度湖北地区生产总值同比增长4.7%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719103.shtml",
+        "publishedAt": "2026-10-22T16:01:52.000+08:00"
       },
       {
-        "title": "敦煌莫高窟连续50年“零火灾”，靠的是什么？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719081.shtml",
-        "publishedAt": "2026-10-22T15:37:31.000+08:00"
+        "title": "（活力中国）大船纷至 海南洋浦港连接东盟更紧密",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719097.shtml",
+        "publishedAt": "2026-10-22T16:00:08.000+08:00"
       },
       {
-        "title": "沙特民航总局：达曼机场遇袭死亡人数升至2人",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719085.shtml",
-        "publishedAt": "2026-10-22T15:37:07.000+08:00"
+        "title": "美国俄亥俄州发生化学品储罐泄漏事件，近1000名居民被迫撤离",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719107.shtml",
+        "publishedAt": "2026-10-22T15:59:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T16:00:05.645+08:00",
+    "fetchedAt": "2026-10-22T16:10:03.000+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T16:00:11.735+08:00",
+      "fetchedAt": "2026-10-22T16:10:07.003+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 29,
           "resetAt": "2026-10-22T20:20:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 72,
+          "usedPct": 73,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T16:00:12.109+08:00",
+      "fetchedAt": "2026-10-22T16:10:07.213+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T16:00:12.119+08:00",
+      "fetchedAt": "2026-10-22T16:10:07.224+08:00",
       "error": null
     }
   }
