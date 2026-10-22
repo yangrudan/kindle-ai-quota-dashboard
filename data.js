@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T21:40:08.395+08:00",
+  "updatedAt": "2026-10-22T21:50:08.703+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17,
-    "feelsLikeC": 16,
-    "humidity": 70,
-    "windKph": 10.2,
+    "tempC": 16.9,
+    "feelsLikeC": 15.9,
+    "humidity": 71,
+    "windKph": 9.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T21:40:08.395+08:00",
+    "observedAt": "2026-10-22T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-22T21:50:08.703+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青海发布科技创新“十五五”规划",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719374.shtml",
-        "publishedAt": "2026-10-22T21:38:32.000+08:00"
+        "title": "西藏首届航空器外场维护员职业技能大赛开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719390.shtml",
+        "publishedAt": "2026-10-22T21:48:39.000+08:00"
       },
       {
-        "title": "西藏第一届航空器外场维护员职业技能大赛圆满落幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719376.shtml",
-        "publishedAt": "2026-10-22T21:38:30.000+08:00"
+        "title": "“柴达木粮仓”青海都兰10万余亩藜麦迎丰收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719360.shtml",
+        "publishedAt": "2026-10-22T21:46:07.000+08:00"
       },
       {
-        "title": "香港两家媒体同日收到英国可疑粉末信，警方已到场封锁、疏散并采样调查",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719381.shtml",
-        "publishedAt": "2026-10-22T21:37:20.000+08:00"
+        "title": "上海：市民在WTCC 2026西岸国际科技消费嘉年华感受前沿科技",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719386.shtml",
+        "publishedAt": "2026-10-22T21:44:41.000+08:00"
       },
       {
-        "title": "10月22日新闻夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10719375.shtml",
-        "publishedAt": "2026-10-22T21:34:34.000+08:00"
+        "title": "北京延庆将分阶段推进长城大景区建设 守好“根与脉”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719379.shtml",
+        "publishedAt": "2026-10-22T21:38:40.000+08:00"
       },
       {
-        "title": "榆林至西双版纳航线即将开通",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719373.shtml",
-        "publishedAt": "2026-10-22T21:33:00.000+08:00"
+        "title": "国家大宗商品储运产业计量测试中心在浙江舟山揭牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719377.shtml",
+        "publishedAt": "2026-10-22T21:38:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T21:40:03.360+08:00",
+    "fetchedAt": "2026-10-22T21:50:02.922+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T21:40:07.182+08:00",
+      "fetchedAt": "2026-10-22T21:50:07.340+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
+          "usedPct": 14,
           "resetAt": "2026-10-23T01:37:01.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T21:40:07.475+08:00",
+      "fetchedAt": "2026-10-22T21:50:07.741+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T21:40:07.484+08:00",
+      "fetchedAt": "2026-10-22T21:50:07.747+08:00",
       "error": null
     }
   }
