@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T00:50:38.638+08:00",
+  "updatedAt": "2026-10-23T01:00:09.192+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.3,
+    "tempC": 16.2,
     "feelsLikeC": 15.5,
     "humidity": 76,
-    "windKph": 9,
+    "windKph": 8.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T00:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T00:50:38.639+08:00",
+    "observedAt": "2026-10-23T01:00:00.000+08:00",
+    "fetchedAt": "2026-10-23T01:00:09.192+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "北京队主场大胜深圳队 收获CBA常规赛三连胜",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719445.shtml",
+        "publishedAt": "2026-10-23T00:49:01.000+08:00"
+      },
       {
         "title": "CBA：山西队主场力克上海队 送卫冕冠军赛季首败",
         "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719444.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "火灾烟霾污染空气 印尼急性呼吸道感染病例超33万例",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719434.shtml",
         "publishedAt": "2026-10-22T23:12:37.000+08:00"
-      },
-      {
-        "title": "侨青赵建舟：扎根宁夏沃土 深耕“电竞+”产业",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-22/10719433.shtml",
-        "publishedAt": "2026-10-22T23:11:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T00:50:03.351+08:00",
+    "fetchedAt": "2026-10-23T01:00:03.933+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T00:50:37.297+08:00",
+      "fetchedAt": "2026-10-23T01:00:07.466+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T00:50:37.587+08:00",
+      "fetchedAt": "2026-10-23T01:00:07.906+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T00:50:37.597+08:00",
+      "fetchedAt": "2026-10-23T01:00:07.909+08:00",
       "error": null
     }
   }
