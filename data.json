@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T11:00:08.976+08:00",
+  "updatedAt": "2026-10-22T11:10:39.533+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-22T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T11:00:08.977+08:00",
+    "fetchedAt": "2026-10-22T11:10:39.533+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "台企扎根广西产品远销欧美 欲借平陆运河布局东盟",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10718926.shtml",
+        "publishedAt": "2026-10-22T10:58:16.000+08:00"
+      },
       {
         "title": "云南民族大学绘就民族团结新画卷：石榴花开映边疆",
         "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718920.shtml",
@@ -38,14 +43,9 @@
         "title": "云岭动态第二十四期",
         "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718915.shtml",
         "publishedAt": "2026-10-22T10:46:51.000+08:00"
-      },
-      {
-        "title": "大连民族大学组织党外知识分子开展“看新质 促振兴”企业行活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718912.shtml",
-        "publishedAt": "2026-10-22T10:46:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T11:00:03.765+08:00",
+    "fetchedAt": "2026-10-22T11:10:02.958+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T11:00:07.818+08:00",
+      "fetchedAt": "2026-10-22T11:10:37.750+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
+          "usedPct": 14,
           "resetAt": "2026-10-22T15:19:51.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T11:00:08.047+08:00",
+      "fetchedAt": "2026-10-22T11:10:38.060+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T11:00:08.057+08:00",
+      "fetchedAt": "2026-10-22T11:10:38.085+08:00",
       "error": null
     }
   }
