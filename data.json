@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T06:10:11.459+08:00",
+  "updatedAt": "2026-10-23T06:20:08.046+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.1,
-    "feelsLikeC": 14.5,
+    "feelsLikeC": 14.6,
     "humidity": 84,
-    "windKph": 8.7,
+    "windKph": 8.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T06:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T06:10:11.459+08:00",
+    "observedAt": "2026-10-23T06:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T06:20:08.046+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西藏启动自然灾害救助三级应急响应",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719457.shtml",
+        "publishedAt": "2026-10-23T06:14:51.000+08:00"
+      },
+      {
+        "title": "3-0击败韩国！国乒获乒乓球亚锦赛男团冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719456.shtml",
+        "publishedAt": "2026-10-23T06:10:37.000+08:00"
+      },
       {
         "title": "美国或于明年开始扩建格陵兰岛军事设施",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719455.shtml",
@@ -33,19 +43,9 @@
         "title": "普京：重启俄美乌三方会谈不是仅为短暂停火",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719453.shtml",
         "publishedAt": "2026-10-23T05:50:34.000+08:00"
-      },
-      {
-        "title": "德国逮捕一名涉嫌为俄罗斯从事间谍活动的乌克兰籍男子",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719449.shtml",
-        "publishedAt": "2026-10-23T05:46:57.000+08:00"
-      },
-      {
-        "title": "菲律宾央行加息50个基点应对通胀 比索再创历史新低",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719450.shtml",
-        "publishedAt": "2026-10-23T05:46:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T06:10:02.997+08:00",
+    "fetchedAt": "2026-10-23T06:20:02.582+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T06:10:09.583+08:00",
+      "fetchedAt": "2026-10-23T06:20:06.961+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-23T11:10:10.000+08:00"
+          "resetAt": "2026-10-23T11:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-30T06:10:10.000+08:00"
+          "resetAt": "2026-10-30T06:20:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T06:10:09.932+08:00",
+      "fetchedAt": "2026-10-23T06:20:07.183+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T06:10:09.936+08:00",
+      "fetchedAt": "2026-10-23T06:20:07.192+08:00",
       "error": null
     }
   }
