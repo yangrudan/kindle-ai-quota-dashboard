@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T06:50:37.701+08:00",
+  "updatedAt": "2026-10-23T07:00:07.868+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T06:50:37.701+08:00",
+    "fetchedAt": "2026-10-23T07:00:07.868+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "救灾物资已陆续运抵西藏巴青县地震灾区",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719463.shtml",
+        "publishedAt": "2026-10-23T06:54:07.000+08:00"
+      },
+      {
+        "title": "日本爱知县一大型货机着陆时疑似起火",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719462.shtml",
+        "publishedAt": "2026-10-23T06:52:01.000+08:00"
+      },
       {
         "title": "10月23日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-23/10719461.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "普京：俄方已通知美国，准备恢复乌克兰问题三边谈判",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719459.shtml",
         "publishedAt": "2026-10-23T06:37:56.000+08:00"
-      },
-      {
-        "title": "中方：安理会改革要改变发达国家代表性过剩的局面",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719458.shtml",
-        "publishedAt": "2026-10-23T06:16:31.000+08:00"
-      },
-      {
-        "title": "西藏启动自然灾害救助三级应急响应",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719457.shtml",
-        "publishedAt": "2026-10-23T06:14:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T06:50:02.781+08:00",
+    "fetchedAt": "2026-10-23T07:00:02.718+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T06:50:36.583+08:00",
+      "fetchedAt": "2026-10-23T07:00:06.395+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-23T11:50:37.000+08:00"
+          "resetAt": "2026-10-23T12:00:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-30T06:50:37.000+08:00"
+          "resetAt": "2026-10-30T07:00:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T06:50:36.782+08:00",
+      "fetchedAt": "2026-10-23T07:00:06.674+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T06:50:36.785+08:00",
+      "fetchedAt": "2026-10-23T07:00:06.679+08:00",
       "error": null
     }
   }
