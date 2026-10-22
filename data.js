@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T17:30:41.326+08:00",
+  "updatedAt": "2026-10-22T17:40:10.145+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-22T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T17:30:41.326+08:00",
+    "fetchedAt": "2026-10-22T17:40:10.146+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "行业首个外挂式长焦量产落地背后：欧菲光深度参与华为Mate 90“睿影Z10”模组供应",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719188.shtml",
-        "publishedAt": "2026-10-22T17:23:10.000+08:00"
+        "title": "探访台湾义勇队纪念馆：烽火岁月里的两岸同心",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719193.shtml",
+        "publishedAt": "2026-10-22T17:31:57.000+08:00"
       },
       {
-        "title": "莫斯科遭大规模无人机袭击 俄军对乌境内目标实施密集打击",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719141.shtml",
-        "publishedAt": "2026-10-22T17:22:02.000+08:00"
+        "title": "2026重庆民企科创百家榜揭晓 研发投入同比增长29.28%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719190.shtml",
+        "publishedAt": "2026-10-22T17:30:55.000+08:00"
       },
       {
-        "title": "直播海报：长征路上学党史｜重整行装 共启新长征",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719189.shtml",
-        "publishedAt": "2026-10-22T17:20:58.000+08:00"
+        "title": "“遇见京剧 青春掌镜” 北京京剧院启动短视频征集活动",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-22/10719191.shtml",
+        "publishedAt": "2026-10-22T17:29:47.000+08:00"
       },
       {
-        "title": "两岸媒体探访南宁港 聚焦平陆运河通航新气象",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719186.shtml",
-        "publishedAt": "2026-10-22T17:18:32.000+08:00"
+        "title": "我国面向全球的自贸网络已经初步成型",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719138.shtml",
+        "publishedAt": "2026-10-22T17:29:47.000+08:00"
       },
       {
-        "title": "多地辟谣“外地患者组团到本地高校恶意传播艾滋病”（2026·10·22）",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719187.shtml",
-        "publishedAt": "2026-10-22T17:18:00.000+08:00"
+        "title": "拉萨市扎紧医保基金“铁篱笆” 守好群众看病“救命钱”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719192.shtml",
+        "publishedAt": "2026-10-22T17:29:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T17:30:04.257+08:00",
+    "fetchedAt": "2026-10-22T17:40:03.844+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T17:30:39.136+08:00",
+      "fetchedAt": "2026-10-22T17:40:08.638+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 72,
+          "usedPct": 78,
           "resetAt": "2026-10-22T20:20:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 80,
+          "usedPct": 81,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T17:30:39.369+08:00",
+      "fetchedAt": "2026-10-22T17:40:08.885+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T17:30:39.379+08:00",
+      "fetchedAt": "2026-10-22T17:40:08.895+08:00",
       "error": null
     }
   }
