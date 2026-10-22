@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T21:00:08.456+08:00",
+  "updatedAt": "2026-10-22T21:10:08.781+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.4,
-    "feelsLikeC": 15.8,
-    "humidity": 67,
-    "windKph": 12.7,
+    "tempC": 17.3,
+    "feelsLikeC": 16.2,
+    "humidity": 68,
+    "windKph": 10.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T21:00:08.456+08:00",
+    "observedAt": "2026-10-22T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T21:10:08.781+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南咖啡 交融生香",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719340.shtml",
-        "publishedAt": "2026-10-22T20:55:38.000+08:00"
+        "title": "海南律协与泛非律师联盟签约 拓展中非跨境法律服务网络",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719355.shtml",
+        "publishedAt": "2026-10-22T21:06:19.000+08:00"
       },
       {
-        "title": "青海乡村射手齐聚河湟“以箭会友”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719304.shtml",
-        "publishedAt": "2026-10-22T20:55:16.000+08:00"
+        "title": "（经济观察）重庆消费凭什么跑出“加速度”？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719354.shtml",
+        "publishedAt": "2026-10-22T21:06:15.000+08:00"
       },
       {
-        "title": "阿根廷总统重申：将以外交手段收回马岛主权",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719344.shtml",
-        "publishedAt": "2026-10-22T20:54:44.000+08:00"
+        "title": "楚雄彝绣非遗版权沪滇合作运营中心在沪启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719353.shtml",
+        "publishedAt": "2026-10-22T21:06:13.000+08:00"
       },
       {
-        "title": "藏野驴在三江源国家公园觅食",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719303.shtml",
-        "publishedAt": "2026-10-22T20:54:00.000+08:00"
+        "title": "“故宫文化遗产数智活化与产业化创新场景”入选首批标志性重大应用场景",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-22/10719351.shtml",
+        "publishedAt": "2026-10-22T21:05:08.000+08:00"
       },
       {
-        "title": "江西交通职业技术学院原院长黄明忠接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719339.shtml",
-        "publishedAt": "2026-10-22T20:52:42.000+08:00"
+        "title": "闽北红色旅游和研学市场同步升温",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719350.shtml",
+        "publishedAt": "2026-10-22T21:05:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T21:00:03.186+08:00",
+    "fetchedAt": "2026-10-22T21:10:02.910+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T21:00:07.223+08:00",
+      "fetchedAt": "2026-10-22T21:10:07.106+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T21:00:07.613+08:00",
+      "fetchedAt": "2026-10-22T21:10:07.441+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T21:00:07.620+08:00",
+      "fetchedAt": "2026-10-22T21:10:07.450+08:00",
       "error": null
     }
   }
