@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T11:10:39.533+08:00",
+  "updatedAt": "2026-10-22T11:20:38.805+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20,
-    "feelsLikeC": 19.2,
-    "humidity": 56,
-    "windKph": 12.1,
+    "tempC": 20.3,
+    "feelsLikeC": 19.4,
+    "humidity": 55,
+    "windKph": 12.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T11:10:39.533+08:00",
+    "observedAt": "2026-10-22T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-22T11:20:38.805+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "台企扎根广西产品远销欧美 欲借平陆运河布局东盟",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10718926.shtml",
-        "publishedAt": "2026-10-22T10:58:16.000+08:00"
+        "title": "委内瑞拉执政党谴责美方对劳尔·卡斯特罗发逮捕令",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718938.shtml",
+        "publishedAt": "2026-10-22T11:14:53.000+08:00"
       },
       {
-        "title": "云南民族大学绘就民族团结新画卷：石榴花开映边疆",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718920.shtml",
-        "publishedAt": "2026-10-22T10:49:19.000+08:00"
+        "title": "区域公用品牌如何“管”出好口碑？重庆酉阳设三道“闸”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718928.shtml",
+        "publishedAt": "2026-10-22T11:12:36.000+08:00"
       },
       {
-        "title": "庄河市知联会开展乡村振兴专题研学调研",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718913.shtml",
-        "publishedAt": "2026-10-22T10:48:17.000+08:00"
+        "title": "（乡村行·看振兴）“参”藏长白山：千年老行当育出百亿新产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718924.shtml",
+        "publishedAt": "2026-10-22T11:12:02.000+08:00"
       },
       {
-        "title": "大连市台联举办“两岸一家亲 九九话重阳”主题联谊活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718914.shtml",
-        "publishedAt": "2026-10-22T10:47:17.000+08:00"
+        "title": "黑龙江全省秋收进度近九成 部分区域秋收告捷",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718934.shtml",
+        "publishedAt": "2026-10-22T11:11:20.000+08:00"
       },
       {
-        "title": "云岭动态第二十四期",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718915.shtml",
-        "publishedAt": "2026-10-22T10:46:51.000+08:00"
+        "title": "国际金融协会总裁安德慕：AI将以积极方式改变世界",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718923.shtml",
+        "publishedAt": "2026-10-22T11:11:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T11:10:02.958+08:00",
+    "fetchedAt": "2026-10-22T11:20:03.663+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T11:10:37.750+08:00",
+      "fetchedAt": "2026-10-22T11:20:37.388+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 14,
+          "usedPct": 19,
           "resetAt": "2026-10-22T15:19:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 55,
+          "usedPct": 56,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T11:10:38.060+08:00",
+      "fetchedAt": "2026-10-22T11:20:37.716+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T11:10:38.085+08:00",
+      "fetchedAt": "2026-10-22T11:20:37.728+08:00",
       "error": null
     }
   }
