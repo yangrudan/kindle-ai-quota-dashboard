@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T22:50:09.046+08:00",
+  "updatedAt": "2026-10-22T23:00:09.603+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.4,
-    "feelsLikeC": 15.7,
+    "feelsLikeC": 15.6,
     "humidity": 74,
-    "windKph": 8.6,
+    "windKph": 8.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T22:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T22:50:09.046+08:00",
+    "observedAt": "2026-10-22T23:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T23:00:09.603+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026中国·安平国际丝网博览会开幕 海外客商点赞“数字智造”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719427.shtml",
+        "publishedAt": "2026-10-22T22:55:34.000+08:00"
+      },
+      {
+        "title": "西藏那曲市巴青县发生7.0级地震 震源深度10千米",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719432.shtml",
+        "publishedAt": "2026-10-22T22:49:32.000+08:00"
+      },
+      {
+        "title": "西藏那曲市巴青县附近发生6.7级左右地震",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719430.shtml",
+        "publishedAt": "2026-10-22T22:44:08.000+08:00"
+      },
       {
         "title": "全国台企联西南西北区第六十届会长联谊会在广西玉林举行",
         "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719426.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "直面山区百姓就医难题 浙江常山探索县域均衡健康服务路径",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719425.shtml",
         "publishedAt": "2026-10-22T22:38:44.000+08:00"
-      },
-      {
-        "title": "台商黄一成：让台湾养殖技术在广西北海渔村“落地生根”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719424.shtml",
-        "publishedAt": "2026-10-22T22:37:25.000+08:00"
-      },
-      {
-        "title": "广西完成15万余株古树建档挂牌",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719423.shtml",
-        "publishedAt": "2026-10-22T22:36:35.000+08:00"
-      },
-      {
-        "title": "2026中国海洋经济博览会开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719422.shtml",
-        "publishedAt": "2026-10-22T22:35:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T22:50:03.689+08:00",
+    "fetchedAt": "2026-10-22T23:00:04.599+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T22:50:07.806+08:00",
+      "fetchedAt": "2026-10-22T23:00:08.251+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T22:50:08.030+08:00",
+      "fetchedAt": "2026-10-22T23:00:08.550+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T22:50:08.039+08:00",
+      "fetchedAt": "2026-10-22T23:00:08.556+08:00",
       "error": null
     }
   }
