@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T12:00:09.670+08:00",
+  "updatedAt": "2026-10-22T12:10:08.402+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-22T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T12:00:09.670+08:00",
+    "fetchedAt": "2026-10-22T12:10:08.402+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "A股午评：超3900只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718957.shtml",
+        "publishedAt": "2026-10-22T11:59:55.000+08:00"
+      },
       {
         "title": "美媒：美以制定计划 拟美国中期选举后再次打击伊朗",
         "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml",
@@ -38,14 +43,9 @@
         "title": "中欧班列累计开行突破14万列 发送货值超5600亿美元",
         "url": "https://www.chinanews.com.cn/ydyl/2026/10-22/10718948.shtml",
         "publishedAt": "2026-10-22T11:31:47.000+08:00"
-      },
-      {
-        "title": "没有路，那就走出一条路！",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718950.shtml",
-        "publishedAt": "2026-10-22T11:31:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T12:00:04.265+08:00",
+    "fetchedAt": "2026-10-22T12:10:03.184+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T12:00:08.548+08:00",
+      "fetchedAt": "2026-10-22T12:10:07.255+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T12:00:08.801+08:00",
+      "fetchedAt": "2026-10-22T12:10:07.468+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T12:00:08.810+08:00",
+      "fetchedAt": "2026-10-22T12:10:07.477+08:00",
       "error": null
     }
   }
