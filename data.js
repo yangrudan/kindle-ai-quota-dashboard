@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T12:50:09.501+08:00",
+  "updatedAt": "2026-10-22T13:00:09.611+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 21.1,
     "feelsLikeC": 19,
     "humidity": 52,
-    "windKph": 16.2,
+    "windKph": 16.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-22T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T12:50:09.501+08:00",
+    "observedAt": "2026-10-22T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T13:00:09.612+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "截至9月底我国电动汽车充电基础设施(枪)总数达2477.7万个",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718958.shtml",
+        "publishedAt": "2026-10-22T12:50:42.000+08:00"
+      },
       {
         "title": "《广播电视和网络视听“十五五”规划》印发",
         "url": "https://www.chinanews.com.cn/cul/2026/10-22/10718966.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "A股午评：超3900只个股飘绿，三大指数集体收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718957.shtml",
         "publishedAt": "2026-10-22T11:59:55.000+08:00"
-      },
-      {
-        "title": "美媒：美以制定计划 拟美国中期选举后再次打击伊朗",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml",
-        "publishedAt": "2026-10-22T11:53:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T12:50:04.201+08:00",
+    "fetchedAt": "2026-10-22T13:00:04.386+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T12:50:08.327+08:00",
+      "fetchedAt": "2026-10-22T13:00:08.514+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T12:50:08.635+08:00",
+      "fetchedAt": "2026-10-22T13:00:08.738+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T12:50:08.643+08:00",
+      "fetchedAt": "2026-10-22T13:00:08.747+08:00",
       "error": null
     }
   }
