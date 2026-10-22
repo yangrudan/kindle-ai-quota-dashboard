@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T06:40:08.583+08:00",
+  "updatedAt": "2026-10-23T06:50:37.701+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.2,
-    "feelsLikeC": 14.7,
+    "tempC": 15.3,
+    "feelsLikeC": 14.9,
     "humidity": 84,
-    "windKph": 8.6,
+    "windKph": 8.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T06:40:08.583+08:00",
+    "observedAt": "2026-10-23T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-23T06:50:37.701+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月23日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-23/10719461.shtml",
+        "publishedAt": "2026-10-23T06:45:25.000+08:00"
+      },
+      {
+        "title": "法国总统马克龙称未来数日将禁止非法抗议活动",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719460.shtml",
+        "publishedAt": "2026-10-23T06:43:46.000+08:00"
+      },
+      {
+        "title": "普京：俄方已通知美国，准备恢复乌克兰问题三边谈判",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719459.shtml",
+        "publishedAt": "2026-10-23T06:37:56.000+08:00"
+      },
       {
         "title": "中方：安理会改革要改变发达国家代表性过剩的局面",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719458.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "西藏启动自然灾害救助三级应急响应",
         "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719457.shtml",
         "publishedAt": "2026-10-23T06:14:51.000+08:00"
-      },
-      {
-        "title": "3-0击败韩国！国乒获乒乓球亚锦赛男团冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719456.shtml",
-        "publishedAt": "2026-10-23T06:10:37.000+08:00"
-      },
-      {
-        "title": "美国或于明年开始扩建格陵兰岛军事设施",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719455.shtml",
-        "publishedAt": "2026-10-23T06:00:54.000+08:00"
-      },
-      {
-        "title": "西藏那曲巴青7.0级地震已造成16人遇难 46人受伤",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719454.shtml",
-        "publishedAt": "2026-10-23T05:56:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T06:40:03.192+08:00",
+    "fetchedAt": "2026-10-23T06:50:02.781+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T06:40:07.451+08:00",
+      "fetchedAt": "2026-10-23T06:50:36.583+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-23T11:40:08.000+08:00"
+          "resetAt": "2026-10-23T11:50:37.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-30T06:40:08.000+08:00"
+          "resetAt": "2026-10-30T06:50:37.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T06:40:07.698+08:00",
+      "fetchedAt": "2026-10-23T06:50:36.782+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T06:40:07.705+08:00",
+      "fetchedAt": "2026-10-23T06:50:36.785+08:00",
       "error": null
     }
   }
