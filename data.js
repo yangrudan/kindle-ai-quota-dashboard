@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T21:30:42.317+08:00",
+  "updatedAt": "2026-10-22T21:40:08.395+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-22T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T21:30:42.318+08:00",
+    "fetchedAt": "2026-10-22T21:40:08.395+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "周小川：中国现有金融工具应对AI风险仍有效",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719365.shtml",
-        "publishedAt": "2026-10-22T21:19:13.000+08:00"
+        "title": "青海发布科技创新“十五五”规划",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719374.shtml",
+        "publishedAt": "2026-10-22T21:38:32.000+08:00"
       },
       {
-        "title": "“前沿星球奖”来到北京 学者建言推动学术发现走向现实应用",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719364.shtml",
-        "publishedAt": "2026-10-22T21:17:51.000+08:00"
+        "title": "西藏第一届航空器外场维护员职业技能大赛圆满落幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719376.shtml",
+        "publishedAt": "2026-10-22T21:38:30.000+08:00"
       },
       {
-        "title": "金建希下周将接受新一轮逮捕必要性审查",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719362.shtml",
-        "publishedAt": "2026-10-22T21:15:35.000+08:00"
+        "title": "香港两家媒体同日收到英国可疑粉末信，警方已到场封锁、疏散并采样调查",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719381.shtml",
+        "publishedAt": "2026-10-22T21:37:20.000+08:00"
       },
       {
-        "title": "广东-东盟友城商事司法论坛在广州举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719356.shtml",
-        "publishedAt": "2026-10-22T21:06:55.000+08:00"
+        "title": "10月22日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10719375.shtml",
+        "publishedAt": "2026-10-22T21:34:34.000+08:00"
       },
       {
-        "title": "海南律协与泛非律师联盟签约 拓展中非跨境法律服务网络",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719355.shtml",
-        "publishedAt": "2026-10-22T21:06:19.000+08:00"
+        "title": "榆林至西双版纳航线即将开通",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719373.shtml",
+        "publishedAt": "2026-10-22T21:33:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T21:30:03.566+08:00",
+    "fetchedAt": "2026-10-22T21:40:03.360+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T21:30:36.957+08:00",
+      "fetchedAt": "2026-10-22T21:40:07.182+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
+          "usedPct": 13,
           "resetAt": "2026-10-23T01:37:01.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T21:30:37.204+08:00",
+      "fetchedAt": "2026-10-22T21:40:07.475+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T21:30:37.208+08:00",
+      "fetchedAt": "2026-10-22T21:40:07.484+08:00",
       "error": null
     }
   }
