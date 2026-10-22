@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T13:20:09.005+08:00",
+  "updatedAt": "2026-10-22T13:30:09.601+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 16.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-22T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-22T13:20:09.005+08:00",
+    "observedAt": "2026-10-22T13:30:00.000+08:00",
+    "fetchedAt": "2026-10-22T13:30:09.601+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "贵州麻阳河保护区探索黑叶猴保护治理新范式",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718979.shtml",
+        "publishedAt": "2026-10-22T13:23:51.000+08:00"
+      },
+      {
+        "title": "海外学前华教需求旺 业界探路新“解法”",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-22/10718976.shtml",
+        "publishedAt": "2026-10-22T13:20:45.000+08:00"
+      },
       {
         "title": "（长征胜利90周年）强渡“第一船”靠岸91年后：大渡河畔的新生活",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718952.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "武汉科研团队在非洲发现丽梭瓜属植物新种",
         "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718951.shtml",
         "publishedAt": "2026-10-22T13:09:23.000+08:00"
-      },
-      {
-        "title": "【财经】先进制造业引领发展 上海今年前三季度GDP同比增长5.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718969.shtml",
-        "publishedAt": "2026-10-22T13:08:39.000+08:00"
-      },
-      {
-        "title": "一块“浩气凌霄”匾额 见证西藏嘉黎小镇多民族交往史",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-22/10718949.shtml",
-        "publishedAt": "2026-10-22T13:07:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T13:20:03.231+08:00",
+    "fetchedAt": "2026-10-22T13:30:03.802+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T13:20:07.524+08:00",
+      "fetchedAt": "2026-10-22T13:30:08.344+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T13:20:08.051+08:00",
+      "fetchedAt": "2026-10-22T13:30:08.640+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T13:20:08.056+08:00",
+      "fetchedAt": "2026-10-22T13:30:08.645+08:00",
       "error": null
     }
   }
