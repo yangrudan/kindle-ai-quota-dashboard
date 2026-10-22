@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T22:40:08.387+08:00",
+  "updatedAt": "2026-10-22T22:50:09.046+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.5,
+    "tempC": 16.4,
     "feelsLikeC": 15.7,
-    "humidity": 73,
-    "windKph": 9,
+    "humidity": 74,
+    "windKph": 8.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T22:40:08.387+08:00",
+    "observedAt": "2026-10-22T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-22T22:50:09.046+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国台企联西南西北区第六十届会长联谊会在广西玉林举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719426.shtml",
+        "publishedAt": "2026-10-22T22:39:56.000+08:00"
+      },
+      {
+        "title": "直面山区百姓就医难题 浙江常山探索县域均衡健康服务路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719425.shtml",
+        "publishedAt": "2026-10-22T22:38:44.000+08:00"
+      },
       {
         "title": "台商黄一成：让台湾养殖技术在广西北海渔村“落地生根”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719424.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026中国海洋经济博览会开幕",
         "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719422.shtml",
         "publishedAt": "2026-10-22T22:35:51.000+08:00"
-      },
-      {
-        "title": "制冷产业掀起出海“热” 100余国客商赴浙江展会淘货",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719421.shtml",
-        "publishedAt": "2026-10-22T22:34:53.000+08:00"
-      },
-      {
-        "title": "浙江绘就全民健康新图景 构筑全周期民生健康守护网",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719420.shtml",
-        "publishedAt": "2026-10-22T22:32:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T22:40:02.949+08:00",
+    "fetchedAt": "2026-10-22T22:50:03.689+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T22:40:06.798+08:00",
+      "fetchedAt": "2026-10-22T22:50:07.806+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T22:40:07.101+08:00",
+      "fetchedAt": "2026-10-22T22:50:08.030+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T22:40:07.104+08:00",
+      "fetchedAt": "2026-10-22T22:50:08.039+08:00",
       "error": null
     }
   }
