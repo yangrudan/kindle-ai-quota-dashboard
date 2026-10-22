@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T10:30:10.500+08:00",
+  "updatedAt": "2026-10-22T10:40:10.735+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-22T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T10:30:10.500+08:00",
+    "fetchedAt": "2026-10-22T10:40:10.735+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "自动驾驶标志灯将有统一标尺 一盏小蓝灯明确“谁在承担后果”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718908.shtml",
+        "publishedAt": "2026-10-22T10:30:36.000+08:00"
+      },
+      {
+        "title": "工业和信息化部工业软件标准化技术委员会成立",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718896.shtml",
+        "publishedAt": "2026-10-22T10:29:08.000+08:00"
+      },
       {
         "title": "澳门高校首设文物鉴赏研究生课程 以教学创新助力文化传承",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10718905.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "拉萨城关区师生举办文艺演出纪念长征胜利90周年",
         "url": "https://www.chinanews.com.cn/mz/2026/10-22/10718903.shtml",
         "publishedAt": "2026-10-22T10:22:14.000+08:00"
-      },
-      {
-        "title": "2025年我国海洋生产总值突破11万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718904.shtml",
-        "publishedAt": "2026-10-22T10:22:04.000+08:00"
-      },
-      {
-        "title": "第二届西藏微短剧大赛揭晓仪式在拉萨举行",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-22/10718902.shtml",
-        "publishedAt": "2026-10-22T10:19:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T10:30:04.325+08:00",
+    "fetchedAt": "2026-10-22T10:40:04.279+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T10:30:09.114+08:00",
+      "fetchedAt": "2026-10-22T10:40:09.416+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 4,
           "resetAt": "2026-10-22T15:19:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 53,
+          "usedPct": 54,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T10:30:09.506+08:00",
+      "fetchedAt": "2026-10-22T10:40:09.655+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T10:30:09.511+08:00",
+      "fetchedAt": "2026-10-22T10:40:09.664+08:00",
       "error": null
     }
   }
