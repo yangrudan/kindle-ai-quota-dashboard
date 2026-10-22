@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T21:50:08.703+08:00",
+  "updatedAt": "2026-10-22T22:00:39.306+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.9,
-    "feelsLikeC": 15.9,
-    "humidity": 71,
-    "windKph": 9.8,
+    "tempC": 16.7,
+    "feelsLikeC": 15.8,
+    "humidity": 72,
+    "windKph": 9.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T21:50:08.703+08:00",
+    "observedAt": "2026-10-22T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T22:00:39.306+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西藏首届航空器外场维护员职业技能大赛开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719390.shtml",
-        "publishedAt": "2026-10-22T21:48:39.000+08:00"
+        "title": "聚焦教师育心能力培养的AI实训平台在沪发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719393.shtml",
+        "publishedAt": "2026-10-22T21:50:53.000+08:00"
       },
       {
-        "title": "“柴达木粮仓”青海都兰10万余亩藜麦迎丰收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719360.shtml",
-        "publishedAt": "2026-10-22T21:46:07.000+08:00"
+        "title": "250余名专家聚云南临沧 共商核桃产业高质量发展新路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719392.shtml",
+        "publishedAt": "2026-10-22T21:50:39.000+08:00"
       },
       {
-        "title": "上海：市民在WTCC 2026西岸国际科技消费嘉年华感受前沿科技",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719386.shtml",
-        "publishedAt": "2026-10-22T21:44:41.000+08:00"
+        "title": "聚焦OPC 第七届两岸青年创业孵化器沙龙在南京举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719391.shtml",
+        "publishedAt": "2026-10-22T21:50:31.000+08:00"
       },
       {
-        "title": "北京延庆将分阶段推进长城大景区建设 守好“根与脉”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719379.shtml",
-        "publishedAt": "2026-10-22T21:38:40.000+08:00"
+        "title": "航拍长江北源楚玛尔河",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-22/10719357.shtml",
+        "publishedAt": "2026-10-22T21:50:23.000+08:00"
       },
       {
-        "title": "国家大宗商品储运产业计量测试中心在浙江舟山揭牌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719377.shtml",
-        "publishedAt": "2026-10-22T21:38:38.000+08:00"
+        "title": "粤港澳大湾区发展工商大会在澳门举行 为工商界合作搭建平台",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719389.shtml",
+        "publishedAt": "2026-10-22T21:50:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T21:50:02.922+08:00",
+    "fetchedAt": "2026-10-22T22:00:04.115+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T21:50:07.340+08:00",
+      "fetchedAt": "2026-10-22T22:00:38.025+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 14,
+          "usedPct": 16,
           "resetAt": "2026-10-23T01:37:01.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 83,
+          "usedPct": 84,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T21:50:07.741+08:00",
+      "fetchedAt": "2026-10-22T22:00:38.440+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T21:50:07.747+08:00",
+      "fetchedAt": "2026-10-22T22:00:38.449+08:00",
       "error": null
     }
   }
