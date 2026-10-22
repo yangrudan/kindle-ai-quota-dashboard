@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T08:00:09.761+08:00",
+  "updatedAt": "2026-10-22T08:10:08.978+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-22T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T08:00:09.762+08:00",
+    "fetchedAt": "2026-10-22T08:10:08.978+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泽连斯基：支持尽快举行美乌俄三方谈判",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718836.shtml",
+        "publishedAt": "2026-10-22T08:03:36.000+08:00"
+      },
       {
         "title": "400多件长征文物将在国博开展 这些藏品到底有多珍贵？",
         "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718834.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "差价数十倍 概念“乱如麻” 网红钛制品真有那么神奇吗？",
         "url": "https://www.chinanews.com.cn/life/2026/10-22/10718831.shtml",
         "publishedAt": "2026-10-22T07:42:33.000+08:00"
-      },
-      {
-        "title": "旅客预订机票后因病申请退票被拒产生纠纷 专家解析",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718830.shtml",
-        "publishedAt": "2026-10-22T07:42:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T08:00:04.607+08:00",
+    "fetchedAt": "2026-10-22T08:10:03.447+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T08:00:08.732+08:00",
+      "fetchedAt": "2026-10-22T08:10:07.178+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T13:00:09.000+08:00"
+          "resetAt": "2026-10-22T13:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T08:00:08.927+08:00",
+      "fetchedAt": "2026-10-22T08:10:07.474+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T08:00:08.938+08:00",
+      "fetchedAt": "2026-10-22T08:10:07.478+08:00",
       "error": null
     }
   }
