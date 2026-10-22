@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T10:40:10.735+08:00",
+  "updatedAt": "2026-10-22T10:50:08.875+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.4,
-    "feelsLikeC": 18.6,
-    "humidity": 58,
-    "windKph": 11.4,
+    "tempC": 19.7,
+    "feelsLikeC": 18.9,
+    "humidity": 57,
+    "windKph": 11.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T10:40:10.735+08:00",
+    "observedAt": "2026-10-22T10:45:00.000+08:00",
+    "fetchedAt": "2026-10-22T10:50:08.875+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "自动驾驶标志灯将有统一标尺 一盏小蓝灯明确“谁在承担后果”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718908.shtml",
-        "publishedAt": "2026-10-22T10:30:36.000+08:00"
+        "title": "庄河市知联会开展乡村振兴专题研学调研",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718913.shtml",
+        "publishedAt": "2026-10-22T10:48:17.000+08:00"
       },
       {
-        "title": "工业和信息化部工业软件标准化技术委员会成立",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718896.shtml",
-        "publishedAt": "2026-10-22T10:29:08.000+08:00"
+        "title": "大连市台联举办“两岸一家亲 九九话重阳”主题联谊活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718914.shtml",
+        "publishedAt": "2026-10-22T10:47:17.000+08:00"
       },
       {
-        "title": "澳门高校首设文物鉴赏研究生课程 以教学创新助力文化传承",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10718905.shtml",
-        "publishedAt": "2026-10-22T10:25:44.000+08:00"
+        "title": "云岭动态第二十四期",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718915.shtml",
+        "publishedAt": "2026-10-22T10:46:51.000+08:00"
       },
       {
-        "title": "阿联酋外交官努赛贝参选下一任联合国秘书长",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718906.shtml",
-        "publishedAt": "2026-10-22T10:23:20.000+08:00"
+        "title": "大连民族大学组织党外知识分子开展“看新质 促振兴”企业行活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10718912.shtml",
+        "publishedAt": "2026-10-22T10:46:01.000+08:00"
       },
       {
-        "title": "拉萨城关区师生举办文艺演出纪念长征胜利90周年",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-22/10718903.shtml",
-        "publishedAt": "2026-10-22T10:22:14.000+08:00"
+        "title": "多连发：纪念长征胜利90周年",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-22/10718917.shtml",
+        "publishedAt": "2026-10-22T10:44:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T10:40:04.279+08:00",
+    "fetchedAt": "2026-10-22T10:50:02.891+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T10:40:09.416+08:00",
+      "fetchedAt": "2026-10-22T10:50:07.679+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 11,
           "resetAt": "2026-10-22T15:19:51.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 54,
+          "usedPct": 55,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T10:40:09.655+08:00",
+      "fetchedAt": "2026-10-22T10:50:07.920+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T10:40:09.664+08:00",
+      "fetchedAt": "2026-10-22T10:50:07.930+08:00",
       "error": null
     }
   }
