@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T15:30:43.983+08:00",
+  "updatedAt": "2026-10-22T15:40:08.452+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-22T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-22T15:30:43.984+08:00",
+    "fetchedAt": "2026-10-22T15:40:08.453+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "我国退税商店超1.8万家 比2024年底增加4倍",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719070.shtml",
-        "publishedAt": "2026-10-22T15:24:30.000+08:00"
+        "title": "10月22日央行7天期逆回购操作量为零",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718862.shtml",
+        "publishedAt": "2026-10-22T15:35:59.000+08:00"
       },
       {
-        "title": "雀巢发布2026年三季度及前9个月财报：RIG持续改善，大中华区有机增长 4.2%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719049.shtml",
-        "publishedAt": "2026-10-22T15:23:32.000+08:00"
+        "title": "中方回应欧盟新版北极战略：以冷战思维划分阵营，不利于北极地区和平稳定发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719083.shtml",
+        "publishedAt": "2026-10-22T15:34:19.000+08:00"
       },
       {
-        "title": "完整呈现文学创作全景 冯骥才小说文库出版",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-22/10719067.shtml",
-        "publishedAt": "2026-10-22T15:23:26.000+08:00"
+        "title": "全国首宗再生水利用节水碳交易落地广东",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719061.shtml",
+        "publishedAt": "2026-10-22T15:32:52.000+08:00"
       },
       {
-        "title": "三峡水库第15次完成175米蓄水目标",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719069.shtml",
-        "publishedAt": "2026-10-22T15:22:58.000+08:00"
+        "title": "内蒙古乌兰察布市发生一起交通事故 致4人死亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719078.shtml",
+        "publishedAt": "2026-10-22T15:32:34.000+08:00"
       },
       {
-        "title": "第七届中国电竞产业大会在青海西宁开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719046.shtml",
-        "publishedAt": "2026-10-22T15:22:18.000+08:00"
+        "title": "中俄总理第三十一次定期会晤举行 中方介绍会晤情况和成果",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719079.shtml",
+        "publishedAt": "2026-10-22T15:32:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T15:30:03.312+08:00",
+    "fetchedAt": "2026-10-22T15:40:02.722+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T15:30:36.908+08:00",
+      "fetchedAt": "2026-10-22T15:40:07.263+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 13,
           "resetAt": "2026-10-22T20:20:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 70,
+          "usedPct": 71,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T15:30:37.163+08:00",
+      "fetchedAt": "2026-10-22T15:40:07.540+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T15:30:37.173+08:00",
+      "fetchedAt": "2026-10-22T15:40:07.548+08:00",
       "error": null
     }
   }
