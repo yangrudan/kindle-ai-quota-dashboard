@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T00:00:41.095+08:00",
+  "updatedAt": "2026-10-23T00:10:39.082+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T00:00:41.095+08:00",
+    "fetchedAt": "2026-10-23T00:10:39.082+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "两部门启动国家地震灾害四级应急响应",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719441.shtml",
+        "publishedAt": "2026-10-22T23:58:24.000+08:00"
+      },
       {
         "title": "中国地震局对西藏那曲市巴青县地震启动二级应急响应",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719438.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "非遗新唱 布朗族古调叙新事",
         "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719431.shtml",
         "publishedAt": "2026-10-22T23:10:21.000+08:00"
-      },
-      {
-        "title": "“手术发型”医生走红之后：一家公立医院如何“组织化”培养党外人才",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-22/10719429.shtml",
-        "publishedAt": "2026-10-22T23:06:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T00:00:06.219+08:00",
+    "fetchedAt": "2026-10-23T00:10:03.596+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T00:00:39.854+08:00",
+      "fetchedAt": "2026-10-23T00:10:37.457+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T00:00:40.183+08:00",
+      "fetchedAt": "2026-10-23T00:10:37.795+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T00:00:40.186+08:00",
+      "fetchedAt": "2026-10-23T00:10:37.803+08:00",
       "error": null
     }
   }
