@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T22:20:11.903+08:00",
+  "updatedAt": "2026-10-22T22:30:08.803+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.6,
+    "tempC": 16.5,
     "feelsLikeC": 15.7,
-    "humidity": 72,
-    "windKph": 9.3,
+    "humidity": 73,
+    "windKph": 9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-22T22:20:11.903+08:00",
+    "observedAt": "2026-10-22T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-22T22:30:08.803+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第20届倡棋杯中国职业围棋锦标赛决赛在沪开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-22/10719418.shtml",
+        "publishedAt": "2026-10-22T22:23:59.000+08:00"
+      },
+      {
+        "title": "珠江委会商部署台风“蔷琵”防御及枯水期供水保障工作",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719417.shtml",
+        "publishedAt": "2026-10-22T22:21:43.000+08:00"
+      },
+      {
+        "title": "香港国际眼镜展11月揭幕 展商冀“借港出海”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719416.shtml",
+        "publishedAt": "2026-10-22T22:20:35.000+08:00"
+      },
       {
         "title": "全国医保影像AI识图大赛决赛启动",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719414.shtml",
@@ -28,24 +43,9 @@
         "title": "天津北辰法院发布建设工程审判白皮书 破解工程价款结算难题",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719413.shtml",
         "publishedAt": "2026-10-22T22:09:14.000+08:00"
-      },
-      {
-        "title": "海南推出纪录片《中国南繁故事》献礼南繁70年",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719412.shtml",
-        "publishedAt": "2026-10-22T22:06:18.000+08:00"
-      },
-      {
-        "title": "2026年福建“村歌”美育活动在福州闽清举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719411.shtml",
-        "publishedAt": "2026-10-22T22:05:14.000+08:00"
-      },
-      {
-        "title": "青海都兰：10万余亩藜麦迎丰收 特色产业赋能乡村振兴",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719410.shtml",
-        "publishedAt": "2026-10-22T22:03:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T22:20:04.383+08:00",
+    "fetchedAt": "2026-10-22T22:30:03.715+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T22:20:08.422+08:00",
+      "fetchedAt": "2026-10-22T22:30:07.288+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T22:20:08.733+08:00",
+      "fetchedAt": "2026-10-22T22:30:07.862+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T22:20:08.743+08:00",
+      "fetchedAt": "2026-10-22T22:30:07.870+08:00",
       "error": null
     }
   }
