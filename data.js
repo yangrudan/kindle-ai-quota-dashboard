@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T09:20:08.348+08:00",
+  "updatedAt": "2026-10-22T09:30:09.148+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.5,
-    "feelsLikeC": 16.3,
-    "humidity": 66,
-    "windKph": 9.7,
-    "windDir": "北风",
+    "tempC": 17.9,
+    "feelsLikeC": 16.7,
+    "humidity": 64,
+    "windKph": 10.1,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T09:15:00.000+08:00",
-    "fetchedAt": "2026-10-22T09:20:08.348+08:00",
+    "observedAt": "2026-10-22T09:30:00.000+08:00",
+    "fetchedAt": "2026-10-22T09:30:09.148+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "台商广西布局锂电池隔膜产业 借“通道优势”拓展东盟市场",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718867.shtml",
+        "publishedAt": "2026-10-22T09:27:13.000+08:00"
+      },
+      {
+        "title": "香港拟打造“国际食品科技创新加速中心”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10718864.shtml",
+        "publishedAt": "2026-10-22T09:23:37.000+08:00"
+      },
+      {
+        "title": "央行今日发行长征胜利90周年金银纪念币一套",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718865.shtml",
+        "publishedAt": "2026-10-22T09:19:54.000+08:00"
+      },
+      {
+        "title": "虚拟恋人是慰藉还是陷阱",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718863.shtml",
+        "publishedAt": "2026-10-22T09:16:42.000+08:00"
+      },
+      {
         "title": "李强会见俄罗斯总统普京",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208495.shtml",
         "publishedAt": "2026-10-22T09:07:36.000+08:00"
-      },
-      {
-        "title": "“黑色黄金”整线出口 纺织业的“高端自主”长啥样？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718844.shtml",
-        "publishedAt": "2026-10-22T09:04:07.000+08:00"
-      },
-      {
-        "title": "国家防总、应急管理部针对沪浙闽启动防汛防台风四级应急响应",
-        "url": "https://www.chinanews.com.cn/${mypath}/2026/10-22/10718858.shtml",
-        "publishedAt": "2026-10-22T09:02:17.000+08:00"
-      },
-      {
-        "title": "我国中东部迎升温过程 东南沿海降雨将增多增强",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718855.shtml",
-        "publishedAt": "2026-10-22T08:59:11.000+08:00"
-      },
-      {
-        "title": "美副总统万斯：乌克兰不是北约成员，也不应加入北约",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718847.shtml",
-        "publishedAt": "2026-10-22T08:42:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T09:20:03.252+08:00",
+    "fetchedAt": "2026-10-22T09:30:04.002+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 288 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T09:20:07.185+08:00",
+      "fetchedAt": "2026-10-22T09:30:07.919+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-22T14:20:08.000+08:00"
+          "resetAt": "2026-10-22T14:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T09:20:07.504+08:00",
+      "fetchedAt": "2026-10-22T09:30:08.166+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T09:20:07.514+08:00",
+      "fetchedAt": "2026-10-22T09:30:08.176+08:00",
       "error": null
     }
   }
