@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T16:50:09.733+08:00",
+  "updatedAt": "2026-10-22T17:00:09.336+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 19.9,
-    "feelsLikeC": 18.7,
-    "humidity": 61,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 19.6,
+    "feelsLikeC": 18.5,
+    "humidity": 63,
     "windKph": 12.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-22T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-22T16:50:09.734+08:00",
+    "observedAt": "2026-10-22T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-22T17:00:09.336+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我国退税商店超1.8万家，比2024年底增长4倍",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719145.shtml",
+        "publishedAt": "2026-10-22T16:49:49.000+08:00"
+      },
+      {
+        "title": "第35届中国厨师节在苏州开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719154.shtml",
+        "publishedAt": "2026-10-22T16:45:28.000+08:00"
+      },
+      {
+        "title": "消息人士：美国正“悄悄”收缩中东驻军规模",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719158.shtml",
+        "publishedAt": "2026-10-22T16:45:20.000+08:00"
+      },
       {
         "title": "杭州警方通报 对盘石相关人员依法采取刑事强制措施",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719151.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "老人报网课为何老被“坑”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719144.shtml",
         "publishedAt": "2026-10-22T16:37:14.000+08:00"
-      },
-      {
-        "title": "检察机关依法分别对邓军民、龙献忠、王会雨、索曙辉提起公诉",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-22/10719133.shtml",
-        "publishedAt": "2026-10-22T16:35:20.000+08:00"
-      },
-      {
-        "title": "“四川AI超市”正式发布 靶向破解中小企业AI应用“三难”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719130.shtml",
-        "publishedAt": "2026-10-22T16:33:44.000+08:00"
-      },
-      {
-        "title": "（活力中国调研行）海南博鳌乐城拓展医疗旅游服务 探索AI医疗应用",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719140.shtml",
-        "publishedAt": "2026-10-22T16:33:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T16:50:03.260+08:00",
+    "fetchedAt": "2026-10-22T17:00:04.440+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T16:50:07.592+08:00",
+      "fetchedAt": "2026-10-22T17:00:08.112+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 48,
+          "usedPct": 53,
           "resetAt": "2026-10-22T20:20:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 76,
+          "usedPct": 77,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T16:50:07.904+08:00",
+      "fetchedAt": "2026-10-22T17:00:08.451+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T16:50:07.915+08:00",
+      "fetchedAt": "2026-10-22T17:00:08.460+08:00",
       "error": null
     }
   }
