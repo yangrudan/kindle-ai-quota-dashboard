@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T17:20:09.490+08:00",
+  "updatedAt": "2026-10-22T17:30:41.326+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.3,
-    "feelsLikeC": 18.2,
-    "humidity": 65,
-    "windKph": 12.6,
+    "tempC": 19,
+    "feelsLikeC": 17.9,
+    "humidity": 66,
+    "windKph": 12.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-22T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-22T17:20:09.490+08:00",
+    "observedAt": "2026-10-22T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-22T17:30:41.326+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《中国工农红军长征胜利90周年》纪念邮票发行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719170.shtml",
-        "publishedAt": "2026-10-22T17:08:26.000+08:00"
+        "title": "行业首个外挂式长焦量产落地背后：欧菲光深度参与华为Mate 90“睿影Z10”模组供应",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719188.shtml",
+        "publishedAt": "2026-10-22T17:23:10.000+08:00"
       },
       {
-        "title": "宁夏首部民营经济地方性法规11月1日起施行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719177.shtml",
-        "publishedAt": "2026-10-22T17:08:24.000+08:00"
+        "title": "莫斯科遭大规模无人机袭击 俄军对乌境内目标实施密集打击",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719141.shtml",
+        "publishedAt": "2026-10-22T17:22:02.000+08:00"
       },
       {
-        "title": "湖北航空口岸客流稳步攀升",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719172.shtml",
-        "publishedAt": "2026-10-22T17:05:21.000+08:00"
+        "title": "直播海报：长征路上学党史｜重整行装 共启新长征",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719189.shtml",
+        "publishedAt": "2026-10-22T17:20:58.000+08:00"
       },
       {
-        "title": "特稿｜中医药助力世界守护民众健康",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-22/10719178.shtml",
-        "publishedAt": "2026-10-22T17:04:11.000+08:00"
+        "title": "两岸媒体探访南宁港 聚焦平陆运河通航新气象",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719186.shtml",
+        "publishedAt": "2026-10-22T17:18:32.000+08:00"
       },
       {
-        "title": "海南自贸港前三季度维修进境飞机超百架次",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719176.shtml",
-        "publishedAt": "2026-10-22T17:03:03.000+08:00"
+        "title": "多地辟谣“外地患者组团到本地高校恶意传播艾滋病”（2026·10·22）",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719187.shtml",
+        "publishedAt": "2026-10-22T17:18:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T17:20:03.870+08:00",
+    "fetchedAt": "2026-10-22T17:30:04.257+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T17:20:08.369+08:00",
+      "fetchedAt": "2026-10-22T17:30:39.136+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 64,
+          "usedPct": 72,
           "resetAt": "2026-10-22T20:20:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 79,
+          "usedPct": 80,
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T17:20:08.604+08:00",
+      "fetchedAt": "2026-10-22T17:30:39.369+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T17:20:08.616+08:00",
+      "fetchedAt": "2026-10-22T17:30:39.379+08:00",
       "error": null
     }
   }
