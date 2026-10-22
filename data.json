@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T20:10:08.465+08:00",
+  "updatedAt": "2026-10-22T20:20:09.631+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.4,
-    "feelsLikeC": 16,
+    "feelsLikeC": 15.9,
     "humidity": 67,
-    "windKph": 12.2,
+    "windKph": 12.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-22T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T20:10:08.465+08:00",
+    "observedAt": "2026-10-22T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-22T20:20:09.631+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（近观中国）走好新的长征路，习近平强调五个“必须”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719291.shtml",
+        "publishedAt": "2026-10-22T20:13:14.000+08:00"
+      },
+      {
+        "title": "赵乐际主持召开十四届全国人大常委会第七十四次委员长会议 决定十四届全国人大常委会第二十五次会议11月2日",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719311.shtml",
+        "publishedAt": "2026-10-22T20:12:58.000+08:00"
+      },
+      {
+        "title": "习言道｜同心协力走好新的长征路",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719280.shtml",
+        "publishedAt": "2026-10-22T20:11:48.000+08:00"
+      },
+      {
+        "title": "习言道｜走好新的长征路，习近平强调“五个必须”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719279.shtml",
+        "publishedAt": "2026-10-22T20:11:01.000+08:00"
+      },
+      {
         "title": "中国杯世界花样滑冰大奖赛首次落地深圳",
         "url": "https://www.chinanews.com.cn/ty/2026/10-22/10719305.shtml",
         "publishedAt": "2026-10-22T20:04:21.000+08:00"
-      },
-      {
-        "title": "今年前三季度东盟稳居河北第一大贸易伙伴",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719302.shtml",
-        "publishedAt": "2026-10-22T19:56:57.000+08:00"
-      },
-      {
-        "title": "李家超：香港会持续强化连接国家与全球资本的枢纽功能",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719301.shtml",
-        "publishedAt": "2026-10-22T19:56:25.000+08:00"
-      },
-      {
-        "title": "岑浩辉：欢迎投资者把握澳琴和大湾区市场机遇",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719300.shtml",
-        "publishedAt": "2026-10-22T19:55:29.000+08:00"
-      },
-      {
-        "title": "《全球食事指数（GSI）报告2026》在澳门发布",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719299.shtml",
-        "publishedAt": "2026-10-22T19:54:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T20:10:03.404+08:00",
+    "fetchedAt": "2026-10-22T20:20:04.843+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T20:10:07.106+08:00",
+      "fetchedAt": "2026-10-22T20:20:08.471+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T20:10:07.279+08:00",
+      "fetchedAt": "2026-10-22T20:20:08.614+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T20:10:07.287+08:00",
+      "fetchedAt": "2026-10-22T20:20:08.623+08:00",
       "error": null
     }
   }
