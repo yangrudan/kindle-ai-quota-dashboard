@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-22T18:10:10.072+08:00",
+  "updatedAt": "2026-10-22T18:20:08.997+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.4,
-    "feelsLikeC": 17.4,
+    "tempC": 18.3,
+    "feelsLikeC": 17.3,
     "humidity": 68,
-    "windKph": 11.9,
+    "windKph": 11.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-22T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-22T18:10:10.072+08:00",
+    "observedAt": "2026-10-22T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-22T18:20:08.998+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广交会进境展品首次实现“到馆查验”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719210.shtml",
+        "publishedAt": "2026-10-22T18:09:07.000+08:00"
+      },
+      {
+        "title": "粤港澳三地联合启动大湾区脑机接口标准体系建设",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719212.shtml",
+        "publishedAt": "2026-10-22T18:09:01.000+08:00"
+      },
       {
         "title": "东莞港已常态化运营11条东盟航线",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-22/10719209.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "河北邯郸：“00后”OPC创业者借力AI打开个性化消费新空间",
         "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719203.shtml",
         "publishedAt": "2026-10-22T18:01:24.000+08:00"
-      },
-      {
-        "title": "今年横琴口岸出入境旅客已突破3000万人次",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-22/10719206.shtml",
-        "publishedAt": "2026-10-22T18:00:46.000+08:00"
-      },
-      {
-        "title": "宋庄当代艺术精品拍卖举槌在即 探索原创艺术可信交易新路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719201.shtml",
-        "publishedAt": "2026-10-22T17:58:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-22T18:10:03.755+08:00",
+    "fetchedAt": "2026-10-22T18:20:03.536+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 275 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-22T18:10:08.334+08:00",
+      "fetchedAt": "2026-10-22T18:20:07.775+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-27T14:33:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-22T18:10:08.519+08:00",
+      "fetchedAt": "2026-10-22T18:20:08.019+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-22T18:10:08.526+08:00",
+      "fetchedAt": "2026-10-22T18:20:08.025+08:00",
       "error": null
     }
   }
