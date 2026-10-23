@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T13:20:09.678+08:00",
+  "updatedAt": "2026-10-23T13:30:09.399+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.5,
+    "tempC": 20.6,
     "feelsLikeC": 21.2,
-    "humidity": 80,
-    "windKph": 11.1,
+    "humidity": 78,
+    "windKph": 11.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T13:20:09.678+08:00",
+    "observedAt": "2026-10-23T13:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T13:30:09.399+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "U17女足世界杯：中国队两连胜提前晋级16强",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719643.shtml",
-        "publishedAt": "2026-10-23T13:16:50.000+08:00"
+        "title": "全国首宗节水碳普惠交易在穗落地 3351吨碳减排量反哺节水技术研发",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719659.shtml",
+        "publishedAt": "2026-10-23T13:28:16.000+08:00"
       },
       {
-        "title": "梵高名画《星月夜》是观察积累还是幻想？研究称灵感或来自7月天空",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719640.shtml",
-        "publishedAt": "2026-10-23T13:13:48.000+08:00"
+        "title": "（长征胜利90周年）藏族边防军人旺堆次仁：边防线就是我的“长征路”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719634.shtml",
+        "publishedAt": "2026-10-23T13:27:52.000+08:00"
       },
       {
-        "title": "山东东营：唤醒“沉睡”资源 盐碱地变丰收田",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719616.shtml",
-        "publishedAt": "2026-10-23T13:12:11.000+08:00"
+        "title": "西藏巴青7.0级地震 交通运输部启动公路交通突发事件三级应急响应",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719657.shtml",
+        "publishedAt": "2026-10-23T13:27:40.000+08:00"
       },
       {
-        "title": "“银发族”赶潮AI新课堂 解锁智慧晚年",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719633.shtml",
-        "publishedAt": "2026-10-23T13:11:07.000+08:00"
+        "title": "(PI)²物理智能伙伴计划在深发布",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719653.shtml",
+        "publishedAt": "2026-10-23T13:26:44.000+08:00"
       },
       {
-        "title": "李乐成当选中共安徽省委书记",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719639.shtml",
-        "publishedAt": "2026-10-23T13:09:19.000+08:00"
+        "title": "第二届海峡养老产业博览会在福州开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719652.shtml",
+        "publishedAt": "2026-10-23T13:24:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T13:20:03.779+08:00",
+    "fetchedAt": "2026-10-23T13:30:04.138+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T13:20:08.460+08:00",
+      "fetchedAt": "2026-10-23T13:30:08.215+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T13:20:08.759+08:00",
+      "fetchedAt": "2026-10-23T13:30:08.521+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T13:20:08.767+08:00",
+      "fetchedAt": "2026-10-23T13:30:08.525+08:00",
       "error": null
     }
   }
