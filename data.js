@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T10:10:07.574+08:00",
+  "updatedAt": "2026-10-23T10:20:08.501+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21,
-    "feelsLikeC": 20.8,
-    "humidity": 66,
-    "windKph": 11.6,
+    "tempC": 21.4,
+    "feelsLikeC": 21.4,
+    "humidity": 65,
+    "windKph": 12,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T10:10:07.574+08:00",
+    "observedAt": "2026-10-23T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T10:20:08.501+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "六部门出台意见 推进老旧街区厂区改造提升",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719559.shtml",
+        "publishedAt": "2026-10-23T10:11:44.000+08:00"
+      },
+      {
+        "title": "逾160家企业秋招进广州校园 线下招聘直播带岗同步发力",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719551.shtml",
+        "publishedAt": "2026-10-23T10:09:58.000+08:00"
+      },
+      {
+        "title": "15件曾亮相伦敦中国艺术国际展览会的珍品在港展出",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719544.shtml",
+        "publishedAt": "2026-10-23T10:08:58.000+08:00"
+      },
+      {
+        "title": "不吃主食，能消除“碳水脸”？丨中新真探",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719518.shtml",
+        "publishedAt": "2026-10-23T10:06:56.000+08:00"
+      },
+      {
         "title": "毛乌素沙地边的小村庄实现“牧粮双丰”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719555.shtml",
         "publishedAt": "2026-10-23T10:05:01.000+08:00"
-      },
-      {
-        "title": "完善人民陪审制 最高法例举牟某虐待案、火锅小便案",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719552.shtml",
-        "publishedAt": "2026-10-23T10:02:49.000+08:00"
-      },
-      {
-        "title": "前三季度重点平台具身智能机器人销售额增长22.6%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719537.shtml",
-        "publishedAt": "2026-10-23T10:00:03.000+08:00"
-      },
-      {
-        "title": "中国驻法国使领馆发布关于新一轮游行示威的领事提醒",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-23/10719538.shtml",
-        "publishedAt": "2026-10-23T09:57:23.000+08:00"
-      },
-      {
-        "title": "（活力中国调研行）全球首堆“玲龙一号”迎投运前关键“体检”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719539.shtml",
-        "publishedAt": "2026-10-23T09:56:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T10:10:02.814+08:00",
+    "fetchedAt": "2026-10-23T10:20:03.095+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T10:10:06.136+08:00",
+      "fetchedAt": "2026-10-23T10:20:07.203+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T10:10:06.486+08:00",
+      "fetchedAt": "2026-10-23T10:20:07.574+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T10:10:06.493+08:00",
+      "fetchedAt": "2026-10-23T10:20:07.584+08:00",
       "error": null
     }
   }
