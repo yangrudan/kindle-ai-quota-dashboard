@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T17:20:13.080+08:00",
+  "updatedAt": "2026-10-23T17:30:08.786+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.3,
-    "feelsLikeC": 19.9,
-    "humidity": 84,
+    "tempC": 19.2,
+    "feelsLikeC": 19.7,
+    "humidity": 85,
     "windKph": 11.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T17:20:13.080+08:00",
+    "observedAt": "2026-10-23T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T17:30:08.786+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "石榴花开映新邱 法治护航团结情",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719863.shtml",
-        "publishedAt": "2026-10-23T17:12:51.000+08:00"
+        "title": "超5万张证书被撤销 市场监管总局对CCC认证各环节持续开展清理整顿",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719837.shtml",
+        "publishedAt": "2026-10-23T17:22:45.000+08:00"
       },
       {
-        "title": "民革沈阳市沈河区工委助力法治化营商环境建设",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719862.shtml",
-        "publishedAt": "2026-10-23T17:12:05.000+08:00"
+        "title": "海浪橙色预警 浙闽北部近海将出现4到5.5米巨浪",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719871.shtml",
+        "publishedAt": "2026-10-23T17:21:57.000+08:00"
       },
       {
-        "title": "国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719857.shtml",
-        "publishedAt": "2026-10-23T17:11:35.000+08:00"
+        "title": "民建沈阳市委会赴延安开展“纪念长征胜利90周年”主题学习交流活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719870.shtml",
+        "publishedAt": "2026-10-23T17:20:53.000+08:00"
       },
       {
-        "title": "王劲松：AI发展迅猛，但无法代替真人演员",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719856.shtml",
-        "publishedAt": "2026-10-23T17:11:25.000+08:00"
+        "title": "国台“酱香型白酒品质提升及创新产品研发关键技术研究”项目，通过科技成果鉴定",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719869.shtml",
+        "publishedAt": "2026-10-23T17:19:43.000+08:00"
       },
       {
-        "title": "《长征专题书目（1936—2026）》出版 拓展目录学研究范畴",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719859.shtml",
-        "publishedAt": "2026-10-23T17:10:51.000+08:00"
+        "title": "比亚迪第二代海鸥正式上市 官方指导价6.59万元-9.99万元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719867.shtml",
+        "publishedAt": "2026-10-23T17:19:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T17:20:04.668+08:00",
+    "fetchedAt": "2026-10-23T17:30:03.617+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 82,
+          "usedPct": 85,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 270 / 1500 AIC"
+          "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T17:20:11.973+08:00",
+      "fetchedAt": "2026-10-23T17:30:07.574+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T17:20:12.271+08:00",
+      "fetchedAt": "2026-10-23T17:30:07.877+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T17:20:12.280+08:00",
+      "fetchedAt": "2026-10-23T17:30:07.886+08:00",
       "error": null
     }
   }
