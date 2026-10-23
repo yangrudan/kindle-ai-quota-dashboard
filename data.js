@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T22:50:12.647+08:00",
+  "updatedAt": "2026-10-23T23:00:39.204+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T22:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T22:50:12.647+08:00",
+    "fetchedAt": "2026-10-23T23:00:39.204+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "董克用：应对人口老龄化挑战 做好养老金融这篇大文章",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720123.shtml",
-        "publishedAt": "2026-10-23T22:39:30.000+08:00"
+        "title": "香港新界乡议局成立100周年 李家超寄语支持北都发展",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720130.shtml",
+        "publishedAt": "2026-10-23T22:53:27.000+08:00"
       },
       {
-        "title": "李家超：沉痛哀悼西藏巴青地震遇难同胞，随时准备提供援助",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720121.shtml",
-        "publishedAt": "2026-10-23T22:37:36.000+08:00"
+        "title": "“百万英才汇南粤”秋季招聘活动走进河南",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720129.shtml",
+        "publishedAt": "2026-10-23T22:52:11.000+08:00"
       },
       {
-        "title": "2026“跨国企业天津行”举办 达成多项合作成果",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720120.shtml",
-        "publishedAt": "2026-10-23T22:32:58.000+08:00"
+        "title": "从“拼口味”到“拼效率” 火锅产业加速“机器换人”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720128.shtml",
+        "publishedAt": "2026-10-23T22:50:49.000+08:00"
       },
       {
-        "title": "2026年全国啦啦操冠军赛在银川西夏区开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720119.shtml",
-        "publishedAt": "2026-10-23T22:31:32.000+08:00"
+        "title": "第五届国际地理标志产品博览会将在四川举行 参与国家数量为历届之最",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720127.shtml",
+        "publishedAt": "2026-10-23T22:49:55.000+08:00"
       },
       {
-        "title": "财政部：农业保险护农惠农成效持续显现",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720118.shtml",
-        "publishedAt": "2026-10-23T22:30:22.000+08:00"
+        "title": "复旦上医创建99周年：颜福庆陈同生纪念展启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720126.shtml",
+        "publishedAt": "2026-10-23T22:48:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T22:50:06.340+08:00",
+    "fetchedAt": "2026-10-23T23:00:03.922+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T22:50:11.153+08:00",
+      "fetchedAt": "2026-10-23T23:00:37.720+08:00",
       "error": null
     },
     "codex": {
@@ -75,10 +75,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 33,
-          "resetAt": "2026-10-30T09:08:10.000+08:00"
+          "resetAt": "2026-10-30T09:08:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T22:50:11.496+08:00",
+      "fetchedAt": "2026-10-23T23:00:38.077+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T22:50:11.506+08:00",
+      "fetchedAt": "2026-10-23T23:00:38.081+08:00",
       "error": null
     }
   }
