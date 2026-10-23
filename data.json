@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T20:30:09.172+08:00",
+  "updatedAt": "2026-10-23T20:40:09.530+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T20:30:09.172+08:00",
+    "fetchedAt": "2026-10-23T20:40:09.530+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国成功发射遥感五十号03星",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720000.shtml",
-        "publishedAt": "2026-10-23T20:14:42.000+08:00"
+        "title": "中国央行将开展7000亿元MLF操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720011.shtml",
+        "publishedAt": "2026-10-23T20:32:55.000+08:00"
       },
       {
-        "title": "中外艺术家走进新疆沙雅县开启采风创作之旅",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719999.shtml",
-        "publishedAt": "2026-10-23T20:14:10.000+08:00"
+        "title": "前三季度中国财政收入同比增长5.1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720010.shtml",
+        "publishedAt": "2026-10-23T20:32:53.000+08:00"
       },
       {
-        "title": "东北超2027赛季招商启动 多方力量赋能文体旅融合发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719998.shtml",
-        "publishedAt": "2026-10-23T20:14:04.000+08:00"
+        "title": "汇聚科技智慧、共建人文之路 专家学者共话“一带一路”科技人文交流",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-23/10720009.shtml",
+        "publishedAt": "2026-10-23T20:32:43.000+08:00"
       },
       {
-        "title": "音乐带来的喜悦超过紧张——访国际钢琴比赛夺冠的中国少年江沛恒",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719997.shtml",
-        "publishedAt": "2026-10-23T20:13:58.000+08:00"
+        "title": "第三届义乌商贸大会·专业市场高质量发展分会成功举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720007.shtml",
+        "publishedAt": "2026-10-23T20:32:35.000+08:00"
       },
       {
-        "title": "诺奖得主马里奥·卡佩奇受聘江西省人民医院客座教授",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719996.shtml",
-        "publishedAt": "2026-10-23T20:13:40.000+08:00"
+        "title": "“超现场”同步直播 国家大剧院新版中国史诗歌剧《长征》首演",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10720006.shtml",
+        "publishedAt": "2026-10-23T20:32:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T20:30:03.711+08:00",
+    "fetchedAt": "2026-10-23T20:40:03.771+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T20:30:07.866+08:00",
+      "fetchedAt": "2026-10-23T20:40:08.032+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T20:30:08.164+08:00",
+      "fetchedAt": "2026-10-23T20:40:08.415+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T20:30:08.167+08:00",
+      "fetchedAt": "2026-10-23T20:40:08.423+08:00",
       "error": null
     }
   }
