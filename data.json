@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T11:10:38.228+08:00",
+  "updatedAt": "2026-10-23T11:20:09.376+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 22.4,
-    "feelsLikeC": 22.2,
-    "humidity": 62,
-    "windKph": 12.9,
+    "description": "阵雨",
+    "iconKey": "rain",
+    "tempC": 22.2,
+    "feelsLikeC": 22,
+    "humidity": 64,
+    "windKph": 13,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T11:10:38.229+08:00",
+    "observedAt": "2026-10-23T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T11:20:09.376+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西藏巴青7.0级地震 多方医疗队、专家组驰援灾区",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719590.shtml",
-        "publishedAt": "2026-10-23T11:00:42.000+08:00"
+        "title": "中国气象局进入地震灾害气象服务保障特别工作状态",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719588.shtml",
+        "publishedAt": "2026-10-23T11:12:55.000+08:00"
       },
       {
-        "title": "尼泊尔萨利扬县恙虫病疫情持续数月 累计致10人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719564.shtml",
-        "publishedAt": "2026-10-23T10:57:04.000+08:00"
+        "title": "广东省教育厅原党组副书记、副厅长魏中林被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719596.shtml",
+        "publishedAt": "2026-10-23T11:10:43.000+08:00"
       },
       {
-        "title": "各地一批重大工程建设迎来关键节点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719586.shtml",
-        "publishedAt": "2026-10-23T10:54:26.000+08:00"
+        "title": "国家税务总局最新发票数据显示：前三季度我国经济保持平稳运行、持续向新向优",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719598.shtml",
+        "publishedAt": "2026-10-23T11:08:11.000+08:00"
       },
       {
-        "title": "火灾烟霾污染空气 印尼急性呼吸道感染病例超33万例",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208620.shtml",
-        "publishedAt": "2026-10-23T10:51:52.000+08:00"
+        "title": "台风“蔷琵”影响东部沿海，自然资源部升级海洋灾害应急响应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719600.shtml",
+        "publishedAt": "2026-10-23T11:07:03.000+08:00"
       },
       {
-        "title": "被“开盒”后，胜诉与止损的距离",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-23/10719580.shtml",
-        "publishedAt": "2026-10-23T10:50:54.000+08:00"
+        "title": "中东欧采购团走进辽宁与百余家企业对接寻商机",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-23/10719589.shtml",
+        "publishedAt": "2026-10-23T11:05:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T11:10:02.980+08:00",
+    "fetchedAt": "2026-10-23T11:20:03.436+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T11:10:37.089+08:00",
+      "fetchedAt": "2026-10-23T11:20:08.095+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 20,
+          "usedPct": 27,
           "resetAt": "2026-10-23T14:08:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T11:10:37.328+08:00",
+      "fetchedAt": "2026-10-23T11:20:08.500+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T11:10:37.339+08:00",
+      "fetchedAt": "2026-10-23T11:20:08.503+08:00",
       "error": null
     }
   }
