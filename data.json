@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T09:50:09.105+08:00",
+  "updatedAt": "2026-10-23T10:00:38.198+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T09:50:09.105+08:00",
+    "fetchedAt": "2026-10-23T10:00:38.198+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "背包里装着AED的“蜂医”——游戏里拉起队友，现实里守护心跳",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719535.shtml",
-        "publishedAt": "2026-10-23T09:45:18.000+08:00"
+        "title": "（活力中国调研行）全球首堆“玲龙一号”迎投运前关键“体检”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719539.shtml",
+        "publishedAt": "2026-10-23T09:56:15.000+08:00"
       },
       {
-        "title": "西藏巴青县发生7.0级地震 中国安能专业救援力量紧急出动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719530.shtml",
-        "publishedAt": "2026-10-23T09:43:46.000+08:00"
+        "title": "3支香港队伍将出战“创客中国”年度总决赛",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719540.shtml",
+        "publishedAt": "2026-10-23T09:54:15.000+08:00"
       },
       {
-        "title": "西部战区空军1架无人机飞赴那曲震区进行勘察",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719524.shtml",
-        "publishedAt": "2026-10-23T09:39:28.000+08:00"
+        "title": "央行开展2580亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719522.shtml",
+        "publishedAt": "2026-10-23T09:53:53.000+08:00"
       },
       {
-        "title": "第一批救灾物资已运抵西藏巴青县地震灾区",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719533.shtml",
-        "publishedAt": "2026-10-23T09:36:12.000+08:00"
+        "title": "中国足协：女足主帅米利西奇离任",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719549.shtml",
+        "publishedAt": "2026-10-23T09:53:27.000+08:00"
       },
       {
-        "title": "玩得转、搞得定、聊得来，汽车行业首个AI超级智能体「迪迪虾」上车",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719529.shtml",
-        "publishedAt": "2026-10-23T09:35:04.000+08:00"
+        "title": "10月23日人民币对美元中间价报6.7180 上调15个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719516.shtml",
+        "publishedAt": "2026-10-23T09:52:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T09:50:03.335+08:00",
+    "fetchedAt": "2026-10-23T10:00:03.657+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T09:50:07.921+08:00",
+      "fetchedAt": "2026-10-23T10:00:37.076+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T09:50:08.191+08:00",
+      "fetchedAt": "2026-10-23T10:00:37.327+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T09:50:08.200+08:00",
+      "fetchedAt": "2026-10-23T10:00:37.337+08:00",
       "error": null
     }
   }
