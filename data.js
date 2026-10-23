@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T22:20:09.657+08:00",
+  "updatedAt": "2026-10-23T22:30:43.345+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 18.5,
+    "tempC": 18.4,
     "feelsLikeC": 19,
-    "humidity": 94,
+    "humidity": 95,
     "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T22:20:09.657+08:00",
+    "observedAt": "2026-10-23T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T22:30:43.345+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026青海体彩“体育强国季”系列活动启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720112.shtml",
+        "publishedAt": "2026-10-23T22:22:45.000+08:00"
+      },
+      {
+        "title": "人工智能+社会工作创新应用大赛决赛在广西柳州举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-23/10720111.shtml",
+        "publishedAt": "2026-10-23T22:21:41.000+08:00"
+      },
+      {
+        "title": "前沿、应用、青年——青科会脑机智能论坛在浙江温州开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720109.shtml",
+        "publishedAt": "2026-10-23T22:15:23.000+08:00"
+      },
+      {
+        "title": "“塞上护苗”困境幼儿帮扶项目在银川启动 续写闽宁山海慈善情",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720108.shtml",
+        "publishedAt": "2026-10-23T22:14:15.000+08:00"
+      },
+      {
         "title": "侨领华商齐聚东莞“侨兴南粤”拉美市场拓展专场",
         "url": "https://www.chinanews.com.cn/hr/2026/10-23/10720107.shtml",
         "publishedAt": "2026-10-23T22:11:49.000+08:00"
-      },
-      {
-        "title": "韩国国防部向朝鲜提议举行韩朝军方会谈",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720096.shtml",
-        "publishedAt": "2026-10-23T22:10:45.000+08:00"
-      },
-      {
-        "title": "2026中国社区发展协会年会在福州举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720105.shtml",
-        "publishedAt": "2026-10-23T22:09:13.000+08:00"
-      },
-      {
-        "title": "香港教育大学正名十周年 培养逾5.2万名教育工作者及专业人才",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720104.shtml",
-        "publishedAt": "2026-10-23T22:08:59.000+08:00"
-      },
-      {
-        "title": "2026年中国滋补产业新质发展大会在广州举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720103.shtml",
-        "publishedAt": "2026-10-23T22:08:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T22:20:03.637+08:00",
+    "fetchedAt": "2026-10-23T22:30:07.501+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T22:20:08.453+08:00",
+      "fetchedAt": "2026-10-23T22:30:41.863+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T22:20:08.773+08:00",
+      "fetchedAt": "2026-10-23T22:30:42.138+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T22:20:08.776+08:00",
+      "fetchedAt": "2026-10-23T22:30:42.148+08:00",
       "error": null
     }
   }
