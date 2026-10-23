@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T14:30:08.926+08:00",
+  "updatedAt": "2026-10-23T14:40:09.630+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 20.3,
-    "feelsLikeC": 20.8,
-    "humidity": 80,
-    "windKph": 13,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 20.4,
+    "feelsLikeC": 21,
+    "humidity": 78,
+    "windKph": 10.7,
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T14:30:08.926+08:00",
+    "fetchedAt": "2026-10-23T14:40:09.630+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "宁夏出台电力专项举措护航“东数西算”算力发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719664.shtml",
-        "publishedAt": "2026-10-23T14:22:01.000+08:00"
+        "title": "光影聚同心 新力启新程——凝“新”聚力 筑梦大连“新阶层·建设力”主题月光影集",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719492.shtml",
+        "publishedAt": "2026-10-23T14:33:06.000+08:00"
       },
       {
-        "title": "一港联通内外 自贸港“样板间”激发新活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719698.shtml",
-        "publishedAt": "2026-10-23T14:17:35.000+08:00"
+        "title": "专家提醒：超范围、超条件申报税收减免不可取",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719702.shtml",
+        "publishedAt": "2026-10-23T14:31:52.000+08:00"
       },
       {
-        "title": "长征路上学党史丨古镇哈达铺迎红色旅游热",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719694.shtml",
-        "publishedAt": "2026-10-23T14:16:05.000+08:00"
+        "title": "中国雪豹种群数量实现恢复性增长",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719703.shtml",
+        "publishedAt": "2026-10-23T14:31:34.000+08:00"
       },
       {
-        "title": "国家统计局社科文司统计师林梅解读2025年中国创新指数",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719695.shtml",
-        "publishedAt": "2026-10-23T14:15:39.000+08:00"
+        "title": "专家助企燕赵行（辛集站）活动举行 现场达成21项合作意向",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719647.shtml",
+        "publishedAt": "2026-10-23T14:27:00.000+08:00"
       },
       {
-        "title": "宜涪高铁高湾隧道贯通 系重庆段“首通”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719680.shtml",
-        "publishedAt": "2026-10-23T14:14:19.000+08:00"
+        "title": "前三季度上海市进出口额同比增长17.9% 各季均呈两位数增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719671.shtml",
+        "publishedAt": "2026-10-23T14:26:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T14:30:03.433+08:00",
+    "fetchedAt": "2026-10-23T14:40:03.372+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T14:30:07.694+08:00",
+      "fetchedAt": "2026-10-23T14:40:07.866+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 14,
           "resetAt": "2026-10-23T19:20:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 17,
+          "usedPct": 18,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T14:30:08.058+08:00",
+      "fetchedAt": "2026-10-23T14:40:08.290+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T14:30:08.069+08:00",
+      "fetchedAt": "2026-10-23T14:40:08.295+08:00",
       "error": null
     }
   }
