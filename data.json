@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T15:20:14.981+08:00",
+  "updatedAt": "2026-10-23T15:30:39.355+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 20.1,
     "feelsLikeC": 20.6,
     "humidity": 79,
-    "windKph": 11.2,
+    "windKph": 11,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T15:20:14.981+08:00",
+    "observedAt": "2026-10-23T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T15:30:39.355+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "A股收评：超4500只个股飘红，三大指数集体收涨，创业板指大涨超4%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719749.shtml",
-        "publishedAt": "2026-10-23T15:16:28.000+08:00"
+        "title": "天山南北一家亲",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719764.shtml",
+        "publishedAt": "2026-10-23T15:27:25.000+08:00"
       },
       {
-        "title": "吉林省延边州委原常委王吉宝接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719737.shtml",
-        "publishedAt": "2026-10-23T15:14:08.000+08:00"
+        "title": "外交部：中方坚定支持联合国在国际事务中发挥核心作用",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719763.shtml",
+        "publishedAt": "2026-10-23T15:26:41.000+08:00"
       },
       {
-        "title": "德国总统施泰因迈尔将访华",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719733.shtml",
-        "publishedAt": "2026-10-23T15:14:04.000+08:00"
+        "title": "财政部在香港成功发行2026年第五期155亿元人民币国债",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719750.shtml",
+        "publishedAt": "2026-10-23T15:26:33.000+08:00"
       },
       {
-        "title": "外交部：美方应当遵守市场经济原则 停止干扰企业之间的正常经贸合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719745.shtml",
-        "publishedAt": "2026-10-23T15:13:42.000+08:00"
+        "title": "日本结束第24轮核污染水排海 核污染水累计排放近19万吨",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719754.shtml",
+        "publishedAt": "2026-10-23T15:26:27.000+08:00"
       },
       {
-        "title": "“Token之都”，为何是乌兰察布？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719736.shtml",
-        "publishedAt": "2026-10-23T15:13:08.000+08:00"
+        "title": "新中国恢复联合国合法席位55周年 中方：将继续发挥负责任大国作用",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719762.shtml",
+        "publishedAt": "2026-10-23T15:26:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T15:20:04.075+08:00",
+    "fetchedAt": "2026-10-23T15:30:03.895+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T15:20:13.080+08:00",
+      "fetchedAt": "2026-10-23T15:30:38.146+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 40,
+          "usedPct": 49,
           "resetAt": "2026-10-23T19:20:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 22,
+          "usedPct": 23,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T15:20:13.391+08:00",
+      "fetchedAt": "2026-10-23T15:30:38.447+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T15:20:13.413+08:00",
+      "fetchedAt": "2026-10-23T15:30:38.450+08:00",
       "error": null
     }
   }
