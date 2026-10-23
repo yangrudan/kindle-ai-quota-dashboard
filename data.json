@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T21:20:08.877+08:00",
+  "updatedAt": "2026-10-23T21:30:38.774+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T21:20:08.878+08:00",
+    "fetchedAt": "2026-10-23T21:30:38.774+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "三里河研讨会：跨越“恩格斯停顿”，让技术革命促进共享发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720012.shtml",
+        "publishedAt": "2026-10-23T21:22:46.000+08:00"
+      },
+      {
+        "title": "莫斯科谢列梅捷沃机场因无人机威胁发布安全警报",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720070.shtml",
+        "publishedAt": "2026-10-23T21:22:10.000+08:00"
+      },
+      {
+        "title": "法英首次开展涉法国核威慑力量联合演习",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720068.shtml",
+        "publishedAt": "2026-10-23T21:19:06.000+08:00"
+      },
       {
         "title": "青海与阿拉木图动物园推进跨国雪豹保护",
         "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720057.shtml",
@@ -28,24 +43,9 @@
         "title": "山西汾阳杏花村遗址首次确认约6000至5500年前酿酒残留物",
         "url": "https://www.chinanews.com.cn/cul/2026/10-23/10720056.shtml",
         "publishedAt": "2026-10-23T21:18:38.000+08:00"
-      },
-      {
-        "title": "1-9月中国发行新增专项债券35608亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720055.shtml",
-        "publishedAt": "2026-10-23T21:18:34.000+08:00"
-      },
-      {
-        "title": "10月23日新闻夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-23/10720064.shtml",
-        "publishedAt": "2026-10-23T21:17:44.000+08:00"
-      },
-      {
-        "title": "澳门“政府引导基金”正式运作 首期规模200亿澳门元",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720054.shtml",
-        "publishedAt": "2026-10-23T21:17:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T21:20:03.465+08:00",
+    "fetchedAt": "2026-10-23T21:30:03.503+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T21:20:07.802+08:00",
+      "fetchedAt": "2026-10-23T21:30:37.689+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T21:20:08.012+08:00",
+      "fetchedAt": "2026-10-23T21:30:37.940+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T21:20:08.016+08:00",
+      "fetchedAt": "2026-10-23T21:30:37.950+08:00",
       "error": null
     }
   }
