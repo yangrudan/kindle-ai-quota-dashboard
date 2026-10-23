@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T22:30:43.345+08:00",
+  "updatedAt": "2026-10-23T22:40:08.044+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T22:30:43.345+08:00",
+    "fetchedAt": "2026-10-23T22:40:08.044+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026青海体彩“体育强国季”系列活动启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720112.shtml",
-        "publishedAt": "2026-10-23T22:22:45.000+08:00"
+        "title": "2026“跨国企业天津行”举办 达成多项合作成果",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720120.shtml",
+        "publishedAt": "2026-10-23T22:32:58.000+08:00"
       },
       {
-        "title": "人工智能+社会工作创新应用大赛决赛在广西柳州举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-23/10720111.shtml",
-        "publishedAt": "2026-10-23T22:21:41.000+08:00"
+        "title": "2026年全国啦啦操冠军赛在银川西夏区开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720119.shtml",
+        "publishedAt": "2026-10-23T22:31:32.000+08:00"
       },
       {
-        "title": "前沿、应用、青年——青科会脑机智能论坛在浙江温州开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720109.shtml",
-        "publishedAt": "2026-10-23T22:15:23.000+08:00"
+        "title": "财政部：农业保险护农惠农成效持续显现",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720118.shtml",
+        "publishedAt": "2026-10-23T22:30:22.000+08:00"
       },
       {
-        "title": "“塞上护苗”困境幼儿帮扶项目在银川启动 续写闽宁山海慈善情",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720108.shtml",
-        "publishedAt": "2026-10-23T22:14:15.000+08:00"
+        "title": "新版《黑龙江省地名管理规定》12月起实施",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720116.shtml",
+        "publishedAt": "2026-10-23T22:29:14.000+08:00"
       },
       {
-        "title": "侨领华商齐聚东莞“侨兴南粤”拉美市场拓展专场",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-23/10720107.shtml",
-        "publishedAt": "2026-10-23T22:11:49.000+08:00"
+        "title": "粤商走进广东阳春 探寻产业合作机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720117.shtml",
+        "publishedAt": "2026-10-23T22:28:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T22:30:07.501+08:00",
+    "fetchedAt": "2026-10-23T22:40:02.687+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T22:30:41.863+08:00",
+      "fetchedAt": "2026-10-23T22:40:06.573+08:00",
       "error": null
     },
     "codex": {
@@ -75,10 +75,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 33,
-          "resetAt": "2026-10-30T09:08:10.000+08:00"
+          "resetAt": "2026-10-30T09:08:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T22:30:42.138+08:00",
+      "fetchedAt": "2026-10-23T22:40:06.881+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T22:30:42.148+08:00",
+      "fetchedAt": "2026-10-23T22:40:06.890+08:00",
       "error": null
     }
   }
