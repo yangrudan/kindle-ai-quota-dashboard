@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T14:20:08.228+08:00",
+  "updatedAt": "2026-10-23T14:30:08.926+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20.6,
+    "tempC": 20.3,
     "feelsLikeC": 20.8,
-    "humidity": 77,
-    "windKph": 13.4,
+    "humidity": 80,
+    "windKph": 13,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T14:20:08.228+08:00",
+    "observedAt": "2026-10-23T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T14:30:08.926+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今年前三季度上海各区外贸稳步增长亮点纷呈",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719679.shtml",
-        "publishedAt": "2026-10-23T14:13:31.000+08:00"
+        "title": "宁夏出台电力专项举措护航“东数西算”算力发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719664.shtml",
+        "publishedAt": "2026-10-23T14:22:01.000+08:00"
       },
       {
-        "title": "霜降节气至 黑龙江平均最低气温降至0℃以下",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719642.shtml",
-        "publishedAt": "2026-10-23T14:12:07.000+08:00"
+        "title": "一港联通内外 自贸港“样板间”激发新活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719698.shtml",
+        "publishedAt": "2026-10-23T14:17:35.000+08:00"
       },
       {
-        "title": "中共安徽省第十二届委员会常务委员会产生",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719669.shtml",
-        "publishedAt": "2026-10-23T14:01:20.000+08:00"
+        "title": "长征路上学党史丨古镇哈达铺迎红色旅游热",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719694.shtml",
+        "publishedAt": "2026-10-23T14:16:05.000+08:00"
       },
       {
-        "title": "在中国光谷，一条产业链如何被“意念”激活",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-23/10719685.shtml",
-        "publishedAt": "2026-10-23T13:59:54.000+08:00"
+        "title": "国家统计局社科文司统计师林梅解读2025年中国创新指数",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719695.shtml",
+        "publishedAt": "2026-10-23T14:15:39.000+08:00"
       },
       {
-        "title": "受台风影响 福建沿海56条客渡运航线停航 转移13.41万人",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719686.shtml",
-        "publishedAt": "2026-10-23T13:59:28.000+08:00"
+        "title": "宜涪高铁高湾隧道贯通 系重庆段“首通”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719680.shtml",
+        "publishedAt": "2026-10-23T14:14:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T14:20:02.957+08:00",
+    "fetchedAt": "2026-10-23T14:30:03.433+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T14:20:07.246+08:00",
+      "fetchedAt": "2026-10-23T14:30:07.694+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-23T19:20:08.000+08:00"
+          "usedPct": 7,
+          "resetAt": "2026-10-23T19:20:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 16,
+          "usedPct": 17,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T14:20:07.394+08:00",
+      "fetchedAt": "2026-10-23T14:30:08.058+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T14:20:07.403+08:00",
+      "fetchedAt": "2026-10-23T14:30:08.069+08:00",
       "error": null
     }
   }
