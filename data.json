@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T17:10:13.744+08:00",
+  "updatedAt": "2026-10-23T17:20:13.080+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.4,
-    "feelsLikeC": 20,
-    "humidity": 83,
+    "tempC": 19.3,
+    "feelsLikeC": 19.9,
+    "humidity": 84,
     "windKph": 11.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T17:10:13.744+08:00",
+    "observedAt": "2026-10-23T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T17:20:13.080+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美国防部公布所谓科研安全审查结果 中国商务部回应",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719783.shtml",
-        "publishedAt": "2026-10-23T17:03:16.000+08:00"
+        "title": "石榴花开映新邱 法治护航团结情",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719863.shtml",
+        "publishedAt": "2026-10-23T17:12:51.000+08:00"
       },
       {
-        "title": "青海察尔汗盐湖今年游客量突破168万人次 同比增长近22%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719842.shtml",
-        "publishedAt": "2026-10-23T17:03:00.000+08:00"
+        "title": "民革沈阳市沈河区工委助力法治化营商环境建设",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719862.shtml",
+        "publishedAt": "2026-10-23T17:12:05.000+08:00"
       },
       {
-        "title": "孩子误吸图钉不敢说，胸痛持续加重后就医，医生提醒",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-23/10719855.shtml",
-        "publishedAt": "2026-10-23T17:02:44.000+08:00"
+        "title": "国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719857.shtml",
+        "publishedAt": "2026-10-23T17:11:35.000+08:00"
       },
       {
-        "title": "保护传承与活化利用并举 北京东城擦亮历史文化名城金名片",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719845.shtml",
-        "publishedAt": "2026-10-23T17:02:26.000+08:00"
+        "title": "王劲松：AI发展迅猛，但无法代替真人演员",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719856.shtml",
+        "publishedAt": "2026-10-23T17:11:25.000+08:00"
       },
       {
-        "title": "沿边内陆 中国（内蒙古）自由贸易试验区这样“试”",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-23/10719851.shtml",
-        "publishedAt": "2026-10-23T17:01:14.000+08:00"
+        "title": "《长征专题书目（1936—2026）》出版 拓展目录学研究范畴",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719859.shtml",
+        "publishedAt": "2026-10-23T17:10:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T17:10:03.588+08:00",
+    "fetchedAt": "2026-10-23T17:20:04.668+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T17:10:11.996+08:00",
+      "fetchedAt": "2026-10-23T17:20:11.973+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 98,
+          "usedPct": 100,
           "resetAt": "2026-10-23T19:20:10.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T17:10:12.303+08:00",
+      "fetchedAt": "2026-10-23T17:20:12.271+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T17:10:12.314+08:00",
+      "fetchedAt": "2026-10-23T17:20:12.280+08:00",
       "error": null
     }
   }
