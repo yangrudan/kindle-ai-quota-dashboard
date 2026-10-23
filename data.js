@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T07:10:08.263+08:00",
+  "updatedAt": "2026-10-24T07:20:38.780+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 17.8,
-    "feelsLikeC": 18.1,
+    "feelsLikeC": 17.9,
     "humidity": 96,
-    "windKph": 15.8,
+    "windKph": 16.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T07:10:08.263+08:00",
+    "observedAt": "2026-10-24T07:15:00.000+08:00",
+    "fetchedAt": "2026-10-24T07:20:38.780+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月24日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-24/10720171.shtml",
+        "publishedAt": "2026-10-24T07:09:34.000+08:00"
+      },
       {
         "title": "年轻人开始流行“喝大水” 极简养生的背后怎么喝才更健康？",
         "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720170.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“共振：中德当代艺术展”在柏林开幕",
         "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720167.shtml",
         "publishedAt": "2026-10-24T06:33:24.000+08:00"
-      },
-      {
-        "title": "俄军宣布27日在赫尔松方向实施停火",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720166.shtml",
-        "publishedAt": "2026-10-24T06:33:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T07:10:03.117+08:00",
+    "fetchedAt": "2026-10-24T07:20:03.618+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T07:10:07.204+08:00",
+      "fetchedAt": "2026-10-24T07:20:37.467+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-24T12:10:08.000+08:00"
+          "resetAt": "2026-10-24T12:20:38.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-31T07:10:08.000+08:00"
+          "resetAt": "2026-10-31T07:20:38.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T07:10:07.422+08:00",
+      "fetchedAt": "2026-10-24T07:20:37.761+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T07:10:07.431+08:00",
+      "fetchedAt": "2026-10-24T07:20:37.764+08:00",
       "error": null
     }
   }
