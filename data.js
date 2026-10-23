@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T20:10:10.156+08:00",
+  "updatedAt": "2026-10-23T20:20:09.882+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 19.4,
-    "humidity": 88,
-    "windKph": 11.4,
+    "tempC": 18.4,
+    "feelsLikeC": 19.6,
+    "humidity": 91,
+    "windKph": 8.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T20:10:10.156+08:00",
+    "observedAt": "2026-10-23T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T20:20:09.882+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "四川组合摘得亚残运会女子轮椅网球双打金牌",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719995.shtml",
-        "publishedAt": "2026-10-23T20:04:06.000+08:00"
+        "title": "中国成功发射遥感五十号03星",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720000.shtml",
+        "publishedAt": "2026-10-23T20:14:42.000+08:00"
       },
       {
-        "title": "广东科技贷款余额突破6.7万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719993.shtml",
-        "publishedAt": "2026-10-23T20:03:42.000+08:00"
+        "title": "中外艺术家走进新疆沙雅县开启采风创作之旅",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719999.shtml",
+        "publishedAt": "2026-10-23T20:14:10.000+08:00"
       },
       {
-        "title": "四川省红十字会紧急驰援西藏巴青7.0级地震灾区",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719994.shtml",
-        "publishedAt": "2026-10-23T20:02:38.000+08:00"
+        "title": "东北超2027赛季招商启动 多方力量赋能文体旅融合发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719998.shtml",
+        "publishedAt": "2026-10-23T20:14:04.000+08:00"
       },
       {
-        "title": "今年前9个月中国完整社区建设改造完成投资额336.1亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719992.shtml",
-        "publishedAt": "2026-10-23T20:02:04.000+08:00"
+        "title": "音乐带来的喜悦超过紧张——访国际钢琴比赛夺冠的中国少年江沛恒",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719997.shtml",
+        "publishedAt": "2026-10-23T20:13:58.000+08:00"
       },
       {
-        "title": "枝江长江大桥通车在即 终结10万岛民“以舟为路”历史",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719982.shtml",
-        "publishedAt": "2026-10-23T20:01:30.000+08:00"
+        "title": "诺奖得主马里奥·卡佩奇受聘江西省人民医院客座教授",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719996.shtml",
+        "publishedAt": "2026-10-23T20:13:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T20:10:04.880+08:00",
+    "fetchedAt": "2026-10-23T20:20:04.913+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T20:10:09.029+08:00",
+      "fetchedAt": "2026-10-23T20:20:08.813+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T20:10:09.283+08:00",
+      "fetchedAt": "2026-10-23T20:20:09.030+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T20:10:09.292+08:00",
+      "fetchedAt": "2026-10-23T20:20:09.038+08:00",
       "error": null
     }
   }
