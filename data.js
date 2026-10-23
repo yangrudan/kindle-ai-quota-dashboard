@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T21:40:09.318+08:00",
+  "updatedAt": "2026-10-23T21:50:09.958+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.7,
-    "feelsLikeC": 19.6,
-    "humidity": 92,
-    "windKph": 12.1,
+    "tempC": 18.6,
+    "feelsLikeC": 19.3,
+    "humidity": 93,
+    "windKph": 13.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T21:40:09.318+08:00",
+    "observedAt": "2026-10-23T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-23T21:50:09.958+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第一观察｜党和人民军队铿锵前进的制胜之道",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720023.shtml",
+        "publishedAt": "2026-10-23T21:35:49.000+08:00"
+      },
       {
         "title": "东航云南冬航季加密13个国际站点航线 畅通南亚东南亚空中往来",
         "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720076.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广西深化与东盟友城交往 促民心相通务实合作",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-23/10720067.shtml",
         "publishedAt": "2026-10-23T21:29:22.000+08:00"
-      },
-      {
-        "title": "第十四届国际安全研究论坛在厦门举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720066.shtml",
-        "publishedAt": "2026-10-23T21:28:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T21:40:03.612+08:00",
+    "fetchedAt": "2026-10-23T21:50:04.354+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T21:40:08.204+08:00",
+      "fetchedAt": "2026-10-23T21:50:08.862+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-10-24T00:29:20.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T21:40:08.393+08:00",
+      "fetchedAt": "2026-10-23T21:50:09.133+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T21:40:08.399+08:00",
+      "fetchedAt": "2026-10-23T21:50:09.139+08:00",
       "error": null
     }
   }
