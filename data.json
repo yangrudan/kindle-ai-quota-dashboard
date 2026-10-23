@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T23:10:07.990+08:00",
+  "updatedAt": "2026-10-23T23:20:09.931+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
     "tempC": 18.3,
-    "feelsLikeC": 18.9,
+    "feelsLikeC": 18.8,
     "humidity": 96,
-    "windKph": 14.5,
+    "windKph": 14.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T23:10:07.991+08:00",
+    "observedAt": "2026-10-23T23:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T23:20:09.931+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青海乡镇卫生院次均门诊费降至58.9元",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720133.shtml",
-        "publishedAt": "2026-10-23T22:58:19.000+08:00"
+        "title": "全国“十佳环卫人”高茹：32年环卫路，一叶见初心",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720142.shtml",
+        "publishedAt": "2026-10-23T23:17:16.000+08:00"
       },
       {
-        "title": "优化产业、能源、交通结构 浙江何以打造更高水平生态省？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720132.shtml",
-        "publishedAt": "2026-10-23T22:57:31.000+08:00"
+        "title": "2026年粤港澳大湾区妇女融合协同发展活动在东莞举行",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720137.shtml",
+        "publishedAt": "2026-10-23T23:10:44.000+08:00"
       },
       {
-        "title": "前9个月云南出口咖啡及其制品4.9亿元 居全国首位",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720131.shtml",
-        "publishedAt": "2026-10-23T22:55:53.000+08:00"
+        "title": "今年前三季度唐山港京唐港区保税物流中心（B型）进口贸易额居中国首位",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720136.shtml",
+        "publishedAt": "2026-10-23T23:09:54.000+08:00"
       },
       {
-        "title": "香港新界乡议局成立100周年 李家超寄语支持北都发展",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720130.shtml",
-        "publishedAt": "2026-10-23T22:53:27.000+08:00"
+        "title": "全国传统武术公开赛（八卦掌赛区）云南石林开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720135.shtml",
+        "publishedAt": "2026-10-23T23:08:56.000+08:00"
       },
       {
-        "title": "“百万英才汇南粤”秋季招聘活动走进河南",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720129.shtml",
-        "publishedAt": "2026-10-23T22:52:11.000+08:00"
+        "title": "广西“梧州制造”产品8小时直达香港",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720134.shtml",
+        "publishedAt": "2026-10-23T23:08:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T23:10:03.327+08:00",
+    "fetchedAt": "2026-10-23T23:20:04.578+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T23:10:06.572+08:00",
+      "fetchedAt": "2026-10-23T23:20:05.101+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T23:10:06.926+08:00",
+      "fetchedAt": "2026-10-23T23:20:08.410+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T23:10:06.930+08:00",
+      "fetchedAt": "2026-10-23T23:20:08.418+08:00",
       "error": null
     }
   }
