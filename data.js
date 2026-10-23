@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T23:40:08.702+08:00",
+  "updatedAt": "2026-10-23T23:50:38.729+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T23:40:08.702+08:00",
+    "observedAt": "2026-10-23T23:45:00.000+08:00",
+    "fetchedAt": "2026-10-23T23:50:38.730+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026两岸青年创新创业大赛决赛举行 共吸引近千人参赛",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720147.shtml",
-        "publishedAt": "2026-10-23T23:32:09.000+08:00"
+        "title": "上海举行女农人庆丰收活动 巾帼好物市集搬进田间",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720153.shtml",
+        "publishedAt": "2026-10-23T23:43:50.000+08:00"
       },
       {
-        "title": "泰国教育代表团访问广西 冀深化基础教育交流合作",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-23/10720146.shtml",
-        "publishedAt": "2026-10-23T23:30:53.000+08:00"
+        "title": "山海好物走进上海市民“菜篮子” 603家企业携特产亮相",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720154.shtml",
+        "publishedAt": "2026-10-23T23:43:44.000+08:00"
       },
       {
-        "title": "湖北宜昌：“电化长江” 从蓝图照进现实",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720145.shtml",
-        "publishedAt": "2026-10-23T23:30:03.000+08:00"
+        "title": "武汉经开区强化“内功” “车谷造”加速出海",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720152.shtml",
+        "publishedAt": "2026-10-23T23:41:22.000+08:00"
       },
       {
-        "title": "上海推动人工智能赋能工业服务业",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720144.shtml",
-        "publishedAt": "2026-10-23T23:24:43.000+08:00"
+        "title": "撂荒土地溢菊香 青海民和山村撑起“金”产业",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720151.shtml",
+        "publishedAt": "2026-10-23T23:39:51.000+08:00"
       },
       {
-        "title": "中英业内人士伦敦研讨医疗AI规模化应用",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720143.shtml",
-        "publishedAt": "2026-10-23T23:18:16.000+08:00"
+        "title": "秦汉考古研究新成果暨汉阳陵与汉文化学术研讨会举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10720150.shtml",
+        "publishedAt": "2026-10-23T23:36:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T23:40:03.235+08:00",
+    "fetchedAt": "2026-10-23T23:50:04.236+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T23:40:07.578+08:00",
+      "fetchedAt": "2026-10-23T23:50:37.720+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T23:40:07.849+08:00",
+      "fetchedAt": "2026-10-23T23:50:37.903+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T23:40:07.853+08:00",
+      "fetchedAt": "2026-10-23T23:50:37.911+08:00",
       "error": null
     }
   }
