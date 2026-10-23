@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T08:30:10.971+08:00",
+  "updatedAt": "2026-10-23T08:40:08.608+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T08:30:10.972+08:00",
+    "fetchedAt": "2026-10-23T08:40:08.608+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泰晤士南岸秋意浓 格林威治沐暖阳",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208587.shtml",
+        "publishedAt": "2026-10-23T08:38:19.000+08:00"
+      },
+      {
+        "title": "“送餐路上的故事”频频出圈，聚光灯下的小哥如何回归日常？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719483.shtml",
+        "publishedAt": "2026-10-23T08:33:40.000+08:00"
+      },
+      {
+        "title": "西藏那曲发生7.0级地震，自然资源部启动地质灾害防御Ⅲ‌级响应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719482.shtml",
+        "publishedAt": "2026-10-23T08:32:42.000+08:00"
+      },
       {
         "title": "原创纪录电影《象行记》今起登陆院线 讲述中国亚洲象保护故事",
         "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719481.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "部分企业在开展个人信息收集与应用服务中存在问题 专家建议治理转向前端管住采集源头",
         "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719479.shtml",
         "publishedAt": "2026-10-23T08:06:23.000+08:00"
-      },
-      {
-        "title": "CBA常规赛：北京首钢队战胜深圳马可波罗队",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208581.shtml",
-        "publishedAt": "2026-10-23T08:04:25.000+08:00"
-      },
-      {
-        "title": "配送重货、大件、爬楼订单，骑手有望多拿钱",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719476.shtml",
-        "publishedAt": "2026-10-23T07:54:48.000+08:00"
-      },
-      {
-        "title": "普京：俄美乌三方会谈目标是讨论俄乌安全保障",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719471.shtml",
-        "publishedAt": "2026-10-23T07:52:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T08:30:03.892+08:00",
+    "fetchedAt": "2026-10-23T08:40:03.221+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T08:30:09.790+08:00",
+      "fetchedAt": "2026-10-23T08:40:06.735+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-23T13:30:10.000+08:00"
+          "resetAt": "2026-10-23T13:40:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-30T08:30:10.000+08:00"
+          "resetAt": "2026-10-30T08:40:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T08:30:10.085+08:00",
+      "fetchedAt": "2026-10-23T08:40:06.931+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T08:30:10.092+08:00",
+      "fetchedAt": "2026-10-23T08:40:06.940+08:00",
       "error": null
     }
   }
