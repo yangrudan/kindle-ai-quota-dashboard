@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T19:00:10.011+08:00",
+  "updatedAt": "2026-10-23T19:10:38.267+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 11.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T19:00:10.012+08:00",
+    "observedAt": "2026-10-23T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-23T19:10:38.267+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "台风“蔷琵”逼近！江浙沪等地核心风雨影响时段到来，部分地区暴雨大暴雨来袭",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719932.shtml",
+        "publishedAt": "2026-10-23T19:01:57.000+08:00"
+      },
+      {
+        "title": "秋色上新！2026全国赏红叶地图发布 看哪一抹红最合你心意",
+        "url": "https://www.chinanews.com.cn/life/2026/10-23/10719931.shtml",
+        "publishedAt": "2026-10-23T18:59:16.000+08:00"
+      },
       {
         "title": "中国成功发射遥感五十号03星",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208658.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国法院完善“无袍法官”参审机制 建立案件数量熔断机制",
         "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719921.shtml",
         "publishedAt": "2026-10-23T18:53:38.000+08:00"
-      },
-      {
-        "title": "台青扎根广西横州为茉莉花香“说话” 让东方香气飘向国际",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719920.shtml",
-        "publishedAt": "2026-10-23T18:53:26.000+08:00"
-      },
-      {
-        "title": "两部门拨付5000万元支持西藏做好地震应急抢险救灾工作",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719922.shtml",
-        "publishedAt": "2026-10-23T18:52:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T19:00:04.373+08:00",
+    "fetchedAt": "2026-10-23T19:10:03.573+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T19:00:08.871+08:00",
+      "fetchedAt": "2026-10-23T19:10:36.947+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T19:00:09.158+08:00",
+      "fetchedAt": "2026-10-23T19:10:37.407+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T19:00:09.167+08:00",
+      "fetchedAt": "2026-10-23T19:10:37.417+08:00",
       "error": null
     }
   }
