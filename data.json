@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T01:00:08.801+08:00",
+  "updatedAt": "2026-10-24T01:10:08.967+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T01:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T01:00:08.801+08:00",
+    "fetchedAt": "2026-10-24T01:10:08.968+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "两名日本登山者在尼泊尔失联多日后遗体被发现",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720160.shtml",
+        "publishedAt": "2026-10-24T01:01:20.000+08:00"
+      },
       {
         "title": "以军总参谋长：已在所有战线进入最高戒备状态",
         "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720159.shtml",
@@ -38,14 +43,9 @@
         "title": "CBA常规赛：辽宁队迎来新赛季三连胜",
         "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720157.shtml",
         "publishedAt": "2026-10-23T23:45:14.000+08:00"
-      },
-      {
-        "title": "黄仁勋在哈萨克斯坦谈AI发展：能源与人才成关键词",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720155.shtml",
-        "publishedAt": "2026-10-23T23:44:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T01:00:03.614+08:00",
+    "fetchedAt": "2026-10-24T01:10:03.061+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T01:00:07.471+08:00",
+      "fetchedAt": "2026-10-24T01:10:07.647+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-24T06:00:08.000+08:00"
+          "resetAt": "2026-10-24T06:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T01:00:07.708+08:00",
+      "fetchedAt": "2026-10-24T01:10:07.905+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T01:00:07.724+08:00",
+      "fetchedAt": "2026-10-24T01:10:07.914+08:00",
       "error": null
     }
   }
