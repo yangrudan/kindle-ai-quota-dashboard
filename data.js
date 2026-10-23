@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T23:30:09.713+08:00",
+  "updatedAt": "2026-10-23T23:40:08.702+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T23:30:09.713+08:00",
+    "fetchedAt": "2026-10-23T23:40:08.702+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026两岸青年创新创业大赛决赛举行 共吸引近千人参赛",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720147.shtml",
+        "publishedAt": "2026-10-23T23:32:09.000+08:00"
+      },
+      {
+        "title": "泰国教育代表团访问广西 冀深化基础教育交流合作",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-23/10720146.shtml",
+        "publishedAt": "2026-10-23T23:30:53.000+08:00"
+      },
+      {
+        "title": "湖北宜昌：“电化长江” 从蓝图照进现实",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720145.shtml",
+        "publishedAt": "2026-10-23T23:30:03.000+08:00"
+      },
+      {
+        "title": "上海推动人工智能赋能工业服务业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720144.shtml",
+        "publishedAt": "2026-10-23T23:24:43.000+08:00"
+      },
+      {
         "title": "中英业内人士伦敦研讨医疗AI规模化应用",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720143.shtml",
         "publishedAt": "2026-10-23T23:18:16.000+08:00"
-      },
-      {
-        "title": "全国“十佳环卫人”高茹：32年环卫路，一叶见初心",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720142.shtml",
-        "publishedAt": "2026-10-23T23:17:16.000+08:00"
-      },
-      {
-        "title": "2026年粤港澳大湾区妇女融合协同发展活动在东莞举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720137.shtml",
-        "publishedAt": "2026-10-23T23:10:44.000+08:00"
-      },
-      {
-        "title": "今年前三季度唐山港京唐港区保税物流中心（B型）进口贸易额居中国首位",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720136.shtml",
-        "publishedAt": "2026-10-23T23:09:54.000+08:00"
-      },
-      {
-        "title": "全国传统武术公开赛（八卦掌赛区）云南石林开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720135.shtml",
-        "publishedAt": "2026-10-23T23:08:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T23:30:04.583+08:00",
+    "fetchedAt": "2026-10-23T23:40:03.235+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T23:30:08.541+08:00",
+      "fetchedAt": "2026-10-23T23:40:07.578+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T23:30:08.874+08:00",
+      "fetchedAt": "2026-10-23T23:40:07.849+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T23:30:08.884+08:00",
+      "fetchedAt": "2026-10-23T23:40:07.853+08:00",
       "error": null
     }
   }
