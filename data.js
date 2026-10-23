@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T08:20:08.589+08:00",
+  "updatedAt": "2026-10-23T08:30:10.971+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.7,
-    "feelsLikeC": 17.5,
-    "humidity": 76,
+    "tempC": 18.2,
+    "feelsLikeC": 18.1,
+    "humidity": 75,
     "windKph": 8.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T08:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T08:20:08.590+08:00",
+    "observedAt": "2026-10-23T08:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T08:30:10.972+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "原创纪录电影《象行记》今起登陆院线 讲述中国亚洲象保护故事",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719481.shtml",
+        "publishedAt": "2026-10-23T08:22:28.000+08:00"
+      },
       {
         "title": "部分企业在开展个人信息收集与应用服务中存在问题 专家建议治理转向前端管住采集源头",
         "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719479.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "普京：俄美乌三方会谈目标是讨论俄乌安全保障",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719471.shtml",
         "publishedAt": "2026-10-23T07:52:44.000+08:00"
-      },
-      {
-        "title": "美国30年期贷款利率降至7.32% 8月以来首次出现下降",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719470.shtml",
-        "publishedAt": "2026-10-23T07:51:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T08:20:03.976+08:00",
+    "fetchedAt": "2026-10-23T08:30:03.892+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T08:20:07.395+08:00",
+      "fetchedAt": "2026-10-23T08:30:09.790+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-23T13:20:08.000+08:00"
+          "resetAt": "2026-10-23T13:30:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-10-30T08:20:08.000+08:00"
+          "resetAt": "2026-10-30T08:30:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T08:20:07.671+08:00",
+      "fetchedAt": "2026-10-23T08:30:10.085+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T08:20:07.678+08:00",
+      "fetchedAt": "2026-10-23T08:30:10.092+08:00",
       "error": null
     }
   }
