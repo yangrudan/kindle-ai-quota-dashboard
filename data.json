@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T13:10:13.618+08:00",
+  "updatedAt": "2026-10-23T13:20:09.678+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
-    "iconKey": "rain",
-    "tempC": 20.4,
-    "feelsLikeC": 21.3,
-    "humidity": 81,
-    "windKph": 10.6,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 20.5,
+    "feelsLikeC": 21.2,
+    "humidity": 80,
+    "windKph": 11.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T13:10:13.618+08:00",
+    "observedAt": "2026-10-23T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T13:20:09.678+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国足协：女足主帅米利西奇离任",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719630.shtml",
-        "publishedAt": "2026-10-23T12:49:32.000+08:00"
+        "title": "U17女足世界杯：中国队两连胜提前晋级16强",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719643.shtml",
+        "publishedAt": "2026-10-23T13:16:50.000+08:00"
       },
       {
-        "title": "台风“蔷琵”已致台湾1人死亡 94人受伤",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719631.shtml",
-        "publishedAt": "2026-10-23T12:49:30.000+08:00"
+        "title": "梵高名画《星月夜》是观察积累还是幻想？研究称灵感或来自7月天空",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719640.shtml",
+        "publishedAt": "2026-10-23T13:13:48.000+08:00"
       },
       {
-        "title": "台风“蔷琵”将给中国华东沿海带来持续风雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719629.shtml",
-        "publishedAt": "2026-10-23T12:48:18.000+08:00"
+        "title": "山东东营：唤醒“沉睡”资源 盐碱地变丰收田",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719616.shtml",
+        "publishedAt": "2026-10-23T13:12:11.000+08:00"
       },
       {
-        "title": "第一批救灾物资运抵西藏巴青县地震灾区",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719628.shtml",
-        "publishedAt": "2026-10-23T12:47:04.000+08:00"
+        "title": "“银发族”赶潮AI新课堂 解锁智慧晚年",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719633.shtml",
+        "publishedAt": "2026-10-23T13:11:07.000+08:00"
       },
       {
-        "title": "西藏巴青7.0级地震为拉张型破裂 中国地震局启动二级应急响应",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719626.shtml",
-        "publishedAt": "2026-10-23T12:44:36.000+08:00"
+        "title": "李乐成当选中共安徽省委书记",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719639.shtml",
+        "publishedAt": "2026-10-23T13:09:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T13:10:03.119+08:00",
+    "fetchedAt": "2026-10-23T13:20:03.779+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T13:10:07.788+08:00",
+      "fetchedAt": "2026-10-23T13:20:08.460+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T13:10:08.176+08:00",
+      "fetchedAt": "2026-10-23T13:20:08.759+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T13:10:08.188+08:00",
+      "fetchedAt": "2026-10-23T13:20:08.767+08:00",
       "error": null
     }
   }
