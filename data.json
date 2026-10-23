@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T10:20:08.501+08:00",
+  "updatedAt": "2026-10-23T10:30:09.404+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.4,
-    "feelsLikeC": 21.4,
-    "humidity": 65,
-    "windKph": 12,
+    "tempC": 21.9,
+    "feelsLikeC": 21.8,
+    "humidity": 63,
+    "windKph": 12.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T10:20:08.501+08:00",
+    "observedAt": "2026-10-23T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T10:30:09.404+08:00",
     "error": null
   },
   "news": {
@@ -21,31 +21,31 @@
     "items": [
       {
         "title": "六部门出台意见 推进老旧街区厂区改造提升",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719559.shtml",
-        "publishedAt": "2026-10-23T10:11:44.000+08:00"
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719565.shtml",
+        "publishedAt": "2026-10-23T10:22:30.000+08:00"
       },
       {
-        "title": "逾160家企业秋招进广州校园 线下招聘直播带岗同步发力",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719551.shtml",
-        "publishedAt": "2026-10-23T10:09:58.000+08:00"
+        "title": "青藏铁路因西藏巴青县7.0级地震紧急扣停列车 封锁区间全面巡检",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719561.shtml",
+        "publishedAt": "2026-10-23T10:20:30.000+08:00"
       },
       {
-        "title": "15件曾亮相伦敦中国艺术国际展览会的珍品在港展出",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719544.shtml",
-        "publishedAt": "2026-10-23T10:08:58.000+08:00"
+        "title": "海南省文联主席：南繁的故事，是一座“文艺富矿”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719563.shtml",
+        "publishedAt": "2026-10-23T10:19:54.000+08:00"
       },
       {
-        "title": "不吃主食，能消除“碳水脸”？丨中新真探",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719518.shtml",
-        "publishedAt": "2026-10-23T10:06:56.000+08:00"
+        "title": "批量包装“完美恋人”诱导打赏 婚恋型诈骗团伙63人获刑",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-23/10719566.shtml",
+        "publishedAt": "2026-10-23T10:19:24.000+08:00"
       },
       {
-        "title": "毛乌素沙地边的小村庄实现“牧粮双丰”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719555.shtml",
-        "publishedAt": "2026-10-23T10:05:01.000+08:00"
+        "title": "纪念红军长征胜利90周年情景叙事演出《长征之路》在穗上演",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719556.shtml",
+        "publishedAt": "2026-10-23T10:19:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T10:20:03.095+08:00",
+    "fetchedAt": "2026-10-23T10:30:03.319+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T10:20:07.203+08:00",
+      "fetchedAt": "2026-10-23T10:30:07.907+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T10:20:07.574+08:00",
+      "fetchedAt": "2026-10-23T10:30:08.258+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T10:20:07.584+08:00",
+      "fetchedAt": "2026-10-23T10:30:08.267+08:00",
       "error": null
     }
   }
