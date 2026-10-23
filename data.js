@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T09:10:09.136+08:00",
+  "updatedAt": "2026-10-23T09:20:14.279+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.3,
-    "feelsLikeC": 19.2,
-    "humidity": 72,
-    "windKph": 9.4,
+    "tempC": 19.7,
+    "feelsLikeC": 19.6,
+    "humidity": 70,
+    "windKph": 9.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T09:10:09.136+08:00",
+    "observedAt": "2026-10-23T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T09:20:14.279+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "直播：西藏巴青“7.0”级地震 救援全力进行中",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-23/10719509.shtml",
+        "publishedAt": "2026-10-23T09:13:23.000+08:00"
+      },
+      {
+        "title": "濠江海河情相牵 津澳青年话同心｜澳门大学访津交流团参访侧记",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719489.shtml",
+        "publishedAt": "2026-10-23T09:10:24.000+08:00"
+      },
+      {
+        "title": "习近平对西藏那曲市巴青县7.0级地震作出重要指示",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719503.shtml",
+        "publishedAt": "2026-10-23T09:07:58.000+08:00"
+      },
+      {
+        "title": "援柬埔寨中国医疗队为当地民众带来健康福祉",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208601.shtml",
+        "publishedAt": "2026-10-23T09:05:19.000+08:00"
+      },
+      {
         "title": "【诗画中国】画里赏金秋 诗中庆丰年",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208592.shtml",
         "publishedAt": "2026-10-23T09:03:58.000+08:00"
-      },
-      {
-        "title": "九三学社沈阳市委会开展纪念长征胜利90周年学习教育活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719488.shtml",
-        "publishedAt": "2026-10-23T09:01:16.000+08:00"
-      },
-      {
-        "title": "我国东南沿海将迎强降雨 北方多地气温起伏大",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719502.shtml",
-        "publishedAt": "2026-10-23T09:01:08.000+08:00"
-      },
-      {
-        "title": "（寻味中华｜节令）霜降红柿压枝头 藏尽霜华白菜甜",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719495.shtml",
-        "publishedAt": "2026-10-23T08:56:12.000+08:00"
-      },
-      {
-        "title": "西藏那曲巴青7.0级地震已造成16人遇难46人受伤",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719493.shtml",
-        "publishedAt": "2026-10-23T08:51:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T09:10:03.539+08:00",
+    "fetchedAt": "2026-10-23T09:20:03.965+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T09:10:07.549+08:00",
+      "fetchedAt": "2026-10-23T09:20:12.600+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 3,
           "resetAt": "2026-10-23T14:08:10.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T09:10:07.887+08:00",
+      "fetchedAt": "2026-10-23T09:20:12.842+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T09:10:07.898+08:00",
+      "fetchedAt": "2026-10-23T09:20:12.864+08:00",
       "error": null
     }
   }
