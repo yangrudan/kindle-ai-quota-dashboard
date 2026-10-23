@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T19:20:09.303+08:00",
+  "updatedAt": "2026-10-23T19:30:10.404+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 19.6,
-    "humidity": 86,
-    "windKph": 11.7,
+    "tempC": 18.9,
+    "feelsLikeC": 19.5,
+    "humidity": 87,
+    "windKph": 11.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T19:20:09.304+08:00",
+    "observedAt": "2026-10-23T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T19:30:10.404+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "台风“蔷琵”逼近！江浙沪等地核心风雨影响时段到来，部分地区暴雨大暴雨来袭",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719932.shtml",
-        "publishedAt": "2026-10-23T19:01:57.000+08:00"
+        "title": "国家安全生产应急救援队伍参与西藏巴青7.0级地震抗震救灾工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719965.shtml",
+        "publishedAt": "2026-10-23T19:26:06.000+08:00"
       },
       {
-        "title": "秋色上新！2026全国赏红叶地图发布 看哪一抹红最合你心意",
-        "url": "https://www.chinanews.com.cn/life/2026/10-23/10719931.shtml",
-        "publishedAt": "2026-10-23T18:59:16.000+08:00"
+        "title": "在博物馆对话长城本体 中国长城博物馆焕新亮相",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719964.shtml",
+        "publishedAt": "2026-10-23T19:25:56.000+08:00"
       },
       {
-        "title": "中国成功发射遥感五十号03星",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208658.shtml",
-        "publishedAt": "2026-10-23T18:55:56.000+08:00"
+        "title": "京港洽谈会拟11月在北京举行 增设“京港之夜”交流活动",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719963.shtml",
+        "publishedAt": "2026-10-23T19:25:50.000+08:00"
       },
       {
-        "title": "2026中非民营经济合作论坛在北京举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719927.shtml",
-        "publishedAt": "2026-10-23T18:54:22.000+08:00"
+        "title": "习近平向2026全球治理论坛（雄安）致信",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719951.shtml",
+        "publishedAt": "2026-10-23T19:25:24.000+08:00"
       },
       {
-        "title": "中国法院完善“无袍法官”参审机制 建立案件数量熔断机制",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719921.shtml",
-        "publishedAt": "2026-10-23T18:53:38.000+08:00"
+        "title": "“统战＋电商” 沧州肃宁“云享汇”助力县域经济发展",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719962.shtml",
+        "publishedAt": "2026-10-23T19:24:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T19:20:04.211+08:00",
+    "fetchedAt": "2026-10-23T19:30:04.133+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T19:20:07.970+08:00",
+      "fetchedAt": "2026-10-23T19:30:09.271+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 100,
-          "resetAt": "2026-10-23T19:20:10.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-10-24T00:29:20.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 31,
+          "usedPct": 32,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T19:20:08.302+08:00",
+      "fetchedAt": "2026-10-23T19:30:09.575+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T19:20:08.311+08:00",
+      "fetchedAt": "2026-10-23T19:30:09.579+08:00",
       "error": null
     }
   }
