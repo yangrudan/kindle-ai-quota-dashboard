@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T09:20:14.279+08:00",
+  "updatedAt": "2026-10-23T09:30:09.950+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.7,
-    "feelsLikeC": 19.6,
-    "humidity": 70,
-    "windKph": 9.9,
+    "tempC": 20.2,
+    "feelsLikeC": 20,
+    "humidity": 69,
+    "windKph": 10.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T09:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T09:20:14.279+08:00",
+    "observedAt": "2026-10-23T09:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T09:30:09.950+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "台商台企代表探访广西最大侨乡玉林",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208606.shtml",
+        "publishedAt": "2026-10-23T09:19:11.000+08:00"
+      },
+      {
+        "title": "西藏巴青7.0级地震 国家地震灾害应急响应提升至三级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719507.shtml",
+        "publishedAt": "2026-10-23T09:17:01.000+08:00"
+      },
+      {
+        "title": "荒唐一幕：年轻人谎报120，现场对急救人员比耶……生命通道，容不得半点儿戏",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719512.shtml",
+        "publishedAt": "2026-10-23T09:16:11.000+08:00"
+      },
+      {
+        "title": "网传家电国补正在退场是假的！“双十一”将至 谁在制造抢购焦虑？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719511.shtml",
+        "publishedAt": "2026-10-23T09:16:11.000+08:00"
+      },
+      {
         "title": "直播：西藏巴青“7.0”级地震 救援全力进行中",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-23/10719509.shtml",
         "publishedAt": "2026-10-23T09:13:23.000+08:00"
-      },
-      {
-        "title": "濠江海河情相牵 津澳青年话同心｜澳门大学访津交流团参访侧记",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719489.shtml",
-        "publishedAt": "2026-10-23T09:10:24.000+08:00"
-      },
-      {
-        "title": "习近平对西藏那曲市巴青县7.0级地震作出重要指示",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719503.shtml",
-        "publishedAt": "2026-10-23T09:07:58.000+08:00"
-      },
-      {
-        "title": "援柬埔寨中国医疗队为当地民众带来健康福祉",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208601.shtml",
-        "publishedAt": "2026-10-23T09:05:19.000+08:00"
-      },
-      {
-        "title": "【诗画中国】画里赏金秋 诗中庆丰年",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208592.shtml",
-        "publishedAt": "2026-10-23T09:03:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T09:20:03.965+08:00",
+    "fetchedAt": "2026-10-23T09:30:04.274+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T09:20:12.600+08:00",
+      "fetchedAt": "2026-10-23T09:30:08.795+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 9,
           "resetAt": "2026-10-23T14:08:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T09:20:12.842+08:00",
+      "fetchedAt": "2026-10-23T09:30:09.042+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T09:20:12.864+08:00",
+      "fetchedAt": "2026-10-23T09:30:09.052+08:00",
       "error": null
     }
   }
