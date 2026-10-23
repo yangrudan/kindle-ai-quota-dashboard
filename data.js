@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T13:40:38.014+08:00",
+  "updatedAt": "2026-10-23T13:50:08.573+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.6,
-    "feelsLikeC": 21.2,
-    "humidity": 78,
-    "windKph": 11.9,
+    "tempC": 20.7,
+    "feelsLikeC": 21,
+    "humidity": 76,
+    "windKph": 12.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T13:40:38.014+08:00",
+    "observedAt": "2026-10-23T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-23T13:50:08.573+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "韩国首尔市长二审被判无罪",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719668.shtml",
-        "publishedAt": "2026-10-23T13:38:15.000+08:00"
+        "title": "在前滩，从远道而来到安心安家",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719675.shtml",
+        "publishedAt": "2026-10-23T13:48:15.000+08:00"
       },
       {
-        "title": "广州商业从“拼招商”到“拼运营”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719667.shtml",
-        "publishedAt": "2026-10-23T13:36:53.000+08:00"
+        "title": "桂林海关2026年11月份“关领导接待日”公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-23/10719677.shtml",
+        "publishedAt": "2026-10-23T13:47:47.000+08:00"
       },
       {
-        "title": "波兰总理访问印度 双方同意深化防务等领域合作",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719661.shtml",
-        "publishedAt": "2026-10-23T13:36:27.000+08:00"
+        "title": "三大推力助东盟连续5个月成为上海第一大贸易伙伴",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-23/10719635.shtml",
+        "publishedAt": "2026-10-23T13:46:57.000+08:00"
       },
       {
-        "title": "柳州海关2026年11月“关领导接待日”公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-23/10719663.shtml",
-        "publishedAt": "2026-10-23T13:33:39.000+08:00"
+        "title": "中国（云南）—泰国环境政策对话与技术共享交流活动周在滇举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-23/10719676.shtml",
+        "publishedAt": "2026-10-23T13:45:37.000+08:00"
       },
       {
-        "title": "应对台风“蔷琵” 浙江提升防台风应急响应至Ⅲ级",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719645.shtml",
-        "publishedAt": "2026-10-23T13:30:08.000+08:00"
+        "title": "新疆兵团沙棘主产区迎来采摘旺季",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719662.shtml",
+        "publishedAt": "2026-10-23T13:44:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T13:40:03.533+08:00",
+    "fetchedAt": "2026-10-23T13:50:03.099+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T13:40:36.946+08:00",
+      "fetchedAt": "2026-10-23T13:50:07.531+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 97,
+          "usedPct": 99,
           "resetAt": "2026-10-23T14:08:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 15,
+          "usedPct": 16,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T13:40:37.168+08:00",
+      "fetchedAt": "2026-10-23T13:50:07.718+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T13:40:37.177+08:00",
+      "fetchedAt": "2026-10-23T13:50:07.728+08:00",
       "error": null
     }
   }
