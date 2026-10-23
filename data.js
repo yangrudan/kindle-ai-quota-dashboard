@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T14:50:38.232+08:00",
+  "updatedAt": "2026-10-23T15:00:08.881+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T14:50:38.232+08:00",
+    "fetchedAt": "2026-10-23T15:00:08.881+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "住在老家的爸妈看病难 “千里外的孝心”怎么实现？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719726.shtml",
+        "publishedAt": "2026-10-23T14:55:45.000+08:00"
+      },
+      {
+        "title": "贵州法院：全面加强长征文化遗产司法保护",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719716.shtml",
+        "publishedAt": "2026-10-23T14:54:37.000+08:00"
+      },
+      {
+        "title": "西藏那曲巴青县发生7.0级地震 水利部迅即启动水利抗震救灾调度指挥机制",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719717.shtml",
+        "publishedAt": "2026-10-23T14:52:29.000+08:00"
+      },
+      {
+        "title": "商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719719.shtml",
+        "publishedAt": "2026-10-23T14:49:21.000+08:00"
+      },
+      {
         "title": "前三季度大连市地区生产总值7726.7亿元 同比增长5.3%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719673.shtml",
         "publishedAt": "2026-10-23T14:41:40.000+08:00"
-      },
-      {
-        "title": "伊议员说伊朗已要求中东国家停止支持美国",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719713.shtml",
-        "publishedAt": "2026-10-23T14:40:58.000+08:00"
-      },
-      {
-        "title": "广交会第二期开幕 逾万家企业打造全球家居采购对接平台",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719688.shtml",
-        "publishedAt": "2026-10-23T14:39:58.000+08:00"
-      },
-      {
-        "title": "税收数据显示：前三季度中国经济持续向新向优",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719674.shtml",
-        "publishedAt": "2026-10-23T14:39:50.000+08:00"
-      },
-      {
-        "title": "青科会“脑”力全开 瓯江实验室“智”取脑科学高地",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-23/10719672.shtml",
-        "publishedAt": "2026-10-23T14:38:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T14:50:03.225+08:00",
+    "fetchedAt": "2026-10-23T15:00:02.992+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T14:50:37.067+08:00",
+      "fetchedAt": "2026-10-23T15:00:07.247+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 23,
           "resetAt": "2026-10-23T19:20:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 18,
+          "usedPct": 19,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T14:50:37.387+08:00",
+      "fetchedAt": "2026-10-23T15:00:07.511+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T14:50:37.390+08:00",
+      "fetchedAt": "2026-10-23T15:00:07.514+08:00",
       "error": null
     }
   }
