@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T21:10:09.790+08:00",
+  "updatedAt": "2026-10-23T21:20:08.877+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
+    "description": "雨",
+    "iconKey": "rain",
     "tempC": 18.8,
-    "feelsLikeC": 19.9,
+    "feelsLikeC": 19.8,
     "humidity": 91,
-    "windKph": 9.4,
+    "windKph": 10.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T21:10:09.790+08:00",
+    "observedAt": "2026-10-23T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T21:20:08.878+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "35位中外学子在成都体验薛涛笺制作技艺 感受巴蜀文化魅力",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10720035.shtml",
-        "publishedAt": "2026-10-23T21:07:11.000+08:00"
+        "title": "青海与阿拉木图动物园推进跨国雪豹保护",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720057.shtml",
+        "publishedAt": "2026-10-23T21:18:40.000+08:00"
       },
       {
-        "title": "2026年青海省“国际雪豹日”主场活动举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10720036.shtml",
-        "publishedAt": "2026-10-23T21:04:19.000+08:00"
+        "title": "山西汾阳杏花村遗址首次确认约6000至5500年前酿酒残留物",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10720056.shtml",
+        "publishedAt": "2026-10-23T21:18:38.000+08:00"
       },
       {
-        "title": "2026年全国公安机关警务实战教官技能比武圆满结束",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720047.shtml",
-        "publishedAt": "2026-10-23T21:04:17.000+08:00"
+        "title": "1-9月中国发行新增专项债券35608亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720055.shtml",
+        "publishedAt": "2026-10-23T21:18:34.000+08:00"
       },
       {
-        "title": "2026中国壁球公开赛将开赛 48名国际职业球员参赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720046.shtml",
-        "publishedAt": "2026-10-23T21:03:51.000+08:00"
+        "title": "10月23日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-23/10720064.shtml",
+        "publishedAt": "2026-10-23T21:17:44.000+08:00"
       },
       {
-        "title": "粤港澳游艇自由行场景拓展对接交流会在珠海举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720045.shtml",
-        "publishedAt": "2026-10-23T21:03:47.000+08:00"
+        "title": "澳门“政府引导基金”正式运作 首期规模200亿澳门元",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720054.shtml",
+        "publishedAt": "2026-10-23T21:17:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T21:10:03.549+08:00",
+    "fetchedAt": "2026-10-23T21:20:03.465+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T21:10:08.345+08:00",
+      "fetchedAt": "2026-10-23T21:20:07.802+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-10-24T00:29:20.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T21:10:08.766+08:00",
+      "fetchedAt": "2026-10-23T21:20:08.012+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T21:10:08.771+08:00",
+      "fetchedAt": "2026-10-23T21:20:08.016+08:00",
       "error": null
     }
   }
