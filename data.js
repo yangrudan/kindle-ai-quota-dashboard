@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T12:10:37.952+08:00",
+  "updatedAt": "2026-10-23T12:20:08.009+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 20.9,
-    "feelsLikeC": 21.3,
-    "humidity": 76,
-    "windKph": 12.5,
+    "tempC": 20.7,
+    "feelsLikeC": 21.2,
+    "humidity": 78,
+    "windKph": 12,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T12:10:37.952+08:00",
+    "observedAt": "2026-10-23T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T12:20:08.009+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "首批18只主动ETF今日发售",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719622.shtml",
+        "publishedAt": "2026-10-23T12:07:20.000+08:00"
+      },
       {
         "title": "两部门拨付5000万元中央自然灾害救灾资金支持西藏抢险救灾",
         "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719621.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "市委统战部系统离退休干部纪念中国工农红军长征胜利90周年主题活动举办",
         "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719609.shtml",
         "publishedAt": "2026-10-23T11:38:10.000+08:00"
-      },
-      {
-        "title": "“寻迹黄埔·情牵陕台”——两岸共话黄埔史主题交流活动成功举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719612.shtml",
-        "publishedAt": "2026-10-23T11:35:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T12:10:03.104+08:00",
+    "fetchedAt": "2026-10-23T12:20:03.172+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T12:10:36.609+08:00",
+      "fetchedAt": "2026-10-23T12:20:06.787+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 63,
+          "usedPct": 69,
           "resetAt": "2026-10-23T14:08:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 10,
+          "usedPct": 11,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T12:10:36.887+08:00",
+      "fetchedAt": "2026-10-23T12:20:07.124+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T12:10:36.896+08:00",
+      "fetchedAt": "2026-10-23T12:20:07.133+08:00",
       "error": null
     }
   }
