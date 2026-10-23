@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T12:20:08.009+08:00",
+  "updatedAt": "2026-10-23T12:30:09.739+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 20.7,
-    "feelsLikeC": 21.2,
-    "humidity": 78,
-    "windKph": 12,
+    "tempC": 20.5,
+    "feelsLikeC": 21.3,
+    "humidity": 80,
+    "windKph": 11.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T12:20:08.009+08:00",
+    "observedAt": "2026-10-23T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T12:30:09.740+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家发展改革委紧急安排3000万元中央预算内投资支持西藏巴青7.0级地震灾害灾后应急恢复",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719625.shtml",
+        "publishedAt": "2026-10-23T12:25:17.000+08:00"
+      },
+      {
+        "title": "前三季度中国造船三大指标全面增长 国际市场份额保持全球领先",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719624.shtml",
+        "publishedAt": "2026-10-23T12:21:59.000+08:00"
+      },
+      {
+        "title": "东西问丨甘蓬：亚太媒体如何在多元文明中增进互信？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-23/10719623.shtml",
+        "publishedAt": "2026-10-23T12:19:33.000+08:00"
+      },
       {
         "title": "首批18只主动ETF今日发售",
         "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719622.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "两部门拨付5000万元中央自然灾害救灾资金支持西藏抢险救灾",
         "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719621.shtml",
         "publishedAt": "2026-10-23T11:54:25.000+08:00"
-      },
-      {
-        "title": "A股午评：超4800只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719620.shtml",
-        "publishedAt": "2026-10-23T11:45:27.000+08:00"
-      },
-      {
-        "title": "【长征在陇原】手绘长卷｜北上“征”途",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719619.shtml",
-        "publishedAt": "2026-10-23T11:42:39.000+08:00"
-      },
-      {
-        "title": "市委统战部系统离退休干部纪念中国工农红军长征胜利90周年主题活动举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719609.shtml",
-        "publishedAt": "2026-10-23T11:38:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T12:20:03.172+08:00",
+    "fetchedAt": "2026-10-23T12:30:03.731+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T12:20:06.787+08:00",
+      "fetchedAt": "2026-10-23T12:30:08.491+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 69,
+          "usedPct": 77,
           "resetAt": "2026-10-23T14:08:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 11,
+          "usedPct": 12,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T12:20:07.124+08:00",
+      "fetchedAt": "2026-10-23T12:30:08.926+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T12:20:07.133+08:00",
+      "fetchedAt": "2026-10-23T12:30:08.934+08:00",
       "error": null
     }
   }
