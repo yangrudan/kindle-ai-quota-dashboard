@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T15:30:39.355+08:00",
+  "updatedAt": "2026-10-23T15:40:38.840+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T15:30:39.355+08:00",
+    "fetchedAt": "2026-10-23T15:40:38.840+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“长征的历史从未远去，长征精神就在我们身边”——访中国政府友谊奖获得者潘维廉",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719769.shtml",
+        "publishedAt": "2026-10-23T15:35:39.000+08:00"
+      },
+      {
+        "title": "中国驻韩国大使馆提醒：请来韩团体游客远离低价团消费陷阱",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719728.shtml",
+        "publishedAt": "2026-10-23T15:33:23.000+08:00"
+      },
+      {
+        "title": "西藏巴青余震叠加效应可能对已受损建筑造成进一步破坏",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719765.shtml",
+        "publishedAt": "2026-10-23T15:28:01.000+08:00"
+      },
       {
         "title": "天山南北一家亲",
         "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719764.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "外交部：中方坚定支持联合国在国际事务中发挥核心作用",
         "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719763.shtml",
         "publishedAt": "2026-10-23T15:26:41.000+08:00"
-      },
-      {
-        "title": "财政部在香港成功发行2026年第五期155亿元人民币国债",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719750.shtml",
-        "publishedAt": "2026-10-23T15:26:33.000+08:00"
-      },
-      {
-        "title": "日本结束第24轮核污染水排海 核污染水累计排放近19万吨",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719754.shtml",
-        "publishedAt": "2026-10-23T15:26:27.000+08:00"
-      },
-      {
-        "title": "新中国恢复联合国合法席位55周年 中方：将继续发挥负责任大国作用",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719762.shtml",
-        "publishedAt": "2026-10-23T15:26:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T15:30:03.895+08:00",
+    "fetchedAt": "2026-10-23T15:40:03.922+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T15:30:38.146+08:00",
+      "fetchedAt": "2026-10-23T15:40:37.435+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 49,
+          "usedPct": 50,
           "resetAt": "2026-10-23T19:20:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 23,
+          "usedPct": 24,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T15:30:38.447+08:00",
+      "fetchedAt": "2026-10-23T15:40:37.735+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T15:30:38.450+08:00",
+      "fetchedAt": "2026-10-23T15:40:37.743+08:00",
       "error": null
     }
   }
