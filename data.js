@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T22:00:09.672+08:00",
+  "updatedAt": "2026-10-23T22:10:37.918+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T22:00:09.672+08:00",
+    "fetchedAt": "2026-10-23T22:10:37.918+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（活力中国调研行）在海南打卡周总理同款咖啡 回味一杯香醇里的浓浓侨胞情",
-        "url": "https://www.chinanews.com.cn/kong/2026/10-23/10720087.shtml",
-        "publishedAt": "2026-10-23T21:51:26.000+08:00"
+        "title": "从一间驿站到一张网络：四川“枢纽型”工会筑起新就业群体的“家”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720093.shtml",
+        "publishedAt": "2026-10-23T22:06:57.000+08:00"
       },
       {
-        "title": "山东出台27条经济新政 加码数智经济与现代农业",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720086.shtml",
-        "publishedAt": "2026-10-23T21:50:48.000+08:00"
+        "title": "手握三张“王牌” 河南郑州上街区打造全国领先通航产业示范区",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720102.shtml",
+        "publishedAt": "2026-10-23T22:06:04.000+08:00"
       },
       {
-        "title": "2026全球开发者先锋大会暨国际具身智能技能大赛在沪开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720084.shtml",
-        "publishedAt": "2026-10-23T21:48:03.000+08:00"
+        "title": "福建永定：客家乡村如“金色海洋”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10720079.shtml",
+        "publishedAt": "2026-10-23T22:05:10.000+08:00"
       },
       {
-        "title": "在博物馆对话长城本体 中国长城博物馆焕新亮相",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208667.shtml",
-        "publishedAt": "2026-10-23T21:47:56.000+08:00"
+        "title": "新航季南宁机场航线基本覆盖东盟重点城市",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-23/10720101.shtml",
+        "publishedAt": "2026-10-23T22:04:26.000+08:00"
       },
       {
-        "title": "陕西：千余名青少年同台竞技 体教融合夯实田径后备人才根基",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720083.shtml",
-        "publishedAt": "2026-10-23T21:47:37.000+08:00"
+        "title": "河南老界岭霜降时节现绝美云海",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10720078.shtml",
+        "publishedAt": "2026-10-23T22:04:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T22:00:04.241+08:00",
+    "fetchedAt": "2026-10-23T22:10:02.953+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T22:00:08.488+08:00",
+      "fetchedAt": "2026-10-23T22:10:36.527+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T22:00:08.823+08:00",
+      "fetchedAt": "2026-10-23T22:10:36.857+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T22:00:08.829+08:00",
+      "fetchedAt": "2026-10-23T22:10:36.860+08:00",
       "error": null
     }
   }
