@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T15:00:08.881+08:00",
+  "updatedAt": "2026-10-23T15:10:10.082+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.2,
-    "feelsLikeC": 20.7,
+    "tempC": 20.1,
+    "feelsLikeC": 20.6,
     "humidity": 78,
-    "windKph": 11.2,
+    "windKph": 11.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T15:00:08.881+08:00",
+    "observedAt": "2026-10-23T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-23T15:10:10.082+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "国际人士积极评价中国经济“三季报”—— “中国经济发展韧性和活力持续彰显，为世界带来更多机遇”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719730.shtml",
+        "publishedAt": "2026-10-23T15:01:17.000+08:00"
+      },
+      {
+        "title": "哈尔滨儿童公园微缩仿古长城焕新颜",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719705.shtml",
+        "publishedAt": "2026-10-23T14:59:03.000+08:00"
+      },
+      {
+        "title": "斯诺克北爱尔兰公开赛：庞俊旭、张家玮止步 中国军团无缘八强",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719709.shtml",
+        "publishedAt": "2026-10-23T14:56:09.000+08:00"
+      },
+      {
         "title": "住在老家的爸妈看病难 “千里外的孝心”怎么实现？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719726.shtml",
         "publishedAt": "2026-10-23T14:55:45.000+08:00"
       },
       {
-        "title": "贵州法院：全面加强长征文化遗产司法保护",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719716.shtml",
-        "publishedAt": "2026-10-23T14:54:37.000+08:00"
-      },
-      {
-        "title": "西藏那曲巴青县发生7.0级地震 水利部迅即启动水利抗震救灾调度指挥机制",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719717.shtml",
-        "publishedAt": "2026-10-23T14:52:29.000+08:00"
-      },
-      {
-        "title": "商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719719.shtml",
-        "publishedAt": "2026-10-23T14:49:21.000+08:00"
-      },
-      {
-        "title": "前三季度大连市地区生产总值7726.7亿元 同比增长5.3%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719673.shtml",
-        "publishedAt": "2026-10-23T14:41:40.000+08:00"
+        "title": "中西部第一城易主！外贸版图上杀出的这匹“黑马”，藏着一个信号",
+        "url": "https://www.chinanews.com.cn/gsztc/2026/10-23/10719723.shtml",
+        "publishedAt": "2026-10-23T14:55:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T15:00:02.992+08:00",
+    "fetchedAt": "2026-10-23T15:10:03.042+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T15:00:07.247+08:00",
+      "fetchedAt": "2026-10-23T15:10:08.405+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 32,
           "resetAt": "2026-10-23T19:20:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 19,
+          "usedPct": 21,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T15:00:07.511+08:00",
+      "fetchedAt": "2026-10-23T15:10:08.860+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T15:00:07.514+08:00",
+      "fetchedAt": "2026-10-23T15:10:08.863+08:00",
       "error": null
     }
   }
