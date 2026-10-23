@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T15:40:38.840+08:00",
+  "updatedAt": "2026-10-23T15:50:08.756+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.1,
-    "feelsLikeC": 20.6,
-    "humidity": 79,
-    "windKph": 11,
+    "tempC": 20,
+    "feelsLikeC": 20.7,
+    "humidity": 80,
+    "windKph": 10.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T15:40:38.840+08:00",
+    "observedAt": "2026-10-23T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-23T15:50:08.757+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "德国总统施泰因迈尔将访华 中方介绍相关安排",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719759.shtml",
+        "publishedAt": "2026-10-23T15:44:58.000+08:00"
+      },
+      {
+        "title": "甘肃民勤治沙的“新打开方式”：全国志愿者奔赴大漠织绿网",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719755.shtml",
+        "publishedAt": "2026-10-23T15:43:56.000+08:00"
+      },
+      {
+        "title": "新华时评丨警惕日本正滑入“新的战前状态”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719771.shtml",
+        "publishedAt": "2026-10-23T15:41:20.000+08:00"
+      },
       {
         "title": "“长征的历史从未远去，长征精神就在我们身边”——访中国政府友谊奖获得者潘维廉",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719769.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国驻韩国大使馆提醒：请来韩团体游客远离低价团消费陷阱",
         "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719728.shtml",
         "publishedAt": "2026-10-23T15:33:23.000+08:00"
-      },
-      {
-        "title": "西藏巴青余震叠加效应可能对已受损建筑造成进一步破坏",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719765.shtml",
-        "publishedAt": "2026-10-23T15:28:01.000+08:00"
-      },
-      {
-        "title": "天山南北一家亲",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719764.shtml",
-        "publishedAt": "2026-10-23T15:27:25.000+08:00"
-      },
-      {
-        "title": "外交部：中方坚定支持联合国在国际事务中发挥核心作用",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719763.shtml",
-        "publishedAt": "2026-10-23T15:26:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T15:40:03.922+08:00",
+    "fetchedAt": "2026-10-23T15:50:04.005+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T15:40:37.435+08:00",
+      "fetchedAt": "2026-10-23T15:50:07.580+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 50,
+          "usedPct": 54,
           "resetAt": "2026-10-23T19:20:10.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T15:40:37.735+08:00",
+      "fetchedAt": "2026-10-23T15:50:07.881+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T15:40:37.743+08:00",
+      "fetchedAt": "2026-10-23T15:50:07.886+08:00",
       "error": null
     }
   }
