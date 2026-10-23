@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:30:38.392+08:00",
+  "updatedAt": "2026-10-23T18:40:38.322+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T18:30:38.393+08:00",
+    "fetchedAt": "2026-10-23T18:40:38.322+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国石化荆门分公司总经理郭绍强接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719890.shtml",
-        "publishedAt": "2026-10-23T18:23:14.000+08:00"
+        "title": "瑞士乐团探访海南非遗馆：阿尔卑斯长号“对话”黎族鼻箫",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719906.shtml",
+        "publishedAt": "2026-10-23T18:30:15.000+08:00"
       },
       {
-        "title": "广东省政协科教卫体委副主任黄远通接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719889.shtml",
-        "publishedAt": "2026-10-23T18:20:02.000+08:00"
+        "title": "中央网络安全和信息化委员会印发《国家信息化“十五五”规划》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719899.shtml",
+        "publishedAt": "2026-10-23T18:29:57.000+08:00"
       },
       {
-        "title": "2026全球治理论坛（雄安）开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719904.shtml",
-        "publishedAt": "2026-10-23T18:18:54.000+08:00"
+        "title": "中国石油天然气销售分公司原总经理钱治家接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719907.shtml",
+        "publishedAt": "2026-10-23T18:28:47.000+08:00"
       },
       {
-        "title": "河北省邯郸市人大常委会原副主任李书生接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719887.shtml",
-        "publishedAt": "2026-10-23T18:18:20.000+08:00"
+        "title": "中央组织部从代中央管理党费中划拨2500万元用于支持西藏抗震救灾工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719896.shtml",
+        "publishedAt": "2026-10-23T18:27:55.000+08:00"
       },
       {
-        "title": "全国滑冰U系列中学校际联赛（短道速滑）第二站开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719903.shtml",
-        "publishedAt": "2026-10-23T18:14:58.000+08:00"
+        "title": "原辽宁银保监局一级巡视员付明权接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719892.shtml",
+        "publishedAt": "2026-10-23T18:25:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T18:30:03.513+08:00",
+    "fetchedAt": "2026-10-23T18:40:03.270+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T18:30:37.089+08:00",
+      "fetchedAt": "2026-10-23T18:40:36.568+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T18:30:37.387+08:00",
+      "fetchedAt": "2026-10-23T18:40:36.841+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T18:30:37.393+08:00",
+      "fetchedAt": "2026-10-23T18:40:36.847+08:00",
       "error": null
     }
   }
