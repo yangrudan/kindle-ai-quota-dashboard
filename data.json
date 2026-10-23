@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T16:20:37.661+08:00",
+  "updatedAt": "2026-10-23T16:30:41.546+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.9,
-    "feelsLikeC": 20.5,
-    "humidity": 81,
-    "windKph": 10.7,
+    "tempC": 19.7,
+    "feelsLikeC": 20.3,
+    "humidity": 82,
+    "windKph": 11.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T16:20:37.661+08:00",
+    "observedAt": "2026-10-23T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T16:30:41.547+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "校企携手对接冰雪产业 聚力培育文旅应用型人才",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719789.shtml",
-        "publishedAt": "2026-10-23T16:18:24.000+08:00"
+        "title": "应急管理部提升国家自然灾害救助应急响应级别至三级",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719805.shtml",
+        "publishedAt": "2026-10-23T16:28:36.000+08:00"
       },
       {
-        "title": "7国16支青少年足球队在云南丽江同场竞技",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719788.shtml",
-        "publishedAt": "2026-10-23T16:16:12.000+08:00"
+        "title": "湖南省司法厅原党组成员、副厅长钟艺兵被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719798.shtml",
+        "publishedAt": "2026-10-23T16:26:46.000+08:00"
       },
       {
-        "title": "中俄青少年相聚长春 在传统文化体验中增进友谊",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719787.shtml",
-        "publishedAt": "2026-10-23T16:15:22.000+08:00"
+        "title": "日本民众集会反对高市政权扩军修宪，担忧战争风险上升",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719800.shtml",
+        "publishedAt": "2026-10-23T16:25:30.000+08:00"
       },
       {
-        "title": "湖北鄂州花湖机场跑出跨境生鲜保障“加速度”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719786.shtml",
-        "publishedAt": "2026-10-23T16:14:56.000+08:00"
+        "title": "炒米、树皮、皮带、辣椒……红军长征中吃过的这些食物，背后都有哪些故事？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719799.shtml",
+        "publishedAt": "2026-10-23T16:25:08.000+08:00"
       },
       {
-        "title": "AI说唱《过来人》在台引共鸣 大陆文化产品持续受关注",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719780.shtml",
-        "publishedAt": "2026-10-23T16:14:31.000+08:00"
+        "title": "电动自行车等三类产品CCC认证新规11月1日起实施",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719795.shtml",
+        "publishedAt": "2026-10-23T16:23:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T16:20:02.958+08:00",
+    "fetchedAt": "2026-10-23T16:30:04.165+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T16:20:36.446+08:00",
+      "fetchedAt": "2026-10-23T16:30:39.483+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
+          "usedPct": 66,
           "resetAt": "2026-10-23T19:20:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 25,
+          "usedPct": 26,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T16:20:36.795+08:00",
+      "fetchedAt": "2026-10-23T16:30:39.825+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T16:20:36.799+08:00",
+      "fetchedAt": "2026-10-23T16:30:39.854+08:00",
       "error": null
     }
   }
