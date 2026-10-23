@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T18:20:09.038+08:00",
+  "updatedAt": "2026-10-23T18:30:38.392+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 19,
     "feelsLikeC": 19.6,
     "humidity": 85,
-    "windKph": 11.4,
+    "windKph": 11.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-23T18:20:09.039+08:00",
+    "observedAt": "2026-10-23T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-23T18:30:38.393+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中国石化荆门分公司总经理郭绍强接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719890.shtml",
+        "publishedAt": "2026-10-23T18:23:14.000+08:00"
+      },
+      {
+        "title": "广东省政协科教卫体委副主任黄远通接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719889.shtml",
+        "publishedAt": "2026-10-23T18:20:02.000+08:00"
+      },
+      {
+        "title": "2026全球治理论坛（雄安）开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719904.shtml",
+        "publishedAt": "2026-10-23T18:18:54.000+08:00"
+      },
+      {
+        "title": "河北省邯郸市人大常委会原副主任李书生接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719887.shtml",
+        "publishedAt": "2026-10-23T18:18:20.000+08:00"
+      },
+      {
         "title": "全国滑冰U系列中学校际联赛（短道速滑）第二站开赛",
         "url": "https://www.chinanews.com.cn/ty/2026/10-23/10719903.shtml",
         "publishedAt": "2026-10-23T18:14:58.000+08:00"
-      },
-      {
-        "title": "广东着力打造一批高品质精品绿美点",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719902.shtml",
-        "publishedAt": "2026-10-23T18:14:36.000+08:00"
-      },
-      {
-        "title": "重庆办“都市定向赛”传播人体器官捐献理念",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719901.shtml",
-        "publishedAt": "2026-10-23T18:14:16.000+08:00"
-      },
-      {
-        "title": "西藏巴青7.0级地震高海拔救援有序推进 12489人得到妥善安置",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719893.shtml",
-        "publishedAt": "2026-10-23T18:10:12.000+08:00"
-      },
-      {
-        "title": "张家界国家森林公园今年接待境外游客已超100万人 同比增加四成",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719898.shtml",
-        "publishedAt": "2026-10-23T18:08:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T18:20:03.229+08:00",
+    "fetchedAt": "2026-10-23T18:30:03.513+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T18:20:07.921+08:00",
+      "fetchedAt": "2026-10-23T18:30:37.089+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T18:20:08.218+08:00",
+      "fetchedAt": "2026-10-23T18:30:37.387+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T18:20:08.227+08:00",
+      "fetchedAt": "2026-10-23T18:30:37.393+08:00",
       "error": null
     }
   }
