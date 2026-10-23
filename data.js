@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T11:50:08.055+08:00",
+  "updatedAt": "2026-10-23T12:00:07.964+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T11:50:08.055+08:00",
+    "fetchedAt": "2026-10-23T12:00:07.965+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "两部门拨付5000万元中央自然灾害救灾资金支持西藏抢险救灾",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719621.shtml",
+        "publishedAt": "2026-10-23T11:54:25.000+08:00"
+      },
+      {
+        "title": "A股午评：超4800只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719620.shtml",
+        "publishedAt": "2026-10-23T11:45:27.000+08:00"
+      },
       {
         "title": "【长征在陇原】手绘长卷｜北上“征”途",
         "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719619.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“寻迹黄埔·情牵陕台”——两岸共话黄埔史主题交流活动成功举办",
         "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719612.shtml",
         "publishedAt": "2026-10-23T11:35:14.000+08:00"
-      },
-      {
-        "title": "台湾光复致敬团登陆80周年纪念展今日开展",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719610.shtml",
-        "publishedAt": "2026-10-23T11:33:46.000+08:00"
-      },
-      {
-        "title": "陕西省开展党外院士专家国情考察暨无党派人士黄河流域专项民主监督调研",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719611.shtml",
-        "publishedAt": "2026-10-23T11:33:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T11:50:03.090+08:00",
+    "fetchedAt": "2026-10-23T12:00:03.130+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T11:50:06.765+08:00",
+      "fetchedAt": "2026-10-23T12:00:06.627+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 51,
+          "usedPct": 56,
           "resetAt": "2026-10-23T14:08:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T11:50:07.066+08:00",
+      "fetchedAt": "2026-10-23T12:00:06.959+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T11:50:07.069+08:00",
+      "fetchedAt": "2026-10-23T12:00:06.968+08:00",
       "error": null
     }
   }
