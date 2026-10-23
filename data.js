@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T22:10:37.918+08:00",
+  "updatedAt": "2026-10-23T22:20:09.657+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
+    "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 18.6,
-    "feelsLikeC": 19.1,
-    "humidity": 93,
-    "windKph": 14.4,
+    "tempC": 18.5,
+    "feelsLikeC": 19,
+    "humidity": 94,
+    "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T22:10:37.918+08:00",
+    "observedAt": "2026-10-23T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-23T22:20:09.657+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从一间驿站到一张网络：四川“枢纽型”工会筑起新就业群体的“家”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720093.shtml",
-        "publishedAt": "2026-10-23T22:06:57.000+08:00"
+        "title": "侨领华商齐聚东莞“侨兴南粤”拉美市场拓展专场",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-23/10720107.shtml",
+        "publishedAt": "2026-10-23T22:11:49.000+08:00"
       },
       {
-        "title": "手握三张“王牌” 河南郑州上街区打造全国领先通航产业示范区",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720102.shtml",
-        "publishedAt": "2026-10-23T22:06:04.000+08:00"
+        "title": "韩国国防部向朝鲜提议举行韩朝军方会谈",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720096.shtml",
+        "publishedAt": "2026-10-23T22:10:45.000+08:00"
       },
       {
-        "title": "福建永定：客家乡村如“金色海洋”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10720079.shtml",
-        "publishedAt": "2026-10-23T22:05:10.000+08:00"
+        "title": "2026中国社区发展协会年会在福州举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720105.shtml",
+        "publishedAt": "2026-10-23T22:09:13.000+08:00"
       },
       {
-        "title": "新航季南宁机场航线基本覆盖东盟重点城市",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-23/10720101.shtml",
-        "publishedAt": "2026-10-23T22:04:26.000+08:00"
+        "title": "香港教育大学正名十周年 培养逾5.2万名教育工作者及专业人才",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720104.shtml",
+        "publishedAt": "2026-10-23T22:08:59.000+08:00"
       },
       {
-        "title": "河南老界岭霜降时节现绝美云海",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10720078.shtml",
-        "publishedAt": "2026-10-23T22:04:22.000+08:00"
+        "title": "2026年中国滋补产业新质发展大会在广州举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720103.shtml",
+        "publishedAt": "2026-10-23T22:08:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T22:10:02.953+08:00",
+    "fetchedAt": "2026-10-23T22:20:03.637+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T22:10:36.527+08:00",
+      "fetchedAt": "2026-10-23T22:20:08.453+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T22:10:36.857+08:00",
+      "fetchedAt": "2026-10-23T22:20:08.773+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T22:10:36.860+08:00",
+      "fetchedAt": "2026-10-23T22:20:08.776+08:00",
       "error": null
     }
   }
