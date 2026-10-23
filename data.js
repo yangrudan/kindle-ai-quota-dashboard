@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T19:50:09.732+08:00",
+  "updatedAt": "2026-10-23T20:00:09.488+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T19:50:09.732+08:00",
+    "fetchedAt": "2026-10-23T20:00:09.488+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河南郑州：“赤子同心补金瓯”台胞抗日史料图文展全省巡展启动",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719938.shtml",
-        "publishedAt": "2026-10-23T19:48:21.000+08:00"
+        "title": "“ 人与生物圈：中国当代生态艺术跨媒介作品巡展”重庆站启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719948.shtml",
+        "publishedAt": "2026-10-23T19:53:59.000+08:00"
       },
       {
-        "title": "李强主持召开国务院常务会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719985.shtml",
-        "publishedAt": "2026-10-23T19:47:39.000+08:00"
+        "title": "重庆：侨助百校万企 超3万个岗位助高校毕业生秋招上岸",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719946.shtml",
+        "publishedAt": "2026-10-23T19:52:43.000+08:00"
       },
       {
-        "title": "中俄青少年相聚长春 在传统文化体验中增进友谊",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719937.shtml",
-        "publishedAt": "2026-10-23T19:46:29.000+08:00"
+        "title": "河南郑州：咖啡面包节汇聚多元风味",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719943.shtml",
+        "publishedAt": "2026-10-23T19:51:39.000+08:00"
       },
       {
-        "title": "河北临漳：万亩山药采收忙 特色产业助农增收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719936.shtml",
-        "publishedAt": "2026-10-23T19:45:25.000+08:00"
+        "title": "新疆叶城县万亩石榴园迎丰收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719942.shtml",
+        "publishedAt": "2026-10-23T19:49:55.000+08:00"
       },
       {
-        "title": "长春秋韵：有轨电车穿行“金光大道”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719935.shtml",
-        "publishedAt": "2026-10-23T19:44:09.000+08:00"
+        "title": "中国人民银行定于10月30日发行2027版熊猫贵金属纪念币一套",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719980.shtml",
+        "publishedAt": "2026-10-23T19:49:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T19:50:03.815+08:00",
+    "fetchedAt": "2026-10-23T20:00:02.977+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T19:50:08.332+08:00",
+      "fetchedAt": "2026-10-23T20:00:07.978+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T19:50:08.668+08:00",
+      "fetchedAt": "2026-10-23T20:00:08.305+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T19:50:08.678+08:00",
+      "fetchedAt": "2026-10-23T20:00:08.312+08:00",
       "error": null
     }
   }
