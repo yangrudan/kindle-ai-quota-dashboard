@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T11:40:38.139+08:00",
+  "updatedAt": "2026-10-23T11:50:08.055+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 21.7,
-    "feelsLikeC": 21.7,
-    "humidity": 68,
-    "windKph": 12.9,
+    "tempC": 21.2,
+    "feelsLikeC": 21.4,
+    "humidity": 72,
+    "windKph": 12.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T11:40:38.139+08:00",
+    "observedAt": "2026-10-23T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-23T11:50:08.055+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "【长征在陇原】手绘长卷｜北上“征”途",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719619.shtml",
+        "publishedAt": "2026-10-23T11:42:39.000+08:00"
+      },
+      {
+        "title": "市委统战部系统离退休干部纪念中国工农红军长征胜利90周年主题活动举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719609.shtml",
+        "publishedAt": "2026-10-23T11:38:10.000+08:00"
+      },
+      {
+        "title": "“寻迹黄埔·情牵陕台”——两岸共话黄埔史主题交流活动成功举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719612.shtml",
+        "publishedAt": "2026-10-23T11:35:14.000+08:00"
+      },
+      {
+        "title": "台湾光复致敬团登陆80周年纪念展今日开展",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719610.shtml",
+        "publishedAt": "2026-10-23T11:33:46.000+08:00"
+      },
+      {
         "title": "陕西省开展党外院士专家国情考察暨无党派人士黄河流域专项民主监督调研",
         "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719611.shtml",
         "publishedAt": "2026-10-23T11:33:36.000+08:00"
-      },
-      {
-        "title": "第19届长江韬奋奖评选结果公示",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719617.shtml",
-        "publishedAt": "2026-10-23T11:33:24.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）产业赋能文旅增色 山西柳林推进乡村振兴建设",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719606.shtml",
-        "publishedAt": "2026-10-23T11:32:38.000+08:00"
-      },
-      {
-        "title": "云岭动态第二十五期",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719607.shtml",
-        "publishedAt": "2026-10-23T11:32:12.000+08:00"
-      },
-      {
-        "title": "一首金曲背后的统战密码",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719613.shtml",
-        "publishedAt": "2026-10-23T11:30:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T11:40:03.272+08:00",
+    "fetchedAt": "2026-10-23T11:50:03.090+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T11:40:36.940+08:00",
+      "fetchedAt": "2026-10-23T11:50:06.765+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 45,
+          "usedPct": 51,
           "resetAt": "2026-10-23T14:08:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 7,
+          "usedPct": 8,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T11:40:37.170+08:00",
+      "fetchedAt": "2026-10-23T11:50:07.066+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T11:40:37.180+08:00",
+      "fetchedAt": "2026-10-23T11:50:07.069+08:00",
       "error": null
     }
   }
