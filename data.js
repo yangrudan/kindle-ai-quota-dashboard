@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T00:20:09.301+08:00",
+  "updatedAt": "2026-10-24T00:30:39.524+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 18.4,
-    "feelsLikeC": 19.3,
+    "tempC": 18.5,
+    "feelsLikeC": 19.7,
     "humidity": 97,
-    "windKph": 13,
+    "windKph": 11.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T00:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T00:20:09.301+08:00",
+    "observedAt": "2026-10-24T00:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T00:30:39.524+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "以军总参谋长：已在所有战线进入最高戒备状态",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720159.shtml",
+        "publishedAt": "2026-10-24T00:20:14.000+08:00"
+      },
+      {
+        "title": "泽连斯基确认乌美俄三方会谈将于11月上半月举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720158.shtml",
+        "publishedAt": "2026-10-24T00:19:02.000+08:00"
+      },
       {
         "title": "赛事流量如何变产业增量？亦庄构筑电竞生态底座",
         "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720156.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "黄仁勋在哈萨克斯坦谈AI发展：能源与人才成关键词",
         "url": "https://www.chinanews.com.cn/gj/2026/10-23/10720155.shtml",
         "publishedAt": "2026-10-23T23:44:12.000+08:00"
-      },
-      {
-        "title": "上海举行女农人庆丰收活动 巾帼好物市集搬进田间",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720153.shtml",
-        "publishedAt": "2026-10-23T23:43:50.000+08:00"
-      },
-      {
-        "title": "山海好物走进上海市民“菜篮子” 603家企业携特产亮相",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720154.shtml",
-        "publishedAt": "2026-10-23T23:43:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T00:20:03.880+08:00",
+    "fetchedAt": "2026-10-24T00:30:04.342+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T00:20:07.785+08:00",
+      "fetchedAt": "2026-10-24T00:30:38.361+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
-          "resetAt": "2026-10-24T00:29:20.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-24T05:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T00:20:08.071+08:00",
+      "fetchedAt": "2026-10-24T00:30:38.661+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T00:20:08.080+08:00",
+      "fetchedAt": "2026-10-24T00:30:38.670+08:00",
       "error": null
     }
   }
