@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T18:50:08.976+08:00",
+  "updatedAt": "2026-10-23T19:00:10.011+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T18:50:08.976+08:00",
+    "fetchedAt": "2026-10-23T19:00:10.012+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "AGI赋能词元经济应用创新联盟成立 词元经济加速在渝落地",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719919.shtml",
-        "publishedAt": "2026-10-23T18:43:52.000+08:00"
+        "title": "中国成功发射遥感五十号03星",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208658.shtml",
+        "publishedAt": "2026-10-23T18:55:56.000+08:00"
       },
       {
-        "title": "“南义乌、北小堡” 河北深泽布艺制品远销海外",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719900.shtml",
-        "publishedAt": "2026-10-23T18:42:43.000+08:00"
+        "title": "2026中非民营经济合作论坛在北京举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719927.shtml",
+        "publishedAt": "2026-10-23T18:54:22.000+08:00"
       },
       {
-        "title": "佩斯科夫：俄美乌三方谈判将于11月上旬启动",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719918.shtml",
-        "publishedAt": "2026-10-23T18:40:55.000+08:00"
+        "title": "中国法院完善“无袍法官”参审机制 建立案件数量熔断机制",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719921.shtml",
+        "publishedAt": "2026-10-23T18:53:38.000+08:00"
       },
       {
-        "title": "二氧化碳固定和生物转化国际联盟在天津成立",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719915.shtml",
-        "publishedAt": "2026-10-23T18:40:43.000+08:00"
+        "title": "台青扎根广西横州为茉莉花香“说话” 让东方香气飘向国际",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719920.shtml",
+        "publishedAt": "2026-10-23T18:53:26.000+08:00"
       },
       {
-        "title": "我国成功发射遥感五十号03星",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719916.shtml",
-        "publishedAt": "2026-10-23T18:39:43.000+08:00"
+        "title": "两部门拨付5000万元支持西藏做好地震应急抢险救灾工作",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719922.shtml",
+        "publishedAt": "2026-10-23T18:52:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T18:50:03.204+08:00",
+    "fetchedAt": "2026-10-23T19:00:04.373+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T18:50:07.583+08:00",
+      "fetchedAt": "2026-10-23T19:00:08.871+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T18:50:07.828+08:00",
+      "fetchedAt": "2026-10-23T19:00:09.158+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T18:50:07.837+08:00",
+      "fetchedAt": "2026-10-23T19:00:09.167+08:00",
       "error": null
     }
   }
