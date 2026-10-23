@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T17:30:08.786+08:00",
+  "updatedAt": "2026-10-23T17:40:47.304+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T17:30:08.786+08:00",
+    "fetchedAt": "2026-10-23T17:40:47.305+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "超5万张证书被撤销 市场监管总局对CCC认证各环节持续开展清理整顿",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719837.shtml",
-        "publishedAt": "2026-10-23T17:22:45.000+08:00"
+        "title": "关于地震的这些知识你都了解吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719874.shtml",
+        "publishedAt": "2026-10-23T17:32:48.000+08:00"
       },
       {
-        "title": "海浪橙色预警 浙闽北部近海将出现4到5.5米巨浪",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719871.shtml",
-        "publishedAt": "2026-10-23T17:21:57.000+08:00"
+        "title": "济南邮局海关今年累计新开通五条国际转关邮路",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719796.shtml",
+        "publishedAt": "2026-10-23T17:32:42.000+08:00"
       },
       {
-        "title": "民建沈阳市委会赴延安开展“纪念长征胜利90周年”主题学习交流活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10719870.shtml",
-        "publishedAt": "2026-10-23T17:20:53.000+08:00"
+        "title": "西藏巴青7.0级地震已造成16人遇难76人受伤",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719832.shtml",
+        "publishedAt": "2026-10-23T17:30:42.000+08:00"
       },
       {
-        "title": "国台“酱香型白酒品质提升及创新产品研发关键技术研究”项目，通过科技成果鉴定",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719869.shtml",
-        "publishedAt": "2026-10-23T17:19:43.000+08:00"
+        "title": "国际最新研究：盐沼可有效应对极端波浪侵袭促进海岸防护",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719860.shtml",
+        "publishedAt": "2026-10-23T17:29:54.000+08:00"
       },
       {
-        "title": "比亚迪第二代海鸥正式上市 官方指导价6.59万元-9.99万元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719867.shtml",
-        "publishedAt": "2026-10-23T17:19:39.000+08:00"
+        "title": "第九届敦煌文博会11月启幕 多国嘉宾共话文明互鉴",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-23/10719833.shtml",
+        "publishedAt": "2026-10-23T17:29:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T17:30:03.617+08:00",
+    "fetchedAt": "2026-10-23T17:40:12.558+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T17:30:07.574+08:00",
+      "fetchedAt": "2026-10-23T17:40:45.796+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T17:30:07.877+08:00",
+      "fetchedAt": "2026-10-23T17:40:46.106+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T17:30:07.886+08:00",
+      "fetchedAt": "2026-10-23T17:40:46.111+08:00",
       "error": null
     }
   }
