@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T22:40:08.044+08:00",
+  "updatedAt": "2026-10-23T22:50:12.647+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 18.4,
-    "feelsLikeC": 19,
+    "tempC": 18.3,
+    "feelsLikeC": 18.9,
     "humidity": 95,
-    "windKph": 14.8,
+    "windKph": 14.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-23T22:40:08.044+08:00",
+    "observedAt": "2026-10-23T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-23T22:50:12.647+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "董克用：应对人口老龄化挑战 做好养老金融这篇大文章",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720123.shtml",
+        "publishedAt": "2026-10-23T22:39:30.000+08:00"
+      },
+      {
+        "title": "李家超：沉痛哀悼西藏巴青地震遇难同胞，随时准备提供援助",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10720121.shtml",
+        "publishedAt": "2026-10-23T22:37:36.000+08:00"
+      },
       {
         "title": "2026“跨国企业天津行”举办 达成多项合作成果",
         "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720120.shtml",
@@ -33,19 +43,9 @@
         "title": "财政部：农业保险护农惠农成效持续显现",
         "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720118.shtml",
         "publishedAt": "2026-10-23T22:30:22.000+08:00"
-      },
-      {
-        "title": "新版《黑龙江省地名管理规定》12月起实施",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720116.shtml",
-        "publishedAt": "2026-10-23T22:29:14.000+08:00"
-      },
-      {
-        "title": "粤商走进广东阳春 探寻产业合作机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720117.shtml",
-        "publishedAt": "2026-10-23T22:28:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T22:40:02.687+08:00",
+    "fetchedAt": "2026-10-23T22:50:06.340+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T22:40:06.573+08:00",
+      "fetchedAt": "2026-10-23T22:50:11.153+08:00",
       "error": null
     },
     "codex": {
@@ -75,10 +75,10 @@
         {
           "name": "周",
           "usedPct": 33,
-          "resetAt": "2026-10-30T09:08:11.000+08:00"
+          "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T22:40:06.881+08:00",
+      "fetchedAt": "2026-10-23T22:50:11.496+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T22:40:06.890+08:00",
+      "fetchedAt": "2026-10-23T22:50:11.506+08:00",
       "error": null
     }
   }
