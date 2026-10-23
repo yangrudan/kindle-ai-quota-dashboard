@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T18:00:09.652+08:00",
+  "updatedAt": "2026-10-23T18:10:09.290+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-23T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-23T18:00:09.652+08:00",
+    "fetchedAt": "2026-10-23T18:10:09.290+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "A股周五放量上涨 创业板指收盘涨逾4％",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719891.shtml",
+        "publishedAt": "2026-10-23T18:00:31.000+08:00"
+      },
       {
         "title": "税收数据显示：前三季度青海绿算产业全链提速",
         "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719885.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "蔚来亮相COP17中国角开幕式，秦力洪：保护生物多样性需多方携手",
         "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719884.shtml",
         "publishedAt": "2026-10-23T17:48:39.000+08:00"
-      },
-      {
-        "title": "东西问丨何超琼：港澳如何当好中外文明交流互鉴“超级联系人”？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-23/10719875.shtml",
-        "publishedAt": "2026-10-23T17:47:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T18:00:04.078+08:00",
+    "fetchedAt": "2026-10-23T18:10:03.706+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T18:00:08.418+08:00",
+      "fetchedAt": "2026-10-23T18:10:07.978+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T18:00:08.708+08:00",
+      "fetchedAt": "2026-10-23T18:10:08.267+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T18:00:08.717+08:00",
+      "fetchedAt": "2026-10-23T18:10:08.271+08:00",
       "error": null
     }
   }
