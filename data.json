@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-23T21:50:09.958+08:00",
+  "updatedAt": "2026-10-23T22:00:09.672+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 18.6,
-    "feelsLikeC": 19.3,
+    "feelsLikeC": 19.1,
     "humidity": 93,
-    "windKph": 13.3,
+    "windKph": 14.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T21:50:09.958+08:00",
+    "observedAt": "2026-10-23T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-23T22:00:09.672+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第一观察｜党和人民军队铿锵前进的制胜之道",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720023.shtml",
-        "publishedAt": "2026-10-23T21:35:49.000+08:00"
+        "title": "（活力中国调研行）在海南打卡周总理同款咖啡 回味一杯香醇里的浓浓侨胞情",
+        "url": "https://www.chinanews.com.cn/kong/2026/10-23/10720087.shtml",
+        "publishedAt": "2026-10-23T21:51:26.000+08:00"
       },
       {
-        "title": "东航云南冬航季加密13个国际站点航线 畅通南亚东南亚空中往来",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720076.shtml",
-        "publishedAt": "2026-10-23T21:32:15.000+08:00"
+        "title": "山东出台27条经济新政 加码数智经济与现代农业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720086.shtml",
+        "publishedAt": "2026-10-23T21:50:48.000+08:00"
       },
       {
-        "title": "业内探讨中国智能网联汽车品牌“出海”路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720075.shtml",
-        "publishedAt": "2026-10-23T21:32:11.000+08:00"
+        "title": "2026全球开发者先锋大会暨国际具身智能技能大赛在沪开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720084.shtml",
+        "publishedAt": "2026-10-23T21:48:03.000+08:00"
       },
       {
-        "title": "跨越四千公里守望：“小石榴”的九年津疆情缘",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-23/10720072.shtml",
-        "publishedAt": "2026-10-23T21:29:26.000+08:00"
+        "title": "在博物馆对话长城本体 中国长城博物馆焕新亮相",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-23/1208667.shtml",
+        "publishedAt": "2026-10-23T21:47:56.000+08:00"
       },
       {
-        "title": "广西深化与东盟友城交往 促民心相通务实合作",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-23/10720067.shtml",
-        "publishedAt": "2026-10-23T21:29:22.000+08:00"
+        "title": "陕西：千余名青少年同台竞技 体教融合夯实田径后备人才根基",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-23/10720083.shtml",
+        "publishedAt": "2026-10-23T21:47:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T21:50:04.354+08:00",
+    "fetchedAt": "2026-10-23T22:00:04.241+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T21:50:08.862+08:00",
+      "fetchedAt": "2026-10-23T22:00:08.488+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T21:50:09.133+08:00",
+      "fetchedAt": "2026-10-23T22:00:08.823+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T21:50:09.139+08:00",
+      "fetchedAt": "2026-10-23T22:00:08.829+08:00",
       "error": null
     }
   }
