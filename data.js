@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-23T16:50:47.642+08:00",
+  "updatedAt": "2026-10-23T17:00:12.347+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.6,
-    "feelsLikeC": 20.1,
+    "tempC": 19.4,
+    "feelsLikeC": 20,
     "humidity": 83,
-    "windKph": 11.4,
+    "windKph": 11.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-23T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-23T16:50:47.643+08:00",
+    "observedAt": "2026-10-23T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-23T17:00:12.348+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本物价持续高企 日媒批评：高市内阁未能改善民众生活",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719809.shtml",
-        "publishedAt": "2026-10-23T16:38:29.000+08:00"
+        "title": "1800平方米“T台剧场”亮相 扬州运河大剧院嘉乐里启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719848.shtml",
+        "publishedAt": "2026-10-23T16:58:30.000+08:00"
       },
       {
-        "title": "河南林州：深秋红旗渠畔层林尽染",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719812.shtml",
-        "publishedAt": "2026-10-23T16:37:57.000+08:00"
+        "title": "冯骥才《俗世奇人（伍）》丙午新篇正式出版",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-23/10719844.shtml",
+        "publishedAt": "2026-10-23T16:58:26.000+08:00"
       },
       {
-        "title": "第二届海峡养老产业博览会在福州开幕 智慧养老受关注",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-23/10719806.shtml",
-        "publishedAt": "2026-10-23T16:34:51.000+08:00"
+        "title": "前三季度深圳跨境人民币结算规模达5.9万亿元",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-23/10719835.shtml",
+        "publishedAt": "2026-10-23T16:57:32.000+08:00"
       },
       {
-        "title": "中国经济传媒协会召开八届三次理事会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719813.shtml",
-        "publishedAt": "2026-10-23T16:34:11.000+08:00"
+        "title": "2025年中国创新指数显示：理工类人才储备继续扩大",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719782.shtml",
+        "publishedAt": "2026-10-23T16:57:12.000+08:00"
       },
       {
-        "title": "约旦河西岸发生枪击事件致2死5伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-23/10719784.shtml",
-        "publishedAt": "2026-10-23T16:33:15.000+08:00"
+        "title": "中国国民党副主席张荣恭：乐见更多台湾渔产品输入大陆",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719781.shtml",
+        "publishedAt": "2026-10-23T16:56:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-23T16:50:05.569+08:00",
+    "fetchedAt": "2026-10-23T17:00:05.666+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 270 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-23T16:50:45.719+08:00",
+      "fetchedAt": "2026-10-23T17:00:10.549+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 84,
+          "usedPct": 90,
           "resetAt": "2026-10-23T19:20:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 29,
+          "usedPct": 30,
           "resetAt": "2026-10-30T09:08:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-23T16:50:46.047+08:00",
+      "fetchedAt": "2026-10-23T17:00:10.930+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-23T16:50:46.065+08:00",
+      "fetchedAt": "2026-10-23T17:00:10.938+08:00",
       "error": null
     }
   }
