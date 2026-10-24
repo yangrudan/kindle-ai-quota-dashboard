@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T20:40:07.928+08:00",
+  "updatedAt": "2026-10-24T20:50:07.976+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 19.1,
-    "feelsLikeC": 19.5,
+    "feelsLikeC": 19.6,
     "humidity": 90,
-    "windKph": 15.2,
+    "windKph": 15,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T20:40:07.929+08:00",
+    "observedAt": "2026-10-24T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-24T20:50:07.976+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“FetoNeX胎儿医学协作网”在沪成立 让优质医疗资源更快触达患者",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720481.shtml",
+        "publishedAt": "2026-10-24T20:43:51.000+08:00"
+      },
+      {
+        "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208763.shtml",
+        "publishedAt": "2026-10-24T20:43:33.000+08:00"
+      },
+      {
+        "title": "从开选修课到建非遗学院 高校非遗教育走向“学科化”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720470.shtml",
+        "publishedAt": "2026-10-24T20:43:24.000+08:00"
+      },
+      {
+        "title": "河北任丘抢抓农时迎丰收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720469.shtml",
+        "publishedAt": "2026-10-24T20:36:06.000+08:00"
+      },
+      {
         "title": "大湾区少年绘就科幻未来画卷 以画为桥筑科学梦想",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720473.shtml",
         "publishedAt": "2026-10-24T20:33:10.000+08:00"
-      },
-      {
-        "title": "拥抱AI时代，企业如何探索AI转型之道？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720475.shtml",
-        "publishedAt": "2026-10-24T20:32:28.000+08:00"
-      },
-      {
-        "title": "“健康大满贯”项目举行 专家建言及时准确了解血糖变化",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720476.shtml",
-        "publishedAt": "2026-10-24T20:31:38.000+08:00"
-      },
-      {
-        "title": "中外舞者相聚“新市·舞悦集” 以舞赋能江南古镇文旅新篇",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720477.shtml",
-        "publishedAt": "2026-10-24T20:30:46.000+08:00"
-      },
-      {
-        "title": "近百位专家学者聚首江西九江 共议当代茶文化发展",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720479.shtml",
-        "publishedAt": "2026-10-24T20:29:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T20:40:02.582+08:00",
+    "fetchedAt": "2026-10-24T20:50:02.696+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T20:40:06.687+08:00",
+      "fetchedAt": "2026-10-24T20:50:06.627+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 40,
+          "usedPct": 45,
           "resetAt": "2026-10-25T00:18:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 10,
+          "usedPct": 11,
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T20:40:06.998+08:00",
+      "fetchedAt": "2026-10-24T20:50:06.949+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T20:40:07.006+08:00",
+      "fetchedAt": "2026-10-24T20:50:06.958+08:00",
       "error": null
     }
   }
