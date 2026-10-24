@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T11:00:39.367+08:00",
+  "updatedAt": "2026-10-24T11:10:08.679+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T11:00:39.367+08:00",
+    "fetchedAt": "2026-10-24T11:10:08.680+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中欧班列“东通道”跑出“加速度” 年内通行量突破6000列",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720232.shtml",
+        "publishedAt": "2026-10-24T10:59:57.000+08:00"
+      },
+      {
+        "title": "郭大顺：红山文化研究将迈向多学科交叉融合阶段",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720231.shtml",
+        "publishedAt": "2026-10-24T10:57:59.000+08:00"
+      },
+      {
+        "title": "外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720235.shtml",
+        "publishedAt": "2026-10-24T10:57:53.000+08:00"
+      },
+      {
+        "title": "亚残运会之声：团结一心 其利断金",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720230.shtml",
+        "publishedAt": "2026-10-24T10:57:19.000+08:00"
+      },
+      {
         "title": "西藏巴青7.0级地震后次夜 孩童安睡不再害怕",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720229.shtml",
         "publishedAt": "2026-10-24T10:55:59.000+08:00"
-      },
-      {
-        "title": "2026年全国游泳锦标赛（25米）：徐嘉余晋级男子100米仰泳决赛",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208708.shtml",
-        "publishedAt": "2026-10-24T10:55:59.000+08:00"
-      },
-      {
-        "title": "一箭六星 长四乙火箭成功发射",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720228.shtml",
-        "publishedAt": "2026-10-24T10:53:30.000+08:00"
-      },
-      {
-        "title": "从家族浮沉看家国团圆 在吉台胞追忆峥嵘过往",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720224.shtml",
-        "publishedAt": "2026-10-24T10:53:00.000+08:00"
-      },
-      {
-        "title": "《辽宁文化讲坛》正式启动 首讲“礼出红山”探源中华文明根脉",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720223.shtml",
-        "publishedAt": "2026-10-24T10:51:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T11:00:04.514+08:00",
+    "fetchedAt": "2026-10-24T11:10:03.554+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T11:00:38.094+08:00",
+      "fetchedAt": "2026-10-24T11:10:07.431+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T11:00:38.416+08:00",
+      "fetchedAt": "2026-10-24T11:10:07.691+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T11:00:38.426+08:00",
+      "fetchedAt": "2026-10-24T11:10:07.701+08:00",
       "error": null
     }
   }
