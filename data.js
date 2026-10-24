@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T19:20:09.305+08:00",
+  "updatedAt": "2026-10-24T19:30:10.437+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 18.9,
-    "humidity": 88,
-    "windKph": 17.2,
+    "tempC": 19.1,
+    "feelsLikeC": 19,
+    "humidity": 87,
+    "windKph": 17.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T19:20:09.305+08:00",
+    "observedAt": "2026-10-24T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T19:30:10.437+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“阅·见中国”中国文化交流体验活动在韩国首尔举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208752.shtml",
+        "publishedAt": "2026-10-24T19:23:35.000+08:00"
+      },
+      {
+        "title": "李希在二十届中央第八轮巡视工作动员部署会上强调 深入学习贯彻习近平党建思想 以更高标准更实举措推动新征程",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720444.shtml",
+        "publishedAt": "2026-10-24T19:23:34.000+08:00"
+      },
+      {
         "title": "溯源江海文脉 沪港学者在上海共话双城文化互鉴脉络",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720445.shtml",
         "publishedAt": "2026-10-24T19:17:38.000+08:00"
       },
       {
+        "title": "2027年度中央机关公开遴选和公开选调公务员报名即将开始",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720446.shtml",
+        "publishedAt": "2026-10-24T19:17:34.000+08:00"
+      },
+      {
         "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720442.shtml",
         "publishedAt": "2026-10-24T19:10:25.000+08:00"
-      },
-      {
-        "title": "新华社权威快报｜二十届中央第八轮巡视对象公布",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720443.shtml",
-        "publishedAt": "2026-10-24T19:03:27.000+08:00"
-      },
-      {
-        "title": "拼多多紧急捐赠1000万元 驰援西藏那曲抗震救灾",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720441.shtml",
-        "publishedAt": "2026-10-24T18:57:39.000+08:00"
-      },
-      {
-        "title": "福州各界缅怀吴石等在台牺牲英烈",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720439.shtml",
-        "publishedAt": "2026-10-24T18:57:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T19:20:04.121+08:00",
+    "fetchedAt": "2026-10-24T19:30:04.695+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T19:20:08.087+08:00",
+      "fetchedAt": "2026-10-24T19:30:09.077+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 13,
           "resetAt": "2026-10-25T00:18:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
+          "usedPct": 6,
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T19:20:08.340+08:00",
+      "fetchedAt": "2026-10-24T19:30:09.341+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T19:20:08.357+08:00",
+      "fetchedAt": "2026-10-24T19:30:09.350+08:00",
       "error": null
     }
   }
