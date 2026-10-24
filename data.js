@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T16:20:09.002+08:00",
+  "updatedAt": "2026-10-24T16:30:08.042+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.9,
-    "feelsLikeC": 19,
+    "tempC": 18.8,
+    "feelsLikeC": 18.9,
     "humidity": 89,
-    "windKph": 15.6,
+    "windKph": 16.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T16:20:09.002+08:00",
+    "observedAt": "2026-10-24T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T16:30:08.043+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "台风“蔷琵”移入东海南部海域 中国官方持续部署防汛防台风",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720366.shtml",
-        "publishedAt": "2026-10-24T16:13:02.000+08:00"
+        "title": "浙江横店：深耕实景根基 借力AI赋能产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720344.shtml",
+        "publishedAt": "2026-10-24T16:25:11.000+08:00"
       },
       {
-        "title": "宁波大学建校40周年 包玉刚长女：没有辜负父亲的梦想",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720363.shtml",
-        "publishedAt": "2026-10-24T16:10:34.000+08:00"
+        "title": "两岸匹克球爱好者切磋技艺以球会友",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720345.shtml",
+        "publishedAt": "2026-10-24T16:24:25.000+08:00"
       },
       {
-        "title": "斯诺克北爱尔兰公开赛四强出炉",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720348.shtml",
-        "publishedAt": "2026-10-24T16:07:44.000+08:00"
+        "title": "从一尾鱼、一艘船、一台戏读懂“宜都活力”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720346.shtml",
+        "publishedAt": "2026-10-24T16:23:35.000+08:00"
       },
       {
-        "title": "研究显示：恶性肿瘤拉低台湾人均寿命3.7岁",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720349.shtml",
-        "publishedAt": "2026-10-24T16:05:38.000+08:00"
+        "title": "2026艺术厦门博览会举办 呈现近万件艺术品",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720347.shtml",
+        "publishedAt": "2026-10-24T16:20:54.000+08:00"
       },
       {
-        "title": "“中国粮食国家队”北大荒以“智”护耕地：让黑土变“肥”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720327.shtml",
-        "publishedAt": "2026-10-24T16:03:35.000+08:00"
+        "title": "菲律宾南阿古桑省枪击事件致1死2伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720367.shtml",
+        "publishedAt": "2026-10-24T16:19:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T16:20:03.574+08:00",
+    "fetchedAt": "2026-10-24T16:30:03.270+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T16:20:07.783+08:00",
+      "fetchedAt": "2026-10-24T16:30:06.891+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T16:20:08.040+08:00",
+      "fetchedAt": "2026-10-24T16:30:07.185+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T16:20:08.048+08:00",
+      "fetchedAt": "2026-10-24T16:30:07.194+08:00",
       "error": null
     }
   }
