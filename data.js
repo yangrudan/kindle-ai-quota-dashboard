@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T21:10:08.452+08:00",
+  "updatedAt": "2026-10-24T21:20:08.227+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 19.1,
     "feelsLikeC": 19.6,
-    "humidity": 90,
-    "windKph": 14.8,
+    "humidity": 91,
+    "windKph": 14.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T21:10:08.452+08:00",
+    "observedAt": "2026-10-24T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-24T21:20:08.227+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国风首饰被抢着下单，装配式房屋1小时成交5台……这届广交会中国“品质家居”圈粉全球",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720494.shtml",
-        "publishedAt": "2026-10-24T21:04:32.000+08:00"
+        "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720464.shtml",
+        "publishedAt": "2026-10-24T21:13:34.000+08:00"
       },
       {
-        "title": "豪华智造，礼遇世界！第二代腾势D9首发车队浩荡启程服务APEC",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720493.shtml",
-        "publishedAt": "2026-10-24T21:02:00.000+08:00"
+        "title": "新疆沙雅县：金秋胡杨引客来",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720496.shtml",
+        "publishedAt": "2026-10-24T21:12:54.000+08:00"
       },
       {
-        "title": "APEC官方指定用车首批正式启程 “中国腾势”惊艳全球",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720488.shtml",
-        "publishedAt": "2026-10-24T21:00:55.000+08:00"
+        "title": "海内外各界聚首南平考亭书院纪念朱子诞辰896周年",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720497.shtml",
+        "publishedAt": "2026-10-24T21:10:56.000+08:00"
       },
       {
-        "title": "2026年全国游泳锦标赛（25米）：徐嘉余打破男子100米仰泳亚洲纪录",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208769.shtml",
-        "publishedAt": "2026-10-24T20:57:00.000+08:00"
+        "title": "一团炉火、一碗饺子、一份守护——巴青震中见闻",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720486.shtml",
+        "publishedAt": "2026-10-24T21:09:22.000+08:00"
       },
       {
-        "title": "樊再轩：预计明年年中完成南唐二陵壁画修复保护工作",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720490.shtml",
-        "publishedAt": "2026-10-24T20:56:07.000+08:00"
+        "title": "京津冀400余组家庭“燃动”首都教育系统第三届亲子欢乐跑",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720495.shtml",
+        "publishedAt": "2026-10-24T21:07:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T21:10:03.008+08:00",
+    "fetchedAt": "2026-10-24T21:20:03.130+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T21:10:07.158+08:00",
+      "fetchedAt": "2026-10-24T21:20:06.971+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 51,
+          "usedPct": 58,
           "resetAt": "2026-10-25T00:18:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 13,
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T21:10:07.448+08:00",
+      "fetchedAt": "2026-10-24T21:20:07.264+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T21:10:07.453+08:00",
+      "fetchedAt": "2026-10-24T21:20:07.269+08:00",
       "error": null
     }
   }
