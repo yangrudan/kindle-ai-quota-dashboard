@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T14:30:09.354+08:00",
+  "updatedAt": "2026-10-24T14:40:07.811+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T14:30:09.355+08:00",
+    "fetchedAt": "2026-10-24T14:40:07.811+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "人民论坛网评 | 走好我们这一代人的长征路",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-24/10720318.shtml",
+        "publishedAt": "2026-10-24T14:35:15.000+08:00"
+      },
+      {
+        "title": "赋能发展中国家 世界人工智能合作组织推动弥合全球智能鸿沟",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720316.shtml",
+        "publishedAt": "2026-10-24T14:29:46.000+08:00"
+      },
+      {
+        "title": "拜鬼招魂、军演扩武，日方种种消极动向有何图谋？",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720314.shtml",
+        "publishedAt": "2026-10-24T14:27:04.000+08:00"
+      },
       {
         "title": "扩大经贸合作 释放更多“惠邻”“富邻”效应",
         "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720313.shtml",
@@ -28,24 +43,9 @@
         "title": "2026桂林艺术节开幕 山水为台戏联中外",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720305.shtml",
         "publishedAt": "2026-10-24T14:19:06.000+08:00"
-      },
-      {
-        "title": "新疆铁路双口岸今年通行中欧（亚）班列超1.5万列",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720304.shtml",
-        "publishedAt": "2026-10-24T14:17:22.000+08:00"
-      },
-      {
-        "title": "兰西城市群青少年软式棒垒球邀请赛在西宁开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720303.shtml",
-        "publishedAt": "2026-10-24T14:15:32.000+08:00"
-      },
-      {
-        "title": "工业互联网操作系统产业联盟在深成立",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720300.shtml",
-        "publishedAt": "2026-10-24T14:07:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T14:30:03.624+08:00",
+    "fetchedAt": "2026-10-24T14:40:03.243+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T14:30:08.025+08:00",
+      "fetchedAt": "2026-10-24T14:40:06.697+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T14:30:08.284+08:00",
+      "fetchedAt": "2026-10-24T14:40:07.006+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T14:30:08.294+08:00",
+      "fetchedAt": "2026-10-24T14:40:07.014+08:00",
       "error": null
     }
   }
