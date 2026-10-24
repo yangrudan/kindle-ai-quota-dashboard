@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T09:10:10.165+08:00",
+  "updatedAt": "2026-10-24T09:20:09.109+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.9,
-    "feelsLikeC": 16.7,
+    "tempC": 17,
+    "feelsLikeC": 16.8,
     "humidity": 95,
-    "windKph": 15.3,
+    "windKph": 15.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T09:10:10.165+08:00",
+    "observedAt": "2026-10-24T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-24T09:20:09.109+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "仲赛春将担任第五届亚残运会闭幕式中国体育代表团旗手",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720190.shtml",
-        "publishedAt": "2026-10-24T08:59:04.000+08:00"
+        "title": "王毅出席2026全球治理论坛（雄安）开幕式",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720179.shtml",
+        "publishedAt": "2026-10-24T09:15:57.000+08:00"
       },
       {
-        "title": "教堂枪击事件致7死40伤 约旦宣布全国哀悼三天",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720189.shtml",
-        "publishedAt": "2026-10-24T08:56:34.000+08:00"
+        "title": "王毅：要共同坚持开放发展的正确方向",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720188.shtml",
+        "publishedAt": "2026-10-24T09:11:37.000+08:00"
       },
       {
-        "title": "仍在黄金救援期、部分帐篷已通电 西藏7.0级地震昨夜今晨救援最新进展",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720182.shtml",
-        "publishedAt": "2026-10-24T08:50:20.000+08:00"
+        "title": "人这一辈子，一定要去青冈看黑土地丰收！",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720173.shtml",
+        "publishedAt": "2026-10-24T09:11:17.000+08:00"
       },
       {
-        "title": "西藏巴青县地震前后遥感图发布 暂未见大面积房屋严重损毁",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720181.shtml",
-        "publishedAt": "2026-10-24T08:46:36.000+08:00"
+        "title": "王毅宣布中方进一步落实全球治理倡议的务实行动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720187.shtml",
+        "publishedAt": "2026-10-24T09:11:13.000+08:00"
       },
       {
-        "title": "2027考研报名今天截止！@考生们：这些事项需关注",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720175.shtml",
-        "publishedAt": "2026-10-24T08:41:31.000+08:00"
+        "title": "王毅：要共同完善新兴领域的治理规则",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720186.shtml",
+        "publishedAt": "2026-10-24T09:10:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T09:10:04.574+08:00",
+    "fetchedAt": "2026-10-24T09:20:03.440+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T09:10:09.008+08:00",
+      "fetchedAt": "2026-10-24T09:20:07.823+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T09:10:09.261+08:00",
+      "fetchedAt": "2026-10-24T09:20:08.160+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T09:10:09.271+08:00",
+      "fetchedAt": "2026-10-24T09:20:08.167+08:00",
       "error": null
     }
   }
