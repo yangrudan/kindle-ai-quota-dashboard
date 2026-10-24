@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T18:20:08.172+08:00",
+  "updatedAt": "2026-10-24T18:30:41.706+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 17.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T18:20:08.172+08:00",
+    "observedAt": "2026-10-24T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T18:30:41.706+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "纪念中国工农红军长征胜利90周年主题音像出版物公开发行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720416.shtml",
-        "publishedAt": "2026-10-24T18:14:31.000+08:00"
+        "title": "“算力大户”内蒙古谋求“出海”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720387.shtml",
+        "publishedAt": "2026-10-24T18:25:01.000+08:00"
       },
       {
-        "title": "海内外乒乓球爱好者乐聚南京 “为爱益起乒”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720403.shtml",
-        "publishedAt": "2026-10-24T18:11:18.000+08:00"
+        "title": "脑机接口高质量数据集建设项目在武汉启动",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720384.shtml",
+        "publishedAt": "2026-10-24T18:23:45.000+08:00"
       },
       {
-        "title": "从湘东小城到狮城餐桌 湖南浏阳蒸菜“出海”解乡愁",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720410.shtml",
-        "publishedAt": "2026-10-24T18:06:00.000+08:00"
+        "title": "浙江00后摊主因“建模脸”帅出圈！当事人回应：我只是一个认认真真卖鸡饭的人",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720417.shtml",
+        "publishedAt": "2026-10-24T18:21:31.000+08:00"
       },
       {
-        "title": "三年一度 福建客家民俗“作大福”场面壮观",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720401.shtml",
-        "publishedAt": "2026-10-24T18:05:02.000+08:00"
+        "title": "第140届广交会第二期：境外采购商扎堆“看房”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720412.shtml",
+        "publishedAt": "2026-10-24T18:21:21.000+08:00"
       },
       {
-        "title": "渝昆高铁全线铺轨完成 预计2027年上半年具备通车条件",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720407.shtml",
-        "publishedAt": "2026-10-24T18:04:58.000+08:00"
+        "title": "第十七届中国长江三峡国际旅游节文艺交流展演在渝举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720411.shtml",
+        "publishedAt": "2026-10-24T18:19:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T18:20:03.341+08:00",
+    "fetchedAt": "2026-10-24T18:30:06.071+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T18:20:07.070+08:00",
+      "fetchedAt": "2026-10-24T18:30:40.419+08:00",
       "error": null
     },
     "codex": {
@@ -75,10 +75,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-10-31T08:09:17.000+08:00"
+          "resetAt": "2026-10-31T08:09:18.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T18:20:07.285+08:00",
+      "fetchedAt": "2026-10-24T18:30:40.689+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T18:20:07.293+08:00",
+      "fetchedAt": "2026-10-24T18:30:40.697+08:00",
       "error": null
     }
   }
