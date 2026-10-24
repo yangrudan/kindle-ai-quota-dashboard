@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T13:40:08.390+08:00",
+  "updatedAt": "2026-10-24T13:50:08.277+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.6,
     "feelsLikeC": 18.1,
-    "humidity": 87,
-    "windKph": 18.5,
+    "humidity": 86,
+    "windKph": 18.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T13:40:08.390+08:00",
+    "observedAt": "2026-10-24T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-24T13:50:08.277+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "207金117银111铜 中国队亚残运圆满收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720295.shtml",
+        "publishedAt": "2026-10-24T13:43:42.000+08:00"
+      },
+      {
+        "title": "小小啤酒花 走进新疆兵团“做强特色农业”账本里",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720282.shtml",
+        "publishedAt": "2026-10-24T13:36:07.000+08:00"
+      },
       {
         "title": "从于右任出发：中外书法家沪上办展，以笔墨作答AI时代",
         "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720284.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "台风“蔷琵”移入东海南部海域 4地防汛防台风四级应急响应持续",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720291.shtml",
         "publishedAt": "2026-10-24T13:27:19.000+08:00"
-      },
-      {
-        "title": "嘉峪关机务段数智赋能守护兰新丝路运输通道",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720280.shtml",
-        "publishedAt": "2026-10-24T13:27:19.000+08:00"
-      },
-      {
-        "title": "纪念台湾光复81周年 海南各界传承共同记忆",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-24/10720278.shtml",
-        "publishedAt": "2026-10-24T13:26:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T13:40:03.150+08:00",
+    "fetchedAt": "2026-10-24T13:50:03.112+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T13:40:06.941+08:00",
+      "fetchedAt": "2026-10-24T13:50:07.176+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-24T18:40:08.000+08:00"
+          "resetAt": "2026-10-24T18:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T13:40:07.201+08:00",
+      "fetchedAt": "2026-10-24T13:50:07.442+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T13:40:07.205+08:00",
+      "fetchedAt": "2026-10-24T13:50:07.446+08:00",
       "error": null
     }
   }
