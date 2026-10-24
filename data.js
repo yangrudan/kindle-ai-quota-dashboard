@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T06:40:07.996+08:00",
+  "updatedAt": "2026-10-25T06:50:38.453+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.2,
-    "feelsLikeC": 19.2,
+    "tempC": 19.3,
+    "feelsLikeC": 19.3,
     "humidity": 88,
-    "windKph": 17.1,
+    "windKph": 16.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T06:40:07.996+08:00",
+    "observedAt": "2026-10-25T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T06:50:38.453+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "也门胡塞武装称沙特一天内发动百次空袭",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720542.shtml",
+        "publishedAt": "2026-10-25T06:41:35.000+08:00"
+      },
+      {
+        "title": "泽连斯基：不会为结束冲突放弃更多领土",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml",
+        "publishedAt": "2026-10-25T06:40:07.000+08:00"
+      },
+      {
+        "title": "马里军方在梅纳卡市附近发现54具遗体",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720540.shtml",
+        "publishedAt": "2026-10-25T06:38:37.000+08:00"
+      },
       {
         "title": "第五届亚洲残疾人运动会在日本名古屋闭幕",
         "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720538.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "2027国考报名截止，多职位数千人竞争一岗",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720536.shtml",
         "publishedAt": "2026-10-25T00:01:14.000+08:00"
-      },
-      {
-        "title": "全国短池游泳锦标赛：徐嘉余一晚两破仰泳纪录",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720535.shtml",
-        "publishedAt": "2026-10-24T23:47:02.000+08:00"
-      },
-      {
-        "title": "中超第29轮：蓉城负英博无缘提前夺冠 三镇不敌泰山确认降级",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720527.shtml",
-        "publishedAt": "2026-10-24T22:21:28.000+08:00"
-      },
-      {
-        "title": "西藏巴青地震现场：救援力量帮助受灾信众找回唐卡经书等物品",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720524.shtml",
-        "publishedAt": "2026-10-24T22:06:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T06:40:03.485+08:00",
+    "fetchedAt": "2026-10-25T06:50:03.304+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T06:40:06.831+08:00",
+      "fetchedAt": "2026-10-25T06:50:37.302+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T11:40:07.000+08:00"
+          "resetAt": "2026-10-25T11:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T06:40:07.043+08:00",
+      "fetchedAt": "2026-10-25T06:50:37.540+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T06:40:07.048+08:00",
+      "fetchedAt": "2026-10-25T06:50:37.550+08:00",
       "error": null
     }
   }
