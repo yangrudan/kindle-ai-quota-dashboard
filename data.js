@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T08:30:08.583+08:00",
+  "updatedAt": "2026-10-24T08:40:38.626+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-24T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T08:30:08.583+08:00",
+    "fetchedAt": "2026-10-24T08:40:38.627+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "台风“蔷琵”逼近 多地积极应对提前转移安置避险",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720172.shtml",
+        "publishedAt": "2026-10-24T08:26:50.000+08:00"
+      },
       {
         "title": "10月24日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-24/10720171.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
         "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720168.shtml",
         "publishedAt": "2026-10-24T06:35:24.000+08:00"
-      },
-      {
-        "title": "“共振：中德当代艺术展”在柏林开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720167.shtml",
-        "publishedAt": "2026-10-24T06:33:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T08:30:03.825+08:00",
+    "fetchedAt": "2026-10-24T08:40:03.704+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T08:30:07.386+08:00",
+      "fetchedAt": "2026-10-24T08:40:37.258+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T08:30:07.651+08:00",
+      "fetchedAt": "2026-10-24T08:40:37.721+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T08:30:07.658+08:00",
+      "fetchedAt": "2026-10-24T08:40:37.730+08:00",
       "error": null
     }
   }
