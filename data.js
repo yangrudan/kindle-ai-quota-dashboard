@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T14:20:08.590+08:00",
+  "updatedAt": "2026-10-24T14:30:09.354+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 18.7,
     "feelsLikeC": 18.2,
     "humidity": 85,
-    "windKph": 17.8,
+    "windKph": 18.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T14:20:08.591+08:00",
+    "observedAt": "2026-10-24T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T14:30:09.355+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "扩大经贸合作 释放更多“惠邻”“富邻”效应",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720313.shtml",
+        "publishedAt": "2026-10-24T14:22:16.000+08:00"
+      },
+      {
+        "title": "2026桂林艺术节开幕 山水为台戏联中外",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720305.shtml",
+        "publishedAt": "2026-10-24T14:19:06.000+08:00"
+      },
+      {
+        "title": "新疆铁路双口岸今年通行中欧（亚）班列超1.5万列",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720304.shtml",
+        "publishedAt": "2026-10-24T14:17:22.000+08:00"
+      },
       {
         "title": "兰西城市群青少年软式棒垒球邀请赛在西宁开赛",
         "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720303.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "工业互联网操作系统产业联盟在深成立",
         "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720300.shtml",
         "publishedAt": "2026-10-24T14:07:45.000+08:00"
-      },
-      {
-        "title": "武夷玉女峰与瑞士菲斯特峰设立姐妹峰联名打卡地标",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720299.shtml",
-        "publishedAt": "2026-10-24T14:05:53.000+08:00"
-      },
-      {
-        "title": "秋落轨道间：长春 “落叶不扫”的浪漫减法",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720309.shtml",
-        "publishedAt": "2026-10-24T14:04:37.000+08:00"
-      },
-      {
-        "title": "2026全球治理论坛（雄安）开幕 与会外宾参访感受“未来之城”魅力",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720307.shtml",
-        "publishedAt": "2026-10-24T13:59:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T14:20:03.443+08:00",
+    "fetchedAt": "2026-10-24T14:30:03.624+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T14:20:07.358+08:00",
+      "fetchedAt": "2026-10-24T14:30:08.025+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-10-24T19:06:55.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 1,
+          "usedPct": 2,
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T14:20:07.680+08:00",
+      "fetchedAt": "2026-10-24T14:30:08.284+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T14:20:07.683+08:00",
+      "fetchedAt": "2026-10-24T14:30:08.294+08:00",
       "error": null
     }
   }
