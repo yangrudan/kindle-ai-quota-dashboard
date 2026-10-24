@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T21:50:08.661+08:00",
+  "updatedAt": "2026-10-24T22:00:08.975+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
+    "description": "晴",
+    "iconKey": "clear",
     "tempC": 19.1,
     "feelsLikeC": 19.6,
-    "humidity": 91,
-    "windKph": 15.3,
+    "humidity": 92,
+    "windKph": 15.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T21:50:08.662+08:00",
+    "observedAt": "2026-10-24T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-24T22:00:08.975+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泰国总理：泰国将积极参与国际合作推动和平与可持续发展",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720517.shtml",
+        "publishedAt": "2026-10-24T21:51:10.000+08:00"
+      },
+      {
+        "title": "联合国政策事务副秘书长：全球治理倡议帮助落实联合国目标",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720516.shtml",
+        "publishedAt": "2026-10-24T21:49:18.000+08:00"
+      },
       {
         "title": "一字纳山河 笔墨润香江——香港举办中国书法体验活动",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720503.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "20类救灾物资已陆续运往西藏巴青地震灾区",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720506.shtml",
         "publishedAt": "2026-10-24T21:26:17.000+08:00"
-      },
-      {
-        "title": "亚残运会中国队创境外参赛最好成绩 展现残疾人体育事业新篇章",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720507.shtml",
-        "publishedAt": "2026-10-24T21:25:11.000+08:00"
-      },
-      {
-        "title": "工科赋能区域国别学：学界业界共探企业出海“导航图”",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720504.shtml",
-        "publishedAt": "2026-10-24T21:25:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T21:50:03.403+08:00",
+    "fetchedAt": "2026-10-24T22:00:03.377+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T21:50:07.483+08:00",
+      "fetchedAt": "2026-10-24T22:00:07.481+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T21:50:07.841+08:00",
+      "fetchedAt": "2026-10-24T22:00:07.736+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T21:50:07.849+08:00",
+      "fetchedAt": "2026-10-24T22:00:07.744+08:00",
       "error": null
     }
   }
