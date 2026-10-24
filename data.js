@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T18:10:08.349+08:00",
+  "updatedAt": "2026-10-24T18:20:08.172+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 18.6,
-    "humidity": 89,
-    "windKph": 17.2,
+    "tempC": 18.8,
+    "feelsLikeC": 18.7,
+    "humidity": 88,
+    "windKph": 17.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T18:10:08.349+08:00",
+    "observedAt": "2026-10-24T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-24T18:20:08.172+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国社科院主办“一国两制”研讨会 聚焦港澳五年规划",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720408.shtml",
-        "publishedAt": "2026-10-24T18:03:54.000+08:00"
+        "title": "纪念中国工农红军长征胜利90周年主题音像出版物公开发行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720416.shtml",
+        "publishedAt": "2026-10-24T18:14:31.000+08:00"
       },
       {
-        "title": "第十九届“振兴杯”全国青年职业技能大赛在浙江杭州举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720400.shtml",
-        "publishedAt": "2026-10-24T18:01:06.000+08:00"
+        "title": "海内外乒乓球爱好者乐聚南京 “为爱益起乒”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720403.shtml",
+        "publishedAt": "2026-10-24T18:11:18.000+08:00"
       },
       {
-        "title": "香港“创新科技嘉年华2026”开幕 推广创科文化",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720386.shtml",
-        "publishedAt": "2026-10-24T17:58:46.000+08:00"
+        "title": "从湘东小城到狮城餐桌 湖南浏阳蒸菜“出海”解乡愁",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720410.shtml",
+        "publishedAt": "2026-10-24T18:06:00.000+08:00"
       },
       {
-        "title": "“没有声音”、3秒飞出2.4公里……美国公布新一批UFO文件",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720409.shtml",
-        "publishedAt": "2026-10-24T17:56:52.000+08:00"
+        "title": "三年一度 福建客家民俗“作大福”场面壮观",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720401.shtml",
+        "publishedAt": "2026-10-24T18:05:02.000+08:00"
       },
       {
-        "title": "山东济南：民众游赏趵突泉",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720385.shtml",
-        "publishedAt": "2026-10-24T17:54:47.000+08:00"
+        "title": "渝昆高铁全线铺轨完成 预计2027年上半年具备通车条件",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720407.shtml",
+        "publishedAt": "2026-10-24T18:04:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T18:10:03.487+08:00",
+    "fetchedAt": "2026-10-24T18:20:03.341+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T18:10:07.205+08:00",
+      "fetchedAt": "2026-10-24T18:20:07.070+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T18:10:07.442+08:00",
+      "fetchedAt": "2026-10-24T18:20:07.285+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T18:10:07.450+08:00",
+      "fetchedAt": "2026-10-24T18:20:07.293+08:00",
       "error": null
     }
   }
