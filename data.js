@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T10:20:08.830+08:00",
+  "updatedAt": "2026-10-24T10:30:09.055+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.5,
-    "feelsLikeC": 17.2,
-    "humidity": 94,
+    "tempC": 17.7,
+    "feelsLikeC": 17.4,
+    "humidity": 93,
     "windKph": 17.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T10:20:08.830+08:00",
+    "observedAt": "2026-10-24T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T10:30:09.055+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《追逐大力神》——刘占崑世界杯摄影精品展亮相2026世界摄影人大会",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208693.shtml",
+        "publishedAt": "2026-10-24T10:21:24.000+08:00"
+      },
       {
         "title": "壹视界｜“娃娃们呐，你们不必受这般苦，但千万莫忘来时路”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720211.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026清华国际艺术与设计教育大会举行",
         "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720202.shtml",
         "publishedAt": "2026-10-24T10:03:40.000+08:00"
-      },
-      {
-        "title": "湖南省委主要负责同志职务调整",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720204.shtml",
-        "publishedAt": "2026-10-24T10:02:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T10:20:02.871+08:00",
+    "fetchedAt": "2026-10-24T10:30:03.516+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T10:20:07.648+08:00",
+      "fetchedAt": "2026-10-24T10:30:07.940+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T10:20:07.812+08:00",
+      "fetchedAt": "2026-10-24T10:30:08.134+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T10:20:07.820+08:00",
+      "fetchedAt": "2026-10-24T10:30:08.141+08:00",
       "error": null
     }
   }
