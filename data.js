@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T23:50:10.127+08:00",
+  "updatedAt": "2026-10-25T00:00:09.762+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.8,
-    "feelsLikeC": 19,
+    "feelsLikeC": 18.9,
     "humidity": 93,
-    "windKph": 17.2,
+    "windKph": 17.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T23:50:10.127+08:00",
+    "observedAt": "2026-10-25T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-25T00:00:09.762+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国短池游泳锦标赛：徐嘉余一晚两破仰泳纪录",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720535.shtml",
+        "publishedAt": "2026-10-24T23:47:02.000+08:00"
+      },
       {
         "title": "中超第29轮：蓉城负英博无缘提前夺冠 三镇不敌泰山确认降级",
         "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720527.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中外专家学者在北庭故地探讨北庭学发展新径",
         "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720520.shtml",
         "publishedAt": "2026-10-24T22:02:39.000+08:00"
-      },
-      {
-        "title": "中国商务部回应美发布新版对外投资限制拟议规则",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720519.shtml",
-        "publishedAt": "2026-10-24T22:01:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T23:50:05.001+08:00",
+    "fetchedAt": "2026-10-25T00:00:03.469+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T23:50:08.960+08:00",
+      "fetchedAt": "2026-10-25T00:00:08.408+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T23:50:09.236+08:00",
+      "fetchedAt": "2026-10-25T00:00:08.642+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T23:50:09.245+08:00",
+      "fetchedAt": "2026-10-25T00:00:08.652+08:00",
       "error": null
     }
   }
