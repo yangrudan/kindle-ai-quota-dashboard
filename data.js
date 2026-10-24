@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T16:50:07.798+08:00",
+  "updatedAt": "2026-10-24T17:00:07.941+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T16:50:07.798+08:00",
+    "fetchedAt": "2026-10-24T17:00:07.941+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "青海玉树州杂多县发生5.3级地震，震源深度10千米",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720375.shtml",
+        "publishedAt": "2026-10-24T16:52:14.000+08:00"
+      },
       {
         "title": "云南省委主要负责同志职务调整",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720374.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "AI架起光影桥梁 中非共探影视合作新路径",
         "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720343.shtml",
         "publishedAt": "2026-10-24T16:36:03.000+08:00"
-      },
-      {
-        "title": "直播海报：西藏巴青7.0级地震 记者探访岗切乡安置点",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720373.shtml",
-        "publishedAt": "2026-10-24T16:31:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T16:50:02.707+08:00",
+    "fetchedAt": "2026-10-24T17:00:02.849+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T16:50:06.534+08:00",
+      "fetchedAt": "2026-10-24T17:00:06.820+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 19,
           "resetAt": "2026-10-24T19:06:55.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T16:50:06.827+08:00",
+      "fetchedAt": "2026-10-24T17:00:07.117+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T16:50:06.837+08:00",
+      "fetchedAt": "2026-10-24T17:00:07.127+08:00",
       "error": null
     }
   }
