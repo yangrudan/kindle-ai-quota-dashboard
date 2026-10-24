@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T08:50:07.995+08:00",
+  "updatedAt": "2026-10-24T09:00:07.606+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-24T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T08:50:07.995+08:00",
+    "fetchedAt": "2026-10-24T09:00:07.606+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "仍在黄金救援期、部分帐篷已通电 西藏7.0级地震昨夜今晨救援最新进展",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720182.shtml",
+        "publishedAt": "2026-10-24T08:50:20.000+08:00"
+      },
+      {
+        "title": "西藏巴青县地震前后遥感图发布 暂未见大面积房屋严重损毁",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720181.shtml",
+        "publishedAt": "2026-10-24T08:46:36.000+08:00"
+      },
       {
         "title": "2027考研报名今天截止！@考生们：这些事项需关注",
         "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720175.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "10月24日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-24/10720171.shtml",
         "publishedAt": "2026-10-24T07:09:34.000+08:00"
-      },
-      {
-        "title": "年轻人开始流行“喝大水” 极简养生的背后怎么喝才更健康？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720170.shtml",
-        "publishedAt": "2026-10-24T06:39:59.000+08:00"
-      },
-      {
-        "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720169.shtml",
-        "publishedAt": "2026-10-24T06:36:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T08:50:03.229+08:00",
+    "fetchedAt": "2026-10-24T09:00:02.745+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T08:50:06.604+08:00",
+      "fetchedAt": "2026-10-24T09:00:06.499+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T08:50:06.981+08:00",
+      "fetchedAt": "2026-10-24T09:00:06.769+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T08:50:06.990+08:00",
+      "fetchedAt": "2026-10-24T09:00:06.778+08:00",
       "error": null
     }
   }
