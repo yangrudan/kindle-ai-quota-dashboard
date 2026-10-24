@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T22:00:08.975+08:00",
+  "updatedAt": "2026-10-24T22:10:08.765+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T22:00:08.975+08:00",
+    "fetchedAt": "2026-10-24T22:10:08.766+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "泰国总理：泰国将积极参与国际合作推动和平与可持续发展",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720517.shtml",
-        "publishedAt": "2026-10-24T21:51:10.000+08:00"
+        "title": "西藏巴青地震现场：救援力量帮助受灾信众找回唐卡经书等物品",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720524.shtml",
+        "publishedAt": "2026-10-24T22:06:05.000+08:00"
       },
       {
-        "title": "联合国政策事务副秘书长：全球治理倡议帮助落实联合国目标",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720516.shtml",
-        "publishedAt": "2026-10-24T21:49:18.000+08:00"
+        "title": "中美文博专家：文物也可联结不同文明",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720523.shtml",
+        "publishedAt": "2026-10-24T22:03:49.000+08:00"
       },
       {
-        "title": "一字纳山河 笔墨润香江——香港举办中国书法体验活动",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720503.shtml",
-        "publishedAt": "2026-10-24T21:26:49.000+08:00"
+        "title": "中外专家学者在北庭故地探讨北庭学发展新径",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720520.shtml",
+        "publishedAt": "2026-10-24T22:02:39.000+08:00"
       },
       {
-        "title": "16小时完成 水电基础局驰援巴青地震灾区板房搭建任务收官",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720508.shtml",
-        "publishedAt": "2026-10-24T21:26:37.000+08:00"
+        "title": "中国商务部回应美发布新版对外投资限制拟议规则",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720519.shtml",
+        "publishedAt": "2026-10-24T22:01:29.000+08:00"
       },
       {
-        "title": "20类救灾物资已陆续运往西藏巴青地震灾区",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720506.shtml",
-        "publishedAt": "2026-10-24T21:26:17.000+08:00"
+        "title": "中外专家谈港澳五年规划：转变角色 融入大局",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720518.shtml",
+        "publishedAt": "2026-10-24T22:00:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T22:00:03.377+08:00",
+    "fetchedAt": "2026-10-24T22:10:03.522+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T22:00:07.481+08:00",
+      "fetchedAt": "2026-10-24T22:10:07.287+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T22:00:07.736+08:00",
+      "fetchedAt": "2026-10-24T22:10:07.641+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T22:00:07.744+08:00",
+      "fetchedAt": "2026-10-24T22:10:07.646+08:00",
       "error": null
     }
   }
