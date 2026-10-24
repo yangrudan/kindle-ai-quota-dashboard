@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T09:40:10.602+08:00",
+  "updatedAt": "2026-10-24T09:50:37.486+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.1,
-    "feelsLikeC": 16.8,
+    "tempC": 17.2,
+    "feelsLikeC": 16.9,
     "humidity": 95,
-    "windKph": 16.5,
+    "windKph": 16.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T09:40:10.603+08:00",
+    "observedAt": "2026-10-24T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-24T09:50:37.486+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "岛内人士：两岸共同纪念台湾光复 传承先辈爱国主义精神",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720193.shtml",
+        "publishedAt": "2026-10-24T09:42:27.000+08:00"
+      },
+      {
+        "title": "“双创”大赛生物医药产业赛区（广东广州）举行颁奖仪式",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720194.shtml",
+        "publishedAt": "2026-10-24T09:32:18.000+08:00"
+      },
       {
         "title": "2026年全国游泳锦标赛（25米）：于子迪获得女子200米个人混合泳冠军",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208677.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "王毅出席2026全球治理论坛（雄安）开幕式",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720179.shtml",
         "publishedAt": "2026-10-24T09:15:57.000+08:00"
-      },
-      {
-        "title": "王毅：要共同坚持开放发展的正确方向",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720188.shtml",
-        "publishedAt": "2026-10-24T09:11:37.000+08:00"
-      },
-      {
-        "title": "人这一辈子，一定要去青冈看黑土地丰收！",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720173.shtml",
-        "publishedAt": "2026-10-24T09:11:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T09:40:03.108+08:00",
+    "fetchedAt": "2026-10-24T09:50:02.674+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T09:40:08.359+08:00",
+      "fetchedAt": "2026-10-24T09:50:36.366+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T09:40:09.689+08:00",
+      "fetchedAt": "2026-10-24T09:50:36.674+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T09:40:09.698+08:00",
+      "fetchedAt": "2026-10-24T09:50:36.678+08:00",
       "error": null
     }
   }
