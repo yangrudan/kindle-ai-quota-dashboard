@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T10:30:09.055+08:00",
+  "updatedAt": "2026-10-24T10:40:09.348+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T10:30:09.055+08:00",
+    "fetchedAt": "2026-10-24T10:40:09.348+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《追逐大力神》——刘占崑世界杯摄影精品展亮相2026世界摄影人大会",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208693.shtml",
-        "publishedAt": "2026-10-24T10:21:24.000+08:00"
+        "title": "中韩合拍“慰安妇”主题纪录片《5》在马尼拉举行放映式",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720210.shtml",
+        "publishedAt": "2026-10-24T10:35:07.000+08:00"
       },
       {
-        "title": "壹视界｜“娃娃们呐，你们不必受这般苦，但千万莫忘来时路”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720211.shtml",
-        "publishedAt": "2026-10-24T10:11:18.000+08:00"
+        "title": "中越海事业务交流在南宁举行 聚焦通航秩序与安全",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720209.shtml",
+        "publishedAt": "2026-10-24T10:34:25.000+08:00"
       },
       {
-        "title": "中国石油在巴青震中设立临时油品保供点 保障救援车辆用油",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720208.shtml",
-        "publishedAt": "2026-10-24T10:07:56.000+08:00"
+        "title": "博克拉—迪拜航线开通首月运送旅客逾6000人次",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720217.shtml",
+        "publishedAt": "2026-10-24T10:33:41.000+08:00"
       },
       {
-        "title": "2026年全国游泳锦标赛（25米）：张展硕获得男子1500米自由泳冠军",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208690.shtml",
-        "publishedAt": "2026-10-24T10:06:49.000+08:00"
+        "title": "广西北海归侨安置点开展医疗服务和法治宣传活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720207.shtml",
+        "publishedAt": "2026-10-24T10:33:01.000+08:00"
       },
       {
-        "title": "2026清华国际艺术与设计教育大会举行",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720202.shtml",
-        "publishedAt": "2026-10-24T10:03:40.000+08:00"
+        "title": "广西将办第四届职业技能大赛暨人才活动周系列活动",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720205.shtml",
+        "publishedAt": "2026-10-24T10:32:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T10:30:03.516+08:00",
+    "fetchedAt": "2026-10-24T10:40:03.601+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T10:30:07.940+08:00",
+      "fetchedAt": "2026-10-24T10:40:07.882+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T10:30:08.134+08:00",
+      "fetchedAt": "2026-10-24T10:40:08.151+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T10:30:08.141+08:00",
+      "fetchedAt": "2026-10-24T10:40:08.158+08:00",
       "error": null
     }
   }
