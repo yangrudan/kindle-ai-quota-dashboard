@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:40:38.959+08:00",
+  "updatedAt": "2026-10-24T17:50:08.162+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 18.7,
     "feelsLikeC": 18.5,
     "humidity": 89,
-    "windKph": 17.7,
+    "windKph": 17.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T17:40:38.959+08:00",
+    "observedAt": "2026-10-24T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-24T17:50:08.163+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "第五届亚残运会在日本名古屋闭幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720395.shtml",
+        "publishedAt": "2026-10-24T17:43:11.000+08:00"
+      },
+      {
+        "title": "首届泰国华文校长成长营在曼谷举办",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720302.shtml",
+        "publishedAt": "2026-10-24T17:37:14.000+08:00"
+      },
+      {
+        "title": "新华时评｜纪念台湾光复 携手共促祖国统一",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-24/10720388.shtml",
+        "publishedAt": "2026-10-24T17:36:04.000+08:00"
+      },
+      {
+        "title": "趁着风小，锡林郭勒草原上的风电场给风机做“体检”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720383.shtml",
+        "publishedAt": "2026-10-24T17:34:24.000+08:00"
+      },
+      {
         "title": "扩投资、促消费、强数字动能 一组数据展现今年前三季度经济活力",
         "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720382.shtml",
         "publishedAt": "2026-10-24T17:26:02.000+08:00"
-      },
-      {
-        "title": "2026年江西省户外运动和体育产业发展大会在南昌湾里开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720336.shtml",
-        "publishedAt": "2026-10-24T17:22:02.000+08:00"
-      },
-      {
-        "title": "2026“中华文化大乐园”德国汉堡园活动开幕",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720334.shtml",
-        "publishedAt": "2026-10-24T17:21:16.000+08:00"
-      },
-      {
-        "title": "空间科学如何助力太空安全？王赤院士开讲《太阳风暴交响曲》",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720333.shtml",
-        "publishedAt": "2026-10-24T17:20:42.000+08:00"
-      },
-      {
-        "title": "天津创排舞台剧《少年国旗班》赴疆巡演 以少年故事传递家国情怀",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-24/10720338.shtml",
-        "publishedAt": "2026-10-24T17:20:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T17:40:03.442+08:00",
+    "fetchedAt": "2026-10-24T17:50:02.954+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T17:40:37.734+08:00",
+      "fetchedAt": "2026-10-24T17:50:06.988+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T17:40:38.167+08:00",
+      "fetchedAt": "2026-10-24T17:50:07.316+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T17:40:38.174+08:00",
+      "fetchedAt": "2026-10-24T17:50:07.324+08:00",
       "error": null
     }
   }
