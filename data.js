@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T16:30:08.042+08:00",
+  "updatedAt": "2026-10-24T16:40:08.420+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T16:30:08.043+08:00",
+    "fetchedAt": "2026-10-24T16:40:08.420+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "直播海报：西藏巴青7.0级地震 记者探访岗切乡安置点",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720373.shtml",
+        "publishedAt": "2026-10-24T16:31:45.000+08:00"
+      },
+      {
+        "title": "直播：西藏巴青7.0级地震 记者探访岗切乡安置点",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-24/10720372.shtml",
+        "publishedAt": "2026-10-24T16:29:23.000+08:00"
+      },
       {
         "title": "浙江横店：深耕实景根基 借力AI赋能产业",
         "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720344.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "从一尾鱼、一艘船、一台戏读懂“宜都活力”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720346.shtml",
         "publishedAt": "2026-10-24T16:23:35.000+08:00"
-      },
-      {
-        "title": "2026艺术厦门博览会举办 呈现近万件艺术品",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720347.shtml",
-        "publishedAt": "2026-10-24T16:20:54.000+08:00"
-      },
-      {
-        "title": "菲律宾南阿古桑省枪击事件致1死2伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720367.shtml",
-        "publishedAt": "2026-10-24T16:19:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T16:30:03.270+08:00",
+    "fetchedAt": "2026-10-24T16:40:03.353+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T16:30:06.891+08:00",
+      "fetchedAt": "2026-10-24T16:40:07.288+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T16:30:07.185+08:00",
+      "fetchedAt": "2026-10-24T16:40:07.489+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T16:30:07.194+08:00",
+      "fetchedAt": "2026-10-24T16:40:07.498+08:00",
       "error": null
     }
   }
