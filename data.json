@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-24T19:50:07.656+08:00",
+  "updatedAt": "2026-10-24T20:00:09.379+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.1,
+    "tempC": 19.2,
     "feelsLikeC": 19,
     "humidity": 87,
-    "windKph": 17.6,
+    "windKph": 17.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T19:50:07.657+08:00",
+    "observedAt": "2026-10-24T20:00:00.000+08:00",
+    "fetchedAt": "2026-10-24T20:00:09.379+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国首个区域电力市场正式运行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720447.shtml",
-        "publishedAt": "2026-10-24T19:26:34.000+08:00"
+        "title": "内蒙古草原小城秋末迎降雪 市民尽享雪趣",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720452.shtml",
+        "publishedAt": "2026-10-24T19:57:12.000+08:00"
       },
       {
-        "title": "“阅·见中国”中国文化交流体验活动在韩国首尔举行",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208752.shtml",
-        "publishedAt": "2026-10-24T19:23:35.000+08:00"
+        "title": "以镜头“对话”：世界摄影人浙江丽水共赴光影之约",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720455.shtml",
+        "publishedAt": "2026-10-24T19:55:04.000+08:00"
       },
       {
-        "title": "李希在二十届中央第八轮巡视工作动员部署会上强调 深入学习贯彻习近平党建思想 以更高标准更实举措推动新征程",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720444.shtml",
-        "publishedAt": "2026-10-24T19:23:34.000+08:00"
+        "title": "校地携手 福建屏南以艺术唤醒乡土激活乡村",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720454.shtml",
+        "publishedAt": "2026-10-24T19:54:28.000+08:00"
       },
       {
-        "title": "溯源江海文脉 沪港学者在上海共话双城文化互鉴脉络",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720445.shtml",
-        "publishedAt": "2026-10-24T19:17:38.000+08:00"
+        "title": "广西农博会萌宠主题馆萌趣不断 “可逛可买可体验”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720451.shtml",
+        "publishedAt": "2026-10-24T19:54:20.000+08:00"
       },
       {
-        "title": "2027年度中央机关公开遴选和公开选调公务员报名即将开始",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720446.shtml",
-        "publishedAt": "2026-10-24T19:17:34.000+08:00"
+        "title": "“冀南棉海”采收忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720449.shtml",
+        "publishedAt": "2026-10-24T19:52:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T19:50:02.777+08:00",
+    "fetchedAt": "2026-10-24T20:00:04.304+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T19:50:06.366+08:00",
+      "fetchedAt": "2026-10-24T20:00:08.144+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T19:50:06.680+08:00",
+      "fetchedAt": "2026-10-24T20:00:08.421+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T19:50:06.689+08:00",
+      "fetchedAt": "2026-10-24T20:00:08.427+08:00",
       "error": null
     }
   }
