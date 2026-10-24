@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T18:30:41.706+08:00",
+  "updatedAt": "2026-10-24T18:40:08.270+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T18:30:41.706+08:00",
+    "fetchedAt": "2026-10-24T18:40:08.270+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“算力大户”内蒙古谋求“出海”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720387.shtml",
-        "publishedAt": "2026-10-24T18:25:01.000+08:00"
+        "title": "尼泊尔前总统吁加强环喜马拉雅国家间冰川监测等合作",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720405.shtml",
+        "publishedAt": "2026-10-24T18:35:50.000+08:00"
       },
       {
-        "title": "脑机接口高质量数据集建设项目在武汉启动",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720384.shtml",
-        "publishedAt": "2026-10-24T18:23:45.000+08:00"
+        "title": "“新时代山乡巨变创作计划”入选项目《纯真年代》研讨会举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720402.shtml",
+        "publishedAt": "2026-10-24T18:35:22.000+08:00"
       },
       {
-        "title": "浙江00后摊主因“建模脸”帅出圈！当事人回应：我只是一个认认真真卖鸡饭的人",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720417.shtml",
-        "publishedAt": "2026-10-24T18:21:31.000+08:00"
+        "title": "全国场车安全监管会议鼓励推广数字化手段防事故",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720399.shtml",
+        "publishedAt": "2026-10-24T18:34:34.000+08:00"
       },
       {
-        "title": "第140届广交会第二期：境外采购商扎堆“看房”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720412.shtml",
-        "publishedAt": "2026-10-24T18:21:21.000+08:00"
+        "title": "宁波大学建校40周年 包陪庆：“宁波帮”是宁大最强后盾",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720397.shtml",
+        "publishedAt": "2026-10-24T18:33:56.000+08:00"
       },
       {
-        "title": "第十七届中国长江三峡国际旅游节文艺交流展演在渝举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720411.shtml",
-        "publishedAt": "2026-10-24T18:19:13.000+08:00"
+        "title": "学体联2026年全国大学生自行车锦标赛在云南昭通开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720396.shtml",
+        "publishedAt": "2026-10-24T18:32:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T18:30:06.071+08:00",
+    "fetchedAt": "2026-10-24T18:40:03.222+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T18:30:40.419+08:00",
+      "fetchedAt": "2026-10-24T18:40:07.165+08:00",
       "error": null
     },
     "codex": {
@@ -75,10 +75,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-10-31T08:09:18.000+08:00"
+          "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T18:30:40.689+08:00",
+      "fetchedAt": "2026-10-24T18:40:07.373+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T18:30:40.697+08:00",
+      "fetchedAt": "2026-10-24T18:40:07.378+08:00",
       "error": null
     }
   }
