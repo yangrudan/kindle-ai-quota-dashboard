@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T14:40:07.811+08:00",
+  "updatedAt": "2026-10-24T14:50:38.836+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.7,
-    "feelsLikeC": 18.2,
-    "humidity": 85,
-    "windKph": 18.1,
+    "feelsLikeC": 18.5,
+    "humidity": 89,
+    "windKph": 17.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T14:40:07.811+08:00",
+    "observedAt": "2026-10-24T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-24T14:50:38.836+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "人民论坛网评 | 走好我们这一代人的长征路",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-24/10720318.shtml",
-        "publishedAt": "2026-10-24T14:35:15.000+08:00"
+        "title": "第四届中原官话开封方言大会举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720306.shtml",
+        "publishedAt": "2026-10-24T14:45:03.000+08:00"
       },
       {
-        "title": "赋能发展中国家 世界人工智能合作组织推动弥合全球智能鸿沟",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720316.shtml",
-        "publishedAt": "2026-10-24T14:29:46.000+08:00"
+        "title": "【好评中国】河声丨古银杏下话长征，红色根脉何以枝繁叶茂",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-24/10720323.shtml",
+        "publishedAt": "2026-10-24T14:43:57.000+08:00"
       },
       {
-        "title": "拜鬼招魂、军演扩武，日方种种消极动向有何图谋？",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720314.shtml",
-        "publishedAt": "2026-10-24T14:27:04.000+08:00"
+        "title": "2026东南亚中国图书巡回展走进泰国",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720308.shtml",
+        "publishedAt": "2026-10-24T14:41:29.000+08:00"
       },
       {
-        "title": "扩大经贸合作 释放更多“惠邻”“富邻”效应",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720313.shtml",
-        "publishedAt": "2026-10-24T14:22:16.000+08:00"
+        "title": "青春华章·逐梦北疆｜把“乡土草种”攥在中国人自己手里",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720320.shtml",
+        "publishedAt": "2026-10-24T14:41:27.000+08:00"
       },
       {
-        "title": "2026桂林艺术节开幕 山水为台戏联中外",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720305.shtml",
-        "publishedAt": "2026-10-24T14:19:06.000+08:00"
+        "title": "历史建筑续新韵 长沙老城更新激活消费业态",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720311.shtml",
+        "publishedAt": "2026-10-24T14:41:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T14:40:03.243+08:00",
+    "fetchedAt": "2026-10-24T14:50:03.256+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T14:40:06.697+08:00",
+      "fetchedAt": "2026-10-24T14:50:37.525+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 8,
           "resetAt": "2026-10-24T19:06:55.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T14:40:07.006+08:00",
+      "fetchedAt": "2026-10-24T14:50:37.903+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T14:40:07.014+08:00",
+      "fetchedAt": "2026-10-24T14:50:37.907+08:00",
       "error": null
     }
   }
