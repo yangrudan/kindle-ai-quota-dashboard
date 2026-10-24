@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T20:20:39.095+08:00",
+  "updatedAt": "2026-10-24T20:30:38.644+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.2,
-    "feelsLikeC": 19,
-    "humidity": 87,
-    "windKph": 18,
+    "tempC": 19.3,
+    "feelsLikeC": 19.1,
+    "humidity": 86,
+    "windKph": 18.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T20:20:39.096+08:00",
+    "observedAt": "2026-10-24T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T20:30:38.644+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香港美食嘉年华启幕 首设东南亚美食区",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720461.shtml",
-        "publishedAt": "2026-10-24T20:13:27.000+08:00"
+        "title": "摸家底、AI赋能 北京市政协议政会建言扎实推进两业融合发展",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-24/10720472.shtml",
+        "publishedAt": "2026-10-24T20:24:07.000+08:00"
       },
       {
-        "title": "广交会观察：“预制房”高效出圈 中国家居从卖单品到给方案",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720460.shtml",
-        "publishedAt": "2026-10-24T20:12:47.000+08:00"
+        "title": "第十七届中国长江三峡国际旅游节集中签约17个文旅项目",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720471.shtml",
+        "publishedAt": "2026-10-24T20:22:31.000+08:00"
       },
       {
-        "title": "30余张古琴在渝展出 两岸琴师共话跨海“琴缘”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720462.shtml",
-        "publishedAt": "2026-10-24T20:11:29.000+08:00"
+        "title": "官方划红线治理汽车行业乱象",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720465.shtml",
+        "publishedAt": "2026-10-24T20:20:13.000+08:00"
       },
       {
-        "title": "广交会观察：从鲜花到“永生花” 中国创新园林用品热销海外",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720459.shtml",
-        "publishedAt": "2026-10-24T20:09:33.000+08:00"
+        "title": "秦岭山下挥杆竞技 2026年陕西省青少年高尔夫球锦标赛启幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720468.shtml",
+        "publishedAt": "2026-10-24T20:20:03.000+08:00"
       },
       {
-        "title": "世界摄影人相聚浙江丽水 共赴光影之约",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720457.shtml",
-        "publishedAt": "2026-10-24T20:08:41.000+08:00"
+        "title": "专家学者江西弋阳研讨红色基因传承与革命老区高质量发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720467.shtml",
+        "publishedAt": "2026-10-24T20:19:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T20:20:03.666+08:00",
+    "fetchedAt": "2026-10-24T20:30:03.949+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T20:20:37.961+08:00",
+      "fetchedAt": "2026-10-24T20:30:37.492+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 36,
           "resetAt": "2026-10-25T00:18:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 9,
+          "usedPct": 10,
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T20:20:38.235+08:00",
+      "fetchedAt": "2026-10-24T20:30:37.794+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T20:20:38.246+08:00",
+      "fetchedAt": "2026-10-24T20:30:37.799+08:00",
       "error": null
     }
   }
