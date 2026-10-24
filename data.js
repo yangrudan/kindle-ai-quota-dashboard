@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T17:00:07.941+08:00",
+  "updatedAt": "2026-10-24T17:10:08.656+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.7,
-    "feelsLikeC": 18.6,
+    "feelsLikeC": 18.5,
     "humidity": 89,
-    "windKph": 17.3,
+    "windKph": 17.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T17:00:07.941+08:00",
+    "observedAt": "2026-10-24T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-24T17:10:08.656+08:00",
     "error": null
   },
   "news": {
@@ -20,12 +20,12 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青海玉树州杂多县发生5.3级地震，震源深度10千米",
+        "title": "青海玉树州杂多县发生5.3级地震 震源深度10千米",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720375.shtml",
         "publishedAt": "2026-10-24T16:52:14.000+08:00"
       },
       {
-        "title": "云南省委主要负责同志职务调整",
+        "title": "云南省委主要负责同志职务调整 莫高义任云南省委书记",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720374.shtml",
         "publishedAt": "2026-10-24T16:44:16.000+08:00"
       },
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-24T16:36:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T17:00:02.849+08:00",
+    "fetchedAt": "2026-10-24T17:10:03.498+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T17:00:06.820+08:00",
+      "fetchedAt": "2026-10-24T17:10:07.232+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T17:00:07.117+08:00",
+      "fetchedAt": "2026-10-24T17:10:07.476+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T17:00:07.127+08:00",
+      "fetchedAt": "2026-10-24T17:10:07.485+08:00",
       "error": null
     }
   }
