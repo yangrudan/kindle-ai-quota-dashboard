@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T15:30:08.342+08:00",
+  "updatedAt": "2026-10-24T15:40:08.318+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T15:30:08.342+08:00",
+    "fetchedAt": "2026-10-24T15:40:08.319+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年广东省“百县千镇万村”篮球赛省级赛在云浮举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720332.shtml",
+        "publishedAt": "2026-10-24T15:35:50.000+08:00"
+      },
+      {
+        "title": "双055护航！辽宁舰编队的“豪华版”有多强，专家详解",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720353.shtml",
+        "publishedAt": "2026-10-24T15:34:38.000+08:00"
+      },
+      {
+        "title": "从训练舰到作战舰再到航母编队核心！辽宁舰十年完成“三步走”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720352.shtml",
+        "publishedAt": "2026-10-24T15:30:52.000+08:00"
+      },
       {
         "title": "武汉经开区：强化“内功” “车谷造”加速出海",
         "url": "http://www.chinanews.com.cn/cj/shipin/2026/10-24/news1072853.shtml",
@@ -28,24 +43,9 @@
         "title": "2026 “一带一路” 国际帆船赛在广西北海举办",
         "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720325.shtml",
         "publishedAt": "2026-10-24T15:09:02.000+08:00"
-      },
-      {
-        "title": "菲律宾空军两架教练机相撞 4名空军飞行员死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720335.shtml",
-        "publishedAt": "2026-10-24T15:06:12.000+08:00"
-      },
-      {
-        "title": "中小学秋假日期公布！多地上新旅游“福利大礼包”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720330.shtml",
-        "publishedAt": "2026-10-24T14:57:04.000+08:00"
-      },
-      {
-        "title": "“被看见”的“阿达西”：烟火漫处守本心",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720324.shtml",
-        "publishedAt": "2026-10-24T14:48:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T15:30:03.018+08:00",
+    "fetchedAt": "2026-10-24T15:40:03.574+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T15:30:07.250+08:00",
+      "fetchedAt": "2026-10-24T15:40:07.241+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T15:30:07.419+08:00",
+      "fetchedAt": "2026-10-24T15:40:07.403+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T15:30:07.423+08:00",
+      "fetchedAt": "2026-10-24T15:40:07.408+08:00",
       "error": null
     }
   }
