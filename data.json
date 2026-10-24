@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-24T09:50:37.486+08:00",
+  "updatedAt": "2026-10-24T10:00:09.996+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.2,
-    "feelsLikeC": 16.9,
-    "humidity": 95,
-    "windKph": 16.8,
+    "tempC": 17.3,
+    "feelsLikeC": 17,
+    "humidity": 94,
+    "windKph": 17.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T09:50:37.486+08:00",
+    "observedAt": "2026-10-24T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-24T10:00:09.996+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026年全国游泳锦标赛（25米）：李冰洁获得女子400米自由泳冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208687.shtml",
+        "publishedAt": "2026-10-24T09:57:51.000+08:00"
+      },
+      {
+        "title": "拼搏、热爱、并肩同行……盘点亚残运会上的动人瞬间",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720197.shtml",
+        "publishedAt": "2026-10-24T09:50:37.000+08:00"
+      },
+      {
         "title": "岛内人士：两岸共同纪念台湾光复 传承先辈爱国主义精神",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720193.shtml",
         "publishedAt": "2026-10-24T09:42:27.000+08:00"
       },
       {
+        "title": "直击西藏巴青7.0级地震一线",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208681.shtml",
+        "publishedAt": "2026-10-24T09:37:38.000+08:00"
+      },
+      {
         "title": "“双创”大赛生物医药产业赛区（广东广州）举行颁奖仪式",
         "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720194.shtml",
         "publishedAt": "2026-10-24T09:32:18.000+08:00"
-      },
-      {
-        "title": "2026年全国游泳锦标赛（25米）：于子迪获得女子200米个人混合泳冠军",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208677.shtml",
-        "publishedAt": "2026-10-24T09:16:29.000+08:00"
-      },
-      {
-        "title": "王毅会见联合国难民事务高级专员萨利赫",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720180.shtml",
-        "publishedAt": "2026-10-24T09:16:21.000+08:00"
-      },
-      {
-        "title": "王毅出席2026全球治理论坛（雄安）开幕式",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720179.shtml",
-        "publishedAt": "2026-10-24T09:15:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T09:50:02.674+08:00",
+    "fetchedAt": "2026-10-24T10:00:04.596+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T09:50:36.366+08:00",
+      "fetchedAt": "2026-10-24T10:00:08.896+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T09:50:36.674+08:00",
+      "fetchedAt": "2026-10-24T10:00:09.194+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T09:50:36.678+08:00",
+      "fetchedAt": "2026-10-24T10:00:09.197+08:00",
       "error": null
     }
   }
