@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T11:50:10.048+08:00",
+  "updatedAt": "2026-10-24T12:00:09.164+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T11:50:10.048+08:00",
+    "fetchedAt": "2026-10-24T12:00:09.165+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“电影+”又有新玩法：一张票根，正在重新定义电影消费",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720255.shtml",
+        "publishedAt": "2026-10-24T11:52:40.000+08:00"
+      },
       {
         "title": "2026宁波网球公开赛：莱巴金娜晋级四强",
         "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720214.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "四价流感疫苗消失了？真相来了→",
         "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720251.shtml",
         "publishedAt": "2026-10-24T11:32:19.000+08:00"
-      },
-      {
-        "title": "2026广西国际农业博览会在南宁开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720199.shtml",
-        "publishedAt": "2026-10-24T11:29:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T11:50:04.752+08:00",
+    "fetchedAt": "2026-10-24T12:00:03.386+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T11:50:08.754+08:00",
+      "fetchedAt": "2026-10-24T12:00:07.511+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T11:50:09.039+08:00",
+      "fetchedAt": "2026-10-24T12:00:07.872+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T11:50:09.048+08:00",
+      "fetchedAt": "2026-10-24T12:00:07.886+08:00",
       "error": null
     }
   }
