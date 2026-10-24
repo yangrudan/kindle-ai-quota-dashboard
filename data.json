@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-24T09:20:09.109+08:00",
+  "updatedAt": "2026-10-24T09:30:38.945+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17,
+    "tempC": 17.1,
     "feelsLikeC": 16.8,
     "humidity": 95,
-    "windKph": 15.8,
+    "windKph": 16.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T09:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T09:20:09.109+08:00",
+    "observedAt": "2026-10-24T09:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T09:30:38.945+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年全国游泳锦标赛（25米）：于子迪获得女子200米个人混合泳冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208677.shtml",
+        "publishedAt": "2026-10-24T09:16:29.000+08:00"
+      },
+      {
+        "title": "王毅会见联合国难民事务高级专员萨利赫",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720180.shtml",
+        "publishedAt": "2026-10-24T09:16:21.000+08:00"
+      },
       {
         "title": "王毅出席2026全球治理论坛（雄安）开幕式",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720179.shtml",
@@ -33,19 +43,9 @@
         "title": "人这一辈子，一定要去青冈看黑土地丰收！",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720173.shtml",
         "publishedAt": "2026-10-24T09:11:17.000+08:00"
-      },
-      {
-        "title": "王毅宣布中方进一步落实全球治理倡议的务实行动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720187.shtml",
-        "publishedAt": "2026-10-24T09:11:13.000+08:00"
-      },
-      {
-        "title": "王毅：要共同完善新兴领域的治理规则",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720186.shtml",
-        "publishedAt": "2026-10-24T09:10:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T09:20:03.440+08:00",
+    "fetchedAt": "2026-10-24T09:30:04.227+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T09:20:07.823+08:00",
+      "fetchedAt": "2026-10-24T09:30:37.753+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T09:20:08.160+08:00",
+      "fetchedAt": "2026-10-24T09:30:38.104+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T09:20:08.167+08:00",
+      "fetchedAt": "2026-10-24T09:30:38.113+08:00",
       "error": null
     }
   }
