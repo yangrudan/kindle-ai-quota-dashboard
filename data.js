@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T00:00:09.762+08:00",
+  "updatedAt": "2026-10-25T00:10:09.405+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T00:00:09.762+08:00",
+    "fetchedAt": "2026-10-25T00:10:09.405+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2027国考报名截止，多职位数千人竞争一岗",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720536.shtml",
+        "publishedAt": "2026-10-25T00:01:14.000+08:00"
+      },
       {
         "title": "全国短池游泳锦标赛：徐嘉余一晚两破仰泳纪录",
         "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720535.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中美文博专家：文物也可联结不同文明",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720523.shtml",
         "publishedAt": "2026-10-24T22:03:49.000+08:00"
-      },
-      {
-        "title": "中外专家学者在北庭故地探讨北庭学发展新径",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720520.shtml",
-        "publishedAt": "2026-10-24T22:02:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T00:00:03.469+08:00",
+    "fetchedAt": "2026-10-25T00:10:03.973+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:08.408+08:00",
+      "fetchedAt": "2026-10-25T00:10:08.257+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:08.642+08:00",
+      "fetchedAt": "2026-10-25T00:10:08.488+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T00:00:08.652+08:00",
+      "fetchedAt": "2026-10-25T00:10:08.496+08:00",
       "error": null
     }
   }
