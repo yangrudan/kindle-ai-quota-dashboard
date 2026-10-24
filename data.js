@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T11:20:08.091+08:00",
+  "updatedAt": "2026-10-24T11:30:08.884+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 18,
     "feelsLikeC": 17.7,
     "humidity": 91,
-    "windKph": 17.6,
+    "windKph": 17.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T11:20:08.091+08:00",
+    "observedAt": "2026-10-24T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T11:30:08.884+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "日本岩手县附近海域发生5.0级地震 多地有震感",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720246.shtml",
+        "publishedAt": "2026-10-24T11:19:56.000+08:00"
+      },
+      {
+        "title": "一箭六星！长征四号乙运载火箭发射成功",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208711.shtml",
+        "publishedAt": "2026-10-24T11:19:15.000+08:00"
+      },
+      {
+        "title": "累计服务超1亿用户！京东11.11发布家电家居“送装一体”服务升级三大举措",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720240.shtml",
+        "publishedAt": "2026-10-24T11:17:42.000+08:00"
+      },
+      {
+        "title": "长征路上，看见时代巨变",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720242.shtml",
+        "publishedAt": "2026-10-24T11:17:34.000+08:00"
+      },
+      {
         "title": "全球超八成新船订单涌向中国 背后藏着哪些中国制造密码？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720239.shtml",
         "publishedAt": "2026-10-24T11:10:47.000+08:00"
-      },
-      {
-        "title": "约旦一教堂发生枪击致7死 政府称系恐袭",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720227.shtml",
-        "publishedAt": "2026-10-24T11:07:15.000+08:00"
-      },
-      {
-        "title": "瓦努阿图群岛发生6.8级地震 震源深度10千米",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720237.shtml",
-        "publishedAt": "2026-10-24T11:06:11.000+08:00"
-      },
-      {
-        "title": "700余件（套）文物串联两千余年历史，中国长城博物馆开馆",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720236.shtml",
-        "publishedAt": "2026-10-24T11:05:31.000+08:00"
-      },
-      {
-        "title": "中欧班列“东通道”跑出“加速度” 年内通行量突破6000列",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720232.shtml",
-        "publishedAt": "2026-10-24T10:59:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T11:20:02.948+08:00",
+    "fetchedAt": "2026-10-24T11:30:03.725+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T11:20:06.983+08:00",
+      "fetchedAt": "2026-10-24T11:30:07.288+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T11:20:07.254+08:00",
+      "fetchedAt": "2026-10-24T11:30:07.649+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T11:20:07.258+08:00",
+      "fetchedAt": "2026-10-24T11:30:07.657+08:00",
       "error": null
     }
   }
