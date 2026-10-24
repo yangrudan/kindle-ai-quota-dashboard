@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T15:00:07.776+08:00",
+  "updatedAt": "2026-10-24T15:10:38.907+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 18.5,
-    "humidity": 89,
-    "windKph": 17.7,
+    "tempC": 18.8,
+    "feelsLikeC": 18.6,
+    "humidity": 88,
+    "windKph": 17.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T15:00:07.777+08:00",
+    "observedAt": "2026-10-24T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-24T15:10:38.907+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中小学秋假日期公布！多地上新旅游“福利大礼包”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720330.shtml",
+        "publishedAt": "2026-10-24T14:57:04.000+08:00"
+      },
       {
         "title": "“被看见”的“阿达西”：烟火漫处守本心",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720324.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026东南亚中国图书巡回展走进泰国",
         "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720308.shtml",
         "publishedAt": "2026-10-24T14:41:29.000+08:00"
-      },
-      {
-        "title": "青春华章·逐梦北疆｜把“乡土草种”攥在中国人自己手里",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720320.shtml",
-        "publishedAt": "2026-10-24T14:41:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T15:00:02.861+08:00",
+    "fetchedAt": "2026-10-24T15:10:02.751+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T15:00:06.634+08:00",
+      "fetchedAt": "2026-10-24T15:10:37.707+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
+          "usedPct": 18,
           "resetAt": "2026-10-24T19:06:55.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T15:00:06.945+08:00",
+      "fetchedAt": "2026-10-24T15:10:37.942+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T15:00:06.952+08:00",
+      "fetchedAt": "2026-10-24T15:10:37.949+08:00",
       "error": null
     }
   }
