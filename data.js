@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T12:20:08.459+08:00",
+  "updatedAt": "2026-10-24T12:30:09.195+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.2,
-    "feelsLikeC": 17.7,
-    "humidity": 90,
-    "windKph": 18.3,
+    "tempC": 18.3,
+    "feelsLikeC": 17.8,
+    "humidity": 89,
+    "windKph": 18.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T12:20:08.459+08:00",
+    "observedAt": "2026-10-24T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T12:30:09.195+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "50余名缅甸青年临沧“开拍” 用镜头向世界发出“云南之约”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720260.shtml",
+        "publishedAt": "2026-10-24T12:22:19.000+08:00"
+      },
+      {
+        "title": "以瓷会友 2026海峡两岸（景德镇）陶瓷文化交流活动闭幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720258.shtml",
+        "publishedAt": "2026-10-24T12:21:01.000+08:00"
+      },
+      {
+        "title": "“七一勋章”获得者林丹：小巷里的“养老答卷”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720259.shtml",
+        "publishedAt": "2026-10-24T12:18:41.000+08:00"
+      },
       {
         "title": "习言道｜全面从严治党，总书记这些比喻深入人心",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720247.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "冷冷冷！新一波冷空气来袭 供暖季开启前做好这几件事→",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720257.shtml",
         "publishedAt": "2026-10-24T12:05:06.000+08:00"
-      },
-      {
-        "title": "“电影+”又有新玩法：一张票根，正在重新定义电影消费",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720255.shtml",
-        "publishedAt": "2026-10-24T11:52:40.000+08:00"
-      },
-      {
-        "title": "2026宁波网球公开赛：莱巴金娜晋级四强",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720214.shtml",
-        "publishedAt": "2026-10-24T11:42:51.000+08:00"
-      },
-      {
-        "title": "海外华媒探访国内最大陆上人工鲟鱼养殖基地",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720203.shtml",
-        "publishedAt": "2026-10-24T11:38:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T12:20:02.839+08:00",
+    "fetchedAt": "2026-10-24T12:30:04.340+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T12:20:06.969+08:00",
+      "fetchedAt": "2026-10-24T12:30:08.025+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T12:20:07.259+08:00",
+      "fetchedAt": "2026-10-24T12:30:08.314+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T12:20:07.266+08:00",
+      "fetchedAt": "2026-10-24T12:30:08.323+08:00",
       "error": null
     }
   }
