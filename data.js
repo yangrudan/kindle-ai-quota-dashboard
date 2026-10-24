@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T20:00:09.379+08:00",
+  "updatedAt": "2026-10-24T20:10:08.560+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T20:00:09.379+08:00",
+    "fetchedAt": "2026-10-24T20:10:08.560+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "尼泊尔将迎雨雪天气 专家建议暂停高山徒步",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720458.shtml",
+        "publishedAt": "2026-10-24T20:03:56.000+08:00"
+      },
+      {
+        "title": "京西电竞节焕新亮相首钢园 产业矩阵激活区域新动能",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720456.shtml",
+        "publishedAt": "2026-10-24T20:00:54.000+08:00"
+      },
       {
         "title": "内蒙古草原小城秋末迎降雪 市民尽享雪趣",
         "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720452.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "校地携手 福建屏南以艺术唤醒乡土激活乡村",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720454.shtml",
         "publishedAt": "2026-10-24T19:54:28.000+08:00"
-      },
-      {
-        "title": "广西农博会萌宠主题馆萌趣不断 “可逛可买可体验”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720451.shtml",
-        "publishedAt": "2026-10-24T19:54:20.000+08:00"
-      },
-      {
-        "title": "“冀南棉海”采收忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720449.shtml",
-        "publishedAt": "2026-10-24T19:52:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T20:00:04.304+08:00",
+    "fetchedAt": "2026-10-24T20:10:03.683+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T20:00:08.144+08:00",
+      "fetchedAt": "2026-10-24T20:10:07.487+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 25,
           "resetAt": "2026-10-25T00:18:05.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T20:00:08.421+08:00",
+      "fetchedAt": "2026-10-24T20:10:07.734+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T20:00:08.427+08:00",
+      "fetchedAt": "2026-10-24T20:10:07.744+08:00",
       "error": null
     }
   }
