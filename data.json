@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:10:08.656+08:00",
+  "updatedAt": "2026-10-24T17:20:07.584+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 18.7,
     "feelsLikeC": 18.5,
     "humidity": 89,
-    "windKph": 17.7,
+    "windKph": 17.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T17:10:08.656+08:00",
+    "observedAt": "2026-10-24T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-24T17:20:07.584+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "演员吴磊：观众的反馈是创作的一部分",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720377.shtml",
+        "publishedAt": "2026-10-24T17:08:47.000+08:00"
+      },
+      {
+        "title": "第九届中国电影新力量论坛举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720378.shtml",
+        "publishedAt": "2026-10-24T17:07:37.000+08:00"
+      },
+      {
+        "title": "中国长城博物馆焕新开馆 基本陈列上展文物700余件（套）",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720379.shtml",
+        "publishedAt": "2026-10-24T17:06:57.000+08:00"
+      },
+      {
+        "title": "肖战《小城良方》开播热度走高，港台媒体：有烟火气、有“活人感”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720380.shtml",
+        "publishedAt": "2026-10-24T17:06:19.000+08:00"
+      },
+      {
         "title": "青海玉树州杂多县发生5.3级地震 震源深度10千米",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720375.shtml",
         "publishedAt": "2026-10-24T16:52:14.000+08:00"
-      },
-      {
-        "title": "云南省委主要负责同志职务调整 莫高义任云南省委书记",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720374.shtml",
-        "publishedAt": "2026-10-24T16:44:16.000+08:00"
-      },
-      {
-        "title": "福州各界缅怀吴石等4位在台牺牲英烈",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720340.shtml",
-        "publishedAt": "2026-10-24T16:43:14.000+08:00"
-      },
-      {
-        "title": "2026世界青年科学家峰会在浙江温州开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720342.shtml",
-        "publishedAt": "2026-10-24T16:37:35.000+08:00"
-      },
-      {
-        "title": "AI架起光影桥梁 中非共探影视合作新路径",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720343.shtml",
-        "publishedAt": "2026-10-24T16:36:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T17:10:03.498+08:00",
+    "fetchedAt": "2026-10-24T17:20:02.777+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T17:10:07.232+08:00",
+      "fetchedAt": "2026-10-24T17:20:06.501+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T17:10:07.476+08:00",
+      "fetchedAt": "2026-10-24T17:20:06.754+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T17:10:07.485+08:00",
+      "fetchedAt": "2026-10-24T17:20:06.760+08:00",
       "error": null
     }
   }
