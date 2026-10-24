@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T21:20:08.227+08:00",
+  "updatedAt": "2026-10-24T21:30:09.510+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.1,
-    "feelsLikeC": 19.6,
+    "tempC": 19.2,
+    "feelsLikeC": 19.7,
     "humidity": 91,
-    "windKph": 14.9,
+    "windKph": 15.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T21:20:08.227+08:00",
+    "observedAt": "2026-10-24T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T21:30:09.510+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026全国小剧场京剧“群英会”剧目展演启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720501.shtml",
+        "publishedAt": "2026-10-24T21:19:52.000+08:00"
+      },
+      {
+        "title": "竹产业创新联盟大会在南平举行 两岸院校共谋竹产业创新发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720500.shtml",
+        "publishedAt": "2026-10-24T21:18:02.000+08:00"
+      },
+      {
+        "title": "2026“郑洁杯”青少年网球巡回赛总决赛开拍",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720499.shtml",
+        "publishedAt": "2026-10-24T21:16:36.000+08:00"
+      },
       {
         "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720464.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "新疆沙雅县：金秋胡杨引客来",
         "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720496.shtml",
         "publishedAt": "2026-10-24T21:12:54.000+08:00"
-      },
-      {
-        "title": "海内外各界聚首南平考亭书院纪念朱子诞辰896周年",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720497.shtml",
-        "publishedAt": "2026-10-24T21:10:56.000+08:00"
-      },
-      {
-        "title": "一团炉火、一碗饺子、一份守护——巴青震中见闻",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720486.shtml",
-        "publishedAt": "2026-10-24T21:09:22.000+08:00"
-      },
-      {
-        "title": "京津冀400余组家庭“燃动”首都教育系统第三届亲子欢乐跑",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720495.shtml",
-        "publishedAt": "2026-10-24T21:07:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T21:20:03.130+08:00",
+    "fetchedAt": "2026-10-24T21:30:04.052+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T21:20:06.971+08:00",
+      "fetchedAt": "2026-10-24T21:30:08.115+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
+          "usedPct": 59,
           "resetAt": "2026-10-25T00:18:05.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T21:20:07.264+08:00",
+      "fetchedAt": "2026-10-24T21:30:08.394+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T21:20:07.269+08:00",
+      "fetchedAt": "2026-10-24T21:30:08.403+08:00",
       "error": null
     }
   }
