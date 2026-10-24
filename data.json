@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-24T10:10:08.532+08:00",
+  "updatedAt": "2026-10-24T10:20:08.830+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.3,
-    "feelsLikeC": 17,
+    "tempC": 17.5,
+    "feelsLikeC": 17.2,
     "humidity": 94,
-    "windKph": 17.3,
+    "windKph": 17.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T10:10:08.532+08:00",
+    "observedAt": "2026-10-24T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-24T10:20:08.830+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "壹视界｜“娃娃们呐，你们不必受这般苦，但千万莫忘来时路”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720211.shtml",
+        "publishedAt": "2026-10-24T10:11:18.000+08:00"
+      },
+      {
+        "title": "中国石油在巴青震中设立临时油品保供点 保障救援车辆用油",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720208.shtml",
+        "publishedAt": "2026-10-24T10:07:56.000+08:00"
+      },
+      {
+        "title": "2026年全国游泳锦标赛（25米）：张展硕获得男子1500米自由泳冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208690.shtml",
+        "publishedAt": "2026-10-24T10:06:49.000+08:00"
+      },
       {
         "title": "2026清华国际艺术与设计教育大会举行",
         "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720202.shtml",
@@ -28,24 +43,9 @@
         "title": "湖南省委主要负责同志职务调整",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720204.shtml",
         "publishedAt": "2026-10-24T10:02:44.000+08:00"
-      },
-      {
-        "title": "肖战来南京开唱！一张“票根”如何玩转全城？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720192.shtml",
-        "publishedAt": "2026-10-24T10:01:02.000+08:00"
-      },
-      {
-        "title": "2026年全国游泳锦标赛（25米）：李冰洁获得女子400米自由泳冠军",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208687.shtml",
-        "publishedAt": "2026-10-24T09:57:51.000+08:00"
-      },
-      {
-        "title": "拼搏、热爱、并肩同行……盘点亚残运会上的动人瞬间",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720197.shtml",
-        "publishedAt": "2026-10-24T09:50:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T10:10:03.409+08:00",
+    "fetchedAt": "2026-10-24T10:20:02.871+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T10:10:07.489+08:00",
+      "fetchedAt": "2026-10-24T10:20:07.648+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T10:10:07.659+08:00",
+      "fetchedAt": "2026-10-24T10:20:07.812+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T10:10:07.663+08:00",
+      "fetchedAt": "2026-10-24T10:20:07.820+08:00",
       "error": null
     }
   }
