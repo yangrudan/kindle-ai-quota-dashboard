@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T16:40:08.420+08:00",
+  "updatedAt": "2026-10-24T16:50:07.798+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 18.9,
+    "tempC": 18.7,
+    "feelsLikeC": 18.6,
     "humidity": 89,
-    "windKph": 16.3,
+    "windKph": 17.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T16:40:08.420+08:00",
+    "observedAt": "2026-10-24T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-24T16:50:07.798+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "云南省委主要负责同志职务调整",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720374.shtml",
+        "publishedAt": "2026-10-24T16:44:16.000+08:00"
+      },
+      {
+        "title": "福州各界缅怀吴石等4位在台牺牲英烈",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720340.shtml",
+        "publishedAt": "2026-10-24T16:43:14.000+08:00"
+      },
+      {
+        "title": "2026世界青年科学家峰会在浙江温州开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720342.shtml",
+        "publishedAt": "2026-10-24T16:37:35.000+08:00"
+      },
+      {
+        "title": "AI架起光影桥梁 中非共探影视合作新路径",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720343.shtml",
+        "publishedAt": "2026-10-24T16:36:03.000+08:00"
+      },
+      {
         "title": "直播海报：西藏巴青7.0级地震 记者探访岗切乡安置点",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720373.shtml",
         "publishedAt": "2026-10-24T16:31:45.000+08:00"
-      },
-      {
-        "title": "直播：西藏巴青7.0级地震 记者探访岗切乡安置点",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-24/10720372.shtml",
-        "publishedAt": "2026-10-24T16:29:23.000+08:00"
-      },
-      {
-        "title": "浙江横店：深耕实景根基 借力AI赋能产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720344.shtml",
-        "publishedAt": "2026-10-24T16:25:11.000+08:00"
-      },
-      {
-        "title": "两岸匹克球爱好者切磋技艺以球会友",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720345.shtml",
-        "publishedAt": "2026-10-24T16:24:25.000+08:00"
-      },
-      {
-        "title": "从一尾鱼、一艘船、一台戏读懂“宜都活力”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720346.shtml",
-        "publishedAt": "2026-10-24T16:23:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T16:40:03.353+08:00",
+    "fetchedAt": "2026-10-24T16:50:02.707+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T16:40:07.288+08:00",
+      "fetchedAt": "2026-10-24T16:50:06.534+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T16:40:07.489+08:00",
+      "fetchedAt": "2026-10-24T16:50:06.827+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T16:40:07.498+08:00",
+      "fetchedAt": "2026-10-24T16:50:06.837+08:00",
       "error": null
     }
   }
