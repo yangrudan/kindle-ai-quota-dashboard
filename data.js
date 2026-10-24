@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T12:30:09.195+08:00",
+  "updatedAt": "2026-10-24T12:40:38.697+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T12:30:09.195+08:00",
+    "fetchedAt": "2026-10-24T12:40:38.697+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "三十多年后，依旧回味无穷",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720263.shtml",
+        "publishedAt": "2026-10-24T12:25:33.000+08:00"
+      },
       {
         "title": "50余名缅甸青年临沧“开拍” 用镜头向世界发出“云南之约”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720260.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "习言道｜全面从严治党，总书记这些比喻深入人心",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720247.shtml",
         "publishedAt": "2026-10-24T12:06:34.000+08:00"
-      },
-      {
-        "title": "冷冷冷！新一波冷空气来袭 供暖季开启前做好这几件事→",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720257.shtml",
-        "publishedAt": "2026-10-24T12:05:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T12:30:04.340+08:00",
+    "fetchedAt": "2026-10-24T12:40:03.194+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T12:30:08.025+08:00",
+      "fetchedAt": "2026-10-24T12:40:37.355+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T12:30:08.314+08:00",
+      "fetchedAt": "2026-10-24T12:40:37.657+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T12:30:08.323+08:00",
+      "fetchedAt": "2026-10-24T12:40:37.664+08:00",
       "error": null
     }
   }
