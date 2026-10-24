@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T14:00:09.413+08:00",
+  "updatedAt": "2026-10-24T14:10:39.978+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T14:00:09.413+08:00",
+    "fetchedAt": "2026-10-24T14:10:39.978+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "秋落轨道间：长春 “落叶不扫”的浪漫减法",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720309.shtml",
+        "publishedAt": "2026-10-24T14:04:37.000+08:00"
+      },
+      {
+        "title": "2026全球治理论坛（雄安）开幕 与会外宾参访感受“未来之城”魅力",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720307.shtml",
+        "publishedAt": "2026-10-24T13:59:37.000+08:00"
+      },
       {
         "title": "中国石化西藏分公司紧急驰援巴青地震灾区 首批油品及生活物资启运",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720298.shtml",
@@ -33,19 +43,9 @@
         "title": "以声传经典 诗文诵中山",
         "url": "https://www.chinanews.com.cn/txy/2026/10-24/10720296.shtml",
         "publishedAt": "2026-10-24T13:50:54.000+08:00"
-      },
-      {
-        "title": "207金117银111铜 中国队亚残运圆满收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720295.shtml",
-        "publishedAt": "2026-10-24T13:43:42.000+08:00"
-      },
-      {
-        "title": "小小啤酒花 走进新疆兵团“做强特色农业”账本里",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720282.shtml",
-        "publishedAt": "2026-10-24T13:36:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T14:00:04.455+08:00",
+    "fetchedAt": "2026-10-24T14:10:02.854+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T14:00:08.231+08:00",
+      "fetchedAt": "2026-10-24T14:10:38.735+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-24T19:00:09.000+08:00"
+          "usedPct": 3,
+          "resetAt": "2026-10-24T19:06:55.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T14:00:08.498+08:00",
+      "fetchedAt": "2026-10-24T14:10:39.048+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T14:00:08.506+08:00",
+      "fetchedAt": "2026-10-24T14:10:39.055+08:00",
       "error": null
     }
   }
