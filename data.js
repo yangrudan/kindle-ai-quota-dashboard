@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T14:50:38.836+08:00",
+  "updatedAt": "2026-10-24T15:00:07.776+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T14:50:38.836+08:00",
+    "fetchedAt": "2026-10-24T15:00:07.777+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“被看见”的“阿达西”：烟火漫处守本心",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720324.shtml",
+        "publishedAt": "2026-10-24T14:48:47.000+08:00"
+      },
       {
         "title": "第四届中原官话开封方言大会举办",
         "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720306.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "青春华章·逐梦北疆｜把“乡土草种”攥在中国人自己手里",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720320.shtml",
         "publishedAt": "2026-10-24T14:41:27.000+08:00"
-      },
-      {
-        "title": "历史建筑续新韵 长沙老城更新激活消费业态",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720311.shtml",
-        "publishedAt": "2026-10-24T14:41:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T14:50:03.256+08:00",
+    "fetchedAt": "2026-10-24T15:00:02.861+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T14:50:37.525+08:00",
+      "fetchedAt": "2026-10-24T15:00:06.634+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 15,
           "resetAt": "2026-10-24T19:06:55.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T14:50:37.903+08:00",
+      "fetchedAt": "2026-10-24T15:00:06.945+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T14:50:37.907+08:00",
+      "fetchedAt": "2026-10-24T15:00:06.952+08:00",
       "error": null
     }
   }
