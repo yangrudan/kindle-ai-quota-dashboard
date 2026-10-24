@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T18:00:38.181+08:00",
+  "updatedAt": "2026-10-24T18:10:08.349+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-24T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T18:00:38.181+08:00",
+    "fetchedAt": "2026-10-24T18:10:08.349+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "航班换季来了！折扣力度可观 用好这个购票窗口期",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720398.shtml",
-        "publishedAt": "2026-10-24T17:47:33.000+08:00"
+        "title": "中国社科院主办“一国两制”研讨会 聚焦港澳五年规划",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720408.shtml",
+        "publishedAt": "2026-10-24T18:03:54.000+08:00"
       },
       {
-        "title": "第五届亚残运会在日本名古屋闭幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720395.shtml",
-        "publishedAt": "2026-10-24T17:43:11.000+08:00"
+        "title": "第十九届“振兴杯”全国青年职业技能大赛在浙江杭州举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720400.shtml",
+        "publishedAt": "2026-10-24T18:01:06.000+08:00"
       },
       {
-        "title": "首届泰国华文校长成长营在曼谷举办",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720302.shtml",
-        "publishedAt": "2026-10-24T17:37:14.000+08:00"
+        "title": "香港“创新科技嘉年华2026”开幕 推广创科文化",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720386.shtml",
+        "publishedAt": "2026-10-24T17:58:46.000+08:00"
       },
       {
-        "title": "新华时评｜纪念台湾光复 携手共促祖国统一",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-24/10720388.shtml",
-        "publishedAt": "2026-10-24T17:36:04.000+08:00"
+        "title": "“没有声音”、3秒飞出2.4公里……美国公布新一批UFO文件",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720409.shtml",
+        "publishedAt": "2026-10-24T17:56:52.000+08:00"
       },
       {
-        "title": "趁着风小，锡林郭勒草原上的风电场给风机做“体检”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720383.shtml",
-        "publishedAt": "2026-10-24T17:34:24.000+08:00"
+        "title": "山东济南：民众游赏趵突泉",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720385.shtml",
+        "publishedAt": "2026-10-24T17:54:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T18:00:03.761+08:00",
+    "fetchedAt": "2026-10-24T18:10:03.487+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T18:00:37.056+08:00",
+      "fetchedAt": "2026-10-24T18:10:07.205+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T18:00:37.324+08:00",
+      "fetchedAt": "2026-10-24T18:10:07.442+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T18:00:37.330+08:00",
+      "fetchedAt": "2026-10-24T18:10:07.450+08:00",
       "error": null
     }
   }
