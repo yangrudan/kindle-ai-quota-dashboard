@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T15:10:38.907+08:00",
+  "updatedAt": "2026-10-24T15:20:07.756+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 18.6,
+    "tempC": 18.9,
+    "feelsLikeC": 18.8,
     "humidity": 88,
-    "windKph": 17.8,
+    "windKph": 17.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T15:10:38.907+08:00",
+    "observedAt": "2026-10-24T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-24T15:20:07.756+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026 “一带一路” 国际帆船赛在广西北海举办",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720325.shtml",
+        "publishedAt": "2026-10-24T15:09:02.000+08:00"
+      },
+      {
+        "title": "菲律宾空军两架教练机相撞 4名空军飞行员死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720335.shtml",
+        "publishedAt": "2026-10-24T15:06:12.000+08:00"
+      },
       {
         "title": "中小学秋假日期公布！多地上新旅游“福利大礼包”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720330.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "第四届中原官话开封方言大会举办",
         "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720306.shtml",
         "publishedAt": "2026-10-24T14:45:03.000+08:00"
-      },
-      {
-        "title": "【好评中国】河声丨古银杏下话长征，红色根脉何以枝繁叶茂",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-24/10720323.shtml",
-        "publishedAt": "2026-10-24T14:43:57.000+08:00"
-      },
-      {
-        "title": "2026东南亚中国图书巡回展走进泰国",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720308.shtml",
-        "publishedAt": "2026-10-24T14:41:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T15:10:02.751+08:00",
+    "fetchedAt": "2026-10-24T15:20:02.687+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T15:10:37.707+08:00",
+      "fetchedAt": "2026-10-24T15:20:06.694+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T15:10:37.942+08:00",
+      "fetchedAt": "2026-10-24T15:20:06.909+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T15:10:37.949+08:00",
+      "fetchedAt": "2026-10-24T15:20:06.918+08:00",
       "error": null
     }
   }
