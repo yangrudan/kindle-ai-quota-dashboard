@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-24T11:10:08.679+08:00",
+  "updatedAt": "2026-10-24T11:20:08.091+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 18,
     "feelsLikeC": 17.7,
-    "humidity": 92,
+    "humidity": 91,
     "windKph": 17.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-24T11:10:08.680+08:00",
+    "observedAt": "2026-10-24T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-24T11:20:08.091+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "全球超八成新船订单涌向中国 背后藏着哪些中国制造密码？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720239.shtml",
+        "publishedAt": "2026-10-24T11:10:47.000+08:00"
+      },
+      {
+        "title": "约旦一教堂发生枪击致7死 政府称系恐袭",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720227.shtml",
+        "publishedAt": "2026-10-24T11:07:15.000+08:00"
+      },
+      {
+        "title": "瓦努阿图群岛发生6.8级地震 震源深度10千米",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720237.shtml",
+        "publishedAt": "2026-10-24T11:06:11.000+08:00"
+      },
+      {
+        "title": "700余件（套）文物串联两千余年历史，中国长城博物馆开馆",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720236.shtml",
+        "publishedAt": "2026-10-24T11:05:31.000+08:00"
+      },
+      {
         "title": "中欧班列“东通道”跑出“加速度” 年内通行量突破6000列",
         "url": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720232.shtml",
         "publishedAt": "2026-10-24T10:59:57.000+08:00"
-      },
-      {
-        "title": "郭大顺：红山文化研究将迈向多学科交叉融合阶段",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720231.shtml",
-        "publishedAt": "2026-10-24T10:57:59.000+08:00"
-      },
-      {
-        "title": "外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720235.shtml",
-        "publishedAt": "2026-10-24T10:57:53.000+08:00"
-      },
-      {
-        "title": "亚残运会之声：团结一心 其利断金",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720230.shtml",
-        "publishedAt": "2026-10-24T10:57:19.000+08:00"
-      },
-      {
-        "title": "西藏巴青7.0级地震后次夜 孩童安睡不再害怕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720229.shtml",
-        "publishedAt": "2026-10-24T10:55:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T11:10:03.554+08:00",
+    "fetchedAt": "2026-10-24T11:20:02.948+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T11:10:07.431+08:00",
+      "fetchedAt": "2026-10-24T11:20:06.983+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T11:10:07.691+08:00",
+      "fetchedAt": "2026-10-24T11:20:07.254+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T11:10:07.701+08:00",
+      "fetchedAt": "2026-10-24T11:20:07.258+08:00",
       "error": null
     }
   }
