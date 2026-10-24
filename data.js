@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T15:40:08.318+08:00",
+  "updatedAt": "2026-10-24T15:50:38.665+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.9,
-    "feelsLikeC": 18.9,
+    "feelsLikeC": 19.1,
     "humidity": 88,
-    "windKph": 16.5,
+    "windKph": 15.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T15:40:08.319+08:00",
+    "observedAt": "2026-10-24T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-24T15:50:38.665+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国农业精品品牌和“桂字号”农业品牌推介会在南宁举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-24/10720359.shtml",
+        "publishedAt": "2026-10-24T15:47:35.000+08:00"
+      },
+      {
+        "title": "浙江杭州：千年清河坊之眼 启幕宋韵新地标",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720329.shtml",
+        "publishedAt": "2026-10-24T15:42:32.000+08:00"
+      },
       {
         "title": "2026年广东省“百县千镇万村”篮球赛省级赛在云浮举行",
         "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720332.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "从训练舰到作战舰再到航母编队核心！辽宁舰十年完成“三步走”",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720352.shtml",
         "publishedAt": "2026-10-24T15:30:52.000+08:00"
-      },
-      {
-        "title": "武汉经开区：强化“内功” “车谷造”加速出海",
-        "url": "http://www.chinanews.com.cn/cj/shipin/2026/10-24/news1072853.shtml",
-        "publishedAt": "2026-10-24T15:14:55.000+08:00"
-      },
-      {
-        "title": "2026 “一带一路” 国际帆船赛在广西北海举办",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720325.shtml",
-        "publishedAt": "2026-10-24T15:09:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T15:40:03.574+08:00",
+    "fetchedAt": "2026-10-24T15:50:02.706+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T15:40:07.241+08:00",
+      "fetchedAt": "2026-10-24T15:50:37.547+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T15:40:07.403+08:00",
+      "fetchedAt": "2026-10-24T15:50:37.822+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T15:40:07.408+08:00",
+      "fetchedAt": "2026-10-24T15:50:37.828+08:00",
       "error": null
     }
   }
