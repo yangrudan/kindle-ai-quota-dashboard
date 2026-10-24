@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-24T13:20:10.195+08:00",
+  "updatedAt": "2026-10-24T13:30:09.929+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.6,
-    "feelsLikeC": 18,
+    "feelsLikeC": 18.1,
     "humidity": 87,
-    "windKph": 19,
+    "windKph": 18.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T13:20:10.195+08:00",
+    "observedAt": "2026-10-24T13:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T13:30:09.930+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西纪念中国工农红军长征胜利90周年座谈会在桂林召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720269.shtml",
-        "publishedAt": "2026-10-24T13:14:46.000+08:00"
+        "title": "受台风“蔷琵”影响 长三角铁路部门调整列车开行方案",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720270.shtml",
+        "publishedAt": "2026-10-24T13:24:27.000+08:00"
       },
       {
-        "title": "2026世界海外华人研究学会年会开幕",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720289.shtml",
-        "publishedAt": "2026-10-24T13:13:18.000+08:00"
+        "title": "菲律宾空军两架教练机训练飞行时发生事故",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720268.shtml",
+        "publishedAt": "2026-10-24T13:24:21.000+08:00"
       },
       {
-        "title": "韩国济州代表团访渝考察智能制造 冀深化两地产业合作",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720290.shtml",
-        "publishedAt": "2026-10-24T13:12:16.000+08:00"
+        "title": "中欧班列“东通道”年内通行量突破6000列",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-24/10720267.shtml",
+        "publishedAt": "2026-10-24T13:22:59.000+08:00"
       },
       {
-        "title": "第四届传统体育国际交流大赛在江苏启东开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720292.shtml",
-        "publishedAt": "2026-10-24T13:11:10.000+08:00"
+        "title": "甘肃“金色田野”里的乡村舞者",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720266.shtml",
+        "publishedAt": "2026-10-24T13:22:29.000+08:00"
       },
       {
-        "title": "仲赛春将担任第五届亚残运会闭幕式中国体育代表团旗手",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720264.shtml",
-        "publishedAt": "2026-10-24T13:11:10.000+08:00"
+        "title": "1400余名选手齐聚秦巴腹地 智力赛事邂逅山水民俗文化",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720262.shtml",
+        "publishedAt": "2026-10-24T13:22:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T13:20:04.208+08:00",
+    "fetchedAt": "2026-10-24T13:30:04.366+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T13:20:08.807+08:00",
+      "fetchedAt": "2026-10-24T13:30:08.720+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-24T18:20:09.000+08:00"
+          "resetAt": "2026-10-24T18:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T13:20:09.126+08:00",
+      "fetchedAt": "2026-10-24T13:30:09.087+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T13:20:09.135+08:00",
+      "fetchedAt": "2026-10-24T13:30:09.097+08:00",
       "error": null
     }
   }
