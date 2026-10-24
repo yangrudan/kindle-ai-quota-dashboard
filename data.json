@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-24T12:50:07.698+08:00",
+  "updatedAt": "2026-10-24T13:00:38.583+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.4,
-    "feelsLikeC": 17.9,
+    "tempC": 18.5,
+    "feelsLikeC": 18,
     "humidity": 88,
     "windKph": 19.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T12:50:07.698+08:00",
+    "observedAt": "2026-10-24T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-24T13:00:38.583+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026桂林艺术节开幕 艺术之“光”闪耀漓江夜空",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720275.shtml",
+        "publishedAt": "2026-10-24T12:58:05.000+08:00"
+      },
       {
         "title": "云南五百年佤寨焕新颜 数智助“幸福的地方”更幸福",
         "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720265.shtml",
@@ -38,14 +43,9 @@
         "title": "东西问丨李罡：用音乐剧让世界读懂“流动的中国大运河”",
         "url": "https://www.chinanews.com.cn/dxw/2026/10-24/10720244.shtml",
         "publishedAt": "2026-10-24T12:36:30.000+08:00"
-      },
-      {
-        "title": "三十多年后，依旧回味无穷",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720263.shtml",
-        "publishedAt": "2026-10-24T12:25:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T12:50:03.032+08:00",
+    "fetchedAt": "2026-10-24T13:00:03.848+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T12:50:06.508+08:00",
+      "fetchedAt": "2026-10-24T13:00:37.444+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T12:50:06.802+08:00",
+      "fetchedAt": "2026-10-24T13:00:37.695+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T12:50:06.819+08:00",
+      "fetchedAt": "2026-10-24T13:00:37.703+08:00",
       "error": null
     }
   }
