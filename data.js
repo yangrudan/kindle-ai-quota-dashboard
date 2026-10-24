@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T22:20:08.043+08:00",
+  "updatedAt": "2026-10-24T22:30:09.118+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 19.1,
-    "feelsLikeC": 19.5,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 19,
+    "feelsLikeC": 19.4,
     "humidity": 92,
-    "windKph": 15.7,
+    "windKph": 15.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T22:20:08.043+08:00",
+    "observedAt": "2026-10-24T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T22:30:09.119+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中超第29轮：蓉城负英博无缘提前夺冠 三镇不敌泰山确认降级",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720527.shtml",
+        "publishedAt": "2026-10-24T22:21:28.000+08:00"
+      },
       {
         "title": "西藏巴青地震现场：救援力量帮助受灾信众找回唐卡经书等物品",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720524.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国商务部回应美发布新版对外投资限制拟议规则",
         "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720519.shtml",
         "publishedAt": "2026-10-24T22:01:29.000+08:00"
-      },
-      {
-        "title": "中外专家谈港澳五年规划：转变角色 融入大局",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720518.shtml",
-        "publishedAt": "2026-10-24T22:00:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T22:20:03.327+08:00",
+    "fetchedAt": "2026-10-24T22:30:04.263+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T22:20:06.663+08:00",
+      "fetchedAt": "2026-10-24T22:30:08.036+08:00",
       "error": null
     },
     "codex": {
@@ -75,10 +75,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 13,
-          "resetAt": "2026-10-31T08:09:18.000+08:00"
+          "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T22:20:06.985+08:00",
+      "fetchedAt": "2026-10-24T22:30:08.266+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T22:20:06.990+08:00",
+      "fetchedAt": "2026-10-24T22:30:08.269+08:00",
       "error": null
     }
   }
