@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T20:50:07.976+08:00",
+  "updatedAt": "2026-10-24T21:00:10.326+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 19.1,
     "feelsLikeC": 19.6,
     "humidity": 90,
-    "windKph": 15,
+    "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-24T20:50:07.976+08:00",
+    "observedAt": "2026-10-24T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-24T21:00:10.326+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第十届全国烹饪技能竞赛（全国决赛）决出优胜选手",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720484.shtml",
+        "publishedAt": "2026-10-24T20:50:21.000+08:00"
+      },
+      {
+        "title": "中国法治与民情研讨会：浙江“民情日记”常写常新",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720483.shtml",
+        "publishedAt": "2026-10-24T20:47:09.000+08:00"
+      },
+      {
+        "title": "云南大学与孟加拉国南北大学签署备忘录 迈入校际合作新阶段",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720482.shtml",
+        "publishedAt": "2026-10-24T20:46:45.000+08:00"
+      },
       {
         "title": "“FetoNeX胎儿医学协作网”在沪成立 让优质医疗资源更快触达患者",
         "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720481.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-24/1208763.shtml",
         "publishedAt": "2026-10-24T20:43:33.000+08:00"
-      },
-      {
-        "title": "从开选修课到建非遗学院 高校非遗教育走向“学科化”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720470.shtml",
-        "publishedAt": "2026-10-24T20:43:24.000+08:00"
-      },
-      {
-        "title": "河北任丘抢抓农时迎丰收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720469.shtml",
-        "publishedAt": "2026-10-24T20:36:06.000+08:00"
-      },
-      {
-        "title": "大湾区少年绘就科幻未来画卷 以画为桥筑科学梦想",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720473.shtml",
-        "publishedAt": "2026-10-24T20:33:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T20:50:02.696+08:00",
+    "fetchedAt": "2026-10-24T21:00:04.609+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T20:50:06.627+08:00",
+      "fetchedAt": "2026-10-24T21:00:08.992+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 45,
+          "usedPct": 49,
           "resetAt": "2026-10-25T00:18:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 11,
+          "usedPct": 12,
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T20:50:06.949+08:00",
+      "fetchedAt": "2026-10-24T21:00:09.359+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T20:50:06.958+08:00",
+      "fetchedAt": "2026-10-24T21:00:09.363+08:00",
       "error": null
     }
   }
