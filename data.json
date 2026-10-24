@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-24T18:40:08.270+08:00",
+  "updatedAt": "2026-10-24T18:50:07.840+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 18.7,
+    "tempC": 18.9,
+    "feelsLikeC": 18.8,
     "humidity": 88,
-    "windKph": 17.1,
+    "windKph": 17,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T18:40:08.270+08:00",
+    "observedAt": "2026-10-24T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-24T18:50:07.840+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "尼泊尔前总统吁加强环喜马拉雅国家间冰川监测等合作",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720405.shtml",
-        "publishedAt": "2026-10-24T18:35:50.000+08:00"
+        "title": "王卫星：“一国两制”台湾方案不会照搬港澳模式",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720430.shtml",
+        "publishedAt": "2026-10-24T18:46:58.000+08:00"
       },
       {
-        "title": "“新时代山乡巨变创作计划”入选项目《纯真年代》研讨会举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720402.shtml",
-        "publishedAt": "2026-10-24T18:35:22.000+08:00"
+        "title": "广西畅通“桂字号”农机走向东盟通道",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-24/10720423.shtml",
+        "publishedAt": "2026-10-24T18:46:46.000+08:00"
       },
       {
-        "title": "全国场车安全监管会议鼓励推广数字化手段防事故",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720399.shtml",
-        "publishedAt": "2026-10-24T18:34:34.000+08:00"
+        "title": "全国首个美妆国家级技贸评议基地落地广州开发区",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720422.shtml",
+        "publishedAt": "2026-10-24T18:46:22.000+08:00"
       },
       {
-        "title": "宁波大学建校40周年 包陪庆：“宁波帮”是宁大最强后盾",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720397.shtml",
-        "publishedAt": "2026-10-24T18:33:56.000+08:00"
+        "title": "新马泰央行携手推动数字货币跨境支付",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720418.shtml",
+        "publishedAt": "2026-10-24T18:37:46.000+08:00"
       },
       {
-        "title": "学体联2026年全国大学生自行车锦标赛在云南昭通开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720396.shtml",
-        "publishedAt": "2026-10-24T18:32:53.000+08:00"
+        "title": "中国香港代表团在第五届亚残运会共斩获41枚奖牌 李家超发文祝贺",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-24/10720406.shtml",
+        "publishedAt": "2026-10-24T18:36:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T18:40:03.222+08:00",
+    "fetchedAt": "2026-10-24T18:50:03.207+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T18:40:07.165+08:00",
+      "fetchedAt": "2026-10-24T18:50:06.743+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T18:40:07.373+08:00",
+      "fetchedAt": "2026-10-24T18:50:06.932+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T18:40:07.378+08:00",
+      "fetchedAt": "2026-10-24T18:50:06.941+08:00",
       "error": null
     }
   }
