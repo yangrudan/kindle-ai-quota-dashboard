@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T17:20:07.584+08:00",
+  "updatedAt": "2026-10-24T17:30:08.499+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 18.7,
     "feelsLikeC": 18.5,
     "humidity": 89,
-    "windKph": 17.9,
+    "windKph": 17.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-24T17:20:07.584+08:00",
+    "observedAt": "2026-10-24T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-24T17:30:08.499+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "演员吴磊：观众的反馈是创作的一部分",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720377.shtml",
-        "publishedAt": "2026-10-24T17:08:47.000+08:00"
+        "title": "扩投资、促消费、强数字动能 一组数据展现今年前三季度经济活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720382.shtml",
+        "publishedAt": "2026-10-24T17:26:02.000+08:00"
       },
       {
-        "title": "第九届中国电影新力量论坛举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720378.shtml",
-        "publishedAt": "2026-10-24T17:07:37.000+08:00"
+        "title": "2026年江西省户外运动和体育产业发展大会在南昌湾里开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720336.shtml",
+        "publishedAt": "2026-10-24T17:22:02.000+08:00"
       },
       {
-        "title": "中国长城博物馆焕新开馆 基本陈列上展文物700余件（套）",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720379.shtml",
-        "publishedAt": "2026-10-24T17:06:57.000+08:00"
+        "title": "2026“中华文化大乐园”德国汉堡园活动开幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720334.shtml",
+        "publishedAt": "2026-10-24T17:21:16.000+08:00"
       },
       {
-        "title": "肖战《小城良方》开播热度走高，港台媒体：有烟火气、有“活人感”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720380.shtml",
-        "publishedAt": "2026-10-24T17:06:19.000+08:00"
+        "title": "空间科学如何助力太空安全？王赤院士开讲《太阳风暴交响曲》",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720333.shtml",
+        "publishedAt": "2026-10-24T17:20:42.000+08:00"
       },
       {
-        "title": "青海玉树州杂多县发生5.3级地震 震源深度10千米",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720375.shtml",
-        "publishedAt": "2026-10-24T16:52:14.000+08:00"
+        "title": "天津创排舞台剧《少年国旗班》赴疆巡演 以少年故事传递家国情怀",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-24/10720338.shtml",
+        "publishedAt": "2026-10-24T17:20:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T17:20:02.777+08:00",
+    "fetchedAt": "2026-10-24T17:30:03.298+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T17:20:06.501+08:00",
+      "fetchedAt": "2026-10-24T17:30:07.015+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T17:20:06.754+08:00",
+      "fetchedAt": "2026-10-24T17:30:07.281+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T17:20:06.760+08:00",
+      "fetchedAt": "2026-10-24T17:30:07.290+08:00",
       "error": null
     }
   }
