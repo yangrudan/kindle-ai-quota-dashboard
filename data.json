@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-24T10:40:09.348+08:00",
+  "updatedAt": "2026-10-24T10:50:08.284+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.7,
-    "feelsLikeC": 17.4,
-    "humidity": 93,
+    "tempC": 17.8,
+    "feelsLikeC": 17.5,
+    "humidity": 92,
     "windKph": 17.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T10:40:09.348+08:00",
+    "observedAt": "2026-10-24T10:45:00.000+08:00",
+    "fetchedAt": "2026-10-24T10:50:08.285+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中韩合拍“慰安妇”主题纪录片《5》在马尼拉举行放映式",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-24/10720210.shtml",
-        "publishedAt": "2026-10-24T10:35:07.000+08:00"
+        "title": "助力青年电影梦想 第十一届中韩青年梦享微电影展在京落幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720219.shtml",
+        "publishedAt": "2026-10-24T10:45:14.000+08:00"
       },
       {
-        "title": "中越海事业务交流在南宁举行 聚焦通航秩序与安全",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720209.shtml",
-        "publishedAt": "2026-10-24T10:34:25.000+08:00"
+        "title": "广西桐金高速通车 金秀县城结束不通高速历史",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720218.shtml",
+        "publishedAt": "2026-10-24T10:42:58.000+08:00"
       },
       {
-        "title": "博克拉—迪拜航线开通首月运送旅客逾6000人次",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720217.shtml",
-        "publishedAt": "2026-10-24T10:33:41.000+08:00"
+        "title": "2026世界旅游小姐中国区总决赛走进广西宁明花山",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720215.shtml",
+        "publishedAt": "2026-10-24T10:41:52.000+08:00"
       },
       {
-        "title": "广西北海归侨安置点开展医疗服务和法治宣传活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720207.shtml",
-        "publishedAt": "2026-10-24T10:33:01.000+08:00"
+        "title": "西藏巴青7.0级地震：医疗救援队连夜驰援震区",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720213.shtml",
+        "publishedAt": "2026-10-24T10:41:14.000+08:00"
       },
       {
-        "title": "广西将办第四届职业技能大赛暨人才活动周系列活动",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-24/10720205.shtml",
-        "publishedAt": "2026-10-24T10:32:09.000+08:00"
+        "title": "“专业京剧爱好者”李宝春：“人虽老，仍疯狂”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-24/10720212.shtml",
+        "publishedAt": "2026-10-24T10:40:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T10:40:03.601+08:00",
+    "fetchedAt": "2026-10-24T10:50:03.253+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T10:40:07.882+08:00",
+      "fetchedAt": "2026-10-24T10:50:07.196+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T10:40:08.151+08:00",
+      "fetchedAt": "2026-10-24T10:50:07.428+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T10:40:08.158+08:00",
+      "fetchedAt": "2026-10-24T10:50:07.432+08:00",
       "error": null
     }
   }
