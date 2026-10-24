@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-24T11:40:09.704+08:00",
+  "updatedAt": "2026-10-24T11:50:10.048+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 18,
-    "feelsLikeC": 17.7,
+    "feelsLikeC": 17.6,
     "humidity": 91,
-    "windKph": 17.8,
+    "windKph": 17.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-24T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-24T11:40:09.704+08:00",
+    "observedAt": "2026-10-24T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-24T11:50:10.048+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026宁波网球公开赛：莱巴金娜晋级四强",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720214.shtml",
+        "publishedAt": "2026-10-24T11:42:51.000+08:00"
+      },
+      {
+        "title": "海外华媒探访国内最大陆上人工鲟鱼养殖基地",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720203.shtml",
+        "publishedAt": "2026-10-24T11:38:43.000+08:00"
+      },
+      {
+        "title": "四川眉山：2026年全国青少年U系列攀岩联赛开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720200.shtml",
+        "publishedAt": "2026-10-24T11:35:29.000+08:00"
+      },
+      {
         "title": "四价流感疫苗消失了？真相来了→",
         "url": "https://www.chinanews.com.cn/jk/2026/10-24/10720251.shtml",
         "publishedAt": "2026-10-24T11:32:19.000+08:00"
       },
       {
-        "title": "海外华媒探访湖北宜都 感受“电化长江”造船新动能",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720198.shtml",
-        "publishedAt": "2026-10-24T11:27:38.000+08:00"
-      },
-      {
-        "title": "国家疾控局：西藏巴青地震灾区灾后卫生防疫力量已实现全覆盖",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720250.shtml",
-        "publishedAt": "2026-10-24T11:26:44.000+08:00"
-      },
-      {
-        "title": "直播：2026网络杯决赛 中新网“老男孩”冲击乙组冠军",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-24/10720248.shtml",
-        "publishedAt": "2026-10-24T11:24:26.000+08:00"
-      },
-      {
-        "title": "日本岩手县附近海域发生5.0级地震 多地有震感",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720246.shtml",
-        "publishedAt": "2026-10-24T11:19:56.000+08:00"
+        "title": "2026广西国际农业博览会在南宁开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-24/10720199.shtml",
+        "publishedAt": "2026-10-24T11:29:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-24T11:40:03.106+08:00",
+    "fetchedAt": "2026-10-24T11:50:04.752+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-24T11:40:07.290+08:00",
+      "fetchedAt": "2026-10-24T11:50:08.754+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-24T11:40:07.617+08:00",
+      "fetchedAt": "2026-10-24T11:50:09.039+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-24T11:40:07.620+08:00",
+      "fetchedAt": "2026-10-24T11:50:09.048+08:00",
       "error": null
     }
   }
