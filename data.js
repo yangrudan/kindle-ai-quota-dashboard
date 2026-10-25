@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T11:00:09.070+08:00",
+  "updatedAt": "2026-10-25T11:10:09.208+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T11:00:09.071+08:00",
+    "fetchedAt": "2026-10-25T11:10:09.208+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "拉萨车站温情守护 保障旅客出行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720576.shtml",
-        "publishedAt": "2026-10-25T10:56:27.000+08:00"
+        "title": "亚行批准1742万美元融资支持不丹应对物价上涨",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720586.shtml",
+        "publishedAt": "2026-10-25T11:03:08.000+08:00"
       },
       {
-        "title": "福建省终止防台风应急响应 陆续恢复海上生产",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720598.shtml",
-        "publishedAt": "2026-10-25T10:54:05.000+08:00"
+        "title": "2026中韩经济发展论坛开幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720585.shtml",
+        "publishedAt": "2026-10-25T11:02:42.000+08:00"
       },
       {
-        "title": "摄影家为离世母亲办展：希望大家珍惜和父母在一起的时光",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720589.shtml",
-        "publishedAt": "2026-10-25T10:44:59.000+08:00"
+        "title": "搭建不同文化理解之桥，第四届中外戏剧交流与合作论坛在京举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720588.shtml",
+        "publishedAt": "2026-10-25T11:00:23.000+08:00"
       },
       {
-        "title": "正常咨询为何变成“投诉”？揭秘快递末端“以罚代管”怪圈",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720597.shtml",
-        "publishedAt": "2026-10-25T10:39:28.000+08:00"
+        "title": "2026年粤港澳大湾区青少年乒乓球比赛在深圳举行",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720579.shtml",
+        "publishedAt": "2026-10-25T10:59:11.000+08:00"
       },
       {
-        "title": "日本小笠原群岛地区发生6.5级地震 震源深度480千米",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720596.shtml",
-        "publishedAt": "2026-10-25T10:34:34.000+08:00"
+        "title": "窑火、稻浪与茶香 缅甸青年用镜头定格云南临沧乡村振兴新貌",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720591.shtml",
+        "publishedAt": "2026-10-25T10:57:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T11:00:02.866+08:00",
+    "fetchedAt": "2026-10-25T11:10:03.413+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T11:00:07.716+08:00",
+      "fetchedAt": "2026-10-25T11:10:08.050+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T16:00:08.000+08:00"
+          "resetAt": "2026-10-25T16:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T11:00:08.075+08:00",
+      "fetchedAt": "2026-10-25T11:10:08.295+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T11:00:08.085+08:00",
+      "fetchedAt": "2026-10-25T11:10:08.303+08:00",
       "error": null
     }
   }
