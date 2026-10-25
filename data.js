@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T21:00:09.928+08:00",
+  "updatedAt": "2026-10-25T21:10:09.408+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T21:00:09.928+08:00",
+    "fetchedAt": "2026-10-25T21:10:09.408+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南耿马傣族造纸焕新畅销",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720831.shtml",
-        "publishedAt": "2026-10-25T20:49:37.000+08:00"
+        "title": "草方格锁黄沙 鹅喉羚蹄印见证中卫生态之变",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720842.shtml",
+        "publishedAt": "2026-10-25T21:01:52.000+08:00"
       },
       {
-        "title": "全国总工会拨付200万元支援西藏灾区救灾救助工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720838.shtml",
-        "publishedAt": "2026-10-25T20:49:13.000+08:00"
+        "title": "2026年闽台青少年街舞展演在福州举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720840.shtml",
+        "publishedAt": "2026-10-25T21:01:34.000+08:00"
       },
       {
-        "title": "AI赋能、丝弦入药：上海推动音乐疗愈纳入临床多学科治疗",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720814.shtml",
-        "publishedAt": "2026-10-25T20:48:41.000+08:00"
+        "title": "粤港澳大湾区青少年选手齐聚深圳“以球会友”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720839.shtml",
+        "publishedAt": "2026-10-25T20:59:20.000+08:00"
       },
       {
-        "title": "宁夏知识产权保护和运用“十五五”规划获批 锚定2030年知识产权强区建设目标",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720828.shtml",
-        "publishedAt": "2026-10-25T20:48:05.000+08:00"
+        "title": "广交会观察：中国陶瓷企业靠原创设计拿下海外订单",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720830.shtml",
+        "publishedAt": "2026-10-25T20:57:20.000+08:00"
       },
       {
-        "title": "2026年武台定光文化交流活动在福建武平举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720823.shtml",
-        "publishedAt": "2026-10-25T20:45:55.000+08:00"
+        "title": "湖北宜昌：长江之畔“长”出绿色算力科创高地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720841.shtml",
+        "publishedAt": "2026-10-25T20:56:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T21:00:04.731+08:00",
+    "fetchedAt": "2026-10-25T21:10:03.961+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T21:00:08.852+08:00",
+      "fetchedAt": "2026-10-25T21:10:08.217+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T02:00:09.000+08:00"
+          "resetAt": "2026-10-26T02:10:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T21:00:09.000+08:00"
+          "resetAt": "2026-11-01T21:10:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T21:00:09.076+08:00",
+      "fetchedAt": "2026-10-25T21:10:08.441+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T21:00:09.085+08:00",
+      "fetchedAt": "2026-10-25T21:10:08.447+08:00",
       "error": null
     }
   }
