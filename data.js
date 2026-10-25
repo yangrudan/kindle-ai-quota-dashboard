@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T19:10:37.997+08:00",
+  "updatedAt": "2026-10-25T19:20:08.685+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.1,
-    "feelsLikeC": 21.3,
-    "humidity": 81,
-    "windKph": 8.3,
+    "tempC": 19.9,
+    "feelsLikeC": 21.1,
+    "humidity": 82,
+    "windKph": 8.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T19:10:37.997+08:00",
+    "observedAt": "2026-10-25T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T19:20:08.685+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国约3300名“泳士”齐聚广东清远横渡北江",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720772.shtml",
+        "publishedAt": "2026-10-25T19:18:00.000+08:00"
+      },
+      {
+        "title": "银川凤凰公园赴秋约：书香市集解锁阅读新体验",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720776.shtml",
+        "publishedAt": "2026-10-25T19:06:56.000+08:00"
+      },
+      {
+        "title": "陈少波同志任河北省委常委",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720779.shtml",
+        "publishedAt": "2026-10-25T19:05:52.000+08:00"
+      },
       {
         "title": "第140届广交会第二期：境外采购商挑选“中国好礼”",
         "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720749.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "大天鹅“夫妇”携宝宝飞抵河南三门峡越冬",
         "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720740.shtml",
         "publishedAt": "2026-10-25T18:50:49.000+08:00"
-      },
-      {
-        "title": "两百余名飞盘选手青海西宁上演精彩角逐",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720721.shtml",
-        "publishedAt": "2026-10-25T18:49:59.000+08:00"
-      },
-      {
-        "title": "内蒙古霍林郭勒开通至上海航线 “绿电铝之城”空中连通长三角",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720763.shtml",
-        "publishedAt": "2026-10-25T18:40:52.000+08:00"
-      },
-      {
-        "title": "2026全球治理论坛（雄安）闭幕 圆满完成所有既定议程",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720767.shtml",
-        "publishedAt": "2026-10-25T18:33:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T19:10:03.142+08:00",
+    "fetchedAt": "2026-10-25T19:20:03.833+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T19:10:36.957+08:00",
+      "fetchedAt": "2026-10-25T19:20:07.462+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T00:10:37.000+08:00"
+          "resetAt": "2026-10-26T00:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T19:10:37.000+08:00"
+          "resetAt": "2026-11-01T19:20:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T19:10:37.201+08:00",
+      "fetchedAt": "2026-10-25T19:20:07.741+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T19:10:37.211+08:00",
+      "fetchedAt": "2026-10-25T19:20:07.749+08:00",
       "error": null
     }
   }
