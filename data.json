@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T07:10:08.901+08:00",
+  "updatedAt": "2026-10-26T07:20:38.091+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.7,
-    "feelsLikeC": 16.5,
-    "humidity": 94,
-    "windKph": 5.5,
+    "tempC": 16.1,
+    "feelsLikeC": 17,
+    "humidity": 93,
+    "windKph": 5.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T07:10:08.901+08:00",
+    "observedAt": "2026-10-26T07:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T07:20:38.092+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本小笠原群岛附近海域发生5.6级地震 震源深度500千米",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720878.shtml",
+        "publishedAt": "2026-10-26T07:11:16.000+08:00"
+      },
+      {
+        "title": "对净水器“坑老”骗局说不",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720877.shtml",
+        "publishedAt": "2026-10-26T07:04:09.000+08:00"
+      },
       {
         "title": "10月26日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-26/10720876.shtml",
@@ -33,19 +43,9 @@
         "title": "特朗普：美俄乌三方会谈“很快”就会举行",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720874.shtml",
         "publishedAt": "2026-10-26T06:40:50.000+08:00"
-      },
-      {
-        "title": "巴西总统选举第二轮投票结束",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720873.shtml",
-        "publishedAt": "2026-10-26T06:39:14.000+08:00"
-      },
-      {
-        "title": "塞尔维亚举行议会选举 武契奇承认败选",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720872.shtml",
-        "publishedAt": "2026-10-26T06:32:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T07:10:03.641+08:00",
+    "fetchedAt": "2026-10-26T07:20:03.243+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T07:10:07.599+08:00",
+      "fetchedAt": "2026-10-26T07:20:36.702+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T12:10:08.000+08:00"
+          "resetAt": "2026-10-26T12:20:37.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T07:10:08.000+08:00"
+          "resetAt": "2026-11-02T07:20:37.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T07:10:07.986+08:00",
+      "fetchedAt": "2026-10-26T07:20:37.144+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T07:10:07.993+08:00",
+      "fetchedAt": "2026-10-26T07:20:37.147+08:00",
       "error": null
     }
   }
