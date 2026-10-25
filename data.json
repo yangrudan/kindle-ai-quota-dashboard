@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T20:50:08.819+08:00",
+  "updatedAt": "2026-10-25T21:00:09.928+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.8,
-    "feelsLikeC": 20.4,
-    "humidity": 87,
-    "windKph": 4.8,
+    "tempC": 18.7,
+    "feelsLikeC": 20.3,
+    "humidity": 88,
+    "windKph": 4.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T20:50:08.820+08:00",
+    "observedAt": "2026-10-25T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-25T21:00:09.928+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河北省第十四届人民代表大会常务委员会公告",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720832.shtml",
-        "publishedAt": "2026-10-25T20:42:09.000+08:00"
+        "title": "云南耿马傣族造纸焕新畅销",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720831.shtml",
+        "publishedAt": "2026-10-25T20:49:37.000+08:00"
       },
       {
-        "title": "解锁八桂鱼鲜密码 《在广西吃鱼》新书南宁首发",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720827.shtml",
-        "publishedAt": "2026-10-25T20:41:37.000+08:00"
+        "title": "全国总工会拨付200万元支援西藏灾区救灾救助工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720838.shtml",
+        "publishedAt": "2026-10-25T20:49:13.000+08:00"
       },
       {
-        "title": "2026天津马拉松开跑 3万跑者金秋“读懂”津城",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720816.shtml",
-        "publishedAt": "2026-10-25T20:40:57.000+08:00"
+        "title": "AI赋能、丝弦入药：上海推动音乐疗愈纳入临床多学科治疗",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720814.shtml",
+        "publishedAt": "2026-10-25T20:48:41.000+08:00"
       },
       {
-        "title": "学者：中美作为二战盟友的历史框住了“台独”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720815.shtml",
-        "publishedAt": "2026-10-25T20:40:21.000+08:00"
+        "title": "宁夏知识产权保护和运用“十五五”规划获批 锚定2030年知识产权强区建设目标",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720828.shtml",
+        "publishedAt": "2026-10-25T20:48:05.000+08:00"
       },
       {
-        "title": "粤桂共治九洲江 跨界守护一江清水",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720826.shtml",
-        "publishedAt": "2026-10-25T20:37:07.000+08:00"
+        "title": "2026年武台定光文化交流活动在福建武平举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720823.shtml",
+        "publishedAt": "2026-10-25T20:45:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T20:50:03.651+08:00",
+    "fetchedAt": "2026-10-25T21:00:04.731+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T20:50:07.448+08:00",
+      "fetchedAt": "2026-10-25T21:00:08.852+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T01:50:08.000+08:00"
+          "resetAt": "2026-10-26T02:00:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T20:50:08.000+08:00"
+          "resetAt": "2026-11-01T21:00:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T20:50:07.700+08:00",
+      "fetchedAt": "2026-10-25T21:00:09.076+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T20:50:07.709+08:00",
+      "fetchedAt": "2026-10-25T21:00:09.085+08:00",
       "error": null
     }
   }
