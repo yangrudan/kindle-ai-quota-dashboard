@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T15:50:09.175+08:00",
+  "updatedAt": "2026-10-25T16:00:09.766+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.4,
+    "tempC": 23.2,
     "feelsLikeC": 23.6,
     "humidity": 68,
-    "windKph": 15.1,
+    "windKph": 14.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T15:50:09.176+08:00",
+    "observedAt": "2026-10-25T16:00:00.000+08:00",
+    "fetchedAt": "2026-10-25T16:00:09.766+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "四川成都：菊花展引客来",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720706.shtml",
+        "publishedAt": "2026-10-25T15:53:17.000+08:00"
+      },
+      {
+        "title": "2026上合组织农业博览会在陕西杨凌开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720700.shtml",
+        "publishedAt": "2026-10-25T15:51:03.000+08:00"
+      },
+      {
+        "title": "第四届全国“村BA”总决赛在湖北咸丰开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720708.shtml",
+        "publishedAt": "2026-10-25T15:48:07.000+08:00"
+      },
+      {
+        "title": "隔空互怼！奥巴马批评：现任美国政府造成混乱局面 特朗普回击：“你的集会现场空荡荡”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720710.shtml",
+        "publishedAt": "2026-10-25T15:42:49.000+08:00"
+      },
+      {
         "title": "原创歌舞剧《天边的卡伦》西安首演 博州携特色风物开启“文艺走亲”",
         "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720704.shtml",
         "publishedAt": "2026-10-25T15:39:02.000+08:00"
-      },
-      {
-        "title": "法国新一轮抗议示威活动有近千人被捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720701.shtml",
-        "publishedAt": "2026-10-25T15:37:18.000+08:00"
-      },
-      {
-        "title": "澳大利亚昆州发生枪击事件致4人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720698.shtml",
-        "publishedAt": "2026-10-25T15:36:40.000+08:00"
-      },
-      {
-        "title": "专访英国48家集团俱乐部副主席：全球治理倡议维护国际关系积极成果",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720679.shtml",
-        "publishedAt": "2026-10-25T15:35:46.000+08:00"
-      },
-      {
-        "title": "菲律宾一市场发生火灾 致5人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720619.shtml",
-        "publishedAt": "2026-10-25T15:35:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T15:50:03.260+08:00",
+    "fetchedAt": "2026-10-25T16:00:03.679+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T15:50:07.074+08:00",
+      "fetchedAt": "2026-10-25T16:00:08.386+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T20:50:08.000+08:00"
+          "resetAt": "2026-10-25T21:00:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T15:50:08.000+08:00"
+          "resetAt": "2026-11-01T16:00:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T15:50:07.418+08:00",
+      "fetchedAt": "2026-10-25T16:00:08.722+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T15:50:07.428+08:00",
+      "fetchedAt": "2026-10-25T16:00:08.725+08:00",
       "error": null
     }
   }
