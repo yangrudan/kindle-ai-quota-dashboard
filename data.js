@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T13:20:09.254+08:00",
+  "updatedAt": "2026-10-25T13:30:08.797+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 23.9,
     "feelsLikeC": 23.7,
     "humidity": 66,
-    "windKph": 18.6,
+    "windKph": 18.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T13:20:09.254+08:00",
+    "observedAt": "2026-10-25T13:30:00.000+08:00",
+    "fetchedAt": "2026-10-25T13:30:08.797+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "联合国副秘书长在雄安赞赏中国面向未来的前瞻性眼光",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720636.shtml",
+        "publishedAt": "2026-10-25T13:27:17.000+08:00"
+      },
+      {
+        "title": "青春华章·逐梦北疆｜青春不问结果 沙海续写三北答卷",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720635.shtml",
+        "publishedAt": "2026-10-25T13:21:39.000+08:00"
+      },
       {
         "title": "学者谈台湾抗击日本殖民史：铭记苦难，看清方向",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720632.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "将话术当作承诺 大陆专家指民进党当局误判日本右翼",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720631.shtml",
         "publishedAt": "2026-10-25T13:11:20.000+08:00"
-      },
-      {
-        "title": "陈茂波：香港引进的前六批重点企业实际投资达283亿港元",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720615.shtml",
-        "publishedAt": "2026-10-25T13:07:38.000+08:00"
-      },
-      {
-        "title": "“蔷琵”强度减弱 浙江调整防台风应急响应为Ⅳ级",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720621.shtml",
-        "publishedAt": "2026-10-25T13:06:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T13:20:04.269+08:00",
+    "fetchedAt": "2026-10-25T13:30:03.781+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T13:20:08.119+08:00",
+      "fetchedAt": "2026-10-25T13:30:07.611+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T18:20:09.000+08:00"
+          "resetAt": "2026-10-25T18:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T13:20:08.294+08:00",
+      "fetchedAt": "2026-10-25T13:30:07.852+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T13:20:08.303+08:00",
+      "fetchedAt": "2026-10-25T13:30:07.859+08:00",
       "error": null
     }
   }
