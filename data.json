@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T15:00:09.105+08:00",
+  "updatedAt": "2026-10-25T15:10:39.033+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T15:00:09.105+08:00",
+    "fetchedAt": "2026-10-25T15:10:39.033+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国车模爱好者齐聚广州 展开车辆模型竞技",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720685.shtml",
-        "publishedAt": "2026-10-25T14:52:46.000+08:00"
+        "title": "铁翼传奇再启航 《战士之路》登台北京艺术中心",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720693.shtml",
+        "publishedAt": "2026-10-25T15:07:23.000+08:00"
       },
       {
-        "title": "前海国际枢纽中心项目向下“生长”：像“搭积木”一样建基坑",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720684.shtml",
-        "publishedAt": "2026-10-25T14:51:36.000+08:00"
+        "title": "山高诗未远，“鹿鸣”润童心——记传统文化在重庆“苗乡”的传承与守望",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720694.shtml",
+        "publishedAt": "2026-10-25T15:06:51.000+08:00"
       },
       {
-        "title": "吉林鲜食玉米的“联合国之旅”：品牌力量叩开世界餐桌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720687.shtml",
-        "publishedAt": "2026-10-25T14:48:42.000+08:00"
+        "title": "新疆昌吉学院签署新一轮校际合作协议",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720689.shtml",
+        "publishedAt": "2026-10-25T15:04:49.000+08:00"
       },
       {
-        "title": "海外华媒走进三峡工程 感受“中国力量”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720646.shtml",
-        "publishedAt": "2026-10-25T14:47:52.000+08:00"
+        "title": "2026天津马拉松开跑 3万跑者金秋遇见天津",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720658.shtml",
+        "publishedAt": "2026-10-25T15:03:07.000+08:00"
       },
       {
-        "title": "湖北宜昌：陆上游三峡 览地质奇观",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720645.shtml",
-        "publishedAt": "2026-10-25T14:46:38.000+08:00"
+        "title": "第三十三届杨凌农高会和2026上合组织农业博览会在陕西杨凌开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720688.shtml",
+        "publishedAt": "2026-10-25T15:02:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T15:00:03.710+08:00",
+    "fetchedAt": "2026-10-25T15:10:03.839+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T15:00:07.891+08:00",
+      "fetchedAt": "2026-10-25T15:10:37.886+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T20:00:09.000+08:00"
+          "resetAt": "2026-10-25T20:10:38.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T15:00:09.000+08:00"
+          "resetAt": "2026-11-01T15:10:38.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T15:00:08.236+08:00",
+      "fetchedAt": "2026-10-25T15:10:38.111+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T15:00:08.245+08:00",
+      "fetchedAt": "2026-10-25T15:10:38.120+08:00",
       "error": null
     }
   }
