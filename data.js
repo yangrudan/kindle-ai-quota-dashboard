@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T09:30:10.065+08:00",
+  "updatedAt": "2026-10-25T09:40:38.577+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T09:30:10.065+08:00",
+    "fetchedAt": "2026-10-25T09:40:38.577+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "暨南大学校友百亩稻田彩绘献礼母校百廿华诞",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720549.shtml",
-        "publishedAt": "2026-10-25T09:16:26.000+08:00"
+        "title": "2026年全国游泳锦标赛（25米）：徐嘉余打破男子50米仰泳世界纪录",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208783.shtml",
+        "publishedAt": "2026-10-25T09:38:02.000+08:00"
       },
       {
-        "title": "湖北宜昌：潮起峡江 新三峡文旅启新程",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720557.shtml",
-        "publishedAt": "2026-10-25T09:14:14.000+08:00"
+        "title": "2026读者·领读者大会启幕 探寻AI时代全民阅读新路径",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720566.shtml",
+        "publishedAt": "2026-10-25T09:37:29.000+08:00"
       },
       {
-        "title": "“兴隆星”小行星命名仪式在河北兴隆举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720558.shtml",
-        "publishedAt": "2026-10-25T09:10:11.000+08:00"
+        "title": "中国第20届国际摄影艺术展览在浙江丽水莲都开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720567.shtml",
+        "publishedAt": "2026-10-25T09:36:37.000+08:00"
       },
       {
-        "title": "台湾青年学者许志宏：守住民族根脉，从祖先牌位读懂台湾光复",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720547.shtml",
-        "publishedAt": "2026-10-25T09:08:55.000+08:00"
+        "title": "暨南文史学科创建100周年系列活动拉开序幕",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720568.shtml",
+        "publishedAt": "2026-10-25T09:35:59.000+08:00"
       },
       {
-        "title": "AI换脸明星带货泛滥，维权难点到底在哪？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720562.shtml",
-        "publishedAt": "2026-10-25T08:59:25.000+08:00"
+        "title": "2026青科会观察：看一场峰会如何赋能一座城",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720564.shtml",
+        "publishedAt": "2026-10-25T09:33:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T09:30:03.816+08:00",
+    "fetchedAt": "2026-10-25T09:40:03.421+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T09:30:08.883+08:00",
+      "fetchedAt": "2026-10-25T09:40:37.101+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T14:30:09.000+08:00"
+          "resetAt": "2026-10-25T14:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T09:30:09.162+08:00",
+      "fetchedAt": "2026-10-25T09:40:37.377+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T09:30:09.170+08:00",
+      "fetchedAt": "2026-10-25T09:40:37.386+08:00",
       "error": null
     }
   }
