@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T09:10:09.289+08:00",
+  "updatedAt": "2026-10-25T09:20:08.882+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.9,
-    "feelsLikeC": 20.3,
-    "humidity": 79,
+    "tempC": 21.1,
+    "feelsLikeC": 20.5,
+    "humidity": 77,
     "windKph": 21,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T09:10:09.289+08:00",
+    "observedAt": "2026-10-25T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T09:20:08.882+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "暨南大学校友百亩稻田彩绘献礼母校百廿华诞",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720549.shtml",
+        "publishedAt": "2026-10-25T09:16:26.000+08:00"
+      },
+      {
+        "title": "湖北宜昌：潮起峡江 新三峡文旅启新程",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720557.shtml",
+        "publishedAt": "2026-10-25T09:14:14.000+08:00"
+      },
+      {
+        "title": "“兴隆星”小行星命名仪式在河北兴隆举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720558.shtml",
+        "publishedAt": "2026-10-25T09:10:11.000+08:00"
+      },
+      {
+        "title": "台湾青年学者许志宏：守住民族根脉，从祖先牌位读懂台湾光复",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720547.shtml",
+        "publishedAt": "2026-10-25T09:08:55.000+08:00"
+      },
+      {
         "title": "AI换脸明星带货泛滥，维权难点到底在哪？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720562.shtml",
         "publishedAt": "2026-10-25T08:59:25.000+08:00"
-      },
-      {
-        "title": "新一股冷空气上线！北方多地迎立秋后最冷一天 华北西北有明显雨雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720559.shtml",
-        "publishedAt": "2026-10-25T08:56:03.000+08:00"
-      },
-      {
-        "title": "西藏那曲巴青地震震区电力供应全面恢复",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720556.shtml",
-        "publishedAt": "2026-10-25T08:53:07.000+08:00"
-      },
-      {
-        "title": "靳伟同志任中共湖南省委副书记",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720553.shtml",
-        "publishedAt": "2026-10-25T08:49:08.000+08:00"
-      },
-      {
-        "title": "铭记光复历史，捍卫山河一统！东部战区发布台湾光复纪念日主题海报",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720550.shtml",
-        "publishedAt": "2026-10-25T08:46:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T09:10:03.284+08:00",
+    "fetchedAt": "2026-10-25T09:20:03.819+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T09:10:08.072+08:00",
+      "fetchedAt": "2026-10-25T09:20:07.699+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T14:10:09.000+08:00"
+          "resetAt": "2026-10-25T14:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T09:10:08.408+08:00",
+      "fetchedAt": "2026-10-25T09:20:07.996+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T09:10:08.417+08:00",
+      "fetchedAt": "2026-10-25T09:20:08.016+08:00",
       "error": null
     }
   }
