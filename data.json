@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T19:40:37.869+08:00",
+  "updatedAt": "2026-10-25T19:50:37.873+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.8,
-    "feelsLikeC": 21,
+    "tempC": 19.6,
+    "feelsLikeC": 20.9,
     "humidity": 83,
-    "windKph": 7.8,
+    "windKph": 7.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T19:40:37.869+08:00",
+    "observedAt": "2026-10-25T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T19:50:37.874+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国地震台网自动测定：青海玉树州杂多县附近发生5.6级左右地震",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720791.shtml",
-        "publishedAt": "2026-10-25T19:35:17.000+08:00"
+        "title": "台湾民间团体纪念台湾光复81周年",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720781.shtml",
+        "publishedAt": "2026-10-25T19:45:12.000+08:00"
       },
       {
-        "title": "中国地震局：追踪调查首次发现西藏巴青7.0级地震地表破裂带",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720784.shtml",
-        "publishedAt": "2026-10-25T19:30:51.000+08:00"
+        "title": "江西景德镇：三宝村特色陶瓷装置成年轻人打卡热点",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720786.shtml",
+        "publishedAt": "2026-10-25T19:45:00.000+08:00"
       },
       {
-        "title": "沙特首都机场拟恢复运营 也门胡塞武装紧急警告",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720739.shtml",
-        "publishedAt": "2026-10-25T19:27:07.000+08:00"
+        "title": "河南汝阳：“巧媳妇”蒸馍比赛尽显乡村烟火气",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720785.shtml",
+        "publishedAt": "2026-10-25T19:43:56.000+08:00"
       },
       {
-        "title": "把学校“嵌”进养老园区 浙江温州探索产教融合新模式",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720783.shtml",
-        "publishedAt": "2026-10-25T19:24:03.000+08:00"
+        "title": "第35届金犊奖在北京颁奖 逾半数作品应用AI辅助创作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720778.shtml",
+        "publishedAt": "2026-10-25T19:39:56.000+08:00"
       },
       {
-        "title": "海归在大湾区人才大会看到另一种可能",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720780.shtml",
-        "publishedAt": "2026-10-25T19:22:01.000+08:00"
+        "title": "中国地震台网正式测定：西藏那曲市巴青县发生5.7级地震，震源深度10千米",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720792.shtml",
+        "publishedAt": "2026-10-25T19:37:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T19:40:03.038+08:00",
+    "fetchedAt": "2026-10-25T19:50:03.011+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T19:40:36.501+08:00",
+      "fetchedAt": "2026-10-25T19:50:36.651+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T00:40:37.000+08:00"
+          "resetAt": "2026-10-26T00:50:37.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T19:40:37.000+08:00"
+          "resetAt": "2026-11-01T19:50:37.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T19:40:36.767+08:00",
+      "fetchedAt": "2026-10-25T19:50:36.950+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T19:40:36.776+08:00",
+      "fetchedAt": "2026-10-25T19:50:36.953+08:00",
       "error": null
     }
   }
