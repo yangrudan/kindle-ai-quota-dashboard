@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T16:30:08.337+08:00",
+  "updatedAt": "2026-10-25T16:40:10.076+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T16:30:08.337+08:00",
+    "fetchedAt": "2026-10-25T16:40:10.076+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东西问丨丁新豹：香港孙中山纪念馆为何选址这座百年豪宅？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-25/10720711.shtml",
-        "publishedAt": "2026-10-25T16:16:18.000+08:00"
+        "title": "（走进中国乡村）贵州“银匠村”：年轻人进村学艺 老匠人赶订单忙创新",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720716.shtml",
+        "publishedAt": "2026-10-25T16:37:20.000+08:00"
       },
       {
-        "title": "（走进中国乡村）从集散中心到海外餐桌 湖南汝城小黄姜“种”出大产业",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720713.shtml",
-        "publishedAt": "2026-10-25T16:06:40.000+08:00"
+        "title": "许镜清：“篡改行为不制止，原创音乐人路在何方？”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720719.shtml",
+        "publishedAt": "2026-10-25T16:36:56.000+08:00"
       },
       {
-        "title": "粤桂琼开展2026年第三次海上联合执法行动",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720705.shtml",
-        "publishedAt": "2026-10-25T16:04:42.000+08:00"
+        "title": "最高法：过去三年全国法院累计聘请退休法官9500余人",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720717.shtml",
+        "publishedAt": "2026-10-25T16:34:15.000+08:00"
       },
       {
-        "title": "探访第三十三届杨凌农高会：迭代升级 亮点纷呈",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-25/10720707.shtml",
-        "publishedAt": "2026-10-25T16:04:08.000+08:00"
+        "title": "樟溪服务区焕新迎客 以工夫茶承载潮闽同源文脉",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720714.shtml",
+        "publishedAt": "2026-10-25T16:33:11.000+08:00"
       },
       {
-        "title": "西藏巴青震后48小时：海拔4800米的生命救援",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720712.shtml",
-        "publishedAt": "2026-10-25T16:02:20.000+08:00"
+        "title": "陕西杨凌：田间地头变“科技秀场”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720715.shtml",
+        "publishedAt": "2026-10-25T16:31:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T16:30:02.982+08:00",
+    "fetchedAt": "2026-10-25T16:40:03.895+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T16:30:07.064+08:00",
+      "fetchedAt": "2026-10-25T16:40:08.677+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T21:30:08.000+08:00"
+          "resetAt": "2026-10-25T21:40:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T16:30:08.000+08:00"
+          "resetAt": "2026-11-01T16:40:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T16:30:07.246+08:00",
+      "fetchedAt": "2026-10-25T16:40:08.927+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T16:30:07.256+08:00",
+      "fetchedAt": "2026-10-25T16:40:08.936+08:00",
       "error": null
     }
   }
