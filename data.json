@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T18:40:08.446+08:00",
+  "updatedAt": "2026-10-25T18:50:38.525+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.6,
-    "feelsLikeC": 21.7,
-    "humidity": 79,
-    "windKph": 8.6,
+    "tempC": 20.3,
+    "feelsLikeC": 21.5,
+    "humidity": 80,
+    "windKph": 8.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T18:40:08.446+08:00",
+    "observedAt": "2026-10-25T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T18:50:38.525+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "内蒙古霍林郭勒开通至上海航线 “绿电铝之城”空中连通长三角",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720763.shtml",
+        "publishedAt": "2026-10-25T18:40:52.000+08:00"
+      },
+      {
+        "title": "2026全球治理论坛（雄安）闭幕 圆满完成所有既定议程",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720767.shtml",
+        "publishedAt": "2026-10-25T18:33:50.000+08:00"
+      },
       {
         "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720753.shtml",
@@ -33,19 +43,9 @@
         "title": "上合组织国家“亮相”陕西杨凌 “双展”启幕深化农业国际合作",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720755.shtml",
         "publishedAt": "2026-10-25T17:57:32.000+08:00"
-      },
-      {
-        "title": "2026石家庄环城绿道徒步大会举行",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720745.shtml",
-        "publishedAt": "2026-10-25T17:52:38.000+08:00"
-      },
-      {
-        "title": "童声唱响青城：2600余名学生用歌声传递红色记忆",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720756.shtml",
-        "publishedAt": "2026-10-25T17:50:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T18:40:03.393+08:00",
+    "fetchedAt": "2026-10-25T18:50:03.836+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T18:40:07.210+08:00",
+      "fetchedAt": "2026-10-25T18:50:37.284+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T23:40:08.000+08:00"
+          "resetAt": "2026-10-25T23:50:38.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T18:40:08.000+08:00"
+          "resetAt": "2026-11-01T18:50:38.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T18:40:07.483+08:00",
+      "fetchedAt": "2026-10-25T18:50:37.586+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T18:40:07.486+08:00",
+      "fetchedAt": "2026-10-25T18:50:37.589+08:00",
       "error": null
     }
   }
