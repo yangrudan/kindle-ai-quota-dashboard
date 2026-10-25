@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T20:40:09.337+08:00",
+  "updatedAt": "2026-10-25T20:50:08.819+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19,
-    "feelsLikeC": 20.6,
-    "humidity": 86,
-    "windKph": 5.3,
+    "tempC": 18.8,
+    "feelsLikeC": 20.4,
+    "humidity": 87,
+    "windKph": 4.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T20:40:09.337+08:00",
+    "observedAt": "2026-10-25T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T20:50:08.820+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "边关稻熟壮乡风情醉游人 广西大新明仕田园丰收节启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720825.shtml",
-        "publishedAt": "2026-10-25T20:32:35.000+08:00"
+        "title": "河北省第十四届人民代表大会常务委员会公告",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720832.shtml",
+        "publishedAt": "2026-10-25T20:42:09.000+08:00"
       },
       {
-        "title": "云南省第十三届少数民族传统体育运动会：陀螺赛场画同心",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720819.shtml",
-        "publishedAt": "2026-10-25T20:31:50.000+08:00"
+        "title": "解锁八桂鱼鲜密码 《在广西吃鱼》新书南宁首发",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720827.shtml",
+        "publishedAt": "2026-10-25T20:41:37.000+08:00"
       },
       {
-        "title": "小菌菇撑起富民大产业",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720808.shtml",
-        "publishedAt": "2026-10-25T20:30:48.000+08:00"
+        "title": "2026天津马拉松开跑 3万跑者金秋“读懂”津城",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720816.shtml",
+        "publishedAt": "2026-10-25T20:40:57.000+08:00"
       },
       {
-        "title": "全国桨板高手齐聚重庆黔江濯水古镇 逐浪阿蓬江",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720804.shtml",
-        "publishedAt": "2026-10-25T20:29:46.000+08:00"
+        "title": "学者：中美作为二战盟友的历史框住了“台独”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720815.shtml",
+        "publishedAt": "2026-10-25T20:40:21.000+08:00"
       },
       {
-        "title": "四川成都：“向内生长——2026当代女性艺术家群展”吸引参观者",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720801.shtml",
-        "publishedAt": "2026-10-25T20:28:52.000+08:00"
+        "title": "粤桂共治九洲江 跨界守护一江清水",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720826.shtml",
+        "publishedAt": "2026-10-25T20:37:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T20:40:03.812+08:00",
+    "fetchedAt": "2026-10-25T20:50:03.651+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T20:40:08.022+08:00",
+      "fetchedAt": "2026-10-25T20:50:07.448+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T01:40:09.000+08:00"
+          "resetAt": "2026-10-26T01:50:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T20:40:09.000+08:00"
+          "resetAt": "2026-11-01T20:50:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T20:40:08.348+08:00",
+      "fetchedAt": "2026-10-25T20:50:07.700+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T20:40:08.357+08:00",
+      "fetchedAt": "2026-10-25T20:50:07.709+08:00",
       "error": null
     }
   }
