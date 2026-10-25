@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T15:20:09.641+08:00",
+  "updatedAt": "2026-10-25T15:30:08.765+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 23.5,
-    "feelsLikeC": 23.5,
-    "humidity": 68,
-    "windKph": 16.9,
+    "feelsLikeC": 23.7,
+    "humidity": 67,
+    "windKph": 15.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T15:20:09.641+08:00",
+    "observedAt": "2026-10-25T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-25T15:30:08.765+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "黑龙江探索心律失常介入治疗“零射线” 省内首家心内科绿色导管室落户哈医大二院",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720697.shtml",
+        "publishedAt": "2026-10-25T15:29:12.000+08:00"
+      },
+      {
+        "title": "专家献策医疗“出海”：沪港澳台携手打造国际医疗平台",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720696.shtml",
+        "publishedAt": "2026-10-25T15:22:00.000+08:00"
+      },
+      {
+        "title": "视障人士在三峡文物科技保护基地“看见”历史",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720673.shtml",
+        "publishedAt": "2026-10-25T15:20:49.000+08:00"
+      },
+      {
+        "title": "学习手记｜在文化浸润中筑牢“不想腐”的堤坝",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720691.shtml",
+        "publishedAt": "2026-10-25T15:19:59.000+08:00"
+      },
+      {
         "title": "三峡水库完成年度175米蓄水 沿江小镇再现高峡平湖美景",
         "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720683.shtml",
         "publishedAt": "2026-10-25T15:18:05.000+08:00"
-      },
-      {
-        "title": "广西柳州：武警官兵开展实战化战术训练",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720662.shtml",
-        "publishedAt": "2026-10-25T15:15:49.000+08:00"
-      },
-      {
-        "title": "两岸书画家安徽挥毫泼墨忆先贤",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720660.shtml",
-        "publishedAt": "2026-10-25T15:14:51.000+08:00"
-      },
-      {
-        "title": "在历史与文学之间探寻 《“新红色经典”论》研讨会举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720695.shtml",
-        "publishedAt": "2026-10-25T15:08:43.000+08:00"
-      },
-      {
-        "title": "铁翼传奇再启航 《战士之路》登台北京艺术中心",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720693.shtml",
-        "publishedAt": "2026-10-25T15:07:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T15:20:03.839+08:00",
+    "fetchedAt": "2026-10-25T15:30:03.229+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T15:20:08.255+08:00",
+      "fetchedAt": "2026-10-25T15:30:07.614+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T20:20:09.000+08:00"
+          "resetAt": "2026-10-25T20:30:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T15:20:09.000+08:00"
+          "resetAt": "2026-11-01T15:30:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T15:20:08.462+08:00",
+      "fetchedAt": "2026-10-25T15:30:07.806+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T15:20:08.471+08:00",
+      "fetchedAt": "2026-10-25T15:30:07.815+08:00",
       "error": null
     }
   }
