@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T06:30:08.632+08:00",
+  "updatedAt": "2026-10-26T06:40:08.567+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-26T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T06:30:08.632+08:00",
+    "fetchedAt": "2026-10-26T06:40:08.567+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "巴西总统选举第二轮投票结束",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720873.shtml",
+        "publishedAt": "2026-10-26T06:39:14.000+08:00"
+      },
+      {
+        "title": "塞尔维亚举行议会选举 武契奇承认败选",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720872.shtml",
+        "publishedAt": "2026-10-26T06:32:50.000+08:00"
+      },
+      {
+        "title": "塞尔维亚“学生名单-学生获胜”宣布议会选举获胜",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720871.shtml",
+        "publishedAt": "2026-10-26T06:29:18.000+08:00"
+      },
+      {
+        "title": "中朝举行中国人民志愿军烈士陵园修缮工程竣工仪式",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720870.shtml",
+        "publishedAt": "2026-10-26T06:25:37.000+08:00"
+      },
+      {
         "title": "废旧设备可能藏着关键数据 国家安全机关提示",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720869.shtml",
         "publishedAt": "2026-10-26T06:22:17.000+08:00"
-      },
-      {
-        "title": "法国极右翼领导人勒庞正式启动总统竞选活动",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720868.shtml",
-        "publishedAt": "2026-10-26T06:07:12.000+08:00"
-      },
-      {
-        "title": "CBA一周综述：北京、辽宁四连胜 卫冕冠军遇挑战",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720867.shtml",
-        "publishedAt": "2026-10-26T06:06:56.000+08:00"
-      },
-      {
-        "title": "CBA：山西主场101:79战胜江苏 迎新赛季三连胜",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720865.shtml",
-        "publishedAt": "2026-10-25T23:56:42.000+08:00"
-      },
-      {
-        "title": "乒乓球亚锦赛：中国队4金4银收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720866.shtml",
-        "publishedAt": "2026-10-25T23:56:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T06:30:03.380+08:00",
+    "fetchedAt": "2026-10-26T06:40:03.106+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T06:30:07.446+08:00",
+      "fetchedAt": "2026-10-26T06:40:07.339+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T11:30:08.000+08:00"
+          "resetAt": "2026-10-26T11:40:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T06:30:08.000+08:00"
+          "resetAt": "2026-11-02T06:40:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T06:30:07.780+08:00",
+      "fetchedAt": "2026-10-26T06:40:07.643+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T06:30:07.787+08:00",
+      "fetchedAt": "2026-10-26T06:40:07.652+08:00",
       "error": null
     }
   }
