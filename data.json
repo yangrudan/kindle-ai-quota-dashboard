@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:30:09.340+08:00",
+  "updatedAt": "2026-10-25T17:40:08.405+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T17:30:09.340+08:00",
+    "fetchedAt": "2026-10-25T17:40:08.405+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "凤凰山高速公路开工建设 预计2030年通车",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720725.shtml",
-        "publishedAt": "2026-10-25T17:21:52.000+08:00"
+        "title": "探索外交话语的“区域国别转向” 专家学者在沪研讨对外话语体系建设",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720735.shtml",
+        "publishedAt": "2026-10-25T17:32:39.000+08:00"
       },
       {
-        "title": "（结图纪事）走进贵州都匀",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208820.shtml",
-        "publishedAt": "2026-10-25T17:16:34.000+08:00"
+        "title": "2026青科会大健康论坛：瓯江实验室发布联合攻关计划",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720731.shtml",
+        "publishedAt": "2026-10-25T17:31:31.000+08:00"
       },
       {
-        "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720728.shtml",
-        "publishedAt": "2026-10-25T17:12:58.000+08:00"
+        "title": "研学旅游市场升温 海南高校发力培育专业人才",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720732.shtml",
+        "publishedAt": "2026-10-25T17:30:45.000+08:00"
       },
       {
-        "title": "纪念台湾光复81周年座谈会在福州举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720723.shtml",
-        "publishedAt": "2026-10-25T17:07:11.000+08:00"
+        "title": "乌兹别克斯坦艺术家：希望中亚五国与中国的艺术家能够同台演出",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720730.shtml",
+        "publishedAt": "2026-10-25T17:29:09.000+08:00"
       },
       {
-        "title": "中外企业绿色发展与全球贡献国际传播研讨会举行，平安集团盛瑞生发表主题演讲",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720724.shtml",
-        "publishedAt": "2026-10-25T17:06:21.000+08:00"
+        "title": "九三学社首届“德赛杯”书法大赛优秀作品展在宁波开幕",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-25/10720727.shtml",
+        "publishedAt": "2026-10-25T17:26:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T17:30:04.131+08:00",
+    "fetchedAt": "2026-10-25T17:40:03.097+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T17:30:08.253+08:00",
+      "fetchedAt": "2026-10-25T17:40:07.110+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T22:30:09.000+08:00"
+          "resetAt": "2026-10-25T22:40:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T17:30:09.000+08:00"
+          "resetAt": "2026-11-01T17:40:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T17:30:08.522+08:00",
+      "fetchedAt": "2026-10-25T17:40:07.518+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T17:30:08.531+08:00",
+      "fetchedAt": "2026-10-25T17:40:07.528+08:00",
       "error": null
     }
   }
