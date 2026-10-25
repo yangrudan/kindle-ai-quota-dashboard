@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T14:40:08.727+08:00",
+  "updatedAt": "2026-10-25T14:50:10.482+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 23.7,
-    "feelsLikeC": 23.6,
+    "feelsLikeC": 23.7,
     "humidity": 67,
-    "windKph": 18.2,
+    "windKph": 17.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T14:40:08.727+08:00",
+    "observedAt": "2026-10-25T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T14:50:10.483+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冬春换季 多家航司增投运力织密武汉航空网络",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720682.shtml",
+        "publishedAt": "2026-10-25T14:41:21.000+08:00"
+      },
+      {
+        "title": "云南省第十三届少数民族传统体育运动会开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720643.shtml",
+        "publishedAt": "2026-10-25T14:40:51.000+08:00"
+      },
+      {
+        "title": "中共山西省委举行新闻发布会 介绍和解读省第十三次党代会精神",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720676.shtml",
+        "publishedAt": "2026-10-25T14:40:07.000+08:00"
+      },
       {
         "title": "阙方俊当选为安徽省马鞍山市市长",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720675.shtml",
@@ -28,24 +43,9 @@
         "title": "东西问丨田建文：100年前，中国现代独立考古第一铲为何落在西阴？",
         "url": "https://www.chinanews.com.cn/dxw/2026/10-25/10720674.shtml",
         "publishedAt": "2026-10-25T14:26:19.000+08:00"
-      },
-      {
-        "title": "纪念中国人民志愿军抗美援朝出国作战76周年活动在沈阳举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720670.shtml",
-        "publishedAt": "2026-10-25T14:26:17.000+08:00"
-      },
-      {
-        "title": "2026年福建省中医药文化周专题活动在榕举行",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720665.shtml",
-        "publishedAt": "2026-10-25T14:24:00.000+08:00"
-      },
-      {
-        "title": "海峡两岸青年精英网球团体公开赛在太原开幕 两岸青年以球会友",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720666.shtml",
-        "publishedAt": "2026-10-25T14:20:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T14:40:03.704+08:00",
+    "fetchedAt": "2026-10-25T14:50:03.677+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T14:40:07.317+08:00",
+      "fetchedAt": "2026-10-25T14:50:09.204+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T19:40:08.000+08:00"
+          "resetAt": "2026-10-25T19:50:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T14:40:08.000+08:00"
+          "resetAt": "2026-11-01T14:50:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T14:40:07.684+08:00",
+      "fetchedAt": "2026-10-25T14:50:09.598+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T14:40:07.688+08:00",
+      "fetchedAt": "2026-10-25T14:50:09.607+08:00",
       "error": null
     }
   }
