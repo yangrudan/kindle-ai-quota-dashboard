@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T07:40:16.758+08:00",
+  "updatedAt": "2026-10-26T07:50:07.583+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.6,
-    "feelsLikeC": 17.7,
-    "humidity": 91,
-    "windKph": 4.6,
+    "tempC": 17.1,
+    "feelsLikeC": 18.3,
+    "humidity": 89,
+    "windKph": 3.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T07:40:16.758+08:00",
+    "observedAt": "2026-10-26T07:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T07:50:07.583+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "不靠海的内陆城市，如何把锂电池卖向全球？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720886.shtml",
+        "publishedAt": "2026-10-26T07:44:02.000+08:00"
+      },
+      {
+        "title": "占比超50% 年轻人正成为红色旅游主力军",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720885.shtml",
+        "publishedAt": "2026-10-26T07:42:19.000+08:00"
+      },
+      {
+        "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720884.shtml",
+        "publishedAt": "2026-10-26T07:39:31.000+08:00"
+      },
       {
         "title": "护航对外投资高质量发展，新办法12月1日起施行",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "从“工具”跃升为“生产力”， AI重构电影生产逻辑",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720882.shtml",
         "publishedAt": "2026-10-26T07:27:13.000+08:00"
-      },
-      {
-        "title": "从“有人带”到“托得好” 优质托育服务正在走进更多家庭",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720881.shtml",
-        "publishedAt": "2026-10-26T07:24:15.000+08:00"
-      },
-      {
-        "title": "私有产权文物建筑，坏了谁来修",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720880.shtml",
-        "publishedAt": "2026-10-26T07:20:38.000+08:00"
-      },
-      {
-        "title": "10分钟就冒出“99+”群消息，职场人如何不为“群”所困？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720879.shtml",
-        "publishedAt": "2026-10-26T07:16:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T07:40:12.194+08:00",
+    "fetchedAt": "2026-10-26T07:50:02.907+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T07:40:15.635+08:00",
+      "fetchedAt": "2026-10-26T07:50:06.349+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T12:40:16.000+08:00"
+          "resetAt": "2026-10-26T12:50:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T07:40:16.000+08:00"
+          "resetAt": "2026-11-02T07:50:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T07:40:15.903+08:00",
+      "fetchedAt": "2026-10-26T07:50:06.718+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T07:40:15.910+08:00",
+      "fetchedAt": "2026-10-26T07:50:06.724+08:00",
       "error": null
     }
   }
