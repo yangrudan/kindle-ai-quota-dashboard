@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T10:50:08.758+08:00",
+  "updatedAt": "2026-10-25T11:00:09.070+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.9,
-    "feelsLikeC": 22.4,
-    "humidity": 69,
-    "windKph": 19.7,
+    "tempC": 23.1,
+    "feelsLikeC": 22.6,
+    "humidity": 68,
+    "windKph": 19.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T10:50:08.758+08:00",
+    "observedAt": "2026-10-25T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-25T11:00:09.071+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "拉萨车站温情守护 保障旅客出行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720576.shtml",
+        "publishedAt": "2026-10-25T10:56:27.000+08:00"
+      },
+      {
+        "title": "福建省终止防台风应急响应 陆续恢复海上生产",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720598.shtml",
+        "publishedAt": "2026-10-25T10:54:05.000+08:00"
+      },
+      {
+        "title": "摄影家为离世母亲办展：希望大家珍惜和父母在一起的时光",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720589.shtml",
+        "publishedAt": "2026-10-25T10:44:59.000+08:00"
+      },
       {
         "title": "正常咨询为何变成“投诉”？揭秘快递末端“以罚代管”怪圈",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720597.shtml",
@@ -28,24 +43,9 @@
         "title": "日本小笠原群岛地区发生6.5级地震 震源深度480千米",
         "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720596.shtml",
         "publishedAt": "2026-10-25T10:34:34.000+08:00"
-      },
-      {
-        "title": "日本小笠原群岛地区附近发生6.8级左右地震",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720594.shtml",
-        "publishedAt": "2026-10-25T10:28:38.000+08:00"
-      },
-      {
-        "title": "日本小笠原群岛附近海域发生7.0级地震",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720593.shtml",
-        "publishedAt": "2026-10-25T10:25:25.000+08:00"
-      },
-      {
-        "title": "50余名缅甸青年在云南临沧记录陶韵舞魅",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720590.shtml",
-        "publishedAt": "2026-10-25T10:24:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T10:50:03.678+08:00",
+    "fetchedAt": "2026-10-25T11:00:02.866+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T10:50:07.449+08:00",
+      "fetchedAt": "2026-10-25T11:00:07.716+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T15:50:08.000+08:00"
+          "resetAt": "2026-10-25T16:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T10:50:07.805+08:00",
+      "fetchedAt": "2026-10-25T11:00:08.075+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T10:50:07.814+08:00",
+      "fetchedAt": "2026-10-25T11:00:08.085+08:00",
       "error": null
     }
   }
