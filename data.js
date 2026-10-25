@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T19:20:08.685+08:00",
+  "updatedAt": "2026-10-25T19:30:09.761+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.9,
-    "feelsLikeC": 21.1,
-    "humidity": 82,
-    "windKph": 8.1,
+    "tempC": 19.8,
+    "feelsLikeC": 21,
+    "humidity": 83,
+    "windKph": 7.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T19:20:08.685+08:00",
+    "observedAt": "2026-10-25T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-25T19:30:09.762+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "把学校“嵌”进养老园区 浙江温州探索产教融合新模式",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720783.shtml",
+        "publishedAt": "2026-10-25T19:24:03.000+08:00"
+      },
+      {
+        "title": "海归在大湾区人才大会看到另一种可能",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720780.shtml",
+        "publishedAt": "2026-10-25T19:22:01.000+08:00"
+      },
+      {
+        "title": "广西推介水果新品种 为不同气候带产区提供特色品种",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720775.shtml",
+        "publishedAt": "2026-10-25T19:20:25.000+08:00"
+      },
+      {
+        "title": "逾3万名跑者竞速宝鸡马拉松 多项赛会纪录被刷新",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720774.shtml",
+        "publishedAt": "2026-10-25T19:19:43.000+08:00"
+      },
+      {
         "title": "全国约3300名“泳士”齐聚广东清远横渡北江",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720772.shtml",
         "publishedAt": "2026-10-25T19:18:00.000+08:00"
-      },
-      {
-        "title": "银川凤凰公园赴秋约：书香市集解锁阅读新体验",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720776.shtml",
-        "publishedAt": "2026-10-25T19:06:56.000+08:00"
-      },
-      {
-        "title": "陈少波同志任河北省委常委",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720779.shtml",
-        "publishedAt": "2026-10-25T19:05:52.000+08:00"
-      },
-      {
-        "title": "第140届广交会第二期：境外采购商挑选“中国好礼”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720749.shtml",
-        "publishedAt": "2026-10-25T18:58:27.000+08:00"
-      },
-      {
-        "title": "大天鹅“夫妇”携宝宝飞抵河南三门峡越冬",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720740.shtml",
-        "publishedAt": "2026-10-25T18:50:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T19:20:03.833+08:00",
+    "fetchedAt": "2026-10-25T19:30:04.189+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T19:20:07.462+08:00",
+      "fetchedAt": "2026-10-25T19:30:08.699+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T00:20:08.000+08:00"
+          "resetAt": "2026-10-26T00:30:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T19:20:08.000+08:00"
+          "resetAt": "2026-11-01T19:30:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T19:20:07.741+08:00",
+      "fetchedAt": "2026-10-25T19:30:08.924+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T19:20:07.749+08:00",
+      "fetchedAt": "2026-10-25T19:30:08.936+08:00",
       "error": null
     }
   }
