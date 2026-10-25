@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T21:10:09.408+08:00",
+  "updatedAt": "2026-10-25T21:20:10.882+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.7,
-    "feelsLikeC": 20.3,
+    "tempC": 18.5,
+    "feelsLikeC": 20.1,
     "humidity": 88,
     "windKph": 4.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T21:10:09.408+08:00",
+    "observedAt": "2026-10-25T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T21:20:10.883+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "守千年技艺 绘傣陶新章：一位西双版纳女陶艺师的“新纹样”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720844.shtml",
+        "publishedAt": "2026-10-25T21:14:01.000+08:00"
+      },
+      {
+        "title": "在榕台青于非遗与新媒体碰撞中感悟闽都文脉",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720843.shtml",
+        "publishedAt": "2026-10-25T21:13:27.000+08:00"
+      },
       {
         "title": "草方格锁黄沙 鹅喉羚蹄印见证中卫生态之变",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720842.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "粤港澳大湾区青少年选手齐聚深圳“以球会友”",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720839.shtml",
         "publishedAt": "2026-10-25T20:59:20.000+08:00"
-      },
-      {
-        "title": "广交会观察：中国陶瓷企业靠原创设计拿下海外订单",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720830.shtml",
-        "publishedAt": "2026-10-25T20:57:20.000+08:00"
-      },
-      {
-        "title": "湖北宜昌：长江之畔“长”出绿色算力科创高地",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720841.shtml",
-        "publishedAt": "2026-10-25T20:56:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T21:10:03.961+08:00",
+    "fetchedAt": "2026-10-25T21:20:04.809+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T21:10:08.217+08:00",
+      "fetchedAt": "2026-10-25T21:20:08.657+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T02:10:09.000+08:00"
+          "resetAt": "2026-10-26T02:20:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T21:10:09.000+08:00"
+          "resetAt": "2026-11-01T21:20:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T21:10:08.441+08:00",
+      "fetchedAt": "2026-10-25T21:20:08.980+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T21:10:08.447+08:00",
+      "fetchedAt": "2026-10-25T21:20:08.985+08:00",
       "error": null
     }
   }
