@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T13:30:08.797+08:00",
+  "updatedAt": "2026-10-25T13:40:09.172+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T13:30:08.797+08:00",
+    "fetchedAt": "2026-10-25T13:40:09.172+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本民众举行集会 反对修改“无核三原则”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720638.shtml",
+        "publishedAt": "2026-10-25T13:34:52.000+08:00"
+      },
       {
         "title": "联合国副秘书长在雄安赞赏中国面向未来的前瞻性眼光",
         "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720636.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "柬埔寨青年博主：从助学金受益者到中柬友好故事讲述者",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-25/10720627.shtml",
         "publishedAt": "2026-10-25T13:11:57.000+08:00"
-      },
-      {
-        "title": "将话术当作承诺 大陆专家指民进党当局误判日本右翼",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720631.shtml",
-        "publishedAt": "2026-10-25T13:11:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T13:30:03.781+08:00",
+    "fetchedAt": "2026-10-25T13:40:03.599+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T13:30:07.611+08:00",
+      "fetchedAt": "2026-10-25T13:40:08.017+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T18:30:08.000+08:00"
+          "resetAt": "2026-10-25T18:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T13:30:07.852+08:00",
+      "fetchedAt": "2026-10-25T13:40:08.246+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T13:30:07.859+08:00",
+      "fetchedAt": "2026-10-25T13:40:08.253+08:00",
       "error": null
     }
   }
