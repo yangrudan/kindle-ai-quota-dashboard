@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T12:20:38.057+08:00",
+  "updatedAt": "2026-10-25T12:30:09.293+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.4,
-    "feelsLikeC": 23.2,
-    "humidity": 68,
+    "tempC": 23.6,
+    "feelsLikeC": 23.4,
+    "humidity": 67,
     "windKph": 18.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T12:20:38.057+08:00",
+    "observedAt": "2026-10-25T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-25T12:30:09.293+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中新网评：洁厕剂包装越像饮料，安全警示越不能像摆设",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720610.shtml",
+        "publishedAt": "2026-10-25T12:22:12.000+08:00"
+      },
+      {
+        "title": "中国队包揽速度攀岩世界杯收官战冠军 赵一程获年度总冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720614.shtml",
+        "publishedAt": "2026-10-25T12:19:00.000+08:00"
+      },
+      {
+        "title": "比利时“撒尿小童”换唐装庆祝中比建交55周年",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720602.shtml",
+        "publishedAt": "2026-10-25T12:17:46.000+08:00"
+      },
+      {
+        "title": "2026伦敦世界旅游交易会：中国展区规模创历届新高",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720600.shtml",
+        "publishedAt": "2026-10-25T12:16:56.000+08:00"
+      },
+      {
         "title": "秋粮收获过八成 新技术助力提质增效",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720613.shtml",
         "publishedAt": "2026-10-25T12:03:19.000+08:00"
-      },
-      {
-        "title": "三载深耕，向产业出发：相干科技的量子求索之路",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720608.shtml",
-        "publishedAt": "2026-10-25T11:54:04.000+08:00"
-      },
-      {
-        "title": "我国成功发射卫星互联网低轨28组卫星",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720609.shtml",
-        "publishedAt": "2026-10-25T11:51:38.000+08:00"
-      },
-      {
-        "title": "浙江调整防台风应急响应为Ⅳ级",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720606.shtml",
-        "publishedAt": "2026-10-25T11:36:45.000+08:00"
-      },
-      {
-        "title": "云南省第十三届少数民族传统体育运动会开幕",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-25/10720599.shtml",
-        "publishedAt": "2026-10-25T11:30:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T12:20:03.160+08:00",
+    "fetchedAt": "2026-10-25T12:30:04.137+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T12:20:36.602+08:00",
+      "fetchedAt": "2026-10-25T12:30:08.273+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T17:20:38.000+08:00"
+          "resetAt": "2026-10-25T17:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T12:20:36.807+08:00",
+      "fetchedAt": "2026-10-25T12:30:08.452+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T12:20:36.816+08:00",
+      "fetchedAt": "2026-10-25T12:30:08.462+08:00",
       "error": null
     }
   }
