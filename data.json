@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T22:10:08.271+08:00",
+  "updatedAt": "2026-10-25T22:20:07.599+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.1,
-    "feelsLikeC": 19.5,
+    "tempC": 17.9,
+    "feelsLikeC": 19.3,
     "humidity": 90,
     "windKph": 5.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T22:10:08.272+08:00",
+    "observedAt": "2026-10-25T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T22:20:07.599+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "27支队伍角逐2026年中国—东盟国际龙舟公开赛",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-25/10720854.shtml",
+        "publishedAt": "2026-10-25T22:10:28.000+08:00"
+      },
+      {
+        "title": "两岸同忆台静农：渡海传薪续文脉 “歇脚庵”里话古今",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720855.shtml",
+        "publishedAt": "2026-10-25T22:09:08.000+08:00"
+      },
       {
         "title": "守千年技艺 绘傣陶新章：一位西双版纳女陶艺师的“新纹样”",
         "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720844.shtml",
@@ -33,19 +43,9 @@
         "title": "草方格锁黄沙 鹅喉羚蹄印见证中卫生态之变",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720842.shtml",
         "publishedAt": "2026-10-25T21:01:52.000+08:00"
-      },
-      {
-        "title": "2026年闽台青少年街舞展演在福州举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720840.shtml",
-        "publishedAt": "2026-10-25T21:01:34.000+08:00"
-      },
-      {
-        "title": "粤港澳大湾区青少年选手齐聚深圳“以球会友”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720839.shtml",
-        "publishedAt": "2026-10-25T20:59:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T22:10:03.066+08:00",
+    "fetchedAt": "2026-10-25T22:20:02.845+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T22:10:06.995+08:00",
+      "fetchedAt": "2026-10-25T22:20:06.241+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T03:10:08.000+08:00"
+          "resetAt": "2026-10-26T03:20:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T22:10:08.000+08:00"
+          "resetAt": "2026-11-01T22:20:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T22:10:07.358+08:00",
+      "fetchedAt": "2026-10-25T22:20:06.569+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T22:10:07.367+08:00",
+      "fetchedAt": "2026-10-25T22:20:06.578+08:00",
       "error": null
     }
   }
