@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T11:10:09.208+08:00",
+  "updatedAt": "2026-10-25T11:20:38.488+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.1,
-    "feelsLikeC": 22.6,
-    "humidity": 68,
-    "windKph": 19.6,
+    "tempC": 23.2,
+    "feelsLikeC": 22.8,
+    "humidity": 67,
+    "windKph": 19.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T11:10:09.208+08:00",
+    "observedAt": "2026-10-25T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T11:20:38.488+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "重要调整！修订后的上证系列综合指数26日起实施",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720603.shtml",
+        "publishedAt": "2026-10-25T11:10:52.000+08:00"
+      },
+      {
+        "title": "中国经济面面观｜出口首破8万亿：“新”字挑大梁",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720601.shtml",
+        "publishedAt": "2026-10-25T11:09:16.000+08:00"
+      },
       {
         "title": "亚行批准1742万美元融资支持不丹应对物价上涨",
         "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720586.shtml",
@@ -33,19 +43,9 @@
         "title": "搭建不同文化理解之桥，第四届中外戏剧交流与合作论坛在京举行",
         "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720588.shtml",
         "publishedAt": "2026-10-25T11:00:23.000+08:00"
-      },
-      {
-        "title": "2026年粤港澳大湾区青少年乒乓球比赛在深圳举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720579.shtml",
-        "publishedAt": "2026-10-25T10:59:11.000+08:00"
-      },
-      {
-        "title": "窑火、稻浪与茶香 缅甸青年用镜头定格云南临沧乡村振兴新貌",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720591.shtml",
-        "publishedAt": "2026-10-25T10:57:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T11:10:03.413+08:00",
+    "fetchedAt": "2026-10-25T11:20:03.551+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T11:10:08.050+08:00",
+      "fetchedAt": "2026-10-25T11:20:37.126+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T16:10:09.000+08:00"
+          "resetAt": "2026-10-25T16:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T11:10:08.295+08:00",
+      "fetchedAt": "2026-10-25T11:20:37.394+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T11:10:08.303+08:00",
+      "fetchedAt": "2026-10-25T11:20:37.405+08:00",
       "error": null
     }
   }
