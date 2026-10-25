@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T10:30:09.498+08:00",
+  "updatedAt": "2026-10-25T10:40:38.416+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T10:30:09.498+08:00",
+    "fetchedAt": "2026-10-25T10:40:38.416+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,17 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新华社快讯：日本小笠原群岛附近海域发生7.0级地震",
+        "title": "日本小笠原群岛地区发生6.5级地震 震源深度480千米",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720596.shtml",
+        "publishedAt": "2026-10-25T10:34:34.000+08:00"
+      },
+      {
+        "title": "日本小笠原群岛地区附近发生6.8级左右地震",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720594.shtml",
+        "publishedAt": "2026-10-25T10:28:38.000+08:00"
+      },
+      {
+        "title": "日本小笠原群岛附近海域发生7.0级地震",
         "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720593.shtml",
         "publishedAt": "2026-10-25T10:25:25.000+08:00"
       },
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "外媒：保加利亚商人兼政治家斯拉维·比涅夫在家中中枪身亡",
         "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720592.shtml",
         "publishedAt": "2026-10-25T10:23:45.000+08:00"
-      },
-      {
-        "title": "宁波网球公开赛：莱巴金娜晋级决赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720578.shtml",
-        "publishedAt": "2026-10-25T10:22:33.000+08:00"
-      },
-      {
-        "title": "湖北宜昌：峡江山水间 尽展土家风情",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720577.shtml",
-        "publishedAt": "2026-10-25T10:15:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T10:30:04.228+08:00",
+    "fetchedAt": "2026-10-25T10:40:03.685+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T10:30:08.240+08:00",
+      "fetchedAt": "2026-10-25T10:40:36.973+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T15:30:09.000+08:00"
+          "resetAt": "2026-10-25T15:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T10:30:08.534+08:00",
+      "fetchedAt": "2026-10-25T10:40:37.235+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T10:30:08.544+08:00",
+      "fetchedAt": "2026-10-25T10:40:37.241+08:00",
       "error": null
     }
   }
