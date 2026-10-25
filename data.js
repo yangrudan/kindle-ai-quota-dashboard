@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T08:40:08.515+08:00",
+  "updatedAt": "2026-10-25T08:50:09.687+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.4,
-    "feelsLikeC": 20,
-    "humidity": 82,
-    "windKph": 19.7,
+    "tempC": 20.7,
+    "feelsLikeC": 20.2,
+    "humidity": 80,
+    "windKph": 20.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T08:40:08.515+08:00",
+    "observedAt": "2026-10-25T08:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T08:50:09.687+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "沙特首都利雅得国际机场将于25日部分恢复运营",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720548.shtml",
+        "publishedAt": "2026-10-25T08:40:04.000+08:00"
+      },
+      {
+        "title": "全球媒体聚焦｜长征精神为中国式现代化注入动力 为全球繁荣发展注入强大精神动能",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720546.shtml",
+        "publishedAt": "2026-10-25T08:35:56.000+08:00"
+      },
       {
         "title": "中国记协第十届理事会第八次常务理事会议在京召开",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720545.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "俄乌将为阿列什基人道主义行动同步停火",
         "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720543.shtml",
         "publishedAt": "2026-10-25T06:49:14.000+08:00"
-      },
-      {
-        "title": "也门胡塞武装称沙特一天内发动百次空袭",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720542.shtml",
-        "publishedAt": "2026-10-25T06:41:35.000+08:00"
-      },
-      {
-        "title": "泽连斯基：不会为结束冲突放弃更多领土",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml",
-        "publishedAt": "2026-10-25T06:40:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T08:40:03.495+08:00",
+    "fetchedAt": "2026-10-25T08:50:03.601+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T08:40:07.114+08:00",
+      "fetchedAt": "2026-10-25T08:50:08.054+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T13:40:08.000+08:00"
+          "resetAt": "2026-10-25T13:50:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 13,
-          "resetAt": "2026-10-31T08:09:18.000+08:00"
+          "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T08:40:07.394+08:00",
+      "fetchedAt": "2026-10-25T08:50:08.395+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T08:40:07.398+08:00",
+      "fetchedAt": "2026-10-25T08:50:08.400+08:00",
       "error": null
     }
   }
