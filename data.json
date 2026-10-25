@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T11:30:08.990+08:00",
+  "updatedAt": "2026-10-25T11:40:09.030+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T11:30:08.990+08:00",
+    "fetchedAt": "2026-10-25T11:40:09.030+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "云南省第十三届少数民族传统体育运动会开幕",
+        "url": "https://www.chinanews.com.cn/mz/2026/10-25/10720599.shtml",
+        "publishedAt": "2026-10-25T11:30:37.000+08:00"
+      },
+      {
+        "title": "第三届“华侨华人学研究”学术研讨会在温州开幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-25/10720604.shtml",
+        "publishedAt": "2026-10-25T11:29:53.000+08:00"
+      },
       {
         "title": "河南粮食总产有望连续10年保持在1300亿斤以上",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720605.shtml",
@@ -33,19 +43,9 @@
         "title": "中国经济面面观｜出口首破8万亿：“新”字挑大梁",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720601.shtml",
         "publishedAt": "2026-10-25T11:09:16.000+08:00"
-      },
-      {
-        "title": "亚行批准1742万美元融资支持不丹应对物价上涨",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720586.shtml",
-        "publishedAt": "2026-10-25T11:03:08.000+08:00"
-      },
-      {
-        "title": "2026中韩经济发展论坛开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720585.shtml",
-        "publishedAt": "2026-10-25T11:02:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T11:30:03.214+08:00",
+    "fetchedAt": "2026-10-25T11:40:03.543+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T11:30:07.542+08:00",
+      "fetchedAt": "2026-10-25T11:40:07.621+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T16:30:08.000+08:00"
+          "resetAt": "2026-10-25T16:40:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 13,
-          "resetAt": "2026-10-31T08:09:18.000+08:00"
+          "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T11:30:07.868+08:00",
+      "fetchedAt": "2026-10-25T11:40:07.950+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T11:30:07.873+08:00",
+      "fetchedAt": "2026-10-25T11:40:07.959+08:00",
       "error": null
     }
   }
