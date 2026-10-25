@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T12:00:38.893+08:00",
+  "updatedAt": "2026-10-25T12:10:08.374+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T12:00:38.893+08:00",
+    "fetchedAt": "2026-10-25T12:10:08.375+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "秋粮收获过八成 新技术助力提质增效",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720613.shtml",
+        "publishedAt": "2026-10-25T12:03:19.000+08:00"
+      },
+      {
+        "title": "三载深耕，向产业出发：相干科技的量子求索之路",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720608.shtml",
+        "publishedAt": "2026-10-25T11:54:04.000+08:00"
+      },
       {
         "title": "我国成功发射卫星互联网低轨28组卫星",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720609.shtml",
@@ -33,19 +43,9 @@
         "title": "云南省第十三届少数民族传统体育运动会开幕",
         "url": "https://www.chinanews.com.cn/mz/2026/10-25/10720599.shtml",
         "publishedAt": "2026-10-25T11:30:37.000+08:00"
-      },
-      {
-        "title": "第三届“华侨华人学研究”学术研讨会在温州开幕",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-25/10720604.shtml",
-        "publishedAt": "2026-10-25T11:29:53.000+08:00"
-      },
-      {
-        "title": "河南粮食总产有望连续10年保持在1300亿斤以上",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720605.shtml",
-        "publishedAt": "2026-10-25T11:22:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T12:00:03.503+08:00",
+    "fetchedAt": "2026-10-25T12:10:03.238+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T12:00:37.462+08:00",
+      "fetchedAt": "2026-10-25T12:10:07.193+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T17:00:38.000+08:00"
+          "resetAt": "2026-10-25T17:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T12:00:37.802+08:00",
+      "fetchedAt": "2026-10-25T12:10:07.557+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T12:00:37.805+08:00",
+      "fetchedAt": "2026-10-25T12:10:07.564+08:00",
       "error": null
     }
   }
