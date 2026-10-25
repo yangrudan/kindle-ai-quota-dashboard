@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T07:30:08.884+08:00",
+  "updatedAt": "2026-10-26T07:40:16.758+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-26T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T07:30:08.884+08:00",
+    "fetchedAt": "2026-10-26T07:40:16.758+08:00",
     "error": null
   },
   "news": {
@@ -20,12 +20,17 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "AI重构电影生产逻辑",
+        "title": "护航对外投资高质量发展，新办法12月1日起施行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml",
+        "publishedAt": "2026-10-26T07:32:47.000+08:00"
+      },
+      {
+        "title": "从“工具”跃升为“生产力”， AI重构电影生产逻辑",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720882.shtml",
         "publishedAt": "2026-10-26T07:27:13.000+08:00"
       },
       {
-        "title": "优质托育服务正在走进更多家庭",
+        "title": "从“有人带”到“托得好” 优质托育服务正在走进更多家庭",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720881.shtml",
         "publishedAt": "2026-10-26T07:24:15.000+08:00"
       },
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "10分钟就冒出“99+”群消息，职场人如何不为“群”所困？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720879.shtml",
         "publishedAt": "2026-10-26T07:16:34.000+08:00"
-      },
-      {
-        "title": "日本小笠原群岛附近海域发生5.6级地震 震源深度500千米",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720878.shtml",
-        "publishedAt": "2026-10-26T07:11:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T07:30:03.486+08:00",
+    "fetchedAt": "2026-10-26T07:40:12.194+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T07:30:07.564+08:00",
+      "fetchedAt": "2026-10-26T07:40:15.635+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T12:30:08.000+08:00"
+          "resetAt": "2026-10-26T12:40:16.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T07:30:08.000+08:00"
+          "resetAt": "2026-11-02T07:40:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T07:30:07.937+08:00",
+      "fetchedAt": "2026-10-26T07:40:15.903+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T07:30:07.946+08:00",
+      "fetchedAt": "2026-10-26T07:40:15.910+08:00",
       "error": null
     }
   }
