@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T09:40:38.577+08:00",
+  "updatedAt": "2026-10-25T09:50:09.425+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.3,
-    "feelsLikeC": 20.8,
-    "humidity": 76,
-    "windKph": 20.5,
+    "tempC": 21.5,
+    "feelsLikeC": 21,
+    "humidity": 75,
+    "windKph": 20.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T09:40:38.577+08:00",
+    "observedAt": "2026-10-25T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T09:50:09.425+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年京津冀豫菊花联展在天津启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720569.shtml",
+        "publishedAt": "2026-10-25T09:39:39.000+08:00"
+      },
       {
         "title": "2026年全国游泳锦标赛（25米）：徐嘉余打破男子50米仰泳世界纪录",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208783.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "暨南文史学科创建100周年系列活动拉开序幕",
         "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720568.shtml",
         "publishedAt": "2026-10-25T09:35:59.000+08:00"
-      },
-      {
-        "title": "2026青科会观察：看一场峰会如何赋能一座城",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720564.shtml",
-        "publishedAt": "2026-10-25T09:33:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T09:40:03.421+08:00",
+    "fetchedAt": "2026-10-25T09:50:03.543+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T09:40:37.101+08:00",
+      "fetchedAt": "2026-10-25T09:50:08.077+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T14:40:38.000+08:00"
+          "resetAt": "2026-10-25T14:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T09:40:37.377+08:00",
+      "fetchedAt": "2026-10-25T09:50:08.369+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T09:40:37.386+08:00",
+      "fetchedAt": "2026-10-25T09:50:08.378+08:00",
       "error": null
     }
   }
