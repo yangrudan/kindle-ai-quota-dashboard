@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T17:50:09.016+08:00",
+  "updatedAt": "2026-10-25T18:00:10.566+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.3,
-    "feelsLikeC": 22.3,
-    "humidity": 75,
-    "windKph": 9.5,
+    "tempC": 21.1,
+    "feelsLikeC": 22.1,
+    "humidity": 76,
+    "windKph": 9.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T17:50:09.016+08:00",
+    "observedAt": "2026-10-25T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-25T18:00:10.566+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "探索外交话语的“区域国别转向” 专家学者在沪研讨对外话语体系建设",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720735.shtml",
-        "publishedAt": "2026-10-25T17:32:39.000+08:00"
+        "title": "2026石家庄环城绿道徒步大会举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720745.shtml",
+        "publishedAt": "2026-10-25T17:52:38.000+08:00"
       },
       {
-        "title": "2026青科会大健康论坛：瓯江实验室发布联合攻关计划",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720731.shtml",
-        "publishedAt": "2026-10-25T17:31:31.000+08:00"
+        "title": "童声唱响青城：2600余名学生用歌声传递红色记忆",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720756.shtml",
+        "publishedAt": "2026-10-25T17:50:36.000+08:00"
       },
       {
-        "title": "研学旅游市场升温 海南高校发力培育专业人才",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720732.shtml",
-        "publishedAt": "2026-10-25T17:30:45.000+08:00"
+        "title": "云南云临高速公路20公里特长隧道左幅贯通",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720743.shtml",
+        "publishedAt": "2026-10-25T17:48:30.000+08:00"
       },
       {
-        "title": "非遗铜雕技艺饰品广交会受追捧 中东客商现场下单买买买！",
-        "url": "http://www.chinanews.com.cn/cul/shipin/cns-d/2026/10-25/news1072909.shtml",
-        "publishedAt": "2026-10-25T17:30:23.000+08:00"
+        "title": "以球为媒聚侨心 全球华人高尔夫邀请赛海口开球",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-25/10720748.shtml",
+        "publishedAt": "2026-10-25T17:46:51.000+08:00"
       },
       {
-        "title": "乌兹别克斯坦艺术家：希望中亚五国与中国的艺术家能够同台演出",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720730.shtml",
-        "publishedAt": "2026-10-25T17:29:09.000+08:00"
+        "title": "2026年云南省城市篮球联赛总决赛昭通启幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720742.shtml",
+        "publishedAt": "2026-10-25T17:44:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T17:50:03.311+08:00",
+    "fetchedAt": "2026-10-25T18:00:05.080+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T17:50:07.775+08:00",
+      "fetchedAt": "2026-10-25T18:00:09.385+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T22:50:08.000+08:00"
+          "resetAt": "2026-10-25T23:00:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T17:50:08.000+08:00"
+          "resetAt": "2026-11-01T18:00:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T17:50:08.108+08:00",
+      "fetchedAt": "2026-10-25T18:00:09.662+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T17:50:08.117+08:00",
+      "fetchedAt": "2026-10-25T18:00:09.666+08:00",
       "error": null
     }
   }
