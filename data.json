@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T18:00:10.566+08:00",
+  "updatedAt": "2026-10-25T18:10:07.287+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T18:00:10.566+08:00",
+    "fetchedAt": "2026-10-25T18:10:07.287+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广交会观察：中国绿色建材以“新”吸引境外采购商",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720758.shtml",
+        "publishedAt": "2026-10-25T17:57:58.000+08:00"
+      },
+      {
+        "title": "上合组织国家“亮相”陕西杨凌 “双展”启幕深化农业国际合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720755.shtml",
+        "publishedAt": "2026-10-25T17:57:32.000+08:00"
+      },
       {
         "title": "2026石家庄环城绿道徒步大会举行",
         "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720745.shtml",
@@ -33,19 +43,9 @@
         "title": "云南云临高速公路20公里特长隧道左幅贯通",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720743.shtml",
         "publishedAt": "2026-10-25T17:48:30.000+08:00"
-      },
-      {
-        "title": "以球为媒聚侨心 全球华人高尔夫邀请赛海口开球",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-25/10720748.shtml",
-        "publishedAt": "2026-10-25T17:46:51.000+08:00"
-      },
-      {
-        "title": "2026年云南省城市篮球联赛总决赛昭通启幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720742.shtml",
-        "publishedAt": "2026-10-25T17:44:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T18:00:05.080+08:00",
+    "fetchedAt": "2026-10-25T18:10:02.672+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T18:00:09.385+08:00",
+      "fetchedAt": "2026-10-25T18:10:06.153+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T23:00:10.000+08:00"
+          "resetAt": "2026-10-25T23:10:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T18:00:10.000+08:00"
+          "resetAt": "2026-11-01T18:10:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T18:00:09.662+08:00",
+      "fetchedAt": "2026-10-25T18:10:06.447+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T18:00:09.666+08:00",
+      "fetchedAt": "2026-10-25T18:10:06.453+08:00",
       "error": null
     }
   }
