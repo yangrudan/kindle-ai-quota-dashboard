@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T14:10:08.930+08:00",
+  "updatedAt": "2026-10-25T14:20:08.524+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
+    "description": "雨",
+    "iconKey": "rain",
     "tempC": 23.8,
     "feelsLikeC": 23.6,
     "humidity": 67,
-    "windKph": 18.7,
+    "windKph": 18.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T14:10:08.930+08:00",
+    "observedAt": "2026-10-25T14:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T14:20:08.524+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "北京交通部门推出多条“赏叶专线”和通游专线",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720656.shtml",
-        "publishedAt": "2026-10-25T14:02:49.000+08:00"
+        "title": "六万余场赛事燃动三秦 陕西群众体育五级联赛收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720672.shtml",
+        "publishedAt": "2026-10-25T14:15:22.000+08:00"
       },
       {
-        "title": "广西探索“民族文艺+健康科普”创新传播路径",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720653.shtml",
-        "publishedAt": "2026-10-25T14:01:39.000+08:00"
+        "title": "2026青科会深海资源环境论坛举行 各国专家共话深海开发保护",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720671.shtml",
+        "publishedAt": "2026-10-25T14:14:18.000+08:00"
       },
       {
-        "title": "中国发射卫星互联网低轨28组卫星",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720640.shtml",
-        "publishedAt": "2026-10-25T13:56:13.000+08:00"
+        "title": "“红星照耀中国·90年后我站在何家冲”网络主题宣传活动在河南信阳启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720641.shtml",
+        "publishedAt": "2026-10-25T14:12:26.000+08:00"
       },
       {
-        "title": "2026穗港澳工会献礼祖国艺术展演交流活动在广州举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720644.shtml",
-        "publishedAt": "2026-10-25T13:49:45.000+08:00"
+        "title": "5.2万名客商“中国丝网之都”觅商机 3天成交额达15.7亿元",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-25/10720664.shtml",
+        "publishedAt": "2026-10-25T14:11:24.000+08:00"
       },
       {
-        "title": "从单品到成套供给 广交会家居外贸跑出增长新曲线",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720648.shtml",
-        "publishedAt": "2026-10-25T13:48:43.000+08:00"
+        "title": "主场气氛热烈 常州挺进“苏超”决赛将战无锡",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720642.shtml",
+        "publishedAt": "2026-10-25T14:10:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T14:10:03.368+08:00",
+    "fetchedAt": "2026-10-25T14:20:03.347+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T14:10:07.778+08:00",
+      "fetchedAt": "2026-10-25T14:20:07.284+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T19:10:08.000+08:00"
+          "resetAt": "2026-10-25T19:20:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T14:10:08.000+08:00"
+          "resetAt": "2026-11-01T14:20:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T14:10:08.092+08:00",
+      "fetchedAt": "2026-10-25T14:20:07.574+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T14:10:08.100+08:00",
+      "fetchedAt": "2026-10-25T14:20:07.577+08:00",
       "error": null
     }
   }
