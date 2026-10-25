@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T08:30:09.498+08:00",
+  "updatedAt": "2026-10-25T08:40:08.515+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T08:30:09.499+08:00",
+    "fetchedAt": "2026-10-25T08:40:08.515+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国记协第十届理事会第八次常务理事会议在京召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720545.shtml",
+        "publishedAt": "2026-10-25T08:25:11.000+08:00"
+      },
       {
         "title": "10月25日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-25/10720544.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "泽连斯基：不会为结束冲突放弃更多领土",
         "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml",
         "publishedAt": "2026-10-25T06:40:07.000+08:00"
-      },
-      {
-        "title": "马里军方在梅纳卡市附近发现54具遗体",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720540.shtml",
-        "publishedAt": "2026-10-25T06:38:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T08:30:03.144+08:00",
+    "fetchedAt": "2026-10-25T08:40:03.495+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T08:30:08.209+08:00",
+      "fetchedAt": "2026-10-25T08:40:07.114+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T13:30:09.000+08:00"
+          "resetAt": "2026-10-25T13:40:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 13,
-          "resetAt": "2026-10-31T08:09:17.000+08:00"
+          "resetAt": "2026-10-31T08:09:18.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T08:30:08.423+08:00",
+      "fetchedAt": "2026-10-25T08:40:07.394+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T08:30:08.433+08:00",
+      "fetchedAt": "2026-10-25T08:40:07.398+08:00",
       "error": null
     }
   }
