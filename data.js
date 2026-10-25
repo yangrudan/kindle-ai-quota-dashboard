@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T20:10:08.778+08:00",
+  "updatedAt": "2026-10-25T20:20:38.095+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.5,
+    "tempC": 19.2,
     "feelsLikeC": 20.7,
-    "humidity": 84,
-    "windKph": 7.4,
+    "humidity": 85,
+    "windKph": 5.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T20:10:08.779+08:00",
+    "observedAt": "2026-10-25T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T20:20:38.095+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“哈铁”开行今年首趟外籍研学专列",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720802.shtml",
-        "publishedAt": "2026-10-25T20:02:11.000+08:00"
+        "title": "全球治理论坛发布愿景文件 呼吁提升全球南方国家发言权和代表性",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720799.shtml",
+        "publishedAt": "2026-10-25T20:12:17.000+08:00"
       },
       {
-        "title": "世界网联世界网球巡回赛青少年年终总决赛收官 中国小将孙心然夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720798.shtml",
-        "publishedAt": "2026-10-25T19:59:43.000+08:00"
+        "title": "专访美国大都会艺术博物馆专家：创新合作模式、共同保护文物",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720806.shtml",
+        "publishedAt": "2026-10-25T20:10:07.000+08:00"
       },
       {
-        "title": "台湾各界人士盼青年探寻历史真相",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720793.shtml",
-        "publishedAt": "2026-10-25T19:51:38.000+08:00"
+        "title": "三千余人张家界七星山徒步 亲子健走乐享云端山水",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720805.shtml",
+        "publishedAt": "2026-10-25T20:08:41.000+08:00"
       },
       {
-        "title": "首批学生运动能力国标实施试点进入“经验收获期”",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720797.shtml",
-        "publishedAt": "2026-10-25T19:51:00.000+08:00"
+        "title": "巴西总统选举第二轮投票开始",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720807.shtml",
+        "publishedAt": "2026-10-25T20:08:09.000+08:00"
       },
       {
-        "title": "专家学者共聚重庆探讨非物质文化遗产学科定位与专业建设",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720794.shtml",
-        "publishedAt": "2026-10-25T19:49:52.000+08:00"
+        "title": "“出海”加速 广州新沙港国产新能源汽车出口创新高",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720800.shtml",
+        "publishedAt": "2026-10-25T20:08:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T20:10:03.560+08:00",
+    "fetchedAt": "2026-10-25T20:20:03.658+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T20:10:07.633+08:00",
+      "fetchedAt": "2026-10-25T20:20:36.978+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T01:10:08.000+08:00"
+          "resetAt": "2026-10-26T01:20:37.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T20:10:08.000+08:00"
+          "resetAt": "2026-11-01T20:20:37.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T20:10:07.913+08:00",
+      "fetchedAt": "2026-10-25T20:20:37.255+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T20:10:07.920+08:00",
+      "fetchedAt": "2026-10-25T20:20:37.265+08:00",
       "error": null
     }
   }
