@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T09:00:08.745+08:00",
+  "updatedAt": "2026-10-25T09:10:09.289+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T09:00:08.746+08:00",
+    "fetchedAt": "2026-10-25T09:10:09.289+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "AI换脸明星带货泛滥，维权难点到底在哪？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720562.shtml",
+        "publishedAt": "2026-10-25T08:59:25.000+08:00"
+      },
       {
         "title": "新一股冷空气上线！北方多地迎立秋后最冷一天 华北西北有明显雨雪",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720559.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "铭记光复历史，捍卫山河一统！东部战区发布台湾光复纪念日主题海报",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720550.shtml",
         "publishedAt": "2026-10-25T08:46:14.000+08:00"
-      },
-      {
-        "title": "沙特首都利雅得国际机场将于25日部分恢复运营",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720548.shtml",
-        "publishedAt": "2026-10-25T08:40:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T09:00:03.488+08:00",
+    "fetchedAt": "2026-10-25T09:10:03.284+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T09:00:07.569+08:00",
+      "fetchedAt": "2026-10-25T09:10:08.072+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T14:00:08.000+08:00"
+          "resetAt": "2026-10-25T14:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T09:00:07.797+08:00",
+      "fetchedAt": "2026-10-25T09:10:08.408+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T09:00:07.807+08:00",
+      "fetchedAt": "2026-10-25T09:10:08.417+08:00",
       "error": null
     }
   }
