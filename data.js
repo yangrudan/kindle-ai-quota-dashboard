@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T16:50:08.556+08:00",
+  "updatedAt": "2026-10-25T17:00:09.098+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.4,
-    "feelsLikeC": 23,
-    "humidity": 71,
-    "windKph": 12.1,
+    "tempC": 22.1,
+    "feelsLikeC": 22.8,
+    "humidity": 72,
+    "windKph": 11.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T16:50:08.557+08:00",
+    "observedAt": "2026-10-25T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-25T17:00:09.098+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "让数据要素更“有温度” “数据要素×”大赛绽放创新活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720720.shtml",
+        "publishedAt": "2026-10-25T16:46:56.000+08:00"
+      },
+      {
+        "title": "“不干正事”的AI，卖爆了",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720722.shtml",
+        "publishedAt": "2026-10-25T16:44:32.000+08:00"
+      },
+      {
+        "title": "岐黄进万家 广西举办中医药文化服务周活动",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720718.shtml",
+        "publishedAt": "2026-10-25T16:42:38.000+08:00"
+      },
       {
         "title": "（走进中国乡村）贵州“银匠村”：年轻人进村学艺 老匠人赶订单忙创新",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720716.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "许镜清：“篡改行为不制止，原创音乐人路在何方？”",
         "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720719.shtml",
         "publishedAt": "2026-10-25T16:36:56.000+08:00"
-      },
-      {
-        "title": "最高法：过去三年全国法院累计聘请退休法官9500余人",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720717.shtml",
-        "publishedAt": "2026-10-25T16:34:15.000+08:00"
-      },
-      {
-        "title": "樟溪服务区焕新迎客 以工夫茶承载潮闽同源文脉",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720714.shtml",
-        "publishedAt": "2026-10-25T16:33:11.000+08:00"
-      },
-      {
-        "title": "陕西杨凌：田间地头变“科技秀场”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720715.shtml",
-        "publishedAt": "2026-10-25T16:31:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T16:50:03.405+08:00",
+    "fetchedAt": "2026-10-25T17:00:04.352+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T16:50:07.514+08:00",
+      "fetchedAt": "2026-10-25T17:00:08.004+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T21:50:08.000+08:00"
+          "resetAt": "2026-10-25T22:00:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T16:50:08.000+08:00"
+          "resetAt": "2026-11-01T17:00:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T16:50:07.702+08:00",
+      "fetchedAt": "2026-10-25T17:00:08.207+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T16:50:07.709+08:00",
+      "fetchedAt": "2026-10-25T17:00:08.216+08:00",
       "error": null
     }
   }
