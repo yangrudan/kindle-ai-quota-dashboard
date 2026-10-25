@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T17:20:08.993+08:00",
+  "updatedAt": "2026-10-25T17:30:09.340+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.8,
-    "feelsLikeC": 22.6,
-    "humidity": 73,
-    "windKph": 10.6,
+    "tempC": 21.6,
+    "feelsLikeC": 22.4,
+    "humidity": 74,
+    "windKph": 10.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T17:20:08.993+08:00",
+    "observedAt": "2026-10-25T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-25T17:30:09.340+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "凤凰山高速公路开工建设 预计2030年通车",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720725.shtml",
+        "publishedAt": "2026-10-25T17:21:52.000+08:00"
+      },
       {
         "title": "（结图纪事）走进贵州都匀",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208820.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中外企业绿色发展与全球贡献国际传播研讨会举行，平安集团盛瑞生发表主题演讲",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720724.shtml",
         "publishedAt": "2026-10-25T17:06:21.000+08:00"
-      },
-      {
-        "title": "让数据要素更“有温度” “数据要素×”大赛绽放创新活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720720.shtml",
-        "publishedAt": "2026-10-25T16:46:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T17:20:03.169+08:00",
+    "fetchedAt": "2026-10-25T17:30:04.131+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T17:20:07.295+08:00",
+      "fetchedAt": "2026-10-25T17:30:08.253+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T22:20:08.000+08:00"
+          "resetAt": "2026-10-25T22:30:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T17:20:08.000+08:00"
+          "resetAt": "2026-11-01T17:30:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T17:20:07.615+08:00",
+      "fetchedAt": "2026-10-25T17:30:08.522+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T17:20:07.624+08:00",
+      "fetchedAt": "2026-10-25T17:30:08.531+08:00",
       "error": null
     }
   }
