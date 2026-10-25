@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T13:00:07.996+08:00",
+  "updatedAt": "2026-10-25T13:10:08.480+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-25T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T13:00:07.997+08:00",
+    "fetchedAt": "2026-10-25T13:10:08.481+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“蔷琵”强度减弱 浙江调整防台风应急响应为Ⅳ级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720621.shtml",
+        "publishedAt": "2026-10-25T13:06:40.000+08:00"
+      },
+      {
+        "title": "河南将以“三新”行动打造万亿级产业链群",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720616.shtml",
+        "publishedAt": "2026-10-25T13:04:14.000+08:00"
+      },
       {
         "title": "西藏巴青7.0级地震：中国地震局全力应急处置 产出系列技术图件",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720618.shtml",
@@ -33,19 +43,9 @@
         "title": "“2026年致敬经典·国际修复电影展”苏州启幕",
         "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720612.shtml",
         "publishedAt": "2026-10-25T12:28:54.000+08:00"
-      },
-      {
-        "title": "专家：“十五五”美丽中国建设应抓住窗口期向“深绿”转型",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720611.shtml",
-        "publishedAt": "2026-10-25T12:24:28.000+08:00"
-      },
-      {
-        "title": "中新网评：洁厕剂包装越像饮料，安全警示越不能像摆设",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720610.shtml",
-        "publishedAt": "2026-10-25T12:22:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T13:00:03.136+08:00",
+    "fetchedAt": "2026-10-25T13:10:03.470+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T13:00:06.814+08:00",
+      "fetchedAt": "2026-10-25T13:10:07.462+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T18:00:07.000+08:00"
+          "resetAt": "2026-10-25T18:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-10-31T08:09:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T13:00:06.989+08:00",
+      "fetchedAt": "2026-10-25T13:10:07.628+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T13:00:06.994+08:00",
+      "fetchedAt": "2026-10-25T13:10:07.635+08:00",
       "error": null
     }
   }
