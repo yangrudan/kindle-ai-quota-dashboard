@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T18:50:38.525+08:00",
+  "updatedAt": "2026-10-25T19:00:09.887+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.3,
-    "feelsLikeC": 21.5,
-    "humidity": 80,
-    "windKph": 8.5,
+    "tempC": 20.1,
+    "feelsLikeC": 21.3,
+    "humidity": 81,
+    "windKph": 8.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-25T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T18:50:38.525+08:00",
+    "observedAt": "2026-10-25T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-25T19:00:09.887+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "大天鹅“夫妇”携宝宝飞抵河南三门峡越冬",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720740.shtml",
+        "publishedAt": "2026-10-25T18:50:49.000+08:00"
+      },
+      {
+        "title": "两百余名飞盘选手青海西宁上演精彩角逐",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720721.shtml",
+        "publishedAt": "2026-10-25T18:49:59.000+08:00"
+      },
       {
         "title": "内蒙古霍林郭勒开通至上海航线 “绿电铝之城”空中连通长三角",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720763.shtml",
@@ -33,19 +43,9 @@
         "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720753.shtml",
         "publishedAt": "2026-10-25T18:00:58.000+08:00"
-      },
-      {
-        "title": "广交会观察：中国绿色建材以“新”吸引境外采购商",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720758.shtml",
-        "publishedAt": "2026-10-25T17:57:58.000+08:00"
-      },
-      {
-        "title": "上合组织国家“亮相”陕西杨凌 “双展”启幕深化农业国际合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720755.shtml",
-        "publishedAt": "2026-10-25T17:57:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T18:50:03.836+08:00",
+    "fetchedAt": "2026-10-25T19:00:04.427+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-25T18:50:37.284+08:00",
+      "fetchedAt": "2026-10-25T19:00:08.771+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T23:50:38.000+08:00"
+          "resetAt": "2026-10-26T00:00:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T18:50:38.000+08:00"
+          "resetAt": "2026-11-01T19:00:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T18:50:37.586+08:00",
+      "fetchedAt": "2026-10-25T19:00:09.081+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T18:50:37.589+08:00",
+      "fetchedAt": "2026-10-25T19:00:09.091+08:00",
       "error": null
     }
   }
