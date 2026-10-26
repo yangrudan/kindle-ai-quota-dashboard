@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T11:50:43.956+08:00",
+  "updatedAt": "2026-10-26T12:00:09.105+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.3,
-    "feelsLikeC": 23.7,
-    "humidity": 62,
+    "tempC": 22.5,
+    "feelsLikeC": 23.9,
+    "humidity": 61,
     "windKph": 7.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T11:50:43.957+08:00",
+    "observedAt": "2026-10-26T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T12:00:09.105+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "银杏树下90余年，红色基因何以生生不息？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721036.shtml",
+        "publishedAt": "2026-10-26T11:51:27.000+08:00"
+      },
+      {
+        "title": "【财金视野】发挥超长期特别国债资金效益",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721040.shtml",
+        "publishedAt": "2026-10-26T11:49:47.000+08:00"
+      },
+      {
+        "title": "自然资源部：完成巴青县地震震中50公里范围内地灾隐患点排查",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721016.shtml",
+        "publishedAt": "2026-10-26T11:49:05.000+08:00"
+      },
+      {
+        "title": "我国协作帮扶已实现消费帮扶2400多亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721039.shtml",
+        "publishedAt": "2026-10-26T11:46:13.000+08:00"
+      },
+      {
         "title": "快手举办1024嘉年华 程一笑称AI时代仍要保持独立思考",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720910.shtml",
         "publishedAt": "2026-10-26T11:26:54.000+08:00"
-      },
-      {
-        "title": "酸奶为什么会沾盖？咸蛋黄为什么会分层？这些小知识你知道几个",
-        "url": "https://www.chinanews.com.cn/life/2026/10-26/10721014.shtml",
-        "publishedAt": "2026-10-26T11:22:11.000+08:00"
-      },
-      {
-        "title": "硬核装备、特色鲜果齐亮相 第九届进博会首批展品进馆",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721011.shtml",
-        "publishedAt": "2026-10-26T11:19:49.000+08:00"
-      },
-      {
-        "title": "椰城海关2026-2028年公务用车保险服务采购项目第二次比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721010.shtml",
-        "publishedAt": "2026-10-26T11:16:29.000+08:00"
-      },
-      {
-        "title": "第三届华侨华人学研究学术研讨会闭幕",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721000.shtml",
-        "publishedAt": "2026-10-26T11:16:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T11:50:08.527+08:00",
+    "fetchedAt": "2026-10-26T12:00:04.512+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T11:50:42.606+08:00",
+      "fetchedAt": "2026-10-26T12:00:08.056+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T11:50:43.082+08:00",
+      "fetchedAt": "2026-10-26T12:00:08.263+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T11:50:43.092+08:00",
+      "fetchedAt": "2026-10-26T12:00:08.273+08:00",
       "error": null
     }
   }
