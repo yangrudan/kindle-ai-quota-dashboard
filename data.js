@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T17:50:10.994+08:00",
+  "updatedAt": "2026-10-26T18:00:10.194+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.7,
-    "feelsLikeC": 20,
-    "humidity": 71,
-    "windKph": 7,
+    "tempC": 19.3,
+    "feelsLikeC": 19.7,
+    "humidity": 73,
+    "windKph": 6.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T17:50:10.994+08:00",
+    "observedAt": "2026-10-26T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T18:00:10.194+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "三年虚开发票74亿 检察院披露“发票工厂”黑色产业链",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-26/10721232.shtml",
-        "publishedAt": "2026-10-26T17:41:34.000+08:00"
+        "title": "中国人民银行设立债市非银大额赎回互换便利",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721234.shtml",
+        "publishedAt": "2026-10-26T17:53:47.000+08:00"
       },
       {
-        "title": "李强签署国务院令 公布《事业单位登记管理条例》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721222.shtml",
-        "publishedAt": "2026-10-26T17:31:10.000+08:00"
+        "title": "西藏巴青县累计转移安置受灾群众12964人",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721235.shtml",
+        "publishedAt": "2026-10-26T17:52:19.000+08:00"
       },
       {
-        "title": "习近平《在纪念中国工农红军长征胜利90周年大会上的讲话》单行本出版",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721224.shtml",
-        "publishedAt": "2026-10-26T17:31:08.000+08:00"
+        "title": "行走的思政课 济南市济阳区开展纪念台湾光复“四个一”主题教育活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721173.shtml",
+        "publishedAt": "2026-10-26T17:50:15.000+08:00"
       },
       {
-        "title": "受权发布｜事业单位登记管理条例",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721217.shtml",
-        "publishedAt": "2026-10-26T17:30:58.000+08:00"
+        "title": "以科学治疗方案提升患者生活质量",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721094.shtml",
+        "publishedAt": "2026-10-26T17:50:11.000+08:00"
       },
       {
-        "title": "“新阶层”焕发活力 “建设力”闪耀滨城",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721167.shtml",
-        "publishedAt": "2026-10-26T17:27:51.000+08:00"
+        "title": "外国留学生的“中国妈妈”",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721141.shtml",
+        "publishedAt": "2026-10-26T17:49:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T17:50:03.141+08:00",
+    "fetchedAt": "2026-10-26T18:00:04.481+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T17:50:09.649+08:00",
+      "fetchedAt": "2026-10-26T18:00:08.864+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T17:50:09.916+08:00",
+      "fetchedAt": "2026-10-26T18:00:09.130+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 24.52,
+      "balance": 24.41,
       "currency": "CNY",
-      "detail": "余额 ¥24.52",
-      "fetchedAt": "2026-10-26T17:50:09.927+08:00",
+      "detail": "余额 ¥24.41",
+      "fetchedAt": "2026-10-26T18:00:09.139+08:00",
       "error": null
     }
   }
