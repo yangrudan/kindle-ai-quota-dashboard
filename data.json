@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T07:50:07.583+08:00",
+  "updatedAt": "2026-10-26T08:00:08.456+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.1,
-    "feelsLikeC": 18.3,
-    "humidity": 89,
-    "windKph": 3.9,
+    "tempC": 17.6,
+    "feelsLikeC": 18.9,
+    "humidity": 87,
+    "windKph": 3.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T07:50:07.583+08:00",
+    "observedAt": "2026-10-26T08:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T08:00:08.456+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年全国游泳锦标赛（25米）：于子迪获得女子200米蝶泳冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208858.shtml",
+        "publishedAt": "2026-10-26T07:52:43.000+08:00"
+      },
+      {
+        "title": "响应式运营、接驳提质、适老化升级 多地探索公交新模式",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720887.shtml",
+        "publishedAt": "2026-10-26T07:48:58.000+08:00"
+      },
       {
         "title": "不靠海的内陆城市，如何把锂电池卖向全球？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720886.shtml",
@@ -33,19 +43,9 @@
         "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720884.shtml",
         "publishedAt": "2026-10-26T07:39:31.000+08:00"
-      },
-      {
-        "title": "护航对外投资高质量发展，新办法12月1日起施行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml",
-        "publishedAt": "2026-10-26T07:32:47.000+08:00"
-      },
-      {
-        "title": "从“工具”跃升为“生产力”， AI重构电影生产逻辑",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720882.shtml",
-        "publishedAt": "2026-10-26T07:27:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T07:50:02.907+08:00",
+    "fetchedAt": "2026-10-26T08:00:03.504+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T07:50:06.349+08:00",
+      "fetchedAt": "2026-10-26T08:00:07.160+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T12:50:07.000+08:00"
+          "resetAt": "2026-10-26T13:00:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T07:50:07.000+08:00"
+          "resetAt": "2026-11-02T08:00:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T07:50:06.718+08:00",
+      "fetchedAt": "2026-10-26T08:00:07.502+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T07:50:06.724+08:00",
+      "fetchedAt": "2026-10-26T08:00:07.511+08:00",
       "error": null
     }
   }
