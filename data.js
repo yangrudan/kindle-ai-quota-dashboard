@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T14:00:09.515+08:00",
+  "updatedAt": "2026-10-26T14:10:39.323+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-26T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T14:00:09.515+08:00",
+    "fetchedAt": "2026-10-26T14:10:39.323+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "土耳其“泛突厥”野心的虚妄历史与骨感现实",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721091.shtml",
+        "publishedAt": "2026-10-26T13:59:40.000+08:00"
+      },
       {
         "title": "第九届进博会首批展品进馆",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721084.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "全新岗位快速涌现 职业教育如何“跟得上”？",
         "url": "https://www.chinanews.com.cn/edu/2026/10-26/10721086.shtml",
         "publishedAt": "2026-10-26T13:53:20.000+08:00"
-      },
-      {
-        "title": "2026年陕西省攀岩公开赛落幕 百名选手岩壁竞逐展风采",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721083.shtml",
-        "publishedAt": "2026-10-26T13:52:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T14:00:04.298+08:00",
+    "fetchedAt": "2026-10-26T14:10:04.430+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T14:00:08.351+08:00",
+      "fetchedAt": "2026-10-26T14:10:38.040+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 100,
-          "resetAt": "2026-10-26T14:08:05.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-26T19:10:39.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 16,
-          "resetAt": "2026-11-02T09:08:05.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-02T14:10:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T14:00:08.653+08:00",
+      "fetchedAt": "2026-10-26T14:10:38.318+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T14:00:08.657+08:00",
+      "fetchedAt": "2026-10-26T14:10:38.327+08:00",
       "error": null
     }
   }
