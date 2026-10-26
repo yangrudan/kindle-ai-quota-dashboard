@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T07:40:17.280+08:00",
+  "updatedAt": "2026-10-27T07:50:08.297+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 18.2,
-    "humidity": 88,
-    "windKph": 9,
+    "tempC": 17.9,
+    "feelsLikeC": 18.5,
+    "humidity": 87,
+    "windKph": 8.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T07:40:17.280+08:00",
+    "observedAt": "2026-10-27T07:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T07:50:08.298+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "以规划引领遗产保护 用法治守护文化根脉",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721447.shtml",
+        "publishedAt": "2026-10-27T07:38:46.000+08:00"
+      },
       {
         "title": "纪念东京审判开庭80周年图片展在联合国总部举行",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208961.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "人民币国际化的“下一个十年”怎么走",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721443.shtml",
         "publishedAt": "2026-10-27T07:30:04.000+08:00"
-      },
-      {
-        "title": "AI创业浪潮的主角，正从“经验派”转向“新生代”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721442.shtml",
-        "publishedAt": "2026-10-27T07:26:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T07:40:12.210+08:00",
+    "fetchedAt": "2026-10-27T07:50:03.412+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T07:40:16.045+08:00",
+      "fetchedAt": "2026-10-27T07:50:07.084+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T12:40:17.000+08:00"
+          "resetAt": "2026-10-27T12:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T07:40:16.230+08:00",
+      "fetchedAt": "2026-10-27T07:50:07.338+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T07:40:16.238+08:00",
+      "fetchedAt": "2026-10-27T07:50:07.343+08:00",
       "error": null
     }
   }
