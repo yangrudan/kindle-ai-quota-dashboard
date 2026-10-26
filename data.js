@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T06:50:08.681+08:00",
+  "updatedAt": "2026-10-27T07:00:10.443+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.9,
-    "feelsLikeC": 17.3,
-    "humidity": 90,
+    "tempC": 17.2,
+    "feelsLikeC": 17.6,
+    "humidity": 89,
     "windKph": 9.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T06:50:08.681+08:00",
+    "observedAt": "2026-10-27T07:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T07:00:10.444+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泽连斯基签署法案 延长国家战时状态和总动员令90天",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721438.shtml",
+        "publishedAt": "2026-10-27T06:48:21.000+08:00"
+      },
+      {
+        "title": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721437.shtml",
+        "publishedAt": "2026-10-27T06:48:09.000+08:00"
+      },
       {
         "title": "纪念东京审判开庭80周年图片展在联合国总部举行",
         "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721436.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美媒：美军已准备好再打击伊朗 特朗普或中期选举后下令",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721434.shtml",
         "publishedAt": "2026-10-27T06:36:23.000+08:00"
-      },
-      {
-        "title": "法国总统马克龙称10月31日的示威活动仍然存在风险",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721433.shtml",
-        "publishedAt": "2026-10-27T06:36:09.000+08:00"
-      },
-      {
-        "title": "德国总统施泰因迈尔抵达安徽开始访华",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721432.shtml",
-        "publishedAt": "2026-10-27T00:34:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T06:50:02.980+08:00",
+    "fetchedAt": "2026-10-27T07:00:03.573+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T06:50:07.267+08:00",
+      "fetchedAt": "2026-10-27T07:00:08.207+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T11:50:08.000+08:00"
+          "resetAt": "2026-10-27T12:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T06:50:07.530+08:00",
+      "fetchedAt": "2026-10-27T07:00:08.911+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T06:50:07.533+08:00",
+      "fetchedAt": "2026-10-27T07:00:08.919+08:00",
       "error": null
     }
   }
