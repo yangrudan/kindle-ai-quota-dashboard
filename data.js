@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T12:40:07.920+08:00",
+  "updatedAt": "2026-10-26T12:50:08.793+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.9,
+    "tempC": 23.1,
     "feelsLikeC": 24.2,
-    "humidity": 58,
-    "windKph": 7,
+    "humidity": 57,
+    "windKph": 7.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T12:40:07.920+08:00",
+    "observedAt": "2026-10-26T12:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T12:50:08.793+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "东西问丨黄钟军：闽南语电影何以跨海峡、越南洋？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-26/10721048.shtml",
+        "publishedAt": "2026-10-26T12:46:30.000+08:00"
+      },
+      {
+        "title": "2026年国际中体联足球世界杯决出冠亚季军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721030.shtml",
+        "publishedAt": "2026-10-26T12:44:00.000+08:00"
+      },
+      {
+        "title": "中国气象局：网传“气旋撞击喜马拉雅”说法不实",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721029.shtml",
+        "publishedAt": "2026-10-26T12:36:39.000+08:00"
+      },
       {
         "title": "违法违规收集使用个人信息 84款移动应用被点名",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721042.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中印尼将举行“利刃-2026”陆军反恐联合训练",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721045.shtml",
         "publishedAt": "2026-10-26T12:22:53.000+08:00"
-      },
-      {
-        "title": "商务部：2026年以来，家电以旧换新累计超10099万台",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721044.shtml",
-        "publishedAt": "2026-10-26T12:19:00.000+08:00"
-      },
-      {
-        "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721043.shtml",
-        "publishedAt": "2026-10-26T12:09:02.000+08:00"
-      },
-      {
-        "title": "戳破“倚外谋独”的虚妄迷梦——赖清德“双十”讲话防务说辞的虚伪",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721035.shtml",
-        "publishedAt": "2026-10-26T12:01:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T12:40:03.140+08:00",
+    "fetchedAt": "2026-10-26T12:50:03.296+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T12:40:06.755+08:00",
+      "fetchedAt": "2026-10-26T12:50:07.460+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T12:40:07.050+08:00",
+      "fetchedAt": "2026-10-26T12:50:07.918+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T12:40:07.061+08:00",
+      "fetchedAt": "2026-10-26T12:50:07.923+08:00",
       "error": null
     }
   }
