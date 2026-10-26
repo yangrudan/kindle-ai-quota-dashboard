@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T11:20:12.444+08:00",
+  "updatedAt": "2026-10-26T11:30:10.460+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.8,
-    "feelsLikeC": 23.1,
-    "humidity": 64,
+    "tempC": 22,
+    "feelsLikeC": 23.4,
+    "humidity": 63,
     "windKph": 7.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T11:20:12.445+08:00",
+    "observedAt": "2026-10-26T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T11:30:10.460+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“零经验”年轻人扎堆闯野山 徒步乱象该如何治理？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721007.shtml",
-        "publishedAt": "2026-10-26T11:12:49.000+08:00"
+        "title": "酸奶为什么会沾盖？咸蛋黄为什么会分层？这些小知识你知道几个",
+        "url": "https://www.chinanews.com.cn/life/2026/10-26/10721014.shtml",
+        "publishedAt": "2026-10-26T11:22:11.000+08:00"
       },
       {
-        "title": "比亚迪携手东润杯 助力校园足球少年圆梦工体",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720978.shtml",
-        "publishedAt": "2026-10-26T11:07:49.000+08:00"
+        "title": "硬核装备、特色鲜果齐亮相 第九届进博会首批展品进馆",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721011.shtml",
+        "publishedAt": "2026-10-26T11:19:49.000+08:00"
       },
       {
-        "title": "2026世界海外华人研究学会年会闭幕 下届年会定址智利",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721001.shtml",
-        "publishedAt": "2026-10-26T11:07:03.000+08:00"
+        "title": "椰城海关2026-2028年公务用车保险服务采购项目第二次比选公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721010.shtml",
+        "publishedAt": "2026-10-26T11:16:29.000+08:00"
       },
       {
-        "title": "当艺术走进养老社区——“明亮的房间” 摄影展在京开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720985.shtml",
-        "publishedAt": "2026-10-26T11:06:09.000+08:00"
+        "title": "第三届华侨华人学研究学术研讨会闭幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721000.shtml",
+        "publishedAt": "2026-10-26T11:16:17.000+08:00"
       },
       {
-        "title": "AI健康“反诈”进养老院：百度健康让“求证”这件事不再丢人",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720906.shtml",
-        "publishedAt": "2026-10-26T11:05:12.000+08:00"
+        "title": "中国男子三人篮球联赛首支连冠队伍诞生",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721008.shtml",
+        "publishedAt": "2026-10-26T11:15:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T11:20:04.174+08:00",
+    "fetchedAt": "2026-10-26T11:30:04.791+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T11:20:10.629+08:00",
+      "fetchedAt": "2026-10-26T11:30:09.345+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 98,
+          "usedPct": 100,
           "resetAt": "2026-10-26T14:08:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 15,
+          "usedPct": 16,
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T11:20:11.026+08:00",
+      "fetchedAt": "2026-10-26T11:30:09.606+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T11:20:11.037+08:00",
+      "fetchedAt": "2026-10-26T11:30:09.615+08:00",
       "error": null
     }
   }
