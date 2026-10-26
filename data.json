@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T10:00:09.832+08:00",
+  "updatedAt": "2026-10-26T10:10:09.895+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-26T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T10:00:09.832+08:00",
+    "fetchedAt": "2026-10-26T10:10:09.896+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026中国（河南）—东盟粮农合作发展大会10月底在郑州启幕",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720926.shtml",
-        "publishedAt": "2026-10-26T09:53:55.000+08:00"
+        "title": "首届则柔邀请展演活动在青海西宁落幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10720924.shtml",
+        "publishedAt": "2026-10-26T10:00:53.000+08:00"
       },
       {
-        "title": "AI对数学意味着什么？数学的边界与规则怎么变？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720951.shtml",
-        "publishedAt": "2026-10-26T09:53:31.000+08:00"
+        "title": "从瑞金到北京：红色印刷火种的长征与新生丨企步新长征",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720954.shtml",
+        "publishedAt": "2026-10-26T10:00:35.000+08:00"
       },
       {
-        "title": "浙江东阳举行青年人才集体婚礼 荷花被寄托传统婚俗祝福",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720923.shtml",
-        "publishedAt": "2026-10-26T09:53:01.000+08:00"
+        "title": "未来一周冷空气活动频繁 北方多地气温偏低",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720928.shtml",
+        "publishedAt": "2026-10-26T10:00:35.000+08:00"
       },
       {
-        "title": "中外专家齐聚昆明 探讨“AI+精准防治”破解心血管代谢难题",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720921.shtml",
-        "publishedAt": "2026-10-26T09:52:01.000+08:00"
+        "title": "10月26日人民币对美元中间价报6.7162 上调18个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720920.shtml",
+        "publishedAt": "2026-10-26T10:00:23.000+08:00"
       },
       {
-        "title": "以史为鉴砺初心 文化赋能聚合力——省委统战部组织省直统战系统机关干部赴云杉美术馆参观调研",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10720948.shtml",
-        "publishedAt": "2026-10-26T09:51:38.000+08:00"
+        "title": "2026中国—东盟青年文化周在北京开幕",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720950.shtml",
+        "publishedAt": "2026-10-26T09:59:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T10:00:04.768+08:00",
+    "fetchedAt": "2026-10-26T10:10:04.138+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T10:00:08.706+08:00",
+      "fetchedAt": "2026-10-26T10:10:08.588+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
+          "usedPct": 39,
           "resetAt": "2026-10-26T14:08:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
+          "usedPct": 6,
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T10:00:08.799+08:00",
+      "fetchedAt": "2026-10-26T10:10:08.858+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T10:00:08.807+08:00",
+      "fetchedAt": "2026-10-26T10:10:08.870+08:00",
       "error": null
     }
   }
