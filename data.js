@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T21:20:08.041+08:00",
+  "updatedAt": "2026-10-26T21:30:08.323+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.6,
-    "feelsLikeC": 18.6,
-    "humidity": 84,
-    "windKph": 4,
+    "tempC": 17.5,
+    "feelsLikeC": 18.5,
+    "humidity": 85,
+    "windKph": 3.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T21:20:08.042+08:00",
+    "observedAt": "2026-10-26T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T21:30:08.323+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "13家欧洲华媒代表走进长沙 感知中欧发展的时代共振",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721356.shtml",
+        "publishedAt": "2026-10-26T21:23:44.000+08:00"
+      },
+      {
+        "title": "全国首个省级支持OPC赋能产业集群发展政策文件发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721347.shtml",
+        "publishedAt": "2026-10-26T21:21:00.000+08:00"
+      },
+      {
+        "title": "外国驻华使节等参观长征主题展：长征为世界带来深刻启示",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721351.shtml",
+        "publishedAt": "2026-10-26T21:18:52.000+08:00"
+      },
       {
         "title": "西藏巴青7.0级地震受灾民众接收砖茶、糌粑等物资",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721354.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "李家超嘉许亚运会中国香港代表团：很高兴看到“00后”崭露头角",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721352.shtml",
         "publishedAt": "2026-10-26T21:14:44.000+08:00"
-      },
-      {
-        "title": "亚洲开发银行提供7200万美元融资支持柬埔寨农业发展",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721350.shtml",
-        "publishedAt": "2026-10-26T21:12:46.000+08:00"
-      },
-      {
-        "title": "绿茵聚同心 “E”起向新行——2026中国网络媒体足球精英赛圆满闭幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721353.shtml",
-        "publishedAt": "2026-10-26T21:12:28.000+08:00"
-      },
-      {
-        "title": "10月26日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-26/10721348.shtml",
-        "publishedAt": "2026-10-26T21:10:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T21:20:03.226+08:00",
+    "fetchedAt": "2026-10-26T21:30:03.401+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T21:20:06.767+08:00",
+      "fetchedAt": "2026-10-26T21:30:07.125+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T02:20:07.000+08:00"
+          "resetAt": "2026-10-27T02:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T21:20:07.122+08:00",
+      "fetchedAt": "2026-10-26T21:30:07.417+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T21:20:07.129+08:00",
+      "fetchedAt": "2026-10-26T21:30:07.427+08:00",
       "error": null
     }
   }
