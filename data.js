@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T07:30:09.781+08:00",
+  "updatedAt": "2026-10-27T07:40:17.280+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T07:30:09.781+08:00",
+    "fetchedAt": "2026-10-27T07:40:17.280+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "纪念东京审判开庭80周年图片展在联合国总部举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208961.shtml",
+        "publishedAt": "2026-10-27T07:35:31.000+08:00"
+      },
+      {
+        "title": "救人反被索赔46万元？“好人条款”守住朴素正义",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721445.shtml",
+        "publishedAt": "2026-10-27T07:34:42.000+08:00"
+      },
+      {
+        "title": "“三步一公主，五步一贵妃”之后，汉服生意如何火下去？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721444.shtml",
+        "publishedAt": "2026-10-27T07:33:04.000+08:00"
+      },
+      {
+        "title": "人民币国际化的“下一个十年”怎么走",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721443.shtml",
+        "publishedAt": "2026-10-27T07:30:04.000+08:00"
+      },
+      {
         "title": "AI创业浪潮的主角，正从“经验派”转向“新生代”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721442.shtml",
         "publishedAt": "2026-10-27T07:26:26.000+08:00"
-      },
-      {
-        "title": "中期选举倒计时 特朗普称举报选举舞弊可获100万美元",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721441.shtml",
-        "publishedAt": "2026-10-27T07:16:27.000+08:00"
-      },
-      {
-        "title": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721440.shtml",
-        "publishedAt": "2026-10-27T07:16:03.000+08:00"
-      },
-      {
-        "title": "10月27日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-27/10721439.shtml",
-        "publishedAt": "2026-10-27T06:58:14.000+08:00"
-      },
-      {
-        "title": "泽连斯基签署法案 延长国家战时状态和总动员令90天",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721438.shtml",
-        "publishedAt": "2026-10-27T06:48:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T07:30:04.538+08:00",
+    "fetchedAt": "2026-10-27T07:40:12.210+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T07:30:08.375+08:00",
+      "fetchedAt": "2026-10-27T07:40:16.045+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T12:30:09.000+08:00"
+          "resetAt": "2026-10-27T12:40:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T07:30:08.933+08:00",
+      "fetchedAt": "2026-10-27T07:40:16.230+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T07:30:08.939+08:00",
+      "fetchedAt": "2026-10-27T07:40:16.238+08:00",
       "error": null
     }
   }
