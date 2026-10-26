@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T20:30:10.455+08:00",
+  "updatedAt": "2026-10-26T20:40:38.237+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-26T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T20:30:10.455+08:00",
+    "fetchedAt": "2026-10-26T20:40:38.237+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "福州：城市穿上花衣",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721295.shtml",
+        "publishedAt": "2026-10-26T20:34:56.000+08:00"
+      },
       {
         "title": "2027年国考345万人通过资格审查，平均报录比97：1",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721321.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国古代壁画艺术学术研讨会在京举办 中美学术机构互促互信",
         "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721311.shtml",
         "publishedAt": "2026-10-26T20:15:45.000+08:00"
-      },
-      {
-        "title": "近30名海外侨青云南开启中华文化研习之旅",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721308.shtml",
-        "publishedAt": "2026-10-26T20:15:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T20:30:04.658+08:00",
+    "fetchedAt": "2026-10-26T20:40:03.232+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T20:30:08.595+08:00",
+      "fetchedAt": "2026-10-26T20:40:37.258+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T01:30:10.000+08:00"
+          "resetAt": "2026-10-27T01:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T20:30:08.961+08:00",
+      "fetchedAt": "2026-10-26T20:40:37.369+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T20:30:08.970+08:00",
+      "fetchedAt": "2026-10-26T20:40:37.372+08:00",
       "error": null
     }
   }
