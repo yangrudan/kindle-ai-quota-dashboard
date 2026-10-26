@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T19:20:09.102+08:00",
+  "updatedAt": "2026-10-26T19:30:08.889+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 18.6,
-    "feelsLikeC": 19.5,
-    "humidity": 80,
-    "windKph": 5.3,
+    "feelsLikeC": 19.6,
+    "humidity": 81,
+    "windKph": 5.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T19:20:09.103+08:00",
+    "observedAt": "2026-10-26T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T19:30:08.889+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广交会圣诞订单洽谈升温：AI创意落地、场景向户外延伸",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721261.shtml",
-        "publishedAt": "2026-10-26T19:15:45.000+08:00"
+        "title": "全球首创，中国率先批准！拜耳FXIa抑制剂舒华博（阿舒克森片）获批，开启卒中管理新纪元",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-26/10721265.shtml",
+        "publishedAt": "2026-10-26T19:21:58.000+08:00"
       },
       {
-        "title": "前三季度中国营业性货运量同比增长2.3%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721260.shtml",
-        "publishedAt": "2026-10-26T19:14:55.000+08:00"
+        "title": "多名消费者称寿司郎传送带窜出大只活老鼠，涉事门店回应",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721264.shtml",
+        "publishedAt": "2026-10-26T19:20:24.000+08:00"
       },
       {
-        "title": "李家超与生态环境部部长黄润秋会面 就深化绿色合作交流意见",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721259.shtml",
-        "publishedAt": "2026-10-26T19:13:59.000+08:00"
+        "title": "支持福州加快建设现代化国际城市 福建出台30条措施",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721262.shtml",
+        "publishedAt": "2026-10-26T19:19:30.000+08:00"
       },
       {
-        "title": "第十七届全欧华人专业协会联合会欧洲论坛在法兰克福举办",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721256.shtml",
-        "publishedAt": "2026-10-26T19:13:39.000+08:00"
+        "title": "恰如其汾，杭州调调！2026汾酒城市巡游计划杭州站等你来",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721266.shtml",
+        "publishedAt": "2026-10-26T19:18:48.000+08:00"
       },
       {
-        "title": "“一带一路”绿色创新大会在港举行 聚焦可持续发展与低碳转型",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-26/10721257.shtml",
-        "publishedAt": "2026-10-26T19:12:11.000+08:00"
+        "title": "世界一级方程式赛车锦标赛（F1）美国大奖赛正赛：安东内利夺冠",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208939.shtml",
+        "publishedAt": "2026-10-26T19:17:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T19:20:02.830+08:00",
+    "fetchedAt": "2026-10-26T19:30:03.889+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T19:20:07.450+08:00",
+      "fetchedAt": "2026-10-26T19:30:07.798+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T00:20:08.000+08:00"
+          "resetAt": "2026-10-27T00:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T19:20:07.684+08:00",
+      "fetchedAt": "2026-10-26T19:30:08.056+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T19:20:07.688+08:00",
+      "fetchedAt": "2026-10-26T19:30:08.065+08:00",
       "error": null
     }
   }
