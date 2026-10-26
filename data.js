@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T21:50:08.242+08:00",
+  "updatedAt": "2026-10-26T22:00:11.018+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.4,
-    "feelsLikeC": 18.4,
-    "humidity": 85,
+    "tempC": 17.3,
+    "feelsLikeC": 18.3,
+    "humidity": 86,
     "windKph": 3.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T21:50:08.242+08:00",
+    "observedAt": "2026-10-26T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T22:00:11.018+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西藏巴青7.0级地震：地震系统全力开展专业监测合力服务抗震救灾",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721370.shtml",
-        "publishedAt": "2026-10-26T21:47:50.000+08:00"
+        "title": "“制止餐饮浪费”青少年志愿服务行动特别活动在北京举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721386.shtml",
+        "publishedAt": "2026-10-26T21:52:36.000+08:00"
       },
       {
-        "title": "首都关心下一代大讲堂暨“读长征史诗 做时代新人”红色阅读课活动在北京举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721379.shtml",
-        "publishedAt": "2026-10-26T21:47:44.000+08:00"
+        "title": "浙江杭州：CBD稻田丰收在望",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721363.shtml",
+        "publishedAt": "2026-10-26T21:52:04.000+08:00"
       },
       {
-        "title": "中国工艺美术学会第四届工艺美术教育大会启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721373.shtml",
-        "publishedAt": "2026-10-26T21:45:59.000+08:00"
+        "title": "香港故宫文化博物馆与荷兰国家博物馆达成合作 明年将联合办展",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721367.shtml",
+        "publishedAt": "2026-10-26T21:51:08.000+08:00"
       },
       {
-        "title": "宁波天一阁展出《明范钦行书诗翰卷》 系范钦存世书迹",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721365.shtml",
-        "publishedAt": "2026-10-26T21:37:21.000+08:00"
+        "title": "广西三江：油茶满枝富侗乡",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721349.shtml",
+        "publishedAt": "2026-10-26T21:50:40.000+08:00"
       },
       {
-        "title": "面向全国征集创意 “苏超”AIGC创作大赛启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721359.shtml",
-        "publishedAt": "2026-10-26T21:37:07.000+08:00"
+        "title": "海峡两岸青年精英网球团体公开赛收官 两岸选手以球会友",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721376.shtml",
+        "publishedAt": "2026-10-26T21:50:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T21:50:03.534+08:00",
+    "fetchedAt": "2026-10-26T22:00:05.053+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T21:50:06.980+08:00",
+      "fetchedAt": "2026-10-26T22:00:09.778+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T02:50:08.000+08:00"
+          "resetAt": "2026-10-27T03:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T21:50:07.310+08:00",
+      "fetchedAt": "2026-10-26T22:00:10.060+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T21:50:07.316+08:00",
+      "fetchedAt": "2026-10-26T22:00:10.071+08:00",
       "error": null
     }
   }
