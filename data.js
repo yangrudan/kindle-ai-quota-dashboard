@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T21:00:09.989+08:00",
+  "updatedAt": "2026-10-26T21:10:38.228+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-26T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T21:00:09.989+08:00",
+    "fetchedAt": "2026-10-26T21:10:38.228+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "阿木尔林业局点烧防火阻隔带318公里",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721337.shtml",
-        "publishedAt": "2026-10-26T20:54:45.000+08:00"
+        "title": "80岁卢拉将开启第四个总统任期：工人出身，曾入狱580天，向西方喊话“巴西不是任何人后院”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721344.shtml",
+        "publishedAt": "2026-10-26T21:06:45.000+08:00"
       },
       {
-        "title": "东盟留学生人工智能+创业孵化训练营开营",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721335.shtml",
-        "publishedAt": "2026-10-26T20:43:28.000+08:00"
+        "title": "新建银巴铁路启动联调联试",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721338.shtml",
+        "publishedAt": "2026-10-26T21:06:27.000+08:00"
       },
       {
-        "title": "俄罗斯地方官员：俄中教育年旨在为双边合作注入全新动力",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721323.shtml",
-        "publishedAt": "2026-10-26T20:43:22.000+08:00"
+        "title": "特写：当才旺康西从帐篷搬进了板房",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721343.shtml",
+        "publishedAt": "2026-10-26T21:04:55.000+08:00"
       },
       {
-        "title": "中国留德学者计算机学会2026年年会在法兰克福举办",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721279.shtml",
-        "publishedAt": "2026-10-26T20:42:52.000+08:00"
+        "title": "触摸“上海之根” 来华留学生广富林研学架起中外交流桥梁",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721339.shtml",
+        "publishedAt": "2026-10-26T21:01:55.000+08:00"
       },
       {
-        "title": "2026全球华人高尔夫邀请赛在海南海口开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721314.shtml",
-        "publishedAt": "2026-10-26T20:42:40.000+08:00"
+        "title": "今年前三季度国内居民出游人次53.07亿 同比增长6.2%",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721341.shtml",
+        "publishedAt": "2026-10-26T21:00:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T21:00:05.092+08:00",
+    "fetchedAt": "2026-10-26T21:10:03.313+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T21:00:08.661+08:00",
+      "fetchedAt": "2026-10-26T21:10:37.121+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T02:00:09.000+08:00"
+          "resetAt": "2026-10-27T02:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T21:00:08.947+08:00",
+      "fetchedAt": "2026-10-26T21:10:37.343+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T21:00:08.951+08:00",
+      "fetchedAt": "2026-10-26T21:10:37.349+08:00",
       "error": null
     }
   }
