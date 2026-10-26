@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T11:10:08.001+08:00",
+  "updatedAt": "2026-10-26T11:20:12.444+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.5,
-    "feelsLikeC": 22.8,
-    "humidity": 65,
-    "windKph": 7.5,
+    "tempC": 21.8,
+    "feelsLikeC": 23.1,
+    "humidity": 64,
+    "windKph": 7.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T11:10:08.001+08:00",
+    "observedAt": "2026-10-26T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T11:20:12.445+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "水利部制定出台跨省河湖生态流量保障目标",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720993.shtml",
-        "publishedAt": "2026-10-26T11:02:46.000+08:00"
+        "title": "“零经验”年轻人扎堆闯野山 徒步乱象该如何治理？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721007.shtml",
+        "publishedAt": "2026-10-26T11:12:49.000+08:00"
       },
       {
-        "title": "我爱我家2026前三季度归母净利润同比增长155.4%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720907.shtml",
-        "publishedAt": "2026-10-26T11:02:18.000+08:00"
+        "title": "比亚迪携手东润杯 助力校园足球少年圆梦工体",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720978.shtml",
+        "publishedAt": "2026-10-26T11:07:49.000+08:00"
       },
       {
-        "title": "大熊猫“冉冉”将赴比参加保护研究合作",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720988.shtml",
-        "publishedAt": "2026-10-26T11:02:16.000+08:00"
+        "title": "2026世界海外华人研究学会年会闭幕 下届年会定址智利",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721001.shtml",
+        "publishedAt": "2026-10-26T11:07:03.000+08:00"
       },
       {
-        "title": "“华夏遇见·诗琳画卷——光明行·锦绣章 李小琳诗书画展”走进四川成都",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208908.shtml",
-        "publishedAt": "2026-10-26T10:59:16.000+08:00"
+        "title": "当艺术走进养老社区——“明亮的房间” 摄影展在京开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720985.shtml",
+        "publishedAt": "2026-10-26T11:06:09.000+08:00"
       },
       {
-        "title": "台湾抗日志士后人：纪念光复 捍卫历史",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720974.shtml",
-        "publishedAt": "2026-10-26T10:58:24.000+08:00"
+        "title": "AI健康“反诈”进养老院：百度健康让“求证”这件事不再丢人",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720906.shtml",
+        "publishedAt": "2026-10-26T11:05:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T11:10:03.097+08:00",
+    "fetchedAt": "2026-10-26T11:20:04.174+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T11:10:06.756+08:00",
+      "fetchedAt": "2026-10-26T11:20:10.629+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 89,
+          "usedPct": 98,
           "resetAt": "2026-10-26T14:08:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 14,
+          "usedPct": 15,
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T11:10:06.961+08:00",
+      "fetchedAt": "2026-10-26T11:20:11.026+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T11:10:06.971+08:00",
+      "fetchedAt": "2026-10-26T11:20:11.037+08:00",
       "error": null
     }
   }
