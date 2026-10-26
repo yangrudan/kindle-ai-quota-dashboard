@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T22:20:08.951+08:00",
+  "updatedAt": "2026-10-26T22:30:10.287+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.2,
-    "feelsLikeC": 18.2,
-    "humidity": 86,
-    "windKph": 3.8,
+    "tempC": 17,
+    "feelsLikeC": 18.1,
+    "humidity": 87,
+    "windKph": 3.7,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-26T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T22:20:08.952+08:00",
+    "observedAt": "2026-10-26T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T22:30:10.288+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东5位代表分享奋斗故事：如何走好我们这一代人的长征路？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721411.shtml",
-        "publishedAt": "2026-10-26T22:10:07.000+08:00"
+        "title": "郑州市主城区，如何实现旧城新貌、老区新业？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721423.shtml",
+        "publishedAt": "2026-10-26T22:23:03.000+08:00"
       },
       {
-        "title": "全国劳动模范和大国工匠代表团访港 寄语青年立足岗位持续精进",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721410.shtml",
-        "publishedAt": "2026-10-26T22:08:17.000+08:00"
+        "title": "山河同根 烈士后人与台青北京话家国传承",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721422.shtml",
+        "publishedAt": "2026-10-26T22:22:49.000+08:00"
       },
       {
-        "title": "四川成都：商品房预售门槛提高 购房款全部纳入监管账户",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721409.shtml",
-        "publishedAt": "2026-10-26T22:08:11.000+08:00"
+        "title": "《青海省促进民族团结进步“十五五”规划》系统部署未来五年民族工作",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721421.shtml",
+        "publishedAt": "2026-10-26T22:22:25.000+08:00"
       },
       {
-        "title": "前三季度中国国内居民出游人次超53亿",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721407.shtml",
-        "publishedAt": "2026-10-26T22:03:40.000+08:00"
+        "title": "北师大教授郑日昌新书《辩证观心》发布 建言提升自我心理觉察",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721420.shtml",
+        "publishedAt": "2026-10-26T22:21:35.000+08:00"
       },
       {
-        "title": "宁夏泾源：做强“精字号” 让山里好物身价看涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721406.shtml",
-        "publishedAt": "2026-10-26T22:02:46.000+08:00"
+        "title": "青海：把民族事务治理全面纳入法治轨道",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721419.shtml",
+        "publishedAt": "2026-10-26T22:21:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T22:20:03.842+08:00",
+    "fetchedAt": "2026-10-26T22:30:04.357+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T22:20:07.742+08:00",
+      "fetchedAt": "2026-10-26T22:30:08.941+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T03:20:08.000+08:00"
+          "resetAt": "2026-10-27T03:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T22:20:08.028+08:00",
+      "fetchedAt": "2026-10-26T22:30:09.218+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T22:20:08.037+08:00",
+      "fetchedAt": "2026-10-26T22:30:09.229+08:00",
       "error": null
     }
   }
