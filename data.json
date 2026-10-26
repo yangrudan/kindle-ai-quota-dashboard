@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T08:50:37.889+08:00",
+  "updatedAt": "2026-10-26T09:00:09.063+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 19.6,
-    "humidity": 80,
-    "windKph": 5.4,
+    "tempC": 19.1,
+    "feelsLikeC": 19.9,
+    "humidity": 77,
+    "windKph": 5.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T08:50:37.889+08:00",
+    "observedAt": "2026-10-26T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T09:00:09.063+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10亿千瓦时背后：中老电力互联的价值不止于跨境送电",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720903.shtml",
+        "publishedAt": "2026-10-26T08:49:49.000+08:00"
+      },
       {
         "title": "外媒：巴西总统卢拉赢得连任",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720902.shtml",
@@ -38,14 +43,9 @@
         "title": "西湖申遗成功十五年，交出保护发展的独特答卷",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720899.shtml",
         "publishedAt": "2026-10-26T08:16:01.000+08:00"
-      },
-      {
-        "title": "直击巴西大选：选情胶着 投票有序",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720889.shtml",
-        "publishedAt": "2026-10-26T08:13:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T08:50:03.143+08:00",
+    "fetchedAt": "2026-10-26T09:00:03.294+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T08:50:36.718+08:00",
+      "fetchedAt": "2026-10-26T09:00:07.765+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T13:50:37.000+08:00"
+          "resetAt": "2026-10-26T14:00:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T08:50:37.000+08:00"
+          "resetAt": "2026-11-02T09:00:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T08:50:36.992+08:00",
+      "fetchedAt": "2026-10-26T09:00:08.070+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T08:50:36.995+08:00",
+      "fetchedAt": "2026-10-26T09:00:08.074+08:00",
       "error": null
     }
   }
