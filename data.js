@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T20:50:38.351+08:00",
+  "updatedAt": "2026-10-26T21:00:09.989+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.8,
-    "feelsLikeC": 18.9,
-    "humidity": 85,
-    "windKph": 4.3,
-    "windDir": "北风",
+    "tempC": 17.7,
+    "feelsLikeC": 18.7,
+    "humidity": 84,
+    "windKph": 4.1,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T20:50:38.351+08:00",
+    "observedAt": "2026-10-26T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T21:00:09.989+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "阿木尔林业局点烧防火阻隔带318公里",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721337.shtml",
+        "publishedAt": "2026-10-26T20:54:45.000+08:00"
+      },
       {
         "title": "东盟留学生人工智能+创业孵化训练营开营",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721335.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026全球华人高尔夫邀请赛在海南海口开赛",
         "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721314.shtml",
         "publishedAt": "2026-10-26T20:42:40.000+08:00"
-      },
-      {
-        "title": "中国央行设立债市非银大额赎回互换便利",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721334.shtml",
-        "publishedAt": "2026-10-26T20:42:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T20:50:03.631+08:00",
+    "fetchedAt": "2026-10-26T21:00:05.092+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T20:50:36.949+08:00",
+      "fetchedAt": "2026-10-26T21:00:08.661+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T01:50:38.000+08:00"
+          "resetAt": "2026-10-27T02:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T20:50:37.241+08:00",
+      "fetchedAt": "2026-10-26T21:00:08.947+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T20:50:37.250+08:00",
+      "fetchedAt": "2026-10-26T21:00:08.951+08:00",
       "error": null
     }
   }
