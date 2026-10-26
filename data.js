@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T17:20:38.412+08:00",
+  "updatedAt": "2026-10-26T17:30:09.070+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.6,
-    "feelsLikeC": 20.8,
-    "humidity": 67,
-    "windKph": 7.5,
+    "tempC": 20.1,
+    "feelsLikeC": 20.3,
+    "humidity": 69,
+    "windKph": 7.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T17:20:38.412+08:00",
+    "observedAt": "2026-10-26T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T17:30:09.070+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "胡塞武装再次袭击沙特首都机场 “麦加协议”三国高官将赴伊朗磋商",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721203.shtml",
+        "publishedAt": "2026-10-26T17:19:47.000+08:00"
+      },
+      {
+        "title": "河南平顶山市：以侨为桥助力鹰商扬帆出海",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721155.shtml",
+        "publishedAt": "2026-10-26T17:18:29.000+08:00"
+      },
       {
         "title": "机场光伏技术破题 如何从能源消耗者转变为清洁能源生产者",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721220.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "河南开封兰考县：凝聚统战合力 擦亮“兰企无忧”品牌",
         "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721158.shtml",
         "publishedAt": "2026-10-26T17:15:11.000+08:00"
-      },
-      {
-        "title": "厦金“小三通”客运航线今年客流量已超去年全年总量",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721219.shtml",
-        "publishedAt": "2026-10-26T17:12:49.000+08:00"
-      },
-      {
-        "title": "英国华侨华人庆祝“华文教师节”二十六周年",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721193.shtml",
-        "publishedAt": "2026-10-26T17:11:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T17:20:03.057+08:00",
+    "fetchedAt": "2026-10-26T17:30:03.287+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T17:20:37.124+08:00",
+      "fetchedAt": "2026-10-26T17:30:07.609+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 38,
+          "usedPct": 41,
           "resetAt": "2026-10-26T19:12:36.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T17:20:37.421+08:00",
+      "fetchedAt": "2026-10-26T17:30:07.911+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 24.73,
+      "balance": 24.58,
       "currency": "CNY",
-      "detail": "余额 ¥24.73",
-      "fetchedAt": "2026-10-26T17:20:37.430+08:00",
+      "detail": "余额 ¥24.58",
+      "fetchedAt": "2026-10-26T17:30:07.915+08:00",
       "error": null
     }
   }
