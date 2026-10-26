@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T17:00:10.916+08:00",
+  "updatedAt": "2026-10-26T17:10:08.160+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-26T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T17:00:10.917+08:00",
+    "fetchedAt": "2026-10-26T17:10:08.161+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外国画家眼中的新疆：“壮观的美景，无需修图”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721212.shtml",
+        "publishedAt": "2026-10-26T17:02:16.000+08:00"
+      },
+      {
+        "title": "中国生物多样性保护实践为世界提供宝贵启示",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721215.shtml",
+        "publishedAt": "2026-10-26T17:00:10.000+08:00"
+      },
+      {
+        "title": "科威特王室珍宝首次大规模来华展出",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721201.shtml",
+        "publishedAt": "2026-10-26T16:58:04.000+08:00"
+      },
       {
         "title": "前三季度山西省进出口1019.3亿元 有进口实绩企业净增上千家",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721188.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "德国一邮轮发生撞船事故，船上载有3000多人",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721175.shtml",
         "publishedAt": "2026-10-26T16:52:46.000+08:00"
-      },
-      {
-        "title": "2026总票房破315亿！“跟着电影去运动”解锁消费新场景",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721206.shtml",
-        "publishedAt": "2026-10-26T16:47:21.000+08:00"
-      },
-      {
-        "title": "一顶石榴籽流动毡房，把服务送到草原深处牧民家",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721192.shtml",
-        "publishedAt": "2026-10-26T16:38:47.000+08:00"
-      },
-      {
-        "title": "山西“十五五”将实施基层退役军人服务保障体系提质工程",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721185.shtml",
-        "publishedAt": "2026-10-26T16:37:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T17:00:03.821+08:00",
+    "fetchedAt": "2026-10-26T17:10:03.134+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 90,
+          "usedPct": 91,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 151 / 1500 AIC"
+          "detailText": "剩余 135 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T17:00:05.475+08:00",
+      "fetchedAt": "2026-10-26T17:10:06.748+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 37,
           "resetAt": "2026-10-26T19:12:36.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T17:00:09.405+08:00",
+      "fetchedAt": "2026-10-26T17:10:07.037+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T17:00:09.420+08:00",
+      "fetchedAt": "2026-10-26T17:10:07.046+08:00",
       "error": null
     }
   }
