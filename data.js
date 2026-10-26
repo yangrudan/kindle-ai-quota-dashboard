@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T10:50:11.820+08:00",
+  "updatedAt": "2026-10-26T11:00:45.006+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.3,
-    "feelsLikeC": 22.5,
-    "humidity": 66,
-    "windKph": 7.4,
+    "tempC": 21.5,
+    "feelsLikeC": 22.8,
+    "humidity": 65,
+    "windKph": 7.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T10:50:11.820+08:00",
+    "observedAt": "2026-10-26T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T11:00:45.007+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国发展机遇持续与世界共享（和音）",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-26/10720990.shtml",
-        "publishedAt": "2026-10-26T10:42:01.000+08:00"
+        "title": "在湾区一线，看到先进制造“链动”亚太的力量",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10720999.shtml",
+        "publishedAt": "2026-10-26T10:54:12.000+08:00"
       },
       {
-        "title": "“九机并进”引江补汉 硬核科技助力国家水网越铺越广",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720989.shtml",
-        "publishedAt": "2026-10-26T10:39:45.000+08:00"
+        "title": "全国一刻钟便民生活圈提质升级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720997.shtml",
+        "publishedAt": "2026-10-26T10:50:42.000+08:00"
       },
       {
-        "title": "共话公益“新”力量 “新善中国”服务团总结交流活动云南举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720987.shtml",
-        "publishedAt": "2026-10-26T10:39:45.000+08:00"
+        "title": "10月26日央行开展560亿元7天期逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720955.shtml",
+        "publishedAt": "2026-10-26T10:49:08.000+08:00"
       },
       {
-        "title": "中国教育学话语传播体系构建推进会在京召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720986.shtml",
-        "publishedAt": "2026-10-26T10:38:21.000+08:00"
+        "title": "汇智聚力，共谋改革完善全球治理之道——2026全球治理论坛（雄安）综述",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720995.shtml",
+        "publishedAt": "2026-10-26T10:48:40.000+08:00"
       },
       {
-        "title": "全国劳动模范和大国工匠代表团近日启程赴港澳交流",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10720973.shtml",
-        "publishedAt": "2026-10-26T10:32:17.000+08:00"
+        "title": "健身时总不自觉咬牙？当心颞下颌关节在“硬扛”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-26/10720994.shtml",
+        "publishedAt": "2026-10-26T10:48:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T10:50:03.377+08:00",
+    "fetchedAt": "2026-10-26T11:00:03.674+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T10:50:10.546+08:00",
+      "fetchedAt": "2026-10-26T11:00:40.242+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 74,
+          "usedPct": 84,
           "resetAt": "2026-10-26T14:08:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 13,
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T10:50:10.727+08:00",
+      "fetchedAt": "2026-10-26T11:00:40.442+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T10:50:10.731+08:00",
+      "fetchedAt": "2026-10-26T11:00:40.447+08:00",
       "error": null
     }
   }
