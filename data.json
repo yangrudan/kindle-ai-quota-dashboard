@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T13:40:08.654+08:00",
+  "updatedAt": "2026-10-26T13:50:12.021+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.5,
-    "feelsLikeC": 24,
-    "humidity": 54,
-    "windKph": 8.1,
+    "tempC": 23.6,
+    "feelsLikeC": 23.7,
+    "humidity": 53,
+    "windKph": 8.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T13:40:08.654+08:00",
+    "observedAt": "2026-10-26T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T13:50:12.021+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "人工智能越“聪明”，就越需要算力吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721066.shtml",
+        "publishedAt": "2026-10-26T13:42:01.000+08:00"
+      },
       {
         "title": "结果“一键输出”，科研过程还重要吗",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721061.shtml",
@@ -38,14 +43,9 @@
         "title": "山东荣成：碧海金秋捕参忙",
         "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721056.shtml",
         "publishedAt": "2026-10-26T13:26:52.000+08:00"
-      },
-      {
-        "title": "清迈大学孔子学院：湄公河畔二十载 中文花开泰北香",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721050.shtml",
-        "publishedAt": "2026-10-26T13:16:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T13:40:03.019+08:00",
+    "fetchedAt": "2026-10-26T13:50:05.341+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T13:40:07.554+08:00",
+      "fetchedAt": "2026-10-26T13:50:10.869+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T13:40:07.757+08:00",
+      "fetchedAt": "2026-10-26T13:50:11.067+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T13:40:07.761+08:00",
+      "fetchedAt": "2026-10-26T13:50:11.073+08:00",
       "error": null
     }
   }
