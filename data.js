@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T13:00:37.753+08:00",
+  "updatedAt": "2026-10-26T13:10:38.650+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-26T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T13:00:37.753+08:00",
+    "fetchedAt": "2026-10-26T13:10:38.650+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本前首相福田康夫去世",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721051.shtml",
+        "publishedAt": "2026-10-26T13:03:29.000+08:00"
+      },
       {
         "title": "海南交通规费征稽新模式助力自贸港“二线口岸”通关提效",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721033.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "全国多所财经高校布局“AI+财经”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721047.shtml",
         "publishedAt": "2026-10-26T12:48:14.000+08:00"
-      },
-      {
-        "title": "（长征胜利90周年）白利寺内外的90年：一张红军收条背后的藏汉情谊",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721046.shtml",
-        "publishedAt": "2026-10-26T12:47:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T13:00:03.279+08:00",
+    "fetchedAt": "2026-10-26T13:10:02.903+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T13:00:36.723+08:00",
+      "fetchedAt": "2026-10-26T13:10:37.625+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-10-26T14:08:05.000+08:00"
+          "resetAt": "2026-10-26T14:08:06.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 16,
-          "resetAt": "2026-11-02T09:08:05.000+08:00"
+          "resetAt": "2026-11-02T09:08:06.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T13:00:36.922+08:00",
+      "fetchedAt": "2026-10-26T13:10:37.747+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T13:00:36.932+08:00",
+      "fetchedAt": "2026-10-26T13:10:37.758+08:00",
       "error": null
     }
   }
