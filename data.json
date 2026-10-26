@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T19:10:07.961+08:00",
+  "updatedAt": "2026-10-26T19:20:09.102+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.7,
-    "feelsLikeC": 19.6,
-    "humidity": 79,
-    "windKph": 5.5,
+    "tempC": 18.6,
+    "feelsLikeC": 19.5,
+    "humidity": 80,
+    "windKph": 5.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T19:10:07.961+08:00",
+    "observedAt": "2026-10-26T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T19:20:09.103+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "二十届中央第八轮巡视完成进驻",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721252.shtml",
-        "publishedAt": "2026-10-26T19:00:11.000+08:00"
+        "title": "广交会圣诞订单洽谈升温：AI创意落地、场景向户外延伸",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721261.shtml",
+        "publishedAt": "2026-10-26T19:15:45.000+08:00"
       },
       {
-        "title": "世界泉州青年联谊会澳大利亚分会成立仪式在墨尔本举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721248.shtml",
-        "publishedAt": "2026-10-26T18:54:46.000+08:00"
+        "title": "前三季度中国营业性货运量同比增长2.3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721260.shtml",
+        "publishedAt": "2026-10-26T19:14:55.000+08:00"
       },
       {
-        "title": "12306今日上线新功能 买团体票更方便",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721251.shtml",
-        "publishedAt": "2026-10-26T18:41:24.000+08:00"
+        "title": "李家超与生态环境部部长黄润秋会面 就深化绿色合作交流意见",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721259.shtml",
+        "publishedAt": "2026-10-26T19:13:59.000+08:00"
       },
       {
-        "title": "中国风光累计装机容量突破20亿千瓦",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721244.shtml",
-        "publishedAt": "2026-10-26T18:35:33.000+08:00"
+        "title": "第十七届全欧华人专业协会联合会欧洲论坛在法兰克福举办",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721256.shtml",
+        "publishedAt": "2026-10-26T19:13:39.000+08:00"
       },
       {
-        "title": "一图读懂《交通信息采集 路侧毫米波雷达交通状态检测器》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721249.shtml",
-        "publishedAt": "2026-10-26T18:34:07.000+08:00"
+        "title": "“一带一路”绿色创新大会在港举行 聚焦可持续发展与低碳转型",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-26/10721257.shtml",
+        "publishedAt": "2026-10-26T19:12:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T19:10:03.207+08:00",
+    "fetchedAt": "2026-10-26T19:20:02.830+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T19:10:06.925+08:00",
+      "fetchedAt": "2026-10-26T19:20:07.450+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 41,
-          "resetAt": "2026-10-26T19:12:36.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-27T00:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T19:10:07.164+08:00",
+      "fetchedAt": "2026-10-26T19:20:07.684+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T19:10:07.173+08:00",
+      "fetchedAt": "2026-10-26T19:20:07.688+08:00",
       "error": null
     }
   }
