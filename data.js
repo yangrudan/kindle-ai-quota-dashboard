@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T12:30:09.698+08:00",
+  "updatedAt": "2026-10-26T12:40:07.920+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-26T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T12:30:09.699+08:00",
+    "fetchedAt": "2026-10-26T12:40:07.920+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "违法违规收集使用个人信息 84款移动应用被点名",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721042.shtml",
+        "publishedAt": "2026-10-26T12:25:35.000+08:00"
+      },
+      {
+        "title": "中印尼将举行“利刃-2026”陆军反恐联合训练",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721045.shtml",
+        "publishedAt": "2026-10-26T12:22:53.000+08:00"
+      },
       {
         "title": "商务部：2026年以来，家电以旧换新累计超10099万台",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721044.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "戳破“倚外谋独”的虚妄迷梦——赖清德“双十”讲话防务说辞的虚伪",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721035.shtml",
         "publishedAt": "2026-10-26T12:01:46.000+08:00"
-      },
-      {
-        "title": "旅游社强制购买保险合规合法吗？暗藏哪些猫腻？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721041.shtml",
-        "publishedAt": "2026-10-26T11:56:15.000+08:00"
-      },
-      {
-        "title": "银杏树下90余年，红色基因何以生生不息？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721036.shtml",
-        "publishedAt": "2026-10-26T11:51:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T12:30:04.415+08:00",
+    "fetchedAt": "2026-10-26T12:40:03.140+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T12:30:08.375+08:00",
+      "fetchedAt": "2026-10-26T12:40:06.755+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T12:30:08.619+08:00",
+      "fetchedAt": "2026-10-26T12:40:07.050+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T12:30:08.628+08:00",
+      "fetchedAt": "2026-10-26T12:40:07.061+08:00",
       "error": null
     }
   }
