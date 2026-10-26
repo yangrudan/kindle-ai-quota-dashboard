@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T09:20:08.159+08:00",
+  "updatedAt": "2026-10-26T09:30:39.398+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 19.4,
-    "feelsLikeC": 20.2,
-    "humidity": 75,
-    "windKph": 5.8,
-    "windDir": "北风",
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 19.8,
+    "feelsLikeC": 20.5,
+    "humidity": 74,
+    "windKph": 5.9,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T09:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T09:20:08.160+08:00",
+    "observedAt": "2026-10-26T09:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T09:30:39.399+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "冷空气来袭！多地陆续供暖，这几件事要提前了解",
+        "url": "https://www.chinanews.com.cn/life/2026/10-26/10720914.shtml",
+        "publishedAt": "2026-10-26T09:26:03.000+08:00"
+      },
+      {
+        "title": "HYROX火了，凭什么？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720913.shtml",
+        "publishedAt": "2026-10-26T09:24:17.000+08:00"
+      },
+      {
+        "title": "从挑战赛到广网：广州南沙何以成为球星们的“幸运磁场”？",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720909.shtml",
+        "publishedAt": "2026-10-26T09:23:51.000+08:00"
+      },
+      {
+        "title": "红军长征走过的陇原大地，生长出“蓝色光海”｜企步新长征",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720912.shtml",
+        "publishedAt": "2026-10-26T09:19:27.000+08:00"
+      },
+      {
         "title": "上证系列综合指数新规今起实施！将带来哪些变化？详细解读→",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720908.shtml",
         "publishedAt": "2026-10-26T09:08:56.000+08:00"
-      },
-      {
-        "title": "从“视听之窗”到“合作之桥” 中国—东盟视听周推动“视界”同频",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720905.shtml",
-        "publishedAt": "2026-10-26T09:03:12.000+08:00"
-      },
-      {
-        "title": "10亿千瓦时背后：中老电力互联的价值不止于跨境送电",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720903.shtml",
-        "publishedAt": "2026-10-26T08:49:49.000+08:00"
-      },
-      {
-        "title": "外媒：巴西总统卢拉赢得连任",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720902.shtml",
-        "publishedAt": "2026-10-26T08:21:42.000+08:00"
-      },
-      {
-        "title": "巴西总统选举开启第二轮投票",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208871.shtml",
-        "publishedAt": "2026-10-26T08:20:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T09:20:03.317+08:00",
+    "fetchedAt": "2026-10-26T09:30:03.616+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T09:20:07.122+08:00",
+      "fetchedAt": "2026-10-26T09:30:38.049+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 7,
           "resetAt": "2026-10-26T14:08:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T09:20:07.277+08:00",
+      "fetchedAt": "2026-10-26T09:30:38.158+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T09:20:07.286+08:00",
+      "fetchedAt": "2026-10-26T09:30:38.169+08:00",
       "error": null
     }
   }
