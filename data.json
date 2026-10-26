@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T17:10:08.160+08:00",
+  "updatedAt": "2026-10-26T17:20:38.412+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21,
-    "feelsLikeC": 21.1,
-    "humidity": 64,
-    "windKph": 7.9,
+    "tempC": 20.6,
+    "feelsLikeC": 20.8,
+    "humidity": 67,
+    "windKph": 7.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T17:10:08.161+08:00",
+    "observedAt": "2026-10-26T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T17:20:38.412+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外国画家眼中的新疆：“壮观的美景，无需修图”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721212.shtml",
-        "publishedAt": "2026-10-26T17:02:16.000+08:00"
+        "title": "机场光伏技术破题 如何从能源消耗者转变为清洁能源生产者",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721220.shtml",
+        "publishedAt": "2026-10-26T17:17:45.000+08:00"
       },
       {
-        "title": "中国生物多样性保护实践为世界提供宝贵启示",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721215.shtml",
-        "publishedAt": "2026-10-26T17:00:10.000+08:00"
+        "title": "受权发布丨中华人民共和国国务院令 第849号",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721221.shtml",
+        "publishedAt": "2026-10-26T17:16:37.000+08:00"
       },
       {
-        "title": "科威特王室珍宝首次大规模来华展出",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721201.shtml",
-        "publishedAt": "2026-10-26T16:58:04.000+08:00"
+        "title": "河南开封兰考县：凝聚统战合力 擦亮“兰企无忧”品牌",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721158.shtml",
+        "publishedAt": "2026-10-26T17:15:11.000+08:00"
       },
       {
-        "title": "前三季度山西省进出口1019.3亿元 有进口实绩企业净增上千家",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721188.shtml",
-        "publishedAt": "2026-10-26T16:56:44.000+08:00"
+        "title": "厦金“小三通”客运航线今年客流量已超去年全年总量",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721219.shtml",
+        "publishedAt": "2026-10-26T17:12:49.000+08:00"
       },
       {
-        "title": "德国一邮轮发生撞船事故，船上载有3000多人",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721175.shtml",
-        "publishedAt": "2026-10-26T16:52:46.000+08:00"
+        "title": "英国华侨华人庆祝“华文教师节”二十六周年",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721193.shtml",
+        "publishedAt": "2026-10-26T17:11:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T17:10:03.134+08:00",
+    "fetchedAt": "2026-10-26T17:20:03.057+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 91,
+          "usedPct": 91.6,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 135 / 1500 AIC"
+          "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T17:10:06.748+08:00",
+      "fetchedAt": "2026-10-26T17:20:37.124+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 37,
+          "usedPct": 38,
           "resetAt": "2026-10-26T19:12:36.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T17:10:07.037+08:00",
+      "fetchedAt": "2026-10-26T17:20:37.421+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 24.8,
+      "balance": 24.73,
       "currency": "CNY",
-      "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T17:10:07.046+08:00",
+      "detail": "余额 ¥24.73",
+      "fetchedAt": "2026-10-26T17:20:37.430+08:00",
       "error": null
     }
   }
