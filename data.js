@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T15:20:43.864+08:00",
+  "updatedAt": "2026-10-26T15:30:08.606+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.6,
-    "feelsLikeC": 23.1,
+    "tempC": 23.4,
+    "feelsLikeC": 23,
     "humidity": 54,
-    "windKph": 11,
+    "windKph": 10.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T15:20:43.864+08:00",
+    "observedAt": "2026-10-26T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T15:30:08.607+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "A股收评：超3100只个股飘绿，沪指收涨，深指、创业板指收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721134.shtml",
-        "publishedAt": "2026-10-26T15:12:34.000+08:00"
+        "title": "老年人“防跌短板”该怎么补？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-26/10721138.shtml",
+        "publishedAt": "2026-10-26T15:24:01.000+08:00"
       },
       {
-        "title": "冰岛外交部长贡纳尔斯多蒂尔将访华",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721133.shtml",
-        "publishedAt": "2026-10-26T15:11:44.000+08:00"
+        "title": "不建厂房、不烧一克煤，“虚拟电厂”是怎么工作的？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml",
+        "publishedAt": "2026-10-26T15:22:15.000+08:00"
       },
       {
-        "title": "国家能源局：我国风光累计装机容量突破20亿千瓦",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721128.shtml",
-        "publishedAt": "2026-10-26T15:06:54.000+08:00"
+        "title": "力箭二号遥二运载火箭转运至发射区",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721136.shtml",
+        "publishedAt": "2026-10-26T15:19:28.000+08:00"
       },
       {
-        "title": "甲状腺癌患者为何越来越年轻，医生提示这3个因素",
-        "url": "https://www.chinanews.com.cn/life/2026/10-26/10721126.shtml",
-        "publishedAt": "2026-10-26T15:04:56.000+08:00"
+        "title": "重庆涪陵力争到“十五五”末经济总量迈上2400亿元台阶",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721130.shtml",
+        "publishedAt": "2026-10-26T15:18:40.000+08:00"
       },
       {
-        "title": "金观平：“四个坚持”促科技和产业双向奔赴",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721123.shtml",
-        "publishedAt": "2026-10-26T15:02:41.000+08:00"
+        "title": "吉林高校学子接力传唱 唱响长春大冬会志愿之声",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721129.shtml",
+        "publishedAt": "2026-10-26T15:18:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T15:20:03.796+08:00",
+    "fetchedAt": "2026-10-26T15:30:03.404+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 202 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T15:20:41.030+08:00",
+      "fetchedAt": "2026-10-26T15:30:07.377+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T15:20:41.429+08:00",
+      "fetchedAt": "2026-10-26T15:30:07.605+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T15:20:41.434+08:00",
+      "fetchedAt": "2026-10-26T15:30:07.616+08:00",
       "error": null
     }
   }
