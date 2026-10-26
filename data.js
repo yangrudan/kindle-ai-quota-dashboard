@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T19:40:08.775+08:00",
+  "updatedAt": "2026-10-26T19:50:09.491+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.6,
-    "feelsLikeC": 19.6,
-    "humidity": 81,
-    "windKph": 5.1,
+    "tempC": 18.5,
+    "feelsLikeC": 19.5,
+    "humidity": 82,
+    "windKph": 5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T19:40:08.776+08:00",
+    "observedAt": "2026-10-26T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T19:50:09.492+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "演化4000万年，牛油果树修成“雌雄同体”",
-        "url": "https://www.chinanews.com.cn/life/2026/10-26/10721281.shtml",
-        "publishedAt": "2026-10-26T19:32:16.000+08:00"
+        "title": "澳门特奥陪跑计划迎六周年 健跑同乐日促社区共融",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721282.shtml",
+        "publishedAt": "2026-10-26T19:39:49.000+08:00"
       },
       {
-        "title": "东西问丨詹姆斯·劳伦斯森：澳大利亚必须尽可能与中国保持深度连接",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721270.shtml",
-        "publishedAt": "2026-10-26T19:30:56.000+08:00"
+        "title": "中国人民大学家书博物馆成立十周年 获赠多组重要家书",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721268.shtml",
+        "publishedAt": "2026-10-26T19:39:45.000+08:00"
       },
       {
-        "title": "《荣光之旅》山西太原首发 13位作家重走八路军总部抗战之路",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721277.shtml",
-        "publishedAt": "2026-10-26T19:26:56.000+08:00"
+        "title": "《我爱北京》2026全球征稿活动颁奖典礼举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721286.shtml",
+        "publishedAt": "2026-10-26T19:38:49.000+08:00"
       },
       {
-        "title": "全国40支合唱团齐聚羊城唱响动人旋律",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721273.shtml",
-        "publishedAt": "2026-10-26T19:24:12.000+08:00"
+        "title": "童心绘山河 213件少儿美术作品亮相内蒙古额济纳旗",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721285.shtml",
+        "publishedAt": "2026-10-26T19:38:15.000+08:00"
       },
       {
-        "title": "尹锡悦夫妇狱中代管金近22亿韩元 韩法务部门称需设限",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721278.shtml",
-        "publishedAt": "2026-10-26T19:23:02.000+08:00"
+        "title": "狮子洋通道虎门港互通下部结构完工",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721284.shtml",
+        "publishedAt": "2026-10-26T19:37:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T19:40:03.383+08:00",
+    "fetchedAt": "2026-10-26T19:50:03.649+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T19:40:07.641+08:00",
+      "fetchedAt": "2026-10-26T19:50:08.174+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T00:40:08.000+08:00"
+          "resetAt": "2026-10-27T00:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T19:40:07.963+08:00",
+      "fetchedAt": "2026-10-26T19:50:08.423+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T19:40:07.969+08:00",
+      "fetchedAt": "2026-10-26T19:50:08.431+08:00",
       "error": null
     }
   }
