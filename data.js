@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T14:40:10.403+08:00",
+  "updatedAt": "2026-10-26T14:50:39.971+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.7,
-    "feelsLikeC": 23.1,
-    "humidity": 50,
-    "windKph": 10.1,
+    "tempC": 23.8,
+    "feelsLikeC": 23.4,
+    "humidity": 54,
+    "windKph": 10.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T14:40:10.403+08:00",
+    "observedAt": "2026-10-26T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T14:50:39.971+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "贵阳国际陆港把“出海口”搬到“家门口”",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721101.shtml",
-        "publishedAt": "2026-10-26T14:32:06.000+08:00"
+        "title": "外媒聚焦二十届五中全会：为中国式现代化提供坚强政治保证",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721115.shtml",
+        "publishedAt": "2026-10-26T14:42:58.000+08:00"
       },
       {
-        "title": "港澳会客厅｜专访陈国基：香港“一五”规划最重要目标就是让老百姓安定、开心",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721093.shtml",
-        "publishedAt": "2026-10-26T14:31:12.000+08:00"
+        "title": "海内外6000余种蔬菜鲜果亮相河南郑州",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721105.shtml",
+        "publishedAt": "2026-10-26T14:42:34.000+08:00"
       },
       {
-        "title": "“双十一”促销季警惕降价假象 中消协发布消费提示",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721097.shtml",
-        "publishedAt": "2026-10-26T14:24:55.000+08:00"
+        "title": "云南RCEP“五进”培训大理专场举办",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721113.shtml",
+        "publishedAt": "2026-10-26T14:42:04.000+08:00"
       },
       {
-        "title": "南通城市建设集团有限公司党委副书记、总经理朱峭嵘被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721065.shtml",
-        "publishedAt": "2026-10-26T14:24:45.000+08:00"
+        "title": "西藏那曲市巴青县地震救援安置继续进行——三个场景，照见生命至上",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721112.shtml",
+        "publishedAt": "2026-10-26T14:41:46.000+08:00"
       },
       {
-        "title": "中方将举办联合国维和高级战略研讨班",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721062.shtml",
-        "publishedAt": "2026-10-26T14:24:15.000+08:00"
+        "title": "本周冷空气一股接一股 华北东北等地气温将频繁创新低",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721111.shtml",
+        "publishedAt": "2026-10-26T14:39:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T14:40:04.271+08:00",
+    "fetchedAt": "2026-10-26T14:50:04.243+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 85.2,
+          "usedPct": 86.6,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 222 / 1500 AIC"
+          "detailText": "剩余 202 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T14:40:08.995+08:00",
+      "fetchedAt": "2026-10-26T14:50:38.677+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-10-26T19:12:36.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T14:40:09.279+08:00",
+      "fetchedAt": "2026-10-26T14:50:38.936+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T14:40:09.290+08:00",
+      "fetchedAt": "2026-10-26T14:50:38.949+08:00",
       "error": null
     }
   }
