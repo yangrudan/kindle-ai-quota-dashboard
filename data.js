@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T18:10:09.608+08:00",
+  "updatedAt": "2026-10-26T18:20:09.941+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.3,
-    "feelsLikeC": 19.7,
-    "humidity": 73,
-    "windKph": 6.7,
+    "tempC": 19.1,
+    "feelsLikeC": 19.6,
+    "humidity": 75,
+    "windKph": 6.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T18:10:09.609+08:00",
+    "observedAt": "2026-10-26T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T18:20:09.942+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国地震局发布《西藏巴青7.0级地震烈度图》 最高烈度为9度",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721225.shtml",
+        "publishedAt": "2026-10-26T18:06:24.000+08:00"
+      },
       {
         "title": "既要环保又要颜值 中国绿色家居如何拿下全球订单？",
         "url": "https://www.chinanews.com.cn/ydyl/2026/10-26/10721237.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "行走的思政课 济南市济阳区开展纪念台湾光复“四个一”主题教育活动",
         "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721173.shtml",
         "publishedAt": "2026-10-26T17:50:15.000+08:00"
-      },
-      {
-        "title": "以科学治疗方案提升患者生活质量",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721094.shtml",
-        "publishedAt": "2026-10-26T17:50:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T18:10:03.371+08:00",
+    "fetchedAt": "2026-10-26T18:20:03.524+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T18:10:07.671+08:00",
+      "fetchedAt": "2026-10-26T18:20:07.808+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T18:10:07.907+08:00",
+      "fetchedAt": "2026-10-26T18:20:08.064+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.39,
       "currency": "CNY",
       "detail": "余额 ¥24.39",
-      "fetchedAt": "2026-10-26T18:10:07.911+08:00",
+      "fetchedAt": "2026-10-26T18:20:08.068+08:00",
       "error": null
     }
   }
