@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T18:30:08.187+08:00",
+  "updatedAt": "2026-10-26T18:40:08.463+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-26T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T18:30:08.188+08:00",
+    "fetchedAt": "2026-10-26T18:40:08.463+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "上海蓝十字脑科医院精准施救 脑出血昏迷一年多小伙成功促醒",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-26/10721236.shtml",
-        "publishedAt": "2026-10-26T18:20:12.000+08:00"
+        "title": "一图读懂《交通信息采集 路侧毫米波雷达交通状态检测器》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721249.shtml",
+        "publishedAt": "2026-10-26T18:34:07.000+08:00"
       },
       {
-        "title": "山西首单暂时进境展览品线上巡展申报业务办结",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721238.shtml",
-        "publishedAt": "2026-10-26T18:19:52.000+08:00"
+        "title": "（长征胜利90周年）甘肃有座车站叫“长征”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721242.shtml",
+        "publishedAt": "2026-10-26T18:29:55.000+08:00"
       },
       {
-        "title": "广西将借第九届进博会立体呈现向海开放发展图景",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721239.shtml",
-        "publishedAt": "2026-10-26T18:18:04.000+08:00"
+        "title": "央行：9月政府债券净融资15362.2亿元，同比增加3469.6亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721241.shtml",
+        "publishedAt": "2026-10-26T18:29:25.000+08:00"
       },
       {
-        "title": "中央气象台10月26日18时继续发布大风蓝色预警",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721240.shtml",
-        "publishedAt": "2026-10-26T18:14:56.000+08:00"
+        "title": "新疆沙雅奥普坎艺术家村落迎多国画家写生",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721229.shtml",
+        "publishedAt": "2026-10-26T18:29:05.000+08:00"
       },
       {
-        "title": "中国地震局发布《西藏巴青7.0级地震烈度图》 最高烈度为9度",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721225.shtml",
-        "publishedAt": "2026-10-26T18:06:24.000+08:00"
+        "title": "中缅原油管道累计输送原油突破1亿吨",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721245.shtml",
+        "publishedAt": "2026-10-26T18:27:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T18:30:03.173+08:00",
+    "fetchedAt": "2026-10-26T18:40:03.093+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T18:30:06.738+08:00",
+      "fetchedAt": "2026-10-26T18:40:07.367+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T18:30:06.999+08:00",
+      "fetchedAt": "2026-10-26T18:40:07.632+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 24.39,
+      "balance": 24.38,
       "currency": "CNY",
-      "detail": "余额 ¥24.39",
-      "fetchedAt": "2026-10-26T18:30:07.008+08:00",
+      "detail": "余额 ¥24.38",
+      "fetchedAt": "2026-10-26T18:40:07.641+08:00",
       "error": null
     }
   }
