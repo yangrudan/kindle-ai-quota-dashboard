@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T13:30:08.869+08:00",
+  "updatedAt": "2026-10-26T13:40:08.654+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-26T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T13:30:08.869+08:00",
+    "fetchedAt": "2026-10-26T13:40:08.654+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "清迈大学孔子学院：湄公河畔二十载 中文花开泰北香",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721050.shtml",
-        "publishedAt": "2026-10-26T13:16:28.000+08:00"
+        "title": "结果“一键输出”，科研过程还重要吗",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721061.shtml",
+        "publishedAt": "2026-10-26T13:31:52.000+08:00"
       },
       {
-        "title": "华侨大学新传学院建院十周年：聚焦自主知识体系建设 探索国际传播创新路径",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721031.shtml",
-        "publishedAt": "2026-10-26T13:15:36.000+08:00"
-      },
-      {
-        "title": "“养砖头”为什么戳中年轻人",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721053.shtml",
-        "publishedAt": "2026-10-26T13:14:46.000+08:00"
-      },
-      {
-        "title": "银川至西安航线正式复航 搭建高效空中国际中转通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721032.shtml",
-        "publishedAt": "2026-10-26T13:07:59.000+08:00"
+        "title": "2026桂林艺术节：梦游仙境音乐节火热上演",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721054.shtml",
+        "publishedAt": "2026-10-26T13:28:40.000+08:00"
       },
       {
         "title": "日本前首相福田康夫去世 终年90岁",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721052.shtml",
-        "publishedAt": "2026-10-26T13:07:41.000+08:00"
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208912.shtml",
+        "publishedAt": "2026-10-26T13:27:41.000+08:00"
+      },
+      {
+        "title": "山东荣成：碧海金秋捕参忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721056.shtml",
+        "publishedAt": "2026-10-26T13:26:52.000+08:00"
+      },
+      {
+        "title": "清迈大学孔子学院：湄公河畔二十载 中文花开泰北香",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721050.shtml",
+        "publishedAt": "2026-10-26T13:16:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T13:30:03.340+08:00",
+    "fetchedAt": "2026-10-26T13:40:03.019+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T13:30:07.736+08:00",
+      "fetchedAt": "2026-10-26T13:40:07.554+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T13:30:07.898+08:00",
+      "fetchedAt": "2026-10-26T13:40:07.757+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T13:30:07.908+08:00",
+      "fetchedAt": "2026-10-26T13:40:07.761+08:00",
       "error": null
     }
   }
