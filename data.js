@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T15:30:08.606+08:00",
+  "updatedAt": "2026-10-26T15:40:09.213+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-26T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T15:30:08.607+08:00",
+    "fetchedAt": "2026-10-26T15:40:09.213+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "老年人“防跌短板”该怎么补？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-26/10721138.shtml",
-        "publishedAt": "2026-10-26T15:24:01.000+08:00"
+        "title": "外交部：愿继续同朝方一道推动中朝关系不断向前发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721145.shtml",
+        "publishedAt": "2026-10-26T15:35:21.000+08:00"
       },
       {
-        "title": "不建厂房、不烧一克煤，“虚拟电厂”是怎么工作的？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml",
-        "publishedAt": "2026-10-26T15:22:15.000+08:00"
+        "title": "外交部：中方祝贺卢拉在巴西总统大选中获胜",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721144.shtml",
+        "publishedAt": "2026-10-26T15:33:53.000+08:00"
       },
       {
-        "title": "力箭二号遥二运载火箭转运至发射区",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721136.shtml",
-        "publishedAt": "2026-10-26T15:19:28.000+08:00"
+        "title": "云岭动态第二十六期",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721140.shtml",
+        "publishedAt": "2026-10-26T15:32:49.000+08:00"
       },
       {
-        "title": "重庆涪陵力争到“十五五”末经济总量迈上2400亿元台阶",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721130.shtml",
-        "publishedAt": "2026-10-26T15:18:40.000+08:00"
+        "title": "日本前首相福田康夫逝世 外交部：沉痛哀悼",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721143.shtml",
+        "publishedAt": "2026-10-26T15:32:21.000+08:00"
       },
       {
-        "title": "吉林高校学子接力传唱 唱响长春大冬会志愿之声",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721129.shtml",
-        "publishedAt": "2026-10-26T15:18:10.000+08:00"
+        "title": "美国将孔子学院列为“国家安全威胁” 中方：反对针对孔子学院的抹黑和污名化",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721142.shtml",
+        "publishedAt": "2026-10-26T15:31:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T15:30:03.404+08:00",
+    "fetchedAt": "2026-10-26T15:40:03.262+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 202 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T15:30:07.377+08:00",
+      "fetchedAt": "2026-10-26T15:40:07.474+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T15:30:07.605+08:00",
+      "fetchedAt": "2026-10-26T15:40:07.882+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T15:30:07.616+08:00",
+      "fetchedAt": "2026-10-26T15:40:07.888+08:00",
       "error": null
     }
   }
