@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T22:40:09.929+08:00",
+  "updatedAt": "2026-10-26T22:50:09.950+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17,
-    "feelsLikeC": 18.1,
+    "tempC": 16.9,
+    "feelsLikeC": 17.9,
     "humidity": 87,
-    "windKph": 3.7,
+    "windKph": 3.6,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-26T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T22:40:09.929+08:00",
+    "observedAt": "2026-10-26T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T22:50:09.950+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美官员透露称美军已准备好再次大规模打击伊朗",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721428.shtml",
+        "publishedAt": "2026-10-26T22:37:18.000+08:00"
+      },
       {
         "title": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721427.shtml",
@@ -38,14 +43,9 @@
         "title": "尼泊尔公布水文气象白皮书 拟加强洪水预警和冰湖风险治理",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721424.shtml",
         "publishedAt": "2026-10-26T22:29:42.000+08:00"
-      },
-      {
-        "title": "郑州市主城区，如何实现旧城新貌、老区新业？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721423.shtml",
-        "publishedAt": "2026-10-26T22:23:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T22:40:03.430+08:00",
+    "fetchedAt": "2026-10-26T22:50:03.868+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T22:40:08.533+08:00",
+      "fetchedAt": "2026-10-26T22:50:08.320+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T03:40:09.000+08:00"
+          "resetAt": "2026-10-27T03:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T22:40:08.772+08:00",
+      "fetchedAt": "2026-10-26T22:50:08.882+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T22:40:08.781+08:00",
+      "fetchedAt": "2026-10-26T22:50:08.893+08:00",
       "error": null
     }
   }
