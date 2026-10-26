@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T06:40:08.381+08:00",
+  "updatedAt": "2026-10-27T06:50:08.681+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
-    "feelsLikeC": 17.1,
-    "humidity": 91,
-    "windKph": 9.1,
+    "tempC": 16.9,
+    "feelsLikeC": 17.3,
+    "humidity": 90,
+    "windKph": 9.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T06:40:08.381+08:00",
+    "observedAt": "2026-10-27T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T06:50:08.681+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "纪念东京审判开庭80周年图片展在联合国总部举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721436.shtml",
+        "publishedAt": "2026-10-27T06:42:27.000+08:00"
+      },
+      {
+        "title": "景区NPC爆火背后，藏着怎样的文旅消费密码？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721435.shtml",
+        "publishedAt": "2026-10-27T06:40:23.000+08:00"
+      },
+      {
+        "title": "美媒：美军已准备好再打击伊朗 特朗普或中期选举后下令",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721434.shtml",
+        "publishedAt": "2026-10-27T06:36:23.000+08:00"
+      },
+      {
+        "title": "法国总统马克龙称10月31日的示威活动仍然存在风险",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721433.shtml",
+        "publishedAt": "2026-10-27T06:36:09.000+08:00"
+      },
+      {
         "title": "德国总统施泰因迈尔抵达安徽开始访华",
         "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721432.shtml",
         "publishedAt": "2026-10-27T00:34:27.000+08:00"
-      },
-      {
-        "title": "中国新发现或完全海生两栖动物化石 距今逾2.3亿年命名海异螈",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721431.shtml",
-        "publishedAt": "2026-10-27T00:03:28.000+08:00"
-      },
-      {
-        "title": "全国短池游泳锦标赛：李冰洁刷新亚洲纪录 张雨霏一日两金",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721430.shtml",
-        "publishedAt": "2026-10-26T23:57:17.000+08:00"
-      },
-      {
-        "title": "“理响中国·讲好‘中国式商量’故事”网络主题采访活动走进上海市政协",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721429.shtml",
-        "publishedAt": "2026-10-26T23:24:29.000+08:00"
-      },
-      {
-        "title": "美官员透露称美军已准备好再次大规模打击伊朗",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721428.shtml",
-        "publishedAt": "2026-10-26T22:37:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T06:40:03.369+08:00",
+    "fetchedAt": "2026-10-27T06:50:02.980+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T06:40:06.984+08:00",
+      "fetchedAt": "2026-10-27T06:50:07.267+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T11:40:08.000+08:00"
+          "resetAt": "2026-10-27T11:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T06:40:07.388+08:00",
+      "fetchedAt": "2026-10-27T06:50:07.530+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T06:40:07.399+08:00",
+      "fetchedAt": "2026-10-27T06:50:07.533+08:00",
       "error": null
     }
   }
