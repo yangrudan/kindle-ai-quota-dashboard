@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T09:40:08.788+08:00",
+  "updatedAt": "2026-10-26T09:50:22.016+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-26T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T09:40:08.788+08:00",
+    "fetchedAt": "2026-10-26T09:50:22.017+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "在闽西，青春这样“接力”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720932.shtml",
+        "publishedAt": "2026-10-26T09:38:28.000+08:00"
+      },
+      {
+        "title": "党的二十届五中全会今起至29日在北京召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720929.shtml",
+        "publishedAt": "2026-10-26T09:36:38.000+08:00"
+      },
       {
         "title": "AI算账“双十一” 算得出优惠算不透套路",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720919.shtml",
@@ -33,19 +43,9 @@
         "title": "冷空气来袭！多地陆续供暖，这几件事要提前了解",
         "url": "https://www.chinanews.com.cn/life/2026/10-26/10720914.shtml",
         "publishedAt": "2026-10-26T09:26:03.000+08:00"
-      },
-      {
-        "title": "HYROX火了，凭什么？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720913.shtml",
-        "publishedAt": "2026-10-26T09:24:17.000+08:00"
-      },
-      {
-        "title": "从挑战赛到广网：广州南沙何以成为球星们的“幸运磁场”？",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720909.shtml",
-        "publishedAt": "2026-10-26T09:23:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T09:40:03.237+08:00",
+    "fetchedAt": "2026-10-26T09:50:12.984+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T09:40:07.516+08:00",
+      "fetchedAt": "2026-10-26T09:50:16.821+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 16,
+          "usedPct": 20,
           "resetAt": "2026-10-26T14:08:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T09:40:07.612+08:00",
+      "fetchedAt": "2026-10-26T09:50:16.895+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T09:40:07.617+08:00",
+      "fetchedAt": "2026-10-26T09:50:16.907+08:00",
       "error": null
     }
   }
