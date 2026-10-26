@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T12:00:09.105+08:00",
+  "updatedAt": "2026-10-26T12:10:09.307+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-26T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T12:00:09.105+08:00",
+    "fetchedAt": "2026-10-26T12:10:09.307+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "旅游社强制购买保险合规合法吗？暗藏哪些猫腻？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721041.shtml",
+        "publishedAt": "2026-10-26T11:56:15.000+08:00"
+      },
       {
         "title": "银杏树下90余年，红色基因何以生生不息？",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721036.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "我国协作帮扶已实现消费帮扶2400多亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721039.shtml",
         "publishedAt": "2026-10-26T11:46:13.000+08:00"
-      },
-      {
-        "title": "快手举办1024嘉年华 程一笑称AI时代仍要保持独立思考",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720910.shtml",
-        "publishedAt": "2026-10-26T11:26:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T12:00:04.512+08:00",
+    "fetchedAt": "2026-10-26T12:10:03.553+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T12:00:08.056+08:00",
+      "fetchedAt": "2026-10-26T12:10:08.032+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T12:00:08.263+08:00",
+      "fetchedAt": "2026-10-26T12:10:08.234+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T12:00:08.273+08:00",
+      "fetchedAt": "2026-10-26T12:10:08.243+08:00",
       "error": null
     }
   }
