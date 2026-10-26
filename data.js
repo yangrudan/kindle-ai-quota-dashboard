@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T22:10:08.073+08:00",
+  "updatedAt": "2026-10-26T22:20:08.951+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.3,
-    "feelsLikeC": 18.3,
+    "tempC": 17.2,
+    "feelsLikeC": 18.2,
     "humidity": 86,
-    "windKph": 3.9,
-    "windDir": "西北风",
+    "windKph": 3.8,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-26T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T22:10:08.073+08:00",
+    "observedAt": "2026-10-26T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T22:20:08.952+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广东5位代表分享奋斗故事：如何走好我们这一代人的长征路？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721411.shtml",
+        "publishedAt": "2026-10-26T22:10:07.000+08:00"
+      },
+      {
+        "title": "全国劳动模范和大国工匠代表团访港 寄语青年立足岗位持续精进",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721410.shtml",
+        "publishedAt": "2026-10-26T22:08:17.000+08:00"
+      },
+      {
+        "title": "四川成都：商品房预售门槛提高 购房款全部纳入监管账户",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721409.shtml",
+        "publishedAt": "2026-10-26T22:08:11.000+08:00"
+      },
       {
         "title": "前三季度中国国内居民出游人次超53亿",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721407.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "宁夏泾源：做强“精字号” 让山里好物身价看涨",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721406.shtml",
         "publishedAt": "2026-10-26T22:02:46.000+08:00"
-      },
-      {
-        "title": "侨乡江门对APEC其他经济体出口逾740亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721405.shtml",
-        "publishedAt": "2026-10-26T22:02:46.000+08:00"
-      },
-      {
-        "title": "11万吨铁矿粉进口 福建漳州破单船铁矿载运量纪录",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721404.shtml",
-        "publishedAt": "2026-10-26T22:01:38.000+08:00"
-      },
-      {
-        "title": "青海：拓宽各民族全方位嵌入路径 推动广泛交往全面交流深度交融",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721401.shtml",
-        "publishedAt": "2026-10-26T22:01:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T22:10:03.349+08:00",
+    "fetchedAt": "2026-10-26T22:20:03.842+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T22:10:06.989+08:00",
+      "fetchedAt": "2026-10-26T22:20:07.742+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T03:10:07.000+08:00"
+          "resetAt": "2026-10-27T03:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T22:10:07.251+08:00",
+      "fetchedAt": "2026-10-26T22:20:08.028+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T22:10:07.262+08:00",
+      "fetchedAt": "2026-10-26T22:20:08.037+08:00",
       "error": null
     }
   }
