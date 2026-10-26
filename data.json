@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T13:50:12.021+08:00",
+  "updatedAt": "2026-10-26T14:00:09.515+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.6,
-    "feelsLikeC": 23.7,
-    "humidity": 53,
-    "windKph": 8.6,
+    "tempC": 23.7,
+    "feelsLikeC": 23.5,
+    "humidity": 52,
+    "windKph": 9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T13:50:12.021+08:00",
+    "observedAt": "2026-10-26T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T14:00:09.515+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "人工智能越“聪明”，就越需要算力吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721066.shtml",
-        "publishedAt": "2026-10-26T13:42:01.000+08:00"
+        "title": "第九届进博会首批展品进馆",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721084.shtml",
+        "publishedAt": "2026-10-26T13:55:30.000+08:00"
       },
       {
-        "title": "结果“一键输出”，科研过程还重要吗",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721061.shtml",
-        "publishedAt": "2026-10-26T13:31:52.000+08:00"
+        "title": "前三季度郑州GDP逾11862亿元 同比增长4.9％",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721085.shtml",
+        "publishedAt": "2026-10-26T13:55:06.000+08:00"
       },
       {
-        "title": "2026桂林艺术节：梦游仙境音乐节火热上演",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721054.shtml",
-        "publishedAt": "2026-10-26T13:28:40.000+08:00"
+        "title": "25年累计发行超1700万册 《中国儿童百科全书》打造“中国孩子自己的百科全书”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721082.shtml",
+        "publishedAt": "2026-10-26T13:54:24.000+08:00"
       },
       {
-        "title": "日本前首相福田康夫去世 终年90岁",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208912.shtml",
-        "publishedAt": "2026-10-26T13:27:41.000+08:00"
+        "title": "全新岗位快速涌现 职业教育如何“跟得上”？",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-26/10721086.shtml",
+        "publishedAt": "2026-10-26T13:53:20.000+08:00"
       },
       {
-        "title": "山东荣成：碧海金秋捕参忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721056.shtml",
-        "publishedAt": "2026-10-26T13:26:52.000+08:00"
+        "title": "2026年陕西省攀岩公开赛落幕 百名选手岩壁竞逐展风采",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721083.shtml",
+        "publishedAt": "2026-10-26T13:52:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T13:50:05.341+08:00",
+    "fetchedAt": "2026-10-26T14:00:04.298+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T13:50:10.869+08:00",
+      "fetchedAt": "2026-10-26T14:00:08.351+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T13:50:11.067+08:00",
+      "fetchedAt": "2026-10-26T14:00:08.653+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T13:50:11.073+08:00",
+      "fetchedAt": "2026-10-26T14:00:08.657+08:00",
       "error": null
     }
   }
