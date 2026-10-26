@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:30:09.982+08:00",
+  "updatedAt": "2026-10-27T00:40:09.544+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-27T00:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T00:30:09.982+08:00",
+    "fetchedAt": "2026-10-27T00:40:09.544+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "德国总统施泰因迈尔抵达安徽开始访华",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721432.shtml",
+        "publishedAt": "2026-10-27T00:34:27.000+08:00"
+      },
       {
         "title": "中国新发现或完全海生两栖动物化石 距今逾2.3亿年命名海异螈",
         "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721431.shtml",
@@ -38,14 +43,9 @@
         "title": "美官员透露称美军已准备好再次大规模打击伊朗",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721428.shtml",
         "publishedAt": "2026-10-26T22:37:18.000+08:00"
-      },
-      {
-        "title": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721427.shtml",
-        "publishedAt": "2026-10-26T22:33:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T00:30:04.733+08:00",
+    "fetchedAt": "2026-10-27T00:40:03.658+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T00:30:08.796+08:00",
+      "fetchedAt": "2026-10-27T00:40:08.288+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T05:30:09.000+08:00"
+          "resetAt": "2026-10-27T05:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T00:30:09.075+08:00",
+      "fetchedAt": "2026-10-27T00:40:08.606+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T00:30:09.084+08:00",
+      "fetchedAt": "2026-10-27T00:40:08.614+08:00",
       "error": null
     }
   }
