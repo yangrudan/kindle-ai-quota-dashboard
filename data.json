@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T12:50:08.793+08:00",
+  "updatedAt": "2026-10-26T13:00:37.753+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.1,
+    "tempC": 23.2,
     "feelsLikeC": 24.2,
-    "humidity": 57,
-    "windKph": 7.2,
+    "humidity": 56,
+    "windKph": 7.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T12:50:08.793+08:00",
+    "observedAt": "2026-10-26T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T13:00:37.753+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东西问丨黄钟军：闽南语电影何以跨海峡、越南洋？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-26/10721048.shtml",
-        "publishedAt": "2026-10-26T12:46:30.000+08:00"
+        "title": "海南交通规费征稽新模式助力自贸港“二线口岸”通关提效",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721033.shtml",
+        "publishedAt": "2026-10-26T12:57:03.000+08:00"
       },
       {
-        "title": "2026年国际中体联足球世界杯决出冠亚季军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721030.shtml",
-        "publishedAt": "2026-10-26T12:44:00.000+08:00"
+        "title": "前三季度广西新能源发电量超600亿千瓦时 成发电量增量主力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721037.shtml",
+        "publishedAt": "2026-10-26T12:55:18.000+08:00"
       },
       {
-        "title": "中国气象局：网传“气旋撞击喜马拉雅”说法不实",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721029.shtml",
-        "publishedAt": "2026-10-26T12:36:39.000+08:00"
+        "title": "2026桂林艺术节：山水间响起世界的音乐旋律",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721034.shtml",
+        "publishedAt": "2026-10-26T12:54:40.000+08:00"
       },
       {
-        "title": "违法违规收集使用个人信息 84款移动应用被点名",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721042.shtml",
-        "publishedAt": "2026-10-26T12:25:35.000+08:00"
+        "title": "全国多所财经高校布局“AI+财经”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721047.shtml",
+        "publishedAt": "2026-10-26T12:48:14.000+08:00"
       },
       {
-        "title": "中印尼将举行“利刃-2026”陆军反恐联合训练",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721045.shtml",
-        "publishedAt": "2026-10-26T12:22:53.000+08:00"
+        "title": "（长征胜利90周年）白利寺内外的90年：一张红军收条背后的藏汉情谊",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721046.shtml",
+        "publishedAt": "2026-10-26T12:47:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T12:50:03.296+08:00",
+    "fetchedAt": "2026-10-26T13:00:03.279+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T12:50:07.460+08:00",
+      "fetchedAt": "2026-10-26T13:00:36.723+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T12:50:07.918+08:00",
+      "fetchedAt": "2026-10-26T13:00:36.922+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T12:50:07.923+08:00",
+      "fetchedAt": "2026-10-26T13:00:36.932+08:00",
       "error": null
     }
   }
