@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:30:09.615+08:00",
+  "updatedAt": "2026-10-26T23:40:08.591+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-26T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T23:30:09.616+08:00",
+    "fetchedAt": "2026-10-26T23:40:08.591+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“理响中国·讲好‘中国式商量’故事”网络主题采访活动走进上海市政协",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721429.shtml",
+        "publishedAt": "2026-10-26T23:24:29.000+08:00"
+      },
       {
         "title": "美官员透露称美军已准备好再次大规模打击伊朗",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721428.shtml",
@@ -38,14 +43,9 @@
         "title": "河北滦州小花生“长”出富民大产业",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721425.shtml",
         "publishedAt": "2026-10-26T22:31:16.000+08:00"
-      },
-      {
-        "title": "尼泊尔公布水文气象白皮书 拟加强洪水预警和冰湖风险治理",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721424.shtml",
-        "publishedAt": "2026-10-26T22:29:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T23:30:04.666+08:00",
+    "fetchedAt": "2026-10-26T23:40:03.287+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T23:30:08.488+08:00",
+      "fetchedAt": "2026-10-26T23:40:07.182+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T04:30:09.000+08:00"
+          "resetAt": "2026-10-27T04:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T23:30:08.747+08:00",
+      "fetchedAt": "2026-10-26T23:40:07.434+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T23:30:08.756+08:00",
+      "fetchedAt": "2026-10-26T23:40:07.442+08:00",
       "error": null
     }
   }
