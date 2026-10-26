@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T13:10:38.650+08:00",
+  "updatedAt": "2026-10-26T13:20:37.586+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.2,
-    "feelsLikeC": 24.2,
-    "humidity": 56,
-    "windKph": 7.4,
+    "tempC": 23.4,
+    "feelsLikeC": 24.1,
+    "humidity": 55,
+    "windKph": 7.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T13:10:38.650+08:00",
+    "observedAt": "2026-10-26T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T13:20:37.586+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本前首相福田康夫去世",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721051.shtml",
-        "publishedAt": "2026-10-26T13:03:29.000+08:00"
+        "title": "清迈大学孔子学院：湄公河畔二十载 中文花开泰北香",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721050.shtml",
+        "publishedAt": "2026-10-26T13:16:28.000+08:00"
       },
       {
-        "title": "海南交通规费征稽新模式助力自贸港“二线口岸”通关提效",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721033.shtml",
-        "publishedAt": "2026-10-26T12:57:03.000+08:00"
+        "title": "华侨大学新传学院建院十周年：聚焦自主知识体系建设 探索国际传播创新路径",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721031.shtml",
+        "publishedAt": "2026-10-26T13:15:36.000+08:00"
       },
       {
-        "title": "前三季度广西新能源发电量超600亿千瓦时 成发电量增量主力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721037.shtml",
-        "publishedAt": "2026-10-26T12:55:18.000+08:00"
+        "title": "“养砖头”为什么戳中年轻人",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721053.shtml",
+        "publishedAt": "2026-10-26T13:14:46.000+08:00"
       },
       {
-        "title": "2026桂林艺术节：山水间响起世界的音乐旋律",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721034.shtml",
-        "publishedAt": "2026-10-26T12:54:40.000+08:00"
+        "title": "银川至西安航线正式复航 搭建高效空中国际中转通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721032.shtml",
+        "publishedAt": "2026-10-26T13:07:59.000+08:00"
       },
       {
-        "title": "全国多所财经高校布局“AI+财经”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721047.shtml",
-        "publishedAt": "2026-10-26T12:48:14.000+08:00"
+        "title": "日本前首相福田康夫去世 终年90岁",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721052.shtml",
+        "publishedAt": "2026-10-26T13:07:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T13:10:02.903+08:00",
+    "fetchedAt": "2026-10-26T13:20:02.723+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T13:10:37.625+08:00",
+      "fetchedAt": "2026-10-26T13:20:36.568+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 100,
-          "resetAt": "2026-10-26T14:08:06.000+08:00"
+          "resetAt": "2026-10-26T14:08:05.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 16,
-          "resetAt": "2026-11-02T09:08:06.000+08:00"
+          "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T13:10:37.747+08:00",
+      "fetchedAt": "2026-10-26T13:20:36.674+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T13:10:37.758+08:00",
+      "fetchedAt": "2026-10-26T13:20:36.683+08:00",
       "error": null
     }
   }
