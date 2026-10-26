@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T10:10:09.895+08:00",
+  "updatedAt": "2026-10-26T10:20:40.822+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.4,
-    "feelsLikeC": 21.4,
-    "humidity": 70,
-    "windKph": 6.4,
+    "tempC": 20.7,
+    "feelsLikeC": 21.8,
+    "humidity": 69,
+    "windKph": 6.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T10:10:09.896+08:00",
+    "observedAt": "2026-10-26T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T10:20:40.822+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "首届则柔邀请展演活动在青海西宁落幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10720924.shtml",
-        "publishedAt": "2026-10-26T10:00:53.000+08:00"
+        "title": "联大第2758号决议权威不容撼动——纪念新中国恢复联合国合法席位55周年",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720970.shtml",
+        "publishedAt": "2026-10-26T10:09:29.000+08:00"
       },
       {
-        "title": "从瑞金到北京：红色印刷火种的长征与新生丨企步新长征",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720954.shtml",
-        "publishedAt": "2026-10-26T10:00:35.000+08:00"
+        "title": "2026前三季度汽车企业影响力指数发布 比亚迪登顶乘用车榜首",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720945.shtml",
+        "publishedAt": "2026-10-26T10:07:15.000+08:00"
       },
       {
-        "title": "未来一周冷空气活动频繁 北方多地气温偏低",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720928.shtml",
-        "publishedAt": "2026-10-26T10:00:35.000+08:00"
+        "title": "全球媒体聚焦丨中国从“世界工厂”转为“技术与能力输出高地”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720965.shtml",
+        "publishedAt": "2026-10-26T10:06:43.000+08:00"
       },
       {
-        "title": "10月26日人民币对美元中间价报6.7162 上调18个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720920.shtml",
-        "publishedAt": "2026-10-26T10:00:23.000+08:00"
+        "title": "2026年中国—东盟国际龙舟公开赛在广西藤县举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10720927.shtml",
+        "publishedAt": "2026-10-26T10:06:41.000+08:00"
       },
       {
-        "title": "2026中国—东盟青年文化周在北京开幕",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720950.shtml",
-        "publishedAt": "2026-10-26T09:59:51.000+08:00"
+        "title": "“文明交流视野下的新时代中国考古学科建设”学术研讨会举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720922.shtml",
+        "publishedAt": "2026-10-26T10:06:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T10:10:04.138+08:00",
+    "fetchedAt": "2026-10-26T10:20:03.679+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T10:10:08.588+08:00",
+      "fetchedAt": "2026-10-26T10:20:38.740+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 39,
+          "usedPct": 51,
           "resetAt": "2026-10-26T14:08:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 6,
+          "usedPct": 8,
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T10:10:08.858+08:00",
+      "fetchedAt": "2026-10-26T10:20:39.044+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T10:10:08.870+08:00",
+      "fetchedAt": "2026-10-26T10:20:39.055+08:00",
       "error": null
     }
   }
