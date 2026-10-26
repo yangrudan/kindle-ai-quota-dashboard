@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T20:40:38.237+08:00",
+  "updatedAt": "2026-10-26T20:50:38.351+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 17.8,
-    "feelsLikeC": 18.8,
-    "humidity": 82,
-    "windKph": 4.1,
+    "feelsLikeC": 18.9,
+    "humidity": 85,
+    "windKph": 4.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T20:40:38.237+08:00",
+    "observedAt": "2026-10-26T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T20:50:38.351+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "福州：城市穿上花衣",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721295.shtml",
-        "publishedAt": "2026-10-26T20:34:56.000+08:00"
+        "title": "东盟留学生人工智能+创业孵化训练营开营",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721335.shtml",
+        "publishedAt": "2026-10-26T20:43:28.000+08:00"
       },
       {
-        "title": "2027年国考345万人通过资格审查，平均报录比97：1",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721321.shtml",
-        "publishedAt": "2026-10-26T20:23:13.000+08:00"
+        "title": "俄罗斯地方官员：俄中教育年旨在为双边合作注入全新动力",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721323.shtml",
+        "publishedAt": "2026-10-26T20:43:22.000+08:00"
       },
       {
-        "title": "第九届虹桥论坛将发布《世界开放报告2026》，新增多项亮点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721315.shtml",
-        "publishedAt": "2026-10-26T20:19:07.000+08:00"
+        "title": "中国留德学者计算机学会2026年年会在法兰克福举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721279.shtml",
+        "publishedAt": "2026-10-26T20:42:52.000+08:00"
       },
       {
-        "title": "九三学社搭台引智 共探AI赋能大健康产业路径",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721317.shtml",
-        "publishedAt": "2026-10-26T20:16:57.000+08:00"
+        "title": "2026全球华人高尔夫邀请赛在海南海口开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721314.shtml",
+        "publishedAt": "2026-10-26T20:42:40.000+08:00"
       },
       {
-        "title": "中国古代壁画艺术学术研讨会在京举办 中美学术机构互促互信",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721311.shtml",
-        "publishedAt": "2026-10-26T20:15:45.000+08:00"
+        "title": "中国央行设立债市非银大额赎回互换便利",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721334.shtml",
+        "publishedAt": "2026-10-26T20:42:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T20:40:03.232+08:00",
+    "fetchedAt": "2026-10-26T20:50:03.631+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T20:40:37.258+08:00",
+      "fetchedAt": "2026-10-26T20:50:36.949+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T01:40:38.000+08:00"
+          "resetAt": "2026-10-27T01:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T20:40:37.369+08:00",
+      "fetchedAt": "2026-10-26T20:50:37.241+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-26T20:40:37.372+08:00",
+      "fetchedAt": "2026-10-26T20:50:37.250+08:00",
       "error": null
     }
   }
