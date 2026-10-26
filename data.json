@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:00:41.456+08:00",
+  "updatedAt": "2026-10-27T00:10:37.978+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-27T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T00:00:41.456+08:00",
+    "fetchedAt": "2026-10-27T00:10:37.978+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国新发现或完全海生两栖动物化石 距今逾2.3亿年命名海异螈",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721431.shtml",
+        "publishedAt": "2026-10-27T00:03:28.000+08:00"
+      },
+      {
+        "title": "全国短池游泳锦标赛：李冰洁刷新亚洲纪录 张雨霏一日两金",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721430.shtml",
+        "publishedAt": "2026-10-26T23:57:17.000+08:00"
+      },
       {
         "title": "“理响中国·讲好‘中国式商量’故事”网络主题采访活动走进上海市政协",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721429.shtml",
@@ -33,19 +43,9 @@
         "title": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721427.shtml",
         "publishedAt": "2026-10-26T22:33:22.000+08:00"
-      },
-      {
-        "title": "第一观察｜以信心汇聚力量，以合作破解难题",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721375.shtml",
-        "publishedAt": "2026-10-26T22:31:42.000+08:00"
-      },
-      {
-        "title": "河北滦州小花生“长”出富民大产业",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721425.shtml",
-        "publishedAt": "2026-10-26T22:31:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T00:00:04.506+08:00",
+    "fetchedAt": "2026-10-27T00:10:03.120+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T00:00:40.044+08:00",
+      "fetchedAt": "2026-10-27T00:10:36.692+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T05:00:41.000+08:00"
+          "resetAt": "2026-10-27T05:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T00:00:40.479+08:00",
+      "fetchedAt": "2026-10-27T00:10:36.955+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T00:00:40.489+08:00",
+      "fetchedAt": "2026-10-27T00:10:36.962+08:00",
       "error": null
     }
   }
