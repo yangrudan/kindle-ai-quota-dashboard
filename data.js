@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T17:40:12.219+08:00",
+  "updatedAt": "2026-10-26T17:50:10.994+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.1,
-    "feelsLikeC": 20.3,
-    "humidity": 69,
-    "windKph": 7.4,
+    "tempC": 19.7,
+    "feelsLikeC": 20,
+    "humidity": 71,
+    "windKph": 7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T17:40:12.219+08:00",
+    "observedAt": "2026-10-26T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T17:50:10.994+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "三年虚开发票74亿 检察院披露“发票工厂”黑色产业链",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-26/10721232.shtml",
+        "publishedAt": "2026-10-26T17:41:34.000+08:00"
+      },
       {
         "title": "李强签署国务院令 公布《事业单位登记管理条例》",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721222.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“新阶层”焕发活力 “建设力”闪耀滨城",
         "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721167.shtml",
         "publishedAt": "2026-10-26T17:27:51.000+08:00"
-      },
-      {
-        "title": "胡塞武装再次袭击沙特首都机场 “麦加协议”三国高官将赴伊朗磋商",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721203.shtml",
-        "publishedAt": "2026-10-26T17:19:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T17:40:03.374+08:00",
+    "fetchedAt": "2026-10-26T17:50:03.141+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T17:40:10.934+08:00",
+      "fetchedAt": "2026-10-26T17:50:09.649+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T17:40:11.234+08:00",
+      "fetchedAt": "2026-10-26T17:50:09.916+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 24.53,
+      "balance": 24.52,
       "currency": "CNY",
-      "detail": "余额 ¥24.53",
-      "fetchedAt": "2026-10-26T17:40:11.245+08:00",
+      "detail": "余额 ¥24.52",
+      "fetchedAt": "2026-10-26T17:50:09.927+08:00",
       "error": null
     }
   }
