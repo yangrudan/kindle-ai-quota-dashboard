@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T07:10:08.961+08:00",
+  "updatedAt": "2026-10-27T07:20:37.736+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.2,
-    "feelsLikeC": 17.6,
+    "tempC": 17.4,
+    "feelsLikeC": 17.9,
     "humidity": 89,
-    "windKph": 9.4,
+    "windKph": 9.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T07:10:08.961+08:00",
+    "observedAt": "2026-10-27T07:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T07:20:37.737+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中期选举倒计时 特朗普称举报选举舞弊可获100万美元",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721441.shtml",
+        "publishedAt": "2026-10-27T07:16:27.000+08:00"
+      },
+      {
+        "title": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721440.shtml",
+        "publishedAt": "2026-10-27T07:16:03.000+08:00"
+      },
       {
         "title": "10月27日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-27/10721439.shtml",
@@ -33,19 +43,9 @@
         "title": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721437.shtml",
         "publishedAt": "2026-10-27T06:48:09.000+08:00"
-      },
-      {
-        "title": "纪念东京审判开庭80周年图片展在联合国总部举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721436.shtml",
-        "publishedAt": "2026-10-27T06:42:27.000+08:00"
-      },
-      {
-        "title": "景区NPC爆火背后，藏着怎样的文旅消费密码？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721435.shtml",
-        "publishedAt": "2026-10-27T06:40:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T07:10:03.321+08:00",
+    "fetchedAt": "2026-10-27T07:20:03.060+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T07:10:07.223+08:00",
+      "fetchedAt": "2026-10-27T07:20:36.490+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T12:10:08.000+08:00"
+          "resetAt": "2026-10-27T12:20:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T07:10:07.373+08:00",
+      "fetchedAt": "2026-10-27T07:20:36.699+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T07:10:07.378+08:00",
+      "fetchedAt": "2026-10-27T07:20:36.703+08:00",
       "error": null
     }
   }
