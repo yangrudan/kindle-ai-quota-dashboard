@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T16:20:08.684+08:00",
+  "updatedAt": "2026-10-26T16:30:09.974+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.5,
-    "feelsLikeC": 22.3,
-    "humidity": 57,
-    "windKph": 9.6,
+    "tempC": 22,
+    "feelsLikeC": 21.9,
+    "humidity": 59,
+    "windKph": 8.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T16:20:08.684+08:00",
+    "observedAt": "2026-10-26T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T16:30:09.974+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本前首相福田康夫去世 享年90岁",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721125.shtml",
-        "publishedAt": "2026-10-26T16:07:33.000+08:00"
+        "title": "书香民进 悦读三晋——民进山西省委会“开明阅读”专项社会服务活动纪实",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721190.shtml",
+        "publishedAt": "2026-10-26T16:23:34.000+08:00"
       },
       {
-        "title": "抖音持续治理涉未成年人不良内容，近一个月处置违规内容20.1万条",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721160.shtml",
-        "publishedAt": "2026-10-26T16:03:23.000+08:00"
+        "title": "中国红十字会总会调拨应急救灾厕所和救灾卫生包送往西藏地震受灾地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721179.shtml",
+        "publishedAt": "2026-10-26T16:22:56.000+08:00"
       },
       {
-        "title": "中方：反对任何势力绑架东盟、搅局生事",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721176.shtml",
-        "publishedAt": "2026-10-26T16:02:07.000+08:00"
+        "title": "上海“MAX爸爸”诞生记：从“家长圈”到“超级家长团”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721177.shtml",
+        "publishedAt": "2026-10-26T16:21:22.000+08:00"
       },
       {
-        "title": "2026年01月-09月广西进口主要商品量值表（按海关总署2026年进口重点商品参数）",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721174.shtml",
-        "publishedAt": "2026-10-26T16:00:51.000+08:00"
+        "title": "中方：愿推动中朝关系不断向前发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721168.shtml",
+        "publishedAt": "2026-10-26T16:18:20.000+08:00"
       },
       {
-        "title": "外交部：欢迎更多国家加入世界人工智能合作组织",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721172.shtml",
-        "publishedAt": "2026-10-26T15:59:51.000+08:00"
+        "title": "一枚书签 串起千年龟兹乐舞",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721182.shtml",
+        "publishedAt": "2026-10-26T16:17:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T16:20:03.130+08:00",
+    "fetchedAt": "2026-10-26T16:30:03.800+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 182 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T16:20:07.142+08:00",
+      "fetchedAt": "2026-10-26T16:30:08.471+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 28,
+          "usedPct": 34,
           "resetAt": "2026-10-26T19:12:36.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T16:20:07.418+08:00",
+      "fetchedAt": "2026-10-26T16:30:08.825+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T16:20:07.430+08:00",
+      "fetchedAt": "2026-10-26T16:30:08.836+08:00",
       "error": null
     }
   }
