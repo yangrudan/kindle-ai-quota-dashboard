@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T15:00:08.818+08:00",
+  "updatedAt": "2026-10-26T15:10:38.442+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-26T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T15:00:08.818+08:00",
+    "fetchedAt": "2026-10-26T15:10:38.442+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "斯诺克北爱尔兰公开赛落幕 凯伦·威尔逊强势夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721108.shtml",
-        "publishedAt": "2026-10-26T14:54:39.000+08:00"
+        "title": "甲状腺癌患者为何越来越年轻，医生提示这3个因素",
+        "url": "https://www.chinanews.com.cn/life/2026/10-26/10721126.shtml",
+        "publishedAt": "2026-10-26T15:04:56.000+08:00"
       },
       {
-        "title": "新西兰全国大选提前投票启动 选举结果次月公布",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721071.shtml",
-        "publishedAt": "2026-10-26T14:54:05.000+08:00"
+        "title": "金观平：“四个坚持”促科技和产业双向奔赴",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721123.shtml",
+        "publishedAt": "2026-10-26T15:02:41.000+08:00"
       },
       {
-        "title": "中国量子计算企业向海外高校捐赠量子计算机机时",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721109.shtml",
-        "publishedAt": "2026-10-26T14:53:43.000+08:00"
+        "title": "太阳活动如何影响地球？院士解码太阳风暴",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721122.shtml",
+        "publishedAt": "2026-10-26T15:02:29.000+08:00"
       },
       {
-        "title": "西班牙巴塞罗那省发生公交坠坡事故致83人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721070.shtml",
-        "publishedAt": "2026-10-26T14:53:17.000+08:00"
+        "title": "红星照耀中国丨两代人接力，黄土坡结出“幸福果”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721121.shtml",
+        "publishedAt": "2026-10-26T15:01:27.000+08:00"
       },
       {
-        "title": "巡诊医生的“最佳搭档” 西藏震区安置点里的藏族小翻译",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721118.shtml",
-        "publishedAt": "2026-10-26T14:51:53.000+08:00"
+        "title": "四川：“十五五”期间每年新增残疾人就业1万人",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721103.shtml",
+        "publishedAt": "2026-10-26T15:00:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T15:00:02.824+08:00",
+    "fetchedAt": "2026-10-26T15:10:03.098+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 202 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T15:00:07.417+08:00",
+      "fetchedAt": "2026-10-26T15:10:37.041+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
+          "usedPct": 21,
           "resetAt": "2026-10-26T19:12:36.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T15:00:07.691+08:00",
+      "fetchedAt": "2026-10-26T15:10:37.307+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T15:00:07.701+08:00",
+      "fetchedAt": "2026-10-26T15:10:37.319+08:00",
       "error": null
     }
   }
