@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T14:20:10.641+08:00",
+  "updatedAt": "2026-10-26T14:30:09.285+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 23.7,
-    "feelsLikeC": 23.3,
-    "humidity": 51,
-    "windKph": 9.5,
+    "feelsLikeC": 23.1,
+    "humidity": 50,
+    "windKph": 10.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T14:20:10.642+08:00",
+    "observedAt": "2026-10-26T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T14:30:09.285+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "南通城市建设集团有限公司党委副书记、总经理朱峭嵘被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721065.shtml",
+        "publishedAt": "2026-10-26T14:24:45.000+08:00"
+      },
+      {
+        "title": "中方将举办联合国维和高级战略研讨班",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721062.shtml",
+        "publishedAt": "2026-10-26T14:24:15.000+08:00"
+      },
       {
         "title": "“双十一”促销季警惕降价假象！中消协发布消费提示",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721096.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "第九届进博会首批展品进馆",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721084.shtml",
         "publishedAt": "2026-10-26T13:55:30.000+08:00"
-      },
-      {
-        "title": "前三季度郑州GDP逾11862亿元 同比增长4.9％",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721085.shtml",
-        "publishedAt": "2026-10-26T13:55:06.000+08:00"
-      },
-      {
-        "title": "25年累计发行超1700万册 《中国儿童百科全书》打造“中国孩子自己的百科全书”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721082.shtml",
-        "publishedAt": "2026-10-26T13:54:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T14:20:03.303+08:00",
+    "fetchedAt": "2026-10-26T14:30:04.314+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 222 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T14:20:07.403+08:00",
+      "fetchedAt": "2026-10-26T14:30:08.068+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 8,
           "resetAt": "2026-10-26T19:12:36.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T14:20:07.725+08:00",
+      "fetchedAt": "2026-10-26T14:30:08.418+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T14:20:07.736+08:00",
+      "fetchedAt": "2026-10-26T14:30:08.429+08:00",
       "error": null
     }
   }
