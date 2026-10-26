@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T10:40:11.204+08:00",
+  "updatedAt": "2026-10-26T10:50:11.820+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21,
-    "feelsLikeC": 22.2,
-    "humidity": 68,
-    "windKph": 7,
+    "tempC": 21.3,
+    "feelsLikeC": 22.5,
+    "humidity": 66,
+    "windKph": 7.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-26T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T10:40:11.204+08:00",
+    "observedAt": "2026-10-26T10:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T10:50:11.820+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中国发展机遇持续与世界共享（和音）",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-26/10720990.shtml",
+        "publishedAt": "2026-10-26T10:42:01.000+08:00"
+      },
+      {
+        "title": "“九机并进”引江补汉 硬核科技助力国家水网越铺越广",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720989.shtml",
+        "publishedAt": "2026-10-26T10:39:45.000+08:00"
+      },
+      {
+        "title": "共话公益“新”力量 “新善中国”服务团总结交流活动云南举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720987.shtml",
+        "publishedAt": "2026-10-26T10:39:45.000+08:00"
+      },
+      {
+        "title": "中国教育学话语传播体系构建推进会在京召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720986.shtml",
+        "publishedAt": "2026-10-26T10:38:21.000+08:00"
+      },
+      {
         "title": "全国劳动模范和大国工匠代表团近日启程赴港澳交流",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10720973.shtml",
         "publishedAt": "2026-10-26T10:32:17.000+08:00"
-      },
-      {
-        "title": "U17女足世界杯：中国队三连胜小组头名出线",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720976.shtml",
-        "publishedAt": "2026-10-26T10:30:53.000+08:00"
-      },
-      {
-        "title": "湖北宜昌：从三个场景，看江与城共生",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10720972.shtml",
-        "publishedAt": "2026-10-26T10:29:53.000+08:00"
-      },
-      {
-        "title": "我国造船业持续领跑全球",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720984.shtml",
-        "publishedAt": "2026-10-26T10:29:17.000+08:00"
-      },
-      {
-        "title": "2026第八届郑州种业博览会举办 6000余新优品种亮相",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720975.shtml",
-        "publishedAt": "2026-10-26T10:28:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T10:40:04.303+08:00",
+    "fetchedAt": "2026-10-26T10:50:03.377+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 226 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-26T10:40:09.752+08:00",
+      "fetchedAt": "2026-10-26T10:50:10.546+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 66,
+          "usedPct": 74,
           "resetAt": "2026-10-26T14:08:05.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 10,
+          "usedPct": 12,
           "resetAt": "2026-11-02T09:08:05.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T10:40:09.985+08:00",
+      "fetchedAt": "2026-10-26T10:50:10.727+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.8,
       "currency": "CNY",
       "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-26T10:40:09.994+08:00",
+      "fetchedAt": "2026-10-26T10:50:10.731+08:00",
       "error": null
     }
   }
