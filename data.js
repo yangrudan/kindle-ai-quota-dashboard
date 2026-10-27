@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T20:50:09.436+08:00",
+  "updatedAt": "2026-10-27T21:00:11.255+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.5,
-    "feelsLikeC": 15.2,
+    "tempC": 16.3,
+    "feelsLikeC": 14.9,
     "humidity": 68,
     "windKph": 10.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T20:50:09.436+08:00",
+    "observedAt": "2026-10-27T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T21:00:11.256+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“生命三角区”存误区 科学避险记牢这几点",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721856.shtml",
-        "publishedAt": "2026-10-27T20:40:05.000+08:00"
+        "title": "普京与芬兰、挪威领导人通话讨论乌克兰危机",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721847.shtml",
+        "publishedAt": "2026-10-27T20:54:17.000+08:00"
       },
       {
-        "title": "甘肃省博物馆扩容亮相吐谷浑珍贵文物：展唐代丝路文明交融之美",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721837.shtml",
-        "publishedAt": "2026-10-27T20:30:58.000+08:00"
+        "title": "工资改发数字人民币 江苏高校为何发起“支付迁移”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721862.shtml",
+        "publishedAt": "2026-10-27T20:53:35.000+08:00"
       },
       {
-        "title": "河北邯郸：谷物文创赋能乡村 校地协作助农增收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721809.shtml",
-        "publishedAt": "2026-10-27T20:26:10.000+08:00"
+        "title": "四川蒲江：把“好气候”变成城市“贵资产”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721851.shtml",
+        "publishedAt": "2026-10-27T20:51:49.000+08:00"
       },
       {
-        "title": "校企携手共育数智企业法务人才",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-27/10721854.shtml",
-        "publishedAt": "2026-10-27T20:26:02.000+08:00"
+        "title": "3.43万亿元！今年前三季度中部地区外贸进出口值创新高 “亮点”涌现",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721858.shtml",
+        "publishedAt": "2026-10-27T20:49:27.000+08:00"
       },
       {
-        "title": "广西桂北“粮仓”丰收在即",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721804.shtml",
-        "publishedAt": "2026-10-27T20:23:04.000+08:00"
+        "title": "从29.1%的增速，感受智能制造的澎湃动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721857.shtml",
+        "publishedAt": "2026-10-27T20:47:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T20:50:03.665+08:00",
+    "fetchedAt": "2026-10-27T21:00:05.492+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T20:50:07.185+08:00",
+      "fetchedAt": "2026-10-27T21:00:09.856+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 26,
-          "resetAt": "2026-10-28T00:25:31.000+08:00"
+          "resetAt": "2026-10-28T00:25:30.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T20:50:07.547+08:00",
+      "fetchedAt": "2026-10-27T21:00:10.186+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T20:50:07.552+08:00",
+      "fetchedAt": "2026-10-27T21:00:10.195+08:00",
       "error": null
     }
   }
