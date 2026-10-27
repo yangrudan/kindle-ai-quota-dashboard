@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T11:00:42.292+08:00",
+  "updatedAt": "2026-10-27T11:10:10.475+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T11:00:42.292+08:00",
+    "fetchedAt": "2026-10-27T11:10:10.475+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "金观平：政策接续发力激发经济动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721526.shtml",
-        "publishedAt": "2026-10-27T10:49:22.000+08:00"
+        "title": "第三十三届中国杨凌农高会“四新”成果集中发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721527.shtml",
+        "publishedAt": "2026-10-27T11:00:37.000+08:00"
       },
       {
-        "title": "平台“错位竞争” “双11”从份额战转向护城河之争",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721518.shtml",
-        "publishedAt": "2026-10-27T10:45:04.000+08:00"
+        "title": "四卷本《近代海河流域航运历史档案选编》面世",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721525.shtml",
+        "publishedAt": "2026-10-27T10:58:25.000+08:00"
       },
       {
-        "title": "凯恩首次荣膺金球奖 西班牙将帅大丰收",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721510.shtml",
-        "publishedAt": "2026-10-27T10:44:10.000+08:00"
+        "title": "广东举办智能制造系统运维员职业技能竞赛",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721523.shtml",
+        "publishedAt": "2026-10-27T10:57:37.000+08:00"
       },
       {
-        "title": "“观念通了，路才走得敞亮”（经济聚焦·东西部协作）",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721517.shtml",
-        "publishedAt": "2026-10-27T10:43:54.000+08:00"
+        "title": "湘江“对话”塞纳河：中欧嘉宾长沙共探精准国际传播",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721522.shtml",
+        "publishedAt": "2026-10-27T10:54:37.000+08:00"
       },
       {
-        "title": "加拿大总理指加美贸易谈判出现“轻微升温”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721498.shtml",
-        "publishedAt": "2026-10-27T10:43:06.000+08:00"
+        "title": "曼飞龙傣寨：千年慢轮陶转动“慢”生活",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721520.shtml",
+        "publishedAt": "2026-10-27T10:53:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T11:00:04.421+08:00",
+    "fetchedAt": "2026-10-27T11:10:03.615+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T11:00:41.073+08:00",
+      "fetchedAt": "2026-10-27T11:10:09.267+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-10-27T14:13:53.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T11:00:41.283+08:00",
+      "fetchedAt": "2026-10-27T11:10:09.485+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T11:00:41.287+08:00",
+      "fetchedAt": "2026-10-27T11:10:09.491+08:00",
       "error": null
     }
   }
