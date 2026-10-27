@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T12:10:09.180+08:00",
+  "updatedAt": "2026-10-27T12:20:09.819+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21,
-    "feelsLikeC": 19.6,
-    "humidity": 63,
-    "windKph": 17.1,
+    "tempC": 20.8,
+    "feelsLikeC": 19.5,
+    "humidity": 64,
+    "windKph": 17.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T12:10:09.181+08:00",
+    "observedAt": "2026-10-27T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T12:20:09.820+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "A股午评：超3700只个股飘绿，三大指数收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721550.shtml",
+        "publishedAt": "2026-10-27T12:07:11.000+08:00"
+      },
       {
         "title": "日本福岛县近海发生4.6级地震 多地有震感",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721547.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "星河湾：产业入村筑根基 教育扶智育未来",
         "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721544.shtml",
         "publishedAt": "2026-10-27T11:32:33.000+08:00"
-      },
-      {
-        "title": "“进博直通车”助展品从保税仓直达“四叶草”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721541.shtml",
-        "publishedAt": "2026-10-27T11:32:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T12:10:03.642+08:00",
+    "fetchedAt": "2026-10-27T12:20:03.884+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T12:10:07.972+08:00",
+      "fetchedAt": "2026-10-27T12:20:08.093+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T12:10:08.309+08:00",
+      "fetchedAt": "2026-10-27T12:20:08.369+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T12:10:08.318+08:00",
+      "fetchedAt": "2026-10-27T12:20:08.378+08:00",
       "error": null
     }
   }
