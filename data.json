@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T09:10:38.500+08:00",
+  "updatedAt": "2026-10-27T09:20:11.468+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.9,
-    "feelsLikeC": 18.7,
-    "humidity": 73,
-    "windKph": 10.6,
+    "tempC": 19.3,
+    "feelsLikeC": 18.9,
+    "humidity": 71,
+    "windKph": 10.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T09:10:38.500+08:00",
+    "observedAt": "2026-10-27T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T09:20:11.469+08:00",
     "error": null
   },
   "news": {
@@ -30,22 +30,22 @@
         "publishedAt": "2026-10-27T08:48:18.000+08:00"
       },
       {
+        "title": "福建闽侯木雕匠人两年苦凿 把长征“刻”进11.5米古木",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/10-27/news1073045.shtml",
+        "publishedAt": "2026-10-27T08:35:41.000+08:00"
+      },
+      {
+        "title": "【我的天涯海角】“坦克兵王”丁辉：5次阅兵打头车，坦克是“有生命的”",
+        "url": "http://www.chinanews.com.cn/mil/shipin/cns/2026/10-27/news1073044.shtml",
+        "publishedAt": "2026-10-27T08:34:47.000+08:00"
+      },
+      {
         "title": "哈里·凯恩斩获2026年金球奖",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208963.shtml",
         "publishedAt": "2026-10-27T08:30:14.000+08:00"
-      },
-      {
-        "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721450.shtml",
-        "publishedAt": "2026-10-27T08:27:21.000+08:00"
-      },
-      {
-        "title": "名字带“鳕”就是鳕鱼吗？怎么吃更健康？一文讲明白",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721452.shtml",
-        "publishedAt": "2026-10-27T08:24:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T09:10:03.130+08:00",
+    "fetchedAt": "2026-10-27T09:20:02.492+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T09:10:37.031+08:00",
+      "fetchedAt": "2026-10-27T09:20:10.117+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-27T14:10:38.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-10-27T14:13:53.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 6,
+          "usedPct": 7,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T09:10:37.342+08:00",
+      "fetchedAt": "2026-10-27T09:20:10.357+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T09:10:37.351+08:00",
+      "fetchedAt": "2026-10-27T09:20:10.362+08:00",
       "error": null
     }
   }
