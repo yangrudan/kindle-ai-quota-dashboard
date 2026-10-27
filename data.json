@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T15:30:38.633+08:00",
+  "updatedAt": "2026-10-27T15:40:07.557+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T15:30:38.633+08:00",
+    "fetchedAt": "2026-10-27T15:40:07.557+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "不惧未知，不言放弃——香港女赛车手杨嘉怡的“飞驰人生”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721654.shtml",
-        "publishedAt": "2026-10-27T15:20:37.000+08:00"
+        "title": "特朗普称巴西总统选举“遭到操纵” 中方：尊重巴西人民的自主选择",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721670.shtml",
+        "publishedAt": "2026-10-27T15:31:54.000+08:00"
       },
       {
-        "title": "企步新长征·情暖奋斗路 寄语新征程",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721656.shtml",
-        "publishedAt": "2026-10-27T15:17:43.000+08:00"
+        "title": "2025年01月-2026年09月广西进出口商品总值表(人民币值)",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-27/10721668.shtml",
+        "publishedAt": "2026-10-27T15:31:12.000+08:00"
       },
       {
-        "title": "上海首条直飞阿尔及利亚首都航线今日开通",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721655.shtml",
-        "publishedAt": "2026-10-27T15:17:01.000+08:00"
+        "title": "中方：对英警方任意、过度执法行为强烈不满、严重关切",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721665.shtml",
+        "publishedAt": "2026-10-27T15:31:04.000+08:00"
       },
       {
-        "title": "报告：中国家庭养老正从“财富积累”进入“养老韧性”的新阶段",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721633.shtml",
-        "publishedAt": "2026-10-27T15:14:41.000+08:00"
+        "title": "中国作为首批签约国签署《联合国可转让货物单证公约》",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721660.shtml",
+        "publishedAt": "2026-10-27T15:30:52.000+08:00"
       },
       {
-        "title": "企步新长征·兴业实干谱新篇",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721652.shtml",
-        "publishedAt": "2026-10-27T15:12:45.000+08:00"
+        "title": "中方将派驻菲武官出席第13届东盟防长扩大会",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721632.shtml",
+        "publishedAt": "2026-10-27T15:30:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T15:30:03.260+08:00",
+    "fetchedAt": "2026-10-27T15:40:02.617+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T15:30:37.595+08:00",
+      "fetchedAt": "2026-10-27T15:40:06.437+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 26,
+          "usedPct": 27,
           "resetAt": "2026-10-27T19:14:06.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T15:30:37.808+08:00",
+      "fetchedAt": "2026-10-27T15:40:06.618+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T15:30:37.815+08:00",
+      "fetchedAt": "2026-10-27T15:40:06.621+08:00",
       "error": null
     }
   }
