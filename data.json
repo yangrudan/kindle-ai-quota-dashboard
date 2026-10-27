@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T22:10:08.958+08:00",
+  "updatedAt": "2026-10-27T22:20:08.754+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15,
-    "feelsLikeC": 13.7,
-    "humidity": 73,
-    "windKph": 9.3,
+    "tempC": 14.8,
+    "feelsLikeC": 13.5,
+    "humidity": 74,
+    "windKph": 9.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T22:10:08.958+08:00",
+    "observedAt": "2026-10-27T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T22:20:08.754+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从挖掘机穿针到人形机器人训练 欧洲华媒感受湖南智造硬核实力",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721934.shtml",
-        "publishedAt": "2026-10-27T22:01:39.000+08:00"
+        "title": "广西崇左携农文旅资源亮相广州 达成产销合作意向金额1160万元",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721936.shtml",
+        "publishedAt": "2026-10-27T22:07:09.000+08:00"
       },
       {
-        "title": "《给阿嬷的情书》等8部中国内地优秀电影在澳门展映",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721932.shtml",
-        "publishedAt": "2026-10-27T22:01:37.000+08:00"
+        "title": "云南新修订安全生产条例11月起施行 重特大事故责任追究加码",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721937.shtml",
+        "publishedAt": "2026-10-27T22:07:05.000+08:00"
       },
       {
-        "title": "“越来越好”国际设计大赛探索中国设计出海新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721933.shtml",
-        "publishedAt": "2026-10-27T22:01:33.000+08:00"
+        "title": "浙江杭州：“都市粮仓”丰收在望",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721923.shtml",
+        "publishedAt": "2026-10-27T22:06:37.000+08:00"
       },
       {
-        "title": "广西三江高山红薯丰收 铺就民众增收路",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721915.shtml",
-        "publishedAt": "2026-10-27T21:58:35.000+08:00"
+        "title": "香港西部水域物理模型建成启用",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721935.shtml",
+        "publishedAt": "2026-10-27T22:05:55.000+08:00"
       },
       {
-        "title": "宁夏银川秋意正浓",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721912.shtml",
-        "publishedAt": "2026-10-27T21:57:57.000+08:00"
+        "title": "近20名留学生在重庆了解城市文脉、感受传统文化",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721919.shtml",
+        "publishedAt": "2026-10-27T22:05:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T22:10:03.281+08:00",
+    "fetchedAt": "2026-10-27T22:20:02.484+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T22:10:07.551+08:00",
+      "fetchedAt": "2026-10-27T22:20:06.697+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T22:10:07.998+08:00",
+      "fetchedAt": "2026-10-27T22:20:06.974+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T22:10:08.007+08:00",
+      "fetchedAt": "2026-10-27T22:20:06.983+08:00",
       "error": null
     }
   }
