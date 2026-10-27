@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T09:50:08.776+08:00",
+  "updatedAt": "2026-10-27T10:00:38.323+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.1,
-    "feelsLikeC": 19.7,
-    "humidity": 68,
-    "windKph": 11,
+    "tempC": 20.4,
+    "feelsLikeC": 20.1,
+    "humidity": 66,
+    "windKph": 11.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T09:50:08.776+08:00",
+    "observedAt": "2026-10-27T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T10:00:38.323+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721476.shtml",
-        "publishedAt": "2026-10-27T09:39:47.000+08:00"
+        "title": "特写：驻华使节眼中的长征",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721485.shtml",
+        "publishedAt": "2026-10-27T09:54:00.000+08:00"
       },
       {
-        "title": "“修补牙洞、抗幽门螺杆菌”宣传别轻信！买牙膏认准这8类",
-        "url": "https://www.chinanews.com.cn/life/2026/10-27/10721472.shtml",
-        "publishedAt": "2026-10-27T09:31:58.000+08:00"
+        "title": "10月27日央行开展4120亿元7天期逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721477.shtml",
+        "publishedAt": "2026-10-27T09:51:41.000+08:00"
       },
       {
-        "title": "机构：运营力正成为衡量住房租赁资产长期价值新尺度",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721454.shtml",
-        "publishedAt": "2026-10-27T09:31:06.000+08:00"
+        "title": "10月27日人民币对美元中间价报6.7171 下调9个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721474.shtml",
+        "publishedAt": "2026-10-27T09:51:33.000+08:00"
       },
       {
-        "title": "2026大理情歌会在“有风的地方”上演“山海和鸣”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721468.shtml",
-        "publishedAt": "2026-10-27T09:29:18.000+08:00"
+        "title": "外媒这样看长征精神——读懂长征 读懂当代中国（国际论道）",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721484.shtml",
+        "publishedAt": "2026-10-27T09:49:45.000+08:00"
       },
       {
-        "title": "前三季度广州地区生产总值同比增长5.7% 增速创五年来同期新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721466.shtml",
-        "publishedAt": "2026-10-27T09:28:32.000+08:00"
+        "title": "坚持人民至上，中国共产党的成功密码——一位西班牙共产党员的中国见闻与思考",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721482.shtml",
+        "publishedAt": "2026-10-27T09:46:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T09:50:03.371+08:00",
+    "fetchedAt": "2026-10-27T10:00:03.724+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T09:50:07.584+08:00",
+      "fetchedAt": "2026-10-27T10:00:37.189+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T09:50:07.888+08:00",
+      "fetchedAt": "2026-10-27T10:00:37.477+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T09:50:07.899+08:00",
+      "fetchedAt": "2026-10-27T10:00:37.483+08:00",
       "error": null
     }
   }
