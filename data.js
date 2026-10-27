@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T13:10:47.478+08:00",
+  "updatedAt": "2026-10-27T13:20:09.196+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.3,
-    "feelsLikeC": 19,
+    "tempC": 20.1,
+    "feelsLikeC": 18.7,
     "humidity": 65,
     "windKph": 17.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T13:10:47.478+08:00",
+    "observedAt": "2026-10-27T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T13:20:09.196+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "接住年轻人的表达，红色旅游才能跳出走马观花",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721565.shtml",
+        "publishedAt": "2026-10-27T13:12:10.000+08:00"
+      },
+      {
+        "title": "激发巾帼创客力量，年度第47个矩阵项目→",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721488.shtml",
+        "publishedAt": "2026-10-27T13:10:52.000+08:00"
+      },
+      {
+        "title": "前9月中国电力市场交易电量同比增长18.9%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721564.shtml",
+        "publishedAt": "2026-10-27T13:03:28.000+08:00"
+      },
       {
         "title": "苍洱放歌：院地文艺协作在大理唱响民族团结同心曲",
         "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721505.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "云岭动态第二十七期",
         "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721480.shtml",
         "publishedAt": "2026-10-27T12:54:13.000+08:00"
-      },
-      {
-        "title": "上海市委统战部系统离退休干部纪念中国工农红军长征胜利90周年主题书画展举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721479.shtml",
-        "publishedAt": "2026-10-27T12:53:27.000+08:00"
-      },
-      {
-        "title": "新疆地毯织造技艺专题展在山东省文化馆启幕",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721495.shtml",
-        "publishedAt": "2026-10-27T12:51:57.000+08:00"
-      },
-      {
-        "title": "竹叶青“聆竹”进驻钟楼街 让草本露酒重新成为东方生活接口",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721478.shtml",
-        "publishedAt": "2026-10-27T12:48:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T13:10:12.707+08:00",
+    "fetchedAt": "2026-10-27T13:20:04.050+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T13:10:46.134+08:00",
+      "fetchedAt": "2026-10-27T13:20:07.922+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T13:10:46.527+08:00",
+      "fetchedAt": "2026-10-27T13:20:08.239+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T13:10:46.531+08:00",
+      "fetchedAt": "2026-10-27T13:20:08.244+08:00",
       "error": null
     }
   }
