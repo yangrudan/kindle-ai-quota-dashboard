@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T19:40:14.635+08:00",
+  "updatedAt": "2026-10-27T19:50:13.503+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.1,
-    "feelsLikeC": 16.2,
-    "humidity": 71,
-    "windKph": 9.6,
+    "tempC": 17,
+    "feelsLikeC": 16,
+    "humidity": 69,
+    "windKph": 9.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T19:40:14.635+08:00",
+    "observedAt": "2026-10-27T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T19:50:13.509+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西构建多层次“保障+市场”住房供应体系助新市民安家",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721797.shtml",
-        "publishedAt": "2026-10-27T19:31:25.000+08:00"
+        "title": "澳大利亚音乐家约翰·休伊：在中国旋律里寻找知音",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721819.shtml",
+        "publishedAt": "2026-10-27T19:47:34.000+08:00"
       },
       {
-        "title": "爱康启用AI移动磁共振体检车，助力职场健康“零距离”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721796.shtml",
-        "publishedAt": "2026-10-27T19:30:39.000+08:00"
+        "title": "广交会二期“绿美”对话 让模块化搭建成为会展业绿色常态",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721832.shtml",
+        "publishedAt": "2026-10-27T19:46:46.000+08:00"
       },
       {
-        "title": "华晨宇谈新歌《不奉陪》：又进入了一种“叛逆”状态",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721815.shtml",
-        "publishedAt": "2026-10-27T19:29:21.000+08:00"
+        "title": "中介承诺“精准荐岗”却货不对板 消费者终获全额退款",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-27/10721836.shtml",
+        "publishedAt": "2026-10-27T19:45:12.000+08:00"
       },
       {
-        "title": "以球为桥 中外选手长春角逐和球赛事",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721816.shtml",
-        "publishedAt": "2026-10-27T19:28:13.000+08:00"
+        "title": "郑州航空口岸今年出入境货运航班破1万架次",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721829.shtml",
+        "publishedAt": "2026-10-27T19:44:18.000+08:00"
       },
       {
-        "title": "广东启动第四轮冬春水塘河道清淤",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721813.shtml",
-        "publishedAt": "2026-10-27T19:27:21.000+08:00"
+        "title": "伊朗最高领袖最新发声：提出建设“更强大伊朗”路线图",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721835.shtml",
+        "publishedAt": "2026-10-27T19:43:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T19:40:04.330+08:00",
+    "fetchedAt": "2026-10-27T19:50:03.928+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T19:40:12.896+08:00",
+      "fetchedAt": "2026-10-27T19:50:11.645+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 12,
           "resetAt": "2026-10-28T00:25:30.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 27,
+          "usedPct": 28,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T19:40:13.162+08:00",
+      "fetchedAt": "2026-10-27T19:50:11.939+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T19:40:13.180+08:00",
+      "fetchedAt": "2026-10-27T19:50:11.956+08:00",
       "error": null
     }
   }
