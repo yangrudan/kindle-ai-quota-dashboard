@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T21:40:09.144+08:00",
+  "updatedAt": "2026-10-27T21:50:10.055+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.6,
-    "feelsLikeC": 14.2,
-    "humidity": 70,
-    "windKph": 9.8,
+    "tempC": 15.3,
+    "feelsLikeC": 13.9,
+    "humidity": 72,
+    "windKph": 9.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T21:40:09.144+08:00",
+    "observedAt": "2026-10-27T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T21:50:10.055+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "宁夏首个AIXR医学沉浸式教学中心投用 医学教育开启虚实融合新课堂",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721902.shtml",
-        "publishedAt": "2026-10-27T21:36:24.000+08:00"
+        "title": "香港15名公务员合买彩票中奖约3312万港元，兑奖人企图独吞被告上法庭，详情披露",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-27/10721920.shtml",
+        "publishedAt": "2026-10-27T21:45:58.000+08:00"
       },
       {
-        "title": "沙地种水稻、盐碱地结菠萝 这场大漠丰收超硬核",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721910.shtml",
-        "publishedAt": "2026-10-27T21:35:40.000+08:00"
+        "title": "伊朗：一油轮在霍尔木兹海峡东部触雷起火",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721918.shtml",
+        "publishedAt": "2026-10-27T21:45:10.000+08:00"
       },
       {
-        "title": "香港宽频2026财年总收益增6% 拟布局北都网络建设",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721901.shtml",
-        "publishedAt": "2026-10-27T21:34:46.000+08:00"
+        "title": "2026中国业余高尔夫球队际公开赛南部大区赛落幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721907.shtml",
+        "publishedAt": "2026-10-27T21:44:32.000+08:00"
       },
       {
-        "title": "新疆霍尔果斯公路口岸前三季度外贸稳步增长",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721882.shtml",
-        "publishedAt": "2026-10-27T21:34:44.000+08:00"
+        "title": "泽连斯基：俄军对乌基础设施袭击“严重升级”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721917.shtml",
+        "publishedAt": "2026-10-27T21:44:06.000+08:00"
       },
       {
-        "title": "AI设计、3D打印助力中国陶瓷开拓国际市场",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721878.shtml",
-        "publishedAt": "2026-10-27T21:33:57.000+08:00"
+        "title": "印尼与新加坡将成立联合工作组追查涉林火企业",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721914.shtml",
+        "publishedAt": "2026-10-27T21:43:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T21:40:03.682+08:00",
+    "fetchedAt": "2026-10-27T21:50:04.045+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T21:40:08.010+08:00",
+      "fetchedAt": "2026-10-27T21:50:08.588+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T21:40:08.326+08:00",
+      "fetchedAt": "2026-10-27T21:50:08.987+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T21:40:08.335+08:00",
+      "fetchedAt": "2026-10-27T21:50:08.996+08:00",
       "error": null
     }
   }
