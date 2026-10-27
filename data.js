@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T19:50:13.503+08:00",
+  "updatedAt": "2026-10-27T20:00:38.001+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 17,
-    "feelsLikeC": 16,
-    "humidity": 69,
-    "windKph": 9.9,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 16.8,
+    "feelsLikeC": 15.6,
+    "humidity": 68,
+    "windKph": 10.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T19:50:13.509+08:00",
+    "observedAt": "2026-10-27T20:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T20:00:38.001+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "数字赋能高原产业 青海布局 “十五五” 信息通信业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721827.shtml",
+        "publishedAt": "2026-10-27T19:53:54.000+08:00"
+      },
+      {
+        "title": "（乡村行·看振兴）寒地农业的“破季”样本：北安市通北镇智能温室助农增收",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721828.shtml",
+        "publishedAt": "2026-10-27T19:52:08.000+08:00"
+      },
+      {
+        "title": "中泰校企共建实训基地 培养新能源汽车人才",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-27/10721821.shtml",
+        "publishedAt": "2026-10-27T19:48:56.000+08:00"
+      },
+      {
+        "title": "宁夏援外医疗队成功救治危重感染婴儿",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721830.shtml",
+        "publishedAt": "2026-10-27T19:48:14.000+08:00"
+      },
+      {
         "title": "澳大利亚音乐家约翰·休伊：在中国旋律里寻找知音",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721819.shtml",
         "publishedAt": "2026-10-27T19:47:34.000+08:00"
-      },
-      {
-        "title": "广交会二期“绿美”对话 让模块化搭建成为会展业绿色常态",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721832.shtml",
-        "publishedAt": "2026-10-27T19:46:46.000+08:00"
-      },
-      {
-        "title": "中介承诺“精准荐岗”却货不对板 消费者终获全额退款",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-27/10721836.shtml",
-        "publishedAt": "2026-10-27T19:45:12.000+08:00"
-      },
-      {
-        "title": "郑州航空口岸今年出入境货运航班破1万架次",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721829.shtml",
-        "publishedAt": "2026-10-27T19:44:18.000+08:00"
-      },
-      {
-        "title": "伊朗最高领袖最新发声：提出建设“更强大伊朗”路线图",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721835.shtml",
-        "publishedAt": "2026-10-27T19:43:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T19:50:03.928+08:00",
+    "fetchedAt": "2026-10-27T20:00:03.050+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T19:50:11.645+08:00",
+      "fetchedAt": "2026-10-27T20:00:36.460+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
+          "usedPct": 17,
           "resetAt": "2026-10-28T00:25:30.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 28,
+          "usedPct": 29,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T19:50:11.939+08:00",
+      "fetchedAt": "2026-10-27T20:00:36.742+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T19:50:11.956+08:00",
+      "fetchedAt": "2026-10-27T20:00:36.752+08:00",
       "error": null
     }
   }
