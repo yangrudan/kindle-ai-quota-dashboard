@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T21:10:08.774+08:00",
+  "updatedAt": "2026-10-27T21:20:08.646+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 16.3,
-    "feelsLikeC": 14.9,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 16,
+    "feelsLikeC": 14.5,
     "humidity": 68,
-    "windKph": 10.2,
+    "windKph": 10.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T21:10:08.774+08:00",
+    "observedAt": "2026-10-27T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T21:20:08.646+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从“看见商品”到“做成生意” 进博会延展开放红利",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721860.shtml",
-        "publishedAt": "2026-10-27T20:56:01.000+08:00"
+        "title": "10月27日夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-27/10721889.shtml",
+        "publishedAt": "2026-10-27T21:15:18.000+08:00"
       },
       {
-        "title": "普京与芬兰、挪威领导人通话讨论乌克兰危机",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721847.shtml",
-        "publishedAt": "2026-10-27T20:54:17.000+08:00"
+        "title": "蛋黄真的会升高血脂吗？吃多少才合适？",
+        "url": "https://www.chinanews.com.cn/life/2026/10-27/10721888.shtml",
+        "publishedAt": "2026-10-27T21:14:22.000+08:00"
       },
       {
-        "title": "工资改发数字人民币 江苏高校为何发起“支付迁移”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721862.shtml",
-        "publishedAt": "2026-10-27T20:53:35.000+08:00"
+        "title": "委内瑞拉推进司法改革 最高法院改组工作取得进展",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721868.shtml",
+        "publishedAt": "2026-10-27T21:12:30.000+08:00"
       },
       {
-        "title": "四川蒲江：把“好气候”变成城市“贵资产”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721851.shtml",
-        "publishedAt": "2026-10-27T20:51:49.000+08:00"
+        "title": "宁夏实现公募REITs“零的突破”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721877.shtml",
+        "publishedAt": "2026-10-27T21:10:54.000+08:00"
       },
       {
-        "title": "3.43万亿元！今年前三季度中部地区外贸进出口值创新高 “亮点”涌现",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721858.shtml",
-        "publishedAt": "2026-10-27T20:49:27.000+08:00"
+        "title": "远离传销守护幸福 2026长三角禁传宣传季在沪启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721875.shtml",
+        "publishedAt": "2026-10-27T21:10:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T21:10:03.686+08:00",
+    "fetchedAt": "2026-10-27T21:20:03.871+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T21:10:07.556+08:00",
+      "fetchedAt": "2026-10-27T21:20:07.458+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T21:10:07.890+08:00",
+      "fetchedAt": "2026-10-27T21:20:07.851+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T21:10:07.899+08:00",
+      "fetchedAt": "2026-10-27T21:20:07.858+08:00",
       "error": null
     }
   }
