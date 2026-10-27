@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:00:09.663+08:00",
+  "updatedAt": "2026-10-27T22:10:08.958+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-27T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T22:00:09.664+08:00",
+    "fetchedAt": "2026-10-27T22:10:08.958+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国捷克斯洛伐克友谊农场建场70周年系列活动举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721906.shtml",
-        "publishedAt": "2026-10-27T21:55:47.000+08:00"
+        "title": "从挖掘机穿针到人形机器人训练 欧洲华媒感受湖南智造硬核实力",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721934.shtml",
+        "publishedAt": "2026-10-27T22:01:39.000+08:00"
       },
       {
-        "title": "杭州马拉松即将开跑 报名人数首次突破30万",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721928.shtml",
-        "publishedAt": "2026-10-27T21:51:34.000+08:00"
+        "title": "《给阿嬷的情书》等8部中国内地优秀电影在澳门展映",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721932.shtml",
+        "publishedAt": "2026-10-27T22:01:37.000+08:00"
       },
       {
-        "title": "供销合作社科技成果在山东集中推介 促科研成果与产业需求精准对接",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721926.shtml",
-        "publishedAt": "2026-10-27T21:51:32.000+08:00"
+        "title": "“越来越好”国际设计大赛探索中国设计出海新路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721933.shtml",
+        "publishedAt": "2026-10-27T22:01:33.000+08:00"
       },
       {
-        "title": "北大怀密医学中心启用 打造首都生命健康产业新增长极",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721929.shtml",
-        "publishedAt": "2026-10-27T21:51:30.000+08:00"
+        "title": "广西三江高山红薯丰收 铺就民众增收路",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721915.shtml",
+        "publishedAt": "2026-10-27T21:58:35.000+08:00"
       },
       {
-        "title": "江西南康“村超”开赛 绿茵“小”场激活家具产业“大”文章",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721924.shtml",
-        "publishedAt": "2026-10-27T21:51:30.000+08:00"
+        "title": "宁夏银川秋意正浓",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721912.shtml",
+        "publishedAt": "2026-10-27T21:57:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T22:00:04.280+08:00",
+    "fetchedAt": "2026-10-27T22:10:03.281+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T22:00:07.988+08:00",
+      "fetchedAt": "2026-10-27T22:10:07.551+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T22:00:08.441+08:00",
+      "fetchedAt": "2026-10-27T22:10:07.998+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T22:00:08.452+08:00",
+      "fetchedAt": "2026-10-27T22:10:08.007+08:00",
       "error": null
     }
   }
