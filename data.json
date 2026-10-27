@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T18:20:09.940+08:00",
+  "updatedAt": "2026-10-27T18:30:11.747+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
-    "feelsLikeC": 17.3,
-    "humidity": 71,
-    "windKph": 7.7,
+    "tempC": 17.6,
+    "feelsLikeC": 17.2,
+    "humidity": 72,
+    "windKph": 8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T18:20:09.940+08:00",
+    "observedAt": "2026-10-27T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T18:30:11.748+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“场景开放+政策直达” 浙江持续赋能民营经济创新发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721765.shtml",
-        "publishedAt": "2026-10-27T18:10:07.000+08:00"
+        "title": "首届上海数字广告大赛总决赛举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721779.shtml",
+        "publishedAt": "2026-10-27T18:21:59.000+08:00"
       },
       {
-        "title": "国家会展中心进入进博会布展高峰期",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721769.shtml",
-        "publishedAt": "2026-10-27T18:09:57.000+08:00"
+        "title": "“世界青年创业论坛2026”在港举行 共探大湾区发展机遇",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721776.shtml",
+        "publishedAt": "2026-10-27T18:16:59.000+08:00"
       },
       {
-        "title": "空间超大杯，油耗创新低！第三代秦PLUS DM-i上市限时7.69万元起",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721763.shtml",
-        "publishedAt": "2026-10-27T18:08:34.000+08:00"
+        "title": "全球大学校长及领袖高峰会2026在港开幕",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721774.shtml",
+        "publishedAt": "2026-10-27T18:16:15.000+08:00"
       },
       {
-        "title": "陕西西安：大雁塔下秋色浓",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721778.shtml",
-        "publishedAt": "2026-10-27T18:08:28.000+08:00"
+        "title": "中国速度攀岩系列赛（江苏昆山站）开赛 上演岩壁上的短跑冲刺",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721773.shtml",
+        "publishedAt": "2026-10-27T18:15:21.000+08:00"
       },
       {
-        "title": "2026年全国中学生（青少年）网球精英赛在内蒙古开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721768.shtml",
-        "publishedAt": "2026-10-27T18:05:44.000+08:00"
+        "title": "从“一张床”到“一套房” 北京朝阳搭建梯度安居供给体系",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721772.shtml",
+        "publishedAt": "2026-10-27T18:14:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T18:20:05.062+08:00",
+    "fetchedAt": "2026-10-27T18:30:06.373+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T18:20:08.776+08:00",
+      "fetchedAt": "2026-10-27T18:30:10.340+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T18:20:09.031+08:00",
+      "fetchedAt": "2026-10-27T18:30:10.589+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T18:20:09.036+08:00",
+      "fetchedAt": "2026-10-27T18:30:10.599+08:00",
       "error": null
     }
   }
