@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T07:10:08.717+08:00",
+  "updatedAt": "2026-10-28T07:20:19.767+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-28T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T07:10:08.717+08:00",
+    "fetchedAt": "2026-10-28T07:20:19.767+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我的消费交给陌生人“审批”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721969.shtml",
+        "publishedAt": "2026-10-28T07:10:33.000+08:00"
+      },
+      {
+        "title": "以色列大选出口民调出炉！两大阵营均未过半，谁能组阁成悬念",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721968.shtml",
+        "publishedAt": "2026-10-28T07:05:15.000+08:00"
+      },
       {
         "title": "10月28日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-28/10721967.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721965.shtml",
         "publishedAt": "2026-10-28T06:46:36.000+08:00"
-      },
-      {
-        "title": "出口民调显示两大阵营席位均未过半 利库德集团仍为以议会最大党",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721964.shtml",
-        "publishedAt": "2026-10-28T06:42:12.000+08:00"
-      },
-      {
-        "title": "民政部部署“寒冬送温暖”专项救助行动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721963.shtml",
-        "publishedAt": "2026-10-28T06:26:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T07:10:03.813+08:00",
+    "fetchedAt": "2026-10-28T07:20:12.350+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T07:10:07.459+08:00",
+      "fetchedAt": "2026-10-28T07:20:18.508+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T12:10:08.000+08:00"
+          "resetAt": "2026-10-28T12:20:19.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T07:10:07.816+08:00",
+      "fetchedAt": "2026-10-28T07:20:18.851+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T07:10:07.827+08:00",
+      "fetchedAt": "2026-10-28T07:20:18.861+08:00",
       "error": null
     }
   }
