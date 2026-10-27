@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T16:20:09.193+08:00",
+  "updatedAt": "2026-10-27T16:30:11.700+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.5,
+    "tempC": 19.3,
     "feelsLikeC": 18.4,
-    "humidity": 62,
-    "windKph": 11.5,
+    "humidity": 63,
+    "windKph": 10.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T16:20:09.194+08:00",
+    "observedAt": "2026-10-27T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T16:30:11.700+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "今年前三季度中国对德国进出口1.2万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721713.shtml",
+        "publishedAt": "2026-10-27T16:24:43.000+08:00"
+      },
+      {
+        "title": "单兵坚守、刺刀见红、雪夜擒敌，志愿军战斗英雄事迹令人热血沸腾",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721706.shtml",
+        "publishedAt": "2026-10-27T16:18:59.000+08:00"
+      },
       {
         "title": "山西晋城：家门口来了“国家队” 专家义诊惠及民众",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721707.shtml",
@@ -33,19 +43,9 @@
         "title": "聚焦新疆胡杨 中外艺术家写生精品在沙雅展出",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721702.shtml",
         "publishedAt": "2026-10-27T16:10:00.000+08:00"
-      },
-      {
-        "title": "（文化中国行·校馆弦歌）不止于藏书：探访全国首家纪检监察学专业图书馆",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721705.shtml",
-        "publishedAt": "2026-10-27T16:09:16.000+08:00"
-      },
-      {
-        "title": "黄百铁路（贵州段）者康隧道顺利贯通",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721699.shtml",
-        "publishedAt": "2026-10-27T16:09:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T16:20:02.695+08:00",
+    "fetchedAt": "2026-10-27T16:30:04.987+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T16:19:45.586+08:00",
+      "fetchedAt": "2026-10-27T16:30:09.614+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T16:20:08.152+08:00",
+      "fetchedAt": "2026-10-27T16:30:09.952+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T16:20:08.155+08:00",
+      "fetchedAt": "2026-10-27T16:30:09.957+08:00",
       "error": null
     }
   }
