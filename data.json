@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T15:50:11.642+08:00",
+  "updatedAt": "2026-10-27T16:00:42.457+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.8,
+    "tempC": 19.6,
     "feelsLikeC": 18.4,
     "humidity": 61,
-    "windKph": 13,
+    "windKph": 12.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T15:50:11.642+08:00",
+    "observedAt": "2026-10-27T16:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T16:00:42.457+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "前9月中国规上工业企业利润同比增长15.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721676.shtml",
-        "publishedAt": "2026-10-27T15:42:47.000+08:00"
+        "title": "智利中部遭受龙卷风袭击 房屋受损严重",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208993.shtml",
+        "publishedAt": "2026-10-27T15:52:30.000+08:00"
       },
       {
-        "title": "7人建群练“薄肌”，仅一天就有4个人受伤送医！普通人该如何锻炼？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721687.shtml",
-        "publishedAt": "2026-10-27T15:42:35.000+08:00"
+        "title": "珠海统战宣传信息工作会议召开",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721673.shtml",
+        "publishedAt": "2026-10-27T15:50:53.000+08:00"
       },
       {
-        "title": "成都ITF青网女单冠军孙心然亮相广网 期待主场出战",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721662.shtml",
-        "publishedAt": "2026-10-27T15:41:51.000+08:00"
+        "title": "外交部：高度关注中东海湾和红海、非洲之角地区局势变化",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721680.shtml",
+        "publishedAt": "2026-10-27T15:48:47.000+08:00"
       },
       {
-        "title": "中国科研人员发现蜘蛛新物种“张氏雷文蛛”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721677.shtml",
-        "publishedAt": "2026-10-27T15:40:38.000+08:00"
+        "title": "宁夏固原新增重庆经固原至沈阳航线 打通西南至东北空中快捷通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721681.shtml",
+        "publishedAt": "2026-10-27T15:44:45.000+08:00"
       },
       {
-        "title": "第八届世界浙商大会将启幕 全球浙商共话创新",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721666.shtml",
-        "publishedAt": "2026-10-27T15:39:58.000+08:00"
+        "title": "外交部：中国愿同全世界爱好和平的国家和人民一道坚定守护历史真相",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721688.shtml",
+        "publishedAt": "2026-10-27T15:44:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T15:50:05.121+08:00",
+    "fetchedAt": "2026-10-27T16:00:04.356+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T15:50:10.605+08:00",
+      "fetchedAt": "2026-10-27T16:00:41.395+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 39,
           "resetAt": "2026-10-27T19:14:06.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 15,
+          "usedPct": 16,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T15:50:10.771+08:00",
+      "fetchedAt": "2026-10-27T16:00:41.545+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T15:50:10.774+08:00",
+      "fetchedAt": "2026-10-27T16:00:41.556+08:00",
       "error": null
     }
   }
