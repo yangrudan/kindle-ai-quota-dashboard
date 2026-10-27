@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T16:10:09.806+08:00",
+  "updatedAt": "2026-10-27T16:20:09.193+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.6,
+    "tempC": 19.5,
     "feelsLikeC": 18.4,
-    "humidity": 61,
-    "windKph": 12.5,
+    "humidity": 62,
+    "windKph": 11.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T16:10:09.807+08:00",
+    "observedAt": "2026-10-27T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T16:20:09.194+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "研究揭示地球“第三极”生命演化新线索",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721697.shtml",
-        "publishedAt": "2026-10-27T16:01:22.000+08:00"
+        "title": "山西晋城：家门口来了“国家队” 专家义诊惠及民众",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721707.shtml",
+        "publishedAt": "2026-10-27T16:13:12.000+08:00"
       },
       {
-        "title": "高血压患者漏服降压药，下次要“加量”……是真是假？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721694.shtml",
-        "publishedAt": "2026-10-27T15:57:51.000+08:00"
+        "title": "美国、澳大利亚、英国、法国等30余国发联合声明：苏丹粮食安全状况正急剧恶化",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721657.shtml",
+        "publishedAt": "2026-10-27T16:10:50.000+08:00"
       },
       {
-        "title": "钟南山为留学人员送上寄语！这场“双创”大赛在广州南沙颁奖",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721683.shtml",
-        "publishedAt": "2026-10-27T15:53:51.000+08:00"
+        "title": "聚焦新疆胡杨 中外艺术家写生精品在沙雅展出",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721702.shtml",
+        "publishedAt": "2026-10-27T16:10:00.000+08:00"
       },
       {
-        "title": "智利中部遭受龙卷风袭击 房屋受损严重",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208993.shtml",
-        "publishedAt": "2026-10-27T15:52:30.000+08:00"
+        "title": "（文化中国行·校馆弦歌）不止于藏书：探访全国首家纪检监察学专业图书馆",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721705.shtml",
+        "publishedAt": "2026-10-27T16:09:16.000+08:00"
       },
       {
-        "title": "珠海统战宣传信息工作会议召开",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721673.shtml",
-        "publishedAt": "2026-10-27T15:50:53.000+08:00"
+        "title": "黄百铁路（贵州段）者康隧道顺利贯通",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721699.shtml",
+        "publishedAt": "2026-10-27T16:09:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T16:10:04.348+08:00",
+    "fetchedAt": "2026-10-27T16:20:02.695+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T16:10:08.323+08:00",
+      "fetchedAt": "2026-10-27T16:19:45.586+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T16:10:08.819+08:00",
+      "fetchedAt": "2026-10-27T16:20:08.152+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T16:10:08.824+08:00",
+      "fetchedAt": "2026-10-27T16:20:08.155+08:00",
       "error": null
     }
   }
