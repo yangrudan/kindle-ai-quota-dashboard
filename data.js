@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T19:20:09.567+08:00",
+  "updatedAt": "2026-10-27T19:30:44.229+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
-    "feelsLikeC": 16.6,
-    "humidity": 72,
-    "windKph": 9.2,
-    "windDir": "北风",
+    "tempC": 17.1,
+    "feelsLikeC": 16.2,
+    "humidity": 71,
+    "windKph": 9.6,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T19:20:09.567+08:00",
+    "observedAt": "2026-10-27T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T19:30:44.230+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "央行推出稳债市新工具 如何使用？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721805.shtml",
+        "publishedAt": "2026-10-27T19:14:28.000+08:00"
+      },
       {
         "title": "习近平向日本前首相福田康夫遗属致唁电",
         "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721788.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "汇聚全球领军企业 2026世界智能制造大会开幕在即",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721790.shtml",
         "publishedAt": "2026-10-27T18:50:11.000+08:00"
-      },
-      {
-        "title": "未来三天我国中东部大部多晴好天气 适宜秋收扫尾和秋播",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721799.shtml",
-        "publishedAt": "2026-10-27T18:49:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T19:20:03.641+08:00",
+    "fetchedAt": "2026-10-27T19:30:04.917+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T19:20:08.470+08:00",
+      "fetchedAt": "2026-10-27T19:30:43.166+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-28T00:20:09.000+08:00"
+          "usedPct": 3,
+          "resetAt": "2026-10-28T00:25:30.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T19:20:08.685+08:00",
+      "fetchedAt": "2026-10-27T19:30:43.402+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T19:20:08.696+08:00",
+      "fetchedAt": "2026-10-27T19:30:43.413+08:00",
       "error": null
     }
   }
