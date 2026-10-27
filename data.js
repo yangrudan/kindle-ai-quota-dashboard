@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T11:30:10.730+08:00",
+  "updatedAt": "2026-10-27T11:40:08.171+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T11:30:10.731+08:00",
+    "fetchedAt": "2026-10-27T11:40:08.171+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "让陪诊服务有保障不越界 国家标准将于11月1日实施",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721545.shtml",
-        "publishedAt": "2026-10-27T11:23:24.000+08:00"
+        "title": "星河湾：产业入村筑根基 教育扶智育未来",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721544.shtml",
+        "publishedAt": "2026-10-27T11:32:33.000+08:00"
       },
       {
-        "title": "高钾、低钠、抗氧化！这种水果界的“人参”现在吃正合适",
-        "url": "https://www.chinanews.com.cn/life/2026/10-27/10721542.shtml",
-        "publishedAt": "2026-10-27T11:20:14.000+08:00"
+        "title": "“进博直通车”助展品从保税仓直达“四叶草”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721541.shtml",
+        "publishedAt": "2026-10-27T11:32:23.000+08:00"
       },
       {
-        "title": "特朗普称巴西选举“像被操纵” 巴西副总统驳斥：说法毫无根据",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721543.shtml",
-        "publishedAt": "2026-10-27T11:20:04.000+08:00"
+        "title": "广西搭建北部湾海洋科创合作平台 拓宽面向东盟蓝色合作空间",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-27/10721540.shtml",
+        "publishedAt": "2026-10-27T11:31:35.000+08:00"
       },
       {
-        "title": "国家能源局：1—9月全国电力市场交易电量同比增长18.9%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721536.shtml",
-        "publishedAt": "2026-10-27T11:16:52.000+08:00"
+        "title": "河北唐山秸秆“变身记”：田间“累赘”变增收“香饽饽”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721539.shtml",
+        "publishedAt": "2026-10-27T11:31:27.000+08:00"
       },
       {
-        "title": "揭秘儿童电话手表的“生意经”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721535.shtml",
-        "publishedAt": "2026-10-27T11:06:03.000+08:00"
+        "title": "泡沫轴也能滚断肋骨？康复医生：骨面不压、关节不滚",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721538.shtml",
+        "publishedAt": "2026-10-27T11:30:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T11:30:03.519+08:00",
+    "fetchedAt": "2026-10-27T11:40:03.167+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T11:30:09.432+08:00",
+      "fetchedAt": "2026-10-27T11:40:06.887+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
+          "usedPct": 13,
           "resetAt": "2026-10-27T14:13:53.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T11:30:09.692+08:00",
+      "fetchedAt": "2026-10-27T11:40:07.165+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T11:30:09.699+08:00",
+      "fetchedAt": "2026-10-27T11:40:07.176+08:00",
       "error": null
     }
   }
