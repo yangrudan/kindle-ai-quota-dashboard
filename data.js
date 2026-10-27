@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T10:00:38.323+08:00",
+  "updatedAt": "2026-10-27T10:10:10.868+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T10:00:38.323+08:00",
+    "fetchedAt": "2026-10-27T10:10:10.868+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "特写：驻华使节眼中的长征",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721485.shtml",
-        "publishedAt": "2026-10-27T09:54:00.000+08:00"
+        "title": "吃着吃着就炸了 小心这个常见的 “网红餐具”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721496.shtml",
+        "publishedAt": "2026-10-27T10:06:36.000+08:00"
       },
       {
-        "title": "10月27日央行开展4120亿元7天期逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721477.shtml",
-        "publishedAt": "2026-10-27T09:51:41.000+08:00"
+        "title": "第三届湾区博创赛达成首批意向合作签约金额近13亿元",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721469.shtml",
+        "publishedAt": "2026-10-27T10:04:06.000+08:00"
       },
       {
-        "title": "10月27日人民币对美元中间价报6.7171 下调9个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721474.shtml",
-        "publishedAt": "2026-10-27T09:51:33.000+08:00"
+        "title": "摘下滤镜，才能读懂中国",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721494.shtml",
+        "publishedAt": "2026-10-27T10:03:34.000+08:00"
       },
       {
-        "title": "外媒这样看长征精神——读懂长征 读懂当代中国（国际论道）",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721484.shtml",
-        "publishedAt": "2026-10-27T09:49:45.000+08:00"
+        "title": "辽宁省朝阳市侨联开展“侨胞侨眷看家乡”主题活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721462.shtml",
+        "publishedAt": "2026-10-27T10:02:30.000+08:00"
       },
       {
-        "title": "坚持人民至上，中国共产党的成功密码——一位西班牙共产党员的中国见闻与思考",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721482.shtml",
-        "publishedAt": "2026-10-27T09:46:43.000+08:00"
+        "title": "中国官方：今年前9个月立案省部级及以上干部73人",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721481.shtml",
+        "publishedAt": "2026-10-27T10:02:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T10:00:03.724+08:00",
+    "fetchedAt": "2026-10-27T10:10:04.033+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T10:00:37.189+08:00",
+      "fetchedAt": "2026-10-27T10:10:09.763+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T10:00:37.477+08:00",
+      "fetchedAt": "2026-10-27T10:10:10.005+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T10:00:37.483+08:00",
+      "fetchedAt": "2026-10-27T10:10:10.012+08:00",
       "error": null
     }
   }
