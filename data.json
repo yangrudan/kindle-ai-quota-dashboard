@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T13:40:09.065+08:00",
+  "updatedAt": "2026-10-27T13:50:09.453+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 20.1,
-    "feelsLikeC": 18.6,
+    "feelsLikeC": 18.5,
     "humidity": 64,
-    "windKph": 17.1,
+    "windKph": 16.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T13:40:09.065+08:00",
+    "observedAt": "2026-10-27T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T13:50:09.453+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "接住年轻人的表达，红色旅游才能跳出走马观花",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721565.shtml",
-        "publishedAt": "2026-10-27T13:12:10.000+08:00"
+        "title": "河北省第十一届残运会暨第七届特奥会在唐山开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721574.shtml",
+        "publishedAt": "2026-10-27T13:49:14.000+08:00"
       },
       {
-        "title": "激发巾帼创客力量，年度第47个矩阵项目→",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721488.shtml",
-        "publishedAt": "2026-10-27T13:10:52.000+08:00"
+        "title": "杨凌农高会国际客商云集 双向“掘金”西部市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721573.shtml",
+        "publishedAt": "2026-10-27T13:48:30.000+08:00"
       },
       {
-        "title": "前9月中国电力市场交易电量同比增长18.9%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721564.shtml",
-        "publishedAt": "2026-10-27T13:03:28.000+08:00"
+        "title": "电影《四渡》票房超过3亿元 观影人次超920万",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721572.shtml",
+        "publishedAt": "2026-10-27T13:48:24.000+08:00"
       },
       {
-        "title": "苍洱放歌：院地文艺协作在大理唱响民族团结同心曲",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721505.shtml",
-        "publishedAt": "2026-10-27T12:57:27.000+08:00"
+        "title": "广东激活富硒资源 走出乡村振兴新路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721571.shtml",
+        "publishedAt": "2026-10-27T13:47:48.000+08:00"
       },
       {
-        "title": "云岭动态第二十七期",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721480.shtml",
-        "publishedAt": "2026-10-27T12:54:13.000+08:00"
+        "title": "零碳新能源产业链供应链融通发展交流会在河北沧州举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721568.shtml",
+        "publishedAt": "2026-10-27T13:47:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T13:40:03.791+08:00",
+    "fetchedAt": "2026-10-27T13:50:04.155+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T13:40:07.745+08:00",
+      "fetchedAt": "2026-10-27T13:50:08.176+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T13:40:08.230+08:00",
+      "fetchedAt": "2026-10-27T13:50:08.475+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T13:40:08.240+08:00",
+      "fetchedAt": "2026-10-27T13:50:08.484+08:00",
       "error": null
     }
   }
