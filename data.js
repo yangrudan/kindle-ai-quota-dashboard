@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T21:20:08.646+08:00",
+  "updatedAt": "2026-10-27T21:30:09.153+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16,
-    "feelsLikeC": 14.5,
-    "humidity": 68,
-    "windKph": 10.1,
+    "tempC": 15.6,
+    "feelsLikeC": 14.2,
+    "humidity": 70,
+    "windKph": 9.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T21:20:08.646+08:00",
+    "observedAt": "2026-10-27T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T21:30:09.153+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "10月27日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-27/10721889.shtml",
-        "publishedAt": "2026-10-27T21:15:18.000+08:00"
+        "title": "智能建造产业链先进成果在湖北集中展示",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721890.shtml",
+        "publishedAt": "2026-10-27T21:22:57.000+08:00"
       },
       {
-        "title": "蛋黄真的会升高血脂吗？吃多少才合适？",
-        "url": "https://www.chinanews.com.cn/life/2026/10-27/10721888.shtml",
-        "publishedAt": "2026-10-27T21:14:22.000+08:00"
+        "title": "海外华文媒体走进上合示范区 解码文旅科创融合发展路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721892.shtml",
+        "publishedAt": "2026-10-27T21:21:11.000+08:00"
       },
       {
-        "title": "委内瑞拉推进司法改革 最高法院改组工作取得进展",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721868.shtml",
-        "publishedAt": "2026-10-27T21:12:30.000+08:00"
+        "title": "四川金堂：一池秋蟹鲜 乡村产业兴",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721883.shtml",
+        "publishedAt": "2026-10-27T21:20:37.000+08:00"
       },
       {
-        "title": "宁夏实现公募REITs“零的突破”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721877.shtml",
-        "publishedAt": "2026-10-27T21:10:54.000+08:00"
+        "title": "场上拼搏场下相拥 云南各族健儿携手共赴民族大联欢",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721891.shtml",
+        "publishedAt": "2026-10-27T21:19:45.000+08:00"
       },
       {
-        "title": "远离传销守护幸福 2026长三角禁传宣传季在沪启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721875.shtml",
-        "publishedAt": "2026-10-27T21:10:52.000+08:00"
+        "title": "从智能监测到天然甜苷 欧洲华媒代表长沙观察湘企“控糖”实践",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721887.shtml",
+        "publishedAt": "2026-10-27T21:18:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T21:20:03.871+08:00",
+    "fetchedAt": "2026-10-27T21:30:04.307+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T21:20:07.458+08:00",
+      "fetchedAt": "2026-10-27T21:30:07.980+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T21:20:07.851+08:00",
+      "fetchedAt": "2026-10-27T21:30:08.305+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T21:20:07.858+08:00",
+      "fetchedAt": "2026-10-27T21:30:08.314+08:00",
       "error": null
     }
   }
