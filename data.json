@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T20:30:39.185+08:00",
+  "updatedAt": "2026-10-27T20:40:09.136+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-27T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T20:30:39.185+08:00",
+    "fetchedAt": "2026-10-27T20:40:09.136+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "甘肃省博物馆扩容亮相吐谷浑珍贵文物：展唐代丝路文明交融之美",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721837.shtml",
+        "publishedAt": "2026-10-27T20:30:58.000+08:00"
+      },
+      {
+        "title": "河北邯郸：谷物文创赋能乡村 校地协作助农增收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721809.shtml",
+        "publishedAt": "2026-10-27T20:26:10.000+08:00"
+      },
+      {
+        "title": "校企携手共育数智企业法务人才",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-27/10721854.shtml",
+        "publishedAt": "2026-10-27T20:26:02.000+08:00"
+      },
       {
         "title": "广西桂北“粮仓”丰收在即",
         "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721804.shtml",
@@ -28,24 +43,9 @@
         "title": "山西太原：晋祠难老泉水位创复流以来新高",
         "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721803.shtml",
         "publishedAt": "2026-10-27T20:20:56.000+08:00"
-      },
-      {
-        "title": "有形有感聚同心 云南以民族体育文化专题展绘团结图景",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721838.shtml",
-        "publishedAt": "2026-10-27T20:15:43.000+08:00"
-      },
-      {
-        "title": "9月中国发行新增地方政府债券7335亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721842.shtml",
-        "publishedAt": "2026-10-27T20:15:35.000+08:00"
-      },
-      {
-        "title": "汇丰控股2026年第三季度税前利润约96亿美元 同比增32%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721846.shtml",
-        "publishedAt": "2026-10-27T20:10:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T20:30:03.727+08:00",
+    "fetchedAt": "2026-10-27T20:40:03.787+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T20:30:37.996+08:00",
+      "fetchedAt": "2026-10-27T20:40:07.633+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T20:30:38.308+08:00",
+      "fetchedAt": "2026-10-27T20:40:07.929+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T20:30:38.315+08:00",
+      "fetchedAt": "2026-10-27T20:40:07.936+08:00",
       "error": null
     }
   }
