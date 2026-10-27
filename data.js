@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T23:50:09.233+08:00",
+  "updatedAt": "2026-10-28T00:00:12.745+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.1,
-    "feelsLikeC": 12.9,
+    "tempC": 14,
+    "feelsLikeC": 12.8,
     "humidity": 77,
-    "windKph": 8.4,
+    "windKph": 8.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T23:50:09.234+08:00",
+    "observedAt": "2026-10-28T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T00:00:12.745+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国短池游泳锦标赛：张雨霏、张展硕创新纪录 徐嘉余率队破纪录",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721959.shtml",
+        "publishedAt": "2026-10-27T23:53:13.000+08:00"
+      },
+      {
+        "title": "韩国前总统尹锡悦妻子金建希将被羁押至年底",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721958.shtml",
+        "publishedAt": "2026-10-27T23:48:23.000+08:00"
+      },
       {
         "title": "【长征胜利90周年】重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
         "url": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/10-27/news1073132.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "全球和合文化实践案例发布 “和合之花”跨越山海次第开",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721954.shtml",
         "publishedAt": "2026-10-27T22:49:04.000+08:00"
-      },
-      {
-        "title": "从佛塔到酒香：泰国东北部传统文化焕发新活力",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721953.shtml",
-        "publishedAt": "2026-10-27T22:37:47.000+08:00"
-      },
-      {
-        "title": "2026中欧企业家青岛论坛在青岛西海岸新区举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721952.shtml",
-        "publishedAt": "2026-10-27T22:36:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T23:50:03.713+08:00",
+    "fetchedAt": "2026-10-28T00:00:03.280+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T23:50:07.771+08:00",
+      "fetchedAt": "2026-10-28T00:00:11.040+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T23:50:08.128+08:00",
+      "fetchedAt": "2026-10-28T00:00:11.697+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T23:50:08.132+08:00",
+      "fetchedAt": "2026-10-28T00:00:11.706+08:00",
       "error": null
     }
   }
