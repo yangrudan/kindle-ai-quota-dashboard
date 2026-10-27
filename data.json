@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T19:30:44.229+08:00",
+  "updatedAt": "2026-10-27T19:40:14.635+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-27T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T19:30:44.230+08:00",
+    "fetchedAt": "2026-10-27T19:40:14.635+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "央行推出稳债市新工具 如何使用？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721805.shtml",
-        "publishedAt": "2026-10-27T19:14:28.000+08:00"
+        "title": "广西构建多层次“保障+市场”住房供应体系助新市民安家",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721797.shtml",
+        "publishedAt": "2026-10-27T19:31:25.000+08:00"
       },
       {
-        "title": "习近平向日本前首相福田康夫遗属致唁电",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721788.shtml",
-        "publishedAt": "2026-10-27T19:03:53.000+08:00"
+        "title": "爱康启用AI移动磁共振体检车，助力职场健康“零距离”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721796.shtml",
+        "publishedAt": "2026-10-27T19:30:39.000+08:00"
       },
       {
-        "title": "金建希羁押期被延长两个月 韩国最高法签追加逮捕令",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721800.shtml",
-        "publishedAt": "2026-10-27T19:03:17.000+08:00"
+        "title": "华晨宇谈新歌《不奉陪》：又进入了一种“叛逆”状态",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721815.shtml",
+        "publishedAt": "2026-10-27T19:29:21.000+08:00"
       },
       {
-        "title": "习近平致电祝贺卢拉当选连任巴西总统",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721787.shtml",
-        "publishedAt": "2026-10-27T19:02:07.000+08:00"
+        "title": "以球为桥 中外选手长春角逐和球赛事",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721816.shtml",
+        "publishedAt": "2026-10-27T19:28:13.000+08:00"
       },
       {
-        "title": "汇聚全球领军企业 2026世界智能制造大会开幕在即",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721790.shtml",
-        "publishedAt": "2026-10-27T18:50:11.000+08:00"
+        "title": "广东启动第四轮冬春水塘河道清淤",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721813.shtml",
+        "publishedAt": "2026-10-27T19:27:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T19:30:04.917+08:00",
+    "fetchedAt": "2026-10-27T19:40:04.330+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T19:30:43.166+08:00",
+      "fetchedAt": "2026-10-27T19:40:12.896+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 7,
           "resetAt": "2026-10-28T00:25:30.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 26,
+          "usedPct": 27,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T19:30:43.402+08:00",
+      "fetchedAt": "2026-10-27T19:40:13.162+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T19:30:43.413+08:00",
+      "fetchedAt": "2026-10-27T19:40:13.180+08:00",
       "error": null
     }
   }
