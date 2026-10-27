@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T23:00:10.955+08:00",
+  "updatedAt": "2026-10-27T23:10:10.251+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-27T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T23:00:10.955+08:00",
+    "fetchedAt": "2026-10-27T23:10:10.251+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "【长征胜利90周年】重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
+        "url": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/10-27/news1073132.shtml",
+        "publishedAt": "2026-10-27T22:57:54.000+08:00"
+      },
       {
         "title": "首届“飞阅中国”低空经济应用场景大赛决赛在重庆梁平举行",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721955.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026中欧企业家青岛论坛在青岛西海岸新区举办",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721952.shtml",
         "publishedAt": "2026-10-27T22:36:33.000+08:00"
-      },
-      {
-        "title": "贵州：“爱心厨房”暖了医院门口 百余份午餐免费送病患",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721950.shtml",
-        "publishedAt": "2026-10-27T22:24:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T23:00:04.804+08:00",
+    "fetchedAt": "2026-10-27T23:10:05.083+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T23:00:08.562+08:00",
+      "fetchedAt": "2026-10-27T23:10:09.154+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T23:00:08.857+08:00",
+      "fetchedAt": "2026-10-27T23:10:09.372+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T23:00:08.860+08:00",
+      "fetchedAt": "2026-10-27T23:10:09.383+08:00",
       "error": null
     }
   }
