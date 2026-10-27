@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T09:40:08.471+08:00",
+  "updatedAt": "2026-10-27T09:50:08.776+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.7,
-    "feelsLikeC": 19.3,
-    "humidity": 69,
-    "windKph": 10.8,
+    "tempC": 20.1,
+    "feelsLikeC": 19.7,
+    "humidity": 68,
+    "windKph": 11,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T09:40:08.471+08:00",
+    "observedAt": "2026-10-27T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T09:50:08.776+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721476.shtml",
+        "publishedAt": "2026-10-27T09:39:47.000+08:00"
+      },
+      {
+        "title": "“修补牙洞、抗幽门螺杆菌”宣传别轻信！买牙膏认准这8类",
+        "url": "https://www.chinanews.com.cn/life/2026/10-27/10721472.shtml",
+        "publishedAt": "2026-10-27T09:31:58.000+08:00"
+      },
       {
         "title": "机构：运营力正成为衡量住房租赁资产长期价值新尺度",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721454.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "前三季度广州地区生产总值同比增长5.7% 增速创五年来同期新高",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721466.shtml",
         "publishedAt": "2026-10-27T09:28:32.000+08:00"
-      },
-      {
-        "title": "安徽法援“老黄牛”9年帮困难民众挽回损失10.32亿元",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721465.shtml",
-        "publishedAt": "2026-10-27T09:27:50.000+08:00"
-      },
-      {
-        "title": "2027年AI值得关注的五大趋势",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721464.shtml",
-        "publishedAt": "2026-10-27T09:12:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T09:40:03.397+08:00",
+    "fetchedAt": "2026-10-27T09:50:03.371+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T09:40:07.211+08:00",
+      "fetchedAt": "2026-10-27T09:50:07.584+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T09:40:07.546+08:00",
+      "fetchedAt": "2026-10-27T09:50:07.888+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T09:40:07.557+08:00",
+      "fetchedAt": "2026-10-27T09:50:07.899+08:00",
       "error": null
     }
   }
