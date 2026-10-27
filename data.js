@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T20:10:08.283+08:00",
+  "updatedAt": "2026-10-27T20:20:08.273+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 16.8,
-    "feelsLikeC": 15.6,
-    "humidity": 68,
-    "windKph": 10.3,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 17,
+    "feelsLikeC": 15.8,
+    "humidity": 70,
+    "windKph": 10.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T20:10:08.283+08:00",
+    "observedAt": "2026-10-27T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T20:20:08.273+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "汇丰控股2026年第三季度税前利润约96亿美元 同比增32%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721846.shtml",
+        "publishedAt": "2026-10-27T20:10:19.000+08:00"
+      },
+      {
+        "title": "汪顺、叶诗文走进北工大 讲述“泳”者成长路",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721845.shtml",
+        "publishedAt": "2026-10-27T20:10:17.000+08:00"
+      },
       {
         "title": "从单一买卖到多元体验 AI赋能浙江绍兴千亿级专业市场",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721841.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "智能驾驶发生交通事故谁来赔？法官模拟场景解读责任划分",
         "url": "https://www.chinanews.com.cn/fz/2026/10-27/10721844.shtml",
         "publishedAt": "2026-10-27T20:02:25.000+08:00"
-      },
-      {
-        "title": "广东积极打造“粤港澳协同创新2.0版”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721834.shtml",
-        "publishedAt": "2026-10-27T20:00:41.000+08:00"
-      },
-      {
-        "title": "数字赋能高原产业 青海布局 “十五五” 信息通信业",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721827.shtml",
-        "publishedAt": "2026-10-27T19:53:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T20:10:03.211+08:00",
+    "fetchedAt": "2026-10-27T20:20:03.734+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T20:10:07.149+08:00",
+      "fetchedAt": "2026-10-27T20:20:07.132+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 26,
           "resetAt": "2026-10-28T00:25:30.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 29,
+          "usedPct": 30,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T20:10:07.424+08:00",
+      "fetchedAt": "2026-10-27T20:20:07.398+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T20:10:07.434+08:00",
+      "fetchedAt": "2026-10-27T20:20:07.407+08:00",
       "error": null
     }
   }
