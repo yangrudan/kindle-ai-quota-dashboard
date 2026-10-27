@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T22:20:08.754+08:00",
+  "updatedAt": "2026-10-27T22:30:38.718+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.8,
-    "feelsLikeC": 13.5,
+    "tempC": 14.7,
+    "feelsLikeC": 13.4,
     "humidity": 74,
-    "windKph": 9.2,
+    "windKph": 9.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T22:20:08.754+08:00",
+    "observedAt": "2026-10-27T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T22:30:38.718+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西崇左携农文旅资源亮相广州 达成产销合作意向金额1160万元",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721936.shtml",
-        "publishedAt": "2026-10-27T22:07:09.000+08:00"
+        "title": "贵州：“爱心厨房”暖了医院门口 百余份午餐免费送病患",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721950.shtml",
+        "publishedAt": "2026-10-27T22:24:54.000+08:00"
       },
       {
-        "title": "云南新修订安全生产条例11月起施行 重特大事故责任追究加码",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721937.shtml",
-        "publishedAt": "2026-10-27T22:07:05.000+08:00"
+        "title": "九旬老兵大别山守墓58年：“他们没有亲人，我就做他们的亲人”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721947.shtml",
+        "publishedAt": "2026-10-27T22:22:52.000+08:00"
       },
       {
-        "title": "浙江杭州：“都市粮仓”丰收在望",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721923.shtml",
-        "publishedAt": "2026-10-27T22:06:37.000+08:00"
+        "title": "以质量强链赋能产业升级 多省区齐聚宁夏共探煤化工绿色转型之路",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721946.shtml",
+        "publishedAt": "2026-10-27T22:22:42.000+08:00"
       },
       {
-        "title": "香港西部水域物理模型建成启用",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721935.shtml",
-        "publishedAt": "2026-10-27T22:05:55.000+08:00"
+        "title": "女子网坛传奇选手大威廉姆斯征战广网女单正赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721876.shtml",
+        "publishedAt": "2026-10-27T22:22:40.000+08:00"
       },
       {
-        "title": "近20名留学生在重庆了解城市文脉、感受传统文化",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721919.shtml",
-        "publishedAt": "2026-10-27T22:05:03.000+08:00"
+        "title": "山东企业谋“抱团出海”新路径 中亚绿色经济赛道受关注",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721945.shtml",
+        "publishedAt": "2026-10-27T22:22:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T22:20:02.484+08:00",
+    "fetchedAt": "2026-10-27T22:30:03.741+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T22:20:06.697+08:00",
+      "fetchedAt": "2026-10-27T22:30:37.271+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T22:20:06.974+08:00",
+      "fetchedAt": "2026-10-27T22:30:37.488+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T22:20:06.983+08:00",
+      "fetchedAt": "2026-10-27T22:30:37.499+08:00",
       "error": null
     }
   }
