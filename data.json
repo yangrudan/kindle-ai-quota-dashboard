@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T07:20:19.767+08:00",
+  "updatedAt": "2026-10-28T07:30:09.418+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.6,
-    "feelsLikeC": 11.9,
-    "humidity": 83,
-    "windKph": 3.6,
+    "tempC": 13.5,
+    "feelsLikeC": 12.9,
+    "humidity": 78,
+    "windKph": 3.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-28T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T07:20:19.767+08:00",
+    "observedAt": "2026-10-28T07:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T07:30:09.419+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全球AI投资持续升温，增长与风险如何平衡",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721972.shtml",
+        "publishedAt": "2026-10-28T07:22:34.000+08:00"
+      },
+      {
+        "title": "美军在东太平洋对一艘“贩毒船”实施打击 已致5人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721971.shtml",
+        "publishedAt": "2026-10-28T07:21:40.000+08:00"
+      },
+      {
+        "title": "孟湾气旋真能“撞击”喜马拉雅山脉吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721970.shtml",
+        "publishedAt": "2026-10-28T07:19:46.000+08:00"
+      },
       {
         "title": "我的消费交给陌生人“审批”？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721969.shtml",
@@ -28,24 +43,9 @@
         "title": "以色列大选出口民调出炉！两大阵营均未过半，谁能组阁成悬念",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721968.shtml",
         "publishedAt": "2026-10-28T07:05:15.000+08:00"
-      },
-      {
-        "title": "10月28日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-28/10721967.shtml",
-        "publishedAt": "2026-10-28T07:00:07.000+08:00"
-      },
-      {
-        "title": "中方呼吁各方推进美伊止战促谈",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721966.shtml",
-        "publishedAt": "2026-10-28T06:49:28.000+08:00"
-      },
-      {
-        "title": "梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721965.shtml",
-        "publishedAt": "2026-10-28T06:46:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T07:20:12.350+08:00",
+    "fetchedAt": "2026-10-28T07:30:03.821+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T07:20:18.508+08:00",
+      "fetchedAt": "2026-10-28T07:30:07.890+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T12:20:19.000+08:00"
+          "resetAt": "2026-10-28T12:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T07:20:18.851+08:00",
+      "fetchedAt": "2026-10-28T07:30:08.471+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T07:20:18.861+08:00",
+      "fetchedAt": "2026-10-28T07:30:08.474+08:00",
       "error": null
     }
   }
