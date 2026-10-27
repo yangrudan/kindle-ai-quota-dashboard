@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T15:20:39.378+08:00",
+  "updatedAt": "2026-10-27T15:30:38.633+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20,
-    "feelsLikeC": 18.5,
-    "humidity": 59,
-    "windKph": 13.9,
+    "tempC": 19.9,
+    "feelsLikeC": 18.4,
+    "humidity": 60,
+    "windKph": 13.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T15:20:39.378+08:00",
+    "observedAt": "2026-10-27T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T15:30:38.633+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "A股收评：超4900只个股飘绿，三大指数收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721651.shtml",
-        "publishedAt": "2026-10-27T15:11:03.000+08:00"
+        "title": "不惧未知，不言放弃——香港女赛车手杨嘉怡的“飞驰人生”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721654.shtml",
+        "publishedAt": "2026-10-27T15:20:37.000+08:00"
       },
       {
-        "title": "北京市政协委员建言共创乡村新风貌",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721623.shtml",
-        "publishedAt": "2026-10-27T15:10:59.000+08:00"
+        "title": "企步新长征·情暖奋斗路 寄语新征程",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721656.shtml",
+        "publishedAt": "2026-10-27T15:17:43.000+08:00"
       },
       {
-        "title": "企步新长征·向着富强再出发",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721650.shtml",
-        "publishedAt": "2026-10-27T15:10:55.000+08:00"
+        "title": "上海首条直飞阿尔及利亚首都航线今日开通",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721655.shtml",
+        "publishedAt": "2026-10-27T15:17:01.000+08:00"
       },
       {
-        "title": "中国作为首批签约国签署《联合国可转让货物单证公约》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721649.shtml",
-        "publishedAt": "2026-10-27T15:09:25.000+08:00"
+        "title": "报告：中国家庭养老正从“财富积累”进入“养老韧性”的新阶段",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721633.shtml",
+        "publishedAt": "2026-10-27T15:14:41.000+08:00"
       },
       {
-        "title": "企步新长征·使命必达强产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721646.shtml",
-        "publishedAt": "2026-10-27T15:06:51.000+08:00"
+        "title": "企步新长征·兴业实干谱新篇",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721652.shtml",
+        "publishedAt": "2026-10-27T15:12:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T15:20:04.169+08:00",
+    "fetchedAt": "2026-10-27T15:30:03.260+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T15:20:37.863+08:00",
+      "fetchedAt": "2026-10-27T15:30:37.595+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 25,
+          "usedPct": 26,
           "resetAt": "2026-10-27T19:14:06.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T15:20:38.180+08:00",
+      "fetchedAt": "2026-10-27T15:30:37.808+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T15:20:38.188+08:00",
+      "fetchedAt": "2026-10-27T15:30:37.815+08:00",
       "error": null
     }
   }
