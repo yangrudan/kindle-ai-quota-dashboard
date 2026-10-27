@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T18:50:08.899+08:00",
+  "updatedAt": "2026-10-27T19:00:08.320+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.5,
-    "feelsLikeC": 17,
+    "tempC": 17.4,
+    "feelsLikeC": 16.8,
     "humidity": 73,
-    "windKph": 8.3,
+    "windKph": 8.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T18:50:08.900+08:00",
+    "observedAt": "2026-10-27T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T19:00:08.321+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从试管到田垄：一位农科博士的“三笔账”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721785.shtml",
-        "publishedAt": "2026-10-27T18:41:10.000+08:00"
+        "title": "汇聚全球领军企业 2026世界智能制造大会开幕在即",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721790.shtml",
+        "publishedAt": "2026-10-27T18:50:11.000+08:00"
       },
       {
-        "title": "业界精英探讨人工智能赋能：技术应用应坚守诚信与安全底线",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721782.shtml",
-        "publishedAt": "2026-10-27T18:41:06.000+08:00"
+        "title": "大风蓝色预警：甘肃宁夏等8省区部分地区阵风可达8至9级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721795.shtml",
+        "publishedAt": "2026-10-27T18:48:51.000+08:00"
       },
       {
-        "title": "首届上海数字广告大赛总决赛举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721779.shtml",
-        "publishedAt": "2026-10-27T18:21:59.000+08:00"
+        "title": "第四批全国商业秘密保护创新试点地区名单公布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721792.shtml",
+        "publishedAt": "2026-10-27T18:47:27.000+08:00"
       },
       {
-        "title": "“世界青年创业论坛2026”在港举行 共探大湾区发展机遇",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721776.shtml",
-        "publishedAt": "2026-10-27T18:16:59.000+08:00"
+        "title": "沪高校本科生团队攻关钠离子电池材料 相关研究推进至中试阶段",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721789.shtml",
+        "publishedAt": "2026-10-27T18:46:28.000+08:00"
       },
       {
-        "title": "全球大学校长及领袖高峰会2026在港开幕",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721774.shtml",
-        "publishedAt": "2026-10-27T18:16:15.000+08:00"
+        "title": "前三季度吉林外贸规模创历史同期新高 民企成最大外贸主体",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721786.shtml",
+        "publishedAt": "2026-10-27T18:44:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T18:50:03.413+08:00",
+    "fetchedAt": "2026-10-27T19:00:03.268+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T18:50:07.713+08:00",
+      "fetchedAt": "2026-10-27T19:00:07.242+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T18:50:08.053+08:00",
+      "fetchedAt": "2026-10-27T19:00:07.435+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T18:50:08.057+08:00",
+      "fetchedAt": "2026-10-27T19:00:07.445+08:00",
       "error": null
     }
   }
