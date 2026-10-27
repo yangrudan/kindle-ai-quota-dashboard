@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T14:00:15.850+08:00",
+  "updatedAt": "2026-10-27T14:10:09.132+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T14:00:15.850+08:00",
+    "fetchedAt": "2026-10-27T14:10:09.133+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "APEC采购商广交会“淘金” 中国智能家居热销亚太",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721566.shtml",
+        "publishedAt": "2026-10-27T13:59:15.000+08:00"
+      },
+      {
+        "title": "2026青科会AI时代青年科学家创业创新生态论坛举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721584.shtml",
+        "publishedAt": "2026-10-27T13:58:23.000+08:00"
+      },
+      {
+        "title": "“十五五”期间四川从四方面拓宽农民工就业增收渠道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721582.shtml",
+        "publishedAt": "2026-10-27T13:55:07.000+08:00"
+      },
+      {
+        "title": "解读《重庆市城市规划管理规定》：让山城“显山露水”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721581.shtml",
+        "publishedAt": "2026-10-27T13:54:37.000+08:00"
+      },
+      {
         "title": "“十五五”期间四川将加快推进农业农村现代化",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721580.shtml",
         "publishedAt": "2026-10-27T13:53:03.000+08:00"
-      },
-      {
-        "title": "长征路上学党史丨红旗漫卷六盘山：长征精神在宁夏的传承与新生",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721583.shtml",
-        "publishedAt": "2026-10-27T13:51:38.000+08:00"
-      },
-      {
-        "title": "国内首座内河无人值守智慧锚地通过竣工验收",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721578.shtml",
-        "publishedAt": "2026-10-27T13:51:34.000+08:00"
-      },
-      {
-        "title": "从空中植保到地面耕作：90后“女飞手”秋收记",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721576.shtml",
-        "publishedAt": "2026-10-27T13:49:56.000+08:00"
-      },
-      {
-        "title": "哈尔滨市中央大街49号一栋市级历史建筑启动解危修缮",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721575.shtml",
-        "publishedAt": "2026-10-27T13:49:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T14:00:05.516+08:00",
+    "fetchedAt": "2026-10-27T14:10:04.030+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T14:00:13.654+08:00",
+      "fetchedAt": "2026-10-27T14:10:07.936+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
+          "usedPct": 23,
           "resetAt": "2026-10-27T14:13:53.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 9,
+          "usedPct": 10,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T14:00:13.939+08:00",
+      "fetchedAt": "2026-10-27T14:10:08.219+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T14:00:13.957+08:00",
+      "fetchedAt": "2026-10-27T14:10:08.229+08:00",
       "error": null
     }
   }
