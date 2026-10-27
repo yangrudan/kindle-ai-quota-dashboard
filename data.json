@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T21:00:11.255+08:00",
+  "updatedAt": "2026-10-27T21:10:08.774+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-27T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T21:00:11.256+08:00",
+    "fetchedAt": "2026-10-27T21:10:08.774+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从“看见商品”到“做成生意” 进博会延展开放红利",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721860.shtml",
+        "publishedAt": "2026-10-27T20:56:01.000+08:00"
+      },
       {
         "title": "普京与芬兰、挪威领导人通话讨论乌克兰危机",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721847.shtml",
@@ -38,14 +43,9 @@
         "title": "3.43万亿元！今年前三季度中部地区外贸进出口值创新高 “亮点”涌现",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721858.shtml",
         "publishedAt": "2026-10-27T20:49:27.000+08:00"
-      },
-      {
-        "title": "从29.1%的增速，感受智能制造的澎湃动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721857.shtml",
-        "publishedAt": "2026-10-27T20:47:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T21:00:05.492+08:00",
+    "fetchedAt": "2026-10-27T21:10:03.686+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T21:00:09.856+08:00",
+      "fetchedAt": "2026-10-27T21:10:07.556+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T21:00:10.186+08:00",
+      "fetchedAt": "2026-10-27T21:10:07.890+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T21:00:10.195+08:00",
+      "fetchedAt": "2026-10-27T21:10:07.899+08:00",
       "error": null
     }
   }
