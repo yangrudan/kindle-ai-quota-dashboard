@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T10:20:08.782+08:00",
+  "updatedAt": "2026-10-27T10:30:08.463+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.7,
+    "tempC": 20.9,
     "feelsLikeC": 20.3,
-    "humidity": 65,
-    "windKph": 12.3,
+    "humidity": 64,
+    "windKph": 13.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T10:20:08.782+08:00",
+    "observedAt": "2026-10-27T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T10:30:08.463+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "财经聚焦｜从前三季度用电量看经济发展新动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721511.shtml",
+        "publishedAt": "2026-10-27T10:21:55.000+08:00"
+      },
+      {
+        "title": "推行现房销售定金制 成都出台楼市新政",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721507.shtml",
+        "publishedAt": "2026-10-27T10:21:27.000+08:00"
+      },
+      {
+        "title": "国家统计局：前九月规模以上工业企业利润较快增长 新动能引领作用明显",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721502.shtml",
+        "publishedAt": "2026-10-27T10:21:05.000+08:00"
+      },
+      {
+        "title": "坚持党的全面领导，不断提高党的长期执政能力——习近平党建思想引领新时代全面从严治党系列述评之一",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721473.shtml",
+        "publishedAt": "2026-10-27T10:19:53.000+08:00"
+      },
+      {
         "title": "六大议题、多元活动、重磅发布 2026进博会上海会议活动边会日程出炉",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721504.shtml",
         "publishedAt": "2026-10-27T10:12:43.000+08:00"
-      },
-      {
-        "title": "全国儿童主任种子讲师培训班在辽宁举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721497.shtml",
-        "publishedAt": "2026-10-27T10:12:39.000+08:00"
-      },
-      {
-        "title": "广西明确五项核心整治任务 严打农药兽药违法乱象",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721489.shtml",
-        "publishedAt": "2026-10-27T10:12:15.000+08:00"
-      },
-      {
-        "title": "脑机接口加速产业化，仍有难题待解！",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721503.shtml",
-        "publishedAt": "2026-10-27T10:10:54.000+08:00"
-      },
-      {
-        "title": "采购商的行李箱装满中国好物（探馆广交会）",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721500.shtml",
-        "publishedAt": "2026-10-27T10:09:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T10:20:03.594+08:00",
+    "fetchedAt": "2026-10-27T10:30:03.295+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T10:20:07.677+08:00",
+      "fetchedAt": "2026-10-27T10:30:07.347+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T10:20:07.911+08:00",
+      "fetchedAt": "2026-10-27T10:30:07.564+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T10:20:07.918+08:00",
+      "fetchedAt": "2026-10-27T10:30:07.568+08:00",
       "error": null
     }
   }
