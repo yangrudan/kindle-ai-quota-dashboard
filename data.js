@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T10:10:10.868+08:00",
+  "updatedAt": "2026-10-27T10:20:08.782+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.4,
-    "feelsLikeC": 20.1,
-    "humidity": 66,
-    "windKph": 11.4,
+    "tempC": 20.7,
+    "feelsLikeC": 20.3,
+    "humidity": 65,
+    "windKph": 12.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T10:10:10.868+08:00",
+    "observedAt": "2026-10-27T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T10:20:08.782+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "吃着吃着就炸了 小心这个常见的 “网红餐具”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721496.shtml",
-        "publishedAt": "2026-10-27T10:06:36.000+08:00"
+        "title": "六大议题、多元活动、重磅发布 2026进博会上海会议活动边会日程出炉",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721504.shtml",
+        "publishedAt": "2026-10-27T10:12:43.000+08:00"
       },
       {
-        "title": "第三届湾区博创赛达成首批意向合作签约金额近13亿元",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721469.shtml",
-        "publishedAt": "2026-10-27T10:04:06.000+08:00"
+        "title": "全国儿童主任种子讲师培训班在辽宁举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721497.shtml",
+        "publishedAt": "2026-10-27T10:12:39.000+08:00"
       },
       {
-        "title": "摘下滤镜，才能读懂中国",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721494.shtml",
-        "publishedAt": "2026-10-27T10:03:34.000+08:00"
+        "title": "广西明确五项核心整治任务 严打农药兽药违法乱象",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721489.shtml",
+        "publishedAt": "2026-10-27T10:12:15.000+08:00"
       },
       {
-        "title": "辽宁省朝阳市侨联开展“侨胞侨眷看家乡”主题活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721462.shtml",
-        "publishedAt": "2026-10-27T10:02:30.000+08:00"
+        "title": "脑机接口加速产业化，仍有难题待解！",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721503.shtml",
+        "publishedAt": "2026-10-27T10:10:54.000+08:00"
       },
       {
-        "title": "中国官方：今年前9个月立案省部级及以上干部73人",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721481.shtml",
-        "publishedAt": "2026-10-27T10:02:24.000+08:00"
+        "title": "采购商的行李箱装满中国好物（探馆广交会）",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721500.shtml",
+        "publishedAt": "2026-10-27T10:09:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T10:10:04.033+08:00",
+    "fetchedAt": "2026-10-27T10:20:03.594+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T10:10:09.763+08:00",
+      "fetchedAt": "2026-10-27T10:20:07.677+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T10:10:10.005+08:00",
+      "fetchedAt": "2026-10-27T10:20:07.911+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T10:10:10.012+08:00",
+      "fetchedAt": "2026-10-27T10:20:07.918+08:00",
       "error": null
     }
   }
