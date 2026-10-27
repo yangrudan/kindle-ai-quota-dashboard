@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T11:20:13.575+08:00",
+  "updatedAt": "2026-10-27T11:30:10.730+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.2,
-    "feelsLikeC": 20,
+    "tempC": 21.1,
+    "feelsLikeC": 19.8,
     "humidity": 63,
-    "windKph": 16.2,
+    "windKph": 16.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T11:20:13.575+08:00",
+    "observedAt": "2026-10-27T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T11:30:10.731+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "让陪诊服务有保障不越界 国家标准将于11月1日实施",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721545.shtml",
+        "publishedAt": "2026-10-27T11:23:24.000+08:00"
+      },
+      {
+        "title": "高钾、低钠、抗氧化！这种水果界的“人参”现在吃正合适",
+        "url": "https://www.chinanews.com.cn/life/2026/10-27/10721542.shtml",
+        "publishedAt": "2026-10-27T11:20:14.000+08:00"
+      },
+      {
+        "title": "特朗普称巴西选举“像被操纵” 巴西副总统驳斥：说法毫无根据",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721543.shtml",
+        "publishedAt": "2026-10-27T11:20:04.000+08:00"
+      },
+      {
+        "title": "国家能源局：1—9月全国电力市场交易电量同比增长18.9%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721536.shtml",
+        "publishedAt": "2026-10-27T11:16:52.000+08:00"
+      },
+      {
         "title": "揭秘儿童电话手表的“生意经”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721535.shtml",
         "publishedAt": "2026-10-27T11:06:03.000+08:00"
-      },
-      {
-        "title": "香港15名公务员合买彩票中奖约3312万港元，兑奖人企图独吞被捕，14名同事将其告上法庭，案件详情曝光",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-27/10721534.shtml",
-        "publishedAt": "2026-10-27T11:05:35.000+08:00"
-      },
-      {
-        "title": "第三十三届中国杨凌农高会“四新”成果集中发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721527.shtml",
-        "publishedAt": "2026-10-27T11:00:37.000+08:00"
-      },
-      {
-        "title": "四卷本《近代海河流域航运历史档案选编》面世",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721525.shtml",
-        "publishedAt": "2026-10-27T10:58:25.000+08:00"
-      },
-      {
-        "title": "广东举办智能制造系统运维员职业技能竞赛",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721523.shtml",
-        "publishedAt": "2026-10-27T10:57:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T11:20:04.498+08:00",
+    "fetchedAt": "2026-10-27T11:30:03.519+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T11:20:11.657+08:00",
+      "fetchedAt": "2026-10-27T11:30:09.432+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-10-27T14:13:53.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T11:20:11.907+08:00",
+      "fetchedAt": "2026-10-27T11:30:09.692+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T11:20:11.922+08:00",
+      "fetchedAt": "2026-10-27T11:30:09.699+08:00",
       "error": null
     }
   }
