@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T07:40:08.926+08:00",
+  "updatedAt": "2026-10-28T07:50:08.313+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.5,
-    "feelsLikeC": 12.9,
-    "humidity": 78,
-    "windKph": 3.2,
+    "tempC": 14,
+    "feelsLikeC": 13.5,
+    "humidity": 76,
+    "windKph": 3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-28T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T07:40:08.926+08:00",
+    "observedAt": "2026-10-28T07:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T07:50:08.313+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721974.shtml",
+        "publishedAt": "2026-10-28T07:43:55.000+08:00"
+      },
       {
         "title": "微短剧出海：融入当地语境，才能走得更远",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721973.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "孟湾气旋真能“撞击”喜马拉雅山脉吗？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721970.shtml",
         "publishedAt": "2026-10-28T07:19:46.000+08:00"
-      },
-      {
-        "title": "我的消费交给陌生人“审批”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721969.shtml",
-        "publishedAt": "2026-10-28T07:10:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T07:40:03.727+08:00",
+    "fetchedAt": "2026-10-28T07:50:03.171+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T07:40:07.635+08:00",
+      "fetchedAt": "2026-10-28T07:50:06.577+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T12:40:08.000+08:00"
+          "resetAt": "2026-10-28T12:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T07:40:07.902+08:00",
+      "fetchedAt": "2026-10-28T07:50:06.855+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T07:40:07.911+08:00",
+      "fetchedAt": "2026-10-28T07:50:06.865+08:00",
       "error": null
     }
   }
