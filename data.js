@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T11:40:08.171+08:00",
+  "updatedAt": "2026-10-27T11:50:15.152+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 21.1,
     "feelsLikeC": 19.8,
     "humidity": 63,
-    "windKph": 16.8,
+    "windKph": 16.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T11:40:08.171+08:00",
+    "observedAt": "2026-10-27T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T11:50:15.152+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本福岛县近海发生4.6级地震 多地有震感",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721547.shtml",
+        "publishedAt": "2026-10-27T11:40:35.000+08:00"
+      },
+      {
+        "title": "俄罗斯新西伯利亚直飞成都首个航班飞抵",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721524.shtml",
+        "publishedAt": "2026-10-27T11:39:47.000+08:00"
+      },
+      {
+        "title": "不能忘，常思量！84岁宋楚瑜忆唱《台湾光复纪念歌》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721460.shtml",
+        "publishedAt": "2026-10-27T11:37:37.000+08:00"
+      },
       {
         "title": "星河湾：产业入村筑根基 教育扶智育未来",
         "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721544.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "“进博直通车”助展品从保税仓直达“四叶草”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721541.shtml",
         "publishedAt": "2026-10-27T11:32:23.000+08:00"
-      },
-      {
-        "title": "广西搭建北部湾海洋科创合作平台 拓宽面向东盟蓝色合作空间",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-27/10721540.shtml",
-        "publishedAt": "2026-10-27T11:31:35.000+08:00"
-      },
-      {
-        "title": "河北唐山秸秆“变身记”：田间“累赘”变增收“香饽饽”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721539.shtml",
-        "publishedAt": "2026-10-27T11:31:27.000+08:00"
-      },
-      {
-        "title": "泡沫轴也能滚断肋骨？康复医生：骨面不压、关节不滚",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721538.shtml",
-        "publishedAt": "2026-10-27T11:30:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T11:40:03.167+08:00",
+    "fetchedAt": "2026-10-27T11:50:04.113+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T11:40:06.887+08:00",
+      "fetchedAt": "2026-10-27T11:50:13.501+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
+          "usedPct": 14,
           "resetAt": "2026-10-27T14:13:53.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T11:40:07.165+08:00",
+      "fetchedAt": "2026-10-27T11:50:13.776+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T11:40:07.176+08:00",
+      "fetchedAt": "2026-10-27T11:50:13.791+08:00",
       "error": null
     }
   }
