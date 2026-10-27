@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T15:40:07.557+08:00",
+  "updatedAt": "2026-10-27T15:50:11.642+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.9,
+    "tempC": 19.8,
     "feelsLikeC": 18.4,
-    "humidity": 60,
-    "windKph": 13.6,
+    "humidity": 61,
+    "windKph": 13,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T15:40:07.557+08:00",
+    "observedAt": "2026-10-27T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T15:50:11.642+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "特朗普称巴西总统选举“遭到操纵” 中方：尊重巴西人民的自主选择",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721670.shtml",
-        "publishedAt": "2026-10-27T15:31:54.000+08:00"
+        "title": "前9月中国规上工业企业利润同比增长15.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721676.shtml",
+        "publishedAt": "2026-10-27T15:42:47.000+08:00"
       },
       {
-        "title": "2025年01月-2026年09月广西进出口商品总值表(人民币值)",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-27/10721668.shtml",
-        "publishedAt": "2026-10-27T15:31:12.000+08:00"
+        "title": "7人建群练“薄肌”，仅一天就有4个人受伤送医！普通人该如何锻炼？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721687.shtml",
+        "publishedAt": "2026-10-27T15:42:35.000+08:00"
       },
       {
-        "title": "中方：对英警方任意、过度执法行为强烈不满、严重关切",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721665.shtml",
-        "publishedAt": "2026-10-27T15:31:04.000+08:00"
+        "title": "成都ITF青网女单冠军孙心然亮相广网 期待主场出战",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721662.shtml",
+        "publishedAt": "2026-10-27T15:41:51.000+08:00"
       },
       {
-        "title": "中国作为首批签约国签署《联合国可转让货物单证公约》",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721660.shtml",
-        "publishedAt": "2026-10-27T15:30:52.000+08:00"
+        "title": "中国科研人员发现蜘蛛新物种“张氏雷文蛛”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721677.shtml",
+        "publishedAt": "2026-10-27T15:40:38.000+08:00"
       },
       {
-        "title": "中方将派驻菲武官出席第13届东盟防长扩大会",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721632.shtml",
-        "publishedAt": "2026-10-27T15:30:36.000+08:00"
+        "title": "第八届世界浙商大会将启幕 全球浙商共话创新",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721666.shtml",
+        "publishedAt": "2026-10-27T15:39:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T15:40:02.617+08:00",
+    "fetchedAt": "2026-10-27T15:50:05.121+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T15:40:06.437+08:00",
+      "fetchedAt": "2026-10-27T15:50:10.605+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
+          "usedPct": 31,
           "resetAt": "2026-10-27T19:14:06.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 14,
+          "usedPct": 15,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T15:40:06.618+08:00",
+      "fetchedAt": "2026-10-27T15:50:10.771+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T15:40:06.621+08:00",
+      "fetchedAt": "2026-10-27T15:50:10.774+08:00",
       "error": null
     }
   }
