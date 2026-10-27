@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T12:30:19.558+08:00",
+  "updatedAt": "2026-10-27T12:40:37.472+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.8,
-    "feelsLikeC": 19.5,
+    "tempC": 20.6,
+    "feelsLikeC": 19.2,
     "humidity": 64,
     "windKph": 17.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T12:30:19.559+08:00",
+    "observedAt": "2026-10-27T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T12:40:37.472+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "牛肉连涨16周，涨价核心原因是啥？后市如何？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721558.shtml",
+        "publishedAt": "2026-10-27T12:31:34.000+08:00"
+      },
+      {
+        "title": "日本防灾大臣拟发“紧急呼吁” 敦促民众做好防灾准备",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721557.shtml",
+        "publishedAt": "2026-10-27T12:29:04.000+08:00"
+      },
       {
         "title": "“零食运动法”受到追捧，真的管用吗？",
         "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721555.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "为两国合作带来新机遇 我国首条至冰岛定期客运航线开通",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721553.shtml",
         "publishedAt": "2026-10-27T12:19:21.000+08:00"
-      },
-      {
-        "title": "A股午评：超3700只个股飘绿，三大指数收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721550.shtml",
-        "publishedAt": "2026-10-27T12:07:11.000+08:00"
-      },
-      {
-        "title": "日本福岛县近海发生4.6级地震 多地有震感",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721547.shtml",
-        "publishedAt": "2026-10-27T11:40:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T12:30:12.570+08:00",
+    "fetchedAt": "2026-10-27T12:40:02.955+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T12:30:18.361+08:00",
+      "fetchedAt": "2026-10-27T12:40:36.365+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T12:30:18.561+08:00",
+      "fetchedAt": "2026-10-27T12:40:36.510+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T12:30:18.565+08:00",
+      "fetchedAt": "2026-10-27T12:40:36.519+08:00",
       "error": null
     }
   }
