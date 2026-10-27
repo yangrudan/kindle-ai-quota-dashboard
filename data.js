@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T08:00:09.170+08:00",
+  "updatedAt": "2026-10-27T08:10:09.476+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.1,
-    "feelsLikeC": 18.8,
-    "humidity": 86,
+    "feelsLikeC": 18.6,
+    "humidity": 84,
     "windKph": 8.7,
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T08:00:09.170+08:00",
+    "fetchedAt": "2026-10-27T08:10:09.476+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "用人造钻石散热，为啥“热”起来",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721449.shtml",
+        "publishedAt": "2026-10-27T07:59:47.000+08:00"
+      },
       {
         "title": "读懂了“和合文化”，就读懂了年轻人，也读懂了世界",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721448.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "救人反被索赔46万元？“好人条款”守住朴素正义",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721445.shtml",
         "publishedAt": "2026-10-27T07:34:42.000+08:00"
-      },
-      {
-        "title": "“三步一公主，五步一贵妃”之后，汉服生意如何火下去？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721444.shtml",
-        "publishedAt": "2026-10-27T07:33:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T08:00:03.658+08:00",
+    "fetchedAt": "2026-10-27T08:10:03.601+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T08:00:07.531+08:00",
+      "fetchedAt": "2026-10-27T08:10:08.289+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T13:00:08.000+08:00"
+          "resetAt": "2026-10-27T13:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T08:00:07.964+08:00",
+      "fetchedAt": "2026-10-27T08:10:08.536+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T08:00:07.971+08:00",
+      "fetchedAt": "2026-10-27T08:10:08.545+08:00",
       "error": null
     }
   }
