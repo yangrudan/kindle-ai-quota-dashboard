@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T21:30:09.153+08:00",
+  "updatedAt": "2026-10-27T21:40:09.144+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-27T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T21:30:09.153+08:00",
+    "fetchedAt": "2026-10-27T21:40:09.144+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "智能建造产业链先进成果在湖北集中展示",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721890.shtml",
-        "publishedAt": "2026-10-27T21:22:57.000+08:00"
+        "title": "宁夏首个AIXR医学沉浸式教学中心投用 医学教育开启虚实融合新课堂",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721902.shtml",
+        "publishedAt": "2026-10-27T21:36:24.000+08:00"
       },
       {
-        "title": "海外华文媒体走进上合示范区 解码文旅科创融合发展路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721892.shtml",
-        "publishedAt": "2026-10-27T21:21:11.000+08:00"
+        "title": "沙地种水稻、盐碱地结菠萝 这场大漠丰收超硬核",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721910.shtml",
+        "publishedAt": "2026-10-27T21:35:40.000+08:00"
       },
       {
-        "title": "四川金堂：一池秋蟹鲜 乡村产业兴",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721883.shtml",
-        "publishedAt": "2026-10-27T21:20:37.000+08:00"
+        "title": "香港宽频2026财年总收益增6% 拟布局北都网络建设",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721901.shtml",
+        "publishedAt": "2026-10-27T21:34:46.000+08:00"
       },
       {
-        "title": "场上拼搏场下相拥 云南各族健儿携手共赴民族大联欢",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721891.shtml",
-        "publishedAt": "2026-10-27T21:19:45.000+08:00"
+        "title": "新疆霍尔果斯公路口岸前三季度外贸稳步增长",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721882.shtml",
+        "publishedAt": "2026-10-27T21:34:44.000+08:00"
       },
       {
-        "title": "从智能监测到天然甜苷 欧洲华媒代表长沙观察湘企“控糖”实践",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721887.shtml",
-        "publishedAt": "2026-10-27T21:18:31.000+08:00"
+        "title": "AI设计、3D打印助力中国陶瓷开拓国际市场",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721878.shtml",
+        "publishedAt": "2026-10-27T21:33:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T21:30:04.307+08:00",
+    "fetchedAt": "2026-10-27T21:40:03.682+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T21:30:07.980+08:00",
+      "fetchedAt": "2026-10-27T21:40:08.010+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T21:30:08.305+08:00",
+      "fetchedAt": "2026-10-27T21:40:08.326+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T21:30:08.314+08:00",
+      "fetchedAt": "2026-10-27T21:40:08.335+08:00",
       "error": null
     }
   }
