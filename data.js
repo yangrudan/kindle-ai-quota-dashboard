@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T12:20:09.819+08:00",
+  "updatedAt": "2026-10-27T12:30:19.558+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T12:20:09.820+08:00",
+    "fetchedAt": "2026-10-27T12:30:19.559+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“零食运动法”受到追捧，真的管用吗？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721555.shtml",
+        "publishedAt": "2026-10-27T12:27:12.000+08:00"
+      },
+      {
+        "title": "约旦空军袭击叙利亚南部致7死3伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721551.shtml",
+        "publishedAt": "2026-10-27T12:25:24.000+08:00"
+      },
+      {
+        "title": "为两国合作带来新机遇 我国首条至冰岛定期客运航线开通",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721553.shtml",
+        "publishedAt": "2026-10-27T12:19:21.000+08:00"
+      },
       {
         "title": "A股午评：超3700只个股飘绿，三大指数收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721550.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "日本福岛县近海发生4.6级地震 多地有震感",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721547.shtml",
         "publishedAt": "2026-10-27T11:40:35.000+08:00"
-      },
-      {
-        "title": "俄罗斯新西伯利亚直飞成都首个航班飞抵",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721524.shtml",
-        "publishedAt": "2026-10-27T11:39:47.000+08:00"
-      },
-      {
-        "title": "不能忘，常思量！84岁宋楚瑜忆唱《台湾光复纪念歌》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721460.shtml",
-        "publishedAt": "2026-10-27T11:37:37.000+08:00"
-      },
-      {
-        "title": "星河湾：产业入村筑根基 教育扶智育未来",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721544.shtml",
-        "publishedAt": "2026-10-27T11:32:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T12:20:03.884+08:00",
+    "fetchedAt": "2026-10-27T12:30:12.570+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T12:20:08.093+08:00",
+      "fetchedAt": "2026-10-27T12:30:18.361+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T12:20:08.369+08:00",
+      "fetchedAt": "2026-10-27T12:30:18.561+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T12:20:08.378+08:00",
+      "fetchedAt": "2026-10-27T12:30:18.565+08:00",
       "error": null
     }
   }
