@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T16:40:10.790+08:00",
+  "updatedAt": "2026-10-27T16:50:53.190+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.3,
+    "tempC": 19.2,
     "feelsLikeC": 18.4,
-    "humidity": 63,
-    "windKph": 10.6,
+    "humidity": 64,
+    "windKph": 9.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T16:40:10.790+08:00",
+    "observedAt": "2026-10-27T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T16:50:53.191+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山西太原：晋祠一雄一雌明代古银杏满树金黄",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721703.shtml",
-        "publishedAt": "2026-10-27T16:28:19.000+08:00"
+        "title": "阿克苏地区：籽籽同心结硕果 团结花开满庭芳",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721726.shtml",
+        "publishedAt": "2026-10-27T16:45:36.000+08:00"
       },
       {
-        "title": "聆听岁月回响 赓续民革薪火——民革宁夏区委会老党员口述史采集工作全面启动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721717.shtml",
-        "publishedAt": "2026-10-27T16:27:23.000+08:00"
+        "title": "云南凤庆5000余亩荞花盛开引客来",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721708.shtml",
+        "publishedAt": "2026-10-27T16:44:28.000+08:00"
       },
       {
-        "title": "今年前三季度中国对德国进出口1.2万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721713.shtml",
-        "publishedAt": "2026-10-27T16:24:43.000+08:00"
+        "title": "一针一线织就各民族交流交融的动人故事",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721725.shtml",
+        "publishedAt": "2026-10-27T16:41:28.000+08:00"
       },
       {
-        "title": "单兵坚守、刺刀见红、雪夜擒敌，志愿军战斗英雄事迹令人热血沸腾",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721706.shtml",
-        "publishedAt": "2026-10-27T16:18:59.000+08:00"
+        "title": "甘肃加大民生投入 兜牢失能人员照护保障",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721715.shtml",
+        "publishedAt": "2026-10-27T16:41:14.000+08:00"
       },
       {
-        "title": "山西晋城：家门口来了“国家队” 专家义诊惠及民众",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721707.shtml",
-        "publishedAt": "2026-10-27T16:13:12.000+08:00"
+        "title": "第28届香港国际秋季灯饰展开幕 展示智能照明设备",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208996.shtml",
+        "publishedAt": "2026-10-27T16:41:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T16:40:04.198+08:00",
+    "fetchedAt": "2026-10-27T16:50:06.172+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T16:40:09.435+08:00",
+      "fetchedAt": "2026-10-27T16:50:50.291+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 45,
+          "usedPct": 54,
           "resetAt": "2026-10-27T19:14:06.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 17,
+          "usedPct": 18,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T16:40:09.698+08:00",
+      "fetchedAt": "2026-10-27T16:50:50.524+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T16:40:09.705+08:00",
+      "fetchedAt": "2026-10-27T16:50:50.548+08:00",
       "error": null
     }
   }
