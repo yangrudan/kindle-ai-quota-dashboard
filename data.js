@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T17:50:11.871+08:00",
+  "updatedAt": "2026-10-27T18:00:17.510+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.1,
-    "feelsLikeC": 17.7,
-    "humidity": 69,
-    "windKph": 8,
-    "windDir": "西北风",
+    "tempC": 17.9,
+    "feelsLikeC": 17.4,
+    "humidity": 70,
+    "windKph": 7.8,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T17:50:11.872+08:00",
+    "observedAt": "2026-10-27T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T18:00:17.510+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "网约车监管信息交互系统9月份共收到订单信息9.81亿单",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721749.shtml",
-        "publishedAt": "2026-10-27T17:42:15.000+08:00"
+        "title": "吉林开通首条西藏客运航线",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721756.shtml",
+        "publishedAt": "2026-10-27T17:56:50.000+08:00"
       },
       {
-        "title": "塞尔维亚议会选举初步结果公布",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721696.shtml",
-        "publishedAt": "2026-10-27T17:39:03.000+08:00"
+        "title": "第十九届“春华秋实”全国艺术院校舞台艺术精品展演启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721752.shtml",
+        "publishedAt": "2026-10-27T17:56:44.000+08:00"
       },
       {
-        "title": "2026年9月全国查处违反中央八项规定精神问题32940起",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721751.shtml",
-        "publishedAt": "2026-10-27T17:38:31.000+08:00"
+        "title": "台风“蔷琵”致台湾农损逾2.6亿元新台币",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721750.shtml",
+        "publishedAt": "2026-10-27T17:55:02.000+08:00"
       },
       {
-        "title": "30余件名家力作与将帅墨宝亮相荣宝斋 一展书画里的长征",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721744.shtml",
-        "publishedAt": "2026-10-27T17:34:11.000+08:00"
+        "title": "海外华文学校致力中文教育与文化传承",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-27/10721747.shtml",
+        "publishedAt": "2026-10-27T17:54:30.000+08:00"
       },
       {
-        "title": "第七届中国—中东欧国家中小企业跨境撮合对接会举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721745.shtml",
-        "publishedAt": "2026-10-27T17:33:21.000+08:00"
+        "title": "非洲首个数智孔子学院在赞比亚揭牌",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-27/10721764.shtml",
+        "publishedAt": "2026-10-27T17:53:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T17:50:05.177+08:00",
+    "fetchedAt": "2026-10-27T18:00:05.672+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T17:50:09.495+08:00",
+      "fetchedAt": "2026-10-27T18:00:15.155+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T17:50:09.755+08:00",
+      "fetchedAt": "2026-10-27T18:00:16.662+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T17:50:09.764+08:00",
+      "fetchedAt": "2026-10-27T18:00:16.671+08:00",
       "error": null
     }
   }
