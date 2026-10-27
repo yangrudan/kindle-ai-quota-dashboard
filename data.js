@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T13:50:09.453+08:00",
+  "updatedAt": "2026-10-27T14:00:15.850+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 20.1,
     "feelsLikeC": 18.5,
-    "humidity": 64,
-    "windKph": 16.9,
+    "humidity": 63,
+    "windKph": 16.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T13:50:09.453+08:00",
+    "observedAt": "2026-10-27T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T14:00:15.850+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河北省第十一届残运会暨第七届特奥会在唐山开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721574.shtml",
-        "publishedAt": "2026-10-27T13:49:14.000+08:00"
+        "title": "“十五五”期间四川将加快推进农业农村现代化",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721580.shtml",
+        "publishedAt": "2026-10-27T13:53:03.000+08:00"
       },
       {
-        "title": "杨凌农高会国际客商云集 双向“掘金”西部市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721573.shtml",
-        "publishedAt": "2026-10-27T13:48:30.000+08:00"
+        "title": "长征路上学党史丨红旗漫卷六盘山：长征精神在宁夏的传承与新生",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721583.shtml",
+        "publishedAt": "2026-10-27T13:51:38.000+08:00"
       },
       {
-        "title": "电影《四渡》票房超过3亿元 观影人次超920万",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721572.shtml",
-        "publishedAt": "2026-10-27T13:48:24.000+08:00"
+        "title": "国内首座内河无人值守智慧锚地通过竣工验收",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721578.shtml",
+        "publishedAt": "2026-10-27T13:51:34.000+08:00"
       },
       {
-        "title": "广东激活富硒资源 走出乡村振兴新路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721571.shtml",
-        "publishedAt": "2026-10-27T13:47:48.000+08:00"
+        "title": "从空中植保到地面耕作：90后“女飞手”秋收记",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721576.shtml",
+        "publishedAt": "2026-10-27T13:49:56.000+08:00"
       },
       {
-        "title": "零碳新能源产业链供应链融通发展交流会在河北沧州举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721568.shtml",
-        "publishedAt": "2026-10-27T13:47:38.000+08:00"
+        "title": "哈尔滨市中央大街49号一栋市级历史建筑启动解危修缮",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721575.shtml",
+        "publishedAt": "2026-10-27T13:49:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T13:50:04.155+08:00",
+    "fetchedAt": "2026-10-27T14:00:05.516+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T13:50:08.176+08:00",
+      "fetchedAt": "2026-10-27T14:00:13.654+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T13:50:08.475+08:00",
+      "fetchedAt": "2026-10-27T14:00:13.939+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T13:50:08.484+08:00",
+      "fetchedAt": "2026-10-27T14:00:13.957+08:00",
       "error": null
     }
   }
