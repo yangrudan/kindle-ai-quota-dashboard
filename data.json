@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T14:30:09.440+08:00",
+  "updatedAt": "2026-10-27T14:40:38.705+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 20,
-    "feelsLikeC": 18.6,
-    "humidity": 62,
+    "feelsLikeC": 18.5,
+    "humidity": 61,
     "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T14:30:09.441+08:00",
+    "fetchedAt": "2026-10-27T14:40:38.705+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "探访四川省人形机器人训练场",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721598.shtml",
+        "publishedAt": "2026-10-27T14:35:23.000+08:00"
+      },
+      {
+        "title": "山西省消协发布“双十一”消费警示：辨清价格虚实、理性储值办卡",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721595.shtml",
+        "publishedAt": "2026-10-27T14:34:27.000+08:00"
+      },
+      {
+        "title": "“巴掌好物”带来更好旅行体验",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721597.shtml",
+        "publishedAt": "2026-10-27T14:28:33.000+08:00"
+      },
+      {
+        "title": "中新健康｜植入3年，全球首例微创硬膜外脑机接口受试者康复情况公布",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721569.shtml",
+        "publishedAt": "2026-10-27T14:28:17.000+08:00"
+      },
+      {
         "title": "畅通外籍人员来华“第一站” 中国银行多维金融创新护航2026深圳APEC盛会",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721570.shtml",
         "publishedAt": "2026-10-27T14:25:38.000+08:00"
-      },
-      {
-        "title": "中新健康 | 34岁女士子宫里长满肌瘤，到底得了啥病？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721567.shtml",
-        "publishedAt": "2026-10-27T14:23:18.000+08:00"
-      },
-      {
-        "title": "逾340家展商汇聚香港第21届国际环保博览 展示环球绿色科技",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208990.shtml",
-        "publishedAt": "2026-10-27T14:13:18.000+08:00"
-      },
-      {
-        "title": "APEC采购商广交会“淘金” 中国智能家居热销亚太",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721566.shtml",
-        "publishedAt": "2026-10-27T13:59:15.000+08:00"
-      },
-      {
-        "title": "2026青科会AI时代青年科学家创业创新生态论坛举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721584.shtml",
-        "publishedAt": "2026-10-27T13:58:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T14:30:03.573+08:00",
+    "fetchedAt": "2026-10-27T14:40:03.873+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T14:30:08.048+08:00",
+      "fetchedAt": "2026-10-27T14:40:37.123+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 17,
           "resetAt": "2026-10-27T19:14:06.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 10,
+          "usedPct": 13,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T14:30:08.359+08:00",
+      "fetchedAt": "2026-10-27T14:40:37.390+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T14:30:08.366+08:00",
+      "fetchedAt": "2026-10-27T14:40:37.400+08:00",
       "error": null
     }
   }
