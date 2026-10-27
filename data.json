@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T12:50:08.401+08:00",
+  "updatedAt": "2026-10-27T13:00:17.452+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T12:50:08.401+08:00",
+    "fetchedAt": "2026-10-27T13:00:17.453+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "政策发力稳投资 多地加快推进四季度重大项目建设",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721560.shtml",
-        "publishedAt": "2026-10-27T12:37:56.000+08:00"
+        "title": "苍洱放歌：院地文艺协作在大理唱响民族团结同心曲",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721505.shtml",
+        "publishedAt": "2026-10-27T12:57:27.000+08:00"
       },
       {
-        "title": "凯恩荣膺金球奖 亚马尔连续三年获科帕奖",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721552.shtml",
-        "publishedAt": "2026-10-27T12:35:48.000+08:00"
+        "title": "云岭动态第二十七期",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721480.shtml",
+        "publishedAt": "2026-10-27T12:54:13.000+08:00"
       },
       {
-        "title": "牛肉连涨16周，涨价核心原因是啥？后市如何？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721558.shtml",
-        "publishedAt": "2026-10-27T12:31:34.000+08:00"
+        "title": "上海市委统战部系统离退休干部纪念中国工农红军长征胜利90周年主题书画展举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721479.shtml",
+        "publishedAt": "2026-10-27T12:53:27.000+08:00"
       },
       {
-        "title": "日本防灾大臣拟发“紧急呼吁” 敦促民众做好防灾准备",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721557.shtml",
-        "publishedAt": "2026-10-27T12:29:04.000+08:00"
+        "title": "新疆地毯织造技艺专题展在山东省文化馆启幕",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721495.shtml",
+        "publishedAt": "2026-10-27T12:51:57.000+08:00"
       },
       {
-        "title": "“零食运动法”受到追捧，真的管用吗？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721555.shtml",
-        "publishedAt": "2026-10-27T12:27:12.000+08:00"
+        "title": "竹叶青“聆竹”进驻钟楼街 让草本露酒重新成为东方生活接口",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721478.shtml",
+        "publishedAt": "2026-10-27T12:48:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T12:50:03.524+08:00",
+    "fetchedAt": "2026-10-27T13:00:12.153+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T12:50:07.399+08:00",
+      "fetchedAt": "2026-10-27T13:00:16.287+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T12:50:07.512+08:00",
+      "fetchedAt": "2026-10-27T13:00:16.467+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T12:50:07.522+08:00",
+      "fetchedAt": "2026-10-27T13:00:16.476+08:00",
       "error": null
     }
   }
