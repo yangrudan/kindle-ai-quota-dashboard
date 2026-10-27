@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T08:30:08.260+08:00",
+  "updatedAt": "2026-10-27T08:40:39.026+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T08:30:08.260+08:00",
+    "fetchedAt": "2026-10-27T08:40:39.027+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "哈里·凯恩斩获2026年金球奖",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208963.shtml",
+        "publishedAt": "2026-10-27T08:30:14.000+08:00"
+      },
+      {
+        "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721450.shtml",
+        "publishedAt": "2026-10-27T08:27:21.000+08:00"
+      },
       {
         "title": "名字带“鳕”就是鳕鱼吗？怎么吃更健康？一文讲明白",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721452.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "用人造钻石散热，为啥“热”起来",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721449.shtml",
         "publishedAt": "2026-10-27T07:59:47.000+08:00"
-      },
-      {
-        "title": "读懂了“和合文化”，就读懂了年轻人，也读懂了世界",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721448.shtml",
-        "publishedAt": "2026-10-27T07:55:47.000+08:00"
-      },
-      {
-        "title": "以规划引领遗产保护 用法治守护文化根脉",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721447.shtml",
-        "publishedAt": "2026-10-27T07:38:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T08:30:03.670+08:00",
+    "fetchedAt": "2026-10-27T08:40:03.934+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 127 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T08:30:07.071+08:00",
+      "fetchedAt": "2026-10-27T08:40:37.890+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T13:30:08.000+08:00"
+          "resetAt": "2026-10-27T13:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T08:30:07.360+08:00",
+      "fetchedAt": "2026-10-27T08:40:38.154+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T08:30:07.370+08:00",
+      "fetchedAt": "2026-10-27T08:40:38.164+08:00",
       "error": null
     }
   }
