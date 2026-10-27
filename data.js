@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T19:00:08.320+08:00",
+  "updatedAt": "2026-10-27T19:10:08.236+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-27T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T19:00:08.321+08:00",
+    "fetchedAt": "2026-10-27T19:10:08.236+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "习近平向日本前首相福田康夫遗属致唁电",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721788.shtml",
+        "publishedAt": "2026-10-27T19:03:53.000+08:00"
+      },
+      {
+        "title": "金建希羁押期被延长两个月 韩国最高法签追加逮捕令",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721800.shtml",
+        "publishedAt": "2026-10-27T19:03:17.000+08:00"
+      },
+      {
+        "title": "习近平致电祝贺卢拉当选连任巴西总统",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721787.shtml",
+        "publishedAt": "2026-10-27T19:02:07.000+08:00"
+      },
+      {
         "title": "汇聚全球领军企业 2026世界智能制造大会开幕在即",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721790.shtml",
         "publishedAt": "2026-10-27T18:50:11.000+08:00"
       },
       {
-        "title": "大风蓝色预警：甘肃宁夏等8省区部分地区阵风可达8至9级",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721795.shtml",
-        "publishedAt": "2026-10-27T18:48:51.000+08:00"
-      },
-      {
-        "title": "第四批全国商业秘密保护创新试点地区名单公布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721792.shtml",
-        "publishedAt": "2026-10-27T18:47:27.000+08:00"
-      },
-      {
-        "title": "沪高校本科生团队攻关钠离子电池材料 相关研究推进至中试阶段",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721789.shtml",
-        "publishedAt": "2026-10-27T18:46:28.000+08:00"
-      },
-      {
-        "title": "前三季度吉林外贸规模创历史同期新高 民企成最大外贸主体",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721786.shtml",
-        "publishedAt": "2026-10-27T18:44:58.000+08:00"
+        "title": "未来三天我国中东部大部多晴好天气 适宜秋收扫尾和秋播",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721799.shtml",
+        "publishedAt": "2026-10-27T18:49:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T19:00:03.268+08:00",
+    "fetchedAt": "2026-10-27T19:10:03.525+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T19:00:07.242+08:00",
+      "fetchedAt": "2026-10-27T19:10:07.237+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T19:00:07.435+08:00",
+      "fetchedAt": "2026-10-27T19:10:07.426+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T19:00:07.445+08:00",
+      "fetchedAt": "2026-10-27T19:10:07.430+08:00",
       "error": null
     }
   }
