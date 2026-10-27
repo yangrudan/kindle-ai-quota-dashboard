@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T14:20:08.693+08:00",
+  "updatedAt": "2026-10-27T14:30:09.440+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 20,
-    "feelsLikeC": 18.5,
-    "humidity": 63,
-    "windKph": 15.8,
+    "feelsLikeC": 18.6,
+    "humidity": 62,
+    "windKph": 14.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-27T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T14:20:08.693+08:00",
+    "observedAt": "2026-10-27T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T14:30:09.441+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "畅通外籍人员来华“第一站” 中国银行多维金融创新护航2026深圳APEC盛会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721570.shtml",
+        "publishedAt": "2026-10-27T14:25:38.000+08:00"
+      },
+      {
+        "title": "中新健康 | 34岁女士子宫里长满肌瘤，到底得了啥病？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721567.shtml",
+        "publishedAt": "2026-10-27T14:23:18.000+08:00"
+      },
       {
         "title": "逾340家展商汇聚香港第21届国际环保博览 展示环球绿色科技",
         "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208990.shtml",
@@ -33,19 +43,9 @@
         "title": "2026青科会AI时代青年科学家创业创新生态论坛举行",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721584.shtml",
         "publishedAt": "2026-10-27T13:58:23.000+08:00"
-      },
-      {
-        "title": "“十五五”期间四川从四方面拓宽农民工就业增收渠道",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721582.shtml",
-        "publishedAt": "2026-10-27T13:55:07.000+08:00"
-      },
-      {
-        "title": "解读《重庆市城市规划管理规定》：让山城“显山露水”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721581.shtml",
-        "publishedAt": "2026-10-27T13:54:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T14:20:03.417+08:00",
+    "fetchedAt": "2026-10-27T14:30:03.573+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-27T14:20:07.301+08:00",
+      "fetchedAt": "2026-10-27T14:30:08.048+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-10-27T19:14:06.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T14:20:07.768+08:00",
+      "fetchedAt": "2026-10-27T14:30:08.359+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-27T14:20:07.782+08:00",
+      "fetchedAt": "2026-10-27T14:30:08.366+08:00",
       "error": null
     }
   }
