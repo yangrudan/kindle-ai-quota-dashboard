@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T15:10:08.599+08:00",
+  "updatedAt": "2026-10-28T15:20:37.708+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 20.5,
-    "feelsLikeC": 19.7,
+    "feelsLikeC": 19.6,
     "humidity": 51,
-    "windKph": 5.7,
+    "windKph": 6.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T15:10:08.599+08:00",
+    "observedAt": "2026-10-28T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T15:20:37.708+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "欧洲华文媒体探访长沙铜官窑 感受千年窑火传承",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722185.shtml",
+        "publishedAt": "2026-10-28T15:10:37.000+08:00"
+      },
+      {
+        "title": "连吃了7天氯雷他定，要不要换其他药？季节性过敏用药、预防，一次说清",
+        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722189.shtml",
+        "publishedAt": "2026-10-28T15:09:47.000+08:00"
+      },
       {
         "title": "瑞士联邦主席帕姆兰将访华",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722187.shtml",
@@ -30,22 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-28T15:03:27.000+08:00"
       },
       {
-        "title": "欧洲华文媒体探访长沙铜官窑 感受千年窑火传承",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209106.shtml",
-        "publishedAt": "2026-10-28T15:01:16.000+08:00"
-      },
-      {
         "title": "云南省2025年至2026年9月月度进出口趋势图",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722183.shtml",
         "publishedAt": "2026-10-28T15:00:21.000+08:00"
-      },
-      {
-        "title": "72岁台胞回安徽寻亲：海峡隔不断两岸血脉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722181.shtml",
-        "publishedAt": "2026-10-28T14:59:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T15:10:03.497+08:00",
+    "fetchedAt": "2026-10-28T15:20:03.034+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T15:10:07.306+08:00",
+      "fetchedAt": "2026-10-28T15:20:36.595+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T15:10:07.667+08:00",
+      "fetchedAt": "2026-10-28T15:20:36.845+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T15:10:07.677+08:00",
+      "fetchedAt": "2026-10-28T15:20:36.849+08:00",
       "error": null
     }
   }
