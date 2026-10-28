@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T16:00:39.480+08:00",
+  "updatedAt": "2026-10-28T16:10:08.211+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-28T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T16:00:39.480+08:00",
+    "fetchedAt": "2026-10-28T16:10:08.211+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "事关孩子健康 4项新规11月起将正式实施",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-28/10722228.shtml",
+        "publishedAt": "2026-10-28T16:03:00.000+08:00"
+      },
+      {
+        "title": "青岛：红海滩湿地展现绚丽生态画卷",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209124.shtml",
+        "publishedAt": "2026-10-28T16:01:12.000+08:00"
+      },
+      {
+        "title": "中方：欢迎瑞士联邦主席帕姆兰来华访问",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722223.shtml",
+        "publishedAt": "2026-10-28T15:58:42.000+08:00"
+      },
       {
         "title": "6公里外云端下指令 毫秒级响应 5G-A撑起百台无人矿卡",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722225.shtml",
@@ -28,24 +43,9 @@
         "title": "常吃这两种水果，高血压死亡风险竟然能降低40%！",
         "url": "https://www.chinanews.com.cn/life/2026/10-28/10722224.shtml",
         "publishedAt": "2026-10-28T15:41:27.000+08:00"
-      },
-      {
-        "title": "中方：对中东地区局势持续紧张深表关切 反对攻击民用目标",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722222.shtml",
-        "publishedAt": "2026-10-28T15:40:09.000+08:00"
-      },
-      {
-        "title": "从“失联三天”到“随时通话” 我国渤海海域迈入全域互联",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722221.shtml",
-        "publishedAt": "2026-10-28T15:39:17.000+08:00"
-      },
-      {
-        "title": "深秋时节 北京街景如画",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209119.shtml",
-        "publishedAt": "2026-10-28T15:39:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T16:00:03.528+08:00",
+    "fetchedAt": "2026-10-28T16:10:02.788+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T16:00:37.582+08:00",
+      "fetchedAt": "2026-10-28T16:10:06.694+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 40,
+          "usedPct": 49,
           "resetAt": "2026-10-28T19:35:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 6,
+          "usedPct": 8,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T16:00:37.825+08:00",
+      "fetchedAt": "2026-10-28T16:10:06.927+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T16:00:37.852+08:00",
+      "fetchedAt": "2026-10-28T16:10:06.937+08:00",
       "error": null
     }
   }
