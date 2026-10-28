@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T16:10:08.211+08:00",
+  "updatedAt": "2026-10-28T16:20:08.044+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.2,
-    "feelsLikeC": 19.1,
-    "humidity": 52,
-    "windKph": 7.9,
+    "tempC": 19.9,
+    "feelsLikeC": 18.7,
+    "humidity": 54,
+    "windKph": 8.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T16:10:08.211+08:00",
+    "observedAt": "2026-10-28T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T16:20:08.044+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "事关孩子健康 4项新规11月起将正式实施",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-28/10722228.shtml",
-        "publishedAt": "2026-10-28T16:03:00.000+08:00"
+        "title": "2026南康家具秋季订货会举行 中外客商觅合作机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722233.shtml",
+        "publishedAt": "2026-10-28T16:12:51.000+08:00"
       },
       {
-        "title": "青岛：红海滩湿地展现绚丽生态画卷",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209124.shtml",
-        "publishedAt": "2026-10-28T16:01:12.000+08:00"
+        "title": "雅江畔，绿色和紫色的传奇——产业援藏助力山南市桑日葡萄产业发展壮大",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722234.shtml",
+        "publishedAt": "2026-10-28T16:11:21.000+08:00"
       },
       {
-        "title": "中方：欢迎瑞士联邦主席帕姆兰来华访问",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722223.shtml",
-        "publishedAt": "2026-10-28T15:58:42.000+08:00"
+        "title": "之江潮涌塔河畔",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722232.shtml",
+        "publishedAt": "2026-10-28T16:08:33.000+08:00"
       },
       {
-        "title": "6公里外云端下指令 毫秒级响应 5G-A撑起百台无人矿卡",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722225.shtml",
-        "publishedAt": "2026-10-28T15:42:35.000+08:00"
+        "title": "2026年全国艺术体操冠军赛铜川落幕 王子露独揽五金",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722230.shtml",
+        "publishedAt": "2026-10-28T16:07:49.000+08:00"
       },
       {
-        "title": "常吃这两种水果，高血压死亡风险竟然能降低40%！",
-        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722224.shtml",
-        "publishedAt": "2026-10-28T15:41:27.000+08:00"
+        "title": "让“太阳”为人类发电？可控核聚变究竟走到哪一步了？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722231.shtml",
+        "publishedAt": "2026-10-28T16:06:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T16:10:02.788+08:00",
+    "fetchedAt": "2026-10-28T16:20:02.900+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T16:10:06.694+08:00",
+      "fetchedAt": "2026-10-28T16:20:06.751+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 49,
+          "usedPct": 55,
           "resetAt": "2026-10-28T19:35:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T16:10:06.927+08:00",
+      "fetchedAt": "2026-10-28T16:20:06.979+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T16:10:06.937+08:00",
+      "fetchedAt": "2026-10-28T16:20:06.984+08:00",
       "error": null
     }
   }
