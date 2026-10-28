@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T20:30:10.267+08:00",
+  "updatedAt": "2026-10-28T20:40:37.721+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.1,
-    "feelsLikeC": 15.4,
+    "tempC": 16.2,
+    "feelsLikeC": 15.6,
     "humidity": 78,
     "windKph": 9.5,
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-28T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T20:30:10.267+08:00",
+    "fetchedAt": "2026-10-28T20:40:37.722+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西将搭建面向东盟的防震减灾合作平台",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722391.shtml",
-        "publishedAt": "2026-10-28T20:18:54.000+08:00"
+        "title": "阿根廷移民局证实弗拉维奥·博索纳罗入境后前往厄瓜多尔",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722389.shtml",
+        "publishedAt": "2026-10-28T20:32:35.000+08:00"
       },
       {
-        "title": "130余位两岸茶人成都共话茶文化传承与产业创新",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722392.shtml",
-        "publishedAt": "2026-10-28T20:18:50.000+08:00"
+        "title": "柿子吃不对，也可能损害健康！专家提醒牢记五个原则",
+        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722397.shtml",
+        "publishedAt": "2026-10-28T20:29:23.000+08:00"
       },
       {
-        "title": "河南开行首趟“跨波罗的海中欧班列”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722390.shtml",
-        "publishedAt": "2026-10-28T20:12:26.000+08:00"
+        "title": "习言道｜永远保持赶考的清醒和谨慎，驰而不息推进全面从严治党",
+        "url": "http://www.chinanews.com.cn/gn/shipin/2026/10-28/news1073215.shtml",
+        "publishedAt": "2026-10-28T20:26:44.000+08:00"
       },
       {
-        "title": "今年前三季度香港私人住宅售价指数累计上升超7%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722388.shtml",
-        "publishedAt": "2026-10-28T20:11:06.000+08:00"
+        "title": "从秘而不宣到顶礼膜拜，被掩盖的靖国神社黑历史再敲警钟",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722393.shtml",
+        "publishedAt": "2026-10-28T20:25:43.000+08:00"
       },
       {
-        "title": "中新健康｜哈佛大学医学院荣休教授：中国药物研发已进入全新阶段",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10722387.shtml",
-        "publishedAt": "2026-10-28T20:06:49.000+08:00"
+        "title": "中国平安前三季度实现稳健增长 归母营运利润同比增8.3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722394.shtml",
+        "publishedAt": "2026-10-28T20:24:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T20:30:04.771+08:00",
+    "fetchedAt": "2026-10-28T20:40:03.234+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T20:30:08.924+08:00",
+      "fetchedAt": "2026-10-28T20:40:36.751+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T01:30:10.000+08:00"
+          "resetAt": "2026-10-29T01:40:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T20:30:09.368+08:00",
+      "fetchedAt": "2026-10-28T20:40:36.908+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T20:30:09.377+08:00",
+      "fetchedAt": "2026-10-28T20:40:36.917+08:00",
       "error": null
     }
   }
