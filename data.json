@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T06:50:38.451+08:00",
+  "updatedAt": "2026-10-29T07:00:10.216+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.2,
-    "feelsLikeC": 14.4,
-    "humidity": 92,
-    "windKph": 4.4,
+    "tempC": 14.5,
+    "feelsLikeC": 14.7,
+    "humidity": 91,
+    "windKph": 4.8,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T06:50:38.452+08:00",
+    "observedAt": "2026-10-29T07:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T07:00:10.216+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西班牙高铁相撞致68死 调度录音曝光还原事发经过",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722499.shtml",
+        "publishedAt": "2026-10-29T06:57:23.000+08:00"
+      },
+      {
+        "title": "西班牙列车相撞已致68人死亡，首相宣布全国哀悼三天",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722498.shtml",
+        "publishedAt": "2026-10-29T06:51:59.000+08:00"
+      },
+      {
+        "title": "古巴欢迎联大再次通过决议敦促美国结束对古封锁",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722497.shtml",
+        "publishedAt": "2026-10-29T06:47:41.000+08:00"
+      },
       {
         "title": "2.5亿人次已受益 多地以旧换新上新 最高补贴2000元",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722496.shtml",
@@ -28,24 +43,9 @@
         "title": "美联储宣布维持联邦基金利率不变",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722495.shtml",
         "publishedAt": "2026-10-29T06:39:44.000+08:00"
-      },
-      {
-        "title": "网红食品，谁在为“新奇”买单？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722494.shtml",
-        "publishedAt": "2026-10-29T06:37:12.000+08:00"
-      },
-      {
-        "title": "中方敦促国际法院确保国际法平等统一适用",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722493.shtml",
-        "publishedAt": "2026-10-29T06:34:28.000+08:00"
-      },
-      {
-        "title": "俄美乌三方谈判日期将公布 俄方称不邀欧洲参加",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722492.shtml",
-        "publishedAt": "2026-10-29T06:31:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T06:50:03.134+08:00",
+    "fetchedAt": "2026-10-29T07:00:04.628+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T06:50:36.814+08:00",
+      "fetchedAt": "2026-10-29T07:00:08.646+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T11:50:38.000+08:00"
+          "resetAt": "2026-10-29T12:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T06:50:37.139+08:00",
+      "fetchedAt": "2026-10-29T07:00:09.056+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T06:50:37.147+08:00",
+      "fetchedAt": "2026-10-29T07:00:09.066+08:00",
       "error": null
     }
   }
