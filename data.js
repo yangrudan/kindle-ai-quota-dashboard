@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T22:40:09.985+08:00",
+  "updatedAt": "2026-10-28T22:50:09.687+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.5,
-    "feelsLikeC": 15.2,
-    "humidity": 82,
-    "windKph": 7,
-    "windDir": "东南风",
+    "tempC": 15.4,
+    "feelsLikeC": 15.3,
+    "humidity": 83,
+    "windKph": 5.8,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T22:40:09.986+08:00",
+    "observedAt": "2026-10-28T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T22:50:09.687+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "又有8位已迎回在韩志愿军烈士确认身份！为烈士寻亲，如何寻？难在哪？怎么解？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722485.shtml",
+        "publishedAt": "2026-10-28T22:43:46.000+08:00"
+      },
+      {
+        "title": "甘肃保安腰刀启“工厂模式” 传统技艺焕发新生机",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722480.shtml",
+        "publishedAt": "2026-10-28T22:37:22.000+08:00"
+      },
       {
         "title": "云南立法保护铁路安全 纳入跨境协作内容",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722477.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "18国跑酷高手11月挑战张家界天门山999级天梯",
         "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722475.shtml",
         "publishedAt": "2026-10-28T22:18:23.000+08:00"
-      },
-      {
-        "title": "大病留本地 外转降下来：跨省医疗帮扶让云南澄江大病不出市",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722474.shtml",
-        "publishedAt": "2026-10-28T22:18:21.000+08:00"
-      },
-      {
-        "title": "广西多点发力 加快完善生育支持政策体系",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722473.shtml",
-        "publishedAt": "2026-10-28T22:17:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T22:40:03.806+08:00",
+    "fetchedAt": "2026-10-28T22:50:03.714+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T22:40:08.312+08:00",
+      "fetchedAt": "2026-10-28T22:50:07.804+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T03:40:09.000+08:00"
+          "resetAt": "2026-10-29T03:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T22:40:08.621+08:00",
+      "fetchedAt": "2026-10-28T22:50:08.434+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T22:40:08.630+08:00",
+      "fetchedAt": "2026-10-28T22:50:08.443+08:00",
       "error": null
     }
   }
