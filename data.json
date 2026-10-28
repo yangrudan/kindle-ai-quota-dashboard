@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T17:40:11.424+08:00",
+  "updatedAt": "2026-10-28T17:50:09.693+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.6,
-    "feelsLikeC": 16.7,
-    "humidity": 65,
-    "windKph": 8,
+    "tempC": 17.3,
+    "feelsLikeC": 16.5,
+    "humidity": 66,
+    "windKph": 7.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T17:40:11.424+08:00",
+    "observedAt": "2026-10-28T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T17:50:09.693+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "宁夏引黄灌区开启“冬灌”模式",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722286.shtml",
-        "publishedAt": "2026-10-28T17:33:13.000+08:00"
+        "title": "西班牙高速铁路列车相撞造成至少39人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722300.shtml",
+        "publishedAt": "2026-10-28T17:41:42.000+08:00"
       },
       {
-        "title": "解析三季报：电子行业与高技术制造业贡献突出",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722289.shtml",
-        "publishedAt": "2026-10-28T17:31:17.000+08:00"
+        "title": "河北制造与中东欧市场在云端“握手”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722292.shtml",
+        "publishedAt": "2026-10-28T17:40:20.000+08:00"
       },
       {
-        "title": "停了61分钟，按2小时收费，凭什么？",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722287.shtml",
-        "publishedAt": "2026-10-28T17:21:07.000+08:00"
+        "title": "广西防城港锚地智慧电讯检疫常态化运行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722295.shtml",
+        "publishedAt": "2026-10-28T17:39:32.000+08:00"
       },
       {
-        "title": "东西问丨王敏：如何从新疆非遗中读懂中华文化？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-28/10722274.shtml",
-        "publishedAt": "2026-10-28T17:01:41.000+08:00"
+        "title": "（乡村行·看振兴）山东莱阳：四百年梨园“甜进”直播间",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722296.shtml",
+        "publishedAt": "2026-10-28T17:39:30.000+08:00"
       },
       {
-        "title": "两部门部署西藏强降雪天气防范应对工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722278.shtml",
-        "publishedAt": "2026-10-28T17:01:07.000+08:00"
+        "title": "广州脑谷·天河（筹）脑机接口产业园启动",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722290.shtml",
+        "publishedAt": "2026-10-28T17:39:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T17:40:05.748+08:00",
+    "fetchedAt": "2026-10-28T17:50:03.946+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T17:40:10.064+08:00",
+      "fetchedAt": "2026-10-28T17:50:07.981+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 89,
+          "usedPct": 92,
           "resetAt": "2026-10-28T19:35:09.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T17:40:10.208+08:00",
+      "fetchedAt": "2026-10-28T17:50:08.203+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T17:40:10.219+08:00",
+      "fetchedAt": "2026-10-28T17:50:08.212+08:00",
       "error": null
     }
   }
