@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T08:20:18.159+08:00",
+  "updatedAt": "2026-10-28T08:30:09.348+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.5,
-    "feelsLikeC": 14,
-    "humidity": 73,
-    "windKph": 2.8,
+    "tempC": 15.4,
+    "feelsLikeC": 15,
+    "humidity": 69,
+    "windKph": 2.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-28T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T08:20:18.159+08:00",
+    "observedAt": "2026-10-28T08:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T08:30:09.349+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "优惠规则难倒AI？“双十一”岂能层层设套",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721982.shtml",
+        "publishedAt": "2026-10-28T08:21:43.000+08:00"
+      },
       {
         "title": "《医疗康复护理扩容提升工程实施方案》发布 专家解读",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721980.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "美国10月消费者信心指数回升至91.7 好于市场预期",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721975.shtml",
         "publishedAt": "2026-10-28T07:59:54.000+08:00"
-      },
-      {
-        "title": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721974.shtml",
-        "publishedAt": "2026-10-28T07:43:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T08:20:12.673+08:00",
+    "fetchedAt": "2026-10-28T08:30:03.346+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T08:20:17.045+08:00",
+      "fetchedAt": "2026-10-28T08:30:08.139+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T13:20:18.000+08:00"
+          "resetAt": "2026-10-28T13:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T08:20:17.320+08:00",
+      "fetchedAt": "2026-10-28T08:30:08.464+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T08:20:17.328+08:00",
+      "fetchedAt": "2026-10-28T08:30:08.473+08:00",
       "error": null
     }
   }
