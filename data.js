@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T10:10:12.292+08:00",
+  "updatedAt": "2026-10-28T10:20:10.562+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.8,
-    "feelsLikeC": 17.2,
-    "humidity": 59,
-    "windKph": 4.1,
+    "tempC": 18.1,
+    "feelsLikeC": 17.3,
+    "humidity": 57,
+    "windKph": 4.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-28T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T10:10:12.292+08:00",
+    "observedAt": "2026-10-28T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T10:20:10.562+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从东盟到“塞上江南”：宁夏侨商马成军的出海观察与反哺实践",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722030.shtml",
+        "publishedAt": "2026-10-28T10:14:03.000+08:00"
+      },
+      {
+        "title": "第九届进博会布展启动 展品直通最快仅需35分钟",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722028.shtml",
+        "publishedAt": "2026-10-28T10:06:53.000+08:00"
+      },
+      {
+        "title": "中方发布加强外空治理立场文件传递何种信号？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722027.shtml",
+        "publishedAt": "2026-10-28T10:05:57.000+08:00"
+      },
       {
         "title": "荷兰农场接连暴发禽流感疫情 逾4.5万只家禽被扑杀",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721976.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "日本“25式地对舰导弹”首次参加大规模军演",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722026.shtml",
         "publishedAt": "2026-10-28T10:02:27.000+08:00"
-      },
-      {
-        "title": "中山投资控股集团有限公司原高级顾问罗锐鸿被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721998.shtml",
-        "publishedAt": "2026-10-28T10:02:03.000+08:00"
-      },
-      {
-        "title": "长征路上学党史丨六盘山下，一群守护红色记忆的人",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722025.shtml",
-        "publishedAt": "2026-10-28T10:00:59.000+08:00"
-      },
-      {
-        "title": "雄安新区12345热线搭建起四级诉求办理体系",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722024.shtml",
-        "publishedAt": "2026-10-28T09:59:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T10:10:04.302+08:00",
+    "fetchedAt": "2026-10-28T10:20:03.660+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T10:10:10.769+08:00",
+      "fetchedAt": "2026-10-28T10:20:07.580+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 6,
+          "usedPct": 7,
           "resetAt": "2026-10-28T14:16:54.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T10:10:11.317+08:00",
+      "fetchedAt": "2026-10-28T10:20:08.926+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T10:10:11.322+08:00",
+      "fetchedAt": "2026-10-28T10:20:08.931+08:00",
       "error": null
     }
   }
