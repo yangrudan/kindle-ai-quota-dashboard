@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:30:09.509+08:00",
+  "updatedAt": "2026-10-28T21:40:08.784+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-28T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T21:30:09.510+08:00",
+    "fetchedAt": "2026-10-28T21:40:08.784+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "聚焦民间文学之生命力 《民间文学》杂志创刊70周年交流活动举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722442.shtml",
-        "publishedAt": "2026-10-28T21:24:18.000+08:00"
+        "title": "广东高州迎来油茶果丰收",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722453.shtml",
+        "publishedAt": "2026-10-28T21:39:04.000+08:00"
       },
       {
-        "title": "两岸同胞在重庆共同纪念孙中山诞辰160周年",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722432.shtml",
-        "publishedAt": "2026-10-28T21:24:10.000+08:00"
+        "title": "释放“两院一湾”建设牵引效应 重庆南岸做强人工智能创新集群",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722452.shtml",
+        "publishedAt": "2026-10-28T21:29:14.000+08:00"
       },
       {
-        "title": "第16届辽宁省残疾人健身周主场活动在沈启动",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722425.shtml",
-        "publishedAt": "2026-10-28T21:24:08.000+08:00"
+        "title": "全国民航公安系统首个自主卡通IP“小飞警”全新亮相",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722449.shtml",
+        "publishedAt": "2026-10-28T21:29:10.000+08:00"
       },
       {
-        "title": "上海中医药大学庆祝建校70周年 30项中医药国际标准同步发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722446.shtml",
-        "publishedAt": "2026-10-28T21:23:20.000+08:00"
+        "title": "江西余干：鄱阳湖畔网箱养鳝管护忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722436.shtml",
+        "publishedAt": "2026-10-28T21:29:08.000+08:00"
       },
       {
-        "title": "北京已推动17家跨国公司参与高版本资金池试点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722433.shtml",
-        "publishedAt": "2026-10-28T21:23:20.000+08:00"
+        "title": "专家学者广州共议零碳能源如何驱动下一轮全球增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722451.shtml",
+        "publishedAt": "2026-10-28T21:29:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T21:30:04.313+08:00",
+    "fetchedAt": "2026-10-28T21:40:03.128+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T21:30:08.044+08:00",
+      "fetchedAt": "2026-10-28T21:40:07.298+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T02:30:09.000+08:00"
+          "resetAt": "2026-10-29T02:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T21:30:08.551+08:00",
+      "fetchedAt": "2026-10-28T21:40:07.712+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T21:30:08.561+08:00",
+      "fetchedAt": "2026-10-28T21:40:07.722+08:00",
       "error": null
     }
   }
