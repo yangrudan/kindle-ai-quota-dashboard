@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T17:30:18.244+08:00",
+  "updatedAt": "2026-10-28T17:40:11.424+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18,
-    "feelsLikeC": 17,
-    "humidity": 63,
-    "windKph": 8.4,
+    "tempC": 17.6,
+    "feelsLikeC": 16.7,
+    "humidity": 65,
+    "windKph": 8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T17:30:18.244+08:00",
+    "observedAt": "2026-10-28T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T17:40:11.424+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "宁夏引黄灌区开启“冬灌”模式",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722286.shtml",
+        "publishedAt": "2026-10-28T17:33:13.000+08:00"
+      },
+      {
+        "title": "解析三季报：电子行业与高技术制造业贡献突出",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722289.shtml",
+        "publishedAt": "2026-10-28T17:31:17.000+08:00"
+      },
       {
         "title": "停了61分钟，按2小时收费，凭什么？",
         "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722287.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "两部门部署西藏强降雪天气防范应对工作",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722278.shtml",
         "publishedAt": "2026-10-28T17:01:07.000+08:00"
-      },
-      {
-        "title": "四川省旅游景区发展大会召开 聚焦国有景区改革",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722277.shtml",
-        "publishedAt": "2026-10-28T17:00:27.000+08:00"
-      },
-      {
-        "title": "中国大规模研究发现：吃肉可能与长寿有关，尤其是在体重较轻的老人中",
-        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722282.shtml",
-        "publishedAt": "2026-10-28T16:59:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T17:30:12.373+08:00",
+    "fetchedAt": "2026-10-28T17:40:05.748+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T17:30:16.563+08:00",
+      "fetchedAt": "2026-10-28T17:40:10.064+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 84,
+          "usedPct": 89,
           "resetAt": "2026-10-28T19:35:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 13,
+          "usedPct": 14,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T17:30:16.738+08:00",
+      "fetchedAt": "2026-10-28T17:40:10.208+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T17:30:16.750+08:00",
+      "fetchedAt": "2026-10-28T17:40:10.219+08:00",
       "error": null
     }
   }
