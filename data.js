@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T13:00:28.851+08:00",
+  "updatedAt": "2026-10-28T13:10:09.570+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 19.2,
     "feelsLikeC": 18.4,
     "humidity": 53,
-    "windKph": 4.7,
+    "windKph": 4.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T13:00:28.851+08:00",
+    "observedAt": "2026-10-28T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T13:10:09.570+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "A股午评：近4500只个股飘红，三大指数集体收涨，创业板指涨3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722117.shtml",
+        "publishedAt": "2026-10-28T13:04:49.000+08:00"
+      },
       {
         "title": "韩国瑜再提“我是中国人”，批台湾民主“肾虚”要吃六味地黄丸",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722111.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "新阶层·新经济 | “95后”新农人邵前宽：把农业“种”出风景和体验",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722108.shtml",
         "publishedAt": "2026-10-28T12:20:02.000+08:00"
-      },
-      {
-        "title": "102家沪市公司集中释放利好 持续向市场传递积极信号",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722099.shtml",
-        "publishedAt": "2026-10-28T12:19:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T13:00:23.433+08:00",
+    "fetchedAt": "2026-10-28T13:10:03.511+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T13:00:27.397+08:00",
+      "fetchedAt": "2026-10-28T13:10:07.735+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T13:00:27.762+08:00",
+      "fetchedAt": "2026-10-28T13:10:07.990+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T13:00:27.765+08:00",
+      "fetchedAt": "2026-10-28T13:10:07.995+08:00",
       "error": null
     }
   }
