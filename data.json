@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T16:40:07.902+08:00",
+  "updatedAt": "2026-10-28T16:50:08.561+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 19.4,
-    "feelsLikeC": 18.3,
-    "humidity": 56,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 18.9,
+    "feelsLikeC": 17.8,
+    "humidity": 59,
     "windKph": 8.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T16:40:07.902+08:00",
+    "observedAt": "2026-10-28T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T16:50:08.561+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "哈伊高铁开行“满月” 45.3万人次搭乘列车奔赴“千里找北”之旅",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722245.shtml",
-        "publishedAt": "2026-10-28T16:31:04.000+08:00"
+        "title": "两部门部署西藏强降雪天气防范应对工作",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722271.shtml",
+        "publishedAt": "2026-10-28T16:45:43.000+08:00"
       },
       {
-        "title": "2026年“中国国家队公益服务大行动”走进江西崇义",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722247.shtml",
-        "publishedAt": "2026-10-28T16:26:44.000+08:00"
+        "title": "（乡村行·看振兴）浙江磐安产业孵化园“育新苗”：看中医药“点草成金”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722265.shtml",
+        "publishedAt": "2026-10-28T16:45:23.000+08:00"
       },
       {
-        "title": "《步辇图》结束“休眠” 为何说唐蕃之间是“舅甥之谊”？",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722251.shtml",
-        "publishedAt": "2026-10-28T16:26:38.000+08:00"
+        "title": "青海西宁：冬储腌菜忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722261.shtml",
+        "publishedAt": "2026-10-28T16:43:41.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）从支援红军筹粮到高原果蔬出山：四川藏地小镇焕发新貌",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722248.shtml",
-        "publishedAt": "2026-10-28T16:25:00.000+08:00"
+        "title": "快递单、兑换券二维码别随便晒！专家：打马赛克要遮住90%区域",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722268.shtml",
+        "publishedAt": "2026-10-28T16:43:25.000+08:00"
       },
       {
-        "title": "小螺蛳撬动大产业 广西柳江做强螺蛳粉配套产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722243.shtml",
-        "publishedAt": "2026-10-28T16:24:58.000+08:00"
+        "title": "广西三江油茶飘香侗韵浓",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722262.shtml",
+        "publishedAt": "2026-10-28T16:38:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T16:40:02.829+08:00",
+    "fetchedAt": "2026-10-28T16:50:03.487+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 108 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T16:40:06.701+08:00",
+      "fetchedAt": "2026-10-28T16:50:07.482+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 61,
+          "usedPct": 70,
           "resetAt": "2026-10-28T19:35:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 10,
+          "usedPct": 11,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T16:40:06.949+08:00",
+      "fetchedAt": "2026-10-28T16:50:07.742+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T16:40:06.959+08:00",
+      "fetchedAt": "2026-10-28T16:50:07.746+08:00",
       "error": null
     }
   }
