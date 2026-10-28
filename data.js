@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T08:10:39.205+08:00",
+  "updatedAt": "2026-10-28T08:20:18.159+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-28T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T08:10:39.205+08:00",
+    "fetchedAt": "2026-10-28T08:20:18.159+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《医疗康复护理扩容提升工程实施方案》发布 专家解读",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721980.shtml",
+        "publishedAt": "2026-10-28T08:07:52.000+08:00"
+      },
       {
         "title": "超市生鲜一夜之间全都变质？国安部：警惕网络攻击",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721978.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721974.shtml",
         "publishedAt": "2026-10-28T07:43:55.000+08:00"
-      },
-      {
-        "title": "微短剧出海：融入当地语境，才能走得更远",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721973.shtml",
-        "publishedAt": "2026-10-28T07:33:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T08:10:04.366+08:00",
+    "fetchedAt": "2026-10-28T08:20:12.673+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T08:10:37.768+08:00",
+      "fetchedAt": "2026-10-28T08:20:17.045+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T13:10:39.000+08:00"
+          "resetAt": "2026-10-28T13:20:18.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T08:10:38.275+08:00",
+      "fetchedAt": "2026-10-28T08:20:17.320+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T08:10:38.284+08:00",
+      "fetchedAt": "2026-10-28T08:20:17.328+08:00",
       "error": null
     }
   }
