@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T09:10:39.312+08:00",
+  "updatedAt": "2026-10-28T09:20:09.226+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 16.3,
-    "feelsLikeC": 15.9,
-    "humidity": 66,
-    "windKph": 2.3,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 16.7,
+    "feelsLikeC": 16.2,
+    "humidity": 64,
+    "windKph": 2.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-28T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T09:10:39.312+08:00",
+    "observedAt": "2026-10-28T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T09:20:09.226+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "补肾气、调气血、健脾胃 这种“肾果”现在吃正合适→",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10721990.shtml",
-        "publishedAt": "2026-10-28T08:57:39.000+08:00"
+        "title": "“阿尔纳卜”已经在印度沿海登陆 后天西藏降水进入最强时段",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721994.shtml",
+        "publishedAt": "2026-10-28T09:14:12.000+08:00"
       },
       {
-        "title": "中缅智库高端论坛缘何扎根德宏",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10721986.shtml",
-        "publishedAt": "2026-10-28T08:54:55.000+08:00"
+        "title": "中国小将孙心然广网首战告捷",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10721987.shtml",
+        "publishedAt": "2026-10-28T09:07:28.000+08:00"
       },
       {
-        "title": "陪诊国标即将实施，将改变什么？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721985.shtml",
-        "publishedAt": "2026-10-28T08:40:12.000+08:00"
+        "title": "受冷空气影响 泉金客运航线临时停航",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721991.shtml",
+        "publishedAt": "2026-10-28T09:06:32.000+08:00"
       },
       {
-        "title": "秋色染金！全国银杏观赏地图出炉 多种玩法带你探索银杏之美",
-        "url": "https://www.chinanews.com.cn/life/2026/10-28/10721984.shtml",
-        "publishedAt": "2026-10-28T08:27:36.000+08:00"
+        "title": "“随身提大水”的年轻人，不只是在玩梗",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721993.shtml",
+        "publishedAt": "2026-10-28T09:05:28.000+08:00"
       },
       {
-        "title": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721981.shtml",
-        "publishedAt": "2026-10-28T08:26:27.000+08:00"
+        "title": "第140届广交会到会境外采购商已达27.8万名",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721988.shtml",
+        "publishedAt": "2026-10-28T09:04:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T09:10:04.071+08:00",
+    "fetchedAt": "2026-10-28T09:20:03.852+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T09:10:37.835+08:00",
+      "fetchedAt": "2026-10-28T09:20:07.979+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-28T14:10:39.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-10-28T14:16:54.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T09:10:38.189+08:00",
+      "fetchedAt": "2026-10-28T09:20:08.228+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T09:10:38.198+08:00",
+      "fetchedAt": "2026-10-28T09:20:08.239+08:00",
       "error": null
     }
   }
