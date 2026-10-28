@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T08:30:09.348+08:00",
+  "updatedAt": "2026-10-28T08:40:08.334+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-28T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T08:30:09.349+08:00",
+    "fetchedAt": "2026-10-28T08:40:08.335+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "秋色染金！全国银杏观赏地图出炉 多种玩法带你探索银杏之美",
+        "url": "https://www.chinanews.com.cn/life/2026/10-28/10721984.shtml",
+        "publishedAt": "2026-10-28T08:27:36.000+08:00"
+      },
+      {
+        "title": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721981.shtml",
+        "publishedAt": "2026-10-28T08:26:27.000+08:00"
+      },
+      {
+        "title": "核心部件本地配套率100%，芜湖航空小镇“坐地起飞”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721983.shtml",
+        "publishedAt": "2026-10-28T08:24:49.000+08:00"
+      },
       {
         "title": "优惠规则难倒AI？“双十一”岂能层层设套",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721982.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "《医疗康复护理扩容提升工程实施方案》发布 专家解读",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721980.shtml",
         "publishedAt": "2026-10-28T08:07:52.000+08:00"
-      },
-      {
-        "title": "超市生鲜一夜之间全都变质？国安部：警惕网络攻击",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721978.shtml",
-        "publishedAt": "2026-10-28T08:05:16.000+08:00"
-      },
-      {
-        "title": "多地侨乡创新实践，助力文化“新三样”出海",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721977.shtml",
-        "publishedAt": "2026-10-28T08:00:42.000+08:00"
-      },
-      {
-        "title": "美国10月消费者信心指数回升至91.7 好于市场预期",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721975.shtml",
-        "publishedAt": "2026-10-28T07:59:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T08:30:03.346+08:00",
+    "fetchedAt": "2026-10-28T08:40:02.837+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T08:30:08.139+08:00",
+      "fetchedAt": "2026-10-28T08:40:07.033+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T13:30:09.000+08:00"
+          "resetAt": "2026-10-28T13:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T08:30:08.464+08:00",
+      "fetchedAt": "2026-10-28T08:40:07.250+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T08:30:08.473+08:00",
+      "fetchedAt": "2026-10-28T08:40:07.257+08:00",
       "error": null
     }
   }
