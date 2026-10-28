@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T20:00:09.532+08:00",
+  "updatedAt": "2026-10-28T20:10:17.440+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-28T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T20:00:09.533+08:00",
+    "fetchedAt": "2026-10-28T20:10:17.441+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆“母城”渝中以系列举措助推文旅体融合发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722374.shtml",
-        "publishedAt": "2026-10-28T19:53:49.000+08:00"
+        "title": "海外“AI”不释手！中国造爆款 订单排到明年→",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722386.shtml",
+        "publishedAt": "2026-10-28T20:01:15.000+08:00"
       },
       {
-        "title": "河南南阳：师生变废为宝践行勤俭理念",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722373.shtml",
-        "publishedAt": "2026-10-28T19:53:05.000+08:00"
+        "title": "深化中国—东盟务实合作 专家提五大建议",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722377.shtml",
+        "publishedAt": "2026-10-28T20:00:33.000+08:00"
       },
       {
-        "title": "江苏昆山2026年前三季度实现规上工业总产值近万亿元",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-28/10722382.shtml",
-        "publishedAt": "2026-10-28T19:50:59.000+08:00"
+        "title": "第六届川台茶文化茶产业传承与创新研习营在成都启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722376.shtml",
+        "publishedAt": "2026-10-28T19:59:07.000+08:00"
       },
       {
-        "title": "2026柴古唐斯在浙江临海跑向“一赛一城”新十年",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722378.shtml",
-        "publishedAt": "2026-10-28T19:50:55.000+08:00"
+        "title": "第九届“中国—东盟青年风汇”在京举行",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-28/10722381.shtml",
+        "publishedAt": "2026-10-28T19:57:49.000+08:00"
       },
       {
-        "title": "俄罗斯歌舞《深情的沃洛格达》亮相第十二届丝路国际艺术节",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722375.shtml",
-        "publishedAt": "2026-10-28T19:48:32.000+08:00"
+        "title": "中国品牌凭实力海外圈粉",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722379.shtml",
+        "publishedAt": "2026-10-28T19:56:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T20:00:04.722+08:00",
+    "fetchedAt": "2026-10-28T20:10:12.687+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T20:00:08.273+08:00",
+      "fetchedAt": "2026-10-28T20:10:16.261+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T01:00:09.000+08:00"
+          "resetAt": "2026-10-29T01:10:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T20:00:08.539+08:00",
+      "fetchedAt": "2026-10-28T20:10:16.607+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T20:00:08.548+08:00",
+      "fetchedAt": "2026-10-28T20:10:16.616+08:00",
       "error": null
     }
   }
