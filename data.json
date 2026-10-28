@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T19:20:07.723+08:00",
+  "updatedAt": "2026-10-28T19:30:18.497+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-28T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T19:20:07.723+08:00",
+    "fetchedAt": "2026-10-28T19:30:18.497+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中刚时尚与文化共生艺术节将于11月在线上举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722370.shtml",
+        "publishedAt": "2026-10-28T19:22:07.000+08:00"
+      },
+      {
+        "title": "海外华文媒体走访青岛科创大走廊 感受中国创新活力",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722365.shtml",
+        "publishedAt": "2026-10-28T19:20:09.000+08:00"
+      },
       {
         "title": "我国发现三颗“本不该存在”的行星 它们为何能逃过恒星吞噬？",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722372.shtml",
@@ -33,19 +43,9 @@
         "title": "福州：人行天桥“戴”上巨型花环",
         "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722317.shtml",
         "publishedAt": "2026-10-28T19:14:45.000+08:00"
-      },
-      {
-        "title": "襄渝、兰渝铁路第二阶段集中修启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722369.shtml",
-        "publishedAt": "2026-10-28T19:14:37.000+08:00"
-      },
-      {
-        "title": "锚定长期主义，共创增长新未来，美孚1号车养护2026“1号领创会”在沪举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722343.shtml",
-        "publishedAt": "2026-10-28T19:13:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T19:20:02.729+08:00",
+    "fetchedAt": "2026-10-28T19:30:12.526+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T19:20:06.440+08:00",
+      "fetchedAt": "2026-10-28T19:30:17.090+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T19:20:06.666+08:00",
+      "fetchedAt": "2026-10-28T19:30:17.316+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T19:20:06.674+08:00",
+      "fetchedAt": "2026-10-28T19:30:17.326+08:00",
       "error": null
     }
   }
