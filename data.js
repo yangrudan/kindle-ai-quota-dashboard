@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T09:50:39.392+08:00",
+  "updatedAt": "2026-10-28T10:00:09.705+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.5,
-    "feelsLikeC": 16.9,
-    "humidity": 60,
-    "windKph": 3.6,
+    "tempC": 17.8,
+    "feelsLikeC": 17.2,
+    "humidity": 59,
+    "windKph": 4.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-28T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T09:50:39.392+08:00",
+    "observedAt": "2026-10-28T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T10:00:09.705+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "CBA常规赛：浙江队81比75战胜新疆队",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722006.shtml",
+        "publishedAt": "2026-10-28T09:53:04.000+08:00"
+      },
+      {
+        "title": "坚守初心使命，始终保持党同人民群众的血肉联系——习近平党建思想引领新时代全面从严治党系列述评之二",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722014.shtml",
+        "publishedAt": "2026-10-28T09:48:48.000+08:00"
+      },
+      {
+        "title": "关注中国，就是关注未来",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722021.shtml",
+        "publishedAt": "2026-10-28T09:46:14.000+08:00"
+      },
+      {
+        "title": "每天坚持做这8个“长寿动作”，身体会感谢你！",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10722020.shtml",
+        "publishedAt": "2026-10-28T09:44:52.000+08:00"
+      },
+      {
         "title": "全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722019.shtml",
         "publishedAt": "2026-10-28T09:44:00.000+08:00"
-      },
-      {
-        "title": "中期选举在即 特朗普支持率从历史低点回升",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721995.shtml",
-        "publishedAt": "2026-10-28T09:42:34.000+08:00"
-      },
-      {
-        "title": "金观平：有的放矢提高基础研究实力",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722017.shtml",
-        "publishedAt": "2026-10-28T09:41:26.000+08:00"
-      },
-      {
-        "title": "改名“搬运”AI微短剧是否构成侵权？",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722016.shtml",
-        "publishedAt": "2026-10-28T09:37:21.000+08:00"
-      },
-      {
-        "title": "10月28日央行开展1510亿元7天期逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722012.shtml",
-        "publishedAt": "2026-10-28T09:37:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T09:50:03.889+08:00",
+    "fetchedAt": "2026-10-28T10:00:03.240+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T09:50:37.984+08:00",
+      "fetchedAt": "2026-10-28T10:00:08.465+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T09:50:38.394+08:00",
+      "fetchedAt": "2026-10-28T10:00:08.722+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T09:50:38.402+08:00",
+      "fetchedAt": "2026-10-28T10:00:08.733+08:00",
       "error": null
     }
   }
