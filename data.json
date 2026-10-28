@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T14:50:38.856+08:00",
+  "updatedAt": "2026-10-28T15:00:41.299+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 20.5,
     "feelsLikeC": 19.7,
     "humidity": 51,
-    "windKph": 5.3,
+    "windKph": 5.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T14:50:38.856+08:00",
+    "observedAt": "2026-10-28T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T15:00:41.299+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "举重世锦赛：杨洋斩获两金一铜 赵金红摘得三银",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722169.shtml",
-        "publishedAt": "2026-10-28T14:44:54.000+08:00"
+        "title": "2026年01月-09月广西外贸数据图表",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722180.shtml",
+        "publishedAt": "2026-10-28T14:55:11.000+08:00"
       },
       {
-        "title": "“谢谢你们，在这种时候还能上门服务”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722168.shtml",
-        "publishedAt": "2026-10-28T14:38:28.000+08:00"
+        "title": "又拍车牌又自拍 网约车司机果断报警拦下刷单骗局",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722179.shtml",
+        "publishedAt": "2026-10-28T14:54:49.000+08:00"
       },
       {
-        "title": "看得见、算得快、连得远 6G有这些“新技能”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722174.shtml",
-        "publishedAt": "2026-10-28T14:36:44.000+08:00"
+        "title": "全国家庭健康主题推进活动基层行盐城亭湖专场举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722172.shtml",
+        "publishedAt": "2026-10-28T14:47:48.000+08:00"
       },
       {
-        "title": "最漫长的一公里：他怀抱原子弹“点火装置”走过戈壁",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722170.shtml",
-        "publishedAt": "2026-10-28T14:34:54.000+08:00"
+        "title": "“纯过日子人”的底气，是谁给的？",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722177.shtml",
+        "publishedAt": "2026-10-28T14:47:36.000+08:00"
       },
       {
-        "title": "国际科研出版机构携手AI提升同行评审体验 强化论文质量与科研诚信",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722159.shtml",
-        "publishedAt": "2026-10-28T14:32:29.000+08:00"
+        "title": "现场签约金额超109亿元 第三十三届中国杨凌农高会推介大会暨集中签约活动举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722171.shtml",
+        "publishedAt": "2026-10-28T14:46:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T14:50:03.328+08:00",
+    "fetchedAt": "2026-10-28T15:00:02.990+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T14:50:37.797+08:00",
+      "fetchedAt": "2026-10-28T15:00:38.410+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
+          "usedPct": 21,
           "resetAt": "2026-10-28T19:35:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T14:50:38.025+08:00",
+      "fetchedAt": "2026-10-28T15:00:38.657+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T14:50:38.036+08:00",
+      "fetchedAt": "2026-10-28T15:00:38.668+08:00",
       "error": null
     }
   }
