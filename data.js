@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T18:20:39.765+08:00",
+  "updatedAt": "2026-10-28T18:30:08.663+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 16.8,
-    "feelsLikeC": 16,
-    "humidity": 69,
-    "windKph": 7.6,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 16.7,
+    "feelsLikeC": 15.9,
+    "humidity": 71,
+    "windKph": 7.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T18:20:39.765+08:00",
+    "observedAt": "2026-10-28T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T18:30:08.663+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西藏全区实现江河湖泊管护全覆盖",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722319.shtml",
-        "publishedAt": "2026-10-28T18:16:40.000+08:00"
+        "title": "武汉打造“机器人职业学院”：为机器人定制AI教材",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722330.shtml",
+        "publishedAt": "2026-10-28T18:24:54.000+08:00"
       },
       {
-        "title": "重庆经开区“十五五”将进一步提升对外开放能级",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722318.shtml",
-        "publishedAt": "2026-10-28T18:16:32.000+08:00"
+        "title": "（友城故事）7400公里外，一座德国小城“开”进太原",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722325.shtml",
+        "publishedAt": "2026-10-28T18:23:36.000+08:00"
       },
       {
-        "title": "有中国公民在西班牙列车相撞事故中受轻伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722323.shtml",
-        "publishedAt": "2026-10-28T18:14:51.000+08:00"
+        "title": "寻踪大运河文脉：一位文博人眼中的运河南端与千年漕运",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722308.shtml",
+        "publishedAt": "2026-10-28T18:21:50.000+08:00"
       },
       {
-        "title": "福建永安天宝岩保护区发现大型真菌新物种“海氏暗盘菌”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722314.shtml",
-        "publishedAt": "2026-10-28T18:14:35.000+08:00"
+        "title": "中小学秋假怎么放？注意这些误区（2026·10·28）",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722333.shtml",
+        "publishedAt": "2026-10-28T18:20:52.000+08:00"
       },
       {
-        "title": "“内部推荐”“直签保录” 别轻信！看这篇求职不踩坑",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722321.shtml",
-        "publishedAt": "2026-10-28T18:13:09.000+08:00"
+        "title": "在浦东生活，向世界讲述：外籍居民成为“城市推荐官”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722320.shtml",
+        "publishedAt": "2026-10-28T18:20:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T18:20:03.343+08:00",
+    "fetchedAt": "2026-10-28T18:30:04.009+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T18:20:36.853+08:00",
+      "fetchedAt": "2026-10-28T18:30:07.503+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T18:20:38.455+08:00",
+      "fetchedAt": "2026-10-28T18:30:07.797+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T18:20:38.465+08:00",
+      "fetchedAt": "2026-10-28T18:30:07.805+08:00",
       "error": null
     }
   }
