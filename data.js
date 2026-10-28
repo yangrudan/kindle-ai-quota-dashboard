@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T19:30:18.497+08:00",
+  "updatedAt": "2026-10-28T19:40:39.540+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.4,
-    "feelsLikeC": 15.8,
-    "humidity": 75,
-    "windKph": 8,
+    "tempC": 16.3,
+    "feelsLikeC": 15.7,
+    "humidity": 76,
+    "windKph": 8.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T19:30:18.497+08:00",
+    "observedAt": "2026-10-28T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T19:40:39.540+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国官方部署西藏强降雪天气防范应对",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722342.shtml",
+        "publishedAt": "2026-10-28T19:30:29.000+08:00"
+      },
+      {
+        "title": "探访“植物大熊猫”崖柏繁育科研基地",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722371.shtml",
+        "publishedAt": "2026-10-28T19:27:07.000+08:00"
+      },
+      {
+        "title": "中国再为8位已迎回在韩中国人民志愿军烈士确认身份",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722360.shtml",
+        "publishedAt": "2026-10-28T19:26:25.000+08:00"
+      },
       {
         "title": "中刚时尚与文化共生艺术节将于11月在线上举办",
         "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722370.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "海外华文媒体走访青岛科创大走廊 感受中国创新活力",
         "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722365.shtml",
         "publishedAt": "2026-10-28T19:20:09.000+08:00"
-      },
-      {
-        "title": "我国发现三颗“本不该存在”的行星 它们为何能逃过恒星吞噬？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722372.shtml",
-        "publishedAt": "2026-10-28T19:17:23.000+08:00"
-      },
-      {
-        "title": "长征路上的归侨中将庄田：血战湘江撕防线，三过草地破危局",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-28/10722368.shtml",
-        "publishedAt": "2026-10-28T19:14:45.000+08:00"
-      },
-      {
-        "title": "福州：人行天桥“戴”上巨型花环",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722317.shtml",
-        "publishedAt": "2026-10-28T19:14:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T19:30:12.526+08:00",
+    "fetchedAt": "2026-10-28T19:40:03.150+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T19:30:17.090+08:00",
+      "fetchedAt": "2026-10-28T19:40:37.854+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 93,
-          "resetAt": "2026-10-28T19:35:09.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-29T00:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T19:30:17.316+08:00",
+      "fetchedAt": "2026-10-28T19:40:38.115+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T19:30:17.326+08:00",
+      "fetchedAt": "2026-10-28T19:40:38.121+08:00",
       "error": null
     }
   }
