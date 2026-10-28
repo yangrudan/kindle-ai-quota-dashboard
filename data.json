@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T22:20:47.422+08:00",
+  "updatedAt": "2026-10-28T22:30:09.377+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.8,
-    "feelsLikeC": 15.1,
-    "humidity": 80,
-    "windKph": 8.9,
+    "tempC": 15.5,
+    "feelsLikeC": 15.2,
+    "humidity": 82,
+    "windKph": 7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-28T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T22:20:47.423+08:00",
+    "observedAt": "2026-10-28T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T22:30:09.377+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“AI+自动驾驶”技术 探访浙江桐乡无人车智造中心",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722455.shtml",
-        "publishedAt": "2026-10-28T22:03:58.000+08:00"
+        "title": "云南立法保护铁路安全 纳入跨境协作内容",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722477.shtml",
+        "publishedAt": "2026-10-28T22:18:35.000+08:00"
       },
       {
-        "title": "世界海拔最高风电场升压站建成 华电措美哲古一期风电项目全容量投产",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722462.shtml",
-        "publishedAt": "2026-10-28T22:02:48.000+08:00"
+        "title": "澜湄流域各国艺术家齐聚西双版纳 演绎多元文明交融共生",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722476.shtml",
+        "publishedAt": "2026-10-28T22:18:27.000+08:00"
       },
       {
-        "title": "西藏巴青震区安置一线：一群基层干部，守护牧区每一户",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722458.shtml",
-        "publishedAt": "2026-10-28T22:00:58.000+08:00"
+        "title": "18国跑酷高手11月挑战张家界天门山999级天梯",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722475.shtml",
+        "publishedAt": "2026-10-28T22:18:23.000+08:00"
       },
       {
-        "title": "2026年全国游泳锦标赛（25米）：彭旭玮获得女子200米仰泳冠军",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209170.shtml",
-        "publishedAt": "2026-10-28T22:00:11.000+08:00"
+        "title": "大病留本地 外转降下来：跨省医疗帮扶让云南澄江大病不出市",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722474.shtml",
+        "publishedAt": "2026-10-28T22:18:21.000+08:00"
       },
       {
-        "title": "中国—东盟地方官员共探数智时代城市治理",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722461.shtml",
-        "publishedAt": "2026-10-28T21:56:57.000+08:00"
+        "title": "广西多点发力 加快完善生育支持政策体系",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722473.shtml",
+        "publishedAt": "2026-10-28T22:17:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T22:20:12.116+08:00",
+    "fetchedAt": "2026-10-28T22:30:04.163+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T22:20:46.254+08:00",
+      "fetchedAt": "2026-10-28T22:30:08.190+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T03:20:47.000+08:00"
+          "resetAt": "2026-10-29T03:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T22:20:46.553+08:00",
+      "fetchedAt": "2026-10-28T22:30:08.406+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T22:20:46.562+08:00",
+      "fetchedAt": "2026-10-28T22:30:08.412+08:00",
       "error": null
     }
   }
