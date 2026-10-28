@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T11:20:12.243+08:00",
+  "updatedAt": "2026-10-28T11:30:11.100+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 17.7,
+    "tempC": 18.8,
+    "feelsLikeC": 17.8,
     "humidity": 54,
     "windKph": 5.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T11:20:12.243+08:00",
+    "observedAt": "2026-10-28T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T11:30:11.100+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "AI乌镇 科创桐乡｜“乌镇七子”亮相！人工智能产业闭环加速成形",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722086.shtml",
-        "publishedAt": "2026-10-28T11:11:52.000+08:00"
+        "title": "我国农用无人机保有量超30万架 居全球首位",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722092.shtml",
+        "publishedAt": "2026-10-28T11:20:31.000+08:00"
       },
       {
-        "title": "每万人口高价值发明专利拥有量大幅跃升，如何实现",
-        "url": "https://www.chinanews.com.cn/kong/2026/10-28/10722085.shtml",
-        "publishedAt": "2026-10-28T11:11:50.000+08:00"
+        "title": "聚焦两大千亿级产业，年度第48个矩阵项目→",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722084.shtml",
+        "publishedAt": "2026-10-28T11:20:09.000+08:00"
       },
       {
-        "title": "云岭动态第二十八期",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722077.shtml",
-        "publishedAt": "2026-10-28T11:10:12.000+08:00"
+        "title": "“同心之歌响起的地方”，沪台音乐人金秋共叙“两岸一家亲”",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722090.shtml",
+        "publishedAt": "2026-10-28T11:18:47.000+08:00"
       },
       {
-        "title": "中方呼吁为妇女营造和平稳定环境",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722080.shtml",
-        "publishedAt": "2026-10-28T11:07:52.000+08:00"
+        "title": "希望的田野上一幅秋粮抢收画卷正徐徐展开 秸秆“二次增收”走出共赢新路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722091.shtml",
+        "publishedAt": "2026-10-28T11:17:47.000+08:00"
       },
       {
-        "title": "“零添加”等于更安全、更健康？丨中新真探",
-        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722074.shtml",
-        "publishedAt": "2026-10-28T11:06:44.000+08:00"
+        "title": "四川男篮81比91不敌南京男篮",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722083.shtml",
+        "publishedAt": "2026-10-28T11:17:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T11:20:03.937+08:00",
+    "fetchedAt": "2026-10-28T11:30:04.016+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T11:20:10.958+08:00",
+      "fetchedAt": "2026-10-28T11:30:09.764+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
+          "usedPct": 33,
           "resetAt": "2026-10-28T14:16:54.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 34,
+          "usedPct": 35,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T11:20:11.191+08:00",
+      "fetchedAt": "2026-10-28T11:30:10.000+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T11:20:11.197+08:00",
+      "fetchedAt": "2026-10-28T11:30:10.006+08:00",
       "error": null
     }
   }
