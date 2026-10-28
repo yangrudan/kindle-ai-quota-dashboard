@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T15:20:37.708+08:00",
+  "updatedAt": "2026-10-28T15:30:09.412+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 20.5,
-    "feelsLikeC": 19.6,
+    "feelsLikeC": 19.5,
     "humidity": 51,
-    "windKph": 6.2,
+    "windKph": 6.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T15:20:37.708+08:00",
+    "observedAt": "2026-10-28T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T15:30:09.412+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "欧洲华文媒体探访长沙铜官窑 感受千年窑火传承",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722185.shtml",
-        "publishedAt": "2026-10-28T15:10:37.000+08:00"
+        "title": "澳大利亚向中方返还两件流失文物",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209111.shtml",
+        "publishedAt": "2026-10-28T15:21:00.000+08:00"
       },
       {
-        "title": "连吃了7天氯雷他定，要不要换其他药？季节性过敏用药、预防，一次说清",
-        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722189.shtml",
-        "publishedAt": "2026-10-28T15:09:47.000+08:00"
+        "title": "A股收评：超4100只个股飘红，三大指数集体收涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722197.shtml",
+        "publishedAt": "2026-10-28T15:20:46.000+08:00"
       },
       {
-        "title": "瑞士联邦主席帕姆兰将访华",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722187.shtml",
-        "publishedAt": "2026-10-28T15:06:11.000+08:00"
+        "title": "应届生签约自查：一份规范的劳动合同必须写清这7点",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722192.shtml",
+        "publishedAt": "2026-10-28T15:18:14.000+08:00"
       },
       {
-        "title": "事关养老机构等级划分 民政部公开征求意见",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722186.shtml",
-        "publishedAt": "2026-10-28T15:03:27.000+08:00"
+        "title": "中方回应法国球星姆巴佩就涉华不当言论道歉",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722194.shtml",
+        "publishedAt": "2026-10-28T15:16:46.000+08:00"
       },
       {
-        "title": "云南省2025年至2026年9月月度进出口趋势图",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722183.shtml",
-        "publishedAt": "2026-10-28T15:00:21.000+08:00"
+        "title": "（乡村行·看振兴）AI助力管好白桦林 吉林桦甸“森林原汁”走出国门",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722193.shtml",
+        "publishedAt": "2026-10-28T15:16:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T15:20:03.034+08:00",
+    "fetchedAt": "2026-10-28T15:30:03.603+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T15:20:36.595+08:00",
+      "fetchedAt": "2026-10-28T15:30:08.076+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 25,
+          "usedPct": 26,
           "resetAt": "2026-10-28T19:35:09.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T15:20:36.845+08:00",
+      "fetchedAt": "2026-10-28T15:30:08.406+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T15:20:36.849+08:00",
+      "fetchedAt": "2026-10-28T15:30:08.415+08:00",
       "error": null
     }
   }
