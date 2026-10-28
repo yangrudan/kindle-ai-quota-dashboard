@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T11:10:13.008+08:00",
+  "updatedAt": "2026-10-28T11:20:12.243+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.6,
-    "feelsLikeC": 17.6,
-    "humidity": 55,
-    "windKph": 5.2,
+    "tempC": 18.7,
+    "feelsLikeC": 17.7,
+    "humidity": 54,
+    "windKph": 5.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T11:10:13.008+08:00",
+    "observedAt": "2026-10-28T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T11:20:12.243+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "【在希望的田野上】各地秋收秋种有序推进",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722075.shtml",
-        "publishedAt": "2026-10-28T11:01:36.000+08:00"
+        "title": "AI乌镇 科创桐乡｜“乌镇七子”亮相！人工智能产业闭环加速成形",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722086.shtml",
+        "publishedAt": "2026-10-28T11:11:52.000+08:00"
       },
       {
-        "title": "岛内多党派团体举办台湾光复纪念活动 国台办：发出了台湾同胞的正义之声",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722047.shtml",
-        "publishedAt": "2026-10-28T11:01:06.000+08:00"
+        "title": "每万人口高价值发明专利拥有量大幅跃升，如何实现",
+        "url": "https://www.chinanews.com.cn/kong/2026/10-28/10722085.shtml",
+        "publishedAt": "2026-10-28T11:11:50.000+08:00"
       },
       {
-        "title": "各地重大水利工程加快建设",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722073.shtml",
-        "publishedAt": "2026-10-28T10:58:50.000+08:00"
+        "title": "云岭动态第二十八期",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722077.shtml",
+        "publishedAt": "2026-10-28T11:10:12.000+08:00"
       },
       {
-        "title": "早餐缺的蛋白质，晚餐补不回来？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10722072.shtml",
-        "publishedAt": "2026-10-28T10:56:40.000+08:00"
+        "title": "中方呼吁为妇女营造和平稳定环境",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722080.shtml",
+        "publishedAt": "2026-10-28T11:07:52.000+08:00"
       },
       {
-        "title": "俄罗斯百人校长团启程仪式暨中俄中学联盟年会开幕式在京举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722066.shtml",
-        "publishedAt": "2026-10-28T10:56:16.000+08:00"
+        "title": "“零添加”等于更安全、更健康？丨中新真探",
+        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722074.shtml",
+        "publishedAt": "2026-10-28T11:06:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T11:10:03.272+08:00",
+    "fetchedAt": "2026-10-28T11:20:03.937+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T11:10:11.845+08:00",
+      "fetchedAt": "2026-10-28T11:20:10.958+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 27,
           "resetAt": "2026-10-28T14:16:54.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 33,
+          "usedPct": 34,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T11:10:12.026+08:00",
+      "fetchedAt": "2026-10-28T11:20:11.191+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T11:10:12.037+08:00",
+      "fetchedAt": "2026-10-28T11:20:11.197+08:00",
       "error": null
     }
   }
