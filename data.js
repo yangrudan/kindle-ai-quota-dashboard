@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T14:30:10.427+08:00",
+  "updatedAt": "2026-10-28T14:40:11.318+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 18.2,
-    "humidity": 54,
+    "tempC": 20.5,
+    "feelsLikeC": 19.8,
+    "humidity": 51,
     "windKph": 4.4,
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-28T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T14:30:10.427+08:00",
+    "fetchedAt": "2026-10-28T14:40:11.318+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "国际科研出版机构携手AI提升同行评审体验 强化论文质量与科研诚信",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722159.shtml",
+        "publishedAt": "2026-10-28T14:32:29.000+08:00"
+      },
+      {
+        "title": "港珠澳大桥珠海公路口岸开通以来对APEC经济体进出口突破万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722167.shtml",
+        "publishedAt": "2026-10-28T14:31:31.000+08:00"
+      },
+      {
+        "title": "中方赴法德举行防务战略磋商",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722162.shtml",
+        "publishedAt": "2026-10-28T14:29:09.000+08:00"
+      },
+      {
+        "title": "探访火箭制造基地 看新一代通信网在太空的运力支撑",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722163.shtml",
+        "publishedAt": "2026-10-28T14:27:53.000+08:00"
+      },
+      {
         "title": "第四届临沂商城国际采购商大会在山东临沂开幕",
         "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722143.shtml",
         "publishedAt": "2026-10-28T14:16:47.000+08:00"
-      },
-      {
-        "title": "（粤港澳大湾区）2026粤港澳大湾区全球招商大会11月3日在广州开幕",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722156.shtml",
-        "publishedAt": "2026-10-28T14:16:15.000+08:00"
-      },
-      {
-        "title": "纪念台湾光复81周年 国台办：两岸同胞对历史有共同的记忆",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722149.shtml",
-        "publishedAt": "2026-10-28T14:15:16.000+08:00"
-      },
-      {
-        "title": "中国国际石油化工大会首次落地湛江 发布多项行业成果",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722155.shtml",
-        "publishedAt": "2026-10-28T14:15:04.000+08:00"
-      },
-      {
-        "title": "深圳福田校园高尔夫球联赛收官 AI规则课堂亮相",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722153.shtml",
-        "publishedAt": "2026-10-28T14:13:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T14:30:03.994+08:00",
+    "fetchedAt": "2026-10-28T14:40:03.751+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T14:30:09.039+08:00",
+      "fetchedAt": "2026-10-28T14:40:08.929+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-28T19:30:10.000+08:00"
+          "usedPct": 4,
+          "resetAt": "2026-10-28T19:35:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 36,
-          "resetAt": "2026-11-02T14:12:36.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T14:30:09.300+08:00",
+      "fetchedAt": "2026-10-28T14:40:09.465+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T14:30:09.305+08:00",
+      "fetchedAt": "2026-10-28T14:40:09.476+08:00",
       "error": null
     }
   }
