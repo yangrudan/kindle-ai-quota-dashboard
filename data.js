@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T21:10:46.679+08:00",
+  "updatedAt": "2026-10-28T21:20:09.373+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.2,
+    "tempC": 16.1,
     "feelsLikeC": 15.4,
     "humidity": 78,
-    "windKph": 9.7,
-    "windDir": "东风",
+    "windKph": 9.8,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-28T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T21:10:46.680+08:00",
+    "observedAt": "2026-10-28T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T21:20:09.373+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西班牙官方公布高铁相撞事故已致64人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722423.shtml",
-        "publishedAt": "2026-10-28T21:03:11.000+08:00"
+        "title": "初步计票显示以色列两大阵营均未获议会多数席位",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722435.shtml",
+        "publishedAt": "2026-10-28T21:13:49.000+08:00"
       },
       {
-        "title": "2026中国体育文化博览会、中国体育旅游博览会将于11月中旬在苏州举办",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722412.shtml",
-        "publishedAt": "2026-10-28T21:02:10.000+08:00"
+        "title": "中新网评：皇马道歉完还须补课",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722420.shtml",
+        "publishedAt": "2026-10-28T21:13:49.000+08:00"
       },
       {
-        "title": "江西鄱阳湖陆续迎来候鸟越冬栖息",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722403.shtml",
-        "publishedAt": "2026-10-28T21:01:22.000+08:00"
+        "title": "今日丝绸之路国际艺术邀请展吸引市民参观",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722410.shtml",
+        "publishedAt": "2026-10-28T21:08:25.000+08:00"
       },
       {
-        "title": "专家：肿瘤介入进入精准化阶段 质控体系与基层能力仍存短板",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10722421.shtml",
-        "publishedAt": "2026-10-28T20:59:22.000+08:00"
+        "title": "新一代智能终端蓬勃发展 业界乘势夯实产业底座",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722417.shtml",
+        "publishedAt": "2026-10-28T21:06:33.000+08:00"
       },
       {
-        "title": "平陆运河带旺百色港田东港区 面向东盟拓展产业新空间",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722415.shtml",
-        "publishedAt": "2026-10-28T20:56:18.000+08:00"
+        "title": "北京市属国企2027届高校毕业生秋季校园专场招聘活动举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722418.shtml",
+        "publishedAt": "2026-10-28T21:05:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T21:10:12.170+08:00",
+    "fetchedAt": "2026-10-28T21:20:03.266+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T21:10:45.765+08:00",
+      "fetchedAt": "2026-10-28T21:20:07.788+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T02:10:46.000+08:00"
+          "resetAt": "2026-10-29T02:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T21:10:45.840+08:00",
+      "fetchedAt": "2026-10-28T21:20:07.971+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T21:10:45.848+08:00",
+      "fetchedAt": "2026-10-28T21:20:07.980+08:00",
       "error": null
     }
   }
