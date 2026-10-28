@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T08:50:17.018+08:00",
+  "updatedAt": "2026-10-28T09:00:10.313+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.4,
-    "feelsLikeC": 15,
-    "humidity": 69,
+    "tempC": 16.3,
+    "feelsLikeC": 15.9,
+    "humidity": 66,
     "windKph": 2.3,
-    "windDir": "西北风",
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-28T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T08:50:17.018+08:00",
+    "observedAt": "2026-10-28T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T09:00:10.313+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "补肾气、调气血、健脾胃 这种“肾果”现在吃正合适→",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10721990.shtml",
+        "publishedAt": "2026-10-28T08:57:39.000+08:00"
+      },
+      {
+        "title": "中缅智库高端论坛缘何扎根德宏",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10721986.shtml",
+        "publishedAt": "2026-10-28T08:54:55.000+08:00"
+      },
       {
         "title": "陪诊国标即将实施，将改变什么？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721985.shtml",
@@ -33,19 +43,9 @@
         "title": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721981.shtml",
         "publishedAt": "2026-10-28T08:26:27.000+08:00"
-      },
-      {
-        "title": "核心部件本地配套率100%，芜湖航空小镇“坐地起飞”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721983.shtml",
-        "publishedAt": "2026-10-28T08:24:49.000+08:00"
-      },
-      {
-        "title": "优惠规则难倒AI？“双十一”岂能层层设套",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721982.shtml",
-        "publishedAt": "2026-10-28T08:21:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T08:50:12.145+08:00",
+    "fetchedAt": "2026-10-28T09:00:03.651+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T08:50:15.741+08:00",
+      "fetchedAt": "2026-10-28T09:00:08.781+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T13:50:16.000+08:00"
+          "resetAt": "2026-10-28T14:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T08:50:16.108+08:00",
+      "fetchedAt": "2026-10-28T09:00:09.097+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T08:50:16.115+08:00",
+      "fetchedAt": "2026-10-28T09:00:09.100+08:00",
       "error": null
     }
   }
