@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T18:40:10.092+08:00",
+  "updatedAt": "2026-10-28T18:50:09.306+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
+    "tempC": 16.6,
     "feelsLikeC": 15.9,
-    "humidity": 71,
-    "windKph": 7.7,
+    "humidity": 72,
+    "windKph": 7.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T18:40:10.093+08:00",
+    "observedAt": "2026-10-28T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T18:50:09.306+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "华侨华人推动武术海外落地开花",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-28/10722340.shtml",
+        "publishedAt": "2026-10-28T18:41:53.000+08:00"
+      },
+      {
+        "title": "550多位潮侨返乡 广东揭阳潮侨坊开馆聚侨力",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-28/10722339.shtml",
+        "publishedAt": "2026-10-28T18:41:25.000+08:00"
+      },
       {
         "title": "西班牙列车相撞事故死亡人数升至50人",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722337.shtml",
@@ -33,19 +43,9 @@
         "title": "武汉打造“机器人职业学院”：为机器人定制AI教材",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722330.shtml",
         "publishedAt": "2026-10-28T18:24:54.000+08:00"
-      },
-      {
-        "title": "（友城故事）7400公里外，一座德国小城“开”进太原",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722325.shtml",
-        "publishedAt": "2026-10-28T18:23:36.000+08:00"
-      },
-      {
-        "title": "寻踪大运河文脉：一位文博人眼中的运河南端与千年漕运",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722308.shtml",
-        "publishedAt": "2026-10-28T18:21:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T18:40:03.884+08:00",
+    "fetchedAt": "2026-10-28T18:50:03.420+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T18:40:08.729+08:00",
+      "fetchedAt": "2026-10-28T18:50:08.168+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T18:40:09.018+08:00",
+      "fetchedAt": "2026-10-28T18:50:08.470+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T18:40:09.025+08:00",
+      "fetchedAt": "2026-10-28T18:50:08.477+08:00",
       "error": null
     }
   }
