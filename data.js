@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T07:20:09.025+08:00",
+  "updatedAt": "2026-10-29T07:30:10.245+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.9,
-    "feelsLikeC": 15.2,
-    "humidity": 89,
-    "windKph": 4.8,
+    "tempC": 15.5,
+    "feelsLikeC": 15.8,
+    "humidity": 87,
+    "windKph": 4.4,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T07:20:09.025+08:00",
+    "observedAt": "2026-10-29T07:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T07:30:10.245+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "被恶意剪辑、被AI换脸、被“商业代言” 警惕涉老网络侵权新风险",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722504.shtml",
+        "publishedAt": "2026-10-29T07:23:35.000+08:00"
+      },
+      {
+        "title": "工伤后又引发并发症，赔偿谁担？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722503.shtml",
+        "publishedAt": "2026-10-29T07:20:13.000+08:00"
+      },
+      {
+        "title": "伊朗官员：退出《不扩散核武器条约》计划已准备就绪",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722502.shtml",
+        "publishedAt": "2026-10-29T07:18:22.000+08:00"
+      },
       {
         "title": "员工用AI辅助办公被辞退：是个人违规，还是企业违法",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722501.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "10月29日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-29/10722500.shtml",
         "publishedAt": "2026-10-29T07:02:00.000+08:00"
-      },
-      {
-        "title": "西班牙高铁相撞致68死 调度录音曝光还原事发经过",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722499.shtml",
-        "publishedAt": "2026-10-29T06:57:23.000+08:00"
-      },
-      {
-        "title": "西班牙列车相撞已致68人死亡，首相宣布全国哀悼三天",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722498.shtml",
-        "publishedAt": "2026-10-29T06:51:59.000+08:00"
-      },
-      {
-        "title": "古巴欢迎联大再次通过决议敦促美国结束对古封锁",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722497.shtml",
-        "publishedAt": "2026-10-29T06:47:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T07:20:03.785+08:00",
+    "fetchedAt": "2026-10-29T07:30:05.142+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T07:20:07.885+08:00",
+      "fetchedAt": "2026-10-29T07:30:08.877+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T12:20:09.000+08:00"
+          "resetAt": "2026-10-29T12:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T07:20:08.089+08:00",
+      "fetchedAt": "2026-10-29T07:30:09.164+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T07:20:08.099+08:00",
+      "fetchedAt": "2026-10-29T07:30:09.172+08:00",
       "error": null
     }
   }
