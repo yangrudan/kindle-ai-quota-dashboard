@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T16:20:08.044+08:00",
+  "updatedAt": "2026-10-28T16:30:08.898+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.9,
-    "feelsLikeC": 18.7,
-    "humidity": 54,
-    "windKph": 8.3,
+    "tempC": 19.4,
+    "feelsLikeC": 18.3,
+    "humidity": 56,
+    "windKph": 8.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T16:20:08.044+08:00",
+    "observedAt": "2026-10-28T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T16:30:08.898+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026南康家具秋季订货会举行 中外客商觅合作机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722233.shtml",
-        "publishedAt": "2026-10-28T16:12:51.000+08:00"
+        "title": "（长征胜利90周年）从支援红军筹粮到高原果蔬出山：四川藏地小镇焕发新貌",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722248.shtml",
+        "publishedAt": "2026-10-28T16:25:00.000+08:00"
       },
       {
-        "title": "雅江畔，绿色和紫色的传奇——产业援藏助力山南市桑日葡萄产业发展壮大",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722234.shtml",
-        "publishedAt": "2026-10-28T16:11:21.000+08:00"
+        "title": "小螺蛳撬动大产业 广西柳江做强螺蛳粉配套产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722243.shtml",
+        "publishedAt": "2026-10-28T16:24:58.000+08:00"
       },
       {
-        "title": "之江潮涌塔河畔",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722232.shtml",
-        "publishedAt": "2026-10-28T16:08:33.000+08:00"
+        "title": "从“陌生邻居”到“价值伙伴”：浙江丽水产业社区的三重跃迁",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722246.shtml",
+        "publishedAt": "2026-10-28T16:23:37.000+08:00"
       },
       {
-        "title": "2026年全国艺术体操冠军赛铜川落幕 王子露独揽五金",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722230.shtml",
-        "publishedAt": "2026-10-28T16:07:49.000+08:00"
+        "title": "四川攀枝花通报“摊贩疑似将杀虫剂喷到水果上”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722235.shtml",
+        "publishedAt": "2026-10-28T16:23:19.000+08:00"
       },
       {
-        "title": "让“太阳”为人类发电？可控核聚变究竟走到哪一步了？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722231.shtml",
-        "publishedAt": "2026-10-28T16:06:55.000+08:00"
+        "title": "湖北展出一批珍贵古籍 再现楚人“饮食菜单”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722249.shtml",
+        "publishedAt": "2026-10-28T16:21:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T16:20:02.900+08:00",
+    "fetchedAt": "2026-10-28T16:30:03.320+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T16:20:06.751+08:00",
+      "fetchedAt": "2026-10-28T16:30:07.800+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 55,
+          "usedPct": 57,
           "resetAt": "2026-10-28T19:35:09.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T16:20:06.979+08:00",
+      "fetchedAt": "2026-10-28T16:30:08.056+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T16:20:06.984+08:00",
+      "fetchedAt": "2026-10-28T16:30:08.067+08:00",
       "error": null
     }
   }
