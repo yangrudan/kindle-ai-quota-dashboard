@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T09:30:10.253+08:00",
+  "updatedAt": "2026-10-28T09:40:39.223+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-28T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T09:30:10.254+08:00",
+    "fetchedAt": "2026-10-28T09:40:39.223+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "来中国“取经”后，他们交出这样的兴乡答卷",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722000.shtml",
-        "publishedAt": "2026-10-28T09:21:40.000+08:00"
+        "title": "改名“搬运”AI微短剧是否构成侵权？",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722016.shtml",
+        "publishedAt": "2026-10-28T09:37:21.000+08:00"
       },
       {
-        "title": "【这个城市有点潮】河南安阳：三千年文明，如何“潮”出圈？",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209046.shtml",
-        "publishedAt": "2026-10-28T09:20:40.000+08:00"
+        "title": "10月28日央行开展1510亿元7天期逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722012.shtml",
+        "publishedAt": "2026-10-28T09:37:05.000+08:00"
       },
       {
-        "title": "东北华北内蒙古中东部等地气温起伏 29日起西藏南部有强雨雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721992.shtml",
-        "publishedAt": "2026-10-28T09:19:44.000+08:00"
+        "title": "“素人靠卖脸3天赚3500元”？警惕“卖脸兼职”背后的法律风险",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722013.shtml",
+        "publishedAt": "2026-10-28T09:34:53.000+08:00"
       },
       {
-        "title": "“阿尔纳卜”已经在印度沿海登陆 后天西藏降水进入最强时段",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721994.shtml",
-        "publishedAt": "2026-10-28T09:14:12.000+08:00"
+        "title": "安徽文旅发放“秋假大礼包”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722007.shtml",
+        "publishedAt": "2026-10-28T09:34:17.000+08:00"
       },
       {
-        "title": "中国小将孙心然广网首战告捷",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10721987.shtml",
-        "publishedAt": "2026-10-28T09:07:28.000+08:00"
+        "title": "2026中欧微短剧峰会在巴黎举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722002.shtml",
+        "publishedAt": "2026-10-28T09:33:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T09:30:04.179+08:00",
+    "fetchedAt": "2026-10-28T09:40:03.298+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T09:30:08.655+08:00",
+      "fetchedAt": "2026-10-28T09:40:37.765+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 6,
           "resetAt": "2026-10-28T14:16:54.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 30,
+          "usedPct": 31,
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T09:30:09.253+08:00",
+      "fetchedAt": "2026-10-28T09:40:37.993+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T09:30:09.265+08:00",
+      "fetchedAt": "2026-10-28T09:40:38.003+08:00",
       "error": null
     }
   }
