@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T18:50:09.306+08:00",
+  "updatedAt": "2026-10-28T19:00:08.212+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.6,
-    "feelsLikeC": 15.9,
-    "humidity": 72,
-    "windKph": 7.9,
+    "tempC": 16.5,
+    "feelsLikeC": 15.8,
+    "humidity": 74,
+    "windKph": 8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T18:50:09.306+08:00",
+    "observedAt": "2026-10-28T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T19:00:08.212+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "华侨华人推动武术海外落地开花",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-28/10722340.shtml",
-        "publishedAt": "2026-10-28T18:41:53.000+08:00"
+        "title": "中央气象台10月28日18时解除大风蓝色预警",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722336.shtml",
+        "publishedAt": "2026-10-28T18:47:31.000+08:00"
       },
       {
-        "title": "550多位潮侨返乡 广东揭阳潮侨坊开馆聚侨力",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-28/10722339.shtml",
-        "publishedAt": "2026-10-28T18:41:25.000+08:00"
+        "title": "台风“烟花”向偏西方向移动 未来对我国近海无影响",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722348.shtml",
+        "publishedAt": "2026-10-28T18:47:29.000+08:00"
       },
       {
-        "title": "西班牙列车相撞事故死亡人数升至50人",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722337.shtml",
-        "publishedAt": "2026-10-28T18:31:38.000+08:00"
+        "title": "南宁卒中救治如何跑赢“死神”：急救绿道要真绿 不是说的绿",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722334.shtml",
+        "publishedAt": "2026-10-28T18:45:29.000+08:00"
       },
       {
-        "title": "山西阳高：冷棚暖棚菌菇棚轮番上阵 全年生产“不打烊”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722322.shtml",
-        "publishedAt": "2026-10-28T18:28:30.000+08:00"
+        "title": "云南禄丰发现恐龙蛋新种 改写恐龙蛋壳早期演化认知",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722328.shtml",
+        "publishedAt": "2026-10-28T18:44:15.000+08:00"
       },
       {
-        "title": "武汉打造“机器人职业学院”：为机器人定制AI教材",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722330.shtml",
-        "publishedAt": "2026-10-28T18:24:54.000+08:00"
+        "title": "中国捷克斯洛伐克友谊农场建场70年 捷克友人寻访父辈足迹",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722327.shtml",
+        "publishedAt": "2026-10-28T18:43:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T18:50:03.420+08:00",
+    "fetchedAt": "2026-10-28T19:00:03.457+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T18:50:08.168+08:00",
+      "fetchedAt": "2026-10-28T19:00:07.116+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T18:50:08.470+08:00",
+      "fetchedAt": "2026-10-28T19:00:07.371+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T18:50:08.477+08:00",
+      "fetchedAt": "2026-10-28T19:00:07.379+08:00",
       "error": null
     }
   }
