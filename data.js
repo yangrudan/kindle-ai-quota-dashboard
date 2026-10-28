@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T07:10:08.624+08:00",
+  "updatedAt": "2026-10-29T07:20:09.025+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.5,
-    "feelsLikeC": 14.7,
-    "humidity": 91,
+    "tempC": 14.9,
+    "feelsLikeC": 15.2,
+    "humidity": 89,
     "windKph": 4.8,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T07:10:08.624+08:00",
+    "observedAt": "2026-10-29T07:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T07:20:09.025+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "员工用AI辅助办公被辞退：是个人违规，还是企业违法",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722501.shtml",
+        "publishedAt": "2026-10-29T07:11:50.000+08:00"
+      },
       {
         "title": "10月29日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-29/10722500.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "古巴欢迎联大再次通过决议敦促美国结束对古封锁",
         "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722497.shtml",
         "publishedAt": "2026-10-29T06:47:41.000+08:00"
-      },
-      {
-        "title": "2.5亿人次已受益 多地以旧换新上新 最高补贴2000元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722496.shtml",
-        "publishedAt": "2026-10-29T06:43:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T07:10:03.693+08:00",
+    "fetchedAt": "2026-10-29T07:20:03.785+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T07:10:07.282+08:00",
+      "fetchedAt": "2026-10-29T07:20:07.885+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T12:10:08.000+08:00"
+          "resetAt": "2026-10-29T12:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T07:10:07.539+08:00",
+      "fetchedAt": "2026-10-29T07:20:08.089+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T07:10:07.544+08:00",
+      "fetchedAt": "2026-10-29T07:20:08.099+08:00",
       "error": null
     }
   }
