@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T21:20:09.373+08:00",
+  "updatedAt": "2026-10-28T21:30:09.509+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.1,
-    "feelsLikeC": 15.4,
+    "tempC": 16,
+    "feelsLikeC": 15.3,
     "humidity": 78,
-    "windKph": 9.8,
+    "windKph": 9.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-28T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T21:20:09.373+08:00",
+    "observedAt": "2026-10-28T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T21:30:09.510+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "初步计票显示以色列两大阵营均未获议会多数席位",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722435.shtml",
-        "publishedAt": "2026-10-28T21:13:49.000+08:00"
+        "title": "聚焦民间文学之生命力 《民间文学》杂志创刊70周年交流活动举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722442.shtml",
+        "publishedAt": "2026-10-28T21:24:18.000+08:00"
       },
       {
-        "title": "中新网评：皇马道歉完还须补课",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722420.shtml",
-        "publishedAt": "2026-10-28T21:13:49.000+08:00"
+        "title": "两岸同胞在重庆共同纪念孙中山诞辰160周年",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722432.shtml",
+        "publishedAt": "2026-10-28T21:24:10.000+08:00"
       },
       {
-        "title": "今日丝绸之路国际艺术邀请展吸引市民参观",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722410.shtml",
-        "publishedAt": "2026-10-28T21:08:25.000+08:00"
+        "title": "第16届辽宁省残疾人健身周主场活动在沈启动",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722425.shtml",
+        "publishedAt": "2026-10-28T21:24:08.000+08:00"
       },
       {
-        "title": "新一代智能终端蓬勃发展 业界乘势夯实产业底座",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722417.shtml",
-        "publishedAt": "2026-10-28T21:06:33.000+08:00"
+        "title": "上海中医药大学庆祝建校70周年 30项中医药国际标准同步发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722446.shtml",
+        "publishedAt": "2026-10-28T21:23:20.000+08:00"
       },
       {
-        "title": "北京市属国企2027届高校毕业生秋季校园专场招聘活动举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722418.shtml",
-        "publishedAt": "2026-10-28T21:05:45.000+08:00"
+        "title": "北京已推动17家跨国公司参与高版本资金池试点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722433.shtml",
+        "publishedAt": "2026-10-28T21:23:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T21:20:03.266+08:00",
+    "fetchedAt": "2026-10-28T21:30:04.313+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T21:20:07.788+08:00",
+      "fetchedAt": "2026-10-28T21:30:08.044+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T02:20:09.000+08:00"
+          "resetAt": "2026-10-29T02:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T21:20:07.971+08:00",
+      "fetchedAt": "2026-10-28T21:30:08.551+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T21:20:07.980+08:00",
+      "fetchedAt": "2026-10-28T21:30:08.561+08:00",
       "error": null
     }
   }
