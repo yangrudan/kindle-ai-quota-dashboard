@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:30:08.679+08:00",
+  "updatedAt": "2026-10-29T06:40:09.729+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-10-29T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T06:30:08.679+08:00",
+    "fetchedAt": "2026-10-29T06:40:09.729+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中方敦促国际法院确保国际法平等统一适用",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722493.shtml",
+        "publishedAt": "2026-10-29T06:34:28.000+08:00"
+      },
+      {
+        "title": "俄美乌三方谈判日期将公布 俄方称不邀欧洲参加",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722492.shtml",
+        "publishedAt": "2026-10-29T06:31:24.000+08:00"
+      },
       {
         "title": "我的声音被AI“偷”走了，咋维权？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722491.shtml",
@@ -33,19 +43,9 @@
         "title": "美联储宣布维持利率不变",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722489.shtml",
         "publishedAt": "2026-10-29T06:15:41.000+08:00"
-      },
-      {
-        "title": "全国短池游泳锦标赛收官：连创纪录，多点突破",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722488.shtml",
-        "publishedAt": "2026-10-29T06:14:37.000+08:00"
-      },
-      {
-        "title": "西班牙首相宣布为列车相撞事故遇难者全国哀悼三天",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722487.shtml",
-        "publishedAt": "2026-10-28T23:26:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T06:30:03.759+08:00",
+    "fetchedAt": "2026-10-29T06:40:03.509+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T06:30:07.578+08:00",
+      "fetchedAt": "2026-10-29T06:40:08.382+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T11:30:08.000+08:00"
+          "resetAt": "2026-10-29T11:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T06:30:07.773+08:00",
+      "fetchedAt": "2026-10-29T06:40:08.683+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T06:30:07.783+08:00",
+      "fetchedAt": "2026-10-29T06:40:08.689+08:00",
       "error": null
     }
   }
