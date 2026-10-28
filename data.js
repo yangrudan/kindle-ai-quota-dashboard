@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T21:50:09.183+08:00",
+  "updatedAt": "2026-10-28T22:00:11.689+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.9,
-    "feelsLikeC": 15.2,
-    "humidity": 79,
-    "windKph": 9.3,
+    "tempC": 15.8,
+    "feelsLikeC": 15.1,
+    "humidity": 80,
+    "windKph": 8.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-28T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T21:50:09.183+08:00",
+    "observedAt": "2026-10-28T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T22:00:11.689+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "广西推动建立中国—东盟防震减灾常态化交流合作机制",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722457.shtml",
+        "publishedAt": "2026-10-28T21:54:15.000+08:00"
+      },
+      {
+        "title": "2026年全国游泳锦标赛（25米）：张展硕获得男子200米自由泳冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209167.shtml",
+        "publishedAt": "2026-10-28T21:54:11.000+08:00"
+      },
+      {
+        "title": "香港科技园发布首份《BES策略分析报告》 瞄准全球储能市场机遇",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722456.shtml",
+        "publishedAt": "2026-10-28T21:53:43.000+08:00"
+      },
+      {
+        "title": "2026年全国游泳锦标赛（25米）：张雨霏获得女子50米自由泳冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209164.shtml",
+        "publishedAt": "2026-10-28T21:45:56.000+08:00"
+      },
+      {
         "title": "广东高州迎来油茶果丰收",
         "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722453.shtml",
         "publishedAt": "2026-10-28T21:39:04.000+08:00"
-      },
-      {
-        "title": "释放“两院一湾”建设牵引效应 重庆南岸做强人工智能创新集群",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722452.shtml",
-        "publishedAt": "2026-10-28T21:29:14.000+08:00"
-      },
-      {
-        "title": "全国民航公安系统首个自主卡通IP“小飞警”全新亮相",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722449.shtml",
-        "publishedAt": "2026-10-28T21:29:10.000+08:00"
-      },
-      {
-        "title": "江西余干：鄱阳湖畔网箱养鳝管护忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722436.shtml",
-        "publishedAt": "2026-10-28T21:29:08.000+08:00"
-      },
-      {
-        "title": "专家学者广州共议零碳能源如何驱动下一轮全球增长",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722451.shtml",
-        "publishedAt": "2026-10-28T21:29:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T21:50:03.747+08:00",
+    "fetchedAt": "2026-10-28T22:00:05.364+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T21:50:08.013+08:00",
+      "fetchedAt": "2026-10-28T22:00:10.252+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T02:50:09.000+08:00"
+          "resetAt": "2026-10-29T03:00:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T21:50:08.281+08:00",
+      "fetchedAt": "2026-10-28T22:00:10.596+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T21:50:08.292+08:00",
+      "fetchedAt": "2026-10-28T22:00:10.605+08:00",
       "error": null
     }
   }
