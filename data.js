@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T12:10:10.364+08:00",
+  "updatedAt": "2026-10-28T12:20:09.213+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 18.1,
+    "tempC": 19.1,
+    "feelsLikeC": 18.2,
     "humidity": 54,
-    "windKph": 5.2,
+    "windKph": 5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T12:10:10.364+08:00",
+    "observedAt": "2026-10-28T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T12:20:09.213+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普称没人在乎台海问题 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722107.shtml",
+        "publishedAt": "2026-10-28T12:01:05.000+08:00"
+      },
       {
         "title": "国台办反驳台陆委会拒绝张凌赫赴台理由：站不住脚",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722105.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "世界中文报业协会年会在澳门举行 共商百年变局下中文报业发展",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722095.shtml",
         "publishedAt": "2026-10-28T11:44:14.000+08:00"
-      },
-      {
-        "title": "中新网评：别成为下一个姆巴佩",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722104.shtml",
-        "publishedAt": "2026-10-28T11:43:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T12:10:04.043+08:00",
+    "fetchedAt": "2026-10-28T12:20:03.373+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T12:10:08.451+08:00",
+      "fetchedAt": "2026-10-28T12:20:07.497+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T12:10:08.716+08:00",
+      "fetchedAt": "2026-10-28T12:20:08.057+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T12:10:08.724+08:00",
+      "fetchedAt": "2026-10-28T12:20:08.066+08:00",
       "error": null
     }
   }
