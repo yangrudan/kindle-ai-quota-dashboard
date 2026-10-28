@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T12:50:09.586+08:00",
+  "updatedAt": "2026-10-28T13:00:28.851+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-28T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T12:50:09.586+08:00",
+    "fetchedAt": "2026-10-28T13:00:28.851+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "韩国瑜再提“我是中国人”，批台湾民主“肾虚”要吃六味地黄丸",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722111.shtml",
+        "publishedAt": "2026-10-28T12:44:44.000+08:00"
+      },
       {
         "title": "大连市召开党外知识分子联谊会金融经济专委会暨无党派人士“济心”驿站成立大会",
         "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722102.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "102家沪市公司集中释放利好 持续向市场传递积极信号",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722099.shtml",
         "publishedAt": "2026-10-28T12:19:58.000+08:00"
-      },
-      {
-        "title": "国台办回应大陆稀土出口管制",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722110.shtml",
-        "publishedAt": "2026-10-28T12:17:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T12:50:04.040+08:00",
+    "fetchedAt": "2026-10-28T13:00:23.433+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T12:50:08.489+08:00",
+      "fetchedAt": "2026-10-28T13:00:27.397+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T12:50:08.748+08:00",
+      "fetchedAt": "2026-10-28T13:00:27.762+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T12:50:08.757+08:00",
+      "fetchedAt": "2026-10-28T13:00:27.765+08:00",
       "error": null
     }
   }
