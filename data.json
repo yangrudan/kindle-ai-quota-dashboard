@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T10:00:09.705+08:00",
+  "updatedAt": "2026-10-28T10:10:12.292+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-28T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T10:00:09.705+08:00",
+    "fetchedAt": "2026-10-28T10:10:12.292+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "CBA常规赛：浙江队81比75战胜新疆队",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722006.shtml",
-        "publishedAt": "2026-10-28T09:53:04.000+08:00"
+        "title": "荷兰农场接连暴发禽流感疫情 逾4.5万只家禽被扑杀",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721976.shtml",
+        "publishedAt": "2026-10-28T10:03:43.000+08:00"
       },
       {
-        "title": "坚守初心使命，始终保持党同人民群众的血肉联系——习近平党建思想引领新时代全面从严治党系列述评之二",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722014.shtml",
-        "publishedAt": "2026-10-28T09:48:48.000+08:00"
+        "title": "日本“25式地对舰导弹”首次参加大规模军演",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722026.shtml",
+        "publishedAt": "2026-10-28T10:02:27.000+08:00"
       },
       {
-        "title": "关注中国，就是关注未来",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722021.shtml",
-        "publishedAt": "2026-10-28T09:46:14.000+08:00"
+        "title": "中山投资控股集团有限公司原高级顾问罗锐鸿被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721998.shtml",
+        "publishedAt": "2026-10-28T10:02:03.000+08:00"
       },
       {
-        "title": "每天坚持做这8个“长寿动作”，身体会感谢你！",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10722020.shtml",
-        "publishedAt": "2026-10-28T09:44:52.000+08:00"
+        "title": "长征路上学党史丨六盘山下，一群守护红色记忆的人",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722025.shtml",
+        "publishedAt": "2026-10-28T10:00:59.000+08:00"
       },
       {
-        "title": "全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722019.shtml",
-        "publishedAt": "2026-10-28T09:44:00.000+08:00"
+        "title": "雄安新区12345热线搭建起四级诉求办理体系",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722024.shtml",
+        "publishedAt": "2026-10-28T09:59:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T10:00:03.240+08:00",
+    "fetchedAt": "2026-10-28T10:10:04.302+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T10:00:08.465+08:00",
+      "fetchedAt": "2026-10-28T10:10:10.769+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T10:00:08.722+08:00",
+      "fetchedAt": "2026-10-28T10:10:11.317+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T10:00:08.733+08:00",
+      "fetchedAt": "2026-10-28T10:10:11.322+08:00",
       "error": null
     }
   }
