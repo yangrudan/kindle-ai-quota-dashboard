@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T22:00:11.689+08:00",
+  "updatedAt": "2026-10-28T22:10:09.393+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-28T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T22:00:11.689+08:00",
+    "fetchedAt": "2026-10-28T22:10:09.393+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西推动建立中国—东盟防震减灾常态化交流合作机制",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722457.shtml",
-        "publishedAt": "2026-10-28T21:54:15.000+08:00"
+        "title": "“AI+自动驾驶”技术 探访浙江桐乡无人车智造中心",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722455.shtml",
+        "publishedAt": "2026-10-28T22:03:58.000+08:00"
       },
       {
-        "title": "2026年全国游泳锦标赛（25米）：张展硕获得男子200米自由泳冠军",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209167.shtml",
-        "publishedAt": "2026-10-28T21:54:11.000+08:00"
+        "title": "世界海拔最高风电场升压站建成 华电措美哲古一期风电项目全容量投产",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722462.shtml",
+        "publishedAt": "2026-10-28T22:02:48.000+08:00"
       },
       {
-        "title": "香港科技园发布首份《BES策略分析报告》 瞄准全球储能市场机遇",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722456.shtml",
-        "publishedAt": "2026-10-28T21:53:43.000+08:00"
+        "title": "西藏巴青震区安置一线：一群基层干部，守护牧区每一户",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722458.shtml",
+        "publishedAt": "2026-10-28T22:00:58.000+08:00"
       },
       {
-        "title": "2026年全国游泳锦标赛（25米）：张雨霏获得女子50米自由泳冠军",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209164.shtml",
-        "publishedAt": "2026-10-28T21:45:56.000+08:00"
+        "title": "2026年全国游泳锦标赛（25米）：彭旭玮获得女子200米仰泳冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209170.shtml",
+        "publishedAt": "2026-10-28T22:00:11.000+08:00"
       },
       {
-        "title": "广东高州迎来油茶果丰收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722453.shtml",
-        "publishedAt": "2026-10-28T21:39:04.000+08:00"
+        "title": "中国—东盟地方官员共探数智时代城市治理",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722461.shtml",
+        "publishedAt": "2026-10-28T21:56:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T22:00:05.364+08:00",
+    "fetchedAt": "2026-10-28T22:10:03.367+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T22:00:10.252+08:00",
+      "fetchedAt": "2026-10-28T22:10:08.094+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T03:00:11.000+08:00"
+          "resetAt": "2026-10-29T03:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T22:00:10.596+08:00",
+      "fetchedAt": "2026-10-28T22:10:08.507+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T22:00:10.605+08:00",
+      "fetchedAt": "2026-10-28T22:10:08.513+08:00",
       "error": null
     }
   }
