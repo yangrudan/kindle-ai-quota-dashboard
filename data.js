@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T06:10:37.590+08:00",
+  "updatedAt": "2026-10-29T06:20:12.536+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.7,
+    "tempC": 13.8,
     "feelsLikeC": 14.2,
     "humidity": 94,
-    "windKph": 2.7,
+    "windKph": 3.1,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T06:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T06:10:37.590+08:00",
+    "observedAt": "2026-10-29T06:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T06:20:12.536+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国短池游泳锦标赛收官：连创纪录，多点突破",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722488.shtml",
+        "publishedAt": "2026-10-29T06:14:37.000+08:00"
+      },
       {
         "title": "西班牙首相宣布为列车相撞事故遇难者全国哀悼三天",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722487.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "甘肃保安腰刀启“工厂模式” 传统技艺焕发新生机",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722480.shtml",
         "publishedAt": "2026-10-28T22:37:22.000+08:00"
-      },
-      {
-        "title": "云南立法保护铁路安全 纳入跨境协作内容",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722477.shtml",
-        "publishedAt": "2026-10-28T22:18:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T06:10:02.859+08:00",
+    "fetchedAt": "2026-10-29T06:20:03.249+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T06:10:36.444+08:00",
+      "fetchedAt": "2026-10-29T06:20:10.886+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T11:10:37.000+08:00"
+          "resetAt": "2026-10-29T11:20:12.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T06:10:36.646+08:00",
+      "fetchedAt": "2026-10-29T06:20:11.332+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T06:10:36.649+08:00",
+      "fetchedAt": "2026-10-29T06:20:11.341+08:00",
       "error": null
     }
   }
