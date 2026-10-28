@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T09:40:39.223+08:00",
+  "updatedAt": "2026-10-28T09:50:39.392+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.1,
-    "feelsLikeC": 16.6,
-    "humidity": 62,
-    "windKph": 2.8,
+    "tempC": 17.5,
+    "feelsLikeC": 16.9,
+    "humidity": 60,
+    "windKph": 3.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-28T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T09:40:39.223+08:00",
+    "observedAt": "2026-10-28T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T09:50:39.392+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722019.shtml",
+        "publishedAt": "2026-10-28T09:44:00.000+08:00"
+      },
+      {
+        "title": "中期选举在即 特朗普支持率从历史低点回升",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721995.shtml",
+        "publishedAt": "2026-10-28T09:42:34.000+08:00"
+      },
+      {
+        "title": "金观平：有的放矢提高基础研究实力",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722017.shtml",
+        "publishedAt": "2026-10-28T09:41:26.000+08:00"
+      },
       {
         "title": "改名“搬运”AI微短剧是否构成侵权？",
         "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722016.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "10月28日央行开展1510亿元7天期逆回购操作",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722012.shtml",
         "publishedAt": "2026-10-28T09:37:05.000+08:00"
-      },
-      {
-        "title": "“素人靠卖脸3天赚3500元”？警惕“卖脸兼职”背后的法律风险",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722013.shtml",
-        "publishedAt": "2026-10-28T09:34:53.000+08:00"
-      },
-      {
-        "title": "安徽文旅发放“秋假大礼包”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722007.shtml",
-        "publishedAt": "2026-10-28T09:34:17.000+08:00"
-      },
-      {
-        "title": "2026中欧微短剧峰会在巴黎举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722002.shtml",
-        "publishedAt": "2026-10-28T09:33:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T09:40:03.298+08:00",
+    "fetchedAt": "2026-10-28T09:50:03.889+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T09:40:37.765+08:00",
+      "fetchedAt": "2026-10-28T09:50:37.984+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T09:40:37.993+08:00",
+      "fetchedAt": "2026-10-28T09:50:38.394+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T09:40:38.003+08:00",
+      "fetchedAt": "2026-10-28T09:50:38.402+08:00",
       "error": null
     }
   }
