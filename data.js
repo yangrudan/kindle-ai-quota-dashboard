@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T17:00:09.660+08:00",
+  "updatedAt": "2026-10-28T17:10:10.346+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-28T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T17:00:09.660+08:00",
+    "fetchedAt": "2026-10-28T17:10:10.347+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "呈现科幻IP多元探索 “2026三体日”在京举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722280.shtml",
-        "publishedAt": "2026-10-28T16:54:57.000+08:00"
+        "title": "东西问丨王敏：如何从新疆非遗中读懂中华文化？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-28/10722274.shtml",
+        "publishedAt": "2026-10-28T17:01:41.000+08:00"
       },
       {
-        "title": "湖南新晃侗族自治县举行成立70周年庆祝大会",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-28/10722279.shtml",
-        "publishedAt": "2026-10-28T16:54:17.000+08:00"
+        "title": "两部门部署西藏强降雪天气防范应对工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722278.shtml",
+        "publishedAt": "2026-10-28T17:01:07.000+08:00"
       },
       {
-        "title": "北京计划“十五五”时期新能源汽车保有量达240万辆",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722275.shtml",
-        "publishedAt": "2026-10-28T16:53:47.000+08:00"
+        "title": "四川省旅游景区发展大会召开 聚焦国有景区改革",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722277.shtml",
+        "publishedAt": "2026-10-28T17:00:27.000+08:00"
       },
       {
-        "title": "香港民众探寻宁夏历史文脉",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722266.shtml",
-        "publishedAt": "2026-10-28T16:52:51.000+08:00"
+        "title": "中国大规模研究发现：吃肉可能与长寿有关，尤其是在体重较轻的老人中",
+        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722282.shtml",
+        "publishedAt": "2026-10-28T16:59:05.000+08:00"
       },
       {
-        "title": "武丑挑梁演绎西方经典 北京京剧院新编京剧《一仆二主》建组",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722272.shtml",
-        "publishedAt": "2026-10-28T16:52:45.000+08:00"
+        "title": "武汉设计之都建设九载 设计力量赋能城市生长",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722281.shtml",
+        "publishedAt": "2026-10-28T16:58:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T17:00:04.449+08:00",
+    "fetchedAt": "2026-10-28T17:10:03.541+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 108 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T17:00:08.316+08:00",
+      "fetchedAt": "2026-10-28T17:10:08.949+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 80,
+          "usedPct": 82,
           "resetAt": "2026-10-28T19:35:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 13,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T17:00:08.589+08:00",
+      "fetchedAt": "2026-10-28T17:10:09.178+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T17:00:08.600+08:00",
+      "fetchedAt": "2026-10-28T17:10:09.190+08:00",
       "error": null
     }
   }
