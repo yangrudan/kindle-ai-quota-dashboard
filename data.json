@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T12:20:09.213+08:00",
+  "updatedAt": "2026-10-28T12:30:09.825+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.1,
-    "feelsLikeC": 18.2,
-    "humidity": 54,
-    "windKph": 5,
+    "tempC": 19.2,
+    "feelsLikeC": 18.3,
+    "humidity": 53,
+    "windKph": 4.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T12:20:09.213+08:00",
+    "observedAt": "2026-10-28T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T12:30:09.825+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "特朗普称没人在乎台海问题 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722107.shtml",
-        "publishedAt": "2026-10-28T12:01:05.000+08:00"
+        "title": "大连市召开党外知识分子联谊会金融经济专委会暨无党派人士“济心”驿站成立大会",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722102.shtml",
+        "publishedAt": "2026-10-28T12:26:53.000+08:00"
       },
       {
-        "title": "国台办反驳台陆委会拒绝张凌赫赴台理由：站不住脚",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722105.shtml",
-        "publishedAt": "2026-10-28T11:59:55.000+08:00"
+        "title": "《上海市加快发展新一代智能制造行动方案》出炉",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722100.shtml",
+        "publishedAt": "2026-10-28T12:20:36.000+08:00"
       },
       {
-        "title": "国台办：所谓“敌意螺旋”由民进党当局蓄意制造",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722106.shtml",
-        "publishedAt": "2026-10-28T11:53:23.000+08:00"
+        "title": "新阶层·新经济 | “95后”新农人邵前宽：把农业“种”出风景和体验",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722108.shtml",
+        "publishedAt": "2026-10-28T12:20:02.000+08:00"
       },
       {
-        "title": "庄河新联会开展“新阶层·建设力”主题月系列直播活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722096.shtml",
-        "publishedAt": "2026-10-28T11:46:38.000+08:00"
+        "title": "102家沪市公司集中释放利好 持续向市场传递积极信号",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722099.shtml",
+        "publishedAt": "2026-10-28T12:19:58.000+08:00"
       },
       {
-        "title": "世界中文报业协会年会在澳门举行 共商百年变局下中文报业发展",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722095.shtml",
-        "publishedAt": "2026-10-28T11:44:14.000+08:00"
+        "title": "国台办回应大陆稀土出口管制",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722110.shtml",
+        "publishedAt": "2026-10-28T12:17:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T12:20:03.373+08:00",
+    "fetchedAt": "2026-10-28T12:30:04.448+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T12:20:07.497+08:00",
+      "fetchedAt": "2026-10-28T12:30:08.463+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T12:20:08.057+08:00",
+      "fetchedAt": "2026-10-28T12:30:08.733+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T12:20:08.066+08:00",
+      "fetchedAt": "2026-10-28T12:30:08.742+08:00",
       "error": null
     }
   }
