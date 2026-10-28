@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T06:20:12.536+08:00",
+  "updatedAt": "2026-10-29T06:30:08.679+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.8,
-    "feelsLikeC": 14.2,
+    "tempC": 13.9,
+    "feelsLikeC": 14.3,
     "humidity": 94,
-    "windKph": 3.1,
-    "windDir": "西南风",
+    "windKph": 3.8,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T06:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T06:20:12.536+08:00",
+    "observedAt": "2026-10-29T06:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T06:30:08.679+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我的声音被AI“偷”走了，咋维权？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722491.shtml",
+        "publishedAt": "2026-10-29T06:25:22.000+08:00"
+      },
+      {
+        "title": "西班牙高铁事故关键录音曝光：调度员违规下令列车“恢复全速”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722490.shtml",
+        "publishedAt": "2026-10-29T06:17:13.000+08:00"
+      },
+      {
+        "title": "美联储宣布维持利率不变",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722489.shtml",
+        "publishedAt": "2026-10-29T06:15:41.000+08:00"
+      },
       {
         "title": "全国短池游泳锦标赛收官：连创纪录，多点突破",
         "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722488.shtml",
@@ -28,24 +43,9 @@
         "title": "西班牙首相宣布为列车相撞事故遇难者全国哀悼三天",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722487.shtml",
         "publishedAt": "2026-10-28T23:26:58.000+08:00"
-      },
-      {
-        "title": "西班牙列车相撞事故死亡人数上升至68人",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722486.shtml",
-        "publishedAt": "2026-10-28T22:59:15.000+08:00"
-      },
-      {
-        "title": "又有8位已迎回在韩志愿军烈士确认身份！为烈士寻亲，如何寻？难在哪？怎么解？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722485.shtml",
-        "publishedAt": "2026-10-28T22:43:46.000+08:00"
-      },
-      {
-        "title": "甘肃保安腰刀启“工厂模式” 传统技艺焕发新生机",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722480.shtml",
-        "publishedAt": "2026-10-28T22:37:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T06:20:03.249+08:00",
+    "fetchedAt": "2026-10-29T06:30:03.759+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T06:20:10.886+08:00",
+      "fetchedAt": "2026-10-29T06:30:07.578+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T11:20:12.000+08:00"
+          "resetAt": "2026-10-29T11:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T06:20:11.332+08:00",
+      "fetchedAt": "2026-10-29T06:30:07.773+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T06:20:11.341+08:00",
+      "fetchedAt": "2026-10-29T06:30:07.783+08:00",
       "error": null
     }
   }
