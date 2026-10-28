@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T02:50:17.545+08:00",
+  "updatedAt": "2026-10-29T03:00:43.222+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.4,
+    "tempC": 14.3,
     "feelsLikeC": 14.7,
-    "humidity": 89,
-    "windKph": 3.2,
+    "humidity": 90,
+    "windKph": 3.1,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T02:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T02:50:17.545+08:00",
+    "observedAt": "2026-10-29T03:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T03:00:43.222+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-28T22:18:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T02:50:12.585+08:00",
+    "fetchedAt": "2026-10-29T03:00:05.031+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 93.2,
+          "usedPct": 0,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 103 / 1500 AIC"
+          "detailText": "剩余 1 / 1 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T02:50:16.363+08:00",
+      "fetchedAt": "2026-10-29T03:00:41.691+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T07:50:17.000+08:00"
+          "resetAt": "2026-10-29T08:00:42.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T02:50:16.659+08:00",
+      "fetchedAt": "2026-10-29T03:00:42.018+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T02:50:16.666+08:00",
+      "fetchedAt": "2026-10-29T03:00:42.024+08:00",
       "error": null
     }
   }
