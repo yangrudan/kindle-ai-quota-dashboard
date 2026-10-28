@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T06:40:09.729+08:00",
+  "updatedAt": "2026-10-29T06:50:38.451+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.9,
-    "feelsLikeC": 14.3,
-    "humidity": 94,
-    "windKph": 3.8,
+    "tempC": 14.2,
+    "feelsLikeC": 14.4,
+    "humidity": 92,
+    "windKph": 4.4,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T06:40:09.729+08:00",
+    "observedAt": "2026-10-29T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T06:50:38.452+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2.5亿人次已受益 多地以旧换新上新 最高补贴2000元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722496.shtml",
+        "publishedAt": "2026-10-29T06:43:11.000+08:00"
+      },
+      {
+        "title": "美联储宣布维持联邦基金利率不变",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722495.shtml",
+        "publishedAt": "2026-10-29T06:39:44.000+08:00"
+      },
+      {
+        "title": "网红食品，谁在为“新奇”买单？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722494.shtml",
+        "publishedAt": "2026-10-29T06:37:12.000+08:00"
+      },
       {
         "title": "中方敦促国际法院确保国际法平等统一适用",
         "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722493.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "俄美乌三方谈判日期将公布 俄方称不邀欧洲参加",
         "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722492.shtml",
         "publishedAt": "2026-10-29T06:31:24.000+08:00"
-      },
-      {
-        "title": "我的声音被AI“偷”走了，咋维权？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722491.shtml",
-        "publishedAt": "2026-10-29T06:25:22.000+08:00"
-      },
-      {
-        "title": "西班牙高铁事故关键录音曝光：调度员违规下令列车“恢复全速”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722490.shtml",
-        "publishedAt": "2026-10-29T06:17:13.000+08:00"
-      },
-      {
-        "title": "美联储宣布维持利率不变",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722489.shtml",
-        "publishedAt": "2026-10-29T06:15:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T06:40:03.509+08:00",
+    "fetchedAt": "2026-10-29T06:50:03.134+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T06:40:08.382+08:00",
+      "fetchedAt": "2026-10-29T06:50:36.814+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T11:40:09.000+08:00"
+          "resetAt": "2026-10-29T11:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T06:40:08.683+08:00",
+      "fetchedAt": "2026-10-29T06:50:37.139+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T06:40:08.689+08:00",
+      "fetchedAt": "2026-10-29T06:50:37.147+08:00",
       "error": null
     }
   }
