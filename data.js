@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T10:40:08.607+08:00",
+  "updatedAt": "2026-10-28T10:50:08.577+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.3,
-    "feelsLikeC": 17.4,
+    "tempC": 18.4,
+    "feelsLikeC": 17.5,
     "humidity": 56,
-    "windKph": 4.8,
+    "windKph": 5.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T10:40:08.608+08:00",
+    "observedAt": "2026-10-28T10:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T10:50:08.577+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "大学课堂如何跳出“PPT依赖症”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722042.shtml",
-        "publishedAt": "2026-10-28T10:31:00.000+08:00"
+        "title": "国台办：越来越多台湾优质渔产品进入大陆",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722051.shtml",
+        "publishedAt": "2026-10-28T10:42:29.000+08:00"
       },
       {
-        "title": "从“一个好人”到“一群好人”，震区升起暖心炊烟",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722040.shtml",
-        "publishedAt": "2026-10-28T10:30:12.000+08:00"
+        "title": "广交会遇上APEC 广货凭什么走俏亚太",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722050.shtml",
+        "publishedAt": "2026-10-28T10:42:05.000+08:00"
       },
       {
-        "title": "国台办：祖国终将统一也必将统一的历史大势不可阻挡",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722038.shtml",
-        "publishedAt": "2026-10-28T10:27:04.000+08:00"
+        "title": "国台办反驳台陆委会拒绝张凌赫赴台理由：站不住脚",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722049.shtml",
+        "publishedAt": "2026-10-28T10:40:39.000+08:00"
       },
       {
-        "title": "大模型辅导作业？孩子用工具须有度",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722037.shtml",
-        "publishedAt": "2026-10-28T10:24:50.000+08:00"
+        "title": "国台办回应蔡康永发文称“没有支持过‘台独’”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722048.shtml",
+        "publishedAt": "2026-10-28T10:39:19.000+08:00"
       },
       {
-        "title": "卢拉发声：弗拉维奥·博索纳罗败选后离境“可耻”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722033.shtml",
-        "publishedAt": "2026-10-28T10:23:12.000+08:00"
+        "title": "国台办回应民进党花钱请美方看所谓“汉光演习”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722046.shtml",
+        "publishedAt": "2026-10-28T10:36:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T10:40:03.414+08:00",
+    "fetchedAt": "2026-10-28T10:50:02.963+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T10:40:07.292+08:00",
+      "fetchedAt": "2026-10-28T10:50:07.351+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T10:40:07.642+08:00",
+      "fetchedAt": "2026-10-28T10:50:07.559+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T10:40:07.648+08:00",
+      "fetchedAt": "2026-10-28T10:50:07.569+08:00",
       "error": null
     }
   }
