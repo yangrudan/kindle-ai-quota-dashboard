@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T13:30:08.745+08:00",
+  "updatedAt": "2026-10-28T13:40:09.959+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-28T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T13:30:08.746+08:00",
+    "fetchedAt": "2026-10-28T13:40:09.960+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "为大佛“巡检”、帮造像“洗脸” 他们让造像“活”得有尊严",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722123.shtml",
+        "publishedAt": "2026-10-28T13:33:36.000+08:00"
+      },
+      {
+        "title": "一个指令完成“变身” 高科技“下地”干活服务农户",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722121.shtml",
+        "publishedAt": "2026-10-28T13:26:38.000+08:00"
+      },
       {
         "title": "澳大利亚向我国返还2件流失文物",
         "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722119.shtml",
@@ -33,19 +43,9 @@
         "title": "A股午评：近4500只个股飘红，三大指数集体收涨，创业板指涨3%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722117.shtml",
         "publishedAt": "2026-10-28T13:04:49.000+08:00"
-      },
-      {
-        "title": "韩国瑜再提“我是中国人”，批台湾民主“肾虚”要吃六味地黄丸",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722111.shtml",
-        "publishedAt": "2026-10-28T12:44:44.000+08:00"
-      },
-      {
-        "title": "大连市召开党外知识分子联谊会金融经济专委会暨无党派人士“济心”驿站成立大会",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722102.shtml",
-        "publishedAt": "2026-10-28T12:26:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T13:30:03.064+08:00",
+    "fetchedAt": "2026-10-28T13:40:03.535+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T13:30:07.367+08:00",
+      "fetchedAt": "2026-10-28T13:40:08.697+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T13:30:07.782+08:00",
+      "fetchedAt": "2026-10-28T13:40:08.935+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T13:30:07.788+08:00",
+      "fetchedAt": "2026-10-28T13:40:08.939+08:00",
       "error": null
     }
   }
