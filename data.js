@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T14:20:08.822+08:00",
+  "updatedAt": "2026-10-28T14:30:10.427+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 19,
     "feelsLikeC": 18.2,
     "humidity": 54,
-    "windKph": 4.5,
-    "windDir": "东北风",
+    "windKph": 4.4,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-28T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T14:20:08.822+08:00",
+    "observedAt": "2026-10-28T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T14:30:10.427+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "第四届临沂商城国际采购商大会在山东临沂开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722143.shtml",
+        "publishedAt": "2026-10-28T14:16:47.000+08:00"
+      },
+      {
+        "title": "（粤港澳大湾区）2026粤港澳大湾区全球招商大会11月3日在广州开幕",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722156.shtml",
+        "publishedAt": "2026-10-28T14:16:15.000+08:00"
+      },
+      {
+        "title": "纪念台湾光复81周年 国台办：两岸同胞对历史有共同的记忆",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722149.shtml",
+        "publishedAt": "2026-10-28T14:15:16.000+08:00"
+      },
+      {
+        "title": "中国国际石油化工大会首次落地湛江 发布多项行业成果",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722155.shtml",
+        "publishedAt": "2026-10-28T14:15:04.000+08:00"
+      },
+      {
         "title": "深圳福田校园高尔夫球联赛收官 AI规则课堂亮相",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722153.shtml",
         "publishedAt": "2026-10-28T14:13:16.000+08:00"
-      },
-      {
-        "title": "从“一人成军”到“群落共生” 湘江畔兴起AI轻创业",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722152.shtml",
-        "publishedAt": "2026-10-28T14:12:54.000+08:00"
-      },
-      {
-        "title": "中国（四川）—泰国经贸合作交流会在曼谷举办",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722148.shtml",
-        "publishedAt": "2026-10-28T14:12:18.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）从“土特产”到大产业 张家口小杂粮“香飘”海外",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722151.shtml",
-        "publishedAt": "2026-10-28T14:09:44.000+08:00"
-      },
-      {
-        "title": "“村超”当“红娘” 贵州榕江香杉牵手南康家具产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722147.shtml",
-        "publishedAt": "2026-10-28T14:08:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T14:20:03.943+08:00",
+    "fetchedAt": "2026-10-28T14:30:03.994+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 112 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T14:20:07.496+08:00",
+      "fetchedAt": "2026-10-28T14:30:09.039+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T19:20:08.000+08:00"
+          "resetAt": "2026-10-28T19:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T14:12:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T14:20:07.753+08:00",
+      "fetchedAt": "2026-10-28T14:30:09.300+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T14:20:07.756+08:00",
+      "fetchedAt": "2026-10-28T14:30:09.305+08:00",
       "error": null
     }
   }
