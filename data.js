@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T23:00:09.163+08:00",
+  "updatedAt": "2026-10-28T23:10:47.607+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-28T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T23:00:09.163+08:00",
+    "fetchedAt": "2026-10-28T23:10:47.607+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西班牙列车相撞事故死亡人数上升至68人",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722486.shtml",
+        "publishedAt": "2026-10-28T22:59:15.000+08:00"
+      },
       {
         "title": "又有8位已迎回在韩志愿军烈士确认身份！为烈士寻亲，如何寻？难在哪？怎么解？",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722485.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "澜湄流域各国艺术家齐聚西双版纳 演绎多元文明交融共生",
         "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722476.shtml",
         "publishedAt": "2026-10-28T22:18:27.000+08:00"
-      },
-      {
-        "title": "18国跑酷高手11月挑战张家界天门山999级天梯",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722475.shtml",
-        "publishedAt": "2026-10-28T22:18:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T23:00:03.406+08:00",
+    "fetchedAt": "2026-10-28T23:10:12.978+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-28T23:00:07.815+08:00",
+      "fetchedAt": "2026-10-28T23:10:46.446+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T04:00:08.000+08:00"
+          "resetAt": "2026-10-29T04:10:47.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T23:00:08.201+08:00",
+      "fetchedAt": "2026-10-28T23:10:46.778+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-28T23:00:08.211+08:00",
+      "fetchedAt": "2026-10-28T23:10:46.787+08:00",
       "error": null
     }
   }
