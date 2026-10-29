@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T15:40:10.109+08:00",
+  "updatedAt": "2026-10-29T15:50:11.545+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 23.5,
-    "feelsLikeC": 24.2,
+    "feelsLikeC": 24.3,
     "humidity": 58,
-    "windKph": 6,
+    "windKph": 4.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T15:40:10.110+08:00",
+    "observedAt": "2026-10-29T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T15:50:11.545+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外交部：敦促美方停止以人权为幌子干涉中国内政",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722742.shtml",
-        "publishedAt": "2026-10-29T15:28:13.000+08:00"
+        "title": "记住“中风120”口诀，关键时刻能救命",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722748.shtml",
+        "publishedAt": "2026-10-29T15:41:16.000+08:00"
       },
       {
-        "title": "中方再次敦促美方立即停止对古巴的封锁制裁",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722741.shtml",
-        "publishedAt": "2026-10-29T15:28:09.000+08:00"
+        "title": "美日将在日本联合生产导弹 中方回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722747.shtml",
+        "publishedAt": "2026-10-29T15:40:54.000+08:00"
       },
       {
-        "title": "三丽鸥日本官网道歉：取消与日剧《VIVANT》所有联名合作",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722740.shtml",
-        "publishedAt": "2026-10-29T15:27:51.000+08:00"
+        "title": "美国将中企列入所谓涉疆法案实体清单 中方强烈谴责",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722735.shtml",
+        "publishedAt": "2026-10-29T15:39:04.000+08:00"
       },
       {
-        "title": "日本三丽鸥公司取消和一部日剧的合作 中方回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722732.shtml",
-        "publishedAt": "2026-10-29T15:22:05.000+08:00"
+        "title": "商务部公布2027年货物出口配额总量",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722744.shtml",
+        "publishedAt": "2026-10-29T15:38:32.000+08:00"
       },
       {
-        "title": "外交部：中方将采取必要措施，坚决维护中国企业合法权益",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722731.shtml",
-        "publishedAt": "2026-10-29T15:21:09.000+08:00"
+        "title": "海口管线入住地下“宿舍” 更好守护城市安宁",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722746.shtml",
+        "publishedAt": "2026-10-29T15:37:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T15:40:04.595+08:00",
+    "fetchedAt": "2026-10-29T15:50:06.184+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T15:40:08.808+08:00",
+      "fetchedAt": "2026-10-29T15:50:10.255+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 18,
           "resetAt": "2026-10-29T20:00:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T15:40:09.188+08:00",
+      "fetchedAt": "2026-10-29T15:50:10.539+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T15:40:09.198+08:00",
+      "fetchedAt": "2026-10-29T15:50:10.549+08:00",
       "error": null
     }
   }
