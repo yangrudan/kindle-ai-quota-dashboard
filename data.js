@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T09:50:09.279+08:00",
+  "updatedAt": "2026-10-29T10:00:10.337+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.6,
-    "feelsLikeC": 21.1,
-    "humidity": 64,
-    "windKph": 4.6,
+    "tempC": 21.1,
+    "feelsLikeC": 21.5,
+    "humidity": 62,
+    "windKph": 4.7,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T09:50:09.279+08:00",
+    "observedAt": "2026-10-29T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T10:00:10.337+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全球经济版图下的中国角色之变",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722558.shtml",
+        "publishedAt": "2026-10-29T09:51:03.000+08:00"
+      },
       {
         "title": "外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722557.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国红十字基金会雪域健康基金携手爱心企业向西藏驻京办捐赠100台口袋充氧宝",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722542.shtml",
         "publishedAt": "2026-10-29T09:46:08.000+08:00"
-      },
-      {
-        "title": "重庆开州“菜单式学厨”成新时尚 学员按“菜”选课学手艺",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722552.shtml",
-        "publishedAt": "2026-10-29T09:45:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T09:50:03.561+08:00",
+    "fetchedAt": "2026-10-29T10:00:04.116+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T09:50:07.251+08:00",
+      "fetchedAt": "2026-10-29T10:00:08.955+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-10-29T14:06:00.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T09:50:07.576+08:00",
+      "fetchedAt": "2026-10-29T10:00:09.196+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T09:50:07.585+08:00",
+      "fetchedAt": "2026-10-29T10:00:09.205+08:00",
       "error": null
     }
   }
