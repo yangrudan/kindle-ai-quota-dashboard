@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T22:10:09.033+08:00",
+  "updatedAt": "2026-10-29T22:20:18.916+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T22:10:09.034+08:00",
+    "fetchedAt": "2026-10-29T22:20:18.916+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "杭州新添音乐空间 5000张黑胶唱片奏响老街",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723031.shtml",
+        "publishedAt": "2026-10-29T22:14:39.000+08:00"
+      },
+      {
+        "title": "第九届新疆红十字应急救护大赛在乌鲁木齐举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723029.shtml",
+        "publishedAt": "2026-10-29T22:12:59.000+08:00"
+      },
+      {
+        "title": "海报丨中国共产党第二十一次全国代表大会于2027年下半年在北京召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723030.shtml",
+        "publishedAt": "2026-10-29T22:08:41.000+08:00"
+      },
       {
         "title": "杭州新一轮城市照明规划出炉 营造宋韵美学杭派夜景",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723022.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "2026两岸青年新文创成果发布会在厦门举行",
         "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723017.shtml",
         "publishedAt": "2026-10-29T21:58:56.000+08:00"
-      },
-      {
-        "title": "新疆—成渝地区双城经济圈氢能综合应用试点城市群工作部署会在渝举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723021.shtml",
-        "publishedAt": "2026-10-29T21:58:54.000+08:00"
-      },
-      {
-        "title": "小微货品“拼单”西行 “丝路拼箱”班列加速对接欧亚市场",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-29/10723020.shtml",
-        "publishedAt": "2026-10-29T21:58:50.000+08:00"
-      },
-      {
-        "title": "上海举办主题研讨会回顾宋庆龄与国际友人的长征往事",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723019.shtml",
-        "publishedAt": "2026-10-29T21:58:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T22:10:03.233+08:00",
+    "fetchedAt": "2026-10-29T22:20:12.630+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T22:10:07.950+08:00",
+      "fetchedAt": "2026-10-29T22:20:17.761+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T03:10:09.000+08:00"
+          "resetAt": "2026-10-30T03:20:19.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T22:10:08.089+08:00",
+      "fetchedAt": "2026-10-29T22:20:17.877+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T22:10:08.096+08:00",
+      "fetchedAt": "2026-10-29T22:20:17.884+08:00",
       "error": null
     }
   }
