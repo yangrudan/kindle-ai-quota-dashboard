@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T18:40:40.036+08:00",
+  "updatedAt": "2026-10-29T18:50:39.879+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.8,
-    "feelsLikeC": 20.3,
-    "humidity": 73,
-    "windKph": 7.3,
-    "windDir": "北风",
+    "tempC": 19.5,
+    "feelsLikeC": 20.2,
+    "humidity": 75,
+    "windKph": 5.7,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T18:40:40.037+08:00",
+    "observedAt": "2026-10-29T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T18:50:39.879+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "看智驾、逛公园、登黄山，德国总统访华走进安徽",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722859.shtml",
-        "publishedAt": "2026-10-29T18:30:37.000+08:00"
+        "title": "前三季度青海外送绿电超300亿千瓦时",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722866.shtml",
+        "publishedAt": "2026-10-29T18:45:12.000+08:00"
       },
       {
-        "title": "全国县域足球赛北京市基层赛收官 1616名球员参与",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722858.shtml",
-        "publishedAt": "2026-10-29T18:24:09.000+08:00"
+        "title": "中国进一步提高海南自贸港贸易自由化便利化水平",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722860.shtml",
+        "publishedAt": "2026-10-29T18:44:34.000+08:00"
       },
       {
-        "title": "《宁夏回族自治区人工影响天气管理办法》出台",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722852.shtml",
-        "publishedAt": "2026-10-29T18:17:14.000+08:00"
+        "title": "今年以来北京大兴机场口岸出入境人员突破500万人次",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722861.shtml",
+        "publishedAt": "2026-10-29T18:42:50.000+08:00"
       },
       {
-        "title": "受权发布丨张升民同志简历",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722857.shtml",
-        "publishedAt": "2026-10-29T18:03:25.000+08:00"
+        "title": "今夜起两股冷空气接连影响我国 降温日历看哪里气温或创下半年来新低",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722870.shtml",
+        "publishedAt": "2026-10-29T18:41:49.000+08:00"
       },
       {
-        "title": "中共中央将于30日上午举行新闻发布会 介绍和解读党的二十届五中全会精神",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722856.shtml",
-        "publishedAt": "2026-10-29T18:02:17.000+08:00"
+        "title": "徐晓兰赴毕节开展乡村振兴帮扶工作调研",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722868.shtml",
+        "publishedAt": "2026-10-29T18:35:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T18:40:03.685+08:00",
+    "fetchedAt": "2026-10-29T18:50:04.140+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T18:40:38.387+08:00",
+      "fetchedAt": "2026-10-29T18:50:38.469+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T18:40:38.718+08:00",
+      "fetchedAt": "2026-10-29T18:50:38.818+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T18:40:38.727+08:00",
+      "fetchedAt": "2026-10-29T18:50:38.825+08:00",
       "error": null
     }
   }
