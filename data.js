@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T18:50:39.879+08:00",
+  "updatedAt": "2026-10-29T19:00:10.758+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.5,
-    "feelsLikeC": 20.2,
+    "tempC": 19.3,
+    "feelsLikeC": 20.1,
     "humidity": 75,
-    "windKph": 5.7,
+    "windKph": 4.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T18:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T18:50:39.879+08:00",
+    "observedAt": "2026-10-29T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T19:00:10.758+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "前三季度青海外送绿电超300亿千瓦时",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722866.shtml",
-        "publishedAt": "2026-10-29T18:45:12.000+08:00"
+        "title": "宁夏鲜活大闸蟹首次出口马来西亚 盐碱水产闯开东南亚市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722873.shtml",
+        "publishedAt": "2026-10-29T18:56:52.000+08:00"
       },
       {
-        "title": "中国进一步提高海南自贸港贸易自由化便利化水平",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722860.shtml",
-        "publishedAt": "2026-10-29T18:44:34.000+08:00"
+        "title": "外媒聚焦：德国总统访华释放积极信号，中德务实合作前景广阔",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722882.shtml",
+        "publishedAt": "2026-10-29T18:55:04.000+08:00"
       },
       {
-        "title": "今年以来北京大兴机场口岸出入境人员突破500万人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722861.shtml",
-        "publishedAt": "2026-10-29T18:42:50.000+08:00"
+        "title": "中国—东盟职业院校学生烹饪技能大赛在南宁开赛",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722862.shtml",
+        "publishedAt": "2026-10-29T18:54:44.000+08:00"
       },
       {
-        "title": "今夜起两股冷空气接连影响我国 降温日历看哪里气温或创下半年来新低",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722870.shtml",
-        "publishedAt": "2026-10-29T18:41:49.000+08:00"
+        "title": "9月中国核发绿证3.26亿个",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722864.shtml",
+        "publishedAt": "2026-10-29T18:49:40.000+08:00"
       },
       {
-        "title": "徐晓兰赴毕节开展乡村振兴帮扶工作调研",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722868.shtml",
-        "publishedAt": "2026-10-29T18:35:41.000+08:00"
+        "title": "《尚公主》海外同步播出 多平台登顶热播榜",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722871.shtml",
+        "publishedAt": "2026-10-29T18:48:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T18:50:04.140+08:00",
+    "fetchedAt": "2026-10-29T19:00:05.272+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T18:50:38.469+08:00",
+      "fetchedAt": "2026-10-29T19:00:09.165+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T18:50:38.818+08:00",
+      "fetchedAt": "2026-10-29T19:00:09.606+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T18:50:38.825+08:00",
+      "fetchedAt": "2026-10-29T19:00:09.611+08:00",
       "error": null
     }
   }
