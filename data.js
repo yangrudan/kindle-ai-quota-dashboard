@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T18:00:09.407+08:00",
+  "updatedAt": "2026-10-29T18:10:09.871+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T18:00:09.407+08:00",
+    "fetchedAt": "2026-10-29T18:10:09.871+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国家能源局：9月核发绿证3.26亿个，环比减少8.01%",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722850.shtml",
-        "publishedAt": "2026-10-29T17:44:18.000+08:00"
+        "title": "受权发布丨张升民同志简历",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722857.shtml",
+        "publishedAt": "2026-10-29T18:03:25.000+08:00"
       },
       {
-        "title": "江苏扬州深耕“统战+科创” 党外院士专家园区行献智产业科创名城",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722849.shtml",
-        "publishedAt": "2026-10-29T17:34:10.000+08:00"
+        "title": "中共中央将于30日上午举行新闻发布会 介绍和解读党的二十届五中全会精神",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722856.shtml",
+        "publishedAt": "2026-10-29T18:02:17.000+08:00"
       },
       {
-        "title": "国防部警告民进党当局：“台独”是绝路，外人靠不住",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722851.shtml",
-        "publishedAt": "2026-10-29T17:30:42.000+08:00"
+        "title": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722854.shtml",
+        "publishedAt": "2026-10-29T18:01:39.000+08:00"
       },
       {
-        "title": "2026中国（河南）—东盟粮农合作发展大会将呈现五大亮点",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722848.shtml",
-        "publishedAt": "2026-10-29T17:30:18.000+08:00"
+        "title": "受权发布丨中国共产党第二十届中央委员会第五次全体会议公报",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722853.shtml",
+        "publishedAt": "2026-10-29T17:59:07.000+08:00"
       },
       {
-        "title": "习近平就西班牙高速列车追尾脱轨事故向西班牙国王费利佩六世致慰问电",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722847.shtml",
-        "publishedAt": "2026-10-29T17:29:38.000+08:00"
+        "title": "国防部回应近期辽宁舰航母编队训练情况",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722855.shtml",
+        "publishedAt": "2026-10-29T17:57:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T18:00:04.303+08:00",
+    "fetchedAt": "2026-10-29T18:10:04.364+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T18:00:08.004+08:00",
+      "fetchedAt": "2026-10-29T18:10:08.162+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T18:00:08.318+08:00",
+      "fetchedAt": "2026-10-29T18:10:08.470+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T18:00:08.325+08:00",
+      "fetchedAt": "2026-10-29T18:10:08.479+08:00",
       "error": null
     }
   }
