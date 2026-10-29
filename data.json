@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T13:30:08.409+08:00",
+  "updatedAt": "2026-10-29T13:40:10.964+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T13:30:08.409+08:00",
+    "fetchedAt": "2026-10-29T13:40:10.964+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2680元请来个兼职学生，社媒上“婚礼摄影工作室”水有多深？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722663.shtml",
+        "publishedAt": "2026-10-29T13:32:45.000+08:00"
+      },
+      {
+        "title": "辽宁秋假文化活动开启 让青少年走出课堂享受艺术时光",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722658.shtml",
+        "publishedAt": "2026-10-29T13:31:13.000+08:00"
+      },
+      {
+        "title": "台湾教师扎根黄河岸边“三尺讲台”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722660.shtml",
+        "publishedAt": "2026-10-29T13:30:47.000+08:00"
+      },
+      {
+        "title": "中国选手施晗首进广网巡回赛八强",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722656.shtml",
+        "publishedAt": "2026-10-29T13:29:55.000+08:00"
+      },
+      {
         "title": "广东省清远市江南水厂全面完工投产 惠及超百万人",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722654.shtml",
         "publishedAt": "2026-10-29T13:28:53.000+08:00"
-      },
-      {
-        "title": "广州举办华侨健康周活动 精准匹配侨胞返乡就医需求",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-29/10722651.shtml",
-        "publishedAt": "2026-10-29T13:28:25.000+08:00"
-      },
-      {
-        "title": "2026慕峰论坛暨第四届宏观物流发展战略论坛在乌鲁木齐举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722650.shtml",
-        "publishedAt": "2026-10-29T13:27:48.000+08:00"
-      },
-      {
-        "title": "三丽鸥致歉：终止与抹黑中国的日剧《VIVANT》角色联动合作",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722649.shtml",
-        "publishedAt": "2026-10-29T13:18:24.000+08:00"
-      },
-      {
-        "title": "前列腺问题并非中老年“专利” 专家提醒",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722648.shtml",
-        "publishedAt": "2026-10-29T13:16:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T13:30:02.993+08:00",
+    "fetchedAt": "2026-10-29T13:40:05.454+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T13:30:07.266+08:00",
+      "fetchedAt": "2026-10-29T13:40:09.422+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T13:30:07.536+08:00",
+      "fetchedAt": "2026-10-29T13:40:09.752+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T13:30:07.546+08:00",
+      "fetchedAt": "2026-10-29T13:40:09.761+08:00",
       "error": null
     }
   }
