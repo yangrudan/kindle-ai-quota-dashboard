@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T21:30:10.412+08:00",
+  "updatedAt": "2026-10-29T21:40:11.811+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T21:30:10.412+08:00",
+    "fetchedAt": "2026-10-29T21:40:11.811+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "呼和浩特发布42个航空航天产业合作方向 聚焦低空经济与商业航天",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722998.shtml",
-        "publishedAt": "2026-10-29T21:26:20.000+08:00"
+        "title": "报告：2026年底中国非化石能源发电装机占比料约为63%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723003.shtml",
+        "publishedAt": "2026-10-29T21:32:21.000+08:00"
       },
       {
-        "title": "科创芯片ETF将通过沪港互挂进入香港市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723001.shtml",
-        "publishedAt": "2026-10-29T21:24:42.000+08:00"
+        "title": "东西问·知味东方丨德国总统为何主动续杯？一缕“祁门香”里的“中国魂”与“世界味”",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-29/10723000.shtml",
+        "publishedAt": "2026-10-29T21:32:09.000+08:00"
       },
       {
-        "title": "跨越南洋“鼓舞还乡” 海南首支二十四节令鼓队擂响百年学府",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722999.shtml",
-        "publishedAt": "2026-10-29T21:23:36.000+08:00"
+        "title": "海外客商在上海寻找机器人“工友”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723005.shtml",
+        "publishedAt": "2026-10-29T21:27:52.000+08:00"
       },
       {
-        "title": "跨国“串门”说走就走，2026年满洲里口岸出入境人员破110万人次",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722997.shtml",
-        "publishedAt": "2026-10-29T21:19:40.000+08:00"
+        "title": "横琴粤澳深合区5年来推出27项澳门青年专项实习计划",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10723004.shtml",
+        "publishedAt": "2026-10-29T21:27:50.000+08:00"
       },
       {
-        "title": "难老泉复流后水往哪流？晋祠泉域保护与生态修复工程进入公示阶段",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722993.shtml",
-        "publishedAt": "2026-10-29T21:18:42.000+08:00"
+        "title": "广州南沙四期自动化码头打通外贸通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723006.shtml",
+        "publishedAt": "2026-10-29T21:27:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T21:30:05.357+08:00",
+    "fetchedAt": "2026-10-29T21:40:03.954+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T21:30:09.050+08:00",
+      "fetchedAt": "2026-10-29T21:40:09.899+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T02:30:10.000+08:00"
+          "resetAt": "2026-10-30T02:40:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T21:30:09.374+08:00",
+      "fetchedAt": "2026-10-29T21:40:10.247+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T21:30:09.378+08:00",
+      "fetchedAt": "2026-10-29T21:40:10.257+08:00",
       "error": null
     }
   }
