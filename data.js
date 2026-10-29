@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T11:50:48.078+08:00",
+  "updatedAt": "2026-10-29T12:00:39.540+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.2,
-    "feelsLikeC": 24.7,
-    "humidity": 57,
-    "windKph": 3.1,
-    "windDir": "西南风",
+    "tempC": 23.8,
+    "feelsLikeC": 25.4,
+    "humidity": 55,
+    "windKph": 2.3,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-10-29T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T11:50:48.078+08:00",
+    "observedAt": "2026-10-29T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T12:00:39.541+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "商务部 国家发展改革委 生态环境部 海关总署关于进一步提高海南自由贸易港贸易自由化便利化水平的通知",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722641.shtml",
+        "publishedAt": "2026-10-29T11:46:49.000+08:00"
+      },
       {
         "title": "（长征胜利90周年）巍巍大别山红旗不倒，老区如何走好发展新路？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722638.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "COP17“中国角”：“生物多样性友好城市建设”主题边会举办",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722639.shtml",
         "publishedAt": "2026-10-29T11:31:54.000+08:00"
-      },
-      {
-        "title": "山西屯留：深秋绛河碧水斑斓入画来",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722637.shtml",
-        "publishedAt": "2026-10-29T11:31:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T11:50:12.212+08:00",
+    "fetchedAt": "2026-10-29T12:00:04.706+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T11:50:46.461+08:00",
+      "fetchedAt": "2026-10-29T12:00:38.033+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T11:50:46.849+08:00",
+      "fetchedAt": "2026-10-29T12:00:38.532+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T11:50:46.852+08:00",
+      "fetchedAt": "2026-10-29T12:00:38.537+08:00",
       "error": null
     }
   }
