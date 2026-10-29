@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T13:10:39.013+08:00",
+  "updatedAt": "2026-10-29T13:20:09.294+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 24.4,
-    "feelsLikeC": 25.5,
+    "feelsLikeC": 25.3,
     "humidity": 54,
-    "windKph": 2.9,
+    "windKph": 3.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T13:10:39.014+08:00",
+    "observedAt": "2026-10-29T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T13:20:09.294+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722647.shtml",
+        "publishedAt": "2026-10-29T13:09:11.000+08:00"
+      },
       {
         "title": "刻刀不孤，方寸有心——访香港手雕麻将技艺唯一女师傅何秀湄",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10722646.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "西藏巴青县：34处集中安置点已搭建板房2686间",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722644.shtml",
         "publishedAt": "2026-10-29T12:28:07.000+08:00"
-      },
-      {
-        "title": "A股午评：近4700只个股飘绿，三大指数收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722642.shtml",
-        "publishedAt": "2026-10-29T11:57:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T13:10:04.219+08:00",
+    "fetchedAt": "2026-10-29T13:20:03.345+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T13:10:37.795+08:00",
+      "fetchedAt": "2026-10-29T13:20:07.917+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T13:10:38.107+08:00",
+      "fetchedAt": "2026-10-29T13:20:08.371+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T13:10:38.116+08:00",
+      "fetchedAt": "2026-10-29T13:20:08.383+08:00",
       "error": null
     }
   }
