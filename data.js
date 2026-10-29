@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T17:10:11.645+08:00",
+  "updatedAt": "2026-10-29T17:20:14.503+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.9,
-    "feelsLikeC": 22.3,
-    "humidity": 66,
-    "windKph": 9.6,
+    "tempC": 21.5,
+    "feelsLikeC": 21.8,
+    "humidity": 67,
+    "windKph": 10.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T17:10:11.645+08:00",
+    "observedAt": "2026-10-29T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T17:20:14.503+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“广西农业丝路行”经贸对接活动举行 桂意携手共拓农业合作",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-29/10722826.shtml",
-        "publishedAt": "2026-10-29T17:01:56.000+08:00"
+        "title": "又到食蟹季，生食虾蟹可能导致“偷渡客”入侵你的身体！几步骤远离→",
+        "url": "https://www.chinanews.com.cn/life/2026/10-29/10722843.shtml",
+        "publishedAt": "2026-10-29T17:12:23.000+08:00"
       },
       {
-        "title": "辽宁个体工商户五年净增116.5万户",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722833.shtml",
-        "publishedAt": "2026-10-29T17:01:16.000+08:00"
+        "title": "30年“牵手”交出京蒙同心答卷",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722842.shtml",
+        "publishedAt": "2026-10-29T17:11:51.000+08:00"
       },
       {
-        "title": "湖北宜昌：峡江之畔结出五百亿“黄金果”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722834.shtml",
-        "publishedAt": "2026-10-29T17:00:32.000+08:00"
+        "title": "商务部：多项举措促进海南自贸港贸易创新发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722831.shtml",
+        "publishedAt": "2026-10-29T17:07:24.000+08:00"
       },
       {
-        "title": "欧洲华媒代表探访“中国湘绣之乡” 一针一线感受湘绣传承与创新",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722829.shtml",
-        "publishedAt": "2026-10-29T17:00:24.000+08:00"
+        "title": "农村地区部分老人孩子今年可免费接种流感疫苗",
+        "url": "https://www.chinanews.com.cn/life/2026/10-29/10722841.shtml",
+        "publishedAt": "2026-10-29T17:06:16.000+08:00"
       },
       {
-        "title": "沪市9只主动ETF完成募集 市场机构看好中国资产配置价值",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722825.shtml",
-        "publishedAt": "2026-10-29T16:59:38.000+08:00"
+        "title": "2026苏州国际友城嘉年华启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722836.shtml",
+        "publishedAt": "2026-10-29T17:03:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T17:10:03.078+08:00",
+    "fetchedAt": "2026-10-29T17:20:05.076+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T17:10:06.714+08:00",
+      "fetchedAt": "2026-10-29T17:20:12.913+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 30,
+          "usedPct": 52,
           "resetAt": "2026-10-29T20:00:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 5,
+          "usedPct": 8,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T17:10:06.991+08:00",
+      "fetchedAt": "2026-10-29T17:20:13.208+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T17:10:06.997+08:00",
+      "fetchedAt": "2026-10-29T17:20:13.220+08:00",
       "error": null
     }
   }
