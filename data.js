@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T23:50:39.277+08:00",
+  "updatedAt": "2026-10-30T00:00:11.423+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.9,
-    "feelsLikeC": 17.9,
-    "humidity": 87,
-    "windKph": 3.6,
+    "tempC": 16.8,
+    "feelsLikeC": 17.8,
+    "humidity": 88,
+    "windKph": 3.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T23:50:39.277+08:00",
+    "observedAt": "2026-10-30T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T00:00:11.423+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "CBA常规赛：北控队主场大胜四川队",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10723075.shtml",
-        "publishedAt": "2026-10-29T23:42:22.000+08:00"
+        "title": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
+        "publishedAt": "2026-10-29T23:51:56.000+08:00"
       },
       {
-        "title": "“北京太古坊”正式启用，为太古地产在中国内地单体投资额最高项目",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723071.shtml",
-        "publishedAt": "2026-10-29T23:37:10.000+08:00"
+        "title": "桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723081.shtml",
+        "publishedAt": "2026-10-29T23:51:50.000+08:00"
       },
       {
-        "title": "前三季度海南货物贸易跨境人民币收付同比增长超五成",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723070.shtml",
-        "publishedAt": "2026-10-29T23:34:23.000+08:00"
+        "title": "2023年以来江西法院共办理司法救助案件1.1万余件",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723080.shtml",
+        "publishedAt": "2026-10-29T23:51:28.000+08:00"
       },
       {
-        "title": "天津开展巾帼宣讲员风采展示活动 讲好巾帼建功奋斗故事",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723069.shtml",
-        "publishedAt": "2026-10-29T23:34:19.000+08:00"
+        "title": "广西加快打造国内国际双循环市场经营便利地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723079.shtml",
+        "publishedAt": "2026-10-29T23:48:52.000+08:00"
       },
       {
-        "title": "古韵新声引客来 傣族章哈成西双版纳文旅名片",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723068.shtml",
-        "publishedAt": "2026-10-29T23:34:13.000+08:00"
+        "title": "共探“人工智能+” “十五五·同心聚力自贸港”六期沙龙举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723078.shtml",
+        "publishedAt": "2026-10-29T23:48:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T23:50:03.895+08:00",
+    "fetchedAt": "2026-10-30T00:00:05.399+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T23:50:37.648+08:00",
+      "fetchedAt": "2026-10-30T00:00:09.827+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T04:50:39.000+08:00"
+          "resetAt": "2026-10-30T05:00:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T23:50:38.105+08:00",
+      "fetchedAt": "2026-10-30T00:00:10.311+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T23:50:38.113+08:00",
+      "fetchedAt": "2026-10-30T00:00:10.315+08:00",
       "error": null
     }
   }
