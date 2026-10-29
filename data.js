@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T09:00:09.887+08:00",
+  "updatedAt": "2026-10-29T09:10:08.762+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-29T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T09:00:09.887+08:00",
+    "fetchedAt": "2026-10-29T09:10:08.762+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西藏南部等地有强雨雪 明起东西两路冷空气将南下",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722526.shtml",
+        "publishedAt": "2026-10-29T09:04:32.000+08:00"
+      },
+      {
+        "title": "前三季度我国海洋生产总值8.5万亿元 同比增4.9%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722525.shtml",
+        "publishedAt": "2026-10-29T09:00:18.000+08:00"
+      },
+      {
+        "title": "明明吃着不咸，钠却悄悄超标！这些“高盐刺客”就在你餐桌上",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722524.shtml",
+        "publishedAt": "2026-10-29T08:57:22.000+08:00"
+      },
       {
         "title": "盲目“秋冻”诱发卒中！预防与康复有哪些注意事项？",
         "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722523.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "西班牙列车相撞已致68人死亡 直击救援现场",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-29/1209176.shtml",
         "publishedAt": "2026-10-29T08:36:30.000+08:00"
-      },
-      {
-        "title": "从一瓶水、一份早餐，到一捧花、一个盲盒——地铁站内的生意更丰富了",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722521.shtml",
-        "publishedAt": "2026-10-29T08:25:14.000+08:00"
-      },
-      {
-        "title": "世界卒中日：警惕“中风”，这个“120”必须重视",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722520.shtml",
-        "publishedAt": "2026-10-29T08:14:54.000+08:00"
-      },
-      {
-        "title": "中国网球，释放新动能",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722519.shtml",
-        "publishedAt": "2026-10-29T08:09:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T09:00:05.034+08:00",
+    "fetchedAt": "2026-10-29T09:10:03.265+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T09:00:08.716+08:00",
+      "fetchedAt": "2026-10-29T09:10:06.959+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-29T14:00:09.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-10-29T14:06:00.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 14,
+          "usedPct": 15,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T09:00:08.960+08:00",
+      "fetchedAt": "2026-10-29T09:10:07.194+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T09:00:08.965+08:00",
+      "fetchedAt": "2026-10-29T09:10:07.199+08:00",
       "error": null
     }
   }
