@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T19:40:38.814+08:00",
+  "updatedAt": "2026-10-29T19:50:18.436+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-29T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T19:40:38.814+08:00",
+    "fetchedAt": "2026-10-29T19:50:18.437+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第四届重庆三峡人才节11月7日在万州启幕 计划引高层次人才超700名",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-29/10722886.shtml",
-        "publishedAt": "2026-10-29T19:26:34.000+08:00"
+        "title": "中国和智利两国央行续签双边本币互换协议",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722921.shtml",
+        "publishedAt": "2026-10-29T19:45:07.000+08:00"
       },
       {
-        "title": "甘肃民勤：戈壁沙乡奏“椒”响曲",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722892.shtml",
-        "publishedAt": "2026-10-29T19:24:34.000+08:00"
+        "title": "以色列两大阵营均未获多数议席 不同组阁结果影响几何",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722934.shtml",
+        "publishedAt": "2026-10-29T19:44:55.000+08:00"
       },
       {
-        "title": "中新健康丨Swisse斯维诗2批次产品被检出铅超标，品牌方称未进入中国市场",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722885.shtml",
-        "publishedAt": "2026-10-29T19:22:26.000+08:00"
+        "title": "“理财产品要变相保本了”系误读政策（2026·10·29）",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722930.shtml",
+        "publishedAt": "2026-10-29T19:42:55.000+08:00"
       },
       {
-        "title": "西藏自治区交通运输厅针对巴青7.0级地震已排查公路29353公里",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722914.shtml",
-        "publishedAt": "2026-10-29T19:21:42.000+08:00"
+        "title": "（财经天下）加息暂歇 美联储保持观望",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722923.shtml",
+        "publishedAt": "2026-10-29T19:41:55.000+08:00"
       },
       {
-        "title": "销量涨超80%！二手手机成抢手货",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722913.shtml",
-        "publishedAt": "2026-10-29T19:19:48.000+08:00"
+        "title": "广西与老挝共建林业产业园区",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722890.shtml",
+        "publishedAt": "2026-10-29T19:41:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T19:40:03.274+08:00",
+    "fetchedAt": "2026-10-29T19:50:12.412+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T19:40:37.475+08:00",
+      "fetchedAt": "2026-10-29T19:50:16.250+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T19:40:37.886+08:00",
+      "fetchedAt": "2026-10-29T19:50:16.871+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T19:40:37.894+08:00",
+      "fetchedAt": "2026-10-29T19:50:16.877+08:00",
       "error": null
     }
   }
