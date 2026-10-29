@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T18:20:11.377+08:00",
+  "updatedAt": "2026-10-29T18:30:10.294+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.1,
-    "feelsLikeC": 20.4,
-    "humidity": 72,
-    "windKph": 8.8,
+    "tempC": 19.8,
+    "feelsLikeC": 20.3,
+    "humidity": 73,
+    "windKph": 7.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T18:20:11.377+08:00",
+    "observedAt": "2026-10-29T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T18:30:10.294+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国县域足球赛北京市基层赛收官 1616名球员参与",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722858.shtml",
+        "publishedAt": "2026-10-29T18:24:09.000+08:00"
+      },
+      {
+        "title": "《宁夏回族自治区人工影响天气管理办法》出台",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722852.shtml",
+        "publishedAt": "2026-10-29T18:17:14.000+08:00"
+      },
       {
         "title": "受权发布丨张升民同志简历",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722857.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722854.shtml",
         "publishedAt": "2026-10-29T18:01:39.000+08:00"
-      },
-      {
-        "title": "受权发布丨中国共产党第二十届中央委员会第五次全体会议公报",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722853.shtml",
-        "publishedAt": "2026-10-29T17:59:07.000+08:00"
-      },
-      {
-        "title": "国防部回应近期辽宁舰航母编队训练情况",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722855.shtml",
-        "publishedAt": "2026-10-29T17:57:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T18:20:04.448+08:00",
+    "fetchedAt": "2026-10-29T18:30:04.313+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T18:20:09.747+08:00",
+      "fetchedAt": "2026-10-29T18:30:08.913+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T18:20:10.044+08:00",
+      "fetchedAt": "2026-10-29T18:30:09.346+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T18:20:10.053+08:00",
+      "fetchedAt": "2026-10-29T18:30:09.354+08:00",
       "error": null
     }
   }
