@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:00:11.098+08:00",
+  "updatedAt": "2026-10-29T23:10:09.279+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T23:00:11.098+08:00",
+    "fetchedAt": "2026-10-29T23:10:09.279+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青海省第八座民用运输机场投产校飞成功",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723039.shtml",
-        "publishedAt": "2026-10-29T22:49:47.000+08:00"
+        "title": "2026巴彦淖尔农牧业高质量发展成果推介会举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723048.shtml",
+        "publishedAt": "2026-10-29T23:06:32.000+08:00"
       },
       {
-        "title": "德国总统施泰因迈尔访问中国科学院",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723038.shtml",
-        "publishedAt": "2026-10-29T22:49:39.000+08:00"
+        "title": "“中国甜糯玉米之乡”山西五寨：聚力有机旱作 升级特优农业",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723046.shtml",
+        "publishedAt": "2026-10-29T23:06:26.000+08:00"
       },
       {
-        "title": "专家吁坚定中华文化认同 促进两岸同胞心灵契合",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723037.shtml",
-        "publishedAt": "2026-10-29T22:49:13.000+08:00"
+        "title": "美联储宣布维持利率不变 香港金管局指符合市场预期",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10723045.shtml",
+        "publishedAt": "2026-10-29T23:03:24.000+08:00"
       },
       {
-        "title": "报告：中国健康扶贫的经验启示将为他国提供重要借鉴",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723036.shtml",
-        "publishedAt": "2026-10-29T22:49:03.000+08:00"
+        "title": "近30个国家和地区800多名嘉宾报名参加广州国际投资年会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723043.shtml",
+        "publishedAt": "2026-10-29T23:02:54.000+08:00"
       },
       {
-        "title": "韩国前总统尹锡悦涉“内乱案”二审被求死刑",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10723035.shtml",
-        "publishedAt": "2026-10-29T22:47:29.000+08:00"
+        "title": "重庆彭水“十五五”谋文旅发展蓝图：品山水、宿苗乡、盼再来",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723042.shtml",
+        "publishedAt": "2026-10-29T23:01:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T23:00:04.685+08:00",
+    "fetchedAt": "2026-10-29T23:10:03.826+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T23:00:09.074+08:00",
+      "fetchedAt": "2026-10-29T23:10:07.659+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T04:00:10.000+08:00"
+          "resetAt": "2026-10-30T04:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T23:00:09.486+08:00",
+      "fetchedAt": "2026-10-29T23:10:08.231+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T23:00:09.489+08:00",
+      "fetchedAt": "2026-10-29T23:10:08.237+08:00",
       "error": null
     }
   }
