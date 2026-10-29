@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T12:40:08.212+08:00",
+  "updatedAt": "2026-10-29T12:50:08.636+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.2,
-    "feelsLikeC": 25.7,
+    "tempC": 24.3,
+    "feelsLikeC": 25.6,
     "humidity": 54,
-    "windKph": 2.3,
+    "windKph": 2.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T12:40:08.212+08:00",
+    "observedAt": "2026-10-29T12:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T12:50:08.637+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第十二届中华文化论坛在京举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722628.shtml",
+        "publishedAt": "2026-10-29T12:40:44.000+08:00"
+      },
+      {
+        "title": "王传福荣获2026中国汽车工业最高荣誉“饶斌奖”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722590.shtml",
+        "publishedAt": "2026-10-29T12:38:38.000+08:00"
+      },
       {
         "title": "西藏巴青县：34处集中安置点已搭建板房2686间",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722644.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "四部门：进一步提高海南自由贸易港贸易自由化便利化水平",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722641.shtml",
         "publishedAt": "2026-10-29T11:46:49.000+08:00"
-      },
-      {
-        "title": "（长征胜利90周年）巍巍大别山红旗不倒，老区如何走好发展新路？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722638.shtml",
-        "publishedAt": "2026-10-29T11:38:31.000+08:00"
-      },
-      {
-        "title": "北京市政协建言提升国际传播力",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722630.shtml",
-        "publishedAt": "2026-10-29T11:34:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T12:40:03.608+08:00",
+    "fetchedAt": "2026-10-29T12:50:03.663+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T12:40:07.073+08:00",
+      "fetchedAt": "2026-10-29T12:50:07.389+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T12:40:07.353+08:00",
+      "fetchedAt": "2026-10-29T12:50:07.713+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T12:40:07.362+08:00",
+      "fetchedAt": "2026-10-29T12:50:07.717+08:00",
       "error": null
     }
   }
