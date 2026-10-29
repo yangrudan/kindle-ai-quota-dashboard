@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T19:20:10.289+08:00",
+  "updatedAt": "2026-10-29T19:30:10.389+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 19.1,
     "feelsLikeC": 20.1,
-    "humidity": 76,
-    "windKph": 4.2,
+    "humidity": 77,
+    "windKph": 3.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T19:20:10.289+08:00",
+    "observedAt": "2026-10-29T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T19:30:10.389+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“利剑27”军演释放危险信号",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722907.shtml",
-        "publishedAt": "2026-10-29T19:12:43.000+08:00"
+        "title": "中新健康丨Swisse斯维诗2批次产品被检出铅超标，品牌方称未进入中国市场",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722885.shtml",
+        "publishedAt": "2026-10-29T19:22:26.000+08:00"
       },
       {
-        "title": "大风蓝色预警：内蒙古黑龙江等10省区部分地区阵风可达7至9级",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722895.shtml",
-        "publishedAt": "2026-10-29T19:10:57.000+08:00"
+        "title": "西藏自治区交通运输厅针对巴青7.0级地震已排查公路29353公里",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722914.shtml",
+        "publishedAt": "2026-10-29T19:21:42.000+08:00"
       },
       {
-        "title": "河南开封多点发力稳外贸 重点产业进出口势头强劲",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722869.shtml",
-        "publishedAt": "2026-10-29T19:09:21.000+08:00"
+        "title": "销量涨超80%！二手手机成抢手货",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722913.shtml",
+        "publishedAt": "2026-10-29T19:19:48.000+08:00"
       },
       {
-        "title": "李小达：身体只是创作的土壤，艺术的评判交给画布",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722887.shtml",
-        "publishedAt": "2026-10-29T19:08:03.000+08:00"
+        "title": "注意防范 这些地方将有大暴雪、特大暴雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722911.shtml",
+        "publishedAt": "2026-10-29T19:17:59.000+08:00"
       },
       {
-        "title": "让运动融入日常 山西发布体育发展五年蓝图",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722872.shtml",
-        "publishedAt": "2026-10-29T19:07:07.000+08:00"
+        "title": "山东金融“活水”助力汽车产业发展 政企银联动打通对接通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722896.shtml",
+        "publishedAt": "2026-10-29T19:17:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T19:20:04.053+08:00",
+    "fetchedAt": "2026-10-29T19:30:04.925+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T19:20:08.975+08:00",
+      "fetchedAt": "2026-10-29T19:30:08.951+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T19:20:09.352+08:00",
+      "fetchedAt": "2026-10-29T19:30:09.272+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T19:20:09.358+08:00",
+      "fetchedAt": "2026-10-29T19:30:09.277+08:00",
       "error": null
     }
   }
