@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T20:40:12.329+08:00",
+  "updatedAt": "2026-10-29T20:50:40.114+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.4,
-    "feelsLikeC": 19.4,
+    "tempC": 18.3,
+    "feelsLikeC": 19.3,
     "humidity": 78,
-    "windKph": 3.2,
+    "windKph": 3.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T20:40:12.329+08:00",
+    "observedAt": "2026-10-29T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T20:50:40.114+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山东省—全北特别自治道庆祝结好20周年体育交流展演举办",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722943.shtml",
-        "publishedAt": "2026-10-29T20:32:37.000+08:00"
+        "title": "中国科学家揭示日冕纳耀斑磁重联加热机制",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722973.shtml",
+        "publishedAt": "2026-10-29T20:48:16.000+08:00"
       },
       {
-        "title": "第三届四川省集体协商竞赛（决赛）在遂宁落幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722966.shtml",
-        "publishedAt": "2026-10-29T20:30:27.000+08:00"
+        "title": "中国—东盟职业院校学生在南宁比拼烹饪技能",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722957.shtml",
+        "publishedAt": "2026-10-29T20:47:12.000+08:00"
       },
       {
-        "title": "福州：高架桥底遇见“三角梅银河”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722939.shtml",
-        "publishedAt": "2026-10-29T20:29:53.000+08:00"
+        "title": "西安市重点科技项目加速落地 新质生产力蓄势赋能",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722969.shtml",
+        "publishedAt": "2026-10-29T20:44:40.000+08:00"
       },
       {
-        "title": "山西柳林：红高粱开镰 颗粒尽归仓",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722932.shtml",
-        "publishedAt": "2026-10-29T20:18:29.000+08:00"
+        "title": "法学专家谈新就业形态劳动者权益保障新规：建言增强可操作性",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722970.shtml",
+        "publishedAt": "2026-10-29T20:43:54.000+08:00"
       },
       {
-        "title": "河北涉县：太行深山长出“金连翘”",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722931.shtml",
-        "publishedAt": "2026-10-29T20:17:25.000+08:00"
+        "title": "世界城地组织亚太区2026年理事会会议在海口开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722972.shtml",
+        "publishedAt": "2026-10-29T20:42:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T20:40:06.660+08:00",
+    "fetchedAt": "2026-10-29T20:50:04.802+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T20:40:10.995+08:00",
+      "fetchedAt": "2026-10-29T20:50:38.863+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T01:40:12.000+08:00"
+          "resetAt": "2026-10-30T01:50:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T20:40:11.274+08:00",
+      "fetchedAt": "2026-10-29T20:50:39.100+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T20:40:11.281+08:00",
+      "fetchedAt": "2026-10-29T20:50:39.109+08:00",
       "error": null
     }
   }
