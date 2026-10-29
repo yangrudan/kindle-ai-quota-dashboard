@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T19:00:10.758+08:00",
+  "updatedAt": "2026-10-29T19:10:38.609+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-29T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T19:00:10.758+08:00",
+    "fetchedAt": "2026-10-29T19:10:38.609+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "草原小城医改观察：钱花在人身上 病留在家门口",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722875.shtml",
+        "publishedAt": "2026-10-29T19:01:57.000+08:00"
+      },
+      {
+        "title": "美瞳使用不当易损伤角膜，选用有讲究，请仔细核查这几点",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722888.shtml",
+        "publishedAt": "2026-10-29T19:01:37.000+08:00"
+      },
+      {
+        "title": "云南31个县市区达到美丽乡村整县建成指标要求",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722878.shtml",
+        "publishedAt": "2026-10-29T19:00:34.000+08:00"
+      },
+      {
+        "title": "宁夏盐池探路县域低空经济新赛道",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722877.shtml",
+        "publishedAt": "2026-10-29T18:58:32.000+08:00"
+      },
+      {
         "title": "宁夏鲜活大闸蟹首次出口马来西亚 盐碱水产闯开东南亚市场",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722873.shtml",
         "publishedAt": "2026-10-29T18:56:52.000+08:00"
-      },
-      {
-        "title": "外媒聚焦：德国总统访华释放积极信号，中德务实合作前景广阔",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722882.shtml",
-        "publishedAt": "2026-10-29T18:55:04.000+08:00"
-      },
-      {
-        "title": "中国—东盟职业院校学生烹饪技能大赛在南宁开赛",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722862.shtml",
-        "publishedAt": "2026-10-29T18:54:44.000+08:00"
-      },
-      {
-        "title": "9月中国核发绿证3.26亿个",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722864.shtml",
-        "publishedAt": "2026-10-29T18:49:40.000+08:00"
-      },
-      {
-        "title": "《尚公主》海外同步播出 多平台登顶热播榜",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722871.shtml",
-        "publishedAt": "2026-10-29T18:48:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T19:00:05.272+08:00",
+    "fetchedAt": "2026-10-29T19:10:03.508+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T19:00:09.165+08:00",
+      "fetchedAt": "2026-10-29T19:10:36.958+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T19:00:09.606+08:00",
+      "fetchedAt": "2026-10-29T19:10:37.539+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T19:00:09.611+08:00",
+      "fetchedAt": "2026-10-29T19:10:37.548+08:00",
       "error": null
     }
   }
