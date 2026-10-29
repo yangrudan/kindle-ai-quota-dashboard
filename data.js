@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T17:00:11.774+08:00",
+  "updatedAt": "2026-10-29T17:10:11.645+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T17:00:11.775+08:00",
+    "fetchedAt": "2026-10-29T17:10:11.645+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "这种“打工人高发病”，得了有什么缓解方法，又该怎么预防？",
-        "url": "https://www.chinanews.com.cn/life/2026/10-29/10722830.shtml",
-        "publishedAt": "2026-10-29T16:54:50.000+08:00"
+        "title": "“广西农业丝路行”经贸对接活动举行 桂意携手共拓农业合作",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-29/10722826.shtml",
+        "publishedAt": "2026-10-29T17:01:56.000+08:00"
       },
       {
-        "title": "泽连斯基：乌方愿进行任何形式的谈判，准备好讨论任何议题",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722812.shtml",
-        "publishedAt": "2026-10-29T16:51:24.000+08:00"
+        "title": "辽宁个体工商户五年净增116.5万户",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722833.shtml",
+        "publishedAt": "2026-10-29T17:01:16.000+08:00"
       },
       {
-        "title": "第十二届中华文化论坛举行 聚焦两岸文化认同与心灵契合",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722809.shtml",
-        "publishedAt": "2026-10-29T16:51:24.000+08:00"
+        "title": "湖北宜昌：峡江之畔结出五百亿“黄金果”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722834.shtml",
+        "publishedAt": "2026-10-29T17:00:32.000+08:00"
       },
       {
-        "title": "纪念孙中山诞辰160周年研讨会暨主题展在澳门举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10722821.shtml",
-        "publishedAt": "2026-10-29T16:49:31.000+08:00"
+        "title": "欧洲华媒代表探访“中国湘绣之乡” 一针一线感受湘绣传承与创新",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722829.shtml",
+        "publishedAt": "2026-10-29T17:00:24.000+08:00"
       },
       {
-        "title": "AI时代 大湾区高校如何优化科创人才培育路径？",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10722823.shtml",
-        "publishedAt": "2026-10-29T16:49:23.000+08:00"
+        "title": "沪市9只主动ETF完成募集 市场机构看好中国资产配置价值",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722825.shtml",
+        "publishedAt": "2026-10-29T16:59:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T17:00:04.352+08:00",
+    "fetchedAt": "2026-10-29T17:10:03.078+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T17:00:08.586+08:00",
+      "fetchedAt": "2026-10-29T17:10:06.714+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 25,
+          "usedPct": 30,
           "resetAt": "2026-10-29T20:00:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T17:00:08.890+08:00",
+      "fetchedAt": "2026-10-29T17:10:06.991+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T17:00:08.900+08:00",
+      "fetchedAt": "2026-10-29T17:10:06.997+08:00",
       "error": null
     }
   }
