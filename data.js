@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T06:20:13.947+08:00",
+  "updatedAt": "2026-10-30T06:30:42.038+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.6,
+    "tempC": 15.7,
     "feelsLikeC": 16.9,
     "humidity": 95,
-    "windKph": 1.7,
+    "windKph": 2.3,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-30T06:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T06:20:13.948+08:00",
+    "observedAt": "2026-10-30T06:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T06:30:42.038+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美军中央司令部司令向特朗普汇报对伊朗军事选项",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723083.shtml",
+        "publishedAt": "2026-10-30T06:16:10.000+08:00"
+      },
       {
         "title": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广西加快打造国内国际双循环市场经营便利地",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723079.shtml",
         "publishedAt": "2026-10-29T23:48:52.000+08:00"
-      },
-      {
-        "title": "共探“人工智能+” “十五五·同心聚力自贸港”六期沙龙举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723078.shtml",
-        "publishedAt": "2026-10-29T23:48:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T06:20:03.808+08:00",
+    "fetchedAt": "2026-10-30T06:30:03.337+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T06:20:08.201+08:00",
+      "fetchedAt": "2026-10-30T06:30:39.351+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T11:20:13.000+08:00"
+          "resetAt": "2026-10-30T11:30:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T06:20:10.878+08:00",
+      "fetchedAt": "2026-10-30T06:30:39.611+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T06:20:10.886+08:00",
+      "fetchedAt": "2026-10-30T06:30:39.621+08:00",
       "error": null
     }
   }
