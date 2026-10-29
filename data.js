@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T21:10:09.970+08:00",
+  "updatedAt": "2026-10-29T21:20:10.448+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.2,
-    "feelsLikeC": 19.1,
-    "humidity": 78,
-    "windKph": 3.6,
+    "tempC": 18.1,
+    "feelsLikeC": 18.8,
+    "humidity": 79,
+    "windKph": 4.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T21:10:09.970+08:00",
+    "observedAt": "2026-10-29T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T21:20:10.448+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "华媒探访长沙开慧镇 老供销社变身特色乡村茶馆",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722959.shtml",
-        "publishedAt": "2026-10-29T21:02:53.000+08:00"
+        "title": "一堂开进古都的辟谣课，为何让人着迷？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722996.shtml",
+        "publishedAt": "2026-10-29T21:14:00.000+08:00"
       },
       {
-        "title": "河南省级示范光储充一体化重卡充换电项目投运",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722958.shtml",
-        "publishedAt": "2026-10-29T21:01:53.000+08:00"
+        "title": "法国航空庆祝巴黎至香港航线开通88周年",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10722977.shtml",
+        "publishedAt": "2026-10-29T21:12:58.000+08:00"
       },
       {
-        "title": "中俄界江黑龙江呼玛段进入冬季流冰期",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722984.shtml",
-        "publishedAt": "2026-10-29T21:01:07.000+08:00"
+        "title": "“笃志——复旦书画双年邀请展”启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722995.shtml",
+        "publishedAt": "2026-10-29T21:12:54.000+08:00"
       },
       {
-        "title": "全球CSO俱乐部“落沪” 服务企业绿色转型与全球化发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722985.shtml",
-        "publishedAt": "2026-10-29T21:01:01.000+08:00"
+        "title": "中国创新创业大赛持续赋能广西科创企业 涵养创新生态",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722994.shtml",
+        "publishedAt": "2026-10-29T21:12:24.000+08:00"
       },
       {
-        "title": "欧洲华媒邂逅湖南“初恋小镇”：愿向海外讲好中国乡村故事",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-29/10722979.shtml",
-        "publishedAt": "2026-10-29T20:59:59.000+08:00"
+        "title": "（长征胜利90周年）会师之地唱响长征赞歌 《长征组歌》唱响固原",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722950.shtml",
+        "publishedAt": "2026-10-29T21:11:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T21:10:04.474+08:00",
+    "fetchedAt": "2026-10-29T21:20:04.213+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T21:10:08.547+08:00",
+      "fetchedAt": "2026-10-29T21:20:08.987+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T02:10:09.000+08:00"
+          "resetAt": "2026-10-30T02:20:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T21:10:09.023+08:00",
+      "fetchedAt": "2026-10-29T21:20:09.323+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T21:10:09.029+08:00",
+      "fetchedAt": "2026-10-29T21:20:09.329+08:00",
       "error": null
     }
   }
