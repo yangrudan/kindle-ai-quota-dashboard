@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T13:50:09.433+08:00",
+  "updatedAt": "2026-10-29T14:00:09.314+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 24.4,
-    "feelsLikeC": 25,
+    "feelsLikeC": 24.8,
     "humidity": 54,
-    "windKph": 6.3,
+    "windKph": 7.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T13:50:09.433+08:00",
+    "observedAt": "2026-10-29T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T14:00:09.314+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026蒙BA季后赛在二连浩特启幕 名宿相聚蒙BA嘉年华",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722669.shtml",
+        "publishedAt": "2026-10-29T13:54:58.000+08:00"
+      },
+      {
+        "title": "国际观察：AI微短剧带动中巴影视业合作升温",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722671.shtml",
+        "publishedAt": "2026-10-29T13:53:20.000+08:00"
+      },
+      {
+        "title": "非洲访华团走进河南郑州航空港开展实践课",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722662.shtml",
+        "publishedAt": "2026-10-29T13:52:18.000+08:00"
+      },
+      {
+        "title": "从援疆相遇走向共富：疆果果十年带动5万余果农增收",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722668.shtml",
+        "publishedAt": "2026-10-29T13:49:08.000+08:00"
+      },
+      {
         "title": "亚洲最长地铁环线武汉地铁12号线“画圆”",
         "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-29/news1073257.shtml",
         "publishedAt": "2026-10-29T13:41:54.000+08:00"
-      },
-      {
-        "title": "西藏巴青震区房屋安全如何判定？住建部专家详解",
-        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/10-29/news1073256.shtml",
-        "publishedAt": "2026-10-29T13:41:18.000+08:00"
-      },
-      {
-        "title": "让陌生人把关购物车，能拦住冲动消费吗？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722664.shtml",
-        "publishedAt": "2026-10-29T13:39:27.000+08:00"
-      },
-      {
-        "title": "海外华文媒体走访青岛科创大走廊 感受中国智造出海活力",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-29/10722653.shtml",
-        "publishedAt": "2026-10-29T13:34:21.000+08:00"
-      },
-      {
-        "title": "2680元请来个兼职学生，社媒上“婚礼摄影工作室”水有多深？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722663.shtml",
-        "publishedAt": "2026-10-29T13:32:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T13:50:04.035+08:00",
+    "fetchedAt": "2026-10-29T14:00:03.987+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T13:50:08.065+08:00",
+      "fetchedAt": "2026-10-29T14:00:08.248+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 59,
+          "usedPct": 62,
           "resetAt": "2026-10-29T14:06:00.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T13:50:08.482+08:00",
+      "fetchedAt": "2026-10-29T14:00:08.412+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T13:50:08.492+08:00",
+      "fetchedAt": "2026-10-29T14:00:08.420+08:00",
       "error": null
     }
   }
