@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T17:20:14.503+08:00",
+  "updatedAt": "2026-10-29T17:30:22.354+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T17:20:14.503+08:00",
+    "fetchedAt": "2026-10-29T17:30:22.355+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "商务部：若欧方一意孤行 中方必将采取一切必要措施",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722844.shtml",
+        "publishedAt": "2026-10-29T17:23:47.000+08:00"
+      },
+      {
+        "title": "“中欧班列”通道口岸段最长桥铺轨完成",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-29/10722839.shtml",
+        "publishedAt": "2026-10-29T17:22:51.000+08:00"
+      },
+      {
+        "title": "云南：边疆村寨绘就团结新画卷",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722846.shtml",
+        "publishedAt": "2026-10-29T17:14:17.000+08:00"
+      },
       {
         "title": "又到食蟹季，生食虾蟹可能导致“偷渡客”入侵你的身体！几步骤远离→",
         "url": "https://www.chinanews.com.cn/life/2026/10-29/10722843.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "30年“牵手”交出京蒙同心答卷",
         "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722842.shtml",
         "publishedAt": "2026-10-29T17:11:51.000+08:00"
-      },
-      {
-        "title": "商务部：多项举措促进海南自贸港贸易创新发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722831.shtml",
-        "publishedAt": "2026-10-29T17:07:24.000+08:00"
-      },
-      {
-        "title": "农村地区部分老人孩子今年可免费接种流感疫苗",
-        "url": "https://www.chinanews.com.cn/life/2026/10-29/10722841.shtml",
-        "publishedAt": "2026-10-29T17:06:16.000+08:00"
-      },
-      {
-        "title": "2026苏州国际友城嘉年华启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722836.shtml",
-        "publishedAt": "2026-10-29T17:03:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T17:20:05.076+08:00",
+    "fetchedAt": "2026-10-29T17:30:12.079+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T17:20:12.913+08:00",
+      "fetchedAt": "2026-10-29T17:30:20.238+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 52,
+          "usedPct": 65,
           "resetAt": "2026-10-29T20:00:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
+          "usedPct": 10,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T17:20:13.208+08:00",
+      "fetchedAt": "2026-10-29T17:30:20.663+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T17:20:13.220+08:00",
+      "fetchedAt": "2026-10-29T17:30:20.673+08:00",
       "error": null
     }
   }
