@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T19:10:38.609+08:00",
+  "updatedAt": "2026-10-29T19:20:10.289+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.3,
+    "tempC": 19.1,
     "feelsLikeC": 20.1,
-    "humidity": 75,
-    "windKph": 4.8,
+    "humidity": 76,
+    "windKph": 4.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T19:10:38.609+08:00",
+    "observedAt": "2026-10-29T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T19:20:10.289+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "草原小城医改观察：钱花在人身上 病留在家门口",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722875.shtml",
-        "publishedAt": "2026-10-29T19:01:57.000+08:00"
+        "title": "“利剑27”军演释放危险信号",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722907.shtml",
+        "publishedAt": "2026-10-29T19:12:43.000+08:00"
       },
       {
-        "title": "美瞳使用不当易损伤角膜，选用有讲究，请仔细核查这几点",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722888.shtml",
-        "publishedAt": "2026-10-29T19:01:37.000+08:00"
+        "title": "大风蓝色预警：内蒙古黑龙江等10省区部分地区阵风可达7至9级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722895.shtml",
+        "publishedAt": "2026-10-29T19:10:57.000+08:00"
       },
       {
-        "title": "云南31个县市区达到美丽乡村整县建成指标要求",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722878.shtml",
-        "publishedAt": "2026-10-29T19:00:34.000+08:00"
+        "title": "河南开封多点发力稳外贸 重点产业进出口势头强劲",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722869.shtml",
+        "publishedAt": "2026-10-29T19:09:21.000+08:00"
       },
       {
-        "title": "宁夏盐池探路县域低空经济新赛道",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722877.shtml",
-        "publishedAt": "2026-10-29T18:58:32.000+08:00"
+        "title": "李小达：身体只是创作的土壤，艺术的评判交给画布",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722887.shtml",
+        "publishedAt": "2026-10-29T19:08:03.000+08:00"
       },
       {
-        "title": "宁夏鲜活大闸蟹首次出口马来西亚 盐碱水产闯开东南亚市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722873.shtml",
-        "publishedAt": "2026-10-29T18:56:52.000+08:00"
+        "title": "让运动融入日常 山西发布体育发展五年蓝图",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722872.shtml",
+        "publishedAt": "2026-10-29T19:07:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T19:10:03.508+08:00",
+    "fetchedAt": "2026-10-29T19:20:04.053+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T19:10:36.958+08:00",
+      "fetchedAt": "2026-10-29T19:20:08.975+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T19:10:37.539+08:00",
+      "fetchedAt": "2026-10-29T19:20:09.352+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T19:10:37.548+08:00",
+      "fetchedAt": "2026-10-29T19:20:09.358+08:00",
       "error": null
     }
   }
