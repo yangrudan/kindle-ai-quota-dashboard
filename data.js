@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T20:50:40.114+08:00",
+  "updatedAt": "2026-10-29T21:00:11.260+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.3,
-    "feelsLikeC": 19.3,
+    "tempC": 18.2,
+    "feelsLikeC": 19.1,
     "humidity": 78,
-    "windKph": 3.4,
-    "windDir": "东北风",
+    "windKph": 3.6,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T20:50:40.114+08:00",
+    "observedAt": "2026-10-29T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T21:00:11.260+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第三十三届杨凌农高会和2026上合组织农博会落幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722976.shtml",
+        "publishedAt": "2026-10-29T20:53:37.000+08:00"
+      },
+      {
+        "title": "上海提出九大行动推动中小企业高质量发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722968.shtml",
+        "publishedAt": "2026-10-29T20:53:33.000+08:00"
+      },
+      {
+        "title": "广州：“海上瞭望哨”3年发出超30万次安全提醒",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722967.shtml",
+        "publishedAt": "2026-10-29T20:53:29.000+08:00"
+      },
       {
         "title": "中国科学家揭示日冕纳耀斑磁重联加热机制",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722973.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国—东盟职业院校学生在南宁比拼烹饪技能",
         "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722957.shtml",
         "publishedAt": "2026-10-29T20:47:12.000+08:00"
-      },
-      {
-        "title": "西安市重点科技项目加速落地 新质生产力蓄势赋能",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722969.shtml",
-        "publishedAt": "2026-10-29T20:44:40.000+08:00"
-      },
-      {
-        "title": "法学专家谈新就业形态劳动者权益保障新规：建言增强可操作性",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722970.shtml",
-        "publishedAt": "2026-10-29T20:43:54.000+08:00"
-      },
-      {
-        "title": "世界城地组织亚太区2026年理事会会议在海口开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722972.shtml",
-        "publishedAt": "2026-10-29T20:42:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T20:50:04.802+08:00",
+    "fetchedAt": "2026-10-29T21:00:05.509+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T20:50:38.863+08:00",
+      "fetchedAt": "2026-10-29T21:00:09.935+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T01:50:40.000+08:00"
+          "resetAt": "2026-10-30T02:00:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T20:50:39.100+08:00",
+      "fetchedAt": "2026-10-29T21:00:10.263+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T20:50:39.109+08:00",
+      "fetchedAt": "2026-10-29T21:00:10.271+08:00",
       "error": null
     }
   }
