@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T09:10:08.762+08:00",
+  "updatedAt": "2026-10-29T09:20:08.230+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.2,
-    "feelsLikeC": 19.7,
-    "humidity": 69,
-    "windKph": 3.9,
+    "tempC": 19.7,
+    "feelsLikeC": 20.2,
+    "humidity": 67,
+    "windKph": 4.2,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T09:10:08.762+08:00",
+    "observedAt": "2026-10-29T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T09:20:08.230+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "风云卫星中试平台发布 打通科技成果转化“最后一公里”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722530.shtml",
+        "publishedAt": "2026-10-29T09:15:03.000+08:00"
+      },
+      {
+        "title": "秋季如何正确养肺？这些误区要警惕",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722528.shtml",
+        "publishedAt": "2026-10-29T09:11:33.000+08:00"
+      },
+      {
+        "title": "洗一次摇粒绒会释放70万根微塑料？专家详解→",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722527.shtml",
+        "publishedAt": "2026-10-29T09:08:26.000+08:00"
+      },
       {
         "title": "西藏南部等地有强雨雪 明起东西两路冷空气将南下",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722526.shtml",
@@ -28,24 +43,9 @@
         "title": "前三季度我国海洋生产总值8.5万亿元 同比增4.9%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722525.shtml",
         "publishedAt": "2026-10-29T09:00:18.000+08:00"
-      },
-      {
-        "title": "明明吃着不咸，钠却悄悄超标！这些“高盐刺客”就在你餐桌上",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722524.shtml",
-        "publishedAt": "2026-10-29T08:57:22.000+08:00"
-      },
-      {
-        "title": "盲目“秋冻”诱发卒中！预防与康复有哪些注意事项？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722523.shtml",
-        "publishedAt": "2026-10-29T08:50:33.000+08:00"
-      },
-      {
-        "title": "西班牙列车相撞已致68人死亡 直击救援现场",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-29/1209176.shtml",
-        "publishedAt": "2026-10-29T08:36:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T09:10:03.265+08:00",
+    "fetchedAt": "2026-10-29T09:20:02.793+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T09:10:06.959+08:00",
+      "fetchedAt": "2026-10-29T09:20:07.040+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 5,
           "resetAt": "2026-10-29T14:06:00.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T09:10:07.194+08:00",
+      "fetchedAt": "2026-10-29T09:20:07.288+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T09:10:07.199+08:00",
+      "fetchedAt": "2026-10-29T09:20:07.297+08:00",
       "error": null
     }
   }
