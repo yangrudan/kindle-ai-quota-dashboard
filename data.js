@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T11:00:38.133+08:00",
+  "updatedAt": "2026-10-29T11:10:44.323+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-29T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T11:00:38.133+08:00",
+    "fetchedAt": "2026-10-29T11:10:44.323+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "日本千叶县东北部发生5.4级地震，东京有震感",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722626.shtml",
+        "publishedAt": "2026-10-29T10:57:52.000+08:00"
+      },
+      {
+        "title": "空天地海一体化观测 数据要素激活海洋新质生产力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722625.shtml",
+        "publishedAt": "2026-10-29T10:56:10.000+08:00"
+      },
+      {
         "title": "海南自贸港封关红利释放 海口与东盟经贸合作加速“链”接",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722614.shtml",
         "publishedAt": "2026-10-29T10:55:42.000+08:00"
       },
       {
+        "title": "【这个城市有点潮】河南安阳：当殷商文明遇上潮流新玩法",
+        "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-29/news1073248.shtml",
+        "publishedAt": "2026-10-29T10:55:29.000+08:00"
+      },
+      {
         "title": "广西深化农兽药综合整治 “三进”普法与假劣农资集中销毁同步推进",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722619.shtml",
         "publishedAt": "2026-10-29T10:53:00.000+08:00"
-      },
-      {
-        "title": "100余名台胞在重庆寻找抗战足迹：勿忘历史",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722612.shtml",
-        "publishedAt": "2026-10-29T10:52:10.000+08:00"
-      },
-      {
-        "title": "一图读懂｜2026乌镇峰会逛会全攻略",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722621.shtml",
-        "publishedAt": "2026-10-29T10:51:44.000+08:00"
-      },
-      {
-        "title": "海军航空兵反潜实战训练 “有人+无人”织就空中反潜网",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722620.shtml",
-        "publishedAt": "2026-10-29T10:50:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T11:00:03.318+08:00",
+    "fetchedAt": "2026-10-29T11:10:03.671+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T11:00:36.480+08:00",
+      "fetchedAt": "2026-10-29T11:10:42.512+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T11:00:36.963+08:00",
+      "fetchedAt": "2026-10-29T11:10:42.943+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T11:00:36.975+08:00",
+      "fetchedAt": "2026-10-29T11:10:42.947+08:00",
       "error": null
     }
   }
