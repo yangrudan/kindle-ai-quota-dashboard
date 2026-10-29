@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T08:00:10.533+08:00",
+  "updatedAt": "2026-10-29T08:10:11.006+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-10-29T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T08:00:10.533+08:00",
+    "fetchedAt": "2026-10-29T08:10:11.006+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西班牙高铁事故调度录音曝光：后车获准正常速度行驶，前车仍滞留轨道",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722517.shtml",
+        "publishedAt": "2026-10-29T08:01:07.000+08:00"
+      },
       {
         "title": "香氛 年轻人的情绪搭子",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722516.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "进一步深化国资国企改革 国有经济布局优化“加速跑”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722512.shtml",
         "publishedAt": "2026-10-29T07:45:20.000+08:00"
-      },
-      {
-        "title": "超八成受访者今年想去红色纪念地 未成年人家长有此意愿的比例更高",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722513.shtml",
-        "publishedAt": "2026-10-29T07:43:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T08:00:04.390+08:00",
+    "fetchedAt": "2026-10-29T08:10:03.829+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T08:00:09.241+08:00",
+      "fetchedAt": "2026-10-29T08:10:07.862+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T13:00:10.000+08:00"
+          "resetAt": "2026-10-29T13:10:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T08:00:09.521+08:00",
+      "fetchedAt": "2026-10-29T08:10:08.204+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T08:00:09.530+08:00",
+      "fetchedAt": "2026-10-29T08:10:08.208+08:00",
       "error": null
     }
   }
