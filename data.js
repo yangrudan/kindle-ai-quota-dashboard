@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T11:20:08.902+08:00",
+  "updatedAt": "2026-10-29T11:30:08.960+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.8,
-    "feelsLikeC": 24.2,
-    "humidity": 58,
-    "windKph": 3.6,
+    "tempC": 23.2,
+    "feelsLikeC": 24.7,
+    "humidity": 57,
+    "windKph": 3.1,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T11:20:08.903+08:00",
+    "observedAt": "2026-10-29T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T11:30:08.960+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "去夜校“造”AI漫剧：青年渴望从“看客”变“主创”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722632.shtml",
+        "publishedAt": "2026-10-29T11:21:40.000+08:00"
+      },
+      {
+        "title": "历史学者：所谓“台湾近代化源于日据时期”论调罔顾史实",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722593.shtml",
+        "publishedAt": "2026-10-29T11:20:12.000+08:00"
+      },
+      {
+        "title": "标注“未添加”实则仍含糖 “0糖”标注不能再玩文字游戏",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722634.shtml",
+        "publishedAt": "2026-10-29T11:17:45.000+08:00"
+      },
       {
         "title": "鹤岗萝北县：格田“变”出增产账 黑土地上的“粮策”升级",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722629.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "看病先问AI？只可做“参谋”不能当“大夫”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722633.shtml",
         "publishedAt": "2026-10-29T11:14:29.000+08:00"
-      },
-      {
-        "title": "重庆警方：网民刘某编造餐馆对外籍顾客免单言论，已被行拘",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722617.shtml",
-        "publishedAt": "2026-10-29T11:07:37.000+08:00"
-      },
-      {
-        "title": "岁岁相约 手足同心——青海推动民族团结进步宣传月活动走深走实",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722627.shtml",
-        "publishedAt": "2026-10-29T11:03:17.000+08:00"
-      },
-      {
-        "title": "日本千叶县东北部发生5.4级地震，东京有震感",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722626.shtml",
-        "publishedAt": "2026-10-29T10:57:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T11:20:02.944+08:00",
+    "fetchedAt": "2026-10-29T11:30:03.540+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T11:20:07.131+08:00",
+      "fetchedAt": "2026-10-29T11:30:07.462+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 52,
+          "usedPct": 54,
           "resetAt": "2026-10-29T14:06:00.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T11:20:07.421+08:00",
+      "fetchedAt": "2026-10-29T11:30:07.751+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T11:20:07.431+08:00",
+      "fetchedAt": "2026-10-29T11:30:07.759+08:00",
       "error": null
     }
   }
