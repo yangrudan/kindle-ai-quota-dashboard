@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T22:00:09.476+08:00",
+  "updatedAt": "2026-10-29T22:10:09.033+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T22:00:09.476+08:00",
+    "fetchedAt": "2026-10-29T22:10:09.034+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广州站西鞋业商圈推进品牌国际化布局",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723016.shtml",
-        "publishedAt": "2026-10-29T21:52:50.000+08:00"
+        "title": "杭州新一轮城市照明规划出炉 营造宋韵美学杭派夜景",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723022.shtml",
+        "publishedAt": "2026-10-29T22:05:20.000+08:00"
       },
       {
-        "title": "中国共产党第二十届中央委员会第五次全体会议在京举行",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-29/1209224.shtml",
-        "publishedAt": "2026-10-29T21:50:42.000+08:00"
+        "title": "2026两岸青年新文创成果发布会在厦门举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723017.shtml",
+        "publishedAt": "2026-10-29T21:58:56.000+08:00"
       },
       {
-        "title": "我国铁路物流提质增效步伐加快",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723014.shtml",
-        "publishedAt": "2026-10-29T21:48:22.000+08:00"
+        "title": "新疆—成渝地区双城经济圈氢能综合应用试点城市群工作部署会在渝举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723021.shtml",
+        "publishedAt": "2026-10-29T21:58:54.000+08:00"
       },
       {
-        "title": "超2万亿元，超2.5亿人次！绿色智能引领消费释放内需活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723013.shtml",
-        "publishedAt": "2026-10-29T21:48:00.000+08:00"
+        "title": "小微货品“拼单”西行 “丝路拼箱”班列加速对接欧亚市场",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-29/10723020.shtml",
+        "publishedAt": "2026-10-29T21:58:50.000+08:00"
       },
       {
-        "title": "10月29日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-29/10723008.shtml",
-        "publishedAt": "2026-10-29T21:43:01.000+08:00"
+        "title": "上海举办主题研讨会回顾宋庆龄与国际友人的长征往事",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723019.shtml",
+        "publishedAt": "2026-10-29T21:58:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T22:00:03.920+08:00",
+    "fetchedAt": "2026-10-29T22:10:03.233+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T22:00:08.146+08:00",
+      "fetchedAt": "2026-10-29T22:10:07.950+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T03:00:09.000+08:00"
+          "resetAt": "2026-10-30T03:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T22:00:08.416+08:00",
+      "fetchedAt": "2026-10-29T22:10:08.089+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T22:00:08.423+08:00",
+      "fetchedAt": "2026-10-29T22:10:08.096+08:00",
       "error": null
     }
   }
