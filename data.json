@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:00:09.794+08:00",
+  "updatedAt": "2026-10-29T16:10:18.093+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-29T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T16:00:09.794+08:00",
+    "fetchedAt": "2026-10-29T16:10:18.093+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国防部：日方窥视滋扰中方正当行动暴露受迫害妄想症",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722763.shtml",
-        "publishedAt": "2026-10-29T15:53:24.000+08:00"
+        "title": "“智通·创享”中韩科技创新交流大会在首尔举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722723.shtml",
+        "publishedAt": "2026-10-29T16:05:05.000+08:00"
       },
       {
-        "title": "国防部：日方执意挑动阵营对抗不得人心",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722762.shtml",
-        "publishedAt": "2026-10-29T15:52:16.000+08:00"
+        "title": "中国国防部：日方执意挑动阵营对抗不得人心",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722774.shtml",
+        "publishedAt": "2026-10-29T16:04:59.000+08:00"
       },
       {
-        "title": "兰海高速湛江段开建 辟内地至海南第二高速通道",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722676.shtml",
-        "publishedAt": "2026-10-29T15:48:12.000+08:00"
+        "title": "中国国防部：日方窥视滋扰中方正当行动暴露受迫害妄想症",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722769.shtml",
+        "publishedAt": "2026-10-29T16:02:59.000+08:00"
       },
       {
-        "title": "江西铅山：小区有了“铅管家” 细微服务暖万家",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722737.shtml",
-        "publishedAt": "2026-10-29T15:47:50.000+08:00"
+        "title": "中国国防部：菲方放任个别政客公器私用 重重设障阻碍中方参加东盟防长扩大会",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722768.shtml",
+        "publishedAt": "2026-10-29T16:02:37.000+08:00"
       },
       {
-        "title": "外交部：中国发展军力从不针对任何国家也不搞军事扩张",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722757.shtml",
-        "publishedAt": "2026-10-29T15:47:48.000+08:00"
+        "title": "南京港首次整车包船出海业务启航",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722750.shtml",
+        "publishedAt": "2026-10-29T16:02:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T16:00:02.990+08:00",
+    "fetchedAt": "2026-10-29T16:10:12.254+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T16:00:07.707+08:00",
+      "fetchedAt": "2026-10-29T16:10:16.530+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 19,
           "resetAt": "2026-10-29T20:00:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T16:00:08.018+08:00",
+      "fetchedAt": "2026-10-29T16:10:16.909+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T16:00:08.028+08:00",
+      "fetchedAt": "2026-10-29T16:10:16.919+08:00",
       "error": null
     }
   }
