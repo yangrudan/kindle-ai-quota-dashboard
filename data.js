@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T12:30:38.799+08:00",
+  "updatedAt": "2026-10-29T12:40:08.212+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-29T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T12:30:38.799+08:00",
+    "fetchedAt": "2026-10-29T12:40:08.212+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西藏巴青县：34处集中安置点已搭建板房2686间",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722644.shtml",
+        "publishedAt": "2026-10-29T12:28:07.000+08:00"
+      },
       {
         "title": "A股午评：近4700只个股飘绿，三大指数收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722642.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "北京市政协建言提升国际传播力",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722630.shtml",
         "publishedAt": "2026-10-29T11:34:00.000+08:00"
-      },
-      {
-        "title": "管好血压 日常习惯最关键！4忌4宜 一次讲清",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722640.shtml",
-        "publishedAt": "2026-10-29T11:32:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T12:30:03.875+08:00",
+    "fetchedAt": "2026-10-29T12:40:03.608+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T12:30:37.526+08:00",
+      "fetchedAt": "2026-10-29T12:40:07.073+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T12:30:37.877+08:00",
+      "fetchedAt": "2026-10-29T12:40:07.353+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T12:30:37.886+08:00",
+      "fetchedAt": "2026-10-29T12:40:07.362+08:00",
       "error": null
     }
   }
