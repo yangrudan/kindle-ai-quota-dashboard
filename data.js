@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T17:40:39.804+08:00",
+  "updatedAt": "2026-10-29T17:50:09.147+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.1,
-    "feelsLikeC": 21.3,
-    "humidity": 69,
-    "windKph": 10.5,
+    "tempC": 20.7,
+    "feelsLikeC": 20.9,
+    "humidity": 70,
+    "windKph": 10.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T17:40:39.804+08:00",
+    "observedAt": "2026-10-29T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T17:50:09.147+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家能源局：9月核发绿证3.26亿个，环比减少8.01%",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722850.shtml",
+        "publishedAt": "2026-10-29T17:44:18.000+08:00"
+      },
+      {
+        "title": "江苏扬州深耕“统战+科创” 党外院士专家园区行献智产业科创名城",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722849.shtml",
+        "publishedAt": "2026-10-29T17:34:10.000+08:00"
+      },
       {
         "title": "国防部警告民进党当局：“台独”是绝路，外人靠不住",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722851.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "习近平就西班牙高速列车追尾脱轨事故向西班牙国王费利佩六世致慰问电",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722847.shtml",
         "publishedAt": "2026-10-29T17:29:38.000+08:00"
-      },
-      {
-        "title": "正大集团白宇飞：愿为东盟企业来川牵线搭桥",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722845.shtml",
-        "publishedAt": "2026-10-29T17:27:14.000+08:00"
-      },
-      {
-        "title": "商务部：若欧方一意孤行 中方必将采取一切必要措施",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722844.shtml",
-        "publishedAt": "2026-10-29T17:23:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T17:40:03.504+08:00",
+    "fetchedAt": "2026-10-29T17:50:03.646+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T17:40:37.297+08:00",
+      "fetchedAt": "2026-10-29T17:50:07.250+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T17:40:38.308+08:00",
+      "fetchedAt": "2026-10-29T17:50:07.623+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T17:40:38.317+08:00",
+      "fetchedAt": "2026-10-29T17:50:07.627+08:00",
       "error": null
     }
   }
