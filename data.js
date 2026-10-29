@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T07:20:18.148+08:00",
+  "updatedAt": "2026-10-30T07:30:39.890+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16,
-    "feelsLikeC": 17.3,
-    "humidity": 95,
-    "windKph": 2.9,
+    "tempC": 16.8,
+    "feelsLikeC": 18.3,
+    "humidity": 91,
+    "windKph": 2.3,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-30T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T07:20:18.148+08:00",
+    "observedAt": "2026-10-30T07:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T07:30:39.890+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国际殊荣+1！“中国蓝色海湾整治行动”获评意义几何",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723089.shtml",
+        "publishedAt": "2026-10-30T07:24:21.000+08:00"
+      },
+      {
+        "title": "以媒：超10架美国军机飞抵以色列空军基地",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723088.shtml",
+        "publishedAt": "2026-10-30T07:21:09.000+08:00"
+      },
       {
         "title": "10月30日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-30/10723087.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“十五五”时期我国将全面提升农产品品质",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723085.shtml",
         "publishedAt": "2026-10-30T06:58:42.000+08:00"
-      },
-      {
-        "title": "乌克兰基辅遭弹道导弹袭击",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723084.shtml",
-        "publishedAt": "2026-10-30T06:47:15.000+08:00"
-      },
-      {
-        "title": "美军中央司令部司令向特朗普汇报对伊朗军事选项",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723083.shtml",
-        "publishedAt": "2026-10-30T06:16:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T07:20:12.692+08:00",
+    "fetchedAt": "2026-10-30T07:30:05.040+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T07:20:16.926+08:00",
+      "fetchedAt": "2026-10-30T07:30:38.647+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T12:20:18.000+08:00"
+          "resetAt": "2026-10-30T12:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T07:20:17.144+08:00",
+      "fetchedAt": "2026-10-30T07:30:38.878+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T07:20:17.147+08:00",
+      "fetchedAt": "2026-10-30T07:30:38.883+08:00",
       "error": null
     }
   }
