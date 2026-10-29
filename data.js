@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T14:50:11.180+08:00",
+  "updatedAt": "2026-10-29T15:00:13.122+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.9,
-    "feelsLikeC": 24.1,
+    "tempC": 23.8,
+    "feelsLikeC": 24,
     "humidity": 56,
-    "windKph": 8.5,
+    "windKph": 8.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T14:50:11.180+08:00",
+    "observedAt": "2026-10-29T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T15:00:13.122+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（乡村行·看振兴）踏访三亚“天涯古道” 寻味千年黎寨文门",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722699.shtml",
-        "publishedAt": "2026-10-29T14:45:21.000+08:00"
+        "title": "“首单”“首批”串起金融开放脉络 北京朝阳“两区”建设筑牢高水平发展金融支撑",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722700.shtml",
+        "publishedAt": "2026-10-29T14:50:23.000+08:00"
       },
       {
-        "title": "杭州爱情文化品牌再添新作 原创舞剧《花妖》在京发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722697.shtml",
-        "publishedAt": "2026-10-29T14:43:55.000+08:00"
+        "title": "应对主汛期“大考” 荆门地下筑起“万方水库”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722714.shtml",
+        "publishedAt": "2026-10-29T14:50:05.000+08:00"
       },
       {
-        "title": "广东省第十届群众音乐舞蹈花会在中山启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722696.shtml",
-        "publishedAt": "2026-10-29T14:43:49.000+08:00"
+        "title": "第十七届海峡两岸（厦门）文化产业博览交易会开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722708.shtml",
+        "publishedAt": "2026-10-29T14:49:03.000+08:00"
       },
       {
-        "title": "千亿之后 向新而行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722712.shtml",
-        "publishedAt": "2026-10-29T14:43:39.000+08:00"
+        "title": "梯田风韵登浦江舞台 沪滇协作三十周年专场演出亮相长宁",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722707.shtml",
+        "publishedAt": "2026-10-29T14:47:59.000+08:00"
       },
       {
-        "title": "四川：新建天蒲铁路10月30日开通运营",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722694.shtml",
-        "publishedAt": "2026-10-29T14:43:09.000+08:00"
+        "title": "农业农村部和中国气象局联合发布农牧业雪灾风险预警",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722710.shtml",
+        "publishedAt": "2026-10-29T14:47:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T14:50:03.982+08:00",
+    "fetchedAt": "2026-10-29T15:00:04.260+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T14:50:09.885+08:00",
+      "fetchedAt": "2026-10-29T15:00:08.754+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 94,
-          "resetAt": "2026-10-29T19:06:07.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-29T20:00:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 41,
-          "resetAt": "2026-11-04T14:35:09.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-05T15:00:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T14:50:10.138+08:00",
+      "fetchedAt": "2026-10-29T15:00:08.978+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T14:50:10.142+08:00",
+      "fetchedAt": "2026-10-29T15:00:08.988+08:00",
       "error": null
     }
   }
