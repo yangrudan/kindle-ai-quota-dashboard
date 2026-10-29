@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T10:30:40.734+08:00",
+  "updatedAt": "2026-10-29T10:40:07.834+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-29T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T10:30:40.735+08:00",
+    "fetchedAt": "2026-10-29T10:40:07.835+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "秋冬多喝这3碗热乎汤，补气血、护脾胃、提高免疫力！",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722585.shtml",
-        "publishedAt": "2026-10-29T10:24:41.000+08:00"
+        "title": "进博好物抢先看 钱凯港航线架起南美鲜果快速通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722604.shtml",
+        "publishedAt": "2026-10-29T10:35:05.000+08:00"
       },
       {
-        "title": "厄尔尼诺影响加剧 巴西未来三个月或遭遇持续高温和热浪",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722539.shtml",
-        "publishedAt": "2026-10-29T10:23:33.000+08:00"
+        "title": "“小叶子”集结！第九届进博会志愿者宣誓上岗",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722596.shtml",
+        "publishedAt": "2026-10-29T10:32:31.000+08:00"
       },
       {
-        "title": "中国对欧免签政策宣介视频在比利时布鲁塞尔机场播放",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722536.shtml",
-        "publishedAt": "2026-10-29T10:22:44.000+08:00"
+        "title": "U币“交易”中夺款逃走，涉嫌何罪？",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722598.shtml",
+        "publishedAt": "2026-10-29T10:32:21.000+08:00"
       },
       {
-        "title": "安徽华联商厦有限责任公司原党委书记、董事长张文华被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722570.shtml",
-        "publishedAt": "2026-10-29T10:22:32.000+08:00"
+        "title": "从一张工位到一笔订单 欧洲华媒感受长沙创业温度",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-29/10722583.shtml",
+        "publishedAt": "2026-10-29T10:30:17.000+08:00"
       },
       {
-        "title": "天津市台联、市黄埔军校同学会举办纪念台湾光复81周年文化研习活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722567.shtml",
-        "publishedAt": "2026-10-29T10:20:46.000+08:00"
+        "title": "2026年风云卫星用户大会召开 新成果展现发展成效",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722581.shtml",
+        "publishedAt": "2026-10-29T10:30:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T10:30:03.800+08:00",
+    "fetchedAt": "2026-10-29T10:40:02.848+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T10:30:39.454+08:00",
+      "fetchedAt": "2026-10-29T10:40:06.685+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
+          "usedPct": 12,
           "resetAt": "2026-10-29T14:06:00.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T10:30:39.676+08:00",
+      "fetchedAt": "2026-10-29T10:40:06.930+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T10:30:39.680+08:00",
+      "fetchedAt": "2026-10-29T10:40:06.935+08:00",
       "error": null
     }
   }
