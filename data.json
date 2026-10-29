@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:00:09.954+08:00",
+  "updatedAt": "2026-10-30T07:10:40.001+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-30T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T07:00:09.954+08:00",
+    "fetchedAt": "2026-10-30T07:10:40.002+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月30日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-30/10723087.shtml",
+        "publishedAt": "2026-10-30T07:03:00.000+08:00"
+      },
+      {
+        "title": "西班牙高铁事故首份报告公布",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723086.shtml",
+        "publishedAt": "2026-10-30T07:02:56.000+08:00"
+      },
+      {
+        "title": "“十五五”时期我国将全面提升农产品品质",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723085.shtml",
+        "publishedAt": "2026-10-30T06:58:42.000+08:00"
+      },
       {
         "title": "乌克兰基辅遭弹道导弹袭击",
         "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723084.shtml",
@@ -28,24 +43,9 @@
         "title": "美军中央司令部司令向特朗普汇报对伊朗军事选项",
         "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723083.shtml",
         "publishedAt": "2026-10-30T06:16:10.000+08:00"
-      },
-      {
-        "title": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
-        "publishedAt": "2026-10-29T23:51:56.000+08:00"
-      },
-      {
-        "title": "桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723081.shtml",
-        "publishedAt": "2026-10-29T23:51:50.000+08:00"
-      },
-      {
-        "title": "2023年以来江西法院共办理司法救助案件1.1万余件",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723080.shtml",
-        "publishedAt": "2026-10-29T23:51:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T07:00:04.692+08:00",
+    "fetchedAt": "2026-10-30T07:10:04.300+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T07:00:08.898+08:00",
+      "fetchedAt": "2026-10-30T07:10:38.259+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T12:00:10.000+08:00"
+          "resetAt": "2026-10-30T12:10:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T07:00:08.988+08:00",
+      "fetchedAt": "2026-10-30T07:10:38.790+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T07:00:08.994+08:00",
+      "fetchedAt": "2026-10-30T07:10:38.793+08:00",
       "error": null
     }
   }
