@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T10:50:08.848+08:00",
+  "updatedAt": "2026-10-29T11:00:38.133+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.1,
-    "feelsLikeC": 23,
-    "humidity": 60,
-    "windKph": 4.5,
+    "tempC": 22.5,
+    "feelsLikeC": 23.6,
+    "humidity": 59,
+    "windKph": 4.1,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T10:50:08.848+08:00",
+    "observedAt": "2026-10-29T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T11:00:38.133+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "这些“红军树”，见证长征精神！",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722613.shtml",
-        "publishedAt": "2026-10-29T10:44:40.000+08:00"
+        "title": "海南自贸港封关红利释放 海口与东盟经贸合作加速“链”接",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722614.shtml",
+        "publishedAt": "2026-10-29T10:55:42.000+08:00"
       },
       {
-        "title": "气象“中国芯”攻坚记",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722611.shtml",
-        "publishedAt": "2026-10-29T10:43:40.000+08:00"
+        "title": "广西深化农兽药综合整治 “三进”普法与假劣农资集中销毁同步推进",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722619.shtml",
+        "publishedAt": "2026-10-29T10:53:00.000+08:00"
       },
       {
-        "title": "财政金融促内需“组合拳”政策效能加速释放",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722610.shtml",
-        "publishedAt": "2026-10-29T10:40:43.000+08:00"
+        "title": "100余名台胞在重庆寻找抗战足迹：勿忘历史",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722612.shtml",
+        "publishedAt": "2026-10-29T10:52:10.000+08:00"
       },
       {
-        "title": "中国持续扩大进口 与世界共享发展机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722607.shtml",
-        "publishedAt": "2026-10-29T10:37:57.000+08:00"
+        "title": "一图读懂｜2026乌镇峰会逛会全攻略",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722621.shtml",
+        "publishedAt": "2026-10-29T10:51:44.000+08:00"
       },
       {
-        "title": "一粒胡椒的“标准答案”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722606.shtml",
-        "publishedAt": "2026-10-29T10:37:17.000+08:00"
+        "title": "海军航空兵反潜实战训练 “有人+无人”织就空中反潜网",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722620.shtml",
+        "publishedAt": "2026-10-29T10:50:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T10:50:02.979+08:00",
+    "fetchedAt": "2026-10-29T11:00:03.318+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T10:50:07.326+08:00",
+      "fetchedAt": "2026-10-29T11:00:36.480+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 25,
+          "usedPct": 46,
           "resetAt": "2026-10-29T14:06:00.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 18,
+          "usedPct": 22,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T10:50:07.613+08:00",
+      "fetchedAt": "2026-10-29T11:00:36.963+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T10:50:07.624+08:00",
+      "fetchedAt": "2026-10-29T11:00:36.975+08:00",
       "error": null
     }
   }
