@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T20:20:43.647+08:00",
+  "updatedAt": "2026-10-29T20:30:39.780+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 19.9,
+    "tempC": 18.4,
+    "feelsLikeC": 19.4,
     "humidity": 78,
-    "windKph": 3.5,
+    "windKph": 3.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T20:20:43.647+08:00",
+    "observedAt": "2026-10-29T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T20:30:39.780+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "山西柳林：红高粱开镰 颗粒尽归仓",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722932.shtml",
+        "publishedAt": "2026-10-29T20:18:29.000+08:00"
+      },
+      {
+        "title": "河北涉县：太行深山长出“金连翘”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722931.shtml",
+        "publishedAt": "2026-10-29T20:17:25.000+08:00"
+      },
+      {
+        "title": "国际最新研究：非洲水资源并未得到充分利用",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722940.shtml",
+        "publishedAt": "2026-10-29T20:16:53.000+08:00"
+      },
       {
         "title": "中国红基会“天使之旅”—先心病患儿筛查行动走进广西大石山区",
         "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722920.shtml",
@@ -28,24 +43,9 @@
         "title": "加媒称加拿大和欧盟联合声明将删去“联席成员”表述",
         "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722936.shtml",
         "publishedAt": "2026-10-29T20:15:19.000+08:00"
-      },
-      {
-        "title": "伊朗伊斯兰革命卫队称捕获一架美军间谍无人机",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722963.shtml",
-        "publishedAt": "2026-10-29T20:13:18.000+08:00"
-      },
-      {
-        "title": "爱康发布《2026版中国女性健康粉红报告》，粉红丝带点亮重庆大剧院守护“她健康”",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722962.shtml",
-        "publishedAt": "2026-10-29T20:12:16.000+08:00"
-      },
-      {
-        "title": "第三十三届中国杨凌农高会闭幕 签约项目投资总额329.3亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722961.shtml",
-        "publishedAt": "2026-10-29T20:06:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T20:20:03.367+08:00",
+    "fetchedAt": "2026-10-29T20:30:03.950+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T20:20:42.356+08:00",
+      "fetchedAt": "2026-10-29T20:30:38.010+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T01:20:43.000+08:00"
+          "resetAt": "2026-10-30T01:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T20:20:42.730+08:00",
+      "fetchedAt": "2026-10-29T20:30:38.352+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T20:20:42.738+08:00",
+      "fetchedAt": "2026-10-29T20:30:38.356+08:00",
       "error": null
     }
   }
