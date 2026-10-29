@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T14:00:09.314+08:00",
+  "updatedAt": "2026-10-29T14:10:09.898+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T14:00:09.314+08:00",
+    "fetchedAt": "2026-10-29T14:10:09.899+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "钓中“标鱼”最高奖金3500元 是娱乐还是赌博？",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722674.shtml",
+        "publishedAt": "2026-10-29T13:59:58.000+08:00"
+      },
+      {
+        "title": "伊朗宣布：击落美军MQ-1无人机",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722670.shtml",
+        "publishedAt": "2026-10-29T13:56:56.000+08:00"
+      },
+      {
+        "title": "兰海高速湛江段开工建设 打通内地通往海南岛第二条高速通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722655.shtml",
+        "publishedAt": "2026-10-29T13:55:42.000+08:00"
+      },
       {
         "title": "2026蒙BA季后赛在二连浩特启幕 名宿相聚蒙BA嘉年华",
         "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722669.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "国际观察：AI微短剧带动中巴影视业合作升温",
         "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722671.shtml",
         "publishedAt": "2026-10-29T13:53:20.000+08:00"
-      },
-      {
-        "title": "非洲访华团走进河南郑州航空港开展实践课",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722662.shtml",
-        "publishedAt": "2026-10-29T13:52:18.000+08:00"
-      },
-      {
-        "title": "从援疆相遇走向共富：疆果果十年带动5万余果农增收",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722668.shtml",
-        "publishedAt": "2026-10-29T13:49:08.000+08:00"
-      },
-      {
-        "title": "亚洲最长地铁环线武汉地铁12号线“画圆”",
-        "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-29/news1073257.shtml",
-        "publishedAt": "2026-10-29T13:41:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T14:00:03.987+08:00",
+    "fetchedAt": "2026-10-29T14:10:03.951+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T14:00:08.248+08:00",
+      "fetchedAt": "2026-10-29T14:10:08.857+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 62,
-          "resetAt": "2026-10-29T14:06:00.000+08:00"
+          "usedPct": 21,
+          "resetAt": "2026-10-29T19:06:07.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 24,
+          "usedPct": 29,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T14:00:08.412+08:00",
+      "fetchedAt": "2026-10-29T14:10:08.995+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T14:00:08.420+08:00",
+      "fetchedAt": "2026-10-29T14:10:09.005+08:00",
       "error": null
     }
   }
