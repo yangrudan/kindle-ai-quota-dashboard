@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T22:50:09.408+08:00",
+  "updatedAt": "2026-10-29T23:00:11.098+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.4,
+    "tempC": 17.3,
     "feelsLikeC": 18.1,
-    "humidity": 83,
-    "windKph": 5.3,
+    "humidity": 84,
+    "windKph": 4.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T22:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T22:50:09.408+08:00",
+    "observedAt": "2026-10-29T23:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T23:00:11.098+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江西南昌：城市秋日花海“醉”迷人",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723033.shtml",
-        "publishedAt": "2026-10-29T22:19:09.000+08:00"
+        "title": "青海省第八座民用运输机场投产校飞成功",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723039.shtml",
+        "publishedAt": "2026-10-29T22:49:47.000+08:00"
       },
       {
-        "title": "山东仲村镇：小手套“织”出大产业 年产劳保手套60亿副",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723032.shtml",
-        "publishedAt": "2026-10-29T22:17:51.000+08:00"
+        "title": "德国总统施泰因迈尔访问中国科学院",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723038.shtml",
+        "publishedAt": "2026-10-29T22:49:39.000+08:00"
       },
       {
-        "title": "杭州新添音乐空间 5000张黑胶唱片奏响老街",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723031.shtml",
-        "publishedAt": "2026-10-29T22:14:39.000+08:00"
+        "title": "专家吁坚定中华文化认同 促进两岸同胞心灵契合",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723037.shtml",
+        "publishedAt": "2026-10-29T22:49:13.000+08:00"
       },
       {
-        "title": "第九届新疆红十字应急救护大赛在乌鲁木齐举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723029.shtml",
-        "publishedAt": "2026-10-29T22:12:59.000+08:00"
+        "title": "报告：中国健康扶贫的经验启示将为他国提供重要借鉴",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723036.shtml",
+        "publishedAt": "2026-10-29T22:49:03.000+08:00"
       },
       {
-        "title": "海报丨中国共产党第二十一次全国代表大会于2027年下半年在北京召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723030.shtml",
-        "publishedAt": "2026-10-29T22:08:41.000+08:00"
+        "title": "韩国前总统尹锡悦涉“内乱案”二审被求死刑",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10723035.shtml",
+        "publishedAt": "2026-10-29T22:47:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T22:50:03.538+08:00",
+    "fetchedAt": "2026-10-29T23:00:04.685+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T22:50:07.944+08:00",
+      "fetchedAt": "2026-10-29T23:00:09.074+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T03:50:09.000+08:00"
+          "resetAt": "2026-10-30T04:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T22:50:08.298+08:00",
+      "fetchedAt": "2026-10-29T23:00:09.486+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T22:50:08.306+08:00",
+      "fetchedAt": "2026-10-29T23:00:09.489+08:00",
       "error": null
     }
   }
