@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T07:50:10.702+08:00",
+  "updatedAt": "2026-10-29T08:00:10.533+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.1,
-    "feelsLikeC": 16.6,
-    "humidity": 84,
-    "windKph": 4,
+    "tempC": 16.7,
+    "feelsLikeC": 17.2,
+    "humidity": 81,
+    "windKph": 3.8,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T07:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T07:50:10.702+08:00",
+    "observedAt": "2026-10-29T08:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T08:00:10.533+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今年“双十一”，AI成了年轻人的购物“搭子”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722511.shtml",
-        "publishedAt": "2026-10-29T07:41:32.000+08:00"
+        "title": "香氛 年轻人的情绪搭子",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722516.shtml",
+        "publishedAt": "2026-10-29T07:51:20.000+08:00"
       },
       {
-        "title": "多地发布移风易俗倡导性标准 呼吁设置“份子钱”上限",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722510.shtml",
-        "publishedAt": "2026-10-29T07:37:23.000+08:00"
+        "title": "2026柬埔寨首届中学生中文比赛决赛在金边举行",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-29/10722508.shtml",
+        "publishedAt": "2026-10-29T07:50:02.000+08:00"
       },
       {
-        "title": "突发：印尼马鲁古省附近海域发生6.4级地震",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722509.shtml",
-        "publishedAt": "2026-10-29T07:36:05.000+08:00"
+        "title": "A股公司三季报展现经济成色 科技创新动能加速释放",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722515.shtml",
+        "publishedAt": "2026-10-29T07:47:20.000+08:00"
       },
       {
-        "title": "公证机构深化“商事调解+公证”机制当好“解铃人”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722507.shtml",
-        "publishedAt": "2026-10-29T07:34:07.000+08:00"
+        "title": "进一步深化国资国企改革 国有经济布局优化“加速跑”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722512.shtml",
+        "publishedAt": "2026-10-29T07:45:20.000+08:00"
       },
       {
-        "title": "不明着辞退，却逼员工“主动走”？职场“软裁员”引争议",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722506.shtml",
-        "publishedAt": "2026-10-29T07:31:05.000+08:00"
+        "title": "超八成受访者今年想去红色纪念地 未成年人家长有此意愿的比例更高",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722513.shtml",
+        "publishedAt": "2026-10-29T07:43:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T07:50:03.318+08:00",
+    "fetchedAt": "2026-10-29T08:00:04.390+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T07:50:07.063+08:00",
+      "fetchedAt": "2026-10-29T08:00:09.241+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T12:50:09.000+08:00"
+          "resetAt": "2026-10-29T13:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T07:50:08.556+08:00",
+      "fetchedAt": "2026-10-29T08:00:09.521+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T07:50:08.565+08:00",
+      "fetchedAt": "2026-10-29T08:00:09.530+08:00",
       "error": null
     }
   }
