@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T16:10:18.093+08:00",
+  "updatedAt": "2026-10-29T16:20:41.791+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.3,
-    "feelsLikeC": 24.3,
-    "humidity": 59,
-    "windKph": 4.5,
+    "tempC": 23.1,
+    "feelsLikeC": 24,
+    "humidity": 60,
+    "windKph": 5.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T16:10:18.093+08:00",
+    "observedAt": "2026-10-29T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T16:20:41.791+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“智通·创享”中韩科技创新交流大会在首尔举办",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722723.shtml",
-        "publishedAt": "2026-10-29T16:05:05.000+08:00"
+        "title": "三丽鸥日本官网发文致歉：终止与日剧《VIVANT》联名",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722785.shtml",
+        "publishedAt": "2026-10-29T16:14:42.000+08:00"
       },
       {
-        "title": "中国国防部：日方执意挑动阵营对抗不得人心",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722774.shtml",
-        "publishedAt": "2026-10-29T16:04:59.000+08:00"
+        "title": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722765.shtml",
+        "publishedAt": "2026-10-29T16:12:37.000+08:00"
       },
       {
-        "title": "中国国防部：日方窥视滋扰中方正当行动暴露受迫害妄想症",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722769.shtml",
-        "publishedAt": "2026-10-29T16:02:59.000+08:00"
+        "title": "云岭动态第二十九期",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722777.shtml",
+        "publishedAt": "2026-10-29T16:12:29.000+08:00"
       },
       {
-        "title": "中国国防部：菲方放任个别政客公器私用 重重设障阻碍中方参加东盟防长扩大会",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722768.shtml",
-        "publishedAt": "2026-10-29T16:02:37.000+08:00"
+        "title": "小厕所里的大民生，百年校里的青春梦——看上海政协如何让民意照进现实",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722779.shtml",
+        "publishedAt": "2026-10-29T16:11:37.000+08:00"
       },
       {
-        "title": "南京港首次整车包船出海业务启航",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722750.shtml",
-        "publishedAt": "2026-10-29T16:02:29.000+08:00"
+        "title": "4位“溢彩康养人”全国民政行业职业技能大赛获奖",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722767.shtml",
+        "publishedAt": "2026-10-29T16:09:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T16:10:12.254+08:00",
+    "fetchedAt": "2026-10-29T16:20:04.809+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T16:10:16.530+08:00",
+      "fetchedAt": "2026-10-29T16:20:39.469+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 19,
+          "usedPct": 21,
           "resetAt": "2026-10-29T20:00:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T16:10:16.909+08:00",
+      "fetchedAt": "2026-10-29T16:20:39.935+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T16:10:16.919+08:00",
+      "fetchedAt": "2026-10-29T16:20:39.944+08:00",
       "error": null
     }
   }
