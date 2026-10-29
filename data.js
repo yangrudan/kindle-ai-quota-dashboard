@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T19:30:10.389+08:00",
+  "updatedAt": "2026-10-29T19:40:38.814+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-29T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T19:30:10.389+08:00",
+    "fetchedAt": "2026-10-29T19:40:38.814+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第四届重庆三峡人才节11月7日在万州启幕 计划引高层次人才超700名",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-29/10722886.shtml",
+        "publishedAt": "2026-10-29T19:26:34.000+08:00"
+      },
+      {
+        "title": "甘肃民勤：戈壁沙乡奏“椒”响曲",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722892.shtml",
+        "publishedAt": "2026-10-29T19:24:34.000+08:00"
+      },
       {
         "title": "中新健康丨Swisse斯维诗2批次产品被检出铅超标，品牌方称未进入中国市场",
         "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722885.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "销量涨超80%！二手手机成抢手货",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722913.shtml",
         "publishedAt": "2026-10-29T19:19:48.000+08:00"
-      },
-      {
-        "title": "注意防范 这些地方将有大暴雪、特大暴雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722911.shtml",
-        "publishedAt": "2026-10-29T19:17:59.000+08:00"
-      },
-      {
-        "title": "山东金融“活水”助力汽车产业发展 政企银联动打通对接通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722896.shtml",
-        "publishedAt": "2026-10-29T19:17:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T19:30:04.925+08:00",
+    "fetchedAt": "2026-10-29T19:40:03.274+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T19:30:08.951+08:00",
+      "fetchedAt": "2026-10-29T19:40:37.475+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T19:30:09.272+08:00",
+      "fetchedAt": "2026-10-29T19:40:37.886+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T19:30:09.277+08:00",
+      "fetchedAt": "2026-10-29T19:40:37.894+08:00",
       "error": null
     }
   }
