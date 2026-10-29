@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T10:40:07.834+08:00",
+  "updatedAt": "2026-10-29T10:50:08.848+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.8,
-    "feelsLikeC": 22.5,
+    "tempC": 22.1,
+    "feelsLikeC": 23,
     "humidity": 60,
-    "windKph": 4.6,
+    "windKph": 4.5,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-10-29T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T10:40:07.835+08:00",
+    "observedAt": "2026-10-29T10:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T10:50:08.848+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "进博好物抢先看 钱凯港航线架起南美鲜果快速通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722604.shtml",
-        "publishedAt": "2026-10-29T10:35:05.000+08:00"
+        "title": "这些“红军树”，见证长征精神！",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722613.shtml",
+        "publishedAt": "2026-10-29T10:44:40.000+08:00"
       },
       {
-        "title": "“小叶子”集结！第九届进博会志愿者宣誓上岗",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722596.shtml",
-        "publishedAt": "2026-10-29T10:32:31.000+08:00"
+        "title": "气象“中国芯”攻坚记",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722611.shtml",
+        "publishedAt": "2026-10-29T10:43:40.000+08:00"
       },
       {
-        "title": "U币“交易”中夺款逃走，涉嫌何罪？",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722598.shtml",
-        "publishedAt": "2026-10-29T10:32:21.000+08:00"
+        "title": "财政金融促内需“组合拳”政策效能加速释放",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722610.shtml",
+        "publishedAt": "2026-10-29T10:40:43.000+08:00"
       },
       {
-        "title": "从一张工位到一笔订单 欧洲华媒感受长沙创业温度",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-29/10722583.shtml",
-        "publishedAt": "2026-10-29T10:30:17.000+08:00"
+        "title": "中国持续扩大进口 与世界共享发展机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722607.shtml",
+        "publishedAt": "2026-10-29T10:37:57.000+08:00"
       },
       {
-        "title": "2026年风云卫星用户大会召开 新成果展现发展成效",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722581.shtml",
-        "publishedAt": "2026-10-29T10:30:05.000+08:00"
+        "title": "一粒胡椒的“标准答案”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722606.shtml",
+        "publishedAt": "2026-10-29T10:37:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T10:40:02.848+08:00",
+    "fetchedAt": "2026-10-29T10:50:02.979+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T10:40:06.685+08:00",
+      "fetchedAt": "2026-10-29T10:50:07.326+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
+          "usedPct": 25,
           "resetAt": "2026-10-29T14:06:00.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 16,
+          "usedPct": 18,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T10:40:06.930+08:00",
+      "fetchedAt": "2026-10-29T10:50:07.613+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T10:40:06.935+08:00",
+      "fetchedAt": "2026-10-29T10:50:07.624+08:00",
       "error": null
     }
   }
