@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T09:30:08.377+08:00",
+  "updatedAt": "2026-10-29T09:40:38.790+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-29T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T09:30:08.377+08:00",
+    "fetchedAt": "2026-10-29T09:40:38.790+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国内最长地铁环线全线开通",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722543.shtml",
+        "publishedAt": "2026-10-29T09:30:48.000+08:00"
+      },
+      {
+        "title": "东北华北内蒙古中东部气温将再度下跌 西藏南部有强雨雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722529.shtml",
+        "publishedAt": "2026-10-29T09:29:00.000+08:00"
+      },
+      {
+        "title": "时政微视频·枝繁叶茂丨习近平牵挂的兰考泡桐藏着怎样的为民初心？",
+        "url": "http://www.chinanews.com.cn/gn/shipin/cns/2026/10-29/news1073229.shtml",
+        "publishedAt": "2026-10-29T09:28:25.000+08:00"
+      },
       {
         "title": "U17女足世界杯 中国队今晚迎战法国队",
         "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722534.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "“所有人采访所有人”：当播客走向大众",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722532.shtml",
         "publishedAt": "2026-10-29T09:18:51.000+08:00"
-      },
-      {
-        "title": "“克隆”游戏角色声音牟利被判罚 AI变声服务如何越了界？",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722531.shtml",
-        "publishedAt": "2026-10-29T09:17:39.000+08:00"
-      },
-      {
-        "title": "风云卫星中试平台发布 打通科技成果转化“最后一公里”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722530.shtml",
-        "publishedAt": "2026-10-29T09:15:03.000+08:00"
-      },
-      {
-        "title": "秋季如何正确养肺？这些误区要警惕",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722528.shtml",
-        "publishedAt": "2026-10-29T09:11:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T09:30:03.230+08:00",
+    "fetchedAt": "2026-10-29T09:40:03.534+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T09:30:07.284+08:00",
+      "fetchedAt": "2026-10-29T09:40:37.607+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T09:30:07.559+08:00",
+      "fetchedAt": "2026-10-29T09:40:37.906+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T09:30:07.568+08:00",
+      "fetchedAt": "2026-10-29T09:40:37.915+08:00",
       "error": null
     }
   }
