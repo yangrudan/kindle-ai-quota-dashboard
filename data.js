@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T14:20:09.891+08:00",
+  "updatedAt": "2026-10-29T14:30:08.392+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.3,
-    "feelsLikeC": 24.6,
+    "tempC": 24.1,
+    "feelsLikeC": 24.4,
     "humidity": 55,
-    "windKph": 7.9,
+    "windKph": 8.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T14:20:09.892+08:00",
+    "observedAt": "2026-10-29T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T14:30:08.393+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "先体检后更新 守护城市日常的地下管网变得更强韧更智慧",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722698.shtml",
+        "publishedAt": "2026-10-29T14:17:13.000+08:00"
+      },
       {
         "title": "工资改发数字人民币了 有啥变化？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722684.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "钓中“标鱼”最高奖金3500元 是娱乐还是赌博？",
         "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722674.shtml",
         "publishedAt": "2026-10-29T13:59:58.000+08:00"
-      },
-      {
-        "title": "伊朗宣布：击落美军MQ-1无人机",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722670.shtml",
-        "publishedAt": "2026-10-29T13:56:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T14:20:04.210+08:00",
+    "fetchedAt": "2026-10-29T14:30:03.632+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T14:20:08.700+08:00",
+      "fetchedAt": "2026-10-29T14:30:07.307+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 43,
+          "usedPct": 74,
           "resetAt": "2026-10-29T19:06:07.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 33,
+          "usedPct": 38,
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T14:20:08.982+08:00",
+      "fetchedAt": "2026-10-29T14:30:07.387+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T14:20:08.987+08:00",
+      "fetchedAt": "2026-10-29T14:30:07.397+08:00",
       "error": null
     }
   }
