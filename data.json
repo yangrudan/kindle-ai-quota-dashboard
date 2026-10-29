@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:00:11.260+08:00",
+  "updatedAt": "2026-10-29T21:10:09.970+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T21:00:11.260+08:00",
+    "fetchedAt": "2026-10-29T21:10:09.970+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第三十三届杨凌农高会和2026上合组织农博会落幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722976.shtml",
-        "publishedAt": "2026-10-29T20:53:37.000+08:00"
+        "title": "华媒探访长沙开慧镇 老供销社变身特色乡村茶馆",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722959.shtml",
+        "publishedAt": "2026-10-29T21:02:53.000+08:00"
       },
       {
-        "title": "上海提出九大行动推动中小企业高质量发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722968.shtml",
-        "publishedAt": "2026-10-29T20:53:33.000+08:00"
+        "title": "河南省级示范光储充一体化重卡充换电项目投运",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722958.shtml",
+        "publishedAt": "2026-10-29T21:01:53.000+08:00"
       },
       {
-        "title": "广州：“海上瞭望哨”3年发出超30万次安全提醒",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722967.shtml",
-        "publishedAt": "2026-10-29T20:53:29.000+08:00"
+        "title": "中俄界江黑龙江呼玛段进入冬季流冰期",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722984.shtml",
+        "publishedAt": "2026-10-29T21:01:07.000+08:00"
       },
       {
-        "title": "中国科学家揭示日冕纳耀斑磁重联加热机制",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722973.shtml",
-        "publishedAt": "2026-10-29T20:48:16.000+08:00"
+        "title": "全球CSO俱乐部“落沪” 服务企业绿色转型与全球化发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722985.shtml",
+        "publishedAt": "2026-10-29T21:01:01.000+08:00"
       },
       {
-        "title": "中国—东盟职业院校学生在南宁比拼烹饪技能",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722957.shtml",
-        "publishedAt": "2026-10-29T20:47:12.000+08:00"
+        "title": "欧洲华媒邂逅湖南“初恋小镇”：愿向海外讲好中国乡村故事",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-29/10722979.shtml",
+        "publishedAt": "2026-10-29T20:59:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T21:00:05.509+08:00",
+    "fetchedAt": "2026-10-29T21:10:04.474+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T21:00:09.935+08:00",
+      "fetchedAt": "2026-10-29T21:10:08.547+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T02:00:11.000+08:00"
+          "resetAt": "2026-10-30T02:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T21:00:10.263+08:00",
+      "fetchedAt": "2026-10-29T21:10:09.023+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T21:00:10.271+08:00",
+      "fetchedAt": "2026-10-29T21:10:09.029+08:00",
       "error": null
     }
   }
