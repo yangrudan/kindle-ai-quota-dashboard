@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T13:20:09.294+08:00",
+  "updatedAt": "2026-10-29T13:30:08.409+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.4,
-    "feelsLikeC": 25.3,
+    "tempC": 24.5,
+    "feelsLikeC": 25.2,
     "humidity": 54,
-    "windKph": 3.8,
+    "windKph": 5.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T13:20:09.294+08:00",
+    "observedAt": "2026-10-29T13:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T13:30:08.409+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722647.shtml",
-        "publishedAt": "2026-10-29T13:09:11.000+08:00"
+        "title": "广东省清远市江南水厂全面完工投产 惠及超百万人",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722654.shtml",
+        "publishedAt": "2026-10-29T13:28:53.000+08:00"
       },
       {
-        "title": "刻刀不孤，方寸有心——访香港手雕麻将技艺唯一女师傅何秀湄",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10722646.shtml",
-        "publishedAt": "2026-10-29T13:06:45.000+08:00"
+        "title": "广州举办华侨健康周活动 精准匹配侨胞返乡就医需求",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-29/10722651.shtml",
+        "publishedAt": "2026-10-29T13:28:25.000+08:00"
       },
       {
-        "title": "第十二届中华文化论坛在京举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722628.shtml",
-        "publishedAt": "2026-10-29T12:40:44.000+08:00"
+        "title": "2026慕峰论坛暨第四届宏观物流发展战略论坛在乌鲁木齐举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722650.shtml",
+        "publishedAt": "2026-10-29T13:27:48.000+08:00"
       },
       {
-        "title": "王传福荣获2026中国汽车工业最高荣誉“饶斌奖”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722590.shtml",
-        "publishedAt": "2026-10-29T12:38:38.000+08:00"
+        "title": "三丽鸥致歉：终止与抹黑中国的日剧《VIVANT》角色联动合作",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722649.shtml",
+        "publishedAt": "2026-10-29T13:18:24.000+08:00"
       },
       {
-        "title": "西藏巴青县：34处集中安置点已搭建板房2686间",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722644.shtml",
-        "publishedAt": "2026-10-29T12:28:07.000+08:00"
+        "title": "前列腺问题并非中老年“专利” 专家提醒",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722648.shtml",
+        "publishedAt": "2026-10-29T13:16:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T13:20:03.345+08:00",
+    "fetchedAt": "2026-10-29T13:30:02.993+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T13:20:07.917+08:00",
+      "fetchedAt": "2026-10-29T13:30:07.266+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T13:20:08.371+08:00",
+      "fetchedAt": "2026-10-29T13:30:07.536+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T13:20:08.383+08:00",
+      "fetchedAt": "2026-10-29T13:30:07.546+08:00",
       "error": null
     }
   }
