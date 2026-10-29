@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T18:30:10.294+08:00",
+  "updatedAt": "2026-10-29T18:40:40.036+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-29T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T18:30:10.294+08:00",
+    "fetchedAt": "2026-10-29T18:40:40.037+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "看智驾、逛公园、登黄山，德国总统访华走进安徽",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722859.shtml",
+        "publishedAt": "2026-10-29T18:30:37.000+08:00"
+      },
       {
         "title": "全国县域足球赛北京市基层赛收官 1616名球员参与",
         "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722858.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中共中央将于30日上午举行新闻发布会 介绍和解读党的二十届五中全会精神",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722856.shtml",
         "publishedAt": "2026-10-29T18:02:17.000+08:00"
-      },
-      {
-        "title": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722854.shtml",
-        "publishedAt": "2026-10-29T18:01:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T18:30:04.313+08:00",
+    "fetchedAt": "2026-10-29T18:40:03.685+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T18:30:08.913+08:00",
+      "fetchedAt": "2026-10-29T18:40:38.387+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T18:30:09.346+08:00",
+      "fetchedAt": "2026-10-29T18:40:38.718+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T18:30:09.354+08:00",
+      "fetchedAt": "2026-10-29T18:40:38.727+08:00",
       "error": null
     }
   }
