@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T12:00:39.540+08:00",
+  "updatedAt": "2026-10-29T12:10:18.084+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-10-29T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T12:00:39.541+08:00",
+    "fetchedAt": "2026-10-29T12:10:18.085+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,12 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "商务部 国家发展改革委 生态环境部 海关总署关于进一步提高海南自由贸易港贸易自由化便利化水平的通知",
+        "title": "A股午评：近4700只个股飘绿，三大指数收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722642.shtml",
+        "publishedAt": "2026-10-29T11:57:28.000+08:00"
+      },
+      {
+        "title": "四部门：进一步提高海南自由贸易港贸易自由化便利化水平",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722641.shtml",
         "publishedAt": "2026-10-29T11:46:49.000+08:00"
       },
@@ -38,14 +43,9 @@
         "title": "管好血压 日常习惯最关键！4忌4宜 一次讲清",
         "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722640.shtml",
         "publishedAt": "2026-10-29T11:32:36.000+08:00"
-      },
-      {
-        "title": "COP17“中国角”：“生物多样性友好城市建设”主题边会举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722639.shtml",
-        "publishedAt": "2026-10-29T11:31:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T12:00:04.706+08:00",
+    "fetchedAt": "2026-10-29T12:10:12.876+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T12:00:38.033+08:00",
+      "fetchedAt": "2026-10-29T12:10:16.898+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
+          "usedPct": 59,
           "resetAt": "2026-10-29T14:06:00.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T12:00:38.532+08:00",
+      "fetchedAt": "2026-10-29T12:10:17.232+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T12:00:38.537+08:00",
+      "fetchedAt": "2026-10-29T12:10:17.241+08:00",
       "error": null
     }
   }
