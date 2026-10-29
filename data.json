@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:30:08.960+08:00",
+  "updatedAt": "2026-10-29T11:40:14.822+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-29T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T11:30:08.960+08:00",
+    "fetchedAt": "2026-10-29T11:40:14.822+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "去夜校“造”AI漫剧：青年渴望从“看客”变“主创”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722632.shtml",
-        "publishedAt": "2026-10-29T11:21:40.000+08:00"
+        "title": "（长征胜利90周年）巍巍大别山红旗不倒，老区如何走好发展新路？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722638.shtml",
+        "publishedAt": "2026-10-29T11:38:31.000+08:00"
       },
       {
-        "title": "历史学者：所谓“台湾近代化源于日据时期”论调罔顾史实",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722593.shtml",
-        "publishedAt": "2026-10-29T11:20:12.000+08:00"
+        "title": "北京市政协建言提升国际传播力",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722630.shtml",
+        "publishedAt": "2026-10-29T11:34:00.000+08:00"
       },
       {
-        "title": "标注“未添加”实则仍含糖 “0糖”标注不能再玩文字游戏",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722634.shtml",
-        "publishedAt": "2026-10-29T11:17:45.000+08:00"
+        "title": "管好血压 日常习惯最关键！4忌4宜 一次讲清",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722640.shtml",
+        "publishedAt": "2026-10-29T11:32:36.000+08:00"
       },
       {
-        "title": "鹤岗萝北县：格田“变”出增产账 黑土地上的“粮策”升级",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722629.shtml",
-        "publishedAt": "2026-10-29T11:16:57.000+08:00"
+        "title": "COP17“中国角”：“生物多样性友好城市建设”主题边会举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722639.shtml",
+        "publishedAt": "2026-10-29T11:31:54.000+08:00"
       },
       {
-        "title": "看病先问AI？只可做“参谋”不能当“大夫”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722633.shtml",
-        "publishedAt": "2026-10-29T11:14:29.000+08:00"
+        "title": "山西屯留：深秋绛河碧水斑斓入画来",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722637.shtml",
+        "publishedAt": "2026-10-29T11:31:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T11:30:03.540+08:00",
+    "fetchedAt": "2026-10-29T11:40:03.016+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T11:30:07.462+08:00",
+      "fetchedAt": "2026-10-29T11:40:06.489+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 54,
+          "usedPct": 57,
           "resetAt": "2026-10-29T14:06:00.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T11:30:07.751+08:00",
+      "fetchedAt": "2026-10-29T11:40:06.869+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T11:30:07.759+08:00",
+      "fetchedAt": "2026-10-29T11:40:06.878+08:00",
       "error": null
     }
   }
