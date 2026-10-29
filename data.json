@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T23:40:18.202+08:00",
+  "updatedAt": "2026-10-29T23:50:39.277+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17,
-    "feelsLikeC": 18,
-    "humidity": 86,
-    "windKph": 3.9,
+    "tempC": 16.9,
+    "feelsLikeC": 17.9,
+    "humidity": 87,
+    "windKph": 3.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T23:40:18.202+08:00",
+    "observedAt": "2026-10-29T23:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T23:50:39.277+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "CBA常规赛：北控队主场大胜四川队",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10723075.shtml",
+        "publishedAt": "2026-10-29T23:42:22.000+08:00"
+      },
       {
         "title": "“北京太古坊”正式启用，为太古地产在中国内地单体投资额最高项目",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723071.shtml",
@@ -38,14 +43,9 @@
         "title": "古韵新声引客来 傣族章哈成西双版纳文旅名片",
         "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723068.shtml",
         "publishedAt": "2026-10-29T23:34:13.000+08:00"
-      },
-      {
-        "title": "中宣部组织召开学习宣传贯彻党的二十届五中全会精神电视电话会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723073.shtml",
-        "publishedAt": "2026-10-29T23:34:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T23:40:12.291+08:00",
+    "fetchedAt": "2026-10-29T23:50:03.895+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T23:40:16.846+08:00",
+      "fetchedAt": "2026-10-29T23:50:37.648+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T04:40:18.000+08:00"
+          "resetAt": "2026-10-30T04:50:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T23:40:17.243+08:00",
+      "fetchedAt": "2026-10-29T23:50:38.105+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T23:40:17.248+08:00",
+      "fetchedAt": "2026-10-29T23:50:38.113+08:00",
       "error": null
     }
   }
