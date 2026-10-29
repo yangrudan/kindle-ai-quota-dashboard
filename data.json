@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:30:08.917+08:00",
+  "updatedAt": "2026-10-29T08:40:08.617+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-10-29T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T08:30:08.917+08:00",
+    "fetchedAt": "2026-10-29T08:40:08.617+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西班牙列车相撞已致68人死亡 直击救援现场",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-29/1209176.shtml",
+        "publishedAt": "2026-10-29T08:36:30.000+08:00"
+      },
       {
         "title": "从一瓶水、一份早餐，到一捧花、一个盲盒——地铁站内的生意更丰富了",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722521.shtml",
@@ -38,14 +43,9 @@
         "title": "山东沾化渔鼓戏创新剧目表达方式，“圈粉”年轻人",
         "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722518.shtml",
         "publishedAt": "2026-10-29T08:05:55.000+08:00"
-      },
-      {
-        "title": "西班牙高铁事故调度录音曝光：后车获准正常速度行驶，前车仍滞留轨道",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722517.shtml",
-        "publishedAt": "2026-10-29T08:01:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T08:30:04.146+08:00",
+    "fetchedAt": "2026-10-29T08:40:03.456+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T08:30:07.722+08:00",
+      "fetchedAt": "2026-10-29T08:40:07.513+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T13:30:08.000+08:00"
+          "resetAt": "2026-10-29T13:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-04T14:35:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T08:30:07.927+08:00",
+      "fetchedAt": "2026-10-29T08:40:07.701+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T08:30:07.937+08:00",
+      "fetchedAt": "2026-10-29T08:40:07.706+08:00",
       "error": null
     }
   }
