@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T16:40:08.493+08:00",
+  "updatedAt": "2026-10-29T16:50:09.278+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.7,
-    "feelsLikeC": 23.5,
-    "humidity": 62,
-    "windKph": 6.6,
+    "tempC": 22.3,
+    "feelsLikeC": 22.8,
+    "humidity": 64,
+    "windKph": 8.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T16:40:08.494+08:00",
+    "observedAt": "2026-10-29T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T16:50:09.278+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "传承“兴盛番族”红色根脉 续写团结发展和美画卷——迪庆州用好红色资源赋能地方发展",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722784.shtml",
-        "publishedAt": "2026-10-29T16:35:39.000+08:00"
+        "title": "“文化公园里的四川”主题宣传教育活动·古蔺行举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722814.shtml",
+        "publishedAt": "2026-10-29T16:42:01.000+08:00"
       },
       {
-        "title": "《华侨青年》暨南大学预科教育百年纪念特刊发布",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722795.shtml",
-        "publishedAt": "2026-10-29T16:32:43.000+08:00"
+        "title": "商务部：中秘自贸协定升级议定书今年11月1日正式生效",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722775.shtml",
+        "publishedAt": "2026-10-29T16:41:09.000+08:00"
       },
       {
-        "title": "中国国防部：敦促日方正视和反省侵略历史",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722811.shtml",
-        "publishedAt": "2026-10-29T16:32:19.000+08:00"
+        "title": "（走进中国乡村）渔民退捕转产、青年返乡创业 “汉寿甲鱼”激活洞庭乡野",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722810.shtml",
+        "publishedAt": "2026-10-29T16:40:45.000+08:00"
       },
       {
-        "title": "南航2026年冬春航季新开加密多条国际航线",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722783.shtml",
-        "publishedAt": "2026-10-29T16:32:13.000+08:00"
+        "title": "中国国防部：菲方不能任由一小撮人肆意妄为在南海挑衅生事",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722816.shtml",
+        "publishedAt": "2026-10-29T16:39:17.000+08:00"
       },
       {
-        "title": "2026年京津冀铸牢中华民族共同体意识研讨会在津举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722781.shtml",
-        "publishedAt": "2026-10-29T16:31:33.000+08:00"
+        "title": "台湾再生能源发电目标再“跳票” 舆论称当局可信度趋零",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722807.shtml",
+        "publishedAt": "2026-10-29T16:37:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T16:40:03.739+08:00",
+    "fetchedAt": "2026-10-29T16:50:03.549+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T16:40:07.323+08:00",
+      "fetchedAt": "2026-10-29T16:50:07.390+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 22,
+          "usedPct": 24,
           "resetAt": "2026-10-29T20:00:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T16:40:07.657+08:00",
+      "fetchedAt": "2026-10-29T16:50:07.756+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T16:40:07.661+08:00",
+      "fetchedAt": "2026-10-29T16:50:07.759+08:00",
       "error": null
     }
   }
