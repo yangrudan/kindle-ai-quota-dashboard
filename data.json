@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T22:20:18.916+08:00",
+  "updatedAt": "2026-10-29T22:30:39.666+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.8,
-    "feelsLikeC": 18.2,
-    "humidity": 80,
-    "windKph": 6.3,
+    "tempC": 17.5,
+    "feelsLikeC": 18.1,
+    "humidity": 82,
+    "windKph": 5.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-29T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T22:20:18.916+08:00",
+    "observedAt": "2026-10-29T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T22:30:39.666+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "江西南昌：城市秋日花海“醉”迷人",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723033.shtml",
+        "publishedAt": "2026-10-29T22:19:09.000+08:00"
+      },
+      {
+        "title": "山东仲村镇：小手套“织”出大产业 年产劳保手套60亿副",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723032.shtml",
+        "publishedAt": "2026-10-29T22:17:51.000+08:00"
+      },
       {
         "title": "杭州新添音乐空间 5000张黑胶唱片奏响老街",
         "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723031.shtml",
@@ -33,19 +43,9 @@
         "title": "海报丨中国共产党第二十一次全国代表大会于2027年下半年在北京召开",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723030.shtml",
         "publishedAt": "2026-10-29T22:08:41.000+08:00"
-      },
-      {
-        "title": "杭州新一轮城市照明规划出炉 营造宋韵美学杭派夜景",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723022.shtml",
-        "publishedAt": "2026-10-29T22:05:20.000+08:00"
-      },
-      {
-        "title": "2026两岸青年新文创成果发布会在厦门举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723017.shtml",
-        "publishedAt": "2026-10-29T21:58:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T22:20:12.630+08:00",
+    "fetchedAt": "2026-10-29T22:30:04.733+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-29T22:20:17.761+08:00",
+      "fetchedAt": "2026-10-29T22:30:38.184+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T03:20:19.000+08:00"
+          "resetAt": "2026-10-30T03:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T22:20:17.877+08:00",
+      "fetchedAt": "2026-10-29T22:30:38.464+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-29T22:20:17.884+08:00",
+      "fetchedAt": "2026-10-29T22:30:38.471+08:00",
       "error": null
     }
   }
