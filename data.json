@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T14:00:11.995+08:00",
+  "updatedAt": "2026-10-30T14:10:08.835+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-30T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T14:00:11.995+08:00",
+    "fetchedAt": "2026-10-30T14:10:08.836+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "公安部就修订《公安机关办理行政案件程序规定》公开征求意见",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723267.shtml",
-        "publishedAt": "2026-10-30T13:56:47.000+08:00"
+        "title": "西安出台商品房销售新政",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723278.shtml",
+        "publishedAt": "2026-10-30T14:08:27.000+08:00"
       },
       {
-        "title": "温暖同行，徐福记携手中国妇女发展基金会驰援西藏那曲市巴青地震灾区",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723274.shtml",
-        "publishedAt": "2026-10-30T13:49:16.000+08:00"
+        "title": "早上难醒 白天犯困？这不是懒！简单几步助你一天好状态",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723290.shtml",
+        "publishedAt": "2026-10-30T14:06:13.000+08:00"
       },
       {
-        "title": "60岁阿姨长期熬夜刷短剧，中招“眼中风”险失明",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723277.shtml",
-        "publishedAt": "2026-10-30T13:45:52.000+08:00"
+        "title": "探访河南开封州桥遗址",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723284.shtml",
+        "publishedAt": "2026-10-30T14:03:27.000+08:00"
       },
       {
-        "title": "走进“中国城市里坊制度活化石”——福州三坊七巷历史文化街区",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723268.shtml",
-        "publishedAt": "2026-10-30T13:44:04.000+08:00"
+        "title": "国产大飞机南航C919首次在大湾区执飞SAF航班",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723281.shtml",
+        "publishedAt": "2026-10-30T13:58:11.000+08:00"
       },
       {
-        "title": "中国石化在COP17发布首份全球生物多样性保护报告",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723270.shtml",
-        "publishedAt": "2026-10-30T13:43:06.000+08:00"
+        "title": "美国突发直升机相撞事故 致3人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723283.shtml",
+        "publishedAt": "2026-10-30T13:58:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T14:00:04.946+08:00",
+    "fetchedAt": "2026-10-30T14:10:03.209+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T14:00:10.476+08:00",
+      "fetchedAt": "2026-10-30T14:10:07.411+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 70,
-          "resetAt": "2026-10-30T14:09:45.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-30T19:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T14:00:10.813+08:00",
+      "fetchedAt": "2026-10-30T14:10:07.716+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T14:00:10.823+08:00",
+      "fetchedAt": "2026-10-30T14:10:07.720+08:00",
       "error": null
     }
   }
