@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T17:30:08.436+08:00",
+  "updatedAt": "2026-10-30T17:40:08.995+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-30T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T17:30:08.437+08:00",
+    "fetchedAt": "2026-10-30T17:40:08.995+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "立足国家算力枢纽优势 宁夏中卫市前三季度信息服务业投资爆发式增长",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723467.shtml",
-        "publishedAt": "2026-10-30T17:24:56.000+08:00"
+        "title": "泰国尖竹汶府举办“中华文化大乐园”活动",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-30/10723471.shtml",
+        "publishedAt": "2026-10-30T17:33:42.000+08:00"
       },
       {
-        "title": "中国石油西南油气田2026年度清洁电力发电量突破1亿千瓦时",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723466.shtml",
-        "publishedAt": "2026-10-30T17:23:56.000+08:00"
+        "title": "港澳台侨企业家走进重庆荣昌 探寻产业合作新机遇",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723485.shtml",
+        "publishedAt": "2026-10-30T17:32:50.000+08:00"
       },
       {
-        "title": "一欻承文脉 沈阳举行锡伯族嘎拉哈邀请赛",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723469.shtml",
-        "publishedAt": "2026-10-30T17:23:10.000+08:00"
+        "title": "油菜蔬菜种植落田到户 湖南东安冬闲田里算出增收账",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723474.shtml",
+        "publishedAt": "2026-10-30T17:31:50.000+08:00"
       },
       {
-        "title": "公安网安部门公布5起涉“那曲巴青地震”网络谣言案例（2026·10·30）",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723480.shtml",
-        "publishedAt": "2026-10-30T17:21:54.000+08:00"
+        "title": "“孙中山与上海”文物史料展在上海革命历史博物馆开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723468.shtml",
+        "publishedAt": "2026-10-30T17:28:30.000+08:00"
       },
       {
-        "title": "山东秋日美景次第铺展 引民众走出家门寻“专属秋光”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723478.shtml",
-        "publishedAt": "2026-10-30T17:21:28.000+08:00"
+        "title": "周末要降温！全国冬装出场地图来了 看看哪里寒凉加重需添衣",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723483.shtml",
+        "publishedAt": "2026-10-30T17:27:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T17:30:02.915+08:00",
+    "fetchedAt": "2026-10-30T17:40:03.601+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 96.3,
+          "usedPct": 96.8,
           "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 57 / 1500 AIC"
+          "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T17:30:07.006+08:00",
+      "fetchedAt": "2026-10-30T17:40:07.638+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T17:30:07.324+08:00",
+      "fetchedAt": "2026-10-30T17:40:07.989+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T17:30:07.331+08:00",
+      "fetchedAt": "2026-10-30T17:40:07.994+08:00",
       "error": null
     }
   }
