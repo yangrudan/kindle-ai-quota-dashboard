@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T12:00:09.060+08:00",
+  "updatedAt": "2026-10-30T12:10:10.602+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22,
-    "feelsLikeC": 23,
-    "humidity": 66,
-    "windKph": 5.3,
+    "tempC": 22.1,
+    "feelsLikeC": 23.1,
+    "humidity": 65,
+    "windKph": 5.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T12:00:09.060+08:00",
+    "observedAt": "2026-10-30T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T12:10:10.602+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "A股午评：超2800只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723235.shtml",
+        "publishedAt": "2026-10-30T12:00:46.000+08:00"
+      },
+      {
+        "title": "公安部就修订《公安机关办理行政案件程序规定》公开征求意见",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723234.shtml",
+        "publishedAt": "2026-10-30T11:58:08.000+08:00"
+      },
+      {
+        "title": "张福海：《决定》从4个方面对坚定走好中国特色反腐败之路作出部署",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723233.shtml",
+        "publishedAt": "2026-10-30T11:55:52.000+08:00"
+      },
       {
         "title": "瑞士联邦主席帕姆兰抵达北京 开启访华行程",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723223.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "黄建发：《决定》部署突出抓好新兴领域党的建设",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723215.shtml",
         "publishedAt": "2026-10-30T11:43:58.000+08:00"
-      },
-      {
-        "title": "今年前9个月我国进出口食品同比增长4.1%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723232.shtml",
-        "publishedAt": "2026-10-30T11:43:01.000+08:00"
-      },
-      {
-        "title": "依托“全国通办” 海南打造婚旅特色名片",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723221.shtml",
-        "publishedAt": "2026-10-30T11:39:47.000+08:00"
-      },
-      {
-        "title": "海南做实涉外婚姻特色服务",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723219.shtml",
-        "publishedAt": "2026-10-30T11:39:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T12:00:03.249+08:00",
+    "fetchedAt": "2026-10-30T12:10:04.720+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T12:00:07.776+08:00",
+      "fetchedAt": "2026-10-30T12:10:09.313+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 56,
+          "usedPct": 57,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T12:00:08.089+08:00",
+      "fetchedAt": "2026-10-30T12:10:09.668+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T12:00:08.098+08:00",
+      "fetchedAt": "2026-10-30T12:10:09.672+08:00",
       "error": null
     }
   }
