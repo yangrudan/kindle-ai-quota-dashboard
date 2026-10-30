@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:30:08.439+08:00",
+  "updatedAt": "2026-10-30T19:40:08.386+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-30T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T19:30:08.439+08:00",
+    "fetchedAt": "2026-10-30T19:40:08.386+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "多国发布旅行安全提醒 警告公民注意法国新一轮示威活动",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723546.shtml",
-        "publishedAt": "2026-10-30T19:18:54.000+08:00"
+        "title": "歌舞诗《多彩贵州·风行天下》在台湾演出 获热烈回响",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723549.shtml",
+        "publishedAt": "2026-10-30T19:30:13.000+08:00"
       },
       {
-        "title": "11月5日起国内航线燃油附加费上调",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723544.shtml",
-        "publishedAt": "2026-10-30T19:17:50.000+08:00"
+        "title": "山东物探队“三维CT扫描”煤田 “透视”荒漠下的宝藏",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-30/10723548.shtml",
+        "publishedAt": "2026-10-30T19:27:39.000+08:00"
       },
       {
-        "title": "揭开“债务重组”“征信洗白”的画皮",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-30/10723542.shtml",
-        "publishedAt": "2026-10-30T19:16:32.000+08:00"
+        "title": "哈尔滨“百炉复兴”推动老锅炉房蝶变",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723547.shtml",
+        "publishedAt": "2026-10-30T19:26:42.000+08:00"
       },
       {
-        "title": "青海省十四届人大常委会第二十五次会议举行 决定任命诸葛宇杰为青海省人民政府副省长、代理省长",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723540.shtml",
-        "publishedAt": "2026-10-30T19:14:10.000+08:00"
+        "title": "南航与阿斯塔纳航空签署联营协议 拟扩大航线合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723543.shtml",
+        "publishedAt": "2026-10-30T19:25:02.000+08:00"
       },
       {
-        "title": "宁夏石嘴山：中医阁开到家门口",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723532.shtml",
-        "publishedAt": "2026-10-30T19:08:05.000+08:00"
+        "title": "不止筑巢引凤 天津产业援疆让和田跑出内生增长新速度",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723534.shtml",
+        "publishedAt": "2026-10-30T19:24:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T19:30:02.989+08:00",
+    "fetchedAt": "2026-10-30T19:40:03.326+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T19:30:07.199+08:00",
+      "fetchedAt": "2026-10-30T19:40:07.219+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T00:30:08.000+08:00"
+          "resetAt": "2026-10-31T00:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T19:30:07.431+08:00",
+      "fetchedAt": "2026-10-30T19:40:07.486+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T19:30:07.437+08:00",
+      "fetchedAt": "2026-10-30T19:40:07.490+08:00",
       "error": null
     }
   }
