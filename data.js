@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T00:40:09.508+08:00",
+  "updatedAt": "2026-10-31T00:50:09.609+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16,
-    "feelsLikeC": 17.4,
+    "tempC": 15.9,
+    "feelsLikeC": 17.2,
     "humidity": 95,
-    "windKph": 2.4,
+    "windKph": 2.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-31T00:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T00:40:09.509+08:00",
+    "observedAt": "2026-10-31T00:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T00:50:09.609+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "奥地利合唱团走进乐山 江边放歌感受山水",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723714.shtml",
+        "publishedAt": "2026-10-31T00:32:58.000+08:00"
+      },
+      {
+        "title": "《八闽文化与中国式现代化》丛书在福州发布",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723713.shtml",
+        "publishedAt": "2026-10-31T00:32:32.000+08:00"
+      },
+      {
+        "title": "医疗健康数字孪生联盟在沪成立 发布5000万人健康数字孪生计划",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723712.shtml",
+        "publishedAt": "2026-10-31T00:32:26.000+08:00"
+      },
       {
         "title": "李强会见德国总统施泰因迈尔",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723715.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "纪录片《感恩东来爱香江》将在香港多校播出",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723708.shtml",
         "publishedAt": "2026-10-31T00:26:51.000+08:00"
-      },
-      {
-        "title": "小赛场增进大团结 云南以体育促进各民族交往交流交融",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723711.shtml",
-        "publishedAt": "2026-10-31T00:26:19.000+08:00"
-      },
-      {
-        "title": "青海都兰：“蚕豆+”轮作解锁高原农业“绿色密码”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723710.shtml",
-        "publishedAt": "2026-10-31T00:26:03.000+08:00"
-      },
-      {
-        "title": "“长征星火照东城”主题展览在北京开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723709.shtml",
-        "publishedAt": "2026-10-31T00:25:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T00:40:03.467+08:00",
+    "fetchedAt": "2026-10-31T00:50:03.266+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T00:40:08.247+08:00",
+      "fetchedAt": "2026-10-31T00:50:07.475+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T05:40:09.000+08:00"
+          "resetAt": "2026-10-31T05:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T00:40:08.567+08:00",
+      "fetchedAt": "2026-10-31T00:50:07.823+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T00:40:08.572+08:00",
+      "fetchedAt": "2026-10-31T00:50:07.833+08:00",
       "error": null
     }
   }
