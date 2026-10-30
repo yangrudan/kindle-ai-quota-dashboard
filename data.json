@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:00:10.372+08:00",
+  "updatedAt": "2026-10-30T11:10:07.996+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-30T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T11:00:10.372+08:00",
+    "fetchedAt": "2026-10-30T11:10:07.996+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "金融“活水”顺着保单流向田间地头 “保银供收”筑牢产业振兴风险屏障",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723195.shtml",
-        "publishedAt": "2026-10-30T10:53:47.000+08:00"
+        "title": "【数说经济】投资消费协力拓宽服务业增长空间",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723202.shtml",
+        "publishedAt": "2026-10-30T11:03:55.000+08:00"
       },
       {
-        "title": "长征路上学党史丨长征落脚点上的“守护者”：让红色记忆历久弥新",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723192.shtml",
-        "publishedAt": "2026-10-30T10:50:45.000+08:00"
+        "title": "谢春涛：《决定》第八部分对“增强制度执行力”专门提出要求",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723201.shtml",
+        "publishedAt": "2026-10-30T11:03:07.000+08:00"
       },
       {
-        "title": "新动能加速“接棒”！多视角解读三季度经济数据",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723194.shtml",
-        "publishedAt": "2026-10-30T10:50:41.000+08:00"
+        "title": "【光明论坛】以创新开创经济高质量发展新局面",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-30/10723198.shtml",
+        "publishedAt": "2026-10-30T11:01:29.000+08:00"
       },
       {
-        "title": "OPC如何推动人才培养范式变革",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723193.shtml",
-        "publishedAt": "2026-10-30T10:50:09.000+08:00"
+        "title": "福建土楼晒金秋 秋韵斑斓入画来",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209245.shtml",
+        "publishedAt": "2026-10-30T11:00:32.000+08:00"
       },
       {
-        "title": "【光明网评】乌镇之约，向世界尽显开放之姿",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-30/10723188.shtml",
-        "publishedAt": "2026-10-30T10:47:12.000+08:00"
+        "title": "林海雪原添新景 横道河子升级业态迎接客流",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723196.shtml",
+        "publishedAt": "2026-10-30T10:58:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T11:00:03.939+08:00",
+    "fetchedAt": "2026-10-30T11:10:03.075+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T11:00:08.398+08:00",
+      "fetchedAt": "2026-10-30T11:10:06.663+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T11:00:08.646+08:00",
+      "fetchedAt": "2026-10-30T11:10:06.938+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T11:00:08.655+08:00",
+      "fetchedAt": "2026-10-30T11:10:06.948+08:00",
       "error": null
     }
   }
