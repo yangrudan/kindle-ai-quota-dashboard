@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T16:20:18.647+08:00",
+  "updatedAt": "2026-10-30T16:30:11.204+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23,
-    "feelsLikeC": 24.5,
-    "humidity": 63,
-    "windKph": 3.1,
-    "windDir": "东风",
+    "tempC": 22.3,
+    "feelsLikeC": 24,
+    "humidity": 69,
+    "windKph": 3,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-30T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T16:20:18.647+08:00",
+    "observedAt": "2026-10-30T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T16:30:11.204+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从工位到生活 浙江莲都产业空间长出“新温度”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723393.shtml",
-        "publishedAt": "2026-10-30T16:13:20.000+08:00"
+        "title": "直播海报：2026“苏超”决赛 常州、无锡打响“太湖德比”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723410.shtml",
+        "publishedAt": "2026-10-30T16:22:02.000+08:00"
       },
       {
-        "title": "2026年第二届海南-东盟海归交流大会举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723396.shtml",
-        "publishedAt": "2026-10-30T16:08:26.000+08:00"
+        "title": "青海首批出口冷凉蔬菜“大基地”落地西宁",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723389.shtml",
+        "publishedAt": "2026-10-30T16:20:58.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）基层商会引“雁”归 河南息县乡贤归来振乡村",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723382.shtml",
-        "publishedAt": "2026-10-30T16:07:50.000+08:00"
+        "title": "喝“大水”能养生？腊肠中含大量亚硝酸盐吃了会致癌？",
+        "url": "https://www.chinanews.com.cn/life/2026/10-30/10723403.shtml",
+        "publishedAt": "2026-10-30T16:18:34.000+08:00"
       },
       {
-        "title": "2026年全国粮油和大豆产业博览会在河南郑州举办",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723380.shtml",
-        "publishedAt": "2026-10-30T16:06:18.000+08:00"
+        "title": "全国设区市首部肉牛种源管理法规11月1日起在内蒙古通辽施行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723392.shtml",
+        "publishedAt": "2026-10-30T16:18:22.000+08:00"
       },
       {
-        "title": "江苏常熟：苏作红木非遗传承基地精品展示",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723397.shtml",
-        "publishedAt": "2026-10-30T16:03:23.000+08:00"
+        "title": "中国钢铁行业节能降碳进一步提速",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723391.shtml",
+        "publishedAt": "2026-10-30T16:17:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T16:20:12.773+08:00",
+    "fetchedAt": "2026-10-30T16:30:03.745+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T16:20:17.443+08:00",
+      "fetchedAt": "2026-10-30T16:30:08.350+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T16:20:17.704+08:00",
+      "fetchedAt": "2026-10-30T16:30:09.741+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T16:20:17.713+08:00",
+      "fetchedAt": "2026-10-30T16:30:09.746+08:00",
       "error": null
     }
   }
