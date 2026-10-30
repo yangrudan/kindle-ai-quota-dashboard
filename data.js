@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T10:20:12.145+08:00",
+  "updatedAt": "2026-10-30T10:30:08.598+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.2,
-    "feelsLikeC": 22.5,
-    "humidity": 68,
-    "windKph": 3,
+    "tempC": 21.4,
+    "feelsLikeC": 22.6,
+    "humidity": 67,
+    "windKph": 3.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T10:20:12.145+08:00",
+    "observedAt": "2026-10-30T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T10:30:08.598+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "唐方裕：《决定》分为三大板块",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723155.shtml",
-        "publishedAt": "2026-10-30T10:12:25.000+08:00"
+        "title": "演艺活力浸润全城 武汉聚力打造“演艺名城”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723162.shtml",
+        "publishedAt": "2026-10-30T10:24:29.000+08:00"
       },
       {
-        "title": "西藏那曲市巴青县全力保障受灾学生震后复课——“我期待着回学校”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723154.shtml",
-        "publishedAt": "2026-10-30T10:11:54.000+08:00"
+        "title": "国际锐评丨日本TBS应当悔改而非狡辩",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723167.shtml",
+        "publishedAt": "2026-10-30T10:22:29.000+08:00"
       },
       {
-        "title": "锁边“合龙”不是终点 塔克拉玛干沙漠边缘还在不断变绿",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723152.shtml",
-        "publishedAt": "2026-10-30T10:08:48.000+08:00"
+        "title": "欧洲华媒探访湖南长沙县：看低空产业腾飞、文化装备“出海”",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-30/10723158.shtml",
+        "publishedAt": "2026-10-30T10:22:25.000+08:00"
       },
       {
-        "title": "四川：2026年上半年通信及量子科技产业总产值同比增长近三成",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723146.shtml",
-        "publishedAt": "2026-10-30T10:07:30.000+08:00"
+        "title": "评论：“外嫁女回娘家”：莫让“排场账”算丢“亲情账”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723163.shtml",
+        "publishedAt": "2026-10-30T10:21:59.000+08:00"
       },
       {
-        "title": "中共中央就党的二十届五中全会精神举行新闻发布会",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723151.shtml",
-        "publishedAt": "2026-10-30T10:03:12.000+08:00"
+        "title": "唐方裕：全会最重要的成果是审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723153.shtml",
+        "publishedAt": "2026-10-30T10:21:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T10:20:04.408+08:00",
+    "fetchedAt": "2026-10-30T10:30:02.862+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T10:20:10.607+08:00",
+      "fetchedAt": "2026-10-30T10:30:06.584+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 29,
+          "usedPct": 48,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 18,
+          "usedPct": 21,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T10:20:10.891+08:00",
+      "fetchedAt": "2026-10-30T10:30:06.848+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T10:20:10.897+08:00",
+      "fetchedAt": "2026-10-30T10:30:06.858+08:00",
       "error": null
     }
   }
