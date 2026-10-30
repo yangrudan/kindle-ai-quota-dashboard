@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:30:09.630+08:00",
+  "updatedAt": "2026-10-30T12:40:39.315+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-30T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T12:30:09.631+08:00",
+    "fetchedAt": "2026-10-30T12:40:39.315+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "赛事引流文旅升温 全国“村BA”在湖北咸丰收官",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723220.shtml",
-        "publishedAt": "2026-10-30T12:13:13.000+08:00"
+        "title": "（走进中国乡村）橘香越重洋 湖南石门拓宽“甜蜜”外销路",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723236.shtml",
+        "publishedAt": "2026-10-30T12:33:02.000+08:00"
       },
       {
-        "title": "A股午评：超2800只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723235.shtml",
-        "publishedAt": "2026-10-30T12:00:46.000+08:00"
+        "title": "《非居民企业机构、场所企业所得税管理办法（征求意见稿）》公布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723227.shtml",
+        "publishedAt": "2026-10-30T12:32:36.000+08:00"
       },
       {
-        "title": "公安部就修订《公安机关办理行政案件程序规定》公开征求意见",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723234.shtml",
-        "publishedAt": "2026-10-30T11:58:08.000+08:00"
+        "title": "山西晋中“十五五”锚定先进制造业：2030年省级产业链营收力争破千亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723228.shtml",
+        "publishedAt": "2026-10-30T12:32:24.000+08:00"
       },
       {
-        "title": "张福海：《决定》从4个方面对坚定走好中国特色反腐败之路作出部署",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723233.shtml",
-        "publishedAt": "2026-10-30T11:55:52.000+08:00"
+        "title": "广西提升涉外法律服务质效 加快打造制度型开放新高地",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723226.shtml",
+        "publishedAt": "2026-10-30T12:30:22.000+08:00"
       },
       {
-        "title": "瑞士联邦主席帕姆兰抵达北京 开启访华行程",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723223.shtml",
-        "publishedAt": "2026-10-30T11:47:28.000+08:00"
+        "title": "2026年台湾青年福建工艺美术研学交流活动启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723225.shtml",
+        "publishedAt": "2026-10-30T12:29:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T12:30:04.026+08:00",
+    "fetchedAt": "2026-10-30T12:40:03.957+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T12:30:08.039+08:00",
+      "fetchedAt": "2026-10-30T12:40:38.186+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 59,
+          "usedPct": 61,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T12:30:08.267+08:00",
+      "fetchedAt": "2026-10-30T12:40:38.379+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T12:30:08.276+08:00",
+      "fetchedAt": "2026-10-30T12:40:38.384+08:00",
       "error": null
     }
   }
