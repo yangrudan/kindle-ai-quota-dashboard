@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T17:40:08.995+08:00",
+  "updatedAt": "2026-10-30T17:50:09.916+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.8,
-    "feelsLikeC": 22.7,
-    "humidity": 78,
-    "windKph": 3.1,
+    "tempC": 20.5,
+    "feelsLikeC": 22.4,
+    "humidity": 79,
+    "windKph": 2.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-30T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T17:40:08.995+08:00",
+    "observedAt": "2026-10-30T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T17:50:09.916+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "泰国尖竹汶府举办“中华文化大乐园”活动",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-30/10723471.shtml",
-        "publishedAt": "2026-10-30T17:33:42.000+08:00"
+        "title": "台青：大陆文化产品在台湾走红，印证两岸融合向心力从未减弱",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723493.shtml",
+        "publishedAt": "2026-10-30T17:44:45.000+08:00"
       },
       {
-        "title": "港澳台侨企业家走进重庆荣昌 探寻产业合作新机遇",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723485.shtml",
-        "publishedAt": "2026-10-30T17:32:50.000+08:00"
+        "title": "特斯拉无人驾驶电动车Cybercab在中国西南地区首秀",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723486.shtml",
+        "publishedAt": "2026-10-30T17:44:33.000+08:00"
       },
       {
-        "title": "油菜蔬菜种植落田到户 湖南东安冬闲田里算出增收账",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723474.shtml",
-        "publishedAt": "2026-10-30T17:31:50.000+08:00"
+        "title": "《沙夫卡特·米尔济约耶夫讲话选编 迈向可持续发展与繁荣的乌兹别克斯坦》 新书发布会在京举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723484.shtml",
+        "publishedAt": "2026-10-30T17:43:49.000+08:00"
       },
       {
-        "title": "“孙中山与上海”文物史料展在上海革命历史博物馆开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723468.shtml",
-        "publishedAt": "2026-10-30T17:28:30.000+08:00"
+        "title": "湖南民建以“小切口”做实服务企业“大文章”",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723487.shtml",
+        "publishedAt": "2026-10-30T17:43:19.000+08:00"
       },
       {
-        "title": "周末要降温！全国冬装出场地图来了 看看哪里寒凉加重需添衣",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723483.shtml",
-        "publishedAt": "2026-10-30T17:27:38.000+08:00"
+        "title": "中国工程院院士张强：做科研要“顶天”也要“立地”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723492.shtml",
+        "publishedAt": "2026-10-30T17:43:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T17:40:03.601+08:00",
+    "fetchedAt": "2026-10-30T17:50:02.903+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T17:40:07.638+08:00",
+      "fetchedAt": "2026-10-30T17:50:08.475+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T17:40:07.989+08:00",
+      "fetchedAt": "2026-10-30T17:50:08.877+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T17:40:07.994+08:00",
+      "fetchedAt": "2026-10-30T17:50:08.886+08:00",
       "error": null
     }
   }
