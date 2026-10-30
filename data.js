@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T13:20:08.716+08:00",
+  "updatedAt": "2026-10-30T13:30:17.688+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-30T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T13:20:08.716+08:00",
+    "fetchedAt": "2026-10-30T13:30:17.688+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“空气消毒卡”除菌消杀率超99.99%？中消协：涉虚假宣传",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723251.shtml",
-        "publishedAt": "2026-10-30T13:12:40.000+08:00"
+        "title": "珠江委与澳门水务部门在穗对供水安全等事项进行商议",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723255.shtml",
+        "publishedAt": "2026-10-30T13:26:23.000+08:00"
       },
       {
-        "title": "美媒曝：特朗普施压下，乌克兰已暂停袭击俄罗斯炼油厂",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723243.shtml",
-        "publishedAt": "2026-10-30T12:54:21.000+08:00"
+        "title": "专家共话长征国家文化公园建设与红色文化传承",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723258.shtml",
+        "publishedAt": "2026-10-30T13:24:43.000+08:00"
       },
       {
-        "title": "全国首个长三角区域船舶联合审图中心在沪成立",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723242.shtml",
-        "publishedAt": "2026-10-30T12:51:33.000+08:00"
+        "title": "香港青年在深圳打造港乐IP沉浸式剧场",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723252.shtml",
+        "publishedAt": "2026-10-30T13:23:43.000+08:00"
       },
       {
-        "title": "茉莉奶白门店回应联名玻璃杯爆裂：可退款回收",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723241.shtml",
-        "publishedAt": "2026-10-30T12:36:12.000+08:00"
+        "title": "气象行业可信数据空间正式启用 赋能千行百业高质量发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723259.shtml",
+        "publishedAt": "2026-10-30T13:23:39.000+08:00"
       },
       {
-        "title": "（走进中国乡村）橘香越重洋 湖南石门拓宽“甜蜜”外销路",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723236.shtml",
-        "publishedAt": "2026-10-30T12:33:02.000+08:00"
+        "title": "泉金客运航线11月1日起启用冬令时航班时刻表",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723257.shtml",
+        "publishedAt": "2026-10-30T13:21:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T13:20:03.755+08:00",
+    "fetchedAt": "2026-10-30T13:30:12.369+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T13:20:07.562+08:00",
+      "fetchedAt": "2026-10-30T13:30:16.341+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 66,
+          "usedPct": 67,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T13:20:07.771+08:00",
+      "fetchedAt": "2026-10-30T13:30:16.583+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T13:20:07.777+08:00",
+      "fetchedAt": "2026-10-30T13:30:16.590+08:00",
       "error": null
     }
   }
