@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T15:00:10.135+08:00",
+  "updatedAt": "2026-10-30T15:10:38.927+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-30T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T15:00:10.135+08:00",
+    "fetchedAt": "2026-10-30T15:10:38.927+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "健全社会组织退出机制 民政部出台注销指引",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723317.shtml",
-        "publishedAt": "2026-10-30T14:47:05.000+08:00"
+        "title": "唐方裕：二十届五中全会传递的信号主要有三个",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723308.shtml",
+        "publishedAt": "2026-10-30T15:04:42.000+08:00"
       },
       {
-        "title": "“智慧大脑”赋能物流枢纽 邮路跑出降本增效加速度",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723319.shtml",
-        "publishedAt": "2026-10-30T14:44:25.000+08:00"
+        "title": "萨尔瓦多前总统萨卡刑满释放 曾因贪污3亿美元公款入狱",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723293.shtml",
+        "publishedAt": "2026-10-30T15:02:44.000+08:00"
       },
       {
-        "title": "国家能源局：今年以来，我国能源供应充足、供需平衡",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723289.shtml",
-        "publishedAt": "2026-10-30T14:41:25.000+08:00"
+        "title": "最新民调显示支持对华合作是韩国社会的共识",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723286.shtml",
+        "publishedAt": "2026-10-30T15:02:04.000+08:00"
       },
       {
-        "title": "黑龙江省肉制品生产企业全面实行“互联网+AI监管”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723298.shtml",
-        "publishedAt": "2026-10-30T14:37:57.000+08:00"
+        "title": "从火线急救到野战手术 多级卫勤力量打通战场救治链",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723324.shtml",
+        "publishedAt": "2026-10-30T15:00:48.000+08:00"
       },
       {
-        "title": "江西南昌：碧水之畔，何以藏着豫章文化记忆？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723312.shtml",
-        "publishedAt": "2026-10-30T14:37:03.000+08:00"
+        "title": "消息人士：五角大楼官员要求欧洲缓和对俄言辞",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723323.shtml",
+        "publishedAt": "2026-10-30T14:59:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T15:00:03.679+08:00",
+    "fetchedAt": "2026-10-30T15:10:03.923+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T15:00:08.787+08:00",
+      "fetchedAt": "2026-10-30T15:10:37.475+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 29,
+          "usedPct": 38,
           "resetAt": "2026-10-30T19:11:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 29,
+          "usedPct": 31,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T15:00:09.086+08:00",
+      "fetchedAt": "2026-10-30T15:10:37.937+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T15:00:09.089+08:00",
+      "fetchedAt": "2026-10-30T15:10:37.946+08:00",
       "error": null
     }
   }
