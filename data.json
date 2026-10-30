@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:00:09.890+08:00",
+  "updatedAt": "2026-10-30T20:10:09.077+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-30T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T20:00:09.890+08:00",
+    "fetchedAt": "2026-10-30T20:10:09.077+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "深挖温泉资源价值 重庆启动温泉宣传推广活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723555.shtml",
+        "publishedAt": "2026-10-30T20:04:06.000+08:00"
+      },
+      {
+        "title": "缴获毒品约1.2吨 中国联合印度尼西亚、马来西亚破获一起特大跨国制贩毒案",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723589.shtml",
+        "publishedAt": "2026-10-30T20:01:58.000+08:00"
+      },
+      {
+        "title": "（文化新纪行）从古人“朋友圈”到今人“生活圈”：磁州窑历千年不衰",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723586.shtml",
+        "publishedAt": "2026-10-30T20:01:56.000+08:00"
+      },
       {
         "title": "海峡两岸文博会：多彩文创集中亮相",
         "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723538.shtml",
@@ -28,24 +43,9 @@
         "title": "央行：2026年第三季度全国新发放商业性个人住房贷款加权平均利率为3.05%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723565.shtml",
         "publishedAt": "2026-10-30T19:45:41.000+08:00"
-      },
-      {
-        "title": "中国与南非两国央行续签双边本币互换协议",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723559.shtml",
-        "publishedAt": "2026-10-30T19:44:59.000+08:00"
-      },
-      {
-        "title": "四川汉源：102岁老人李青秀一家四代参加县乡人大代表换届选举投票",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723537.shtml",
-        "publishedAt": "2026-10-30T19:42:59.000+08:00"
-      },
-      {
-        "title": "跳出利润表的短期起伏：从负债端\"成色\"读懂中国人寿三季报",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723561.shtml",
-        "publishedAt": "2026-10-30T19:42:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T20:00:04.235+08:00",
+    "fetchedAt": "2026-10-30T20:10:03.228+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T20:00:08.356+08:00",
+      "fetchedAt": "2026-10-30T20:10:07.682+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T01:00:09.000+08:00"
+          "resetAt": "2026-10-31T01:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T20:00:08.584+08:00",
+      "fetchedAt": "2026-10-30T20:10:08.089+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T20:00:08.593+08:00",
+      "fetchedAt": "2026-10-30T20:10:08.099+08:00",
       "error": null
     }
   }
