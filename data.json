@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:00:09.787+08:00",
+  "updatedAt": "2026-10-30T19:10:09.203+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-30T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T19:00:09.787+08:00",
+    "fetchedAt": "2026-10-30T19:10:09.203+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“京韵书香”首都青少年文化体验研学营走进军事博物馆",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723530.shtml",
+        "publishedAt": "2026-10-30T19:01:53.000+08:00"
+      },
+      {
+        "title": "前三季度重庆跨境人民币收付金额同比增长79.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723528.shtml",
+        "publishedAt": "2026-10-30T19:01:41.000+08:00"
+      },
+      {
+        "title": "工信部：前三季度我国软件业务收入同比增长8.4%",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723539.shtml",
+        "publishedAt": "2026-10-30T19:01:29.000+08:00"
+      },
+      {
+        "title": "2026-2027赛季中国杯短道速滑精英联赛（第二站）在七台河开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723525.shtml",
+        "publishedAt": "2026-10-30T19:01:05.000+08:00"
+      },
+      {
         "title": "山西偏关接力荒山植绿 生态赋能富民振兴",
         "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723521.shtml",
         "publishedAt": "2026-10-30T18:58:37.000+08:00"
-      },
-      {
-        "title": "太原机场三期改扩建工程T3航站楼项目通过竣工验收",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723520.shtml",
-        "publishedAt": "2026-10-30T18:58:01.000+08:00"
-      },
-      {
-        "title": "国家药监局印发《医疗器械生产质量管理规范独立软件检查指导原则》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723535.shtml",
-        "publishedAt": "2026-10-30T18:49:18.000+08:00"
-      },
-      {
-        "title": "安徽省能源集团有限公司原党委书记、董事长朱宜存被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723527.shtml",
-        "publishedAt": "2026-10-30T18:37:58.000+08:00"
-      },
-      {
-        "title": "12月25日起实施 市场监管总局发布《超短波治疗机校准规范》",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723531.shtml",
-        "publishedAt": "2026-10-30T18:37:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T19:00:05.038+08:00",
+    "fetchedAt": "2026-10-30T19:10:03.587+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T19:00:08.603+08:00",
+      "fetchedAt": "2026-10-30T19:10:07.786+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T19:00:08.828+08:00",
+      "fetchedAt": "2026-10-30T19:10:08.099+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T19:00:08.833+08:00",
+      "fetchedAt": "2026-10-30T19:10:08.108+08:00",
       "error": null
     }
   }
