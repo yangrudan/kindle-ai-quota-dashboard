@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:00:11.460+08:00",
+  "updatedAt": "2026-10-30T16:10:08.895+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-30T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T16:00:11.460+08:00",
+    "fetchedAt": "2026-10-30T16:10:08.895+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "公司拖欠供暖费18年欠款超24万元，法院这样做",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723372.shtml",
-        "publishedAt": "2026-10-30T15:53:03.000+08:00"
+        "title": "江苏常熟：苏作红木非遗传承基地精品展示",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723397.shtml",
+        "publishedAt": "2026-10-30T16:03:23.000+08:00"
       },
       {
-        "title": "三部门发文：深入开展特殊困难老年人探访关爱服务",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723331.shtml",
-        "publishedAt": "2026-10-30T15:51:31.000+08:00"
+        "title": "海峡两岸文博会：台湾文创亮眼吸睛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723394.shtml",
+        "publishedAt": "2026-10-30T16:03:07.000+08:00"
       },
       {
-        "title": "辽宁省归国留学人员骨干培训班暨“归国留学人员辽宁行（丹东站）”活动成功举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723366.shtml",
-        "publishedAt": "2026-10-30T15:51:29.000+08:00"
+        "title": "（乡村行·看振兴）一株本草兴山区 浙江磐安全产业链铺就药乡共富路",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723388.shtml",
+        "publishedAt": "2026-10-30T16:01:37.000+08:00"
       },
       {
-        "title": "用镜头丈量老城文脉，以脚步践行履职初心",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723373.shtml",
-        "publishedAt": "2026-10-30T15:50:43.000+08:00"
+        "title": "（乡村行·看振兴）基层商会引“雁”归 河南息县乡贤归来振乡村",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723382.shtml",
+        "publishedAt": "2026-10-30T16:00:27.000+08:00"
       },
       {
-        "title": "习近平会见瑞士联邦主席帕姆兰",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723374.shtml",
-        "publishedAt": "2026-10-30T15:50:01.000+08:00"
+        "title": "“十五五”启新程 浙江工业大市大县锻造发展新引擎",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723385.shtml",
+        "publishedAt": "2026-10-30T15:59:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T16:00:05.332+08:00",
+    "fetchedAt": "2026-10-30T16:10:03.588+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T16:00:09.970+08:00",
+      "fetchedAt": "2026-10-30T16:10:07.811+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T16:00:10.098+08:00",
+      "fetchedAt": "2026-10-30T16:10:07.937+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T16:00:10.106+08:00",
+      "fetchedAt": "2026-10-30T16:10:07.940+08:00",
       "error": null
     }
   }
