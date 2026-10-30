@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T20:40:39.545+08:00",
+  "updatedAt": "2026-10-30T20:50:38.428+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.5,
-    "feelsLikeC": 20.2,
+    "tempC": 18.3,
+    "feelsLikeC": 20,
     "humidity": 88,
-    "windKph": 3.4,
+    "windKph": 3.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T20:40:39.546+08:00",
+    "observedAt": "2026-10-30T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T20:50:38.429+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "报告显示：中国知识产权保护指数升至全球第6位",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723572.shtml",
-        "publishedAt": "2026-10-30T20:33:42.000+08:00"
+        "title": "中新健康｜27岁抗癌博主悦悦去世，医生提醒：乳房肿块不能仅凭手感判断",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723604.shtml",
+        "publishedAt": "2026-10-30T20:46:01.000+08:00"
       },
       {
-        "title": "香港延长APEC商务旅行卡持有人入境逗留期限",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723582.shtml",
-        "publishedAt": "2026-10-30T20:33:38.000+08:00"
+        "title": "习近平会见瑞士联邦主席帕姆兰",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723609.shtml",
+        "publishedAt": "2026-10-30T20:45:49.000+08:00"
       },
       {
-        "title": "广东茂名前三季度对APEC其他成员经济体进出口增逾五成",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723579.shtml",
-        "publishedAt": "2026-10-30T20:31:46.000+08:00"
+        "title": "原创技术引领 中国推进编制审定首个钙钛矿膜结晶制造国家标准",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723595.shtml",
+        "publishedAt": "2026-10-30T20:44:27.000+08:00"
       },
       {
-        "title": "《天津市突发事件应对条例》11月起施行 强化京津冀协同应急",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723578.shtml",
-        "publishedAt": "2026-10-30T20:31:40.000+08:00"
+        "title": "全国人大常委会党组举行会议 学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神 赵乐际主持并",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723612.shtml",
+        "publishedAt": "2026-10-30T20:44:01.000+08:00"
       },
       {
-        "title": "北京首条滨河半马赛道亮相 11月1日迎“首秀”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723570.shtml",
-        "publishedAt": "2026-10-30T20:31:00.000+08:00"
+        "title": "天津前三季度跨境收支规模达1413亿美元 同比增长13.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723593.shtml",
+        "publishedAt": "2026-10-30T20:42:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T20:40:03.804+08:00",
+    "fetchedAt": "2026-10-30T20:50:02.985+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T20:40:38.371+08:00",
+      "fetchedAt": "2026-10-30T20:50:37.033+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T01:40:39.000+08:00"
+          "resetAt": "2026-10-31T01:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T20:40:38.634+08:00",
+      "fetchedAt": "2026-10-30T20:50:37.335+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T20:40:38.641+08:00",
+      "fetchedAt": "2026-10-30T20:50:37.346+08:00",
       "error": null
     }
   }
