@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T13:50:09.803+08:00",
+  "updatedAt": "2026-10-30T14:00:11.995+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23,
-    "feelsLikeC": 24,
+    "tempC": 23.1,
+    "feelsLikeC": 24.2,
     "humidity": 62,
-    "windKph": 5.6,
+    "windKph": 5.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T13:50:09.803+08:00",
+    "observedAt": "2026-10-30T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T14:00:11.995+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "公安部就修订《公安机关办理行政案件程序规定》公开征求意见",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723267.shtml",
+        "publishedAt": "2026-10-30T13:56:47.000+08:00"
+      },
+      {
+        "title": "温暖同行，徐福记携手中国妇女发展基金会驰援西藏那曲市巴青地震灾区",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723274.shtml",
+        "publishedAt": "2026-10-30T13:49:16.000+08:00"
+      },
       {
         "title": "60岁阿姨长期熬夜刷短剧，中招“眼中风”险失明",
         "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723277.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国石化在COP17发布首份全球生物多样性保护报告",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723270.shtml",
         "publishedAt": "2026-10-30T13:43:06.000+08:00"
-      },
-      {
-        "title": "官方谈《决定》部署：坚决清除对党不忠、阳奉阴违、以权谋私的人",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723266.shtml",
-        "publishedAt": "2026-10-30T13:39:30.000+08:00"
-      },
-      {
-        "title": "寻根燕都文脉 艺术视角助力北京琉璃河遗址国际传播",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723262.shtml",
-        "publishedAt": "2026-10-30T13:38:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T13:50:04.037+08:00",
+    "fetchedAt": "2026-10-30T14:00:04.946+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T13:50:08.356+08:00",
+      "fetchedAt": "2026-10-30T14:00:10.476+08:00",
       "error": null
     },
     "codex": {
@@ -74,11 +74,11 @@ window.DASH_DATA = {
         },
         {
           "name": "周",
-          "usedPct": 24,
+          "usedPct": 25,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T13:50:08.622+08:00",
+      "fetchedAt": "2026-10-30T14:00:10.813+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T13:50:08.631+08:00",
+      "fetchedAt": "2026-10-30T14:00:10.823+08:00",
       "error": null
     }
   }
