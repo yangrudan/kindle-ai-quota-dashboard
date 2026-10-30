@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T17:00:09.589+08:00",
+  "updatedAt": "2026-10-30T17:10:10.542+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-30T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T17:00:09.589+08:00",
+    "fetchedAt": "2026-10-30T17:10:10.542+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "截至目前，全国累计办理婚姻登记“全国通办”101.4万对",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723436.shtml",
-        "publishedAt": "2026-10-30T16:54:28.000+08:00"
+        "title": "世界数据组织航运贸易数字化专业委员会在沪成立",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723449.shtml",
+        "publishedAt": "2026-10-30T17:02:57.000+08:00"
       },
       {
-        "title": "上海警方推出31条举措便利进博会展客商",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723439.shtml",
-        "publishedAt": "2026-10-30T16:53:40.000+08:00"
+        "title": "涉供暖季这些高发纠纷，最高法发布典型案例",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-30/10723457.shtml",
+        "publishedAt": "2026-10-30T17:02:13.000+08:00"
       },
       {
-        "title": "我军首型舰载察打一体隐身无人机在四川舰成功起降",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723456.shtml",
-        "publishedAt": "2026-10-30T16:53:34.000+08:00"
+        "title": "国内首个百万千瓦级“两个联营”示范项目首台机组在宁夏固原投运",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723432.shtml",
+        "publishedAt": "2026-10-30T17:02:11.000+08:00"
       },
       {
-        "title": "习近平同德国总统施泰因迈尔会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723454.shtml",
-        "publishedAt": "2026-10-30T16:51:30.000+08:00"
+        "title": "中国气象局在2026全球数商大会上发布两项重大成果",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-30/10723443.shtml",
+        "publishedAt": "2026-10-30T17:01:09.000+08:00"
       },
       {
-        "title": "上海持续发力 推动中国标准走向国际",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723448.shtml",
-        "publishedAt": "2026-10-30T16:49:40.000+08:00"
+        "title": "全国首个长三角区域船舶联合审图中心在沪揭牌",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723447.shtml",
+        "publishedAt": "2026-10-30T17:00:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T17:00:04.354+08:00",
+    "fetchedAt": "2026-10-30T17:10:04.394+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T17:00:08.110+08:00",
+      "fetchedAt": "2026-10-30T17:10:08.974+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T17:00:08.408+08:00",
+      "fetchedAt": "2026-10-30T17:10:09.287+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T17:00:08.413+08:00",
+      "fetchedAt": "2026-10-30T17:10:09.294+08:00",
       "error": null
     }
   }
