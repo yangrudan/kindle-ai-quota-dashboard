@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T06:50:10.542+08:00",
+  "updatedAt": "2026-10-31T07:00:40.300+08:00",
   "weather": {
     "ok": true,
     "description": "雾",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 15.2,
     "feelsLikeC": 16.5,
     "humidity": 99,
-    "windKph": 2.8,
+    "windKph": 2.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-31T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T06:50:10.542+08:00",
+    "observedAt": "2026-10-31T07:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T07:00:40.300+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723724.shtml",
+        "publishedAt": "2026-10-31T06:53:02.000+08:00"
+      },
+      {
+        "title": "美使馆称美国务院已要求非紧急岗位人员离开沙特",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723723.shtml",
+        "publishedAt": "2026-10-31T06:50:24.000+08:00"
+      },
       {
         "title": "奥列什基人道主义任务完成 俄乌均未违反停火制度",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723722.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "CBA深圳队外援史密斯因兴奋剂检测呈阳性被暂时禁赛",
         "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723719.shtml",
         "publishedAt": "2026-10-31T06:48:02.000+08:00"
-      },
-      {
-        "title": "国际金价跌破每盎司3900美元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723718.shtml",
-        "publishedAt": "2026-10-31T06:44:30.000+08:00"
-      },
-      {
-        "title": "俄罗斯总统助理：俄美已开始磋商三方会谈的具体日期",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723717.shtml",
-        "publishedAt": "2026-10-31T06:41:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T06:50:03.713+08:00",
+    "fetchedAt": "2026-10-31T07:00:04.165+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T06:50:07.505+08:00",
+      "fetchedAt": "2026-10-31T07:00:37.818+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T11:50:08.000+08:00"
+          "resetAt": "2026-10-31T12:00:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T06:50:07.883+08:00",
+      "fetchedAt": "2026-10-31T07:00:38.091+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T06:50:07.892+08:00",
+      "fetchedAt": "2026-10-31T07:00:38.096+08:00",
       "error": null
     }
   }
