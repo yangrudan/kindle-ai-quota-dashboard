@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T10:00:10.358+08:00",
+  "updatedAt": "2026-10-30T10:10:14.810+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-30T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T10:00:10.358+08:00",
+    "fetchedAt": "2026-10-30T10:10:14.810+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一个最被忽视的日常习惯，竟能降低多种疾病风险",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723136.shtml",
-        "publishedAt": "2026-10-30T09:51:15.000+08:00"
+        "title": "中共中央就党的二十届五中全会精神举行新闻发布会",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723151.shtml",
+        "publishedAt": "2026-10-30T10:03:12.000+08:00"
       },
       {
-        "title": "亚冠二级联赛小组赛：中国香港大埔队不敌泰国巴吞联队",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723131.shtml",
-        "publishedAt": "2026-10-30T09:49:31.000+08:00"
+        "title": "直播：中共中央举行新闻发布会 介绍和解读党的二十届五中全会精神",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-30/10723150.shtml",
+        "publishedAt": "2026-10-30T10:02:38.000+08:00"
       },
       {
-        "title": "再访尼泊尔“8·26”泥石流努瓦果德县灾区",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723133.shtml",
-        "publishedAt": "2026-10-30T09:49:11.000+08:00"
+        "title": "国家统计局：前三季度文化企业营业收入稳步增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723127.shtml",
+        "publishedAt": "2026-10-30T09:59:44.000+08:00"
       },
       {
-        "title": "海南自贸港再迎政策支持 16条举措助力发展→",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723135.shtml",
-        "publishedAt": "2026-10-30T09:48:51.000+08:00"
+        "title": "一条爆款视频带来的订单，师傅们足足做了3年",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723144.shtml",
+        "publishedAt": "2026-10-30T09:56:22.000+08:00"
       },
       {
-        "title": "10月30日央行开展150亿元7天期逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723126.shtml",
-        "publishedAt": "2026-10-30T09:48:35.000+08:00"
+        "title": "A股开盘：超4900只个股飘绿，三大指数集体低开",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723142.shtml",
+        "publishedAt": "2026-10-30T09:54:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T10:00:04.059+08:00",
+    "fetchedAt": "2026-10-30T10:10:04.363+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T10:00:08.830+08:00",
+      "fetchedAt": "2026-10-30T10:10:13.041+08:00",
       "error": null
     },
     "codex": {
@@ -74,11 +74,11 @@ window.DASH_DATA = {
         },
         {
           "name": "周",
-          "usedPct": 14,
+          "usedPct": 15,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T10:00:09.101+08:00",
+      "fetchedAt": "2026-10-30T10:10:13.305+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T10:00:09.113+08:00",
+      "fetchedAt": "2026-10-30T10:10:13.319+08:00",
       "error": null
     }
   }
