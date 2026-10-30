@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T18:30:38.971+08:00",
+  "updatedAt": "2026-10-30T18:40:41.139+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-30T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T18:30:38.971+08:00",
+    "fetchedAt": "2026-10-30T18:40:41.139+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "索玛花开暖彝乡 成医一附院科普团队走进盐源校园守护彝乡少年",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723512.shtml",
+        "publishedAt": "2026-10-30T18:28:17.000+08:00"
+      },
       {
         "title": "香港名媛蔡天凤碎尸案最新进展：蔡天凤前公公当庭认罪",
         "url": "https://www.chinanews.com.cn/fz/2026/10-30/10723517.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2025全球体验指数报告发布 华强方特连续3年位列全球第二",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723500.shtml",
         "publishedAt": "2026-10-30T18:25:39.000+08:00"
-      },
-      {
-        "title": "百度APP发布四大AI升级，搜索已实现递归自我进化",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723499.shtml",
-        "publishedAt": "2026-10-30T18:20:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T18:30:04.091+08:00",
+    "fetchedAt": "2026-10-30T18:40:05.864+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T18:30:37.544+08:00",
+      "fetchedAt": "2026-10-30T18:40:39.833+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T18:30:37.794+08:00",
+      "fetchedAt": "2026-10-30T18:40:40.070+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T18:30:37.797+08:00",
+      "fetchedAt": "2026-10-30T18:40:40.079+08:00",
       "error": null
     }
   }
