@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T17:10:10.542+08:00",
+  "updatedAt": "2026-10-30T17:20:11.038+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.4,
-    "feelsLikeC": 23.4,
-    "humidity": 76,
+    "tempC": 21.1,
+    "feelsLikeC": 23,
+    "humidity": 77,
     "windKph": 3.1,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-30T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T17:10:10.542+08:00",
+    "observedAt": "2026-10-30T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T17:20:11.039+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "世界数据组织航运贸易数字化专业委员会在沪成立",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723449.shtml",
-        "publishedAt": "2026-10-30T17:02:57.000+08:00"
+        "title": "中国救捞完成第34批次南沙岛礁常态化值守换防",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723472.shtml",
+        "publishedAt": "2026-10-30T17:14:27.000+08:00"
       },
       {
-        "title": "涉供暖季这些高发纠纷，最高法发布典型案例",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-30/10723457.shtml",
-        "publishedAt": "2026-10-30T17:02:13.000+08:00"
+        "title": "十四届全国人大常委会第二十五次会议于11月2日至6日在北京举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723470.shtml",
+        "publishedAt": "2026-10-30T17:12:39.000+08:00"
       },
       {
-        "title": "国内首个百万千瓦级“两个联营”示范项目首台机组在宁夏固原投运",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723432.shtml",
-        "publishedAt": "2026-10-30T17:02:11.000+08:00"
+        "title": "社会事业全面发展 民生福祉取得新进步——2025年社会民生统计报告",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723464.shtml",
+        "publishedAt": "2026-10-30T17:10:15.000+08:00"
       },
       {
-        "title": "中国气象局在2026全球数商大会上发布两项重大成果",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-30/10723443.shtml",
-        "publishedAt": "2026-10-30T17:01:09.000+08:00"
+        "title": "第十六届中国国际薯业博览会·第十二届四川农业博览会在川开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723463.shtml",
+        "publishedAt": "2026-10-30T17:09:27.000+08:00"
       },
       {
-        "title": "全国首个长三角区域船舶联合审图中心在沪揭牌",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723447.shtml",
-        "publishedAt": "2026-10-30T17:00:57.000+08:00"
+        "title": "市场监管总局发布4项口腔护理用品国家标准",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723455.shtml",
+        "publishedAt": "2026-10-30T17:05:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T17:10:04.394+08:00",
+    "fetchedAt": "2026-10-30T17:20:04.920+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T17:10:08.974+08:00",
+      "fetchedAt": "2026-10-30T17:20:09.472+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T17:10:09.287+08:00",
+      "fetchedAt": "2026-10-30T17:20:09.872+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T17:10:09.294+08:00",
+      "fetchedAt": "2026-10-30T17:20:09.875+08:00",
       "error": null
     }
   }
