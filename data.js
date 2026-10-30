@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T09:10:40.093+08:00",
+  "updatedAt": "2026-10-30T09:20:17.093+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.7,
-    "feelsLikeC": 20.8,
-    "humidity": 73,
-    "windKph": 2.2,
-    "windDir": "北风",
+    "tempC": 20,
+    "feelsLikeC": 21.2,
+    "humidity": 71,
+    "windKph": 2.3,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T09:10:40.093+08:00",
+    "observedAt": "2026-10-30T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T09:20:17.093+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "针对美方无端攻击，中国驻墨西哥使馆发布严正声明",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723112.shtml",
+        "publishedAt": "2026-10-30T09:15:31.000+08:00"
+      },
+      {
+        "title": "警惕“中国AI跑偏论”",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-30/10723114.shtml",
+        "publishedAt": "2026-10-30T09:11:21.000+08:00"
+      },
       {
         "title": "西藏降雪进入核心影响时段 两股冷空气接连来袭北方多地冷上加冷",
         "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723111.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "去年共培育61.36万人 高素质农民助力乡村全面振兴",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723109.shtml",
         "publishedAt": "2026-10-30T08:38:49.000+08:00"
-      },
-      {
-        "title": "美媒：美国一高级将领被解职，涉嫌泄露涉伊朗战争机密",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723106.shtml",
-        "publishedAt": "2026-10-30T08:29:07.000+08:00"
-      },
-      {
-        "title": "西藏南部将有强雨雪天气 北方将有大风降温过程",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723103.shtml",
-        "publishedAt": "2026-10-30T08:17:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T09:10:04.778+08:00",
+    "fetchedAt": "2026-10-30T09:20:05.206+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T09:10:38.296+08:00",
+      "fetchedAt": "2026-10-30T09:20:14.486+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 2,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T09:10:38.651+08:00",
+      "fetchedAt": "2026-10-30T09:20:14.741+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T09:10:38.660+08:00",
+      "fetchedAt": "2026-10-30T09:20:14.755+08:00",
       "error": null
     }
   }
