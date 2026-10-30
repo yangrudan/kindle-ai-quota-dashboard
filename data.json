@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T15:10:38.927+08:00",
+  "updatedAt": "2026-10-30T15:20:12.177+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.5,
+    "tempC": 23.4,
     "feelsLikeC": 24.8,
     "humidity": 62,
-    "windKph": 4.2,
-    "windDir": "北风",
+    "windKph": 3.6,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T15:10:38.927+08:00",
+    "observedAt": "2026-10-30T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T15:20:12.177+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "唐方裕：二十届五中全会传递的信号主要有三个",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723308.shtml",
-        "publishedAt": "2026-10-30T15:04:42.000+08:00"
+        "title": "伊利业绩说明会：液奶四季度增长有望提速 深加工高价值产品持续放量",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723325.shtml",
+        "publishedAt": "2026-10-30T15:10:19.000+08:00"
       },
       {
-        "title": "萨尔瓦多前总统萨卡刑满释放 曾因贪污3亿美元公款入狱",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723293.shtml",
-        "publishedAt": "2026-10-30T15:02:44.000+08:00"
+        "title": "为什么你明明没买什么大件，钱却总是不翼而飞？",
+        "url": "https://www.chinanews.com.cn/life/2026/10-30/10723329.shtml",
+        "publishedAt": "2026-10-30T15:09:53.000+08:00"
       },
       {
-        "title": "最新民调显示支持对华合作是韩国社会的共识",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723286.shtml",
-        "publishedAt": "2026-10-30T15:02:04.000+08:00"
+        "title": "奥地利总理施托克尔将访华",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723330.shtml",
+        "publishedAt": "2026-10-30T15:09:31.000+08:00"
       },
       {
-        "title": "从火线急救到野战手术 多级卫勤力量打通战场救治链",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723324.shtml",
-        "publishedAt": "2026-10-30T15:00:48.000+08:00"
+        "title": "启元第5000台个人机器人下线 欧菲光全栈感知方案助力量产提速",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723321.shtml",
+        "publishedAt": "2026-10-30T15:09:29.000+08:00"
       },
       {
-        "title": "消息人士：五角大楼官员要求欧洲缓和对俄言辞",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723323.shtml",
-        "publishedAt": "2026-10-30T14:59:22.000+08:00"
+        "title": "确诊重疾2天到账2万，贝壳因“守护金”被列为2026责任品牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723322.shtml",
+        "publishedAt": "2026-10-30T15:08:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T15:10:03.923+08:00",
+    "fetchedAt": "2026-10-30T15:20:03.057+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T15:10:37.475+08:00",
+      "fetchedAt": "2026-10-30T15:20:10.169+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 38,
+          "usedPct": 94,
           "resetAt": "2026-10-30T19:11:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 31,
+          "usedPct": 40,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T15:10:37.937+08:00",
+      "fetchedAt": "2026-10-30T15:20:10.500+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T15:10:37.946+08:00",
+      "fetchedAt": "2026-10-30T15:20:10.515+08:00",
       "error": null
     }
   }
