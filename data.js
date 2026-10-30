@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T20:20:39.055+08:00",
+  "updatedAt": "2026-10-30T20:30:11.119+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.6,
-    "feelsLikeC": 20.1,
-    "humidity": 87,
-    "windKph": 4.1,
+    "tempC": 18.5,
+    "feelsLikeC": 20.2,
+    "humidity": 88,
+    "windKph": 3.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T20:20:39.055+08:00",
+    "observedAt": "2026-10-30T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T20:30:11.119+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国人寿前三季度剔除短期波动影响后的净利润同比增长15.8%，发展韧性持续彰显",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723558.shtml",
-        "publishedAt": "2026-10-30T20:17:47.000+08:00"
+        "title": "印尼爪哇野牛诞下第三只幼崽",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723583.shtml",
+        "publishedAt": "2026-10-30T20:29:00.000+08:00"
       },
       {
-        "title": "川渝黔53家科普场馆协同联动 “科普列车川渝黔行”收官",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723557.shtml",
-        "publishedAt": "2026-10-30T20:14:49.000+08:00"
+        "title": "法学名家齐聚上海 共研海洋强国与涉外法治",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723574.shtml",
+        "publishedAt": "2026-10-30T20:27:20.000+08:00"
       },
       {
-        "title": "中国贸促会：中美工商界正形成“双向奔赴”的良性互动",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723588.shtml",
-        "publishedAt": "2026-10-30T20:14:07.000+08:00"
+        "title": "新疆好物在上海遇见新知音",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723576.shtml",
+        "publishedAt": "2026-10-30T20:25:54.000+08:00"
       },
       {
-        "title": "中国军队首型舰载察打一体隐身无人机在四川舰成功起降",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723587.shtml",
-        "publishedAt": "2026-10-30T20:12:33.000+08:00"
+        "title": "北京发布人工智能赋能基础教育应用蓝皮书",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-30/10723575.shtml",
+        "publishedAt": "2026-10-30T20:24:46.000+08:00"
       },
       {
-        "title": "国务院任免国家工作人员",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723597.shtml",
-        "publishedAt": "2026-10-30T20:12:03.000+08:00"
+        "title": "荷源网储一体赋能 无锡东港打造苏南园区储能可复制样板",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723563.shtml",
+        "publishedAt": "2026-10-30T20:22:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T20:20:03.185+08:00",
+    "fetchedAt": "2026-10-30T20:30:04.586+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T20:20:37.032+08:00",
+      "fetchedAt": "2026-10-30T20:30:09.156+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T01:20:38.000+08:00"
+          "resetAt": "2026-10-31T01:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T20:20:37.295+08:00",
+      "fetchedAt": "2026-10-30T20:30:09.394+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T20:20:37.298+08:00",
+      "fetchedAt": "2026-10-30T20:30:09.402+08:00",
       "error": null
     }
   }
