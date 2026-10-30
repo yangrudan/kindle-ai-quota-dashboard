@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T11:40:49.310+08:00",
+  "updatedAt": "2026-10-30T11:50:13.449+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 22,
     "feelsLikeC": 23,
     "humidity": 66,
-    "windKph": 4.7,
+    "windKph": 5.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T11:40:49.310+08:00",
+    "observedAt": "2026-10-30T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T11:50:13.450+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "台湾学者：中华文化创新表达增强两岸交流韧性",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723204.shtml",
-        "publishedAt": "2026-10-30T11:23:04.000+08:00"
+        "title": "黄建发：《决定》部署突出抓好新兴领域党的建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723215.shtml",
+        "publishedAt": "2026-10-30T11:43:58.000+08:00"
       },
       {
-        "title": "首届中俄中学生篮球邀请赛落地东宁",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723200.shtml",
-        "publishedAt": "2026-10-30T11:22:08.000+08:00"
+        "title": "今年前9个月我国进出口食品同比增长4.1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723232.shtml",
+        "publishedAt": "2026-10-30T11:43:01.000+08:00"
       },
       {
-        "title": "第十届中非青年大联欢在京启幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723206.shtml",
-        "publishedAt": "2026-10-30T11:21:24.000+08:00"
+        "title": "依托“全国通办” 海南打造婚旅特色名片",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723221.shtml",
+        "publishedAt": "2026-10-30T11:39:47.000+08:00"
       },
       {
-        "title": "四川绵阳：气象“保姆”盯紧花期，制种稻逆势增产",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723209.shtml",
-        "publishedAt": "2026-10-30T11:20:02.000+08:00"
+        "title": "海南做实涉外婚姻特色服务",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723219.shtml",
+        "publishedAt": "2026-10-30T11:39:13.000+08:00"
       },
       {
-        "title": "唐方裕：《决定》分为三大板块",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723207.shtml",
-        "publishedAt": "2026-10-30T11:19:42.000+08:00"
+        "title": "澳大利亚汉学家魏华德：“长征改变了我的人生”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723218.shtml",
+        "publishedAt": "2026-10-30T11:37:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T11:40:13.689+08:00",
+    "fetchedAt": "2026-10-30T11:50:04.113+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T11:40:47.621+08:00",
+      "fetchedAt": "2026-10-30T11:50:11.103+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 52,
+          "usedPct": 53,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T11:40:48.055+08:00",
+      "fetchedAt": "2026-10-30T11:50:11.420+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T11:40:48.063+08:00",
+      "fetchedAt": "2026-10-30T11:50:11.437+08:00",
       "error": null
     }
   }
