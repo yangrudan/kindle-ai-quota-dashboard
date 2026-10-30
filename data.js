@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T12:50:38.939+08:00",
+  "updatedAt": "2026-10-30T13:00:40.697+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.5,
-    "feelsLikeC": 23.4,
+    "tempC": 22.6,
+    "feelsLikeC": 23.5,
     "humidity": 64,
-    "windKph": 5.9,
+    "windKph": 6.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T12:50:38.939+08:00",
+    "observedAt": "2026-10-30T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T13:00:40.698+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美媒曝：特朗普施压下，乌克兰已暂停袭击俄罗斯炼油厂",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723243.shtml",
+        "publishedAt": "2026-10-30T12:54:21.000+08:00"
+      },
+      {
+        "title": "全国首个长三角区域船舶联合审图中心在沪成立",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723242.shtml",
+        "publishedAt": "2026-10-30T12:51:33.000+08:00"
+      },
       {
         "title": "茉莉奶白门店回应联名玻璃杯爆裂：可退款回收",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723241.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "《非居民企业机构、场所企业所得税管理办法（征求意见稿）》公布",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723227.shtml",
         "publishedAt": "2026-10-30T12:32:36.000+08:00"
-      },
-      {
-        "title": "山西晋中“十五五”锚定先进制造业：2030年省级产业链营收力争破千亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723228.shtml",
-        "publishedAt": "2026-10-30T12:32:24.000+08:00"
-      },
-      {
-        "title": "广西提升涉外法律服务质效 加快打造制度型开放新高地",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723226.shtml",
-        "publishedAt": "2026-10-30T12:30:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T12:50:03.208+08:00",
+    "fetchedAt": "2026-10-30T13:00:04.288+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T12:50:37.748+08:00",
+      "fetchedAt": "2026-10-30T13:00:39.020+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 63,
+          "usedPct": 64,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 23,
+          "usedPct": 24,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T12:50:37.950+08:00",
+      "fetchedAt": "2026-10-30T13:00:39.404+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T12:50:37.959+08:00",
+      "fetchedAt": "2026-10-30T13:00:39.413+08:00",
       "error": null
     }
   }
