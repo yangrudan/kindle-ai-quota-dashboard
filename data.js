@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T07:40:08.917+08:00",
+  "updatedAt": "2026-10-31T07:50:39.863+08:00",
   "weather": {
     "ok": true,
     "description": "雾",
     "iconKey": "fog",
-    "tempC": 15.4,
-    "feelsLikeC": 16.9,
+    "tempC": 15.6,
+    "feelsLikeC": 17.1,
     "humidity": 99,
-    "windKph": 2.2,
-    "windDir": "北风",
+    "windKph": 1.8,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-31T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T07:40:08.917+08:00",
+    "observedAt": "2026-10-31T07:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T07:50:39.863+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "10月31日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-31/10723726.shtml",
-        "publishedAt": "2026-10-31T07:02:23.000+08:00"
+        "title": "“中国最冷小镇”呼中迎暴雪 正式开启入冬模式",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723732.shtml",
+        "publishedAt": "2026-10-31T07:46:35.000+08:00"
       },
       {
-        "title": "中欧两大商会举办对话会 探讨推动中欧贸易向上平衡",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723725.shtml",
-        "publishedAt": "2026-10-31T07:00:33.000+08:00"
+        "title": "近800名粤港澳青少年齐聚深圳“以武会友”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723737.shtml",
+        "publishedAt": "2026-10-31T07:46:33.000+08:00"
       },
       {
-        "title": "18件高棉文物回归柬埔寨",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723721.shtml",
-        "publishedAt": "2026-10-31T06:59:35.000+08:00"
+        "title": "依托二十四节气 河南深化与东盟粮农合作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723736.shtml",
+        "publishedAt": "2026-10-31T07:46:31.000+08:00"
       },
       {
-        "title": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723724.shtml",
-        "publishedAt": "2026-10-31T06:53:02.000+08:00"
+        "title": "天冷蜱虫活跃度下降 专家提醒防范意识勿“降温”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723735.shtml",
+        "publishedAt": "2026-10-31T07:46:25.000+08:00"
       },
       {
-        "title": "美使馆称美国务院已要求非紧急岗位人员离开沙特",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723723.shtml",
-        "publishedAt": "2026-10-31T06:50:24.000+08:00"
+        "title": "“水、陆、铁”轮番接力！渝黔背靠背联网工程首台换流变压器运抵施工现场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723734.shtml",
+        "publishedAt": "2026-10-31T07:46:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T07:40:03.183+08:00",
+    "fetchedAt": "2026-10-31T07:50:03.245+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T07:40:07.662+08:00",
+      "fetchedAt": "2026-10-31T07:50:38.348+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T12:40:08.000+08:00"
+          "resetAt": "2026-10-31T12:50:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T07:40:07.925+08:00",
+      "fetchedAt": "2026-10-31T07:50:38.602+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T07:40:07.931+08:00",
+      "fetchedAt": "2026-10-31T07:50:38.609+08:00",
       "error": null
     }
   }
