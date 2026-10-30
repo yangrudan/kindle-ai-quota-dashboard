@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T14:20:10.184+08:00",
+  "updatedAt": "2026-10-30T14:30:09.765+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.2,
-    "feelsLikeC": 24.4,
+    "tempC": 23.3,
+    "feelsLikeC": 24.6,
     "humidity": 62,
-    "windKph": 4.6,
+    "windKph": 3.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T14:20:10.184+08:00",
+    "observedAt": "2026-10-30T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T14:30:09.765+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西安出台商品房销售新政",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723278.shtml",
-        "publishedAt": "2026-10-30T14:08:27.000+08:00"
+        "title": "中方决定将APEC商务旅行卡持卡人在华最长停留期延长至90天",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723303.shtml",
+        "publishedAt": "2026-10-30T14:24:40.000+08:00"
       },
       {
-        "title": "早上难醒 白天犯困？这不是懒！简单几步助你一天好状态",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723290.shtml",
-        "publishedAt": "2026-10-30T14:06:13.000+08:00"
+        "title": "粤港澳大湾区青少年球员齐聚佛山“以球会友”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723301.shtml",
+        "publishedAt": "2026-10-30T14:24:12.000+08:00"
       },
       {
-        "title": "探访河南开封州桥遗址",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723284.shtml",
-        "publishedAt": "2026-10-30T14:03:27.000+08:00"
+        "title": "云南省商务厅为机电产品出海“问诊”",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723306.shtml",
+        "publishedAt": "2026-10-30T14:22:52.000+08:00"
       },
       {
-        "title": "国产大飞机南航C919首次在大湾区执飞SAF航班",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723281.shtml",
-        "publishedAt": "2026-10-30T13:58:11.000+08:00"
+        "title": "新疆迎来“包邮时代” 包裹翻越天山 跨越数千公里送达",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723305.shtml",
+        "publishedAt": "2026-10-30T14:22:40.000+08:00"
       },
       {
-        "title": "美国突发直升机相撞事故 致3人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723283.shtml",
-        "publishedAt": "2026-10-30T13:58:03.000+08:00"
+        "title": "当一个传统蚝村把“蚝”从产品变成场景",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723297.shtml",
+        "publishedAt": "2026-10-30T14:21:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T14:20:03.533+08:00",
+    "fetchedAt": "2026-10-30T14:30:04.125+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T14:20:08.703+08:00",
+      "fetchedAt": "2026-10-30T14:30:08.346+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 14,
           "resetAt": "2026-10-30T19:11:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 25,
+          "usedPct": 27,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T14:20:09.021+08:00",
+      "fetchedAt": "2026-10-30T14:30:08.660+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T14:20:09.030+08:00",
+      "fetchedAt": "2026-10-30T14:30:08.664+08:00",
       "error": null
     }
   }
