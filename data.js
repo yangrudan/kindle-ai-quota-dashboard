@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T20:30:11.119+08:00",
+  "updatedAt": "2026-10-30T20:40:39.545+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-30T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T20:30:11.119+08:00",
+    "fetchedAt": "2026-10-30T20:40:39.546+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "印尼爪哇野牛诞下第三只幼崽",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723583.shtml",
-        "publishedAt": "2026-10-30T20:29:00.000+08:00"
+        "title": "报告显示：中国知识产权保护指数升至全球第6位",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723572.shtml",
+        "publishedAt": "2026-10-30T20:33:42.000+08:00"
       },
       {
-        "title": "法学名家齐聚上海 共研海洋强国与涉外法治",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723574.shtml",
-        "publishedAt": "2026-10-30T20:27:20.000+08:00"
+        "title": "香港延长APEC商务旅行卡持有人入境逗留期限",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723582.shtml",
+        "publishedAt": "2026-10-30T20:33:38.000+08:00"
       },
       {
-        "title": "新疆好物在上海遇见新知音",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723576.shtml",
-        "publishedAt": "2026-10-30T20:25:54.000+08:00"
+        "title": "广东茂名前三季度对APEC其他成员经济体进出口增逾五成",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723579.shtml",
+        "publishedAt": "2026-10-30T20:31:46.000+08:00"
       },
       {
-        "title": "北京发布人工智能赋能基础教育应用蓝皮书",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-30/10723575.shtml",
-        "publishedAt": "2026-10-30T20:24:46.000+08:00"
+        "title": "《天津市突发事件应对条例》11月起施行 强化京津冀协同应急",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723578.shtml",
+        "publishedAt": "2026-10-30T20:31:40.000+08:00"
       },
       {
-        "title": "荷源网储一体赋能 无锡东港打造苏南园区储能可复制样板",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723563.shtml",
-        "publishedAt": "2026-10-30T20:22:39.000+08:00"
+        "title": "北京首条滨河半马赛道亮相 11月1日迎“首秀”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723570.shtml",
+        "publishedAt": "2026-10-30T20:31:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T20:30:04.586+08:00",
+    "fetchedAt": "2026-10-30T20:40:03.804+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T20:30:09.156+08:00",
+      "fetchedAt": "2026-10-30T20:40:38.371+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T01:30:10.000+08:00"
+          "resetAt": "2026-10-31T01:40:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T20:30:09.394+08:00",
+      "fetchedAt": "2026-10-30T20:40:38.634+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T20:30:09.402+08:00",
+      "fetchedAt": "2026-10-30T20:40:38.641+08:00",
       "error": null
     }
   }
