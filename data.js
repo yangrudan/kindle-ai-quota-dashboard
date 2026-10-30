@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T23:50:39.625+08:00",
+  "updatedAt": "2026-10-31T00:00:41.792+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.4,
-    "feelsLikeC": 17.9,
+    "tempC": 16.3,
+    "feelsLikeC": 17.7,
     "humidity": 94,
-    "windKph": 2.4,
+    "windKph": 2.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T23:50:39.626+08:00",
+    "observedAt": "2026-10-31T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T00:00:41.792+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习近平会见瑞士联邦主席帕姆兰",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723657.shtml",
-        "publishedAt": "2026-10-30T23:28:12.000+08:00"
+        "title": "“创业式接班”成新选择 海外“企二代”在沪探寻转型工具箱",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-30/10723682.shtml",
+        "publishedAt": "2026-10-30T23:51:53.000+08:00"
       },
       {
-        "title": "习近平同德国总统施泰因迈尔会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723656.shtml",
-        "publishedAt": "2026-10-30T23:28:02.000+08:00"
+        "title": "第27届中国国际教育年会在北京举行 泰国首任主宾国",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723680.shtml",
+        "publishedAt": "2026-10-30T23:51:51.000+08:00"
       },
       {
-        "title": "中国与瑞士签署自贸协定升级议定书",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723668.shtml",
-        "publishedAt": "2026-10-30T23:27:10.000+08:00"
+        "title": "从百岁到青春：四代人手中的选票",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723674.shtml",
+        "publishedAt": "2026-10-30T23:51:47.000+08:00"
       },
       {
-        "title": "商务部国际司负责人解读中国—瑞士自由贸易协定升级议定书",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723669.shtml",
-        "publishedAt": "2026-10-30T23:26:22.000+08:00"
+        "title": "澳门前三季度GDP初步数值达3161.3亿澳门元 同比实质增长2.9%",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723678.shtml",
+        "publishedAt": "2026-10-30T23:50:53.000+08:00"
       },
       {
-        "title": "咽喉不适做CT，意外揪出腹腔“定时炸弹”！这个病，不痛不痒却可能大出血！",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723663.shtml",
-        "publishedAt": "2026-10-30T22:25:50.000+08:00"
+        "title": "殷玉珍、白帆与“赛考斯”云端重逢 吁为中美教育交流搭桥",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723676.shtml",
+        "publishedAt": "2026-10-30T23:50:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T23:50:03.637+08:00",
+    "fetchedAt": "2026-10-31T00:00:05.515+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T23:50:38.095+08:00",
+      "fetchedAt": "2026-10-31T00:00:40.497+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T04:50:39.000+08:00"
+          "resetAt": "2026-10-31T05:00:41.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T23:50:38.468+08:00",
+      "fetchedAt": "2026-10-31T00:00:40.800+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T23:50:38.477+08:00",
+      "fetchedAt": "2026-10-31T00:00:40.809+08:00",
       "error": null
     }
   }
