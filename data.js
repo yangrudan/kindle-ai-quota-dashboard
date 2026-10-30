@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T22:20:08.700+08:00",
+  "updatedAt": "2026-10-30T22:30:19.113+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-30T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T22:20:08.700+08:00",
+    "fetchedAt": "2026-10-30T22:30:19.114+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "赵乐际会见德国总统施泰因迈尔",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209282.shtml",
+        "publishedAt": "2026-10-30T22:17:37.000+08:00"
+      },
       {
         "title": "习近平同德国总统施泰因迈尔会谈",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209279.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "10月30日夜读",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-30/10723658.shtml",
         "publishedAt": "2026-10-30T21:56:51.000+08:00"
-      },
-      {
-        "title": "三部门增加调拨1000套中央救灾物资板房 保障西藏受灾群众安全温暖过冬",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723655.shtml",
-        "publishedAt": "2026-10-30T21:53:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T22:20:03.812+08:00",
+    "fetchedAt": "2026-10-30T22:30:12.138+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T22:20:07.516+08:00",
+      "fetchedAt": "2026-10-30T22:30:16.775+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T03:20:08.000+08:00"
+          "resetAt": "2026-10-31T03:30:19.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T22:20:07.717+08:00",
+      "fetchedAt": "2026-10-30T22:30:16.994+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T22:20:07.726+08:00",
+      "fetchedAt": "2026-10-30T22:30:17.005+08:00",
       "error": null
     }
   }
