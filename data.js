@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T11:50:13.449+08:00",
+  "updatedAt": "2026-10-30T12:00:09.060+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-30T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T11:50:13.450+08:00",
+    "fetchedAt": "2026-10-30T12:00:09.060+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "瑞士联邦主席帕姆兰抵达北京 开启访华行程",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723223.shtml",
+        "publishedAt": "2026-10-30T11:47:28.000+08:00"
+      },
       {
         "title": "黄建发：《决定》部署突出抓好新兴领域党的建设",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723215.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "海南做实涉外婚姻特色服务",
         "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723219.shtml",
         "publishedAt": "2026-10-30T11:39:13.000+08:00"
-      },
-      {
-        "title": "澳大利亚汉学家魏华德：“长征改变了我的人生”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723218.shtml",
-        "publishedAt": "2026-10-30T11:37:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T11:50:04.113+08:00",
+    "fetchedAt": "2026-10-30T12:00:03.249+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T11:50:11.103+08:00",
+      "fetchedAt": "2026-10-30T12:00:07.776+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 53,
+          "usedPct": 56,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T11:50:11.420+08:00",
+      "fetchedAt": "2026-10-30T12:00:08.089+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T11:50:11.437+08:00",
+      "fetchedAt": "2026-10-30T12:00:08.098+08:00",
       "error": null
     }
   }
