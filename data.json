@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T18:50:47.380+08:00",
+  "updatedAt": "2026-10-30T19:00:09.787+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.9,
-    "feelsLikeC": 21.9,
-    "humidity": 81,
-    "windKph": 2,
-    "windDir": "东南风",
+    "tempC": 19.7,
+    "feelsLikeC": 21.6,
+    "humidity": 82,
+    "windKph": 2.1,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-30T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T18:50:47.381+08:00",
+    "observedAt": "2026-10-30T19:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T19:00:09.787+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "山西偏关接力荒山植绿 生态赋能富民振兴",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723521.shtml",
+        "publishedAt": "2026-10-30T18:58:37.000+08:00"
+      },
+      {
+        "title": "太原机场三期改扩建工程T3航站楼项目通过竣工验收",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723520.shtml",
+        "publishedAt": "2026-10-30T18:58:01.000+08:00"
+      },
+      {
+        "title": "国家药监局印发《医疗器械生产质量管理规范独立软件检查指导原则》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723535.shtml",
+        "publishedAt": "2026-10-30T18:49:18.000+08:00"
+      },
       {
         "title": "安徽省能源集团有限公司原党委书记、董事长朱宜存被开除党籍",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723527.shtml",
@@ -28,24 +43,9 @@
         "title": "12月25日起实施 市场监管总局发布《超短波治疗机校准规范》",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723531.shtml",
         "publishedAt": "2026-10-30T18:37:28.000+08:00"
-      },
-      {
-        "title": "上海实业（集团）有限公司原副董事长葛大维接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723508.shtml",
-        "publishedAt": "2026-10-30T18:36:56.000+08:00"
-      },
-      {
-        "title": "安徽省能源集团有限公司原董事长朱宜存被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723506.shtml",
-        "publishedAt": "2026-10-30T18:36:50.000+08:00"
-      },
-      {
-        "title": "华电山西能源有限公司原党组书记焦荣幸接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723503.shtml",
-        "publishedAt": "2026-10-30T18:36:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T18:50:12.657+08:00",
+    "fetchedAt": "2026-10-30T19:00:05.038+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T18:50:46.095+08:00",
+      "fetchedAt": "2026-10-30T19:00:08.603+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T18:50:46.358+08:00",
+      "fetchedAt": "2026-10-30T19:00:08.828+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T18:50:46.364+08:00",
+      "fetchedAt": "2026-10-30T19:00:08.833+08:00",
       "error": null
     }
   }
