@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T16:50:08.974+08:00",
+  "updatedAt": "2026-10-30T17:00:09.589+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.8,
-    "feelsLikeC": 23.7,
-    "humidity": 73,
-    "windKph": 3,
+    "tempC": 21.4,
+    "feelsLikeC": 23.4,
+    "humidity": 76,
+    "windKph": 3.1,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-30T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T16:50:08.975+08:00",
+    "observedAt": "2026-10-30T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T17:00:09.589+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "张福海谈中国特色反腐败之路：新时代反腐败斗争始终坚持标本兼治、系统施治",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723398.shtml",
-        "publishedAt": "2026-10-30T16:41:19.000+08:00"
+        "title": "截至目前，全国累计办理婚姻登记“全国通办”101.4万对",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723436.shtml",
+        "publishedAt": "2026-10-30T16:54:28.000+08:00"
       },
       {
-        "title": "谢春涛：《决定》部署增强制度执行力，大力破除潜规则",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723381.shtml",
-        "publishedAt": "2026-10-30T16:40:23.000+08:00"
+        "title": "上海警方推出31条举措便利进博会展客商",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723439.shtml",
+        "publishedAt": "2026-10-30T16:53:40.000+08:00"
       },
       {
-        "title": "李东宪驳斥“病危”相关报道：部分岛内媒体为博流量肆意炮制谣言",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723407.shtml",
-        "publishedAt": "2026-10-30T16:40:05.000+08:00"
+        "title": "我军首型舰载察打一体隐身无人机在四川舰成功起降",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723456.shtml",
+        "publishedAt": "2026-10-30T16:53:34.000+08:00"
       },
       {
-        "title": "智联赋能产业升级 第二十六届武汉国际车展启幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723428.shtml",
-        "publishedAt": "2026-10-30T16:39:05.000+08:00"
+        "title": "习近平同德国总统施泰因迈尔会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723454.shtml",
+        "publishedAt": "2026-10-30T16:51:30.000+08:00"
       },
       {
-        "title": "温馨提示！11月有这些考试，别错过→",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723430.shtml",
-        "publishedAt": "2026-10-30T16:38:57.000+08:00"
+        "title": "上海持续发力 推动中国标准走向国际",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723448.shtml",
+        "publishedAt": "2026-10-30T16:49:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T16:50:03.322+08:00",
+    "fetchedAt": "2026-10-30T17:00:04.354+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T16:50:07.615+08:00",
+      "fetchedAt": "2026-10-30T17:00:08.110+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T16:50:07.936+08:00",
+      "fetchedAt": "2026-10-30T17:00:08.408+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T16:50:07.941+08:00",
+      "fetchedAt": "2026-10-30T17:00:08.413+08:00",
       "error": null
     }
   }
