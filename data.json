@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T08:00:39.437+08:00",
+  "updatedAt": "2026-10-30T08:10:10.891+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-10-30T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T08:00:39.438+08:00",
+    "fetchedAt": "2026-10-30T08:10:10.892+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中共中央今天上午10时将举行新闻发布会，介绍和解读党的二十届五中全会精神",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723104.shtml",
+        "publishedAt": "2026-10-30T08:02:51.000+08:00"
+      },
+      {
+        "title": "2025年欧盟和欧元区宏观税负水平双双走高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723100.shtml",
+        "publishedAt": "2026-10-30T07:59:25.000+08:00"
+      },
       {
         "title": "身份证到期社保卡要换吗？关于社保卡这些知识需掌握→",
         "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723098.shtml",
@@ -33,19 +43,9 @@
         "title": "普京警告：若俄罗斯与欧洲真走到战争那一步，将不会有赢家",
         "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723099.shtml",
         "publishedAt": "2026-10-30T07:48:35.000+08:00"
-      },
-      {
-        "title": "这种“感冒”，千万不能大意",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723097.shtml",
-        "publishedAt": "2026-10-30T07:47:57.000+08:00"
-      },
-      {
-        "title": "CBA常规赛：北京控股队战胜四川锦城队",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209230.shtml",
-        "publishedAt": "2026-10-30T07:45:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T08:00:03.747+08:00",
+    "fetchedAt": "2026-10-30T08:10:04.196+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T08:00:37.710+08:00",
+      "fetchedAt": "2026-10-30T08:10:08.481+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T13:00:39.000+08:00"
+          "resetAt": "2026-10-30T13:10:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T08:00:38.525+08:00",
+      "fetchedAt": "2026-10-30T08:10:08.801+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T08:00:38.530+08:00",
+      "fetchedAt": "2026-10-30T08:10:08.809+08:00",
       "error": null
     }
   }
