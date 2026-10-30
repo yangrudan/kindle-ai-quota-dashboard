@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T00:30:11.873+08:00",
+  "updatedAt": "2026-10-31T00:40:09.508+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-31T00:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T00:30:11.873+08:00",
+    "fetchedAt": "2026-10-31T00:40:09.509+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李强会见德国总统施泰因迈尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723715.shtml",
+        "publishedAt": "2026-10-31T00:29:07.000+08:00"
+      },
+      {
+        "title": "纪录片《感恩东来爱香江》将在香港多校播出",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723708.shtml",
+        "publishedAt": "2026-10-31T00:26:51.000+08:00"
+      },
+      {
+        "title": "小赛场增进大团结 云南以体育促进各民族交往交流交融",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723711.shtml",
+        "publishedAt": "2026-10-31T00:26:19.000+08:00"
+      },
       {
         "title": "青海都兰：“蚕豆+”轮作解锁高原农业“绿色密码”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723710.shtml",
@@ -28,24 +43,9 @@
         "title": "“长征星火照东城”主题展览在北京开幕",
         "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723709.shtml",
         "publishedAt": "2026-10-31T00:25:59.000+08:00"
-      },
-      {
-        "title": "名家讲经典：万方、王可然谈经典戏剧的当代生命力",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723707.shtml",
-        "publishedAt": "2026-10-31T00:23:25.000+08:00"
-      },
-      {
-        "title": "蓬皮杜中心等三家机构在港缔结文化联盟 推动多元文化对话",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723706.shtml",
-        "publishedAt": "2026-10-31T00:23:07.000+08:00"
-      },
-      {
-        "title": "知名高校校友杭州行活动启幕 侨青“朋友圈”再扩容",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723704.shtml",
-        "publishedAt": "2026-10-31T00:23:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T00:30:04.061+08:00",
+    "fetchedAt": "2026-10-31T00:40:03.467+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T00:30:10.530+08:00",
+      "fetchedAt": "2026-10-31T00:40:08.247+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T05:30:11.000+08:00"
+          "resetAt": "2026-10-31T05:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T00:30:10.905+08:00",
+      "fetchedAt": "2026-10-31T00:40:08.567+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T00:30:10.911+08:00",
+      "fetchedAt": "2026-10-31T00:40:08.572+08:00",
       "error": null
     }
   }
