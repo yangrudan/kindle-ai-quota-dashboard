@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T13:10:08.082+08:00",
+  "updatedAt": "2026-10-30T13:20:08.716+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.6,
-    "feelsLikeC": 23.5,
-    "humidity": 64,
+    "tempC": 22.8,
+    "feelsLikeC": 23.7,
+    "humidity": 63,
     "windKph": 6.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T13:10:08.082+08:00",
+    "observedAt": "2026-10-30T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T13:20:08.716+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“空气消毒卡”除菌消杀率超99.99%？中消协：涉虚假宣传",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723251.shtml",
+        "publishedAt": "2026-10-30T13:12:40.000+08:00"
+      },
       {
         "title": "美媒曝：特朗普施压下，乌克兰已暂停袭击俄罗斯炼油厂",
         "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723243.shtml",
@@ -38,14 +43,9 @@
         "title": "（走进中国乡村）橘香越重洋 湖南石门拓宽“甜蜜”外销路",
         "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723236.shtml",
         "publishedAt": "2026-10-30T12:33:02.000+08:00"
-      },
-      {
-        "title": "《非居民企业机构、场所企业所得税管理办法（征求意见稿）》公布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723227.shtml",
-        "publishedAt": "2026-10-30T12:32:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T13:10:03.064+08:00",
+    "fetchedAt": "2026-10-30T13:20:03.755+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T13:10:06.811+08:00",
+      "fetchedAt": "2026-10-30T13:20:07.562+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 65,
+          "usedPct": 66,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T13:10:07.022+08:00",
+      "fetchedAt": "2026-10-30T13:20:07.771+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T13:10:07.032+08:00",
+      "fetchedAt": "2026-10-30T13:20:07.777+08:00",
       "error": null
     }
   }
