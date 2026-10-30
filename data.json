@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T19:40:08.386+08:00",
+  "updatedAt": "2026-10-30T19:50:08.899+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.2,
-    "feelsLikeC": 21,
-    "humidity": 84,
-    "windKph": 3.2,
+    "tempC": 19,
+    "feelsLikeC": 20.7,
+    "humidity": 85,
+    "windKph": 3.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T19:40:08.386+08:00",
+    "observedAt": "2026-10-30T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T19:50:08.899+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "歌舞诗《多彩贵州·风行天下》在台湾演出 获热烈回响",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723549.shtml",
-        "publishedAt": "2026-10-30T19:30:13.000+08:00"
+        "title": "中国与南非两国央行续签双边本币互换协议",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723559.shtml",
+        "publishedAt": "2026-10-30T19:44:59.000+08:00"
       },
       {
-        "title": "山东物探队“三维CT扫描”煤田 “透视”荒漠下的宝藏",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-30/10723548.shtml",
-        "publishedAt": "2026-10-30T19:27:39.000+08:00"
+        "title": "四川汉源：102岁老人李青秀一家四代参加县乡人大代表换届选举投票",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723537.shtml",
+        "publishedAt": "2026-10-30T19:42:59.000+08:00"
       },
       {
-        "title": "哈尔滨“百炉复兴”推动老锅炉房蝶变",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723547.shtml",
-        "publishedAt": "2026-10-30T19:26:42.000+08:00"
+        "title": "跳出利润表的短期起伏：从负债端\"成色\"读懂中国人寿三季报",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723561.shtml",
+        "publishedAt": "2026-10-30T19:42:41.000+08:00"
       },
       {
-        "title": "南航与阿斯塔纳航空签署联营协议 拟扩大航线合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723543.shtml",
-        "publishedAt": "2026-10-30T19:25:02.000+08:00"
+        "title": "规模之上看价值：解析中国人寿三季报的经营底盘",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723560.shtml",
+        "publishedAt": "2026-10-30T19:41:35.000+08:00"
       },
       {
-        "title": "不止筑巢引凤 天津产业援疆让和田跑出内生增长新速度",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723534.shtml",
-        "publishedAt": "2026-10-30T19:24:28.000+08:00"
+        "title": "山西前三季度社会融资规模存量达7.39万亿元 金融运行总体平稳",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723553.shtml",
+        "publishedAt": "2026-10-30T19:38:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T19:40:03.326+08:00",
+    "fetchedAt": "2026-10-30T19:50:03.501+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T19:40:07.219+08:00",
+      "fetchedAt": "2026-10-30T19:50:07.674+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T00:40:08.000+08:00"
+          "resetAt": "2026-10-31T00:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T19:40:07.486+08:00",
+      "fetchedAt": "2026-10-30T19:50:07.920+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T19:40:07.490+08:00",
+      "fetchedAt": "2026-10-30T19:50:07.930+08:00",
       "error": null
     }
   }
