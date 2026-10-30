@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T20:50:38.428+08:00",
+  "updatedAt": "2026-10-30T21:00:39.070+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.3,
-    "feelsLikeC": 20,
-    "humidity": 88,
-    "windKph": 3.1,
-    "windDir": "东北风",
+    "tempC": 18.2,
+    "feelsLikeC": 19.9,
+    "humidity": 89,
+    "windKph": 2.9,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-30T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T20:50:38.429+08:00",
+    "observedAt": "2026-10-30T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T21:00:39.070+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国国家能源局：今年迎峰度冬全国电力供需总体平衡",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723603.shtml",
+        "publishedAt": "2026-10-30T20:59:01.000+08:00"
+      },
+      {
+        "title": "长征胜利90周年文物联展亮相中国国家博物馆",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723605.shtml",
+        "publishedAt": "2026-10-30T20:58:59.000+08:00"
+      },
+      {
+        "title": "“纪念中国工农红军长征胜利90周年文物联展”在北京开幕",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209272.shtml",
+        "publishedAt": "2026-10-30T20:50:29.000+08:00"
+      },
       {
         "title": "中新健康｜27岁抗癌博主悦悦去世，医生提醒：乳房肿块不能仅凭手感判断",
         "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723604.shtml",
@@ -28,24 +43,9 @@
         "title": "习近平会见瑞士联邦主席帕姆兰",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723609.shtml",
         "publishedAt": "2026-10-30T20:45:49.000+08:00"
-      },
-      {
-        "title": "原创技术引领 中国推进编制审定首个钙钛矿膜结晶制造国家标准",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723595.shtml",
-        "publishedAt": "2026-10-30T20:44:27.000+08:00"
-      },
-      {
-        "title": "全国人大常委会党组举行会议 学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神 赵乐际主持并",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723612.shtml",
-        "publishedAt": "2026-10-30T20:44:01.000+08:00"
-      },
-      {
-        "title": "天津前三季度跨境收支规模达1413亿美元 同比增长13.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723593.shtml",
-        "publishedAt": "2026-10-30T20:42:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T20:50:02.985+08:00",
+    "fetchedAt": "2026-10-30T21:00:03.716+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T20:50:37.033+08:00",
+      "fetchedAt": "2026-10-30T21:00:37.662+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T01:50:38.000+08:00"
+          "resetAt": "2026-10-31T02:00:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T20:50:37.335+08:00",
+      "fetchedAt": "2026-10-30T21:00:37.978+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T20:50:37.346+08:00",
+      "fetchedAt": "2026-10-30T21:00:37.988+08:00",
       "error": null
     }
   }
