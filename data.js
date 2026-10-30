@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T16:30:11.204+08:00",
+  "updatedAt": "2026-10-30T16:40:11.901+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-30T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T16:30:11.204+08:00",
+    "fetchedAt": "2026-10-30T16:40:11.901+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "直播海报：2026“苏超”决赛 常州、无锡打响“太湖德比”",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723410.shtml",
-        "publishedAt": "2026-10-30T16:22:02.000+08:00"
+        "title": "黄建发谈《决定》部署：深入整治新官不理旧账、急功近利等问题",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723378.shtml",
+        "publishedAt": "2026-10-30T16:37:13.000+08:00"
       },
       {
-        "title": "青海首批出口冷凉蔬菜“大基地”落地西宁",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723389.shtml",
-        "publishedAt": "2026-10-30T16:20:58.000+08:00"
+        "title": "汉南长江大桥先导索成功过江 南北双塔空中“会师”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723422.shtml",
+        "publishedAt": "2026-10-30T16:37:09.000+08:00"
       },
       {
-        "title": "喝“大水”能养生？腊肠中含大量亚硝酸盐吃了会致癌？",
-        "url": "https://www.chinanews.com.cn/life/2026/10-30/10723403.shtml",
-        "publishedAt": "2026-10-30T16:18:34.000+08:00"
+        "title": "新大众文艺视域下喜剧美学的跨学科突围学术研讨会在西安举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723424.shtml",
+        "publishedAt": "2026-10-30T16:36:37.000+08:00"
       },
       {
-        "title": "全国设区市首部肉牛种源管理法规11月1日起在内蒙古通辽施行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723392.shtml",
-        "publishedAt": "2026-10-30T16:18:22.000+08:00"
+        "title": "重庆大剧院为“她”点亮，2026粉红丝带公益活动落地山城，爱康关注女性乳腺健康",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723414.shtml",
+        "publishedAt": "2026-10-30T16:35:09.000+08:00"
       },
       {
-        "title": "中国钢铁行业节能降碳进一步提速",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723391.shtml",
-        "publishedAt": "2026-10-30T16:17:18.000+08:00"
+        "title": "腾讯Marvis上线 Coding 管家 远程调用桌面AI工具",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723416.shtml",
+        "publishedAt": "2026-10-30T16:34:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T16:30:03.745+08:00",
+    "fetchedAt": "2026-10-30T16:40:03.953+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T16:30:08.350+08:00",
+      "fetchedAt": "2026-10-30T16:40:10.020+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T16:30:09.741+08:00",
+      "fetchedAt": "2026-10-30T16:40:10.514+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T16:30:09.746+08:00",
+      "fetchedAt": "2026-10-30T16:40:10.524+08:00",
       "error": null
     }
   }
