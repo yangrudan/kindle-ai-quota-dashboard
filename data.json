@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T14:40:08.907+08:00",
+  "updatedAt": "2026-10-30T14:50:10.830+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.3,
-    "feelsLikeC": 24.6,
+    "tempC": 23.5,
+    "feelsLikeC": 24.9,
     "humidity": 62,
-    "windKph": 3.7,
+    "windKph": 2.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T14:40:08.907+08:00",
+    "observedAt": "2026-10-30T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T14:50:10.831+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“智慧大脑”赋能物流枢纽 邮路跑出降本增效加速度",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723319.shtml",
+        "publishedAt": "2026-10-30T14:44:25.000+08:00"
+      },
+      {
+        "title": "国家能源局：今年以来，我国能源供应充足、供需平衡",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723289.shtml",
+        "publishedAt": "2026-10-30T14:41:25.000+08:00"
+      },
+      {
+        "title": "黑龙江省肉制品生产企业全面实行“互联网+AI监管”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723298.shtml",
+        "publishedAt": "2026-10-30T14:37:57.000+08:00"
+      },
+      {
+        "title": "江西南昌：碧水之畔，何以藏着豫章文化记忆？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723312.shtml",
+        "publishedAt": "2026-10-30T14:37:03.000+08:00"
+      },
+      {
         "title": "健全社会组织退出机制 民政部出台注销指引",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723314.shtml",
         "publishedAt": "2026-10-30T14:31:41.000+08:00"
-      },
-      {
-        "title": "2026年9月份厦门市进出口情况",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723310.shtml",
-        "publishedAt": "2026-10-30T14:29:56.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）松嫩平原玉米归仓记：秋粮入囤 种养循环",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723296.shtml",
-        "publishedAt": "2026-10-30T14:27:34.000+08:00"
-      },
-      {
-        "title": "中方决定将APEC商务旅行卡持卡人在华最长停留期延长至90天",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723303.shtml",
-        "publishedAt": "2026-10-30T14:24:40.000+08:00"
-      },
-      {
-        "title": "粤港澳大湾区青少年球员齐聚佛山“以球会友”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723301.shtml",
-        "publishedAt": "2026-10-30T14:24:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T14:40:04.006+08:00",
+    "fetchedAt": "2026-10-30T14:50:04.725+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T14:40:07.573+08:00",
+      "fetchedAt": "2026-10-30T14:50:09.439+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T14:40:07.876+08:00",
+      "fetchedAt": "2026-10-30T14:50:09.745+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T14:40:07.885+08:00",
+      "fetchedAt": "2026-10-30T14:50:09.754+08:00",
       "error": null
     }
   }
