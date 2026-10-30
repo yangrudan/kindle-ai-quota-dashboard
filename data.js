@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T18:10:10.404+08:00",
+  "updatedAt": "2026-10-30T18:20:08.928+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.2,
-    "feelsLikeC": 22.1,
+    "tempC": 20.1,
+    "feelsLikeC": 22,
     "humidity": 80,
-    "windKph": 2.7,
+    "windKph": 2.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-30T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T18:10:10.404+08:00",
+    "observedAt": "2026-10-30T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T18:20:08.928+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "常墨涵、林益磊将担任达喀尔青奥会开幕式中国代表团旗手",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723498.shtml",
-        "publishedAt": "2026-10-30T18:04:20.000+08:00"
+        "title": "官方通报“湘江三大桥桥墩疑似倾斜”：非桥梁桥墩主体结构",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723501.shtml",
+        "publishedAt": "2026-10-30T18:16:13.000+08:00"
       },
       {
-        "title": "福建海警位金门附近海域依法开展常态执法巡查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723489.shtml",
-        "publishedAt": "2026-10-30T18:01:12.000+08:00"
+        "title": "首批政府采购本国产品标准公开征求意见",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723504.shtml",
+        "publishedAt": "2026-10-30T18:15:45.000+08:00"
       },
       {
-        "title": "科技赋能拓展音乐+场景 Music China 2026打造音乐生态场",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723495.shtml",
-        "publishedAt": "2026-10-30T17:58:20.000+08:00"
+        "title": "澜湄学者齐聚泰国曼谷 共拓区域教育人文合作新空间",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723491.shtml",
+        "publishedAt": "2026-10-30T18:10:24.000+08:00"
       },
       {
-        "title": "察哈尔外交大讲堂澳门开讲：以《孙子兵法》诠释郑和下西洋与葡萄牙大航海",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-30/10723490.shtml",
-        "publishedAt": "2026-10-30T17:55:58.000+08:00"
+        "title": "“X教授”演员帕特里克·斯图尔特去世，遗作《复仇者联盟5》年底上映",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723497.shtml",
+        "publishedAt": "2026-10-30T18:08:46.000+08:00"
       },
       {
-        "title": "办证进园区 落户少奔波 安徽户政服务走进日常生活",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723488.shtml",
-        "publishedAt": "2026-10-30T17:52:31.000+08:00"
+        "title": "兰州百合迎采挖旺季 陇原珍味走向海外市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723494.shtml",
+        "publishedAt": "2026-10-30T18:07:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T18:10:04.015+08:00",
+    "fetchedAt": "2026-10-30T18:20:02.924+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T18:10:07.842+08:00",
+      "fetchedAt": "2026-10-30T18:20:07.471+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T18:10:08.132+08:00",
+      "fetchedAt": "2026-10-30T18:20:07.773+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T18:10:08.142+08:00",
+      "fetchedAt": "2026-10-30T18:20:07.782+08:00",
       "error": null
     }
   }
