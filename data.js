@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T18:40:41.139+08:00",
+  "updatedAt": "2026-10-30T18:50:47.380+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-30T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T18:40:41.139+08:00",
+    "fetchedAt": "2026-10-30T18:50:47.381+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "索玛花开暖彝乡 成医一附院科普团队走进盐源校园守护彝乡少年",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723512.shtml",
-        "publishedAt": "2026-10-30T18:28:17.000+08:00"
+        "title": "安徽省能源集团有限公司原党委书记、董事长朱宜存被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723527.shtml",
+        "publishedAt": "2026-10-30T18:37:58.000+08:00"
       },
       {
-        "title": "香港名媛蔡天凤碎尸案最新进展：蔡天凤前公公当庭认罪",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-30/10723517.shtml",
-        "publishedAt": "2026-10-30T18:27:23.000+08:00"
+        "title": "12月25日起实施 市场监管总局发布《超短波治疗机校准规范》",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723531.shtml",
+        "publishedAt": "2026-10-30T18:37:28.000+08:00"
       },
       {
-        "title": "稳中有进 质效向优——中国建设银行公布2026年第三季度经营业绩",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723502.shtml",
-        "publishedAt": "2026-10-30T18:27:11.000+08:00"
+        "title": "上海实业（集团）有限公司原副董事长葛大维接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723508.shtml",
+        "publishedAt": "2026-10-30T18:36:56.000+08:00"
       },
       {
-        "title": "事关消费基础设施建设 多部门发布指导意见",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723496.shtml",
-        "publishedAt": "2026-10-30T18:25:57.000+08:00"
+        "title": "安徽省能源集团有限公司原董事长朱宜存被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723506.shtml",
+        "publishedAt": "2026-10-30T18:36:50.000+08:00"
       },
       {
-        "title": "2025全球体验指数报告发布 华强方特连续3年位列全球第二",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723500.shtml",
-        "publishedAt": "2026-10-30T18:25:39.000+08:00"
+        "title": "华电山西能源有限公司原党组书记焦荣幸接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723503.shtml",
+        "publishedAt": "2026-10-30T18:36:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T18:40:05.864+08:00",
+    "fetchedAt": "2026-10-30T18:50:12.657+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T18:40:39.833+08:00",
+      "fetchedAt": "2026-10-30T18:50:46.095+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T18:40:40.070+08:00",
+      "fetchedAt": "2026-10-30T18:50:46.358+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T18:40:40.079+08:00",
+      "fetchedAt": "2026-10-30T18:50:46.364+08:00",
       "error": null
     }
   }
