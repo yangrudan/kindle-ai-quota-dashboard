@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T12:10:10.602+08:00",
+  "updatedAt": "2026-10-30T12:20:37.982+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.1,
-    "feelsLikeC": 23.1,
+    "tempC": 22.2,
+    "feelsLikeC": 23.2,
     "humidity": 65,
-    "windKph": 5.5,
+    "windKph": 5.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T12:10:10.602+08:00",
+    "observedAt": "2026-10-30T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T12:20:37.982+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "赛事引流文旅升温 全国“村BA”在湖北咸丰收官",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723220.shtml",
+        "publishedAt": "2026-10-30T12:13:13.000+08:00"
+      },
       {
         "title": "A股午评：超2800只个股飘绿，三大指数集体收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723235.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "瑞士联邦主席帕姆兰抵达北京 开启访华行程",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723223.shtml",
         "publishedAt": "2026-10-30T11:47:28.000+08:00"
-      },
-      {
-        "title": "黄建发：《决定》部署突出抓好新兴领域党的建设",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723215.shtml",
-        "publishedAt": "2026-10-30T11:43:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T12:10:04.720+08:00",
+    "fetchedAt": "2026-10-30T12:20:03.172+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T12:10:09.313+08:00",
+      "fetchedAt": "2026-10-30T12:20:36.583+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 57,
+          "usedPct": 58,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 22,
+          "usedPct": 23,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T12:10:09.668+08:00",
+      "fetchedAt": "2026-10-30T12:20:36.911+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T12:10:09.672+08:00",
+      "fetchedAt": "2026-10-30T12:20:36.920+08:00",
       "error": null
     }
   }
