@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T21:10:10.023+08:00",
+  "updatedAt": "2026-10-30T21:20:09.122+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.2,
-    "feelsLikeC": 19.9,
-    "humidity": 89,
-    "windKph": 2.9,
-    "windDir": "东风",
+    "tempC": 18,
+    "feelsLikeC": 19.8,
+    "humidity": 90,
+    "windKph": 2.6,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T21:10:10.024+08:00",
+    "observedAt": "2026-10-30T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T21:20:09.122+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "习言道｜近5000字公报，“严”字贯穿始终",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723610.shtml",
+        "publishedAt": "2026-10-30T21:08:42.000+08:00"
+      },
+      {
+        "title": "新华图讯丨习近平会见瑞士联邦主席帕姆兰",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723614.shtml",
+        "publishedAt": "2026-10-30T21:06:14.000+08:00"
+      },
+      {
+        "title": "前三季度中国可再生能源新增装机占全部新增装机比重超七成",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723606.shtml",
+        "publishedAt": "2026-10-30T21:05:58.000+08:00"
+      },
+      {
+        "title": "新华图讯丨习近平同德国总统施泰因迈尔会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723613.shtml",
+        "publishedAt": "2026-10-30T21:05:48.000+08:00"
+      },
+      {
         "title": "APEC“中国年”落子深圳 开放如何变成一座城市的能力",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723616.shtml",
         "publishedAt": "2026-10-30T21:00:26.000+08:00"
-      },
-      {
-        "title": "中国国家能源局：今年迎峰度冬全国电力供需总体平衡",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723603.shtml",
-        "publishedAt": "2026-10-30T20:59:01.000+08:00"
-      },
-      {
-        "title": "长征胜利90周年文物联展亮相中国国家博物馆",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723605.shtml",
-        "publishedAt": "2026-10-30T20:58:59.000+08:00"
-      },
-      {
-        "title": "“纪念中国工农红军长征胜利90周年文物联展”在北京开幕",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209272.shtml",
-        "publishedAt": "2026-10-30T20:50:29.000+08:00"
-      },
-      {
-        "title": "中新健康｜27岁抗癌博主悦悦去世，医生提醒：乳房肿块不能仅凭手感判断",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723604.shtml",
-        "publishedAt": "2026-10-30T20:46:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T21:10:04.253+08:00",
+    "fetchedAt": "2026-10-30T21:20:03.351+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T21:10:08.632+08:00",
+      "fetchedAt": "2026-10-30T21:20:07.736+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T02:10:09.000+08:00"
+          "resetAt": "2026-10-31T02:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T21:10:08.934+08:00",
+      "fetchedAt": "2026-10-30T21:20:08.061+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T21:10:08.943+08:00",
+      "fetchedAt": "2026-10-30T21:20:08.069+08:00",
       "error": null
     }
   }
