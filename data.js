@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T10:30:08.598+08:00",
+  "updatedAt": "2026-10-30T10:40:11.285+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-10-30T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T10:30:08.598+08:00",
+    "fetchedAt": "2026-10-30T10:40:11.285+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "演艺活力浸润全城 武汉聚力打造“演艺名城”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723162.shtml",
-        "publishedAt": "2026-10-30T10:24:29.000+08:00"
+        "title": "整治婚介机构乱象 海南151家相关主体被注销",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723166.shtml",
+        "publishedAt": "2026-10-30T10:34:24.000+08:00"
       },
       {
-        "title": "国际锐评丨日本TBS应当悔改而非狡辩",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723167.shtml",
-        "publishedAt": "2026-10-30T10:22:29.000+08:00"
+        "title": "U17女足世界杯：中国队点球4:3淘汰法国队 队史首进八强",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723156.shtml",
+        "publishedAt": "2026-10-30T10:34:14.000+08:00"
       },
       {
-        "title": "欧洲华媒探访湖南长沙县：看低空产业腾飞、文化装备“出海”",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-30/10723158.shtml",
-        "publishedAt": "2026-10-30T10:22:25.000+08:00"
+        "title": "党建+业务，激发新经济组织活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723180.shtml",
+        "publishedAt": "2026-10-30T10:33:28.000+08:00"
       },
       {
-        "title": "评论：“外嫁女回娘家”：莫让“排场账”算丢“亲情账”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723163.shtml",
-        "publishedAt": "2026-10-30T10:21:59.000+08:00"
+        "title": "绿电支撑算力产业集聚 山西大同数据经济核心产值超200亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723177.shtml",
+        "publishedAt": "2026-10-30T10:32:08.000+08:00"
       },
       {
-        "title": "唐方裕：全会最重要的成果是审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723153.shtml",
-        "publishedAt": "2026-10-30T10:21:39.000+08:00"
+        "title": "产融协同持续发力 长沙经开区引资本活水助制造提质",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723176.shtml",
+        "publishedAt": "2026-10-30T10:31:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T10:30:02.862+08:00",
+    "fetchedAt": "2026-10-30T10:40:04.289+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T10:30:06.584+08:00",
+      "fetchedAt": "2026-10-30T10:40:09.645+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T10:30:06.848+08:00",
+      "fetchedAt": "2026-10-30T10:40:09.916+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T10:30:06.858+08:00",
+      "fetchedAt": "2026-10-30T10:40:09.921+08:00",
       "error": null
     }
   }
