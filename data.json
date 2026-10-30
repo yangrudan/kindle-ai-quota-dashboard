@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T06:40:18.428+08:00",
+  "updatedAt": "2026-10-31T06:50:10.542+08:00",
   "weather": {
     "ok": true,
     "description": "雾",
     "iconKey": "fog",
-    "tempC": 15.3,
-    "feelsLikeC": 16.6,
-    "humidity": 98,
-    "windKph": 2.3,
-    "windDir": "西北风",
+    "tempC": 15.2,
+    "feelsLikeC": 16.5,
+    "humidity": 99,
+    "windKph": 2.8,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-31T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T06:40:18.428+08:00",
+    "observedAt": "2026-10-31T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T06:50:10.542+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "奥地利合唱团走进乐山 江边放歌感受山水",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723714.shtml",
-        "publishedAt": "2026-10-31T00:32:58.000+08:00"
+        "title": "奥列什基人道主义任务完成 俄乌均未违反停火制度",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723722.shtml",
+        "publishedAt": "2026-10-31T06:49:06.000+08:00"
       },
       {
-        "title": "《八闽文化与中国式现代化》丛书在福州发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723713.shtml",
-        "publishedAt": "2026-10-31T00:32:32.000+08:00"
+        "title": "第十届中德汽车大会在德国沃尔夫斯堡举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723720.shtml",
+        "publishedAt": "2026-10-31T06:48:40.000+08:00"
       },
       {
-        "title": "医疗健康数字孪生联盟在沪成立 发布5000万人健康数字孪生计划",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723712.shtml",
-        "publishedAt": "2026-10-31T00:32:26.000+08:00"
+        "title": "CBA深圳队外援史密斯因兴奋剂检测呈阳性被暂时禁赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723719.shtml",
+        "publishedAt": "2026-10-31T06:48:02.000+08:00"
       },
       {
-        "title": "李强会见德国总统施泰因迈尔",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723715.shtml",
-        "publishedAt": "2026-10-31T00:29:07.000+08:00"
+        "title": "国际金价跌破每盎司3900美元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723718.shtml",
+        "publishedAt": "2026-10-31T06:44:30.000+08:00"
       },
       {
-        "title": "纪录片《感恩东来爱香江》将在香港多校播出",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723708.shtml",
-        "publishedAt": "2026-10-31T00:26:51.000+08:00"
+        "title": "俄罗斯总统助理：俄美已开始磋商三方会谈的具体日期",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723717.shtml",
+        "publishedAt": "2026-10-31T06:41:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T06:40:12.429+08:00",
+    "fetchedAt": "2026-10-31T06:50:03.713+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T06:40:17.020+08:00",
+      "fetchedAt": "2026-10-31T06:50:07.505+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T11:40:18.000+08:00"
+          "resetAt": "2026-10-31T11:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T06:40:17.310+08:00",
+      "fetchedAt": "2026-10-31T06:50:07.883+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T06:40:17.319+08:00",
+      "fetchedAt": "2026-10-31T06:50:07.892+08:00",
       "error": null
     }
   }
