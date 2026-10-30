@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T13:40:09.178+08:00",
+  "updatedAt": "2026-10-30T13:50:09.803+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.9,
-    "feelsLikeC": 23.8,
-    "humidity": 63,
-    "windKph": 6,
+    "tempC": 23,
+    "feelsLikeC": 24,
+    "humidity": 62,
+    "windKph": 5.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T13:40:09.178+08:00",
+    "observedAt": "2026-10-30T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T13:50:09.803+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "谢春涛：《决定》第八部分对“增强制度执行力”专门提出要求",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723261.shtml",
-        "publishedAt": "2026-10-30T13:35:30.000+08:00"
+        "title": "60岁阿姨长期熬夜刷短剧，中招“眼中风”险失明",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723277.shtml",
+        "publishedAt": "2026-10-30T13:45:52.000+08:00"
       },
       {
-        "title": "源头管控 群防群治 多地开展“加拿大一枝黄花”治理行动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723265.shtml",
-        "publishedAt": "2026-10-30T13:33:21.000+08:00"
+        "title": "走进“中国城市里坊制度活化石”——福州三坊七巷历史文化街区",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723268.shtml",
+        "publishedAt": "2026-10-30T13:44:04.000+08:00"
       },
       {
-        "title": "蒋非默艺术展用现代视觉语言诠释传统禅宗文化",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723260.shtml",
-        "publishedAt": "2026-10-30T13:29:25.000+08:00"
+        "title": "中国石化在COP17发布首份全球生物多样性保护报告",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723270.shtml",
+        "publishedAt": "2026-10-30T13:43:06.000+08:00"
       },
       {
-        "title": "抓准时机迅速降落 岳阳舰开展直升机跨昼夜飞行训练",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723263.shtml",
-        "publishedAt": "2026-10-30T13:27:31.000+08:00"
+        "title": "官方谈《决定》部署：坚决清除对党不忠、阳奉阴违、以权谋私的人",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723266.shtml",
+        "publishedAt": "2026-10-30T13:39:30.000+08:00"
       },
       {
-        "title": "珠江委与澳门水务部门在穗对供水安全等事项进行商议",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723255.shtml",
-        "publishedAt": "2026-10-30T13:26:23.000+08:00"
+        "title": "寻根燕都文脉 艺术视角助力北京琉璃河遗址国际传播",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723262.shtml",
+        "publishedAt": "2026-10-30T13:38:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T13:40:03.817+08:00",
+    "fetchedAt": "2026-10-30T13:50:04.037+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 66 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T13:40:07.860+08:00",
+      "fetchedAt": "2026-10-30T13:50:08.356+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 68,
+          "usedPct": 70,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T13:40:08.191+08:00",
+      "fetchedAt": "2026-10-30T13:50:08.622+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T13:40:08.200+08:00",
+      "fetchedAt": "2026-10-30T13:50:08.631+08:00",
       "error": null
     }
   }
