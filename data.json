@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T10:50:09.504+08:00",
+  "updatedAt": "2026-10-30T11:00:10.372+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.6,
-    "feelsLikeC": 22.8,
-    "humidity": 67,
-    "windKph": 3.4,
+    "tempC": 21.8,
+    "feelsLikeC": 23,
+    "humidity": 66,
+    "windKph": 3.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T10:50:09.504+08:00",
+    "observedAt": "2026-10-30T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T11:00:10.372+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西藏7.0级地震丨童心视角下子弟兵坚守的模样",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723187.shtml",
-        "publishedAt": "2026-10-30T10:44:14.000+08:00"
+        "title": "金融“活水”顺着保单流向田间地头 “保银供收”筑牢产业振兴风险屏障",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723195.shtml",
+        "publishedAt": "2026-10-30T10:53:47.000+08:00"
       },
       {
-        "title": "农事“丰”景丨金秋时节，农村都在忙什么？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723184.shtml",
-        "publishedAt": "2026-10-30T10:38:52.000+08:00"
+        "title": "长征路上学党史丨长征落脚点上的“守护者”：让红色记忆历久弥新",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723192.shtml",
+        "publishedAt": "2026-10-30T10:50:45.000+08:00"
       },
       {
-        "title": "整治婚介机构乱象 海南151家相关主体被注销",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723166.shtml",
-        "publishedAt": "2026-10-30T10:34:24.000+08:00"
+        "title": "新动能加速“接棒”！多视角解读三季度经济数据",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723194.shtml",
+        "publishedAt": "2026-10-30T10:50:41.000+08:00"
       },
       {
-        "title": "U17女足世界杯：中国队点球4:3淘汰法国队 队史首进八强",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723156.shtml",
-        "publishedAt": "2026-10-30T10:34:14.000+08:00"
+        "title": "OPC如何推动人才培养范式变革",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723193.shtml",
+        "publishedAt": "2026-10-30T10:50:09.000+08:00"
       },
       {
-        "title": "党建+业务，激发新经济组织活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723180.shtml",
-        "publishedAt": "2026-10-30T10:33:28.000+08:00"
+        "title": "【光明网评】乌镇之约，向世界尽显开放之姿",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-30/10723188.shtml",
+        "publishedAt": "2026-10-30T10:47:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T10:50:04.065+08:00",
+    "fetchedAt": "2026-10-30T11:00:03.939+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T10:50:07.491+08:00",
+      "fetchedAt": "2026-10-30T11:00:08.398+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 48,
+          "usedPct": 49,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T10:50:07.732+08:00",
+      "fetchedAt": "2026-10-30T11:00:08.646+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T10:50:07.736+08:00",
+      "fetchedAt": "2026-10-30T11:00:08.655+08:00",
       "error": null
     }
   }
