@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T09:20:17.093+08:00",
+  "updatedAt": "2026-10-30T09:30:10.592+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20,
-    "feelsLikeC": 21.2,
-    "humidity": 71,
+    "tempC": 20.4,
+    "feelsLikeC": 21.6,
+    "humidity": 70,
     "windKph": 2.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T09:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T09:20:17.093+08:00",
+    "observedAt": "2026-10-30T09:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T09:30:10.592+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "针对美方无端攻击，中国驻墨西哥使馆发布严正声明",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723112.shtml",
-        "publishedAt": "2026-10-30T09:15:31.000+08:00"
+        "title": "河南洛阳：层林尽染小浪底 黄河秋景入画来",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209234.shtml",
+        "publishedAt": "2026-10-30T09:26:19.000+08:00"
       },
       {
-        "title": "警惕“中国AI跑偏论”",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-30/10723114.shtml",
-        "publishedAt": "2026-10-30T09:11:21.000+08:00"
+        "title": "全国“村BA”总决赛落幕 咸丰白茶队蝉联亚军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723118.shtml",
+        "publishedAt": "2026-10-30T09:24:22.000+08:00"
       },
       {
-        "title": "西藏降雪进入核心影响时段 两股冷空气接连来袭北方多地冷上加冷",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723111.shtml",
-        "publishedAt": "2026-10-30T08:53:56.000+08:00"
+        "title": "孔子学院 乘“数”而上",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-30/10723123.shtml",
+        "publishedAt": "2026-10-30T09:24:14.000+08:00"
       },
       {
-        "title": "专家吁推动新能源车险从“政策驱动”走向“法治定型”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723110.shtml",
-        "publishedAt": "2026-10-30T08:41:28.000+08:00"
+        "title": "冷空气接连影响我国 西藏南部雨雪天气持续",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723113.shtml",
+        "publishedAt": "2026-10-30T09:23:02.000+08:00"
       },
       {
-        "title": "去年共培育61.36万人 高素质农民助力乡村全面振兴",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723109.shtml",
-        "publishedAt": "2026-10-30T08:38:49.000+08:00"
+        "title": "秋冬换季，中医药为老年人健康“开方”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723120.shtml",
+        "publishedAt": "2026-10-30T09:21:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T09:20:05.206+08:00",
+    "fetchedAt": "2026-10-30T09:30:04.280+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 103 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T09:20:14.486+08:00",
+      "fetchedAt": "2026-10-30T09:30:08.866+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-10-30T14:09:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T09:20:14.741+08:00",
+      "fetchedAt": "2026-10-30T09:30:09.129+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T09:20:14.755+08:00",
+      "fetchedAt": "2026-10-30T09:30:09.138+08:00",
       "error": null
     }
   }
