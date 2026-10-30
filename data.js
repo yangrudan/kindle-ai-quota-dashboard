@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T22:10:09.753+08:00",
+  "updatedAt": "2026-10-30T22:20:08.700+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.7,
-    "feelsLikeC": 19.5,
+    "tempC": 17.5,
+    "feelsLikeC": 19.2,
     "humidity": 90,
-    "windKph": 1.7,
-    "windDir": "东北风",
+    "windKph": 1.9,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T22:10:09.753+08:00",
+    "observedAt": "2026-10-30T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T22:20:08.700+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,17 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "商务部新闻发言人就美国联邦通信委员会投票通过检测实验室限制措施事答记者问",
+        "title": "习近平同德国总统施泰因迈尔会谈",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209279.shtml",
+        "publishedAt": "2026-10-30T22:09:41.000+08:00"
+      },
+      {
+        "title": "习近平会见瑞士联邦主席帕姆兰",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209281.shtml",
+        "publishedAt": "2026-10-30T22:07:31.000+08:00"
+      },
+      {
+        "title": "商务部就美国联邦通信委员会投票通过检测实验室限制措施事答记者问",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723659.shtml",
         "publishedAt": "2026-10-30T22:03:39.000+08:00"
       },
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "三部门增加调拨1000套中央救灾物资板房 保障西藏受灾群众安全温暖过冬",
         "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723655.shtml",
         "publishedAt": "2026-10-30T21:53:02.000+08:00"
-      },
-      {
-        "title": "合肥秋色次第铺展 水上“小提琴”层林尽染",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723623.shtml",
-        "publishedAt": "2026-10-30T21:52:10.000+08:00"
-      },
-      {
-        "title": "文脉共续、产业共兴、邻里共融：探访云南民族团结的生动实践",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-30/10723646.shtml",
-        "publishedAt": "2026-10-30T21:43:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T22:10:03.432+08:00",
+    "fetchedAt": "2026-10-30T22:20:03.812+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T22:10:08.336+08:00",
+      "fetchedAt": "2026-10-30T22:20:07.516+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T03:10:09.000+08:00"
+          "resetAt": "2026-10-31T03:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T22:10:08.538+08:00",
+      "fetchedAt": "2026-10-30T22:20:07.717+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T22:10:08.547+08:00",
+      "fetchedAt": "2026-10-30T22:20:07.726+08:00",
       "error": null
     }
   }
