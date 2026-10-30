@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T21:50:10.451+08:00",
+  "updatedAt": "2026-10-30T22:00:09.285+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.8,
-    "feelsLikeC": 19.6,
+    "tempC": 17.7,
+    "feelsLikeC": 19.5,
     "humidity": 90,
-    "windKph": 1.8,
+    "windKph": 1.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-30T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T21:50:10.451+08:00",
+    "observedAt": "2026-10-30T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T22:00:09.285+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "三部门增加调拨1000套中央救灾物资板房 保障西藏受灾群众安全温暖过冬",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723655.shtml",
+        "publishedAt": "2026-10-30T21:53:02.000+08:00"
+      },
+      {
+        "title": "合肥秋色次第铺展 水上“小提琴”层林尽染",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723623.shtml",
+        "publishedAt": "2026-10-30T21:52:10.000+08:00"
+      },
       {
         "title": "文脉共续、产业共兴、邻里共融：探访云南民族团结的生动实践",
         "url": "https://www.chinanews.com.cn/mz/2026/10-30/10723646.shtml",
@@ -33,19 +43,9 @@
         "title": "云南推动“戎光”入史志",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723653.shtml",
         "publishedAt": "2026-10-30T21:43:02.000+08:00"
-      },
-      {
-        "title": "跨越三千公里的“光明接力” 常德援藏守护西藏隆子群众“视”界",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723652.shtml",
-        "publishedAt": "2026-10-30T21:43:00.000+08:00"
-      },
-      {
-        "title": "广东明确“十五五”退役军人服务和保障十大工程",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723651.shtml",
-        "publishedAt": "2026-10-30T21:41:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T21:50:03.230+08:00",
+    "fetchedAt": "2026-10-30T22:00:03.614+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-30T21:50:07.451+08:00",
+      "fetchedAt": "2026-10-30T22:00:08.047+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T02:50:09.000+08:00"
+          "resetAt": "2026-10-31T03:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T21:50:07.804+08:00",
+      "fetchedAt": "2026-10-30T22:00:08.343+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-30T21:50:07.813+08:00",
+      "fetchedAt": "2026-10-30T22:00:08.350+08:00",
       "error": null
     }
   }
