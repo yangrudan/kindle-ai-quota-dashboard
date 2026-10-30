@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T00:00:41.792+08:00",
+  "updatedAt": "2026-10-31T00:10:09.789+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-10-31T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T00:00:41.792+08:00",
+    "fetchedAt": "2026-10-31T00:10:09.789+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“创业式接班”成新选择 海外“企二代”在沪探寻转型工具箱",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-30/10723682.shtml",
-        "publishedAt": "2026-10-30T23:51:53.000+08:00"
+        "title": "黑龙江省秋收基本结束 2.3亿亩农作物收获完毕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723689.shtml",
+        "publishedAt": "2026-10-31T00:01:54.000+08:00"
       },
       {
-        "title": "第27届中国国际教育年会在北京举行 泰国首任主宾国",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723680.shtml",
-        "publishedAt": "2026-10-30T23:51:51.000+08:00"
+        "title": "民盟乡村振兴骨干培训班在上海举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723691.shtml",
+        "publishedAt": "2026-10-31T00:01:32.000+08:00"
       },
       {
-        "title": "从百岁到青春：四代人手中的选票",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723674.shtml",
-        "publishedAt": "2026-10-30T23:51:47.000+08:00"
+        "title": "前9月中国国有企业利润总额同比增长3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723690.shtml",
+        "publishedAt": "2026-10-31T00:01:28.000+08:00"
       },
       {
-        "title": "澳门前三季度GDP初步数值达3161.3亿澳门元 同比实质增长2.9%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723678.shtml",
-        "publishedAt": "2026-10-30T23:50:53.000+08:00"
+        "title": "中国联合印尼、马来西亚破获一起特大跨国制贩毒案",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723688.shtml",
+        "publishedAt": "2026-10-31T00:01:24.000+08:00"
       },
       {
-        "title": "殷玉珍、白帆与“赛考斯”云端重逢 吁为中美教育交流搭桥",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723676.shtml",
-        "publishedAt": "2026-10-30T23:50:49.000+08:00"
+        "title": "外媒关注二十届五中全会：全面从严治党表明中国共产党的政治决心",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723687.shtml",
+        "publishedAt": "2026-10-31T00:01:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T00:00:05.515+08:00",
+    "fetchedAt": "2026-10-31T00:10:03.711+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T00:00:40.497+08:00",
+      "fetchedAt": "2026-10-31T00:10:08.077+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T05:00:41.000+08:00"
+          "resetAt": "2026-10-31T05:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T00:00:40.800+08:00",
+      "fetchedAt": "2026-10-31T00:10:08.403+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T00:00:40.809+08:00",
+      "fetchedAt": "2026-10-31T00:10:08.412+08:00",
       "error": null
     }
   }
