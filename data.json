@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T17:00:47.185+08:00",
+  "updatedAt": "2026-10-31T17:10:10.418+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.6,
-    "feelsLikeC": 21.5,
-    "humidity": 67,
-    "windKph": 12,
-    "windDir": "东风",
+    "tempC": 21,
+    "feelsLikeC": 20.9,
+    "humidity": 69,
+    "windKph": 11.9,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-31T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T17:00:47.185+08:00",
+    "observedAt": "2026-10-31T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T17:10:10.418+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东西问丨董维洛：柬中民间合作让“小而美”项目在高棉大地开花结果",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-31/10723934.shtml",
-        "publishedAt": "2026-10-31T16:44:33.000+08:00"
+        "title": "今年前三季度东北地区货物贸易进出口超9900亿元 创历史同期新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723949.shtml",
+        "publishedAt": "2026-10-31T17:06:52.000+08:00"
       },
       {
-        "title": "第三届铸牢中华民族共同体意识美术作品展在青海西宁开展",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723929.shtml",
-        "publishedAt": "2026-10-31T16:43:41.000+08:00"
+        "title": "“张雪机车”商标回归张雪！品牌保护要趁早，商标布局当占先",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723948.shtml",
+        "publishedAt": "2026-10-31T17:04:48.000+08:00"
       },
       {
-        "title": "陪诊行业首个国标明起实施 这7件事陪诊员不能做",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723936.shtml",
-        "publishedAt": "2026-10-31T16:33:58.000+08:00"
+        "title": "2026年川渝匹克球公开赛暨川陕甘青匹克球邀请赛开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723942.shtml",
+        "publishedAt": "2026-10-31T17:03:02.000+08:00"
       },
       {
-        "title": "云南省陆良县民族团结进步创建成果展在京举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723928.shtml",
-        "publishedAt": "2026-10-31T16:31:00.000+08:00"
+        "title": "2026年广西信息通信行业职业技能竞赛在南宁举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723943.shtml",
+        "publishedAt": "2026-10-31T17:02:56.000+08:00"
       },
       {
-        "title": "800余位专家学者齐聚第七届载人航天学术大会",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723927.shtml",
-        "publishedAt": "2026-10-31T16:29:58.000+08:00"
+        "title": "东城区专题推介活动将亮相京港洽谈会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723941.shtml",
+        "publishedAt": "2026-10-31T17:01:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T17:00:12.448+08:00",
+    "fetchedAt": "2026-10-31T17:10:04.072+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T17:00:45.998+08:00",
+      "fetchedAt": "2026-10-31T17:10:09.200+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T22:00:47.000+08:00"
+          "resetAt": "2026-10-31T22:10:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T17:00:46.234+08:00",
+      "fetchedAt": "2026-10-31T17:10:09.502+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T17:00:46.238+08:00",
+      "fetchedAt": "2026-10-31T17:10:09.514+08:00",
       "error": null
     }
   }
