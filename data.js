@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T11:40:08.579+08:00",
+  "updatedAt": "2026-10-31T11:50:09.841+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.8,
-    "feelsLikeC": 23.6,
-    "humidity": 64,
-    "windKph": 9.5,
+    "tempC": 22.9,
+    "feelsLikeC": 23.9,
+    "humidity": 63,
+    "windKph": 9.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T11:40:08.579+08:00",
+    "observedAt": "2026-10-31T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T11:50:09.841+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "旅荷大熊猫幼崽“朗月”平安接返回国",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723827.shtml",
+        "publishedAt": "2026-10-31T11:45:08.000+08:00"
+      },
+      {
+        "title": "秋冬流感流行季已逐渐开启，现在打流感疫苗晚不晚？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723826.shtml",
+        "publishedAt": "2026-10-31T11:41:26.000+08:00"
+      },
+      {
+        "title": "解锁新材料的“转化密码” 探访浙江桐乡乌镇实验室",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723702.shtml",
+        "publishedAt": "2026-10-31T11:34:36.000+08:00"
+      },
       {
         "title": "暨南大学原创文化精品大师剧《振铎》焕新公演",
         "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723796.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "2026中国（大营）国际皮草博览会开幕",
         "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723793.shtml",
         "publishedAt": "2026-10-31T11:28:55.000+08:00"
-      },
-      {
-        "title": "多国人士谈五中全会：中共推进自我革新有助于提升国家发展成效",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723823.shtml",
-        "publishedAt": "2026-10-31T11:25:29.000+08:00"
-      },
-      {
-        "title": "国内首款罕见病特殊医学用途氨基酸组件配方食品“光明爱普昔”面世",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723821.shtml",
-        "publishedAt": "2026-10-31T11:25:25.000+08:00"
-      },
-      {
-        "title": "甘肃高校：车间 “搬进” 课堂 赛训相融对接产业一线",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723815.shtml",
-        "publishedAt": "2026-10-31T11:11:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T11:40:02.899+08:00",
+    "fetchedAt": "2026-10-31T11:50:03.243+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T11:40:07.267+08:00",
+      "fetchedAt": "2026-10-31T11:50:07.870+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T11:40:07.540+08:00",
+      "fetchedAt": "2026-10-31T11:50:08.223+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T11:40:07.549+08:00",
+      "fetchedAt": "2026-10-31T11:50:08.227+08:00",
       "error": null
     }
   }
