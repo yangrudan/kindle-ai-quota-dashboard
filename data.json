@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T21:00:38.946+08:00",
+  "updatedAt": "2026-10-31T21:10:09.396+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.4,
-    "feelsLikeC": 18,
-    "humidity": 76,
-    "windKph": 11.6,
+    "tempC": 18.9,
+    "feelsLikeC": 18.7,
+    "humidity": 77,
+    "windKph": 12.3,
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-31T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T21:00:38.946+08:00",
+    "fetchedAt": "2026-10-31T21:10:09.396+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "从“十五五”专项规划看“六张网”建设",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724068.shtml",
+        "publishedAt": "2026-10-31T21:00:53.000+08:00"
+      },
+      {
+        "title": "从“乌镇时间”到“全球荣耀”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724066.shtml",
+        "publishedAt": "2026-10-31T20:58:32.000+08:00"
+      },
+      {
+        "title": "“我们，不止于此”：非洲青年冀探寻中国经验助力自强发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724059.shtml",
+        "publishedAt": "2026-10-31T20:54:42.000+08:00"
+      },
+      {
+        "title": "致力构建原创艺术品交易信任体系 宋庄当代艺术精品秋拍落槌",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724058.shtml",
+        "publishedAt": "2026-10-31T20:52:26.000+08:00"
+      },
+      {
         "title": "阳明心学如何赋能实体经济？业界齐聚浙江宁波论道",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724057.shtml",
         "publishedAt": "2026-10-31T20:50:58.000+08:00"
-      },
-      {
-        "title": "2026世界斯诺克巡回赛国际锦标赛在南京开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10724051.shtml",
-        "publishedAt": "2026-10-31T20:50:12.000+08:00"
-      },
-      {
-        "title": "湖北姚家平水利枢纽工程成功截流",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10724046.shtml",
-        "publishedAt": "2026-10-31T20:48:44.000+08:00"
-      },
-      {
-        "title": "刘振民：以能源转型赋能亚太区域合作 推动产业升级",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724056.shtml",
-        "publishedAt": "2026-10-31T20:48:42.000+08:00"
-      },
-      {
-        "title": "深圳新世纪篮球俱乐部发布关于外援特奎维恩·史密斯兴奋剂相关事件的声明",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724043.shtml",
-        "publishedAt": "2026-10-31T20:47:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T21:00:03.827+08:00",
+    "fetchedAt": "2026-10-31T21:10:03.781+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:37.356+08:00",
+      "fetchedAt": "2026-10-31T21:10:08.117+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:37.616+08:00",
+      "fetchedAt": "2026-10-31T21:10:08.382+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T21:00:37.620+08:00",
+      "fetchedAt": "2026-10-31T21:10:08.387+08:00",
       "error": null
     }
   }
