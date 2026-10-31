@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T14:20:38.566+08:00",
+  "updatedAt": "2026-10-31T14:30:14.647+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 24.3,
     "feelsLikeC": 24.3,
     "humidity": 55,
-    "windKph": 10.4,
+    "windKph": 10.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T14:20:38.567+08:00",
+    "observedAt": "2026-10-31T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T14:30:14.647+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "CBA常规赛：广州队主场不敌山西队",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723883.shtml",
+        "publishedAt": "2026-10-31T14:24:05.000+08:00"
+      },
+      {
+        "title": "波兰总统发表声明：指责相关行动破坏波兰宪法秩序，召集紧急磋商",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723889.shtml",
+        "publishedAt": "2026-10-31T14:23:59.000+08:00"
+      },
       {
         "title": "山东荣成：秋粮丰收晒场忙",
         "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723852.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "圆明园兽首暨海外回流文物特展在江苏昆山启幕",
         "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723879.shtml",
         "publishedAt": "2026-10-31T14:08:12.000+08:00"
-      },
-      {
-        "title": "首都师范大学原校长齐世荣百年诞辰学术研讨会召开",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723880.shtml",
-        "publishedAt": "2026-10-31T14:07:06.000+08:00"
-      },
-      {
-        "title": "教育部2026年“百校学子地方行”活动走进长沙",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723881.shtml",
-        "publishedAt": "2026-10-31T14:04:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T14:20:03.657+08:00",
+    "fetchedAt": "2026-10-31T14:30:04.416+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T14:20:37.171+08:00",
+      "fetchedAt": "2026-10-31T14:30:13.237+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T19:20:38.000+08:00"
+          "resetAt": "2026-10-31T19:30:14.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T14:20:37.510+08:00",
+      "fetchedAt": "2026-10-31T14:30:13.468+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T14:20:37.514+08:00",
+      "fetchedAt": "2026-10-31T14:30:13.477+08:00",
       "error": null
     }
   }
