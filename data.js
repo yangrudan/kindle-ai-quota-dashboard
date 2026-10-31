@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T14:50:38.944+08:00",
+  "updatedAt": "2026-10-31T15:00:39.593+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.2,
-    "feelsLikeC": 24.2,
-    "humidity": 55,
-    "windKph": 10.8,
+    "tempC": 24.6,
+    "feelsLikeC": 24.3,
+    "humidity": 53,
+    "windKph": 11.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T14:50:38.945+08:00",
+    "observedAt": "2026-10-31T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T15:00:39.593+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "事关大额存单，多家外资银行密集上架",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723902.shtml",
+        "publishedAt": "2026-10-31T14:47:44.000+08:00"
+      },
       {
         "title": "日照缩短 山西古建提前“收工”一小时",
         "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723900.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "乌镇发出“开源开放 共建共享”之声",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723896.shtml",
         "publishedAt": "2026-10-31T14:43:56.000+08:00"
-      },
-      {
-        "title": "波兰宪法法院“人事变故”引发冲突 总统中断外访紧急回国",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723898.shtml",
-        "publishedAt": "2026-10-31T14:43:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T14:50:03.337+08:00",
+    "fetchedAt": "2026-10-31T15:00:03.630+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T14:50:37.371+08:00",
+      "fetchedAt": "2026-10-31T15:00:37.923+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T19:50:38.000+08:00"
+          "resetAt": "2026-10-31T20:00:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T14:50:37.713+08:00",
+      "fetchedAt": "2026-10-31T15:00:38.180+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T14:50:37.724+08:00",
+      "fetchedAt": "2026-10-31T15:00:38.189+08:00",
       "error": null
     }
   }
