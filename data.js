@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T12:00:08.959+08:00",
+  "updatedAt": "2026-10-31T12:10:39.245+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-31T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T12:00:08.960+08:00",
+    "fetchedAt": "2026-10-31T12:10:39.246+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "陈鲁豫：跨越周期",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723829.shtml",
+        "publishedAt": "2026-10-31T11:56:23.000+08:00"
+      },
       {
         "title": "旅荷大熊猫幼崽“朗月”平安接返回国",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723827.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "暨南大学原创文化精品大师剧《振铎》焕新公演",
         "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723796.shtml",
         "publishedAt": "2026-10-31T11:30:07.000+08:00"
-      },
-      {
-        "title": "2026中国（大营）国际皮草博览会开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723793.shtml",
-        "publishedAt": "2026-10-31T11:28:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T12:00:03.555+08:00",
+    "fetchedAt": "2026-10-31T12:10:03.403+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T12:00:07.713+08:00",
+      "fetchedAt": "2026-10-31T12:10:37.918+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T12:00:07.983+08:00",
+      "fetchedAt": "2026-10-31T12:10:38.272+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T12:00:07.992+08:00",
+      "fetchedAt": "2026-10-31T12:10:38.277+08:00",
       "error": null
     }
   }
