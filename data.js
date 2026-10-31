@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T21:20:11.537+08:00",
+  "updatedAt": "2026-10-31T21:30:10.922+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.3,
-    "feelsLikeC": 18.2,
-    "humidity": 80,
+    "tempC": 18.8,
+    "feelsLikeC": 18.7,
+    "humidity": 78,
     "windKph": 11.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T21:20:11.537+08:00",
+    "observedAt": "2026-10-31T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T21:30:10.922+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今年前三季度 我国钢铁品种不断调整优化",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724078.shtml",
-        "publishedAt": "2026-10-31T21:12:45.000+08:00"
+        "title": "“人人都说沂蒙山好”2026年短视频创作大赛启动",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724065.shtml",
+        "publishedAt": "2026-10-31T21:21:22.000+08:00"
       },
       {
-        "title": "第九届进博会首批展品开箱 硬核装备抢先看",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724077.shtml",
-        "publishedAt": "2026-10-31T21:11:21.000+08:00"
+        "title": "合成生物领域科学智能体发布 初步验证Al驱动生物制造研发潜力",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724063.shtml",
+        "publishedAt": "2026-10-31T21:20:44.000+08:00"
       },
       {
-        "title": "澳旅游局局长：“中国是我们领先的客源市场之一”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724075.shtml",
-        "publishedAt": "2026-10-31T21:09:43.000+08:00"
+        "title": "港澳台侨学子探访“成都智造”：在科创岛感受AI与机器人前沿",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724062.shtml",
+        "publishedAt": "2026-10-31T21:20:16.000+08:00"
       },
       {
-        "title": "民调显示多数韩国受访者支持加强对华合作",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724076.shtml",
-        "publishedAt": "2026-10-31T21:09:09.000+08:00"
+        "title": "2026中国气排球公开赛（长沙站）开打 商体融合激活体育消费",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724067.shtml",
+        "publishedAt": "2026-10-31T21:19:20.000+08:00"
       },
       {
-        "title": "合作进行时︱中德关系事关双边、中欧，更事关全球",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724074.shtml",
-        "publishedAt": "2026-10-31T21:08:09.000+08:00"
+        "title": "首届粤港澳大湾区十大科技成果新闻揭晓",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10724060.shtml",
+        "publishedAt": "2026-10-31T21:17:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T21:20:03.481+08:00",
+    "fetchedAt": "2026-10-31T21:30:05.010+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T21:20:07.356+08:00",
+      "fetchedAt": "2026-10-31T21:30:09.162+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T21:20:07.625+08:00",
+      "fetchedAt": "2026-10-31T21:30:09.802+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T21:20:07.634+08:00",
+      "fetchedAt": "2026-10-31T21:30:09.811+08:00",
       "error": null
     }
   }
