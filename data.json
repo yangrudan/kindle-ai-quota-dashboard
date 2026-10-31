@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T17:20:09.209+08:00",
+  "updatedAt": "2026-10-31T17:30:09.499+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.4,
-    "feelsLikeC": 20.4,
-    "humidity": 72,
-    "windKph": 12,
+    "tempC": 19.9,
+    "feelsLikeC": 19.8,
+    "humidity": 73,
+    "windKph": 11.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-31T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T17:20:09.210+08:00",
+    "observedAt": "2026-10-31T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T17:30:09.499+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "世博讲堂在沪举办 共论如何延续上海世博会主题效应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723947.shtml",
+        "publishedAt": "2026-10-31T17:14:36.000+08:00"
+      },
+      {
+        "title": "贵州绿色好物走出大山 “贵品进京”专题推介活动在京举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723946.shtml",
+        "publishedAt": "2026-10-31T17:13:58.000+08:00"
+      },
       {
         "title": "中英20余所高校聚首南京 发布重塑全球教育未来倡议",
         "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723945.shtml",
@@ -33,19 +43,9 @@
         "title": "今年前三季度东北地区货物贸易进出口超9900亿元 创历史同期新高",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723949.shtml",
         "publishedAt": "2026-10-31T17:06:52.000+08:00"
-      },
-      {
-        "title": "“张雪机车”商标回归张雪！品牌保护要趁早，商标布局当占先",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723948.shtml",
-        "publishedAt": "2026-10-31T17:04:48.000+08:00"
-      },
-      {
-        "title": "2026年川渝匹克球公开赛暨川陕甘青匹克球邀请赛开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723942.shtml",
-        "publishedAt": "2026-10-31T17:03:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T17:20:03.542+08:00",
+    "fetchedAt": "2026-10-31T17:30:03.730+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T17:20:07.871+08:00",
+      "fetchedAt": "2026-10-31T17:30:08.019+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T22:20:09.000+08:00"
+          "resetAt": "2026-10-31T22:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T17:20:08.141+08:00",
+      "fetchedAt": "2026-10-31T17:30:08.317+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T17:20:08.147+08:00",
+      "fetchedAt": "2026-10-31T17:30:08.326+08:00",
       "error": null
     }
   }
