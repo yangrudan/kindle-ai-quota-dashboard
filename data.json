@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T07:10:15.657+08:00",
+  "updatedAt": "2026-11-01T07:20:09.624+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.7,
-    "feelsLikeC": 18.1,
-    "humidity": 80,
+    "tempC": 18.2,
+    "feelsLikeC": 18.5,
+    "humidity": 78,
     "windKph": 6.7,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-01T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T07:10:15.657+08:00",
+    "observedAt": "2026-11-01T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T07:20:09.624+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月1日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-01/10724127.shtml",
+        "publishedAt": "2026-11-01T07:05:06.000+08:00"
+      },
       {
         "title": "教室采光照明新国标11月1日起实施 如何让学生们“看得舒适”？",
         "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724126.shtml",
@@ -38,14 +43,9 @@
         "title": "泰国着手制定第四个国家旅游发展计划",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml",
         "publishedAt": "2026-10-31T23:23:46.000+08:00"
-      },
-      {
-        "title": "伊朗外长：目前没有与美国官员会面的计划",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724122.shtml",
-        "publishedAt": "2026-10-31T23:14:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T07:10:03.815+08:00",
+    "fetchedAt": "2026-11-01T07:20:03.606+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T07:10:12.725+08:00",
+      "fetchedAt": "2026-11-01T07:20:08.010+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T12:10:15.000+08:00"
+          "resetAt": "2026-11-01T12:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T07:10:14.565+08:00",
+      "fetchedAt": "2026-11-01T07:20:08.378+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T07:10:14.574+08:00",
+      "fetchedAt": "2026-11-01T07:20:08.385+08:00",
       "error": null
     }
   }
