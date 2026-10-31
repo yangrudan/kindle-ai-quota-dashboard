@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T11:10:10.311+08:00",
+  "updatedAt": "2026-10-31T11:20:12.036+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.3,
-    "feelsLikeC": 23.1,
-    "humidity": 66,
+    "tempC": 22.6,
+    "feelsLikeC": 23.4,
+    "humidity": 65,
     "windKph": 9.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-31T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T11:10:10.312+08:00",
+    "observedAt": "2026-10-31T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T11:20:12.037+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "经济日报：投资消费协力拓宽服务业增长空间",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723813.shtml",
-        "publishedAt": "2026-10-31T11:00:40.000+08:00"
+        "title": "甘肃高校：车间 “搬进” 课堂 赛训相融对接产业一线",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723815.shtml",
+        "publishedAt": "2026-10-31T11:11:04.000+08:00"
       },
       {
-        "title": "鄱阳湖主湖区白鹤越冬季拉开帷幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723806.shtml",
-        "publishedAt": "2026-10-31T10:59:40.000+08:00"
+        "title": "全国首个高分子材料国家级技贸评议基地落地广州开发区",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723818.shtml",
+        "publishedAt": "2026-10-31T11:10:16.000+08:00"
       },
       {
-        "title": "一条铁路 三座“全球第一”（探访全球第一）",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723812.shtml",
-        "publishedAt": "2026-10-31T10:58:36.000+08:00"
+        "title": "AI赋能教育装备产业发展 第88届中国教育装备展示会长沙启幕",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723819.shtml",
+        "publishedAt": "2026-10-31T11:09:28.000+08:00"
       },
       {
-        "title": "黑龙江：大力推进新型工业化",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723804.shtml",
-        "publishedAt": "2026-10-31T10:58:14.000+08:00"
+        "title": "政策红利直达科研一线 助力敦煌文化遗产保护研究",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723814.shtml",
+        "publishedAt": "2026-10-31T11:08:52.000+08:00"
       },
       {
-        "title": "辽宁举办民族团结进步创建进学校专题培训班",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723802.shtml",
-        "publishedAt": "2026-10-31T10:56:28.000+08:00"
+        "title": "冷空气接力来袭 东北多地迎立秋后最冷一天",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723820.shtml",
+        "publishedAt": "2026-10-31T11:08:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T11:10:03.566+08:00",
+    "fetchedAt": "2026-10-31T11:20:03.868+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T11:10:08.161+08:00",
+      "fetchedAt": "2026-10-31T11:20:08.674+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T11:10:08.332+08:00",
+      "fetchedAt": "2026-10-31T11:20:10.403+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T11:10:08.338+08:00",
+      "fetchedAt": "2026-10-31T11:20:10.412+08:00",
       "error": null
     }
   }
