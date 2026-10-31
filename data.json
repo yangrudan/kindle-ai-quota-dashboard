@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T22:10:09.382+08:00",
+  "updatedAt": "2026-10-31T22:20:38.065+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.6,
+    "tempC": 18.5,
     "feelsLikeC": 18.6,
     "humidity": 79,
-    "windKph": 11,
+    "windKph": 10.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-31T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T22:10:09.383+08:00",
+    "observedAt": "2026-10-31T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T22:20:38.065+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国大学生乒乓球锦标赛第四站冰城挥拍 14所高校运动员齐聚冰城",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724092.shtml",
-        "publishedAt": "2026-10-31T21:48:29.000+08:00"
+        "title": "国际金价跌回一年前，发生了什么？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml",
+        "publishedAt": "2026-10-31T22:12:16.000+08:00"
       },
       {
-        "title": "海内外逾百位学者在汕头召开研讨会 为APEC贡献侨界智慧",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-31/10724091.shtml",
-        "publishedAt": "2026-10-31T21:48:23.000+08:00"
+        "title": "中新健康｜14岁突发脑卒中，家长称其把饮料、奶茶当水喝！医生提醒",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10724097.shtml",
+        "publishedAt": "2026-10-31T22:11:24.000+08:00"
       },
       {
-        "title": "中国“世界美食之都”知识产权协同保护机制在泉州启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724090.shtml",
-        "publishedAt": "2026-10-31T21:48:17.000+08:00"
+        "title": "粤港澳大湾区中学生历史知识邀请赛在澳门举行",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10724096.shtml",
+        "publishedAt": "2026-10-31T22:09:10.000+08:00"
       },
       {
-        "title": "130名持马来西亚护照人员涉嫌网络诈骗在巴基斯坦被捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724089.shtml",
-        "publishedAt": "2026-10-31T21:48:15.000+08:00"
+        "title": "江西史上宽度最大运输物件平安运抵南昌",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724095.shtml",
+        "publishedAt": "2026-10-31T22:08:20.000+08:00"
       },
       {
-        "title": "“同唱友谊歌”——2026中越金曲音乐盛典在河内举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10724088.shtml",
-        "publishedAt": "2026-10-31T21:48:09.000+08:00"
+        "title": "中国科学院第九届科学节开幕 激发社会公众尤其是青少年探索未知",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724094.shtml",
+        "publishedAt": "2026-10-31T22:08:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T22:10:03.797+08:00",
+    "fetchedAt": "2026-10-31T22:20:03.042+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T22:10:07.848+08:00",
+      "fetchedAt": "2026-10-31T22:20:36.836+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T22:10:08.104+08:00",
+      "fetchedAt": "2026-10-31T22:20:37.162+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T22:10:08.109+08:00",
+      "fetchedAt": "2026-10-31T22:20:37.172+08:00",
       "error": null
     }
   }
