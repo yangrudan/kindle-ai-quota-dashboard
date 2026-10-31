@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T11:30:11.694+08:00",
+  "updatedAt": "2026-10-31T11:40:08.579+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-31T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T11:30:11.694+08:00",
+    "fetchedAt": "2026-10-31T11:40:08.579+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "暨南大学原创文化精品大师剧《振铎》焕新公演",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723796.shtml",
+        "publishedAt": "2026-10-31T11:30:07.000+08:00"
+      },
+      {
+        "title": "2026中国（大营）国际皮草博览会开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723793.shtml",
+        "publishedAt": "2026-10-31T11:28:55.000+08:00"
+      },
+      {
         "title": "多国人士谈五中全会：中共推进自我革新有助于提升国家发展成效",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723823.shtml",
         "publishedAt": "2026-10-31T11:25:29.000+08:00"
       },
       {
+        "title": "国内首款罕见病特殊医学用途氨基酸组件配方食品“光明爱普昔”面世",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723821.shtml",
+        "publishedAt": "2026-10-31T11:25:25.000+08:00"
+      },
+      {
         "title": "甘肃高校：车间 “搬进” 课堂 赛训相融对接产业一线",
         "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723815.shtml",
         "publishedAt": "2026-10-31T11:11:04.000+08:00"
-      },
-      {
-        "title": "全国首个高分子材料国家级技贸评议基地落地广州开发区",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723818.shtml",
-        "publishedAt": "2026-10-31T11:10:16.000+08:00"
-      },
-      {
-        "title": "AI赋能教育装备产业发展 第88届中国教育装备展示会长沙启幕",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723819.shtml",
-        "publishedAt": "2026-10-31T11:09:28.000+08:00"
-      },
-      {
-        "title": "政策红利直达科研一线 助力敦煌文化遗产保护研究",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723814.shtml",
-        "publishedAt": "2026-10-31T11:08:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T11:30:04.885+08:00",
+    "fetchedAt": "2026-10-31T11:40:02.899+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T11:30:09.737+08:00",
+      "fetchedAt": "2026-10-31T11:40:07.267+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T11:30:10.011+08:00",
+      "fetchedAt": "2026-10-31T11:40:07.540+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T11:30:10.016+08:00",
+      "fetchedAt": "2026-10-31T11:40:07.549+08:00",
       "error": null
     }
   }
