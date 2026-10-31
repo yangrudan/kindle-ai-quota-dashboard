@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T18:10:08.906+08:00",
+  "updatedAt": "2026-10-31T18:20:09.287+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19,
-    "feelsLikeC": 18.8,
-    "humidity": 76,
-    "windKph": 11.7,
+    "tempC": 18.8,
+    "feelsLikeC": 18.7,
+    "humidity": 77,
+    "windKph": 11.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-31T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T18:10:08.906+08:00",
+    "observedAt": "2026-10-31T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T18:20:09.288+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "清香“调”进江南：汾酒城市巡游杭州站，看见传统名酒的“慢表达”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723966.shtml",
+        "publishedAt": "2026-10-31T18:07:45.000+08:00"
+      },
       {
         "title": "11月1日起一批国家标准开始实施",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723963.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026世界顶尖科学家论坛在沪开幕 聚焦未来十年科学突破",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723955.shtml",
         "publishedAt": "2026-10-31T17:45:32.000+08:00"
-      },
-      {
-        "title": "向“新”而行 以“质”致远——宁波外贸民营企业搏击海外的底气与坚守",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723959.shtml",
-        "publishedAt": "2026-10-31T17:44:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T18:10:03.708+08:00",
+    "fetchedAt": "2026-10-31T18:20:03.526+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T18:10:07.520+08:00",
+      "fetchedAt": "2026-10-31T18:20:07.587+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T23:10:08.000+08:00"
+          "resetAt": "2026-10-31T23:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T18:10:07.724+08:00",
+      "fetchedAt": "2026-10-31T18:20:08.331+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T18:10:07.732+08:00",
+      "fetchedAt": "2026-10-31T18:20:08.340+08:00",
       "error": null
     }
   }
