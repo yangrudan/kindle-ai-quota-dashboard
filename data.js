@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T19:30:17.769+08:00",
+  "updatedAt": "2026-10-31T19:40:09.155+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 18.8,
-    "feelsLikeC": 18.8,
-    "humidity": 79,
-    "windKph": 11.3,
+    "feelsLikeC": 18.7,
+    "humidity": 78,
+    "windKph": 11.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T19:30:17.769+08:00",
+    "observedAt": "2026-10-31T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T19:40:09.155+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026中华文化天府论坛成都开幕 中外专家学者共话文化遗产保护",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724010.shtml",
+        "publishedAt": "2026-10-31T19:32:06.000+08:00"
+      },
+      {
+        "title": "借 APEC 东风 广货出海从“产品输出”迈向“生态共生”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724008.shtml",
+        "publishedAt": "2026-10-31T19:31:08.000+08:00"
+      },
+      {
+        "title": "江苏常熟：康博村的幸福生活",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209324.shtml",
+        "publishedAt": "2026-10-31T19:23:32.000+08:00"
+      },
       {
         "title": "风景园林专家齐聚重庆 共探园林植物赋能城市更新路径",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724007.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "旅荷大熊猫“朗月”抵达雅安基地 开启30天隔离检疫",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724004.shtml",
         "publishedAt": "2026-10-31T19:08:14.000+08:00"
-      },
-      {
-        "title": "湖南张家界“旅游朋友圈”加速向海外拓展",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723999.shtml",
-        "publishedAt": "2026-10-31T19:06:06.000+08:00"
-      },
-      {
-        "title": "原中国石油化工集团公司董事长傅成玉被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723998.shtml",
-        "publishedAt": "2026-10-31T19:05:28.000+08:00"
-      },
-      {
-        "title": "（八闽千姿）繁花满城、榕树成荫 福州用匠心雕琢城市风貌",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724000.shtml",
-        "publishedAt": "2026-10-31T19:04:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T19:30:12.263+08:00",
+    "fetchedAt": "2026-10-31T19:40:03.588+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T19:30:16.429+08:00",
+      "fetchedAt": "2026-10-31T19:40:07.829+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T00:30:17.000+08:00"
+          "resetAt": "2026-11-01T00:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T19:30:16.747+08:00",
+      "fetchedAt": "2026-10-31T19:40:08.123+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T19:30:16.757+08:00",
+      "fetchedAt": "2026-10-31T19:40:08.130+08:00",
       "error": null
     }
   }
