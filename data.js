@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T16:10:09.966+08:00",
+  "updatedAt": "2026-10-31T16:20:08.054+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.5,
-    "feelsLikeC": 23.2,
-    "humidity": 57,
-    "windKph": 12.1,
+    "tempC": 22.9,
+    "feelsLikeC": 22.7,
+    "humidity": 60,
+    "windKph": 12,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T16:10:09.967+08:00",
+    "observedAt": "2026-10-31T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T16:20:08.054+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "金饰克价，年内跌了近550元！大金镯子又香了→",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723926.shtml",
+        "publishedAt": "2026-10-31T16:01:08.000+08:00"
+      },
       {
         "title": "大飞机衍生型技术创新中心在江西揭牌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723923.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "84岁剑桥“树洞爷爷”走进地坛，与中国大众写作者共话生活文学",
         "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723918.shtml",
         "publishedAt": "2026-10-31T15:57:12.000+08:00"
-      },
-      {
-        "title": "海内外顶尖登高跑选手齐聚上海展开云端竞速",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723906.shtml",
-        "publishedAt": "2026-10-31T15:50:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T16:10:03.068+08:00",
+    "fetchedAt": "2026-10-31T16:20:03.465+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T16:10:07.020+08:00",
+      "fetchedAt": "2026-10-31T16:20:06.747+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T21:10:08.000+08:00"
+          "resetAt": "2026-10-31T21:20:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T16:10:07.486+08:00",
+      "fetchedAt": "2026-10-31T16:20:07.046+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T16:10:07.493+08:00",
+      "fetchedAt": "2026-10-31T16:20:07.052+08:00",
       "error": null
     }
   }
