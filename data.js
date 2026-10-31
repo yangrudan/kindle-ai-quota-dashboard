@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T20:40:09.117+08:00",
+  "updatedAt": "2026-10-31T20:50:40.268+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.6,
-    "feelsLikeC": 18.2,
+    "tempC": 18.5,
+    "feelsLikeC": 18.1,
     "humidity": 76,
-    "windKph": 11.8,
+    "windKph": 11.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T20:40:09.117+08:00",
+    "observedAt": "2026-10-31T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T20:50:40.269+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年铸造产业集群年会暨产业集群高质量发展经验交流会在河北鸡泽召开",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724034.shtml",
-        "publishedAt": "2026-10-31T20:33:51.000+08:00"
+        "title": "西泠印社丙午秋季雅集系列展览在杭州开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724039.shtml",
+        "publishedAt": "2026-10-31T20:40:51.000+08:00"
       },
       {
-        "title": "浙江省第十八届运动会闭幕 121人打破84项省纪录",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724030.shtml",
-        "publishedAt": "2026-10-31T20:32:29.000+08:00"
+        "title": "《图说中国古代物质文化常识》从器物读懂中国",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724052.shtml",
+        "publishedAt": "2026-10-31T20:40:39.000+08:00"
       },
       {
-        "title": "海南自贸港政策加持 澄迈助企扬帆出海",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724035.shtml",
-        "publishedAt": "2026-10-31T20:31:51.000+08:00"
+        "title": "湖北当枝松高速通过交工验收 10万岛民将圆过江梦",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724037.shtml",
+        "publishedAt": "2026-10-31T20:39:07.000+08:00"
       },
       {
-        "title": "现实版“波动拳”来了 新兴AR体育HADO在沪办世冠杯",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724031.shtml",
-        "publishedAt": "2026-10-31T20:30:17.000+08:00"
+        "title": "2026北京西山永定河文化节主会场活动举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724036.shtml",
+        "publishedAt": "2026-10-31T20:38:47.000+08:00"
       },
       {
-        "title": "WTA常规赛季压轴分站在港揭幕",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10724028.shtml",
-        "publishedAt": "2026-10-31T20:29:25.000+08:00"
+        "title": "四川华蓥大摆荡项目事故调查报告公布",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724049.shtml",
+        "publishedAt": "2026-10-31T20:36:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T20:40:03.872+08:00",
+    "fetchedAt": "2026-10-31T20:50:03.619+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T20:40:07.530+08:00",
+      "fetchedAt": "2026-10-31T20:50:37.770+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-01T01:40:08.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-11-01T01:44:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 41,
+          "usedPct": 42,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T20:40:07.825+08:00",
+      "fetchedAt": "2026-10-31T20:50:38.087+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T20:40:07.833+08:00",
+      "fetchedAt": "2026-10-31T20:50:38.098+08:00",
       "error": null
     }
   }
