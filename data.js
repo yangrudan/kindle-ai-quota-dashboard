@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T15:20:38.687+08:00",
+  "updatedAt": "2026-10-31T15:30:08.969+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.4,
-    "feelsLikeC": 24.1,
-    "humidity": 53,
-    "windKph": 11.4,
+    "tempC": 24.2,
+    "feelsLikeC": 23.8,
+    "humidity": 54,
+    "windKph": 11.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T15:20:38.687+08:00",
+    "observedAt": "2026-10-31T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T15:30:08.969+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国加州一购物中心发生枪击致1死6伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723912.shtml",
+        "publishedAt": "2026-10-31T15:14:38.000+08:00"
+      },
       {
         "title": "重庆开州“烹”出职教新局：课堂连灶台，毕业能上岗",
         "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723905.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "日照缩短 山西古建提前“收工”一小时",
         "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723900.shtml",
         "publishedAt": "2026-10-31T14:46:06.000+08:00"
-      },
-      {
-        "title": "捏造“大戏”，粉饰不了历史罪责 | 新漫评",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723870.shtml",
-        "publishedAt": "2026-10-31T14:44:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T15:20:03.404+08:00",
+    "fetchedAt": "2026-10-31T15:30:03.438+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T15:20:37.033+08:00",
+      "fetchedAt": "2026-10-31T15:30:07.496+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T20:20:38.000+08:00"
+          "resetAt": "2026-10-31T20:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T15:20:37.307+08:00",
+      "fetchedAt": "2026-10-31T15:30:07.848+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T15:20:37.315+08:00",
+      "fetchedAt": "2026-10-31T15:30:07.858+08:00",
       "error": null
     }
   }
