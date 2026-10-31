@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:30:09.223+08:00",
+  "updatedAt": "2026-10-31T12:40:09.074+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-31T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T12:30:09.223+08:00",
+    "fetchedAt": "2026-10-31T12:40:09.074+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从交出答案到读懂答案：学者共议AI时代教育新挑战",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
+        "publishedAt": "2026-10-31T12:30:01.000+08:00"
+      },
+      {
+        "title": "广州发布100个“小而美”文旅打卡点",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723836.shtml",
+        "publishedAt": "2026-10-31T12:28:27.000+08:00"
+      },
       {
         "title": "国铁郑州局开行今年首趟河南南阳至红旗渠旅游列车",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723837.shtml",
@@ -33,19 +43,9 @@
         "title": "多餐饮品牌要求“消费才可入座”，合规吗？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723840.shtml",
         "publishedAt": "2026-10-31T12:21:32.000+08:00"
-      },
-      {
-        "title": "AI加速科研，如何让答案经得起检验？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723831.shtml",
-        "publishedAt": "2026-10-31T12:17:48.000+08:00"
-      },
-      {
-        "title": "2026长江文化节在江苏张家港开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723834.shtml",
-        "publishedAt": "2026-10-31T12:16:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T12:30:03.395+08:00",
+    "fetchedAt": "2026-10-31T12:40:03.177+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T12:30:07.875+08:00",
+      "fetchedAt": "2026-10-31T12:40:07.410+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T12:30:08.166+08:00",
+      "fetchedAt": "2026-10-31T12:40:07.685+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T12:30:08.172+08:00",
+      "fetchedAt": "2026-10-31T12:40:07.695+08:00",
       "error": null
     }
   }
