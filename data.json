@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T09:40:38.769+08:00",
+  "updatedAt": "2026-10-31T09:50:09.540+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 20,
-    "humidity": 85,
-    "windKph": 5.7,
+    "tempC": 19.5,
+    "feelsLikeC": 20.7,
+    "humidity": 81,
+    "windKph": 6.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-31T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T09:40:38.769+08:00",
+    "observedAt": "2026-10-31T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T09:50:09.540+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026中国（大营）国际皮草博览会开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723776.shtml",
-        "publishedAt": "2026-10-31T09:32:57.000+08:00"
+        "title": "美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723786.shtml",
+        "publishedAt": "2026-10-31T09:44:46.000+08:00"
       },
       {
-        "title": "天地一体化太空算力云平台在京发布 覆盖40余颗卫星算力资源",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723761.shtml",
-        "publishedAt": "2026-10-31T09:32:45.000+08:00"
+        "title": "国家税务总局吉林省税务局党委委员于洋接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723780.shtml",
+        "publishedAt": "2026-10-31T09:42:24.000+08:00"
       },
       {
-        "title": "澳门第八届立法会公布第一会期工作报告：深化行政立法良性互动",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723760.shtml",
-        "publishedAt": "2026-10-31T09:31:37.000+08:00"
+        "title": "伊朗：4艘油轮在霍尔木兹海峡爆炸起火",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723785.shtml",
+        "publishedAt": "2026-10-31T09:40:43.000+08:00"
       },
       {
-        "title": "香港网约车服务牌照申请期结束 共收到8份申请",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723777.shtml",
-        "publishedAt": "2026-10-31T09:31:33.000+08:00"
+        "title": "辽宁省抚顺市人民检察院原党组书记徐志飞接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723779.shtml",
+        "publishedAt": "2026-10-31T09:38:37.000+08:00"
       },
       {
-        "title": "日本民众举行抗议集会反对高市政府扩军修宪",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209283.shtml",
-        "publishedAt": "2026-10-31T09:28:09.000+08:00"
+        "title": "江苏常熟：以制造之力铸大国重器",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209287.shtml",
+        "publishedAt": "2026-10-31T09:37:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T09:40:03.471+08:00",
+    "fetchedAt": "2026-10-31T09:50:03.327+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T09:40:37.072+08:00",
+      "fetchedAt": "2026-10-31T09:50:08.118+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T09:40:37.424+08:00",
+      "fetchedAt": "2026-10-31T09:50:08.421+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T09:40:37.429+08:00",
+      "fetchedAt": "2026-10-31T09:50:08.430+08:00",
       "error": null
     }
   }
