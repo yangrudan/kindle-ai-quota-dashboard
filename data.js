@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T16:00:09.767+08:00",
+  "updatedAt": "2026-10-31T16:10:09.966+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.1,
-    "feelsLikeC": 22.8,
-    "humidity": 59,
-    "windKph": 12,
+    "tempC": 23.5,
+    "feelsLikeC": 23.2,
+    "humidity": 57,
+    "windKph": 12.1,
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-31T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T16:00:09.767+08:00",
+    "fetchedAt": "2026-10-31T16:10:09.967+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "大飞机衍生型技术创新中心在江西揭牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723923.shtml",
+        "publishedAt": "2026-10-31T15:59:24.000+08:00"
+      },
+      {
+        "title": "第140届广交会第三期开幕 逾1.2万展商携新品亮相",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723922.shtml",
+        "publishedAt": "2026-10-31T15:58:32.000+08:00"
+      },
+      {
+        "title": "10月中国非制造业商务活动指数为49.7% 信息服务业保持扩张",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723921.shtml",
+        "publishedAt": "2026-10-31T15:57:56.000+08:00"
+      },
+      {
+        "title": "84岁剑桥“树洞爷爷”走进地坛，与中国大众写作者共话生活文学",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723918.shtml",
+        "publishedAt": "2026-10-31T15:57:12.000+08:00"
+      },
+      {
         "title": "海内外顶尖登高跑选手齐聚上海展开云端竞速",
         "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723906.shtml",
         "publishedAt": "2026-10-31T15:50:48.000+08:00"
-      },
-      {
-        "title": "人宠同台共演舞台剧 狗狗“演员”长春首秀萌动全场",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723892.shtml",
-        "publishedAt": "2026-10-31T15:49:46.000+08:00"
-      },
-      {
-        "title": "美国加州一购物中心发生枪击致1死6伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723912.shtml",
-        "publishedAt": "2026-10-31T15:14:38.000+08:00"
-      },
-      {
-        "title": "重庆开州“烹”出职教新局：课堂连灶台，毕业能上岗",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723905.shtml",
-        "publishedAt": "2026-10-31T15:04:57.000+08:00"
-      },
-      {
-        "title": "算法“投毒”，篡改不了历史罪责",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723903.shtml",
-        "publishedAt": "2026-10-31T14:55:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T16:00:04.608+08:00",
+    "fetchedAt": "2026-10-31T16:10:03.068+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T16:00:08.430+08:00",
+      "fetchedAt": "2026-10-31T16:10:07.020+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T21:00:09.000+08:00"
+          "resetAt": "2026-10-31T21:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T16:00:08.764+08:00",
+      "fetchedAt": "2026-10-31T16:10:07.486+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T16:00:08.773+08:00",
+      "fetchedAt": "2026-10-31T16:10:07.493+08:00",
       "error": null
     }
   }
