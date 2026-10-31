@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T06:40:09.308+08:00",
+  "updatedAt": "2026-11-01T06:50:12.809+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.3,
-    "feelsLikeC": 17.7,
-    "humidity": 81,
-    "windKph": 6.1,
+    "tempC": 17.5,
+    "feelsLikeC": 17.8,
+    "humidity": 80,
+    "windKph": 6.5,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-01T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T06:40:09.308+08:00",
+    "observedAt": "2026-11-01T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T06:50:12.809+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "教室采光照明新国标11月1日起实施 如何让学生们“看得舒适”？",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724126.shtml",
+        "publishedAt": "2026-11-01T06:39:35.000+08:00"
+      },
       {
         "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
         "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "伊朗外长：目前没有与美国官员会面的计划",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724122.shtml",
         "publishedAt": "2026-10-31T23:14:32.000+08:00"
-      },
-      {
-        "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724111.shtml",
-        "publishedAt": "2026-10-31T22:28:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T06:40:03.859+08:00",
+    "fetchedAt": "2026-11-01T06:50:03.875+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T06:40:07.303+08:00",
+      "fetchedAt": "2026-11-01T06:50:08.271+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T11:40:08.000+08:00"
+          "resetAt": "2026-11-01T11:50:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T06:40:07.708+08:00",
+      "fetchedAt": "2026-11-01T06:50:10.946+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T06:40:07.711+08:00",
+      "fetchedAt": "2026-11-01T06:50:10.954+08:00",
       "error": null
     }
   }
