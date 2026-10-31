@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T22:20:38.065+08:00",
+  "updatedAt": "2026-10-31T22:30:09.698+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.5,
-    "feelsLikeC": 18.6,
+    "tempC": 18.4,
+    "feelsLikeC": 18.5,
     "humidity": 79,
-    "windKph": 10.4,
+    "windKph": 9.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-31T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T22:20:38.065+08:00",
+    "observedAt": "2026-10-31T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T22:30:09.698+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国际金价跌回一年前，发生了什么？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml",
-        "publishedAt": "2026-10-31T22:12:16.000+08:00"
+        "title": "景德镇等中外五座城市获全球可持续发展城市奖（上海奖）",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724108.shtml",
+        "publishedAt": "2026-10-31T22:19:47.000+08:00"
       },
       {
-        "title": "中新健康｜14岁突发脑卒中，家长称其把饮料、奶茶当水喝！医生提醒",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10724097.shtml",
-        "publishedAt": "2026-10-31T22:11:24.000+08:00"
+        "title": "中外学者乌鲁木齐共话龟兹学新发展",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724107.shtml",
+        "publishedAt": "2026-10-31T22:19:45.000+08:00"
       },
       {
-        "title": "粤港澳大湾区中学生历史知识邀请赛在澳门举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10724096.shtml",
-        "publishedAt": "2026-10-31T22:09:10.000+08:00"
+        "title": "港大卓越人才论坛在北京举行 聚焦AI时代下人才挑战等议题",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10724106.shtml",
+        "publishedAt": "2026-10-31T22:19:43.000+08:00"
       },
       {
-        "title": "江西史上宽度最大运输物件平安运抵南昌",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724095.shtml",
-        "publishedAt": "2026-10-31T22:08:20.000+08:00"
+        "title": "海派原创IP讲述上海故事 城市脉动文创展在沪展出",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724105.shtml",
+        "publishedAt": "2026-10-31T22:19:39.000+08:00"
       },
       {
-        "title": "中国科学院第九届科学节开幕 激发社会公众尤其是青少年探索未知",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724094.shtml",
-        "publishedAt": "2026-10-31T22:08:10.000+08:00"
+        "title": "突尼斯人樊白云的西安十年：安心打拼事业，用心感受生活",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724104.shtml",
+        "publishedAt": "2026-10-31T22:18:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T22:20:03.042+08:00",
+    "fetchedAt": "2026-10-31T22:30:03.251+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T22:20:36.836+08:00",
+      "fetchedAt": "2026-10-31T22:30:07.704+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T22:20:37.162+08:00",
+      "fetchedAt": "2026-10-31T22:30:08.048+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T22:20:37.172+08:00",
+      "fetchedAt": "2026-10-31T22:30:08.053+08:00",
       "error": null
     }
   }
