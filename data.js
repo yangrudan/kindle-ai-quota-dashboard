@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T20:30:11.736+08:00",
+  "updatedAt": "2026-10-31T20:40:09.117+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-31T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T20:30:11.736+08:00",
+    "fetchedAt": "2026-10-31T20:40:09.117+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "以高水平开放拓展中瑞合作新空间",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724025.shtml",
-        "publishedAt": "2026-10-31T20:23:17.000+08:00"
+        "title": "2026年铸造产业集群年会暨产业集群高质量发展经验交流会在河北鸡泽召开",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724034.shtml",
+        "publishedAt": "2026-10-31T20:33:51.000+08:00"
       },
       {
-        "title": "2026中国—东盟匹克球公开赛在桂林开赛",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10724020.shtml",
-        "publishedAt": "2026-10-31T20:21:20.000+08:00"
+        "title": "浙江省第十八届运动会闭幕 121人打破84项省纪录",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724030.shtml",
+        "publishedAt": "2026-10-31T20:32:29.000+08:00"
       },
       {
-        "title": "多元发展吸引各国旅客 西双版纳以开放姿态连接世界",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724019.shtml",
-        "publishedAt": "2026-10-31T20:20:00.000+08:00"
+        "title": "海南自贸港政策加持 澄迈助企扬帆出海",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724035.shtml",
+        "publishedAt": "2026-10-31T20:31:51.000+08:00"
       },
       {
-        "title": "陕西第九届公益足球邀请赛暨乡村学校公益足球课堂启动",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724022.shtml",
-        "publishedAt": "2026-10-31T20:17:36.000+08:00"
+        "title": "现实版“波动拳”来了 新兴AR体育HADO在沪办世冠杯",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724031.shtml",
+        "publishedAt": "2026-10-31T20:30:17.000+08:00"
       },
       {
-        "title": "出海企业借力海南自贸港寻找破局通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724016.shtml",
-        "publishedAt": "2026-10-31T19:51:51.000+08:00"
+        "title": "WTA常规赛季压轴分站在港揭幕",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10724028.shtml",
+        "publishedAt": "2026-10-31T20:29:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T20:30:04.363+08:00",
+    "fetchedAt": "2026-10-31T20:40:03.872+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T20:30:09.547+08:00",
+      "fetchedAt": "2026-10-31T20:40:07.530+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T01:30:11.000+08:00"
+          "resetAt": "2026-11-01T01:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T20:30:09.913+08:00",
+      "fetchedAt": "2026-10-31T20:40:07.825+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T20:30:09.923+08:00",
+      "fetchedAt": "2026-10-31T20:40:07.833+08:00",
       "error": null
     }
   }
