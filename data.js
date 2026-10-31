@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T09:50:09.540+08:00",
+  "updatedAt": "2026-10-31T10:00:11.136+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.5,
-    "feelsLikeC": 20.7,
-    "humidity": 81,
-    "windKph": 6.6,
+    "tempC": 20.2,
+    "feelsLikeC": 21.2,
+    "humidity": 77,
+    "windKph": 7.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-31T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T09:50:09.540+08:00",
+    "observedAt": "2026-10-31T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T10:00:11.136+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723786.shtml",
-        "publishedAt": "2026-10-31T09:44:46.000+08:00"
+        "title": "进博会“全勤生”珍得对中国市场充满信心",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723791.shtml",
+        "publishedAt": "2026-10-31T09:57:30.000+08:00"
       },
       {
-        "title": "国家税务总局吉林省税务局党委委员于洋接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723780.shtml",
-        "publishedAt": "2026-10-31T09:42:24.000+08:00"
+        "title": "“苏超”决赛即将打响 无锡常州争夺联赛桂冠",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723778.shtml",
+        "publishedAt": "2026-10-31T09:54:20.000+08:00"
       },
       {
-        "title": "伊朗：4艘油轮在霍尔木兹海峡爆炸起火",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723785.shtml",
-        "publishedAt": "2026-10-31T09:40:43.000+08:00"
+        "title": "山西：推动营商环境年年有变化、年年有提升",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723762.shtml",
+        "publishedAt": "2026-10-31T09:52:30.000+08:00"
       },
       {
-        "title": "辽宁省抚顺市人民检察院原党组书记徐志飞接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723779.shtml",
-        "publishedAt": "2026-10-31T09:38:37.000+08:00"
+        "title": "金价银价，大跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723790.shtml",
+        "publishedAt": "2026-10-31T09:51:54.000+08:00"
       },
       {
-        "title": "江苏常熟：以制造之力铸大国重器",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209287.shtml",
-        "publishedAt": "2026-10-31T09:37:43.000+08:00"
+        "title": "总值21亿美元、盟友“买单”，美国批准对乌500枚“爱国者”导弹军售",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723789.shtml",
+        "publishedAt": "2026-10-31T09:51:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T09:50:03.327+08:00",
+    "fetchedAt": "2026-10-31T10:00:04.966+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T09:50:08.118+08:00",
+      "fetchedAt": "2026-10-31T10:00:09.597+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T09:50:08.421+08:00",
+      "fetchedAt": "2026-10-31T10:00:09.929+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T09:50:08.430+08:00",
+      "fetchedAt": "2026-10-31T10:00:09.933+08:00",
       "error": null
     }
   }
