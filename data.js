@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T21:40:37.989+08:00",
+  "updatedAt": "2026-10-31T21:50:08.826+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.8,
+    "tempC": 18.7,
     "feelsLikeC": 18.6,
-    "humidity": 78,
-    "windKph": 11.8,
+    "humidity": 79,
+    "windKph": 11.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-31T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T21:40:37.989+08:00",
+    "observedAt": "2026-10-31T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T21:50:08.826+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“人人都说沂蒙山好”2026年短视频创作大赛启动",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724065.shtml",
-        "publishedAt": "2026-10-31T21:21:22.000+08:00"
+        "title": "2026年亚太地区人口老龄化会议在浙江杭州举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724086.shtml",
+        "publishedAt": "2026-10-31T21:47:05.000+08:00"
       },
       {
-        "title": "合成生物领域科学智能体发布 初步验证Al驱动生物制造研发潜力",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724063.shtml",
-        "publishedAt": "2026-10-31T21:20:44.000+08:00"
+        "title": "湖南株洲以“市+集+秀”激活时尚消费新生态",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724087.shtml",
+        "publishedAt": "2026-10-31T21:46:59.000+08:00"
       },
       {
-        "title": "港澳台侨学子探访“成都智造”：在科创岛感受AI与机器人前沿",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724062.shtml",
-        "publishedAt": "2026-10-31T21:20:16.000+08:00"
+        "title": "京津冀考古合作迈入“平台共建” 着力构建学术共同体",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724085.shtml",
+        "publishedAt": "2026-10-31T21:43:05.000+08:00"
       },
       {
-        "title": "2026中国气排球公开赛（长沙站）开打 商体融合激活体育消费",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724067.shtml",
-        "publishedAt": "2026-10-31T21:19:20.000+08:00"
+        "title": "宁夏筑牢国土空间规划体系 一张蓝图统筹生态保护与产业发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724083.shtml",
+        "publishedAt": "2026-10-31T21:43:01.000+08:00"
       },
       {
-        "title": "首届粤港澳大湾区十大科技成果新闻揭晓",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10724060.shtml",
-        "publishedAt": "2026-10-31T21:17:45.000+08:00"
+        "title": "《大道同行——孙中山诞辰160周年纪念图片展》在马来西亚开幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724084.shtml",
+        "publishedAt": "2026-10-31T21:42:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T21:40:03.223+08:00",
+    "fetchedAt": "2026-10-31T21:50:03.252+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T21:40:36.781+08:00",
+      "fetchedAt": "2026-10-31T21:50:07.519+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T21:40:37.031+08:00",
+      "fetchedAt": "2026-10-31T21:50:07.759+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T21:40:37.040+08:00",
+      "fetchedAt": "2026-10-31T21:50:07.764+08:00",
       "error": null
     }
   }
