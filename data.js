@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T15:00:39.593+08:00",
+  "updatedAt": "2026-10-31T15:10:08.495+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-10-31T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T15:00:39.593+08:00",
+    "fetchedAt": "2026-10-31T15:10:08.495+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "算法“投毒”，篡改不了历史罪责",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723903.shtml",
+        "publishedAt": "2026-10-31T14:55:41.000+08:00"
+      },
       {
         "title": "事关大额存单，多家外资银行密集上架",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723902.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "尼日利亚军方称打死48名极端组织武装人员",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723899.shtml",
         "publishedAt": "2026-10-31T14:44:08.000+08:00"
-      },
-      {
-        "title": "乌镇发出“开源开放 共建共享”之声",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723896.shtml",
-        "publishedAt": "2026-10-31T14:43:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T15:00:03.630+08:00",
+    "fetchedAt": "2026-10-31T15:10:03.168+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T15:00:37.923+08:00",
+      "fetchedAt": "2026-10-31T15:10:07.146+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T20:00:39.000+08:00"
+          "resetAt": "2026-10-31T20:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T15:00:38.180+08:00",
+      "fetchedAt": "2026-10-31T15:10:07.410+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T15:00:38.189+08:00",
+      "fetchedAt": "2026-10-31T15:10:07.419+08:00",
       "error": null
     }
   }
