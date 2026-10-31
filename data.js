@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T16:40:09.514+08:00",
+  "updatedAt": "2026-10-31T16:50:09.706+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.3,
-    "feelsLikeC": 22.1,
-    "humidity": 63,
+    "tempC": 21.6,
+    "feelsLikeC": 21.5,
+    "humidity": 67,
     "windKph": 12,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T16:40:09.514+08:00",
+    "observedAt": "2026-10-31T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T16:50:09.706+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "东西问丨董维洛：柬中民间合作让“小而美”项目在高棉大地开花结果",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-31/10723934.shtml",
+        "publishedAt": "2026-10-31T16:44:33.000+08:00"
+      },
+      {
+        "title": "第三届铸牢中华民族共同体意识美术作品展在青海西宁开展",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723929.shtml",
+        "publishedAt": "2026-10-31T16:43:41.000+08:00"
+      },
       {
         "title": "陪诊行业首个国标明起实施 这7件事陪诊员不能做",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723936.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "800余位专家学者齐聚第七届载人航天学术大会",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723927.shtml",
         "publishedAt": "2026-10-31T16:29:58.000+08:00"
-      },
-      {
-        "title": "第十四届西塘汉服文化周开幕 单设国际友人方阵",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723925.shtml",
-        "publishedAt": "2026-10-31T16:28:26.000+08:00"
-      },
-      {
-        "title": "全球媒体聚焦|中瑞自贸协定升级议定书对贸易壁垒发出信号",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723933.shtml",
-        "publishedAt": "2026-10-31T16:26:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T16:40:03.451+08:00",
+    "fetchedAt": "2026-10-31T16:50:03.931+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T16:40:07.821+08:00",
+      "fetchedAt": "2026-10-31T16:50:08.537+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T21:40:09.000+08:00"
+          "resetAt": "2026-10-31T21:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T16:40:08.560+08:00",
+      "fetchedAt": "2026-10-31T16:50:08.819+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T16:40:08.569+08:00",
+      "fetchedAt": "2026-10-31T16:50:08.825+08:00",
       "error": null
     }
   }
