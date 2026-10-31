@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T23:20:09.107+08:00",
+  "updatedAt": "2026-10-31T23:30:09.160+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.1,
-    "feelsLikeC": 18.3,
+    "tempC": 18,
+    "feelsLikeC": 18.1,
     "humidity": 79,
-    "windKph": 8.7,
+    "windKph": 8.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-31T23:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T23:20:09.107+08:00",
+    "observedAt": "2026-10-31T23:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T23:30:09.160+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泰国着手制定第四个国家旅游发展计划",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml",
+        "publishedAt": "2026-10-31T23:23:46.000+08:00"
+      },
+      {
+        "title": "伊朗外长：目前没有与美国官员会面的计划",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724122.shtml",
+        "publishedAt": "2026-10-31T23:14:32.000+08:00"
+      },
       {
         "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724111.shtml",
@@ -33,19 +43,9 @@
         "title": "舞剧《妈祖》于福建莆田开启全球首演",
         "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724112.shtml",
         "publishedAt": "2026-10-31T22:26:01.000+08:00"
-      },
-      {
-        "title": "海内外学者：阳明心学为AI时代提供东方智慧",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724110.shtml",
-        "publishedAt": "2026-10-31T22:25:55.000+08:00"
-      },
-      {
-        "title": "景德镇等中外五座城市获全球可持续发展城市奖（上海奖）",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724108.shtml",
-        "publishedAt": "2026-10-31T22:19:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T23:20:03.997+08:00",
+    "fetchedAt": "2026-10-31T23:30:04.006+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T23:20:07.841+08:00",
+      "fetchedAt": "2026-10-31T23:30:07.988+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T23:20:08.143+08:00",
+      "fetchedAt": "2026-10-31T23:30:08.205+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T23:20:08.152+08:00",
+      "fetchedAt": "2026-10-31T23:30:08.210+08:00",
       "error": null
     }
   }
