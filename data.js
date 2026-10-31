@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T17:30:09.499+08:00",
+  "updatedAt": "2026-10-31T17:40:39.304+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-31T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T17:30:09.499+08:00",
+    "fetchedAt": "2026-10-31T17:40:39.304+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723953.shtml",
+        "publishedAt": "2026-10-31T17:31:55.000+08:00"
+      },
       {
         "title": "世博讲堂在沪举办 共论如何延续上海世博会主题效应",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723947.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "世遗烟火聚五洲 2026泉州国际美食月启动",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723944.shtml",
         "publishedAt": "2026-10-31T17:10:34.000+08:00"
-      },
-      {
-        "title": "今年前三季度东北地区货物贸易进出口超9900亿元 创历史同期新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723949.shtml",
-        "publishedAt": "2026-10-31T17:06:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T17:30:03.730+08:00",
+    "fetchedAt": "2026-10-31T17:40:02.930+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T17:30:08.019+08:00",
+      "fetchedAt": "2026-10-31T17:40:36.596+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T22:30:09.000+08:00"
+          "resetAt": "2026-10-31T22:40:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T17:30:08.317+08:00",
+      "fetchedAt": "2026-10-31T17:40:36.929+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T17:30:08.326+08:00",
+      "fetchedAt": "2026-10-31T17:40:36.936+08:00",
       "error": null
     }
   }
