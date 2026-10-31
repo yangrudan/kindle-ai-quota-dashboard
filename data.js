@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T13:10:38.190+08:00",
+  "updatedAt": "2026-10-31T13:20:09.426+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.9,
+    "tempC": 24,
     "feelsLikeC": 24.8,
-    "humidity": 59,
-    "windKph": 9.1,
+    "humidity": 58,
+    "windKph": 9.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T13:10:38.190+08:00",
+    "observedAt": "2026-10-31T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T13:20:09.426+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“我和祖国有个约会”全球华侨华人书画巡回展走进澳门",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723849.shtml",
-        "publishedAt": "2026-10-31T13:03:19.000+08:00"
+        "title": "10月中国制造业PMI回落至49.3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723856.shtml",
+        "publishedAt": "2026-10-31T13:13:37.000+08:00"
       },
       {
-        "title": "俄罗斯百年经典《天鹅湖》亮相桂林 开启中俄艺术跨文化对话",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723848.shtml",
-        "publishedAt": "2026-10-31T13:02:12.000+08:00"
+        "title": "（第九届进博会）前瞻：历“九”弥新，进博会规模再创新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723858.shtml",
+        "publishedAt": "2026-10-31T13:13:05.000+08:00"
       },
       {
-        "title": "书香伴出行 哈尔滨地铁10万张“书厢地铁 阅见冰城”纪念票开售",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723847.shtml",
-        "publishedAt": "2026-10-31T13:01:08.000+08:00"
+        "title": "黄河岸边的异国忠魂",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723854.shtml",
+        "publishedAt": "2026-10-31T13:11:25.000+08:00"
       },
       {
-        "title": "12天9800公里 寿宁退役军人叔侄护送5名志愿军老兵圆梦",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723846.shtml",
-        "publishedAt": "2026-10-31T12:52:00.000+08:00"
+        "title": "中国—东盟溪山论坛“区域国别研究分论坛”在贵州举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723853.shtml",
+        "publishedAt": "2026-10-31T13:10:05.000+08:00"
       },
       {
-        "title": "内地与澳门签约：支持澳门参与“一带一路”科技创新行动计划",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723845.shtml",
-        "publishedAt": "2026-10-31T12:50:42.000+08:00"
+        "title": "理响中国·一笔一画｜量质齐升，为绿色中国再添10亿好“风光”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723859.shtml",
+        "publishedAt": "2026-10-31T13:09:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T13:10:03.624+08:00",
+    "fetchedAt": "2026-10-31T13:20:03.401+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T13:10:37.034+08:00",
+      "fetchedAt": "2026-10-31T13:20:07.879+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T13:10:37.245+08:00",
+      "fetchedAt": "2026-10-31T13:20:08.210+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T13:10:37.250+08:00",
+      "fetchedAt": "2026-10-31T13:20:08.218+08:00",
       "error": null
     }
   }
