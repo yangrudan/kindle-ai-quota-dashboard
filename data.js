@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T17:10:10.418+08:00",
+  "updatedAt": "2026-10-31T17:20:09.209+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21,
-    "feelsLikeC": 20.9,
-    "humidity": 69,
-    "windKph": 11.9,
+    "tempC": 20.4,
+    "feelsLikeC": 20.4,
+    "humidity": 72,
+    "windKph": 12,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-10-31T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T17:10:10.418+08:00",
+    "observedAt": "2026-10-31T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T17:20:09.210+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中英20余所高校聚首南京 发布重塑全球教育未来倡议",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723945.shtml",
+        "publishedAt": "2026-10-31T17:11:12.000+08:00"
+      },
+      {
+        "title": "世遗烟火聚五洲 2026泉州国际美食月启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723944.shtml",
+        "publishedAt": "2026-10-31T17:10:34.000+08:00"
+      },
       {
         "title": "今年前三季度东北地区货物贸易进出口超9900亿元 创历史同期新高",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723949.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026年川渝匹克球公开赛暨川陕甘青匹克球邀请赛开赛",
         "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723942.shtml",
         "publishedAt": "2026-10-31T17:03:02.000+08:00"
-      },
-      {
-        "title": "2026年广西信息通信行业职业技能竞赛在南宁举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723943.shtml",
-        "publishedAt": "2026-10-31T17:02:56.000+08:00"
-      },
-      {
-        "title": "东城区专题推介活动将亮相京港洽谈会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723941.shtml",
-        "publishedAt": "2026-10-31T17:01:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T17:10:04.072+08:00",
+    "fetchedAt": "2026-10-31T17:20:03.542+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T17:10:09.200+08:00",
+      "fetchedAt": "2026-10-31T17:20:07.871+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T22:10:10.000+08:00"
+          "resetAt": "2026-10-31T22:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T17:10:09.502+08:00",
+      "fetchedAt": "2026-10-31T17:20:08.141+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T17:10:09.514+08:00",
+      "fetchedAt": "2026-10-31T17:20:08.147+08:00",
       "error": null
     }
   }
