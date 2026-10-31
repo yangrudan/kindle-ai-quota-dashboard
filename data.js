@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T14:40:09.257+08:00",
+  "updatedAt": "2026-10-31T14:50:38.944+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.3,
-    "feelsLikeC": 24.3,
+    "tempC": 24.2,
+    "feelsLikeC": 24.2,
     "humidity": 55,
     "windKph": 10.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T14:40:09.257+08:00",
+    "observedAt": "2026-10-31T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T14:50:38.945+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从应县木塔到广武雄关 融媒采风团触摸山西朔州千年文脉",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723887.shtml",
-        "publishedAt": "2026-10-31T14:30:37.000+08:00"
+        "title": "日照缩短 山西古建提前“收工”一小时",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723900.shtml",
+        "publishedAt": "2026-10-31T14:46:06.000+08:00"
       },
       {
-        "title": "中国“慧眼”植被健康智能体发布 深度结合人工智能与空天信息",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723888.shtml",
-        "publishedAt": "2026-10-31T14:28:51.000+08:00"
+        "title": "捏造“大戏”，粉饰不了历史罪责 | 新漫评",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723870.shtml",
+        "publishedAt": "2026-10-31T14:44:44.000+08:00"
       },
       {
-        "title": "海南深化与东盟合作 侨商海归共探双向开放新机遇",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723890.shtml",
-        "publishedAt": "2026-10-31T14:28:43.000+08:00"
+        "title": "尼日利亚军方称打死48名极端组织武装人员",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723899.shtml",
+        "publishedAt": "2026-10-31T14:44:08.000+08:00"
       },
       {
-        "title": "日本鸡蛋价格再创新高 物价压力持续冲击家庭开支",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723893.shtml",
-        "publishedAt": "2026-10-31T14:28:11.000+08:00"
+        "title": "乌镇发出“开源开放 共建共享”之声",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723896.shtml",
+        "publishedAt": "2026-10-31T14:43:56.000+08:00"
       },
       {
-        "title": "心理悬疑话剧《心理游戏》中文版首演",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723886.shtml",
-        "publishedAt": "2026-10-31T14:27:25.000+08:00"
+        "title": "波兰宪法法院“人事变故”引发冲突 总统中断外访紧急回国",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723898.shtml",
+        "publishedAt": "2026-10-31T14:43:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T14:40:03.112+08:00",
+    "fetchedAt": "2026-10-31T14:50:03.337+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T14:40:08.051+08:00",
+      "fetchedAt": "2026-10-31T14:50:37.371+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T19:40:09.000+08:00"
+          "resetAt": "2026-10-31T19:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T14:40:08.330+08:00",
+      "fetchedAt": "2026-10-31T14:50:37.713+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T14:40:08.334+08:00",
+      "fetchedAt": "2026-10-31T14:50:37.724+08:00",
       "error": null
     }
   }
