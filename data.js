@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T18:30:08.971+08:00",
+  "updatedAt": "2026-10-31T18:40:09.900+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-10-31T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T18:30:08.971+08:00",
+    "fetchedAt": "2026-10-31T18:40:09.901+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一份服务包如何打开家庭教育的“沟通之门”？",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723968.shtml",
+        "publishedAt": "2026-10-31T18:33:41.000+08:00"
+      },
       {
         "title": "2026四川城市排球联赛开赛",
         "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723967.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "11月1日起一批国家标准开始实施",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723963.shtml",
         "publishedAt": "2026-10-31T18:03:03.000+08:00"
-      },
-      {
-        "title": "（近观中国）与德国总统会谈，习近平提到两个“恒”字",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723950.shtml",
-        "publishedAt": "2026-10-31T17:54:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T18:30:03.794+08:00",
+    "fetchedAt": "2026-10-31T18:40:03.599+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T18:30:07.718+08:00",
+      "fetchedAt": "2026-10-31T18:40:08.486+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T23:30:08.000+08:00"
+          "resetAt": "2026-10-31T23:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T18:30:07.999+08:00",
+      "fetchedAt": "2026-10-31T18:40:08.708+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T18:30:08.007+08:00",
+      "fetchedAt": "2026-10-31T18:40:08.718+08:00",
       "error": null
     }
   }
