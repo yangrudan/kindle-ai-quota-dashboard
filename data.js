@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T09:30:09.878+08:00",
+  "updatedAt": "2026-10-31T09:40:38.769+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-10-31T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T09:30:09.878+08:00",
+    "fetchedAt": "2026-10-31T09:40:38.769+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新冷空气今日登场中东部降水发展 东北多地迎立秋后最冷一天",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723781.shtml",
-        "publishedAt": "2026-10-31T09:14:26.000+08:00"
+        "title": "2026中国（大营）国际皮草博览会开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723776.shtml",
+        "publishedAt": "2026-10-31T09:32:57.000+08:00"
       },
       {
-        "title": "报告称长三角形成从底层算力、核心算法到终端应用的完整产业生态",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723757.shtml",
-        "publishedAt": "2026-10-31T09:12:10.000+08:00"
+        "title": "天地一体化太空算力云平台在京发布 覆盖40余颗卫星算力资源",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723761.shtml",
+        "publishedAt": "2026-10-31T09:32:45.000+08:00"
       },
       {
-        "title": "2026亚洲箱包皮具交易会启幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723756.shtml",
-        "publishedAt": "2026-10-31T09:10:42.000+08:00"
+        "title": "澳门第八届立法会公布第一会期工作报告：深化行政立法良性互动",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723760.shtml",
+        "publishedAt": "2026-10-31T09:31:37.000+08:00"
       },
       {
-        "title": "杭州“好苗保”首期出单 15.85亿风险保额进场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723755.shtml",
-        "publishedAt": "2026-10-31T09:09:08.000+08:00"
+        "title": "香港网约车服务牌照申请期结束 共收到8份申请",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723777.shtml",
+        "publishedAt": "2026-10-31T09:31:33.000+08:00"
       },
       {
-        "title": "“虹桥创想汇”收官 “2026为侨服务进进博”启动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723754.shtml",
-        "publishedAt": "2026-10-31T09:08:08.000+08:00"
+        "title": "日本民众举行抗议集会反对高市政府扩军修宪",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209283.shtml",
+        "publishedAt": "2026-10-31T09:28:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T09:30:04.185+08:00",
+    "fetchedAt": "2026-10-31T09:40:03.471+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T09:30:08.181+08:00",
+      "fetchedAt": "2026-10-31T09:40:37.072+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T09:30:08.884+08:00",
+      "fetchedAt": "2026-10-31T09:40:37.424+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T09:30:08.891+08:00",
+      "fetchedAt": "2026-10-31T09:40:37.429+08:00",
       "error": null
     }
   }
