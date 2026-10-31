@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T12:50:09.289+08:00",
+  "updatedAt": "2026-10-31T13:00:11.381+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.7,
+    "tempC": 23.9,
     "feelsLikeC": 24.8,
-    "humidity": 60,
-    "windKph": 9,
+    "humidity": 59,
+    "windKph": 9.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T12:50:09.290+08:00",
+    "observedAt": "2026-10-31T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T13:00:11.382+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "12天9800公里 寿宁退役军人叔侄护送5名志愿军老兵圆梦",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723846.shtml",
+        "publishedAt": "2026-10-31T12:52:00.000+08:00"
+      },
+      {
+        "title": "内地与澳门签约：支持澳门参与“一带一路”科技创新行动计划",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723845.shtml",
+        "publishedAt": "2026-10-31T12:50:42.000+08:00"
+      },
+      {
+        "title": "澳门车展以金融联动文旅场景 助力内地车企出海",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723844.shtml",
+        "publishedAt": "2026-10-31T12:49:52.000+08:00"
+      },
       {
         "title": "四川工会“暖心餐”：守护劳动者三餐烟火",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723843.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "太原市侨界“守护汾河碧水”志愿服务品牌启动",
         "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723842.shtml",
         "publishedAt": "2026-10-31T12:42:31.000+08:00"
-      },
-      {
-        "title": "重庆市“中医药良方妙技”健康嘉年华启幕",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723841.shtml",
-        "publishedAt": "2026-10-31T12:41:13.000+08:00"
-      },
-      {
-        "title": "从交出答案到读懂答案：学者共议AI时代教育新挑战",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
-        "publishedAt": "2026-10-31T12:30:01.000+08:00"
-      },
-      {
-        "title": "广州发布100个“小而美”文旅打卡点",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723836.shtml",
-        "publishedAt": "2026-10-31T12:28:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T12:50:03.512+08:00",
+    "fetchedAt": "2026-10-31T13:00:05.415+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T12:50:07.981+08:00",
+      "fetchedAt": "2026-10-31T13:00:09.906+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T12:50:08.245+08:00",
+      "fetchedAt": "2026-10-31T13:00:10.245+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T12:50:08.255+08:00",
+      "fetchedAt": "2026-10-31T13:00:10.250+08:00",
       "error": null
     }
   }
