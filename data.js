@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T12:20:09.799+08:00",
+  "updatedAt": "2026-10-31T12:30:09.223+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.3,
-    "feelsLikeC": 24.4,
-    "humidity": 62,
-    "windKph": 8.8,
+    "tempC": 23.5,
+    "feelsLikeC": 24.6,
+    "humidity": 61,
+    "windKph": 8.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T12:20:09.799+08:00",
+    "observedAt": "2026-10-31T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T12:30:09.223+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国铁郑州局开行今年首趟河南南阳至红旗渠旅游列车",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723837.shtml",
+        "publishedAt": "2026-10-31T12:27:21.000+08:00"
+      },
+      {
+        "title": "AI赋能古生物研究与文旅内容出海学术交流会在广西南宁举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723839.shtml",
+        "publishedAt": "2026-10-31T12:25:34.000+08:00"
+      },
+      {
+        "title": "多餐饮品牌要求“消费才可入座”，合规吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723840.shtml",
+        "publishedAt": "2026-10-31T12:21:32.000+08:00"
+      },
       {
         "title": "AI加速科研，如何让答案经得起检验？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723831.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "2026长江文化节在江苏张家港开幕",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723834.shtml",
         "publishedAt": "2026-10-31T12:16:20.000+08:00"
-      },
-      {
-        "title": "前9个月广东全省纪检监察机关处分厅级干部73人",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723835.shtml",
-        "publishedAt": "2026-10-31T12:15:50.000+08:00"
-      },
-      {
-        "title": "陈鲁豫：跨越周期",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723829.shtml",
-        "publishedAt": "2026-10-31T11:56:23.000+08:00"
-      },
-      {
-        "title": "旅荷大熊猫幼崽“朗月”平安接返回国",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723827.shtml",
-        "publishedAt": "2026-10-31T11:45:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T12:20:03.780+08:00",
+    "fetchedAt": "2026-10-31T12:30:03.395+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T12:20:07.651+08:00",
+      "fetchedAt": "2026-10-31T12:30:07.875+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T12:20:08.322+08:00",
+      "fetchedAt": "2026-10-31T12:30:08.166+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T12:20:08.328+08:00",
+      "fetchedAt": "2026-10-31T12:30:08.172+08:00",
       "error": null
     }
   }
