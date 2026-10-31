@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T15:50:08.413+08:00",
+  "updatedAt": "2026-10-31T16:00:09.767+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.9,
-    "feelsLikeC": 23.6,
-    "humidity": 55,
-    "windKph": 11.9,
+    "tempC": 23.1,
+    "feelsLikeC": 22.8,
+    "humidity": 59,
+    "windKph": 12,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-10-31T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T15:50:08.413+08:00",
+    "observedAt": "2026-10-31T16:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T16:00:09.767+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "海内外顶尖登高跑选手齐聚上海展开云端竞速",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723906.shtml",
+        "publishedAt": "2026-10-31T15:50:48.000+08:00"
+      },
+      {
+        "title": "人宠同台共演舞台剧 狗狗“演员”长春首秀萌动全场",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723892.shtml",
+        "publishedAt": "2026-10-31T15:49:46.000+08:00"
+      },
       {
         "title": "美国加州一购物中心发生枪击致1死6伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723912.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "算法“投毒”，篡改不了历史罪责",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723903.shtml",
         "publishedAt": "2026-10-31T14:55:41.000+08:00"
-      },
-      {
-        "title": "事关大额存单，多家外资银行密集上架",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723902.shtml",
-        "publishedAt": "2026-10-31T14:47:44.000+08:00"
-      },
-      {
-        "title": "日照缩短 山西古建提前“收工”一小时",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723900.shtml",
-        "publishedAt": "2026-10-31T14:46:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T15:50:03.071+08:00",
+    "fetchedAt": "2026-10-31T16:00:04.608+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T15:50:07.087+08:00",
+      "fetchedAt": "2026-10-31T16:00:08.430+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T20:50:08.000+08:00"
+          "resetAt": "2026-10-31T21:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T15:50:07.424+08:00",
+      "fetchedAt": "2026-10-31T16:00:08.764+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T15:50:07.430+08:00",
+      "fetchedAt": "2026-10-31T16:00:08.773+08:00",
       "error": null
     }
   }
