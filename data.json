@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T10:20:08.685+08:00",
+  "updatedAt": "2026-10-31T10:30:10.546+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.8,
-    "feelsLikeC": 21.7,
-    "humidity": 74,
-    "windKph": 8.1,
+    "tempC": 21.4,
+    "feelsLikeC": 22.2,
+    "humidity": 71,
+    "windKph": 8.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-10-31T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T10:20:08.685+08:00",
+    "observedAt": "2026-10-31T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T10:30:10.546+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "院士专家共聚云南普洱 探索生态产品价值实现路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723771.shtml",
+        "publishedAt": "2026-10-31T10:28:30.000+08:00"
+      },
+      {
+        "title": "第二十七届中部农博会启幕在即 百余款川味好物将亮相长沙",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723769.shtml",
+        "publishedAt": "2026-10-31T10:27:38.000+08:00"
+      },
+      {
+        "title": "国家统计局：10月份制造业采购经理指数为49.3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723794.shtml",
+        "publishedAt": "2026-10-31T10:26:18.000+08:00"
+      },
+      {
+        "title": "“模特”长着三条腿，AI卖家秀能否让消费者放心选择？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723795.shtml",
+        "publishedAt": "2026-10-31T10:21:56.000+08:00"
+      },
+      {
         "title": "我国铼、金、镍、锆等保有资源量大幅增加",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723792.shtml",
         "publishedAt": "2026-10-31T10:10:19.000+08:00"
-      },
-      {
-        "title": "国家统计局：10月份采购经理指数有所回落",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723787.shtml",
-        "publishedAt": "2026-10-31T10:10:15.000+08:00"
-      },
-      {
-        "title": "第五届“一带一路”(河南)国际农业合作博览会在河南郑州开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723705.shtml",
-        "publishedAt": "2026-10-31T10:09:55.000+08:00"
-      },
-      {
-        "title": "刚强、刘昊然担任应急管理公益宣传大使",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723768.shtml",
-        "publishedAt": "2026-10-31T10:07:33.000+08:00"
-      },
-      {
-        "title": "当影像成“第五位演员”，《后日之后·秅极共生》探索本土原创实验戏剧新表达",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723766.shtml",
-        "publishedAt": "2026-10-31T10:06:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T10:20:03.204+08:00",
+    "fetchedAt": "2026-10-31T10:30:04.345+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 49 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-10-31T10:20:07.174+08:00",
+      "fetchedAt": "2026-10-31T10:30:09.119+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T10:20:07.480+08:00",
+      "fetchedAt": "2026-10-31T10:30:09.353+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-10-31T10:20:07.489+08:00",
+      "fetchedAt": "2026-10-31T10:30:09.361+08:00",
       "error": null
     }
   }
