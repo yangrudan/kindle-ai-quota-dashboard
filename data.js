@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T08:00:38.924+08:00",
+  "updatedAt": "2026-11-01T08:10:09.533+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-01T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T08:00:38.924+08:00",
+    "fetchedAt": "2026-11-01T08:10:09.533+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "俄联邦安全局：从美方获得策划恐袭情报 相关部门正在处置",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724128.shtml",
+        "publishedAt": "2026-11-01T08:01:09.000+08:00"
+      },
+      {
+        "title": "在纽伦堡国际发明展感受中国创新活力",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724129.shtml",
+        "publishedAt": "2026-11-01T08:01:03.000+08:00"
+      },
       {
         "title": "11月1日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-01/10724127.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
         "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
         "publishedAt": "2026-11-01T06:29:54.000+08:00"
-      },
-      {
-        "title": "北控队主场力克新疆队 取得CBA常规赛两连胜",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724124.shtml",
-        "publishedAt": "2026-11-01T06:29:16.000+08:00"
-      },
-      {
-        "title": "泰国着手制定第四个国家旅游发展计划",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml",
-        "publishedAt": "2026-10-31T23:23:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T08:00:03.841+08:00",
+    "fetchedAt": "2026-11-01T08:10:03.459+08:00",
     "error": null
   },
   "sources": {
@@ -57,10 +57,10 @@ window.DASH_DATA = {
           "name": "月度 AIC",
           "usedPct": 0,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1 / 1 AIC"
+          "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T08:00:37.278+08:00",
+      "fetchedAt": "2026-11-01T08:10:07.976+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T13:00:38.000+08:00"
+          "resetAt": "2026-11-01T13:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T08:00:37.615+08:00",
+      "fetchedAt": "2026-11-01T08:10:08.296+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T08:00:37.624+08:00",
+      "fetchedAt": "2026-11-01T08:10:08.303+08:00",
       "error": null
     }
   }
