@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T16:10:09.494+08:00",
+  "updatedAt": "2026-11-01T16:20:08.950+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 22.7,
-    "feelsLikeC": 22.6,
-    "humidity": 74,
-    "windKph": 19.6,
-    "windDir": "西北风",
+    "tempC": 22,
+    "feelsLikeC": 21.7,
+    "humidity": 76,
+    "windKph": 20.4,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T16:10:09.494+08:00",
+    "observedAt": "2026-11-01T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T16:20:08.950+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从米酒到机器人：侨商谢伯衡广交会采购清单的变迁",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-01/10724322.shtml",
+        "publishedAt": "2026-11-01T16:15:12.000+08:00"
+      },
       {
         "title": "秋冬锻炼要注意！这些不起眼的动作，悄悄伤膝、伤腰、伤脚踝",
         "url": "https://www.chinanews.com.cn/life/2026/11-01/10724319.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“妈祖”海洋预报数值模式2.0版本正式发布",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724309.shtml",
         "publishedAt": "2026-11-01T15:42:50.000+08:00"
-      },
-      {
-        "title": "第三届“人民艺术论坛”举办 成立红色美育共同体",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724302.shtml",
-        "publishedAt": "2026-11-01T15:33:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T16:10:03.853+08:00",
+    "fetchedAt": "2026-11-01T16:20:03.052+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T16:10:07.962+08:00",
+      "fetchedAt": "2026-11-01T16:20:07.786+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T21:10:09.000+08:00"
+          "resetAt": "2026-11-01T21:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T16:10:08.193+08:00",
+      "fetchedAt": "2026-11-01T16:20:08.027+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T16:10:08.202+08:00",
+      "fetchedAt": "2026-11-01T16:20:08.032+08:00",
       "error": null
     }
   }
