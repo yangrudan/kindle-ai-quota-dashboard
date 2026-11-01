@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T20:30:10.597+08:00",
+  "updatedAt": "2026-11-01T20:40:08.342+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-01T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T20:30:10.597+08:00",
+    "fetchedAt": "2026-11-01T20:40:08.342+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "宁台携手共探渔业融合发展新路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724483.shtml",
+        "publishedAt": "2026-11-01T20:32:04.000+08:00"
+      },
+      {
+        "title": "城市更新遇上千年文脉：专家学者福州共探历史遗产“活态传承”新路径",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724482.shtml",
+        "publishedAt": "2026-11-01T20:24:45.000+08:00"
+      },
+      {
+        "title": "中国·十八洞山地越野挑战赛开赛 奔跑见证山乡蝶变",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724480.shtml",
+        "publishedAt": "2026-11-01T20:23:33.000+08:00"
+      },
       {
         "title": "周秉德返乡追忆伯父周恩来：“上天”之志代代相传",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724479.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "宁夏银川120场惠民演出浸润城乡 群众“点单”乐享家门口大戏",
         "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724481.shtml",
         "publishedAt": "2026-11-01T20:22:21.000+08:00"
-      },
-      {
-        "title": "第九届进博会开幕在即 国家会展中心(上海)开启“夜景模式”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724465.shtml",
-        "publishedAt": "2026-11-01T20:20:53.000+08:00"
-      },
-      {
-        "title": "桃醉平谷第十一届京津冀公路自行车大众挑战赛开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724478.shtml",
-        "publishedAt": "2026-11-01T20:19:31.000+08:00"
-      },
-      {
-        "title": "潮汐与降雨叠加 曼谷及周边七府面临洪水风险",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724470.shtml",
-        "publishedAt": "2026-11-01T20:18:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T20:30:04.812+08:00",
+    "fetchedAt": "2026-11-01T20:40:03.143+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T20:30:09.356+08:00",
+      "fetchedAt": "2026-11-01T20:40:07.085+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T01:30:10.000+08:00"
+          "resetAt": "2026-11-02T01:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T20:30:09.624+08:00",
+      "fetchedAt": "2026-11-01T20:40:07.404+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T20:30:09.633+08:00",
+      "fetchedAt": "2026-11-01T20:40:07.409+08:00",
       "error": null
     }
   }
