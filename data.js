@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T16:30:09.329+08:00",
+  "updatedAt": "2026-11-01T16:40:17.423+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-01T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T16:30:09.329+08:00",
+    "fetchedAt": "2026-11-01T16:40:17.423+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中外专家建言RCEP提质升级 推进亚太区域经济一体化进程",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-01/10724343.shtml",
+        "publishedAt": "2026-11-01T16:37:57.000+08:00"
+      },
+      {
+        "title": "京郊古刹晚秋美景宜人",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209372.shtml",
+        "publishedAt": "2026-11-01T16:33:33.000+08:00"
+      },
+      {
+        "title": "一支钢笔、一件毛衫，如何打开全球市场？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724336.shtml",
+        "publishedAt": "2026-11-01T16:28:49.000+08:00"
+      },
+      {
+        "title": "李家超期望香港青年胸怀家国放眼世界、锤炼意志助人为乐",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724325.shtml",
+        "publishedAt": "2026-11-01T16:23:34.000+08:00"
+      },
+      {
         "title": "打着“无硫”旗号实则超标！熏硫白芷线上线下仍在偷偷售卖",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724332.shtml",
         "publishedAt": "2026-11-01T16:22:42.000+08:00"
-      },
-      {
-        "title": "前三季度中国物流业总收入达11.1万亿元 保持扩张态势",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724321.shtml",
-        "publishedAt": "2026-11-01T16:17:48.000+08:00"
-      },
-      {
-        "title": "从米酒到机器人：侨商谢伯衡广交会采购清单的变迁",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-01/10724322.shtml",
-        "publishedAt": "2026-11-01T16:15:12.000+08:00"
-      },
-      {
-        "title": "解锁三个词，听听这位英国百万粉丝博主眼里的西藏 | 中国不一样",
-        "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-01/news1073515.shtml",
-        "publishedAt": "2026-11-01T16:05:47.000+08:00"
-      },
-      {
-        "title": "秋冬锻炼要注意！这些不起眼的动作，悄悄伤膝、伤腰、伤脚踝",
-        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724319.shtml",
-        "publishedAt": "2026-11-01T16:05:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T16:30:03.857+08:00",
+    "fetchedAt": "2026-11-01T16:40:12.271+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T16:30:08.063+08:00",
+      "fetchedAt": "2026-11-01T16:40:15.988+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T21:30:09.000+08:00"
+          "resetAt": "2026-11-01T21:40:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T16:30:08.374+08:00",
+      "fetchedAt": "2026-11-01T16:40:16.335+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T16:30:08.382+08:00",
+      "fetchedAt": "2026-11-01T16:40:16.342+08:00",
       "error": null
     }
   }
