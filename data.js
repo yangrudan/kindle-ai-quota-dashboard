@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T19:10:13.430+08:00",
+  "updatedAt": "2026-11-01T19:20:09.492+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.7,
-    "feelsLikeC": 16.9,
-    "humidity": 87,
-    "windKph": 18.7,
+    "tempC": 17.4,
+    "feelsLikeC": 16.6,
+    "humidity": 89,
+    "windKph": 18.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T19:10:13.431+08:00",
+    "observedAt": "2026-11-01T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T19:20:09.492+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "印尼学子青睐赴华留学：“想求知，就到中国去”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724429.shtml",
-        "publishedAt": "2026-11-01T19:05:11.000+08:00"
+        "title": "第八届粤港澳大湾区师德师风建设学术研讨会在珠海举行",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724419.shtml",
+        "publishedAt": "2026-11-01T19:15:12.000+08:00"
       },
       {
-        "title": "徒步中国·大众徒步挑战赛（重庆·梁平站）开赛 选手穿行竹海与古蜀道",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724423.shtml",
-        "publishedAt": "2026-11-01T18:58:53.000+08:00"
+        "title": "福州：2026年世界城市日全球主场活动现场体验区吸引参观者",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724379.shtml",
+        "publishedAt": "2026-11-01T19:14:52.000+08:00"
       },
       {
-        "title": "青海德令哈200吨氯酸钠出口日本",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724422.shtml",
-        "publishedAt": "2026-11-01T18:58:29.000+08:00"
+        "title": "国防部批日剧《VIVANT》颠倒黑白：历史不容置换，罪行不容转嫁",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724428.shtml",
+        "publishedAt": "2026-11-01T19:14:36.000+08:00"
       },
       {
-        "title": "福建泉州举办企业家日主题活动 共话“世界的泉州”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724424.shtml",
-        "publishedAt": "2026-11-01T18:57:11.000+08:00"
+        "title": "福州：高校学子展演服装设计获奖作品",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724381.shtml",
+        "publishedAt": "2026-11-01T19:13:22.000+08:00"
       },
       {
-        "title": "“中国最冷小镇”呼中降至-28℃ 雾凇美景惹人醉",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724420.shtml",
-        "publishedAt": "2026-11-01T18:54:43.000+08:00"
+        "title": "汇聚海内外英才 2026首届南京人才周启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724378.shtml",
+        "publishedAt": "2026-11-01T19:12:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T19:10:03.665+08:00",
+    "fetchedAt": "2026-11-01T19:20:02.908+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T19:10:07.940+08:00",
+      "fetchedAt": "2026-11-01T19:20:07.863+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T00:10:09.000+08:00"
+          "resetAt": "2026-11-02T00:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T19:10:08.294+08:00",
+      "fetchedAt": "2026-11-01T19:20:08.129+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T19:10:08.303+08:00",
+      "fetchedAt": "2026-11-01T19:20:08.135+08:00",
       "error": null
     }
   }
