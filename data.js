@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T07:20:09.655+08:00",
+  "updatedAt": "2026-11-02T07:30:40.299+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.3,
-    "feelsLikeC": 15.6,
-    "humidity": 94,
-    "windKph": 7.3,
+    "tempC": 15.6,
+    "feelsLikeC": 15.8,
+    "humidity": 92,
+    "windKph": 8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T07:20:09.655+08:00",
+    "observedAt": "2026-11-02T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-02T07:30:40.299+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "每周至少半天校外实践教学将在全国推行 专家建议：课时进课表经费进预算责任进清单",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-02/10724533.shtml",
+        "publishedAt": "2026-11-02T07:28:54.000+08:00"
+      },
+      {
+        "title": "行测、性格测试、智力测评、AI面试……找工作怎么成了无尽的“刷题闯关”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724532.shtml",
+        "publishedAt": "2026-11-02T07:27:08.000+08:00"
+      },
+      {
+        "title": "伊朗革命卫队情报机构宣布逮捕一名间谍",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724531.shtml",
+        "publishedAt": "2026-11-02T07:22:37.000+08:00"
+      },
       {
         "title": "外媒：特朗普与内塔尼亚胡就美伊谈判进行通话",
         "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724530.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "11月2日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-02/10724529.shtml",
         "publishedAt": "2026-11-02T06:59:30.000+08:00"
-      },
-      {
-        "title": "俄安全部门调查莫斯科恐袭情报期间逮捕一名未成年人",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724526.shtml",
-        "publishedAt": "2026-11-02T06:55:36.000+08:00"
-      },
-      {
-        "title": "中外顶尖剑客聚首西安 格鲁吉亚与美国选手分获佩剑、花剑冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724525.shtml",
-        "publishedAt": "2026-11-02T06:54:40.000+08:00"
-      },
-      {
-        "title": "把地球冷冻一下，温室效应会得到缓解吗？答案出乎意料",
-        "url": "https://www.chinanews.com.cn/life/2026/11-02/10724527.shtml",
-        "publishedAt": "2026-11-02T06:42:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T07:20:03.523+08:00",
+    "fetchedAt": "2026-11-02T07:30:04.138+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T07:20:08.238+08:00",
+      "fetchedAt": "2026-11-02T07:30:38.050+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T12:20:09.000+08:00"
+          "resetAt": "2026-11-02T12:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T07:20:08.542+08:00",
+      "fetchedAt": "2026-11-02T07:30:38.738+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T07:20:08.549+08:00",
+      "fetchedAt": "2026-11-02T07:30:38.747+08:00",
       "error": null
     }
   }
