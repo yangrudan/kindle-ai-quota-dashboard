@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T11:10:09.184+08:00",
+  "updatedAt": "2026-11-01T11:20:08.985+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.5,
-    "feelsLikeC": 28,
-    "humidity": 57,
-    "windKph": 11.4,
+    "tempC": 27,
+    "feelsLikeC": 28.6,
+    "humidity": 56,
+    "windKph": 11.5,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-01T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T11:10:09.185+08:00",
+    "observedAt": "2026-11-01T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T11:20:08.985+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "诺奖得主安德烈·盖姆：科学研究就是从好奇心出发走向实际应用",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724194.shtml",
-        "publishedAt": "2026-11-01T10:59:31.000+08:00"
+        "title": "当AI“吞噬”内存",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724209.shtml",
+        "publishedAt": "2026-11-01T11:15:40.000+08:00"
       },
       {
-        "title": "歼-20首次公开亮相10周年，盘点威龙高光时刻！",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724195.shtml",
-        "publishedAt": "2026-11-01T10:54:29.000+08:00"
+        "title": "（乡村行·看振兴）山西襄垣：小辣椒俏销川渝黔 订单农业助农增收",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724199.shtml",
+        "publishedAt": "2026-11-01T11:14:20.000+08:00"
       },
       {
-        "title": "涉电动自行车3C认证、儿童用品强制性国标等 一批新规今起施行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724193.shtml",
-        "publishedAt": "2026-11-01T10:51:30.000+08:00"
+        "title": "以歌话别共约重逢 云南省第十三届少数民族传统体育运动会闭幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724198.shtml",
+        "publishedAt": "2026-11-01T11:12:38.000+08:00"
       },
       {
-        "title": "老年人脾气大变“像换了个人”，要警惕心身共病",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724191.shtml",
-        "publishedAt": "2026-11-01T10:46:48.000+08:00"
+        "title": "聚焦气候变化与健康 中德科学院合办第三届“科学与未来”双边研讨会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724197.shtml",
+        "publishedAt": "2026-11-01T11:11:38.000+08:00"
       },
       {
-        "title": "2026年全国人口变动情况抽样调查来了！一图读懂→",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724190.shtml",
-        "publishedAt": "2026-11-01T10:38:40.000+08:00"
+        "title": "国家艺术基金项目交响乐《盛世牧歌》哈尔滨首场演出奏响",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724196.shtml",
+        "publishedAt": "2026-11-01T11:11:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T11:10:03.035+08:00",
+    "fetchedAt": "2026-11-01T11:20:03.887+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T11:10:07.440+08:00",
+      "fetchedAt": "2026-11-01T11:20:07.653+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T16:10:08.000+08:00"
+          "resetAt": "2026-11-01T16:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T11:10:07.642+08:00",
+      "fetchedAt": "2026-11-01T11:20:07.844+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T11:10:07.651+08:00",
+      "fetchedAt": "2026-11-01T11:20:07.848+08:00",
       "error": null
     }
   }
