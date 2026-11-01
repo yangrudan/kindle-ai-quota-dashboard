@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T10:40:11.126+08:00",
+  "updatedAt": "2026-11-01T10:50:39.484+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.5,
-    "feelsLikeC": 26.7,
-    "humidity": 60,
-    "windKph": 10.9,
-    "windDir": "南风",
+    "tempC": 26,
+    "feelsLikeC": 27.4,
+    "humidity": 58,
+    "windKph": 11.3,
+    "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-01T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T10:40:11.126+08:00",
+    "observedAt": "2026-11-01T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T10:50:39.485+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "法国再度发生全国性抗议示威活动 500多人被捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724167.shtml",
-        "publishedAt": "2026-11-01T10:28:21.000+08:00"
+        "title": "2026年全国人口变动情况抽样调查来了！一图读懂→",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724190.shtml",
+        "publishedAt": "2026-11-01T10:38:40.000+08:00"
       },
       {
-        "title": "2026斯诺克国锦赛正式打响 卫冕冠军吴宜泽零封晋级",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724183.shtml",
-        "publishedAt": "2026-11-01T10:19:35.000+08:00"
+        "title": "2026年世界城市日全球主场活动暨第四届全球可持续发展城市奖（上海奖）颁奖活动在福州举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724186.shtml",
+        "publishedAt": "2026-11-01T10:38:36.000+08:00"
       },
       {
-        "title": "美国突发枪击 致1死2伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724165.shtml",
-        "publishedAt": "2026-11-01T10:17:29.000+08:00"
+        "title": "朝鲜进行重要武器系统威力评估试验",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724189.shtml",
+        "publishedAt": "2026-11-01T10:37:42.000+08:00"
       },
       {
-        "title": "桂北山村收稻忙 劳动场景与周边山水形成美丽画卷",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724170.shtml",
-        "publishedAt": "2026-11-01T10:15:33.000+08:00"
+        "title": "史上最大IPO要来了？先别急着鼓掌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724185.shtml",
+        "publishedAt": "2026-11-01T10:34:32.000+08:00"
       },
       {
-        "title": "AI危险吗？顶尖科学家在沪揭开“技术面纱”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724181.shtml",
-        "publishedAt": "2026-11-01T10:05:36.000+08:00"
+        "title": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724184.shtml",
+        "publishedAt": "2026-11-01T10:34:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T10:40:04.220+08:00",
+    "fetchedAt": "2026-11-01T10:50:03.563+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T10:40:08.811+08:00",
+      "fetchedAt": "2026-11-01T10:50:37.943+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T15:40:11.000+08:00"
+          "resetAt": "2026-11-01T15:50:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T10:40:09.102+08:00",
+      "fetchedAt": "2026-11-01T10:50:38.267+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T10:40:09.112+08:00",
+      "fetchedAt": "2026-11-01T10:50:38.272+08:00",
       "error": null
     }
   }
