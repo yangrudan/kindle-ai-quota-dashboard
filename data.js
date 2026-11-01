@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T10:20:08.850+08:00",
+  "updatedAt": "2026-11-01T10:30:39.021+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.9,
-    "feelsLikeC": 26,
-    "humidity": 61,
-    "windKph": 10.6,
+    "tempC": 25.5,
+    "feelsLikeC": 26.7,
+    "humidity": 60,
+    "windKph": 10.9,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-01T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T10:20:08.850+08:00",
+    "observedAt": "2026-11-01T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T10:30:39.021+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026斯诺克国锦赛正式打响 卫冕冠军吴宜泽零封晋级",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724183.shtml",
+        "publishedAt": "2026-11-01T10:19:35.000+08:00"
+      },
       {
         "title": "美国突发枪击 致1死2伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724165.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "流感治疗药物一起吃，风险有多大？拿不准时务必咨询医生",
         "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724180.shtml",
         "publishedAt": "2026-11-01T10:02:24.000+08:00"
-      },
-      {
-        "title": "别大意！嘴里出现这4种味道，当心脾胃在“求救”→",
-        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724179.shtml",
-        "publishedAt": "2026-11-01T09:52:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T10:20:03.771+08:00",
+    "fetchedAt": "2026-11-01T10:30:03.513+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T10:20:07.684+08:00",
+      "fetchedAt": "2026-11-01T10:30:37.511+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T15:20:08.000+08:00"
+          "resetAt": "2026-11-01T15:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T10:20:07.817+08:00",
+      "fetchedAt": "2026-11-01T10:30:37.769+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T10:20:07.823+08:00",
+      "fetchedAt": "2026-11-01T10:30:37.775+08:00",
       "error": null
     }
   }
