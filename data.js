@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T17:00:08.700+08:00",
+  "updatedAt": "2026-11-01T17:10:38.021+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-01T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T17:00:08.701+08:00",
+    "fetchedAt": "2026-11-01T17:10:38.021+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全球独有私人住宅式邮轮靠泊广州南沙 边检昼夜扫码通关",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724323.shtml",
-        "publishedAt": "2026-11-01T16:52:12.000+08:00"
+        "title": "第四届中国研究生“美丽中国”创新设计大赛福州落幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724341.shtml",
+        "publishedAt": "2026-11-01T17:03:41.000+08:00"
       },
       {
-        "title": "俄罗斯联邦委员会主席将访华",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724324.shtml",
-        "publishedAt": "2026-11-01T16:50:46.000+08:00"
+        "title": "10月份制造业PMI降至49.3%，怎么看",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-01/10724363.shtml",
+        "publishedAt": "2026-11-01T17:00:46.000+08:00"
       },
       {
-        "title": "沪市公司10月已实施回购超326亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724331.shtml",
-        "publishedAt": "2026-11-01T16:50:08.000+08:00"
+        "title": "高原新能源“充电宝”破解供电难题 绿色电力保障民生需求",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724362.shtml",
+        "publishedAt": "2026-11-01T17:00:38.000+08:00"
       },
       {
-        "title": "2026广西强优民营企业100家名单发布 生产效益保持两位数增长",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724349.shtml",
-        "publishedAt": "2026-11-01T16:49:34.000+08:00"
+        "title": "牛羊换个地方过冬，对草原有什么影响？科研团队用数据说话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724360.shtml",
+        "publishedAt": "2026-11-01T16:56:10.000+08:00"
       },
       {
-        "title": "“中国白鹤之乡”单日监测白鹤5100只创历史新高",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724354.shtml",
-        "publishedAt": "2026-11-01T16:48:56.000+08:00"
+        "title": "沪深上市公司净利润超5万亿元 创四年新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724359.shtml",
+        "publishedAt": "2026-11-01T16:55:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T17:00:03.399+08:00",
+    "fetchedAt": "2026-11-01T17:10:02.955+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T17:00:07.412+08:00",
+      "fetchedAt": "2026-11-01T17:10:36.675+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T22:00:08.000+08:00"
+          "resetAt": "2026-11-01T22:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T17:00:07.685+08:00",
+      "fetchedAt": "2026-11-01T17:10:36.940+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T17:00:07.694+08:00",
+      "fetchedAt": "2026-11-01T17:10:36.949+08:00",
       "error": null
     }
   }
