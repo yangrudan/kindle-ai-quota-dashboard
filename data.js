@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T20:50:09.921+08:00",
+  "updatedAt": "2026-11-01T21:00:10.302+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15.9,
-    "feelsLikeC": 15.5,
+    "feelsLikeC": 15.6,
     "humidity": 91,
-    "windKph": 12.7,
+    "windKph": 12.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T20:50:09.921+08:00",
+    "observedAt": "2026-11-01T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T21:00:10.303+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "报告预计，2026年中国大宗商品价格指数均值为132.1点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724484.shtml",
-        "publishedAt": "2026-11-01T20:38:32.000+08:00"
+        "title": "第十三届中韩住宅与城市合作会议在福州举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724491.shtml",
+        "publishedAt": "2026-11-01T20:53:57.000+08:00"
       },
       {
-        "title": "中国陪诊服务步入标准化时代",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724486.shtml",
-        "publishedAt": "2026-11-01T20:36:40.000+08:00"
+        "title": "孙颖莎战胜王艺迪晋级决赛 将与蒯曼争夺冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724494.shtml",
+        "publishedAt": "2026-11-01T20:53:27.000+08:00"
       },
       {
-        "title": "施劲松：史前治水是长江文明鲜明特征 彰显史前先民生存智慧",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724485.shtml",
-        "publishedAt": "2026-11-01T20:34:40.000+08:00"
+        "title": "钢铁智能制造相关国家标准发布 让智能体系建设有章可循",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724492.shtml",
+        "publishedAt": "2026-11-01T20:51:47.000+08:00"
       },
       {
-        "title": "宁台携手共探渔业融合发展新路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724483.shtml",
-        "publishedAt": "2026-11-01T20:32:04.000+08:00"
+        "title": "多国市长福州共话高质量推进城市更新",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724414.shtml",
+        "publishedAt": "2026-11-01T20:44:15.000+08:00"
       },
       {
-        "title": "城市更新遇上千年文脉：专家学者福州共探历史遗产“活态传承”新路径",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724482.shtml",
-        "publishedAt": "2026-11-01T20:24:45.000+08:00"
+        "title": "阿曼苏丹海赛姆抵达北京开始访华",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724487.shtml",
+        "publishedAt": "2026-11-01T20:42:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T20:50:03.723+08:00",
+    "fetchedAt": "2026-11-01T21:00:04.606+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T20:50:08.768+08:00",
+      "fetchedAt": "2026-11-01T21:00:09.243+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T01:50:09.000+08:00"
+          "resetAt": "2026-11-02T02:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T20:50:08.964+08:00",
+      "fetchedAt": "2026-11-01T21:00:09.373+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T20:50:08.970+08:00",
+      "fetchedAt": "2026-11-01T21:00:09.377+08:00",
       "error": null
     }
   }
