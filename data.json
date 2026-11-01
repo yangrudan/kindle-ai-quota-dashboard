@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T19:40:09.414+08:00",
+  "updatedAt": "2026-11-01T19:50:09.061+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.1,
-    "feelsLikeC": 16.4,
-    "humidity": 90,
-    "windKph": 17.8,
+    "tempC": 16.9,
+    "feelsLikeC": 16.2,
+    "humidity": 91,
+    "windKph": 17.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T19:40:09.414+08:00",
+    "observedAt": "2026-11-01T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T19:50:09.061+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（国际观察）高油价等多重因素推动俄罗斯卢布“逆势走强”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724443.shtml",
+        "publishedAt": "2026-11-01T19:38:59.000+08:00"
+      },
+      {
+        "title": "以杭州马拉松为窗：在奔跑中读懂一座城",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724452.shtml",
+        "publishedAt": "2026-11-01T19:38:49.000+08:00"
+      },
       {
         "title": "合成生物学产业化如何突围？院士建言走好自主创新之路",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724450.shtml",
@@ -33,19 +43,9 @@
         "title": "从“场景机会”到出海保障 第六届长沙“企业家日”活动举行",
         "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724446.shtml",
         "publishedAt": "2026-11-01T19:32:35.000+08:00"
-      },
-      {
-        "title": "2026斯巴达勇士儿童赛杭州站落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724445.shtml",
-        "publishedAt": "2026-11-01T19:27:34.000+08:00"
-      },
-      {
-        "title": "世界杰出华人颁奖典礼在香港举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724440.shtml",
-        "publishedAt": "2026-11-01T19:26:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T19:40:03.745+08:00",
+    "fetchedAt": "2026-11-01T19:50:03.300+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T19:40:08.202+08:00",
+      "fetchedAt": "2026-11-01T19:50:07.856+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T00:40:09.000+08:00"
+          "resetAt": "2026-11-02T00:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T19:40:08.457+08:00",
+      "fetchedAt": "2026-11-01T19:50:08.085+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T19:40:08.465+08:00",
+      "fetchedAt": "2026-11-01T19:50:08.095+08:00",
       "error": null
     }
   }
