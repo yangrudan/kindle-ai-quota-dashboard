@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T16:20:08.950+08:00",
+  "updatedAt": "2026-11-01T16:30:09.329+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 22,
-    "feelsLikeC": 21.7,
-    "humidity": 76,
-    "windKph": 20.4,
+    "tempC": 21.3,
+    "feelsLikeC": 20.7,
+    "humidity": 77,
+    "windKph": 21,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T16:20:08.950+08:00",
+    "observedAt": "2026-11-01T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T16:30:09.329+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "打着“无硫”旗号实则超标！熏硫白芷线上线下仍在偷偷售卖",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724332.shtml",
+        "publishedAt": "2026-11-01T16:22:42.000+08:00"
+      },
+      {
+        "title": "前三季度中国物流业总收入达11.1万亿元 保持扩张态势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724321.shtml",
+        "publishedAt": "2026-11-01T16:17:48.000+08:00"
+      },
+      {
         "title": "从米酒到机器人：侨商谢伯衡广交会采购清单的变迁",
         "url": "https://www.chinanews.com.cn/hr/2026/11-01/10724322.shtml",
         "publishedAt": "2026-11-01T16:15:12.000+08:00"
       },
       {
+        "title": "解锁三个词，听听这位英国百万粉丝博主眼里的西藏 | 中国不一样",
+        "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-01/news1073515.shtml",
+        "publishedAt": "2026-11-01T16:05:47.000+08:00"
+      },
+      {
         "title": "秋冬锻炼要注意！这些不起眼的动作，悄悄伤膝、伤腰、伤脚踝",
         "url": "https://www.chinanews.com.cn/life/2026/11-01/10724319.shtml",
         "publishedAt": "2026-11-01T16:05:23.000+08:00"
-      },
-      {
-        "title": "警方通报“谢霆锋演唱会被扔荧光棒”：已对违法行为人作出行政处罚",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724314.shtml",
-        "publishedAt": "2026-11-01T16:01:19.000+08:00"
-      },
-      {
-        "title": "受权发布丨中共中央关于持之以恒推进全面从严治党若干重大问题的决定",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724308.shtml",
-        "publishedAt": "2026-11-01T15:43:40.000+08:00"
-      },
-      {
-        "title": "“妈祖”海洋预报数值模式2.0版本正式发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724309.shtml",
-        "publishedAt": "2026-11-01T15:42:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T16:20:03.052+08:00",
+    "fetchedAt": "2026-11-01T16:30:03.857+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T16:20:07.786+08:00",
+      "fetchedAt": "2026-11-01T16:30:08.063+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T21:20:08.000+08:00"
+          "resetAt": "2026-11-01T21:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T16:20:08.027+08:00",
+      "fetchedAt": "2026-11-01T16:30:08.374+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T16:20:08.032+08:00",
+      "fetchedAt": "2026-11-01T16:30:08.382+08:00",
       "error": null
     }
   }
