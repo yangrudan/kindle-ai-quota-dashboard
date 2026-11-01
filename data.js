@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T21:50:09.662+08:00",
+  "updatedAt": "2026-11-01T22:00:09.442+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.8,
+    "tempC": 15.7,
     "feelsLikeC": 15.5,
     "humidity": 91,
-    "windKph": 11.2,
+    "windKph": 10.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T21:50:09.663+08:00",
+    "observedAt": "2026-11-01T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T22:00:09.443+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（粤港澳大湾区）深圳莲塘口岸出入境客流突破一亿人次",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724505.shtml",
+        "publishedAt": "2026-11-01T21:49:18.000+08:00"
+      },
       {
         "title": "乌称俄袭击基辅能源设施 城区多地面临停水",
         "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724509.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "法国新一轮示威活动中已有779人被捕",
         "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724507.shtml",
         "publishedAt": "2026-11-01T21:42:26.000+08:00"
-      },
-      {
-        "title": "“理财产品要变相保本了”是误读政策",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724506.shtml",
-        "publishedAt": "2026-11-01T21:41:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T21:50:03.996+08:00",
+    "fetchedAt": "2026-11-01T22:00:04.237+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T21:50:08.233+08:00",
+      "fetchedAt": "2026-11-01T22:00:08.144+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T02:50:09.000+08:00"
+          "resetAt": "2026-11-02T03:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T21:50:08.491+08:00",
+      "fetchedAt": "2026-11-01T22:00:08.415+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T21:50:08.495+08:00",
+      "fetchedAt": "2026-11-01T22:00:08.419+08:00",
       "error": null
     }
   }
