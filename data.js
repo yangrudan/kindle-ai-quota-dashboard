@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T17:10:38.021+08:00",
+  "updatedAt": "2026-11-01T17:20:38.278+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20.1,
-    "feelsLikeC": 19.1,
-    "humidity": 79,
-    "windKph": 21.3,
+    "tempC": 19.7,
+    "feelsLikeC": 18.7,
+    "humidity": 80,
+    "windKph": 21.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T17:10:38.021+08:00",
+    "observedAt": "2026-11-01T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T17:20:38.278+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊朗最高国家安全委员会秘书称尚未回应万斯来信",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724346.shtml",
+        "publishedAt": "2026-11-01T17:15:19.000+08:00"
+      },
+      {
+        "title": "中外200余名选手角逐第二届世界第一高桥铁人三项国际挑战赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724365.shtml",
+        "publishedAt": "2026-11-01T17:14:09.000+08:00"
+      },
+      {
+        "title": "2027年中国汽车十大技术趋势发布，释放什么信号？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724364.shtml",
+        "publishedAt": "2026-11-01T17:08:27.000+08:00"
+      },
       {
         "title": "第四届中国研究生“美丽中国”创新设计大赛福州落幕",
         "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724341.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "10月份制造业PMI降至49.3%，怎么看",
         "url": "https://www.chinanews.com.cn/ll/2026/11-01/10724363.shtml",
         "publishedAt": "2026-11-01T17:00:46.000+08:00"
-      },
-      {
-        "title": "高原新能源“充电宝”破解供电难题 绿色电力保障民生需求",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724362.shtml",
-        "publishedAt": "2026-11-01T17:00:38.000+08:00"
-      },
-      {
-        "title": "牛羊换个地方过冬，对草原有什么影响？科研团队用数据说话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724360.shtml",
-        "publishedAt": "2026-11-01T16:56:10.000+08:00"
-      },
-      {
-        "title": "沪深上市公司净利润超5万亿元 创四年新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724359.shtml",
-        "publishedAt": "2026-11-01T16:55:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T17:10:02.955+08:00",
+    "fetchedAt": "2026-11-01T17:20:03.291+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T17:10:36.675+08:00",
+      "fetchedAt": "2026-11-01T17:20:37.139+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T22:10:37.000+08:00"
+          "resetAt": "2026-11-01T22:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T17:10:36.940+08:00",
+      "fetchedAt": "2026-11-01T17:20:37.347+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T17:10:36.949+08:00",
+      "fetchedAt": "2026-11-01T17:20:37.350+08:00",
       "error": null
     }
   }
