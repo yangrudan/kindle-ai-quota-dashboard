@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T13:10:08.147+08:00",
+  "updatedAt": "2026-11-01T13:20:09.932+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 28.4,
-    "feelsLikeC": 29.6,
-    "humidity": 54,
-    "windKph": 12,
-    "windDir": "西风",
+    "tempC": 27.9,
+    "feelsLikeC": 29.3,
+    "humidity": 56,
+    "windKph": 11.6,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T13:10:08.147+08:00",
+    "observedAt": "2026-11-01T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T13:20:09.932+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从秋千滑梯到化学实验玩具 多项儿童用品安全新规今起实施",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724236.shtml",
-        "publishedAt": "2026-11-01T12:43:08.000+08:00"
+        "title": "“妈祖”海洋预报数值模式2.0版本正式发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724247.shtml",
+        "publishedAt": "2026-11-01T13:16:54.000+08:00"
       },
       {
-        "title": "双十一网购高峰期，铁路部门最新部署",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724216.shtml",
-        "publishedAt": "2026-11-01T12:41:46.000+08:00"
+        "title": "我国计划在2030年前实现登月！“两次发射、一次登月”方案揭秘",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724246.shtml",
+        "publishedAt": "2026-11-01T13:11:36.000+08:00"
       },
       {
-        "title": "湖北京山：以“小网球”带动县域新发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724229.shtml",
-        "publishedAt": "2026-11-01T12:37:08.000+08:00"
+        "title": "中国田协10公里精英赛落地无锡 海内外跑者感受江南如画夜景",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724241.shtml",
+        "publishedAt": "2026-11-01T13:10:20.000+08:00"
       },
       {
-        "title": "租的是手机拿到的是现金 起底“租机套现”有哪些风险",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-01/10724235.shtml",
-        "publishedAt": "2026-11-01T12:36:18.000+08:00"
+        "title": "2026朝阳区滨河半程马拉松完赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724238.shtml",
+        "publishedAt": "2026-11-01T13:09:58.000+08:00"
       },
       {
-        "title": "航天员太空摸鼻子是什么实验？揭秘背后的科学原理",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724234.shtml",
-        "publishedAt": "2026-11-01T12:25:52.000+08:00"
+        "title": "“乌镇峰会”将至，桐乡AI诸企待客来",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724237.shtml",
+        "publishedAt": "2026-11-01T13:07:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T13:10:02.904+08:00",
+    "fetchedAt": "2026-11-01T13:20:03.720+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T13:10:06.817+08:00",
+      "fetchedAt": "2026-11-01T13:20:08.384+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T18:10:08.000+08:00"
+          "resetAt": "2026-11-01T18:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T13:10:07.083+08:00",
+      "fetchedAt": "2026-11-01T13:20:08.710+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T13:10:07.088+08:00",
+      "fetchedAt": "2026-11-01T13:20:08.713+08:00",
       "error": null
     }
   }
