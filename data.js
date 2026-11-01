@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T21:10:09.872+08:00",
+  "updatedAt": "2026-11-01T21:20:09.360+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15.9,
-    "feelsLikeC": 15.6,
+    "feelsLikeC": 15.5,
     "humidity": 91,
-    "windKph": 12.3,
+    "windKph": 12,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T21:10:09.872+08:00",
+    "observedAt": "2026-11-01T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T21:20:09.361+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新华社受权全文播发《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》和习近平总书记所作的《关于〈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724499.shtml",
+        "publishedAt": "2026-11-01T21:10:08.000+08:00"
+      },
+      {
+        "title": "澜湄六国50余名青年云南“香遇普洱”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724489.shtml",
+        "publishedAt": "2026-11-01T21:05:16.000+08:00"
+      },
       {
         "title": "三亚湾：椰风海韵醉游人",
         "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724488.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "第十三届中韩住宅与城市合作会议在福州举行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724491.shtml",
         "publishedAt": "2026-11-01T20:53:57.000+08:00"
-      },
-      {
-        "title": "孙颖莎战胜王艺迪晋级决赛 将与蒯曼争夺冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724494.shtml",
-        "publishedAt": "2026-11-01T20:53:27.000+08:00"
-      },
-      {
-        "title": "钢铁智能制造相关国家标准发布 让智能体系建设有章可循",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724492.shtml",
-        "publishedAt": "2026-11-01T20:51:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T21:10:04.028+08:00",
+    "fetchedAt": "2026-11-01T21:20:04.449+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T21:10:08.667+08:00",
+      "fetchedAt": "2026-11-01T21:20:08.169+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T02:10:09.000+08:00"
+          "resetAt": "2026-11-02T02:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T21:10:08.843+08:00",
+      "fetchedAt": "2026-11-01T21:20:08.385+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T21:10:08.851+08:00",
+      "fetchedAt": "2026-11-01T21:20:08.388+08:00",
       "error": null
     }
   }
