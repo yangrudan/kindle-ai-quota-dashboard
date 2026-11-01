@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T18:30:58.003+08:00",
+  "updatedAt": "2026-11-01T18:40:08.270+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-01T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T18:30:58.003+08:00",
+    "fetchedAt": "2026-11-01T18:40:08.270+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国科学院67项能源技术成果集中亮相大湾区科学论坛",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724387.shtml",
-        "publishedAt": "2026-11-01T18:22:33.000+08:00"
+        "title": "最新报告显示我国人工智能推理数据量首超训练数据量",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724411.shtml",
+        "publishedAt": "2026-11-01T18:35:34.000+08:00"
       },
       {
-        "title": "“利刃-2026”陆军反恐联合训练进入实装实操阶段",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724404.shtml",
-        "publishedAt": "2026-11-01T18:15:46.000+08:00"
+        "title": "10月中国百城新房价格继续上涨 二手房价下跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724408.shtml",
+        "publishedAt": "2026-11-01T18:33:17.000+08:00"
       },
       {
-        "title": "直播海报：千年泰山石阶 迎来机器人“铁腿”闯关!",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724403.shtml",
-        "publishedAt": "2026-11-01T18:14:24.000+08:00"
+        "title": "一棵“生命树”与一片红树林——中国基因科技的亚太故事",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724386.shtml",
+        "publishedAt": "2026-11-01T18:31:17.000+08:00"
       },
       {
-        "title": "青岛就熏硫白芷相关问题依法立案调查",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724402.shtml",
-        "publishedAt": "2026-11-01T18:12:26.000+08:00"
+        "title": "两项国际大科学计划在广州南沙启动",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724395.shtml",
+        "publishedAt": "2026-11-01T18:30:31.000+08:00"
       },
       {
-        "title": "内蒙古六旬妇女巴图其其格：她把蒙古族头饰缝“大”了",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724398.shtml",
-        "publishedAt": "2026-11-01T18:10:58.000+08:00"
+        "title": "陕西出台十条措施支持返乡人才创业就业",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724406.shtml",
+        "publishedAt": "2026-11-01T18:30:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T18:30:04.242+08:00",
+    "fetchedAt": "2026-11-01T18:40:03.513+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T18:30:37.710+08:00",
+      "fetchedAt": "2026-11-01T18:40:07.059+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T23:20:38.000+08:00"
+          "resetAt": "2026-11-01T23:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,10 +78,8 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T18:20:37.503+08:00",
-      "error": "Codex app-server 查询超时",
-      "stale": true,
-      "lastAttemptAt": "2026-11-01T18:30:37.991+08:00"
+      "fetchedAt": "2026-11-01T18:40:07.376+08:00",
+      "error": null
     },
     "mimo": {
       "ok": true,
@@ -99,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T18:30:38.000+08:00",
+      "fetchedAt": "2026-11-01T18:40:07.385+08:00",
       "error": null
     }
   }
