@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T00:40:09.395+08:00",
+  "updatedAt": "2026-11-02T00:50:09.002+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.6,
-    "feelsLikeC": 15.8,
-    "humidity": 93,
-    "windKph": 8.6,
+    "tempC": 15.5,
+    "feelsLikeC": 15.7,
+    "humidity": 94,
+    "windKph": 8.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T00:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T00:40:09.395+08:00",
+    "observedAt": "2026-11-02T00:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T00:50:09.003+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-01T23:21:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T00:40:03.721+08:00",
+    "fetchedAt": "2026-11-02T00:50:02.999+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T00:40:07.792+08:00",
+      "fetchedAt": "2026-11-02T00:50:07.612+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T05:40:09.000+08:00"
+          "resetAt": "2026-11-02T05:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T00:40:08.131+08:00",
+      "fetchedAt": "2026-11-02T00:50:07.972+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T00:40:08.136+08:00",
+      "fetchedAt": "2026-11-02T00:50:07.981+08:00",
       "error": null
     }
   }
