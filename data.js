@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T17:20:38.278+08:00",
+  "updatedAt": "2026-11-01T17:30:40.173+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 19.7,
-    "feelsLikeC": 18.7,
-    "humidity": 80,
-    "windKph": 21.1,
+    "tempC": 19.4,
+    "feelsLikeC": 18.5,
+    "humidity": 81,
+    "windKph": 20.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T17:20:38.278+08:00",
+    "observedAt": "2026-11-01T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T17:30:40.173+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "伊朗最高国家安全委员会秘书称尚未回应万斯来信",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724346.shtml",
-        "publishedAt": "2026-11-01T17:15:19.000+08:00"
+        "title": "2026国际马联场地障碍世界杯中国联赛杭州站举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724370.shtml",
+        "publishedAt": "2026-11-01T17:26:42.000+08:00"
       },
       {
-        "title": "中外200余名选手角逐第二届世界第一高桥铁人三项国际挑战赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724365.shtml",
-        "publishedAt": "2026-11-01T17:14:09.000+08:00"
+        "title": "第三届中国青少年网球城市挑战赛总决赛在河南郑州开幕 48支队伍以球会友",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724371.shtml",
+        "publishedAt": "2026-11-01T17:26:08.000+08:00"
       },
       {
-        "title": "2027年中国汽车十大技术趋势发布，释放什么信号？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724364.shtml",
-        "publishedAt": "2026-11-01T17:08:27.000+08:00"
+        "title": "2026中国生物医药产业园区竞争力“榜单”发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724368.shtml",
+        "publishedAt": "2026-11-01T17:25:08.000+08:00"
       },
       {
-        "title": "第四届中国研究生“美丽中国”创新设计大赛福州落幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724341.shtml",
-        "publishedAt": "2026-11-01T17:03:41.000+08:00"
+        "title": "2026中国生物技术创新大会在苏州开幕",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724367.shtml",
+        "publishedAt": "2026-11-01T17:23:50.000+08:00"
       },
       {
-        "title": "10月份制造业PMI降至49.3%，怎么看",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-01/10724363.shtml",
-        "publishedAt": "2026-11-01T17:00:46.000+08:00"
+        "title": "川金丝猴首次在境外实现自然繁育 后代在法国出生",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724329.shtml",
+        "publishedAt": "2026-11-01T17:16:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T17:20:03.291+08:00",
+    "fetchedAt": "2026-11-01T17:30:04.559+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T17:20:37.139+08:00",
+      "fetchedAt": "2026-11-01T17:30:38.853+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T22:20:38.000+08:00"
+          "resetAt": "2026-11-01T22:30:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T17:20:37.347+08:00",
+      "fetchedAt": "2026-11-01T17:30:39.035+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T17:20:37.350+08:00",
+      "fetchedAt": "2026-11-01T17:30:39.040+08:00",
       "error": null
     }
   }
