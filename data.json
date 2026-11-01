@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T12:30:08.930+08:00",
+  "updatedAt": "2026-11-01T12:40:08.964+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-01T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T12:30:08.930+08:00",
+    "fetchedAt": "2026-11-01T12:40:08.964+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "湖北京山：以“小网球”带动县域新发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724229.shtml",
+        "publishedAt": "2026-11-01T12:37:08.000+08:00"
+      },
+      {
+        "title": "租的是手机拿到的是现金 起底“租机套现”有哪些风险",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-01/10724235.shtml",
+        "publishedAt": "2026-11-01T12:36:18.000+08:00"
+      },
       {
         "title": "航天员太空摸鼻子是什么实验？揭秘背后的科学原理",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724234.shtml",
@@ -33,19 +43,9 @@
         "title": "（走进中国乡村）浙南山乡栀子花果开出风景、结出产业",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724231.shtml",
         "publishedAt": "2026-11-01T12:16:13.000+08:00"
-      },
-      {
-        "title": "2026年广西水上搜救应急技能竞赛举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724228.shtml",
-        "publishedAt": "2026-11-01T12:00:36.000+08:00"
-      },
-      {
-        "title": "湖北宜昌：1.6万跑者穿行“水电之都”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724224.shtml",
-        "publishedAt": "2026-11-01T11:58:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T12:30:03.576+08:00",
+    "fetchedAt": "2026-11-01T12:40:03.570+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T12:30:07.781+08:00",
+      "fetchedAt": "2026-11-01T12:40:07.379+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T17:30:08.000+08:00"
+          "resetAt": "2026-11-01T17:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T12:30:07.972+08:00",
+      "fetchedAt": "2026-11-01T12:40:07.635+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T12:30:07.980+08:00",
+      "fetchedAt": "2026-11-01T12:40:07.644+08:00",
       "error": null
     }
   }
