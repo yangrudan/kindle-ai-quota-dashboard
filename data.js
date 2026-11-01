@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T15:00:11.078+08:00",
+  "updatedAt": "2026-11-01T15:10:09.390+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-01T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T15:00:11.078+08:00",
+    "fetchedAt": "2026-11-01T15:10:09.391+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "陈茂波：香港全年经济增长预测可望再上调",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724295.shtml",
+        "publishedAt": "2026-11-01T15:00:32.000+08:00"
+      },
       {
         "title": "几十秒出一份攻略，AI当“旅游搭子”靠谱吗？",
         "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724294.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "千余名韩国青年访山东潍坊：盼从相识走向携手同行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724285.shtml",
         "publishedAt": "2026-11-01T14:47:03.000+08:00"
-      },
-      {
-        "title": "中国铁路部门启动“双11”网购高峰期快件运输服务",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724288.shtml",
-        "publishedAt": "2026-11-01T14:42:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T15:00:04.950+08:00",
+    "fetchedAt": "2026-11-01T15:10:03.832+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T15:00:09.497+08:00",
+      "fetchedAt": "2026-11-01T15:10:07.906+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T20:00:11.000+08:00"
+          "resetAt": "2026-11-01T20:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T15:00:09.719+08:00",
+      "fetchedAt": "2026-11-01T15:10:08.187+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T15:00:09.723+08:00",
+      "fetchedAt": "2026-11-01T15:10:08.193+08:00",
       "error": null
     }
   }
