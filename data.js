@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T11:00:40.051+08:00",
+  "updatedAt": "2026-11-01T11:10:09.184+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-01T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T11:00:40.051+08:00",
+    "fetchedAt": "2026-11-01T11:10:09.185+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "诺奖得主安德烈·盖姆：科学研究就是从好奇心出发走向实际应用",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724194.shtml",
+        "publishedAt": "2026-11-01T10:59:31.000+08:00"
+      },
       {
         "title": "歼-20首次公开亮相10周年，盘点威龙高光时刻！",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724195.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026年全国人口变动情况抽样调查来了！一图读懂→",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724190.shtml",
         "publishedAt": "2026-11-01T10:38:40.000+08:00"
-      },
-      {
-        "title": "2026年世界城市日全球主场活动暨第四届全球可持续发展城市奖（上海奖）颁奖活动在福州举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724186.shtml",
-        "publishedAt": "2026-11-01T10:38:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T11:00:04.361+08:00",
+    "fetchedAt": "2026-11-01T11:10:03.035+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T11:00:38.199+08:00",
+      "fetchedAt": "2026-11-01T11:10:07.440+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T16:00:39.000+08:00"
+          "resetAt": "2026-11-01T16:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T11:00:38.425+08:00",
+      "fetchedAt": "2026-11-01T11:10:07.642+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T11:00:38.432+08:00",
+      "fetchedAt": "2026-11-01T11:10:07.651+08:00",
       "error": null
     }
   }
