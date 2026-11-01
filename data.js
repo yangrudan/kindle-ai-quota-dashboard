@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T19:20:09.492+08:00",
+  "updatedAt": "2026-11-01T19:30:09.645+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.4,
-    "feelsLikeC": 16.6,
-    "humidity": 89,
-    "windKph": 18.4,
+    "tempC": 17.1,
+    "feelsLikeC": 16.4,
+    "humidity": 90,
+    "windKph": 17.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T19:20:09.492+08:00",
+    "observedAt": "2026-11-01T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T19:30:09.646+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第八届粤港澳大湾区师德师风建设学术研讨会在珠海举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724419.shtml",
-        "publishedAt": "2026-11-01T19:15:12.000+08:00"
+        "title": "浙VA，让城乡球友“打成一片”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724442.shtml",
+        "publishedAt": "2026-11-01T19:24:46.000+08:00"
       },
       {
-        "title": "福州：2026年世界城市日全球主场活动现场体验区吸引参观者",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724379.shtml",
-        "publishedAt": "2026-11-01T19:14:52.000+08:00"
+        "title": "第十一届世界妈祖文化论坛在福建湄洲岛开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724437.shtml",
+        "publishedAt": "2026-11-01T19:24:00.000+08:00"
       },
       {
-        "title": "国防部批日剧《VIVANT》颠倒黑白：历史不容置换，罪行不容转嫁",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724428.shtml",
-        "publishedAt": "2026-11-01T19:14:36.000+08:00"
+        "title": "西安举办警营开放日活动",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724432.shtml",
+        "publishedAt": "2026-11-01T19:22:22.000+08:00"
       },
       {
-        "title": "福州：高校学子展演服装设计获奖作品",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724381.shtml",
-        "publishedAt": "2026-11-01T19:13:22.000+08:00"
+        "title": "沈阳故宫2026年参观人数已突破600万人次",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724441.shtml",
+        "publishedAt": "2026-11-01T19:21:46.000+08:00"
       },
       {
-        "title": "汇聚海内外英才 2026首届南京人才周启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724378.shtml",
-        "publishedAt": "2026-11-01T19:12:16.000+08:00"
+        "title": "128名制鞋能手在河南商丘展开比拼",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724427.shtml",
+        "publishedAt": "2026-11-01T19:20:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T19:20:02.908+08:00",
+    "fetchedAt": "2026-11-01T19:30:03.460+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T19:20:07.863+08:00",
+      "fetchedAt": "2026-11-01T19:30:08.340+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T00:20:08.000+08:00"
+          "resetAt": "2026-11-02T00:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T19:20:08.129+08:00",
+      "fetchedAt": "2026-11-01T19:30:08.683+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T19:20:08.135+08:00",
+      "fetchedAt": "2026-11-01T19:30:08.691+08:00",
       "error": null
     }
   }
