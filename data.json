@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T20:20:08.781+08:00",
+  "updatedAt": "2026-11-01T20:30:10.597+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.5,
-    "feelsLikeC": 15.7,
-    "humidity": 89,
-    "windKph": 15.9,
+    "tempC": 16,
+    "feelsLikeC": 15.6,
+    "humidity": 91,
+    "windKph": 13,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T20:20:08.782+08:00",
+    "observedAt": "2026-11-01T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T20:30:10.597+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年内蒙古草垛拳王争霸赛开赛 百余名青少年擂台切磋",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724462.shtml",
-        "publishedAt": "2026-11-01T20:11:37.000+08:00"
+        "title": "周秉德返乡追忆伯父周恩来：“上天”之志代代相传",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724479.shtml",
+        "publishedAt": "2026-11-01T20:22:39.000+08:00"
       },
       {
-        "title": "俄总统助理：普京从未拒绝与泽连斯基对话，泽连斯基可以来莫斯科",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724474.shtml",
-        "publishedAt": "2026-11-01T20:09:43.000+08:00"
+        "title": "宁夏银川120场惠民演出浸润城乡 群众“点单”乐享家门口大戏",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724481.shtml",
+        "publishedAt": "2026-11-01T20:22:21.000+08:00"
       },
       {
-        "title": "复旦大学哲学学院（系）迎来七十周岁“生日”",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724459.shtml",
-        "publishedAt": "2026-11-01T20:06:28.000+08:00"
+        "title": "第九届进博会开幕在即 国家会展中心(上海)开启“夜景模式”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724465.shtml",
+        "publishedAt": "2026-11-01T20:20:53.000+08:00"
       },
       {
-        "title": "20余款新品全球首发！这场科技盛会明日开幕，亮点抢鲜看",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724463.shtml",
-        "publishedAt": "2026-11-01T20:01:58.000+08:00"
+        "title": "桃醉平谷第十一届京津冀公路自行车大众挑战赛开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724478.shtml",
+        "publishedAt": "2026-11-01T20:19:31.000+08:00"
       },
       {
-        "title": "秋冬流感季来临 这份防护攻略请收好",
-        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724460.shtml",
-        "publishedAt": "2026-11-01T19:59:52.000+08:00"
+        "title": "潮汐与降雨叠加 曼谷及周边七府面临洪水风险",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724470.shtml",
+        "publishedAt": "2026-11-01T20:18:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T20:20:03.190+08:00",
+    "fetchedAt": "2026-11-01T20:30:04.812+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T20:20:07.391+08:00",
+      "fetchedAt": "2026-11-01T20:30:09.356+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T01:20:08.000+08:00"
+          "resetAt": "2026-11-02T01:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T20:20:07.712+08:00",
+      "fetchedAt": "2026-11-01T20:30:09.624+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T20:20:07.722+08:00",
+      "fetchedAt": "2026-11-01T20:30:09.633+08:00",
       "error": null
     }
   }
