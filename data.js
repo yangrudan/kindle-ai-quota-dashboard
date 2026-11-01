@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T21:40:09.275+08:00",
+  "updatedAt": "2026-11-01T21:50:09.662+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15.8,
-    "feelsLikeC": 15.6,
+    "feelsLikeC": 15.5,
     "humidity": 91,
-    "windKph": 11.5,
+    "windKph": 11.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T21:40:09.275+08:00",
+    "observedAt": "2026-11-01T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T21:50:09.663+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "胶囊胃镜、手术机器人亮相广交会 中国医疗设备加速出海",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724504.shtml",
-        "publishedAt": "2026-11-01T21:28:09.000+08:00"
+        "title": "乌称俄袭击基辅能源设施 城区多地面临停水",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724509.shtml",
+        "publishedAt": "2026-11-01T21:47:54.000+08:00"
       },
       {
-        "title": "2026杭马赛道上的“硬核”浪漫与“无感”守护",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724502.shtml",
-        "publishedAt": "2026-11-01T21:26:33.000+08:00"
+        "title": "考古学家：史前治水是长江文明鲜明特征 彰显先民生存智慧",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724503.shtml",
+        "publishedAt": "2026-11-01T21:44:22.000+08:00"
       },
       {
-        "title": "以一座城的名义致敬企业家 海内外宁商齐聚福建宁德叙乡谊话发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724500.shtml",
-        "publishedAt": "2026-11-01T21:16:02.000+08:00"
+        "title": "海内外专家聚首“妈祖故里”谈妈祖文化减灾智慧",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724501.shtml",
+        "publishedAt": "2026-11-01T21:43:12.000+08:00"
       },
       {
-        "title": "新华社受权全文播发《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》和习近平总书记所作的《关于〈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724499.shtml",
-        "publishedAt": "2026-11-01T21:10:08.000+08:00"
+        "title": "法国新一轮示威活动中已有779人被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724507.shtml",
+        "publishedAt": "2026-11-01T21:42:26.000+08:00"
       },
       {
-        "title": "澜湄六国50余名青年云南“香遇普洱”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724489.shtml",
-        "publishedAt": "2026-11-01T21:05:16.000+08:00"
+        "title": "“理财产品要变相保本了”是误读政策",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724506.shtml",
+        "publishedAt": "2026-11-01T21:41:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T21:40:03.391+08:00",
+    "fetchedAt": "2026-11-01T21:50:03.996+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T21:40:07.886+08:00",
+      "fetchedAt": "2026-11-01T21:50:08.233+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T02:40:09.000+08:00"
+          "resetAt": "2026-11-02T02:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T21:40:08.160+08:00",
+      "fetchedAt": "2026-11-01T21:50:08.491+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T21:40:08.165+08:00",
+      "fetchedAt": "2026-11-01T21:50:08.495+08:00",
       "error": null
     }
   }
