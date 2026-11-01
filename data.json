@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T07:30:40.299+08:00",
+  "updatedAt": "2026-11-02T07:40:17.971+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T07:30:40.299+08:00",
+    "fetchedAt": "2026-11-02T07:40:17.972+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习言道｜全面从严治党关键在严",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724510.shtml",
+        "publishedAt": "2026-11-02T07:30:12.000+08:00"
+      },
       {
         "title": "每周至少半天校外实践教学将在全国推行 专家建议：课时进课表经费进预算责任进清单",
         "url": "https://www.chinanews.com.cn/edu/2026/11-02/10724533.shtml",
@@ -38,14 +43,9 @@
         "title": "外媒：特朗普与内塔尼亚胡就美伊谈判进行通话",
         "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724530.shtml",
         "publishedAt": "2026-11-02T07:04:41.000+08:00"
-      },
-      {
-        "title": "11月2日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-02/10724529.shtml",
-        "publishedAt": "2026-11-02T06:59:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T07:30:04.138+08:00",
+    "fetchedAt": "2026-11-02T07:40:12.707+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T07:30:38.050+08:00",
+      "fetchedAt": "2026-11-02T07:40:16.690+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T12:30:39.000+08:00"
+          "resetAt": "2026-11-02T12:40:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T07:30:38.738+08:00",
+      "fetchedAt": "2026-11-02T07:40:17.026+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T07:30:38.747+08:00",
+      "fetchedAt": "2026-11-02T07:40:17.029+08:00",
       "error": null
     }
   }
