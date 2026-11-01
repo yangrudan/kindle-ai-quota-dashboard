@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T14:50:08.692+08:00",
+  "updatedAt": "2026-11-01T15:00:11.078+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 25.2,
-    "feelsLikeC": 27,
+    "tempC": 25,
+    "feelsLikeC": 26.3,
     "humidity": 69,
-    "windKph": 11,
+    "windKph": 13.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T14:50:08.692+08:00",
+    "observedAt": "2026-11-01T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T15:00:11.078+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "几十秒出一份攻略，AI当“旅游搭子”靠谱吗？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724294.shtml",
+        "publishedAt": "2026-11-01T14:57:14.000+08:00"
+      },
+      {
+        "title": "上海11月第一天最高气温27℃ 下周将迎阵雨降温",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724282.shtml",
+        "publishedAt": "2026-11-01T14:49:09.000+08:00"
+      },
+      {
+        "title": "沈阳秋假期间游客游览沈阳故宫",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724281.shtml",
+        "publishedAt": "2026-11-01T14:47:45.000+08:00"
+      },
+      {
+        "title": "千余名韩国青年访山东潍坊：盼从相识走向携手同行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724285.shtml",
+        "publishedAt": "2026-11-01T14:47:03.000+08:00"
+      },
+      {
         "title": "中国铁路部门启动“双11”网购高峰期快件运输服务",
         "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724288.shtml",
         "publishedAt": "2026-11-01T14:42:13.000+08:00"
-      },
-      {
-        "title": "“黄金平替”全球爆单！出口大增→",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724290.shtml",
-        "publishedAt": "2026-11-01T14:41:17.000+08:00"
-      },
-      {
-        "title": "美丽中国系列主题绘画创作工程作品展启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724283.shtml",
-        "publishedAt": "2026-11-01T14:40:01.000+08:00"
-      },
-      {
-        "title": "前三季度中国社会物流总额同比增长4.9%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724286.shtml",
-        "publishedAt": "2026-11-01T14:39:57.000+08:00"
-      },
-      {
-        "title": "美媒：伊朗袭击中东地区超20处美军基地 造成数十亿美元装备损失",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724259.shtml",
-        "publishedAt": "2026-11-01T14:38:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T14:50:03.587+08:00",
+    "fetchedAt": "2026-11-01T15:00:04.950+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T14:50:07.493+08:00",
+      "fetchedAt": "2026-11-01T15:00:09.497+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T19:50:08.000+08:00"
+          "resetAt": "2026-11-01T20:00:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T14:50:07.738+08:00",
+      "fetchedAt": "2026-11-01T15:00:09.719+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T14:50:07.747+08:00",
+      "fetchedAt": "2026-11-01T15:00:09.723+08:00",
       "error": null
     }
   }
