@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T14:40:17.450+08:00",
+  "updatedAt": "2026-11-01T14:50:08.692+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 26.3,
-    "feelsLikeC": 28,
-    "humidity": 66,
-    "windKph": 12.1,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 25.2,
+    "feelsLikeC": 27,
+    "humidity": 69,
+    "windKph": 11,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T14:40:17.451+08:00",
+    "observedAt": "2026-11-01T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T14:50:08.692+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "章登峰当选浙江省台州市市长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724275.shtml",
-        "publishedAt": "2026-11-01T14:29:34.000+08:00"
+        "title": "中国铁路部门启动“双11”网购高峰期快件运输服务",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724288.shtml",
+        "publishedAt": "2026-11-01T14:42:13.000+08:00"
       },
       {
-        "title": "香港高校博士交流团丹阳行收官 冀助推苏港科研成果转化",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724278.shtml",
-        "publishedAt": "2026-11-01T14:26:30.000+08:00"
+        "title": "“黄金平替”全球爆单！出口大增→",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724290.shtml",
+        "publishedAt": "2026-11-01T14:41:17.000+08:00"
       },
       {
-        "title": "中国选手孙心然不敌英国选手达特 无缘广网单打决赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724280.shtml",
-        "publishedAt": "2026-11-01T14:25:06.000+08:00"
+        "title": "美丽中国系列主题绘画创作工程作品展启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724283.shtml",
+        "publishedAt": "2026-11-01T14:40:01.000+08:00"
       },
       {
-        "title": "（第九届进博会）前瞻：中国释开放新声 世界共享新机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724274.shtml",
-        "publishedAt": "2026-11-01T14:23:52.000+08:00"
+        "title": "前三季度中国社会物流总额同比增长4.9%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724286.shtml",
+        "publishedAt": "2026-11-01T14:39:57.000+08:00"
       },
       {
-        "title": "北京人艺剧场版《哈姆雷特》登台南京",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724279.shtml",
-        "publishedAt": "2026-11-01T14:22:08.000+08:00"
+        "title": "美媒：伊朗袭击中东地区超20处美军基地 造成数十亿美元装备损失",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724259.shtml",
+        "publishedAt": "2026-11-01T14:38:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T14:40:12.145+08:00",
+    "fetchedAt": "2026-11-01T14:50:03.587+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T14:40:16.033+08:00",
+      "fetchedAt": "2026-11-01T14:50:07.493+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T19:40:17.000+08:00"
+          "resetAt": "2026-11-01T19:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T14:40:16.266+08:00",
+      "fetchedAt": "2026-11-01T14:50:07.738+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T14:40:16.275+08:00",
+      "fetchedAt": "2026-11-01T14:50:07.747+08:00",
       "error": null
     }
   }
