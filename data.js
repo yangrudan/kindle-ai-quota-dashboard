@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T13:50:17.923+08:00",
+  "updatedAt": "2026-11-01T14:00:09.412+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 27.3,
-    "feelsLikeC": 28.9,
-    "humidity": 60,
-    "windKph": 11.5,
-    "windDir": "西北风",
+    "tempC": 26.1,
+    "feelsLikeC": 27.7,
+    "humidity": 66,
+    "windKph": 13.2,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T13:50:17.923+08:00",
+    "observedAt": "2026-11-01T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T14:00:09.412+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "逾3.2万香港初中生参与长征主题历史文化问答比赛",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724263.shtml",
-        "publishedAt": "2026-11-01T13:45:30.000+08:00"
+        "title": "一块糖串起沪港老街对话 上海探索城市微更新",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724270.shtml",
+        "publishedAt": "2026-11-01T13:55:20.000+08:00"
       },
       {
-        "title": "从“老三样”到“新赛道”——温州培育新质生产力的政协答卷",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724260.shtml",
-        "publishedAt": "2026-11-01T13:43:44.000+08:00"
+        "title": "2026年世界城市日全球主场活动暨第四届全球可持续发展城市奖（上海奖）颁奖活动在福州开幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724265.shtml",
+        "publishedAt": "2026-11-01T13:48:42.000+08:00"
       },
       {
-        "title": "“上课严禁全程依赖PPT”，然后呢？",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-01/10724264.shtml",
-        "publishedAt": "2026-11-01T13:42:14.000+08:00"
+        "title": "秋意浓 河北民众踏秋赏景",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724240.shtml",
+        "publishedAt": "2026-11-01T13:47:54.000+08:00"
       },
       {
-        "title": "深圳海关签发中国首份升级后中秘自贸协定原产地证书",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724252.shtml",
-        "publishedAt": "2026-11-01T13:40:18.000+08:00"
+        "title": "芹菜降压、苦瓜降糖、大蒜抗癌？识破食物功效神化的套路！",
+        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724269.shtml",
+        "publishedAt": "2026-11-01T13:47:44.000+08:00"
       },
       {
-        "title": "空竹归乡 一名台青的闽南“拓荒”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724243.shtml",
-        "publishedAt": "2026-11-01T13:39:22.000+08:00"
+        "title": "特朗普：美国在伊朗仍需处理一两个目标，包括镐山核设施",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724256.shtml",
+        "publishedAt": "2026-11-01T13:47:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T13:50:12.941+08:00",
+    "fetchedAt": "2026-11-01T14:00:03.718+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T13:50:16.684+08:00",
+      "fetchedAt": "2026-11-01T14:00:07.774+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T18:50:17.000+08:00"
+          "resetAt": "2026-11-01T19:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T13:50:16.936+08:00",
+      "fetchedAt": "2026-11-01T14:00:08.134+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T13:50:16.940+08:00",
+      "fetchedAt": "2026-11-01T14:00:08.141+08:00",
       "error": null
     }
   }
