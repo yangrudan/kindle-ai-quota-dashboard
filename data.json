@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T09:30:10.453+08:00",
+  "updatedAt": "2026-11-01T09:40:09.086+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-01T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T09:30:10.453+08:00",
+    "fetchedAt": "2026-11-01T09:40:09.086+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "亚运冠军高晓彬与青少年分享武术经历",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724150.shtml",
-        "publishedAt": "2026-11-01T09:15:41.000+08:00"
+        "title": "促科技与产业创新深度融合 中国科学院广东实践“粤来粤有”经验",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724164.shtml",
+        "publishedAt": "2026-11-01T09:35:22.000+08:00"
       },
       {
-        "title": "中瑞自贸协定升级 瑞士商会人士看好合作新机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724153.shtml",
-        "publishedAt": "2026-11-01T09:14:21.000+08:00"
+        "title": "澜湄六国50余名青年共赴“云南之约” 以镜头定格普洱之美",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-01/10724152.shtml",
+        "publishedAt": "2026-11-01T09:34:24.000+08:00"
       },
       {
-        "title": "流感高发季来临 专家提醒：儿童防护莫松懈 尽早接种疫苗",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724155.shtml",
-        "publishedAt": "2026-11-01T09:13:45.000+08:00"
+        "title": "2026扬州高邮大运河半程马拉松鸣枪 5000名跑者畅跑“一湖两河三堤”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724163.shtml",
+        "publishedAt": "2026-11-01T09:33:44.000+08:00"
       },
       {
-        "title": "医生和AI说的不一样，该听谁的？",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-01/10724160.shtml",
-        "publishedAt": "2026-11-01T09:12:01.000+08:00"
+        "title": "168名选手齐聚农科城 陕西省群众网球公开赛杨凌挥拍开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724166.shtml",
+        "publishedAt": "2026-11-01T09:32:28.000+08:00"
       },
       {
-        "title": "“巅峰湖南·2026”收官赛落户桑植 助力老区“体育+”融合发展",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724149.shtml",
-        "publishedAt": "2026-11-01T09:11:51.000+08:00"
+        "title": "妈祖故里湄洲岛上演湄洲女发髻技艺秀",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724146.shtml",
+        "publishedAt": "2026-11-01T09:31:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T09:30:03.107+08:00",
+    "fetchedAt": "2026-11-01T09:40:03.552+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T09:30:08.423+08:00",
+      "fetchedAt": "2026-11-01T09:40:07.273+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T14:30:10.000+08:00"
+          "resetAt": "2026-11-01T14:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T09:30:09.043+08:00",
+      "fetchedAt": "2026-11-01T09:40:08.020+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T09:30:09.052+08:00",
+      "fetchedAt": "2026-11-01T09:40:08.023+08:00",
       "error": null
     }
   }
