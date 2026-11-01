@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T11:50:39.063+08:00",
+  "updatedAt": "2026-11-01T12:00:09.090+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.8,
-    "feelsLikeC": 29.5,
-    "humidity": 54,
+    "tempC": 28.1,
+    "feelsLikeC": 29.9,
+    "humidity": 53,
     "windKph": 11.9,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-01T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T11:50:39.064+08:00",
+    "observedAt": "2026-11-01T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T12:00:09.091+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "天津首届城市管理开放日开进公园 五大展区“摆摊”送服务",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724225.shtml",
+        "publishedAt": "2026-11-01T11:55:36.000+08:00"
+      },
+      {
+        "title": "一地叫停网约车“只送货不载人”，“四轮小件”业务真的合规吗？",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-01/10724223.shtml",
+        "publishedAt": "2026-11-01T11:46:19.000+08:00"
+      },
       {
         "title": "全国医药领域专家常州“论剑” 推动居家药学服务下沉与精准用药协同发展",
         "url": "https://www.chinanews.com.cn/txy/2026/11-01/10724214.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "这个普通的睡前习惯，可能正在损伤你的听力",
         "url": "https://www.chinanews.com.cn/life/2026/11-01/10724222.shtml",
         "publishedAt": "2026-11-01T11:36:13.000+08:00"
-      },
-      {
-        "title": "云南省第十三届少数民族传统体育运动会在昆明闭幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724205.shtml",
-        "publishedAt": "2026-11-01T11:32:51.000+08:00"
-      },
-      {
-        "title": "海外科学家上海聚首 寻找合作新课题",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724213.shtml",
-        "publishedAt": "2026-11-01T11:31:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T11:50:03.550+08:00",
+    "fetchedAt": "2026-11-01T12:00:03.803+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T11:50:37.221+08:00",
+      "fetchedAt": "2026-11-01T12:00:07.777+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T16:50:38.000+08:00"
+          "resetAt": "2026-11-01T17:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T11:50:37.634+08:00",
+      "fetchedAt": "2026-11-01T12:00:08.002+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T11:50:37.644+08:00",
+      "fetchedAt": "2026-11-01T12:00:08.012+08:00",
       "error": null
     }
   }
