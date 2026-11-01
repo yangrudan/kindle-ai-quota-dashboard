@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T12:40:08.964+08:00",
+  "updatedAt": "2026-11-01T12:50:38.921+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 28.5,
-    "feelsLikeC": 30.1,
+    "feelsLikeC": 30,
     "humidity": 53,
     "windKph": 12.1,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-01T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T12:40:08.964+08:00",
+    "observedAt": "2026-11-01T12:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T12:50:38.922+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从秋千滑梯到化学实验玩具 多项儿童用品安全新规今起实施",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724236.shtml",
+        "publishedAt": "2026-11-01T12:43:08.000+08:00"
+      },
+      {
+        "title": "双十一网购高峰期，铁路部门最新部署",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724216.shtml",
+        "publishedAt": "2026-11-01T12:41:46.000+08:00"
+      },
       {
         "title": "湖北京山：以“小网球”带动县域新发展",
         "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724229.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "航天员太空摸鼻子是什么实验？揭秘背后的科学原理",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724234.shtml",
         "publishedAt": "2026-11-01T12:25:52.000+08:00"
-      },
-      {
-        "title": "一盏灯",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724232.shtml",
-        "publishedAt": "2026-11-01T12:19:25.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）浙南山乡栀子花果开出风景、结出产业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724231.shtml",
-        "publishedAt": "2026-11-01T12:16:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T12:40:03.570+08:00",
+    "fetchedAt": "2026-11-01T12:50:03.369+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T12:40:07.379+08:00",
+      "fetchedAt": "2026-11-01T12:50:37.408+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T17:40:08.000+08:00"
+          "resetAt": "2026-11-01T17:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T12:40:07.635+08:00",
+      "fetchedAt": "2026-11-01T12:50:37.763+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T12:40:07.644+08:00",
+      "fetchedAt": "2026-11-01T12:50:37.772+08:00",
       "error": null
     }
   }
