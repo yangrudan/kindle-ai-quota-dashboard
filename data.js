@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T07:40:17.971+08:00",
+  "updatedAt": "2026-11-02T07:50:17.838+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T07:40:17.972+08:00",
+    "fetchedAt": "2026-11-02T07:50:17.839+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "雪季还没到 南方人已经掀起“追雪热”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724537.shtml",
+        "publishedAt": "2026-11-02T07:40:36.000+08:00"
+      },
+      {
+        "title": "出口民调：保加利亚现总统约托娃在总统选举第二轮投票中领先",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724536.shtml",
+        "publishedAt": "2026-11-02T07:37:50.000+08:00"
+      },
+      {
+        "title": "“银十”跑赢“金九”：上海10月二手房网签同比大涨33%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724535.shtml",
+        "publishedAt": "2026-11-02T07:37:46.000+08:00"
+      },
+      {
+        "title": "“不赚钱”的街边“会客厅”，为何能聚起人才、创新和资本",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724534.shtml",
+        "publishedAt": "2026-11-02T07:35:14.000+08:00"
+      },
+      {
         "title": "习言道｜全面从严治党关键在严",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724510.shtml",
         "publishedAt": "2026-11-02T07:30:12.000+08:00"
-      },
-      {
-        "title": "每周至少半天校外实践教学将在全国推行 专家建议：课时进课表经费进预算责任进清单",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-02/10724533.shtml",
-        "publishedAt": "2026-11-02T07:28:54.000+08:00"
-      },
-      {
-        "title": "行测、性格测试、智力测评、AI面试……找工作怎么成了无尽的“刷题闯关”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724532.shtml",
-        "publishedAt": "2026-11-02T07:27:08.000+08:00"
-      },
-      {
-        "title": "伊朗革命卫队情报机构宣布逮捕一名间谍",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724531.shtml",
-        "publishedAt": "2026-11-02T07:22:37.000+08:00"
-      },
-      {
-        "title": "外媒：特朗普与内塔尼亚胡就美伊谈判进行通话",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724530.shtml",
-        "publishedAt": "2026-11-02T07:04:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T07:40:12.707+08:00",
+    "fetchedAt": "2026-11-02T07:50:12.377+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T07:40:16.690+08:00",
+      "fetchedAt": "2026-11-02T07:50:16.606+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T12:40:17.000+08:00"
+          "resetAt": "2026-11-02T12:50:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T07:40:17.026+08:00",
+      "fetchedAt": "2026-11-02T07:50:16.850+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T07:40:17.029+08:00",
+      "fetchedAt": "2026-11-02T07:50:16.855+08:00",
       "error": null
     }
   }
