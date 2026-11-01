@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T18:10:10.246+08:00",
+  "updatedAt": "2026-11-01T18:20:38.604+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 19,
-    "feelsLikeC": 18.2,
-    "humidity": 82,
-    "windKph": 19.1,
+    "tempC": 18.7,
+    "feelsLikeC": 17.9,
+    "humidity": 83,
+    "windKph": 18.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T18:10:10.246+08:00",
+    "observedAt": "2026-11-01T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T18:20:38.605+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "南沙国际邮轮母港首迎国际访问邮轮",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724384.shtml",
-        "publishedAt": "2026-11-01T18:02:58.000+08:00"
+        "title": "青岛就熏硫白芷相关问题依法立案调查",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724402.shtml",
+        "publishedAt": "2026-11-01T18:12:26.000+08:00"
       },
       {
-        "title": "宁夏银川出台志愿服务促进条例 12月5日起正式施行",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-01/10724373.shtml",
-        "publishedAt": "2026-11-01T17:58:12.000+08:00"
+        "title": "内蒙古六旬妇女巴图其其格：她把蒙古族头饰缝“大”了",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724398.shtml",
+        "publishedAt": "2026-11-01T18:10:58.000+08:00"
       },
       {
-        "title": "伊朗将英国海军和空军列为“恐怖组织”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724330.shtml",
-        "publishedAt": "2026-11-01T17:47:41.000+08:00"
+        "title": "“角逐未来”长三角青少年足球联赛收官 上海队包揽男女组冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724394.shtml",
+        "publishedAt": "2026-11-01T18:10:00.000+08:00"
       },
       {
-        "title": "2026年中国轮滑（自由式轮滑）公开赛（上海嘉定站）落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724376.shtml",
-        "publishedAt": "2026-11-01T17:46:53.000+08:00"
+        "title": "2026汉风古韵国潮嘉年华系列活动在陕西汉中启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724397.shtml",
+        "publishedAt": "2026-11-01T18:09:06.000+08:00"
       },
       {
-        "title": "美国特拉华大学附近突发枪击事件",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724328.shtml",
-        "publishedAt": "2026-11-01T17:46:05.000+08:00"
+        "title": "浙江千年古镇“汉服热”：多国友人沉浸式体验东方审美",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724390.shtml",
+        "publishedAt": "2026-11-01T18:07:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T18:10:03.894+08:00",
+    "fetchedAt": "2026-11-01T18:20:03.690+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T18:10:08.470+08:00",
+      "fetchedAt": "2026-11-01T18:20:37.153+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T23:10:09.000+08:00"
+          "resetAt": "2026-11-01T23:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T18:10:08.731+08:00",
+      "fetchedAt": "2026-11-01T18:20:37.503+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T18:10:08.737+08:00",
+      "fetchedAt": "2026-11-01T18:20:37.511+08:00",
       "error": null
     }
   }
