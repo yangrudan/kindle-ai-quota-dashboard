@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T19:50:09.061+08:00",
+  "updatedAt": "2026-11-01T20:00:39.427+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.9,
-    "feelsLikeC": 16.2,
-    "humidity": 91,
-    "windKph": 17.2,
+    "tempC": 16.7,
+    "feelsLikeC": 16,
+    "humidity": 92,
+    "windKph": 16.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T19:50:09.061+08:00",
+    "observedAt": "2026-11-01T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T20:00:39.428+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（国际观察）高油价等多重因素推动俄罗斯卢布“逆势走强”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724443.shtml",
-        "publishedAt": "2026-11-01T19:38:59.000+08:00"
+        "title": "立冬前后将有冷空气南下 或大幅刷新立秋以来气温新低",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724457.shtml",
+        "publishedAt": "2026-11-01T19:55:34.000+08:00"
       },
       {
-        "title": "以杭州马拉松为窗：在奔跑中读懂一座城",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724452.shtml",
-        "publishedAt": "2026-11-01T19:38:49.000+08:00"
+        "title": "香港国际机场获颁多个国际奖项",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724447.shtml",
+        "publishedAt": "2026-11-01T19:54:42.000+08:00"
       },
       {
-        "title": "合成生物学产业化如何突围？院士建言走好自主创新之路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724450.shtml",
-        "publishedAt": "2026-11-01T19:35:27.000+08:00"
+        "title": "支持粤港澳大湾区国际科技创新中心建设相关举措发布",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724453.shtml",
+        "publishedAt": "2026-11-01T19:50:42.000+08:00"
       },
       {
-        "title": "浙江深耕新型婚育文化建设：搭起幸福桥 共育和美家",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724448.shtml",
-        "publishedAt": "2026-11-01T19:34:43.000+08:00"
+        "title": "刘建国：治水是史前长江中下游定居农业聚落重要社会活动",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724456.shtml",
+        "publishedAt": "2026-11-01T19:47:25.000+08:00"
       },
       {
-        "title": "从“场景机会”到出海保障 第六届长沙“企业家日”活动举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724446.shtml",
-        "publishedAt": "2026-11-01T19:32:35.000+08:00"
+        "title": "614家科创板公司完成三季报披露 净利润同比增约4.7倍",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724454.shtml",
+        "publishedAt": "2026-11-01T19:45:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T19:50:03.300+08:00",
+    "fetchedAt": "2026-11-01T20:00:04.676+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T19:50:07.856+08:00",
+      "fetchedAt": "2026-11-01T20:00:38.146+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T00:50:09.000+08:00"
+          "resetAt": "2026-11-02T01:00:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T19:50:08.085+08:00",
+      "fetchedAt": "2026-11-01T20:00:38.369+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T19:50:08.095+08:00",
+      "fetchedAt": "2026-11-01T20:00:38.375+08:00",
       "error": null
     }
   }
