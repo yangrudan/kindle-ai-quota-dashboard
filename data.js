@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T13:20:09.932+08:00",
+  "updatedAt": "2026-11-01T13:30:40.924+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 27.9,
-    "feelsLikeC": 29.3,
-    "humidity": 56,
-    "windKph": 11.6,
+    "tempC": 27.3,
+    "feelsLikeC": 28.9,
+    "humidity": 60,
+    "windKph": 11.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T13:20:09.932+08:00",
+    "observedAt": "2026-11-01T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T13:30:40.925+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香江观澜：深耕“只在香港”体验感 香港打造盛事之都新底色",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724242.shtml",
+        "publishedAt": "2026-11-01T13:21:51.000+08:00"
+      },
       {
         "title": "“妈祖”海洋预报数值模式2.0版本正式发布",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724247.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026朝阳区滨河半程马拉松完赛",
         "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724238.shtml",
         "publishedAt": "2026-11-01T13:09:58.000+08:00"
-      },
-      {
-        "title": "“乌镇峰会”将至，桐乡AI诸企待客来",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724237.shtml",
-        "publishedAt": "2026-11-01T13:07:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T13:20:03.720+08:00",
+    "fetchedAt": "2026-11-01T13:30:04.143+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T13:20:08.384+08:00",
+      "fetchedAt": "2026-11-01T13:30:37.788+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T18:20:09.000+08:00"
+          "resetAt": "2026-11-01T18:30:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T13:20:08.710+08:00",
+      "fetchedAt": "2026-11-01T13:30:38.365+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T13:20:08.713+08:00",
+      "fetchedAt": "2026-11-01T13:30:38.371+08:00",
       "error": null
     }
   }
