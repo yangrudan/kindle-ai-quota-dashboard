@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T18:20:38.604+08:00",
+  "updatedAt": "2026-11-01T18:30:58.003+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.7,
-    "feelsLikeC": 17.9,
-    "humidity": 83,
+    "tempC": 18.3,
+    "feelsLikeC": 17.5,
+    "humidity": 85,
     "windKph": 18.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T18:20:38.605+08:00",
+    "observedAt": "2026-11-01T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T18:30:58.003+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国科学院67项能源技术成果集中亮相大湾区科学论坛",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724387.shtml",
+        "publishedAt": "2026-11-01T18:22:33.000+08:00"
+      },
+      {
+        "title": "“利刃-2026”陆军反恐联合训练进入实装实操阶段",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724404.shtml",
+        "publishedAt": "2026-11-01T18:15:46.000+08:00"
+      },
+      {
+        "title": "直播海报：千年泰山石阶 迎来机器人“铁腿”闯关!",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724403.shtml",
+        "publishedAt": "2026-11-01T18:14:24.000+08:00"
+      },
       {
         "title": "青岛就熏硫白芷相关问题依法立案调查",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724402.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "内蒙古六旬妇女巴图其其格：她把蒙古族头饰缝“大”了",
         "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724398.shtml",
         "publishedAt": "2026-11-01T18:10:58.000+08:00"
-      },
-      {
-        "title": "“角逐未来”长三角青少年足球联赛收官 上海队包揽男女组冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724394.shtml",
-        "publishedAt": "2026-11-01T18:10:00.000+08:00"
-      },
-      {
-        "title": "2026汉风古韵国潮嘉年华系列活动在陕西汉中启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724397.shtml",
-        "publishedAt": "2026-11-01T18:09:06.000+08:00"
-      },
-      {
-        "title": "浙江千年古镇“汉服热”：多国友人沉浸式体验东方审美",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724390.shtml",
-        "publishedAt": "2026-11-01T18:07:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T18:20:03.690+08:00",
+    "fetchedAt": "2026-11-01T18:30:04.242+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T18:20:37.153+08:00",
+      "fetchedAt": "2026-11-01T18:30:37.710+08:00",
       "error": null
     },
     "codex": {
@@ -79,7 +79,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-01T18:20:37.503+08:00",
-      "error": null
+      "error": "Codex app-server 查询超时",
+      "stale": true,
+      "lastAttemptAt": "2026-11-01T18:30:37.991+08:00"
     },
     "mimo": {
       "ok": true,
@@ -97,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T18:20:37.511+08:00",
+      "fetchedAt": "2026-11-01T18:30:38.000+08:00",
       "error": null
     }
   }
