@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T09:20:09.464+08:00",
+  "updatedAt": "2026-11-01T09:30:10.453+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.6,
-    "feelsLikeC": 23.6,
-    "humidity": 66,
-    "windKph": 7.2,
+    "tempC": 23.2,
+    "feelsLikeC": 24.1,
+    "humidity": 65,
+    "windKph": 8.2,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-01T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T09:20:09.464+08:00",
+    "observedAt": "2026-11-01T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T09:30:10.453+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "亚运冠军高晓彬与青少年分享武术经历",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724150.shtml",
+        "publishedAt": "2026-11-01T09:15:41.000+08:00"
+      },
       {
         "title": "中瑞自贸协定升级 瑞士商会人士看好合作新机遇",
         "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724153.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“巅峰湖南·2026”收官赛落户桑植 助力老区“体育+”融合发展",
         "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724149.shtml",
         "publishedAt": "2026-11-01T09:11:51.000+08:00"
-      },
-      {
-        "title": "提醒！2027国考今起报名确认",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724157.shtml",
-        "publishedAt": "2026-11-01T09:09:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T09:20:03.527+08:00",
+    "fetchedAt": "2026-11-01T09:30:03.107+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T09:20:07.820+08:00",
+      "fetchedAt": "2026-11-01T09:30:08.423+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T14:20:09.000+08:00"
+          "resetAt": "2026-11-01T14:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T09:20:08.075+08:00",
+      "fetchedAt": "2026-11-01T09:30:09.043+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T09:20:08.084+08:00",
+      "fetchedAt": "2026-11-01T09:30:09.052+08:00",
       "error": null
     }
   }
