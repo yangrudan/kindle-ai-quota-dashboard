@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T21:20:09.360+08:00",
+  "updatedAt": "2026-11-01T21:30:39.694+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.9,
-    "feelsLikeC": 15.5,
+    "tempC": 15.8,
+    "feelsLikeC": 15.6,
     "humidity": 91,
-    "windKph": 12,
+    "windKph": 11.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T21:20:09.361+08:00",
+    "observedAt": "2026-11-01T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T21:30:39.694+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026杭马赛道上的“硬核”浪漫与“无感”守护",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724502.shtml",
+        "publishedAt": "2026-11-01T21:26:33.000+08:00"
+      },
+      {
+        "title": "以一座城的名义致敬企业家 海内外宁商齐聚福建宁德叙乡谊话发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724500.shtml",
+        "publishedAt": "2026-11-01T21:16:02.000+08:00"
+      },
       {
         "title": "新华社受权全文播发《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》和习近平总书记所作的《关于〈",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724499.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "三亚湾：椰风海韵醉游人",
         "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724488.shtml",
         "publishedAt": "2026-11-01T21:02:23.000+08:00"
-      },
-      {
-        "title": "金荣花、杨扬被聘为“妈祖文化全球推广大使”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724490.shtml",
-        "publishedAt": "2026-11-01T20:54:55.000+08:00"
-      },
-      {
-        "title": "第十三届中韩住宅与城市合作会议在福州举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724491.shtml",
-        "publishedAt": "2026-11-01T20:53:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T21:20:04.449+08:00",
+    "fetchedAt": "2026-11-01T21:30:03.527+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T21:20:08.169+08:00",
+      "fetchedAt": "2026-11-01T21:30:38.259+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T02:20:09.000+08:00"
+          "resetAt": "2026-11-02T02:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T21:20:08.385+08:00",
+      "fetchedAt": "2026-11-01T21:30:38.492+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T21:20:08.388+08:00",
+      "fetchedAt": "2026-11-01T21:30:38.503+08:00",
       "error": null
     }
   }
