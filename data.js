@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T07:00:09.610+08:00",
+  "updatedAt": "2026-11-02T07:10:10.156+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T07:00:09.610+08:00",
+    "fetchedAt": "2026-11-02T07:10:10.157+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外媒：特朗普与内塔尼亚胡就美伊谈判进行通话",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724530.shtml",
+        "publishedAt": "2026-11-02T07:04:41.000+08:00"
+      },
+      {
+        "title": "11月2日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-02/10724529.shtml",
+        "publishedAt": "2026-11-02T06:59:30.000+08:00"
+      },
       {
         "title": "俄安全部门调查莫斯科恐袭情报期间逮捕一名未成年人",
         "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724526.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "把地球冷冻一下，温室效应会得到缓解吗？答案出乎意料",
         "url": "https://www.chinanews.com.cn/life/2026/11-02/10724527.shtml",
         "publishedAt": "2026-11-02T06:42:47.000+08:00"
-      },
-      {
-        "title": "美国佛州一飞机坠毁并爆炸 机上9人全部遇难",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724528.shtml",
-        "publishedAt": "2026-11-02T06:42:23.000+08:00"
-      },
-      {
-        "title": "“欧佩克+”主要产油国决定12月维持产量不变",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724524.shtml",
-        "publishedAt": "2026-11-02T00:29:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T07:00:04.229+08:00",
+    "fetchedAt": "2026-11-02T07:10:03.889+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T07:00:08.152+08:00",
+      "fetchedAt": "2026-11-02T07:10:07.859+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T12:00:09.000+08:00"
+          "resetAt": "2026-11-02T12:10:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T07:00:08.445+08:00",
+      "fetchedAt": "2026-11-02T07:10:08.059+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T07:00:08.450+08:00",
+      "fetchedAt": "2026-11-02T07:10:08.066+08:00",
       "error": null
     }
   }
