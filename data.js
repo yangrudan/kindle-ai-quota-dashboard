@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T19:00:11.797+08:00",
+  "updatedAt": "2026-11-01T19:10:13.430+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-01T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T19:00:11.798+08:00",
+    "fetchedAt": "2026-11-01T19:10:13.431+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "印尼学子青睐赴华留学：“想求知，就到中国去”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724429.shtml",
+        "publishedAt": "2026-11-01T19:05:11.000+08:00"
+      },
+      {
+        "title": "徒步中国·大众徒步挑战赛（重庆·梁平站）开赛 选手穿行竹海与古蜀道",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724423.shtml",
+        "publishedAt": "2026-11-01T18:58:53.000+08:00"
+      },
+      {
+        "title": "青海德令哈200吨氯酸钠出口日本",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724422.shtml",
+        "publishedAt": "2026-11-01T18:58:29.000+08:00"
+      },
+      {
+        "title": "福建泉州举办企业家日主题活动 共话“世界的泉州”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724424.shtml",
+        "publishedAt": "2026-11-01T18:57:11.000+08:00"
+      },
+      {
         "title": "“中国最冷小镇”呼中降至-28℃ 雾凇美景惹人醉",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724420.shtml",
         "publishedAt": "2026-11-01T18:54:43.000+08:00"
-      },
-      {
-        "title": "第二十个“重庆农民工日”暨川渝农民工服务周启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724415.shtml",
-        "publishedAt": "2026-11-01T18:44:50.000+08:00"
-      },
-      {
-        "title": "大风蓝色预警：新疆西藏等6省区部分地区阵风可达7至8级",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724410.shtml",
-        "publishedAt": "2026-11-01T18:44:34.000+08:00"
-      },
-      {
-        "title": "中国驻俄罗斯大使馆提醒：切勿在俄非法采金",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-01/10724413.shtml",
-        "publishedAt": "2026-11-01T18:44:18.000+08:00"
-      },
-      {
-        "title": "海洋文化赋能海洋经济高质量发展论坛在莆田举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724412.shtml",
-        "publishedAt": "2026-11-01T18:40:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T19:00:05.219+08:00",
+    "fetchedAt": "2026-11-01T19:10:03.665+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T19:00:10.135+08:00",
+      "fetchedAt": "2026-11-01T19:10:07.940+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T00:00:11.000+08:00"
+          "resetAt": "2026-11-02T00:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T19:00:10.469+08:00",
+      "fetchedAt": "2026-11-01T19:10:08.294+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T19:00:10.478+08:00",
+      "fetchedAt": "2026-11-01T19:10:08.303+08:00",
       "error": null
     }
   }
