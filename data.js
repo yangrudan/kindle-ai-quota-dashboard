@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T15:30:08.319+08:00",
+  "updatedAt": "2026-11-01T15:40:38.745+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-01T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T15:30:08.319+08:00",
+    "fetchedAt": "2026-11-01T15:40:38.746+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "第三届“人民艺术论坛”举办 成立红色美育共同体",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724302.shtml",
+        "publishedAt": "2026-11-01T15:33:22.000+08:00"
+      },
+      {
+        "title": "杭州北山街上的“秘密花园”：别墅群见证西湖近代风云",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724305.shtml",
+        "publishedAt": "2026-11-01T15:30:18.000+08:00"
+      },
+      {
+        "title": "湖南江华深耕微电机制造 小家电零部件走向国际市场",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-01/10724307.shtml",
+        "publishedAt": "2026-11-01T15:28:39.000+08:00"
+      },
+      {
+        "title": "俄罗斯联邦委员会主席将访华",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724306.shtml",
+        "publishedAt": "2026-11-01T15:25:45.000+08:00"
+      },
+      {
         "title": "广交会观察：AI玩具陪伴交互功能助企业收获海外订单",
         "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724304.shtml",
         "publishedAt": "2026-11-01T15:23:53.000+08:00"
-      },
-      {
-        "title": "中俄界江黑龙江黑河段“跑冰排”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724299.shtml",
-        "publishedAt": "2026-11-01T15:23:51.000+08:00"
-      },
-      {
-        "title": "“浙里幸福荟”集体婚礼在杭州举行 百位新人以宋礼传情",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724300.shtml",
-        "publishedAt": "2026-11-01T15:20:17.000+08:00"
-      },
-      {
-        "title": "纵览十八座城市风采 2026年《城市风华录》启播",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724296.shtml",
-        "publishedAt": "2026-11-01T15:19:49.000+08:00"
-      },
-      {
-        "title": "遗产与发展如何共生？专家学者杭州共话融合路径",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724303.shtml",
-        "publishedAt": "2026-11-01T15:15:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T15:30:02.930+08:00",
+    "fetchedAt": "2026-11-01T15:40:03.910+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T15:30:07.184+08:00",
+      "fetchedAt": "2026-11-01T15:40:37.525+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T20:30:08.000+08:00"
+          "resetAt": "2026-11-01T20:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T15:30:07.399+08:00",
+      "fetchedAt": "2026-11-01T15:40:37.783+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T15:30:07.405+08:00",
+      "fetchedAt": "2026-11-01T15:40:37.790+08:00",
       "error": null
     }
   }
