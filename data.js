@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T14:10:09.815+08:00",
+  "updatedAt": "2026-11-01T14:20:09.813+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
+    "description": "多云",
+    "iconKey": "cloudy",
     "tempC": 26.1,
     "feelsLikeC": 27.7,
-    "humidity": 66,
-    "windKph": 13.2,
+    "humidity": 67,
+    "windKph": 13,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T14:10:09.815+08:00",
+    "observedAt": "2026-11-01T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T14:20:09.813+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "江苏常熟：虞山古城墙西城楼阁吸引游客",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209367.shtml",
+        "publishedAt": "2026-11-01T14:09:21.000+08:00"
+      },
       {
         "title": "秋冬流感季已到 流感防治8问8答来了",
         "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724272.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "一块糖串起沪港老街对话 上海探索城市微更新",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724270.shtml",
         "publishedAt": "2026-11-01T13:55:20.000+08:00"
-      },
-      {
-        "title": "2026年世界城市日全球主场活动暨第四届全球可持续发展城市奖（上海奖）颁奖活动在福州开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724265.shtml",
-        "publishedAt": "2026-11-01T13:48:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T14:10:04.541+08:00",
+    "fetchedAt": "2026-11-01T14:20:04.090+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T14:10:08.650+08:00",
+      "fetchedAt": "2026-11-01T14:20:08.512+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T19:10:09.000+08:00"
+          "resetAt": "2026-11-01T19:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T14:10:08.867+08:00",
+      "fetchedAt": "2026-11-01T14:20:08.765+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T14:10:08.872+08:00",
+      "fetchedAt": "2026-11-01T14:20:08.774+08:00",
       "error": null
     }
   }
