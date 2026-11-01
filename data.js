@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T20:40:08.342+08:00",
+  "updatedAt": "2026-11-01T20:50:09.921+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16,
-    "feelsLikeC": 15.6,
+    "tempC": 15.9,
+    "feelsLikeC": 15.5,
     "humidity": 91,
-    "windKph": 13,
+    "windKph": 12.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T20:40:08.342+08:00",
+    "observedAt": "2026-11-01T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T20:50:09.921+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "报告预计，2026年中国大宗商品价格指数均值为132.1点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724484.shtml",
+        "publishedAt": "2026-11-01T20:38:32.000+08:00"
+      },
+      {
+        "title": "中国陪诊服务步入标准化时代",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724486.shtml",
+        "publishedAt": "2026-11-01T20:36:40.000+08:00"
+      },
+      {
+        "title": "施劲松：史前治水是长江文明鲜明特征 彰显史前先民生存智慧",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724485.shtml",
+        "publishedAt": "2026-11-01T20:34:40.000+08:00"
+      },
       {
         "title": "宁台携手共探渔业融合发展新路",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724483.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "城市更新遇上千年文脉：专家学者福州共探历史遗产“活态传承”新路径",
         "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724482.shtml",
         "publishedAt": "2026-11-01T20:24:45.000+08:00"
-      },
-      {
-        "title": "中国·十八洞山地越野挑战赛开赛 奔跑见证山乡蝶变",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724480.shtml",
-        "publishedAt": "2026-11-01T20:23:33.000+08:00"
-      },
-      {
-        "title": "周秉德返乡追忆伯父周恩来：“上天”之志代代相传",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724479.shtml",
-        "publishedAt": "2026-11-01T20:22:39.000+08:00"
-      },
-      {
-        "title": "宁夏银川120场惠民演出浸润城乡 群众“点单”乐享家门口大戏",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724481.shtml",
-        "publishedAt": "2026-11-01T20:22:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T20:40:03.143+08:00",
+    "fetchedAt": "2026-11-01T20:50:03.723+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T20:40:07.085+08:00",
+      "fetchedAt": "2026-11-01T20:50:08.768+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T01:40:08.000+08:00"
+          "resetAt": "2026-11-02T01:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T20:40:07.404+08:00",
+      "fetchedAt": "2026-11-01T20:50:08.964+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T20:40:07.409+08:00",
+      "fetchedAt": "2026-11-01T20:50:08.970+08:00",
       "error": null
     }
   }
