@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T13:30:40.924+08:00",
+  "updatedAt": "2026-11-01T13:40:09.562+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-01T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T13:30:40.925+08:00",
+    "fetchedAt": "2026-11-01T13:40:09.563+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香江观澜：深耕“只在香港”体验感 香港打造盛事之都新底色",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724242.shtml",
-        "publishedAt": "2026-11-01T13:21:51.000+08:00"
+        "title": "统战聚力盘活“空心房” 湖南常德“艺丹沅”催生乡村新业态",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-01/10724249.shtml",
+        "publishedAt": "2026-11-01T13:32:05.000+08:00"
       },
       {
-        "title": "“妈祖”海洋预报数值模式2.0版本正式发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724247.shtml",
-        "publishedAt": "2026-11-01T13:16:54.000+08:00"
+        "title": "六省区民族代表齐聚湖北通城 共叙南北交融情",
+        "url": "https://www.chinanews.com.cn/mz/2026/11-01/10724248.shtml",
+        "publishedAt": "2026-11-01T13:29:53.000+08:00"
       },
       {
-        "title": "我国计划在2030年前实现登月！“两次发射、一次登月”方案揭秘",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724246.shtml",
-        "publishedAt": "2026-11-01T13:11:36.000+08:00"
+        "title": "超清影像——浙东首台光子计数探测器CT在宁大一院投用",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724244.shtml",
+        "publishedAt": "2026-11-01T13:29:29.000+08:00"
       },
       {
-        "title": "中国田协10公里精英赛落地无锡 海内外跑者感受江南如画夜景",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724241.shtml",
-        "publishedAt": "2026-11-01T13:10:20.000+08:00"
+        "title": "歼-20、歼-20A、歼-20S有何区别？10年战力进阶之路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724258.shtml",
+        "publishedAt": "2026-11-01T13:28:43.000+08:00"
       },
       {
-        "title": "2026朝阳区滨河半程马拉松完赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724238.shtml",
-        "publishedAt": "2026-11-01T13:09:58.000+08:00"
+        "title": "交响套曲《珠江》奏响 拉开第六届粤港澳大湾区文化艺术节帷幕",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724245.shtml",
+        "publishedAt": "2026-11-01T13:27:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T13:30:04.143+08:00",
+    "fetchedAt": "2026-11-01T13:40:03.172+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T13:30:37.788+08:00",
+      "fetchedAt": "2026-11-01T13:40:07.748+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T18:30:40.000+08:00"
+          "resetAt": "2026-11-01T18:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T13:30:38.365+08:00",
+      "fetchedAt": "2026-11-01T13:40:08.009+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T13:30:38.371+08:00",
+      "fetchedAt": "2026-11-01T13:40:08.018+08:00",
       "error": null
     }
   }
