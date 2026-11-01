@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T22:20:09.530+08:00",
+  "updatedAt": "2026-11-01T22:30:08.296+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15.7,
-    "feelsLikeC": 15.6,
-    "humidity": 91,
-    "windKph": 10.1,
+    "feelsLikeC": 15.7,
+    "humidity": 92,
+    "windKph": 9.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T22:20:09.531+08:00",
+    "observedAt": "2026-11-01T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T22:30:08.296+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "代办“超级签”落地后发现竟是旅游签 中介该如何赔偿？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724513.shtml",
+        "publishedAt": "2026-11-01T22:20:20.000+08:00"
+      },
       {
         "title": "中国驻美大使馆举办纪念孙中山先生诞辰160周年活动",
         "url": "https://www.chinanews.com.cn/hr/2026/11-01/10724512.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "乌称俄袭击基辅能源设施 城区多地面临停水",
         "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724509.shtml",
         "publishedAt": "2026-11-01T21:47:54.000+08:00"
-      },
-      {
-        "title": "考古学家：史前治水是长江文明鲜明特征 彰显先民生存智慧",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724503.shtml",
-        "publishedAt": "2026-11-01T21:44:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T22:20:03.461+08:00",
+    "fetchedAt": "2026-11-01T22:30:02.987+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T22:20:07.988+08:00",
+      "fetchedAt": "2026-11-01T22:30:06.926+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T03:20:09.000+08:00"
+          "resetAt": "2026-11-02T03:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T22:20:08.286+08:00",
+      "fetchedAt": "2026-11-01T22:30:07.281+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T22:20:08.295+08:00",
+      "fetchedAt": "2026-11-01T22:30:07.291+08:00",
       "error": null
     }
   }
