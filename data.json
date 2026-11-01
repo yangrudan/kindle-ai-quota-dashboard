@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T17:40:08.761+08:00",
+  "updatedAt": "2026-11-01T17:50:17.225+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-01T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T17:40:08.761+08:00",
+    "fetchedAt": "2026-11-01T17:50:17.225+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“2026国际城市与建设产业论坛”在福州举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724372.shtml",
-        "publishedAt": "2026-11-01T17:32:58.000+08:00"
+        "title": "2026年中国轮滑（自由式轮滑）公开赛（上海嘉定站）落幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724376.shtml",
+        "publishedAt": "2026-11-01T17:46:53.000+08:00"
       },
       {
-        "title": "南水北调中线工程圆满完成2025—2026年度供水任务",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724369.shtml",
-        "publishedAt": "2026-11-01T17:30:20.000+08:00"
+        "title": "美国特拉华大学附近突发枪击事件",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724328.shtml",
+        "publishedAt": "2026-11-01T17:46:05.000+08:00"
       },
       {
-        "title": "北京人艺著名表演艺术家吕齐去世，享年101岁",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724366.shtml",
-        "publishedAt": "2026-11-01T17:27:30.000+08:00"
+        "title": "南昌宠物中医渐兴 中兽医拓展诊疗场景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724383.shtml",
+        "publishedAt": "2026-11-01T17:45:25.000+08:00"
       },
       {
-        "title": "2026国际马联场地障碍世界杯中国联赛杭州站举行",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724370.shtml",
-        "publishedAt": "2026-11-01T17:26:42.000+08:00"
+        "title": "大湾区近千名徒步爱好者漫步广州“流溪林海”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724377.shtml",
+        "publishedAt": "2026-11-01T17:44:29.000+08:00"
       },
       {
-        "title": "第三届中国青少年网球城市挑战赛总决赛在河南郑州开幕 48支队伍以球会友",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724371.shtml",
-        "publishedAt": "2026-11-01T17:26:08.000+08:00"
+        "title": "揽月着陆器将开启无人飞行 载人登月“彩排计划”公布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724382.shtml",
+        "publishedAt": "2026-11-01T17:41:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T17:40:03.873+08:00",
+    "fetchedAt": "2026-11-01T17:50:12.036+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T17:40:07.649+08:00",
+      "fetchedAt": "2026-11-01T17:50:16.067+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T22:40:08.000+08:00"
+          "resetAt": "2026-11-01T22:50:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T17:40:07.852+08:00",
+      "fetchedAt": "2026-11-01T17:50:16.307+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T17:40:07.855+08:00",
+      "fetchedAt": "2026-11-01T17:50:16.314+08:00",
       "error": null
     }
   }
