@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T15:40:38.745+08:00",
+  "updatedAt": "2026-11-01T15:50:09.007+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 24,
-    "feelsLikeC": 24.6,
-    "humidity": 71,
-    "windKph": 16.6,
+    "tempC": 23.3,
+    "feelsLikeC": 23.6,
+    "humidity": 73,
+    "windKph": 18.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-01T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T15:40:38.746+08:00",
+    "observedAt": "2026-11-01T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T15:50:09.007+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“妈祖”海洋预报数值模式2.0版本正式发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724309.shtml",
+        "publishedAt": "2026-11-01T15:42:50.000+08:00"
+      },
       {
         "title": "第三届“人民艺术论坛”举办 成立红色美育共同体",
         "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724302.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "俄罗斯联邦委员会主席将访华",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724306.shtml",
         "publishedAt": "2026-11-01T15:25:45.000+08:00"
-      },
-      {
-        "title": "广交会观察：AI玩具陪伴交互功能助企业收获海外订单",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724304.shtml",
-        "publishedAt": "2026-11-01T15:23:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T15:40:03.910+08:00",
+    "fetchedAt": "2026-11-01T15:50:03.999+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-01T15:40:37.525+08:00",
+      "fetchedAt": "2026-11-01T15:50:07.836+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T20:40:38.000+08:00"
+          "resetAt": "2026-11-01T20:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T15:40:37.783+08:00",
+      "fetchedAt": "2026-11-01T15:50:08.048+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-01T15:40:37.790+08:00",
+      "fetchedAt": "2026-11-01T15:50:08.056+08:00",
       "error": null
     }
   }
