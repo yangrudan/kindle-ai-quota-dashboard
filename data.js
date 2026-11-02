@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T23:00:39.681+08:00",
+  "updatedAt": "2026-11-02T23:10:08.870+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-02T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T23:00:39.681+08:00",
+    "fetchedAt": "2026-11-02T23:10:08.870+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊总统：伊朗最高领袖已赋予政府在谈判领域一定的权力",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725074.shtml",
+        "publishedAt": "2026-11-02T22:55:44.000+08:00"
+      },
       {
         "title": "李宁：体育是普通人奔赴热爱的舞台",
         "url": "https://www.chinanews.com.cn/ty/2026/11-02/10725072.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "警用智能装备亮相浙江乌镇 “空地网”筑牢安全防线",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725067.shtml",
         "publishedAt": "2026-11-02T22:32:39.000+08:00"
-      },
-      {
-        "title": "十四届全国人大常委会第二十五次会议在京举行 审议检察公益诉讼法草案、水法修订草案等 赵乐际主持",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10725066.shtml",
-        "publishedAt": "2026-11-02T22:22:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T23:00:04.654+08:00",
+    "fetchedAt": "2026-11-02T23:10:03.857+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T23:00:38.271+08:00",
+      "fetchedAt": "2026-11-02T23:10:07.661+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T04:00:39.000+08:00"
+          "resetAt": "2026-11-03T04:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T23:00:38.645+08:00",
+      "fetchedAt": "2026-11-02T23:10:07.899+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T23:00:38.650+08:00",
+      "fetchedAt": "2026-11-02T23:10:07.907+08:00",
       "error": null
     }
   }
