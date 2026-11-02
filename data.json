@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T14:40:41.425+08:00",
+  "updatedAt": "2026-11-02T14:50:18.338+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 20.4,
-    "feelsLikeC": 19.5,
+    "feelsLikeC": 19.4,
     "humidity": 56,
-    "windKph": 8.9,
+    "windKph": 9.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T14:40:41.425+08:00",
+    "observedAt": "2026-11-02T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T14:50:18.338+08:00",
     "error": null
   },
   "news": {
@@ -20,12 +20,17 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中领馆提醒领区中国公民防范印尼喀拉喀托之子火山灾害",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-02/10724722.shtml",
+        "publishedAt": "2026-11-02T14:36:49.000+08:00"
+      },
+      {
         "title": "中国拟修改刑事诉讼法 加强被害人权利保障",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724734.shtml",
         "publishedAt": "2026-11-02T14:35:49.000+08:00"
       },
       {
-        "title": "广东省政协原党组成员、副主席郭永航严重违纪违法被开除党籍和公职",
+        "title": "广东省政协原党组成员、副主席郭永航被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724751.shtml",
         "publishedAt": "2026-11-02T14:33:49.000+08:00"
       },
@@ -38,14 +43,9 @@
         "title": "初瑞雪双十一首战告捷：辛选全员列阵，引领“不烧心”无忧消费",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724737.shtml",
         "publishedAt": "2026-11-02T14:27:02.000+08:00"
-      },
-      {
-        "title": "度小满与香港科技大学联合发布轩辕4.5金融大模型",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724736.shtml",
-        "publishedAt": "2026-11-02T14:25:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T14:40:03.313+08:00",
+    "fetchedAt": "2026-11-02T14:50:04.001+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T14:40:40.024+08:00",
+      "fetchedAt": "2026-11-02T14:50:11.103+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T19:40:41.000+08:00"
+          "resetAt": "2026-11-02T19:50:18.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T14:40:40.412+08:00",
+      "fetchedAt": "2026-11-02T14:50:11.619+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T14:40:40.417+08:00",
+      "fetchedAt": "2026-11-02T14:50:11.628+08:00",
       "error": null
     }
   }
