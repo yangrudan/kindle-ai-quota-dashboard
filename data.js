@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T17:40:41.407+08:00",
+  "updatedAt": "2026-11-02T17:50:11.905+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.4,
-    "feelsLikeC": 16.7,
-    "humidity": 71,
-    "windKph": 8.4,
+    "tempC": 17,
+    "feelsLikeC": 16.4,
+    "humidity": 72,
+    "windKph": 8.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T17:40:41.408+08:00",
+    "observedAt": "2026-11-02T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T17:50:11.905+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "遗憾止步世界杯八强 U17“铿锵小玫瑰”带着成长与信心离场",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724854.shtml",
-        "publishedAt": "2026-11-02T17:34:05.000+08:00"
+        "title": "第140届广交会第三期：中国食品企业以“好味”觅商机",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724876.shtml",
+        "publishedAt": "2026-11-02T17:44:35.000+08:00"
       },
       {
-        "title": "青春逐梦 乐业盐城——盐城市举办2026年未就业高校毕业生专场招聘会",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724865.shtml",
-        "publishedAt": "2026-11-02T17:33:01.000+08:00"
+        "title": "中国留学生遇害案嫌疑人郑某当庭认罪",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724884.shtml",
+        "publishedAt": "2026-11-02T17:44:21.000+08:00"
       },
       {
-        "title": "中国体育用品“圈粉”第140届广交会境外采购商",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724851.shtml",
-        "publishedAt": "2026-11-02T17:31:20.000+08:00"
+        "title": "广西南宁稻田成熟引客来 游客沉浸式体验秋收乐趣",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724871.shtml",
+        "publishedAt": "2026-11-02T17:41:53.000+08:00"
       },
       {
-        "title": "习近平对进一步做好黄河保护治理工作作出重要指示",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724832.shtml",
-        "publishedAt": "2026-11-02T17:27:56.000+08:00"
+        "title": "菊花精品汇聚南京争奇斗艳",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724870.shtml",
+        "publishedAt": "2026-11-02T17:40:05.000+08:00"
       },
       {
-        "title": "习近平同阿曼苏丹海赛姆会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724814.shtml",
-        "publishedAt": "2026-11-02T17:27:22.000+08:00"
+        "title": "中国最大咖啡产地云南普洱迎来采收季",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724862.shtml",
+        "publishedAt": "2026-11-02T17:37:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T17:40:04.020+08:00",
+    "fetchedAt": "2026-11-02T17:50:03.367+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T17:40:39.371+08:00",
+      "fetchedAt": "2026-11-02T17:50:08.616+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T22:40:40.000+08:00"
+          "resetAt": "2026-11-02T22:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T17:40:39.861+08:00",
+      "fetchedAt": "2026-11-02T17:50:09.100+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T17:40:39.864+08:00",
+      "fetchedAt": "2026-11-02T17:50:09.107+08:00",
       "error": null
     }
   }
