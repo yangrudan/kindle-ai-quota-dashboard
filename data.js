@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T16:50:48.591+08:00",
+  "updatedAt": "2026-11-02T17:00:18.783+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-02T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T16:50:48.591+08:00",
+    "fetchedAt": "2026-11-02T17:00:18.784+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "水乡聚光启新程 智能互联智见未来",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724815.shtml",
-        "publishedAt": "2026-11-02T16:41:00.000+08:00"
+        "title": "湖北京山：四十年把一颗网球打造成百亿级产业",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724829.shtml",
+        "publishedAt": "2026-11-02T16:56:49.000+08:00"
       },
       {
-        "title": "行进的旗帜·征途长歌丨转折之城灯火永续 照亮一代代人的长征路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724807.shtml",
-        "publishedAt": "2026-11-02T16:36:11.000+08:00"
+        "title": "30余家坦桑尼亚企业将启程参加进博会",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724830.shtml",
+        "publishedAt": "2026-11-02T16:53:44.000+08:00"
       },
       {
-        "title": "乌镇峰会年年刷屏 今年看什么？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724806.shtml",
-        "publishedAt": "2026-11-02T16:33:59.000+08:00"
+        "title": "沙漠里的绿色能源——中企助力阿联酋低碳转型",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724827.shtml",
+        "publishedAt": "2026-11-02T16:51:28.000+08:00"
       },
       {
-        "title": "一批重大工程建设正酣 兜住民生幸福为经济发展积聚“硬支撑”底气",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724805.shtml",
-        "publishedAt": "2026-11-02T16:31:03.000+08:00"
+        "title": "古道茶咖香 澜湄六国青年携手记录云南普洱发展新貌",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724821.shtml",
+        "publishedAt": "2026-11-02T16:51:22.000+08:00"
       },
       {
-        "title": "带动消费、链接产业、融合文旅，进博会溢出效应在上海全城落地生长",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724804.shtml",
-        "publishedAt": "2026-11-02T16:28:01.000+08:00"
+        "title": "中使馆再次提醒在瑞典中国公民切勿拍摄敏感设施及人员",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-02/10724818.shtml",
+        "publishedAt": "2026-11-02T16:49:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T16:50:12.680+08:00",
+    "fetchedAt": "2026-11-02T17:00:12.295+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T16:50:47.068+08:00",
+      "fetchedAt": "2026-11-02T17:00:16.484+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T21:50:48.000+08:00"
+          "resetAt": "2026-11-02T22:00:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T16:50:47.383+08:00",
+      "fetchedAt": "2026-11-02T17:00:16.788+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T16:50:47.388+08:00",
+      "fetchedAt": "2026-11-02T17:00:16.797+08:00",
       "error": null
     }
   }
