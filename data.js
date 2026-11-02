@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T12:00:11.306+08:00",
+  "updatedAt": "2026-11-02T12:10:38.463+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T12:00:11.306+08:00",
+    "fetchedAt": "2026-11-02T12:10:38.463+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平同阿曼苏丹海赛姆共同出席合作文件签字仪式",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724687.shtml",
+        "publishedAt": "2026-11-02T12:01:01.000+08:00"
+      },
+      {
+        "title": "第八届“深圳企业家日”座谈会举办 企业家议APEC机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724679.shtml",
+        "publishedAt": "2026-11-02T11:56:12.000+08:00"
+      },
       {
         "title": "A股午评：超4700只个股飘红，三大指数集体大涨",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724684.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "金融法草案提请全国人大常委会会议二次审议",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724682.shtml",
         "publishedAt": "2026-11-02T11:36:25.000+08:00"
-      },
-      {
-        "title": "2026年“铸牢共同体 中华一家亲”主题宣传活动新疆集中采访启动",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-02/10724660.shtml",
-        "publishedAt": "2026-11-02T11:36:13.000+08:00"
-      },
-      {
-        "title": "市场监管总局发布3项钢铁领域先进制造国家标准",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724651.shtml",
-        "publishedAt": "2026-11-02T11:36:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T12:00:05.219+08:00",
+    "fetchedAt": "2026-11-02T12:10:03.273+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T12:00:09.652+08:00",
+      "fetchedAt": "2026-11-02T12:10:36.852+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T17:00:10.000+08:00"
+          "resetAt": "2026-11-02T17:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T12:00:09.839+08:00",
+      "fetchedAt": "2026-11-02T12:10:37.346+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T12:00:09.845+08:00",
+      "fetchedAt": "2026-11-02T12:10:37.351+08:00",
       "error": null
     }
   }
