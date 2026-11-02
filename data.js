@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T06:40:11.267+08:00",
+  "updatedAt": "2026-11-03T06:50:08.978+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 13.9,
     "feelsLikeC": 13.6,
     "humidity": 85,
-    "windKph": 4.6,
+    "windKph": 5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-03T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T06:40:11.267+08:00",
+    "observedAt": "2026-11-03T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T06:50:08.978+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "小心！向陌生小程序授予位置权限，行踪可能被悄悄定位",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725083.shtml",
+        "publishedAt": "2026-11-03T06:44:42.000+08:00"
+      },
+      {
+        "title": "高校学术讲坛，如何“叫好又叫座”",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725082.shtml",
+        "publishedAt": "2026-11-03T06:41:12.000+08:00"
+      },
+      {
+        "title": "美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
+        "publishedAt": "2026-11-03T06:35:18.000+08:00"
+      },
       {
         "title": "冰箱变烤箱 欧洲多国超市冷柜再遭网络攻击",
         "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725080.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "西藏那曲市巴青县发生4.2级地震",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
         "publishedAt": "2026-11-02T23:49:31.000+08:00"
-      },
-      {
-        "title": "港交所扩大人民币债券抵押品适用范围 首日抵押总值超4亿元人民币",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725078.shtml",
-        "publishedAt": "2026-11-02T23:40:28.000+08:00"
-      },
-      {
-        "title": "多项创新成果亮相香港金融科技周",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10725077.shtml",
-        "publishedAt": "2026-11-02T23:39:40.000+08:00"
-      },
-      {
-        "title": "权威发布！全国十佳新闻工作者LOGO",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725076.shtml",
-        "publishedAt": "2026-11-02T23:11:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T06:40:03.510+08:00",
+    "fetchedAt": "2026-11-03T06:50:03.555+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T06:40:07.209+08:00",
+      "fetchedAt": "2026-11-03T06:50:07.628+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T11:40:11.000+08:00"
+          "resetAt": "2026-11-03T11:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T06:40:10.248+08:00",
+      "fetchedAt": "2026-11-03T06:50:07.894+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T06:40:10.257+08:00",
+      "fetchedAt": "2026-11-03T06:50:07.904+08:00",
       "error": null
     }
   }
