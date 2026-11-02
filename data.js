@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T15:40:12.405+08:00",
+  "updatedAt": "2026-11-02T15:50:09.782+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20,
-    "feelsLikeC": 18.9,
+    "tempC": 20.2,
+    "feelsLikeC": 19.1,
     "humidity": 57,
-    "windKph": 9.7,
+    "windKph": 9.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T15:40:12.405+08:00",
+    "observedAt": "2026-11-02T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T15:50:09.782+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王毅将主持澜湄合作第十一次外长会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724789.shtml",
+        "publishedAt": "2026-11-02T15:42:53.000+08:00"
+      },
+      {
+        "title": "习近平同阿曼苏丹海赛姆会谈",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209506.shtml",
+        "publishedAt": "2026-11-02T15:41:20.000+08:00"
+      },
       {
         "title": "柴达木盆地涩北“采气人”：日巡检超两万步 守护气田“周全”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724784.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "三亚鹿回头：浪漫爱情引游人",
         "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724781.shtml",
         "publishedAt": "2026-11-02T15:32:08.000+08:00"
-      },
-      {
-        "title": "中方：希望有关方正视半岛问题根源，坚持政治解决大方向",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724785.shtml",
-        "publishedAt": "2026-11-02T15:31:32.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）湖南乡村“变形记”：闲置资源激活文旅新消费",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724777.shtml",
-        "publishedAt": "2026-11-02T15:30:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T15:40:04.465+08:00",
+    "fetchedAt": "2026-11-02T15:50:03.654+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T15:40:11.103+08:00",
+      "fetchedAt": "2026-11-02T15:50:07.814+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T20:40:12.000+08:00"
+          "resetAt": "2026-11-02T20:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T15:40:11.372+08:00",
+      "fetchedAt": "2026-11-02T15:50:08.250+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T15:40:11.377+08:00",
+      "fetchedAt": "2026-11-02T15:50:08.258+08:00",
       "error": null
     }
   }
