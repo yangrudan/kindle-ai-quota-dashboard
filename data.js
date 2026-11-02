@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T22:20:09.764+08:00",
+  "updatedAt": "2026-11-02T22:30:40.215+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.1,
-    "feelsLikeC": 14.3,
-    "humidity": 86,
-    "windKph": 1.9,
-    "windDir": "北风",
+    "tempC": 13.9,
+    "feelsLikeC": 14,
+    "humidity": 87,
+    "windKph": 2.3,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T22:20:09.765+08:00",
+    "observedAt": "2026-11-02T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-02T22:30:40.215+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "上海哲学社会科学“五大文库”书籍在台湾发售",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725056.shtml",
-        "publishedAt": "2026-11-02T22:12:34.000+08:00"
+        "title": "十四届全国人大常委会第二十五次会议在京举行 审议检察公益诉讼法草案、水法修订草案等 赵乐际主持",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10725066.shtml",
+        "publishedAt": "2026-11-02T22:22:48.000+08:00"
       },
       {
-        "title": "陈国伟：马中关系意义已超越双边范畴 对区域和平繁荣影响深远",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-02/10725045.shtml",
-        "publishedAt": "2026-11-02T22:12:24.000+08:00"
+        "title": "决不能让企业诉求“石沉大海” 重庆荣昌以法治护航民营经济发展",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-02/10725062.shtml",
+        "publishedAt": "2026-11-02T22:15:00.000+08:00"
       },
       {
-        "title": "年接待游客突破600万人次 九寨沟精细管护守护山水魅力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725008.shtml",
-        "publishedAt": "2026-11-02T22:11:50.000+08:00"
+        "title": "证监会：在风险总体可控的基础上，适度释放融资空间",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725063.shtml",
+        "publishedAt": "2026-11-02T22:14:38.000+08:00"
       },
       {
-        "title": "“香港功夫世界”展览亮相深圳读书月 讲述香江武道传承",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10725007.shtml",
-        "publishedAt": "2026-11-02T22:11:36.000+08:00"
+        "title": "道地药材县域突围，广东德庆县南药总产值达40.74亿元",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725058.shtml",
+        "publishedAt": "2026-11-02T22:14:26.000+08:00"
       },
       {
-        "title": "“考场”搬进商超等场景 人形机器人与具身智能实景实训挑战赛将启",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725059.shtml",
-        "publishedAt": "2026-11-02T22:10:56.000+08:00"
+        "title": "海南多部门细化全岛封关运作有关管理事项",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725057.shtml",
+        "publishedAt": "2026-11-02T22:14:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T22:20:03.688+08:00",
+    "fetchedAt": "2026-11-02T22:30:03.589+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T22:20:08.481+08:00",
+      "fetchedAt": "2026-11-02T22:30:38.238+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T03:20:09.000+08:00"
+          "resetAt": "2026-11-03T03:30:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T22:20:08.735+08:00",
+      "fetchedAt": "2026-11-02T22:30:38.848+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T22:20:08.740+08:00",
+      "fetchedAt": "2026-11-02T22:30:38.856+08:00",
       "error": null
     }
   }
