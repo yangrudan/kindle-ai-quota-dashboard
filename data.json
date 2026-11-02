@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T18:20:39.534+08:00",
+  "updatedAt": "2026-11-02T18:30:09.030+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.5,
-    "feelsLikeC": 15.9,
+    "tempC": 16.3,
+    "feelsLikeC": 15.8,
     "humidity": 75,
-    "windKph": 7.8,
+    "windKph": 7.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T18:20:39.534+08:00",
+    "observedAt": "2026-11-02T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-02T18:30:09.030+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "晚潮丨我见青山，青山亦见我——评张冬冬《村庄无小事》",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-02/10724902.shtml",
+        "publishedAt": "2026-11-02T18:27:02.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）前瞻：进博会“剧透”全球创新动向",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724900.shtml",
+        "publishedAt": "2026-11-02T18:17:57.000+08:00"
+      },
       {
         "title": "敦煌莫高窟连续50年“零火灾”，怎么做到的？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724899.shtml",
@@ -33,19 +43,9 @@
         "title": "持续整治“AI魔改” 10月清理违规视频1.1万余条",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724895.shtml",
         "publishedAt": "2026-11-02T18:07:32.000+08:00"
-      },
-      {
-        "title": "肯尼亚风情绽放“丝路艺术家驻留计划”成都站",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724852.shtml",
-        "publishedAt": "2026-11-02T17:59:40.000+08:00"
-      },
-      {
-        "title": "哈啰顺风车与华为鸿蒙达成合作：双端布局鸿蒙生态，出行体验再升级",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724850.shtml",
-        "publishedAt": "2026-11-02T17:57:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T18:20:03.647+08:00",
+    "fetchedAt": "2026-11-02T18:30:03.041+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T18:20:37.109+08:00",
+      "fetchedAt": "2026-11-02T18:30:07.445+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T23:20:39.000+08:00"
+          "resetAt": "2026-11-02T23:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T18:20:37.463+08:00",
+      "fetchedAt": "2026-11-02T18:30:08.016+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T18:20:37.467+08:00",
+      "fetchedAt": "2026-11-02T18:30:08.025+08:00",
       "error": null
     }
   }
