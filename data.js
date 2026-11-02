@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T09:00:10.510+08:00",
+  "updatedAt": "2026-11-02T09:10:10.174+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T09:00:10.511+08:00",
+    "fetchedAt": "2026-11-02T09:10:10.175+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "江汉江淮江南等地将有明显降雨 4日起北方地区将有大风降温",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724552.shtml",
+        "publishedAt": "2026-11-02T09:06:45.000+08:00"
+      },
+      {
+        "title": "直播：千年泰山石阶 迎来机器人“铁腿”闯关！",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-02/10724551.shtml",
+        "publishedAt": "2026-11-02T09:02:39.000+08:00"
+      },
       {
         "title": "人工智能“闯祸”，保险赔吗",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724550.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "超八成A股上市银行前三季度净利正增长",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724548.shtml",
         "publishedAt": "2026-11-02T08:36:54.000+08:00"
-      },
-      {
-        "title": "美国佛州一飞机在居民区坠毁 机上9人全部遇难",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209443.shtml",
-        "publishedAt": "2026-11-02T08:33:51.000+08:00"
-      },
-      {
-        "title": "贷款利率迎来新变化 “双锚改革”带来哪些影响？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724544.shtml",
-        "publishedAt": "2026-11-02T08:16:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T09:00:04.905+08:00",
+    "fetchedAt": "2026-11-02T09:10:04.722+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T09:00:09.137+08:00",
+      "fetchedAt": "2026-11-02T09:10:08.770+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T14:00:10.000+08:00"
+          "resetAt": "2026-11-02T14:10:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T09:00:09.447+08:00",
+      "fetchedAt": "2026-11-02T09:10:09.056+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T09:00:09.450+08:00",
+      "fetchedAt": "2026-11-02T09:10:09.065+08:00",
       "error": null
     }
   }
