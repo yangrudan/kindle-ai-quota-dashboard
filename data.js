@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T13:30:09.464+08:00",
+  "updatedAt": "2026-11-02T13:40:12.681+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T13:30:09.464+08:00",
+    "fetchedAt": "2026-11-02T13:40:12.682+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "东西问丨艾哈迈德·尤瑟夫：埃中千年文明如何以旅游为桥双向奔赴？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-02/10724700.shtml",
+        "publishedAt": "2026-11-02T13:38:14.000+08:00"
+      },
+      {
+        "title": "他身有残疾心却火热，14年累计折合献血超5.8万毫升",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724725.shtml",
+        "publishedAt": "2026-11-02T13:34:28.000+08:00"
+      },
+      {
+        "title": "陪诊首个国标正式实施 被误会成“黄牛”的他们迎来一条明确界线",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-02/10724724.shtml",
+        "publishedAt": "2026-11-02T13:30:17.000+08:00"
+      },
+      {
         "title": "“互联网之光”博览会乌镇启幕 展示6G等多项前沿科技",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724720.shtml",
-        "publishedAt": "2026-11-02T13:29:01.000+08:00"
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-02/10724723.shtml",
+        "publishedAt": "2026-11-02T13:30:01.000+08:00"
       },
       {
         "title": "甘肃武都：白龙江畔黄澄澄的“柿”界",
         "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724710.shtml",
         "publishedAt": "2026-11-02T13:26:05.000+08:00"
-      },
-      {
-        "title": "广交会观察：智能与环保成中国母婴产品“出海”新卖点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724696.shtml",
-        "publishedAt": "2026-11-02T13:04:06.000+08:00"
-      },
-      {
-        "title": "广交会观察：全球采购商寻“新”中国户外用品",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724695.shtml",
-        "publishedAt": "2026-11-02T13:02:44.000+08:00"
-      },
-      {
-        "title": "威逼利诱本国大学研究军事技术，日方意欲何为？",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724686.shtml",
-        "publishedAt": "2026-11-02T13:02:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T13:30:03.452+08:00",
+    "fetchedAt": "2026-11-02T13:40:03.343+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T13:30:08.016+08:00",
+      "fetchedAt": "2026-11-02T13:40:07.156+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T18:30:09.000+08:00"
+          "resetAt": "2026-11-02T18:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T13:30:08.306+08:00",
+      "fetchedAt": "2026-11-02T13:40:07.450+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T13:30:08.312+08:00",
+      "fetchedAt": "2026-11-02T13:40:07.454+08:00",
       "error": null
     }
   }
