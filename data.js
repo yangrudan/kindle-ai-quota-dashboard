@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T09:50:09.732+08:00",
+  "updatedAt": "2026-11-02T10:00:08.994+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-02T09:50:09.732+08:00",
+    "fetchedAt": "2026-11-02T10:00:08.994+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "赛道串联古村落 山西祁县乔家大院村跑吸引900余人参赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724562.shtml",
-        "publishedAt": "2026-11-02T09:42:31.000+08:00"
+        "title": "反跨境腐败法草案二审：推动构建公正合理的反腐败全球治理体系",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724588.shtml",
+        "publishedAt": "2026-11-02T09:53:36.000+08:00"
       },
       {
-        "title": "美国纽约市民昼夜不息共度万圣节",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209459.shtml",
-        "publishedAt": "2026-11-02T09:41:26.000+08:00"
+        "title": "WTT蒙彼利埃冠军赛：孙颖莎女单夺冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724556.shtml",
+        "publishedAt": "2026-11-02T09:53:36.000+08:00"
       },
       {
-        "title": "11月2日人民币对美元中间价报6.7146 下调8个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724566.shtml",
-        "publishedAt": "2026-11-02T09:41:25.000+08:00"
+        "title": "闽北举行白牡丹斗茶赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724571.shtml",
+        "publishedAt": "2026-11-02T09:53:18.000+08:00"
       },
       {
-        "title": "好评中国·乌镇“网事”丨在守正创新中繁荣网络内容生态",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-02/10724568.shtml",
-        "publishedAt": "2026-11-02T09:38:39.000+08:00"
+        "title": "外媒关注中国算力基础设施发展：中国“算”就是行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724586.shtml",
+        "publishedAt": "2026-11-02T09:50:56.000+08:00"
       },
       {
-        "title": "我国拟修改刑事诉讼法更好促进司法公正",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724563.shtml",
-        "publishedAt": "2026-11-02T09:36:47.000+08:00"
+        "title": "强化企业创新主体地位，上海民企联合发布基础研究协同创新倡议",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-02/10724572.shtml",
+        "publishedAt": "2026-11-02T09:49:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T09:50:03.209+08:00",
+    "fetchedAt": "2026-11-02T10:00:03.350+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T09:50:07.408+08:00",
+      "fetchedAt": "2026-11-02T10:00:07.704+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T14:50:08.000+08:00"
+          "resetAt": "2026-11-02T15:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T09:50:07.802+08:00",
+      "fetchedAt": "2026-11-02T10:00:07.960+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T09:50:07.805+08:00",
+      "fetchedAt": "2026-11-02T10:00:07.969+08:00",
       "error": null
     }
   }
