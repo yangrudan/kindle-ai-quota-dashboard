@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T12:30:09.283+08:00",
+  "updatedAt": "2026-11-02T12:40:08.931+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T12:30:09.284+08:00",
+    "fetchedAt": "2026-11-02T12:40:08.931+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "刘奇凡任云南省代省长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724692.shtml",
+        "publishedAt": "2026-11-02T12:30:46.000+08:00"
+      },
+      {
+        "title": "从源头破解“看不清、测不准”难题 我国地下空间导航实现突破",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724691.shtml",
+        "publishedAt": "2026-11-02T12:29:36.000+08:00"
+      },
       {
         "title": "习近平同阿曼苏丹海赛姆共同出席合作文件签字仪式",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724687.shtml",
@@ -33,19 +43,9 @@
         "title": "A股午评：超4700只个股飘红，三大指数集体大涨",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724684.shtml",
         "publishedAt": "2026-11-02T11:42:28.000+08:00"
-      },
-      {
-        "title": "湖南城步苗寨畅通消防通道 “电子哨兵”盯住老旧木房",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724675.shtml",
-        "publishedAt": "2026-11-02T11:39:07.000+08:00"
-      },
-      {
-        "title": "金融法草案提请全国人大常委会会议二次审议",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724682.shtml",
-        "publishedAt": "2026-11-02T11:36:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T12:30:04.037+08:00",
+    "fetchedAt": "2026-11-02T12:40:03.604+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T12:30:07.924+08:00",
+      "fetchedAt": "2026-11-02T12:40:07.703+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T17:30:09.000+08:00"
+          "resetAt": "2026-11-02T17:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T12:30:08.224+08:00",
+      "fetchedAt": "2026-11-02T12:40:07.979+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T12:30:08.234+08:00",
+      "fetchedAt": "2026-11-02T12:40:07.988+08:00",
       "error": null
     }
   }
