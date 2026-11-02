@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:30:09.984+08:00",
+  "updatedAt": "2026-11-02T11:40:18.056+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T11:30:09.984+08:00",
+    "fetchedAt": "2026-11-02T11:40:18.056+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "助力母婴营养提升 菲仕兰支持《乳品与孕妇乳母营养健康专家共识》发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724658.shtml",
+        "publishedAt": "2026-11-02T11:29:21.000+08:00"
+      },
       {
         "title": "《鲜味中国》首播出圈：从山海之鲜里，看见文化与人心",
         "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724657.shtml",
@@ -38,14 +43,9 @@
         "title": "我国拟修改税收征收管理法 将稳慎加强对个人的税收征管",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724667.shtml",
         "publishedAt": "2026-11-02T11:23:25.000+08:00"
-      },
-      {
-        "title": "雨夜秀霓裳 2026南京国际时尚周收官",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724632.shtml",
-        "publishedAt": "2026-11-02T11:23:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T11:30:03.743+08:00",
+    "fetchedAt": "2026-11-02T11:40:12.374+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T11:30:08.680+08:00",
+      "fetchedAt": "2026-11-02T11:40:16.695+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T16:30:09.000+08:00"
+          "resetAt": "2026-11-02T16:40:18.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T11:30:08.931+08:00",
+      "fetchedAt": "2026-11-02T11:40:16.902+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T11:30:08.940+08:00",
+      "fetchedAt": "2026-11-02T11:40:16.910+08:00",
       "error": null
     }
   }
