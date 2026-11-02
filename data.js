@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T20:20:09.240+08:00",
+  "updatedAt": "2026-11-02T20:30:38.885+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.9,
-    "feelsLikeC": 14.9,
+    "tempC": 14.8,
+    "feelsLikeC": 14.8,
     "humidity": 82,
-    "windKph": 3.9,
+    "windKph": 3.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T20:20:09.240+08:00",
+    "observedAt": "2026-11-02T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-02T20:30:38.885+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "投资灌溉水利如何兼顾节水与粮食安全？最新研究提出中国路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724886.shtml",
-        "publishedAt": "2026-11-02T20:13:57.000+08:00"
+        "title": "追忆中国留学生蒋安桐：澳大利亚海滩舍己救人，三年后被追授“英勇行为嘉奖”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724893.shtml",
+        "publishedAt": "2026-11-02T20:26:54.000+08:00"
       },
       {
-        "title": "湖北美食襄阳牛肉面串联起完整产业链",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724881.shtml",
-        "publishedAt": "2026-11-02T20:09:03.000+08:00"
+        "title": "中国央行将开展证券、基金、保险公司互换便利第三次操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724935.shtml",
+        "publishedAt": "2026-11-02T20:26:10.000+08:00"
       },
       {
-        "title": "AI试衣镜“照”见新生意 浙江濮院毛衫加速“织”向全球",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724953.shtml",
-        "publishedAt": "2026-11-02T20:07:49.000+08:00"
+        "title": "山川湖海间，外籍学者在闽读懂绿色中国",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724891.shtml",
+        "publishedAt": "2026-11-02T20:25:34.000+08:00"
       },
       {
-        "title": "签约生物医药、机器人 AI论坛推动产学研深度对接",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10724880.shtml",
-        "publishedAt": "2026-11-02T20:07:13.000+08:00"
+        "title": "特写：浙江安吉，“大山精灵”渐复生机",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724906.shtml",
+        "publishedAt": "2026-11-02T20:25:02.000+08:00"
       },
       {
-        "title": "郑州铁路多举措护航“双11”网购高峰期快件运输",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724879.shtml",
-        "publishedAt": "2026-11-02T20:06:23.000+08:00"
+        "title": "聚焦民营企业代际传承问题 报告建议提高风险抵御能力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724890.shtml",
+        "publishedAt": "2026-11-02T20:24:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T20:20:03.468+08:00",
+    "fetchedAt": "2026-11-02T20:30:03.863+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T20:20:08.111+08:00",
+      "fetchedAt": "2026-11-02T20:30:37.388+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T01:20:09.000+08:00"
+          "resetAt": "2026-11-03T01:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T20:20:08.346+08:00",
+      "fetchedAt": "2026-11-02T20:30:37.635+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T20:20:08.351+08:00",
+      "fetchedAt": "2026-11-02T20:30:37.645+08:00",
       "error": null
     }
   }
