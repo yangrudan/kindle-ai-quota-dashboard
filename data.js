@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T09:30:11.176+08:00",
+  "updatedAt": "2026-11-02T09:40:40.214+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T09:30:11.176+08:00",
+    "fetchedAt": "2026-11-02T09:40:40.214+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "教育部教师工作司原副司长韩劲红接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724554.shtml",
-        "publishedAt": "2026-11-02T09:12:35.000+08:00"
+        "title": "好评中国·乌镇“网事”丨在守正创新中繁荣网络内容生态",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-02/10724568.shtml",
+        "publishedAt": "2026-11-02T09:38:39.000+08:00"
       },
       {
-        "title": "自然资源部等三部门联合印发《关于完善设施农用地管理的通知》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724553.shtml",
-        "publishedAt": "2026-11-02T09:09:43.000+08:00"
+        "title": "我国拟修改刑事诉讼法更好促进司法公正",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724563.shtml",
+        "publishedAt": "2026-11-02T09:36:47.000+08:00"
       },
       {
-        "title": "江汉江淮江南等地将有明显降雨 4日起北方地区将有大风降温",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724552.shtml",
-        "publishedAt": "2026-11-02T09:06:45.000+08:00"
+        "title": "11月2日央行开展5410亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724557.shtml",
+        "publishedAt": "2026-11-02T09:35:09.000+08:00"
       },
       {
-        "title": "直播：千年泰山石阶 迎来机器人“铁腿”闯关！",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-02/10724551.shtml",
-        "publishedAt": "2026-11-02T09:02:39.000+08:00"
+        "title": "游泳名将徐嘉余：勇敢试，给运动生涯创造新可能",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724561.shtml",
+        "publishedAt": "2026-11-02T09:34:59.000+08:00"
       },
       {
-        "title": "人工智能“闯祸”，保险赔吗",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724550.shtml",
-        "publishedAt": "2026-11-02T08:44:18.000+08:00"
+        "title": "“高度警惕日本借助文化产品篡改和歪曲历史”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724559.shtml",
+        "publishedAt": "2026-11-02T09:28:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T09:30:04.434+08:00",
+    "fetchedAt": "2026-11-02T09:40:03.630+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T09:30:09.356+08:00",
+      "fetchedAt": "2026-11-02T09:40:38.832+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T14:30:11.000+08:00"
+          "resetAt": "2026-11-02T14:40:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T09:30:09.702+08:00",
+      "fetchedAt": "2026-11-02T09:40:39.155+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T09:30:09.711+08:00",
+      "fetchedAt": "2026-11-02T09:40:39.165+08:00",
       "error": null
     }
   }
