@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T11:20:09.983+08:00",
+  "updatedAt": "2026-11-02T11:30:09.984+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 18.4,
-    "humidity": 61,
-    "windKph": 9.2,
+    "tempC": 19.2,
+    "feelsLikeC": 18.7,
+    "humidity": 60,
+    "windKph": 8.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T11:20:09.983+08:00",
+    "observedAt": "2026-11-02T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-02T11:30:09.984+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "南极活动与环境保护法草案三审 规定国家统筹南极科学研究方向",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724659.shtml",
-        "publishedAt": "2026-11-02T11:17:08.000+08:00"
+        "title": "《鲜味中国》首播出圈：从山海之鲜里，看见文化与人心",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724657.shtml",
+        "publishedAt": "2026-11-02T11:26:09.000+08:00"
       },
       {
-        "title": "【新阶层主题月】专场活动之“寻美大连2026再出发”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-02/10724642.shtml",
-        "publishedAt": "2026-11-02T11:16:14.000+08:00"
+        "title": "孩子猛长期到底能不能减重？教你“吃动睡测”四步走",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-02/10724668.shtml",
+        "publishedAt": "2026-11-02T11:23:35.000+08:00"
       },
       {
-        "title": "重载无人直升机驰援西藏地震灾区 完成地表破裂带勘察等任务",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724656.shtml",
-        "publishedAt": "2026-11-02T11:16:06.000+08:00"
+        "title": "致敬聂华苓：以一城微光，照世界文心",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-02/10724647.shtml",
+        "publishedAt": "2026-11-02T11:23:33.000+08:00"
       },
       {
-        "title": "测评泛滥，找工作怎么成了无尽的“刷题闯关”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724654.shtml",
-        "publishedAt": "2026-11-02T11:13:30.000+08:00"
+        "title": "我国拟修改税收征收管理法 将稳慎加强对个人的税收征管",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724667.shtml",
+        "publishedAt": "2026-11-02T11:23:25.000+08:00"
       },
       {
-        "title": "习近平为阿曼苏丹海赛姆举行欢迎仪式",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724648.shtml",
-        "publishedAt": "2026-11-02T11:05:52.000+08:00"
+        "title": "雨夜秀霓裳 2026南京国际时尚周收官",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724632.shtml",
+        "publishedAt": "2026-11-02T11:23:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T11:20:04.241+08:00",
+    "fetchedAt": "2026-11-02T11:30:03.743+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T11:20:08.637+08:00",
+      "fetchedAt": "2026-11-02T11:30:08.680+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T16:20:09.000+08:00"
+          "resetAt": "2026-11-02T16:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T11:20:08.935+08:00",
+      "fetchedAt": "2026-11-02T11:30:08.931+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T11:20:08.939+08:00",
+      "fetchedAt": "2026-11-02T11:30:08.940+08:00",
       "error": null
     }
   }
