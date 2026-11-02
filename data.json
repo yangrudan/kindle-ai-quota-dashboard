@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T15:00:53.993+08:00",
+  "updatedAt": "2026-11-02T15:10:12.732+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 20.4,
-    "feelsLikeC": 19.4,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 20.3,
+    "feelsLikeC": 19.3,
     "humidity": 56,
-    "windKph": 9.2,
+    "windKph": 9.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-02T15:00:53.993+08:00",
+    "observedAt": "2026-11-02T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-02T15:10:12.732+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "跑酷世界杯赛北京站收官 商春松获女子自由式金牌及年度冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724752.shtml",
+        "publishedAt": "2026-11-02T14:59:56.000+08:00"
+      },
       {
         "title": "中领馆提醒领区中国公民防范印尼喀拉喀托之子火山灾害",
         "url": "https://www.chinanews.com.cn/hr/2026/11-02/10724722.shtml",
@@ -38,14 +43,9 @@
         "title": "中国官方发布保护公民个人信息典型案例 涉治理“饭圈”乱象",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724714.shtml",
         "publishedAt": "2026-11-02T14:28:41.000+08:00"
-      },
-      {
-        "title": "初瑞雪双十一首战告捷：辛选全员列阵，引领“不烧心”无忧消费",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724737.shtml",
-        "publishedAt": "2026-11-02T14:27:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T15:00:12.882+08:00",
+    "fetchedAt": "2026-11-02T15:10:05.784+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T15:00:52.437+08:00",
+      "fetchedAt": "2026-11-02T15:10:11.300+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T20:00:53.000+08:00"
+          "resetAt": "2026-11-02T20:10:12.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T15:00:52.867+08:00",
+      "fetchedAt": "2026-11-02T15:10:11.663+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T15:00:52.872+08:00",
+      "fetchedAt": "2026-11-02T15:10:11.666+08:00",
       "error": null
     }
   }
