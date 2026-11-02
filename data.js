@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T17:10:22.524+08:00",
+  "updatedAt": "2026-11-02T17:20:39.417+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.1,
-    "feelsLikeC": 18.3,
-    "humidity": 62,
-    "windKph": 8.9,
+    "tempC": 17.7,
+    "feelsLikeC": 17.1,
+    "humidity": 69,
+    "windKph": 8.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T17:10:22.525+08:00",
+    "observedAt": "2026-11-02T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-02T17:20:39.418+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "三亚开启国际传播共创季 邀全球创作者来采风创作",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724838.shtml",
-        "publishedAt": "2026-11-02T17:06:53.000+08:00"
+        "title": "面向技术经理人事务所建设运营的全国性团体标准发布",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10724845.shtml",
+        "publishedAt": "2026-11-02T17:18:02.000+08:00"
       },
       {
-        "title": "紧扣封关运作需求 海南“九五”普法规划增设涉外法治宣传",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724834.shtml",
-        "publishedAt": "2026-11-02T17:06:15.000+08:00"
+        "title": "第140届广交会第三期：银发经济受关注",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724841.shtml",
+        "publishedAt": "2026-11-02T17:17:14.000+08:00"
       },
       {
-        "title": "广东油茶进入采摘高峰期 市场购销两旺",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724835.shtml",
-        "publishedAt": "2026-11-02T17:06:03.000+08:00"
+        "title": "俄罗斯学子习中文：“我们喜欢中国”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724813.shtml",
+        "publishedAt": "2026-11-02T17:16:26.000+08:00"
       },
       {
-        "title": "“鸟中国宝”东方白鹳成群现身吉林松花江流域",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724840.shtml",
-        "publishedAt": "2026-11-02T17:04:19.000+08:00"
+        "title": "重庆云阳打造中国复眼科教城",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724844.shtml",
+        "publishedAt": "2026-11-02T17:15:02.000+08:00"
       },
       {
-        "title": "院士专家齐聚广州科普流感：把握黄金48小时 重视疫苗接种",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-02/10724833.shtml",
-        "publishedAt": "2026-11-02T17:04:11.000+08:00"
+        "title": "世界一级方程式赛车锦标赛（F1）墨西哥大奖赛：维斯塔潘夺冠",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209516.shtml",
+        "publishedAt": "2026-11-02T17:14:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T17:10:12.804+08:00",
+    "fetchedAt": "2026-11-02T17:20:02.884+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T17:10:17.216+08:00",
+      "fetchedAt": "2026-11-02T17:20:38.087+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T22:10:22.000+08:00"
+          "resetAt": "2026-11-02T22:20:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T17:10:18.992+08:00",
+      "fetchedAt": "2026-11-02T17:20:38.355+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T17:10:19.000+08:00",
+      "fetchedAt": "2026-11-02T17:20:38.365+08:00",
       "error": null
     }
   }
