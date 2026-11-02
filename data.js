@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T14:20:09.291+08:00",
+  "updatedAt": "2026-11-02T14:30:39.750+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 20.4,
     "feelsLikeC": 19.5,
-    "humidity": 57,
-    "windKph": 8.7,
+    "humidity": 56,
+    "windKph": 8.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T14:20:09.292+08:00",
+    "observedAt": "2026-11-02T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-02T14:30:39.750+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河北乐亭建筑支护产业集群“组队升级” “架”起外贸“出海桥”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724721.shtml",
-        "publishedAt": "2026-11-02T14:14:54.000+08:00"
+        "title": "短道速滑世巡赛蒙特利尔站收官：中国队获接力一银一铜",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724713.shtml",
+        "publishedAt": "2026-11-02T14:24:12.000+08:00"
       },
       {
-        "title": "“香港金融科技周及StartmeupHK2026”开幕 聚焦金融赋能等创造机遇",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724741.shtml",
-        "publishedAt": "2026-11-02T14:07:11.000+08:00"
+        "title": "聚焦史前治水与长江文明溯源 中国考古学界荆门“论剑”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724748.shtml",
+        "publishedAt": "2026-11-02T14:23:02.000+08:00"
       },
       {
-        "title": "刘海龙：播客是一种“剩余媒介”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724740.shtml",
-        "publishedAt": "2026-11-02T14:02:45.000+08:00"
+        "title": "烽火弦歌忆光复 “京台会”话新时代两岸融合",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724744.shtml",
+        "publishedAt": "2026-11-02T14:21:54.000+08:00"
       },
       {
-        "title": "首届中国（广西）—东盟科技翻译大赛成果展示活动在南宁举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-02/10724732.shtml",
-        "publishedAt": "2026-11-02T14:00:19.000+08:00"
+        "title": "汪曾祺的蒲黄榆：灶台烟火与街巷文脉“重逢”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724733.shtml",
+        "publishedAt": "2026-11-02T14:21:04.000+08:00"
       },
       {
-        "title": "南京外秦淮河上演13.14公里赛艇马拉松 全国两百余名桨手竞逐",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724731.shtml",
-        "publishedAt": "2026-11-02T13:59:19.000+08:00"
+        "title": "刘奇凡任云南省副省长、代省长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724739.shtml",
+        "publishedAt": "2026-11-02T14:19:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T14:20:03.160+08:00",
+    "fetchedAt": "2026-11-02T14:30:04.595+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T14:20:07.802+08:00",
+      "fetchedAt": "2026-11-02T14:30:38.405+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T19:20:09.000+08:00"
+          "resetAt": "2026-11-02T19:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T14:20:08.077+08:00",
+      "fetchedAt": "2026-11-02T14:30:38.788+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T14:20:08.082+08:00",
+      "fetchedAt": "2026-11-02T14:30:38.792+08:00",
       "error": null
     }
   }
