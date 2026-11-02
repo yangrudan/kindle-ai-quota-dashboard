@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T17:00:18.783+08:00",
+  "updatedAt": "2026-11-02T17:10:22.524+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-02T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T17:00:18.784+08:00",
+    "fetchedAt": "2026-11-02T17:10:22.525+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖北京山：四十年把一颗网球打造成百亿级产业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724829.shtml",
-        "publishedAt": "2026-11-02T16:56:49.000+08:00"
+        "title": "三亚开启国际传播共创季 邀全球创作者来采风创作",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724838.shtml",
+        "publishedAt": "2026-11-02T17:06:53.000+08:00"
       },
       {
-        "title": "30余家坦桑尼亚企业将启程参加进博会",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724830.shtml",
-        "publishedAt": "2026-11-02T16:53:44.000+08:00"
+        "title": "紧扣封关运作需求 海南“九五”普法规划增设涉外法治宣传",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724834.shtml",
+        "publishedAt": "2026-11-02T17:06:15.000+08:00"
       },
       {
-        "title": "沙漠里的绿色能源——中企助力阿联酋低碳转型",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724827.shtml",
-        "publishedAt": "2026-11-02T16:51:28.000+08:00"
+        "title": "广东油茶进入采摘高峰期 市场购销两旺",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724835.shtml",
+        "publishedAt": "2026-11-02T17:06:03.000+08:00"
       },
       {
-        "title": "古道茶咖香 澜湄六国青年携手记录云南普洱发展新貌",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724821.shtml",
-        "publishedAt": "2026-11-02T16:51:22.000+08:00"
+        "title": "“鸟中国宝”东方白鹳成群现身吉林松花江流域",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724840.shtml",
+        "publishedAt": "2026-11-02T17:04:19.000+08:00"
       },
       {
-        "title": "中使馆再次提醒在瑞典中国公民切勿拍摄敏感设施及人员",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-02/10724818.shtml",
-        "publishedAt": "2026-11-02T16:49:06.000+08:00"
+        "title": "院士专家齐聚广州科普流感：把握黄金48小时 重视疫苗接种",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-02/10724833.shtml",
+        "publishedAt": "2026-11-02T17:04:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T17:00:12.295+08:00",
+    "fetchedAt": "2026-11-02T17:10:12.804+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T17:00:16.484+08:00",
+      "fetchedAt": "2026-11-02T17:10:17.216+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T22:00:17.000+08:00"
+          "resetAt": "2026-11-02T22:10:22.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T17:00:16.788+08:00",
+      "fetchedAt": "2026-11-02T17:10:18.992+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T17:00:16.797+08:00",
+      "fetchedAt": "2026-11-02T17:10:19.000+08:00",
       "error": null
     }
   }
