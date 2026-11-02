@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T00:00:14.382+08:00",
+  "updatedAt": "2026-11-03T00:10:09.075+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-03T00:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T00:00:14.383+08:00",
+    "fetchedAt": "2026-11-03T00:10:09.075+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冰箱变烤箱 欧洲多国超市冷柜再遭网络攻击",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725080.shtml",
+        "publishedAt": "2026-11-02T23:56:53.000+08:00"
+      },
       {
         "title": "西藏那曲市巴青县发生4.2级地震",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "权威发布！全国十佳新闻工作者LOGO",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725076.shtml",
         "publishedAt": "2026-11-02T23:11:21.000+08:00"
-      },
-      {
-        "title": "聚焦AI时代人的意义 心理分析与中国文化国际学术论坛将举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725075.shtml",
-        "publishedAt": "2026-11-02T23:00:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T00:00:05.385+08:00",
+    "fetchedAt": "2026-11-03T00:10:03.170+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T00:00:12.443+08:00",
+      "fetchedAt": "2026-11-03T00:10:07.686+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T05:00:14.000+08:00"
+          "resetAt": "2026-11-03T05:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T00:00:12.822+08:00",
+      "fetchedAt": "2026-11-03T00:10:07.906+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T00:00:12.829+08:00",
+      "fetchedAt": "2026-11-03T00:10:07.914+08:00",
       "error": null
     }
   }
