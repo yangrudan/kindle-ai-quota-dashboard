@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T21:10:09.509+08:00",
+  "updatedAt": "2026-11-02T21:20:09.935+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.6,
+    "tempC": 14.5,
     "feelsLikeC": 14.7,
-    "humidity": 83,
-    "windKph": 3,
+    "humidity": 84,
+    "windKph": 2.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T21:10:09.509+08:00",
+    "observedAt": "2026-11-02T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-02T21:20:09.935+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "英国内政部在重点街区启动反持刀犯罪行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724918.shtml",
-        "publishedAt": "2026-11-02T21:04:54.000+08:00"
+        "title": "黄河“几”字弯上的多重丰收",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724936.shtml",
+        "publishedAt": "2026-11-02T21:14:53.000+08:00"
       },
       {
-        "title": "“白色精灵”如约栖息新疆天鹅湾",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724965.shtml",
-        "publishedAt": "2026-11-02T21:04:28.000+08:00"
+        "title": "国际统一私法协会亚太联络办在香港启用",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10724934.shtml",
+        "publishedAt": "2026-11-02T21:14:07.000+08:00"
       },
       {
-        "title": "苏俊涛/刘莉莉海岸赛艇摘金 夺得中国代表团达喀尔青奥会首金",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10725009.shtml",
-        "publishedAt": "2026-11-02T21:03:32.000+08:00"
+        "title": "两岸创作者合拍AI微短剧 以光影赓续文化根脉",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-02/10724933.shtml",
+        "publishedAt": "2026-11-02T21:13:39.000+08:00"
       },
       {
-        "title": "（第九届进博会）九届“全勤生”再赴进博之约 跨国企业以本土创新回应中国需求",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725002.shtml",
-        "publishedAt": "2026-11-02T20:57:22.000+08:00"
+        "title": "五年“主席台之约” 重庆荣昌让民营企业家当“主角”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-02/10724927.shtml",
+        "publishedAt": "2026-11-02T21:12:58.000+08:00"
       },
       {
-        "title": "（第九届进博会）AI赋能智慧监管 第九届进博会筑牢食安等多重防线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725003.shtml",
-        "publishedAt": "2026-11-02T20:56:50.000+08:00"
+        "title": "流失文物归还 多位专家热议宋陵系统性保护及活化利用",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724925.shtml",
+        "publishedAt": "2026-11-02T21:12:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T21:10:03.201+08:00",
+    "fetchedAt": "2026-11-02T21:20:04.649+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T21:10:07.929+08:00",
+      "fetchedAt": "2026-11-02T21:20:08.678+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T02:10:09.000+08:00"
+          "resetAt": "2026-11-03T02:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T21:10:08.161+08:00",
+      "fetchedAt": "2026-11-02T21:20:08.968+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T21:10:08.170+08:00",
+      "fetchedAt": "2026-11-02T21:20:08.974+08:00",
       "error": null
     }
   }
