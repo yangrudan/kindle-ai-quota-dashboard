@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T10:00:08.994+08:00",
+  "updatedAt": "2026-11-02T10:10:38.872+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.8,
-    "feelsLikeC": 16.9,
-    "humidity": 70,
-    "windKph": 10.9,
+    "tempC": 18,
+    "feelsLikeC": 17,
+    "humidity": 69,
+    "windKph": 10.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-02T10:00:08.994+08:00",
+    "observedAt": "2026-11-02T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-02T10:10:38.872+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "反跨境腐败法草案二审：推动构建公正合理的反腐败全球治理体系",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724588.shtml",
-        "publishedAt": "2026-11-02T09:53:36.000+08:00"
+        "title": "聚焦侵犯公民个人信息违法犯罪新特点 最高检发布一批典型案例",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724601.shtml",
+        "publishedAt": "2026-11-02T10:03:16.000+08:00"
       },
       {
-        "title": "WTT蒙彼利埃冠军赛：孙颖莎女单夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724556.shtml",
-        "publishedAt": "2026-11-02T09:53:36.000+08:00"
+        "title": "专家：给手术机器人装上“大脑” 远程手术走向临床新阶段",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724597.shtml",
+        "publishedAt": "2026-11-02T10:02:56.000+08:00"
       },
       {
-        "title": "闽北举行白牡丹斗茶赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724571.shtml",
-        "publishedAt": "2026-11-02T09:53:18.000+08:00"
+        "title": "粤港澳大湾区时尚联盟在穗成立 三地时尚产业迈向“价值共生”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10724594.shtml",
+        "publishedAt": "2026-11-02T10:02:50.000+08:00"
       },
       {
-        "title": "外媒关注中国算力基础设施发展：中国“算”就是行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724586.shtml",
-        "publishedAt": "2026-11-02T09:50:56.000+08:00"
+        "title": "中国地震应急搜救中心启动“重载无人机应急救援协作机制” 调派航空力量赴西藏地震灾区开展工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724589.shtml",
+        "publishedAt": "2026-11-02T10:02:48.000+08:00"
       },
       {
-        "title": "强化企业创新主体地位，上海民企联合发布基础研究协同创新倡议",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-02/10724572.shtml",
-        "publishedAt": "2026-11-02T09:49:33.000+08:00"
+        "title": "中国拟修改刑事诉讼法 加强被害人权利保障",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724598.shtml",
+        "publishedAt": "2026-11-02T10:02:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T10:00:03.350+08:00",
+    "fetchedAt": "2026-11-02T10:10:03.428+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T10:00:07.704+08:00",
+      "fetchedAt": "2026-11-02T10:10:37.580+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T15:00:08.000+08:00"
+          "resetAt": "2026-11-02T15:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T10:00:07.960+08:00",
+      "fetchedAt": "2026-11-02T10:10:37.860+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T10:00:07.969+08:00",
+      "fetchedAt": "2026-11-02T10:10:37.869+08:00",
       "error": null
     }
   }
