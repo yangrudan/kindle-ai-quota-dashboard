@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T22:40:08.900+08:00",
+  "updatedAt": "2026-11-02T22:50:10.277+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.9,
-    "feelsLikeC": 14,
-    "humidity": 87,
-    "windKph": 2.3,
+    "tempC": 13.7,
+    "feelsLikeC": 13.8,
+    "humidity": 88,
+    "windKph": 2.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T22:40:08.900+08:00",
+    "observedAt": "2026-11-02T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T22:50:10.277+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李宁：体育是普通人奔赴热爱的舞台",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10725072.shtml",
+        "publishedAt": "2026-11-02T22:46:36.000+08:00"
+      },
+      {
+        "title": "柬埔寨累计清理逾3600平方公里受战争爆炸物污染土地",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725073.shtml",
+        "publishedAt": "2026-11-02T22:45:47.000+08:00"
+      },
       {
         "title": "李干杰受中共中央委托向党外人士通报中共二十届五中全会精神",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10725065.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "十四届全国人大常委会第二十五次会议在京举行 审议检察公益诉讼法草案、水法修订草案等 赵乐际主持",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10725066.shtml",
         "publishedAt": "2026-11-02T22:22:48.000+08:00"
-      },
-      {
-        "title": "决不能让企业诉求“石沉大海” 重庆荣昌以法治护航民营经济发展",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-02/10725062.shtml",
-        "publishedAt": "2026-11-02T22:15:00.000+08:00"
-      },
-      {
-        "title": "证监会：在风险总体可控的基础上，适度释放融资空间",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725063.shtml",
-        "publishedAt": "2026-11-02T22:14:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T22:40:03.389+08:00",
+    "fetchedAt": "2026-11-02T22:50:03.608+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T22:40:07.567+08:00",
+      "fetchedAt": "2026-11-02T22:50:08.582+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T03:40:08.000+08:00"
+          "resetAt": "2026-11-03T03:50:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T22:40:07.740+08:00",
+      "fetchedAt": "2026-11-02T22:50:09.060+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T22:40:07.750+08:00",
+      "fetchedAt": "2026-11-02T22:50:09.064+08:00",
       "error": null
     }
   }
