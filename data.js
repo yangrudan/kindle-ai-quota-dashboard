@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T08:00:10.454+08:00",
+  "updatedAt": "2026-11-02T08:10:10.758+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T08:00:10.455+08:00",
+    "fetchedAt": "2026-11-02T08:10:10.758+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年“全国十佳新闻工作者”名单揭晓",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724542.shtml",
+        "publishedAt": "2026-11-02T08:05:16.000+08:00"
+      },
+      {
+        "title": "孩子猛长期到底能不能减重？教你“吃动睡测”四步走",
+        "url": "https://www.chinanews.com.cn/life/2026/11-02/10724541.shtml",
+        "publishedAt": "2026-11-02T08:03:54.000+08:00"
+      },
       {
         "title": "国际摩联世界摩托车锦标赛（MotoGP）马来西亚大奖赛正赛：马克·马奎斯夺冠",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209440.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "出口民调：保加利亚现总统约托娃在总统选举第二轮投票中领先",
         "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724536.shtml",
         "publishedAt": "2026-11-02T07:37:50.000+08:00"
-      },
-      {
-        "title": "“银十”跑赢“金九”：上海10月二手房网签同比大涨33%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724535.shtml",
-        "publishedAt": "2026-11-02T07:37:46.000+08:00"
-      },
-      {
-        "title": "“不赚钱”的街边“会客厅”，为何能聚起人才、创新和资本",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724534.shtml",
-        "publishedAt": "2026-11-02T07:35:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T08:00:04.987+08:00",
+    "fetchedAt": "2026-11-02T08:10:03.604+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T08:00:09.204+08:00",
+      "fetchedAt": "2026-11-02T08:10:08.347+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T13:00:10.000+08:00"
+          "resetAt": "2026-11-02T13:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T08:00:09.507+08:00",
+      "fetchedAt": "2026-11-02T08:10:08.748+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T08:00:09.510+08:00",
+      "fetchedAt": "2026-11-02T08:10:08.756+08:00",
       "error": null
     }
   }
