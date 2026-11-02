@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T19:20:08.843+08:00",
+  "updatedAt": "2026-11-02T19:30:10.364+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.8,
-    "feelsLikeC": 15.5,
+    "tempC": 15.7,
+    "feelsLikeC": 15.4,
     "humidity": 78,
-    "windKph": 6.3,
+    "windKph": 6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T19:20:08.844+08:00",
+    "observedAt": "2026-11-02T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-02T19:30:10.364+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平总书记关心推动黄河流域生态保护和高质量发展纪实",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724892.shtml",
+        "publishedAt": "2026-11-02T19:16:06.000+08:00"
+      },
+      {
+        "title": "“孙中山史迹展”在香港开幕 系统回顾孙中山先生革命历程",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724920.shtml",
+        "publishedAt": "2026-11-02T19:14:58.000+08:00"
+      },
       {
         "title": "三部门发文完善设施农用地管理，以正面清单区分用地方式",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724907.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "王毅将主持澜湄合作第十一次外长会",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724909.shtml",
         "publishedAt": "2026-11-02T18:52:55.000+08:00"
-      },
-      {
-        "title": "一场“小心眼”饭局，就能挡住中国车企？｜真相",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724910.shtml",
-        "publishedAt": "2026-11-02T18:52:09.000+08:00"
-      },
-      {
-        "title": "“蟹”逅多彩江南 昆山金秋阳澄湖大闸蟹文旅荟举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724872.shtml",
-        "publishedAt": "2026-11-02T18:49:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T19:20:03.785+08:00",
+    "fetchedAt": "2026-11-02T19:30:03.295+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T19:20:07.577+08:00",
+      "fetchedAt": "2026-11-02T19:30:07.721+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T00:20:08.000+08:00"
+          "resetAt": "2026-11-03T00:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T19:20:07.832+08:00",
+      "fetchedAt": "2026-11-02T19:30:08.090+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T19:20:07.841+08:00",
+      "fetchedAt": "2026-11-02T19:30:08.094+08:00",
       "error": null
     }
   }
