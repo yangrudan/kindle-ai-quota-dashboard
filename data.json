@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T10:10:38.872+08:00",
+  "updatedAt": "2026-11-02T10:20:09.886+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18,
-    "feelsLikeC": 17,
-    "humidity": 69,
-    "windKph": 10.7,
+    "tempC": 18.2,
+    "feelsLikeC": 17.2,
+    "humidity": 67,
+    "windKph": 10.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T10:10:38.872+08:00",
+    "observedAt": "2026-11-02T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-02T10:20:09.886+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "聚焦侵犯公民个人信息违法犯罪新特点 最高检发布一批典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724601.shtml",
-        "publishedAt": "2026-11-02T10:03:16.000+08:00"
+        "title": "西藏洛扎：杰顿珠宗遗址从“深闺”走向大众",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724608.shtml",
+        "publishedAt": "2026-11-02T10:14:11.000+08:00"
       },
       {
-        "title": "专家：给手术机器人装上“大脑” 远程手术走向临床新阶段",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724597.shtml",
-        "publishedAt": "2026-11-02T10:02:56.000+08:00"
+        "title": "《尚公主》：以“我本位”写双强爱情，以慢叙事见长剧底气",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724582.shtml",
+        "publishedAt": "2026-11-02T10:13:55.000+08:00"
       },
       {
-        "title": "粤港澳大湾区时尚联盟在穗成立 三地时尚产业迈向“价值共生”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10724594.shtml",
-        "publishedAt": "2026-11-02T10:02:50.000+08:00"
+        "title": "广东省第十届群众音乐舞蹈花会收官 19个作品夺金",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724599.shtml",
+        "publishedAt": "2026-11-02T10:13:47.000+08:00"
       },
       {
-        "title": "中国地震应急搜救中心启动“重载无人机应急救援协作机制” 调派航空力量赴西藏地震灾区开展工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724589.shtml",
-        "publishedAt": "2026-11-02T10:02:48.000+08:00"
+        "title": "2000多家“新面孔”企业首秀进博会",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724611.shtml",
+        "publishedAt": "2026-11-02T10:13:39.000+08:00"
       },
       {
-        "title": "中国拟修改刑事诉讼法 加强被害人权利保障",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724598.shtml",
-        "publishedAt": "2026-11-02T10:02:26.000+08:00"
+        "title": "西藏巴青县首批受灾师生抵达拉萨那曲完全中学开启异地复课 “在这里，感受到了家的温暖”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724606.shtml",
+        "publishedAt": "2026-11-02T10:11:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T10:10:03.428+08:00",
+    "fetchedAt": "2026-11-02T10:20:04.135+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T10:10:37.580+08:00",
+      "fetchedAt": "2026-11-02T10:20:08.108+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T15:10:38.000+08:00"
+          "resetAt": "2026-11-02T15:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T10:10:37.860+08:00",
+      "fetchedAt": "2026-11-02T10:20:08.443+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T10:10:37.869+08:00",
+      "fetchedAt": "2026-11-02T10:20:08.450+08:00",
       "error": null
     }
   }
