@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T23:10:08.870+08:00",
+  "updatedAt": "2026-11-02T23:20:08.861+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.5,
-    "feelsLikeC": 13.6,
-    "humidity": 88,
-    "windKph": 3,
+    "tempC": 13.4,
+    "feelsLikeC": 13.4,
+    "humidity": 89,
+    "windKph": 3.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T23:10:08.870+08:00",
+    "observedAt": "2026-11-02T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-02T23:20:08.861+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "权威发布！全国十佳新闻工作者LOGO",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725076.shtml",
+        "publishedAt": "2026-11-02T23:11:21.000+08:00"
+      },
+      {
+        "title": "聚焦AI时代人的意义 心理分析与中国文化国际学术论坛将举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725075.shtml",
+        "publishedAt": "2026-11-02T23:00:44.000+08:00"
+      },
       {
         "title": "伊总统：伊朗最高领袖已赋予政府在谈判领域一定的权力",
         "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725074.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "柬埔寨累计清理逾3600平方公里受战争爆炸物污染土地",
         "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725073.shtml",
         "publishedAt": "2026-11-02T22:45:47.000+08:00"
-      },
-      {
-        "title": "李干杰受中共中央委托向党外人士通报中共二十届五中全会精神",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10725065.shtml",
-        "publishedAt": "2026-11-02T22:33:23.000+08:00"
-      },
-      {
-        "title": "警用智能装备亮相浙江乌镇 “空地网”筑牢安全防线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725067.shtml",
-        "publishedAt": "2026-11-02T22:32:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T23:10:03.857+08:00",
+    "fetchedAt": "2026-11-02T23:20:03.617+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T23:10:07.661+08:00",
+      "fetchedAt": "2026-11-02T23:20:07.592+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T04:10:08.000+08:00"
+          "resetAt": "2026-11-03T04:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T23:10:07.899+08:00",
+      "fetchedAt": "2026-11-02T23:20:07.867+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T23:10:07.907+08:00",
+      "fetchedAt": "2026-11-02T23:20:07.871+08:00",
       "error": null
     }
   }
