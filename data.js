@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T16:40:09.901+08:00",
+  "updatedAt": "2026-11-02T16:50:48.591+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-02T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T16:40:09.901+08:00",
+    "fetchedAt": "2026-11-02T16:50:48.591+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "水乡聚光启新程 智能互联智见未来",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724815.shtml",
+        "publishedAt": "2026-11-02T16:41:00.000+08:00"
+      },
       {
         "title": "行进的旗帜·征途长歌丨转折之城灯火永续 照亮一代代人的长征路",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724807.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "带动消费、链接产业、融合文旅，进博会溢出效应在上海全城落地生长",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724804.shtml",
         "publishedAt": "2026-11-02T16:28:01.000+08:00"
-      },
-      {
-        "title": "候鸟翩飞、生态蝶变 黄河流域治理保护成绩单亮眼",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724803.shtml",
-        "publishedAt": "2026-11-02T16:24:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T16:40:03.737+08:00",
+    "fetchedAt": "2026-11-02T16:50:12.680+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T16:40:08.194+08:00",
+      "fetchedAt": "2026-11-02T16:50:47.068+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T21:40:09.000+08:00"
+          "resetAt": "2026-11-02T21:50:48.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T16:40:08.470+08:00",
+      "fetchedAt": "2026-11-02T16:50:47.383+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T16:40:08.478+08:00",
+      "fetchedAt": "2026-11-02T16:50:47.388+08:00",
       "error": null
     }
   }
