@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T21:30:09.364+08:00",
+  "updatedAt": "2026-11-02T21:40:08.535+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-02T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T21:30:09.364+08:00",
+    "fetchedAt": "2026-11-02T21:40:08.535+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王沪宁会见越南共产党代表团",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209557.shtml",
+        "publishedAt": "2026-11-02T21:31:07.000+08:00"
+      },
+      {
+        "title": "11月2日夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-02/10725031.shtml",
+        "publishedAt": "2026-11-02T21:30:19.000+08:00"
+      },
+      {
+        "title": "王沪宁会见俄罗斯联邦委员会主席马特维延科",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209556.shtml",
+        "publishedAt": "2026-11-02T21:26:46.000+08:00"
+      },
       {
         "title": "马来西亚中总连续九届参与进博会 推动马中经贸合作模式升级",
         "url": "https://www.chinanews.com.cn/hr/2026/11-02/10725015.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "（投资中国）达能上海研发与创新中心启用",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725016.shtml",
         "publishedAt": "2026-11-02T21:21:11.000+08:00"
-      },
-      {
-        "title": "李家超与教育部部长怀进鹏会面 冀深化香港内地高校科创交流",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10725017.shtml",
-        "publishedAt": "2026-11-02T21:20:35.000+08:00"
-      },
-      {
-        "title": "国际统一私法协会秘书长：在香港设立亚太联络办正当其时",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10725018.shtml",
-        "publishedAt": "2026-11-02T21:19:55.000+08:00"
-      },
-      {
-        "title": "王毅会见伊朗最高国家安全委员会副秘书巴盖里",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724960.shtml",
-        "publishedAt": "2026-11-02T21:19:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T21:30:03.937+08:00",
+    "fetchedAt": "2026-11-02T21:40:03.444+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T21:30:07.832+08:00",
+      "fetchedAt": "2026-11-02T21:40:07.343+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T02:30:08.000+08:00"
+          "resetAt": "2026-11-03T02:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T21:30:08.030+08:00",
+      "fetchedAt": "2026-11-02T21:40:07.572+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T21:30:08.039+08:00",
+      "fetchedAt": "2026-11-02T21:40:07.576+08:00",
       "error": null
     }
   }
