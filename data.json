@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T09:40:40.214+08:00",
+  "updatedAt": "2026-11-02T09:50:09.732+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 16.8,
-    "humidity": 72,
-    "windKph": 11,
+    "tempC": 17.8,
+    "feelsLikeC": 16.9,
+    "humidity": 70,
+    "windKph": 10.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T09:40:40.214+08:00",
+    "observedAt": "2026-11-02T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T09:50:09.732+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "赛道串联古村落 山西祁县乔家大院村跑吸引900余人参赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724562.shtml",
+        "publishedAt": "2026-11-02T09:42:31.000+08:00"
+      },
+      {
+        "title": "美国纽约市民昼夜不息共度万圣节",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209459.shtml",
+        "publishedAt": "2026-11-02T09:41:26.000+08:00"
+      },
+      {
+        "title": "11月2日人民币对美元中间价报6.7146 下调8个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724566.shtml",
+        "publishedAt": "2026-11-02T09:41:25.000+08:00"
+      },
       {
         "title": "好评中国·乌镇“网事”丨在守正创新中繁荣网络内容生态",
         "url": "https://www.chinanews.com.cn/ll/2026/11-02/10724568.shtml",
@@ -28,24 +43,9 @@
         "title": "我国拟修改刑事诉讼法更好促进司法公正",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724563.shtml",
         "publishedAt": "2026-11-02T09:36:47.000+08:00"
-      },
-      {
-        "title": "11月2日央行开展5410亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724557.shtml",
-        "publishedAt": "2026-11-02T09:35:09.000+08:00"
-      },
-      {
-        "title": "游泳名将徐嘉余：勇敢试，给运动生涯创造新可能",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724561.shtml",
-        "publishedAt": "2026-11-02T09:34:59.000+08:00"
-      },
-      {
-        "title": "“高度警惕日本借助文化产品篡改和歪曲历史”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724559.shtml",
-        "publishedAt": "2026-11-02T09:28:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T09:40:03.630+08:00",
+    "fetchedAt": "2026-11-02T09:50:03.209+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T09:40:38.832+08:00",
+      "fetchedAt": "2026-11-02T09:50:07.408+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T14:40:40.000+08:00"
+          "resetAt": "2026-11-02T14:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T09:40:39.155+08:00",
+      "fetchedAt": "2026-11-02T09:50:07.802+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T09:40:39.165+08:00",
+      "fetchedAt": "2026-11-02T09:50:07.805+08:00",
       "error": null
     }
   }
