@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:00:14.919+08:00",
+  "updatedAt": "2026-11-02T20:10:09.338+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-02T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T20:00:14.920+08:00",
+    "fetchedAt": "2026-11-02T20:10:09.338+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "签约生物医药、机器人 AI论坛推动产学研深度对接",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10724880.shtml",
+        "publishedAt": "2026-11-02T20:07:13.000+08:00"
+      },
+      {
+        "title": "郑州铁路多举措护航“双11”网购高峰期快件运输",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724879.shtml",
+        "publishedAt": "2026-11-02T20:06:23.000+08:00"
+      },
+      {
+        "title": "解密热播剧《小城良方》：声音如何还原小城烟火",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724950.shtml",
+        "publishedAt": "2026-11-02T20:04:25.000+08:00"
+      },
+      {
+        "title": "（走进中国乡村）从草原到全球 内蒙古牧民的“软黄金”生意",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724896.shtml",
+        "publishedAt": "2026-11-02T20:03:59.000+08:00"
+      },
+      {
         "title": "（经济观察）中国民企用三维“扫街”敲开八十多国市场",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724940.shtml",
         "publishedAt": "2026-11-02T19:46:46.000+08:00"
-      },
-      {
-        "title": "衣服吊牌大如A4纸，对“穿完即退”治标不治本",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724932.shtml",
-        "publishedAt": "2026-11-02T19:42:50.000+08:00"
-      },
-      {
-        "title": "中新健康丨睡眠经济升温，AI睡眠科技从监测走向干预",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-02/10724930.shtml",
-        "publishedAt": "2026-11-02T19:42:30.000+08:00"
-      },
-      {
-        "title": "中新网评：医学的重量，不该被剪成一地流量",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724937.shtml",
-        "publishedAt": "2026-11-02T19:42:26.000+08:00"
-      },
-      {
-        "title": "坚定信心，夯实资本市场稳定运行的根基",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724931.shtml",
-        "publishedAt": "2026-11-02T19:35:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T20:00:04.505+08:00",
+    "fetchedAt": "2026-11-02T20:10:03.464+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T20:00:08.663+08:00",
+      "fetchedAt": "2026-11-02T20:10:08.002+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T01:00:14.000+08:00"
+          "resetAt": "2026-11-03T01:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T20:00:08.985+08:00",
+      "fetchedAt": "2026-11-02T20:10:08.327+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T20:00:08.994+08:00",
+      "fetchedAt": "2026-11-02T20:10:08.336+08:00",
       "error": null
     }
   }
