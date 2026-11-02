@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T23:50:10.402+08:00",
+  "updatedAt": "2026-11-03T00:00:14.382+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.1,
-    "feelsLikeC": 13.1,
-    "humidity": 90,
-    "windKph": 3.4,
+    "tempC": 13,
+    "feelsLikeC": 13,
+    "humidity": 91,
+    "windKph": 3.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T23:45:00.000+08:00",
-    "fetchedAt": "2026-11-02T23:50:10.402+08:00",
+    "observedAt": "2026-11-03T00:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T00:00:14.383+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西藏那曲市巴青县发生4.2级地震",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
+        "publishedAt": "2026-11-02T23:49:31.000+08:00"
+      },
       {
         "title": "港交所扩大人民币债券抵押品适用范围 首日抵押总值超4亿元人民币",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725078.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "聚焦AI时代人的意义 心理分析与中国文化国际学术论坛将举行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725075.shtml",
         "publishedAt": "2026-11-02T23:00:44.000+08:00"
-      },
-      {
-        "title": "伊总统：伊朗最高领袖已赋予政府在谈判领域一定的权力",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725074.shtml",
-        "publishedAt": "2026-11-02T22:55:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T23:50:03.930+08:00",
+    "fetchedAt": "2026-11-03T00:00:05.385+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T23:50:08.624+08:00",
+      "fetchedAt": "2026-11-03T00:00:12.443+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T04:50:10.000+08:00"
+          "resetAt": "2026-11-03T05:00:14.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T23:50:08.847+08:00",
+      "fetchedAt": "2026-11-03T00:00:12.822+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T23:50:08.856+08:00",
+      "fetchedAt": "2026-11-03T00:00:12.829+08:00",
       "error": null
     }
   }
