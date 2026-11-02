@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T06:50:08.978+08:00",
+  "updatedAt": "2026-11-03T07:00:09.313+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.9,
-    "feelsLikeC": 13.6,
+    "tempC": 14,
+    "feelsLikeC": 13.7,
     "humidity": 85,
-    "windKph": 5,
+    "windKph": 5.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-03T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T06:50:08.978+08:00",
+    "observedAt": "2026-11-03T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T07:00:09.314+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "小心！向陌生小程序授予位置权限，行踪可能被悄悄定位",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725083.shtml",
-        "publishedAt": "2026-11-03T06:44:42.000+08:00"
+        "title": "11月3日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-03/10725088.shtml",
+        "publishedAt": "2026-11-03T06:55:19.000+08:00"
       },
       {
-        "title": "高校学术讲坛，如何“叫好又叫座”",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725082.shtml",
-        "publishedAt": "2026-11-03T06:41:12.000+08:00"
+        "title": "特朗普：美伊正在对话，“不急于”决定是否重启对伊战事",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725087.shtml",
+        "publishedAt": "2026-11-03T06:53:20.000+08:00"
       },
       {
-        "title": "美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
-        "publishedAt": "2026-11-03T06:35:18.000+08:00"
+        "title": "英国探险家历时28年徒步环球终返家乡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725086.shtml",
+        "publishedAt": "2026-11-03T06:52:16.000+08:00"
       },
       {
-        "title": "冰箱变烤箱 欧洲多国超市冷柜再遭网络攻击",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725080.shtml",
-        "publishedAt": "2026-11-02T23:56:53.000+08:00"
+        "title": "英国推出新政：部分移民永居基准等候期上调至十年",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725085.shtml",
+        "publishedAt": "2026-11-03T06:51:36.000+08:00"
       },
       {
-        "title": "西藏那曲市巴青县发生4.2级地震",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
-        "publishedAt": "2026-11-02T23:49:31.000+08:00"
+        "title": "中美国家公园影像展在华盛顿举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725084.shtml",
+        "publishedAt": "2026-11-03T06:50:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T06:50:03.555+08:00",
+    "fetchedAt": "2026-11-03T07:00:04.202+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T06:50:07.628+08:00",
+      "fetchedAt": "2026-11-03T07:00:07.965+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T11:50:08.000+08:00"
+          "resetAt": "2026-11-03T12:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T06:50:07.894+08:00",
+      "fetchedAt": "2026-11-03T07:00:08.228+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T06:50:07.904+08:00",
+      "fetchedAt": "2026-11-03T07:00:08.237+08:00",
       "error": null
     }
   }
