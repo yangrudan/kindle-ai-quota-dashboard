@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T11:40:18.056+08:00",
+  "updatedAt": "2026-11-02T11:50:12.375+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 19.2,
-    "feelsLikeC": 18.7,
-    "humidity": 60,
-    "windKph": 8.9,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 19.4,
+    "feelsLikeC": 19,
+    "humidity": 59,
+    "windKph": 8.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T11:40:18.056+08:00",
+    "observedAt": "2026-11-02T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T11:50:12.375+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "助力母婴营养提升 菲仕兰支持《乳品与孕妇乳母营养健康专家共识》发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724658.shtml",
-        "publishedAt": "2026-11-02T11:29:21.000+08:00"
+        "title": "A股午评：超4700只个股飘红，三大指数集体大涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724684.shtml",
+        "publishedAt": "2026-11-02T11:42:28.000+08:00"
       },
       {
-        "title": "《鲜味中国》首播出圈：从山海之鲜里，看见文化与人心",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724657.shtml",
-        "publishedAt": "2026-11-02T11:26:09.000+08:00"
+        "title": "湖南城步苗寨畅通消防通道 “电子哨兵”盯住老旧木房",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724675.shtml",
+        "publishedAt": "2026-11-02T11:39:07.000+08:00"
       },
       {
-        "title": "孩子猛长期到底能不能减重？教你“吃动睡测”四步走",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-02/10724668.shtml",
-        "publishedAt": "2026-11-02T11:23:35.000+08:00"
+        "title": "金融法草案提请全国人大常委会会议二次审议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724682.shtml",
+        "publishedAt": "2026-11-02T11:36:25.000+08:00"
       },
       {
-        "title": "致敬聂华苓：以一城微光，照世界文心",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-02/10724647.shtml",
-        "publishedAt": "2026-11-02T11:23:33.000+08:00"
+        "title": "2026年“铸牢共同体 中华一家亲”主题宣传活动新疆集中采访启动",
+        "url": "https://www.chinanews.com.cn/mz/2026/11-02/10724660.shtml",
+        "publishedAt": "2026-11-02T11:36:13.000+08:00"
       },
       {
-        "title": "我国拟修改税收征收管理法 将稳慎加强对个人的税收征管",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724667.shtml",
-        "publishedAt": "2026-11-02T11:23:25.000+08:00"
+        "title": "市场监管总局发布3项钢铁领域先进制造国家标准",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724651.shtml",
+        "publishedAt": "2026-11-02T11:36:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T11:40:12.374+08:00",
+    "fetchedAt": "2026-11-02T11:50:03.699+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T11:40:16.695+08:00",
+      "fetchedAt": "2026-11-02T11:50:09.848+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T16:40:18.000+08:00"
+          "resetAt": "2026-11-02T16:50:12.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T11:40:16.902+08:00",
+      "fetchedAt": "2026-11-02T11:50:10.216+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T11:40:16.910+08:00",
+      "fetchedAt": "2026-11-02T11:50:10.219+08:00",
       "error": null
     }
   }
