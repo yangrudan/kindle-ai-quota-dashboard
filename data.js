@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T22:10:39.173+08:00",
+  "updatedAt": "2026-11-02T22:20:09.764+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.2,
-    "feelsLikeC": 14.5,
-    "humidity": 85,
-    "windKph": 1.8,
+    "tempC": 14.1,
+    "feelsLikeC": 14.3,
+    "humidity": 86,
+    "windKph": 1.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T22:10:39.174+08:00",
+    "observedAt": "2026-11-02T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-02T22:20:09.765+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "艺苑撷英——2026年全国优秀青年舞蹈人才展演在京举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10725000.shtml",
-        "publishedAt": "2026-11-02T22:07:15.000+08:00"
+        "title": "上海哲学社会科学“五大文库”书籍在台湾发售",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725056.shtml",
+        "publishedAt": "2026-11-02T22:12:34.000+08:00"
       },
       {
-        "title": "五集系列片《探秘长白山》揭秘活着的火山之上为何万物竞生",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10725052.shtml",
-        "publishedAt": "2026-11-02T22:07:01.000+08:00"
+        "title": "陈国伟：马中关系意义已超越双边范畴 对区域和平繁荣影响深远",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-02/10725045.shtml",
+        "publishedAt": "2026-11-02T22:12:24.000+08:00"
       },
       {
-        "title": "音乐剧《血色湘江》在中央党校（国家行政学院）上演",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724999.shtml",
-        "publishedAt": "2026-11-02T22:06:37.000+08:00"
+        "title": "年接待游客突破600万人次 九寨沟精细管护守护山水魅力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725008.shtml",
+        "publishedAt": "2026-11-02T22:11:50.000+08:00"
       },
       {
-        "title": "2026国际版权论坛在甘肃敦煌开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724997.shtml",
-        "publishedAt": "2026-11-02T22:06:05.000+08:00"
+        "title": "“香港功夫世界”展览亮相深圳读书月 讲述香江武道传承",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10725007.shtml",
+        "publishedAt": "2026-11-02T22:11:36.000+08:00"
       },
       {
-        "title": "78个颠覆性健康项目在沪展开角逐 展示最新原创成果",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724995.shtml",
-        "publishedAt": "2026-11-02T22:05:49.000+08:00"
+        "title": "“考场”搬进商超等场景 人形机器人与具身智能实景实训挑战赛将启",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725059.shtml",
+        "publishedAt": "2026-11-02T22:10:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T22:10:03.092+08:00",
+    "fetchedAt": "2026-11-02T22:20:03.688+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T22:10:37.043+08:00",
+      "fetchedAt": "2026-11-02T22:20:08.481+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T03:10:39.000+08:00"
+          "resetAt": "2026-11-03T03:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T22:10:37.371+08:00",
+      "fetchedAt": "2026-11-02T22:20:08.735+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T22:10:37.380+08:00",
+      "fetchedAt": "2026-11-02T22:20:08.740+08:00",
       "error": null
     }
   }
