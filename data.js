@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T10:20:09.886+08:00",
+  "updatedAt": "2026-11-02T10:30:09.308+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.2,
-    "feelsLikeC": 17.2,
-    "humidity": 67,
-    "windKph": 10.4,
+    "tempC": 18.4,
+    "feelsLikeC": 17.4,
+    "humidity": 66,
+    "windKph": 10.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T10:20:09.886+08:00",
+    "observedAt": "2026-11-02T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-02T10:30:09.309+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西藏洛扎：杰顿珠宗遗址从“深闺”走向大众",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724608.shtml",
-        "publishedAt": "2026-11-02T10:14:11.000+08:00"
+        "title": "中越将举行“合作—2026”反恐联合训练",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724612.shtml",
+        "publishedAt": "2026-11-02T10:25:09.000+08:00"
       },
       {
-        "title": "《尚公主》：以“我本位”写双强爱情，以慢叙事见长剧底气",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724582.shtml",
-        "publishedAt": "2026-11-02T10:13:55.000+08:00"
+        "title": "最高检发布依法保护公民个人信息典型案例",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724607.shtml",
+        "publishedAt": "2026-11-02T10:22:29.000+08:00"
       },
       {
-        "title": "广东省第十届群众音乐舞蹈花会收官 19个作品夺金",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724599.shtml",
-        "publishedAt": "2026-11-02T10:13:47.000+08:00"
+        "title": "“深伪”政治广告扰乱美国中期选举",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-02/10724615.shtml",
+        "publishedAt": "2026-11-02T10:21:47.000+08:00"
       },
       {
-        "title": "2000多家“新面孔”企业首秀进博会",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724611.shtml",
-        "publishedAt": "2026-11-02T10:13:39.000+08:00"
+        "title": "“跨界共生：多元叙事激发生物多样性行动”边会在COP17中国角举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724602.shtml",
+        "publishedAt": "2026-11-02T10:20:31.000+08:00"
       },
       {
-        "title": "西藏巴青县首批受灾师生抵达拉萨那曲完全中学开启异地复课 “在这里，感受到了家的温暖”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724606.shtml",
-        "publishedAt": "2026-11-02T10:11:23.000+08:00"
+        "title": "2026甬港企业家帆船赛在浙江宁波举办",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724560.shtml",
+        "publishedAt": "2026-11-02T10:20:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T10:20:04.135+08:00",
+    "fetchedAt": "2026-11-02T10:30:03.519+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T10:20:08.108+08:00",
+      "fetchedAt": "2026-11-02T10:30:07.839+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T15:20:09.000+08:00"
+          "resetAt": "2026-11-02T15:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T10:20:08.443+08:00",
+      "fetchedAt": "2026-11-02T10:30:08.213+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T10:20:08.450+08:00",
+      "fetchedAt": "2026-11-02T10:30:08.217+08:00",
       "error": null
     }
   }
