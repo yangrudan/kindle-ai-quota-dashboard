@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T14:30:39.750+08:00",
+  "updatedAt": "2026-11-02T14:40:41.425+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T14:30:39.750+08:00",
+    "fetchedAt": "2026-11-02T14:40:41.425+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "短道速滑世巡赛蒙特利尔站收官：中国队获接力一银一铜",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724713.shtml",
-        "publishedAt": "2026-11-02T14:24:12.000+08:00"
+        "title": "中国拟修改刑事诉讼法 加强被害人权利保障",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724734.shtml",
+        "publishedAt": "2026-11-02T14:35:49.000+08:00"
       },
       {
-        "title": "聚焦史前治水与长江文明溯源 中国考古学界荆门“论剑”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724748.shtml",
-        "publishedAt": "2026-11-02T14:23:02.000+08:00"
+        "title": "广东省政协原党组成员、副主席郭永航严重违纪违法被开除党籍和公职",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724751.shtml",
+        "publishedAt": "2026-11-02T14:33:49.000+08:00"
       },
       {
-        "title": "烽火弦歌忆光复 “京台会”话新时代两岸融合",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724744.shtml",
-        "publishedAt": "2026-11-02T14:21:54.000+08:00"
+        "title": "中国官方发布保护公民个人信息典型案例 涉治理“饭圈”乱象",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724714.shtml",
+        "publishedAt": "2026-11-02T14:28:41.000+08:00"
       },
       {
-        "title": "汪曾祺的蒲黄榆：灶台烟火与街巷文脉“重逢”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724733.shtml",
-        "publishedAt": "2026-11-02T14:21:04.000+08:00"
+        "title": "初瑞雪双十一首战告捷：辛选全员列阵，引领“不烧心”无忧消费",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724737.shtml",
+        "publishedAt": "2026-11-02T14:27:02.000+08:00"
       },
       {
-        "title": "刘奇凡任云南省副省长、代省长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724739.shtml",
-        "publishedAt": "2026-11-02T14:19:26.000+08:00"
+        "title": "度小满与香港科技大学联合发布轩辕4.5金融大模型",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724736.shtml",
+        "publishedAt": "2026-11-02T14:25:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T14:30:04.595+08:00",
+    "fetchedAt": "2026-11-02T14:40:03.313+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T14:30:38.405+08:00",
+      "fetchedAt": "2026-11-02T14:40:40.024+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T19:30:39.000+08:00"
+          "resetAt": "2026-11-02T19:40:41.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T14:30:38.788+08:00",
+      "fetchedAt": "2026-11-02T14:40:40.412+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T14:30:38.792+08:00",
+      "fetchedAt": "2026-11-02T14:40:40.417+08:00",
       "error": null
     }
   }
