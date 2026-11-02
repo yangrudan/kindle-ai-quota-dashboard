@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T14:10:12.893+08:00",
+  "updatedAt": "2026-11-02T14:20:09.291+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 20.4,
-    "feelsLikeC": 19.6,
+    "feelsLikeC": 19.5,
     "humidity": 57,
-    "windKph": 8.5,
+    "windKph": 8.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T14:10:12.893+08:00",
+    "observedAt": "2026-11-02T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-02T14:20:09.292+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "河北乐亭建筑支护产业集群“组队升级” “架”起外贸“出海桥”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724721.shtml",
+        "publishedAt": "2026-11-02T14:14:54.000+08:00"
+      },
+      {
+        "title": "“香港金融科技周及StartmeupHK2026”开幕 聚焦金融赋能等创造机遇",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724741.shtml",
+        "publishedAt": "2026-11-02T14:07:11.000+08:00"
+      },
       {
         "title": "刘海龙：播客是一种“剩余媒介”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724740.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "南京外秦淮河上演13.14公里赛艇马拉松 全国两百余名桨手竞逐",
         "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724731.shtml",
         "publishedAt": "2026-11-02T13:59:19.000+08:00"
-      },
-      {
-        "title": "重商、亲商、安商、富商 福建宁德打造一方近悦远来的营商沃土",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724730.shtml",
-        "publishedAt": "2026-11-02T13:58:17.000+08:00"
-      },
-      {
-        "title": "印度“蟑螂运动”的第二季",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724738.shtml",
-        "publishedAt": "2026-11-02T13:57:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T14:10:03.095+08:00",
+    "fetchedAt": "2026-11-02T14:20:03.160+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T14:10:07.430+08:00",
+      "fetchedAt": "2026-11-02T14:20:07.802+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T19:10:08.000+08:00"
+          "resetAt": "2026-11-02T19:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T14:10:07.762+08:00",
+      "fetchedAt": "2026-11-02T14:20:08.077+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T14:10:07.767+08:00",
+      "fetchedAt": "2026-11-02T14:20:08.082+08:00",
       "error": null
     }
   }
