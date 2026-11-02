@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T08:40:08.984+08:00",
+  "updatedAt": "2026-11-02T08:50:09.893+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
-    "feelsLikeC": 16.2,
-    "humidity": 81,
-    "windKph": 10.4,
+    "tempC": 17,
+    "feelsLikeC": 16.4,
+    "humidity": 78,
+    "windKph": 10.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T08:40:08.984+08:00",
+    "observedAt": "2026-11-02T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T08:50:09.893+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "人工智能“闯祸”，保险赔吗",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724550.shtml",
+        "publishedAt": "2026-11-02T08:44:18.000+08:00"
+      },
+      {
+        "title": "“金九银十”收官 二手房市场成交韧性延续",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724549.shtml",
+        "publishedAt": "2026-11-02T08:42:40.000+08:00"
+      },
+      {
+        "title": "超八成A股上市银行前三季度净利正增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724548.shtml",
+        "publishedAt": "2026-11-02T08:36:54.000+08:00"
+      },
+      {
+        "title": "美国佛州一飞机在居民区坠毁 机上9人全部遇难",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209443.shtml",
+        "publishedAt": "2026-11-02T08:33:51.000+08:00"
+      },
+      {
         "title": "贷款利率迎来新变化 “双锚改革”带来哪些影响？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724544.shtml",
         "publishedAt": "2026-11-02T08:16:02.000+08:00"
-      },
-      {
-        "title": "中央气象台：江淮江汉江南有中到大雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724543.shtml",
-        "publishedAt": "2026-11-02T08:15:56.000+08:00"
-      },
-      {
-        "title": "2026年“全国十佳新闻工作者”名单揭晓",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724542.shtml",
-        "publishedAt": "2026-11-02T08:05:16.000+08:00"
-      },
-      {
-        "title": "孩子猛长期到底能不能减重？教你“吃动睡测”四步走",
-        "url": "https://www.chinanews.com.cn/life/2026/11-02/10724541.shtml",
-        "publishedAt": "2026-11-02T08:03:54.000+08:00"
-      },
-      {
-        "title": "国际摩联世界摩托车锦标赛（MotoGP）马来西亚大奖赛正赛：马克·马奎斯夺冠",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209440.shtml",
-        "publishedAt": "2026-11-02T07:51:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T08:40:03.340+08:00",
+    "fetchedAt": "2026-11-02T08:50:03.633+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T08:40:07.539+08:00",
+      "fetchedAt": "2026-11-02T08:50:08.291+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T13:40:08.000+08:00"
+          "resetAt": "2026-11-02T13:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T08:40:07.849+08:00",
+      "fetchedAt": "2026-11-02T08:50:08.754+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T08:40:07.852+08:00",
+      "fetchedAt": "2026-11-02T08:50:08.773+08:00",
       "error": null
     }
   }
