@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T10:30:09.308+08:00",
+  "updatedAt": "2026-11-02T10:40:09.248+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-02T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T10:30:09.309+08:00",
+    "fetchedAt": "2026-11-02T10:40:09.249+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中越将举行“合作—2026”反恐联合训练",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724612.shtml",
-        "publishedAt": "2026-11-02T10:25:09.000+08:00"
+        "title": "大战略牵引新开局丨以“绿色工笔”绘就能源发展新画卷",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724627.shtml",
+        "publishedAt": "2026-11-02T10:33:34.000+08:00"
       },
       {
-        "title": "最高检发布依法保护公民个人信息典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724607.shtml",
-        "publishedAt": "2026-11-02T10:22:29.000+08:00"
+        "title": "网络开盒网暴致人抑郁6人获刑",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724626.shtml",
+        "publishedAt": "2026-11-02T10:31:22.000+08:00"
       },
       {
-        "title": "“深伪”政治广告扰乱美国中期选举",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-02/10724615.shtml",
-        "publishedAt": "2026-11-02T10:21:47.000+08:00"
+        "title": "中欧班列沿线国家代表在敦煌共话丝路交融与当代合作",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724609.shtml",
+        "publishedAt": "2026-11-02T10:30:36.000+08:00"
       },
       {
-        "title": "“跨界共生：多元叙事激发生物多样性行动”边会在COP17中国角举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724602.shtml",
-        "publishedAt": "2026-11-02T10:20:31.000+08:00"
+        "title": "非洲青年夜游西安 邂逅唐风雅韵",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724610.shtml",
+        "publishedAt": "2026-11-02T10:28:42.000+08:00"
       },
       {
-        "title": "2026甬港企业家帆船赛在浙江宁波举办",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724560.shtml",
-        "publishedAt": "2026-11-02T10:20:23.000+08:00"
+        "title": "按需供暖、首接负责 多地供热部门“多点发力”开启“温暖过冬”保障模式",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724621.shtml",
+        "publishedAt": "2026-11-02T10:28:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T10:30:03.519+08:00",
+    "fetchedAt": "2026-11-02T10:40:03.563+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T10:30:07.839+08:00",
+      "fetchedAt": "2026-11-02T10:40:07.594+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T15:30:09.000+08:00"
+          "resetAt": "2026-11-02T15:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T10:30:08.213+08:00",
+      "fetchedAt": "2026-11-02T10:40:07.870+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T10:30:08.217+08:00",
+      "fetchedAt": "2026-11-02T10:40:07.878+08:00",
       "error": null
     }
   }
