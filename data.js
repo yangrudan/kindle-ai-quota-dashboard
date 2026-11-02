@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T19:00:19.154+08:00",
+  "updatedAt": "2026-11-02T19:10:10.496+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.1,
-    "feelsLikeC": 15.7,
-    "humidity": 76,
-    "windKph": 7,
+    "tempC": 16,
+    "feelsLikeC": 15.6,
+    "humidity": 77,
+    "windKph": 6.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-02T19:00:19.155+08:00",
+    "observedAt": "2026-11-02T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-02T19:10:10.496+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "三部门发文完善设施农用地管理，以正面清单区分用地方式",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724907.shtml",
+        "publishedAt": "2026-11-02T18:59:43.000+08:00"
+      },
+      {
+        "title": "福州：秋意渐浓赏菊时",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724912.shtml",
+        "publishedAt": "2026-11-02T18:57:59.000+08:00"
+      },
       {
         "title": "王毅将主持澜湄合作第十一次外长会",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724909.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“蟹”逅多彩江南 昆山金秋阳澄湖大闸蟹文旅荟举行",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724872.shtml",
         "publishedAt": "2026-11-02T18:49:41.000+08:00"
-      },
-      {
-        "title": "得物App入选商务部商业技术应用创新中心培育名单，互联网消费平台全国首例",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724863.shtml",
-        "publishedAt": "2026-11-02T18:46:47.000+08:00"
-      },
-      {
-        "title": "2026年中国自由式小轮车联赛总决赛落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724860.shtml",
-        "publishedAt": "2026-11-02T18:45:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T19:00:12.577+08:00",
+    "fetchedAt": "2026-11-02T19:10:03.092+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T19:00:16.983+08:00",
+      "fetchedAt": "2026-11-02T19:10:07.713+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T00:00:18.000+08:00"
+          "resetAt": "2026-11-03T00:10:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T19:00:17.355+08:00",
+      "fetchedAt": "2026-11-02T19:10:09.442+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T19:00:17.361+08:00",
+      "fetchedAt": "2026-11-02T19:10:09.448+08:00",
       "error": null
     }
   }
