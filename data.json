@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T09:10:10.174+08:00",
+  "updatedAt": "2026-11-02T09:20:08.539+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
-    "feelsLikeC": 16.6,
-    "humidity": 76,
-    "windKph": 10.9,
+    "tempC": 17.5,
+    "feelsLikeC": 16.7,
+    "humidity": 74,
+    "windKph": 11.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-02T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T09:10:10.175+08:00",
+    "observedAt": "2026-11-02T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-02T09:20:08.539+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "教育部教师工作司原副司长韩劲红接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724554.shtml",
+        "publishedAt": "2026-11-02T09:12:35.000+08:00"
+      },
+      {
+        "title": "自然资源部等三部门联合印发《关于完善设施农用地管理的通知》",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724553.shtml",
+        "publishedAt": "2026-11-02T09:09:43.000+08:00"
+      },
       {
         "title": "江汉江淮江南等地将有明显降雨 4日起北方地区将有大风降温",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724552.shtml",
@@ -33,19 +43,9 @@
         "title": "人工智能“闯祸”，保险赔吗",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724550.shtml",
         "publishedAt": "2026-11-02T08:44:18.000+08:00"
-      },
-      {
-        "title": "“金九银十”收官 二手房市场成交韧性延续",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724549.shtml",
-        "publishedAt": "2026-11-02T08:42:40.000+08:00"
-      },
-      {
-        "title": "超八成A股上市银行前三季度净利正增长",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724548.shtml",
-        "publishedAt": "2026-11-02T08:36:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T09:10:04.722+08:00",
+    "fetchedAt": "2026-11-02T09:20:03.277+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-02T09:10:08.770+08:00",
+      "fetchedAt": "2026-11-02T09:20:07.105+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T14:10:10.000+08:00"
+          "resetAt": "2026-11-02T14:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T09:10:09.056+08:00",
+      "fetchedAt": "2026-11-02T09:20:07.392+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-02T09:10:09.065+08:00",
+      "fetchedAt": "2026-11-02T09:20:07.398+08:00",
       "error": null
     }
   }
