@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T10:00:40.439+08:00",
+  "updatedAt": "2026-11-03T10:10:10.356+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-03T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T10:00:40.439+08:00",
+    "fetchedAt": "2026-11-03T10:10:10.356+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一旦感染，终身携带！这种病毒进入高发期",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725159.shtml",
-        "publishedAt": "2026-11-03T09:52:10.000+08:00"
+        "title": "第五届大学转型发展研讨会共探人工智能驱动的高教变革",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725137.shtml",
+        "publishedAt": "2026-11-03T10:06:57.000+08:00"
       },
       {
-        "title": "应对量子计算威胁 香港金管局与港科大推出后量子密码学工具包",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725131.shtml",
-        "publishedAt": "2026-11-03T09:49:06.000+08:00"
+        "title": "直播：国家发改委就培育壮大新动能有关情况举行新闻发布会",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-03/10725162.shtml",
+        "publishedAt": "2026-11-03T10:06:13.000+08:00"
       },
       {
-        "title": "【这个城市有点潮】浙江乌镇：藏在千年古镇里的诗意与数字新风",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209576.shtml",
-        "publishedAt": "2026-11-03T09:45:31.000+08:00"
+        "title": "我国大熊猫圈养种群达830只",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725169.shtml",
+        "publishedAt": "2026-11-03T10:05:25.000+08:00"
       },
       {
-        "title": "辽宁科技大学组织统一战线成员开展“赓续红色血脉 探寻文明之源 共鉴乡村振兴”学习实践活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725129.shtml",
-        "publishedAt": "2026-11-03T09:41:02.000+08:00"
+        "title": "2026年全国“优化消费环境月”启动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725168.shtml",
+        "publishedAt": "2026-11-03T10:05:13.000+08:00"
       },
       {
-        "title": "2026年世界互联网大会乌镇峰会今天开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725151.shtml",
-        "publishedAt": "2026-11-03T09:38:42.000+08:00"
+        "title": "美国中期选举今日投票；伊朗此前提出“两天方案”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725166.shtml",
+        "publishedAt": "2026-11-03T10:03:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T10:00:03.785+08:00",
+    "fetchedAt": "2026-11-03T10:10:03.021+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T10:00:38.873+08:00",
+      "fetchedAt": "2026-11-03T10:10:07.493+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 19,
           "resetAt": "2026-11-03T14:30:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 44,
+          "usedPct": 45,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T10:00:39.149+08:00",
+      "fetchedAt": "2026-11-03T10:10:07.854+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T10:00:39.162+08:00",
+      "fetchedAt": "2026-11-03T10:10:07.863+08:00",
       "error": null
     }
   }
