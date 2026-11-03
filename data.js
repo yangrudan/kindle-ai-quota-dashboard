@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T18:30:09.474+08:00",
+  "updatedAt": "2026-11-03T18:40:09.488+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T18:30:09.475+08:00",
+    "fetchedAt": "2026-11-03T18:40:09.488+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中新网评：别让“狂欢”纵容恶意",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725467.shtml",
+        "publishedAt": "2026-11-03T18:27:30.000+08:00"
+      },
       {
         "title": "退伍老兵救起7岁落水男孩 见义勇为奖金全数捐出",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725478.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "戍边18载，藏族军人旺堆次仁：三次与“死神”擦肩而过",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725477.shtml",
         "publishedAt": "2026-11-03T18:19:28.000+08:00"
-      },
-      {
-        "title": "探访三亚·亚特兰蒂斯：中外游客纷至沓来",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725474.shtml",
-        "publishedAt": "2026-11-03T18:18:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T18:30:03.436+08:00",
+    "fetchedAt": "2026-11-03T18:40:03.424+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T18:30:08.185+08:00",
+      "fetchedAt": "2026-11-03T18:40:08.027+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T18:30:08.297+08:00",
+      "fetchedAt": "2026-11-03T18:40:08.224+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T18:30:08.304+08:00",
+      "fetchedAt": "2026-11-03T18:40:08.233+08:00",
       "error": null
     }
   }
