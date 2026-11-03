@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T17:00:19.277+08:00",
+  "updatedAt": "2026-11-03T17:10:41.728+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 17.2,
-    "feelsLikeC": 18.3,
-    "humidity": 86,
-    "windKph": 3.2,
-    "windDir": "东北风",
+    "tempC": 17,
+    "feelsLikeC": 18.1,
+    "humidity": 88,
+    "windKph": 3.3,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-03T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T17:00:19.277+08:00",
+    "observedAt": "2026-11-03T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T17:10:41.728+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从老街坊到新邻居 甘肃临夏团结故事在烟火中延续",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725425.shtml",
-        "publishedAt": "2026-11-03T16:52:51.000+08:00"
+        "title": "将军府里说家国，河巷村里建家园",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725433.shtml",
+        "publishedAt": "2026-11-03T17:02:10.000+08:00"
       },
       {
-        "title": "绘就年度电影地图！海南岛国际电影节披露三大策展方向",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725427.shtml",
-        "publishedAt": "2026-11-03T16:51:23.000+08:00"
+        "title": "受贿6750万余元 中国东航原党组书记、董事长刘绍勇一审被判十四年",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725434.shtml",
+        "publishedAt": "2026-11-03T17:01:38.000+08:00"
       },
       {
-        "title": "我国已制定实施新型储能国家标准及行业标准150项",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725416.shtml",
-        "publishedAt": "2026-11-03T16:51:19.000+08:00"
+        "title": "金门民众亮身份证谈身份认同：金门属于福建，我们是中国人！",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725428.shtml",
+        "publishedAt": "2026-11-03T16:59:45.000+08:00"
       },
       {
-        "title": "2026现代科技馆体系联合行动主题工作坊在辽宁收官",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725426.shtml",
-        "publishedAt": "2026-11-03T16:51:15.000+08:00"
+        "title": "执法检查报告显示海南自贸港法治环境持续向好",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725432.shtml",
+        "publishedAt": "2026-11-03T16:59:29.000+08:00"
       },
       {
-        "title": "我国牵头修订的放射性废物管理国际标准发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725414.shtml",
-        "publishedAt": "2026-11-03T16:49:55.000+08:00"
+        "title": "2026扬州大众文化“创享计划”发布 主题聚焦“让每一种表达都被看见”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725430.shtml",
+        "publishedAt": "2026-11-03T16:57:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T17:00:12.916+08:00",
+    "fetchedAt": "2026-11-03T17:10:03.932+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T17:00:17.507+08:00",
+      "fetchedAt": "2026-11-03T17:10:40.407+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T17:00:17.815+08:00",
+      "fetchedAt": "2026-11-03T17:10:40.724+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T17:00:17.819+08:00",
+      "fetchedAt": "2026-11-03T17:10:40.733+08:00",
       "error": null
     }
   }
