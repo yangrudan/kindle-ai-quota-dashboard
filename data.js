@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T20:40:08.653+08:00",
+  "updatedAt": "2026-11-03T20:50:38.855+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.8,
+    "tempC": 15.7,
     "feelsLikeC": 15.8,
     "humidity": 95,
-    "windKph": 10.7,
-    "windDir": "东风",
+    "windKph": 10.6,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-03T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T20:40:08.653+08:00",
+    "observedAt": "2026-11-03T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T20:50:38.856+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "千年妈祖信俗远播四海 “Z世代”接续讲好妈祖故事",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725544.shtml",
-        "publishedAt": "2026-11-03T20:30:03.000+08:00"
+        "title": "中国专利和商标审查“十五五”规划发布 到2030年审查能力全球领先",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725566.shtml",
+        "publishedAt": "2026-11-03T20:48:24.000+08:00"
       },
       {
-        "title": "青海启动青藏高原地球系统数据平台建设试点",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725531.shtml",
-        "publishedAt": "2026-11-03T20:23:10.000+08:00"
+        "title": "珍稀鸟类成常客 河北多地迎来候鸟迁徙高峰",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725536.shtml",
+        "publishedAt": "2026-11-03T20:48:14.000+08:00"
       },
       {
-        "title": "向海而生 向新而行丨智慧跃迁，从码头自动化到航运服务智慧化的津港实践",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725562.shtml",
-        "publishedAt": "2026-11-03T20:21:26.000+08:00"
+        "title": "中国东航原董事长刘绍勇一审获刑14年",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725535.shtml",
+        "publishedAt": "2026-11-03T20:47:52.000+08:00"
       },
       {
-        "title": "台湾教师扎根三明乡村 以设计创意推动闽台少数民族文化研究",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725528.shtml",
-        "publishedAt": "2026-11-03T20:17:52.000+08:00"
+        "title": "海口往返马来西亚定期客运航班提升至一周23班",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725588.shtml",
+        "publishedAt": "2026-11-03T20:47:24.000+08:00"
       },
       {
-        "title": "第九届敦煌文博会启幕：全球1200余名中外嘉宾共话文明互鉴",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209673.shtml",
-        "publishedAt": "2026-11-03T20:10:50.000+08:00"
+        "title": "“孙中山与台湾档案史料展”在北京开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725534.shtml",
+        "publishedAt": "2026-11-03T20:47:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T20:40:03.122+08:00",
+    "fetchedAt": "2026-11-03T20:50:03.398+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T20:40:07.262+08:00",
+      "fetchedAt": "2026-11-03T20:50:37.365+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T01:40:08.000+08:00"
+          "resetAt": "2026-11-04T01:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T20:40:07.629+08:00",
+      "fetchedAt": "2026-11-03T20:50:37.693+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T20:40:07.638+08:00",
+      "fetchedAt": "2026-11-03T20:50:37.702+08:00",
       "error": null
     }
   }
