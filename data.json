@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T06:40:09.158+08:00",
+  "updatedAt": "2026-11-04T06:50:10.073+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.8,
-    "feelsLikeC": 16.9,
+    "tempC": 15.9,
+    "feelsLikeC": 17,
     "humidity": 98,
-    "windKph": 4.9,
+    "windKph": 5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T06:40:09.158+08:00",
+    "observedAt": "2026-11-04T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-04T06:50:10.073+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊朗要求美明确回应7项条件 特朗普再次喊话不排除对伊动武",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725695.shtml",
+        "publishedAt": "2026-11-04T06:36:50.000+08:00"
+      },
       {
         "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
@@ -38,14 +43,9 @@
         "title": "CBA常规赛：山西队险胜新疆队取得三连胜",
         "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725691.shtml",
         "publishedAt": "2026-11-03T23:56:30.000+08:00"
-      },
-      {
-        "title": "对话敦煌：全球代表共话视听与艺术产业版权发展",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725690.shtml",
-        "publishedAt": "2026-11-03T23:55:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T06:40:03.122+08:00",
+    "fetchedAt": "2026-11-04T06:50:03.343+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T06:40:07.815+08:00",
+      "fetchedAt": "2026-11-04T06:50:07.661+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T11:40:09.000+08:00"
+          "resetAt": "2026-11-04T11:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T06:40:08.174+08:00",
+      "fetchedAt": "2026-11-04T06:50:08.053+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T06:40:08.179+08:00",
+      "fetchedAt": "2026-11-04T06:50:08.061+08:00",
       "error": null
     }
   }
