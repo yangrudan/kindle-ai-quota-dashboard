@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T17:30:10.964+08:00",
+  "updatedAt": "2026-11-03T17:40:16.072+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-03T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T17:30:10.964+08:00",
+    "fetchedAt": "2026-11-03T17:40:16.072+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第八届海南岛国际电影节推出国别与地区特别展映",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725438.shtml",
-        "publishedAt": "2026-11-03T17:13:50.000+08:00"
+        "title": "全球“熊猫伙伴”相聚成都 共话生态保护与绿色发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725445.shtml",
+        "publishedAt": "2026-11-03T17:34:45.000+08:00"
       },
       {
-        "title": "前三季度云南对东盟进出口1161亿元 创历史新高",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725436.shtml",
-        "publishedAt": "2026-11-03T17:13:46.000+08:00"
+        "title": "也门胡塞武装称也门多地遇袭致16死",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725440.shtml",
+        "publishedAt": "2026-11-03T17:34:25.000+08:00"
       },
       {
-        "title": "报告：粮食安全保障法实施取得阶段性成效",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725435.shtml",
-        "publishedAt": "2026-11-03T17:13:42.000+08:00"
+        "title": "2026年中国游戏IP市场规模预计接近3000亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725450.shtml",
+        "publishedAt": "2026-11-03T17:34:05.000+08:00"
       },
       {
-        "title": "莫迪警告：持续依赖化石燃料可能冲击全球经济",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725441.shtml",
-        "publishedAt": "2026-11-03T17:12:22.000+08:00"
+        "title": "2026澳大利亚群舞大赛在悉尼拉开帷幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725439.shtml",
+        "publishedAt": "2026-11-03T17:33:31.000+08:00"
       },
       {
-        "title": "第三届“超级枢纽博览会”在香港开幕 探索智慧机场等发展方向",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725437.shtml",
-        "publishedAt": "2026-11-03T17:11:30.000+08:00"
+        "title": "美媒称美军打击伊朗最大岛屿 卡塔尔代表团赴伊加紧斡旋",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725398.shtml",
+        "publishedAt": "2026-11-03T17:33:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T17:30:03.535+08:00",
+    "fetchedAt": "2026-11-03T17:40:03.718+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T17:30:07.949+08:00",
+      "fetchedAt": "2026-11-03T17:40:09.366+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T17:30:08.240+08:00",
+      "fetchedAt": "2026-11-03T17:40:14.437+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T17:30:08.250+08:00",
+      "fetchedAt": "2026-11-03T17:40:14.446+08:00",
       "error": null
     }
   }
