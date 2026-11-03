@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T00:30:09.754+08:00",
+  "updatedAt": "2026-11-04T00:40:10.917+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-04T00:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T00:30:09.754+08:00",
+    "fetchedAt": "2026-11-04T00:40:10.918+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
+        "publishedAt": "2026-11-04T00:28:50.000+08:00"
+      },
       {
         "title": "从价格到服务再到隐私保护 这份陪诊首项国标为你划重点",
         "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725693.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "对话敦煌：全球代表共话视听与艺术产业版权发展",
         "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725690.shtml",
         "publishedAt": "2026-11-03T23:55:54.000+08:00"
-      },
-      {
-        "title": "宁夏出台安全生产执法检查重点事项指导目录 规范精准执法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725689.shtml",
-        "publishedAt": "2026-11-03T23:55:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T00:30:04.174+08:00",
+    "fetchedAt": "2026-11-04T00:40:03.641+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T00:30:07.971+08:00",
+      "fetchedAt": "2026-11-04T00:40:09.333+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T05:30:09.000+08:00"
+          "resetAt": "2026-11-04T05:40:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T00:30:08.251+08:00",
+      "fetchedAt": "2026-11-04T00:40:09.663+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T00:30:08.259+08:00",
+      "fetchedAt": "2026-11-04T00:40:09.672+08:00",
       "error": null
     }
   }
