@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:50:38.855+08:00",
+  "updatedAt": "2026-11-03T21:00:17.302+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-03T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T20:50:38.856+08:00",
+    "fetchedAt": "2026-11-03T21:00:17.302+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国专利和商标审查“十五五”规划发布 到2030年审查能力全球领先",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725566.shtml",
-        "publishedAt": "2026-11-03T20:48:24.000+08:00"
+        "title": "澜湄六国青年创作百余条短视频 发出“相遇普洱”的云南之约",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725580.shtml",
+        "publishedAt": "2026-11-03T20:54:12.000+08:00"
       },
       {
-        "title": "珍稀鸟类成常客 河北多地迎来候鸟迁徙高峰",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725536.shtml",
-        "publishedAt": "2026-11-03T20:48:14.000+08:00"
+        "title": "合唱比赛唱响了，诚信却“跑调”了！22名学生集体退货引争议",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725589.shtml",
+        "publishedAt": "2026-11-03T20:53:28.000+08:00"
       },
       {
-        "title": "中国东航原董事长刘绍勇一审获刑14年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725535.shtml",
-        "publishedAt": "2026-11-03T20:47:52.000+08:00"
+        "title": "靶向开拓全球客源 吉林入境旅游提质提速升级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725578.shtml",
+        "publishedAt": "2026-11-03T20:52:40.000+08:00"
       },
       {
-        "title": "海口往返马来西亚定期客运航班提升至一周23班",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725588.shtml",
-        "publishedAt": "2026-11-03T20:47:24.000+08:00"
+        "title": "党的二十届五中全会《决定》是怎样诞生的",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725570.shtml",
+        "publishedAt": "2026-11-03T20:52:36.000+08:00"
       },
       {
-        "title": "“孙中山与台湾档案史料展”在北京开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725534.shtml",
-        "publishedAt": "2026-11-03T20:47:10.000+08:00"
+        "title": "2026年伦敦世界旅游交易会开幕 中国展区人气高",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209688.shtml",
+        "publishedAt": "2026-11-03T20:52:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T20:50:03.398+08:00",
+    "fetchedAt": "2026-11-03T21:00:12.201+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T20:50:37.365+08:00",
+      "fetchedAt": "2026-11-03T21:00:15.902+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T01:50:38.000+08:00"
+          "resetAt": "2026-11-04T02:00:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T20:50:37.693+08:00",
+      "fetchedAt": "2026-11-03T21:00:16.320+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T20:50:37.702+08:00",
+      "fetchedAt": "2026-11-03T21:00:16.324+08:00",
       "error": null
     }
   }
