@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T17:10:41.728+08:00",
+  "updatedAt": "2026-11-03T17:20:14.789+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
-    "tempC": 17,
-    "feelsLikeC": 18.1,
-    "humidity": 88,
-    "windKph": 3.3,
-    "windDir": "北风",
+    "tempC": 16.8,
+    "feelsLikeC": 18,
+    "humidity": 90,
+    "windKph": 3.7,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-03T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T17:10:41.728+08:00",
+    "observedAt": "2026-11-03T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T17:20:14.790+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "将军府里说家国，河巷村里建家园",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725433.shtml",
-        "publishedAt": "2026-11-03T17:02:10.000+08:00"
+        "title": "第八届海南岛国际电影节推出国别与地区特别展映",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725438.shtml",
+        "publishedAt": "2026-11-03T17:13:50.000+08:00"
       },
       {
-        "title": "受贿6750万余元 中国东航原党组书记、董事长刘绍勇一审被判十四年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725434.shtml",
-        "publishedAt": "2026-11-03T17:01:38.000+08:00"
+        "title": "前三季度云南对东盟进出口1161亿元 创历史新高",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725436.shtml",
+        "publishedAt": "2026-11-03T17:13:46.000+08:00"
       },
       {
-        "title": "金门民众亮身份证谈身份认同：金门属于福建，我们是中国人！",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725428.shtml",
-        "publishedAt": "2026-11-03T16:59:45.000+08:00"
+        "title": "报告：粮食安全保障法实施取得阶段性成效",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725435.shtml",
+        "publishedAt": "2026-11-03T17:13:42.000+08:00"
       },
       {
-        "title": "执法检查报告显示海南自贸港法治环境持续向好",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725432.shtml",
-        "publishedAt": "2026-11-03T16:59:29.000+08:00"
+        "title": "莫迪警告：持续依赖化石燃料可能冲击全球经济",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725441.shtml",
+        "publishedAt": "2026-11-03T17:12:22.000+08:00"
       },
       {
-        "title": "2026扬州大众文化“创享计划”发布 主题聚焦“让每一种表达都被看见”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725430.shtml",
-        "publishedAt": "2026-11-03T16:57:43.000+08:00"
+        "title": "第三届“超级枢纽博览会”在香港开幕 探索智慧机场等发展方向",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725437.shtml",
+        "publishedAt": "2026-11-03T17:11:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T17:10:03.932+08:00",
+    "fetchedAt": "2026-11-03T17:20:03.185+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T17:10:40.407+08:00",
+      "fetchedAt": "2026-11-03T17:20:07.300+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T17:10:40.724+08:00",
+      "fetchedAt": "2026-11-03T17:20:13.417+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T17:10:40.733+08:00",
+      "fetchedAt": "2026-11-03T17:20:13.421+08:00",
       "error": null
     }
   }
