@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T09:50:08.585+08:00",
+  "updatedAt": "2026-11-03T10:00:40.439+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.1,
-    "feelsLikeC": 16.8,
+    "tempC": 16.3,
+    "feelsLikeC": 17,
     "humidity": 83,
     "windKph": 2.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-03T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T09:50:08.586+08:00",
+    "observedAt": "2026-11-03T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T10:00:40.439+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一旦感染，终身携带！这种病毒进入高发期",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725159.shtml",
+        "publishedAt": "2026-11-03T09:52:10.000+08:00"
+      },
+      {
+        "title": "应对量子计算威胁 香港金管局与港科大推出后量子密码学工具包",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725131.shtml",
+        "publishedAt": "2026-11-03T09:49:06.000+08:00"
+      },
       {
         "title": "【这个城市有点潮】浙江乌镇：藏在千年古镇里的诗意与数字新风",
         "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209576.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026年世界互联网大会乌镇峰会今天开幕",
         "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725151.shtml",
         "publishedAt": "2026-11-03T09:38:42.000+08:00"
-      },
-      {
-        "title": "一条通道联通内外 一座车间共促增收 一处院落守望相伴 一条街巷交融共生",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725150.shtml",
-        "publishedAt": "2026-11-03T09:38:30.000+08:00"
-      },
-      {
-        "title": "青海省西宁市人大常委会原副主任林磊接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725147.shtml",
-        "publishedAt": "2026-11-03T09:34:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T09:50:03.585+08:00",
+    "fetchedAt": "2026-11-03T10:00:03.785+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T09:50:07.308+08:00",
+      "fetchedAt": "2026-11-03T10:00:38.873+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 14,
+          "usedPct": 17,
           "resetAt": "2026-11-03T14:30:49.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T09:50:07.591+08:00",
+      "fetchedAt": "2026-11-03T10:00:39.149+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T09:50:07.601+08:00",
+      "fetchedAt": "2026-11-03T10:00:39.162+08:00",
       "error": null
     }
   }
