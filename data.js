@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T19:30:39.662+08:00",
+  "updatedAt": "2026-11-03T19:40:08.204+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T19:30:39.662+08:00",
+    "fetchedAt": "2026-11-03T19:40:08.204+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "甘肃高校实训复刻矿山一线 以赛促教育匠才",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725509.shtml",
-        "publishedAt": "2026-11-03T19:23:09.000+08:00"
+        "title": "广东省足球青训中心揭牌成立",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725517.shtml",
+        "publishedAt": "2026-11-03T19:30:30.000+08:00"
       },
       {
-        "title": "从“挖煤”到“追光”：山西大同“源网荷储”蹚出新路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725507.shtml",
-        "publishedAt": "2026-11-03T19:22:43.000+08:00"
+        "title": "三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725516.shtml",
+        "publishedAt": "2026-11-03T19:30:26.000+08:00"
       },
       {
-        "title": "聚力打造全国火锅食材产业核心高地 重庆合川打好“三张牌”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725506.shtml",
-        "publishedAt": "2026-11-03T19:22:17.000+08:00"
+        "title": "宁夏：科普活动进校园 学生动手学科学",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725515.shtml",
+        "publishedAt": "2026-11-03T19:29:16.000+08:00"
       },
       {
-        "title": "中老缅泰四国海事部门海口共商澜湄技术规则更新修订",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725505.shtml",
-        "publishedAt": "2026-11-03T19:21:55.000+08:00"
+        "title": "广东佛山南海举办主题恳亲暨海外招商大会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725514.shtml",
+        "publishedAt": "2026-11-03T19:28:41.000+08:00"
       },
       {
-        "title": "第十届“一带一路”与西部发展研讨会在京举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725518.shtml",
-        "publishedAt": "2026-11-03T19:20:47.000+08:00"
+        "title": "大连商品交易所三个塑料月均价期货上市一年运行平稳",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725512.shtml",
+        "publishedAt": "2026-11-03T19:28:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T19:30:03.573+08:00",
+    "fetchedAt": "2026-11-03T19:40:03.134+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T19:30:38.079+08:00",
+      "fetchedAt": "2026-11-03T19:40:06.801+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 63,
-          "resetAt": "2026-11-03T19:31:52.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-04T00:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T19:30:38.469+08:00",
+      "fetchedAt": "2026-11-03T19:40:07.113+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T19:30:38.477+08:00",
+      "fetchedAt": "2026-11-03T19:40:07.122+08:00",
       "error": null
     }
   }
