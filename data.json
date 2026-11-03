@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:30:09.604+08:00",
+  "updatedAt": "2026-11-03T22:40:47.867+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T22:30:09.604+08:00",
+    "fetchedAt": "2026-11-03T22:40:47.868+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王毅同菲律宾外长拉扎罗通电话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725633.shtml",
+        "publishedAt": "2026-11-03T22:32:23.000+08:00"
+      },
       {
         "title": "学习贯彻党的二十届五中全会精神中央宣讲团首场报告会在京举行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725631.shtml",
@@ -38,14 +43,9 @@
         "title": "你的狂欢，凭什么堆在别人车上？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725629.shtml",
         "publishedAt": "2026-11-03T22:03:32.000+08:00"
-      },
-      {
-        "title": "浙江乌镇：中国首个开源主题生态体验馆引人关注",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725627.shtml",
-        "publishedAt": "2026-11-03T22:00:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T22:30:03.326+08:00",
+    "fetchedAt": "2026-11-03T22:40:12.205+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T22:30:08.192+08:00",
+      "fetchedAt": "2026-11-03T22:40:46.207+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T03:30:09.000+08:00"
+          "resetAt": "2026-11-04T03:40:47.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T22:30:08.552+08:00",
+      "fetchedAt": "2026-11-03T22:40:46.473+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T22:30:08.562+08:00",
+      "fetchedAt": "2026-11-03T22:40:46.478+08:00",
       "error": null
     }
   }
