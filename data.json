@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T10:20:41.109+08:00",
+  "updatedAt": "2026-11-03T10:30:43.249+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.5,
-    "feelsLikeC": 17.3,
-    "humidity": 82,
-    "windKph": 2.3,
+    "tempC": 16.7,
+    "feelsLikeC": 17.4,
+    "humidity": 81,
+    "windKph": 2.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-03T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T10:20:41.109+08:00",
+    "observedAt": "2026-11-03T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T10:30:43.249+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西藏洛扎：卡久景区生态文旅融合助推文旅产业发展",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725138.shtml",
-        "publishedAt": "2026-11-03T10:10:51.000+08:00"
+        "title": "带伞！今明两天江西大范围降雨持续 中北部部分地区有大雨",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725191.shtml",
+        "publishedAt": "2026-11-03T10:27:22.000+08:00"
       },
       {
-        "title": "消费者吐槽“棉服”里没有棉 专家表示聚酯纤维保暖性和耐用性更好",
-        "url": "https://www.chinanews.com.cn/life/2026/11-03/10725172.shtml",
-        "publishedAt": "2026-11-03T10:09:55.000+08:00"
+        "title": "黎族爱情传说经久不衰 境外媒体人探寻“爱”在三亚“鹿回头”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725183.shtml",
+        "publishedAt": "2026-11-03T10:27:18.000+08:00"
       },
       {
-        "title": "第五届大学转型发展研讨会共探人工智能驱动的高教变革",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725137.shtml",
-        "publishedAt": "2026-11-03T10:06:57.000+08:00"
+        "title": "陕西：击剑冠军走进校园 小剑手近距离感受击剑魅力",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725186.shtml",
+        "publishedAt": "2026-11-03T10:26:28.000+08:00"
       },
       {
-        "title": "直播：国家发改委就培育壮大新动能有关情况举行新闻发布会",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-03/10725162.shtml",
-        "publishedAt": "2026-11-03T10:06:13.000+08:00"
+        "title": "东莞民营企业家日·莞商（侨商）大会签约意向总金额近220亿元",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-03/10725144.shtml",
+        "publishedAt": "2026-11-03T10:25:28.000+08:00"
       },
       {
-        "title": "我国大熊猫圈养种群达830只",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725169.shtml",
-        "publishedAt": "2026-11-03T10:05:25.000+08:00"
+        "title": "广西引导强优民营企业助力向海经济高质量发展",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725145.shtml",
+        "publishedAt": "2026-11-03T10:23:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T10:20:04.221+08:00",
+    "fetchedAt": "2026-11-03T10:30:04.711+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T10:20:39.652+08:00",
+      "fetchedAt": "2026-11-03T10:30:41.375+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 31,
           "resetAt": "2026-11-03T14:30:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 45,
+          "usedPct": 46,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T10:20:39.933+08:00",
+      "fetchedAt": "2026-11-03T10:30:41.796+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T10:20:39.942+08:00",
+      "fetchedAt": "2026-11-03T10:30:41.805+08:00",
       "error": null
     }
   }
