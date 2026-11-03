@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T19:20:47.156+08:00",
+  "updatedAt": "2026-11-03T19:30:39.662+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
     "tempC": 16.1,
-    "feelsLikeC": 16.7,
+    "feelsLikeC": 16.5,
     "humidity": 95,
-    "windKph": 8.3,
+    "windKph": 9.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T19:20:47.156+08:00",
+    "observedAt": "2026-11-03T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T19:30:39.662+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "辽宁丹东百年银杏大道吸引游客",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725484.shtml",
-        "publishedAt": "2026-11-03T19:10:39.000+08:00"
+        "title": "甘肃高校实训复刻矿山一线 以赛促教育匠才",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725509.shtml",
+        "publishedAt": "2026-11-03T19:23:09.000+08:00"
       },
       {
-        "title": "七国入围！2036年奥运会将花落谁家？",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725513.shtml",
-        "publishedAt": "2026-11-03T19:09:08.000+08:00"
+        "title": "从“挖煤”到“追光”：山西大同“源网荷储”蹚出新路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725507.shtml",
+        "publishedAt": "2026-11-03T19:22:43.000+08:00"
       },
       {
-        "title": "第七届民族美术作品展览在呼和浩特开展",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725480.shtml",
-        "publishedAt": "2026-11-03T19:02:04.000+08:00"
+        "title": "聚力打造全国火锅食材产业核心高地 重庆合川打好“三张牌”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725506.shtml",
+        "publishedAt": "2026-11-03T19:22:17.000+08:00"
       },
       {
-        "title": "这些东西致癌，千万别囤了！快转给家人",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725508.shtml",
-        "publishedAt": "2026-11-03T19:00:28.000+08:00"
+        "title": "中老缅泰四国海事部门海口共商澜湄技术规则更新修订",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725505.shtml",
+        "publishedAt": "2026-11-03T19:21:55.000+08:00"
       },
       {
-        "title": "2026“一带一路”媒体合作论坛在福州举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725489.shtml",
-        "publishedAt": "2026-11-03T18:59:12.000+08:00"
+        "title": "第十届“一带一路”与西部发展研讨会在京举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725518.shtml",
+        "publishedAt": "2026-11-03T19:20:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T19:20:12.008+08:00",
+    "fetchedAt": "2026-11-03T19:30:03.573+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T19:20:45.639+08:00",
+      "fetchedAt": "2026-11-03T19:30:38.079+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T19:20:45.989+08:00",
+      "fetchedAt": "2026-11-03T19:30:38.469+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T19:20:45.992+08:00",
+      "fetchedAt": "2026-11-03T19:30:38.477+08:00",
       "error": null
     }
   }
