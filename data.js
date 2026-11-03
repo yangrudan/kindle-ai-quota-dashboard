@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T22:00:12.284+08:00",
+  "updatedAt": "2026-11-03T22:10:09.798+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-03T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T22:00:12.284+08:00",
+    "fetchedAt": "2026-11-03T22:10:09.798+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "九万余盆菊花铺满杭城 长三角菊花精品展在杭州启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725622.shtml",
-        "publishedAt": "2026-11-03T21:54:33.000+08:00"
+        "title": "王毅同菲律宾外长拉扎罗通电话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725628.shtml",
+        "publishedAt": "2026-11-03T21:58:38.000+08:00"
       },
       {
-        "title": "河北临漳韭菜香飘京津冀",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725616.shtml",
-        "publishedAt": "2026-11-03T21:53:05.000+08:00"
+        "title": "2026粤港澳大湾区全球招商大会在穗举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725626.shtml",
+        "publishedAt": "2026-11-03T21:58:10.000+08:00"
       },
       {
-        "title": "第九届“敦煌文博会”敦煌研究院“典范”“高地”建设成果展开展",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725605.shtml",
-        "publishedAt": "2026-11-03T21:51:19.000+08:00"
+        "title": "积极融入全国统一大市场建设 “十五五”时期重庆明确四项任务",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725624.shtml",
+        "publishedAt": "2026-11-03T21:57:26.000+08:00"
       },
       {
-        "title": "伊朗议长：伊朗民族不会屈服于敌人的威胁和军事行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725547.shtml",
-        "publishedAt": "2026-11-03T21:48:55.000+08:00"
+        "title": "2026中国广播电视精品报告发布活动在京举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725625.shtml",
+        "publishedAt": "2026-11-03T21:56:31.000+08:00"
       },
       {
-        "title": "东西问丨孔江平：普通话越来越普及，民族语言会消失吗？中国给出了答案",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-03/10725606.shtml",
-        "publishedAt": "2026-11-03T21:35:30.000+08:00"
+        "title": "香港故宫推出“清宫四时”展览 呈现宫廷四季生活轨迹",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725623.shtml",
+        "publishedAt": "2026-11-03T21:56:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T22:00:05.294+08:00",
+    "fetchedAt": "2026-11-03T22:10:03.719+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T22:00:09.574+08:00",
+      "fetchedAt": "2026-11-03T22:10:07.971+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T03:00:12.000+08:00"
+          "resetAt": "2026-11-04T03:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T22:00:09.929+08:00",
+      "fetchedAt": "2026-11-03T22:10:08.276+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T22:00:09.937+08:00",
+      "fetchedAt": "2026-11-03T22:10:08.284+08:00",
       "error": null
     }
   }
