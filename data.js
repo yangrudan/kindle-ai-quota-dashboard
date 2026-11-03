@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T19:50:08.578+08:00",
+  "updatedAt": "2026-11-03T20:00:40.473+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 16.1,
-    "feelsLikeC": 16.3,
+    "feelsLikeC": 16.2,
     "humidity": 94,
-    "windKph": 10.4,
+    "windKph": 11,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T19:50:08.578+08:00",
+    "observedAt": "2026-11-03T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T20:00:40.473+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东省足球青训中心揭牌成立",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725517.shtml",
-        "publishedAt": "2026-11-03T19:30:30.000+08:00"
+        "title": "王毅会见泰国副总理兼外长：愿与泰方深化互利合作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725523.shtml",
+        "publishedAt": "2026-11-03T19:55:53.000+08:00"
       },
       {
-        "title": "三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725516.shtml",
-        "publishedAt": "2026-11-03T19:30:26.000+08:00"
+        "title": "王毅会见老挝副总理兼外长通沙万",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725524.shtml",
+        "publishedAt": "2026-11-03T19:55:39.000+08:00"
       },
       {
-        "title": "宁夏：科普活动进校园 学生动手学科学",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725515.shtml",
-        "publishedAt": "2026-11-03T19:29:16.000+08:00"
+        "title": "王毅：中缅双方要加大打击网赌电诈力度",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725522.shtml",
+        "publishedAt": "2026-11-03T19:55:31.000+08:00"
       },
       {
-        "title": "广东佛山南海举办主题恳亲暨海外招商大会",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725514.shtml",
-        "publishedAt": "2026-11-03T19:28:41.000+08:00"
+        "title": "最高检报告：对内资外资、国企民企、中外权利人一视同仁对待",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725529.shtml",
+        "publishedAt": "2026-11-03T19:49:37.000+08:00"
       },
       {
-        "title": "大连商品交易所三个塑料月均价期货上市一年运行平稳",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725512.shtml",
-        "publishedAt": "2026-11-03T19:28:09.000+08:00"
+        "title": "九赴进博，拜耳处方药深植“创新之树”，共筑“健康中国”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725526.shtml",
+        "publishedAt": "2026-11-03T19:48:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T19:50:03.695+08:00",
+    "fetchedAt": "2026-11-03T20:00:04.473+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T19:50:07.325+08:00",
+      "fetchedAt": "2026-11-03T20:00:38.845+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T00:50:08.000+08:00"
+          "resetAt": "2026-11-04T01:00:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T19:50:07.626+08:00",
+      "fetchedAt": "2026-11-03T20:00:39.222+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T19:50:07.636+08:00",
+      "fetchedAt": "2026-11-03T20:00:39.226+08:00",
       "error": null
     }
   }
