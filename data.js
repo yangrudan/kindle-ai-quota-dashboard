@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T16:10:18.996+08:00",
+  "updatedAt": "2026-11-03T16:20:38.329+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 17.8,
-    "feelsLikeC": 18.1,
-    "humidity": 78,
-    "windKph": 6.1,
+    "description": "阵雨",
+    "iconKey": "rain",
+    "tempC": 17.6,
+    "feelsLikeC": 18.2,
+    "humidity": 80,
+    "windKph": 5.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T16:10:18.996+08:00",
+    "observedAt": "2026-11-03T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T16:20:38.329+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "先行先试 内蒙古打造向北开放新高地",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725366.shtml",
-        "publishedAt": "2026-11-03T15:59:26.000+08:00"
+        "title": "尺素金声丨利润增长15.5%，折射产业结构向新向优向好",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725378.shtml",
+        "publishedAt": "2026-11-03T16:15:21.000+08:00"
       },
       {
-        "title": "黑龙江百余名小学教师研修人工智能通识课",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725369.shtml",
-        "publishedAt": "2026-11-03T15:58:40.000+08:00"
+        "title": "联合国第十五届能源可持续发展国际论坛西安启幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725371.shtml",
+        "publishedAt": "2026-11-03T16:14:39.000+08:00"
       },
       {
-        "title": "第五届中国整形外科与再生医学发展大会在京举办",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725338.shtml",
-        "publishedAt": "2026-11-03T15:56:28.000+08:00"
+        "title": "餐盘里的“共治”：江西德兴守护学子“舌尖暖意”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725373.shtml",
+        "publishedAt": "2026-11-03T16:10:03.000+08:00"
       },
       {
-        "title": "平安有“数”：从三个“一”看水乡乌镇",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725343.shtml",
-        "publishedAt": "2026-11-03T15:52:16.000+08:00"
+        "title": "伊朗：首支“为伊朗捐躯”旅完成组建",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725367.shtml",
+        "publishedAt": "2026-11-03T16:06:11.000+08:00"
       },
       {
-        "title": "中方：将始终尊重各国网络安全合理关切，反对构筑“数字铁幕”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725358.shtml",
-        "publishedAt": "2026-11-03T15:49:02.000+08:00"
+        "title": "警方通报九寨沟景区游客冲突事件",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725330.shtml",
+        "publishedAt": "2026-11-03T16:06:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T16:10:12.706+08:00",
+    "fetchedAt": "2026-11-03T16:20:03.758+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T16:10:17.729+08:00",
+      "fetchedAt": "2026-11-03T16:20:36.966+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T16:10:17.914+08:00",
+      "fetchedAt": "2026-11-03T16:20:37.220+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T16:10:17.919+08:00",
+      "fetchedAt": "2026-11-03T16:20:37.230+08:00",
       "error": null
     }
   }
