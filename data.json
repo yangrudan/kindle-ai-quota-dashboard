@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T23:40:08.765+08:00",
+  "updatedAt": "2026-11-03T23:50:08.591+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15.6,
-    "feelsLikeC": 16.6,
+    "feelsLikeC": 16.3,
     "humidity": 97,
-    "windKph": 5,
+    "windKph": 6.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T23:40:08.765+08:00",
+    "observedAt": "2026-11-03T23:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T23:50:08.592+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "宁夏特色农产品亮相全国粮油和大豆产业博览会 产销对接收获颇丰",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725666.shtml",
-        "publishedAt": "2026-11-03T23:35:53.000+08:00"
+        "title": "昆明长水国际机场T2航站楼主体混凝土结构实现全面封顶",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725678.shtml",
+        "publishedAt": "2026-11-03T23:47:03.000+08:00"
       },
       {
-        "title": "海南侨乡万宁兴隆咖啡 “买全球、卖全球”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725665.shtml",
-        "publishedAt": "2026-11-03T23:35:19.000+08:00"
+        "title": "河北邯郸广平“带汁肉”：百年老味传承乡土记忆",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725677.shtml",
+        "publishedAt": "2026-11-03T23:45:33.000+08:00"
       },
       {
-        "title": "数字科技激活苗乡文化 湖南城步拓展文旅融合新场景",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725664.shtml",
-        "publishedAt": "2026-11-03T23:33:41.000+08:00"
+        "title": "泰国（第四届）HSK留学中国与就业展在曼谷举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725676.shtml",
+        "publishedAt": "2026-11-03T23:44:37.000+08:00"
       },
       {
-        "title": "浙江海事金融探索迎新突破 落地首笔自贸区船舶授信业务",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725661.shtml",
-        "publishedAt": "2026-11-03T23:31:19.000+08:00"
+        "title": "麦后复种油葵测产喜获佳绩 引黄灌区一地双收拓宽增收路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725675.shtml",
+        "publishedAt": "2026-11-03T23:43:51.000+08:00"
       },
       {
-        "title": "香港机管局与土耳其航空签署谅解备忘录",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725660.shtml",
-        "publishedAt": "2026-11-03T23:29:50.000+08:00"
+        "title": "一栋楼链全球 广州南沙打造跨境贸易“一站式”出海枢纽",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725673.shtml",
+        "publishedAt": "2026-11-03T23:43:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T23:40:03.178+08:00",
+    "fetchedAt": "2026-11-03T23:50:03.300+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T23:40:07.480+08:00",
+      "fetchedAt": "2026-11-03T23:50:07.203+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T04:40:08.000+08:00"
+          "resetAt": "2026-11-04T04:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T23:40:07.737+08:00",
+      "fetchedAt": "2026-11-03T23:50:07.457+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T23:40:07.746+08:00",
+      "fetchedAt": "2026-11-03T23:50:07.463+08:00",
       "error": null
     }
   }
