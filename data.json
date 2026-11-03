@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T07:00:27.241+08:00",
+  "updatedAt": "2026-11-04T07:10:43.215+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-04T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T07:00:27.241+08:00",
+    "fetchedAt": "2026-11-04T07:10:43.215+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "旅俄侨界举行纪念孙中山先生诞辰160周年座谈会",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-04/10725699.shtml",
+        "publishedAt": "2026-11-04T07:01:39.000+08:00"
+      },
+      {
+        "title": "德总理默茨重申德国将继续支持乌克兰",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725698.shtml",
+        "publishedAt": "2026-11-04T07:01:17.000+08:00"
+      },
+      {
+        "title": "叶玉如获得联合国教科文组织国际生命科学研究奖",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725697.shtml",
+        "publishedAt": "2026-11-04T07:00:43.000+08:00"
+      },
       {
         "title": "11月4日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725707.shtml",
@@ -28,24 +43,9 @@
         "title": "10月份中国仓储指数为49.8%",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725701.shtml",
         "publishedAt": "2026-11-04T06:54:15.000+08:00"
-      },
-      {
-        "title": "中国微短剧何以全球“圈粉”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725696.shtml",
-        "publishedAt": "2026-11-04T06:51:45.000+08:00"
-      },
-      {
-        "title": "伊朗要求美明确回应7项条件 特朗普再次喊话不排除对伊动武",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725695.shtml",
-        "publishedAt": "2026-11-04T06:36:50.000+08:00"
-      },
-      {
-        "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
-        "publishedAt": "2026-11-04T00:28:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T07:00:19.735+08:00",
+    "fetchedAt": "2026-11-04T07:10:05.779+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T07:00:25.711+08:00",
+      "fetchedAt": "2026-11-04T07:10:41.858+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T12:00:27.000+08:00"
+          "resetAt": "2026-11-04T12:10:43.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T07:00:25.984+08:00",
+      "fetchedAt": "2026-11-04T07:10:42.193+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T07:00:25.993+08:00",
+      "fetchedAt": "2026-11-04T07:10:42.200+08:00",
       "error": null
     }
   }
