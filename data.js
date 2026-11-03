@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T09:10:08.455+08:00",
+  "updatedAt": "2026-11-03T09:20:47.434+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-03T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T09:10:08.455+08:00",
+    "fetchedAt": "2026-11-03T09:20:47.434+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "走一条被文物“打开”的长征路|文化中国行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725121.shtml",
+        "publishedAt": "2026-11-03T09:10:26.000+08:00"
+      },
+      {
+        "title": "第九届进博会新闻中心今天正式启用",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725120.shtml",
+        "publishedAt": "2026-11-03T09:05:12.000+08:00"
+      },
+      {
+        "title": "智慧斑马线、会飞的救生圈 看乌镇峰会的“黑科技”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725119.shtml",
+        "publishedAt": "2026-11-03T09:05:04.000+08:00"
+      },
       {
         "title": "青山太极 跨越山海的文化共鸣",
         "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725115.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "南方降雨增强局地有暴雨 北方气温走势将现转折",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725113.shtml",
         "publishedAt": "2026-11-03T09:02:30.000+08:00"
-      },
-      {
-        "title": "转型升级，传统产业如何“不烧心”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725118.shtml",
-        "publishedAt": "2026-11-03T09:00:27.000+08:00"
-      },
-      {
-        "title": "大河新绿",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725114.shtml",
-        "publishedAt": "2026-11-03T08:57:27.000+08:00"
-      },
-      {
-        "title": "力箭二号遥二运载火箭发射成功",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725111.shtml",
-        "publishedAt": "2026-11-03T08:50:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T09:10:02.985+08:00",
+    "fetchedAt": "2026-11-03T09:20:12.372+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T09:10:07.118+08:00",
+      "fetchedAt": "2026-11-03T09:20:46.175+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T14:10:08.000+08:00"
+          "resetAt": "2026-11-03T14:20:47.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T09:10:07.392+08:00",
+      "fetchedAt": "2026-11-03T09:20:46.467+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T09:10:07.400+08:00",
+      "fetchedAt": "2026-11-03T09:20:46.477+08:00",
       "error": null
     }
   }
