@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T23:10:08.753+08:00",
+  "updatedAt": "2026-11-03T23:20:08.987+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
     "tempC": 15.6,
-    "feelsLikeC": 16.8,
+    "feelsLikeC": 16.7,
     "humidity": 97,
-    "windKph": 3.2,
-    "windDir": "东风",
+    "windKph": 3.7,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-03T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T23:10:08.754+08:00",
+    "observedAt": "2026-11-03T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T23:20:08.987+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（机遇香港）试点“港通天下” 香港助力国家航空网络发展再提速",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725640.shtml",
+        "publishedAt": "2026-11-03T23:15:42.000+08:00"
+      },
+      {
+        "title": "乌镇峰会观察：中国开源AI大模型持续“圈粉”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725639.shtml",
+        "publishedAt": "2026-11-03T23:10:51.000+08:00"
+      },
+      {
+        "title": "幽门螺杆菌没症状≠不用治！查出阳性应及时找医生评估",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725663.shtml",
+        "publishedAt": "2026-11-03T23:10:11.000+08:00"
+      },
+      {
+        "title": "京港两地签署备忘录深化商务领域合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725650.shtml",
+        "publishedAt": "2026-11-03T23:08:33.000+08:00"
+      },
+      {
         "title": "上海联交所：一年多来助中国18个省份68家产废企业成交超3500万吨工业固废",
         "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725648.shtml",
         "publishedAt": "2026-11-03T22:58:33.000+08:00"
-      },
-      {
-        "title": "特朗普称将停止向以色列提供每年总额约40亿美元的军援",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725649.shtml",
-        "publishedAt": "2026-11-03T22:57:43.000+08:00"
-      },
-      {
-        "title": "香港5所高校跻身2027年QS亚洲十强",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725638.shtml",
-        "publishedAt": "2026-11-03T22:54:09.000+08:00"
-      },
-      {
-        "title": "骗子冒充公检法“接力”演戏 银行柜员报警保住养老钱",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725647.shtml",
-        "publishedAt": "2026-11-03T22:52:02.000+08:00"
-      },
-      {
-        "title": "从悬崖到杯中 广西平乐千年石崖茶成新式茶饮“黄金配角”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725643.shtml",
-        "publishedAt": "2026-11-03T22:47:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T23:10:02.833+08:00",
+    "fetchedAt": "2026-11-03T23:20:03.425+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T23:10:07.396+08:00",
+      "fetchedAt": "2026-11-03T23:20:07.520+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T04:10:08.000+08:00"
+          "resetAt": "2026-11-04T04:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T23:10:07.673+08:00",
+      "fetchedAt": "2026-11-03T23:20:07.913+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T23:10:07.682+08:00",
+      "fetchedAt": "2026-11-03T23:20:07.918+08:00",
       "error": null
     }
   }
