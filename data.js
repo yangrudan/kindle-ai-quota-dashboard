@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T11:30:20.905+08:00",
+  "updatedAt": "2026-11-03T11:40:20.865+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T11:30:20.906+08:00",
+    "fetchedAt": "2026-11-03T11:40:20.865+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新疆：乳业“智造”工厂助力经济高质量发展",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209606.shtml",
+        "publishedAt": "2026-11-03T11:34:13.000+08:00"
+      },
+      {
+        "title": "中国气象局发布今冬明春气候预测 最强厄尔尼诺事件影响明显",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725225.shtml",
+        "publishedAt": "2026-11-03T11:32:04.000+08:00"
+      },
+      {
+        "title": "FBI声称朝鲜支援黑客盗窃加密货币 金与正：这是美国对朝严重政治挑衅",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725227.shtml",
+        "publishedAt": "2026-11-03T11:27:05.000+08:00"
+      },
       {
         "title": "雨连连！今明天南方降雨将增多增强 6日至8日新一轮降雨发展",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725222.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "贵州省贵阳市政府原党组成员、副市长高杨被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725218.shtml",
         "publishedAt": "2026-11-03T11:14:15.000+08:00"
-      },
-      {
-        "title": "中国气象局：11月气候趋势预测建议重点关注四个方面",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725217.shtml",
-        "publishedAt": "2026-11-03T11:12:43.000+08:00"
-      },
-      {
-        "title": "捐赠178.5万元！广东侨心基金会助力阳江医教提质",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725205.shtml",
-        "publishedAt": "2026-11-03T11:12:35.000+08:00"
-      },
-      {
-        "title": "吉林省促进“两个健康”综合服务平台宣传推广暨民营企业诉求收集办理培训班在长春举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725204.shtml",
-        "publishedAt": "2026-11-03T11:10:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T11:30:03.423+08:00",
+    "fetchedAt": "2026-11-03T11:40:04.407+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T11:30:08.328+08:00",
+      "fetchedAt": "2026-11-03T11:40:19.458+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 63,
+          "usedPct": 69,
           "resetAt": "2026-11-03T14:30:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 51,
+          "usedPct": 52,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T11:30:08.945+08:00",
+      "fetchedAt": "2026-11-03T11:40:19.743+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T11:30:08.948+08:00",
+      "fetchedAt": "2026-11-03T11:40:19.748+08:00",
       "error": null
     }
   }
