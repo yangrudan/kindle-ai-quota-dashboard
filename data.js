@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T22:50:09.089+08:00",
+  "updatedAt": "2026-11-03T23:00:10.490+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
     "tempC": 15.6,
-    "feelsLikeC": 16.6,
+    "feelsLikeC": 16.8,
     "humidity": 97,
-    "windKph": 4.5,
+    "windKph": 3.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T22:50:09.090+08:00",
+    "observedAt": "2026-11-03T23:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T23:00:10.490+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香港财库局局长：香港可为内地企业“出海”提供全链条金融支持",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725635.shtml",
-        "publishedAt": "2026-11-03T22:44:36.000+08:00"
+        "title": "香港5所高校跻身2027年QS亚洲十强",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725638.shtml",
+        "publishedAt": "2026-11-03T22:54:09.000+08:00"
       },
       {
-        "title": "（机遇香港）国际金融领袖齐聚香江 持续看好香港金融动能",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725634.shtml",
-        "publishedAt": "2026-11-03T22:43:28.000+08:00"
+        "title": "骗子冒充公检法“接力”演戏 银行柜员报警保住养老钱",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725647.shtml",
+        "publishedAt": "2026-11-03T22:52:02.000+08:00"
       },
       {
-        "title": "王毅同菲律宾外长拉扎罗通电话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725633.shtml",
-        "publishedAt": "2026-11-03T22:32:23.000+08:00"
+        "title": "从悬崖到杯中 广西平乐千年石崖茶成新式茶饮“黄金配角”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725643.shtml",
+        "publishedAt": "2026-11-03T22:47:40.000+08:00"
       },
       {
-        "title": "学习贯彻党的二十届五中全会精神中央宣讲团首场报告会在京举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725631.shtml",
-        "publishedAt": "2026-11-03T22:13:32.000+08:00"
+        "title": "国家能源集团：全力做好迎峰度冬时期能源保供工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725637.shtml",
+        "publishedAt": "2026-11-03T22:46:18.000+08:00"
       },
       {
-        "title": "新疆：探索绿色算力发展新路径",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209693.shtml",
-        "publishedAt": "2026-11-03T22:13:21.000+08:00"
+        "title": "为飞机心脏的心脏“加油” 中国航发红林实现动力控制系统产品全覆盖",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725636.shtml",
+        "publishedAt": "2026-11-03T22:45:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T22:50:03.233+08:00",
+    "fetchedAt": "2026-11-03T23:00:03.933+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T22:50:07.643+08:00",
+      "fetchedAt": "2026-11-03T23:00:08.473+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T03:50:09.000+08:00"
+          "resetAt": "2026-11-04T04:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T22:50:07.994+08:00",
+      "fetchedAt": "2026-11-03T23:00:08.833+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T22:50:08.002+08:00",
+      "fetchedAt": "2026-11-03T23:00:08.843+08:00",
       "error": null
     }
   }
