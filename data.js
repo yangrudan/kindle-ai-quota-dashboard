@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T12:20:19.315+08:00",
+  "updatedAt": "2026-11-03T12:30:16.098+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
-    "feelsLikeC": 17.2,
-    "humidity": 74,
-    "windKph": 6.1,
+    "tempC": 17.5,
+    "feelsLikeC": 17.4,
+    "humidity": 72,
+    "windKph": 6.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T12:20:19.315+08:00",
+    "observedAt": "2026-11-03T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T12:30:16.098+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“粗碳”到“细碳”：老工业基地吉林造“能上天的丝”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725246.shtml",
+        "publishedAt": "2026-11-03T12:16:58.000+08:00"
+      },
+      {
+        "title": "欣欣教育基金会理事长丁永庆：“我在与时间赛跑”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-03/10725244.shtml",
+        "publishedAt": "2026-11-03T12:16:18.000+08:00"
+      },
+      {
+        "title": "海南创新实施“人工智能+普法”赋能自贸港网络法治宣传",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725243.shtml",
+        "publishedAt": "2026-11-03T12:15:08.000+08:00"
+      },
       {
         "title": "海南聚焦青少年法治教育 织密家校社协同防护网",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725242.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "一滴牛奶的智能旅途：探秘新疆乳制品企业的智慧工厂",
         "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725241.shtml",
         "publishedAt": "2026-11-03T12:13:54.000+08:00"
-      },
-      {
-        "title": "郑州至英国东米德兰兹直飞货运航线开通",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725240.shtml",
-        "publishedAt": "2026-11-03T12:13:48.000+08:00"
-      },
-      {
-        "title": "蹴球、高脚、押加……一场需要被“翻译”的运动会",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725238.shtml",
-        "publishedAt": "2026-11-03T12:12:48.000+08:00"
-      },
-      {
-        "title": "陕西省青少年艺术体操冠军赛落幕 百余选手同台演绎“毯上芭蕾”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725233.shtml",
-        "publishedAt": "2026-11-03T12:12:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T12:20:12.847+08:00",
+    "fetchedAt": "2026-11-03T12:30:05.339+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T12:20:17.167+08:00",
+      "fetchedAt": "2026-11-03T12:30:14.706+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T12:20:17.391+08:00",
+      "fetchedAt": "2026-11-03T12:30:14.898+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T12:20:17.400+08:00",
+      "fetchedAt": "2026-11-03T12:30:14.908+08:00",
       "error": null
     }
   }
