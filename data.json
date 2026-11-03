@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T15:40:09.203+08:00",
+  "updatedAt": "2026-11-03T15:50:39.475+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
+    "tempC": 17.8,
     "feelsLikeC": 18,
     "humidity": 78,
     "windKph": 6.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T15:40:09.204+08:00",
+    "observedAt": "2026-11-03T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T15:50:39.475+08:00",
     "error": null
   },
   "news": {
@@ -40,12 +40,12 @@
         "publishedAt": "2026-11-03T15:30:29.000+08:00"
       },
       {
-        "title": "韩总统李在明等168人信息遭大规模泄露 韩政府回应",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725335.shtml",
-        "publishedAt": "2026-11-03T15:26:04.000+08:00"
+        "title": "总书记重要指示为开创黄河保护治理工作新局面凝聚力量",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725342.shtml",
+        "publishedAt": "2026-11-03T15:27:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T15:40:03.634+08:00",
+    "fetchedAt": "2026-11-03T15:50:03.829+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T15:40:07.883+08:00",
+      "fetchedAt": "2026-11-03T15:50:37.861+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T15:40:08.129+08:00",
+      "fetchedAt": "2026-11-03T15:50:38.041+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T15:40:08.139+08:00",
+      "fetchedAt": "2026-11-03T15:50:38.050+08:00",
       "error": null
     }
   }
