@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T06:50:10.073+08:00",
+  "updatedAt": "2026-11-04T07:00:27.241+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.9,
-    "feelsLikeC": 17,
-    "humidity": 98,
-    "windKph": 5,
+    "tempC": 16,
+    "feelsLikeC": 17.2,
+    "humidity": 97,
+    "windKph": 4.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T06:50:10.073+08:00",
+    "observedAt": "2026-11-04T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T07:00:27.241+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月4日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725707.shtml",
+        "publishedAt": "2026-11-04T06:56:23.000+08:00"
+      },
+      {
+        "title": "10月份中国仓储指数为49.8%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725701.shtml",
+        "publishedAt": "2026-11-04T06:54:15.000+08:00"
+      },
+      {
+        "title": "中国微短剧何以全球“圈粉”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725696.shtml",
+        "publishedAt": "2026-11-04T06:51:45.000+08:00"
+      },
       {
         "title": "伊朗要求美明确回应7项条件 特朗普再次喊话不排除对伊动武",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725695.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
         "publishedAt": "2026-11-04T00:28:50.000+08:00"
-      },
-      {
-        "title": "从价格到服务再到隐私保护 这份陪诊首项国标为你划重点",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725693.shtml",
-        "publishedAt": "2026-11-04T00:27:14.000+08:00"
-      },
-      {
-        "title": "2026年中亚经济合作天山论坛在哈萨克斯坦举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725692.shtml",
-        "publishedAt": "2026-11-03T23:57:10.000+08:00"
-      },
-      {
-        "title": "CBA常规赛：山西队险胜新疆队取得三连胜",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725691.shtml",
-        "publishedAt": "2026-11-03T23:56:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T06:50:03.343+08:00",
+    "fetchedAt": "2026-11-04T07:00:19.735+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T06:50:07.661+08:00",
+      "fetchedAt": "2026-11-04T07:00:25.711+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T11:50:08.000+08:00"
+          "resetAt": "2026-11-04T12:00:27.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T06:50:08.053+08:00",
+      "fetchedAt": "2026-11-04T07:00:25.984+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T06:50:08.061+08:00",
+      "fetchedAt": "2026-11-04T07:00:25.993+08:00",
       "error": null
     }
   }
