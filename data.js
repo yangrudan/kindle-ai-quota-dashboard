@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T12:50:09.721+08:00",
+  "updatedAt": "2026-11-03T13:00:17.734+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T12:50:09.722+08:00",
+    "fetchedAt": "2026-11-03T13:00:17.734+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（走进中国乡村）乐园“携手”田园：“中国主题乐园第一县”激活乡村农文旅",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725257.shtml",
+        "publishedAt": "2026-11-03T12:51:46.000+08:00"
+      },
+      {
+        "title": "台湾“学长”的武汉“青春早餐店”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725256.shtml",
+        "publishedAt": "2026-11-03T12:48:34.000+08:00"
+      },
+      {
+        "title": "国务院免去何永贤香港特别行政区政府房屋局局长职务",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725255.shtml",
+        "publishedAt": "2026-11-03T12:47:54.000+08:00"
+      },
       {
         "title": "哈尔滨迎今秋首场降雪",
         "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725231.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "“粗碳”到“细碳”：老工业基地吉林造“能上天的丝”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725246.shtml",
         "publishedAt": "2026-11-03T12:16:58.000+08:00"
-      },
-      {
-        "title": "欣欣教育基金会理事长丁永庆：“我在与时间赛跑”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-03/10725244.shtml",
-        "publishedAt": "2026-11-03T12:16:18.000+08:00"
-      },
-      {
-        "title": "海南创新实施“人工智能+普法”赋能自贸港网络法治宣传",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725243.shtml",
-        "publishedAt": "2026-11-03T12:15:08.000+08:00"
-      },
-      {
-        "title": "海南聚焦青少年法治教育 织密家校社协同防护网",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725242.shtml",
-        "publishedAt": "2026-11-03T12:14:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T12:50:03.985+08:00",
+    "fetchedAt": "2026-11-03T13:00:12.200+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T12:50:08.105+08:00",
+      "fetchedAt": "2026-11-03T13:00:16.349+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T12:50:08.335+08:00",
+      "fetchedAt": "2026-11-03T13:00:16.518+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T12:50:08.339+08:00",
+      "fetchedAt": "2026-11-03T13:00:16.527+08:00",
       "error": null
     }
   }
