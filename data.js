@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T07:10:43.215+08:00",
+  "updatedAt": "2026-11-04T07:20:47.971+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-04T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T07:10:43.215+08:00",
+    "fetchedAt": "2026-11-04T07:20:47.971+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "旅俄侨界举行纪念孙中山先生诞辰160周年座谈会",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-04/10725699.shtml",
-        "publishedAt": "2026-11-04T07:01:39.000+08:00"
+        "title": "欧洲多架客机及一艘邮轮遭炸弹威胁",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725708.shtml",
+        "publishedAt": "2026-11-04T07:07:04.000+08:00"
       },
       {
-        "title": "德总理默茨重申德国将继续支持乌克兰",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725698.shtml",
-        "publishedAt": "2026-11-04T07:01:17.000+08:00"
+        "title": "印尼警方：3人因涉嫌窃听总统被列为犯罪嫌疑人",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725702.shtml",
+        "publishedAt": "2026-11-04T07:06:16.000+08:00"
       },
       {
-        "title": "叶玉如获得联合国教科文组织国际生命科学研究奖",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725697.shtml",
-        "publishedAt": "2026-11-04T07:00:43.000+08:00"
+        "title": "CBA常规赛：辽宁队险胜广州队 赢下第一阶段收官战",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725704.shtml",
+        "publishedAt": "2026-11-04T07:05:48.000+08:00"
       },
       {
-        "title": "11月4日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725707.shtml",
-        "publishedAt": "2026-11-04T06:56:23.000+08:00"
+        "title": "泰国将进口电动汽车消费税税率上调至35%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725705.shtml",
+        "publishedAt": "2026-11-04T07:04:54.000+08:00"
       },
       {
-        "title": "10月份中国仓储指数为49.8%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725701.shtml",
-        "publishedAt": "2026-11-04T06:54:15.000+08:00"
+        "title": "柬埔寨将在全国200所公立中小学校试行全日制教学",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725706.shtml",
+        "publishedAt": "2026-11-04T07:04:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T07:10:05.779+08:00",
+    "fetchedAt": "2026-11-04T07:20:12.309+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T07:10:41.858+08:00",
+      "fetchedAt": "2026-11-04T07:20:45.750+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T12:10:43.000+08:00"
+          "resetAt": "2026-11-04T12:20:47.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T07:10:42.193+08:00",
+      "fetchedAt": "2026-11-04T07:20:46.565+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T07:10:42.200+08:00",
+      "fetchedAt": "2026-11-04T07:20:46.573+08:00",
       "error": null
     }
   }
