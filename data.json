@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T15:10:17.837+08:00",
+  "updatedAt": "2026-11-03T15:20:46.348+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
+    "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 17.6,
-    "feelsLikeC": 17.9,
-    "humidity": 79,
-    "windKph": 6.1,
-    "windDir": "东风",
+    "tempC": 16.3,
+    "feelsLikeC": 17.5,
+    "humidity": 93,
+    "windKph": 3,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-03T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T15:10:17.837+08:00",
+    "observedAt": "2026-11-03T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T15:20:46.348+08:00",
     "error": null
   },
   "news": {
@@ -22,30 +22,30 @@
       {
         "title": "东西问丨伊扎特·萨阿德：全球南方现代化如何抓住AI机遇？",
         "url": "https://www.chinanews.com.cn/dxw/2026/11-03/10725312.shtml",
-        "publishedAt": "2026-11-03T15:00:29.000+08:00"
+        "publishedAt": "2026-11-03T15:05:01.000+08:00"
       },
       {
-        "title": "中国央行决定上调金融机构外汇存款准备金率至6%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725306.shtml",
-        "publishedAt": "2026-11-03T14:58:53.000+08:00"
+        "title": "2026长三角“科普星人充电站”活动在沪启动 首发科普创作智能体",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725303.shtml",
+        "publishedAt": "2026-11-03T15:05:01.000+08:00"
       },
       {
-        "title": "从“一杆枪”到“一张网” ：“神威导弹营”转型砺“新威”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725305.shtml",
-        "publishedAt": "2026-11-03T14:58:13.000+08:00"
+        "title": "山东职业院校深耕劳动教育 立足实践培育高素质技能人才",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725328.shtml",
+        "publishedAt": "2026-11-03T15:02:43.000+08:00"
       },
       {
-        "title": "攻击-21成功起降四川舰，“无人机航母时代”正在到来？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725319.shtml",
-        "publishedAt": "2026-11-03T14:56:55.000+08:00"
+        "title": "重庆党外专家服务团为特色产业“把脉开方”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725337.shtml",
+        "publishedAt": "2026-11-03T15:01:53.000+08:00"
       },
       {
-        "title": "西藏大学联合上海交通大学开展巡边实践活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725334.shtml",
-        "publishedAt": "2026-11-03T14:55:07.000+08:00"
+        "title": "西藏边检总站执法调查支队举办2026年度党务骨干培训班",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725336.shtml",
+        "publishedAt": "2026-11-03T15:01:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T15:10:12.306+08:00",
+    "fetchedAt": "2026-11-03T15:20:02.803+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T15:10:16.394+08:00",
+      "fetchedAt": "2026-11-03T15:20:36.940+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 42,
+          "usedPct": 54,
           "resetAt": "2026-11-03T19:31:52.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 62,
+          "usedPct": 64,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T15:10:16.600+08:00",
+      "fetchedAt": "2026-11-03T15:20:37.157+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T15:10:16.604+08:00",
+      "fetchedAt": "2026-11-03T15:20:37.162+08:00",
       "error": null
     }
   }
