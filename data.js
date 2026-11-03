@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T08:40:37.933+08:00",
+  "updatedAt": "2026-11-03T08:50:43.157+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.3,
-    "feelsLikeC": 15.6,
-    "humidity": 84,
+    "tempC": 15.7,
+    "feelsLikeC": 16,
+    "humidity": 83,
     "windKph": 3.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-03T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T08:40:37.933+08:00",
+    "observedAt": "2026-11-03T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T08:50:43.157+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国人民银行决定上调金融机构外汇存款准备金率",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725110.shtml",
+        "publishedAt": "2026-11-03T08:45:49.000+08:00"
+      },
+      {
+        "title": "雪豹“凌小寒”经全力抢救无效病亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725108.shtml",
+        "publishedAt": "2026-11-03T08:35:54.000+08:00"
+      },
       {
         "title": "江淮江汉江南有中到大雨 冷空气将影响内蒙古和东北地区等地",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725105.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "李强会见阿曼苏丹海赛姆",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209569.shtml",
         "publishedAt": "2026-11-03T08:08:28.000+08:00"
-      },
-      {
-        "title": "何立峰在山西调研时指出 统筹发展和安全 坚定有序推进产业转型升级",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725094.shtml",
-        "publishedAt": "2026-11-03T08:00:28.000+08:00"
-      },
-      {
-        "title": "赵乐际同俄罗斯联邦委员会主席马特维延科会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725092.shtml",
-        "publishedAt": "2026-11-03T07:59:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T08:40:03.076+08:00",
+    "fetchedAt": "2026-11-03T08:50:03.868+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T08:40:36.529+08:00",
+      "fetchedAt": "2026-11-03T08:50:37.697+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T13:40:37.000+08:00"
+          "resetAt": "2026-11-03T13:50:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T08:40:36.944+08:00",
+      "fetchedAt": "2026-11-03T08:50:38.021+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T08:40:36.952+08:00",
+      "fetchedAt": "2026-11-03T08:50:38.029+08:00",
       "error": null
     }
   }
