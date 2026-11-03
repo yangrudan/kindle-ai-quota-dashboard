@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T17:40:16.072+08:00",
+  "updatedAt": "2026-11-03T17:50:13.488+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.6,
-    "feelsLikeC": 17.6,
-    "humidity": 91,
-    "windKph": 4.8,
-    "windDir": "东北风",
+    "tempC": 16.5,
+    "feelsLikeC": 17.2,
+    "humidity": 92,
+    "windKph": 6.6,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T17:40:16.072+08:00",
+    "observedAt": "2026-11-03T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T17:50:13.488+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "刘延东同志遗体在京火化",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209659.shtml",
+        "publishedAt": "2026-11-03T17:45:40.000+08:00"
+      },
+      {
+        "title": "外媒聚焦乌镇峰会：中国重视开源合作，为促进国际人工智能合作而努力",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725454.shtml",
+        "publishedAt": "2026-11-03T17:44:22.000+08:00"
+      },
       {
         "title": "全球“熊猫伙伴”相聚成都 共话生态保护与绿色发展",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725445.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026年中国游戏IP市场规模预计接近3000亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725450.shtml",
         "publishedAt": "2026-11-03T17:34:05.000+08:00"
-      },
-      {
-        "title": "2026澳大利亚群舞大赛在悉尼拉开帷幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725439.shtml",
-        "publishedAt": "2026-11-03T17:33:31.000+08:00"
-      },
-      {
-        "title": "美媒称美军打击伊朗最大岛屿 卡塔尔代表团赴伊加紧斡旋",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725398.shtml",
-        "publishedAt": "2026-11-03T17:33:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T17:40:03.718+08:00",
+    "fetchedAt": "2026-11-03T17:50:04.852+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T17:40:09.366+08:00",
+      "fetchedAt": "2026-11-03T17:50:11.573+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T17:40:14.437+08:00",
+      "fetchedAt": "2026-11-03T17:50:12.554+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T17:40:14.446+08:00",
+      "fetchedAt": "2026-11-03T17:50:12.561+08:00",
       "error": null
     }
   }
