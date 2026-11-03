@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T10:50:40.206+08:00",
+  "updatedAt": "2026-11-03T11:00:41.106+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.8,
+    "tempC": 17,
     "feelsLikeC": 17.4,
-    "humidity": 80,
-    "windKph": 3.5,
+    "humidity": 79,
+    "windKph": 4.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T10:50:40.206+08:00",
+    "observedAt": "2026-11-03T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T11:00:41.106+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西农业科学院原党组书记、院长邓国富被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725199.shtml",
-        "publishedAt": "2026-11-03T10:39:49.000+08:00"
+        "title": "我国人工智能发展速度及应用规模全球领先",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725213.shtml",
+        "publishedAt": "2026-11-03T10:54:06.000+08:00"
       },
       {
-        "title": "昼夜温差大，别让大脑“着凉”……预防脑血管病要做到这几点",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725200.shtml",
-        "publishedAt": "2026-11-03T10:39:31.000+08:00"
+        "title": "中央气象台：未来十天西南地区东部江南降雨增多",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725206.shtml",
+        "publishedAt": "2026-11-03T10:54:00.000+08:00"
       },
       {
-        "title": "2026国际版权论坛敦煌开幕 聚焦数智时代版权与创意产业",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725190.shtml",
-        "publishedAt": "2026-11-03T10:38:01.000+08:00"
+        "title": "中国气象局发布今冬明春气候预测 最强厄尔尼诺事件影响明显",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725212.shtml",
+        "publishedAt": "2026-11-03T10:52:06.000+08:00"
       },
       {
-        "title": "联合国教科文组织：2024至2025年全球189名记者遇害",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725192.shtml",
-        "publishedAt": "2026-11-03T10:36:23.000+08:00"
+        "title": "以赛促研，以研促产：拼多多“千亿扶持”助力青年科学家在夏秋“断档期”种出国产草莓",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725158.shtml",
+        "publishedAt": "2026-11-03T10:51:38.000+08:00"
       },
       {
-        "title": "放心消费点亮工程启动 首批四家平台同步点亮",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725197.shtml",
-        "publishedAt": "2026-11-03T10:36:09.000+08:00"
+        "title": "门窗没坏，28楼财物为何不翼而飞？办案部门还原盗窃过程破解迷局",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-03/10725211.shtml",
+        "publishedAt": "2026-11-03T10:50:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T10:50:02.610+08:00",
+    "fetchedAt": "2026-11-03T11:00:04.908+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T10:50:36.918+08:00",
+      "fetchedAt": "2026-11-03T11:00:39.627+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 42,
+          "usedPct": 47,
           "resetAt": "2026-11-03T14:30:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 48,
+          "usedPct": 49,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T10:50:39.144+08:00",
+      "fetchedAt": "2026-11-03T11:00:39.928+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T10:50:39.153+08:00",
+      "fetchedAt": "2026-11-03T11:00:39.932+08:00",
       "error": null
     }
   }
