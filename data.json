@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T16:20:38.329+08:00",
+  "updatedAt": "2026-11-03T16:30:09.504+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 17.6,
-    "feelsLikeC": 18.2,
-    "humidity": 80,
-    "windKph": 5.1,
-    "windDir": "东风",
+    "tempC": 17.4,
+    "feelsLikeC": 18.3,
+    "humidity": 83,
+    "windKph": 3.7,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-03T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T16:20:38.329+08:00",
+    "observedAt": "2026-11-03T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T16:30:09.504+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "尺素金声丨利润增长15.5%，折射产业结构向新向优向好",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725378.shtml",
-        "publishedAt": "2026-11-03T16:15:21.000+08:00"
+        "title": "新华时评丨开源共享迈向美好数智未来",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-03/10725383.shtml",
+        "publishedAt": "2026-11-03T16:22:09.000+08:00"
       },
       {
-        "title": "联合国第十五届能源可持续发展国际论坛西安启幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725371.shtml",
-        "publishedAt": "2026-11-03T16:14:39.000+08:00"
+        "title": "检察机关依法分别对韩玉明、白立柱、鲍长山、李国锋、魏学林提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725380.shtml",
+        "publishedAt": "2026-11-03T16:21:53.000+08:00"
       },
       {
-        "title": "餐盘里的“共治”：江西德兴守护学子“舌尖暖意”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725373.shtml",
-        "publishedAt": "2026-11-03T16:10:03.000+08:00"
+        "title": "生物多样性首次全球审查 中国交出亮眼答卷",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725381.shtml",
+        "publishedAt": "2026-11-03T16:20:31.000+08:00"
       },
       {
-        "title": "伊朗：首支“为伊朗捐躯”旅完成组建",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725367.shtml",
-        "publishedAt": "2026-11-03T16:06:11.000+08:00"
+        "title": "黑龙江省公安厅原二级警务专员史衍芳被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725375.shtml",
+        "publishedAt": "2026-11-03T16:20:19.000+08:00"
       },
       {
-        "title": "警方通报九寨沟景区游客冲突事件",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725330.shtml",
-        "publishedAt": "2026-11-03T16:06:05.000+08:00"
+        "title": "广交会70年，外贸企业金融需求经历了三级跳",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725379.shtml",
+        "publishedAt": "2026-11-03T16:20:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T16:20:03.758+08:00",
+    "fetchedAt": "2026-11-03T16:30:03.204+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T16:20:36.966+08:00",
+      "fetchedAt": "2026-11-03T16:30:07.862+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T16:20:37.220+08:00",
+      "fetchedAt": "2026-11-03T16:30:08.230+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T16:20:37.230+08:00",
+      "fetchedAt": "2026-11-03T16:30:08.235+08:00",
       "error": null
     }
   }
