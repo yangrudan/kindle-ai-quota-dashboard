@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T16:50:40.213+08:00",
+  "updatedAt": "2026-11-03T17:00:19.277+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-03T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T16:50:40.213+08:00",
+    "fetchedAt": "2026-11-03T17:00:19.277+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从“产品出海”到“标准出海” 广东推动中国标准落地海外",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725408.shtml",
-        "publishedAt": "2026-11-03T16:46:15.000+08:00"
+        "title": "从老街坊到新邻居 甘肃临夏团结故事在烟火中延续",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725425.shtml",
+        "publishedAt": "2026-11-03T16:52:51.000+08:00"
       },
       {
-        "title": "我和先辈一样下南洋",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725407.shtml",
-        "publishedAt": "2026-11-03T16:44:59.000+08:00"
+        "title": "绘就年度电影地图！海南岛国际电影节披露三大策展方向",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725427.shtml",
+        "publishedAt": "2026-11-03T16:51:23.000+08:00"
       },
       {
-        "title": "2026年度游戏IP生态大会在苏州开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725418.shtml",
-        "publishedAt": "2026-11-03T16:44:45.000+08:00"
+        "title": "我国已制定实施新型储能国家标准及行业标准150项",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725416.shtml",
+        "publishedAt": "2026-11-03T16:51:19.000+08:00"
       },
       {
-        "title": "湖北随州以文旅盛宴解锁秋日经济",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725415.shtml",
-        "publishedAt": "2026-11-03T16:44:13.000+08:00"
+        "title": "2026现代科技馆体系联合行动主题工作坊在辽宁收官",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725426.shtml",
+        "publishedAt": "2026-11-03T16:51:15.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会开幕在即 上海提升水陆入沪通行效率",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725413.shtml",
-        "publishedAt": "2026-11-03T16:43:57.000+08:00"
+        "title": "我国牵头修订的放射性废物管理国际标准发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725414.shtml",
+        "publishedAt": "2026-11-03T16:49:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T16:50:03.494+08:00",
+    "fetchedAt": "2026-11-03T17:00:12.916+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T16:50:37.438+08:00",
+      "fetchedAt": "2026-11-03T17:00:17.507+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T16:50:37.789+08:00",
+      "fetchedAt": "2026-11-03T17:00:17.815+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T16:50:37.797+08:00",
+      "fetchedAt": "2026-11-03T17:00:17.819+08:00",
       "error": null
     }
   }
