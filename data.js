@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T21:50:10.005+08:00",
+  "updatedAt": "2026-11-03T22:00:12.284+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 15.6,
     "feelsLikeC": 15.3,
     "humidity": 96,
-    "windKph": 13.5,
+    "windKph": 13.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-03T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T21:50:10.006+08:00",
+    "observedAt": "2026-11-03T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T22:00:12.284+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "九万余盆菊花铺满杭城 长三角菊花精品展在杭州启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725622.shtml",
+        "publishedAt": "2026-11-03T21:54:33.000+08:00"
+      },
+      {
+        "title": "河北临漳韭菜香飘京津冀",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725616.shtml",
+        "publishedAt": "2026-11-03T21:53:05.000+08:00"
+      },
+      {
+        "title": "第九届“敦煌文博会”敦煌研究院“典范”“高地”建设成果展开展",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725605.shtml",
+        "publishedAt": "2026-11-03T21:51:19.000+08:00"
+      },
+      {
+        "title": "伊朗议长：伊朗民族不会屈服于敌人的威胁和军事行动",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725547.shtml",
+        "publishedAt": "2026-11-03T21:48:55.000+08:00"
+      },
+      {
         "title": "东西问丨孔江平：普通话越来越普及，民族语言会消失吗？中国给出了答案",
         "url": "https://www.chinanews.com.cn/dxw/2026/11-03/10725606.shtml",
         "publishedAt": "2026-11-03T21:35:30.000+08:00"
-      },
-      {
-        "title": "11月3日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-03/10725613.shtml",
-        "publishedAt": "2026-11-03T21:31:00.000+08:00"
-      },
-      {
-        "title": "从试点示范到跨区域规模化应用 京津冀交通数智化转型提速",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725601.shtml",
-        "publishedAt": "2026-11-03T21:22:02.000+08:00"
-      },
-      {
-        "title": "台湾10月PMI扩张放缓 专家指AI供应链缺料所致",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725599.shtml",
-        "publishedAt": "2026-11-03T21:21:28.000+08:00"
-      },
-      {
-        "title": "走进民企看发展 | 凯普生物董事长管乔中：技术天天在进步，民营企业不能墨守成规",
-        "url": "http://www.chinanews.com.cn/cj/shipin/2026/11-03/news1073717.shtml",
-        "publishedAt": "2026-11-03T21:20:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T21:50:03.184+08:00",
+    "fetchedAt": "2026-11-03T22:00:05.294+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T21:50:08.691+08:00",
+      "fetchedAt": "2026-11-03T22:00:09.574+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T02:50:10.000+08:00"
+          "resetAt": "2026-11-04T03:00:12.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T21:50:08.854+08:00",
+      "fetchedAt": "2026-11-03T22:00:09.929+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T21:50:08.857+08:00",
+      "fetchedAt": "2026-11-03T22:00:09.937+08:00",
       "error": null
     }
   }
