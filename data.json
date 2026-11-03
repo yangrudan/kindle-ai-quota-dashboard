@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T18:40:09.488+08:00",
+  "updatedAt": "2026-11-03T18:50:39.531+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
     "tempC": 16.2,
-    "feelsLikeC": 16.8,
+    "feelsLikeC": 16.7,
     "humidity": 94,
-    "windKph": 8.3,
+    "windKph": 8.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T18:40:09.488+08:00",
+    "observedAt": "2026-11-03T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T18:50:39.531+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中新网评：别让“狂欢”纵容恶意",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725467.shtml",
-        "publishedAt": "2026-11-03T18:27:30.000+08:00"
+        "title": "哈尔滨迎首场降雪 未来两日局地有大雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725488.shtml",
+        "publishedAt": "2026-11-03T18:46:49.000+08:00"
       },
       {
-        "title": "退伍老兵救起7岁落水男孩 见义勇为奖金全数捐出",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725478.shtml",
-        "publishedAt": "2026-11-03T18:25:56.000+08:00"
+        "title": "新疆和田地区纺织服装高质量发展大会举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725494.shtml",
+        "publishedAt": "2026-11-03T18:46:15.000+08:00"
       },
       {
-        "title": "2026澳中商业与青年领袖盛典在悉尼举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725465.shtml",
-        "publishedAt": "2026-11-03T18:24:30.000+08:00"
+        "title": "（第九届进博会）上海海关优化特许审批流程助力进博会展品首发首秀",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725495.shtml",
+        "publishedAt": "2026-11-03T18:45:05.000+08:00"
       },
       {
-        "title": "直播海报：层林霞色上新 慢直播北京红叶实况",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725479.shtml",
-        "publishedAt": "2026-11-03T18:22:12.000+08:00"
+        "title": "海南岛国际电影节升级惠民举措惠及市民游客",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725491.shtml",
+        "publishedAt": "2026-11-03T18:43:59.000+08:00"
       },
       {
-        "title": "戍边18载，藏族军人旺堆次仁：三次与“死神”擦肩而过",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725477.shtml",
-        "publishedAt": "2026-11-03T18:19:28.000+08:00"
+        "title": "“十五五”时期，郑州如何擦亮现代服务业“金”字招牌？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725493.shtml",
+        "publishedAt": "2026-11-03T18:43:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T18:40:03.424+08:00",
+    "fetchedAt": "2026-11-03T18:50:02.678+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T18:40:08.027+08:00",
+      "fetchedAt": "2026-11-03T18:50:38.120+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T18:40:08.224+08:00",
+      "fetchedAt": "2026-11-03T18:50:38.556+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T18:40:08.233+08:00",
+      "fetchedAt": "2026-11-03T18:50:38.565+08:00",
       "error": null
     }
   }
