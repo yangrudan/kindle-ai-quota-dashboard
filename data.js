@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T21:30:08.599+08:00",
+  "updatedAt": "2026-11-03T21:40:09.247+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-03T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T21:30:08.599+08:00",
+    "fetchedAt": "2026-11-03T21:40:09.247+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月3日夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-03/10725613.shtml",
+        "publishedAt": "2026-11-03T21:31:00.000+08:00"
+      },
       {
         "title": "从试点示范到跨区域规模化应用 京津冀交通数智化转型提速",
         "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725601.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "香港今年前三季度GDP实现5年来同期最快增长",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725596.shtml",
         "publishedAt": "2026-11-03T21:17:57.000+08:00"
-      },
-      {
-        "title": "（粤港澳大湾区）2026粤港澳大湾区全球招商大会发布42个重大投资项目",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725597.shtml",
-        "publishedAt": "2026-11-03T21:17:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T21:30:02.967+08:00",
+    "fetchedAt": "2026-11-03T21:40:03.702+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T21:30:07.158+08:00",
+      "fetchedAt": "2026-11-03T21:40:07.867+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T02:30:08.000+08:00"
+          "resetAt": "2026-11-04T02:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T21:30:07.360+08:00",
+      "fetchedAt": "2026-11-03T21:40:08.100+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T21:30:07.363+08:00",
+      "fetchedAt": "2026-11-03T21:40:08.108+08:00",
       "error": null
     }
   }
