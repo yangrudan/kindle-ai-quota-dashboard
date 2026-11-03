@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T12:10:11.555+08:00",
+  "updatedAt": "2026-11-03T12:20:19.315+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T12:10:11.556+08:00",
+    "fetchedAt": "2026-11-03T12:20:19.315+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国务院免去何永贤香港特别行政区政府房屋局局长职务",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725235.shtml",
-        "publishedAt": "2026-11-03T11:41:52.000+08:00"
+        "title": "海南聚焦青少年法治教育 织密家校社协同防护网",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725242.shtml",
+        "publishedAt": "2026-11-03T12:14:48.000+08:00"
       },
       {
-        "title": "“三亚中医”圈粉境外游客",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725228.shtml",
-        "publishedAt": "2026-11-03T11:40:20.000+08:00"
+        "title": "一滴牛奶的智能旅途：探秘新疆乳制品企业的智慧工厂",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725241.shtml",
+        "publishedAt": "2026-11-03T12:13:54.000+08:00"
       },
       {
-        "title": "中国气象局：预计11月有4次冷空气过程影响我国",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725229.shtml",
-        "publishedAt": "2026-11-03T11:35:52.000+08:00"
+        "title": "郑州至英国东米德兰兹直飞货运航线开通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725240.shtml",
+        "publishedAt": "2026-11-03T12:13:48.000+08:00"
       },
       {
-        "title": "新疆：乳业“智造”工厂助力经济高质量发展",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209606.shtml",
-        "publishedAt": "2026-11-03T11:34:13.000+08:00"
+        "title": "蹴球、高脚、押加……一场需要被“翻译”的运动会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725238.shtml",
+        "publishedAt": "2026-11-03T12:12:48.000+08:00"
       },
       {
-        "title": "中国气象局发布今冬明春气候预测 最强厄尔尼诺事件影响明显",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725225.shtml",
-        "publishedAt": "2026-11-03T11:32:04.000+08:00"
+        "title": "陕西省青少年艺术体操冠军赛落幕 百余选手同台演绎“毯上芭蕾”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725233.shtml",
+        "publishedAt": "2026-11-03T12:12:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T12:10:03.878+08:00",
+    "fetchedAt": "2026-11-03T12:20:12.847+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T12:10:09.903+08:00",
+      "fetchedAt": "2026-11-03T12:20:17.167+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T12:10:10.330+08:00",
+      "fetchedAt": "2026-11-03T12:20:17.391+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T12:10:10.338+08:00",
+      "fetchedAt": "2026-11-03T12:20:17.400+08:00",
       "error": null
     }
   }
