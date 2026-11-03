@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T07:20:47.971+08:00",
+  "updatedAt": "2026-11-04T07:30:18.084+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-04T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T07:20:47.971+08:00",
+    "fetchedAt": "2026-11-04T07:30:18.084+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国放心消费平台正式上线 面向消费者提供哪些功能？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725710.shtml",
+        "publishedAt": "2026-11-04T07:22:57.000+08:00"
+      },
       {
         "title": "欧洲多架客机及一艘邮轮遭炸弹威胁",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725708.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "泰国将进口电动汽车消费税税率上调至35%",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725705.shtml",
         "publishedAt": "2026-11-04T07:04:54.000+08:00"
-      },
-      {
-        "title": "柬埔寨将在全国200所公立中小学校试行全日制教学",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725706.shtml",
-        "publishedAt": "2026-11-04T07:04:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T07:20:12.309+08:00",
+    "fetchedAt": "2026-11-04T07:30:12.608+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T07:20:45.750+08:00",
+      "fetchedAt": "2026-11-04T07:30:16.805+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T12:20:47.000+08:00"
+          "resetAt": "2026-11-04T12:30:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T07:20:46.565+08:00",
+      "fetchedAt": "2026-11-04T07:30:17.087+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T07:20:46.573+08:00",
+      "fetchedAt": "2026-11-04T07:30:17.096+08:00",
       "error": null
     }
   }
