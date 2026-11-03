@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T18:20:10.587+08:00",
+  "updatedAt": "2026-11-03T18:30:09.474+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 16.3,
+    "tempC": 16.2,
     "feelsLikeC": 16.8,
     "humidity": 94,
-    "windKph": 8.5,
+    "windKph": 8.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T18:20:10.587+08:00",
+    "observedAt": "2026-11-03T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T18:30:09.475+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "世界黄金协会：今年第三季度全球黄金总需求同比下降1%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725472.shtml",
-        "publishedAt": "2026-11-03T18:13:19.000+08:00"
+        "title": "退伍老兵救起7岁落水男孩 见义勇为奖金全数捐出",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725478.shtml",
+        "publishedAt": "2026-11-03T18:25:56.000+08:00"
       },
       {
-        "title": "第五届“京彩大创”北京大学生创新创业大赛收官",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725470.shtml",
-        "publishedAt": "2026-11-03T18:12:49.000+08:00"
+        "title": "2026澳中商业与青年领袖盛典在悉尼举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725465.shtml",
+        "publishedAt": "2026-11-03T18:24:30.000+08:00"
       },
       {
-        "title": "重庆合川：多举措推动钓鱼城从“历史深处”走向“世界前台”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725469.shtml",
-        "publishedAt": "2026-11-03T18:12:23.000+08:00"
+        "title": "直播海报：层林霞色上新 慢直播北京红叶实况",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725479.shtml",
+        "publishedAt": "2026-11-03T18:22:12.000+08:00"
       },
       {
-        "title": "阿曼苏丹访华期间见证21项双边合作成果集中展示",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725471.shtml",
-        "publishedAt": "2026-11-03T18:10:55.000+08:00"
+        "title": "戍边18载，藏族军人旺堆次仁：三次与“死神”擦肩而过",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725477.shtml",
+        "publishedAt": "2026-11-03T18:19:28.000+08:00"
       },
       {
-        "title": "湖北随州千年银杏谷游客沉浸式感受秋日浪漫",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725464.shtml",
-        "publishedAt": "2026-11-03T18:07:47.000+08:00"
+        "title": "探访三亚·亚特兰蒂斯：中外游客纷至沓来",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725474.shtml",
+        "publishedAt": "2026-11-03T18:18:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T18:20:04.150+08:00",
+    "fetchedAt": "2026-11-03T18:30:03.436+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T18:20:08.525+08:00",
+      "fetchedAt": "2026-11-03T18:30:08.185+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T18:20:08.682+08:00",
+      "fetchedAt": "2026-11-03T18:30:08.297+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T18:20:08.692+08:00",
+      "fetchedAt": "2026-11-03T18:30:08.304+08:00",
       "error": null
     }
   }
