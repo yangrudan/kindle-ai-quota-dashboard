@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T22:40:47.867+08:00",
+  "updatedAt": "2026-11-03T22:50:09.089+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
     "tempC": 15.6,
-    "feelsLikeC": 16.1,
-    "humidity": 96,
-    "windKph": 7.8,
+    "feelsLikeC": 16.6,
+    "humidity": 97,
+    "windKph": 4.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T22:40:47.868+08:00",
+    "observedAt": "2026-11-03T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T22:50:09.090+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香港财库局局长：香港可为内地企业“出海”提供全链条金融支持",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725635.shtml",
+        "publishedAt": "2026-11-03T22:44:36.000+08:00"
+      },
+      {
+        "title": "（机遇香港）国际金融领袖齐聚香江 持续看好香港金融动能",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725634.shtml",
+        "publishedAt": "2026-11-03T22:43:28.000+08:00"
+      },
       {
         "title": "王毅同菲律宾外长拉扎罗通电话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725633.shtml",
@@ -33,19 +43,9 @@
         "title": "新疆：探索绿色算力发展新路径",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209693.shtml",
         "publishedAt": "2026-11-03T22:13:21.000+08:00"
-      },
-      {
-        "title": "中宣部举办学习贯彻党的二十届五中全会精神研讨班 学习领会全会精神 培训基层宣讲骨干",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725630.shtml",
-        "publishedAt": "2026-11-03T22:12:24.000+08:00"
-      },
-      {
-        "title": "你的狂欢，凭什么堆在别人车上？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725629.shtml",
-        "publishedAt": "2026-11-03T22:03:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T22:40:12.205+08:00",
+    "fetchedAt": "2026-11-03T22:50:03.233+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T22:40:46.207+08:00",
+      "fetchedAt": "2026-11-03T22:50:07.643+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T03:40:47.000+08:00"
+          "resetAt": "2026-11-04T03:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T22:40:46.473+08:00",
+      "fetchedAt": "2026-11-03T22:50:07.994+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T22:40:46.478+08:00",
+      "fetchedAt": "2026-11-03T22:50:08.002+08:00",
       "error": null
     }
   }
