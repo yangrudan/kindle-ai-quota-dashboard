@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T12:40:08.057+08:00",
+  "updatedAt": "2026-11-03T12:50:09.721+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.5,
-    "feelsLikeC": 17.4,
-    "humidity": 72,
-    "windKph": 6.2,
+    "tempC": 17.7,
+    "feelsLikeC": 17.5,
+    "humidity": 71,
+    "windKph": 5.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T12:40:08.057+08:00",
+    "observedAt": "2026-11-03T12:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T12:50:09.722+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "哈尔滨迎今秋首场降雪",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725231.shtml",
+        "publishedAt": "2026-11-03T12:31:17.000+08:00"
+      },
       {
         "title": "“粗碳”到“细碳”：老工业基地吉林造“能上天的丝”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725246.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "海南聚焦青少年法治教育 织密家校社协同防护网",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725242.shtml",
         "publishedAt": "2026-11-03T12:14:48.000+08:00"
-      },
-      {
-        "title": "一滴牛奶的智能旅途：探秘新疆乳制品企业的智慧工厂",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725241.shtml",
-        "publishedAt": "2026-11-03T12:13:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T12:40:03.024+08:00",
+    "fetchedAt": "2026-11-03T12:50:03.985+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T12:40:06.766+08:00",
+      "fetchedAt": "2026-11-03T12:50:08.105+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T12:40:07.055+08:00",
+      "fetchedAt": "2026-11-03T12:50:08.335+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T12:40:07.064+08:00",
+      "fetchedAt": "2026-11-03T12:50:08.339+08:00",
       "error": null
     }
   }
