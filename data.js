@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T15:30:09.188+08:00",
+  "updatedAt": "2026-11-03T15:40:09.203+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T15:30:09.188+08:00",
+    "fetchedAt": "2026-11-03T15:40:09.204+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "莫名收到大量退费投诉 背后暗藏蹊跷",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-03/10725351.shtml",
+        "publishedAt": "2026-11-03T15:37:19.000+08:00"
+      },
+      {
+        "title": "党的二十届五中全会文件及辅导材料在京首发",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725350.shtml",
+        "publishedAt": "2026-11-03T15:35:49.000+08:00"
+      },
+      {
+        "title": "中方谈中东局势：愿继续为促进对话、推动局势缓和作出积极努力",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725348.shtml",
+        "publishedAt": "2026-11-03T15:33:11.000+08:00"
+      },
+      {
+        "title": "让科技接地气 “小院落”展现大作为",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725347.shtml",
+        "publishedAt": "2026-11-03T15:30:29.000+08:00"
+      },
+      {
         "title": "韩总统李在明等168人信息遭大规模泄露 韩政府回应",
         "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725335.shtml",
         "publishedAt": "2026-11-03T15:26:04.000+08:00"
-      },
-      {
-        "title": "一杯奶茶含9块方糖？控糖别存侥幸 警惕身体预警信号",
-        "url": "https://www.chinanews.com.cn/life/2026/11-03/10725344.shtml",
-        "publishedAt": "2026-11-03T15:24:24.000+08:00"
-      },
-      {
-        "title": "广交会观察：70年，一扇“窗”，世界看见一个怎样的中国？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725340.shtml",
-        "publishedAt": "2026-11-03T15:24:14.000+08:00"
-      },
-      {
-        "title": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725341.shtml",
-        "publishedAt": "2026-11-03T15:19:56.000+08:00"
-      },
-      {
-        "title": "李强出席2026年世界互联网大会乌镇峰会开幕式并发表主旨演讲",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725324.shtml",
-        "publishedAt": "2026-11-03T15:19:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T15:30:03.115+08:00",
+    "fetchedAt": "2026-11-03T15:40:03.634+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T15:30:07.644+08:00",
+      "fetchedAt": "2026-11-03T15:40:07.883+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 61,
+          "usedPct": 63,
           "resetAt": "2026-11-03T19:31:52.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 65,
+          "usedPct": 66,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T15:30:07.867+08:00",
+      "fetchedAt": "2026-11-03T15:40:08.129+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T15:30:07.876+08:00",
+      "fetchedAt": "2026-11-03T15:40:08.139+08:00",
       "error": null
     }
   }
