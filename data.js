@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T20:30:40.231+08:00",
+  "updatedAt": "2026-11-03T20:40:08.653+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 16.1,
-    "feelsLikeC": 16.1,
-    "humidity": 94,
-    "windKph": 11.8,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 15.8,
+    "feelsLikeC": 15.8,
+    "humidity": 95,
+    "windKph": 10.7,
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T20:30:40.231+08:00",
+    "fetchedAt": "2026-11-03T20:40:08.653+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "千年妈祖信俗远播四海 “Z世代”接续讲好妈祖故事",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725544.shtml",
+        "publishedAt": "2026-11-03T20:30:03.000+08:00"
+      },
+      {
+        "title": "青海启动青藏高原地球系统数据平台建设试点",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725531.shtml",
+        "publishedAt": "2026-11-03T20:23:10.000+08:00"
+      },
       {
         "title": "向海而生 向新而行丨智慧跃迁，从码头自动化到航运服务智慧化的津港实践",
         "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725562.shtml",
@@ -30,22 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-03T20:17:52.000+08:00"
       },
       {
-        "title": "亚太经合组织第37届外交和贸易双部长视频会议举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725552.shtml",
-        "publishedAt": "2026-11-03T20:02:03.000+08:00"
-      },
-      {
-        "title": "世界黄金协会：2026年初至今全球央行累计购金同比增6%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725541.shtml",
-        "publishedAt": "2026-11-03T19:58:03.000+08:00"
-      },
-      {
-        "title": "（经济观察）海南自贸港两项新政出台 制度红利将加速变现",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725539.shtml",
-        "publishedAt": "2026-11-03T19:57:27.000+08:00"
+        "title": "第九届敦煌文博会启幕：全球1200余名中外嘉宾共话文明互鉴",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209673.shtml",
+        "publishedAt": "2026-11-03T20:10:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T20:30:04.801+08:00",
+    "fetchedAt": "2026-11-03T20:40:03.122+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T20:30:38.729+08:00",
+      "fetchedAt": "2026-11-03T20:40:07.262+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T01:30:40.000+08:00"
+          "resetAt": "2026-11-04T01:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T20:30:39.101+08:00",
+      "fetchedAt": "2026-11-03T20:40:07.629+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T20:30:39.104+08:00",
+      "fetchedAt": "2026-11-03T20:40:07.638+08:00",
       "error": null
     }
   }
