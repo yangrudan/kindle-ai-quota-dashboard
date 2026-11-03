@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T21:10:10.706+08:00",
+  "updatedAt": "2026-11-03T21:20:08.602+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
+    "description": "阵雨",
     "iconKey": "rain",
     "tempC": 15.7,
-    "feelsLikeC": 15.8,
+    "feelsLikeC": 15.7,
     "humidity": 95,
-    "windKph": 10.6,
+    "windKph": 11.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-03T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T21:10:10.707+08:00",
+    "observedAt": "2026-11-03T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T21:20:08.602+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“一带一路”新闻合作联盟第四届理事会议举行 发布联合宣言",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-03/10725543.shtml",
-        "publishedAt": "2026-11-03T21:02:29.000+08:00"
+        "title": "逛浙江景点，年轻人为何带走一本书？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725603.shtml",
+        "publishedAt": "2026-11-03T21:19:13.000+08:00"
       },
       {
-        "title": "“我被东北话腌入味了！”最近的国产剧，被东北包圆了",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725590.shtml",
-        "publishedAt": "2026-11-03T21:02:21.000+08:00"
+        "title": "香港今年前三季度GDP实现5年来同期最快增长",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725596.shtml",
+        "publishedAt": "2026-11-03T21:17:57.000+08:00"
       },
       {
-        "title": "幸福、梦想、信任——丝路新程上的文明交流故事",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-03/10725542.shtml",
-        "publishedAt": "2026-11-03T21:01:32.000+08:00"
+        "title": "（粤港澳大湾区）2026粤港澳大湾区全球招商大会发布42个重大投资项目",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725597.shtml",
+        "publishedAt": "2026-11-03T21:17:07.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）一颗锥栗串起红绿资源 温州山福绘就农文旅共富图景",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725557.shtml",
-        "publishedAt": "2026-11-03T21:01:30.000+08:00"
+        "title": "2026金鸡未来影像在沪开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725600.shtml",
+        "publishedAt": "2026-11-03T21:15:53.000+08:00"
       },
       {
-        "title": "厦门加快场景培育开放和应用 牵引技术创新产业升级",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725579.shtml",
-        "publishedAt": "2026-11-03T21:00:48.000+08:00"
+        "title": "国务院报告：截至2025年底中国国有土地总面积52360.4万公顷",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725595.shtml",
+        "publishedAt": "2026-11-03T21:14:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T21:10:04.155+08:00",
+    "fetchedAt": "2026-11-03T21:20:03.565+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T21:10:08.722+08:00",
+      "fetchedAt": "2026-11-03T21:20:07.302+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T02:10:10.000+08:00"
+          "resetAt": "2026-11-04T02:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T21:10:09.060+08:00",
+      "fetchedAt": "2026-11-03T21:20:07.528+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T21:10:09.063+08:00",
+      "fetchedAt": "2026-11-03T21:20:07.533+08:00",
       "error": null
     }
   }
