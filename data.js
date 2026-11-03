@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T23:50:08.591+08:00",
+  "updatedAt": "2026-11-04T00:00:11.752+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15.6,
-    "feelsLikeC": 16.3,
+    "feelsLikeC": 16.2,
     "humidity": 97,
-    "windKph": 6.7,
+    "windKph": 7.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T23:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T23:50:08.592+08:00",
+    "observedAt": "2026-11-04T00:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T00:00:11.752+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "昆明长水国际机场T2航站楼主体混凝土结构实现全面封顶",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725678.shtml",
-        "publishedAt": "2026-11-03T23:47:03.000+08:00"
+        "title": "2026年中亚经济合作天山论坛在哈萨克斯坦举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725692.shtml",
+        "publishedAt": "2026-11-03T23:57:10.000+08:00"
       },
       {
-        "title": "河北邯郸广平“带汁肉”：百年老味传承乡土记忆",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725677.shtml",
-        "publishedAt": "2026-11-03T23:45:33.000+08:00"
+        "title": "CBA常规赛：山西队险胜新疆队取得三连胜",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725691.shtml",
+        "publishedAt": "2026-11-03T23:56:30.000+08:00"
       },
       {
-        "title": "泰国（第四届）HSK留学中国与就业展在曼谷举办",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725676.shtml",
-        "publishedAt": "2026-11-03T23:44:37.000+08:00"
+        "title": "对话敦煌：全球代表共话视听与艺术产业版权发展",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725690.shtml",
+        "publishedAt": "2026-11-03T23:55:54.000+08:00"
       },
       {
-        "title": "麦后复种油葵测产喜获佳绩 引黄灌区一地双收拓宽增收路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725675.shtml",
-        "publishedAt": "2026-11-03T23:43:51.000+08:00"
+        "title": "宁夏出台安全生产执法检查重点事项指导目录 规范精准执法",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725689.shtml",
+        "publishedAt": "2026-11-03T23:55:06.000+08:00"
       },
       {
-        "title": "一栋楼链全球 广州南沙打造跨境贸易“一站式”出海枢纽",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725673.shtml",
-        "publishedAt": "2026-11-03T23:43:21.000+08:00"
+        "title": "“京港国际会客厅”在北京揭牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725688.shtml",
+        "publishedAt": "2026-11-03T23:54:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T23:50:03.300+08:00",
+    "fetchedAt": "2026-11-04T00:00:04.490+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T23:50:07.203+08:00",
+      "fetchedAt": "2026-11-04T00:00:10.340+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T04:50:08.000+08:00"
+          "resetAt": "2026-11-04T05:00:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T23:50:07.457+08:00",
+      "fetchedAt": "2026-11-04T00:00:10.589+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T23:50:07.463+08:00",
+      "fetchedAt": "2026-11-04T00:00:10.598+08:00",
       "error": null
     }
   }
