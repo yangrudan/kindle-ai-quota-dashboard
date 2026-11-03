@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:00:40.473+08:00",
+  "updatedAt": "2026-11-03T20:10:50.784+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T20:00:40.473+08:00",
+    "fetchedAt": "2026-11-03T20:10:50.784+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "新华社快讯：亚太经合组织第37届外交和贸易双部长视频会议举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725552.shtml",
+        "publishedAt": "2026-11-03T20:02:03.000+08:00"
+      },
+      {
+        "title": "世界黄金协会：2026年初至今全球央行累计购金同比增6%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725541.shtml",
+        "publishedAt": "2026-11-03T19:58:03.000+08:00"
+      },
+      {
+        "title": "（经济观察）海南自贸港两项新政出台 制度红利将加速变现",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725539.shtml",
+        "publishedAt": "2026-11-03T19:57:27.000+08:00"
+      },
+      {
+        "title": "广交会观察：一条牛仔裤串联中国纺织服装制造业变迁",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725530.shtml",
+        "publishedAt": "2026-11-03T19:57:19.000+08:00"
+      },
+      {
         "title": "王毅会见泰国副总理兼外长：愿与泰方深化互利合作",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725523.shtml",
         "publishedAt": "2026-11-03T19:55:53.000+08:00"
-      },
-      {
-        "title": "王毅会见老挝副总理兼外长通沙万",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725524.shtml",
-        "publishedAt": "2026-11-03T19:55:39.000+08:00"
-      },
-      {
-        "title": "王毅：中缅双方要加大打击网赌电诈力度",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725522.shtml",
-        "publishedAt": "2026-11-03T19:55:31.000+08:00"
-      },
-      {
-        "title": "最高检报告：对内资外资、国企民企、中外权利人一视同仁对待",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725529.shtml",
-        "publishedAt": "2026-11-03T19:49:37.000+08:00"
-      },
-      {
-        "title": "九赴进博，拜耳处方药深植“创新之树”，共筑“健康中国”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725526.shtml",
-        "publishedAt": "2026-11-03T19:48:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T20:00:04.473+08:00",
+    "fetchedAt": "2026-11-03T20:10:12.137+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T20:00:38.845+08:00",
+      "fetchedAt": "2026-11-03T20:10:48.635+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T01:00:40.000+08:00"
+          "resetAt": "2026-11-04T01:10:49.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T20:00:39.222+08:00",
+      "fetchedAt": "2026-11-03T20:10:49.012+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T20:00:39.226+08:00",
+      "fetchedAt": "2026-11-03T20:10:49.021+08:00",
       "error": null
     }
   }
