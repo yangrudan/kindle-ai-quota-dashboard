@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T19:10:09.292+08:00",
+  "updatedAt": "2026-11-03T19:20:47.156+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T19:10:09.292+08:00",
+    "fetchedAt": "2026-11-03T19:20:47.156+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "辽宁丹东百年银杏大道吸引游客",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725484.shtml",
+        "publishedAt": "2026-11-03T19:10:39.000+08:00"
+      },
+      {
+        "title": "七国入围！2036年奥运会将花落谁家？",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725513.shtml",
+        "publishedAt": "2026-11-03T19:09:08.000+08:00"
+      },
       {
         "title": "第七届民族美术作品展览在呼和浩特开展",
         "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725480.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026“一带一路”媒体合作论坛在福州举行",
         "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725489.shtml",
         "publishedAt": "2026-11-03T18:59:12.000+08:00"
-      },
-      {
-        "title": "浙江“美丽经济”观察：监管如何为化妆品产业搭桥？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725502.shtml",
-        "publishedAt": "2026-11-03T18:58:36.000+08:00"
-      },
-      {
-        "title": "江苏省工业和信息化厅党组成员谢中东接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725487.shtml",
-        "publishedAt": "2026-11-03T18:50:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T19:10:03.700+08:00",
+    "fetchedAt": "2026-11-03T19:20:12.008+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T19:10:07.908+08:00",
+      "fetchedAt": "2026-11-03T19:20:45.639+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T19:10:08.257+08:00",
+      "fetchedAt": "2026-11-03T19:20:45.989+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T19:10:08.265+08:00",
+      "fetchedAt": "2026-11-03T19:20:45.992+08:00",
       "error": null
     }
   }
