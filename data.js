@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T23:30:10.604+08:00",
+  "updatedAt": "2026-11-03T23:40:08.765+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T23:30:10.604+08:00",
+    "fetchedAt": "2026-11-03T23:40:08.765+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026 GAI+C大会在京举行 启动“央企人工智能场景共创伙伴计划”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725652.shtml",
-        "publishedAt": "2026-11-03T23:21:36.000+08:00"
+        "title": "宁夏特色农产品亮相全国粮油和大豆产业博览会 产销对接收获颇丰",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725666.shtml",
+        "publishedAt": "2026-11-03T23:35:53.000+08:00"
       },
       {
-        "title": "中国首个新能源资源循环利用规模化项目开建",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725642.shtml",
-        "publishedAt": "2026-11-03T23:20:44.000+08:00"
+        "title": "海南侨乡万宁兴隆咖啡 “买全球、卖全球”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725665.shtml",
+        "publishedAt": "2026-11-03T23:35:19.000+08:00"
       },
       {
-        "title": "前沿科技助流失海外敦煌文物辟“回归”新径",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725641.shtml",
-        "publishedAt": "2026-11-03T23:20:04.000+08:00"
+        "title": "数字科技激活苗乡文化 湖南城步拓展文旅融合新场景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725664.shtml",
+        "publishedAt": "2026-11-03T23:33:41.000+08:00"
       },
       {
-        "title": "让数据可用可信可流通 北大医学部等新建联合实验室",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725651.shtml",
-        "publishedAt": "2026-11-03T23:17:04.000+08:00"
+        "title": "浙江海事金融探索迎新突破 落地首笔自贸区船舶授信业务",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725661.shtml",
+        "publishedAt": "2026-11-03T23:31:19.000+08:00"
       },
       {
-        "title": "（机遇香港）试点“港通天下” 香港助力国家航空网络发展再提速",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725640.shtml",
-        "publishedAt": "2026-11-03T23:15:42.000+08:00"
+        "title": "香港机管局与土耳其航空签署谅解备忘录",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725660.shtml",
+        "publishedAt": "2026-11-03T23:29:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T23:30:04.596+08:00",
+    "fetchedAt": "2026-11-03T23:40:03.178+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T23:30:08.814+08:00",
+      "fetchedAt": "2026-11-03T23:40:07.480+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T04:30:10.000+08:00"
+          "resetAt": "2026-11-04T04:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T23:30:09.206+08:00",
+      "fetchedAt": "2026-11-03T23:40:07.737+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T23:30:09.211+08:00",
+      "fetchedAt": "2026-11-03T23:40:07.746+08:00",
       "error": null
     }
   }
