@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T20:10:50.784+08:00",
+  "updatedAt": "2026-11-03T20:20:09.831+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
+    "description": "多云",
+    "iconKey": "cloudy",
     "tempC": 16.1,
     "feelsLikeC": 16.2,
     "humidity": 94,
-    "windKph": 11,
+    "windKph": 11.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T20:10:50.784+08:00",
+    "observedAt": "2026-11-03T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T20:20:09.831+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,7 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新华社快讯：亚太经合组织第37届外交和贸易双部长视频会议举行",
+        "title": "亚太经合组织第37届外交和贸易双部长视频会议举行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725552.shtml",
         "publishedAt": "2026-11-03T20:02:03.000+08:00"
       },
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-03T19:55:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T20:10:12.137+08:00",
+    "fetchedAt": "2026-11-03T20:20:03.903+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T20:10:48.635+08:00",
+      "fetchedAt": "2026-11-03T20:20:08.304+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T01:10:49.000+08:00"
+          "resetAt": "2026-11-04T01:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T20:10:49.012+08:00",
+      "fetchedAt": "2026-11-03T20:20:08.615+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T20:10:49.021+08:00",
+      "fetchedAt": "2026-11-03T20:20:08.624+08:00",
       "error": null
     }
   }
