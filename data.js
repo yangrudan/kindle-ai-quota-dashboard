@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T11:10:10.567+08:00",
+  "updatedAt": "2026-11-03T11:20:15.688+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17,
+    "tempC": 17.1,
     "feelsLikeC": 17.4,
-    "humidity": 79,
-    "windKph": 4.1,
+    "humidity": 78,
+    "windKph": 4.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T11:10:10.567+08:00",
+    "observedAt": "2026-11-03T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T11:20:15.688+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "数字人民币发工资的变与不变",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725216.shtml",
-        "publishedAt": "2026-11-03T11:00:18.000+08:00"
+        "title": "贵州省贵阳市政府原党组成员、副市长高杨被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725218.shtml",
+        "publishedAt": "2026-11-03T11:14:15.000+08:00"
       },
       {
-        "title": "甘肃文县天池秋色如画",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209601.shtml",
-        "publishedAt": "2026-11-03T11:00:08.000+08:00"
+        "title": "中国气象局：11月气候趋势预测建议重点关注四个方面",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725217.shtml",
+        "publishedAt": "2026-11-03T11:12:43.000+08:00"
       },
       {
-        "title": "守望相助的“滇批”精神在云岭乌蒙小小徐婚礼上具象化了",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725148.shtml",
-        "publishedAt": "2026-11-03T10:58:42.000+08:00"
+        "title": "捐赠178.5万元！广东侨心基金会助力阳江医教提质",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725205.shtml",
+        "publishedAt": "2026-11-03T11:12:35.000+08:00"
       },
       {
-        "title": "俄军轰炸乌克兰扎波罗热一人道援助点 致26人遇难",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725209.shtml",
-        "publishedAt": "2026-11-03T10:55:26.000+08:00"
+        "title": "吉林省促进“两个健康”综合服务平台宣传推广暨民营企业诉求收集办理培训班在长春举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725204.shtml",
+        "publishedAt": "2026-11-03T11:10:25.000+08:00"
       },
       {
-        "title": "我国人工智能发展速度及应用规模全球领先",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725213.shtml",
-        "publishedAt": "2026-11-03T10:54:06.000+08:00"
+        "title": "云岭动态第三十二期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725203.shtml",
+        "publishedAt": "2026-11-03T11:08:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T11:10:03.559+08:00",
+    "fetchedAt": "2026-11-03T11:20:04.239+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T11:10:09.162+08:00",
+      "fetchedAt": "2026-11-03T11:20:13.483+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 53,
+          "usedPct": 58,
           "resetAt": "2026-11-03T14:30:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 50,
+          "usedPct": 51,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T11:10:09.489+08:00",
+      "fetchedAt": "2026-11-03T11:20:13.766+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T11:10:09.499+08:00",
+      "fetchedAt": "2026-11-03T11:20:13.795+08:00",
       "error": null
     }
   }
