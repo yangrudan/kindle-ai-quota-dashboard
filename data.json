@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T18:10:10.904+08:00",
+  "updatedAt": "2026-11-03T18:20:10.587+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
+    "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 16.4,
-    "feelsLikeC": 16.9,
-    "humidity": 93,
-    "windKph": 8,
+    "tempC": 16.3,
+    "feelsLikeC": 16.8,
+    "humidity": 94,
+    "windKph": 8.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T18:10:10.904+08:00",
+    "observedAt": "2026-11-03T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T18:20:10.587+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "科左后旗市场监督管理局开展肉制品小作坊专项检查",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725453.shtml",
-        "publishedAt": "2026-11-03T17:55:38.000+08:00"
+        "title": "世界黄金协会：今年第三季度全球黄金总需求同比下降1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725472.shtml",
+        "publishedAt": "2026-11-03T18:13:19.000+08:00"
       },
       {
-        "title": "港珠澳大桥29项智能运维标准纳入“湾区标准”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725458.shtml",
-        "publishedAt": "2026-11-03T17:54:52.000+08:00"
+        "title": "第五届“京彩大创”北京大学生创新创业大赛收官",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725470.shtml",
+        "publishedAt": "2026-11-03T18:12:49.000+08:00"
       },
       {
-        "title": "重庆合川加快建设成渝地区双城经济圈区域中心城市",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725459.shtml",
-        "publishedAt": "2026-11-03T17:53:22.000+08:00"
+        "title": "重庆合川：多举措推动钓鱼城从“历史深处”走向“世界前台”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725469.shtml",
+        "publishedAt": "2026-11-03T18:12:23.000+08:00"
       },
       {
-        "title": "凸显科技范和国际化 中国国际粮油博览会将在厦门举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725456.shtml",
-        "publishedAt": "2026-11-03T17:53:10.000+08:00"
+        "title": "阿曼苏丹访华期间见证21项双边合作成果集中展示",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725471.shtml",
+        "publishedAt": "2026-11-03T18:10:55.000+08:00"
       },
       {
-        "title": "佩斯科夫：俄美乌三方会谈10日至11日在阿布扎比举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725462.shtml",
-        "publishedAt": "2026-11-03T17:49:34.000+08:00"
+        "title": "湖北随州千年银杏谷游客沉浸式感受秋日浪漫",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725464.shtml",
+        "publishedAt": "2026-11-03T18:07:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T18:10:03.915+08:00",
+    "fetchedAt": "2026-11-03T18:20:04.150+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T18:10:09.609+08:00",
+      "fetchedAt": "2026-11-03T18:20:08.525+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T18:10:09.824+08:00",
+      "fetchedAt": "2026-11-03T18:20:08.682+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T18:10:09.832+08:00",
+      "fetchedAt": "2026-11-03T18:20:08.692+08:00",
       "error": null
     }
   }
