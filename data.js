@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T10:30:43.249+08:00",
+  "updatedAt": "2026-11-03T10:40:39.687+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-03T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T10:30:43.249+08:00",
+    "fetchedAt": "2026-11-03T10:40:39.688+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "带伞！今明两天江西大范围降雨持续 中北部部分地区有大雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725191.shtml",
-        "publishedAt": "2026-11-03T10:27:22.000+08:00"
+        "title": "宁夏盐碱水养鲈新模式入选全国农业典型案例 实现错季上市增收",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725143.shtml",
+        "publishedAt": "2026-11-03T10:32:22.000+08:00"
       },
       {
-        "title": "黎族爱情传说经久不衰 境外媒体人探寻“爱”在三亚“鹿回头”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725183.shtml",
-        "publishedAt": "2026-11-03T10:27:18.000+08:00"
+        "title": "国际研究：到2050年全球宫颈癌病例数和死亡人数或将上升",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725187.shtml",
+        "publishedAt": "2026-11-03T10:30:54.000+08:00"
       },
       {
-        "title": "陕西：击剑冠军走进校园 小剑手近距离感受击剑魅力",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725186.shtml",
-        "publishedAt": "2026-11-03T10:26:28.000+08:00"
+        "title": "全国放心消费平台正式上线",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725189.shtml",
+        "publishedAt": "2026-11-03T10:30:12.000+08:00"
       },
       {
-        "title": "东莞民营企业家日·莞商（侨商）大会签约意向总金额近220亿元",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-03/10725144.shtml",
-        "publishedAt": "2026-11-03T10:25:28.000+08:00"
+        "title": "游艇上的三亚：向“亚太游艇之都”迈进",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725188.shtml",
+        "publishedAt": "2026-11-03T10:29:44.000+08:00"
       },
       {
-        "title": "广西引导强优民营企业助力向海经济高质量发展",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725145.shtml",
-        "publishedAt": "2026-11-03T10:23:02.000+08:00"
+        "title": "非方青年西安行：既见“中国科技”亦感“文化底蕴”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725185.shtml",
+        "publishedAt": "2026-11-03T10:27:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T10:30:04.711+08:00",
+    "fetchedAt": "2026-11-03T10:40:04.090+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T10:30:41.375+08:00",
+      "fetchedAt": "2026-11-03T10:40:38.270+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 34,
           "resetAt": "2026-11-03T14:30:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 46,
+          "usedPct": 47,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T10:30:41.796+08:00",
+      "fetchedAt": "2026-11-03T10:40:38.536+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T10:30:41.805+08:00",
+      "fetchedAt": "2026-11-03T10:40:38.545+08:00",
       "error": null
     }
   }
