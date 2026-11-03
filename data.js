@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T14:50:11.125+08:00",
+  "updatedAt": "2026-11-03T15:00:12.993+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 17.6,
-    "feelsLikeC": 18.3,
-    "humidity": 78,
-    "windKph": 3.1,
+    "feelsLikeC": 17.9,
+    "humidity": 79,
+    "windKph": 6.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T14:50:11.125+08:00",
+    "observedAt": "2026-11-03T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T15:00:12.993+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "求职测评层层加码，招聘岂能变成“漫长闯关”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725317.shtml",
-        "publishedAt": "2026-11-03T14:37:10.000+08:00"
+        "title": "西藏大学联合上海交通大学开展巡边实践活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725334.shtml",
+        "publishedAt": "2026-11-03T14:55:07.000+08:00"
       },
       {
-        "title": "赋能生物医药青年创业，年度第50个矩阵项目→",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725293.shtml",
-        "publishedAt": "2026-11-03T14:34:02.000+08:00"
+        "title": "《听见中轴·看见北京》音乐会带观众聆听700年北京中轴线",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725322.shtml",
+        "publishedAt": "2026-11-03T14:54:31.000+08:00"
       },
       {
-        "title": "联合国第十五届能源可持续发展国际论坛在西安开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725314.shtml",
-        "publishedAt": "2026-11-03T14:31:31.000+08:00"
+        "title": "大连空港口岸今年出入境客流总量突破100万人次",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725321.shtml",
+        "publishedAt": "2026-11-03T14:54:25.000+08:00"
       },
       {
-        "title": "金融机构外汇存款准备金率提高到6%有何意义？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725310.shtml",
-        "publishedAt": "2026-11-03T14:29:05.000+08:00"
+        "title": "河北博物院亚美尼亚文物展 百余件珍品见证中外文明互鉴",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725327.shtml",
+        "publishedAt": "2026-11-03T14:49:32.000+08:00"
       },
       {
-        "title": "到2030年中国海洋生产总值预计突破13万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725291.shtml",
-        "publishedAt": "2026-11-03T14:27:07.000+08:00"
+        "title": "我国广电视听形成“两个10亿”超大规模市场格局",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725332.shtml",
+        "publishedAt": "2026-11-03T14:49:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T14:50:04.954+08:00",
+    "fetchedAt": "2026-11-03T15:00:03.752+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T14:50:09.171+08:00",
+      "fetchedAt": "2026-11-03T15:00:11.718+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 32,
           "resetAt": "2026-11-03T19:31:52.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T14:50:09.513+08:00",
+      "fetchedAt": "2026-11-03T15:00:11.887+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T14:50:09.522+08:00",
+      "fetchedAt": "2026-11-03T15:00:11.891+08:00",
       "error": null
     }
   }
