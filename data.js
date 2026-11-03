@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T11:00:41.106+08:00",
+  "updatedAt": "2026-11-03T11:10:10.567+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-03T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T11:00:41.106+08:00",
+    "fetchedAt": "2026-11-03T11:10:10.567+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "数字人民币发工资的变与不变",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725216.shtml",
+        "publishedAt": "2026-11-03T11:00:18.000+08:00"
+      },
+      {
+        "title": "甘肃文县天池秋色如画",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209601.shtml",
+        "publishedAt": "2026-11-03T11:00:08.000+08:00"
+      },
+      {
+        "title": "守望相助的“滇批”精神在云岭乌蒙小小徐婚礼上具象化了",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725148.shtml",
+        "publishedAt": "2026-11-03T10:58:42.000+08:00"
+      },
+      {
+        "title": "俄军轰炸乌克兰扎波罗热一人道援助点 致26人遇难",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725209.shtml",
+        "publishedAt": "2026-11-03T10:55:26.000+08:00"
+      },
+      {
         "title": "我国人工智能发展速度及应用规模全球领先",
         "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725213.shtml",
         "publishedAt": "2026-11-03T10:54:06.000+08:00"
-      },
-      {
-        "title": "中央气象台：未来十天西南地区东部江南降雨增多",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725206.shtml",
-        "publishedAt": "2026-11-03T10:54:00.000+08:00"
-      },
-      {
-        "title": "中国气象局发布今冬明春气候预测 最强厄尔尼诺事件影响明显",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725212.shtml",
-        "publishedAt": "2026-11-03T10:52:06.000+08:00"
-      },
-      {
-        "title": "以赛促研，以研促产：拼多多“千亿扶持”助力青年科学家在夏秋“断档期”种出国产草莓",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725158.shtml",
-        "publishedAt": "2026-11-03T10:51:38.000+08:00"
-      },
-      {
-        "title": "门窗没坏，28楼财物为何不翼而飞？办案部门还原盗窃过程破解迷局",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-03/10725211.shtml",
-        "publishedAt": "2026-11-03T10:50:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T11:00:04.908+08:00",
+    "fetchedAt": "2026-11-03T11:10:03.559+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T11:00:39.627+08:00",
+      "fetchedAt": "2026-11-03T11:10:09.162+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 47,
+          "usedPct": 53,
           "resetAt": "2026-11-03T14:30:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 49,
+          "usedPct": 50,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T11:00:39.928+08:00",
+      "fetchedAt": "2026-11-03T11:10:09.489+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T11:00:39.932+08:00",
+      "fetchedAt": "2026-11-03T11:10:09.499+08:00",
       "error": null
     }
   }
