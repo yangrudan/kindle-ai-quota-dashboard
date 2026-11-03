@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T11:20:15.688+08:00",
+  "updatedAt": "2026-11-03T11:30:20.905+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.1,
-    "feelsLikeC": 17.4,
-    "humidity": 78,
-    "windKph": 4.7,
+    "feelsLikeC": 17.3,
+    "humidity": 77,
+    "windKph": 5.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T11:20:15.688+08:00",
+    "observedAt": "2026-11-03T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T11:30:20.906+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "雨连连！今明天南方降雨将增多增强 6日至8日新一轮降雨发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725222.shtml",
+        "publishedAt": "2026-11-03T11:15:43.000+08:00"
+      },
       {
         "title": "贵州省贵阳市政府原党组成员、副市长高杨被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725218.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "吉林省促进“两个健康”综合服务平台宣传推广暨民营企业诉求收集办理培训班在长春举办",
         "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725204.shtml",
         "publishedAt": "2026-11-03T11:10:25.000+08:00"
-      },
-      {
-        "title": "云岭动态第三十二期",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725203.shtml",
-        "publishedAt": "2026-11-03T11:08:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T11:20:04.239+08:00",
+    "fetchedAt": "2026-11-03T11:30:03.423+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T11:20:13.483+08:00",
+      "fetchedAt": "2026-11-03T11:30:08.328+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
+          "usedPct": 63,
           "resetAt": "2026-11-03T14:30:49.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T11:20:13.766+08:00",
+      "fetchedAt": "2026-11-03T11:30:08.945+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T11:20:13.795+08:00",
+      "fetchedAt": "2026-11-03T11:30:08.948+08:00",
       "error": null
     }
   }
