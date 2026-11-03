@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T18:50:39.531+08:00",
+  "updatedAt": "2026-11-03T19:00:13.563+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 16.2,
+    "tempC": 16.1,
     "feelsLikeC": 16.7,
-    "humidity": 94,
-    "windKph": 8.1,
+    "humidity": 95,
+    "windKph": 8.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-03T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T18:50:39.531+08:00",
+    "observedAt": "2026-11-03T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T19:00:13.563+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "哈尔滨迎首场降雪 未来两日局地有大雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725488.shtml",
-        "publishedAt": "2026-11-03T18:46:49.000+08:00"
+        "title": "江苏省工业和信息化厅党组成员谢中东接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725487.shtml",
+        "publishedAt": "2026-11-03T18:50:27.000+08:00"
       },
       {
-        "title": "新疆和田地区纺织服装高质量发展大会举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725494.shtml",
-        "publishedAt": "2026-11-03T18:46:15.000+08:00"
+        "title": "美国亚利桑那大学教授王明武：中国干眼治疗科普教育与研发技术已走在世界前列",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725496.shtml",
+        "publishedAt": "2026-11-03T18:49:59.000+08:00"
       },
       {
-        "title": "（第九届进博会）上海海关优化特许审批流程助力进博会展品首发首秀",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725495.shtml",
-        "publishedAt": "2026-11-03T18:45:05.000+08:00"
+        "title": "张升民会见俄罗斯国防部长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725481.shtml",
+        "publishedAt": "2026-11-03T18:49:01.000+08:00"
       },
       {
-        "title": "海南岛国际电影节升级惠民举措惠及市民游客",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725491.shtml",
-        "publishedAt": "2026-11-03T18:43:59.000+08:00"
+        "title": "沈阳机床股份有限公司副总经理陈红海接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725485.shtml",
+        "publishedAt": "2026-11-03T18:48:35.000+08:00"
       },
       {
-        "title": "“十五五”时期，郑州如何擦亮现代服务业“金”字招牌？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725493.shtml",
-        "publishedAt": "2026-11-03T18:43:01.000+08:00"
+        "title": "草原好货“出乡记”：中国北疆返乡“90后”创业观察",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725486.shtml",
+        "publishedAt": "2026-11-03T18:48:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T18:50:02.678+08:00",
+    "fetchedAt": "2026-11-03T19:00:03.385+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-03T18:50:38.120+08:00",
+      "fetchedAt": "2026-11-03T19:00:10.567+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T18:50:38.556+08:00",
+      "fetchedAt": "2026-11-03T19:00:10.893+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-03T18:50:38.565+08:00",
+      "fetchedAt": "2026-11-03T19:00:10.902+08:00",
       "error": null
     }
   }
