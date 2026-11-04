@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T16:40:07.680+08:00",
+  "updatedAt": "2026-11-04T16:50:19.833+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-04T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T16:40:07.680+08:00",
+    "fetchedAt": "2026-11-04T16:50:19.833+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "资源型城市如何“修山”？重庆万盛将在采煤沉陷区种“风光”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726059.shtml",
-        "publishedAt": "2026-11-04T16:36:47.000+08:00"
+        "title": "中国驻马里大使馆提醒中国公民加强安全防范",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-04/10726069.shtml",
+        "publishedAt": "2026-11-04T16:45:13.000+08:00"
       },
       {
-        "title": "山西“十五五”：力争九成疑难复杂手术在省内实施",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726060.shtml",
-        "publishedAt": "2026-11-04T16:36:41.000+08:00"
+        "title": "Token登上消费货架 明码标价是底线不是奢求",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726070.shtml",
+        "publishedAt": "2026-11-04T16:44:49.000+08:00"
       },
       {
-        "title": "山西将投入6亿元支持30个县升级紧密型县域医共体",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726062.shtml",
-        "publishedAt": "2026-11-04T16:36:37.000+08:00"
+        "title": "敦煌文创IP“不拘一格”探千年文化活化之路",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726056.shtml",
+        "publishedAt": "2026-11-04T16:44:39.000+08:00"
       },
       {
-        "title": "加拿大商界人士：深圳APEC会议是落实加中高层共识的绝佳契机",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726061.shtml",
-        "publishedAt": "2026-11-04T16:35:33.000+08:00"
+        "title": "在新疆，“种”出一个家",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726068.shtml",
+        "publishedAt": "2026-11-04T16:44:25.000+08:00"
       },
       {
-        "title": "广交会观察：境外采购商寻“鲜”中国风味",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726042.shtml",
-        "publishedAt": "2026-11-04T16:35:29.000+08:00"
+        "title": "国台办：台湾30多家企业将参加第九届进博会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726049.shtml",
+        "publishedAt": "2026-11-04T16:43:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T16:40:02.688+08:00",
+    "fetchedAt": "2026-11-04T16:50:13.066+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T16:40:06.503+08:00",
+      "fetchedAt": "2026-11-04T16:50:18.288+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 45,
+          "usedPct": 46,
           "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T16:40:06.761+08:00",
+      "fetchedAt": "2026-11-04T16:50:18.615+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T16:40:06.765+08:00",
+      "fetchedAt": "2026-11-04T16:50:18.625+08:00",
       "error": null
     }
   }
