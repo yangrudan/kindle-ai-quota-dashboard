@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T09:50:08.909+08:00",
+  "updatedAt": "2026-11-04T10:00:40.197+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 17.1,
-    "feelsLikeC": 19.1,
+    "tempC": 17.2,
+    "feelsLikeC": 19.2,
     "humidity": 97,
-    "windKph": 1.7,
+    "windKph": 2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T09:50:08.909+08:00",
+    "observedAt": "2026-11-04T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T10:00:40.197+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "云南省妇女儿童活动中心建成开放 拓展公益服务新空间",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725771.shtml",
+        "publishedAt": "2026-11-04T09:51:37.000+08:00"
+      },
+      {
+        "title": "云南江城：亚洲象家族添新丁",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725772.shtml",
+        "publishedAt": "2026-11-04T09:51:29.000+08:00"
+      },
+      {
+        "title": "187件故宫珍品亮相香港 呈现清代宫廷四季生活",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10725775.shtml",
+        "publishedAt": "2026-11-04T09:50:51.000+08:00"
+      },
+      {
+        "title": "2026安徽摄影季收官 光影架桥联通多元文化",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725774.shtml",
+        "publishedAt": "2026-11-04T09:50:43.000+08:00"
+      },
+      {
         "title": "可一键标记！“床虱地图”小程序走红",
         "url": "https://www.chinanews.com.cn/life/2026/11-04/10725773.shtml",
         "publishedAt": "2026-11-04T09:44:40.000+08:00"
-      },
-      {
-        "title": "市场监管总局就《市场监督管理行政处罚裁量规定》答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725749.shtml",
-        "publishedAt": "2026-11-04T09:40:52.000+08:00"
-      },
-      {
-        "title": "爱奇艺“爆前计划”高口碑武侠片《杯雪·一战成名》举办线下观影会 主创揭秘幕后创作故事现场获赞",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725767.shtml",
-        "publishedAt": "2026-11-04T09:40:14.000+08:00"
-      },
-      {
-        "title": "量贩零食店越开越多 是真低价还是定价魔术？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725768.shtml",
-        "publishedAt": "2026-11-04T09:38:46.000+08:00"
-      },
-      {
-        "title": "瑞幸2026Q3净增门店2599家 全球门店总数达38909家",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725764.shtml",
-        "publishedAt": "2026-11-04T09:37:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T09:50:03.884+08:00",
+    "fetchedAt": "2026-11-04T10:00:04.190+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T09:50:07.511+08:00",
+      "fetchedAt": "2026-11-04T10:00:38.607+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T14:50:08.000+08:00"
+          "resetAt": "2026-11-04T15:00:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T09:50:07.656+08:00",
+      "fetchedAt": "2026-11-04T10:00:38.866+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T09:50:07.665+08:00",
+      "fetchedAt": "2026-11-04T10:00:38.875+08:00",
       "error": null
     }
   }
