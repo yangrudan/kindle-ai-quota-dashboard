@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T09:40:18.131+08:00",
+  "updatedAt": "2026-11-04T09:50:08.909+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 17,
-    "feelsLikeC": 19,
-    "humidity": 96,
-    "windKph": 1.4,
+    "tempC": 17.1,
+    "feelsLikeC": 19.1,
+    "humidity": 97,
+    "windKph": 1.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T09:40:18.131+08:00",
+    "observedAt": "2026-11-04T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-04T09:50:08.909+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "可一键标记！“床虱地图”小程序走红",
+        "url": "https://www.chinanews.com.cn/life/2026/11-04/10725773.shtml",
+        "publishedAt": "2026-11-04T09:44:40.000+08:00"
+      },
+      {
+        "title": "市场监管总局就《市场监督管理行政处罚裁量规定》答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725749.shtml",
+        "publishedAt": "2026-11-04T09:40:52.000+08:00"
+      },
+      {
+        "title": "爱奇艺“爆前计划”高口碑武侠片《杯雪·一战成名》举办线下观影会 主创揭秘幕后创作故事现场获赞",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725767.shtml",
+        "publishedAt": "2026-11-04T09:40:14.000+08:00"
+      },
+      {
+        "title": "量贩零食店越开越多 是真低价还是定价魔术？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725768.shtml",
+        "publishedAt": "2026-11-04T09:38:46.000+08:00"
+      },
+      {
         "title": "瑞幸2026Q3净增门店2599家 全球门店总数达38909家",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725764.shtml",
         "publishedAt": "2026-11-04T09:37:26.000+08:00"
-      },
-      {
-        "title": "A股开盘：沪指低开，深指、创业板指高开，超2600只个股飘红",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725765.shtml",
-        "publishedAt": "2026-11-04T09:34:32.000+08:00"
-      },
-      {
-        "title": "丰城市委统战部开展“同心同行·共筑同心圆”主题党日活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725758.shtml",
-        "publishedAt": "2026-11-04T09:34:28.000+08:00"
-      },
-      {
-        "title": "服务零售额增长5%，折射消费之变",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725761.shtml",
-        "publishedAt": "2026-11-04T09:32:12.000+08:00"
-      },
-      {
-        "title": "预计耗费约120亿美元，美媒：本次中期选举成史上最“烧钱”一届",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725760.shtml",
-        "publishedAt": "2026-11-04T09:31:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T09:40:12.733+08:00",
+    "fetchedAt": "2026-11-04T09:50:03.884+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T09:40:16.426+08:00",
+      "fetchedAt": "2026-11-04T09:50:07.511+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T14:40:17.000+08:00"
+          "resetAt": "2026-11-04T14:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T09:40:16.576+08:00",
+      "fetchedAt": "2026-11-04T09:50:07.656+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T09:40:16.585+08:00",
+      "fetchedAt": "2026-11-04T09:50:07.665+08:00",
       "error": null
     }
   }
