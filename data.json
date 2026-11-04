@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T06:50:38.893+08:00",
+  "updatedAt": "2026-11-05T07:00:10.535+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.1,
-    "feelsLikeC": 13.5,
-    "humidity": 84,
-    "windKph": 16.1,
+    "tempC": 15.2,
+    "feelsLikeC": 13.4,
+    "humidity": 83,
+    "windKph": 16.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T06:50:38.893+08:00",
+    "observedAt": "2026-11-05T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T07:00:10.535+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "以军宣布：打死哈马斯军事情报行动负责人",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726343.shtml",
+        "publishedAt": "2026-11-05T06:54:58.000+08:00"
+      },
+      {
+        "title": "各项筹备工作就绪 一组数据带你提前了解进博会亮点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726342.shtml",
+        "publishedAt": "2026-11-05T06:51:44.000+08:00"
+      },
+      {
+        "title": "南非举行地方政府选举",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726335.shtml",
+        "publishedAt": "2026-11-05T06:50:02.000+08:00"
+      },
+      {
+        "title": "特朗普称不后悔对伊动武 伊称美选举结果难改敌意 双方分歧仍难弥合",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726340.shtml",
+        "publishedAt": "2026-11-05T06:45:41.000+08:00"
+      },
+      {
         "title": "10月中国电商物流指数持续回暖向好 旺季履约保障有力",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726339.shtml",
         "publishedAt": "2026-11-05T06:43:39.000+08:00"
-      },
-      {
-        "title": "无端贬损、排挤孤立、越界骚扰……破解对抗“职场软暴力”维权难题",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726338.shtml",
-        "publishedAt": "2026-11-05T06:43:15.000+08:00"
-      },
-      {
-        "title": "中东欧四国总统峰会在斯洛伐克举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726334.shtml",
-        "publishedAt": "2026-11-05T00:09:38.000+08:00"
-      },
-      {
-        "title": "进博会接力广交会 合作共赢如何再走深？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726333.shtml",
-        "publishedAt": "2026-11-04T23:45:50.000+08:00"
-      },
-      {
-        "title": "（经济观察）香港渐成中企“跨境架构中枢”和“国际标准试验场”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726325.shtml",
-        "publishedAt": "2026-11-04T23:45:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T06:50:03.875+08:00",
+    "fetchedAt": "2026-11-05T07:00:04.951+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T06:50:37.492+08:00",
+      "fetchedAt": "2026-11-05T07:00:09.247+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T11:50:38.000+08:00"
+          "resetAt": "2026-11-05T12:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T06:50:37.707+08:00",
+      "fetchedAt": "2026-11-05T07:00:09.491+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T06:50:37.715+08:00",
+      "fetchedAt": "2026-11-05T07:00:09.494+08:00",
       "error": null
     }
   }
