@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T18:30:09.448+08:00",
+  "updatedAt": "2026-11-04T18:40:08.745+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-04T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T18:30:09.449+08:00",
+    "fetchedAt": "2026-11-04T18:40:08.745+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国首单港口物流公募REITs在天津获批",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726133.shtml",
-        "publishedAt": "2026-11-04T18:21:08.000+08:00"
+        "title": "中国—岛屿国家海洋合作论坛在福建平潭开幕 共商海岛可持续治理",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726145.shtml",
+        "publishedAt": "2026-11-04T18:37:39.000+08:00"
       },
       {
-        "title": "福建武夷山至韩国首尔航线复航",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726132.shtml",
-        "publishedAt": "2026-11-04T18:20:32.000+08:00"
+        "title": "大陆船只在台湾周边海域巡查涉及军事目的？国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726143.shtml",
+        "publishedAt": "2026-11-04T18:37:31.000+08:00"
       },
       {
-        "title": "海南：支持存量土地混合开发与容积率跨地块转移",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726131.shtml",
-        "publishedAt": "2026-11-04T18:19:42.000+08:00"
+        "title": "报告：中国智能经济呈现强劲增长态势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726142.shtml",
+        "publishedAt": "2026-11-04T18:36:11.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会上海馆：八大板块解锁“上海定制”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726130.shtml",
-        "publishedAt": "2026-11-04T18:18:58.000+08:00"
+        "title": "中国开工建造全球首艘液氨双燃料动力阿芙拉型油船",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726141.shtml",
+        "publishedAt": "2026-11-04T18:35:27.000+08:00"
       },
       {
-        "title": "竖屏里的中国故事：从“中国热播”到“全球通刷”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726129.shtml",
-        "publishedAt": "2026-11-04T18:12:34.000+08:00"
+        "title": "前三季度广州新引进项目计划投资总额3493亿元 同比增149%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726140.shtml",
+        "publishedAt": "2026-11-04T18:35:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T18:30:03.893+08:00",
+    "fetchedAt": "2026-11-04T18:40:03.223+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T18:30:07.997+08:00",
+      "fetchedAt": "2026-11-04T18:40:07.409+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T18:30:08.332+08:00",
+      "fetchedAt": "2026-11-04T18:40:07.780+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T18:30:08.340+08:00",
+      "fetchedAt": "2026-11-04T18:40:07.789+08:00",
       "error": null
     }
   }
