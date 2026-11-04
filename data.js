@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T20:20:10.449+08:00",
+  "updatedAt": "2026-11-04T20:30:11.712+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
-    "feelsLikeC": 18.4,
-    "humidity": 97,
-    "windKph": 3.1,
+    "tempC": 16.6,
+    "feelsLikeC": 18.3,
+    "humidity": 98,
+    "windKph": 2.9,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T20:20:10.449+08:00",
+    "observedAt": "2026-11-04T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T20:30:11.712+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "四川省高原病防治基地落成启用 提供“预防—治疗—康复”全周期健康服务体系",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-04/10726213.shtml",
+        "publishedAt": "2026-11-04T20:21:51.000+08:00"
+      },
+      {
+        "title": "第九届进博会中国石化采购签约达413亿美元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726207.shtml",
+        "publishedAt": "2026-11-04T20:21:15.000+08:00"
+      },
+      {
+        "title": "立时代现场育强国少年 《天地大课堂》收官",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726208.shtml",
+        "publishedAt": "2026-11-04T20:18:57.000+08:00"
+      },
       {
         "title": "李强会见世界知识产权组织总干事邓鸿森",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726182.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "全国政协十四届常委会第十九次会议闭幕 王沪宁主持并讲话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726194.shtml",
         "publishedAt": "2026-11-04T20:06:00.000+08:00"
-      },
-      {
-        "title": "香港邮政将发行“纪念孙中山先生诞辰160周年”纪念邮票",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726201.shtml",
-        "publishedAt": "2026-11-04T20:05:08.000+08:00"
-      },
-      {
-        "title": "从“制”到“智” 从“煤”到“美”：重庆万盛“十五五”谋划绿色低碳发展新路径",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726206.shtml",
-        "publishedAt": "2026-11-04T20:05:00.000+08:00"
-      },
-      {
-        "title": "中国团队领衔地震成像研究发现地球板块双撕裂关键证据",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726205.shtml",
-        "publishedAt": "2026-11-04T20:04:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T20:20:03.884+08:00",
+    "fetchedAt": "2026-11-04T20:30:05.151+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T20:20:08.917+08:00",
+      "fetchedAt": "2026-11-04T20:30:10.192+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T01:20:10.000+08:00"
+          "resetAt": "2026-11-05T01:30:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T20:20:09.305+08:00",
+      "fetchedAt": "2026-11-04T20:30:10.574+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T20:20:09.310+08:00",
+      "fetchedAt": "2026-11-04T20:30:10.580+08:00",
       "error": null
     }
   }
