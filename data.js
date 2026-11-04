@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T19:00:09.598+08:00",
+  "updatedAt": "2026-11-04T19:10:39.636+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-04T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T19:00:09.599+08:00",
+    "fetchedAt": "2026-11-04T19:10:39.636+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "糖尿病防控关键在“早” 专家支招避开误区科学控糖",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-04/10726154.shtml",
+        "publishedAt": "2026-11-04T19:00:10.000+08:00"
+      },
+      {
+        "title": "湖南祁阳优化营商环境 服务“弯腰”产业“挺腰”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726153.shtml",
+        "publishedAt": "2026-11-04T18:58:32.000+08:00"
+      },
+      {
+        "title": "捐款近5亿美元却成“最大输家之一” 马斯克发声",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726156.shtml",
+        "publishedAt": "2026-11-04T18:58:02.000+08:00"
+      },
+      {
+        "title": "清华大学留英硕士被骗40多万元后失联！收起看客心态，这场“精神围猎”值得每一个人警惕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726155.shtml",
+        "publishedAt": "2026-11-04T18:56:52.000+08:00"
+      },
+      {
         "title": "唤醒“沉睡资产” 中国文旅产业向存量空间要增长",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726151.shtml",
         "publishedAt": "2026-11-04T18:45:12.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）黑土白菜“腌”出冬日酸香 梅里斯酸菜产业铺就乡村振兴路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726150.shtml",
-        "publishedAt": "2026-11-04T18:43:50.000+08:00"
-      },
-      {
-        "title": "中国铁道建筑集团有限公司党委常委李兴龙接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726101.shtml",
-        "publishedAt": "2026-11-04T18:43:30.000+08:00"
-      },
-      {
-        "title": "黑龙江未来2天迎寒潮 局地最低气温降幅达12℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726149.shtml",
-        "publishedAt": "2026-11-04T18:43:04.000+08:00"
-      },
-      {
-        "title": "广东省揭阳市委原副书记王绍乐被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726100.shtml",
-        "publishedAt": "2026-11-04T18:42:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T19:00:04.020+08:00",
+    "fetchedAt": "2026-11-04T19:10:03.662+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T19:00:08.395+08:00",
+      "fetchedAt": "2026-11-04T19:10:38.355+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 51,
+          "usedPct": 52,
           "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T19:00:08.583+08:00",
+      "fetchedAt": "2026-11-04T19:10:38.556+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T19:00:08.589+08:00",
+      "fetchedAt": "2026-11-04T19:10:38.565+08:00",
       "error": null
     }
   }
