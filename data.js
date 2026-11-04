@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T07:30:09.237+08:00",
+  "updatedAt": "2026-11-05T07:40:10.017+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-05T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T07:30:09.237+08:00",
+    "fetchedAt": "2026-11-05T07:40:10.018+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "小心AI“谄媚”！ 60.4%受访者建议重要决定多在现实中征询不同人意见",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726350.shtml",
-        "publishedAt": "2026-11-05T07:22:59.000+08:00"
+        "title": "卖脸卖声的“躺赚”噱头后，藏着诸多风险",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726358.shtml",
+        "publishedAt": "2026-11-05T07:34:44.000+08:00"
       },
       {
-        "title": "美国突发直升机坠毁事故 致1死2伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726349.shtml",
-        "publishedAt": "2026-11-05T07:19:27.000+08:00"
+        "title": "WTA250香港公开赛：威廉姆斯/徐一璠晋级女双八强",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209820.shtml",
+        "publishedAt": "2026-11-05T07:31:40.000+08:00"
       },
       {
-        "title": "10月中国大宗商品价格指数同比上涨21.0%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726348.shtml",
-        "publishedAt": "2026-11-05T07:19:13.000+08:00"
+        "title": "大学生“副业潮”：尝试赚钱，更是认识自己",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726356.shtml",
+        "publishedAt": "2026-11-05T07:31:20.000+08:00"
       },
       {
-        "title": "军队文职人员公开招考，今起报名！这些事项要注意",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726347.shtml",
-        "publishedAt": "2026-11-05T07:16:59.000+08:00"
+        "title": "秋招面试AI攻防大战，究竟谁是赢家",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726354.shtml",
+        "publishedAt": "2026-11-05T07:28:28.000+08:00"
       },
       {
-        "title": "王毅分别会见来华出席澜湄合作第十一次外长会的越南、柬埔寨客人",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726346.shtml",
-        "publishedAt": "2026-11-05T07:03:46.000+08:00"
+        "title": "补办身份证得先刷身份证？别让便民服务被细节卡住",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726353.shtml",
+        "publishedAt": "2026-11-05T07:26:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T07:30:03.592+08:00",
+    "fetchedAt": "2026-11-05T07:40:03.891+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T07:30:07.873+08:00",
+      "fetchedAt": "2026-11-05T07:40:08.837+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T12:30:09.000+08:00"
+          "resetAt": "2026-11-05T12:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T07:30:08.088+08:00",
+      "fetchedAt": "2026-11-05T07:40:09.057+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T07:30:08.099+08:00",
+      "fetchedAt": "2026-11-05T07:40:09.061+08:00",
       "error": null
     }
   }
