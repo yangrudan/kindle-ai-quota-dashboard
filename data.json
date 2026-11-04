@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T10:30:09.937+08:00",
+  "updatedAt": "2026-11-04T10:40:07.840+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-04T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T10:30:09.937+08:00",
+    "fetchedAt": "2026-11-04T10:40:07.840+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725810.shtml",
-        "publishedAt": "2026-11-04T10:24:24.000+08:00"
+        "title": "国台办评“吉林一号”公布多张台湾高清卫星影像",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725823.shtml",
+        "publishedAt": "2026-11-04T10:35:03.000+08:00"
       },
       {
-        "title": "AI、商业航天等近300个科创项目广州同台PK",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725807.shtml",
-        "publishedAt": "2026-11-04T10:24:08.000+08:00"
+        "title": "2026伦敦世界旅游交易会中国展区开幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725802.shtml",
+        "publishedAt": "2026-11-04T10:32:43.000+08:00"
       },
       {
-        "title": "四川男篮74比82不敌福建男篮",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725804.shtml",
-        "publishedAt": "2026-11-04T10:24:06.000+08:00"
+        "title": "巴基斯坦成功试射首枚国产空对空导弹",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725798.shtml",
+        "publishedAt": "2026-11-04T10:32:07.000+08:00"
       },
       {
-        "title": "政策标准加速完善 华为乾崑助推自动驾驶商业化稳步驶入“快车道”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725800.shtml",
-        "publishedAt": "2026-11-04T10:23:26.000+08:00"
+        "title": "严密组织体系是党的优势所在力量所在——论学习贯彻党的二十届五中全会精神",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725819.shtml",
+        "publishedAt": "2026-11-04T10:32:03.000+08:00"
       },
       {
-        "title": "国台办：民进党当局种种恶行是对“中山精神”的背叛",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725808.shtml",
-        "publishedAt": "2026-11-04T10:22:44.000+08:00"
+        "title": "三方会谈前俄乌各亮议题：乌提能源停火，俄谈安全保障",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725797.shtml",
+        "publishedAt": "2026-11-04T10:31:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T10:30:02.746+08:00",
+    "fetchedAt": "2026-11-04T10:40:02.794+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T10:30:07.018+08:00",
+      "fetchedAt": "2026-11-04T10:40:06.388+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
+          "usedPct": 17,
           "resetAt": "2026-11-04T15:04:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 67,
+          "usedPct": 68,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T10:30:07.242+08:00",
+      "fetchedAt": "2026-11-04T10:40:06.642+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T10:30:07.250+08:00",
+      "fetchedAt": "2026-11-04T10:40:06.647+08:00",
       "error": null
     }
   }
