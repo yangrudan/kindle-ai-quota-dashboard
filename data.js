@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T10:50:10.385+08:00",
+  "updatedAt": "2026-11-04T11:00:10.847+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 17.3,
+    "tempC": 17.4,
     "feelsLikeC": 18.9,
     "humidity": 96,
-    "windKph": 4.7,
+    "windKph": 5.1,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T10:50:10.386+08:00",
+    "observedAt": "2026-11-04T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T11:00:10.847+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725836.shtml",
+        "publishedAt": "2026-11-04T10:50:02.000+08:00"
+      },
+      {
+        "title": "菲仕兰母婴健康社区科普行动走进河南新乡",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725833.shtml",
+        "publishedAt": "2026-11-04T10:47:54.000+08:00"
+      },
+      {
+        "title": "“文化外卖订单”第四年 她们从客厅一路弹上月光舞台",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725830.shtml",
+        "publishedAt": "2026-11-04T10:46:24.000+08:00"
+      },
       {
         "title": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725831.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "陆委会称现在没有“台独”问题 国台办回应",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725828.shtml",
         "publishedAt": "2026-11-04T10:41:41.000+08:00"
-      },
-      {
-        "title": "豫皖两省四县（市）警方跨“界”共护一方平安",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725820.shtml",
-        "publishedAt": "2026-11-04T10:38:39.000+08:00"
-      },
-      {
-        "title": "民革十四届十六次中常会在北京召开",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725821.shtml",
-        "publishedAt": "2026-11-04T10:37:47.000+08:00"
-      },
-      {
-        "title": "“驻华使节中医药健康日”在北京举办 加蓬中医药合作项目落地",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725822.shtml",
-        "publishedAt": "2026-11-04T10:37:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T10:50:03.841+08:00",
+    "fetchedAt": "2026-11-04T11:00:04.517+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T10:50:08.612+08:00",
+      "fetchedAt": "2026-11-04T11:00:09.369+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 18,
           "resetAt": "2026-11-04T15:04:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T10:50:08.882+08:00",
+      "fetchedAt": "2026-11-04T11:00:09.647+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T10:50:08.887+08:00",
+      "fetchedAt": "2026-11-04T11:00:09.654+08:00",
       "error": null
     }
   }
