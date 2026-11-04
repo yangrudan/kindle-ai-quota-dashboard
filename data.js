@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T22:00:08.361+08:00",
+  "updatedAt": "2026-11-04T22:10:08.968+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-04T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T22:00:08.362+08:00",
+    "fetchedAt": "2026-11-04T22:10:08.969+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "多部门部署加强消费基础设施建设",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726284.shtml",
-        "publishedAt": "2026-11-04T21:56:32.000+08:00"
+        "title": "江西铅山：特殊“账本”见证高山畲寨共富蝶变",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10726297.shtml",
+        "publishedAt": "2026-11-04T22:08:37.000+08:00"
       },
       {
-        "title": "向海图强：一场跨越会场与海上的“中国式商量”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726278.shtml",
-        "publishedAt": "2026-11-04T21:51:16.000+08:00"
+        "title": "2026世界斯诺克巡回赛国际锦标赛：范争一战胜对手 晋级四强",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726281.shtml",
+        "publishedAt": "2026-11-04T22:07:49.000+08:00"
       },
       {
-        "title": "世界显示产业创新发展大会成都开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726273.shtml",
-        "publishedAt": "2026-11-04T21:42:11.000+08:00"
+        "title": "数字经济产业合作大会在浙江乌镇举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726294.shtml",
+        "publishedAt": "2026-11-04T22:06:35.000+08:00"
       },
       {
-        "title": "美国邮轮因燃油资金危机停航后驶离柬埔寨",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726271.shtml",
-        "publishedAt": "2026-11-04T21:42:01.000+08:00"
+        "title": "中国首例绿猴双胞胎满月",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726293.shtml",
+        "publishedAt": "2026-11-04T22:06:05.000+08:00"
       },
       {
-        "title": "北京电影学院院长：表演创作中情感的传递无法用AI替代",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726268.shtml",
-        "publishedAt": "2026-11-04T21:41:37.000+08:00"
+        "title": "2026中国广播电视精品创作大会在京开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726291.shtml",
+        "publishedAt": "2026-11-04T22:03:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T22:00:03.180+08:00",
+    "fetchedAt": "2026-11-04T22:10:03.172+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T22:00:07.153+08:00",
+      "fetchedAt": "2026-11-04T22:10:07.536+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T22:00:07.397+08:00",
+      "fetchedAt": "2026-11-04T22:10:07.871+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T22:00:07.400+08:00",
+      "fetchedAt": "2026-11-04T22:10:07.875+08:00",
       "error": null
     }
   }
