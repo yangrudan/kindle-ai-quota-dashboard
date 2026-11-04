@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T22:10:08.968+08:00",
+  "updatedAt": "2026-11-04T22:20:39.815+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.9,
-    "feelsLikeC": 17.4,
+    "feelsLikeC": 17.3,
     "humidity": 98,
-    "windKph": 3.1,
+    "windKph": 3.3,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T22:10:08.969+08:00",
+    "observedAt": "2026-11-04T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T22:20:39.815+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江西铅山：特殊“账本”见证高山畲寨共富蝶变",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10726297.shtml",
-        "publishedAt": "2026-11-04T22:08:37.000+08:00"
+        "title": "参加香港特区选委会选举的全国青联委员见面会在港举行",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726302.shtml",
+        "publishedAt": "2026-11-04T22:13:49.000+08:00"
       },
       {
-        "title": "2026世界斯诺克巡回赛国际锦标赛：范争一战胜对手 晋级四强",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726281.shtml",
-        "publishedAt": "2026-11-04T22:07:49.000+08:00"
+        "title": "香港国际机场获颁年度机场奖等4个奖项",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726301.shtml",
+        "publishedAt": "2026-11-04T22:13:15.000+08:00"
       },
       {
-        "title": "数字经济产业合作大会在浙江乌镇举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726294.shtml",
-        "publishedAt": "2026-11-04T22:06:35.000+08:00"
+        "title": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726299.shtml",
+        "publishedAt": "2026-11-04T22:12:01.000+08:00"
       },
       {
-        "title": "中国首例绿猴双胞胎满月",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726293.shtml",
-        "publishedAt": "2026-11-04T22:06:05.000+08:00"
+        "title": "多国市长走进浙江宁波 感受城市风貌与人文魅力",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726285.shtml",
+        "publishedAt": "2026-11-04T22:10:37.000+08:00"
       },
       {
-        "title": "2026中国广播电视精品创作大会在京开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726291.shtml",
-        "publishedAt": "2026-11-04T22:03:44.000+08:00"
+        "title": "2026世界斯诺克巡回赛国际锦标赛：丁俊晖惜败 无缘四强",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726282.shtml",
+        "publishedAt": "2026-11-04T22:09:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T22:10:03.172+08:00",
+    "fetchedAt": "2026-11-04T22:20:04.291+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T22:10:07.536+08:00",
+      "fetchedAt": "2026-11-04T22:20:38.375+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T22:10:07.871+08:00",
+      "fetchedAt": "2026-11-04T22:20:38.657+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T22:10:07.875+08:00",
+      "fetchedAt": "2026-11-04T22:20:38.667+08:00",
       "error": null
     }
   }
