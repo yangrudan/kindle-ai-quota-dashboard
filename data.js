@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T14:10:16.840+08:00",
+  "updatedAt": "2026-11-04T14:20:11.918+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 19.3,
-    "feelsLikeC": 21.6,
-    "humidity": 88,
-    "windKph": 1.5,
-    "windDir": "西风",
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 19.2,
+    "feelsLikeC": 21.7,
+    "humidity": 89,
+    "windKph": 1.2,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-04T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T14:10:16.840+08:00",
+    "observedAt": "2026-11-04T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T14:20:11.918+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "加拿大总理： 俄罗斯运动员不得代表本国参加世界青年冰球锦标赛",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725896.shtml",
-        "publishedAt": "2026-11-04T14:03:22.000+08:00"
+        "title": "大湾区创科文化交流团走进香港 促粤港青年双向互通",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10725939.shtml",
+        "publishedAt": "2026-11-04T14:19:01.000+08:00"
       },
       {
-        "title": "西班牙交通大臣辞职",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725861.shtml",
-        "publishedAt": "2026-11-04T14:02:52.000+08:00"
+        "title": "美国中期选举现场投票已基本结束",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725938.shtml",
+        "publishedAt": "2026-11-04T14:14:09.000+08:00"
       },
       {
-        "title": "朝鲜：美国持续发出对朝敌对信号",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725860.shtml",
-        "publishedAt": "2026-11-04T14:02:22.000+08:00"
+        "title": "自助服务区补办身份证需刷身份证才能进？肇庆高新区通报：已改进",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725930.shtml",
+        "publishedAt": "2026-11-04T14:14:05.000+08:00"
       },
       {
-        "title": "东北局地跌破零下30℃！未来冷空气活跃 我国将迎气温创新低浪潮",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725933.shtml",
-        "publishedAt": "2026-11-04T14:02:00.000+08:00"
+        "title": "今年前三季度中国黄金产量220.935吨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725936.shtml",
+        "publishedAt": "2026-11-04T14:13:21.000+08:00"
       },
       {
-        "title": "国台办驳民进党当局：种种恶行背叛中山精神",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725923.shtml",
-        "publishedAt": "2026-11-04T13:58:08.000+08:00"
+        "title": "共和党选情遇挫后，特朗普发布印有“否决权”字样的红色帽子",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725935.shtml",
+        "publishedAt": "2026-11-04T14:06:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T14:10:04.101+08:00",
+    "fetchedAt": "2026-11-04T14:20:03.850+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T14:10:14.822+08:00",
+      "fetchedAt": "2026-11-04T14:20:10.352+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 37,
+          "usedPct": 47,
           "resetAt": "2026-11-04T15:04:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 71,
+          "usedPct": 73,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T14:10:15.044+08:00",
+      "fetchedAt": "2026-11-04T14:20:10.637+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T14:10:15.066+08:00",
+      "fetchedAt": "2026-11-04T14:20:10.647+08:00",
       "error": null
     }
   }
