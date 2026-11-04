@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T16:10:09.562+08:00",
+  "updatedAt": "2026-11-04T16:20:09.865+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
+    "description": "多云",
+    "iconKey": "cloudy",
     "tempC": 18.1,
     "feelsLikeC": 20.2,
     "humidity": 96,
-    "windKph": 3.5,
+    "windKph": 3.3,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T16:10:09.563+08:00",
+    "observedAt": "2026-11-04T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T16:20:09.865+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河南郑州：农产品市场里的“买全球”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726008.shtml",
-        "publishedAt": "2026-11-04T16:04:19.000+08:00"
+        "title": "多方“搭台”居民“点单”让老小区改出新模样 百姓在家门口收获“稳稳幸福”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726037.shtml",
+        "publishedAt": "2026-11-04T16:15:05.000+08:00"
       },
       {
-        "title": "文旅消费迎来金秋丰收季（新视窗）",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726019.shtml",
-        "publishedAt": "2026-11-04T16:03:55.000+08:00"
+        "title": "“岳鸿军海洋影像公益展”亮相深圳国际美术馆",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726020.shtml",
+        "publishedAt": "2026-11-04T16:11:59.000+08:00"
       },
       {
-        "title": "重庆鹅岭公园菊展迎客来 满园菊香醉游人",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726010.shtml",
-        "publishedAt": "2026-11-04T16:02:39.000+08:00"
+        "title": "红军长征途中贺龙为何向松赞林寺赠送“兴盛番族”锦幛？",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10726018.shtml",
+        "publishedAt": "2026-11-04T16:10:01.000+08:00"
       },
       {
-        "title": "探秘甘肃文县白马河畔的藏族聚居地——文县铁楼藏族乡",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209790.shtml",
-        "publishedAt": "2026-11-04T16:00:05.000+08:00"
+        "title": "红旗漫卷大别山| 他牺牲在第四次反“围剿”战场，两封家书留在了大别山",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726026.shtml",
+        "publishedAt": "2026-11-04T16:09:39.000+08:00"
       },
       {
-        "title": "人工智能乌镇对话：开源的价值之问、治理之道和普惠之愿",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726015.shtml",
-        "publishedAt": "2026-11-04T15:59:45.000+08:00"
+        "title": "逾万日本民众集会抗议高市政权推动修宪 呼吁和平",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726028.shtml",
+        "publishedAt": "2026-11-04T16:09:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T16:10:03.301+08:00",
+    "fetchedAt": "2026-11-04T16:20:03.687+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T16:10:07.873+08:00",
+      "fetchedAt": "2026-11-04T16:20:08.746+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 41,
+          "usedPct": 42,
           "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T16:10:08.128+08:00",
+      "fetchedAt": "2026-11-04T16:20:08.900+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T16:10:08.137+08:00",
+      "fetchedAt": "2026-11-04T16:20:08.907+08:00",
       "error": null
     }
   }
