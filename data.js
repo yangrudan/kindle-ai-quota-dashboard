@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T08:00:08.719+08:00",
+  "updatedAt": "2026-11-04T08:10:09.382+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-04T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T08:00:08.720+08:00",
+    "fetchedAt": "2026-11-04T08:10:09.382+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国举行2026年中期选举 经济议题备受选民关注",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725722.shtml",
+        "publishedAt": "2026-11-04T08:01:29.000+08:00"
+      },
+      {
+        "title": "挡风被还能用吗？冬季电动车骑行如何兼顾保暖与安全",
+        "url": "https://www.chinanews.com.cn/life/2026/11-04/10725725.shtml",
+        "publishedAt": "2026-11-04T08:00:01.000+08:00"
+      },
       {
         "title": "特朗普：美国对伊朗发动了“小规模攻击”",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725721.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "19城细化落实商品住房销售制度",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725719.shtml",
         "publishedAt": "2026-11-04T07:48:58.000+08:00"
-      },
-      {
-        "title": "钻石“长”出新本领 金刚石闪耀芯片散热新赛道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725718.shtml",
-        "publishedAt": "2026-11-04T07:46:58.000+08:00"
-      },
-      {
-        "title": "车市增速换挡之后 谁才有资格跑得更远",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725717.shtml",
-        "publishedAt": "2026-11-04T07:43:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T08:00:03.367+08:00",
+    "fetchedAt": "2026-11-04T08:10:02.758+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T08:00:07.404+08:00",
+      "fetchedAt": "2026-11-04T08:10:06.812+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T13:00:08.000+08:00"
+          "resetAt": "2026-11-04T13:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T08:00:07.645+08:00",
+      "fetchedAt": "2026-11-04T08:10:08.381+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T08:00:07.654+08:00",
+      "fetchedAt": "2026-11-04T08:10:08.387+08:00",
       "error": null
     }
   }
