@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T19:30:08.858+08:00",
+  "updatedAt": "2026-11-04T19:40:09.058+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-04T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T19:30:08.858+08:00",
+    "fetchedAt": "2026-11-04T19:40:09.058+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西梧州打造“两湾”联动第一城 抢抓“双向出海”机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726166.shtml",
-        "publishedAt": "2026-11-04T19:21:16.000+08:00"
+        "title": "十年敦煌，从“展示窗口”到“对话世界”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726176.shtml",
+        "publishedAt": "2026-11-04T19:34:00.000+08:00"
       },
       {
-        "title": "伊朗最高领袖最新发声：美国对伊朗的敌意，不会随党派更迭消失",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726162.shtml",
-        "publishedAt": "2026-11-04T19:17:41.000+08:00"
+        "title": "以色列中央选举委员会：议会选举不存在舞弊行为",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726163.shtml",
+        "publishedAt": "2026-11-04T19:33:08.000+08:00"
       },
       {
-        "title": "气象部门回应iPhone天气应用出现多地-32℃异常数据（2026·11·04）",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726161.shtml",
-        "publishedAt": "2026-11-04T19:16:43.000+08:00"
+        "title": "海南加工增值新政落地：补全货物流转场景 助推产业链协同",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726175.shtml",
+        "publishedAt": "2026-11-04T19:31:40.000+08:00"
       },
       {
-        "title": "台湾自媒体人在四川盐边感受傈僳族非遗魅力",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726159.shtml",
-        "publishedAt": "2026-11-04T19:14:55.000+08:00"
+        "title": "美军冲绳施瓦布营发生训练事故，一名海军陆战队员死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726171.shtml",
+        "publishedAt": "2026-11-04T19:29:00.000+08:00"
       },
       {
-        "title": "天津“十五五”将全面启动市、区两级医养结合集团建设",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726158.shtml",
-        "publishedAt": "2026-11-04T19:06:51.000+08:00"
+        "title": "广交会期间白云机场口岸外国人入出境量创历史新高",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726164.shtml",
+        "publishedAt": "2026-11-04T19:27:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T19:30:03.869+08:00",
+    "fetchedAt": "2026-11-04T19:40:03.759+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T19:30:07.664+08:00",
+      "fetchedAt": "2026-11-04T19:40:07.620+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 53,
+          "usedPct": 54,
           "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T19:30:07.894+08:00",
+      "fetchedAt": "2026-11-04T19:40:07.942+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T19:30:07.904+08:00",
+      "fetchedAt": "2026-11-04T19:40:07.949+08:00",
       "error": null
     }
   }
