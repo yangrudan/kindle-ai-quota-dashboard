@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T23:40:10.278+08:00",
+  "updatedAt": "2026-11-04T23:50:08.704+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.2,
+    "tempC": 16.3,
     "feelsLikeC": 17.2,
     "humidity": 97,
-    "windKph": 6,
+    "windKph": 7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-04T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T23:40:10.278+08:00",
+    "observedAt": "2026-11-04T23:45:00.000+08:00",
+    "fetchedAt": "2026-11-04T23:50:08.704+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "进博会接力广交会 合作共赢如何再走深？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726333.shtml",
+        "publishedAt": "2026-11-04T23:45:50.000+08:00"
+      },
+      {
+        "title": "（经济观察）香港渐成中企“跨境架构中枢”和“国际标准试验场”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726325.shtml",
+        "publishedAt": "2026-11-04T23:45:42.000+08:00"
+      },
       {
         "title": "“十五五”末中国社会消费品零售总额预计达60万亿元左右",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726323.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "亚洲杯延期一年 中东紧张局势如何搅动全球体育赛历",
         "url": "https://www.chinanews.com.cn/ty/2026/11-04/10726332.shtml",
         "publishedAt": "2026-11-04T23:26:35.000+08:00"
-      },
-      {
-        "title": "电动自行车违停难禁 “管不住”究竟卡在哪？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726331.shtml",
-        "publishedAt": "2026-11-04T23:18:45.000+08:00"
-      },
-      {
-        "title": "火灾烟霾致印尼急性呼吸道感染病例超40万例",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726324.shtml",
-        "publishedAt": "2026-11-04T23:01:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T23:40:03.840+08:00",
+    "fetchedAt": "2026-11-04T23:50:03.177+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T23:40:08.317+08:00",
+      "fetchedAt": "2026-11-04T23:50:07.362+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T23:40:08.647+08:00",
+      "fetchedAt": "2026-11-04T23:50:07.648+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T23:40:08.652+08:00",
+      "fetchedAt": "2026-11-04T23:50:07.652+08:00",
       "error": null
     }
   }
