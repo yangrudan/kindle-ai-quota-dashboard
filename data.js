@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T21:30:10.460+08:00",
+  "updatedAt": "2026-11-04T21:40:09.585+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-04T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T21:30:10.461+08:00",
+    "fetchedAt": "2026-11-04T21:40:09.585+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美国中期选举变局：民主党或重掌两院，特朗普面临更强制衡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
-        "publishedAt": "2026-11-04T21:21:12.000+08:00"
+        "title": "2026丝路文明发展论坛在福州举办 多国媒体期待加强交流合作",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-04/10726266.shtml",
+        "publishedAt": "2026-11-04T21:36:47.000+08:00"
       },
       {
-        "title": "王毅会见柬埔寨副首相兼外交大臣：双方要严打电诈不停步",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726217.shtml",
-        "publishedAt": "2026-11-04T21:18:52.000+08:00"
+        "title": "《太原市城市更新条例》12月1日起施行 立法护航“锦绣太原城”建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726257.shtml",
+        "publishedAt": "2026-11-04T21:36:29.000+08:00"
       },
       {
-        "title": "王毅：中方愿同越方一道妥处海上问题，共同维护南海和平稳定",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726218.shtml",
-        "publishedAt": "2026-11-04T21:18:44.000+08:00"
+        "title": "湖北建成5G工厂480个 超半数实现智能化升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726272.shtml",
+        "publishedAt": "2026-11-04T21:36:11.000+08:00"
       },
       {
-        "title": "李强会见世界知识产权组织总干事邓鸿森",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726219.shtml",
-        "publishedAt": "2026-11-04T21:18:34.000+08:00"
+        "title": "三季度青海省农食产品出口同比增长11.4%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726255.shtml",
+        "publishedAt": "2026-11-04T21:35:43.000+08:00"
       },
       {
-        "title": "张家界天门山天梯跑酷大赛开赛 海内外选手挑战999级天梯赛道",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726248.shtml",
-        "publishedAt": "2026-11-04T21:17:56.000+08:00"
+        "title": "香港金融科技周探寻AI智能体发展与合规之路",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726254.shtml",
+        "publishedAt": "2026-11-04T21:35:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T21:30:05.002+08:00",
+    "fetchedAt": "2026-11-04T21:40:03.553+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T21:30:08.900+08:00",
+      "fetchedAt": "2026-11-04T21:40:07.961+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T21:30:09.187+08:00",
+      "fetchedAt": "2026-11-04T21:40:08.203+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T21:30:09.196+08:00",
+      "fetchedAt": "2026-11-04T21:40:08.212+08:00",
       "error": null
     }
   }
