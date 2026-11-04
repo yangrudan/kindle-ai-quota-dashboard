@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T13:10:08.083+08:00",
+  "updatedAt": "2026-11-04T13:20:10.501+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 19.6,
-    "feelsLikeC": 21.5,
+    "feelsLikeC": 21.6,
     "humidity": 86,
-    "windKph": 4.3,
+    "windKph": 3.8,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T13:10:08.083+08:00",
+    "observedAt": "2026-11-04T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T13:20:10.501+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "何立峰在香港国际金融领袖投资峰会上发表视频致辞",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725904.shtml",
+        "publishedAt": "2026-11-04T13:08:29.000+08:00"
+      },
+      {
+        "title": "欧洲多架客机收到炸弹威胁 安检未发现爆炸物",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725859.shtml",
+        "publishedAt": "2026-11-04T13:07:57.000+08:00"
+      },
       {
         "title": "宁夏中卫大麦地岩画建起数字基因库",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725903.shtml",
@@ -33,19 +43,9 @@
         "title": "北京普惠健康保新增17种特药 最高报销65%",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725901.shtml",
         "publishedAt": "2026-11-04T12:47:52.000+08:00"
-      },
-      {
-        "title": "美媒预测：美国民主党将在中期选举中重新掌控国会众议院",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725900.shtml",
-        "publishedAt": "2026-11-04T12:46:48.000+08:00"
-      },
-      {
-        "title": "美媒预测：民主党夺回美国国会参议院控制权，全面掌控国会",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725898.shtml",
-        "publishedAt": "2026-11-04T12:41:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T13:10:02.623+08:00",
+    "fetchedAt": "2026-11-04T13:20:03.581+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T13:10:06.865+08:00",
+      "fetchedAt": "2026-11-04T13:20:08.302+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T13:10:07.112+08:00",
+      "fetchedAt": "2026-11-04T13:20:09.450+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T13:10:07.117+08:00",
+      "fetchedAt": "2026-11-04T13:20:09.456+08:00",
       "error": null
     }
   }
