@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T20:40:38.245+08:00",
+  "updatedAt": "2026-11-04T20:50:10.660+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.6,
-    "feelsLikeC": 18.3,
+    "tempC": 16.5,
+    "feelsLikeC": 18.1,
     "humidity": 98,
-    "windKph": 2.9,
+    "windKph": 2.8,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T20:40:38.245+08:00",
+    "observedAt": "2026-11-04T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-04T20:50:10.660+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《中国特色国际化高中课程规范》团体标准正式发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726215.shtml",
-        "publishedAt": "2026-11-04T20:28:15.000+08:00"
+        "title": "广东提出：要让粤港澳大湾区成为世界级音乐剧共创平台",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726232.shtml",
+        "publishedAt": "2026-11-04T20:43:34.000+08:00"
       },
       {
-        "title": "四川省高原病防治基地落成启用 提供“预防—治疗—康复”全周期健康服务体系",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-04/10726213.shtml",
-        "publishedAt": "2026-11-04T20:21:51.000+08:00"
+        "title": "第140届广交会闭幕：三项变化中的中国外贸七十年",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726227.shtml",
+        "publishedAt": "2026-11-04T20:43:16.000+08:00"
       },
       {
-        "title": "第九届进博会中国石化采购签约达413亿美元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726207.shtml",
-        "publishedAt": "2026-11-04T20:21:15.000+08:00"
+        "title": "报告显示：中国多地秋假催热11月错峰游",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726225.shtml",
+        "publishedAt": "2026-11-04T20:43:10.000+08:00"
       },
       {
-        "title": "立时代现场育强国少年 《天地大课堂》收官",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726208.shtml",
-        "publishedAt": "2026-11-04T20:18:57.000+08:00"
+        "title": "多国市长走进浙江宁波具身智能企业 感受智能制造发展成果",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726185.shtml",
+        "publishedAt": "2026-11-04T20:42:48.000+08:00"
       },
       {
-        "title": "李强会见世界知识产权组织总干事邓鸿森",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726182.shtml",
-        "publishedAt": "2026-11-04T20:07:08.000+08:00"
+        "title": "中国央行将缩量开展3000亿元买断式逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726220.shtml",
+        "publishedAt": "2026-11-04T20:42:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T20:40:03.218+08:00",
+    "fetchedAt": "2026-11-04T20:50:04.794+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T20:40:37.061+08:00",
+      "fetchedAt": "2026-11-04T20:50:08.859+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-05T01:40:38.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-05T01:41:57.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T20:40:37.318+08:00",
+      "fetchedAt": "2026-11-04T20:50:09.156+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T20:40:37.327+08:00",
+      "fetchedAt": "2026-11-04T20:50:09.163+08:00",
       "error": null
     }
   }
