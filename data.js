@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T21:00:09.027+08:00",
+  "updatedAt": "2026-11-04T21:10:11.160+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-04T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T21:00:09.027+08:00",
+    "fetchedAt": "2026-11-04T21:10:11.160+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（友城故事）新西兰奥克兰市市长：“常来常往”续写与宁波的友谊",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726221.shtml",
-        "publishedAt": "2026-11-04T20:53:47.000+08:00"
+        "title": "专家学者敦煌论道：共商AI浪潮下的电影美学发展",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726246.shtml",
+        "publishedAt": "2026-11-04T21:04:35.000+08:00"
       },
       {
-        "title": "第39届世界蹦床锦标赛在南京开赛 凌空腾跃舞出 “空中芭蕾”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726210.shtml",
-        "publishedAt": "2026-11-04T20:48:28.000+08:00"
+        "title": "“黄金大外环 丹东双起点”边境外宣媒体采访活动举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726243.shtml",
+        "publishedAt": "2026-11-04T21:04:27.000+08:00"
       },
       {
-        "title": "香港上演WTA250女单角逐 老将大威止步首轮",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726209.shtml",
-        "publishedAt": "2026-11-04T20:46:18.000+08:00"
+        "title": "两岸专家长沙共探绿色低碳循环产业发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726245.shtml",
+        "publishedAt": "2026-11-04T21:03:15.000+08:00"
       },
       {
-        "title": "“巴国粮仓”重庆垫江制种产业旺",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726198.shtml",
-        "publishedAt": "2026-11-04T20:44:08.000+08:00"
+        "title": "中国首部火腿产业地方性法规在浙“亮相”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726244.shtml",
+        "publishedAt": "2026-11-04T21:02:51.000+08:00"
       },
       {
-        "title": "广东提出：要让粤港澳大湾区成为世界级音乐剧共创平台",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726232.shtml",
-        "publishedAt": "2026-11-04T20:43:34.000+08:00"
+        "title": "世界第一大港，不抢“主角”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726242.shtml",
+        "publishedAt": "2026-11-04T21:02:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T21:00:03.179+08:00",
+    "fetchedAt": "2026-11-04T21:10:05.276+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T21:00:07.669+08:00",
+      "fetchedAt": "2026-11-04T21:10:09.873+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T21:00:07.904+08:00",
+      "fetchedAt": "2026-11-04T21:10:10.183+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T21:00:07.915+08:00",
+      "fetchedAt": "2026-11-04T21:10:10.192+08:00",
       "error": null
     }
   }
