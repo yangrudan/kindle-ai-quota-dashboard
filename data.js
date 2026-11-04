@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T19:20:09.419+08:00",
+  "updatedAt": "2026-11-04T19:30:08.858+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
-    "feelsLikeC": 19.2,
+    "tempC": 17.4,
+    "feelsLikeC": 19.3,
     "humidity": 98,
-    "windKph": 4,
+    "windKph": 4.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-04T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T19:20:09.420+08:00",
+    "observedAt": "2026-11-04T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T19:30:08.858+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "广西梧州打造“两湾”联动第一城 抢抓“双向出海”机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726166.shtml",
+        "publishedAt": "2026-11-04T19:21:16.000+08:00"
+      },
+      {
+        "title": "伊朗最高领袖最新发声：美国对伊朗的敌意，不会随党派更迭消失",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726162.shtml",
+        "publishedAt": "2026-11-04T19:17:41.000+08:00"
+      },
+      {
+        "title": "气象部门回应iPhone天气应用出现多地-32℃异常数据（2026·11·04）",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726161.shtml",
+        "publishedAt": "2026-11-04T19:16:43.000+08:00"
+      },
+      {
+        "title": "台湾自媒体人在四川盐边感受傈僳族非遗魅力",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726159.shtml",
+        "publishedAt": "2026-11-04T19:14:55.000+08:00"
+      },
+      {
         "title": "天津“十五五”将全面启动市、区两级医养结合集团建设",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726158.shtml",
         "publishedAt": "2026-11-04T19:06:51.000+08:00"
-      },
-      {
-        "title": "糖尿病防控关键在“早” 专家支招避开误区科学控糖",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-04/10726154.shtml",
-        "publishedAt": "2026-11-04T19:00:10.000+08:00"
-      },
-      {
-        "title": "湖南祁阳优化营商环境 服务“弯腰”产业“挺腰”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726153.shtml",
-        "publishedAt": "2026-11-04T18:58:32.000+08:00"
-      },
-      {
-        "title": "捐款近5亿美元却成“最大输家之一” 马斯克发声",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726156.shtml",
-        "publishedAt": "2026-11-04T18:58:02.000+08:00"
-      },
-      {
-        "title": "清华大学留英硕士被骗40多万元后失联！收起看客心态，这场“精神围猎”值得每一个人警惕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726155.shtml",
-        "publishedAt": "2026-11-04T18:56:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T19:20:03.885+08:00",
+    "fetchedAt": "2026-11-04T19:30:03.869+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T19:20:07.973+08:00",
+      "fetchedAt": "2026-11-04T19:30:07.664+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 53,
-          "resetAt": "2026-11-04T20:08:57.000+08:00"
+          "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T19:20:08.286+08:00",
+      "fetchedAt": "2026-11-04T19:30:07.894+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T19:20:08.290+08:00",
+      "fetchedAt": "2026-11-04T19:30:07.904+08:00",
       "error": null
     }
   }
