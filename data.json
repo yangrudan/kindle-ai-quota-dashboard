@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T22:40:38.887+08:00",
+  "updatedAt": "2026-11-04T22:50:09.253+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 15.9,
     "feelsLikeC": 17.2,
     "humidity": 98,
-    "windKph": 3.4,
-    "windDir": "西风",
+    "windKph": 3.7,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-04T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T22:40:38.887+08:00",
+    "observedAt": "2026-11-04T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-04T22:50:09.253+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“上头”烟弹竟是兽用麻醉剂 警惕“变味”的果味电子烟",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726326.shtml",
+        "publishedAt": "2026-11-04T22:42:35.000+08:00"
+      },
       {
         "title": "驻韩美军两名士兵涉嫌走私毒品被捕",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726317.shtml",
@@ -38,14 +43,9 @@
         "title": "宁夏统筹10亿元财力托举人才强区 真金白银引才育才",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726313.shtml",
         "publishedAt": "2026-11-04T22:27:54.000+08:00"
-      },
-      {
-        "title": "中国电视剧制作产业协会传播工作委员会正式揭牌",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726312.shtml",
-        "publishedAt": "2026-11-04T22:26:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T22:40:03.433+08:00",
+    "fetchedAt": "2026-11-04T22:50:03.663+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T22:40:37.008+08:00",
+      "fetchedAt": "2026-11-04T22:50:07.706+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T22:40:37.340+08:00",
+      "fetchedAt": "2026-11-04T22:50:08.055+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T22:40:37.349+08:00",
+      "fetchedAt": "2026-11-04T22:50:08.064+08:00",
       "error": null
     }
   }
