@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T13:50:39.572+08:00",
+  "updatedAt": "2026-11-04T14:00:09.482+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 19.4,
+    "tempC": 19.3,
     "feelsLikeC": 21.6,
     "humidity": 88,
-    "windKph": 2.1,
-    "windDir": "西南风",
+    "windKph": 1.5,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T13:50:39.572+08:00",
+    "observedAt": "2026-11-04T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T14:00:09.483+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "多国城墙“守护者”聚首大同 共探古城墙活态传承",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725922.shtml",
+        "publishedAt": "2026-11-04T13:51:16.000+08:00"
+      },
+      {
+        "title": "中国低空经济加速“飞”入民众生活",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725925.shtml",
+        "publishedAt": "2026-11-04T13:48:02.000+08:00"
+      },
       {
         "title": "美媒预测民主党在多州超预期获胜，美国中期选举掀起“蓝潮”",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725921.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "乌镇奏响开源开放协奏曲",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725917.shtml",
         "publishedAt": "2026-11-04T13:33:23.000+08:00"
-      },
-      {
-        "title": "2026“致敬经典·修复电影论坛”举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10725915.shtml",
-        "publishedAt": "2026-11-04T13:33:21.000+08:00"
-      },
-      {
-        "title": "二手房交易为何持续活跃？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725920.shtml",
-        "publishedAt": "2026-11-04T13:33:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T13:50:03.980+08:00",
+    "fetchedAt": "2026-11-04T14:00:04.330+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T13:50:38.150+08:00",
+      "fetchedAt": "2026-11-04T14:00:08.141+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T13:50:38.414+08:00",
+      "fetchedAt": "2026-11-04T14:00:08.377+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T13:50:38.425+08:00",
+      "fetchedAt": "2026-11-04T14:00:08.387+08:00",
       "error": null
     }
   }
