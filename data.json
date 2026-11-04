@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T18:10:09.230+08:00",
+  "updatedAt": "2026-11-04T18:20:08.502+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.5,
-    "feelsLikeC": 19.6,
+    "feelsLikeC": 19.5,
     "humidity": 98,
-    "windKph": 3.1,
+    "windKph": 3.4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T18:10:09.230+08:00",
+    "observedAt": "2026-11-04T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T18:20:08.502+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "鲁台艺术家根植同源文脉 共探两岸艺术时代命题",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726119.shtml",
-        "publishedAt": "2026-11-04T17:59:55.000+08:00"
+        "title": "甘肃省文旅厅携手高德、数据街集团，依托空间智能打造专属“伴游助手”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726127.shtml",
+        "publishedAt": "2026-11-04T18:10:42.000+08:00"
       },
       {
-        "title": "“玫瑰书香”全国女职工主题阅读活动走进宁夏",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726120.shtml",
-        "publishedAt": "2026-11-04T17:59:23.000+08:00"
+        "title": "四川省高原病防治基地落成启用",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726125.shtml",
+        "publishedAt": "2026-11-04T18:09:36.000+08:00"
       },
       {
-        "title": "乌镇峰会聚焦推动智能体互信互联互操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726122.shtml",
-        "publishedAt": "2026-11-04T17:58:57.000+08:00"
+        "title": "大洋板块俯冲如何转为大陆板块碰撞？我国科学家揭秘",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726128.shtml",
+        "publishedAt": "2026-11-04T18:09:32.000+08:00"
       },
       {
-        "title": "存量变潜力，滩涂拓空间——温州龙湾破题解难布局新赛道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726123.shtml",
-        "publishedAt": "2026-11-04T17:58:11.000+08:00"
+        "title": "中国平安成APEC官方赞助商，提供超4亿元保障服务",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726126.shtml",
+        "publishedAt": "2026-11-04T18:06:30.000+08:00"
       },
       {
-        "title": "河南郑州：趴地菠菜采收忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726116.shtml",
-        "publishedAt": "2026-11-04T17:57:57.000+08:00"
+        "title": "从田间到车间 山东潍县萝卜抢“鲜”上市",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726121.shtml",
+        "publishedAt": "2026-11-04T18:04:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T18:10:03.626+08:00",
+    "fetchedAt": "2026-11-04T18:20:02.935+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T18:10:08.019+08:00",
+      "fetchedAt": "2026-11-04T18:20:07.040+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T18:10:08.329+08:00",
+      "fetchedAt": "2026-11-04T18:20:07.565+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T18:10:08.336+08:00",
+      "fetchedAt": "2026-11-04T18:20:07.574+08:00",
       "error": null
     }
   }
