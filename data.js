@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T23:00:08.372+08:00",
+  "updatedAt": "2026-11-04T23:10:09.221+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-04T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T23:00:08.373+08:00",
+    "fetchedAt": "2026-11-04T23:10:09.222+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "火灾烟霾致印尼急性呼吸道感染病例超40万例",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726324.shtml",
+        "publishedAt": "2026-11-04T23:01:36.000+08:00"
+      },
+      {
+        "title": "奥地利总理施托克尔到访同济大学 共叙两国百年科研合作情谊",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726321.shtml",
+        "publishedAt": "2026-11-04T22:57:17.000+08:00"
+      },
+      {
+        "title": "平陆运河通航满月 沿线用电负荷持续攀升",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726329.shtml",
+        "publishedAt": "2026-11-04T22:56:41.000+08:00"
+      },
       {
         "title": "侨商侨企投资广州：当好超级联系人 链接全球大市场",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726328.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "澜沧江－湄公河合作第十一次外长会在北京举行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726320.shtml",
         "publishedAt": "2026-11-04T22:55:21.000+08:00"
-      },
-      {
-        "title": "星展银行报告：人民币在多个亚洲市场已有较高使用率",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726319.shtml",
-        "publishedAt": "2026-11-04T22:54:47.000+08:00"
-      },
-      {
-        "title": "中国与东盟南宁共探AI赋能防震减灾区域合作",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-04/10726318.shtml",
-        "publishedAt": "2026-11-04T22:54:09.000+08:00"
-      },
-      {
-        "title": "刷脸打卡就能日结工资？警惕这种新型兼职骗局",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726327.shtml",
-        "publishedAt": "2026-11-04T22:48:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T23:00:02.908+08:00",
+    "fetchedAt": "2026-11-04T23:10:04.082+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T23:00:07.117+08:00",
+      "fetchedAt": "2026-11-04T23:10:07.936+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T23:00:07.398+08:00",
+      "fetchedAt": "2026-11-04T23:10:08.254+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T23:00:07.401+08:00",
+      "fetchedAt": "2026-11-04T23:10:08.260+08:00",
       "error": null
     }
   }
