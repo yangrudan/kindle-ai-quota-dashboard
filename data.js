@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T13:30:08.306+08:00",
+  "updatedAt": "2026-11-04T13:40:38.835+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-04T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T13:30:08.306+08:00",
+    "fetchedAt": "2026-11-04T13:40:38.835+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "面试“作业”怎能沦为免费用工手段",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725913.shtml",
-        "publishedAt": "2026-11-04T13:22:32.000+08:00"
+        "title": "美媒预测民主党在多州超预期获胜，美国中期选举掀起“蓝潮”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725921.shtml",
+        "publishedAt": "2026-11-04T13:34:21.000+08:00"
       },
       {
-        "title": "美媒：特朗普正在白宫关注中期选举结果，梅拉尼娅不在身边",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725912.shtml",
-        "publishedAt": "2026-11-04T13:17:36.000+08:00"
+        "title": "收录583张图片 《电视剧纪念画册》出版",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10725914.shtml",
+        "publishedAt": "2026-11-04T13:33:51.000+08:00"
       },
       {
-        "title": "“棉服”里没有棉？面料填充均为100%聚酯纤维 消费者如何辨别",
-        "url": "https://www.chinanews.com.cn/life/2026/11-04/10725911.shtml",
-        "publishedAt": "2026-11-04T13:14:26.000+08:00"
+        "title": "乌镇奏响开源开放协奏曲",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725917.shtml",
+        "publishedAt": "2026-11-04T13:33:23.000+08:00"
       },
       {
-        "title": "云岭动态第三十三期",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725909.shtml",
-        "publishedAt": "2026-11-04T13:14:12.000+08:00"
+        "title": "2026“致敬经典·修复电影论坛”举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10725915.shtml",
+        "publishedAt": "2026-11-04T13:33:21.000+08:00"
       },
       {
-        "title": "何立峰在香港国际金融领袖投资峰会上发表视频致辞",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725904.shtml",
-        "publishedAt": "2026-11-04T13:08:29.000+08:00"
+        "title": "二手房交易为何持续活跃？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725920.shtml",
+        "publishedAt": "2026-11-04T13:33:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T13:30:03.227+08:00",
+    "fetchedAt": "2026-11-04T13:40:03.431+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T13:30:07.112+08:00",
+      "fetchedAt": "2026-11-04T13:40:37.547+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T13:30:07.379+08:00",
+      "fetchedAt": "2026-11-04T13:40:37.845+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T13:30:07.382+08:00",
+      "fetchedAt": "2026-11-04T13:40:37.855+08:00",
       "error": null
     }
   }
