@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T11:20:43.062+08:00",
+  "updatedAt": "2026-11-04T11:30:38.352+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.5,
-    "feelsLikeC": 19.2,
-    "humidity": 95,
-    "windKph": 4.8,
+    "tempC": 17.8,
+    "feelsLikeC": 19.6,
+    "humidity": 94,
+    "windKph": 4,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T11:20:43.062+08:00",
+    "observedAt": "2026-11-04T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T11:30:38.353+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国台办：台胞大陆游从奔赴风景转向探寻文脉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725854.shtml",
-        "publishedAt": "2026-11-04T11:11:53.000+08:00"
-      },
-      {
-        "title": "巴基斯坦成功试射首枚国产空对空导弹",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725852.shtml",
-        "publishedAt": "2026-11-04T11:10:19.000+08:00"
+        "title": "上海交警主动联系台湾演员明道归还其遗失物 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725868.shtml",
+        "publishedAt": "2026-11-04T11:27:04.000+08:00"
       },
       {
         "title": "台退役“金门舰”转交菲律宾，国台办：对外部势力无底线献媚输诚",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725851.shtml",
-        "publishedAt": "2026-11-04T11:08:35.000+08:00"
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725863.shtml",
+        "publishedAt": "2026-11-04T11:24:20.000+08:00"
       },
       {
-        "title": "陆委会称现在没有“台独”问题 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725849.shtml",
-        "publishedAt": "2026-11-04T11:07:47.000+08:00"
+        "title": "《城市和社区可持续发展 城市服务和生活品质的指标》国家标准发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725862.shtml",
+        "publishedAt": "2026-11-04T11:24:12.000+08:00"
       },
       {
-        "title": "白宫：美总统夫人梅拉尼娅将在白宫邀请俄乌代表会谈",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725843.shtml",
-        "publishedAt": "2026-11-04T11:06:43.000+08:00"
+        "title": "东盟旅游热榜",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-04/10725857.shtml",
+        "publishedAt": "2026-11-04T11:18:03.000+08:00"
+      },
+      {
+        "title": "国家发展改革委：“十五五”末我国社零总额预计达到60万亿元左右",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725850.shtml",
+        "publishedAt": "2026-11-04T11:17:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T11:20:03.510+08:00",
+    "fetchedAt": "2026-11-04T11:30:03.066+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T11:20:41.646+08:00",
+      "fetchedAt": "2026-11-04T11:30:36.858+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 32,
           "resetAt": "2026-11-04T15:04:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T11:20:41.889+08:00",
+      "fetchedAt": "2026-11-04T11:30:37.220+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T11:20:41.894+08:00",
+      "fetchedAt": "2026-11-04T11:30:37.229+08:00",
       "error": null
     }
   }
