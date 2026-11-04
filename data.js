@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T16:30:08.902+08:00",
+  "updatedAt": "2026-11-04T16:40:07.680+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-04T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T16:30:08.903+08:00",
+    "fetchedAt": "2026-11-04T16:40:07.680+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "印尼塞梅鲁火山再次喷发 火山灰柱达1000米",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726045.shtml",
-        "publishedAt": "2026-11-04T16:25:38.000+08:00"
+        "title": "资源型城市如何“修山”？重庆万盛将在采煤沉陷区种“风光”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726059.shtml",
+        "publishedAt": "2026-11-04T16:36:47.000+08:00"
       },
       {
-        "title": "藏在薯条里的秘密：吉林改性淀粉汇入全球食品供应链",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726027.shtml",
-        "publishedAt": "2026-11-04T16:25:16.000+08:00"
+        "title": "山西“十五五”：力争九成疑难复杂手术在省内实施",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726060.shtml",
+        "publishedAt": "2026-11-04T16:36:41.000+08:00"
       },
       {
-        "title": "香港国际眼镜展云集逾600家展商 AI眼镜吸引海外买家",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726029.shtml",
-        "publishedAt": "2026-11-04T16:24:18.000+08:00"
+        "title": "山西将投入6亿元支持30个县升级紧密型县域医共体",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726062.shtml",
+        "publishedAt": "2026-11-04T16:36:37.000+08:00"
       },
       {
-        "title": "广东3市将携32000个优质岗位赴闽揽才",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726023.shtml",
-        "publishedAt": "2026-11-04T16:24:10.000+08:00"
+        "title": "加拿大商界人士：深圳APEC会议是落实加中高层共识的绝佳契机",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726061.shtml",
+        "publishedAt": "2026-11-04T16:35:33.000+08:00"
       },
       {
-        "title": "乌镇潮起 智联向新",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-04/10726044.shtml",
-        "publishedAt": "2026-11-04T16:24:08.000+08:00"
+        "title": "广交会观察：境外采购商寻“鲜”中国风味",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726042.shtml",
+        "publishedAt": "2026-11-04T16:35:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T16:30:03.516+08:00",
+    "fetchedAt": "2026-11-04T16:40:02.688+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T16:30:07.773+08:00",
+      "fetchedAt": "2026-11-04T16:40:06.503+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
+          "usedPct": 45,
           "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T16:30:08.004+08:00",
+      "fetchedAt": "2026-11-04T16:40:06.761+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T16:30:08.013+08:00",
+      "fetchedAt": "2026-11-04T16:40:06.765+08:00",
       "error": null
     }
   }
