@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T12:20:38.974+08:00",
+  "updatedAt": "2026-11-04T12:30:13.743+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.6,
-    "feelsLikeC": 20.6,
-    "humidity": 91,
-    "windKph": 3.5,
+    "tempC": 19,
+    "feelsLikeC": 21,
+    "humidity": 89,
+    "windKph": 4,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T12:20:38.975+08:00",
+    "observedAt": "2026-11-04T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T12:30:13.743+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "美国媒体预计民主党夺回参议院重掌国会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725895.shtml",
+        "publishedAt": "2026-11-04T12:21:43.000+08:00"
+      },
+      {
+        "title": "我国首批和美海岛三年建设“成绩单”出炉",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725894.shtml",
+        "publishedAt": "2026-11-04T12:21:07.000+08:00"
+      },
+      {
+        "title": "广东外贸千年：侨批搭桥，侨商接棒，跨洋纽带越织越密",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725881.shtml",
+        "publishedAt": "2026-11-04T12:19:35.000+08:00"
+      },
+      {
+        "title": "山东聊城构建“四位一体”工作体系 团结凝聚新阶层人士“强磁场”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725880.shtml",
+        "publishedAt": "2026-11-04T12:19:27.000+08:00"
+      },
+      {
         "title": "北京东城亮相京港洽谈会 集中发布14处产业空间",
         "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725879.shtml",
         "publishedAt": "2026-11-04T12:14:24.000+08:00"
-      },
-      {
-        "title": "新疆昌吉：数据标注员为AI当“老师” 拓展就业新空间",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725875.shtml",
-        "publishedAt": "2026-11-04T12:12:32.000+08:00"
-      },
-      {
-        "title": "AI按摩机器人手法如何 记者在“互联网之光”现场体验",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725893.shtml",
-        "publishedAt": "2026-11-04T12:10:38.000+08:00"
-      },
-      {
-        "title": "直播海报：AI按摩机器人手法如何 记者在“互联网之光”现场体验",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725892.shtml",
-        "publishedAt": "2026-11-04T12:07:46.000+08:00"
-      },
-      {
-        "title": "郭宁宁任福建省副省长、代省长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725888.shtml",
-        "publishedAt": "2026-11-04T11:55:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T12:20:03.588+08:00",
+    "fetchedAt": "2026-11-04T12:30:03.726+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T12:20:37.451+08:00",
+      "fetchedAt": "2026-11-04T12:30:11.870+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T12:20:37.891+08:00",
+      "fetchedAt": "2026-11-04T12:30:12.139+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T12:20:37.897+08:00",
+      "fetchedAt": "2026-11-04T12:30:12.151+08:00",
       "error": null
     }
   }
