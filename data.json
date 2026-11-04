@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:00:39.988+08:00",
+  "updatedAt": "2026-11-04T15:10:08.893+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-04T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T15:00:39.988+08:00",
+    "fetchedAt": "2026-11-04T15:10:08.893+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "在三亚遇见瑞士百年名校",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725964.shtml",
-        "publishedAt": "2026-11-04T14:50:49.000+08:00"
+        "title": "2026年10月中国仓储指数回升至49.8%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725977.shtml",
+        "publishedAt": "2026-11-04T15:06:02.000+08:00"
       },
       {
-        "title": "碧波竞逐金溪河 福建省运会青少年部赛艇2000米决赛将乐开桨",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725962.shtml",
-        "publishedAt": "2026-11-04T14:47:07.000+08:00"
+        "title": "京港洽谈会47个项目签约 金额逾74亿美元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725978.shtml",
+        "publishedAt": "2026-11-04T15:04:26.000+08:00"
       },
       {
-        "title": "川酒组团参加香港国际美酒展 借“超级联系人”加速出海",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725961.shtml",
-        "publishedAt": "2026-11-04T14:46:39.000+08:00"
+        "title": "加强京港合作 李家超提金融、科创及出海",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10725976.shtml",
+        "publishedAt": "2026-11-04T15:03:28.000+08:00"
       },
       {
-        "title": "摸清城市风险“家底”，上海交出超大城市风险治理答卷",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725958.shtml",
-        "publishedAt": "2026-11-04T14:45:17.000+08:00"
+        "title": "南京大学本科生院等：当前该校智慧教室系统已不再统计抬头率数据",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725974.shtml",
+        "publishedAt": "2026-11-04T15:03:06.000+08:00"
       },
       {
-        "title": "三千余名艺人信息被泄露 起底追星背后的黑色产业链",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-04/10725960.shtml",
-        "publishedAt": "2026-11-04T14:43:39.000+08:00"
+        "title": "广西贸促会与波兰国家商会签署合作备忘录",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725975.shtml",
+        "publishedAt": "2026-11-04T15:02:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T15:00:03.965+08:00",
+    "fetchedAt": "2026-11-04T15:10:03.402+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 1.1,
+          "usedPct": 1.7,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1484 / 1500 AIC"
+          "detailText": "剩余 1476 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T15:00:38.111+08:00",
+      "fetchedAt": "2026-11-04T15:10:07.589+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 69,
-          "resetAt": "2026-11-04T15:04:23.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 76,
+          "usedPct": 77,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T15:00:38.394+08:00",
+      "fetchedAt": "2026-11-04T15:10:07.878+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T15:00:38.399+08:00",
+      "fetchedAt": "2026-11-04T15:10:07.882+08:00",
       "error": null
     }
   }
