@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T15:50:10.618+08:00",
+  "updatedAt": "2026-11-04T16:00:18.542+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-04T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T15:50:10.618+08:00",
+    "fetchedAt": "2026-11-04T16:00:18.543+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "济南市举办第九期民营企业高质量发展“观摩磋学”专题培训班",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10726000.shtml",
-        "publishedAt": "2026-11-04T15:41:46.000+08:00"
+        "title": "第九届进博会｜共赴一场进博之约",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726006.shtml",
+        "publishedAt": "2026-11-04T15:53:18.000+08:00"
       },
       {
-        "title": "红果短剧火热背后：大众文艺最打动人心",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10725996.shtml",
-        "publishedAt": "2026-11-04T15:40:12.000+08:00"
+        "title": "中方：愿同各方携手努力，强化气候务实行动",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726002.shtml",
+        "publishedAt": "2026-11-04T15:51:04.000+08:00"
       },
       {
-        "title": "外交部：中方就中俄美元首会晤同相关方保持着沟通",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726001.shtml",
-        "publishedAt": "2026-11-04T15:39:34.000+08:00"
+        "title": "菲律宾马荣火山再次喷发 维持3级警戒",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725947.shtml",
+        "publishedAt": "2026-11-04T15:49:46.000+08:00"
       },
       {
-        "title": "下半年中小学教师资格考试（笔试）成绩6日可查",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-04/10725997.shtml",
-        "publishedAt": "2026-11-04T15:38:03.000+08:00"
+        "title": "中马多方携手推广闽台·南洋青草药文化",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725944.shtml",
+        "publishedAt": "2026-11-04T15:49:14.000+08:00"
       },
       {
-        "title": "外交部：愿继续同美方维护好落实好两国元首重要共识",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725995.shtml",
-        "publishedAt": "2026-11-04T15:34:11.000+08:00"
+        "title": "中国互联网：从“走向世界”到“让世界走向未来”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726004.shtml",
+        "publishedAt": "2026-11-04T15:46:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T15:50:04.012+08:00",
+    "fetchedAt": "2026-11-04T16:00:12.448+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T15:50:09.247+08:00",
+      "fetchedAt": "2026-11-04T16:00:17.218+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 35,
+          "usedPct": 38,
           "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 82,
+          "usedPct": 83,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T15:50:09.486+08:00",
+      "fetchedAt": "2026-11-04T16:00:17.421+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T15:50:09.496+08:00",
+      "fetchedAt": "2026-11-04T16:00:17.432+08:00",
       "error": null
     }
   }
