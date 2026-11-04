@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T21:50:10.308+08:00",
+  "updatedAt": "2026-11-04T22:00:08.361+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16,
-    "feelsLikeC": 17.5,
+    "tempC": 15.9,
+    "feelsLikeC": 17.4,
     "humidity": 98,
-    "windKph": 2.9,
+    "windKph": 3.1,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T21:50:10.308+08:00",
+    "observedAt": "2026-11-04T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T22:00:08.362+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "多部门部署加强消费基础设施建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726284.shtml",
+        "publishedAt": "2026-11-04T21:56:32.000+08:00"
+      },
+      {
+        "title": "向海图强：一场跨越会场与海上的“中国式商量”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726278.shtml",
+        "publishedAt": "2026-11-04T21:51:16.000+08:00"
+      },
       {
         "title": "世界显示产业创新发展大会成都开幕",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726273.shtml",
@@ -33,19 +43,9 @@
         "title": "北京电影学院院长：表演创作中情感的传递无法用AI替代",
         "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726268.shtml",
         "publishedAt": "2026-11-04T21:41:37.000+08:00"
-      },
-      {
-        "title": "天津口岸新增直航东南亚海运航线",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726275.shtml",
-        "publishedAt": "2026-11-04T21:40:19.000+08:00"
-      },
-      {
-        "title": "埃塞俄比亚要求6名苏丹外交官离境",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726265.shtml",
-        "publishedAt": "2026-11-04T21:39:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T21:50:03.424+08:00",
+    "fetchedAt": "2026-11-04T22:00:03.180+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T21:50:08.510+08:00",
+      "fetchedAt": "2026-11-04T22:00:07.153+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T21:50:08.840+08:00",
+      "fetchedAt": "2026-11-04T22:00:07.397+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T21:50:08.847+08:00",
+      "fetchedAt": "2026-11-04T22:00:07.400+08:00",
       "error": null
     }
   }
