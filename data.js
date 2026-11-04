@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T07:00:10.535+08:00",
+  "updatedAt": "2026-11-05T07:10:09.224+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-05T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T07:00:10.535+08:00",
+    "fetchedAt": "2026-11-05T07:10:09.225+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "王毅分别会见来华出席澜湄合作第十一次外长会的越南、柬埔寨客人",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726346.shtml",
+        "publishedAt": "2026-11-05T07:03:46.000+08:00"
+      },
+      {
+        "title": "泰国总理提出“重塑泰国”构想 强调增强经济自主能力",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726337.shtml",
+        "publishedAt": "2026-11-05T07:00:36.000+08:00"
+      },
+      {
+        "title": "今年前9个月泰国大米对东盟出口增长109%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726336.shtml",
+        "publishedAt": "2026-11-05T06:59:44.000+08:00"
+      },
+      {
+        "title": "11月5日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-05/10726344.shtml",
+        "publishedAt": "2026-11-05T06:58:06.000+08:00"
+      },
+      {
         "title": "以军宣布：打死哈马斯军事情报行动负责人",
         "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726343.shtml",
         "publishedAt": "2026-11-05T06:54:58.000+08:00"
-      },
-      {
-        "title": "各项筹备工作就绪 一组数据带你提前了解进博会亮点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726342.shtml",
-        "publishedAt": "2026-11-05T06:51:44.000+08:00"
-      },
-      {
-        "title": "南非举行地方政府选举",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726335.shtml",
-        "publishedAt": "2026-11-05T06:50:02.000+08:00"
-      },
-      {
-        "title": "特朗普称不后悔对伊动武 伊称美选举结果难改敌意 双方分歧仍难弥合",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726340.shtml",
-        "publishedAt": "2026-11-05T06:45:41.000+08:00"
-      },
-      {
-        "title": "10月中国电商物流指数持续回暖向好 旺季履约保障有力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726339.shtml",
-        "publishedAt": "2026-11-05T06:43:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T07:00:04.951+08:00",
+    "fetchedAt": "2026-11-05T07:10:03.872+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T07:00:09.247+08:00",
+      "fetchedAt": "2026-11-05T07:10:08.020+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T12:00:10.000+08:00"
+          "resetAt": "2026-11-05T12:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T07:00:09.491+08:00",
+      "fetchedAt": "2026-11-05T07:10:08.256+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T07:00:09.494+08:00",
+      "fetchedAt": "2026-11-05T07:10:08.265+08:00",
       "error": null
     }
   }
