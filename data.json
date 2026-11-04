@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T07:10:09.224+08:00",
+  "updatedAt": "2026-11-05T07:20:08.302+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.2,
-    "feelsLikeC": 13.4,
-    "humidity": 83,
-    "windKph": 16.8,
+    "tempC": 15.4,
+    "feelsLikeC": 13.6,
+    "humidity": 82,
+    "windKph": 17,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T07:10:09.225+08:00",
+    "observedAt": "2026-11-05T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T07:20:08.302+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "军队文职人员公开招考，今起报名！这些事项要注意",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726347.shtml",
+        "publishedAt": "2026-11-05T07:16:59.000+08:00"
+      },
       {
         "title": "王毅分别会见来华出席澜湄合作第十一次外长会的越南、柬埔寨客人",
         "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726346.shtml",
@@ -38,14 +43,9 @@
         "title": "11月5日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-05/10726344.shtml",
         "publishedAt": "2026-11-05T06:58:06.000+08:00"
-      },
-      {
-        "title": "以军宣布：打死哈马斯军事情报行动负责人",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726343.shtml",
-        "publishedAt": "2026-11-05T06:54:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T07:10:03.872+08:00",
+    "fetchedAt": "2026-11-05T07:20:03.254+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T07:10:08.020+08:00",
+      "fetchedAt": "2026-11-05T07:20:07.041+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T12:10:09.000+08:00"
+          "resetAt": "2026-11-05T12:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T07:10:08.256+08:00",
+      "fetchedAt": "2026-11-05T07:20:07.258+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T07:10:08.265+08:00",
+      "fetchedAt": "2026-11-05T07:20:07.267+08:00",
       "error": null
     }
   }
