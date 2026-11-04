@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T16:20:09.865+08:00",
+  "updatedAt": "2026-11-04T16:30:08.902+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.1,
-    "feelsLikeC": 20.2,
-    "humidity": 96,
-    "windKph": 3.3,
+    "tempC": 18,
+    "feelsLikeC": 20.3,
+    "humidity": 97,
+    "windKph": 2.7,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T16:20:09.865+08:00",
+    "observedAt": "2026-11-04T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T16:30:08.903+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "多方“搭台”居民“点单”让老小区改出新模样 百姓在家门口收获“稳稳幸福”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726037.shtml",
-        "publishedAt": "2026-11-04T16:15:05.000+08:00"
+        "title": "印尼塞梅鲁火山再次喷发 火山灰柱达1000米",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726045.shtml",
+        "publishedAt": "2026-11-04T16:25:38.000+08:00"
       },
       {
-        "title": "“岳鸿军海洋影像公益展”亮相深圳国际美术馆",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726020.shtml",
-        "publishedAt": "2026-11-04T16:11:59.000+08:00"
+        "title": "藏在薯条里的秘密：吉林改性淀粉汇入全球食品供应链",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726027.shtml",
+        "publishedAt": "2026-11-04T16:25:16.000+08:00"
       },
       {
-        "title": "红军长征途中贺龙为何向松赞林寺赠送“兴盛番族”锦幛？",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10726018.shtml",
-        "publishedAt": "2026-11-04T16:10:01.000+08:00"
+        "title": "香港国际眼镜展云集逾600家展商 AI眼镜吸引海外买家",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726029.shtml",
+        "publishedAt": "2026-11-04T16:24:18.000+08:00"
       },
       {
-        "title": "红旗漫卷大别山| 他牺牲在第四次反“围剿”战场，两封家书留在了大别山",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726026.shtml",
-        "publishedAt": "2026-11-04T16:09:39.000+08:00"
+        "title": "广东3市将携32000个优质岗位赴闽揽才",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726023.shtml",
+        "publishedAt": "2026-11-04T16:24:10.000+08:00"
       },
       {
-        "title": "逾万日本民众集会抗议高市政权推动修宪 呼吁和平",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726028.shtml",
-        "publishedAt": "2026-11-04T16:09:35.000+08:00"
+        "title": "乌镇潮起 智联向新",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-04/10726044.shtml",
+        "publishedAt": "2026-11-04T16:24:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T16:20:03.687+08:00",
+    "fetchedAt": "2026-11-04T16:30:03.516+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T16:20:08.746+08:00",
+      "fetchedAt": "2026-11-04T16:30:07.773+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 42,
+          "usedPct": 44,
           "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 83,
+          "usedPct": 84,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T16:20:08.900+08:00",
+      "fetchedAt": "2026-11-04T16:30:08.004+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T16:20:08.907+08:00",
+      "fetchedAt": "2026-11-04T16:30:08.013+08:00",
       "error": null
     }
   }
