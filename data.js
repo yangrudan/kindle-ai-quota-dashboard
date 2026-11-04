@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T07:40:10.017+08:00",
+  "updatedAt": "2026-11-05T07:50:38.420+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.6,
-    "feelsLikeC": 13.8,
-    "humidity": 81,
-    "windKph": 17.3,
+    "tempC": 15.9,
+    "feelsLikeC": 14.1,
+    "humidity": 79,
+    "windKph": 17.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T07:40:10.018+08:00",
+    "observedAt": "2026-11-05T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T07:50:38.420+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "卖脸卖声的“躺赚”噱头后，藏着诸多风险",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726358.shtml",
-        "publishedAt": "2026-11-05T07:34:44.000+08:00"
+        "title": "俄罗斯首都莫斯科庆祝“人民团结日”",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209828.shtml",
+        "publishedAt": "2026-11-05T07:44:04.000+08:00"
       },
       {
-        "title": "WTA250香港公开赛：威廉姆斯/徐一璠晋级女双八强",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209820.shtml",
-        "publishedAt": "2026-11-05T07:31:40.000+08:00"
+        "title": "“大字吸睛小字免责”式促销法律不认",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726363.shtml",
+        "publishedAt": "2026-11-05T07:41:58.000+08:00"
       },
       {
-        "title": "大学生“副业潮”：尝试赚钱，更是认识自己",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726356.shtml",
-        "publishedAt": "2026-11-05T07:31:20.000+08:00"
+        "title": "涉案超20亿元！特大养老集资诈骗案经抗诉改判",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726362.shtml",
+        "publishedAt": "2026-11-05T07:41:00.000+08:00"
       },
       {
-        "title": "秋招面试AI攻防大战，究竟谁是赢家",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726354.shtml",
-        "publishedAt": "2026-11-05T07:28:28.000+08:00"
+        "title": "投保者身故却无法定继承人 非亲扶养者能分保险金吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726361.shtml",
+        "publishedAt": "2026-11-05T07:37:54.000+08:00"
       },
       {
-        "title": "补办身份证得先刷身份证？别让便民服务被细节卡住",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726353.shtml",
-        "publishedAt": "2026-11-05T07:26:52.000+08:00"
+        "title": "探访哈萨克斯坦欧亚大学孔子学院",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209824.shtml",
+        "publishedAt": "2026-11-05T07:37:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T07:40:03.891+08:00",
+    "fetchedAt": "2026-11-05T07:50:03.435+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T07:40:08.837+08:00",
+      "fetchedAt": "2026-11-05T07:50:37.075+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T12:40:09.000+08:00"
+          "resetAt": "2026-11-05T12:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T07:40:09.057+08:00",
+      "fetchedAt": "2026-11-05T07:50:37.345+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T07:40:09.061+08:00",
+      "fetchedAt": "2026-11-05T07:50:37.357+08:00",
       "error": null
     }
   }
