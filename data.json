@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:30:38.352+08:00",
+  "updatedAt": "2026-11-04T11:40:09.864+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-04T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T11:30:38.353+08:00",
+    "fetchedAt": "2026-11-04T11:40:09.864+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "上海交警主动联系台湾演员明道归还其遗失物 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725868.shtml",
-        "publishedAt": "2026-11-04T11:27:04.000+08:00"
+        "title": "国家发展改革委：“十五五”时期我国将新建约15个民用运输机场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725874.shtml",
+        "publishedAt": "2026-11-04T11:37:12.000+08:00"
       },
       {
-        "title": "台退役“金门舰”转交菲律宾，国台办：对外部势力无底线献媚输诚",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725863.shtml",
-        "publishedAt": "2026-11-04T11:24:20.000+08:00"
+        "title": "广东江门调味品技贸措施公共服务平台上线",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725869.shtml",
+        "publishedAt": "2026-11-04T11:34:54.000+08:00"
       },
       {
-        "title": "《城市和社区可持续发展 城市服务和生活品质的指标》国家标准发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725862.shtml",
-        "publishedAt": "2026-11-04T11:24:12.000+08:00"
+        "title": "贴息政策带动广州二手住宅10月网签同比正增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725877.shtml",
+        "publishedAt": "2026-11-04T11:33:48.000+08:00"
       },
       {
-        "title": "东盟旅游热榜",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-04/10725857.shtml",
-        "publishedAt": "2026-11-04T11:18:03.000+08:00"
+        "title": "京港洽谈会东城区专题推介活动举办 共话合作机遇与产业发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725873.shtml",
+        "publishedAt": "2026-11-04T11:32:28.000+08:00"
       },
       {
-        "title": "国家发展改革委：“十五五”末我国社零总额预计达到60万亿元左右",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725850.shtml",
-        "publishedAt": "2026-11-04T11:17:53.000+08:00"
+        "title": "吉尔吉斯斯坦5.0级地震距中国边境13公里 中国地震局启动四级应急响应",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725866.shtml",
+        "publishedAt": "2026-11-04T11:32:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T11:30:03.066+08:00",
+    "fetchedAt": "2026-11-04T11:40:03.555+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T11:30:36.858+08:00",
+      "fetchedAt": "2026-11-04T11:40:07.886+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T11:30:37.220+08:00",
+      "fetchedAt": "2026-11-04T11:40:08.431+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T11:30:37.229+08:00",
+      "fetchedAt": "2026-11-04T11:40:08.440+08:00",
       "error": null
     }
   }
