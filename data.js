@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T07:50:08.708+08:00",
+  "updatedAt": "2026-11-04T08:00:08.719+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.4,
-    "feelsLikeC": 18.2,
+    "tempC": 16.6,
+    "feelsLikeC": 18.5,
     "humidity": 97,
-    "windKph": 1.8,
-    "windDir": "东南风",
+    "windKph": 1,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-04T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T07:50:08.708+08:00",
+    "observedAt": "2026-11-04T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T08:00:08.720+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普：美国对伊朗发动了“小规模攻击”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725721.shtml",
+        "publishedAt": "2026-11-04T07:52:24.000+08:00"
+      },
+      {
+        "title": "AI眼镜厂商主动“做减法” 用户体验成为关键",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725720.shtml",
+        "publishedAt": "2026-11-04T07:50:24.000+08:00"
+      },
       {
         "title": "19城细化落实商品住房销售制度",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725719.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "车市增速换挡之后 谁才有资格跑得更远",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725717.shtml",
         "publishedAt": "2026-11-04T07:43:34.000+08:00"
-      },
-      {
-        "title": "AI酒吧遇到创业大街",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725716.shtml",
-        "publishedAt": "2026-11-04T07:42:02.000+08:00"
-      },
-      {
-        "title": "美国举行2026年中期选举",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209703.shtml",
-        "publishedAt": "2026-11-04T07:40:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T07:50:03.034+08:00",
+    "fetchedAt": "2026-11-04T08:00:03.367+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T07:50:07.014+08:00",
+      "fetchedAt": "2026-11-04T08:00:07.404+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T12:50:08.000+08:00"
+          "resetAt": "2026-11-04T13:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T07:50:07.324+08:00",
+      "fetchedAt": "2026-11-04T08:00:07.645+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T07:50:07.327+08:00",
+      "fetchedAt": "2026-11-04T08:00:07.654+08:00",
       "error": null
     }
   }
