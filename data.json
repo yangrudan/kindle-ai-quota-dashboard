@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T11:10:08.796+08:00",
+  "updatedAt": "2026-11-04T11:20:43.062+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.4,
-    "feelsLikeC": 18.9,
-    "humidity": 96,
-    "windKph": 5.1,
+    "tempC": 17.5,
+    "feelsLikeC": 19.2,
+    "humidity": 95,
+    "windKph": 4.8,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T11:10:08.796+08:00",
+    "observedAt": "2026-11-04T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T11:20:43.062+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中外24位艺术家39件（组）作品亮相第二届中法艺术设计展",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725824.shtml",
-        "publishedAt": "2026-11-04T10:59:56.000+08:00"
+        "title": "国台办：台胞大陆游从奔赴风景转向探寻文脉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725854.shtml",
+        "publishedAt": "2026-11-04T11:11:53.000+08:00"
       },
       {
-        "title": "金与正：美国持续发出对朝敌对信号",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725841.shtml",
-        "publishedAt": "2026-11-04T10:57:06.000+08:00"
+        "title": "巴基斯坦成功试射首枚国产空对空导弹",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725852.shtml",
+        "publishedAt": "2026-11-04T11:10:19.000+08:00"
       },
       {
-        "title": "南京大学就智慧教室系统发布说明：当前已不再统计抬头率数据",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725832.shtml",
-        "publishedAt": "2026-11-04T10:54:50.000+08:00"
+        "title": "台退役“金门舰”转交菲律宾，国台办：对外部势力无底线献媚输诚",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725851.shtml",
+        "publishedAt": "2026-11-04T11:08:35.000+08:00"
       },
       {
-        "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725836.shtml",
-        "publishedAt": "2026-11-04T10:50:02.000+08:00"
+        "title": "陆委会称现在没有“台独”问题 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725849.shtml",
+        "publishedAt": "2026-11-04T11:07:47.000+08:00"
       },
       {
-        "title": "菲仕兰母婴健康社区科普行动走进河南新乡",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725833.shtml",
-        "publishedAt": "2026-11-04T10:47:54.000+08:00"
+        "title": "白宫：美总统夫人梅拉尼娅将在白宫邀请俄乌代表会谈",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725843.shtml",
+        "publishedAt": "2026-11-04T11:06:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T11:10:03.088+08:00",
+    "fetchedAt": "2026-11-04T11:20:03.510+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T11:10:07.273+08:00",
+      "fetchedAt": "2026-11-04T11:20:41.646+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 24,
+          "usedPct": 31,
           "resetAt": "2026-11-04T15:04:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 69,
+          "usedPct": 71,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T11:10:07.522+08:00",
+      "fetchedAt": "2026-11-04T11:20:41.889+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T11:10:07.525+08:00",
+      "fetchedAt": "2026-11-04T11:20:41.894+08:00",
       "error": null
     }
   }
