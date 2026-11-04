@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T17:30:08.971+08:00",
+  "updatedAt": "2026-11-04T17:40:41.603+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-04T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T17:30:08.972+08:00",
+    "fetchedAt": "2026-11-04T17:40:41.603+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香港举行眼镜展 汇聚逾600家展商",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726024.shtml",
+        "publishedAt": "2026-11-04T17:28:53.000+08:00"
+      },
+      {
+        "title": "新疆新型储能装机规模超2500万千瓦 居全国首位",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726099.shtml",
+        "publishedAt": "2026-11-04T17:28:09.000+08:00"
+      },
       {
         "title": "从“本地办”到“异地办” 陕西法院交叉执行破局“执行难”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726098.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "国际金价反弹，A股黄金股批量涨停",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726091.shtml",
         "publishedAt": "2026-11-04T17:02:34.000+08:00"
-      },
-      {
-        "title": "资本市场政策加力稳预期",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726090.shtml",
-        "publishedAt": "2026-11-04T17:01:16.000+08:00"
-      },
-      {
-        "title": "在乌镇，找一找本届互联网大会的“新面孔”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726088.shtml",
-        "publishedAt": "2026-11-04T16:57:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T17:30:03.421+08:00",
+    "fetchedAt": "2026-11-04T17:40:06.802+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T17:30:07.586+08:00",
+      "fetchedAt": "2026-11-04T17:40:39.964+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T17:30:07.969+08:00",
+      "fetchedAt": "2026-11-04T17:40:40.379+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T17:30:07.979+08:00",
+      "fetchedAt": "2026-11-04T17:40:40.388+08:00",
       "error": null
     }
   }
