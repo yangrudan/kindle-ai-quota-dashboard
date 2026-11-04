@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T10:10:10.381+08:00",
+  "updatedAt": "2026-11-04T10:20:10.933+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
     "tempC": 17.2,
-    "feelsLikeC": 19.2,
+    "feelsLikeC": 19.1,
     "humidity": 97,
-    "windKph": 2,
-    "windDir": "东南风",
+    "windKph": 2.9,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T10:10:10.381+08:00",
+    "observedAt": "2026-11-04T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T10:20:10.933+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "国家统计局：10月下旬流通领域重要生产资料28种产品价格下降",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725788.shtml",
+        "publishedAt": "2026-11-04T10:11:36.000+08:00"
+      },
+      {
+        "title": "中法市长圆桌会议在辽宁大连举行 构建中法城市合作新格局",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725783.shtml",
+        "publishedAt": "2026-11-04T10:10:22.000+08:00"
+      },
+      {
+        "title": "2026年世界互联网大会蓝皮书发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725795.shtml",
+        "publishedAt": "2026-11-04T10:09:14.000+08:00"
+      },
+      {
+        "title": "制造业基本盘更加稳固——中国经济三季报亮点解析",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725794.shtml",
+        "publishedAt": "2026-11-04T10:08:38.000+08:00"
+      },
+      {
         "title": "直播：层林霞色上新 慢直播北京红叶实况",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725790.shtml",
         "publishedAt": "2026-11-04T10:06:41.000+08:00"
-      },
-      {
-        "title": "数智乌镇，处处见“新”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725792.shtml",
-        "publishedAt": "2026-11-04T10:05:51.000+08:00"
-      },
-      {
-        "title": "第七届世界媒体峰会将在北京举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725789.shtml",
-        "publishedAt": "2026-11-04T10:04:43.000+08:00"
-      },
-      {
-        "title": "海内外专家学者在香港研讨孙中山思想的时代价值",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10725781.shtml",
-        "publishedAt": "2026-11-04T10:04:37.000+08:00"
-      },
-      {
-        "title": "直播：2026年世界互联网大会乌镇峰会蓝皮书新闻发布会",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725787.shtml",
-        "publishedAt": "2026-11-04T10:03:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T10:10:03.558+08:00",
+    "fetchedAt": "2026-11-04T10:20:03.640+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T10:10:09.046+08:00",
+      "fetchedAt": "2026-11-04T10:20:09.493+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 8,
           "resetAt": "2026-11-04T15:04:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 66,
+          "usedPct": 67,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T10:10:09.204+08:00",
+      "fetchedAt": "2026-11-04T10:20:09.641+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T10:10:09.211+08:00",
+      "fetchedAt": "2026-11-04T10:20:09.653+08:00",
       "error": null
     }
   }
