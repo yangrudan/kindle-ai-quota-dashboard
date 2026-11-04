@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T09:10:11.436+08:00",
+  "updatedAt": "2026-11-04T09:20:09.571+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
+    "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 16.7,
-    "feelsLikeC": 18.5,
+    "tempC": 16.8,
+    "feelsLikeC": 18.7,
     "humidity": 96,
-    "windKph": 1.8,
+    "windKph": 1.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-04T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T09:10:11.436+08:00",
+    "observedAt": "2026-11-04T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T09:20:09.571+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "两股冷空气接连影响我国 南方大范围阴雨持续",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725739.shtml",
-        "publishedAt": "2026-11-04T08:55:34.000+08:00"
+        "title": "人这一辈子，一定要在冬天来一次敦煌！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725748.shtml",
+        "publishedAt": "2026-11-04T09:14:27.000+08:00"
       },
       {
-        "title": "从新闻女主播到首位民选女总统：她靠一句话震惊了整个欧洲",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725740.shtml",
-        "publishedAt": "2026-11-04T08:53:45.000+08:00"
+        "title": "市场监管总局出台《市场监督管理行政处罚裁量规定》",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725745.shtml",
+        "publishedAt": "2026-11-04T09:13:57.000+08:00"
       },
       {
-        "title": "国际锐评丨“China+”热词持续迭代 中国引力从何而来？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725736.shtml",
-        "publishedAt": "2026-11-04T08:42:57.000+08:00"
+        "title": "乌镇峰会第三天 2026年世界互联网大会蓝皮书将发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725747.shtml",
+        "publishedAt": "2026-11-04T09:12:59.000+08:00"
       },
       {
-        "title": "特写｜日本宪法公布80周年 国会前响起和平呼声",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725735.shtml",
-        "publishedAt": "2026-11-04T08:41:35.000+08:00"
+        "title": "中国人民银行加力实施股票回购增持再贷款政策",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725746.shtml",
+        "publishedAt": "2026-11-04T09:11:18.000+08:00"
       },
       {
-        "title": "中国搭台 全球共享！乌镇峰会首次全方位呈现“智能互联网”图景",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725734.shtml",
-        "publishedAt": "2026-11-04T08:40:33.000+08:00"
+        "title": "第140届广交会今日闭展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725744.shtml",
+        "publishedAt": "2026-11-04T09:09:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T09:10:05.136+08:00",
+    "fetchedAt": "2026-11-04T09:20:03.761+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T09:10:10.072+08:00",
+      "fetchedAt": "2026-11-04T09:20:08.059+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T14:10:11.000+08:00"
+          "resetAt": "2026-11-04T14:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T09:10:10.281+08:00",
+      "fetchedAt": "2026-11-04T09:20:08.242+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T09:10:10.286+08:00",
+      "fetchedAt": "2026-11-04T09:20:08.251+08:00",
       "error": null
     }
   }
