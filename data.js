@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T18:00:10.109+08:00",
+  "updatedAt": "2026-11-04T18:10:09.230+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-04T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T18:00:10.109+08:00",
+    "fetchedAt": "2026-11-04T18:10:09.230+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "上海南港前10个月商品车进出口等多项数据创历史同期新高",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726113.shtml",
-        "publishedAt": "2026-11-04T17:48:57.000+08:00"
+        "title": "鲁台艺术家根植同源文脉 共探两岸艺术时代命题",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726119.shtml",
+        "publishedAt": "2026-11-04T17:59:55.000+08:00"
       },
       {
-        "title": "京台人才发展论坛在北京举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10726111.shtml",
-        "publishedAt": "2026-11-04T17:48:03.000+08:00"
+        "title": "“玫瑰书香”全国女职工主题阅读活动走进宁夏",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726120.shtml",
+        "publishedAt": "2026-11-04T17:59:23.000+08:00"
       },
       {
-        "title": "“报名失败”“名额紧张”？高考报名季警惕这些骗局",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726110.shtml",
-        "publishedAt": "2026-11-04T17:44:06.000+08:00"
+        "title": "乌镇峰会聚焦推动智能体互信互联互操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726122.shtml",
+        "publishedAt": "2026-11-04T17:58:57.000+08:00"
       },
       {
-        "title": "长时间刷手机，大脑里发生了什么？警惕“手机痴呆症”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726109.shtml",
-        "publishedAt": "2026-11-04T17:41:06.000+08:00"
+        "title": "存量变潜力，滩涂拓空间——温州龙湾破题解难布局新赛道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726123.shtml",
+        "publishedAt": "2026-11-04T17:58:11.000+08:00"
       },
       {
-        "title": "研究报告：这10个新职业近期热招",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726102.shtml",
-        "publishedAt": "2026-11-04T17:34:58.000+08:00"
+        "title": "河南郑州：趴地菠菜采收忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726116.shtml",
+        "publishedAt": "2026-11-04T17:57:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T18:00:03.868+08:00",
+    "fetchedAt": "2026-11-04T18:10:03.626+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T18:00:08.707+08:00",
+      "fetchedAt": "2026-11-04T18:10:08.019+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 50,
+          "usedPct": 51,
           "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T18:00:09.062+08:00",
+      "fetchedAt": "2026-11-04T18:10:08.329+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T18:00:09.071+08:00",
+      "fetchedAt": "2026-11-04T18:10:08.336+08:00",
       "error": null
     }
   }
