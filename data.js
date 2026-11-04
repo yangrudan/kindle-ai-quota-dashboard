@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T21:20:39.103+08:00",
+  "updatedAt": "2026-11-04T21:30:10.460+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.3,
-    "feelsLikeC": 17.9,
+    "tempC": 16.1,
+    "feelsLikeC": 17.7,
     "humidity": 98,
-    "windKph": 2.8,
+    "windKph": 2.9,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T21:20:39.103+08:00",
+    "observedAt": "2026-11-04T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T21:30:10.461+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "伊朗最高领袖警告美国：若再袭伊朗将引发更广泛报复",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726251.shtml",
-        "publishedAt": "2026-11-04T21:14:40.000+08:00"
+        "title": "美国中期选举变局：民主党或重掌两院，特朗普面临更强制衡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+        "publishedAt": "2026-11-04T21:21:12.000+08:00"
       },
       {
-        "title": "湖南新田携手广州花都协同守护流动妇女儿童",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726247.shtml",
-        "publishedAt": "2026-11-04T21:11:40.000+08:00"
+        "title": "王毅会见柬埔寨副首相兼外交大臣：双方要严打电诈不停步",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726217.shtml",
+        "publishedAt": "2026-11-04T21:18:52.000+08:00"
       },
       {
-        "title": "烟火里开讲 浙江松阳理论宣讲扎根乡土走“新”更走“心”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726236.shtml",
-        "publishedAt": "2026-11-04T21:09:13.000+08:00"
+        "title": "王毅：中方愿同越方一道妥处海上问题，共同维护南海和平稳定",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726218.shtml",
+        "publishedAt": "2026-11-04T21:18:44.000+08:00"
       },
       {
-        "title": "重庆璧山发布“机遇请柬” 20个重点项目签约总投资134亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726238.shtml",
-        "publishedAt": "2026-11-04T21:08:15.000+08:00"
+        "title": "李强会见世界知识产权组织总干事邓鸿森",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726219.shtml",
+        "publishedAt": "2026-11-04T21:18:34.000+08:00"
       },
       {
-        "title": "百老汇原版音乐剧《长靴皇后》重启中国巡演",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726239.shtml",
-        "publishedAt": "2026-11-04T21:07:41.000+08:00"
+        "title": "张家界天门山天梯跑酷大赛开赛 海内外选手挑战999级天梯赛道",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726248.shtml",
+        "publishedAt": "2026-11-04T21:17:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T21:20:03.842+08:00",
+    "fetchedAt": "2026-11-04T21:30:05.002+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T21:20:37.624+08:00",
+      "fetchedAt": "2026-11-04T21:30:08.900+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T21:20:37.897+08:00",
+      "fetchedAt": "2026-11-04T21:30:09.187+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T21:20:37.907+08:00",
+      "fetchedAt": "2026-11-04T21:30:09.196+08:00",
       "error": null
     }
   }
