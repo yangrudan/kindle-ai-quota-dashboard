@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T19:10:39.636+08:00",
+  "updatedAt": "2026-11-04T19:20:09.419+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 17.3,
     "feelsLikeC": 19.2,
     "humidity": 98,
-    "windKph": 3.8,
+    "windKph": 4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-04T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T19:10:39.636+08:00",
+    "observedAt": "2026-11-04T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T19:20:09.420+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "天津“十五五”将全面启动市、区两级医养结合集团建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726158.shtml",
+        "publishedAt": "2026-11-04T19:06:51.000+08:00"
+      },
       {
         "title": "糖尿病防控关键在“早” 专家支招避开误区科学控糖",
         "url": "https://www.chinanews.com.cn/jk/2026/11-04/10726154.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "清华大学留英硕士被骗40多万元后失联！收起看客心态，这场“精神围猎”值得每一个人警惕",
         "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726155.shtml",
         "publishedAt": "2026-11-04T18:56:52.000+08:00"
-      },
-      {
-        "title": "唤醒“沉睡资产” 中国文旅产业向存量空间要增长",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726151.shtml",
-        "publishedAt": "2026-11-04T18:45:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T19:10:03.662+08:00",
+    "fetchedAt": "2026-11-04T19:20:03.885+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T19:10:38.355+08:00",
+      "fetchedAt": "2026-11-04T19:20:07.973+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 52,
-          "resetAt": "2026-11-04T20:08:56.000+08:00"
+          "usedPct": 53,
+          "resetAt": "2026-11-04T20:08:57.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T19:10:38.556+08:00",
+      "fetchedAt": "2026-11-04T19:20:08.286+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T19:10:38.565+08:00",
+      "fetchedAt": "2026-11-04T19:20:08.290+08:00",
       "error": null
     }
   }
