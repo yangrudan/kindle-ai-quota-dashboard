@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T17:00:09.627+08:00",
+  "updatedAt": "2026-11-04T17:10:14.605+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-04T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T17:00:09.627+08:00",
+    "fetchedAt": "2026-11-04T17:10:14.605+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南玉溪警方通报“球迷投掷鼓槌击中球员”：肇事球迷已被行拘",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726071.shtml",
-        "publishedAt": "2026-11-04T16:48:35.000+08:00"
+        "title": "秋粮丰收已成定局",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726095.shtml",
+        "publishedAt": "2026-11-04T17:03:46.000+08:00"
       },
       {
-        "title": "中国驻马里大使馆提醒中国公民加强安全防范",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-04/10726069.shtml",
-        "publishedAt": "2026-11-04T16:45:13.000+08:00"
+        "title": "国际金价反弹，A股黄金股批量涨停",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726091.shtml",
+        "publishedAt": "2026-11-04T17:02:34.000+08:00"
       },
       {
-        "title": "Token登上消费货架 明码标价是底线不是奢求",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726070.shtml",
-        "publishedAt": "2026-11-04T16:44:49.000+08:00"
+        "title": "资本市场政策加力稳预期",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726090.shtml",
+        "publishedAt": "2026-11-04T17:01:16.000+08:00"
       },
       {
-        "title": "敦煌文创IP“不拘一格”探千年文化活化之路",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726056.shtml",
-        "publishedAt": "2026-11-04T16:44:39.000+08:00"
+        "title": "在乌镇，找一找本届互联网大会的“新面孔”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726088.shtml",
+        "publishedAt": "2026-11-04T16:57:58.000+08:00"
       },
       {
-        "title": "在新疆，“种”出一个家",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726068.shtml",
-        "publishedAt": "2026-11-04T16:44:25.000+08:00"
+        "title": "中国AIMS望远镜发现耀斑爆发期间太阳大气磁场明显减弱现象",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726085.shtml",
+        "publishedAt": "2026-11-04T16:57:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T17:00:03.945+08:00",
+    "fetchedAt": "2026-11-04T17:10:02.976+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T17:00:08.241+08:00",
+      "fetchedAt": "2026-11-04T17:10:13.243+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 48,
+          "usedPct": 49,
           "resetAt": "2026-11-04T20:08:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 84,
+          "usedPct": 85,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T17:00:08.622+08:00",
+      "fetchedAt": "2026-11-04T17:10:13.636+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T17:00:08.634+08:00",
+      "fetchedAt": "2026-11-04T17:10:13.645+08:00",
       "error": null
     }
   }
