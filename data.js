@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T17:50:09.435+08:00",
+  "updatedAt": "2026-11-04T18:00:10.109+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 19.8,
+    "tempC": 17.5,
+    "feelsLikeC": 19.6,
     "humidity": 98,
-    "windKph": 2.7,
+    "windKph": 3.1,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T17:50:09.435+08:00",
+    "observedAt": "2026-11-04T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T18:00:10.109+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "上海南港前10个月商品车进出口等多项数据创历史同期新高",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726113.shtml",
+        "publishedAt": "2026-11-04T17:48:57.000+08:00"
+      },
+      {
+        "title": "京台人才发展论坛在北京举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10726111.shtml",
+        "publishedAt": "2026-11-04T17:48:03.000+08:00"
+      },
       {
         "title": "“报名失败”“名额紧张”？高考报名季警惕这些骗局",
         "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726110.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "研究报告：这10个新职业近期热招",
         "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726102.shtml",
         "publishedAt": "2026-11-04T17:34:58.000+08:00"
-      },
-      {
-        "title": "香港举行眼镜展 汇聚逾600家展商",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726024.shtml",
-        "publishedAt": "2026-11-04T17:28:53.000+08:00"
-      },
-      {
-        "title": "新疆新型储能装机规模超2500万千瓦 居全国首位",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726099.shtml",
-        "publishedAt": "2026-11-04T17:28:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T17:50:03.158+08:00",
+    "fetchedAt": "2026-11-04T18:00:03.868+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T17:50:07.781+08:00",
+      "fetchedAt": "2026-11-04T18:00:08.707+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T17:50:08.186+08:00",
+      "fetchedAt": "2026-11-04T18:00:09.062+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T17:50:08.194+08:00",
+      "fetchedAt": "2026-11-04T18:00:09.071+08:00",
       "error": null
     }
   }
