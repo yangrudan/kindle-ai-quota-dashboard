@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T11:00:10.847+08:00",
+  "updatedAt": "2026-11-04T11:10:08.796+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-04T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T11:00:10.847+08:00",
+    "fetchedAt": "2026-11-04T11:10:08.796+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中外24位艺术家39件（组）作品亮相第二届中法艺术设计展",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725824.shtml",
+        "publishedAt": "2026-11-04T10:59:56.000+08:00"
+      },
+      {
+        "title": "金与正：美国持续发出对朝敌对信号",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725841.shtml",
+        "publishedAt": "2026-11-04T10:57:06.000+08:00"
+      },
+      {
+        "title": "南京大学就智慧教室系统发布说明：当前已不再统计抬头率数据",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725832.shtml",
+        "publishedAt": "2026-11-04T10:54:50.000+08:00"
+      },
       {
         "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725836.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "菲仕兰母婴健康社区科普行动走进河南新乡",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725833.shtml",
         "publishedAt": "2026-11-04T10:47:54.000+08:00"
-      },
-      {
-        "title": "“文化外卖订单”第四年 她们从客厅一路弹上月光舞台",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725830.shtml",
-        "publishedAt": "2026-11-04T10:46:24.000+08:00"
-      },
-      {
-        "title": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725831.shtml",
-        "publishedAt": "2026-11-04T10:44:11.000+08:00"
-      },
-      {
-        "title": "陆委会称现在没有“台独”问题 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725828.shtml",
-        "publishedAt": "2026-11-04T10:41:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T11:00:04.517+08:00",
+    "fetchedAt": "2026-11-04T11:10:03.088+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T11:00:09.369+08:00",
+      "fetchedAt": "2026-11-04T11:10:07.273+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 24,
           "resetAt": "2026-11-04T15:04:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 68,
+          "usedPct": 69,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T11:00:09.647+08:00",
+      "fetchedAt": "2026-11-04T11:10:07.522+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T11:00:09.654+08:00",
+      "fetchedAt": "2026-11-04T11:10:07.525+08:00",
       "error": null
     }
   }
