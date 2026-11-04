@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T21:10:11.160+08:00",
+  "updatedAt": "2026-11-04T21:20:39.103+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.4,
-    "feelsLikeC": 18,
+    "tempC": 16.3,
+    "feelsLikeC": 17.9,
     "humidity": 98,
     "windKph": 2.8,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T21:10:11.160+08:00",
+    "observedAt": "2026-11-04T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T21:20:39.103+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "专家学者敦煌论道：共商AI浪潮下的电影美学发展",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726246.shtml",
-        "publishedAt": "2026-11-04T21:04:35.000+08:00"
+        "title": "伊朗最高领袖警告美国：若再袭伊朗将引发更广泛报复",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726251.shtml",
+        "publishedAt": "2026-11-04T21:14:40.000+08:00"
       },
       {
-        "title": "“黄金大外环 丹东双起点”边境外宣媒体采访活动举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726243.shtml",
-        "publishedAt": "2026-11-04T21:04:27.000+08:00"
+        "title": "湖南新田携手广州花都协同守护流动妇女儿童",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726247.shtml",
+        "publishedAt": "2026-11-04T21:11:40.000+08:00"
       },
       {
-        "title": "两岸专家长沙共探绿色低碳循环产业发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726245.shtml",
-        "publishedAt": "2026-11-04T21:03:15.000+08:00"
+        "title": "烟火里开讲 浙江松阳理论宣讲扎根乡土走“新”更走“心”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726236.shtml",
+        "publishedAt": "2026-11-04T21:09:13.000+08:00"
       },
       {
-        "title": "中国首部火腿产业地方性法规在浙“亮相”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726244.shtml",
-        "publishedAt": "2026-11-04T21:02:51.000+08:00"
+        "title": "重庆璧山发布“机遇请柬” 20个重点项目签约总投资134亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726238.shtml",
+        "publishedAt": "2026-11-04T21:08:15.000+08:00"
       },
       {
-        "title": "世界第一大港，不抢“主角”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726242.shtml",
-        "publishedAt": "2026-11-04T21:02:07.000+08:00"
+        "title": "百老汇原版音乐剧《长靴皇后》重启中国巡演",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726239.shtml",
+        "publishedAt": "2026-11-04T21:07:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T21:10:05.276+08:00",
+    "fetchedAt": "2026-11-04T21:20:03.842+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T21:10:09.873+08:00",
+      "fetchedAt": "2026-11-04T21:20:37.624+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T21:10:10.183+08:00",
+      "fetchedAt": "2026-11-04T21:20:37.897+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T21:10:10.192+08:00",
+      "fetchedAt": "2026-11-04T21:20:37.907+08:00",
       "error": null
     }
   }
