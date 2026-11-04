@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T10:40:07.840+08:00",
+  "updatedAt": "2026-11-04T10:50:10.385+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 17.2,
-    "feelsLikeC": 19,
-    "humidity": 97,
-    "windKph": 3.8,
+    "tempC": 17.3,
+    "feelsLikeC": 18.9,
+    "humidity": 96,
+    "windKph": 4.7,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-04T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T10:40:07.840+08:00",
+    "observedAt": "2026-11-04T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-04T10:50:10.386+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国台办评“吉林一号”公布多张台湾高清卫星影像",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725823.shtml",
-        "publishedAt": "2026-11-04T10:35:03.000+08:00"
+        "title": "国台办回应赖清德当局称要慎防大陆“认知战”和“介选”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725831.shtml",
+        "publishedAt": "2026-11-04T10:44:11.000+08:00"
       },
       {
-        "title": "2026伦敦世界旅游交易会中国展区开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725802.shtml",
-        "publishedAt": "2026-11-04T10:32:43.000+08:00"
+        "title": "陆委会称现在没有“台独”问题 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725828.shtml",
+        "publishedAt": "2026-11-04T10:41:41.000+08:00"
       },
       {
-        "title": "巴基斯坦成功试射首枚国产空对空导弹",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725798.shtml",
-        "publishedAt": "2026-11-04T10:32:07.000+08:00"
+        "title": "豫皖两省四县（市）警方跨“界”共护一方平安",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725820.shtml",
+        "publishedAt": "2026-11-04T10:38:39.000+08:00"
       },
       {
-        "title": "严密组织体系是党的优势所在力量所在——论学习贯彻党的二十届五中全会精神",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725819.shtml",
-        "publishedAt": "2026-11-04T10:32:03.000+08:00"
+        "title": "民革十四届十六次中常会在北京召开",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725821.shtml",
+        "publishedAt": "2026-11-04T10:37:47.000+08:00"
       },
       {
-        "title": "三方会谈前俄乌各亮议题：乌提能源停火，俄谈安全保障",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725797.shtml",
-        "publishedAt": "2026-11-04T10:31:25.000+08:00"
+        "title": "“驻华使节中医药健康日”在北京举办 加蓬中医药合作项目落地",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725822.shtml",
+        "publishedAt": "2026-11-04T10:37:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T10:40:02.794+08:00",
+    "fetchedAt": "2026-11-04T10:50:03.841+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T10:40:06.388+08:00",
+      "fetchedAt": "2026-11-04T10:50:08.612+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T10:40:06.642+08:00",
+      "fetchedAt": "2026-11-04T10:50:08.882+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T10:40:06.647+08:00",
+      "fetchedAt": "2026-11-04T10:50:08.887+08:00",
       "error": null
     }
   }
