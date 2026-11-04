@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T13:00:39.012+08:00",
+  "updatedAt": "2026-11-04T13:10:08.083+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-04T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T13:00:39.013+08:00",
+    "fetchedAt": "2026-11-04T13:10:08.083+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "宁夏中卫大麦地岩画建起数字基因库",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725903.shtml",
+        "publishedAt": "2026-11-04T12:55:23.000+08:00"
+      },
       {
         "title": "塔克拉玛干，大漠边缘“海鲜”俏",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725899.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "美媒预测：民主党夺回美国国会参议院控制权，全面掌控国会",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725898.shtml",
         "publishedAt": "2026-11-04T12:41:54.000+08:00"
-      },
-      {
-        "title": "以自贸协定升级深化中瑞数字合作 为数字贸易互信夯实制度基础",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725887.shtml",
-        "publishedAt": "2026-11-04T12:39:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T13:00:03.905+08:00",
+    "fetchedAt": "2026-11-04T13:10:02.623+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T13:00:37.646+08:00",
+      "fetchedAt": "2026-11-04T13:10:06.865+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T13:00:37.889+08:00",
+      "fetchedAt": "2026-11-04T13:10:07.112+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T13:00:37.892+08:00",
+      "fetchedAt": "2026-11-04T13:10:07.117+08:00",
       "error": null
     }
   }
