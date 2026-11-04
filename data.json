@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T17:40:41.603+08:00",
+  "updatedAt": "2026-11-04T17:50:09.435+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
-    "feelsLikeC": 20,
+    "tempC": 17.6,
+    "feelsLikeC": 19.8,
     "humidity": 98,
-    "windKph": 2.3,
+    "windKph": 2.7,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T17:40:41.603+08:00",
+    "observedAt": "2026-11-04T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-04T17:50:09.435+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“报名失败”“名额紧张”？高考报名季警惕这些骗局",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726110.shtml",
+        "publishedAt": "2026-11-04T17:44:06.000+08:00"
+      },
+      {
+        "title": "长时间刷手机，大脑里发生了什么？警惕“手机痴呆症”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726109.shtml",
+        "publishedAt": "2026-11-04T17:41:06.000+08:00"
+      },
+      {
+        "title": "研究报告：这10个新职业近期热招",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726102.shtml",
+        "publishedAt": "2026-11-04T17:34:58.000+08:00"
+      },
       {
         "title": "香港举行眼镜展 汇聚逾600家展商",
         "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726024.shtml",
@@ -28,24 +43,9 @@
         "title": "新疆新型储能装机规模超2500万千瓦 居全国首位",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726099.shtml",
         "publishedAt": "2026-11-04T17:28:09.000+08:00"
-      },
-      {
-        "title": "从“本地办”到“异地办” 陕西法院交叉执行破局“执行难”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726098.shtml",
-        "publishedAt": "2026-11-04T17:22:33.000+08:00"
-      },
-      {
-        "title": "秋粮丰收已成定局",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726095.shtml",
-        "publishedAt": "2026-11-04T17:03:46.000+08:00"
-      },
-      {
-        "title": "国际金价反弹，A股黄金股批量涨停",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726091.shtml",
-        "publishedAt": "2026-11-04T17:02:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T17:40:06.802+08:00",
+    "fetchedAt": "2026-11-04T17:50:03.158+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T17:40:39.964+08:00",
+      "fetchedAt": "2026-11-04T17:50:07.781+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T17:40:40.379+08:00",
+      "fetchedAt": "2026-11-04T17:50:08.186+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T17:40:40.388+08:00",
+      "fetchedAt": "2026-11-04T17:50:08.194+08:00",
       "error": null
     }
   }
