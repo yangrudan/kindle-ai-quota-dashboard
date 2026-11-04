@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T14:20:11.918+08:00",
+  "updatedAt": "2026-11-04T14:30:16.680+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 19.2,
-    "feelsLikeC": 21.7,
+    "feelsLikeC": 21.6,
     "humidity": 89,
-    "windKph": 1.2,
-    "windDir": "西北风",
+    "windKph": 1.7,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-04T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T14:20:11.918+08:00",
+    "observedAt": "2026-11-04T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T14:30:16.680+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "-32.2℃！阿木尔林业局迎来今年入冬最低温",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725946.shtml",
+        "publishedAt": "2026-11-04T14:24:47.000+08:00"
+      },
+      {
+        "title": "（乡村行·看振兴）皖北村庄烙笔下的“福禄”生意",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725940.shtml",
+        "publishedAt": "2026-11-04T14:23:11.000+08:00"
+      },
+      {
+        "title": "西藏洛扎：林下灵芝引客来",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725941.shtml",
+        "publishedAt": "2026-11-04T14:21:31.000+08:00"
+      },
       {
         "title": "大湾区创科文化交流团走进香港 促粤港青年双向互通",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10725939.shtml",
@@ -28,24 +43,9 @@
         "title": "美国中期选举现场投票已基本结束",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725938.shtml",
         "publishedAt": "2026-11-04T14:14:09.000+08:00"
-      },
-      {
-        "title": "自助服务区补办身份证需刷身份证才能进？肇庆高新区通报：已改进",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725930.shtml",
-        "publishedAt": "2026-11-04T14:14:05.000+08:00"
-      },
-      {
-        "title": "今年前三季度中国黄金产量220.935吨",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725936.shtml",
-        "publishedAt": "2026-11-04T14:13:21.000+08:00"
-      },
-      {
-        "title": "共和党选情遇挫后，特朗普发布印有“否决权”字样的红色帽子",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725935.shtml",
-        "publishedAt": "2026-11-04T14:06:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T14:20:03.850+08:00",
+    "fetchedAt": "2026-11-04T14:30:04.932+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T14:20:10.352+08:00",
+      "fetchedAt": "2026-11-04T14:30:14.671+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 47,
+          "usedPct": 50,
           "resetAt": "2026-11-04T15:04:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 73,
+          "usedPct": 74,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T14:20:10.637+08:00",
+      "fetchedAt": "2026-11-04T14:30:15.025+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T14:20:10.647+08:00",
+      "fetchedAt": "2026-11-04T14:30:15.043+08:00",
       "error": null
     }
   }
