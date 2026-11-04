@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T14:30:16.680+08:00",
+  "updatedAt": "2026-11-04T14:40:08.347+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-04T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T14:30:16.680+08:00",
+    "fetchedAt": "2026-11-04T14:40:08.347+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "-32.2℃！阿木尔林业局迎来今年入冬最低温",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725946.shtml",
-        "publishedAt": "2026-11-04T14:24:47.000+08:00"
+        "title": "黑龙江省气象台发布冰冻天气预警 部分地区4日将现冻雨冰粒",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725952.shtml",
+        "publishedAt": "2026-11-04T14:33:54.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）皖北村庄烙笔下的“福禄”生意",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725940.shtml",
-        "publishedAt": "2026-11-04T14:23:11.000+08:00"
+        "title": "如何让创新势能加快激发消费潜能？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725953.shtml",
+        "publishedAt": "2026-11-04T14:32:50.000+08:00"
       },
       {
-        "title": "西藏洛扎：林下灵芝引客来",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725941.shtml",
-        "publishedAt": "2026-11-04T14:21:31.000+08:00"
+        "title": "从手搓榫卯到慢写信笺 中国年轻人兴起“情绪消费”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725951.shtml",
+        "publishedAt": "2026-11-04T14:32:40.000+08:00"
       },
       {
-        "title": "大湾区创科文化交流团走进香港 促粤港青年双向互通",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10725939.shtml",
-        "publishedAt": "2026-11-04T14:19:01.000+08:00"
+        "title": "规模创历届之最 四川省第十七届少数民族传统体育运动会将在攀枝花举办",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725949.shtml",
+        "publishedAt": "2026-11-04T14:27:54.000+08:00"
       },
       {
-        "title": "美国中期选举现场投票已基本结束",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725938.shtml",
-        "publishedAt": "2026-11-04T14:14:09.000+08:00"
+        "title": "跨越四千公里的“候鸟列车”：列车长13年护送老人南下路",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725950.shtml",
+        "publishedAt": "2026-11-04T14:27:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T14:30:04.932+08:00",
+    "fetchedAt": "2026-11-04T14:40:03.257+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1500 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T14:30:14.671+08:00",
+      "fetchedAt": "2026-11-04T14:40:06.881+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 50,
+          "usedPct": 55,
           "resetAt": "2026-11-04T15:04:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T14:30:15.025+08:00",
+      "fetchedAt": "2026-11-04T14:40:07.152+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T14:30:15.043+08:00",
+      "fetchedAt": "2026-11-04T14:40:07.161+08:00",
       "error": null
     }
   }
