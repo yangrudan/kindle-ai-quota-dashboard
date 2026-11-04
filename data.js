@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T22:30:50.604+08:00",
+  "updatedAt": "2026-11-04T22:40:38.887+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.9,
-    "feelsLikeC": 17.3,
+    "feelsLikeC": 17.2,
     "humidity": 98,
-    "windKph": 3.3,
+    "windKph": 3.4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-04T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T22:30:50.604+08:00",
+    "observedAt": "2026-11-04T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T22:40:38.887+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "驻韩美军两名士兵涉嫌走私毒品被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726317.shtml",
+        "publishedAt": "2026-11-04T22:31:24.000+08:00"
+      },
       {
         "title": "从大国水电到“植物活化石”：台湾自媒体人感受四川攀枝花的生态与工业力量",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726314.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国电视剧制作产业协会传播工作委员会正式揭牌",
         "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726312.shtml",
         "publishedAt": "2026-11-04T22:26:44.000+08:00"
-      },
-      {
-        "title": "全球创意经济与创意生态可持续发展合作中心（成都）落地成都高新区",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726310.shtml",
-        "publishedAt": "2026-11-04T22:24:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T22:30:12.523+08:00",
+    "fetchedAt": "2026-11-04T22:40:03.433+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-04T22:30:49.105+08:00",
+      "fetchedAt": "2026-11-04T22:40:37.008+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T22:30:49.436+08:00",
+      "fetchedAt": "2026-11-04T22:40:37.340+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-04T22:30:49.441+08:00",
+      "fetchedAt": "2026-11-04T22:40:37.349+08:00",
       "error": null
     }
   }
