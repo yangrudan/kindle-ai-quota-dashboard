@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T20:40:10.434+08:00",
+  "updatedAt": "2026-11-05T20:50:39.657+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.5,
-    "feelsLikeC": 14.3,
+    "tempC": 14.4,
+    "feelsLikeC": 14.2,
     "humidity": 83,
-    "windKph": 4.2,
+    "windKph": 4.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T20:40:10.434+08:00",
+    "observedAt": "2026-11-05T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T20:50:39.657+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河南洛阳：黄河秋色美如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726839.shtml",
-        "publishedAt": "2026-11-05T20:32:08.000+08:00"
+        "title": "青海发布“十五五”生态规划：到2030年建成美丽中国省域示范样板",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726845.shtml",
+        "publishedAt": "2026-11-05T20:43:21.000+08:00"
       },
       {
-        "title": "航拍金沙江大峡谷：一江碧水穿群山",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726838.shtml",
-        "publishedAt": "2026-11-05T20:30:40.000+08:00"
+        "title": "广西三江：载歌载舞庆瑶年",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726867.shtml",
+        "publishedAt": "2026-11-05T20:42:33.000+08:00"
       },
       {
-        "title": "多地学校延迟上学时间！别让“多睡觉”，变成假减负",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726858.shtml",
-        "publishedAt": "2026-11-05T20:30:16.000+08:00"
+        "title": "广州“创享营”结营：公益项目从“好想法”走向“好产品”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726843.shtml",
+        "publishedAt": "2026-11-05T20:42:05.000+08:00"
       },
       {
-        "title": "第四届“广州国际美妆周”化妆品高质量发展大会在广州举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726837.shtml",
-        "publishedAt": "2026-11-05T20:29:16.000+08:00"
+        "title": "九赴进博，共启新程——雀巢以160周年焕新之姿亮相第九届进博会",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726836.shtml",
+        "publishedAt": "2026-11-05T20:41:59.000+08:00"
       },
       {
-        "title": "锡林郭勒草原深处，用一堂传统技艺实践课疗愈“星星的孩子”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726852.shtml",
-        "publishedAt": "2026-11-05T20:29:12.000+08:00"
+        "title": "2026厦门海洋科技装备博览会启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726859.shtml",
+        "publishedAt": "2026-11-05T20:40:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T20:40:04.440+08:00",
+    "fetchedAt": "2026-11-05T20:50:03.606+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T20:40:08.645+08:00",
+      "fetchedAt": "2026-11-05T20:50:37.774+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T01:40:10.000+08:00"
+          "resetAt": "2026-11-06T01:50:39.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T20:40:10.000+08:00"
+          "resetAt": "2026-11-12T20:50:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T20:40:09.371+08:00",
+      "fetchedAt": "2026-11-05T20:50:38.236+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T20:40:09.379+08:00",
+      "fetchedAt": "2026-11-05T20:50:38.243+08:00",
       "error": null
     }
   }
