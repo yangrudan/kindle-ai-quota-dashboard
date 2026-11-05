@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T11:10:09.015+08:00",
+  "updatedAt": "2026-11-05T11:20:08.338+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 17,
-    "humidity": 64,
-    "windKph": 16.6,
+    "tempC": 19,
+    "feelsLikeC": 17.1,
+    "humidity": 63,
+    "windKph": 16.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T11:10:09.015+08:00",
+    "observedAt": "2026-11-05T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T11:20:08.338+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）脑机接口“牵手”自动驾驶 这对夫妻让轮椅“读懂”大脑",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726464.shtml",
+        "publishedAt": "2026-11-05T11:09:44.000+08:00"
+      },
+      {
+        "title": "走进低轨卫星研制团队，感受航天科技自立自强 未来中国的星空将进入“群星璀璨时”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726465.shtml",
+        "publishedAt": "2026-11-05T11:09:28.000+08:00"
+      },
+      {
+        "title": "多地重拳整治“鬼火少年”，之后呢？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726463.shtml",
+        "publishedAt": "2026-11-05T11:05:38.000+08:00"
+      },
       {
         "title": "《企业风险管理有效性评价指南》国家标准发布",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726455.shtml",
@@ -28,24 +43,9 @@
         "title": "织就数字文化新画卷——在乌镇峰会感受数字文化新业态",
         "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726460.shtml",
         "publishedAt": "2026-11-05T10:53:25.000+08:00"
-      },
-      {
-        "title": "10月物流业景气指数处于扩张区间 预期向好",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726458.shtml",
-        "publishedAt": "2026-11-05T10:51:07.000+08:00"
-      },
-      {
-        "title": "秋假来了 研学游、亲子游火热 多地景区免门票",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726457.shtml",
-        "publishedAt": "2026-11-05T10:50:23.000+08:00"
-      },
-      {
-        "title": "市场监管总局依法废止《绵羊绒交易技术规范》团体标准",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726452.shtml",
-        "publishedAt": "2026-11-05T10:48:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T11:10:03.637+08:00",
+    "fetchedAt": "2026-11-05T11:20:02.947+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T11:10:07.773+08:00",
+      "fetchedAt": "2026-11-05T11:20:06.761+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
+          "usedPct": 30,
           "resetAt": "2026-11-05T14:10:08.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T11:10:07.944+08:00",
+      "fetchedAt": "2026-11-05T11:20:06.958+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T11:10:07.949+08:00",
+      "fetchedAt": "2026-11-05T11:20:06.961+08:00",
       "error": null
     }
   }
