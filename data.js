@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T16:10:18.286+08:00",
+  "updatedAt": "2026-11-05T16:20:09.779+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.8,
-    "feelsLikeC": 19,
-    "humidity": 61,
-    "windKph": 9.3,
+    "tempC": 19.4,
+    "feelsLikeC": 18.8,
+    "humidity": 62,
+    "windKph": 8.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T16:10:18.286+08:00",
+    "observedAt": "2026-11-05T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T16:20:09.779+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "连增十三季 逐浪向新高——“外贸第一大省”亮眼数据释放哪些信号？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726663.shtml",
-        "publishedAt": "2026-11-05T16:00:05.000+08:00"
+        "title": "上新！我国三项档案文献遗产入选《世界记忆亚太地区名录》",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726678.shtml",
+        "publishedAt": "2026-11-05T16:17:26.000+08:00"
       },
       {
-        "title": "第九届广州商务航空展开幕 聚焦航空救援和城市空中交通",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726658.shtml",
-        "publishedAt": "2026-11-05T15:59:11.000+08:00"
+        "title": "孙中山与统一战线故事分享会在穗举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726674.shtml",
+        "publishedAt": "2026-11-05T16:16:26.000+08:00"
       },
       {
-        "title": "乌兹别克斯坦小伙“首闯”敦煌：古丝路上觅新机",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-05/10726656.shtml",
-        "publishedAt": "2026-11-05T15:57:49.000+08:00"
+        "title": "河南老界岭：层林尽染 秋景如画",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726668.shtml",
+        "publishedAt": "2026-11-05T16:15:52.000+08:00"
       },
       {
-        "title": "加强消费基础设施建设 如何提振消费？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726657.shtml",
-        "publishedAt": "2026-11-05T15:56:35.000+08:00"
+        "title": "两岸同胞同心聚合力 助力磨憨尚冈乡村振兴",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726669.shtml",
+        "publishedAt": "2026-11-05T16:14:20.000+08:00"
       },
       {
-        "title": "广东多地30℃高温不减 深圳街头市民仍着短袖夏装",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726653.shtml",
-        "publishedAt": "2026-11-05T15:56:35.000+08:00"
+        "title": "四川成都：中小学生同场“智折方舟”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726672.shtml",
+        "publishedAt": "2026-11-05T16:13:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T16:10:12.086+08:00",
+    "fetchedAt": "2026-11-05T16:20:04.218+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T16:10:16.839+08:00",
+      "fetchedAt": "2026-11-05T16:20:08.401+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T21:10:18.000+08:00"
+          "resetAt": "2026-11-05T21:20:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T16:10:18.000+08:00"
+          "resetAt": "2026-11-12T16:20:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T16:10:17.158+08:00",
+      "fetchedAt": "2026-11-05T16:20:08.702+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T16:10:17.167+08:00",
+      "fetchedAt": "2026-11-05T16:20:08.705+08:00",
       "error": null
     }
   }
