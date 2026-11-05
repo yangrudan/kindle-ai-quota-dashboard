@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T09:30:09.402+08:00",
+  "updatedAt": "2026-11-05T09:40:09.707+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-05T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T09:30:09.403+08:00",
+    "fetchedAt": "2026-11-05T09:40:09.707+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "河北出台一揽子措施支持OPC创新发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726400.shtml",
+        "publishedAt": "2026-11-05T09:34:13.000+08:00"
+      },
+      {
+        "title": "11月5日央行开展2630亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726398.shtml",
+        "publishedAt": "2026-11-05T09:31:00.000+08:00"
+      },
+      {
+        "title": "文创“进化”，路在何方？（金台随笔）",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726397.shtml",
+        "publishedAt": "2026-11-05T09:28:36.000+08:00"
+      },
       {
         "title": "11月5日人民币对美元中间价报6.7156 上调24个基点",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726394.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "两部门联合印发《初级、中级养老服务师职业资格考试实施办法》",
         "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726391.shtml",
         "publishedAt": "2026-11-05T09:22:44.000+08:00"
-      },
-      {
-        "title": "云岭动态第三十四期",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726389.shtml",
-        "publishedAt": "2026-11-05T09:22:42.000+08:00"
-      },
-      {
-        "title": "白宫发帖提示：特朗普仍是美国总统",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726395.shtml",
-        "publishedAt": "2026-11-05T09:22:30.000+08:00"
-      },
-      {
-        "title": "民进宜春市委会举办“同心润家·亲子共成长”家庭教育公益讲座",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726388.shtml",
-        "publishedAt": "2026-11-05T09:22:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T09:30:03.734+08:00",
+    "fetchedAt": "2026-11-05T09:40:03.727+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T09:30:07.631+08:00",
+      "fetchedAt": "2026-11-05T09:40:07.944+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T09:30:07.922+08:00",
+      "fetchedAt": "2026-11-05T09:40:08.219+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T09:30:07.927+08:00",
+      "fetchedAt": "2026-11-05T09:40:08.222+08:00",
       "error": null
     }
   }
