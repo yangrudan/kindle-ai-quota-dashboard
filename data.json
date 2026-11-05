@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T12:20:09.193+08:00",
+  "updatedAt": "2026-11-05T12:30:10.896+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.7,
-    "feelsLikeC": 18,
-    "humidity": 60,
-    "windKph": 15.4,
+    "tempC": 19.9,
+    "feelsLikeC": 18.1,
+    "humidity": 59,
+    "windKph": 15.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T12:20:09.193+08:00",
+    "observedAt": "2026-11-05T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T12:30:10.897+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "AI浪潮下的乌镇之问：如何重新定义人与智能的边界？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726513.shtml",
-        "publishedAt": "2026-11-05T12:07:57.000+08:00"
+        "title": "三峡库区重庆忠县现壮美平湖景观",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726480.shtml",
+        "publishedAt": "2026-11-05T12:19:18.000+08:00"
       },
       {
-        "title": "广东外贸千年：商港依旧货品常变 外贸向新而行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726511.shtml",
-        "publishedAt": "2026-11-05T12:06:47.000+08:00"
+        "title": "“名师带营”“内部名额”别轻信！秋假临近 报研学团先核对这四项",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726524.shtml",
+        "publishedAt": "2026-11-05T12:14:51.000+08:00"
       },
       {
-        "title": "吃着吃着就炸了 卡式炉这些错误用法要当心",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726522.shtml",
-        "publishedAt": "2026-11-05T12:05:55.000+08:00"
+        "title": "摩洛哥称将继续遵守西撒哈拉停火协议",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726490.shtml",
+        "publishedAt": "2026-11-05T12:14:03.000+08:00"
       },
       {
-        "title": "第十届中国职工足球联赛总决赛柳州开赛 36支球队同场竞技",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726509.shtml",
-        "publishedAt": "2026-11-05T11:48:28.000+08:00"
+        "title": "菲律宾10月通胀率升至7.8% 创2023年2月以来新高",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726499.shtml",
+        "publishedAt": "2026-11-05T12:13:21.000+08:00"
       },
       {
-        "title": "河北邯郸：不用一砖一瓦 万千布条拧出仿古戏楼",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726508.shtml",
-        "publishedAt": "2026-11-05T11:47:46.000+08:00"
+        "title": "如何发现被星光掩盖的系外行星？国际研发出高灵敏度探测新方法",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726448.shtml",
+        "publishedAt": "2026-11-05T12:12:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T12:20:03.585+08:00",
+    "fetchedAt": "2026-11-05T12:30:05.296+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T12:20:07.670+08:00",
+      "fetchedAt": "2026-11-05T12:30:09.640+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T12:20:08.080+08:00",
+      "fetchedAt": "2026-11-05T12:30:09.901+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T12:20:08.090+08:00",
+      "fetchedAt": "2026-11-05T12:30:09.910+08:00",
       "error": null
     }
   }
