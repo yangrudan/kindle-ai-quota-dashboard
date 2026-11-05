@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T18:30:39.612+08:00",
+  "updatedAt": "2026-11-05T18:40:14.919+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-05T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T18:30:39.612+08:00",
+    "fetchedAt": "2026-11-05T18:40:14.919+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（经济观察）20余城落地“现房销售制” 房地产发展新模式加速构建",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726776.shtml",
+        "publishedAt": "2026-11-05T18:31:18.000+08:00"
+      },
+      {
+        "title": "全国首个“电力鸿蒙”兆瓦级液冷超充重卡补能示范站落地昆明",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726772.shtml",
+        "publishedAt": "2026-11-05T18:27:33.000+08:00"
+      },
+      {
+        "title": "高山果香富农家 山西繁峙山地优势酿出“甜味经济”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726770.shtml",
+        "publishedAt": "2026-11-05T18:26:31.000+08:00"
+      },
+      {
+        "title": "“肖复兴人生四书”出版：于平凡生活中读懂人生滋味",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726771.shtml",
+        "publishedAt": "2026-11-05T18:26:15.000+08:00"
+      },
+      {
         "title": "第33届中国戏剧梅花奖设门槛：参评演员须过30场公开演出关",
         "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726769.shtml",
         "publishedAt": "2026-11-05T18:23:45.000+08:00"
-      },
-      {
-        "title": "吉林靖宇抽水蓄能电站主体工程启动建设",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726768.shtml",
-        "publishedAt": "2026-11-05T18:23:17.000+08:00"
-      },
-      {
-        "title": "第九届进博会丨全球科创种子加速在进博会“破土”",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-05/10726774.shtml",
-        "publishedAt": "2026-11-05T18:22:43.000+08:00"
-      },
-      {
-        "title": "技能筑梦 辽宁省残疾人职业技能竞赛在沈阳开赛",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726765.shtml",
-        "publishedAt": "2026-11-05T18:22:43.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）江西玉山：同心助农榨出“黄金油”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726764.shtml",
-        "publishedAt": "2026-11-05T18:22:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T18:30:04.461+08:00",
+    "fetchedAt": "2026-11-05T18:40:04.312+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T18:30:38.090+08:00",
+      "fetchedAt": "2026-11-05T18:40:13.393+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T23:30:39.000+08:00"
+          "resetAt": "2026-11-05T23:40:14.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T18:30:39.000+08:00"
+          "resetAt": "2026-11-12T18:40:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T18:30:38.404+08:00",
+      "fetchedAt": "2026-11-05T18:40:13.920+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T18:30:38.410+08:00",
+      "fetchedAt": "2026-11-05T18:40:13.925+08:00",
       "error": null
     }
   }
