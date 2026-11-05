@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T11:40:08.908+08:00",
+  "updatedAt": "2026-11-05T11:50:10.507+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.2,
-    "feelsLikeC": 17.4,
+    "tempC": 19.4,
+    "feelsLikeC": 17.6,
     "humidity": 62,
-    "windKph": 16.1,
+    "windKph": 15.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T11:40:08.909+08:00",
+    "observedAt": "2026-11-05T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T11:50:10.507+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "敦煌论坛聚焦中亚南亚合作 共商丝路协同发展",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-05/10726483.shtml",
-        "publishedAt": "2026-11-05T11:27:57.000+08:00"
+        "title": "10月中国大宗商品价格指数同比上涨21%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726498.shtml",
+        "publishedAt": "2026-11-05T11:45:28.000+08:00"
       },
       {
-        "title": "靖安县仁首镇：凝聚巾帼力量 共促民族团结",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726482.shtml",
-        "publishedAt": "2026-11-05T11:27:55.000+08:00"
+        "title": "中非能源合作瞄准可再生能源领域快速拓展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726497.shtml",
+        "publishedAt": "2026-11-05T11:44:24.000+08:00"
       },
       {
-        "title": "民建宜春市直属总支开展“同心思源” 公益义诊进社区活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726479.shtml",
-        "publishedAt": "2026-11-05T11:24:47.000+08:00"
+        "title": "反跨境腐败法草案引热议：为全球反跨境腐败事业贡献中国智慧",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726496.shtml",
+        "publishedAt": "2026-11-05T11:44:16.000+08:00"
       },
       {
-        "title": "广东海外联谊会访问团与比利时侨领座谈交流",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726467.shtml",
-        "publishedAt": "2026-11-05T11:24:11.000+08:00"
+        "title": "（第九届进博会）海外“老字号”进博会上寻新客",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726495.shtml",
+        "publishedAt": "2026-11-05T11:42:20.000+08:00"
       },
       {
-        "title": "京港洽谈会京港数智经济协同发展专题活动举办 发布系列重要成果",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726471.shtml",
-        "publishedAt": "2026-11-05T11:23:41.000+08:00"
+        "title": "中共中央政治局原委员马兴瑞涉嫌受贿被公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726494.shtml",
+        "publishedAt": "2026-11-05T11:40:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T11:40:03.850+08:00",
+    "fetchedAt": "2026-11-05T11:50:04.062+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T11:40:07.606+08:00",
+      "fetchedAt": "2026-11-05T11:50:08.739+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 30,
+          "usedPct": 31,
           "resetAt": "2026-11-05T14:10:08.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T11:40:07.820+08:00",
+      "fetchedAt": "2026-11-05T11:50:09.061+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T11:40:07.829+08:00",
+      "fetchedAt": "2026-11-05T11:50:09.066+08:00",
       "error": null
     }
   }
