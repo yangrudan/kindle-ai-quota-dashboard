@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T15:10:10.537+08:00",
+  "updatedAt": "2026-11-05T15:20:09.687+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.3,
+    "tempC": 20.2,
     "feelsLikeC": 19.2,
-    "humidity": 58,
-    "windKph": 11.4,
-    "windDir": "西北风",
+    "humidity": 59,
+    "windKph": 11,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T15:10:10.537+08:00",
+    "observedAt": "2026-11-05T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T15:20:09.687+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "德媒：德国巴伐利亚州副州长艾旺格去世",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726599.shtml",
-        "publishedAt": "2026-11-05T14:59:12.000+08:00"
+        "title": "散瞳验光会伤孩子眼睛？丨中新真探",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726609.shtml",
+        "publishedAt": "2026-11-05T15:14:17.000+08:00"
       },
       {
-        "title": "印尼三季度经济同比增长5.47% 高于市场预期",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726594.shtml",
-        "publishedAt": "2026-11-05T14:57:14.000+08:00"
+        "title": "空腹采血，空腹越久越好……是真是假？",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726613.shtml",
+        "publishedAt": "2026-11-05T15:13:53.000+08:00"
       },
       {
-        "title": "侨商侨企投资广州：航空国际货机中心将落户花都",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726598.shtml",
-        "publishedAt": "2026-11-05T14:52:28.000+08:00"
+        "title": "青海省国有资产投资管理有限公司原董事长程国勋接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726606.shtml",
+        "publishedAt": "2026-11-05T15:07:03.000+08:00"
       },
       {
-        "title": "从血染湘江到长眠草地，两张泛黄薄纸藏着红军长征震撼细节",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726597.shtml",
-        "publishedAt": "2026-11-05T14:51:38.000+08:00"
+        "title": "孕产期妈妈应该如何科学喝奶 专家一起来支招",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726601.shtml",
+        "publishedAt": "2026-11-05T15:06:29.000+08:00"
       },
       {
-        "title": "这个故事会，读懂一位统一战线先行者的同心之道",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726593.shtml",
-        "publishedAt": "2026-11-05T14:46:43.000+08:00"
+        "title": "“两高”发布依法惩治新型、隐性职务犯罪典型案例",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726608.shtml",
+        "publishedAt": "2026-11-05T15:05:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T15:10:04.626+08:00",
+    "fetchedAt": "2026-11-05T15:20:03.834+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T15:10:09.015+08:00",
+      "fetchedAt": "2026-11-05T15:20:07.898+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T20:10:10.000+08:00"
+          "resetAt": "2026-11-05T20:20:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T15:10:10.000+08:00"
+          "resetAt": "2026-11-12T15:20:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T15:10:09.461+08:00",
+      "fetchedAt": "2026-11-05T15:20:08.190+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T15:10:09.466+08:00",
+      "fetchedAt": "2026-11-05T15:20:08.193+08:00",
       "error": null
     }
   }
