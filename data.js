@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T19:20:15.501+08:00",
+  "updatedAt": "2026-11-05T19:30:08.842+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.6,
+    "tempC": 15.5,
     "feelsLikeC": 15.2,
-    "humidity": 79,
-    "windKph": 7.1,
+    "humidity": 80,
+    "windKph": 6.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T19:20:15.501+08:00",
+    "observedAt": "2026-11-05T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T19:30:08.842+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“多地禁用电动车挡风被”系误读（2026·11·05）",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726794.shtml",
-        "publishedAt": "2026-11-05T19:07:28.000+08:00"
+        "title": "第140届广交会期间广州口岸出入境人员达126万人次",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726796.shtml",
+        "publishedAt": "2026-11-05T19:23:02.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会首次现场颁发“五星卡” 外籍展商感受在华便利",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726791.shtml",
-        "publishedAt": "2026-11-05T19:05:32.000+08:00"
+        "title": "宁夏：铁路点亮山区学子远行梦",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726797.shtml",
+        "publishedAt": "2026-11-05T19:22:58.000+08:00"
       },
       {
-        "title": "国家开发银行辽宁省分行原资深专家李景波接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726753.shtml",
-        "publishedAt": "2026-11-05T18:57:41.000+08:00"
+        "title": "原子级制造“院士专家城市行”北京站活动在北京怀柔举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726800.shtml",
+        "publishedAt": "2026-11-05T19:22:26.000+08:00"
       },
       {
-        "title": "国网湖南省电力有限公司原副总经理王健接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726743.shtml",
-        "publishedAt": "2026-11-05T18:55:45.000+08:00"
+        "title": "在三亚“洞天福地，海山奇观”中饱览人文气象",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726808.shtml",
+        "publishedAt": "2026-11-05T19:19:36.000+08:00"
       },
       {
-        "title": "C罗宣布从葡萄牙国家足球队退役：“葡萄牙，永在我心”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726787.shtml",
-        "publishedAt": "2026-11-05T18:54:19.000+08:00"
+        "title": "雨雪寒潮来袭 中国北疆多部门联动开启“守护模式”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726802.shtml",
+        "publishedAt": "2026-11-05T19:19:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T19:20:09.403+08:00",
+    "fetchedAt": "2026-11-05T19:30:02.949+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T19:20:13.896+08:00",
+      "fetchedAt": "2026-11-05T19:30:07.548+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T00:20:15.000+08:00"
+          "resetAt": "2026-11-06T00:30:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T19:20:15.000+08:00"
+          "resetAt": "2026-11-12T19:30:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T19:20:14.248+08:00",
+      "fetchedAt": "2026-11-05T19:30:07.786+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T19:20:14.257+08:00",
+      "fetchedAt": "2026-11-05T19:30:07.795+08:00",
       "error": null
     }
   }
