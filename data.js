@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T12:50:09.371+08:00",
+  "updatedAt": "2026-11-05T13:00:12.788+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20,
-    "feelsLikeC": 18.3,
+    "tempC": 20.1,
+    "feelsLikeC": 18.4,
     "humidity": 58,
-    "windKph": 15.1,
+    "windKph": 14.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T12:50:09.371+08:00",
+    "observedAt": "2026-11-05T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T13:00:12.788+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "按年龄分档、零起付线等 多地升级“惠民保”增加保障",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726531.shtml",
+        "publishedAt": "2026-11-05T12:49:51.000+08:00"
+      },
       {
         "title": "三峡库区重庆忠县现壮美平湖景观",
         "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726480.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "菲律宾10月通胀率升至7.8% 创2023年2月以来新高",
         "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726499.shtml",
         "publishedAt": "2026-11-05T12:13:21.000+08:00"
-      },
-      {
-        "title": "如何发现被星光掩盖的系外行星？国际研发出高灵敏度探测新方法",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726448.shtml",
-        "publishedAt": "2026-11-05T12:12:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T12:50:04.017+08:00",
+    "fetchedAt": "2026-11-05T13:00:05.667+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T12:50:07.653+08:00",
+      "fetchedAt": "2026-11-05T13:00:11.105+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T12:50:08.046+08:00",
+      "fetchedAt": "2026-11-05T13:00:11.363+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T12:50:08.051+08:00",
+      "fetchedAt": "2026-11-05T13:00:11.375+08:00",
       "error": null
     }
   }
