@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T16:20:09.779+08:00",
+  "updatedAt": "2026-11-05T16:30:10.069+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.4,
-    "feelsLikeC": 18.8,
-    "humidity": 62,
-    "windKph": 8.5,
+    "tempC": 19,
+    "feelsLikeC": 18.5,
+    "humidity": 65,
+    "windKph": 7.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T16:20:09.779+08:00",
+    "observedAt": "2026-11-05T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T16:30:10.069+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "山西稷山：一块煤的“高端突围”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726682.shtml",
+        "publishedAt": "2026-11-05T16:22:09.000+08:00"
+      },
+      {
+        "title": "从街头岗亭到乡村茶桌 甘肃陇南“马路学堂”探文明出行新风",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726679.shtml",
+        "publishedAt": "2026-11-05T16:20:37.000+08:00"
+      },
+      {
+        "title": "中国驻刚果（金）使馆提醒在刚中国公民务必高度重视安全问题及埃博拉疫情发展动态",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726677.shtml",
+        "publishedAt": "2026-11-05T16:20:27.000+08:00"
+      },
       {
         "title": "上新！我国三项档案文献遗产入选《世界记忆亚太地区名录》",
         "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726678.shtml",
@@ -28,24 +43,9 @@
         "title": "孙中山与统一战线故事分享会在穗举办",
         "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726674.shtml",
         "publishedAt": "2026-11-05T16:16:26.000+08:00"
-      },
-      {
-        "title": "河南老界岭：层林尽染 秋景如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726668.shtml",
-        "publishedAt": "2026-11-05T16:15:52.000+08:00"
-      },
-      {
-        "title": "两岸同胞同心聚合力 助力磨憨尚冈乡村振兴",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726669.shtml",
-        "publishedAt": "2026-11-05T16:14:20.000+08:00"
-      },
-      {
-        "title": "四川成都：中小学生同场“智折方舟”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726672.shtml",
-        "publishedAt": "2026-11-05T16:13:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T16:20:04.218+08:00",
+    "fetchedAt": "2026-11-05T16:30:03.533+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T16:20:08.401+08:00",
+      "fetchedAt": "2026-11-05T16:30:08.607+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T21:20:09.000+08:00"
+          "resetAt": "2026-11-05T21:30:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T16:20:09.000+08:00"
+          "resetAt": "2026-11-12T16:30:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T16:20:08.702+08:00",
+      "fetchedAt": "2026-11-05T16:30:08.994+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T16:20:08.705+08:00",
+      "fetchedAt": "2026-11-05T16:30:09.003+08:00",
       "error": null
     }
   }
