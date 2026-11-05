@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T16:50:09.386+08:00",
+  "updatedAt": "2026-11-05T17:00:09.112+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.5,
-    "feelsLikeC": 18.2,
-    "humidity": 68,
-    "windKph": 7,
+    "tempC": 18,
+    "feelsLikeC": 17.8,
+    "humidity": 70,
+    "windKph": 6.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T16:50:09.386+08:00",
+    "observedAt": "2026-11-05T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T17:00:09.112+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全球媒体聚焦｜品质与价格完美结合 中国产品引消费者共鸣",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726707.shtml",
-        "publishedAt": "2026-11-05T16:46:22.000+08:00"
+        "title": "商务部：中国和瑞士将积极深化数字贸易等新兴领域的合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726709.shtml",
+        "publishedAt": "2026-11-05T16:55:53.000+08:00"
       },
       {
-        "title": "中韩具身智能技术产业合作论坛在首尔举办",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726666.shtml",
-        "publishedAt": "2026-11-05T16:45:18.000+08:00"
+        "title": "《海洋生物多样性协定》缔约方已突破100个",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726716.shtml",
+        "publishedAt": "2026-11-05T16:54:54.000+08:00"
       },
       {
-        "title": "新兴赛道不设“高门槛” 山西为普通青年铺就数智就业路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726704.shtml",
-        "publishedAt": "2026-11-05T16:44:48.000+08:00"
+        "title": "经纬度：这场开放之约，何以历“九”弥新",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726719.shtml",
+        "publishedAt": "2026-11-05T16:54:10.000+08:00"
       },
       {
-        "title": "运-20机长：第一次驾驶运-20时，一切都和在模拟机里完全不同",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726703.shtml",
-        "publishedAt": "2026-11-05T16:42:54.000+08:00"
+        "title": "（第九届进博会）全球科创种子加速在进博会“破土”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726718.shtml",
+        "publishedAt": "2026-11-05T16:51:46.000+08:00"
       },
       {
-        "title": "探访三亚西岛：逛渔村感受海岛风情",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726691.shtml",
-        "publishedAt": "2026-11-05T16:41:46.000+08:00"
+        "title": "法律界人士共商香港国际争议解决枢纽建设",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726713.shtml",
+        "publishedAt": "2026-11-05T16:51:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T16:50:03.898+08:00",
+    "fetchedAt": "2026-11-05T17:00:03.079+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T16:50:07.952+08:00",
+      "fetchedAt": "2026-11-05T17:00:07.694+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T21:50:09.000+08:00"
+          "resetAt": "2026-11-05T22:00:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T16:50:09.000+08:00"
+          "resetAt": "2026-11-12T17:00:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T16:50:08.384+08:00",
+      "fetchedAt": "2026-11-05T17:00:08.046+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T16:50:08.387+08:00",
+      "fetchedAt": "2026-11-05T17:00:08.057+08:00",
       "error": null
     }
   }
