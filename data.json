@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T22:40:40.185+08:00",
+  "updatedAt": "2026-11-05T22:50:09.673+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 14.3,
-    "feelsLikeC": 14.3,
-    "humidity": 85,
-    "windKph": 3.5,
-    "windDir": "北风",
+    "feelsLikeC": 14.4,
+    "humidity": 86,
+    "windKph": 3.1,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T22:40:40.185+08:00",
+    "observedAt": "2026-11-05T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T22:50:09.674+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）赴约进博，来往之间共享发展新机遇",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726921.shtml",
-        "publishedAt": "2026-11-05T22:31:37.000+08:00"
+        "title": "《白衣公卿》还没播，番位先吵起来了！笔画排序为何没能终结争议？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726928.shtml",
+        "publishedAt": "2026-11-05T22:45:02.000+08:00"
       },
       {
-        "title": "新疆交河故城探索科技赋能遗址保护新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726917.shtml",
-        "publishedAt": "2026-11-05T22:30:47.000+08:00"
+        "title": "海南自贸港吸引力持续上升 多国客商赴琼寻商机",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726927.shtml",
+        "publishedAt": "2026-11-05T22:39:45.000+08:00"
       },
       {
-        "title": "（第九届进博会）港澳台企业踊跃参加第九届进博会",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726918.shtml",
-        "publishedAt": "2026-11-05T22:30:05.000+08:00"
+        "title": "（第九届进博会）九年进博，见证中国开放引力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726926.shtml",
+        "publishedAt": "2026-11-05T22:39:03.000+08:00"
       },
       {
-        "title": "专盯“一手女房东”！“房产中介”倒卖信息获刑三年半",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726922.shtml",
-        "publishedAt": "2026-11-05T22:29:29.000+08:00"
+        "title": "（第九届进博会）香港企业参展进博会数量、规模创新高",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726925.shtml",
+        "publishedAt": "2026-11-05T22:38:05.000+08:00"
       },
       {
-        "title": "（第九届进博会）外企高层：进博会让全球创新成果与中国需求更快相遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726916.shtml",
-        "publishedAt": "2026-11-05T22:25:16.000+08:00"
+        "title": "广西与加纳阿散蒂省签署建立友好区省关系意向书",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726924.shtml",
+        "publishedAt": "2026-11-05T22:36:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T22:40:03.977+08:00",
+    "fetchedAt": "2026-11-05T22:50:04.261+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T22:40:38.740+08:00",
+      "fetchedAt": "2026-11-05T22:50:08.265+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T22:40:39.014+08:00",
+      "fetchedAt": "2026-11-05T22:50:08.542+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T22:40:39.021+08:00",
+      "fetchedAt": "2026-11-05T22:50:08.550+08:00",
       "error": null
     }
   }
