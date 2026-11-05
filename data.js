@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T16:40:11.252+08:00",
+  "updatedAt": "2026-11-05T16:50:09.386+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19,
-    "feelsLikeC": 18.5,
-    "humidity": 65,
-    "windKph": 7.6,
+    "tempC": 18.5,
+    "feelsLikeC": 18.2,
+    "humidity": 68,
+    "windKph": 7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T16:40:11.252+08:00",
+    "observedAt": "2026-11-05T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T16:50:09.386+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东南亚榴梿、北美珍宝蟹……世界美味这样奔赴中国餐桌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726697.shtml",
-        "publishedAt": "2026-11-05T16:33:33.000+08:00"
+        "title": "全球媒体聚焦｜品质与价格完美结合 中国产品引消费者共鸣",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726707.shtml",
+        "publishedAt": "2026-11-05T16:46:22.000+08:00"
       },
       {
-        "title": "“十五五”期间 山西将对欠薪等突出问题开展监督、整治",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726693.shtml",
-        "publishedAt": "2026-11-05T16:30:15.000+08:00"
+        "title": "中韩具身智能技术产业合作论坛在首尔举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726666.shtml",
+        "publishedAt": "2026-11-05T16:45:18.000+08:00"
       },
       {
-        "title": "直播海报：坐慢火车，赶一场车厢里的山间市集",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726695.shtml",
-        "publishedAt": "2026-11-05T16:30:03.000+08:00"
+        "title": "新兴赛道不设“高门槛” 山西为普通青年铺就数智就业路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726704.shtml",
+        "publishedAt": "2026-11-05T16:44:48.000+08:00"
       },
       {
-        "title": "从空心村到共富样本 民企赋能乡村振兴的篁岭答卷",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726686.shtml",
-        "publishedAt": "2026-11-05T16:29:27.000+08:00"
+        "title": "运-20机长：第一次驾驶运-20时，一切都和在模拟机里完全不同",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726703.shtml",
+        "publishedAt": "2026-11-05T16:42:54.000+08:00"
       },
       {
-        "title": "美媒：马斯克删除呼吁支持共和党的帖文",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726694.shtml",
-        "publishedAt": "2026-11-05T16:28:35.000+08:00"
+        "title": "探访三亚西岛：逛渔村感受海岛风情",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726691.shtml",
+        "publishedAt": "2026-11-05T16:41:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T16:40:03.966+08:00",
+    "fetchedAt": "2026-11-05T16:50:03.898+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T16:40:09.893+08:00",
+      "fetchedAt": "2026-11-05T16:50:07.952+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T21:40:11.000+08:00"
+          "resetAt": "2026-11-05T21:50:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T16:40:11.000+08:00"
+          "resetAt": "2026-11-12T16:50:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T16:40:10.204+08:00",
+      "fetchedAt": "2026-11-05T16:50:08.384+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T16:40:10.214+08:00",
+      "fetchedAt": "2026-11-05T16:50:08.387+08:00",
       "error": null
     }
   }
