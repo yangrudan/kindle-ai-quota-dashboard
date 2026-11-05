@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T00:40:08.438+08:00",
+  "updatedAt": "2026-11-06T00:50:09.320+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14,
-    "feelsLikeC": 14.5,
+    "tempC": 13.7,
+    "feelsLikeC": 14.2,
     "humidity": 89,
-    "windKph": 0.9,
-    "windDir": "西风",
+    "windKph": 0.8,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T00:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T00:40:08.438+08:00",
+    "observedAt": "2026-11-06T00:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T00:50:09.320+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我国成功发射遥感五十一号07-09星",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726975.shtml",
+        "publishedAt": "2026-11-06T00:38:20.000+08:00"
+      },
       {
         "title": "英国央行三年多来首度加息",
         "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726974.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "让癌细胞“忙中出错”自我引爆 浙大团队成果登《自然》",
         "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726966.shtml",
         "publishedAt": "2026-11-05T23:46:27.000+08:00"
-      },
-      {
-        "title": "黑龙江电力外送签约电量首破200亿千瓦时",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726965.shtml",
-        "publishedAt": "2026-11-05T23:43:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T00:40:03.589+08:00",
+    "fetchedAt": "2026-11-06T00:50:03.373+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T00:40:07.156+08:00",
+      "fetchedAt": "2026-11-06T00:50:08.049+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T00:40:07.422+08:00",
+      "fetchedAt": "2026-11-06T00:50:08.363+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T00:40:07.430+08:00",
+      "fetchedAt": "2026-11-06T00:50:08.371+08:00",
       "error": null
     }
   }
