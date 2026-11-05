@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T10:00:10.464+08:00",
+  "updatedAt": "2026-11-05T10:10:10.074+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-05T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T10:00:10.465+08:00",
+    "fetchedAt": "2026-11-05T10:10:10.074+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026丰收那达慕在京举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726415.shtml",
+        "publishedAt": "2026-11-05T10:02:10.000+08:00"
+      },
+      {
+        "title": "湖北检察机关依法对马兴瑞涉嫌受贿案提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726418.shtml",
+        "publishedAt": "2026-11-05T10:01:28.000+08:00"
+      },
+      {
+        "title": "多项指标创新高 进博会硕果可期",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726417.shtml",
+        "publishedAt": "2026-11-05T10:00:18.000+08:00"
+      },
+      {
+        "title": "青海打造“侨字号”外宣节目 牵线侨胞情系高原桑梓",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726414.shtml",
+        "publishedAt": "2026-11-05T09:59:48.000+08:00"
+      },
+      {
         "title": "中国驻洛杉矶总领馆提醒中国公民谨慎选择从檀香山国际机场入境",
         "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726402.shtml",
         "publishedAt": "2026-11-05T09:55:46.000+08:00"
-      },
-      {
-        "title": "炖肉时出现的浮沫，是营养精华还是脏东西？该不该撇去？",
-        "url": "https://www.chinanews.com.cn/life/2026/11-05/10726412.shtml",
-        "publishedAt": "2026-11-05T09:54:18.000+08:00"
-      },
-      {
-        "title": "法国卢浮宫举办特展纪念摄影术诞生200周年",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726355.shtml",
-        "publishedAt": "2026-11-05T09:54:10.000+08:00"
-      },
-      {
-        "title": "人工智能创新大赛“以AI办AI赛事” 助力AI从赛场走向产业现场",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726408.shtml",
-        "publishedAt": "2026-11-05T09:52:14.000+08:00"
-      },
-      {
-        "title": "特朗普回应可能遭弹劾：那会摧毁民主党",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726411.shtml",
-        "publishedAt": "2026-11-05T09:51:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T10:00:04.899+08:00",
+    "fetchedAt": "2026-11-05T10:10:04.491+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T10:00:08.755+08:00",
+      "fetchedAt": "2026-11-05T10:10:08.655+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T10:00:09.027+08:00",
+      "fetchedAt": "2026-11-05T10:10:08.920+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T10:00:09.038+08:00",
+      "fetchedAt": "2026-11-05T10:10:08.930+08:00",
       "error": null
     }
   }
