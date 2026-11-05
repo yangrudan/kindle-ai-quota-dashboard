@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T22:10:10.449+08:00",
+  "updatedAt": "2026-11-05T22:20:09.155+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 14.3,
-    "feelsLikeC": 14.2,
-    "humidity": 84,
-    "windKph": 4.1,
+    "feelsLikeC": 14.3,
+    "humidity": 85,
+    "windKph": 3.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T22:10:10.449+08:00",
+    "observedAt": "2026-11-05T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T22:20:09.156+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "广西平乐柿红引客来 产值突破60亿元",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726905.shtml",
+        "publishedAt": "2026-11-05T22:13:24.000+08:00"
+      },
+      {
+        "title": "贵州乡村小学的快乐足球赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726903.shtml",
+        "publishedAt": "2026-11-05T22:11:22.000+08:00"
+      },
+      {
+        "title": "外籍人士走进重庆社区 近距离感受基层协商民主实践",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726901.shtml",
+        "publishedAt": "2026-11-05T22:09:36.000+08:00"
+      },
+      {
+        "title": "流域治理成效如何落到红火日子里？（美丽中国·大河新颜）",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726912.shtml",
+        "publishedAt": "2026-11-05T22:09:12.000+08:00"
+      },
+      {
         "title": "保持多项纪录！C罗宣布结束葡萄牙国家队生涯",
         "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726907.shtml",
         "publishedAt": "2026-11-05T21:57:21.000+08:00"
-      },
-      {
-        "title": "哈尔滨今冬旅游有“新意”：新IP、新场景、新玩法",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726900.shtml",
-        "publishedAt": "2026-11-05T21:53:55.000+08:00"
-      },
-      {
-        "title": "海外侨界代表走进天津校园 共读《侨印》厚植家国情怀",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726902.shtml",
-        "publishedAt": "2026-11-05T21:52:43.000+08:00"
-      },
-      {
-        "title": "中新健康｜医保钱包2.0版上线！个人账户资金如何跨省供亲属使用？一文看懂",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726904.shtml",
-        "publishedAt": "2026-11-05T21:51:45.000+08:00"
-      },
-      {
-        "title": "中国与阿曼签署证券期货监管合作谅解备忘录",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726878.shtml",
-        "publishedAt": "2026-11-05T21:44:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T22:10:04.966+08:00",
+    "fetchedAt": "2026-11-05T22:20:03.890+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T22:10:09.116+08:00",
+      "fetchedAt": "2026-11-05T22:20:07.819+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T22:10:09.379+08:00",
+      "fetchedAt": "2026-11-05T22:20:08.074+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T22:10:09.387+08:00",
+      "fetchedAt": "2026-11-05T22:20:08.084+08:00",
       "error": null
     }
   }
