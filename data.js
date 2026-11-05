@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T19:00:38.301+08:00",
+  "updatedAt": "2026-11-05T19:10:10.700+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-05T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T19:00:38.302+08:00",
+    "fetchedAt": "2026-11-05T19:10:10.700+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）进博会首次现场颁发“五星卡” 外籍展商感受在华便利",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726791.shtml",
+        "publishedAt": "2026-11-05T19:05:32.000+08:00"
+      },
+      {
+        "title": "国家开发银行辽宁省分行原资深专家李景波接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726753.shtml",
+        "publishedAt": "2026-11-05T18:57:41.000+08:00"
+      },
       {
         "title": "国网湖南省电力有限公司原副总经理王健接受审查调查",
         "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726743.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "多场景“上岗” 安徽机器人“新员工”加速就位",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726779.shtml",
         "publishedAt": "2026-11-05T18:52:49.000+08:00"
-      },
-      {
-        "title": "（友城故事）从俄克拉何马城到敦煌：美国师生的丝路“初体验”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726778.shtml",
-        "publishedAt": "2026-11-05T18:52:37.000+08:00"
-      },
-      {
-        "title": "（粤港澳大湾区）“三澳”标志首款“白名单”产品顺利出口澳门",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726777.shtml",
-        "publishedAt": "2026-11-05T18:51:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T19:00:03.520+08:00",
+    "fetchedAt": "2026-11-05T19:10:04.487+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T19:00:36.935+08:00",
+      "fetchedAt": "2026-11-05T19:10:08.853+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T00:00:38.000+08:00"
+          "resetAt": "2026-11-06T00:10:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T19:00:38.000+08:00"
+          "resetAt": "2026-11-12T19:10:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T19:00:37.223+08:00",
+      "fetchedAt": "2026-11-05T19:10:09.785+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T19:00:37.229+08:00",
+      "fetchedAt": "2026-11-05T19:10:09.793+08:00",
       "error": null
     }
   }
