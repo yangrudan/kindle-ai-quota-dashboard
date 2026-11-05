@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T10:10:10.074+08:00",
+  "updatedAt": "2026-11-05T10:20:39.427+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.3,
-    "feelsLikeC": 16.2,
-    "humidity": 67,
-    "windKph": 18.9,
+    "tempC": 18.5,
+    "feelsLikeC": 16.4,
+    "humidity": 66,
+    "windKph": 18.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T10:10:10.074+08:00",
+    "observedAt": "2026-11-05T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T10:20:39.428+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026丰收那达慕在京举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726415.shtml",
-        "publishedAt": "2026-11-05T10:02:10.000+08:00"
+        "title": "《VIVANT》，好一出“颠倒剧”｜真相",
+        "url": "https://www.chinanews.com.cn/chuangyi/2026/11-05/10726429.shtml",
+        "publishedAt": "2026-11-05T10:12:57.000+08:00"
       },
       {
-        "title": "湖北检察机关依法对马兴瑞涉嫌受贿案提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726418.shtml",
-        "publishedAt": "2026-11-05T10:01:28.000+08:00"
+        "title": "交银国际信托有限公司原董事长张文被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726428.shtml",
+        "publishedAt": "2026-11-05T10:12:15.000+08:00"
       },
       {
-        "title": "多项指标创新高 进博会硕果可期",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726417.shtml",
-        "publishedAt": "2026-11-05T10:00:18.000+08:00"
+        "title": "万斯发长文分析共和党中期选举失利：就是因为这场战争",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726432.shtml",
+        "publishedAt": "2026-11-05T10:11:31.000+08:00"
       },
       {
-        "title": "青海打造“侨字号”外宣节目 牵线侨胞情系高原桑梓",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726414.shtml",
-        "publishedAt": "2026-11-05T09:59:48.000+08:00"
+        "title": "国内航线燃油附加费今起上调",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726430.shtml",
+        "publishedAt": "2026-11-05T10:11:15.000+08:00"
       },
       {
-        "title": "中国驻洛杉矶总领馆提醒中国公民谨慎选择从檀香山国际机场入境",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726402.shtml",
-        "publishedAt": "2026-11-05T09:55:46.000+08:00"
+        "title": "让数字发展不留“孤岛”！佛得角部长在乌镇峰会谈共建共享数字未来",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726431.shtml",
+        "publishedAt": "2026-11-05T10:11:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T10:10:04.491+08:00",
+    "fetchedAt": "2026-11-05T10:20:03.793+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T10:10:08.655+08:00",
+      "fetchedAt": "2026-11-05T10:20:37.670+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T10:10:08.920+08:00",
+      "fetchedAt": "2026-11-05T10:20:38.236+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T10:10:08.930+08:00",
+      "fetchedAt": "2026-11-05T10:20:38.245+08:00",
       "error": null
     }
   }
