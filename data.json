@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T06:50:08.799+08:00",
+  "updatedAt": "2026-11-06T07:00:08.920+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.3,
-    "feelsLikeC": 14.9,
-    "humidity": 90,
-    "windKph": 1.3,
-    "windDir": "西北风",
+    "tempC": 14.4,
+    "feelsLikeC": 15.1,
+    "humidity": 89,
+    "windKph": 1,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-06T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T06:50:08.799+08:00",
+    "observedAt": "2026-11-06T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T07:00:08.920+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "微信群里，新就业群体的诉求被精准“打捞”、快速落实",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726983.shtml",
+        "publishedAt": "2026-11-06T06:50:24.000+08:00"
+      },
       {
         "title": "欧盟：判断欧洲多起航空威胁事件是否关联为时尚早",
         "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726982.shtml",
@@ -38,14 +43,9 @@
         "title": "美国纽约一住宅楼火灾致6亡9伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726979.shtml",
         "publishedAt": "2026-11-06T06:42:44.000+08:00"
-      },
-      {
-        "title": "网传“不放秋假就是违规”是真的吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726978.shtml",
-        "publishedAt": "2026-11-06T06:39:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T06:50:03.347+08:00",
+    "fetchedAt": "2026-11-06T07:00:03.423+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T06:50:07.484+08:00",
+      "fetchedAt": "2026-11-06T07:00:07.402+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T11:50:08.000+08:00"
+          "resetAt": "2026-11-06T12:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T06:50:07.703+08:00",
+      "fetchedAt": "2026-11-06T07:00:07.618+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T06:50:07.707+08:00",
+      "fetchedAt": "2026-11-06T07:00:07.628+08:00",
       "error": null
     }
   }
