@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T20:00:11.912+08:00",
+  "updatedAt": "2026-11-05T20:10:40.813+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-05T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T20:00:11.912+08:00",
+    "fetchedAt": "2026-11-05T20:10:40.813+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（第九届进博会）世界开放报告：中国总体开放水平继续处于历史高位",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726827.shtml",
+        "publishedAt": "2026-11-05T20:05:37.000+08:00"
+      },
+      {
+        "title": "新政实施满一年 海南离岛免税购物金额334.5亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726826.shtml",
+        "publishedAt": "2026-11-05T20:04:07.000+08:00"
+      },
+      {
+        "title": "世界互联网大会乌镇峰会闭幕 绘就智能发展新图景",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726830.shtml",
+        "publishedAt": "2026-11-05T19:57:00.000+08:00"
+      },
+      {
+        "title": "27个分论坛创近年新高 乌镇之“桥”引各方赞誉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726825.shtml",
+        "publishedAt": "2026-11-05T19:55:50.000+08:00"
+      },
+      {
         "title": "世批联主席：中国已成食品流通创新重要中心",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726824.shtml",
         "publishedAt": "2026-11-05T19:53:44.000+08:00"
-      },
-      {
-        "title": "2026昆明国际车展启幕 汽车盛宴吸引市民打卡",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726820.shtml",
-        "publishedAt": "2026-11-05T19:53:28.000+08:00"
-      },
-      {
-        "title": "今年秋冬北京降水预计偏多 或出现阶段性强降温",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726822.shtml",
-        "publishedAt": "2026-11-05T19:52:28.000+08:00"
-      },
-      {
-        "title": "受冷空气影响 “两马”航线将双向停航",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726823.shtml",
-        "publishedAt": "2026-11-05T19:52:26.000+08:00"
-      },
-      {
-        "title": "采暖消费进入旺季 山西省消协提示：防范风险、明白消费、温暖过冬",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726818.shtml",
-        "publishedAt": "2026-11-05T19:49:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T20:00:05.222+08:00",
+    "fetchedAt": "2026-11-05T20:10:04.802+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T20:00:10.320+08:00",
+      "fetchedAt": "2026-11-05T20:10:39.451+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T01:00:11.000+08:00"
+          "resetAt": "2026-11-06T01:10:40.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T20:00:11.000+08:00"
+          "resetAt": "2026-11-12T20:10:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T20:00:10.579+08:00",
+      "fetchedAt": "2026-11-05T20:10:39.649+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T20:00:10.588+08:00",
+      "fetchedAt": "2026-11-05T20:10:39.658+08:00",
       "error": null
     }
   }
