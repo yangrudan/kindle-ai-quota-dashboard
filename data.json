@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T12:10:09.754+08:00",
+  "updatedAt": "2026-11-05T12:20:09.193+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.6,
-    "feelsLikeC": 17.8,
-    "humidity": 61,
-    "windKph": 15.5,
+    "tempC": 19.7,
+    "feelsLikeC": 18,
+    "humidity": 60,
+    "windKph": 15.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T12:10:09.754+08:00",
+    "observedAt": "2026-11-05T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T12:20:09.193+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "AI浪潮下的乌镇之问：如何重新定义人与智能的边界？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726513.shtml",
+        "publishedAt": "2026-11-05T12:07:57.000+08:00"
+      },
+      {
+        "title": "广东外贸千年：商港依旧货品常变 外贸向新而行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726511.shtml",
+        "publishedAt": "2026-11-05T12:06:47.000+08:00"
+      },
+      {
+        "title": "吃着吃着就炸了 卡式炉这些错误用法要当心",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726522.shtml",
+        "publishedAt": "2026-11-05T12:05:55.000+08:00"
+      },
       {
         "title": "第十届中国职工足球联赛总决赛柳州开赛 36支球队同场竞技",
         "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726509.shtml",
@@ -28,24 +43,9 @@
         "title": "河北邯郸：不用一砖一瓦 万千布条拧出仿古戏楼",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726508.shtml",
         "publishedAt": "2026-11-05T11:47:46.000+08:00"
-      },
-      {
-        "title": "“毛医生”，一个叫错却无人改口的名字",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726504.shtml",
-        "publishedAt": "2026-11-05T11:46:56.000+08:00"
-      },
-      {
-        "title": "蓝白巷弄间，三亚古老渔村写下“诗与远方”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726501.shtml",
-        "publishedAt": "2026-11-05T11:46:28.000+08:00"
-      },
-      {
-        "title": "克林顿夫妇发文：祝贺民主党",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726507.shtml",
-        "publishedAt": "2026-11-05T11:46:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T12:10:03.944+08:00",
+    "fetchedAt": "2026-11-05T12:20:03.585+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T12:10:08.352+08:00",
+      "fetchedAt": "2026-11-05T12:20:07.670+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T12:10:08.645+08:00",
+      "fetchedAt": "2026-11-05T12:20:08.080+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T12:10:08.652+08:00",
+      "fetchedAt": "2026-11-05T12:20:08.090+08:00",
       "error": null
     }
   }
