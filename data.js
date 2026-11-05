@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T13:50:38.915+08:00",
+  "updatedAt": "2026-11-05T14:00:10.197+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 20.4,
-    "feelsLikeC": 18.7,
+    "feelsLikeC": 18.8,
     "humidity": 57,
-    "windKph": 14.7,
+    "windKph": 14.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T13:50:38.915+08:00",
+    "observedAt": "2026-11-05T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T14:00:10.197+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美国花旗集团一办公区突发枪击 已致2死4伤",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209860.shtml",
-        "publishedAt": "2026-11-05T13:37:54.000+08:00"
+        "title": "胡塞武装称遭沙特上百次袭击 也门政府军与胡塞武装交战升级",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726532.shtml",
+        "publishedAt": "2026-11-05T13:49:16.000+08:00"
       },
       {
-        "title": "侨聚樟树 助力出海——美国中药联商会刘源凯会长一行赴樟考察中医药出海活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726538.shtml",
-        "publishedAt": "2026-11-05T13:17:55.000+08:00"
+        "title": "美参议院民主党领袖：民主党将结束伊朗战争，伊朗战事“必须结束”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726505.shtml",
+        "publishedAt": "2026-11-05T13:46:36.000+08:00"
       },
       {
-        "title": "铜鼓县委统战部传达学习贯彻党的二十届五中全会精神",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726536.shtml",
-        "publishedAt": "2026-11-05T13:17:19.000+08:00"
+        "title": "乌镇峰会打开融合、开放、共赢之窗",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726543.shtml",
+        "publishedAt": "2026-11-05T13:45:20.000+08:00"
       },
       {
-        "title": "美国花旗集团超3000人办公区突发枪击 已致2死4伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726537.shtml",
-        "publishedAt": "2026-11-05T13:13:10.000+08:00"
+        "title": "美众议院被曝最早下周弹劾美防长赫格塞思",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726541.shtml",
+        "publishedAt": "2026-11-05T13:44:28.000+08:00"
       },
       {
-        "title": "（第九届进博会）以金融联通全球 外资银行共赴进博之约",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726533.shtml",
-        "publishedAt": "2026-11-05T12:57:38.000+08:00"
+        "title": "第六届国际道教论坛在中国杭州开幕 王沪宁致信祝贺",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726544.shtml",
+        "publishedAt": "2026-11-05T13:43:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T13:50:02.805+08:00",
+    "fetchedAt": "2026-11-05T14:00:05.243+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T13:50:37.628+08:00",
+      "fetchedAt": "2026-11-05T14:00:08.856+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T13:50:37.942+08:00",
+      "fetchedAt": "2026-11-05T14:00:09.245+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T13:50:37.950+08:00",
+      "fetchedAt": "2026-11-05T14:00:09.250+08:00",
       "error": null
     }
   }
