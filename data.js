@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T18:00:09.419+08:00",
+  "updatedAt": "2026-11-05T18:10:09.792+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-05T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T18:00:09.419+08:00",
+    "fetchedAt": "2026-11-05T18:10:09.792+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）第九届进博会上海市交易团“首单”签约",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726756.shtml",
-        "publishedAt": "2026-11-05T17:52:10.000+08:00"
+        "title": "重庆永川“人才荟”搭台 川渝五城联动释放岗位超1.4万个",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726738.shtml",
+        "publishedAt": "2026-11-05T18:02:50.000+08:00"
       },
       {
-        "title": "中资企业助力曼谷垃圾资源化利用",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726750.shtml",
-        "publishedAt": "2026-11-05T17:50:23.000+08:00"
+        "title": "河北滦州大棚结出“致富果”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726737.shtml",
+        "publishedAt": "2026-11-05T18:02:22.000+08:00"
       },
       {
-        "title": "东西问丨王宏丽：中国式现代化的新疆实践何以超越“中心—边缘”叙事？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-05/10726740.shtml",
-        "publishedAt": "2026-11-05T17:48:49.000+08:00"
+        "title": "白鹤落脚吉林蛟河 松花江生态廊道再添“贵客”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726736.shtml",
+        "publishedAt": "2026-11-05T18:01:48.000+08:00"
       },
       {
-        "title": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726752.shtml",
-        "publishedAt": "2026-11-05T17:34:05.000+08:00"
+        "title": "车企年末竞逐东北市场 新能源汽车消费持续升温",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726735.shtml",
+        "publishedAt": "2026-11-05T18:00:40.000+08:00"
       },
       {
-        "title": "直击广西武警官兵山林地战术综合演练",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726744.shtml",
-        "publishedAt": "2026-11-05T17:29:22.000+08:00"
+        "title": "史维钧电影美术藏品入藏长影 留存新中国光影笔墨",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726734.shtml",
+        "publishedAt": "2026-11-05T17:59:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T18:00:04.203+08:00",
+    "fetchedAt": "2026-11-05T18:10:04.494+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T18:00:08.166+08:00",
+      "fetchedAt": "2026-11-05T18:10:08.489+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T23:00:09.000+08:00"
+          "resetAt": "2026-11-05T23:10:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T18:00:09.000+08:00"
+          "resetAt": "2026-11-12T18:10:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T18:00:08.428+08:00",
+      "fetchedAt": "2026-11-05T18:10:08.753+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T18:00:08.435+08:00",
+      "fetchedAt": "2026-11-05T18:10:08.756+08:00",
       "error": null
     }
   }
