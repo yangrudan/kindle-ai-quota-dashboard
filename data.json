@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T20:10:40.813+08:00",
+  "updatedAt": "2026-11-05T20:20:10.251+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.1,
-    "feelsLikeC": 15,
-    "humidity": 81,
-    "windKph": 4.8,
+    "tempC": 15,
+    "feelsLikeC": 14.9,
+    "humidity": 82,
+    "windKph": 4.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T20:10:40.813+08:00",
+    "observedAt": "2026-11-05T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T20:20:10.252+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国“两高”发布依法惩治新型、隐性职务犯罪典型案例",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726831.shtml",
+        "publishedAt": "2026-11-05T20:10:21.000+08:00"
+      },
+      {
+        "title": "台湾CPI连续六个月突破通货膨胀警戒线",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726829.shtml",
+        "publishedAt": "2026-11-05T20:08:21.000+08:00"
+      },
       {
         "title": "（第九届进博会）世界开放报告：中国总体开放水平继续处于历史高位",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726827.shtml",
@@ -33,19 +43,9 @@
         "title": "世界互联网大会乌镇峰会闭幕 绘就智能发展新图景",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726830.shtml",
         "publishedAt": "2026-11-05T19:57:00.000+08:00"
-      },
-      {
-        "title": "27个分论坛创近年新高 乌镇之“桥”引各方赞誉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726825.shtml",
-        "publishedAt": "2026-11-05T19:55:50.000+08:00"
-      },
-      {
-        "title": "世批联主席：中国已成食品流通创新重要中心",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726824.shtml",
-        "publishedAt": "2026-11-05T19:53:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T20:10:04.802+08:00",
+    "fetchedAt": "2026-11-05T20:20:04.079+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T20:10:39.451+08:00",
+      "fetchedAt": "2026-11-05T20:20:08.429+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T01:10:40.000+08:00"
+          "resetAt": "2026-11-06T01:20:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T20:10:40.000+08:00"
+          "resetAt": "2026-11-12T20:20:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T20:10:39.649+08:00",
+      "fetchedAt": "2026-11-05T20:20:08.755+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T20:10:39.658+08:00",
+      "fetchedAt": "2026-11-05T20:20:08.765+08:00",
       "error": null
     }
   }
