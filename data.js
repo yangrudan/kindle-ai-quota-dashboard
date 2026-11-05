@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T21:40:08.178+08:00",
+  "updatedAt": "2026-11-05T21:50:09.481+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 14.3,
-    "feelsLikeC": 14.1,
+    "feelsLikeC": 14.2,
     "humidity": 84,
     "windKph": 4.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T21:40:08.179+08:00",
+    "observedAt": "2026-11-05T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T21:50:09.482+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“雪域匠心 西藏出品”亮相第九届进博会 高原特色精品绽放新活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726865.shtml",
-        "publishedAt": "2026-11-05T21:32:29.000+08:00"
+        "title": "中国与阿曼签署证券期货监管合作谅解备忘录",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726878.shtml",
+        "publishedAt": "2026-11-05T21:44:48.000+08:00"
       },
       {
-        "title": "11月5日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-05/10726897.shtml",
-        "publishedAt": "2026-11-05T21:31:47.000+08:00"
+        "title": "2026厦门国际海洋周开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726877.shtml",
+        "publishedAt": "2026-11-05T21:43:52.000+08:00"
       },
       {
-        "title": "外商云集浙江柯桥秋季纺博会 机器人针织皮肤衣引关注",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726864.shtml",
-        "publishedAt": "2026-11-05T21:31:41.000+08:00"
+        "title": "黑龙江省首个中俄跨境综合办事大厅正式运营",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726876.shtml",
+        "publishedAt": "2026-11-05T21:43:06.000+08:00"
       },
       {
-        "title": "李强会见全国应急管理系统先进模范和中国消防忠诚卫士表彰大会代表",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726888.shtml",
-        "publishedAt": "2026-11-05T21:31:37.000+08:00"
+        "title": "黑龙江优化入境旅游服务 前10月入境游客花费同比增36.7%",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726879.shtml",
+        "publishedAt": "2026-11-05T21:42:48.000+08:00"
       },
       {
-        "title": "北京已进入年度森林防火期 科技助力火情早发现早处置",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726863.shtml",
-        "publishedAt": "2026-11-05T21:31:03.000+08:00"
+        "title": "AI海洋预报模型多维度评测标准及配套工具包在厦门发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726881.shtml",
+        "publishedAt": "2026-11-05T21:42:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T21:40:03.062+08:00",
+    "fetchedAt": "2026-11-05T21:50:03.708+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T21:40:06.978+08:00",
+      "fetchedAt": "2026-11-05T21:50:08.259+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 4,
           "resetAt": "2026-11-06T02:38:00.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T21:40:07.168+08:00",
+      "fetchedAt": "2026-11-05T21:50:08.442+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T21:40:07.176+08:00",
+      "fetchedAt": "2026-11-05T21:50:08.452+08:00",
       "error": null
     }
   }
