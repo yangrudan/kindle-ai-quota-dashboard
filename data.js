@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T20:30:08.743+08:00",
+  "updatedAt": "2026-11-05T20:40:10.434+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 14.9,
-    "feelsLikeC": 14.8,
-    "humidity": 82,
-    "windKph": 4.5,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 14.5,
+    "feelsLikeC": 14.3,
+    "humidity": 83,
+    "windKph": 4.2,
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-05T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T20:30:08.743+08:00",
+    "fetchedAt": "2026-11-05T20:40:10.434+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）中国兵工集团民用产品吸引外宾参观体验",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209944.shtml",
-        "publishedAt": "2026-11-05T20:27:22.000+08:00"
+        "title": "河南洛阳：黄河秋色美如画",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726839.shtml",
+        "publishedAt": "2026-11-05T20:32:08.000+08:00"
       },
       {
-        "title": "（第九届进博会）第九届进博会在上海开幕",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209934.shtml",
-        "publishedAt": "2026-11-05T20:18:52.000+08:00"
+        "title": "航拍金沙江大峡谷：一江碧水穿群山",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726838.shtml",
+        "publishedAt": "2026-11-05T20:30:40.000+08:00"
       },
       {
-        "title": "中新健康｜居民医保参保人数连续7年下降？国家医保局回应",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726844.shtml",
-        "publishedAt": "2026-11-05T20:18:27.000+08:00"
+        "title": "多地学校延迟上学时间！别让“多睡觉”，变成假减负",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726858.shtml",
+        "publishedAt": "2026-11-05T20:30:16.000+08:00"
       },
       {
-        "title": "中国“两高”发布依法惩治新型、隐性职务犯罪典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726831.shtml",
-        "publishedAt": "2026-11-05T20:10:21.000+08:00"
+        "title": "第四届“广州国际美妆周”化妆品高质量发展大会在广州举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726837.shtml",
+        "publishedAt": "2026-11-05T20:29:16.000+08:00"
       },
       {
-        "title": "台湾CPI连续六个月突破通货膨胀警戒线",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726829.shtml",
-        "publishedAt": "2026-11-05T20:08:21.000+08:00"
+        "title": "锡林郭勒草原深处，用一堂传统技艺实践课疗愈“星星的孩子”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726852.shtml",
+        "publishedAt": "2026-11-05T20:29:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T20:30:02.880+08:00",
+    "fetchedAt": "2026-11-05T20:40:04.440+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T20:30:07.387+08:00",
+      "fetchedAt": "2026-11-05T20:40:08.645+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T01:30:08.000+08:00"
+          "resetAt": "2026-11-06T01:40:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T20:30:08.000+08:00"
+          "resetAt": "2026-11-12T20:40:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T20:30:07.744+08:00",
+      "fetchedAt": "2026-11-05T20:40:09.371+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T20:30:07.754+08:00",
+      "fetchedAt": "2026-11-05T20:40:09.379+08:00",
       "error": null
     }
   }
