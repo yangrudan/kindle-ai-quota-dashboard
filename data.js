@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T18:20:09.366+08:00",
+  "updatedAt": "2026-11-05T18:30:39.612+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.3,
-    "feelsLikeC": 15.8,
-    "humidity": 77,
+    "tempC": 16.1,
+    "feelsLikeC": 15.6,
+    "humidity": 78,
     "windKph": 7.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T18:20:09.366+08:00",
+    "observedAt": "2026-11-05T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T18:30:39.612+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "天津本外币贷款余额首破5万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726759.shtml",
-        "publishedAt": "2026-11-05T18:13:33.000+08:00"
+        "title": "第33届中国戏剧梅花奖设门槛：参评演员须过30场公开演出关",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726769.shtml",
+        "publishedAt": "2026-11-05T18:23:45.000+08:00"
       },
       {
-        "title": "广西农博会的新生意经：不靠吆喝靠“点单” 三天做成常年买卖",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726758.shtml",
-        "publishedAt": "2026-11-05T18:13:07.000+08:00"
+        "title": "吉林靖宇抽水蓄能电站主体工程启动建设",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726768.shtml",
+        "publishedAt": "2026-11-05T18:23:17.000+08:00"
       },
       {
-        "title": "中越高校学者共议智能时代新闻传播人才培养",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-05/10726757.shtml",
-        "publishedAt": "2026-11-05T18:12:15.000+08:00"
+        "title": "第九届进博会丨全球科创种子加速在进博会“破土”",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-05/10726774.shtml",
+        "publishedAt": "2026-11-05T18:22:43.000+08:00"
       },
       {
-        "title": "第九届广州商务航空展开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726767.shtml",
-        "publishedAt": "2026-11-05T18:10:59.000+08:00"
+        "title": "技能筑梦 辽宁省残疾人职业技能竞赛在沈阳开赛",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726765.shtml",
+        "publishedAt": "2026-11-05T18:22:43.000+08:00"
       },
       {
-        "title": "（神州写真）红砖旧厂续新章 成都工业遗存有了新“活法”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726755.shtml",
-        "publishedAt": "2026-11-05T18:10:49.000+08:00"
+        "title": "（乡村行·看振兴）江西玉山：同心助农榨出“黄金油”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726764.shtml",
+        "publishedAt": "2026-11-05T18:22:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T18:20:04.323+08:00",
+    "fetchedAt": "2026-11-05T18:30:04.461+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T18:20:08.129+08:00",
+      "fetchedAt": "2026-11-05T18:30:38.090+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T23:20:09.000+08:00"
+          "resetAt": "2026-11-05T23:30:39.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T18:20:09.000+08:00"
+          "resetAt": "2026-11-12T18:30:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T18:20:08.434+08:00",
+      "fetchedAt": "2026-11-05T18:30:38.404+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T18:20:08.444+08:00",
+      "fetchedAt": "2026-11-05T18:30:38.410+08:00",
       "error": null
     }
   }
