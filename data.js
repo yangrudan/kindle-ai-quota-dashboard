@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T15:00:10.125+08:00",
+  "updatedAt": "2026-11-05T15:10:10.537+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 20.3,
-    "feelsLikeC": 19,
-    "humidity": 57,
-    "windKph": 11.9,
+    "feelsLikeC": 19.2,
+    "humidity": 58,
+    "windKph": 11.4,
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-05T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T15:00:10.125+08:00",
+    "fetchedAt": "2026-11-05T15:10:10.537+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "德媒：德国巴伐利亚州副州长艾旺格去世",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726599.shtml",
+        "publishedAt": "2026-11-05T14:59:12.000+08:00"
+      },
+      {
+        "title": "印尼三季度经济同比增长5.47% 高于市场预期",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726594.shtml",
+        "publishedAt": "2026-11-05T14:57:14.000+08:00"
+      },
       {
         "title": "侨商侨企投资广州：航空国际货机中心将落户花都",
         "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726598.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "这个故事会，读懂一位统一战线先行者的同心之道",
         "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726593.shtml",
         "publishedAt": "2026-11-05T14:46:43.000+08:00"
-      },
-      {
-        "title": "国际金价连续两日大涨",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726596.shtml",
-        "publishedAt": "2026-11-05T14:42:35.000+08:00"
-      },
-      {
-        "title": "眼面防护具特殊防护强制性国家标准正式发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726575.shtml",
-        "publishedAt": "2026-11-05T14:41:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T15:00:05.253+08:00",
+    "fetchedAt": "2026-11-05T15:10:04.626+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T15:00:08.831+08:00",
+      "fetchedAt": "2026-11-05T15:10:09.015+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T20:00:10.000+08:00"
+          "resetAt": "2026-11-05T20:10:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 90,
-          "resetAt": "2026-11-05T15:00:23.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-12T15:10:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T15:00:09.089+08:00",
+      "fetchedAt": "2026-11-05T15:10:09.461+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T15:00:09.094+08:00",
+      "fetchedAt": "2026-11-05T15:10:09.466+08:00",
       "error": null
     }
   }
