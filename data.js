@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T23:10:10.533+08:00",
+  "updatedAt": "2026-11-05T23:20:09.631+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 14.3,
-    "feelsLikeC": 14.4,
+    "feelsLikeC": 14.6,
     "humidity": 86,
-    "windKph": 2.8,
+    "windKph": 2.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T23:10:10.533+08:00",
+    "observedAt": "2026-11-05T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T23:20:09.631+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "澳门举办粤港澳大湾区大健康高峰论坛 助力健康湾区建设",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726938.shtml",
-        "publishedAt": "2026-11-05T23:01:30.000+08:00"
+        "title": "通江达海向海而兴 广西南宁产业园区加速集聚临港产业",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-05/10726948.shtml",
+        "publishedAt": "2026-11-05T23:13:03.000+08:00"
       },
       {
-        "title": "（第九届进博会）前景可期 专家沪上共话金砖国家经贸合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726937.shtml",
-        "publishedAt": "2026-11-05T23:00:38.000+08:00"
+        "title": "2026天门山云纵天梯跑酷大赛收官 中国选手获两项冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726947.shtml",
+        "publishedAt": "2026-11-05T23:10:39.000+08:00"
       },
       {
-        "title": "全国262名青少年运动员在京竞技短道速滑",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726936.shtml",
-        "publishedAt": "2026-11-05T23:00:00.000+08:00"
+        "title": "北京男女排新阵容出征新赛季排超联赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726946.shtml",
+        "publishedAt": "2026-11-05T23:07:51.000+08:00"
       },
       {
-        "title": "（第九届进博会）第九届进博会开幕 “全勤生”带来新一轮首发成果",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726934.shtml",
-        "publishedAt": "2026-11-05T22:53:54.000+08:00"
+        "title": "APEC海洋素养行动计划启动 为未来海洋合作构建“社会赋能”支柱",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726945.shtml",
+        "publishedAt": "2026-11-05T23:07:07.000+08:00"
       },
       {
-        "title": "黑龙江优化入境旅游服务 前10个月入境游客花费同比增长36.7%",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726935.shtml",
-        "publishedAt": "2026-11-05T22:51:42.000+08:00"
+        "title": "黑龙江省首个中俄跨境综合办事大厅正式运营",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726944.shtml",
+        "publishedAt": "2026-11-05T23:06:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T23:10:04.984+08:00",
+    "fetchedAt": "2026-11-05T23:20:03.357+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T23:10:08.948+08:00",
+      "fetchedAt": "2026-11-05T23:20:08.236+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T23:10:09.346+08:00",
+      "fetchedAt": "2026-11-05T23:20:08.599+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T23:10:09.356+08:00",
+      "fetchedAt": "2026-11-05T23:20:08.605+08:00",
       "error": null
     }
   }
