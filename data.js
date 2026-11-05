@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T08:00:09.062+08:00",
+  "updatedAt": "2026-11-05T08:10:39.051+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-05T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T08:00:09.062+08:00",
+    "fetchedAt": "2026-11-05T08:10:39.052+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "无论走到哪都被精准跟踪，原因竟是它！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726369.shtml",
+        "publishedAt": "2026-11-05T07:59:13.000+08:00"
+      },
+      {
+        "title": "市场监管行政处罚裁量新规发布 “首违不罚”具体怎么认定？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726367.shtml",
+        "publishedAt": "2026-11-05T07:56:09.000+08:00"
+      },
+      {
         "title": "马斯克砸了近5亿美元，共和党还是输了中期选举",
         "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726366.shtml",
         "publishedAt": "2026-11-05T07:47:07.000+08:00"
       },
       {
+        "title": "【我的天涯海角】“Made in China？”运-20机长陈康：“Of Course！”",
+        "url": "http://www.chinanews.com.cn/mil/shipin/cns/2026/11-05/news1073839.shtml",
+        "publishedAt": "2026-11-05T07:46:03.000+08:00"
+      },
+      {
         "title": "俄罗斯首都莫斯科庆祝“人民团结日”",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209828.shtml",
         "publishedAt": "2026-11-05T07:44:04.000+08:00"
-      },
-      {
-        "title": "“大字吸睛小字免责”式促销法律不认",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726363.shtml",
-        "publishedAt": "2026-11-05T07:41:58.000+08:00"
-      },
-      {
-        "title": "涉案超20亿元！特大养老集资诈骗案经抗诉改判",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726362.shtml",
-        "publishedAt": "2026-11-05T07:41:00.000+08:00"
-      },
-      {
-        "title": "投保者身故却无法定继承人 非亲扶养者能分保险金吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726361.shtml",
-        "publishedAt": "2026-11-05T07:37:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T08:00:03.756+08:00",
+    "fetchedAt": "2026-11-05T08:10:03.681+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T08:00:07.937+08:00",
+      "fetchedAt": "2026-11-05T08:10:37.757+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T13:00:09.000+08:00"
+          "resetAt": "2026-11-05T13:10:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T08:00:08.133+08:00",
+      "fetchedAt": "2026-11-05T08:10:37.986+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T08:00:08.143+08:00",
+      "fetchedAt": "2026-11-05T08:10:37.993+08:00",
       "error": null
     }
   }
