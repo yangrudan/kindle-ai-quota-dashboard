@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T11:20:08.338+08:00",
+  "updatedAt": "2026-11-05T11:30:08.747+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 17.1,
-    "humidity": 63,
-    "windKph": 16.2,
+    "tempC": 19.2,
+    "feelsLikeC": 17.4,
+    "humidity": 62,
+    "windKph": 16.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T11:20:08.338+08:00",
+    "observedAt": "2026-11-05T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T11:30:08.748+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）脑机接口“牵手”自动驾驶 这对夫妻让轮椅“读懂”大脑",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726464.shtml",
-        "publishedAt": "2026-11-05T11:09:44.000+08:00"
+        "title": "广东海外联谊会访问团与比利时侨领座谈交流",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726467.shtml",
+        "publishedAt": "2026-11-05T11:24:11.000+08:00"
       },
       {
-        "title": "走进低轨卫星研制团队，感受航天科技自立自强 未来中国的星空将进入“群星璀璨时”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726465.shtml",
-        "publishedAt": "2026-11-05T11:09:28.000+08:00"
+        "title": "京港洽谈会京港数智经济协同发展专题活动举办 发布系列重要成果",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726471.shtml",
+        "publishedAt": "2026-11-05T11:23:41.000+08:00"
       },
       {
-        "title": "多地重拳整治“鬼火少年”，之后呢？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726463.shtml",
-        "publishedAt": "2026-11-05T11:05:38.000+08:00"
+        "title": "东西两路冷空气先后影响我国 大部气温将创新低并伴大范围雨雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726481.shtml",
+        "publishedAt": "2026-11-05T11:23:39.000+08:00"
       },
       {
-        "title": "《企业风险管理有效性评价指南》国家标准发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726455.shtml",
-        "publishedAt": "2026-11-05T10:54:35.000+08:00"
+        "title": "金观平：开放中国“进”无止境",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726472.shtml",
+        "publishedAt": "2026-11-05T11:18:58.000+08:00"
       },
       {
-        "title": "织就数字文化新画卷——在乌镇峰会感受数字文化新业态",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726460.shtml",
-        "publishedAt": "2026-11-05T10:53:25.000+08:00"
+        "title": "中国原子城历史图片展暨宣讲活动在拉萨启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726468.shtml",
+        "publishedAt": "2026-11-05T11:18:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T11:20:02.947+08:00",
+    "fetchedAt": "2026-11-05T11:30:03.189+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T11:20:06.761+08:00",
+      "fetchedAt": "2026-11-05T11:30:07.121+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T11:20:06.958+08:00",
+      "fetchedAt": "2026-11-05T11:30:07.348+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T11:20:06.961+08:00",
+      "fetchedAt": "2026-11-05T11:30:07.355+08:00",
       "error": null
     }
   }
