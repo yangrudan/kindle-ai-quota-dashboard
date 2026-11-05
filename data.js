@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T21:20:09.655+08:00",
+  "updatedAt": "2026-11-05T21:30:08.080+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 14.3,
     "feelsLikeC": 14.1,
-    "humidity": 83,
+    "humidity": 84,
     "windKph": 4.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T21:20:09.655+08:00",
+    "observedAt": "2026-11-05T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T21:30:08.080+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（第九届进博会）丁薛祥出席第九届中国国际进口博览会开幕式",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209954.shtml",
+        "publishedAt": "2026-11-05T21:21:47.000+08:00"
+      },
+      {
+        "title": "日本无印良品109万条会员信息或泄露，包含信用卡卡号",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726884.shtml",
+        "publishedAt": "2026-11-05T21:19:37.000+08:00"
+      },
+      {
+        "title": "中新健康｜体检机构走向多业态融合 检后管理成竞争新焦点",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726885.shtml",
+        "publishedAt": "2026-11-05T21:19:33.000+08:00"
+      },
+      {
+        "title": "学习新语｜五中全会精神学习手册，请查收",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726842.shtml",
+        "publishedAt": "2026-11-05T21:18:15.000+08:00"
+      },
+      {
         "title": "215件盆景“进”古建 浙江盆景展在杭启幕",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726860.shtml",
         "publishedAt": "2026-11-05T20:55:15.000+08:00"
-      },
-      {
-        "title": "“剧好看 2027新剧推介会”在京举行 多部重点剧集亮相",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726857.shtml",
-        "publishedAt": "2026-11-05T20:53:41.000+08:00"
-      },
-      {
-        "title": "第十届中华职业教育创新创业大赛贵州省赛开赛",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726855.shtml",
-        "publishedAt": "2026-11-05T20:49:53.000+08:00"
-      },
-      {
-        "title": "2026中国广播电视精品创作大会·电视剧（网络剧）论坛举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726854.shtml",
-        "publishedAt": "2026-11-05T20:49:19.000+08:00"
-      },
-      {
-        "title": "向空图强，“英雄城”南昌如何“飞”向新高度？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726853.shtml",
-        "publishedAt": "2026-11-05T20:48:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T21:20:03.612+08:00",
+    "fetchedAt": "2026-11-05T21:30:02.922+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T21:20:08.076+08:00",
+      "fetchedAt": "2026-11-05T21:30:06.809+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T02:20:09.000+08:00"
+          "resetAt": "2026-11-06T02:30:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T21:20:09.000+08:00"
+          "resetAt": "2026-11-12T21:30:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T21:20:08.517+08:00",
+      "fetchedAt": "2026-11-05T21:30:07.123+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T21:20:08.522+08:00",
+      "fetchedAt": "2026-11-05T21:30:07.132+08:00",
       "error": null
     }
   }
