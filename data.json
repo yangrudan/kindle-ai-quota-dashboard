@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T15:50:39.594+08:00",
+  "updatedAt": "2026-11-05T16:00:09.687+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20,
-    "feelsLikeC": 19.1,
-    "humidity": 60,
-    "windKph": 9.9,
+    "tempC": 19.8,
+    "feelsLikeC": 19,
+    "humidity": 61,
+    "windKph": 9.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T15:50:39.594+08:00",
+    "observedAt": "2026-11-05T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T16:00:09.687+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "怕胖又馋甜？“中国糖都”给白糖“减负” 给产业加码",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726636.shtml",
-        "publishedAt": "2026-11-05T15:46:15.000+08:00"
+        "title": "澜沧江－湄公河合作第十一次外长会成功举行 中方介绍情况",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726650.shtml",
+        "publishedAt": "2026-11-05T15:51:41.000+08:00"
       },
       {
-        "title": "前三季度农业农村发展保持良好势头",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726641.shtml",
-        "publishedAt": "2026-11-05T15:45:57.000+08:00"
+        "title": "（乡村行·看振兴）福建宁化：一枚油茶果串起生态富民链",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726637.shtml",
+        "publishedAt": "2026-11-05T15:51:23.000+08:00"
       },
       {
-        "title": "黑龙江双鸭山：积极应对今冬首场大范围降雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726630.shtml",
-        "publishedAt": "2026-11-05T15:45:25.000+08:00"
+        "title": "长春大冬会雪场分区管控 兼顾赛事运行与大众滑雪",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726646.shtml",
+        "publishedAt": "2026-11-05T15:51:09.000+08:00"
       },
       {
-        "title": "夜间窗口期攻坚施工 广珠段改扩建项目完成多点架梁任务",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726629.shtml",
-        "publishedAt": "2026-11-05T15:44:49.000+08:00"
+        "title": "长沙市政协献策固体废物治理",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726645.shtml",
+        "publishedAt": "2026-11-05T15:50:11.000+08:00"
       },
       {
-        "title": "“红鹰”将在长春振翅 庆祝人民空军成立77周年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726631.shtml",
-        "publishedAt": "2026-11-05T15:44:17.000+08:00"
+        "title": "建立可持续的城市更新体制机制 江西将持续提升城市建设品质",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726644.shtml",
+        "publishedAt": "2026-11-05T15:50:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T15:50:03.512+08:00",
+    "fetchedAt": "2026-11-05T16:00:04.173+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T15:50:37.962+08:00",
+      "fetchedAt": "2026-11-05T16:00:08.307+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T20:50:39.000+08:00"
+          "resetAt": "2026-11-05T21:00:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T15:50:39.000+08:00"
+          "resetAt": "2026-11-12T16:00:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T15:50:38.130+08:00",
+      "fetchedAt": "2026-11-05T16:00:08.559+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T15:50:38.135+08:00",
+      "fetchedAt": "2026-11-05T16:00:08.569+08:00",
       "error": null
     }
   }
