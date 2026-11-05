@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T06:40:08.694+08:00",
+  "updatedAt": "2026-11-06T06:50:08.799+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.2,
-    "feelsLikeC": 14.8,
+    "tempC": 14.3,
+    "feelsLikeC": 14.9,
     "humidity": 90,
-    "windKph": 1.5,
+    "windKph": 1.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T06:40:08.695+08:00",
+    "observedAt": "2026-11-06T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T06:50:08.799+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国科学家打破人类低温纪录 宇宙最冷点“落户”中国空间站",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726970.shtml",
-        "publishedAt": "2026-11-06T06:01:50.000+08:00"
+        "title": "欧盟：判断欧洲多起航空威胁事件是否关联为时尚早",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726982.shtml",
+        "publishedAt": "2026-11-06T06:46:26.000+08:00"
       },
       {
-        "title": "新疆和田地区和康县发生4.8级地震 震源深度60千米",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726977.shtml",
-        "publishedAt": "2026-11-06T01:20:38.000+08:00"
+        "title": "美国国会“变天”之后：防长去留成难题 伊朗战事再添变数",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726981.shtml",
+        "publishedAt": "2026-11-06T06:46:12.000+08:00"
       },
       {
-        "title": "新疆和田地区和康县附近发生5.1级左右地震",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726976.shtml",
-        "publishedAt": "2026-11-06T01:15:40.000+08:00"
+        "title": "中智专家共话发展权保障与全球南方共同发展",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726980.shtml",
+        "publishedAt": "2026-11-06T06:43:32.000+08:00"
       },
       {
-        "title": "我国成功发射遥感五十一号07-09星",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726975.shtml",
-        "publishedAt": "2026-11-06T00:38:20.000+08:00"
+        "title": "美国纽约一住宅楼火灾致6亡9伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726979.shtml",
+        "publishedAt": "2026-11-06T06:42:44.000+08:00"
       },
       {
-        "title": "英国央行三年多来首度加息",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726974.shtml",
-        "publishedAt": "2026-11-06T00:01:00.000+08:00"
+        "title": "网传“不放秋假就是违规”是真的吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726978.shtml",
+        "publishedAt": "2026-11-06T06:39:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T06:40:03.427+08:00",
+    "fetchedAt": "2026-11-06T06:50:03.347+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T06:40:07.473+08:00",
+      "fetchedAt": "2026-11-06T06:50:07.484+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T11:40:08.000+08:00"
+          "resetAt": "2026-11-06T11:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T06:40:07.691+08:00",
+      "fetchedAt": "2026-11-06T06:50:07.703+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T06:40:07.701+08:00",
+      "fetchedAt": "2026-11-06T06:50:07.707+08:00",
       "error": null
     }
   }
