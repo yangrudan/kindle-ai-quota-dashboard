@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T07:20:08.975+08:00",
+  "updatedAt": "2026-11-06T07:30:09.467+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.5,
-    "feelsLikeC": 15.3,
-    "humidity": 88,
-    "windKph": 0.3,
-    "windDir": "西北风",
+    "tempC": 14.6,
+    "feelsLikeC": 15.2,
+    "humidity": 87,
+    "windKph": 1,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-06T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T07:20:08.975+08:00",
+    "observedAt": "2026-11-06T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T07:30:09.467+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“最强厄尔尼诺事件”来了 明年防汛形势如何？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726988.shtml",
+        "publishedAt": "2026-11-06T07:21:08.000+08:00"
+      },
+      {
+        "title": "特朗普：俄乌冲突已非常接近解决",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726987.shtml",
+        "publishedAt": "2026-11-06T07:20:00.000+08:00"
+      },
       {
         "title": "11月6日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10726985.shtml",
@@ -33,19 +43,9 @@
         "title": "微信群里，新就业群体的诉求被精准“打捞”、快速落实",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726983.shtml",
         "publishedAt": "2026-11-06T06:50:24.000+08:00"
-      },
-      {
-        "title": "欧盟：判断欧洲多起航空威胁事件是否关联为时尚早",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726982.shtml",
-        "publishedAt": "2026-11-06T06:46:26.000+08:00"
-      },
-      {
-        "title": "美国国会“变天”之后：防长去留成难题 伊朗战事再添变数",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726981.shtml",
-        "publishedAt": "2026-11-06T06:46:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T07:20:03.600+08:00",
+    "fetchedAt": "2026-11-06T07:30:03.853+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T07:20:07.337+08:00",
+      "fetchedAt": "2026-11-06T07:30:08.105+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T12:20:08.000+08:00"
+          "resetAt": "2026-11-06T12:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T07:20:07.822+08:00",
+      "fetchedAt": "2026-11-06T07:30:08.396+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T07:20:07.825+08:00",
+      "fetchedAt": "2026-11-06T07:30:08.405+08:00",
       "error": null
     }
   }
