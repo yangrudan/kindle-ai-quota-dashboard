@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T21:30:08.080+08:00",
+  "updatedAt": "2026-11-05T21:40:08.178+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-05T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T21:30:08.080+08:00",
+    "fetchedAt": "2026-11-05T21:40:08.179+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）丁薛祥出席第九届中国国际进口博览会开幕式",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209954.shtml",
-        "publishedAt": "2026-11-05T21:21:47.000+08:00"
+        "title": "“雪域匠心 西藏出品”亮相第九届进博会 高原特色精品绽放新活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726865.shtml",
+        "publishedAt": "2026-11-05T21:32:29.000+08:00"
       },
       {
-        "title": "日本无印良品109万条会员信息或泄露，包含信用卡卡号",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726884.shtml",
-        "publishedAt": "2026-11-05T21:19:37.000+08:00"
+        "title": "11月5日夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-05/10726897.shtml",
+        "publishedAt": "2026-11-05T21:31:47.000+08:00"
       },
       {
-        "title": "中新健康｜体检机构走向多业态融合 检后管理成竞争新焦点",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726885.shtml",
-        "publishedAt": "2026-11-05T21:19:33.000+08:00"
+        "title": "外商云集浙江柯桥秋季纺博会 机器人针织皮肤衣引关注",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726864.shtml",
+        "publishedAt": "2026-11-05T21:31:41.000+08:00"
       },
       {
-        "title": "学习新语｜五中全会精神学习手册，请查收",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726842.shtml",
-        "publishedAt": "2026-11-05T21:18:15.000+08:00"
+        "title": "李强会见全国应急管理系统先进模范和中国消防忠诚卫士表彰大会代表",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726888.shtml",
+        "publishedAt": "2026-11-05T21:31:37.000+08:00"
       },
       {
-        "title": "215件盆景“进”古建 浙江盆景展在杭启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726860.shtml",
-        "publishedAt": "2026-11-05T20:55:15.000+08:00"
+        "title": "北京已进入年度森林防火期 科技助力火情早发现早处置",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726863.shtml",
+        "publishedAt": "2026-11-05T21:31:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T21:30:02.922+08:00",
+    "fetchedAt": "2026-11-05T21:40:03.062+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T21:30:06.809+08:00",
+      "fetchedAt": "2026-11-05T21:40:06.978+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-06T02:30:08.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-06T02:38:00.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T21:30:08.000+08:00"
+          "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T21:30:07.123+08:00",
+      "fetchedAt": "2026-11-05T21:40:07.168+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T21:30:07.132+08:00",
+      "fetchedAt": "2026-11-05T21:40:07.176+08:00",
       "error": null
     }
   }
