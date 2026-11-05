@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T20:50:39.657+08:00",
+  "updatedAt": "2026-11-05T21:00:09.182+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 4.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T20:50:39.657+08:00",
+    "observedAt": "2026-11-05T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T21:00:09.183+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青海发布“十五五”生态规划：到2030年建成美丽中国省域示范样板",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726845.shtml",
-        "publishedAt": "2026-11-05T20:43:21.000+08:00"
+        "title": "“剧好看 2027新剧推介会”在京举行 多部重点剧集亮相",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726857.shtml",
+        "publishedAt": "2026-11-05T20:53:41.000+08:00"
       },
       {
-        "title": "广西三江：载歌载舞庆瑶年",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726867.shtml",
-        "publishedAt": "2026-11-05T20:42:33.000+08:00"
+        "title": "第十届中华职业教育创新创业大赛贵州省赛开赛",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726855.shtml",
+        "publishedAt": "2026-11-05T20:49:53.000+08:00"
       },
       {
-        "title": "广州“创享营”结营：公益项目从“好想法”走向“好产品”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726843.shtml",
-        "publishedAt": "2026-11-05T20:42:05.000+08:00"
+        "title": "2026中国广播电视精品创作大会·电视剧（网络剧）论坛举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726854.shtml",
+        "publishedAt": "2026-11-05T20:49:19.000+08:00"
       },
       {
-        "title": "九赴进博，共启新程——雀巢以160周年焕新之姿亮相第九届进博会",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726836.shtml",
-        "publishedAt": "2026-11-05T20:41:59.000+08:00"
+        "title": "向空图强，“英雄城”南昌如何“飞”向新高度？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726853.shtml",
+        "publishedAt": "2026-11-05T20:48:31.000+08:00"
       },
       {
-        "title": "2026厦门海洋科技装备博览会启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726859.shtml",
-        "publishedAt": "2026-11-05T20:40:53.000+08:00"
+        "title": "首届京港中小学生城市轨道交通创新活动启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726850.shtml",
+        "publishedAt": "2026-11-05T20:47:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T20:50:03.606+08:00",
+    "fetchedAt": "2026-11-05T21:00:03.654+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T20:50:37.774+08:00",
+      "fetchedAt": "2026-11-05T21:00:07.744+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T01:50:39.000+08:00"
+          "resetAt": "2026-11-06T02:00:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T20:50:39.000+08:00"
+          "resetAt": "2026-11-12T21:00:08.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T20:50:38.236+08:00",
+      "fetchedAt": "2026-11-05T21:00:08.213+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T20:50:38.243+08:00",
+      "fetchedAt": "2026-11-05T21:00:08.216+08:00",
       "error": null
     }
   }
