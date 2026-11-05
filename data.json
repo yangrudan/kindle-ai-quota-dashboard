@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T23:40:38.636+08:00",
+  "updatedAt": "2026-11-05T23:50:09.599+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.4,
-    "feelsLikeC": 14.8,
+    "tempC": 14.5,
+    "feelsLikeC": 14.9,
     "humidity": 86,
-    "windKph": 1.9,
+    "windKph": 1.8,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-05T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T23:40:38.636+08:00",
+    "observedAt": "2026-11-05T23:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T23:50:09.600+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年中国国际拳击公开赛在贵州遵义开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726961.shtml",
-        "publishedAt": "2026-11-05T23:34:02.000+08:00"
+        "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726973.shtml",
+        "publishedAt": "2026-11-05T23:48:29.000+08:00"
       },
       {
-        "title": "广东电白茂南对口帮扶广西金秀十年：山海协作，瑶山蝶变",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726960.shtml",
-        "publishedAt": "2026-11-05T23:32:20.000+08:00"
+        "title": "（第九届进博会）从“展示窗口”到“创新加速器”：进博会医疗创新孵化专区强力链接全球双循环",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726967.shtml",
+        "publishedAt": "2026-11-05T23:48:25.000+08:00"
       },
       {
-        "title": "第八届海外侨团合作论坛在上海举行 发布《企业出海指引》",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726959.shtml",
-        "publishedAt": "2026-11-05T23:30:54.000+08:00"
+        "title": "让癌细胞“忙中出错”自我引爆 浙大团队成果登《自然》",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726966.shtml",
+        "publishedAt": "2026-11-05T23:46:27.000+08:00"
       },
       {
-        "title": "受国际科技股回调等冲击 台股连续6个交易日下跌",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726958.shtml",
-        "publishedAt": "2026-11-05T23:26:30.000+08:00"
+        "title": "黑龙江电力外送签约电量首破200亿千瓦时",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726965.shtml",
+        "publishedAt": "2026-11-05T23:43:07.000+08:00"
       },
       {
-        "title": "泰国下调部分汽油及汽油醇价格",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726957.shtml",
-        "publishedAt": "2026-11-05T23:25:50.000+08:00"
+        "title": "第四届广西农民工创业大赛收官 创业成果集中亮相",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726963.shtml",
+        "publishedAt": "2026-11-05T23:42:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T23:40:03.542+08:00",
+    "fetchedAt": "2026-11-05T23:50:03.909+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T23:40:37.405+08:00",
+      "fetchedAt": "2026-11-05T23:50:08.182+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T23:40:37.696+08:00",
+      "fetchedAt": "2026-11-05T23:50:08.475+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T23:40:37.699+08:00",
+      "fetchedAt": "2026-11-05T23:50:08.486+08:00",
       "error": null
     }
   }
