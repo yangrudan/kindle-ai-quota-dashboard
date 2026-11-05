@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T10:50:10.441+08:00",
+  "updatedAt": "2026-11-05T11:00:40.721+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 16.7,
-    "humidity": 65,
-    "windKph": 17.1,
+    "tempC": 18.8,
+    "feelsLikeC": 17,
+    "humidity": 64,
+    "windKph": 16.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T10:50:10.441+08:00",
+    "observedAt": "2026-11-05T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T11:00:40.721+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海外华侨华人：中国共产党二十届五中全会凝聚力量 对祖国发展充满信心",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726454.shtml",
-        "publishedAt": "2026-11-05T10:44:06.000+08:00"
+        "title": "《企业风险管理有效性评价指南》国家标准发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726455.shtml",
+        "publishedAt": "2026-11-05T10:54:35.000+08:00"
       },
       {
-        "title": "中国男篮世预赛第五窗口期集训名单公布 周琦、王哲林等入选",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726446.shtml",
-        "publishedAt": "2026-11-05T10:42:20.000+08:00"
+        "title": "织就数字文化新画卷——在乌镇峰会感受数字文化新业态",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726460.shtml",
+        "publishedAt": "2026-11-05T10:53:25.000+08:00"
       },
       {
-        "title": "自驾上珠峰大本营被拦路 游客起诉景区“侵犯路权”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726451.shtml",
-        "publishedAt": "2026-11-05T10:37:58.000+08:00"
+        "title": "10月物流业景气指数处于扩张区间 预期向好",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726458.shtml",
+        "publishedAt": "2026-11-05T10:51:07.000+08:00"
       },
       {
-        "title": "第一批新车次列车本月开行 车票将陆续发售、兑现",
-        "url": "https://www.chinanews.com.cn/${mypath}/2026/11-05/10726447.shtml",
-        "publishedAt": "2026-11-05T10:34:58.000+08:00"
+        "title": "秋假来了 研学游、亲子游火热 多地景区免门票",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726457.shtml",
+        "publishedAt": "2026-11-05T10:50:23.000+08:00"
       },
       {
-        "title": "以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726445.shtml",
-        "publishedAt": "2026-11-05T10:29:52.000+08:00"
+        "title": "市场监管总局依法废止《绵羊绒交易技术规范》团体标准",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726452.shtml",
+        "publishedAt": "2026-11-05T10:48:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T10:50:03.337+08:00",
+    "fetchedAt": "2026-11-05T11:00:05.399+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T10:50:08.799+08:00",
+      "fetchedAt": "2026-11-05T11:00:39.516+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 20,
           "resetAt": "2026-11-05T14:10:08.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 88,
+          "usedPct": 89,
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T10:50:09.103+08:00",
+      "fetchedAt": "2026-11-05T11:00:39.709+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T10:50:09.109+08:00",
+      "fetchedAt": "2026-11-05T11:00:39.714+08:00",
       "error": null
     }
   }
