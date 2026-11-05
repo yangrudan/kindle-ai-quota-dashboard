@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T18:40:14.919+08:00",
+  "updatedAt": "2026-11-05T18:50:18.958+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-05T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T18:40:14.919+08:00",
+    "fetchedAt": "2026-11-05T18:50:18.958+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第六届国际道教论坛在中国杭州开幕 王沪宁致信祝贺",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726775.shtml",
+        "publishedAt": "2026-11-05T18:36:02.000+08:00"
+      },
       {
         "title": "（经济观察）20余城落地“现房销售制” 房地产发展新模式加速构建",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726776.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“肖复兴人生四书”出版：于平凡生活中读懂人生滋味",
         "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726771.shtml",
         "publishedAt": "2026-11-05T18:26:15.000+08:00"
-      },
-      {
-        "title": "第33届中国戏剧梅花奖设门槛：参评演员须过30场公开演出关",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726769.shtml",
-        "publishedAt": "2026-11-05T18:23:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T18:40:04.312+08:00",
+    "fetchedAt": "2026-11-05T18:50:12.664+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T18:40:13.393+08:00",
+      "fetchedAt": "2026-11-05T18:50:17.364+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T23:40:14.000+08:00"
+          "resetAt": "2026-11-05T23:50:18.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T18:40:14.000+08:00"
+          "resetAt": "2026-11-12T18:50:18.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T18:40:13.920+08:00",
+      "fetchedAt": "2026-11-05T18:50:17.656+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T18:40:13.925+08:00",
+      "fetchedAt": "2026-11-05T18:50:17.665+08:00",
       "error": null
     }
   }
