@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T07:10:09.936+08:00",
+  "updatedAt": "2026-11-06T07:20:08.975+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.4,
-    "feelsLikeC": 15.1,
-    "humidity": 89,
-    "windKph": 1,
-    "windDir": "西风",
+    "tempC": 14.5,
+    "feelsLikeC": 15.3,
+    "humidity": 88,
+    "windKph": 0.3,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T07:10:09.936+08:00",
+    "observedAt": "2026-11-06T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T07:20:08.975+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月6日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10726985.shtml",
+        "publishedAt": "2026-11-06T07:06:41.000+08:00"
+      },
       {
         "title": "德国一政党领导人，被发现在酒店身亡",
         "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726984.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "美国国会“变天”之后：防长去留成难题 伊朗战事再添变数",
         "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726981.shtml",
         "publishedAt": "2026-11-06T06:46:12.000+08:00"
-      },
-      {
-        "title": "中智专家共话发展权保障与全球南方共同发展",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726980.shtml",
-        "publishedAt": "2026-11-06T06:43:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T07:10:03.965+08:00",
+    "fetchedAt": "2026-11-06T07:20:03.600+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T07:10:08.403+08:00",
+      "fetchedAt": "2026-11-06T07:20:07.337+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T12:10:09.000+08:00"
+          "resetAt": "2026-11-06T12:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T07:10:08.758+08:00",
+      "fetchedAt": "2026-11-06T07:20:07.822+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T07:10:08.767+08:00",
+      "fetchedAt": "2026-11-06T07:20:07.825+08:00",
       "error": null
     }
   }
