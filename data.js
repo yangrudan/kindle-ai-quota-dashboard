@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T22:20:09.155+08:00",
+  "updatedAt": "2026-11-05T22:30:42.767+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 14.3,
     "feelsLikeC": 14.3,
     "humidity": 85,
-    "windKph": 3.8,
+    "windKph": 3.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T22:20:09.156+08:00",
+    "observedAt": "2026-11-05T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T22:30:42.767+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（第九届进博会）外企高层：进博会让全球创新成果与中国需求更快相遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726916.shtml",
+        "publishedAt": "2026-11-05T22:25:16.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）跨国企业进博会上展示“本土化”成果",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726915.shtml",
+        "publishedAt": "2026-11-05T22:23:58.000+08:00"
+      },
+      {
+        "title": "云南专家驯服辣椒界“爱马仕” 将天价椒打至每公斤400元",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726913.shtml",
+        "publishedAt": "2026-11-05T22:17:22.000+08:00"
+      },
+      {
+        "title": "“十五五”期间 青海将把物种恢复纳入保护地常态化评估",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726914.shtml",
+        "publishedAt": "2026-11-05T22:16:50.000+08:00"
+      },
+      {
         "title": "广西平乐柿红引客来 产值突破60亿元",
         "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726905.shtml",
         "publishedAt": "2026-11-05T22:13:24.000+08:00"
-      },
-      {
-        "title": "贵州乡村小学的快乐足球赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726903.shtml",
-        "publishedAt": "2026-11-05T22:11:22.000+08:00"
-      },
-      {
-        "title": "外籍人士走进重庆社区 近距离感受基层协商民主实践",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726901.shtml",
-        "publishedAt": "2026-11-05T22:09:36.000+08:00"
-      },
-      {
-        "title": "流域治理成效如何落到红火日子里？（美丽中国·大河新颜）",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726912.shtml",
-        "publishedAt": "2026-11-05T22:09:12.000+08:00"
-      },
-      {
-        "title": "保持多项纪录！C罗宣布结束葡萄牙国家队生涯",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726907.shtml",
-        "publishedAt": "2026-11-05T21:57:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T22:20:03.890+08:00",
+    "fetchedAt": "2026-11-05T22:30:05.377+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T22:20:07.819+08:00",
+      "fetchedAt": "2026-11-05T22:30:41.311+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 11,
           "resetAt": "2026-11-06T02:38:00.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 1,
+          "usedPct": 2,
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T22:20:08.074+08:00",
+      "fetchedAt": "2026-11-05T22:30:41.593+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T22:20:08.084+08:00",
+      "fetchedAt": "2026-11-05T22:30:41.602+08:00",
       "error": null
     }
   }
