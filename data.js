@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T09:00:09.951+08:00",
+  "updatedAt": "2026-11-05T09:10:08.220+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-05T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T09:00:09.952+08:00",
+    "fetchedAt": "2026-11-05T09:10:08.220+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一木一刻承文脉 同心同向兴乡村",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726381.shtml",
+        "publishedAt": "2026-11-05T08:58:07.000+08:00"
+      },
       {
         "title": "坚定走好中国特色反腐败之路（学习贯彻党的二十届五中全会精神）",
         "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726376.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "年内上市银行已收编超40家村行",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726378.shtml",
         "publishedAt": "2026-11-05T08:35:39.000+08:00"
-      },
-      {
-        "title": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726375.shtml",
-        "publishedAt": "2026-11-05T08:32:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T09:00:03.889+08:00",
+    "fetchedAt": "2026-11-05T09:10:02.964+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T09:00:08.421+08:00",
+      "fetchedAt": "2026-11-05T09:10:06.841+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T14:00:09.000+08:00"
+          "resetAt": "2026-11-05T14:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T09:00:08.704+08:00",
+      "fetchedAt": "2026-11-05T09:10:07.128+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T09:00:08.710+08:00",
+      "fetchedAt": "2026-11-05T09:10:07.138+08:00",
       "error": null
     }
   }
