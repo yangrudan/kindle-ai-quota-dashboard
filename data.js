@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T09:50:39.331+08:00",
+  "updatedAt": "2026-11-05T10:00:10.464+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.1,
-    "feelsLikeC": 15.9,
-    "humidity": 68,
+    "tempC": 18.3,
+    "feelsLikeC": 16.2,
+    "humidity": 67,
     "windKph": 18.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T09:50:39.331+08:00",
+    "observedAt": "2026-11-05T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T10:00:10.465+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "探访中铁山桥集团：百年钢桥制造企业生产忙",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209848.shtml",
-        "publishedAt": "2026-11-05T09:45:38.000+08:00"
+        "title": "中国驻洛杉矶总领馆提醒中国公民谨慎选择从檀香山国际机场入境",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726402.shtml",
+        "publishedAt": "2026-11-05T09:55:46.000+08:00"
       },
       {
-        "title": "美国佛州飞机坠毁现场曝光 地面出现大坑",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209844.shtml",
-        "publishedAt": "2026-11-05T09:38:12.000+08:00"
+        "title": "炖肉时出现的浮沫，是营养精华还是脏东西？该不该撇去？",
+        "url": "https://www.chinanews.com.cn/life/2026/11-05/10726412.shtml",
+        "publishedAt": "2026-11-05T09:54:18.000+08:00"
       },
       {
-        "title": "WTT法兰克福冠军赛：国乒小将温瑞博挺进男单16强",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726399.shtml",
-        "publishedAt": "2026-11-05T09:35:51.000+08:00"
+        "title": "法国卢浮宫举办特展纪念摄影术诞生200周年",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726355.shtml",
+        "publishedAt": "2026-11-05T09:54:10.000+08:00"
       },
       {
-        "title": "河北出台一揽子措施支持OPC创新发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726400.shtml",
-        "publishedAt": "2026-11-05T09:34:13.000+08:00"
+        "title": "人工智能创新大赛“以AI办AI赛事” 助力AI从赛场走向产业现场",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726408.shtml",
+        "publishedAt": "2026-11-05T09:52:14.000+08:00"
       },
       {
-        "title": "11月5日央行开展2630亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726398.shtml",
-        "publishedAt": "2026-11-05T09:31:00.000+08:00"
+        "title": "特朗普回应可能遭弹劾：那会摧毁民主党",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726411.shtml",
+        "publishedAt": "2026-11-05T09:51:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T09:50:03.830+08:00",
+    "fetchedAt": "2026-11-05T10:00:04.899+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T09:50:37.714+08:00",
+      "fetchedAt": "2026-11-05T10:00:08.755+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T09:50:37.986+08:00",
+      "fetchedAt": "2026-11-05T10:00:09.027+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T09:50:37.995+08:00",
+      "fetchedAt": "2026-11-05T10:00:09.038+08:00",
       "error": null
     }
   }
