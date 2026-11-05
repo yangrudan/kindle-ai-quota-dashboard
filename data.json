@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T10:20:39.427+08:00",
+  "updatedAt": "2026-11-05T10:30:11.368+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.5,
-    "feelsLikeC": 16.4,
-    "humidity": 66,
-    "windKph": 18.5,
+    "tempC": 18.6,
+    "feelsLikeC": 16.5,
+    "humidity": 65,
+    "windKph": 17.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T10:20:39.428+08:00",
+    "observedAt": "2026-11-05T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T10:30:11.368+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《VIVANT》，好一出“颠倒剧”｜真相",
-        "url": "https://www.chinanews.com.cn/chuangyi/2026/11-05/10726429.shtml",
-        "publishedAt": "2026-11-05T10:12:57.000+08:00"
+        "title": "贵州银行股份有限公司原监事长肖慈发接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726435.shtml",
+        "publishedAt": "2026-11-05T10:24:37.000+08:00"
       },
       {
-        "title": "交银国际信托有限公司原董事长张文被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726428.shtml",
-        "publishedAt": "2026-11-05T10:12:15.000+08:00"
+        "title": "“China Haul”背后，藏着怎样的中国？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726442.shtml",
+        "publishedAt": "2026-11-05T10:22:37.000+08:00"
       },
       {
-        "title": "万斯发长文分析共和党中期选举失利：就是因为这场战争",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726432.shtml",
-        "publishedAt": "2026-11-05T10:11:31.000+08:00"
+        "title": "朝鲜试射新型防空导弹",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726441.shtml",
+        "publishedAt": "2026-11-05T10:21:43.000+08:00"
       },
       {
-        "title": "国内航线燃油附加费今起上调",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726430.shtml",
-        "publishedAt": "2026-11-05T10:11:15.000+08:00"
+        "title": "中国与东盟共探AI赋能防震减灾区域合作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-05/10726437.shtml",
+        "publishedAt": "2026-11-05T10:21:29.000+08:00"
       },
       {
-        "title": "让数字发展不留“孤岛”！佛得角部长在乌镇峰会谈共建共享数字未来",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726431.shtml",
-        "publishedAt": "2026-11-05T10:11:01.000+08:00"
+        "title": "报告：中国和美海岛建设取得阶段性成效",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726439.shtml",
+        "publishedAt": "2026-11-05T10:21:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T10:20:03.793+08:00",
+    "fetchedAt": "2026-11-05T10:30:03.993+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T10:20:37.670+08:00",
+      "fetchedAt": "2026-11-05T10:30:09.723+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T10:20:38.236+08:00",
+      "fetchedAt": "2026-11-05T10:30:10.042+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T10:20:38.245+08:00",
+      "fetchedAt": "2026-11-05T10:30:10.051+08:00",
       "error": null
     }
   }
