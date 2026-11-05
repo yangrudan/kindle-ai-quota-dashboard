@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T21:50:09.481+08:00",
+  "updatedAt": "2026-11-05T22:00:11.286+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 14.3,
     "feelsLikeC": 14.2,
     "humidity": 84,
-    "windKph": 4.3,
+    "windKph": 4.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T21:50:09.482+08:00",
+    "observedAt": "2026-11-05T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T22:00:11.286+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "海外侨界代表走进天津校园 共读《侨印》厚植家国情怀",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726902.shtml",
+        "publishedAt": "2026-11-05T21:52:43.000+08:00"
+      },
+      {
+        "title": "中新健康｜医保钱包2.0版上线！个人账户资金如何跨省供亲属使用？一文看懂",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726904.shtml",
+        "publishedAt": "2026-11-05T21:51:45.000+08:00"
+      },
       {
         "title": "中国与阿曼签署证券期货监管合作谅解备忘录",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726878.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "黑龙江省首个中俄跨境综合办事大厅正式运营",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726876.shtml",
         "publishedAt": "2026-11-05T21:43:06.000+08:00"
-      },
-      {
-        "title": "黑龙江优化入境旅游服务 前10月入境游客花费同比增36.7%",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726879.shtml",
-        "publishedAt": "2026-11-05T21:42:48.000+08:00"
-      },
-      {
-        "title": "AI海洋预报模型多维度评测标准及配套工具包在厦门发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726881.shtml",
-        "publishedAt": "2026-11-05T21:42:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T21:50:03.708+08:00",
+    "fetchedAt": "2026-11-05T22:00:05.937+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T21:50:08.259+08:00",
+      "fetchedAt": "2026-11-05T22:00:09.769+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-11-06T02:38:00.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T21:50:08.442+08:00",
+      "fetchedAt": "2026-11-05T22:00:10.002+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T21:50:08.452+08:00",
+      "fetchedAt": "2026-11-05T22:00:10.013+08:00",
       "error": null
     }
   }
