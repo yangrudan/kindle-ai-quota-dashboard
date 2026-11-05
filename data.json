@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T07:40:09.153+08:00",
+  "updatedAt": "2026-11-06T07:50:09.257+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.6,
+    "tempC": 14.7,
     "feelsLikeC": 15.2,
-    "humidity": 87,
-    "windKph": 1,
+    "humidity": 86,
+    "windKph": 2.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-06T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T07:40:09.153+08:00",
+    "observedAt": "2026-11-06T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T07:50:09.257+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "何立峰在北京调研时指出 强化科技创新与产业创新深度融合 推动经济持续向新向优向好发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726986.shtml",
+        "publishedAt": "2026-11-06T07:44:01.000+08:00"
+      },
+      {
+        "title": "北京中山公园银杏染金 游人赏秋",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209963.shtml",
+        "publishedAt": "2026-11-06T07:43:10.000+08:00"
+      },
       {
         "title": "我国成功发射遥感五十一号07-09星",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209959.shtml",
@@ -33,19 +43,9 @@
         "title": "“最强厄尔尼诺事件”来了 明年防汛形势如何？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726988.shtml",
         "publishedAt": "2026-11-06T07:21:08.000+08:00"
-      },
-      {
-        "title": "特朗普：俄乌冲突已非常接近解决",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726987.shtml",
-        "publishedAt": "2026-11-06T07:20:00.000+08:00"
-      },
-      {
-        "title": "11月6日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10726985.shtml",
-        "publishedAt": "2026-11-06T07:06:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T07:40:03.392+08:00",
+    "fetchedAt": "2026-11-06T07:50:03.479+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T07:40:07.886+08:00",
+      "fetchedAt": "2026-11-06T07:50:07.791+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T12:40:09.000+08:00"
+          "resetAt": "2026-11-06T12:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T07:40:08.155+08:00",
+      "fetchedAt": "2026-11-06T07:50:08.050+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T07:40:08.159+08:00",
+      "fetchedAt": "2026-11-06T07:50:08.054+08:00",
       "error": null
     }
   }
