@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:30:08.747+08:00",
+  "updatedAt": "2026-11-05T11:40:08.908+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-05T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T11:30:08.748+08:00",
+    "fetchedAt": "2026-11-05T11:40:08.909+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "敦煌论坛聚焦中亚南亚合作 共商丝路协同发展",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-05/10726483.shtml",
+        "publishedAt": "2026-11-05T11:27:57.000+08:00"
+      },
+      {
+        "title": "靖安县仁首镇：凝聚巾帼力量 共促民族团结",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726482.shtml",
+        "publishedAt": "2026-11-05T11:27:55.000+08:00"
+      },
+      {
+        "title": "民建宜春市直属总支开展“同心思源” 公益义诊进社区活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726479.shtml",
+        "publishedAt": "2026-11-05T11:24:47.000+08:00"
+      },
       {
         "title": "广东海外联谊会访问团与比利时侨领座谈交流",
         "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726467.shtml",
@@ -28,24 +43,9 @@
         "title": "京港洽谈会京港数智经济协同发展专题活动举办 发布系列重要成果",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726471.shtml",
         "publishedAt": "2026-11-05T11:23:41.000+08:00"
-      },
-      {
-        "title": "东西两路冷空气先后影响我国 大部气温将创新低并伴大范围雨雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726481.shtml",
-        "publishedAt": "2026-11-05T11:23:39.000+08:00"
-      },
-      {
-        "title": "金观平：开放中国“进”无止境",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726472.shtml",
-        "publishedAt": "2026-11-05T11:18:58.000+08:00"
-      },
-      {
-        "title": "中国原子城历史图片展暨宣讲活动在拉萨启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726468.shtml",
-        "publishedAt": "2026-11-05T11:18:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T11:30:03.189+08:00",
+    "fetchedAt": "2026-11-05T11:40:03.850+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T11:30:07.121+08:00",
+      "fetchedAt": "2026-11-05T11:40:07.606+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T11:30:07.348+08:00",
+      "fetchedAt": "2026-11-05T11:40:07.820+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T11:30:07.355+08:00",
+      "fetchedAt": "2026-11-05T11:40:07.829+08:00",
       "error": null
     }
   }
