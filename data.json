@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T13:40:09.655+08:00",
+  "updatedAt": "2026-11-05T13:50:38.915+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.3,
-    "feelsLikeC": 18.6,
+    "tempC": 20.4,
+    "feelsLikeC": 18.7,
     "humidity": 57,
     "windKph": 14.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T13:40:09.655+08:00",
+    "observedAt": "2026-11-05T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T13:50:38.915+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国花旗集团一办公区突发枪击 已致2死4伤",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209860.shtml",
+        "publishedAt": "2026-11-05T13:37:54.000+08:00"
+      },
       {
         "title": "侨聚樟树 助力出海——美国中药联商会刘源凯会长一行赴樟考察中医药出海活动",
         "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726538.shtml",
@@ -38,14 +43,9 @@
         "title": "（第九届进博会）以金融联通全球 外资银行共赴进博之约",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726533.shtml",
         "publishedAt": "2026-11-05T12:57:38.000+08:00"
-      },
-      {
-        "title": "按年龄分档、零起付线等 多地升级“惠民保”增加保障",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726531.shtml",
-        "publishedAt": "2026-11-05T12:49:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T13:40:03.629+08:00",
+    "fetchedAt": "2026-11-05T13:50:02.805+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T13:40:07.904+08:00",
+      "fetchedAt": "2026-11-05T13:50:37.628+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T13:40:08.192+08:00",
+      "fetchedAt": "2026-11-05T13:50:37.942+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T13:40:08.200+08:00",
+      "fetchedAt": "2026-11-05T13:50:37.950+08:00",
       "error": null
     }
   }
