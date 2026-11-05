@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T15:30:08.464+08:00",
+  "updatedAt": "2026-11-05T15:40:09.521+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-05T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T15:30:08.465+08:00",
+    "fetchedAt": "2026-11-05T15:40:09.521+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "医保钱包2.0版上线 这笔钱怎么用？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726616.shtml",
-        "publishedAt": "2026-11-05T15:19:11.000+08:00"
+        "title": "商务部回应扩大自美采购农产品：持开放态度 对等降税落地是前提",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726623.shtml",
+        "publishedAt": "2026-11-05T15:34:48.000+08:00"
       },
       {
-        "title": "商务部回应欧盟对低价值进口商品叠加征收有关税费",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726614.shtml",
-        "publishedAt": "2026-11-05T15:15:53.000+08:00"
+        "title": "日方拟在新版安保三文件中继续将中国定位为“最大战略挑战” 中方回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726627.shtml",
+        "publishedAt": "2026-11-05T15:33:14.000+08:00"
       },
       {
-        "title": "散瞳验光会伤孩子眼睛？丨中新真探",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726609.shtml",
-        "publishedAt": "2026-11-05T15:14:17.000+08:00"
+        "title": "中方回应美国中期选举后中美关系：愿同美方维护好、落实好两国元首重要共识",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726624.shtml",
+        "publishedAt": "2026-11-05T15:31:12.000+08:00"
       },
       {
-        "title": "空腹采血，空腹越久越好……是真是假？",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726613.shtml",
-        "publishedAt": "2026-11-05T15:13:53.000+08:00"
+        "title": "降温直抵华南！立冬冷空气即将上线 降温日历看各地何时气温大跳水",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726621.shtml",
+        "publishedAt": "2026-11-05T15:29:40.000+08:00"
       },
       {
-        "title": "青海省国有资产投资管理有限公司原董事长程国勋接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726606.shtml",
-        "publishedAt": "2026-11-05T15:07:03.000+08:00"
+        "title": "外交部：日本“再军事化”狂飙突进 国际社会必须高度警惕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726617.shtml",
+        "publishedAt": "2026-11-05T15:24:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T15:30:03.141+08:00",
+    "fetchedAt": "2026-11-05T15:40:03.223+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T15:30:07.062+08:00",
+      "fetchedAt": "2026-11-05T15:40:08.075+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T20:30:08.000+08:00"
+          "resetAt": "2026-11-05T20:40:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T15:30:08.000+08:00"
+          "resetAt": "2026-11-12T15:40:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T15:30:07.361+08:00",
+      "fetchedAt": "2026-11-05T15:40:08.447+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T15:30:07.365+08:00",
+      "fetchedAt": "2026-11-05T15:40:08.454+08:00",
       "error": null
     }
   }
