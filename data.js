@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T13:10:08.336+08:00",
+  "updatedAt": "2026-11-05T13:20:08.810+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.1,
-    "feelsLikeC": 18.4,
+    "tempC": 20.2,
+    "feelsLikeC": 18.5,
     "humidity": 58,
     "windKph": 14.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T13:10:08.336+08:00",
+    "observedAt": "2026-11-05T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T13:20:08.810+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国花旗集团超3000人办公区突发枪击 已致2死4伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726537.shtml",
+        "publishedAt": "2026-11-05T13:13:10.000+08:00"
+      },
       {
         "title": "（第九届进博会）以金融联通全球 外资银行共赴进博之约",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726533.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“名师带营”“内部名额”别轻信！秋假临近 报研学团先核对这四项",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726524.shtml",
         "publishedAt": "2026-11-05T12:14:51.000+08:00"
-      },
-      {
-        "title": "摩洛哥称将继续遵守西撒哈拉停火协议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726490.shtml",
-        "publishedAt": "2026-11-05T12:14:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T13:10:03.061+08:00",
+    "fetchedAt": "2026-11-05T13:20:03.410+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T13:10:07.082+08:00",
+      "fetchedAt": "2026-11-05T13:20:07.572+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:00:23.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T13:10:07.285+08:00",
+      "fetchedAt": "2026-11-05T13:20:07.891+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T13:10:07.294+08:00",
+      "fetchedAt": "2026-11-05T13:20:07.901+08:00",
       "error": null
     }
   }
