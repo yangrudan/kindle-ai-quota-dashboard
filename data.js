@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T22:00:11.286+08:00",
+  "updatedAt": "2026-11-05T22:10:10.449+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-05T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T22:00:11.286+08:00",
+    "fetchedAt": "2026-11-05T22:10:10.449+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "保持多项纪录！C罗宣布结束葡萄牙国家队生涯",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726907.shtml",
+        "publishedAt": "2026-11-05T21:57:21.000+08:00"
+      },
+      {
+        "title": "哈尔滨今冬旅游有“新意”：新IP、新场景、新玩法",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726900.shtml",
+        "publishedAt": "2026-11-05T21:53:55.000+08:00"
+      },
       {
         "title": "海外侨界代表走进天津校园 共读《侨印》厚植家国情怀",
         "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726902.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国与阿曼签署证券期货监管合作谅解备忘录",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726878.shtml",
         "publishedAt": "2026-11-05T21:44:48.000+08:00"
-      },
-      {
-        "title": "2026厦门国际海洋周开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726877.shtml",
-        "publishedAt": "2026-11-05T21:43:52.000+08:00"
-      },
-      {
-        "title": "黑龙江省首个中俄跨境综合办事大厅正式运营",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726876.shtml",
-        "publishedAt": "2026-11-05T21:43:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T22:00:05.937+08:00",
+    "fetchedAt": "2026-11-05T22:10:04.966+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T22:00:09.769+08:00",
+      "fetchedAt": "2026-11-05T22:10:09.116+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 7,
           "resetAt": "2026-11-06T02:38:00.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T22:00:10.002+08:00",
+      "fetchedAt": "2026-11-05T22:10:09.379+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T22:00:10.013+08:00",
+      "fetchedAt": "2026-11-05T22:10:09.387+08:00",
       "error": null
     }
   }
