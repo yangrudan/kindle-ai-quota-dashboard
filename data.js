@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T19:40:08.529+08:00",
+  "updatedAt": "2026-11-05T19:50:10.771+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.5,
-    "feelsLikeC": 15.2,
-    "humidity": 80,
-    "windKph": 6.3,
+    "tempC": 15.3,
+    "feelsLikeC": 15.1,
+    "humidity": 81,
+    "windKph": 5.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-05T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T19:40:08.530+08:00",
+    "observedAt": "2026-11-05T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T19:50:10.772+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "吴小菡：举办泰国首届电视春晚和中秋晚会的意义何在？",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726809.shtml",
+        "publishedAt": "2026-11-05T19:43:42.000+08:00"
+      },
+      {
+        "title": "“我的公交我的城”活动走进山东 业界共探组团式城市公交高质量发展路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726819.shtml",
+        "publishedAt": "2026-11-05T19:42:40.000+08:00"
+      },
+      {
+        "title": "中国与东盟高校代表齐聚广西南宁 共话高等艺术教育合作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-05/10726816.shtml",
+        "publishedAt": "2026-11-05T19:40:33.000+08:00"
+      },
+      {
+        "title": "甘肃文化创新成果展亮相敦煌：万件文创产品吸引游人",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726810.shtml",
+        "publishedAt": "2026-11-05T19:40:25.000+08:00"
+      },
+      {
         "title": "临时绿化巧盘活 江西彭泽“闲置地”开出“民生花”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726795.shtml",
         "publishedAt": "2026-11-05T19:23:53.000+08:00"
-      },
-      {
-        "title": "第140届广交会期间广州口岸出入境人员达126万人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726796.shtml",
-        "publishedAt": "2026-11-05T19:23:02.000+08:00"
-      },
-      {
-        "title": "宁夏：铁路点亮山区学子远行梦",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726797.shtml",
-        "publishedAt": "2026-11-05T19:22:58.000+08:00"
-      },
-      {
-        "title": "原子级制造“院士专家城市行”北京站活动在北京怀柔举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726800.shtml",
-        "publishedAt": "2026-11-05T19:22:26.000+08:00"
-      },
-      {
-        "title": "在三亚“洞天福地，海山奇观”中饱览人文气象",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726808.shtml",
-        "publishedAt": "2026-11-05T19:19:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T19:40:03.175+08:00",
+    "fetchedAt": "2026-11-05T19:50:03.750+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-05T19:40:07.215+08:00",
+      "fetchedAt": "2026-11-05T19:50:09.481+08:00",
       "error": null
     },
     "codex": {
@@ -70,15 +70,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T00:40:08.000+08:00"
+          "resetAt": "2026-11-06T00:50:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-12T19:40:08.000+08:00"
+          "resetAt": "2026-11-12T19:50:10.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T19:40:07.433+08:00",
+      "fetchedAt": "2026-11-05T19:50:09.698+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-05T19:40:07.442+08:00",
+      "fetchedAt": "2026-11-05T19:50:09.704+08:00",
       "error": null
     }
   }
