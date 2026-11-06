@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T17:30:17.822+08:00",
+  "updatedAt": "2026-11-06T17:40:39.012+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.5,
-    "feelsLikeC": 17.4,
-    "humidity": 73,
-    "windKph": 5.8,
+    "tempC": 17.3,
+    "feelsLikeC": 17.2,
+    "humidity": 75,
+    "windKph": 6.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-06T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T17:30:17.823+08:00",
+    "observedAt": "2026-11-06T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T17:40:39.012+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广东省住房和城乡建设厅原二级巡视员林兆雄接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727369.shtml",
+        "publishedAt": "2026-11-06T17:26:49.000+08:00"
+      },
       {
         "title": "敦煌印象：游客“错峰游”赴大漠之约",
         "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727376.shtml",
@@ -38,14 +43,9 @@
         "title": "习近平为加蓬总统恩圭马举行欢迎仪式",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727366.shtml",
         "publishedAt": "2026-11-06T17:16:26.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）主宾国斯里兰卡携锡兰红茶“回娘家”",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210029.shtml",
-        "publishedAt": "2026-11-06T17:09:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T17:30:12.289+08:00",
+    "fetchedAt": "2026-11-06T17:40:03.366+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 69.1,
+          "usedPct": 81.1,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 464 / 1500 AIC"
+          "detailText": "剩余 285 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T17:30:16.178+08:00",
+      "fetchedAt": "2026-11-06T17:40:37.403+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 84,
+          "usedPct": 88,
           "resetAt": "2026-11-06T21:28:42.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T17:30:16.891+08:00",
+      "fetchedAt": "2026-11-06T17:40:37.829+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T17:30:16.898+08:00",
+      "fetchedAt": "2026-11-06T17:40:37.832+08:00",
       "error": null
     }
   }
