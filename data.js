@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T08:40:09.207+08:00",
+  "updatedAt": "2026-11-06T08:50:08.454+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.1,
-    "feelsLikeC": 15.6,
+    "tempC": 15.2,
+    "feelsLikeC": 15.7,
     "humidity": 84,
-    "windKph": 1.8,
+    "windKph": 2.1,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-06T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T08:40:09.207+08:00",
+    "observedAt": "2026-11-06T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T08:50:08.455+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "秋粮收储有新招 今年秋粮收购已超1亿吨",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727017.shtml",
+        "publishedAt": "2026-11-06T08:37:56.000+08:00"
+      },
+      {
+        "title": "价格不再是壁垒，只是入场券？万元级人形机器人迎来“真交付”新竞赛",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727016.shtml",
+        "publishedAt": "2026-11-06T08:34:46.000+08:00"
+      },
       {
         "title": "从“集体下架”到“密集返场”，大额存单回来了",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727014.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中央和国家机关要走好第一方阵（学习贯彻党的二十届五中全会精神）",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726999.shtml",
         "publishedAt": "2026-11-06T08:27:02.000+08:00"
-      },
-      {
-        "title": "年内熊猫债发行超2500亿元 再创历史新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727011.shtml",
-        "publishedAt": "2026-11-06T08:26:20.000+08:00"
-      },
-      {
-        "title": "谎称代领补贴，取走老人活命钱 “热心人”因信用卡诈骗罪获刑",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727010.shtml",
-        "publishedAt": "2026-11-06T08:23:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T08:40:03.389+08:00",
+    "fetchedAt": "2026-11-06T08:50:03.340+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T08:40:07.883+08:00",
+      "fetchedAt": "2026-11-06T08:50:07.170+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-11-06T13:39:21.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T08:40:08.132+08:00",
+      "fetchedAt": "2026-11-06T08:50:07.370+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T08:40:08.140+08:00",
+      "fetchedAt": "2026-11-06T08:50:07.380+08:00",
       "error": null
     }
   }
