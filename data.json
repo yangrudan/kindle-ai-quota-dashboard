@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T11:10:19.216+08:00",
+  "updatedAt": "2026-11-06T11:20:09.143+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
-    "feelsLikeC": 17.8,
-    "humidity": 76,
-    "windKph": 2.8,
+    "tempC": 17.5,
+    "feelsLikeC": 17.9,
+    "humidity": 75,
+    "windKph": 3.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T11:10:19.217+08:00",
+    "observedAt": "2026-11-06T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T11:20:09.143+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "特朗普：将就俄乌问题达成“重大协议”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727064.shtml",
-        "publishedAt": "2026-11-06T11:05:32.000+08:00"
+        "title": "土耳其连环枪击案致8死1伤 枪手被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727111.shtml",
+        "publishedAt": "2026-11-06T11:16:17.000+08:00"
       },
       {
-        "title": "印度尼西亚杭州商会成立仪式在雅加达举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727059.shtml",
-        "publishedAt": "2026-11-06T11:04:26.000+08:00"
+        "title": "中国边城黑河今冬打出跨境冰雪康养“组合拳”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727140.shtml",
+        "publishedAt": "2026-11-06T11:15:35.000+08:00"
       },
       {
-        "title": "乡情牵两地 同心促发展——九三学社广州市花都委员会与民盟宜丰县总支开展跨区域党派交流",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727130.shtml",
-        "publishedAt": "2026-11-06T11:03:16.000+08:00"
+        "title": "（香江观澜）兴盛事聚资本 香港彰显国际金融中心活力",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727137.shtml",
+        "publishedAt": "2026-11-06T11:15:15.000+08:00"
       },
       {
-        "title": "一粒稻谷的40种可能，在进博会上看懂益海嘉里金龙鱼的农业转型升级样本",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727129.shtml",
-        "publishedAt": "2026-11-06T11:01:46.000+08:00"
+        "title": "巴基斯坦旁遮普省发生交通事故 至少11死33伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727110.shtml",
+        "publishedAt": "2026-11-06T11:15:15.000+08:00"
       },
       {
-        "title": "民革天津市委会开展纪念孙中山先生诞辰160周年系列活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727124.shtml",
-        "publishedAt": "2026-11-06T11:00:56.000+08:00"
+        "title": "在“星巴扎”，看见一个热气腾腾的新疆",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727136.shtml",
+        "publishedAt": "2026-11-06T11:13:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T11:10:12.335+08:00",
+    "fetchedAt": "2026-11-06T11:20:03.337+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1437 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T11:10:16.916+08:00",
+      "fetchedAt": "2026-11-06T11:20:07.712+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 82,
+          "usedPct": 89,
           "resetAt": "2026-11-06T13:39:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 15,
+          "usedPct": 16,
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T11:10:17.418+08:00",
+      "fetchedAt": "2026-11-06T11:20:08.005+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T11:10:17.424+08:00",
+      "fetchedAt": "2026-11-06T11:20:08.014+08:00",
       "error": null
     }
   }
