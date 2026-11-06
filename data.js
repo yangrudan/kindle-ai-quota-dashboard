@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T09:50:09.344+08:00",
+  "updatedAt": "2026-11-06T10:00:10.223+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
-    "feelsLikeC": 16.5,
-    "humidity": 82,
-    "windKph": 0.7,
-    "windDir": "东风",
+    "tempC": 16,
+    "feelsLikeC": 16.7,
+    "humidity": 81,
+    "windKph": 0.8,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T09:50:09.345+08:00",
+    "observedAt": "2026-11-06T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T10:00:10.224+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "反跨境腐败法表决通过",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727048.shtml",
-        "publishedAt": "2026-11-06T09:42:46.000+08:00"
+        "title": "黑龙江省气象台发布大风预报 局地阵风可达8至9级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727050.shtml",
+        "publishedAt": "2026-11-06T09:49:32.000+08:00"
       },
       {
-        "title": "香港展出海派艺术家山水花鸟及信笺作品",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727044.shtml",
-        "publishedAt": "2026-11-06T09:42:30.000+08:00"
+        "title": "猫山王榴莲苦从何来？云南农业大学最新研究揭示原因",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727045.shtml",
+        "publishedAt": "2026-11-06T09:47:28.000+08:00"
       },
       {
-        "title": "11月6日央行开展2260亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727037.shtml",
-        "publishedAt": "2026-11-06T09:41:46.000+08:00"
+        "title": "武汉以城市更新带动文化出新 老空间育出文旅新场景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727040.shtml",
+        "publishedAt": "2026-11-06T09:44:00.000+08:00"
       },
       {
-        "title": "新华时评·第九届进博会｜中国对外开放的大门越开越大",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-06/10727047.shtml",
-        "publishedAt": "2026-11-06T09:41:04.000+08:00"
+        "title": "我国秋粮丰收成定局",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727049.shtml",
+        "publishedAt": "2026-11-06T09:43:52.000+08:00"
       },
       {
-        "title": "新修订的水法2027年3月22日起施行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727046.shtml",
-        "publishedAt": "2026-11-06T09:40:18.000+08:00"
+        "title": "11月6日人民币对美元中间价报6.7168 下调12个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727038.shtml",
+        "publishedAt": "2026-11-06T09:43:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T09:50:02.929+08:00",
+    "fetchedAt": "2026-11-06T10:00:03.448+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T09:50:07.937+08:00",
+      "fetchedAt": "2026-11-06T10:00:08.850+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 24,
+          "usedPct": 32,
           "resetAt": "2026-11-06T13:39:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 6,
+          "usedPct": 7,
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T09:50:08.200+08:00",
+      "fetchedAt": "2026-11-06T10:00:09.102+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T09:50:08.210+08:00",
+      "fetchedAt": "2026-11-06T10:00:09.115+08:00",
       "error": null
     }
   }
