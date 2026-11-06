@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T06:50:12.667+08:00",
+  "updatedAt": "2026-11-07T07:00:40.966+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
-    "feelsLikeC": 15.7,
-    "humidity": 78,
-    "windKph": 12.6,
+    "tempC": 16.9,
+    "feelsLikeC": 15.8,
+    "humidity": 77,
+    "windKph": 13.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T06:50:12.667+08:00",
+    "observedAt": "2026-11-07T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T07:00:40.967+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
+        "publishedAt": "2026-11-07T06:55:53.000+08:00"
+      },
       {
         "title": "德国一小型飞机坠毁 机上2人遇难",
         "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727731.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "秋冬降温，为什么老年人更容易感冒、咳嗽？",
         "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727733.shtml",
         "publishedAt": "2026-11-07T06:35:56.000+08:00"
-      },
-      {
-        "title": "中央气象台发布暴雪黄色预警 京津冀等局地有大到暴雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727734.shtml",
-        "publishedAt": "2026-11-07T06:24:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T06:50:03.106+08:00",
+    "fetchedAt": "2026-11-07T07:00:04.230+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T06:50:11.226+08:00",
+      "fetchedAt": "2026-11-07T07:00:39.387+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T11:50:12.000+08:00"
+          "resetAt": "2026-11-07T12:00:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T06:50:11.523+08:00",
+      "fetchedAt": "2026-11-07T07:00:39.852+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T06:50:11.527+08:00",
+      "fetchedAt": "2026-11-07T07:00:39.856+08:00",
       "error": null
     }
   }
