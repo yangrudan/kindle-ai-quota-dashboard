@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T22:20:09.274+08:00",
+  "updatedAt": "2026-11-06T22:30:41.271+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15,
     "feelsLikeC": 15.4,
-    "humidity": 90,
-    "windKph": 4.5,
+    "humidity": 91,
+    "windKph": 4.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T22:20:09.274+08:00",
+    "observedAt": "2026-11-06T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T22:30:41.271+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "受权发布丨中华人民共和国南极活动与环境保护法",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727625.shtml",
+        "publishedAt": "2026-11-06T22:21:35.000+08:00"
+      },
+      {
+        "title": "李强会见加蓬总统恩圭马",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210064.shtml",
+        "publishedAt": "2026-11-06T22:21:21.000+08:00"
+      },
+      {
+        "title": "新易盛、中际旭创、天孚通信集体就股份回购事项发声",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727618.shtml",
+        "publishedAt": "2026-11-06T22:19:55.000+08:00"
+      },
+      {
+        "title": "第二十届新疆冬季旅游产业交易博览会开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727489.shtml",
+        "publishedAt": "2026-11-06T22:18:53.000+08:00"
+      },
+      {
         "title": "受权发布丨中华人民共和国水法",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727620.shtml",
         "publishedAt": "2026-11-06T22:18:31.000+08:00"
-      },
-      {
-        "title": "第七届“海洋合作与治理论坛”在海南三亚开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727614.shtml",
-        "publishedAt": "2026-11-06T22:16:01.000+08:00"
-      },
-      {
-        "title": "探秘敦煌鸣沙山下“骆驼村”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727606.shtml",
-        "publishedAt": "2026-11-06T22:15:09.000+08:00"
-      },
-      {
-        "title": "受权发布丨中华人民共和国反跨境腐败法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727612.shtml",
-        "publishedAt": "2026-11-06T22:13:55.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）进博会美国食品与农业馆开馆",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727609.shtml",
-        "publishedAt": "2026-11-06T22:12:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T22:20:03.654+08:00",
+    "fetchedAt": "2026-11-06T22:30:06.350+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T22:20:08.054+08:00",
+      "fetchedAt": "2026-11-06T22:30:39.974+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T03:20:09.000+08:00"
+          "resetAt": "2026-11-07T03:30:41.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T22:20:08.321+08:00",
+      "fetchedAt": "2026-11-06T22:30:40.344+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T22:20:08.330+08:00",
+      "fetchedAt": "2026-11-06T22:30:40.353+08:00",
       "error": null
     }
   }
