@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T22:10:09.583+08:00",
+  "updatedAt": "2026-11-06T22:20:09.274+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 4.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T22:10:09.584+08:00",
+    "observedAt": "2026-11-06T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T22:20:09.274+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026中国杯世界花样滑冰大奖赛：“四周跳女王”伊格纳托娃登场亮相",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727603.shtml",
-        "publishedAt": "2026-11-06T22:01:18.000+08:00"
+        "title": "受权发布丨中华人民共和国水法",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727620.shtml",
+        "publishedAt": "2026-11-06T22:18:31.000+08:00"
       },
       {
-        "title": "李强同奥地利总理施托克尔会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727590.shtml",
-        "publishedAt": "2026-11-06T21:53:42.000+08:00"
+        "title": "第七届“海洋合作与治理论坛”在海南三亚开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727614.shtml",
+        "publishedAt": "2026-11-06T22:16:01.000+08:00"
       },
       {
-        "title": "李强会见加蓬总统恩圭马",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727588.shtml",
-        "publishedAt": "2026-11-06T21:53:26.000+08:00"
+        "title": "探秘敦煌鸣沙山下“骆驼村”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727606.shtml",
+        "publishedAt": "2026-11-06T22:15:09.000+08:00"
       },
       {
-        "title": "习近平会见奥地利总理施托克尔",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727587.shtml",
-        "publishedAt": "2026-11-06T21:52:39.000+08:00"
+        "title": "受权发布丨中华人民共和国反跨境腐败法",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727612.shtml",
+        "publishedAt": "2026-11-06T22:13:55.000+08:00"
       },
       {
-        "title": "习近平同加蓬总统恩圭马会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727585.shtml",
-        "publishedAt": "2026-11-06T21:52:11.000+08:00"
+        "title": "（第九届进博会）进博会美国食品与农业馆开馆",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727609.shtml",
+        "publishedAt": "2026-11-06T22:12:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T22:10:03.780+08:00",
+    "fetchedAt": "2026-11-06T22:20:03.654+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T22:10:07.971+08:00",
+      "fetchedAt": "2026-11-06T22:20:08.054+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T03:10:09.000+08:00"
+          "resetAt": "2026-11-07T03:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T22:10:08.251+08:00",
+      "fetchedAt": "2026-11-06T22:20:08.321+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T22:10:08.260+08:00",
+      "fetchedAt": "2026-11-06T22:20:08.330+08:00",
       "error": null
     }
   }
