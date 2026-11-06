@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T10:50:08.735+08:00",
+  "updatedAt": "2026-11-06T11:00:38.464+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17,
-    "feelsLikeC": 17.6,
-    "humidity": 78,
-    "windKph": 2.3,
+    "tempC": 17.3,
+    "feelsLikeC": 17.8,
+    "humidity": 76,
+    "windKph": 2.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T10:50:08.735+08:00",
+    "observedAt": "2026-11-06T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T11:00:38.464+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "人造黄金来了？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727117.shtml",
+        "publishedAt": "2026-11-06T10:49:43.000+08:00"
+      },
+      {
+        "title": "万载县打造统战工作史料馆",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727114.shtml",
+        "publishedAt": "2026-11-06T10:47:15.000+08:00"
+      },
       {
         "title": "全国已累计收购秋粮1亿吨",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727112.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "樟树市举办非公经济人士“井冈红”理想信念教育暨企业家素质提升班",
         "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727107.shtml",
         "publishedAt": "2026-11-06T10:42:35.000+08:00"
-      },
-      {
-        "title": "密密针线织同心 殷殷深情盼统一——河南商丘虞城县七旬老人织绣寄寓家国情怀",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727101.shtml",
-        "publishedAt": "2026-11-06T10:41:07.000+08:00"
-      },
-      {
-        "title": "袁州区委统战部传达学习贯彻党的二十届五中全会精神",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727103.shtml",
-        "publishedAt": "2026-11-06T10:40:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T10:50:03.195+08:00",
+    "fetchedAt": "2026-11-06T11:00:03.240+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1437 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T10:50:07.199+08:00",
+      "fetchedAt": "2026-11-06T11:00:37.124+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 63,
+          "usedPct": 76,
           "resetAt": "2026-11-06T13:39:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 14,
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T10:50:07.498+08:00",
+      "fetchedAt": "2026-11-06T11:00:37.441+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T10:50:07.507+08:00",
+      "fetchedAt": "2026-11-06T11:00:37.452+08:00",
       "error": null
     }
   }
