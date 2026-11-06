@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T14:40:08.461+08:00",
+  "updatedAt": "2026-11-06T14:50:08.086+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
-    "feelsLikeC": 17.7,
-    "humidity": 71,
-    "windKph": 5.2,
+    "tempC": 18.3,
+    "feelsLikeC": 18.1,
+    "humidity": 67,
+    "windKph": 5.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-06T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T14:40:08.461+08:00",
+    "observedAt": "2026-11-06T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T14:50:08.086+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从全球创新到中国创造，波士顿科学携百余项创新成果八赴进博",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727232.shtml",
-        "publishedAt": "2026-11-06T14:34:02.000+08:00"
+        "title": "日本参议员批评高市政权罔顾民意 急于推动修宪扩军",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727244.shtml",
+        "publishedAt": "2026-11-06T14:44:30.000+08:00"
       },
       {
-        "title": "北京短池游泳世锦赛12月开赛 多位奥运冠军领衔",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727219.shtml",
-        "publishedAt": "2026-11-06T14:31:41.000+08:00"
+        "title": "射程超100公里，巴基斯坦自研空对空导弹可打隐身飞机？",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727229.shtml",
+        "publishedAt": "2026-11-06T14:43:26.000+08:00"
       },
       {
-        "title": "国家发展改革委：我国将动态调整优化粮食储备规模结构布局",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727224.shtml",
-        "publishedAt": "2026-11-06T14:31:27.000+08:00"
+        "title": "百余侨商走进浙江北仑共探中小侨企“抱团出海”新路径",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-06/10727239.shtml",
+        "publishedAt": "2026-11-06T14:41:26.000+08:00"
       },
       {
-        "title": "中新网评：电话手表进校园，别一禁了之",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727227.shtml",
-        "publishedAt": "2026-11-06T14:30:33.000+08:00"
+        "title": "中国国家中医药管理局原局长余艳红被查 系主动投案",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727218.shtml",
+        "publishedAt": "2026-11-06T14:40:30.000+08:00"
       },
       {
-        "title": "（第九届进博会）新朋老友齐聚 港澳台企业踊跃参展进博会",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727221.shtml",
-        "publishedAt": "2026-11-06T14:29:51.000+08:00"
+        "title": "“很脆，可以下啤酒！”李家超进博会逛展，一路吃吃吃",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727241.shtml",
+        "publishedAt": "2026-11-06T14:39:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T14:40:03.393+08:00",
+    "fetchedAt": "2026-11-06T14:50:02.806+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T14:40:07.149+08:00",
+      "fetchedAt": "2026-11-06T14:50:06.740+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-11-06T16:28:14.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T14:40:07.426+08:00",
+      "fetchedAt": "2026-11-06T14:50:07.022+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T14:40:07.436+08:00",
+      "fetchedAt": "2026-11-06T14:50:07.030+08:00",
       "error": null
     }
   }
