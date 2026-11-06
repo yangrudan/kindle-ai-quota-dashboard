@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T12:30:18.933+08:00",
+  "updatedAt": "2026-11-06T12:40:08.356+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 17.7,
     "feelsLikeC": 18,
     "humidity": 72,
-    "windKph": 3.4,
+    "windKph": 2.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T12:30:18.933+08:00",
+    "observedAt": "2026-11-06T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T12:40:08.356+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家主席习近平任免驻外大使",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727170.shtml",
+        "publishedAt": "2026-11-06T12:32:19.000+08:00"
+      },
       {
         "title": "习近平复信澳大利亚青年学生",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727157.shtml",
@@ -38,14 +43,9 @@
         "title": "水利部：黄河实现连续27年不断流",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727149.shtml",
         "publishedAt": "2026-11-06T11:50:23.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）进博会聚焦全球经济再平衡：开放合作是关键",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727109.shtml",
-        "publishedAt": "2026-11-06T11:49:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T12:30:12.241+08:00",
+    "fetchedAt": "2026-11-06T12:40:03.466+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T12:30:17.763+08:00",
+      "fetchedAt": "2026-11-06T12:40:07.224+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T12:30:17.938+08:00",
+      "fetchedAt": "2026-11-06T12:40:07.382+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T12:30:17.948+08:00",
+      "fetchedAt": "2026-11-06T12:40:07.391+08:00",
       "error": null
     }
   }
