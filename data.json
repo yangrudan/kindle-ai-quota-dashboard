@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T09:10:09.342+08:00",
+  "updatedAt": "2026-11-06T09:20:38.211+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.3,
-    "feelsLikeC": 15.8,
-    "humidity": 84,
-    "windKph": 2.2,
+    "tempC": 15.5,
+    "feelsLikeC": 16,
+    "humidity": 83,
+    "windKph": 1.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-06T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T09:10:09.342+08:00",
+    "observedAt": "2026-11-06T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T09:20:38.212+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "冷空气接连来袭 华北北部等地将有强降雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727023.shtml",
+        "publishedAt": "2026-11-06T09:15:10.000+08:00"
+      },
+      {
+        "title": "云南“十五五”将织密面向南亚东南亚数字丝路合作纽带",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727030.shtml",
+        "publishedAt": "2026-11-06T09:12:44.000+08:00"
+      },
+      {
+        "title": "23年传奇谢幕！C罗官宣退出国家队，但千球纪录还在等他",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727029.shtml",
+        "publishedAt": "2026-11-06T09:09:10.000+08:00"
+      },
+      {
+        "title": "中央层面整治形式主义为基层减负专项工作机制办公室 中央纪委办公厅公开通报3起整治形式主义为基层减负典型问",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727027.shtml",
+        "publishedAt": "2026-11-06T09:07:28.000+08:00"
+      },
+      {
         "title": "宜春袁州区企业家当选老挝江西商会会长 夯实海外统战联络阵地",
         "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727024.shtml",
         "publishedAt": "2026-11-06T09:02:58.000+08:00"
-      },
-      {
-        "title": "直播：坐慢火车，赶一场车厢里的山间市集",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10727025.shtml",
-        "publishedAt": "2026-11-06T09:02:46.000+08:00"
-      },
-      {
-        "title": "万载县举办“石榴同心一家亲 童心逐梦向未来” 少儿书画艺术作品展",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727020.shtml",
-        "publishedAt": "2026-11-06T09:01:34.000+08:00"
-      },
-      {
-        "title": "万载县委统战部开展“追寻长征足迹·凝聚统战共识”谈心之旅活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727018.shtml",
-        "publishedAt": "2026-11-06T08:59:49.000+08:00"
-      },
-      {
-        "title": "第二艘国产大型邮轮“爱达・花城号”交付 一组数据抢先看→",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727021.shtml",
-        "publishedAt": "2026-11-06T08:52:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T09:10:03.630+08:00",
+    "fetchedAt": "2026-11-06T09:20:03.003+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T09:10:08.129+08:00",
+      "fetchedAt": "2026-11-06T09:20:36.720+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 3,
           "resetAt": "2026-11-06T13:39:21.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T09:10:08.385+08:00",
+      "fetchedAt": "2026-11-06T09:20:36.903+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T09:10:08.394+08:00",
+      "fetchedAt": "2026-11-06T09:20:36.912+08:00",
       "error": null
     }
   }
