@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T15:40:09.795+08:00",
+  "updatedAt": "2026-11-06T15:50:08.633+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.3,
-    "feelsLikeC": 18.5,
+    "feelsLikeC": 18.6,
     "humidity": 67,
-    "windKph": 3.1,
+    "windKph": 2.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-06T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T15:40:09.796+08:00",
+    "observedAt": "2026-11-06T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T15:50:08.633+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "米切尔将连任格林纳达总理 中方表示祝贺",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727306.shtml",
-        "publishedAt": "2026-11-06T15:35:19.000+08:00"
+        "title": "广东外贸千年：报关簿泛黄、负面清单落地……口岸开放走向制度开放",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727311.shtml",
+        "publishedAt": "2026-11-06T15:47:10.000+08:00"
       },
       {
-        "title": "商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727305.shtml",
-        "publishedAt": "2026-11-06T15:35:19.000+08:00"
+        "title": "胡歌讲述“三件小事”：《生命树》杀青那句“查下去”，在戏外继续回响",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727309.shtml",
+        "publishedAt": "2026-11-06T15:46:28.000+08:00"
       },
       {
-        "title": "国防部：“攻击-21”无人机在四川舰成功起降是我军新域新质作战力量建设重要阶段性成果",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727301.shtml",
-        "publishedAt": "2026-11-06T15:33:07.000+08:00"
+        "title": "红星照耀中国·红旗漫卷大别山丨在霍山读懂红绿交融的振兴故事",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727308.shtml",
+        "publishedAt": "2026-11-06T15:43:45.000+08:00"
       },
       {
-        "title": "何立峰将赴加拿大主持第二次中加经济财金战略对话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727304.shtml",
-        "publishedAt": "2026-11-06T15:32:11.000+08:00"
+        "title": "江西新余：蜜桔丰收满枝头 农旅融合引客来",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727282.shtml",
+        "publishedAt": "2026-11-06T15:40:11.000+08:00"
       },
       {
-        "title": "智能农机稳步升级 提升粮食生产作业效率",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727302.shtml",
-        "publishedAt": "2026-11-06T15:32:03.000+08:00"
+        "title": "托万克吾库萨克村：古乐弦歌代代传",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727281.shtml",
+        "publishedAt": "2026-11-06T15:37:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T15:40:03.942+08:00",
+    "fetchedAt": "2026-11-06T15:50:03.158+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T15:40:08.536+08:00",
+      "fetchedAt": "2026-11-06T15:50:07.370+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 29,
+          "usedPct": 31,
           "resetAt": "2026-11-06T16:28:14.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T15:40:08.789+08:00",
+      "fetchedAt": "2026-11-06T15:50:07.611+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T15:40:08.796+08:00",
+      "fetchedAt": "2026-11-06T15:50:07.616+08:00",
       "error": null
     }
   }
