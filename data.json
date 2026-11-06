@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T14:30:08.784+08:00",
+  "updatedAt": "2026-11-06T14:40:08.461+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-06T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T14:30:08.784+08:00",
+    "fetchedAt": "2026-11-06T14:40:08.461+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外媒聚焦进博会：中国搭建合作共赢平台 激活全球贸易新动能",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727210.shtml",
-        "publishedAt": "2026-11-06T14:12:00.000+08:00"
+        "title": "从全球创新到中国创造，波士顿科学携百余项创新成果八赴进博",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727232.shtml",
+        "publishedAt": "2026-11-06T14:34:02.000+08:00"
       },
       {
-        "title": "市场监管总局启动第四批全国商业秘密保护创新试点工作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727205.shtml",
-        "publishedAt": "2026-11-06T14:08:36.000+08:00"
+        "title": "北京短池游泳世锦赛12月开赛 多位奥运冠军领衔",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727219.shtml",
+        "publishedAt": "2026-11-06T14:31:41.000+08:00"
       },
       {
-        "title": "广州市政协“百姓提案”：让泥土里的“金点子”转化为惠及万家的“好日子”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727201.shtml",
-        "publishedAt": "2026-11-06T14:05:38.000+08:00"
+        "title": "国家发展改革委：我国将动态调整优化粮食储备规模结构布局",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727224.shtml",
+        "publishedAt": "2026-11-06T14:31:27.000+08:00"
       },
       {
-        "title": "“十五五”时期我国用电需求预计每年新增3个上海用电量",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727196.shtml",
-        "publishedAt": "2026-11-06T13:59:28.000+08:00"
+        "title": "中新网评：电话手表进校园，别一禁了之",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727227.shtml",
+        "publishedAt": "2026-11-06T14:30:33.000+08:00"
       },
       {
-        "title": "携手全球协同创新 2026年6G发展大会将于24日至25日举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727198.shtml",
-        "publishedAt": "2026-11-06T13:54:01.000+08:00"
+        "title": "（第九届进博会）新朋老友齐聚 港澳台企业踊跃参展进博会",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727221.shtml",
+        "publishedAt": "2026-11-06T14:29:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T14:30:03.422+08:00",
+    "fetchedAt": "2026-11-06T14:40:03.393+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T14:30:07.503+08:00",
+      "fetchedAt": "2026-11-06T14:40:07.149+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T14:30:07.739+08:00",
+      "fetchedAt": "2026-11-06T14:40:07.426+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T14:30:07.748+08:00",
+      "fetchedAt": "2026-11-06T14:40:07.436+08:00",
       "error": null
     }
   }
