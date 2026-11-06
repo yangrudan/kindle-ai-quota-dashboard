@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T15:20:09.768+08:00",
+  "updatedAt": "2026-11-06T15:30:09.332+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.3,
-    "feelsLikeC": 18.4,
+    "feelsLikeC": 18.5,
     "humidity": 67,
-    "windKph": 3.6,
-    "windDir": "东风",
+    "windKph": 3.1,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-06T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T15:20:09.768+08:00",
+    "observedAt": "2026-11-06T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T15:30:09.332+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖北脑起搏器系统入医保 首批受惠患者出院",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727266.shtml",
-        "publishedAt": "2026-11-06T15:14:02.000+08:00"
+        "title": "巴西企业组团到海南自贸港探寻合作商机",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727290.shtml",
+        "publishedAt": "2026-11-06T15:25:42.000+08:00"
       },
       {
-        "title": "辽宁理工职业大学举办铸牢中华民族共同体意识音乐思政课",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727271.shtml",
-        "publishedAt": "2026-11-06T15:13:52.000+08:00"
+        "title": "中方回应高市早苗发表涉台谬论一周年：一年过去了日本当局仍在原地打转",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727292.shtml",
+        "publishedAt": "2026-11-06T15:25:12.000+08:00"
       },
       {
-        "title": "违法违规涉军“自媒体”账号典型案例",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-06/10727276.shtml",
-        "publishedAt": "2026-11-06T15:12:16.000+08:00"
+        "title": "外交部：中美要相向而行，坚持互利共赢导向",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727291.shtml",
+        "publishedAt": "2026-11-06T15:24:52.000+08:00"
       },
       {
-        "title": "中期选举失利后 特朗普在办公桌上放了一顶帽子(图)",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727265.shtml",
-        "publishedAt": "2026-11-06T15:10:44.000+08:00"
+        "title": "河北发布暴雪橙色预警",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727287.shtml",
+        "publishedAt": "2026-11-06T15:24:44.000+08:00"
       },
       {
-        "title": "商务部公告2026年第56号 公布对原产于欧盟、日本的进口乙叉降冰片烯发起反倾销立案调查",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-06/10727274.shtml",
-        "publishedAt": "2026-11-06T15:10:40.000+08:00"
+        "title": "京津冀三地消协组织敦促多家航空公司及线上售票平台规范机票退改签服务",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727288.shtml",
+        "publishedAt": "2026-11-06T15:24:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T15:20:04.054+08:00",
+    "fetchedAt": "2026-11-06T15:30:03.446+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T15:20:08.337+08:00",
+      "fetchedAt": "2026-11-06T15:30:07.924+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 20,
           "resetAt": "2026-11-06T16:28:14.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T15:20:08.600+08:00",
+      "fetchedAt": "2026-11-06T15:30:08.183+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T15:20:08.604+08:00",
+      "fetchedAt": "2026-11-06T15:30:08.194+08:00",
       "error": null
     }
   }
