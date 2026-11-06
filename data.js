@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T22:30:41.271+08:00",
+  "updatedAt": "2026-11-06T22:40:09.800+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-06T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T22:30:41.271+08:00",
+    "fetchedAt": "2026-11-06T22:40:09.800+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "受权发布丨中华人民共和国南极活动与环境保护法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727625.shtml",
-        "publishedAt": "2026-11-06T22:21:35.000+08:00"
-      },
-      {
-        "title": "李强会见加蓬总统恩圭马",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210064.shtml",
-        "publishedAt": "2026-11-06T22:21:21.000+08:00"
-      },
-      {
-        "title": "新易盛、中际旭创、天孚通信集体就股份回购事项发声",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727618.shtml",
-        "publishedAt": "2026-11-06T22:19:55.000+08:00"
-      },
-      {
-        "title": "第二十届新疆冬季旅游产业交易博览会开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727489.shtml",
-        "publishedAt": "2026-11-06T22:18:53.000+08:00"
-      },
-      {
         "title": "受权发布丨中华人民共和国水法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727620.shtml",
-        "publishedAt": "2026-11-06T22:18:31.000+08:00"
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727650.shtml",
+        "publishedAt": "2026-11-06T22:38:08.000+08:00"
+      },
+      {
+        "title": "各界人士齐聚山东济南 共研孙中山思想当代价值",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727638.shtml",
+        "publishedAt": "2026-11-06T22:37:32.000+08:00"
+      },
+      {
+        "title": "泰国部署2027年PM2.5防控措施",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727637.shtml",
+        "publishedAt": "2026-11-06T22:37:20.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）从特色产品到产业协同 亚太国家共享进博机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727636.shtml",
+        "publishedAt": "2026-11-06T22:36:12.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）华商连续九届参与进博会：从找订单到找伙伴",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727634.shtml",
+        "publishedAt": "2026-11-06T22:35:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T22:30:06.350+08:00",
+    "fetchedAt": "2026-11-06T22:40:04.289+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T22:30:39.974+08:00",
+      "fetchedAt": "2026-11-06T22:40:08.571+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T03:30:41.000+08:00"
+          "resetAt": "2026-11-07T03:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T22:30:40.344+08:00",
+      "fetchedAt": "2026-11-06T22:40:08.888+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T22:30:40.353+08:00",
+      "fetchedAt": "2026-11-06T22:40:08.897+08:00",
       "error": null
     }
   }
