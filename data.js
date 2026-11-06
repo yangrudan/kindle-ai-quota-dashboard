@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T23:30:08.051+08:00",
+  "updatedAt": "2026-11-06T23:40:09.151+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-06T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T23:30:08.052+08:00",
+    "fetchedAt": "2026-11-06T23:40:09.151+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（乡村行·看振兴）安徽怀远一粒小糯稻种出百亿大产业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727679.shtml",
-        "publishedAt": "2026-11-06T23:26:09.000+08:00"
+        "title": "前三季度云南昭通苹果出口1300余吨 香飘东南亚市场",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727694.shtml",
+        "publishedAt": "2026-11-06T23:36:35.000+08:00"
       },
       {
-        "title": "哈尔滨冰雪文化艺术季启幕 2270场演出奏响中外文艺交流乐章",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727681.shtml",
-        "publishedAt": "2026-11-06T23:25:13.000+08:00"
+        "title": "第三届“长高赛”方案在专交会发布 助力专利从“赛场”走向“市场”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727690.shtml",
+        "publishedAt": "2026-11-06T23:35:49.000+08:00"
       },
       {
-        "title": "走进湖南湘江新区：出口清单上的文化新面孔",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727680.shtml",
-        "publishedAt": "2026-11-06T23:24:54.000+08:00"
+        "title": "白皮书：数字化平台与AI成汽车消费服务业升级关键变量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727693.shtml",
+        "publishedAt": "2026-11-06T23:35:39.000+08:00"
       },
       {
-        "title": "真金白银“投资于人”：2026年黑龙江博士后人数同比增长14.1%。",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727678.shtml",
-        "publishedAt": "2026-11-06T23:24:00.000+08:00"
+        "title": "第九次山东省—韩国经贸合作交流会开幕式举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727692.shtml",
+        "publishedAt": "2026-11-06T23:34:27.000+08:00"
       },
       {
-        "title": "缅甸妇女代表走进西双版纳 感受中国边疆发展活力",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727677.shtml",
-        "publishedAt": "2026-11-06T23:23:54.000+08:00"
+        "title": "青春阅读嘉年华暨第四届济南书市在山东济南开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727691.shtml",
+        "publishedAt": "2026-11-06T23:32:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T23:30:03.045+08:00",
+    "fetchedAt": "2026-11-06T23:40:03.440+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T23:30:06.896+08:00",
+      "fetchedAt": "2026-11-06T23:40:07.765+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T04:30:08.000+08:00"
+          "resetAt": "2026-11-07T04:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T23:30:07.127+08:00",
+      "fetchedAt": "2026-11-06T23:40:08.035+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T23:30:07.136+08:00",
+      "fetchedAt": "2026-11-06T23:40:08.041+08:00",
       "error": null
     }
   }
