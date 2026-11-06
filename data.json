@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T11:50:37.476+08:00",
+  "updatedAt": "2026-11-06T12:00:09.724+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.7,
     "feelsLikeC": 18,
-    "humidity": 73,
+    "humidity": 72,
     "windKph": 3.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T11:50:37.476+08:00",
+    "observedAt": "2026-11-06T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T12:00:09.724+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "水利部：黄河实现连续27年不断流",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727149.shtml",
+        "publishedAt": "2026-11-06T11:50:23.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）进博会聚焦全球经济再平衡：开放合作是关键",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727109.shtml",
+        "publishedAt": "2026-11-06T11:49:11.000+08:00"
+      },
       {
         "title": "网络直播间热销的“超划算旅游卡” 为何屡遭兑现难？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727164.shtml",
@@ -33,19 +43,9 @@
         "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
         "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727084.shtml",
         "publishedAt": "2026-11-06T11:44:22.000+08:00"
-      },
-      {
-        "title": "河北宽城生态向好 迁徙候鸟翩跹而至",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727081.shtml",
-        "publishedAt": "2026-11-06T11:43:24.000+08:00"
-      },
-      {
-        "title": "鲁比奥否认计划离职竞选美国总统 称将为特朗普工作至任期结束",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727163.shtml",
-        "publishedAt": "2026-11-06T11:42:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T11:50:02.759+08:00",
+    "fetchedAt": "2026-11-06T12:00:03.491+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T11:50:36.220+08:00",
+      "fetchedAt": "2026-11-06T12:00:08.338+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T11:50:36.476+08:00",
+      "fetchedAt": "2026-11-06T12:00:08.622+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T11:50:36.488+08:00",
+      "fetchedAt": "2026-11-06T12:00:08.631+08:00",
       "error": null
     }
   }
