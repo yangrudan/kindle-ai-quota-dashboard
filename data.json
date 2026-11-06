@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T15:30:09.332+08:00",
+  "updatedAt": "2026-11-06T15:40:09.795+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-06T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T15:30:09.332+08:00",
+    "fetchedAt": "2026-11-06T15:40:09.796+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "巴西企业组团到海南自贸港探寻合作商机",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727290.shtml",
-        "publishedAt": "2026-11-06T15:25:42.000+08:00"
+        "title": "米切尔将连任格林纳达总理 中方表示祝贺",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727306.shtml",
+        "publishedAt": "2026-11-06T15:35:19.000+08:00"
       },
       {
-        "title": "中方回应高市早苗发表涉台谬论一周年：一年过去了日本当局仍在原地打转",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727292.shtml",
-        "publishedAt": "2026-11-06T15:25:12.000+08:00"
+        "title": "商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727305.shtml",
+        "publishedAt": "2026-11-06T15:35:19.000+08:00"
       },
       {
-        "title": "外交部：中美要相向而行，坚持互利共赢导向",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727291.shtml",
-        "publishedAt": "2026-11-06T15:24:52.000+08:00"
+        "title": "国防部：“攻击-21”无人机在四川舰成功起降是我军新域新质作战力量建设重要阶段性成果",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727301.shtml",
+        "publishedAt": "2026-11-06T15:33:07.000+08:00"
       },
       {
-        "title": "河北发布暴雪橙色预警",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727287.shtml",
-        "publishedAt": "2026-11-06T15:24:44.000+08:00"
+        "title": "何立峰将赴加拿大主持第二次中加经济财金战略对话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727304.shtml",
+        "publishedAt": "2026-11-06T15:32:11.000+08:00"
       },
       {
-        "title": "京津冀三地消协组织敦促多家航空公司及线上售票平台规范机票退改签服务",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727288.shtml",
-        "publishedAt": "2026-11-06T15:24:36.000+08:00"
+        "title": "智能农机稳步升级 提升粮食生产作业效率",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727302.shtml",
+        "publishedAt": "2026-11-06T15:32:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T15:30:03.446+08:00",
+    "fetchedAt": "2026-11-06T15:40:03.942+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T15:30:07.924+08:00",
+      "fetchedAt": "2026-11-06T15:40:08.536+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 20,
+          "usedPct": 29,
           "resetAt": "2026-11-06T16:28:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 5,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T15:30:08.183+08:00",
+      "fetchedAt": "2026-11-06T15:40:08.789+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T15:30:08.194+08:00",
+      "fetchedAt": "2026-11-06T15:40:08.796+08:00",
       "error": null
     }
   }
