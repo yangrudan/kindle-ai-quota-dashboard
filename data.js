@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T11:20:09.143+08:00",
+  "updatedAt": "2026-11-06T11:30:08.811+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.5,
+    "tempC": 17.6,
     "feelsLikeC": 17.9,
-    "humidity": 75,
-    "windKph": 3.2,
+    "humidity": 74,
+    "windKph": 3.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T11:20:09.143+08:00",
+    "observedAt": "2026-11-06T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T11:30:08.811+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "土耳其连环枪击案致8死1伤 枪手被捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727111.shtml",
-        "publishedAt": "2026-11-06T11:16:17.000+08:00"
+        "title": "党领导人民治理黄河80年来建成水利工程5.4万余座",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727146.shtml",
+        "publishedAt": "2026-11-06T11:26:55.000+08:00"
       },
       {
-        "title": "中国边城黑河今冬打出跨境冰雪康养“组合拳”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727140.shtml",
-        "publishedAt": "2026-11-06T11:15:35.000+08:00"
+        "title": "强度同期少见！中东部大范围雨雪将至 华北北部等地将现强降雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727147.shtml",
+        "publishedAt": "2026-11-06T11:21:29.000+08:00"
       },
       {
-        "title": "（香江观澜）兴盛事聚资本 香港彰显国际金融中心活力",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727137.shtml",
-        "publishedAt": "2026-11-06T11:15:15.000+08:00"
+        "title": "台湾自媒体人走进四川攀枝花村寨：“同根同源，此乡如故乡”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727145.shtml",
+        "publishedAt": "2026-11-06T11:21:03.000+08:00"
       },
       {
-        "title": "巴基斯坦旁遮普省发生交通事故 至少11死33伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727110.shtml",
-        "publishedAt": "2026-11-06T11:15:15.000+08:00"
+        "title": "全国已累计收购秋粮1亿吨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727139.shtml",
+        "publishedAt": "2026-11-06T11:20:29.000+08:00"
       },
       {
-        "title": "在“星巴扎”，看见一个热气腾腾的新疆",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727136.shtml",
-        "publishedAt": "2026-11-06T11:13:17.000+08:00"
+        "title": "2026全国医保影像AI识图大赛颁奖大会在南宁举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727142.shtml",
+        "publishedAt": "2026-11-06T11:19:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T11:20:03.337+08:00",
+    "fetchedAt": "2026-11-06T11:30:02.968+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1437 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T11:20:07.712+08:00",
+      "fetchedAt": "2026-11-06T11:30:07.524+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 89,
-          "resetAt": "2026-11-06T13:39:21.000+08:00"
+          "usedPct": 3,
+          "resetAt": "2026-11-06T16:28:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 16,
-          "resetAt": "2026-11-12T21:38:00.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T11:20:08.005+08:00",
+      "fetchedAt": "2026-11-06T11:30:07.818+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T11:20:08.014+08:00",
+      "fetchedAt": "2026-11-06T11:30:07.821+08:00",
       "error": null
     }
   }
