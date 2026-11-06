@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T23:10:09.454+08:00",
+  "updatedAt": "2026-11-06T23:20:09.360+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.9,
+    "tempC": 14.8,
     "feelsLikeC": 15.4,
     "humidity": 92,
-    "windKph": 3.8,
+    "windKph": 3.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T23:10:09.454+08:00",
+    "observedAt": "2026-11-06T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T23:20:09.360+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《永乐未央》舞动长安 山西芮城赴陕推介文旅资源",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727645.shtml",
-        "publishedAt": "2026-11-06T22:50:37.000+08:00"
+        "title": "（第九届进博会）马来西亚中总总会长：推动马中经贸从“卖产品”迈向“建生态”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-06/10727661.shtml",
+        "publishedAt": "2026-11-06T23:16:08.000+08:00"
       },
       {
-        "title": "宁夏、澳门推进医疗健康领域合作",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-06/10727642.shtml",
-        "publishedAt": "2026-11-06T22:49:49.000+08:00"
+        "title": "中外布商聚柯桥对接商机 婴童、女装面料走俏",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727660.shtml",
+        "publishedAt": "2026-11-06T23:15:30.000+08:00"
       },
       {
-        "title": "126个老旧小区焕新 广州老城更新样本走向国际舞台",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727641.shtml",
-        "publishedAt": "2026-11-06T22:47:34.000+08:00"
+        "title": "10月中国公路物流运价指数呈温和波动态势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727659.shtml",
+        "publishedAt": "2026-11-06T23:14:32.000+08:00"
       },
       {
-        "title": "“哈铁”积极应对大范围暴雪 保障铁路运输平稳有序",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727640.shtml",
-        "publishedAt": "2026-11-06T22:46:38.000+08:00"
+        "title": "（乡村行·看振兴）贵州：山上油茶丰收科技赋能搬运",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727658.shtml",
+        "publishedAt": "2026-11-06T23:13:46.000+08:00"
       },
       {
-        "title": "郑州惠济区在建两座“大冰箱” 冷链托举百亿食品产业目标",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727639.shtml",
-        "publishedAt": "2026-11-06T22:40:14.000+08:00"
+        "title": "江西省第十二届大学生艺术展演活动省级展演在景德镇开幕",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727657.shtml",
+        "publishedAt": "2026-11-06T23:13:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T23:10:03.578+08:00",
+    "fetchedAt": "2026-11-06T23:20:03.964+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T23:10:07.777+08:00",
+      "fetchedAt": "2026-11-06T23:20:08.102+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T04:10:09.000+08:00"
+          "resetAt": "2026-11-07T04:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T23:10:08.057+08:00",
+      "fetchedAt": "2026-11-06T23:20:08.409+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T23:10:08.061+08:00",
+      "fetchedAt": "2026-11-06T23:20:08.417+08:00",
       "error": null
     }
   }
