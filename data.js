@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T13:30:10.152+08:00",
+  "updatedAt": "2026-11-06T13:40:42.142+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-06T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T13:30:10.152+08:00",
+    "fetchedAt": "2026-11-06T13:40:42.142+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "付费“导师红黑榜”走红 择校焦虑不该被流量收割",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727180.shtml",
-        "publishedAt": "2026-11-06T13:14:11.000+08:00"
+        "title": "网信部门从严查处利用AI技术假冒仿冒公众人物问题",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727188.shtml",
+        "publishedAt": "2026-11-06T13:31:38.000+08:00"
       },
       {
-        "title": "澳门中联办发言人：坚决支持特区司法机关依法宣判国安首案",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727179.shtml",
-        "publishedAt": "2026-11-06T13:03:03.000+08:00"
+        "title": "国家发展改革委：我国将加快建设一批国家级油气战略保障基地",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727183.shtml",
+        "publishedAt": "2026-11-06T13:30:46.000+08:00"
       },
       {
-        "title": "北京出台首部聚焦生态涵养区的五年专项规划",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727178.shtml",
-        "publishedAt": "2026-11-06T13:02:25.000+08:00"
+        "title": "跑腿平台“临时家长”服务引争议 18元起接送孩子如何筑牢安全防线",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727187.shtml",
+        "publishedAt": "2026-11-06T13:30:18.000+08:00"
       },
       {
-        "title": "澳门特区政府：坚定支持司法机关依法裁决国安首案",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727176.shtml",
-        "publishedAt": "2026-11-06T12:59:30.000+08:00"
+        "title": "罗织罪名！台湾民意代表高金素梅被“求刑”14年",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727185.shtml",
+        "publishedAt": "2026-11-06T13:29:12.000+08:00"
       },
       {
-        "title": "国家主席习近平任免驻外大使",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727170.shtml",
-        "publishedAt": "2026-11-06T12:32:19.000+08:00"
+        "title": "埃及军方：两名军官在边境打击非法采金行动中丧生",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727181.shtml",
+        "publishedAt": "2026-11-06T13:23:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T13:30:04.869+08:00",
+    "fetchedAt": "2026-11-06T13:40:03.264+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T13:30:08.811+08:00",
+      "fetchedAt": "2026-11-06T13:40:40.783+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T13:30:09.230+08:00",
+      "fetchedAt": "2026-11-06T13:40:41.089+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T13:30:09.235+08:00",
+      "fetchedAt": "2026-11-06T13:40:41.099+08:00",
       "error": null
     }
   }
