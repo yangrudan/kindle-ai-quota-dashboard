@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T16:20:08.915+08:00",
+  "updatedAt": "2026-11-06T16:30:07.774+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.2,
-    "feelsLikeC": 18.5,
-    "humidity": 68,
-    "windKph": 2.6,
+    "tempC": 18,
+    "feelsLikeC": 18.2,
+    "humidity": 70,
+    "windKph": 3.1,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-06T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T16:20:08.915+08:00",
+    "observedAt": "2026-11-06T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T16:30:07.774+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（走进中国乡村）从采虫草到当向导：西藏波密普热村探索新增收路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727332.shtml",
-        "publishedAt": "2026-11-06T16:12:29.000+08:00"
+        "title": "第五届国际地理标志产品博览会启幕 中外嘉宾共拓合作新空间",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727341.shtml",
+        "publishedAt": "2026-11-06T16:23:40.000+08:00"
       },
       {
-        "title": "“洋土特产”的前世今生丨一粒非洲咖啡豆的中国新舞台",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727335.shtml",
-        "publishedAt": "2026-11-06T16:10:35.000+08:00"
+        "title": "进博会助力秘鲁特色农产品跨越山海",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727351.shtml",
+        "publishedAt": "2026-11-06T16:23:09.000+08:00"
       },
       {
-        "title": "全球首个商业化高温气冷堆“炽龙一号”核岛建设启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727333.shtml",
-        "publishedAt": "2026-11-06T16:10:05.000+08:00"
+        "title": "老舍夫妇藏画展登陆厦门鼓浪屿 董其昌齐白石作品亮相",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727344.shtml",
+        "publishedAt": "2026-11-06T16:22:15.000+08:00"
       },
       {
-        "title": "孙中山与辛亥革命珍贵文物数字展“云端”开展",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727331.shtml",
-        "publishedAt": "2026-11-06T16:09:23.000+08:00"
+        "title": "税收征收管理法修订草案向社会公开征求意见",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727349.shtml",
+        "publishedAt": "2026-11-06T16:22:01.000+08:00"
       },
       {
-        "title": "（第九届进博会）外宾看进博：中国市场吸引力具有长期性",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727324.shtml",
-        "publishedAt": "2026-11-06T16:09:17.000+08:00"
+        "title": "创意与可持续发展：迪奥亮相第九届中国国际进口博览会",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727340.shtml",
+        "publishedAt": "2026-11-06T16:21:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T16:20:03.881+08:00",
+    "fetchedAt": "2026-11-06T16:30:02.562+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 6.6,
+          "usedPct": 12.6,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1402 / 1500 AIC"
+          "detailText": "剩余 1312 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T16:20:07.590+08:00",
+      "fetchedAt": "2026-11-06T16:30:06.340+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 71,
-          "resetAt": "2026-11-06T16:28:14.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-06T21:28:42.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 11,
+          "usedPct": 14,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T16:20:07.873+08:00",
+      "fetchedAt": "2026-11-06T16:30:06.654+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T16:20:07.882+08:00",
+      "fetchedAt": "2026-11-06T16:30:06.659+08:00",
       "error": null
     }
   }
