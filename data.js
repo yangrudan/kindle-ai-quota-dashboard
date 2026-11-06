@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T09:30:12.495+08:00",
+  "updatedAt": "2026-11-06T09:40:12.345+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-06T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T09:30:12.495+08:00",
+    "fetchedAt": "2026-11-06T09:40:12.345+08:00",
     "error": null
   },
   "news": {
@@ -30,6 +30,11 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-06T09:20:13.000+08:00"
       },
       {
+        "title": "WTT法兰克福冠军赛：王楚钦无缘男单八强",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727032.shtml",
+        "publishedAt": "2026-11-06T09:18:56.000+08:00"
+      },
+      {
         "title": "美国纽约一住宅楼火灾致6亡9伤",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209968.shtml",
         "publishedAt": "2026-11-06T09:17:47.000+08:00"
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "申请劳动能力鉴定，一般多久能知道结果？人社部解答",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727026.shtml",
         "publishedAt": "2026-11-06T09:17:36.000+08:00"
-      },
-      {
-        "title": "重庆大足加快打造成渝中部新支点和巴蜀文化会客厅",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727031.shtml",
-        "publishedAt": "2026-11-06T09:17:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T09:30:05.030+08:00",
+    "fetchedAt": "2026-11-06T09:40:03.299+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T09:30:09.023+08:00",
+      "fetchedAt": "2026-11-06T09:40:07.583+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 6,
+          "usedPct": 15,
           "resetAt": "2026-11-06T13:39:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T09:30:09.234+08:00",
+      "fetchedAt": "2026-11-06T09:40:07.793+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T09:30:09.245+08:00",
+      "fetchedAt": "2026-11-06T09:40:07.798+08:00",
       "error": null
     }
   }
