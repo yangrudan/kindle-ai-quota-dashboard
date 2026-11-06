@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T14:10:09.327+08:00",
+  "updatedAt": "2026-11-06T14:20:08.757+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 17.6,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 17.7,
     "feelsLikeC": 17.8,
-    "humidity": 73,
-    "windKph": 4.1,
+    "humidity": 72,
+    "windKph": 4.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-06T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T14:10:09.328+08:00",
+    "observedAt": "2026-11-06T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T14:20:08.758+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外媒聚焦进博会：中国搭建合作共赢平台 激活全球贸易新动能",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727210.shtml",
+        "publishedAt": "2026-11-06T14:12:00.000+08:00"
+      },
+      {
+        "title": "市场监管总局启动第四批全国商业秘密保护创新试点工作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727205.shtml",
+        "publishedAt": "2026-11-06T14:08:36.000+08:00"
+      },
+      {
+        "title": "广州市政协“百姓提案”：让泥土里的“金点子”转化为惠及万家的“好日子”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727201.shtml",
+        "publishedAt": "2026-11-06T14:05:38.000+08:00"
+      },
       {
         "title": "“十五五”时期我国用电需求预计每年新增3个上海用电量",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727196.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "携手全球协同创新 2026年6G发展大会将于24日至25日举行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727198.shtml",
         "publishedAt": "2026-11-06T13:54:01.000+08:00"
-      },
-      {
-        "title": "本周末大范围雨雪将上线，这些地方或有暴雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727193.shtml",
-        "publishedAt": "2026-11-06T13:47:19.000+08:00"
-      },
-      {
-        "title": "国家发展改革委：三方面举措推动中国饭碗主要装中国粮",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727190.shtml",
-        "publishedAt": "2026-11-06T13:40:39.000+08:00"
-      },
-      {
-        "title": "网信部门从严查处利用AI技术假冒仿冒公众人物问题",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727188.shtml",
-        "publishedAt": "2026-11-06T13:31:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T14:10:03.711+08:00",
+    "fetchedAt": "2026-11-06T14:20:03.539+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T14:10:07.871+08:00",
+      "fetchedAt": "2026-11-06T14:20:07.518+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T14:10:08.125+08:00",
+      "fetchedAt": "2026-11-06T14:20:07.831+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T14:10:08.134+08:00",
+      "fetchedAt": "2026-11-06T14:20:07.835+08:00",
       "error": null
     }
   }
