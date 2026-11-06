@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T10:10:10.992+08:00",
+  "updatedAt": "2026-11-06T10:20:10.343+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16,
-    "feelsLikeC": 16.7,
-    "humidity": 81,
-    "windKph": 0.8,
+    "tempC": 16.3,
+    "feelsLikeC": 17,
+    "humidity": 80,
+    "windKph": 1.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T10:10:10.992+08:00",
+    "observedAt": "2026-11-06T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T10:20:10.343+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国家卫生健康委员会原党组成员，国家中医药管理局原党组书记、局长余艳红接受中央纪委国家监委纪律审查和监察调",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727056.shtml",
-        "publishedAt": "2026-11-06T10:01:31.000+08:00"
+        "title": "中国成功发射遥感五十一号07-09星",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727063.shtml",
+        "publishedAt": "2026-11-06T10:10:57.000+08:00"
       },
       {
-        "title": "立冬后，建议多吃这些食物，好处不只一个！",
-        "url": "https://www.chinanews.com.cn/life/2026/11-06/10727055.shtml",
-        "publishedAt": "2026-11-06T09:58:45.000+08:00"
+        "title": "黄河实现连续27年不断流",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727066.shtml",
+        "publishedAt": "2026-11-06T10:10:29.000+08:00"
       },
       {
-        "title": "何以中国｜红山曙光映照朝阳烟火日常",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727054.shtml",
-        "publishedAt": "2026-11-06T09:58:31.000+08:00"
+        "title": "69个国家和国际组织亮相国家展 进博会“朋友圈”再扩容",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727065.shtml",
+        "publishedAt": "2026-11-06T10:10:23.000+08:00"
       },
       {
-        "title": "【外链】通栏图：第九届中国国际进口博览会",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10727053.shtml",
-        "publishedAt": "2026-11-06T09:55:57.000+08:00"
+        "title": "北京口岸今年出入境人员破2000万人次 较去年提前31天",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727062.shtml",
+        "publishedAt": "2026-11-06T10:10:23.000+08:00"
       },
       {
-        "title": "弘扬科学家精神·大家小事丨于敏：纸带上揪出的故障",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727052.shtml",
-        "publishedAt": "2026-11-06T09:54:34.000+08:00"
+        "title": "云南 “十五五” 布局边境卫生 打造跨境健康服务通道",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-06/10727061.shtml",
+        "publishedAt": "2026-11-06T10:09:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T10:10:03.676+08:00",
+    "fetchedAt": "2026-11-06T10:20:03.968+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T10:10:08.743+08:00",
+      "fetchedAt": "2026-11-06T10:20:08.759+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 49,
+          "usedPct": 51,
           "resetAt": "2026-11-06T13:39:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 9,
+          "usedPct": 10,
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T10:10:09.104+08:00",
+      "fetchedAt": "2026-11-06T10:20:09.031+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T10:10:09.113+08:00",
+      "fetchedAt": "2026-11-06T10:20:09.037+08:00",
       "error": null
     }
   }
