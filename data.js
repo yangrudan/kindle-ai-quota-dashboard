@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T21:20:38.652+08:00",
+  "updatedAt": "2026-11-06T21:30:08.692+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.5,
-    "feelsLikeC": 15.8,
-    "humidity": 90,
-    "windKph": 6.3,
+    "feelsLikeC": 15.6,
+    "humidity": 86,
+    "windKph": 6.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T21:20:38.652+08:00",
+    "observedAt": "2026-11-06T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T21:30:08.692+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从断垣残墙到文化名片 山西岢岚千年宋长城赋能乡村振兴",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727525.shtml",
-        "publishedAt": "2026-11-06T21:13:09.000+08:00"
+        "title": "“中国道地药材之乡”重庆巫溪构建中医药全产业链",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727579.shtml",
+        "publishedAt": "2026-11-06T21:22:18.000+08:00"
       },
       {
-        "title": "2026年“岭南粤剧周”系列活动在广州开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727556.shtml",
-        "publishedAt": "2026-11-06T21:11:41.000+08:00"
+        "title": "文化观察：“敞开大门”的博物馆如何让更多人走进来？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727578.shtml",
+        "publishedAt": "2026-11-06T21:22:14.000+08:00"
       },
       {
-        "title": "北京：到2030年让更多家庭住上“好房子”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727514.shtml",
-        "publishedAt": "2026-11-06T21:11:35.000+08:00"
+        "title": "（长征胜利90周年）广西药用植物园：红色初心代代传 一园本草映山河",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727574.shtml",
+        "publishedAt": "2026-11-06T21:21:22.000+08:00"
       },
       {
-        "title": "重庆巫溪打造渝陕鄂毗邻地区“桥头堡”城市",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727490.shtml",
-        "publishedAt": "2026-11-06T21:10:39.000+08:00"
+        "title": "山西扑倒壮牛的高速交警：“压根没多想，瞅准时机就扑上去了”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727572.shtml",
+        "publishedAt": "2026-11-06T21:20:42.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）福建明溪：订单制种稻飘香 村民增收有“稻”路",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727488.shtml",
-        "publishedAt": "2026-11-06T21:08:13.000+08:00"
+        "title": "河南“墓碑上的药方籍”火了 德国“洋中医”提醒：不要盲目“照方抓药”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727580.shtml",
+        "publishedAt": "2026-11-06T21:18:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T21:20:03.210+08:00",
+    "fetchedAt": "2026-11-06T21:30:03.449+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T21:20:37.281+08:00",
+      "fetchedAt": "2026-11-06T21:30:07.501+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 90,
-          "resetAt": "2026-11-06T21:28:42.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-07T02:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T21:20:37.653+08:00",
+      "fetchedAt": "2026-11-06T21:30:07.753+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T21:20:37.662+08:00",
+      "fetchedAt": "2026-11-06T21:30:07.762+08:00",
       "error": null
     }
   }
