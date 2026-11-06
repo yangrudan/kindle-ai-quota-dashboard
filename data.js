@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T20:30:18.108+08:00",
+  "updatedAt": "2026-11-06T20:40:08.928+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 15.8,
-    "feelsLikeC": 16,
-    "humidity": 87,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 15.7,
+    "feelsLikeC": 15.9,
+    "humidity": 88,
     "windKph": 6.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T20:30:18.109+08:00",
+    "observedAt": "2026-11-06T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T20:40:08.928+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从决口1593次到岁岁安澜 中国治黄80年取得瞩目成就",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727458.shtml",
-        "publishedAt": "2026-11-06T20:24:49.000+08:00"
+        "title": "（第九届进博会）进博会上看情绪消费",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210037.shtml",
+        "publishedAt": "2026-11-06T20:31:54.000+08:00"
       },
       {
-        "title": "特写：女儿离世12年后，浙江男子延续“生命之约”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727476.shtml",
-        "publishedAt": "2026-11-06T20:24:47.000+08:00"
+        "title": "中国修订水法 设专章强调推进江河湖泊健康复苏",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727543.shtml",
+        "publishedAt": "2026-11-06T20:30:41.000+08:00"
       },
       {
-        "title": "中国新疆民族乐器村：奏响文旅融合乐章",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727457.shtml",
-        "publishedAt": "2026-11-06T20:23:33.000+08:00"
+        "title": "超强厄尔尼诺来袭，如何影响海南？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727519.shtml",
+        "publishedAt": "2026-11-06T20:26:53.000+08:00"
       },
       {
-        "title": "特写：“千年瓷都”刮起草原风",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727453.shtml",
-        "publishedAt": "2026-11-06T20:23:11.000+08:00"
+        "title": "中国证监会同意葵花籽油期货和期权注册",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727512.shtml",
+        "publishedAt": "2026-11-06T20:26:29.000+08:00"
       },
       {
-        "title": "蔡奇会见朝鲜劳动党代表团",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727532.shtml",
-        "publishedAt": "2026-11-06T20:22:55.000+08:00"
+        "title": "（第九届进博会）“彩虹桥”越架越宽 海内外嘉宾热议中国对外开放",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727511.shtml",
+        "publishedAt": "2026-11-06T20:26:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T20:30:12.609+08:00",
+    "fetchedAt": "2026-11-06T20:40:03.512+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T20:30:16.568+08:00",
+      "fetchedAt": "2026-11-06T20:40:07.517+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T20:30:16.947+08:00",
+      "fetchedAt": "2026-11-06T20:40:07.744+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T20:30:16.956+08:00",
+      "fetchedAt": "2026-11-06T20:40:07.748+08:00",
       "error": null
     }
   }
