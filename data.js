@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T12:10:38.171+08:00",
+  "updatedAt": "2026-11-06T12:20:09.158+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 17.7,
     "feelsLikeC": 18,
     "humidity": 72,
-    "windKph": 3.9,
+    "windKph": 3.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T12:10:38.171+08:00",
+    "observedAt": "2026-11-06T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T12:20:09.158+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平复信澳大利亚青年学生",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727157.shtml",
+        "publishedAt": "2026-11-06T12:10:46.000+08:00"
+      },
+      {
+        "title": "2026中国—东盟服饰联合展演在广西艺术学院上演",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727090.shtml",
+        "publishedAt": "2026-11-06T12:06:40.000+08:00"
+      },
       {
         "title": "规范机票退改签！京津冀三地消协组织敦促10家航司、5家平台限期整改",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727161.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（第九届进博会）进博会聚焦全球经济再平衡：开放合作是关键",
         "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727109.shtml",
         "publishedAt": "2026-11-06T11:49:11.000+08:00"
-      },
-      {
-        "title": "网络直播间热销的“超划算旅游卡” 为何屡遭兑现难？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727164.shtml",
-        "publishedAt": "2026-11-06T11:45:28.000+08:00"
-      },
-      {
-        "title": "青海：高原“小金果”沙棘助农增收",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727086.shtml",
-        "publishedAt": "2026-11-06T11:45:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T12:10:03.043+08:00",
+    "fetchedAt": "2026-11-06T12:20:03.676+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T12:10:36.639+08:00",
+      "fetchedAt": "2026-11-06T12:20:07.808+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T12:10:36.859+08:00",
+      "fetchedAt": "2026-11-06T12:20:07.995+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T12:10:36.863+08:00",
+      "fetchedAt": "2026-11-06T12:20:07.999+08:00",
       "error": null
     }
   }
