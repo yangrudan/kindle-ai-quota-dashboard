@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T07:50:09.257+08:00",
+  "updatedAt": "2026-11-06T08:00:09.883+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.7,
+    "tempC": 14.9,
     "feelsLikeC": 15.2,
-    "humidity": 86,
-    "windKph": 2.1,
+    "humidity": 85,
+    "windKph": 2.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-06T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T07:50:09.257+08:00",
+    "observedAt": "2026-11-06T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T08:00:09.884+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "最强厄尔尼诺“充满电”，今冬明春将如何“放电”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726998.shtml",
+        "publishedAt": "2026-11-06T07:53:34.000+08:00"
+      },
+      {
+        "title": "公共资源不可以随便倒卖 “房产中介”收集房东信息出售获刑",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726997.shtml",
+        "publishedAt": "2026-11-06T07:51:24.000+08:00"
+      },
+      {
+        "title": "免费、半价！多地官宣→",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726995.shtml",
+        "publishedAt": "2026-11-06T07:44:59.000+08:00"
+      },
       {
         "title": "何立峰在北京调研时指出 强化科技创新与产业创新深度融合 推动经济持续向新向优向好发展",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726986.shtml",
@@ -28,24 +43,9 @@
         "title": "北京中山公园银杏染金 游人赏秋",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209963.shtml",
         "publishedAt": "2026-11-06T07:43:10.000+08:00"
-      },
-      {
-        "title": "我国成功发射遥感五十一号07-09星",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209959.shtml",
-        "publishedAt": "2026-11-06T07:31:22.000+08:00"
-      },
-      {
-        "title": "别再乱吃！这些食物是结节“助推器” 这几类人一定要忌口",
-        "url": "https://www.chinanews.com.cn/life/2026/11-06/10726989.shtml",
-        "publishedAt": "2026-11-06T07:25:14.000+08:00"
-      },
-      {
-        "title": "“最强厄尔尼诺事件”来了 明年防汛形势如何？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726988.shtml",
-        "publishedAt": "2026-11-06T07:21:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T07:50:03.479+08:00",
+    "fetchedAt": "2026-11-06T08:00:03.888+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T07:50:07.791+08:00",
+      "fetchedAt": "2026-11-06T08:00:08.523+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T12:50:08.000+08:00"
+          "resetAt": "2026-11-06T13:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T07:50:08.050+08:00",
+      "fetchedAt": "2026-11-06T08:00:08.804+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T07:50:08.054+08:00",
+      "fetchedAt": "2026-11-06T08:00:08.813+08:00",
       "error": null
     }
   }
