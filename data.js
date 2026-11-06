@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T16:50:09.305+08:00",
+  "updatedAt": "2026-11-06T17:00:09.608+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.8,
-    "feelsLikeC": 18,
-    "humidity": 71,
-    "windKph": 4.1,
+    "tempC": 17.6,
+    "feelsLikeC": 17.7,
+    "humidity": 72,
+    "windKph": 4.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-06T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T16:50:09.305+08:00",
+    "observedAt": "2026-11-06T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T17:00:09.608+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-06T16:34:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T16:50:03.256+08:00",
+    "fetchedAt": "2026-11-06T17:00:03.937+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 36.8,
+          "usedPct": 42.3,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 948 / 1500 AIC"
+          "detailText": "剩余 866 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T16:50:07.695+08:00",
+      "fetchedAt": "2026-11-06T17:00:08.172+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 29,
           "resetAt": "2026-11-06T21:28:42.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 17,
+          "usedPct": 18,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T16:50:08.031+08:00",
+      "fetchedAt": "2026-11-06T17:00:08.530+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T16:50:08.042+08:00",
+      "fetchedAt": "2026-11-06T17:00:08.539+08:00",
       "error": null
     }
   }
