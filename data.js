@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T11:40:08.668+08:00",
+  "updatedAt": "2026-11-06T11:50:37.476+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 17.9,
-    "humidity": 74,
-    "windKph": 3.6,
+    "tempC": 17.7,
+    "feelsLikeC": 18,
+    "humidity": 73,
+    "windKph": 3.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T11:40:08.668+08:00",
+    "observedAt": "2026-11-06T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T11:50:37.476+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第六届中国新疆特色林果产品博览会参展企业270余家",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727156.shtml",
-        "publishedAt": "2026-11-06T11:34:34.000+08:00"
+        "title": "网络直播间热销的“超划算旅游卡” 为何屡遭兑现难？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727164.shtml",
+        "publishedAt": "2026-11-06T11:45:28.000+08:00"
       },
       {
-        "title": "WTA250香港公开赛：王欣瑜不敌鲁季奇 无缘八强",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727155.shtml",
-        "publishedAt": "2026-11-06T11:32:10.000+08:00"
+        "title": "青海：高原“小金果”沙棘助农增收",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727086.shtml",
+        "publishedAt": "2026-11-06T11:45:04.000+08:00"
       },
       {
-        "title": "万载县委统战部召开部务会（扩大)会议 传达学习贯彻党的二十届五中全会精神",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727153.shtml",
-        "publishedAt": "2026-11-06T11:31:40.000+08:00"
+        "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727084.shtml",
+        "publishedAt": "2026-11-06T11:44:22.000+08:00"
       },
       {
-        "title": "国家发展改革委：“十五五”时期我国粮食安全有坚实保障",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727116.shtml",
-        "publishedAt": "2026-11-06T11:31:40.000+08:00"
+        "title": "河北宽城生态向好 迁徙候鸟翩跹而至",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727081.shtml",
+        "publishedAt": "2026-11-06T11:43:24.000+08:00"
       },
       {
-        "title": "联合国第十五届能源可持续发展国际论坛西安闭幕 发布《西安宣言》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727154.shtml",
-        "publishedAt": "2026-11-06T11:31:06.000+08:00"
+        "title": "鲁比奥否认计划离职竞选美国总统 称将为特朗普工作至任期结束",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727163.shtml",
+        "publishedAt": "2026-11-06T11:42:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T11:40:03.174+08:00",
+    "fetchedAt": "2026-11-06T11:50:02.759+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 4.7,
+          "usedPct": 4.9,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1431 / 1500 AIC"
+          "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T11:40:07.443+08:00",
+      "fetchedAt": "2026-11-06T11:50:36.220+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T11:40:07.711+08:00",
+      "fetchedAt": "2026-11-06T11:50:36.476+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T11:40:07.720+08:00",
+      "fetchedAt": "2026-11-06T11:50:36.488+08:00",
       "error": null
     }
   }
