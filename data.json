@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T15:50:08.633+08:00",
+  "updatedAt": "2026-11-06T16:00:09.716+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.3,
     "feelsLikeC": 18.6,
-    "humidity": 67,
-    "windKph": 2.5,
+    "humidity": 68,
+    "windKph": 2.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-06T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T15:50:08.633+08:00",
+    "observedAt": "2026-11-06T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T16:00:09.716+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东外贸千年：报关簿泛黄、负面清单落地……口岸开放走向制度开放",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727311.shtml",
-        "publishedAt": "2026-11-06T15:47:10.000+08:00"
+        "title": "二十载踏浪出海：吉林文化走向世界30余国",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727317.shtml",
+        "publishedAt": "2026-11-06T15:56:46.000+08:00"
       },
       {
-        "title": "胡歌讲述“三件小事”：《生命树》杀青那句“查下去”，在戏外继续回响",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727309.shtml",
-        "publishedAt": "2026-11-06T15:46:28.000+08:00"
+        "title": "何立峰将赴加拿大主持第二次中加经济财金战略对话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727315.shtml",
+        "publishedAt": "2026-11-06T15:54:06.000+08:00"
       },
       {
-        "title": "红星照耀中国·红旗漫卷大别山丨在霍山读懂红绿交融的振兴故事",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727308.shtml",
-        "publishedAt": "2026-11-06T15:43:45.000+08:00"
+        "title": "外交部回应广交会、进博会相继举行：是中国连接全球的重要窗口",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727316.shtml",
+        "publishedAt": "2026-11-06T15:52:22.000+08:00"
       },
       {
-        "title": "江西新余：蜜桔丰收满枝头 农旅融合引客来",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727282.shtml",
-        "publishedAt": "2026-11-06T15:40:11.000+08:00"
+        "title": "大豆黄、石榴红绘就多彩富民画卷 特色农业结硕果助振兴",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727313.shtml",
+        "publishedAt": "2026-11-06T15:50:42.000+08:00"
       },
       {
-        "title": "托万克吾库萨克村：古乐弦歌代代传",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727281.shtml",
-        "publishedAt": "2026-11-06T15:37:59.000+08:00"
+        "title": "十四届全国人大常委会举行第七十六次委员长会议 决定将检察公益诉讼法草案等交付常委会会议表决 赵乐际主持会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727312.shtml",
+        "publishedAt": "2026-11-06T15:48:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T15:50:03.158+08:00",
+    "fetchedAt": "2026-11-06T16:00:03.539+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T15:50:07.370+08:00",
+      "fetchedAt": "2026-11-06T16:00:08.414+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 44,
           "resetAt": "2026-11-06T16:28:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 5,
+          "usedPct": 7,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T15:50:07.611+08:00",
+      "fetchedAt": "2026-11-06T16:00:08.767+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T15:50:07.616+08:00",
+      "fetchedAt": "2026-11-06T16:00:08.776+08:00",
       "error": null
     }
   }
