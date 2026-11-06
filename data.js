@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T10:40:09.845+08:00",
+  "updatedAt": "2026-11-06T10:50:08.735+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.6,
-    "feelsLikeC": 17.3,
-    "humidity": 79,
-    "windKph": 1.8,
+    "tempC": 17,
+    "feelsLikeC": 17.6,
+    "humidity": 78,
+    "windKph": 2.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-06T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T10:40:09.845+08:00",
+    "observedAt": "2026-11-06T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T10:50:08.735+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "吉前总理：全面从严治党是中国高水平治理的关键",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727099.shtml",
-        "publishedAt": "2026-11-06T10:34:45.000+08:00"
+        "title": "全国已累计收购秋粮1亿吨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727112.shtml",
+        "publishedAt": "2026-11-06T10:45:13.000+08:00"
       },
       {
-        "title": "日本学者：日本应坚守“无核三原则”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727097.shtml",
-        "publishedAt": "2026-11-06T10:33:01.000+08:00"
+        "title": "一张侨网托起“宛品出海”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727098.shtml",
+        "publishedAt": "2026-11-06T10:44:21.000+08:00"
       },
       {
-        "title": "云岭动态第三十五期",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727085.shtml",
-        "publishedAt": "2026-11-06T10:31:38.000+08:00"
+        "title": "樟树市举办非公经济人士“井冈红”理想信念教育暨企业家素质提升班",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727107.shtml",
+        "publishedAt": "2026-11-06T10:42:35.000+08:00"
       },
       {
-        "title": "河南平顶山市“五进”推动民族团结进步促进法宣传教育走深走实",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727088.shtml",
-        "publishedAt": "2026-11-06T10:30:56.000+08:00"
+        "title": "密密针线织同心 殷殷深情盼统一——河南商丘虞城县七旬老人织绣寄寓家国情怀",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727101.shtml",
+        "publishedAt": "2026-11-06T10:41:07.000+08:00"
       },
       {
-        "title": "进博手记｜在全球创新中看见中国印记",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727092.shtml",
-        "publishedAt": "2026-11-06T10:30:04.000+08:00"
+        "title": "袁州区委统战部传达学习贯彻党的二十届五中全会精神",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727103.shtml",
+        "publishedAt": "2026-11-06T10:40:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T10:40:04.165+08:00",
+    "fetchedAt": "2026-11-06T10:50:03.195+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 3.8,
+          "usedPct": 4.2,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1444 / 1500 AIC"
+          "detailText": "剩余 1437 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T10:40:08.169+08:00",
+      "fetchedAt": "2026-11-06T10:50:07.199+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 61,
+          "usedPct": 63,
           "resetAt": "2026-11-06T13:39:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 11,
+          "usedPct": 12,
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T10:40:08.459+08:00",
+      "fetchedAt": "2026-11-06T10:50:07.498+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T10:40:08.470+08:00",
+      "fetchedAt": "2026-11-06T10:50:07.507+08:00",
       "error": null
     }
   }
