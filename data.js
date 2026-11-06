@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T09:40:12.345+08:00",
+  "updatedAt": "2026-11-06T09:50:09.344+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.6,
-    "feelsLikeC": 16.2,
-    "humidity": 83,
-    "windKph": 1.3,
-    "windDir": "东南风",
+    "tempC": 15.8,
+    "feelsLikeC": 16.5,
+    "humidity": 82,
+    "windKph": 0.7,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-06T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T09:40:12.345+08:00",
+    "observedAt": "2026-11-06T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T09:50:09.345+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "大范围降水在酝酿！我国多地将现强雨雪 大部气温将创新低",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727036.shtml",
-        "publishedAt": "2026-11-06T09:25:29.000+08:00"
+        "title": "反跨境腐败法表决通过",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727048.shtml",
+        "publishedAt": "2026-11-06T09:42:46.000+08:00"
       },
       {
-        "title": "各地推动公积金政策精准落地见效 “沉睡”钱包变安居红利",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727034.shtml",
-        "publishedAt": "2026-11-06T09:20:13.000+08:00"
+        "title": "香港展出海派艺术家山水花鸟及信笺作品",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727044.shtml",
+        "publishedAt": "2026-11-06T09:42:30.000+08:00"
       },
       {
-        "title": "WTT法兰克福冠军赛：王楚钦无缘男单八强",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727032.shtml",
-        "publishedAt": "2026-11-06T09:18:56.000+08:00"
+        "title": "11月6日央行开展2260亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727037.shtml",
+        "publishedAt": "2026-11-06T09:41:46.000+08:00"
       },
       {
-        "title": "美国纽约一住宅楼火灾致6亡9伤",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209968.shtml",
-        "publishedAt": "2026-11-06T09:17:47.000+08:00"
+        "title": "新华时评·第九届进博会｜中国对外开放的大门越开越大",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-06/10727047.shtml",
+        "publishedAt": "2026-11-06T09:41:04.000+08:00"
       },
       {
-        "title": "申请劳动能力鉴定，一般多久能知道结果？人社部解答",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727026.shtml",
-        "publishedAt": "2026-11-06T09:17:36.000+08:00"
+        "title": "新修订的水法2027年3月22日起施行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727046.shtml",
+        "publishedAt": "2026-11-06T09:40:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T09:40:03.299+08:00",
+    "fetchedAt": "2026-11-06T09:50:02.929+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T09:40:07.583+08:00",
+      "fetchedAt": "2026-11-06T09:50:07.937+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
+          "usedPct": 24,
           "resetAt": "2026-11-06T13:39:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
+          "usedPct": 6,
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T09:40:07.793+08:00",
+      "fetchedAt": "2026-11-06T09:50:08.200+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T09:40:07.798+08:00",
+      "fetchedAt": "2026-11-06T09:50:08.210+08:00",
       "error": null
     }
   }
