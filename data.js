@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T17:50:38.584+08:00",
+  "updatedAt": "2026-11-06T18:00:08.281+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.2,
-    "feelsLikeC": 16.9,
-    "humidity": 76,
-    "windKph": 7.6,
+    "tempC": 17,
+    "feelsLikeC": 16.7,
+    "humidity": 77,
+    "windKph": 7.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-06T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T17:50:38.584+08:00",
+    "observedAt": "2026-11-06T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T18:00:08.281+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（第九届进博会）第九届进博会主宾国加拿大国家馆开馆",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727385.shtml",
+        "publishedAt": "2026-11-06T17:55:43.000+08:00"
+      },
+      {
+        "title": "外逃职务犯罪嫌疑人李标被遣返回中国",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727384.shtml",
+        "publishedAt": "2026-11-06T17:51:14.000+08:00"
+      },
+      {
+        "title": "中国空军八一飞行表演队飞越黄崖关长城",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727383.shtml",
+        "publishedAt": "2026-11-06T17:47:36.000+08:00"
+      },
+      {
+        "title": "中国建成全球海拔最高的并网光热电站",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727382.shtml",
+        "publishedAt": "2026-11-06T17:46:38.000+08:00"
+      },
+      {
         "title": "中国对涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯发起反倾销调查",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727381.shtml",
         "publishedAt": "2026-11-06T17:45:56.000+08:00"
-      },
-      {
-        "title": "柬埔寨国家档案馆举行百年纪念展 多语言资料重现历史",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727386.shtml",
-        "publishedAt": "2026-11-06T17:45:18.000+08:00"
-      },
-      {
-        "title": "澳门特区初级法院判决区锦新危害国家安全案罪成",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727380.shtml",
-        "publishedAt": "2026-11-06T17:44:52.000+08:00"
-      },
-      {
-        "title": "今年供暖季中国最高用电负荷预计15.2亿千瓦左右",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727378.shtml",
-        "publishedAt": "2026-11-06T17:43:46.000+08:00"
-      },
-      {
-        "title": "习近平参加北京市区人大代表换届选举投票",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727390.shtml",
-        "publishedAt": "2026-11-06T17:39:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T17:50:03.112+08:00",
+    "fetchedAt": "2026-11-06T18:00:03.168+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 93.4,
+          "usedPct": 100,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 100 / 1500 AIC"
+          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T17:50:37.144+08:00",
+      "fetchedAt": "2026-11-06T18:00:06.992+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T17:50:37.402+08:00",
+      "fetchedAt": "2026-11-06T18:00:07.296+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T17:50:37.413+08:00",
+      "fetchedAt": "2026-11-06T18:00:07.306+08:00",
       "error": null
     }
   }
