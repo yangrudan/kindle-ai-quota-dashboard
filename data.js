@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T09:00:10.627+08:00",
+  "updatedAt": "2026-11-06T09:10:09.342+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-06T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T09:00:10.627+08:00",
+    "fetchedAt": "2026-11-06T09:10:09.342+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "宜春袁州区企业家当选老挝江西商会会长 夯实海外统战联络阵地",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727024.shtml",
+        "publishedAt": "2026-11-06T09:02:58.000+08:00"
+      },
+      {
+        "title": "直播：坐慢火车，赶一场车厢里的山间市集",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10727025.shtml",
+        "publishedAt": "2026-11-06T09:02:46.000+08:00"
+      },
+      {
+        "title": "万载县举办“石榴同心一家亲 童心逐梦向未来” 少儿书画艺术作品展",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727020.shtml",
+        "publishedAt": "2026-11-06T09:01:34.000+08:00"
+      },
+      {
+        "title": "万载县委统战部开展“追寻长征足迹·凝聚统战共识”谈心之旅活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727018.shtml",
+        "publishedAt": "2026-11-06T08:59:49.000+08:00"
+      },
+      {
         "title": "第二艘国产大型邮轮“爱达・花城号”交付 一组数据抢先看→",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727021.shtml",
         "publishedAt": "2026-11-06T08:52:09.000+08:00"
-      },
-      {
-        "title": "秋粮收储有新招 今年秋粮收购已超1亿吨",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727017.shtml",
-        "publishedAt": "2026-11-06T08:37:56.000+08:00"
-      },
-      {
-        "title": "价格不再是壁垒，只是入场券？万元级人形机器人迎来“真交付”新竞赛",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727016.shtml",
-        "publishedAt": "2026-11-06T08:34:46.000+08:00"
-      },
-      {
-        "title": "从“集体下架”到“密集返场”，大额存单回来了",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727014.shtml",
-        "publishedAt": "2026-11-06T08:31:32.000+08:00"
-      },
-      {
-        "title": "新雪季提前开启 多地雪场人工造雪抢占“首滑”流量",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727013.shtml",
-        "publishedAt": "2026-11-06T08:27:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T09:00:05.074+08:00",
+    "fetchedAt": "2026-11-06T09:10:03.630+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T09:00:09.243+08:00",
+      "fetchedAt": "2026-11-06T09:10:08.129+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T09:00:09.445+08:00",
+      "fetchedAt": "2026-11-06T09:10:08.385+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T09:00:09.454+08:00",
+      "fetchedAt": "2026-11-06T09:10:08.394+08:00",
       "error": null
     }
   }
