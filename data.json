@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:20:12.834+08:00",
+  "updatedAt": "2026-11-06T17:30:17.822+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-06T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T17:20:12.834+08:00",
+    "fetchedAt": "2026-11-06T17:30:17.823+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "敦煌印象：游客“错峰游”赴大漠之约",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727376.shtml",
+        "publishedAt": "2026-11-06T17:23:45.000+08:00"
+      },
+      {
+        "title": "（经济观察）COP31前瞻：安塔利亚的“落实之考”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727367.shtml",
+        "publishedAt": "2026-11-06T17:18:35.000+08:00"
+      },
+      {
+        "title": "习近平同加蓬总统恩圭马会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727373.shtml",
+        "publishedAt": "2026-11-06T17:16:54.000+08:00"
+      },
+      {
+        "title": "习近平为加蓬总统恩圭马举行欢迎仪式",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727366.shtml",
+        "publishedAt": "2026-11-06T17:16:26.000+08:00"
+      },
+      {
         "title": "（第九届进博会）主宾国斯里兰卡携锡兰红茶“回娘家”",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210029.shtml",
         "publishedAt": "2026-11-06T17:09:16.000+08:00"
-      },
-      {
-        "title": "涉发布、传播金融“黑灰产”信息，一批账号被处置",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727371.shtml",
-        "publishedAt": "2026-11-06T17:04:52.000+08:00"
-      },
-      {
-        "title": "澳门特区初级法院判决区锦新危害国家安全案罪成",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727370.shtml",
-        "publishedAt": "2026-11-06T17:02:06.000+08:00"
-      },
-      {
-        "title": "“全民共享 运动健康”全民健身主题文化展在青岛开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727361.shtml",
-        "publishedAt": "2026-11-06T16:55:11.000+08:00"
-      },
-      {
-        "title": "河北井陉：黑鹳翩跹，列车驶过绘就人与自然和谐画卷",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727363.shtml",
-        "publishedAt": "2026-11-06T16:52:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T17:20:02.991+08:00",
+    "fetchedAt": "2026-11-06T17:30:12.289+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 58.2,
+          "usedPct": 69.1,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 627 / 1500 AIC"
+          "detailText": "剩余 464 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T17:20:10.799+08:00",
+      "fetchedAt": "2026-11-06T17:30:16.178+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 75,
+          "usedPct": 84,
           "resetAt": "2026-11-06T21:28:42.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 25,
+          "usedPct": 27,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T17:20:11.223+08:00",
+      "fetchedAt": "2026-11-06T17:30:16.891+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T17:20:11.240+08:00",
+      "fetchedAt": "2026-11-06T17:30:16.898+08:00",
       "error": null
     }
   }
