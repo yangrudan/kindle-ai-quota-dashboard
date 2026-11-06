@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T08:00:09.883+08:00",
+  "updatedAt": "2026-11-06T08:10:08.776+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-06T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T08:00:09.884+08:00",
+    "fetchedAt": "2026-11-06T08:10:08.776+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "微短剧热潮中大学生如何“入戏”与“出戏”",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727002.shtml",
+        "publishedAt": "2026-11-06T07:59:54.000+08:00"
+      },
+      {
+        "title": "伊朗官员与普京会面，转达伊朗最高领袖讯息",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727001.shtml",
+        "publishedAt": "2026-11-06T07:58:00.000+08:00"
+      },
+      {
+        "title": "美股芯片股遭大规模抛售 纳指重挫逾5.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10726992.shtml",
+        "publishedAt": "2026-11-06T07:56:30.000+08:00"
+      },
       {
         "title": "最强厄尔尼诺“充满电”，今冬明春将如何“放电”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726998.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "公共资源不可以随便倒卖 “房产中介”收集房东信息出售获刑",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726997.shtml",
         "publishedAt": "2026-11-06T07:51:24.000+08:00"
-      },
-      {
-        "title": "免费、半价！多地官宣→",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726995.shtml",
-        "publishedAt": "2026-11-06T07:44:59.000+08:00"
-      },
-      {
-        "title": "何立峰在北京调研时指出 强化科技创新与产业创新深度融合 推动经济持续向新向优向好发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726986.shtml",
-        "publishedAt": "2026-11-06T07:44:01.000+08:00"
-      },
-      {
-        "title": "北京中山公园银杏染金 游人赏秋",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209963.shtml",
-        "publishedAt": "2026-11-06T07:43:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T08:00:03.888+08:00",
+    "fetchedAt": "2026-11-06T08:10:03.519+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1460 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T08:00:08.523+08:00",
+      "fetchedAt": "2026-11-06T08:10:07.457+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T13:00:09.000+08:00"
+          "resetAt": "2026-11-06T13:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T08:00:08.804+08:00",
+      "fetchedAt": "2026-11-06T08:10:07.743+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T08:00:08.813+08:00",
+      "fetchedAt": "2026-11-06T08:10:07.753+08:00",
       "error": null
     }
   }
