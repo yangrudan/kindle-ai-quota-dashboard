@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T19:30:09.107+08:00",
+  "updatedAt": "2026-11-06T19:40:52.496+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-06T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T19:30:09.108+08:00",
+    "fetchedAt": "2026-11-06T19:40:52.496+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国（重庆）老博会开幕：高科技产品为养老赋能",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727415.shtml",
-        "publishedAt": "2026-11-06T19:21:19.000+08:00"
+        "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727494.shtml",
+        "publishedAt": "2026-11-06T19:37:46.000+08:00"
       },
       {
-        "title": "第四届济南书市启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727414.shtml",
-        "publishedAt": "2026-11-06T19:19:11.000+08:00"
+        "title": "重庆五里坡国家级自然保护区云海翻涌 层林尽染",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727472.shtml",
+        "publishedAt": "2026-11-06T19:32:16.000+08:00"
       },
       {
-        "title": "中菲两国执法部门合作遣返100余名涉赌诈犯罪嫌疑人",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727477.shtml",
-        "publishedAt": "2026-11-06T19:14:25.000+08:00"
+        "title": "2026中国杯世界花样滑冰大奖赛在深圳开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727468.shtml",
+        "publishedAt": "2026-11-06T19:30:34.000+08:00"
       },
       {
-        "title": "从田间到餐桌 三亚“海棠风味”农旅融合激活旅游消费",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727441.shtml",
-        "publishedAt": "2026-11-06T19:12:51.000+08:00"
+        "title": "湖北巴东：秋染巫峡",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727466.shtml",
+        "publishedAt": "2026-11-06T19:28:18.000+08:00"
       },
       {
-        "title": "游子归乡捐史料 汇成浙江青田华侨“西班牙大百科”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-06/10727438.shtml",
-        "publishedAt": "2026-11-06T19:10:55.000+08:00"
+        "title": "广西北海武警开展多课目训练强能力",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727443.shtml",
+        "publishedAt": "2026-11-06T19:26:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T19:30:04.034+08:00",
+    "fetchedAt": "2026-11-06T19:40:17.754+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T19:30:07.816+08:00",
+      "fetchedAt": "2026-11-06T19:40:51.146+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T19:30:08.090+08:00",
+      "fetchedAt": "2026-11-06T19:40:51.462+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T19:30:08.101+08:00",
+      "fetchedAt": "2026-11-06T19:40:51.469+08:00",
       "error": null
     }
   }
