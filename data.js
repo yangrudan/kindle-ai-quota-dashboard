@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T18:00:08.281+08:00",
+  "updatedAt": "2026-11-06T18:10:39.084+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-06T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T18:00:08.281+08:00",
+    "fetchedAt": "2026-11-06T18:10:39.085+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "把路演会搬进校园：航天桥科创孵化论坛首场路演会圆满落幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727388.shtml",
+        "publishedAt": "2026-11-06T17:59:57.000+08:00"
+      },
+      {
+        "title": "下沉市场赋能对接会举办 途虎养车分享县域汽车服务供给实践",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727387.shtml",
+        "publishedAt": "2026-11-06T17:57:35.000+08:00"
+      },
       {
         "title": "（第九届进博会）第九届进博会主宾国加拿大国家馆开馆",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727385.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国空军八一飞行表演队飞越黄崖关长城",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727383.shtml",
         "publishedAt": "2026-11-06T17:47:36.000+08:00"
-      },
-      {
-        "title": "中国建成全球海拔最高的并网光热电站",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727382.shtml",
-        "publishedAt": "2026-11-06T17:46:38.000+08:00"
-      },
-      {
-        "title": "中国对涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯发起反倾销调查",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727381.shtml",
-        "publishedAt": "2026-11-06T17:45:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T18:00:03.168+08:00",
+    "fetchedAt": "2026-11-06T18:10:03.249+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T18:00:06.992+08:00",
+      "fetchedAt": "2026-11-06T18:10:37.530+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T18:00:07.296+08:00",
+      "fetchedAt": "2026-11-06T18:10:37.946+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T18:00:07.306+08:00",
+      "fetchedAt": "2026-11-06T18:10:37.955+08:00",
       "error": null
     }
   }
