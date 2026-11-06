@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T10:30:08.491+08:00",
+  "updatedAt": "2026-11-06T10:40:09.845+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-06T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T10:30:08.491+08:00",
+    "fetchedAt": "2026-11-06T10:40:09.845+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "周末出行请注意！今夜起我国将有一轮大范围雨雪天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727079.shtml",
-        "publishedAt": "2026-11-06T10:23:58.000+08:00"
+        "title": "吉前总理：全面从严治党是中国高水平治理的关键",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727099.shtml",
+        "publishedAt": "2026-11-06T10:34:45.000+08:00"
       },
       {
-        "title": "国际人士：“进博会体现了中国的开放承诺”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727077.shtml",
-        "publishedAt": "2026-11-06T10:22:32.000+08:00"
+        "title": "日本学者：日本应坚守“无核三原则”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727097.shtml",
+        "publishedAt": "2026-11-06T10:33:01.000+08:00"
       },
       {
-        "title": "九年赴约 深耕中国——“全勤生”的进博之约",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727069.shtml",
-        "publishedAt": "2026-11-06T10:16:10.000+08:00"
+        "title": "云岭动态第三十五期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727085.shtml",
+        "publishedAt": "2026-11-06T10:31:38.000+08:00"
       },
       {
-        "title": "中国成功发射遥感五十一号07-09星",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727063.shtml",
-        "publishedAt": "2026-11-06T10:10:57.000+08:00"
+        "title": "河南平顶山市“五进”推动民族团结进步促进法宣传教育走深走实",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727088.shtml",
+        "publishedAt": "2026-11-06T10:30:56.000+08:00"
       },
       {
-        "title": "黄河实现连续27年不断流",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727066.shtml",
-        "publishedAt": "2026-11-06T10:10:29.000+08:00"
+        "title": "进博手记｜在全球创新中看见中国印记",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727092.shtml",
+        "publishedAt": "2026-11-06T10:30:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T10:30:03.262+08:00",
+    "fetchedAt": "2026-11-06T10:40:04.165+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 3.5,
+          "usedPct": 3.8,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1449 / 1500 AIC"
+          "detailText": "剩余 1444 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T10:30:07.088+08:00",
+      "fetchedAt": "2026-11-06T10:40:08.169+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
+          "usedPct": 61,
           "resetAt": "2026-11-06T13:39:21.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-12T21:38:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T10:30:07.370+08:00",
+      "fetchedAt": "2026-11-06T10:40:08.459+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T10:30:07.378+08:00",
+      "fetchedAt": "2026-11-06T10:40:08.470+08:00",
       "error": null
     }
   }
