@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T16:00:09.716+08:00",
+  "updatedAt": "2026-11-06T16:10:10.463+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-06T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T16:00:09.716+08:00",
+    "fetchedAt": "2026-11-06T16:10:10.463+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "二十载踏浪出海：吉林文化走向世界30余国",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727317.shtml",
-        "publishedAt": "2026-11-06T15:56:46.000+08:00"
+        "title": "广西蚕业技术推广站原站长李标被遣返回国",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727323.shtml",
+        "publishedAt": "2026-11-06T16:02:38.000+08:00"
       },
       {
-        "title": "何立峰将赴加拿大主持第二次中加经济财金战略对话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727315.shtml",
-        "publishedAt": "2026-11-06T15:54:06.000+08:00"
+        "title": "麦家赴港大谈文学创作：写作是为了成全自己",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727318.shtml",
+        "publishedAt": "2026-11-06T16:02:12.000+08:00"
       },
       {
-        "title": "外交部回应广交会、进博会相继举行：是中国连接全球的重要窗口",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727316.shtml",
-        "publishedAt": "2026-11-06T15:52:22.000+08:00"
+        "title": "严查非法违法行为 6起烟花爆竹全链条“打非治违”典型案例公布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727320.shtml",
+        "publishedAt": "2026-11-06T16:01:48.000+08:00"
       },
       {
-        "title": "大豆黄、石榴红绘就多彩富民画卷 特色农业结硕果助振兴",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727313.shtml",
-        "publishedAt": "2026-11-06T15:50:42.000+08:00"
+        "title": "赋能产业、惠及民生 一图读懂我国服务业扩能提质新成效",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727321.shtml",
+        "publishedAt": "2026-11-06T16:00:32.000+08:00"
       },
       {
-        "title": "十四届全国人大常委会举行第七十六次委员长会议 决定将检察公益诉讼法草案等交付常委会会议表决 赵乐际主持会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727312.shtml",
-        "publishedAt": "2026-11-06T15:48:48.000+08:00"
+        "title": "习近平会见奥地利总理施托克尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727319.shtml",
+        "publishedAt": "2026-11-06T15:59:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T16:00:03.539+08:00",
+    "fetchedAt": "2026-11-06T16:10:04.008+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T16:00:08.414+08:00",
+      "fetchedAt": "2026-11-06T16:10:08.668+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
+          "usedPct": 64,
           "resetAt": "2026-11-06T16:28:14.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 7,
+          "usedPct": 10,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T16:00:08.767+08:00",
+      "fetchedAt": "2026-11-06T16:10:08.989+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-06T16:00:08.776+08:00",
+      "fetchedAt": "2026-11-06T16:10:08.999+08:00",
       "error": null
     }
   }
