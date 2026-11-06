@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T07:00:40.966+08:00",
+  "updatedAt": "2026-11-07T07:10:41.926+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T07:00:40.967+08:00",
+    "fetchedAt": "2026-11-07T07:10:41.926+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月7日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-07/10727736.shtml",
+        "publishedAt": "2026-11-07T06:59:34.000+08:00"
+      },
       {
         "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "特朗普宣布任命斯蒂芬·米勒为白宫幕僚长",
         "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727732.shtml",
         "publishedAt": "2026-11-07T06:40:25.000+08:00"
-      },
-      {
-        "title": "秋冬降温，为什么老年人更容易感冒、咳嗽？",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727733.shtml",
-        "publishedAt": "2026-11-07T06:35:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T07:00:04.230+08:00",
+    "fetchedAt": "2026-11-07T07:10:04.356+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T07:00:39.387+08:00",
+      "fetchedAt": "2026-11-07T07:10:39.760+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T12:00:40.000+08:00"
+          "resetAt": "2026-11-07T12:10:41.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T07:00:39.852+08:00",
+      "fetchedAt": "2026-11-07T07:10:40.164+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T07:00:39.856+08:00",
+      "fetchedAt": "2026-11-07T07:10:40.172+08:00",
       "error": null
     }
   }
