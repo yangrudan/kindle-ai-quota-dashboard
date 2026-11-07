@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-07T17:20:08.478+08:00",
+  "updatedAt": "2026-11-07T17:30:14.753+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18,
-    "feelsLikeC": 15.8,
+    "tempC": 17.9,
+    "feelsLikeC": 15.7,
     "humidity": 66,
-    "windKph": 18.1,
+    "windKph": 17.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-07T17:20:08.479+08:00",
+    "observedAt": "2026-11-07T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-07T17:30:14.754+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国科普作家协会发布2026年度十大科普热词 人工智能相关占据七席",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727962.shtml",
-        "publishedAt": "2026-11-07T17:05:28.000+08:00"
+        "title": "重庆举行太极拳传承实践展演 600人共展太极风采",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727915.shtml",
+        "publishedAt": "2026-11-07T17:24:51.000+08:00"
       },
       {
-        "title": "太极拳传承实践展演在重庆举行 600名爱好者共展非遗之美",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727961.shtml",
-        "publishedAt": "2026-11-07T17:04:14.000+08:00"
+        "title": "（第九届进博会）全球首发、亚洲首秀、进博首展 看进博会上的创新策源",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727971.shtml",
+        "publishedAt": "2026-11-07T17:23:29.000+08:00"
       },
       {
-        "title": "民众在宁夏博物馆内领悟长征精神",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727953.shtml",
-        "publishedAt": "2026-11-07T17:03:10.000+08:00"
+        "title": "四川茂县：苹果丰收采摘忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727909.shtml",
+        "publishedAt": "2026-11-07T17:22:59.000+08:00"
       },
       {
-        "title": "兼具东方内核与国际审美 《只此青绿》等作品屡登国际舞台展中国文化底蕴",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-07/10727959.shtml",
-        "publishedAt": "2026-11-07T17:02:48.000+08:00"
+        "title": "云南石林彝族自治县举行成立70周年庆祝大会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727969.shtml",
+        "publishedAt": "2026-11-07T17:21:09.000+08:00"
       },
       {
-        "title": "无人机海上着舰有多难？详解“攻击-21”着舰四川舰全流程",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727958.shtml",
-        "publishedAt": "2026-11-07T17:02:32.000+08:00"
+        "title": "湖北巴东：寒江逐浪横渡三峡 冬泳赋能体文旅融合",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727964.shtml",
+        "publishedAt": "2026-11-07T17:20:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T17:20:03.431+08:00",
+    "fetchedAt": "2026-11-07T17:30:09.002+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T17:20:07.198+08:00",
+      "fetchedAt": "2026-11-07T17:30:13.354+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T22:20:08.000+08:00"
+          "resetAt": "2026-11-07T22:30:14.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T17:20:07.545+08:00",
+      "fetchedAt": "2026-11-07T17:30:13.662+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T17:20:07.554+08:00",
+      "fetchedAt": "2026-11-07T17:30:13.672+08:00",
       "error": null
     }
   }
