@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T16:10:39.479+08:00",
+  "updatedAt": "2026-11-07T16:20:10.181+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.5,
-    "feelsLikeC": 16.7,
-    "humidity": 64,
-    "windKph": 15.3,
+    "tempC": 18.4,
+    "feelsLikeC": 16.5,
+    "humidity": 65,
+    "windKph": 15.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T16:10:39.479+08:00",
+    "observedAt": "2026-11-07T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-07T16:20:10.181+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第32号台风“查帕卡”生成 今年台风个数刷新21世纪以来最多纪录",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727923.shtml",
+        "publishedAt": "2026-11-07T16:05:33.000+08:00"
+      },
       {
         "title": "（第九届进博会）免费展位扩容17% 进博会带“最不发达国家”互利共赢",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210112.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "美企高管：开放的中国与世界共享机遇、共同发展",
         "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727911.shtml",
         "publishedAt": "2026-11-07T15:52:08.000+08:00"
-      },
-      {
-        "title": "进博之问｜6天精彩，如何转化为365天的生意？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727907.shtml",
-        "publishedAt": "2026-11-07T15:48:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T16:10:03.511+08:00",
+    "fetchedAt": "2026-11-07T16:20:03.956+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T16:10:37.865+08:00",
+      "fetchedAt": "2026-11-07T16:20:08.909+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T21:10:39.000+08:00"
+          "resetAt": "2026-11-07T21:20:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T16:10:38.171+08:00",
+      "fetchedAt": "2026-11-07T16:20:09.264+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T16:10:38.176+08:00",
+      "fetchedAt": "2026-11-07T16:20:09.272+08:00",
       "error": null
     }
   }
