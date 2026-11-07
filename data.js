@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T14:30:10.010+08:00",
+  "updatedAt": "2026-11-07T14:40:09.628+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T14:30:10.010+08:00",
+    "fetchedAt": "2026-11-07T14:40:09.629+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《2026中国酒店业数字化经营趋势报告》在京发布：短视频直播助力酒店民宿增收与长效发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727863.shtml",
+        "publishedAt": "2026-11-07T14:30:08.000+08:00"
+      },
       {
         "title": "2026世界斯诺克巡回赛国际锦标赛：中国选手常冰玉无缘决赛",
         "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727871.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国男足公布新一期集训名单 呈新老结合格局",
         "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727876.shtml",
         "publishedAt": "2026-11-07T14:21:02.000+08:00"
-      },
-      {
-        "title": "顾客称外卖吃出头发申请仅退款，结果老板是光头，律师解读",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727879.shtml",
-        "publishedAt": "2026-11-07T14:19:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T14:30:04.435+08:00",
+    "fetchedAt": "2026-11-07T14:40:03.915+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T14:30:08.593+08:00",
+      "fetchedAt": "2026-11-07T14:40:07.959+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T19:30:09.000+08:00"
+          "resetAt": "2026-11-07T19:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T14:30:08.921+08:00",
+      "fetchedAt": "2026-11-07T14:40:08.381+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T14:30:08.924+08:00",
+      "fetchedAt": "2026-11-07T14:40:08.384+08:00",
       "error": null
     }
   }
