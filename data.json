@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:50:18.305+08:00",
+  "updatedAt": "2026-11-07T21:00:18.492+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T20:50:18.305+08:00",
+    "fetchedAt": "2026-11-07T21:00:18.492+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "伊朗外长连续致电阿曼、埃及、约旦、沙特等12国外长讨论地区局势",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728129.shtml",
-        "publishedAt": "2026-11-07T20:44:34.000+08:00"
+        "title": "今年前10月柬埔寨批准固定资产项目投资逾61亿美元",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728137.shtml",
+        "publishedAt": "2026-11-07T20:53:25.000+08:00"
       },
       {
-        "title": "海军首批舰载机女飞行学员结业赴一线部队",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728127.shtml",
-        "publishedAt": "2026-11-07T20:42:52.000+08:00"
+        "title": "（第九届进博会）进博会现“九年之变”：中国市场与世界经济联系更广更深",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728077.shtml",
+        "publishedAt": "2026-11-07T20:53:15.000+08:00"
       },
       {
-        "title": "炳灵寺石窟首次大规模对外展览亮相兰州",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10728113.shtml",
-        "publishedAt": "2026-11-07T20:42:40.000+08:00"
+        "title": "中国驻墨尔本总领事就领区一名中国公民不幸遇害案件同维州州长紧急通话",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728061.shtml",
+        "publishedAt": "2026-11-07T20:52:51.000+08:00"
       },
       {
-        "title": "男子称受“脑中声音”驱使来华盛顿行刺特朗普，车内搜出三支枪支、数十发子弹",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728125.shtml",
-        "publishedAt": "2026-11-07T20:39:54.000+08:00"
+        "title": "中越学者昆明研讨澜湄流域文明互鉴 以影像促民心相通",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728076.shtml",
+        "publishedAt": "2026-11-07T20:52:37.000+08:00"
       },
       {
-        "title": "2026中国杯世界花样滑冰大奖赛：冰上舞蹈·自由舞项目展开角逐",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10728112.shtml",
-        "publishedAt": "2026-11-07T20:39:32.000+08:00"
+        "title": "中国医疗队在柬埔寨撒下中医药的种子",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728036.shtml",
+        "publishedAt": "2026-11-07T20:52:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T20:50:12.904+08:00",
+    "fetchedAt": "2026-11-07T21:00:12.883+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T20:50:17.080+08:00",
+      "fetchedAt": "2026-11-07T21:00:17.264+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T20:50:17.358+08:00",
+      "fetchedAt": "2026-11-07T21:00:17.570+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T20:50:17.363+08:00",
+      "fetchedAt": "2026-11-07T21:00:17.579+08:00",
       "error": null
     }
   }
