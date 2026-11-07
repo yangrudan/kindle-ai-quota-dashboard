@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T14:50:08.872+08:00",
+  "updatedAt": "2026-11-07T15:00:08.984+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.1,
-    "feelsLikeC": 17.6,
+    "tempC": 19,
+    "feelsLikeC": 17.3,
     "humidity": 63,
-    "windKph": 14.5,
+    "windKph": 15.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T14:50:08.872+08:00",
+    "observedAt": "2026-11-07T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T15:00:08.984+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "四川苍溪：国际摄影师用镜头讲述“苍溪故事”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727873.shtml",
+        "publishedAt": "2026-11-07T14:55:23.000+08:00"
+      },
       {
         "title": "欧加隆携手京东健康 探索血脂健康管理创新实践",
         "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727869.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "一杯咖啡连通山海，开放共赢“共享未来”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727866.shtml",
         "publishedAt": "2026-11-07T14:38:05.000+08:00"
-      },
-      {
-        "title": "“2026·大历史观视域下艺术资源的传承与发展”研讨会在京举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727882.shtml",
-        "publishedAt": "2026-11-07T14:37:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T14:50:03.040+08:00",
+    "fetchedAt": "2026-11-07T15:00:03.476+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T14:50:07.674+08:00",
+      "fetchedAt": "2026-11-07T15:00:07.635+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T19:50:08.000+08:00"
+          "resetAt": "2026-11-07T20:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T14:50:07.917+08:00",
+      "fetchedAt": "2026-11-07T15:00:07.980+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T14:50:07.926+08:00",
+      "fetchedAt": "2026-11-07T15:00:07.986+08:00",
       "error": null
     }
   }
