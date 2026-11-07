@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T21:20:09.562+08:00",
+  "updatedAt": "2026-11-07T21:30:07.929+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 14.9,
-    "feelsLikeC": 14.1,
+    "feelsLikeC": 14.3,
     "humidity": 94,
-    "windKph": 14.1,
+    "windKph": 13.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-07T21:20:09.563+08:00",
+    "observedAt": "2026-11-07T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-07T21:30:07.929+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）不只用新药说话 跨国药企推动科学创新更好转化为患者获益",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728154.shtml",
-        "publishedAt": "2026-11-07T21:13:48.000+08:00"
+        "title": "香港举行研讨会纪念香港基本法颁布36周年",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-07/10728138.shtml",
+        "publishedAt": "2026-11-07T21:24:36.000+08:00"
       },
       {
-        "title": "赛事流量留在山水间 武汉黄陂解锁文体旅融合新范式",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728156.shtml",
-        "publishedAt": "2026-11-07T21:12:28.000+08:00"
+        "title": "“敢闯”更“敢创” 世界浙商重塑新时代“四千”精神",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728117.shtml",
+        "publishedAt": "2026-11-07T21:23:54.000+08:00"
       },
       {
-        "title": "日本学者：日政府强化军事能力或加剧地区紧张局势",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728158.shtml",
-        "publishedAt": "2026-11-07T21:10:44.000+08:00"
+        "title": "2026百队杯青少年篮球赛在北京落幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728144.shtml",
+        "publishedAt": "2026-11-07T21:23:34.000+08:00"
       },
       {
-        "title": "张伯驹潘素艺术文献暨书画作品亮相深圳",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728109.shtml",
-        "publishedAt": "2026-11-07T21:10:18.000+08:00"
+        "title": "浙江常山胡柚立冬开摘 从业者：今年果实整体品质预计更好",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728110.shtml",
+        "publishedAt": "2026-11-07T21:23:02.000+08:00"
       },
       {
-        "title": "赋能千行百业 进博会服贸展区打造企业出海全链条服务",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728157.shtml",
-        "publishedAt": "2026-11-07T21:09:08.000+08:00"
+        "title": "从食物里读懂中国 陈晓卿推出新书《我的美食向导》",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728111.shtml",
+        "publishedAt": "2026-11-07T21:22:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T21:20:03.951+08:00",
+    "fetchedAt": "2026-11-07T21:30:02.992+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T21:20:08.264+08:00",
+      "fetchedAt": "2026-11-07T21:30:06.720+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T21:20:08.674+08:00",
+      "fetchedAt": "2026-11-07T21:30:06.984+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T21:20:08.678+08:00",
+      "fetchedAt": "2026-11-07T21:30:06.993+08:00",
       "error": null
     }
   }
