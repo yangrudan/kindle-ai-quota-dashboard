@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T21:00:18.492+08:00",
+  "updatedAt": "2026-11-07T21:10:09.150+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.1,
-    "feelsLikeC": 14.2,
+    "tempC": 15,
+    "feelsLikeC": 14.5,
     "humidity": 93,
-    "windKph": 14.5,
+    "windKph": 11.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T21:00:18.492+08:00",
+    "observedAt": "2026-11-07T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T21:10:09.151+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今年前10月柬埔寨批准固定资产项目投资逾61亿美元",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728137.shtml",
-        "publishedAt": "2026-11-07T20:53:25.000+08:00"
+        "title": "AI赋能美业创新 第十八届世界美发大会在厦门举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728107.shtml",
+        "publishedAt": "2026-11-07T21:07:29.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会现“九年之变”：中国市场与世界经济联系更广更深",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728077.shtml",
-        "publishedAt": "2026-11-07T20:53:15.000+08:00"
+        "title": "2026中原农谷种业大会在河南启幕 聚焦国际育种合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728103.shtml",
+        "publishedAt": "2026-11-07T21:06:43.000+08:00"
       },
       {
-        "title": "中国驻墨尔本总领事就领区一名中国公民不幸遇害案件同维州州长紧急通话",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728061.shtml",
-        "publishedAt": "2026-11-07T20:52:51.000+08:00"
+        "title": "进博会推动更多“俄罗斯制造”融入中国百姓日常",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728153.shtml",
+        "publishedAt": "2026-11-07T21:06:39.000+08:00"
       },
       {
-        "title": "中越学者昆明研讨澜湄流域文明互鉴 以影像促民心相通",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728076.shtml",
-        "publishedAt": "2026-11-07T20:52:37.000+08:00"
+        "title": "第四届重庆三峡人才节启幕 渝东北10区县广发“英雄帖”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728102.shtml",
+        "publishedAt": "2026-11-07T21:05:51.000+08:00"
       },
       {
-        "title": "中国医疗队在柬埔寨撒下中医药的种子",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728036.shtml",
-        "publishedAt": "2026-11-07T20:52:07.000+08:00"
+        "title": "中国记协邀港澳台侨媒体采访联谊",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728101.shtml",
+        "publishedAt": "2026-11-07T21:05:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T21:00:12.883+08:00",
+    "fetchedAt": "2026-11-07T21:10:03.950+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T21:00:17.264+08:00",
+      "fetchedAt": "2026-11-07T21:10:07.666+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T21:00:17.570+08:00",
+      "fetchedAt": "2026-11-07T21:10:08.007+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T21:00:17.579+08:00",
+      "fetchedAt": "2026-11-07T21:10:08.016+08:00",
       "error": null
     }
   }
