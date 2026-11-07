@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T16:40:38.880+08:00",
+  "updatedAt": "2026-11-07T16:50:38.755+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.3,
-    "feelsLikeC": 16.3,
+    "tempC": 18.2,
+    "feelsLikeC": 16.1,
     "humidity": 65,
-    "windKph": 16.8,
+    "windKph": 17.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T16:40:38.880+08:00",
+    "observedAt": "2026-11-07T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-07T16:50:38.756+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026北京冰雪消费季推介会举行 推出17条冰雪旅游线路",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727948.shtml",
-        "publishedAt": "2026-11-07T16:32:33.000+08:00"
+        "title": "河北保定一在建桥梁桥体脱落",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727926.shtml",
+        "publishedAt": "2026-11-07T16:42:39.000+08:00"
       },
       {
-        "title": "汇聚海内外客商 无锡锡山加码产业科创对外开放",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727913.shtml",
-        "publishedAt": "2026-11-07T16:30:39.000+08:00"
+        "title": "刑事诉讼法修改进程引热议：把“管住权力、保障权利”落到实处",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727937.shtml",
+        "publishedAt": "2026-11-07T16:42:05.000+08:00"
       },
       {
-        "title": "近500场活动服务9.6万人次 民进重庆市委会推动社会服务品牌化",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727910.shtml",
-        "publishedAt": "2026-11-07T16:28:48.000+08:00"
+        "title": "（第九届进博会）零关税添机遇 非洲好物进博寻商机",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727940.shtml",
+        "publishedAt": "2026-11-07T16:41:41.000+08:00"
       },
       {
-        "title": "（走进中国乡村）广东百个智慧农场丰盈湾区“米袋子”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727900.shtml",
-        "publishedAt": "2026-11-07T16:27:02.000+08:00"
+        "title": "（第九届进博会）台企参展规模扩大：进博会是“最好舞台”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727936.shtml",
+        "publishedAt": "2026-11-07T16:40:39.000+08:00"
       },
       {
-        "title": "咖啡香飘广西乡野 年轻人村中“煮”出新故事",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727899.shtml",
-        "publishedAt": "2026-11-07T16:25:48.000+08:00"
+        "title": "新加坡艺术家林子平特展在上海开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727945.shtml",
+        "publishedAt": "2026-11-07T16:39:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T16:40:03.297+08:00",
+    "fetchedAt": "2026-11-07T16:50:03.874+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T16:40:37.763+08:00",
+      "fetchedAt": "2026-11-07T16:50:37.328+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T21:40:38.000+08:00"
+          "resetAt": "2026-11-07T21:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T16:40:37.990+08:00",
+      "fetchedAt": "2026-11-07T16:50:37.560+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T16:40:37.993+08:00",
+      "fetchedAt": "2026-11-07T16:50:37.570+08:00",
       "error": null
     }
   }
