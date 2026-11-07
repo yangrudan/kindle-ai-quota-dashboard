@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T20:40:08.463+08:00",
+  "updatedAt": "2026-11-07T20:50:18.305+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T20:40:08.464+08:00",
+    "fetchedAt": "2026-11-07T20:50:18.305+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本茨城县附近海域发生5.6级地震，东京有震感",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728118.shtml",
-        "publishedAt": "2026-11-07T20:37:12.000+08:00"
+        "title": "伊朗外长连续致电阿曼、埃及、约旦、沙特等12国外长讨论地区局势",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728129.shtml",
+        "publishedAt": "2026-11-07T20:44:34.000+08:00"
       },
       {
-        "title": "广西罗城仫佬族依饭节上演民俗盛宴",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10728115.shtml",
-        "publishedAt": "2026-11-07T20:35:18.000+08:00"
+        "title": "海军首批舰载机女飞行学员结业赴一线部队",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728127.shtml",
+        "publishedAt": "2026-11-07T20:42:52.000+08:00"
       },
       {
-        "title": "学习新语｜习近平总书记殷切寄语新闻工作者",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728105.shtml",
-        "publishedAt": "2026-11-07T20:32:32.000+08:00"
+        "title": "炳灵寺石窟首次大规模对外展览亮相兰州",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10728113.shtml",
+        "publishedAt": "2026-11-07T20:42:40.000+08:00"
       },
       {
-        "title": "青海玉树赛马展演首次走进省会西宁",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10728106.shtml",
-        "publishedAt": "2026-11-07T20:31:33.000+08:00"
+        "title": "男子称受“脑中声音”驱使来华盛顿行刺特朗普，车内搜出三支枪支、数十发子弹",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728125.shtml",
+        "publishedAt": "2026-11-07T20:39:54.000+08:00"
       },
       {
-        "title": "胡塞武装：沙特主导多国联军空袭也门致22死30伤，包括多名妇女儿童",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-07/10728108.shtml",
-        "publishedAt": "2026-11-07T20:24:33.000+08:00"
+        "title": "2026中国杯世界花样滑冰大奖赛：冰上舞蹈·自由舞项目展开角逐",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10728112.shtml",
+        "publishedAt": "2026-11-07T20:39:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T20:40:03.322+08:00",
+    "fetchedAt": "2026-11-07T20:50:12.904+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T20:40:07.140+08:00",
+      "fetchedAt": "2026-11-07T20:50:17.080+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T20:40:07.457+08:00",
+      "fetchedAt": "2026-11-07T20:50:17.358+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T20:40:07.466+08:00",
+      "fetchedAt": "2026-11-07T20:50:17.363+08:00",
       "error": null
     }
   }
