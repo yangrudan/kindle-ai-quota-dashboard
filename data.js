@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T21:30:07.929+08:00",
+  "updatedAt": "2026-11-07T21:40:08.726+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T21:30:07.929+08:00",
+    "fetchedAt": "2026-11-07T21:40:08.727+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香港举行研讨会纪念香港基本法颁布36周年",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-07/10728138.shtml",
-        "publishedAt": "2026-11-07T21:24:36.000+08:00"
+        "title": "巴渝地名“活”起来 在渝外籍师生同台读懂重庆",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728131.shtml",
+        "publishedAt": "2026-11-07T21:26:43.000+08:00"
       },
       {
-        "title": "“敢闯”更“敢创” 世界浙商重塑新时代“四千”精神",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728117.shtml",
-        "publishedAt": "2026-11-07T21:23:54.000+08:00"
+        "title": "（第九届进博会）华商侨企接入进博“引力场”：从商品贸易到生态共生",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728124.shtml",
+        "publishedAt": "2026-11-07T21:26:22.000+08:00"
       },
       {
-        "title": "2026百队杯青少年篮球赛在北京落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728144.shtml",
-        "publishedAt": "2026-11-07T21:23:34.000+08:00"
+        "title": "中国女排超级联赛开赛 天津队胜北京队迎“开门红”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728122.shtml",
+        "publishedAt": "2026-11-07T21:25:42.000+08:00"
       },
       {
-        "title": "浙江常山胡柚立冬开摘 从业者：今年果实整体品质预计更好",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728110.shtml",
-        "publishedAt": "2026-11-07T21:23:02.000+08:00"
+        "title": "以光影叩问真实 云南艺术学院纪实影像联展在昆明启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728133.shtml",
+        "publishedAt": "2026-11-07T21:25:34.000+08:00"
       },
       {
-        "title": "从食物里读懂中国 陈晓卿推出新书《我的美食向导》",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728111.shtml",
-        "publishedAt": "2026-11-07T21:22:32.000+08:00"
+        "title": "（第九届进博会）广西借进博会平台邀全球客商加大投资力度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728135.shtml",
+        "publishedAt": "2026-11-07T21:25:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T21:30:02.992+08:00",
+    "fetchedAt": "2026-11-07T21:40:03.700+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T21:30:06.720+08:00",
+      "fetchedAt": "2026-11-07T21:40:07.446+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T21:30:06.984+08:00",
+      "fetchedAt": "2026-11-07T21:40:07.759+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T21:30:06.993+08:00",
+      "fetchedAt": "2026-11-07T21:40:07.768+08:00",
       "error": null
     }
   }
