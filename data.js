@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T22:40:09.162+08:00",
+  "updatedAt": "2026-11-07T22:50:08.160+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 14.9,
     "feelsLikeC": 14.7,
     "humidity": 95,
-    "windKph": 10.3,
+    "windKph": 9.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T22:40:09.162+08:00",
+    "observedAt": "2026-11-07T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-07T22:50:08.160+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“免费鉴宝、高价回收” 起底专盯老人的直播诈骗链",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728182.shtml",
+        "publishedAt": "2026-11-07T22:45:37.000+08:00"
+      },
       {
         "title": "中国—东盟推进媒体务实合作 提升区域国际传播力",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728164.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "巴渝地名“活”起来 在渝外籍师生同台读懂重庆",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728131.shtml",
         "publishedAt": "2026-11-07T21:26:43.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）华商侨企接入进博“引力场”：从商品贸易到生态共生",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728124.shtml",
-        "publishedAt": "2026-11-07T21:26:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T22:40:03.584+08:00",
+    "fetchedAt": "2026-11-07T22:50:03.202+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T22:40:07.754+08:00",
+      "fetchedAt": "2026-11-07T22:50:06.933+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T22:40:08.212+08:00",
+      "fetchedAt": "2026-11-07T22:50:07.244+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T22:40:08.222+08:00",
+      "fetchedAt": "2026-11-07T22:50:07.253+08:00",
       "error": null
     }
   }
