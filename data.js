@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T09:10:39.620+08:00",
+  "updatedAt": "2026-11-07T09:20:08.600+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18,
-    "feelsLikeC": 17,
-    "humidity": 72,
-    "windKph": 12.9,
+    "tempC": 18.2,
+    "feelsLikeC": 17.2,
+    "humidity": 70,
+    "windKph": 12.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T09:10:39.620+08:00",
+    "observedAt": "2026-11-07T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-07T09:20:08.600+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "首套、首条、首台！本周我国多项硬核成果上新",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727759.shtml",
+        "publishedAt": "2026-11-07T09:12:21.000+08:00"
+      },
+      {
+        "title": "伊朗称两枚导弹击中格什姆岛，宣布击落一架美国MQ-9无人机",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727758.shtml",
+        "publishedAt": "2026-11-07T09:07:17.000+08:00"
+      },
       {
         "title": "谷神星二号遥三运载火箭发射成功",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210073.shtml",
@@ -30,22 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-07T09:04:08.000+08:00"
       },
       {
-        "title": "朝“问”健康丨立冬护血管注意避开三个“高危时刻” 对照自查→",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727755.shtml",
-        "publishedAt": "2026-11-07T09:01:36.000+08:00"
-      },
-      {
-        "title": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727754.shtml",
-        "publishedAt": "2026-11-07T08:54:50.000+08:00"
-      },
-      {
-        "title": "大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727753.shtml",
-        "publishedAt": "2026-11-07T08:54:48.000+08:00"
+        "title": "赵乐际分别会见加蓬总统恩圭马、奥地利总理施托克尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727749.shtml",
+        "publishedAt": "2026-11-07T09:03:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T09:10:04.178+08:00",
+    "fetchedAt": "2026-11-07T09:20:03.299+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T09:10:38.135+08:00",
+      "fetchedAt": "2026-11-07T09:20:07.323+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T09:10:38.348+08:00",
+      "fetchedAt": "2026-11-07T09:20:07.626+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T09:10:38.355+08:00",
+      "fetchedAt": "2026-11-07T09:20:07.629+08:00",
       "error": null
     }
   }
