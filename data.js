@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T16:20:10.181+08:00",
+  "updatedAt": "2026-11-07T16:30:08.885+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.4,
-    "feelsLikeC": 16.5,
+    "tempC": 18.3,
+    "feelsLikeC": 16.3,
     "humidity": 65,
-    "windKph": 15.9,
+    "windKph": 16.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-07T16:20:10.181+08:00",
+    "observedAt": "2026-11-07T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-07T16:30:08.886+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第32号台风“查帕卡”生成 今年台风个数刷新21世纪以来最多纪录",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727923.shtml",
-        "publishedAt": "2026-11-07T16:05:33.000+08:00"
+        "title": "咖啡香飘广西乡野 年轻人村中“煮”出新故事",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727899.shtml",
+        "publishedAt": "2026-11-07T16:25:48.000+08:00"
       },
       {
-        "title": "（第九届进博会）免费展位扩容17% 进博会带“最不发达国家”互利共赢",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210112.shtml",
-        "publishedAt": "2026-11-07T16:04:23.000+08:00"
+        "title": "（第九届进博会）普华永道：中国内地职场正从AI“工具引入期”稳步迈入“人机协同期”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727901.shtml",
+        "publishedAt": "2026-11-07T16:24:06.000+08:00"
       },
       {
-        "title": "两部门会商调度雨雪天气防范应对工作",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-07/10727918.shtml",
-        "publishedAt": "2026-11-07T16:02:09.000+08:00"
+        "title": "（第九届进博会）超188亿美元 第九届中国石油国际合作论坛暨签约仪式在沪举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727916.shtml",
+        "publishedAt": "2026-11-07T16:23:00.000+08:00"
       },
       {
-        "title": "日本民众集会抗议政府企图突破“无核三原则”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727914.shtml",
-        "publishedAt": "2026-11-07T15:54:55.000+08:00"
+        "title": "（第九届进博会）进博会展商办证、通行遇难题 上海警方联动服务解需求",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727917.shtml",
+        "publishedAt": "2026-11-07T16:22:52.000+08:00"
       },
       {
-        "title": "美企高管：开放的中国与世界共享机遇、共同发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727911.shtml",
-        "publishedAt": "2026-11-07T15:52:08.000+08:00"
+        "title": "中国央行黄金储备“24连增”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727898.shtml",
+        "publishedAt": "2026-11-07T16:21:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T16:20:03.956+08:00",
+    "fetchedAt": "2026-11-07T16:30:03.470+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T16:20:08.909+08:00",
+      "fetchedAt": "2026-11-07T16:30:07.601+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T21:20:10.000+08:00"
+          "resetAt": "2026-11-07T21:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T16:20:09.264+08:00",
+      "fetchedAt": "2026-11-07T16:30:07.843+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T16:20:09.272+08:00",
+      "fetchedAt": "2026-11-07T16:30:07.854+08:00",
       "error": null
     }
   }
