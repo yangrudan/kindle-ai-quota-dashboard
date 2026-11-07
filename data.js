@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T11:20:09.961+08:00",
+  "updatedAt": "2026-11-07T11:30:09.933+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.8,
+    "tempC": 19.9,
     "feelsLikeC": 17.6,
-    "humidity": 58,
+    "humidity": 57,
     "windKph": 17.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-07T11:20:09.961+08:00",
+    "observedAt": "2026-11-07T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-07T11:30:09.933+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）进博会架“融通之桥”：多元文明跨越山海“相遇”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727802.shtml",
-        "publishedAt": "2026-11-07T11:15:44.000+08:00"
+        "title": "为修订“安保三文件” 日投入巨额宣传经费",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727819.shtml",
+        "publishedAt": "2026-11-07T11:24:44.000+08:00"
       },
       {
-        "title": "多元创新成果亮相！在进博会读懂中国大市场的“向新引力”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727809.shtml",
-        "publishedAt": "2026-11-07T11:14:35.000+08:00"
+        "title": "暴雪黄色预警！辽宁河北等4省市部分地区有大暴雪 局地特大暴雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727815.shtml",
+        "publishedAt": "2026-11-07T11:22:00.000+08:00"
       },
       {
-        "title": "“平平”“福双”亮相亚特兰大 中美大熊猫保护合作再续新篇",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727794.shtml",
-        "publishedAt": "2026-11-07T11:12:55.000+08:00"
+        "title": "暴雨蓝色预警！安徽江苏等9省市部分地区有大到暴雨 局地大暴雨",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727813.shtml",
+        "publishedAt": "2026-11-07T11:20:30.000+08:00"
       },
       {
-        "title": "新疆哈密：匠心守护甜蜜产业",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210099.shtml",
-        "publishedAt": "2026-11-07T11:12:31.000+08:00"
+        "title": "一箭四星 谷神星二号运载火箭复飞成功",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727811.shtml",
+        "publishedAt": "2026-11-07T11:19:28.000+08:00"
       },
       {
-        "title": "WTT法兰克福冠军赛：陈幸同等三位中国女将晋级八强",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727793.shtml",
-        "publishedAt": "2026-11-07T11:11:51.000+08:00"
+        "title": "通讯：小品牌追梦大市场——进博会的泰国企业故事",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727812.shtml",
+        "publishedAt": "2026-11-07T11:18:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T11:20:03.692+08:00",
+    "fetchedAt": "2026-11-07T11:30:04.710+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T11:20:08.465+08:00",
+      "fetchedAt": "2026-11-07T11:30:08.394+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T11:20:08.977+08:00",
+      "fetchedAt": "2026-11-07T11:30:08.757+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T11:20:08.986+08:00",
+      "fetchedAt": "2026-11-07T11:30:08.761+08:00",
       "error": null
     }
   }
