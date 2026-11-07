@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T17:10:09.273+08:00",
+  "updatedAt": "2026-11-07T17:20:08.478+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.1,
-    "feelsLikeC": 15.9,
-    "humidity": 65,
+    "tempC": 18,
+    "feelsLikeC": 15.8,
+    "humidity": 66,
     "windKph": 18.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T17:10:09.273+08:00",
+    "observedAt": "2026-11-07T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-07T17:20:08.479+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国科普作家协会发布2026年度十大科普热词 人工智能相关占据七席",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727962.shtml",
+        "publishedAt": "2026-11-07T17:05:28.000+08:00"
+      },
       {
         "title": "太极拳传承实践展演在重庆举行 600名爱好者共展非遗之美",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727961.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "无人机海上着舰有多难？详解“攻击-21”着舰四川舰全流程",
         "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727958.shtml",
         "publishedAt": "2026-11-07T17:02:32.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）报告：中国企业全球化呈现新动能、深融合与强韧性三大趋势",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727957.shtml",
-        "publishedAt": "2026-11-07T17:01:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T17:10:03.938+08:00",
+    "fetchedAt": "2026-11-07T17:20:03.431+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T17:10:07.939+08:00",
+      "fetchedAt": "2026-11-07T17:20:07.198+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T22:10:09.000+08:00"
+          "resetAt": "2026-11-07T22:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T17:10:08.284+08:00",
+      "fetchedAt": "2026-11-07T17:20:07.545+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T17:10:08.291+08:00",
+      "fetchedAt": "2026-11-07T17:20:07.554+08:00",
       "error": null
     }
   }
