@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T19:00:08.541+08:00",
+  "updatedAt": "2026-11-07T19:10:17.962+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T19:00:08.541+08:00",
+    "fetchedAt": "2026-11-07T19:10:17.962+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026中欧蓝色发展投资研讨会在厦门举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728028.shtml",
-        "publishedAt": "2026-11-07T18:55:32.000+08:00"
+        "title": "“闽式生活”具象化场景交流研讨活动在福州举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728034.shtml",
+        "publishedAt": "2026-11-07T19:05:33.000+08:00"
       },
       {
-        "title": "2026中国公路自行车公开赛（无锡马山站）落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728026.shtml",
-        "publishedAt": "2026-11-07T18:52:10.000+08:00"
+        "title": "女子误吞一小块虾壳住进 ICU 湖南医生提醒警惕纵隔重症",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728025.shtml",
+        "publishedAt": "2026-11-07T19:04:43.000+08:00"
       },
       {
-        "title": "（第九届进博会）报告提出“能源智能”价值主张 助力企业从“能源消费者”迈向“能源经营者”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728031.shtml",
-        "publishedAt": "2026-11-07T18:51:10.000+08:00"
+        "title": "建设青年友好型省份 湖南搭建文旅行业青年人才来湘平台",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728045.shtml",
+        "publishedAt": "2026-11-07T19:03:59.000+08:00"
       },
       {
-        "title": "2026之江营商论坛观察：制度型开放里的“四篇文章”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728030.shtml",
-        "publishedAt": "2026-11-07T18:49:12.000+08:00"
+        "title": "（第九届进博会）东方美谷国际化妆品大会“首秀”进博会：中法“双谷联动”十年迈向深度共生",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728024.shtml",
+        "publishedAt": "2026-11-07T19:00:39.000+08:00"
       },
       {
-        "title": "湖南冷水滩推广“稻稻油”轮作 冬闲田盘活成增收田",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728022.shtml",
-        "publishedAt": "2026-11-07T18:48:02.000+08:00"
+        "title": "上海1700余名“未来工程师”同台角逐 以智慧和行动回应真实工程挑战",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728023.shtml",
+        "publishedAt": "2026-11-07T18:59:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T19:00:03.383+08:00",
+    "fetchedAt": "2026-11-07T19:10:12.150+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T19:00:07.288+08:00",
+      "fetchedAt": "2026-11-07T19:10:16.632+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-08T00:00:08.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-11-08T00:08:20.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T19:00:07.576+08:00",
+      "fetchedAt": "2026-11-07T19:10:17.010+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T19:00:07.584+08:00",
+      "fetchedAt": "2026-11-07T19:10:17.020+08:00",
       "error": null
     }
   }
