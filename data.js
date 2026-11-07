@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T09:00:10.271+08:00",
+  "updatedAt": "2026-11-07T09:10:39.620+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T09:00:10.271+08:00",
+    "fetchedAt": "2026-11-07T09:10:39.620+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "谷神星二号遥三运载火箭发射成功",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210073.shtml",
+        "publishedAt": "2026-11-07T09:05:42.000+08:00"
+      },
+      {
+        "title": "前三季度科技、涉农贷款数据出炉 金融支持实体力度持续显现",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727756.shtml",
+        "publishedAt": "2026-11-07T09:04:08.000+08:00"
+      },
+      {
+        "title": "朝“问”健康丨立冬护血管注意避开三个“高危时刻” 对照自查→",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727755.shtml",
+        "publishedAt": "2026-11-07T09:01:36.000+08:00"
+      },
       {
         "title": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
         "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727754.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727753.shtml",
         "publishedAt": "2026-11-07T08:54:48.000+08:00"
-      },
-      {
-        "title": "中央气象台：中东部地区将有大范围雨雪降温天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727751.shtml",
-        "publishedAt": "2026-11-07T08:54:02.000+08:00"
-      },
-      {
-        "title": "节气物候图鉴：立冬寒意渐深 全国水始冰分布地图看哪里薄冰初现",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727752.shtml",
-        "publishedAt": "2026-11-07T08:52:00.000+08:00"
-      },
-      {
-        "title": "复刻声音商用，可识别性是侵权认定核心",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-07/10727745.shtml",
-        "publishedAt": "2026-11-07T08:16:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T09:00:05.124+08:00",
+    "fetchedAt": "2026-11-07T09:10:04.178+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T09:00:08.869+08:00",
+      "fetchedAt": "2026-11-07T09:10:38.135+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T09:00:09.293+08:00",
+      "fetchedAt": "2026-11-07T09:10:38.348+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T09:00:09.298+08:00",
+      "fetchedAt": "2026-11-07T09:10:38.355+08:00",
       "error": null
     }
   }
