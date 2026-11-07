@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T15:50:09.023+08:00",
+  "updatedAt": "2026-11-07T16:00:10.955+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.6,
-    "feelsLikeC": 16.9,
+    "tempC": 18.5,
+    "feelsLikeC": 16.7,
     "humidity": 64,
-    "windKph": 15.1,
+    "windKph": 15.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T15:50:09.023+08:00",
+    "observedAt": "2026-11-07T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T16:00:10.956+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "黑龙江立冬节气后：降温幅度全年最大 雨雪交替登场",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727886.shtml",
-        "publishedAt": "2026-11-07T15:37:14.000+08:00"
+        "title": "日本民众集会抗议政府企图突破“无核三原则”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727914.shtml",
+        "publishedAt": "2026-11-07T15:54:55.000+08:00"
       },
       {
-        "title": "敦格铁路与青藏铁路唯一交会车站完成动车组实车进站试验",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727885.shtml",
-        "publishedAt": "2026-11-07T15:35:14.000+08:00"
+        "title": "美企高管：开放的中国与世界共享机遇、共同发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727911.shtml",
+        "publishedAt": "2026-11-07T15:52:08.000+08:00"
       },
       {
-        "title": "半月三起官兵死亡事件、“战备饮用水”报价每瓶120元新台币……台军方还有多少荒唐事？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727895.shtml",
-        "publishedAt": "2026-11-07T15:35:12.000+08:00"
+        "title": "进博之问｜6天精彩，如何转化为365天的生意？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727907.shtml",
+        "publishedAt": "2026-11-07T15:48:30.000+08:00"
       },
       {
-        "title": "非遗展演邂逅无人机灯光秀 重庆上演“非遗之夜”",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210107.shtml",
-        "publishedAt": "2026-11-07T15:33:19.000+08:00"
+        "title": "四面八方话进博｜是什么让跨国企业如约而至？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727905.shtml",
+        "publishedAt": "2026-11-07T15:45:42.000+08:00"
       },
       {
-        "title": "河北保定通报桥体脱落事故：4人受伤 其中2名施工人员伤势较重",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727892.shtml",
-        "publishedAt": "2026-11-07T15:24:25.000+08:00"
+        "title": "习近平主席复信令澳大利亚青年学生和教育界人士深受鼓舞",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727903.shtml",
+        "publishedAt": "2026-11-07T15:44:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T15:50:03.547+08:00",
+    "fetchedAt": "2026-11-07T16:00:05.148+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T15:50:07.765+08:00",
+      "fetchedAt": "2026-11-07T16:00:09.741+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T20:50:08.000+08:00"
+          "resetAt": "2026-11-07T21:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T15:50:07.993+08:00",
+      "fetchedAt": "2026-11-07T16:00:10.037+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T15:50:08.003+08:00",
+      "fetchedAt": "2026-11-07T16:00:10.046+08:00",
       "error": null
     }
   }
