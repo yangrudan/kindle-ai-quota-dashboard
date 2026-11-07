@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T13:00:10.576+08:00",
+  "updatedAt": "2026-11-07T13:10:08.756+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T13:00:10.576+08:00",
+    "fetchedAt": "2026-11-07T13:10:08.757+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“玉”见8000年 辽宁有“石”力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727855.shtml",
-        "publishedAt": "2026-11-07T12:54:47.000+08:00"
+        "title": "2026全球航空医疗救援大会在广州召开",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727835.shtml",
+        "publishedAt": "2026-11-07T13:06:48.000+08:00"
       },
       {
-        "title": "长辈“入坑”，年轻人“真香”，大陆AI短剧成了台湾观众的“电子下饭菜”？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-07/10727839.shtml",
-        "publishedAt": "2026-11-07T12:48:13.000+08:00"
+        "title": "聚焦协定履约相关议题 BBNJ科学与治理国际研讨会在厦门举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727834.shtml",
+        "publishedAt": "2026-11-07T13:02:15.000+08:00"
       },
       {
-        "title": "“所有人采访所有人”，人们想听什么",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727854.shtml",
-        "publishedAt": "2026-11-07T12:47:37.000+08:00"
+        "title": "“广西梧州—平陆运河—越南胡志明”外贸航线开通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727831.shtml",
+        "publishedAt": "2026-11-07T13:01:25.000+08:00"
       },
       {
-        "title": "多国青年古都西安唱响中文歌 在旋律交汇中开展对话",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727830.shtml",
-        "publishedAt": "2026-11-07T12:41:52.000+08:00"
+        "title": "澳门特区政府和立法会强烈反对外部势力干涉特区司法独立",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-07/10727817.shtml",
+        "publishedAt": "2026-11-07T13:01:21.000+08:00"
       },
       {
-        "title": "中国驻杜塞尔多夫总领馆举行2026年度国家留学基金委奖学金颁奖仪式",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727840.shtml",
-        "publishedAt": "2026-11-07T12:37:18.000+08:00"
+        "title": "从沉浸式秋收劳作到文博奇妙体验 多彩秋假带动跨省游需求集中释放",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727857.shtml",
+        "publishedAt": "2026-11-07T12:57:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T13:00:05.199+08:00",
+    "fetchedAt": "2026-11-07T13:10:03.420+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T13:00:09.182+08:00",
+      "fetchedAt": "2026-11-07T13:10:07.506+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T13:00:09.626+08:00",
+      "fetchedAt": "2026-11-07T13:10:07.832+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T13:00:09.629+08:00",
+      "fetchedAt": "2026-11-07T13:10:07.842+08:00",
       "error": null
     }
   }
