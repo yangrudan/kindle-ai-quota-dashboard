@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T11:10:08.969+08:00",
+  "updatedAt": "2026-11-07T11:20:09.961+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.6,
-    "feelsLikeC": 17.5,
-    "humidity": 60,
-    "windKph": 17.7,
+    "tempC": 19.8,
+    "feelsLikeC": 17.6,
+    "humidity": 58,
+    "windKph": 17.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T11:10:08.970+08:00",
+    "observedAt": "2026-11-07T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-07T11:20:09.961+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "九届进博会的“全勤奖” 外商茶歇时争分夺秒谈合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727803.shtml",
-        "publishedAt": "2026-11-07T11:05:27.000+08:00"
+        "title": "（第九届进博会）进博会架“融通之桥”：多元文明跨越山海“相遇”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727802.shtml",
+        "publishedAt": "2026-11-07T11:15:44.000+08:00"
       },
       {
-        "title": "第10届联合国教科文组织国际生命科学研究奖颁奖仪式举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727775.shtml",
-        "publishedAt": "2026-11-07T11:00:05.000+08:00"
+        "title": "多元创新成果亮相！在进博会读懂中国大市场的“向新引力”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727809.shtml",
+        "publishedAt": "2026-11-07T11:14:35.000+08:00"
       },
       {
-        "title": "巴拉圭总统遭弹劾 副总统宣誓接任",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727796.shtml",
-        "publishedAt": "2026-11-07T10:58:21.000+08:00"
+        "title": "“平平”“福双”亮相亚特兰大 中美大熊猫保护合作再续新篇",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727794.shtml",
+        "publishedAt": "2026-11-07T11:12:55.000+08:00"
       },
       {
-        "title": "巴拉圭前总统遭弹劾后被软禁，数十名抗议者聚集其住所外",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727797.shtml",
-        "publishedAt": "2026-11-07T10:45:46.000+08:00"
+        "title": "新疆哈密：匠心守护甜蜜产业",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210099.shtml",
+        "publishedAt": "2026-11-07T11:12:31.000+08:00"
       },
       {
-        "title": "他们的“进博第一天”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727792.shtml",
-        "publishedAt": "2026-11-07T10:36:11.000+08:00"
+        "title": "WTT法兰克福冠军赛：陈幸同等三位中国女将晋级八强",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727793.shtml",
+        "publishedAt": "2026-11-07T11:11:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T11:10:03.543+08:00",
+    "fetchedAt": "2026-11-07T11:20:03.692+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T11:10:07.772+08:00",
+      "fetchedAt": "2026-11-07T11:20:08.465+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T11:10:07.986+08:00",
+      "fetchedAt": "2026-11-07T11:20:08.977+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T11:10:07.995+08:00",
+      "fetchedAt": "2026-11-07T11:20:08.986+08:00",
       "error": null
     }
   }
