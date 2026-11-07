@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T08:00:10.688+08:00",
+  "updatedAt": "2026-11-07T08:10:47.303+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T08:00:10.688+08:00",
+    "fetchedAt": "2026-11-07T08:10:47.303+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "AI时代职场人的心理健康需要更多支持系统",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727743.shtml",
+        "publishedAt": "2026-11-07T08:07:19.000+08:00"
+      },
+      {
+        "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727742.shtml",
+        "publishedAt": "2026-11-07T08:01:51.000+08:00"
+      },
       {
         "title": "美国10月非农就业新增16.5万 失业率4.1%",
         "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727739.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "欧盟向缅甸和孟加拉国追加1600万欧元人道主义援助",
         "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727738.shtml",
         "publishedAt": "2026-11-07T07:43:24.000+08:00"
-      },
-      {
-        "title": "体检影像检查辐射会危害身体健康吗？这些误区要分清",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727740.shtml",
-        "publishedAt": "2026-11-07T07:42:46.000+08:00"
-      },
-      {
-        "title": "网友自称“花260万元登顶珠峰”系谣言！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727737.shtml",
-        "publishedAt": "2026-11-07T07:09:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T08:00:05.217+08:00",
+    "fetchedAt": "2026-11-07T08:10:12.054+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T08:00:09.443+08:00",
+      "fetchedAt": "2026-11-07T08:10:45.450+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T13:00:10.000+08:00"
+          "resetAt": "2026-11-07T13:10:46.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T08:00:09.789+08:00",
+      "fetchedAt": "2026-11-07T08:10:45.811+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T08:00:09.792+08:00",
+      "fetchedAt": "2026-11-07T08:10:45.819+08:00",
       "error": null
     }
   }
