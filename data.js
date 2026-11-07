@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T23:50:08.129+08:00",
+  "updatedAt": "2026-11-08T00:00:11.122+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15,
-    "feelsLikeC": 15.7,
+    "feelsLikeC": 15.8,
     "humidity": 96,
-    "windKph": 4.6,
+    "windKph": 4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T23:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T23:50:08.130+08:00",
+    "observedAt": "2026-11-08T00:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T00:00:11.122+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泰国强调粮食和能源安全 以多元供应体系应对外部风险",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728192.shtml",
+        "publishedAt": "2026-11-07T23:52:17.000+08:00"
+      },
       {
         "title": "全球最大、发展最快！我国可再生能源技术占据全球主导地位",
         "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728191.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国—东盟法学院发布系列教学科研成果",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728177.shtml",
         "publishedAt": "2026-11-07T23:04:24.000+08:00"
-      },
-      {
-        "title": "青春影展搭台 两岸影视从业者厦门畅叙光影",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728174.shtml",
-        "publishedAt": "2026-11-07T23:03:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T23:50:03.593+08:00",
+    "fetchedAt": "2026-11-08T00:00:04.075+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T23:50:06.997+08:00",
+      "fetchedAt": "2026-11-08T00:00:09.781+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T23:50:07.222+08:00",
+      "fetchedAt": "2026-11-08T00:00:09.992+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T23:50:07.228+08:00",
+      "fetchedAt": "2026-11-08T00:00:09.995+08:00",
       "error": null
     }
   }
