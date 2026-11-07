@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T19:50:09.918+08:00",
+  "updatedAt": "2026-11-07T20:00:39.005+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
     "tempC": 15.1,
-    "feelsLikeC": 14,
-    "humidity": 91,
-    "windKph": 15.8,
+    "feelsLikeC": 14.1,
+    "humidity": 92,
+    "windKph": 14.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T19:50:09.918+08:00",
+    "observedAt": "2026-11-07T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T20:00:39.005+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "不惧风雨 向险而行——应急管理系统先进模范和消防忠诚卫士群像扫描",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728079.shtml",
-        "publishedAt": "2026-11-07T19:40:31.000+08:00"
+        "title": "PWA职业水翼帆板上海国际邀请赛开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728069.shtml",
+        "publishedAt": "2026-11-07T19:55:30.000+08:00"
       },
       {
-        "title": "青海西宁：特色非遗吸引民众观看",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10728074.shtml",
-        "publishedAt": "2026-11-07T19:38:53.000+08:00"
+        "title": "中原农谷这场会议，为全国粮食增产开出“良方”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728068.shtml",
+        "publishedAt": "2026-11-07T19:54:19.000+08:00"
       },
       {
-        "title": "立冬遇强雨雪，湿冷攻击上线，今年台风生成个数刷新本世纪以来纪录",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728078.shtml",
-        "publishedAt": "2026-11-07T19:38:03.000+08:00"
+        "title": "诺奖得主施特默：做好基础研究，靠的是坚持、热爱与责任",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728067.shtml",
+        "publishedAt": "2026-11-07T19:53:33.000+08:00"
       },
       {
-        "title": "宁夏“环西部火车游” 港澳银发旅游列车启程",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728055.shtml",
-        "publishedAt": "2026-11-07T19:34:40.000+08:00"
+        "title": "（第九届进博会）跨国美妆集团把中国消费者真实需求写进研发起点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728066.shtml",
+        "publishedAt": "2026-11-07T19:52:51.000+08:00"
       },
       {
-        "title": "集中开展国产装备极地实测 中国第43次南极考察“剧透”来了",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728075.shtml",
-        "publishedAt": "2026-11-07T19:34:08.000+08:00"
+        "title": "第三届网络文学品牌榜揭晓 《藏海传》《诛仙》等IP上榜",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728065.shtml",
+        "publishedAt": "2026-11-07T19:51:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T19:50:03.936+08:00",
+    "fetchedAt": "2026-11-07T20:00:03.782+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T19:50:08.521+08:00",
+      "fetchedAt": "2026-11-07T20:00:37.541+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T19:50:08.804+08:00",
+      "fetchedAt": "2026-11-07T20:00:37.965+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T19:50:08.815+08:00",
+      "fetchedAt": "2026-11-07T20:00:37.975+08:00",
       "error": null
     }
   }
