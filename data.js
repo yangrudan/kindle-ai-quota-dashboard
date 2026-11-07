@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T21:50:10.295+08:00",
+  "updatedAt": "2026-11-07T22:00:39.235+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 14.9,
-    "feelsLikeC": 14.4,
+    "feelsLikeC": 14.6,
     "humidity": 94,
-    "windKph": 12.1,
-    "windDir": "东南风",
+    "windKph": 11.3,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T21:50:10.295+08:00",
+    "observedAt": "2026-11-07T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T22:00:39.235+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）百年茶缘续新篇 斯里兰卡红茶借进博会“回家”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728165.shtml",
+        "publishedAt": "2026-11-07T21:47:14.000+08:00"
+      },
+      {
+        "title": "原创性“中国方案”→国家法律制度 检察公益诉讼法明年起施行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728166.shtml",
+        "publishedAt": "2026-11-07T21:45:48.000+08:00"
+      },
       {
         "title": "巴渝地名“活”起来 在渝外籍师生同台读懂重庆",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728131.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国女排超级联赛开赛 天津队胜北京队迎“开门红”",
         "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728122.shtml",
         "publishedAt": "2026-11-07T21:25:42.000+08:00"
-      },
-      {
-        "title": "以光影叩问真实 云南艺术学院纪实影像联展在昆明启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728133.shtml",
-        "publishedAt": "2026-11-07T21:25:34.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）广西借进博会平台邀全球客商加大投资力度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728135.shtml",
-        "publishedAt": "2026-11-07T21:25:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T21:50:04.338+08:00",
+    "fetchedAt": "2026-11-07T22:00:03.880+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T21:50:08.929+08:00",
+      "fetchedAt": "2026-11-07T22:00:37.938+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T21:50:09.263+08:00",
+      "fetchedAt": "2026-11-07T22:00:38.283+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T21:50:09.270+08:00",
+      "fetchedAt": "2026-11-07T22:00:38.290+08:00",
       "error": null
     }
   }
