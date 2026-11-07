@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T22:30:09.229+08:00",
+  "updatedAt": "2026-11-07T22:40:09.162+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T22:30:09.229+08:00",
+    "fetchedAt": "2026-11-07T22:40:09.162+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国—东盟推进媒体务实合作 提升区域国际传播力",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728164.shtml",
+        "publishedAt": "2026-11-07T22:31:52.000+08:00"
+      },
       {
         "title": "（第九届进博会）百年茶缘续新篇 斯里兰卡红茶借进博会“回家”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728165.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（第九届进博会）华商侨企接入进博“引力场”：从商品贸易到生态共生",
         "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728124.shtml",
         "publishedAt": "2026-11-07T21:26:22.000+08:00"
-      },
-      {
-        "title": "中国女排超级联赛开赛 天津队胜北京队迎“开门红”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728122.shtml",
-        "publishedAt": "2026-11-07T21:25:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T22:30:04.397+08:00",
+    "fetchedAt": "2026-11-07T22:40:03.584+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T22:30:07.863+08:00",
+      "fetchedAt": "2026-11-07T22:40:07.754+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T22:30:08.234+08:00",
+      "fetchedAt": "2026-11-07T22:40:08.212+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T22:30:08.244+08:00",
+      "fetchedAt": "2026-11-07T22:40:08.222+08:00",
       "error": null
     }
   }
