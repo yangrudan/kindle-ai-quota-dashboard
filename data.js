@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T22:50:08.160+08:00",
+  "updatedAt": "2026-11-07T23:00:17.300+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T22:50:08.160+08:00",
+    "fetchedAt": "2026-11-07T23:00:17.301+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "千公里仅3.43毫秒！我国新一代通信网技术取得新突破",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728184.shtml",
+        "publishedAt": "2026-11-07T22:51:01.000+08:00"
+      },
+      {
+        "title": "广西织就面向东盟的矿业与地学人才合作纽带",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-07/10728168.shtml",
+        "publishedAt": "2026-11-07T22:47:45.000+08:00"
+      },
       {
         "title": "“免费鉴宝、高价回收” 起底专盯老人的直播诈骗链",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728182.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（第九届进博会）百年茶缘续新篇 斯里兰卡红茶借进博会“回家”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728165.shtml",
         "publishedAt": "2026-11-07T21:47:14.000+08:00"
-      },
-      {
-        "title": "原创性“中国方案”→国家法律制度 检察公益诉讼法明年起施行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728166.shtml",
-        "publishedAt": "2026-11-07T21:45:48.000+08:00"
-      },
-      {
-        "title": "巴渝地名“活”起来 在渝外籍师生同台读懂重庆",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728131.shtml",
-        "publishedAt": "2026-11-07T21:26:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T22:50:03.202+08:00",
+    "fetchedAt": "2026-11-07T23:00:12.226+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T22:50:06.933+08:00",
+      "fetchedAt": "2026-11-07T23:00:16.091+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T22:50:07.244+08:00",
+      "fetchedAt": "2026-11-07T23:00:16.312+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T22:50:07.253+08:00",
+      "fetchedAt": "2026-11-07T23:00:16.320+08:00",
       "error": null
     }
   }
