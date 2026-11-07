@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T19:10:17.962+08:00",
+  "updatedAt": "2026-11-07T19:20:10.208+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 15.6,
-    "feelsLikeC": 14,
-    "humidity": 87,
-    "windKph": 17.9,
+    "tempC": 15.3,
+    "feelsLikeC": 13.9,
+    "humidity": 89,
+    "windKph": 17.4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T19:10:17.962+08:00",
+    "observedAt": "2026-11-07T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-07T19:20:10.209+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "环渤海五地海事部门织就“一张网”：业务跨域通办 替企业“跑腿”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728047.shtml",
+        "publishedAt": "2026-11-07T19:10:23.000+08:00"
+      },
+      {
+        "title": "江门侨智发展大会举行 凝聚侨心侨智赋能湾区高质量发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728049.shtml",
+        "publishedAt": "2026-11-07T19:09:51.000+08:00"
+      },
       {
         "title": "“闽式生活”具象化场景交流研讨活动在福州举行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728034.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "建设青年友好型省份 湖南搭建文旅行业青年人才来湘平台",
         "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728045.shtml",
         "publishedAt": "2026-11-07T19:03:59.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）东方美谷国际化妆品大会“首秀”进博会：中法“双谷联动”十年迈向深度共生",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728024.shtml",
-        "publishedAt": "2026-11-07T19:00:39.000+08:00"
-      },
-      {
-        "title": "上海1700余名“未来工程师”同台角逐 以智慧和行动回应真实工程挑战",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728023.shtml",
-        "publishedAt": "2026-11-07T18:59:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T19:10:12.150+08:00",
+    "fetchedAt": "2026-11-07T19:20:03.494+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T19:10:16.632+08:00",
+      "fetchedAt": "2026-11-07T19:20:08.700+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-11-08T00:08:20.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T19:10:17.010+08:00",
+      "fetchedAt": "2026-11-07T19:20:08.981+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T19:10:17.020+08:00",
+      "fetchedAt": "2026-11-07T19:20:08.987+08:00",
       "error": null
     }
   }
