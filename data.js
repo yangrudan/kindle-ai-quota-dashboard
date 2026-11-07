@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T11:40:09.151+08:00",
+  "updatedAt": "2026-11-07T11:50:08.810+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.9,
+    "tempC": 20,
     "feelsLikeC": 17.6,
-    "humidity": 57,
+    "humidity": 56,
     "windKph": 17.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T11:40:09.151+08:00",
+    "observedAt": "2026-11-07T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-07T11:50:08.810+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）进博会谋“共生之道”：与中国制造共同成长",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727795.shtml",
+        "publishedAt": "2026-11-07T11:40:23.000+08:00"
+      },
       {
         "title": "晒秋晒出好“丰”光",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727828.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "原青海省旅游发展委员会党组书记徐浩接受审查调查",
         "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727821.shtml",
         "publishedAt": "2026-11-07T11:34:53.000+08:00"
-      },
-      {
-        "title": "AI长漫：潮涌浦江，以进博之窗看见开放中国",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727826.shtml",
-        "publishedAt": "2026-11-07T11:33:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T11:40:03.088+08:00",
+    "fetchedAt": "2026-11-07T11:50:03.558+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T11:40:07.923+08:00",
+      "fetchedAt": "2026-11-07T11:50:07.562+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 6,
+          "usedPct": 7,
           "resetAt": "2026-11-07T13:12:12.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 28,
+          "usedPct": 29,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T11:40:08.208+08:00",
+      "fetchedAt": "2026-11-07T11:50:07.872+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T11:40:08.217+08:00",
+      "fetchedAt": "2026-11-07T11:50:07.881+08:00",
       "error": null
     }
   }
