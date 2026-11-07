@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T13:30:08.143+08:00",
+  "updatedAt": "2026-11-07T13:40:08.572+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-07T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T13:30:08.143+08:00",
+    "fetchedAt": "2026-11-07T13:40:08.572+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "数字化保护中的权利边界与文化延续——读《非物质文化遗产的数字化保护及其与知识产权保护的冲突与协调》",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727860.shtml",
+        "publishedAt": "2026-11-07T13:25:45.000+08:00"
+      },
       {
         "title": "专家建言多领域加快海南自贸港与东盟蓝色经济合作",
         "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727851.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "《宝岛一村》登陆哈尔滨大剧院",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727838.shtml",
         "publishedAt": "2026-11-07T13:12:12.000+08:00"
-      },
-      {
-        "title": "国家外汇管理局：截至10月末，我国外汇储备规模为34052亿美元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727832.shtml",
-        "publishedAt": "2026-11-07T13:09:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T13:30:03.058+08:00",
+    "fetchedAt": "2026-11-07T13:40:03.608+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T13:30:06.991+08:00",
+      "fetchedAt": "2026-11-07T13:40:07.403+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T18:30:08.000+08:00"
+          "resetAt": "2026-11-07T18:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T13:30:07.217+08:00",
+      "fetchedAt": "2026-11-07T13:40:07.638+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T13:30:07.225+08:00",
+      "fetchedAt": "2026-11-07T13:40:07.643+08:00",
       "error": null
     }
   }
