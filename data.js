@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T14:40:09.628+08:00",
+  "updatedAt": "2026-11-07T14:50:08.872+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.5,
-    "feelsLikeC": 17.8,
-    "humidity": 60,
+    "tempC": 19.1,
+    "feelsLikeC": 17.6,
+    "humidity": 63,
     "windKph": 14.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T14:40:09.629+08:00",
+    "observedAt": "2026-11-07T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-07T14:50:08.872+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《2026中国酒店业数字化经营趋势报告》在京发布：短视频直播助力酒店民宿增收与长效发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727863.shtml",
-        "publishedAt": "2026-11-07T14:30:08.000+08:00"
+        "title": "欧加隆携手京东健康 探索血脂健康管理创新实践",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727869.shtml",
+        "publishedAt": "2026-11-07T14:41:25.000+08:00"
       },
       {
-        "title": "2026世界斯诺克巡回赛国际锦标赛：中国选手常冰玉无缘决赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727871.shtml",
-        "publishedAt": "2026-11-07T14:22:56.000+08:00"
+        "title": "中国风味，世界表达，产能领跑！历时三年半，郎酒峨上酒庄正式投产",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727862.shtml",
+        "publishedAt": "2026-11-07T14:40:39.000+08:00"
       },
       {
-        "title": "黄河中游湿地生态蝶变 大天鹅等多种候鸟成常客",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727877.shtml",
-        "publishedAt": "2026-11-07T14:22:04.000+08:00"
+        "title": "欧加隆携手美团医药健康深化战略合作 共建“家门口健康管理”服务生态",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727868.shtml",
+        "publishedAt": "2026-11-07T14:39:11.000+08:00"
       },
       {
-        "title": "2026年中国金鸡百花电影节在厦门开幕 黄晓明、赵丽颖点亮金鸡",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727870.shtml",
-        "publishedAt": "2026-11-07T14:21:46.000+08:00"
+        "title": "一杯咖啡连通山海，开放共赢“共享未来”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727866.shtml",
+        "publishedAt": "2026-11-07T14:38:05.000+08:00"
       },
       {
-        "title": "中国男足公布新一期集训名单 呈新老结合格局",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727876.shtml",
-        "publishedAt": "2026-11-07T14:21:02.000+08:00"
+        "title": "“2026·大历史观视域下艺术资源的传承与发展”研讨会在京举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727882.shtml",
+        "publishedAt": "2026-11-07T14:37:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T14:40:03.915+08:00",
+    "fetchedAt": "2026-11-07T14:50:03.040+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T14:40:07.959+08:00",
+      "fetchedAt": "2026-11-07T14:50:07.674+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T19:40:09.000+08:00"
+          "resetAt": "2026-11-07T19:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T14:40:08.381+08:00",
+      "fetchedAt": "2026-11-07T14:50:07.917+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T14:40:08.384+08:00",
+      "fetchedAt": "2026-11-07T14:50:07.926+08:00",
       "error": null
     }
   }
