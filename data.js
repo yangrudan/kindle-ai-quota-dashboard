@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T07:50:08.837+08:00",
+  "updatedAt": "2026-11-07T08:00:10.688+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
-    "feelsLikeC": 16,
+    "tempC": 17.5,
+    "feelsLikeC": 16.1,
     "humidity": 74,
-    "windKph": 14.6,
+    "windKph": 14.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T07:50:08.837+08:00",
+    "observedAt": "2026-11-07T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T08:00:10.688+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "美国10月非农就业新增16.5万 失业率4.1%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727739.shtml",
+        "publishedAt": "2026-11-07T07:46:00.000+08:00"
+      },
+      {
+        "title": "中国证监会同意葵花籽油、氢氧化锂期货和期权注册",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727741.shtml",
+        "publishedAt": "2026-11-07T07:44:20.000+08:00"
+      },
+      {
+        "title": "欧盟向缅甸和孟加拉国追加1600万欧元人道主义援助",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727738.shtml",
+        "publishedAt": "2026-11-07T07:43:24.000+08:00"
+      },
+      {
+        "title": "体检影像检查辐射会危害身体健康吗？这些误区要分清",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727740.shtml",
+        "publishedAt": "2026-11-07T07:42:46.000+08:00"
+      },
+      {
         "title": "网友自称“花260万元登顶珠峰”系谣言！",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727737.shtml",
         "publishedAt": "2026-11-07T07:09:30.000+08:00"
-      },
-      {
-        "title": "11月7日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-07/10727736.shtml",
-        "publishedAt": "2026-11-07T06:59:34.000+08:00"
-      },
-      {
-        "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
-        "publishedAt": "2026-11-07T06:55:53.000+08:00"
-      },
-      {
-        "title": "德国一小型飞机坠毁 机上2人遇难",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727731.shtml",
-        "publishedAt": "2026-11-07T06:42:21.000+08:00"
-      },
-      {
-        "title": "菲律宾妇女团体抗议美国扩大军事存在 反对“硅和平”倡议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727730.shtml",
-        "publishedAt": "2026-11-07T06:41:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T07:50:03.486+08:00",
+    "fetchedAt": "2026-11-07T08:00:05.217+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T07:50:07.655+08:00",
+      "fetchedAt": "2026-11-07T08:00:09.443+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T12:50:08.000+08:00"
+          "resetAt": "2026-11-07T13:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T07:50:07.896+08:00",
+      "fetchedAt": "2026-11-07T08:00:09.789+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T07:50:07.899+08:00",
+      "fetchedAt": "2026-11-07T08:00:09.792+08:00",
       "error": null
     }
   }
