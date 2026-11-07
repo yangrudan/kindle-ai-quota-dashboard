@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T10:10:08.226+08:00",
+  "updatedAt": "2026-11-07T10:20:09.053+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
+    "tempC": 18.9,
     "feelsLikeC": 17.4,
-    "humidity": 66,
-    "windKph": 13.5,
+    "humidity": 64,
+    "windKph": 14.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T10:10:08.226+08:00",
+    "observedAt": "2026-11-07T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-07T10:20:09.053+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从“十五五”专项规划看以金融服务发展大局",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727779.shtml",
-        "publishedAt": "2026-11-07T09:58:23.000+08:00"
+        "title": "开源开放 共建共享——2026年世界互联网大会乌镇峰会综述",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727786.shtml",
+        "publishedAt": "2026-11-07T10:13:34.000+08:00"
       },
       {
-        "title": "历史新高！翻番增长！一组数据感受中国经济强劲脉动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727777.shtml",
-        "publishedAt": "2026-11-07T09:56:27.000+08:00"
+        "title": "夏季“超长待机”、冷空气“一步到位”，如何“跟上”季节变化节奏？ | 梳理↓",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727785.shtml",
+        "publishedAt": "2026-11-07T10:11:34.000+08:00"
       },
       {
-        "title": "“粮安天下 智链未来” 中国国际粮油博览会在厦门开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727771.shtml",
-        "publishedAt": "2026-11-07T09:55:43.000+08:00"
+        "title": "神舟二十四号载人飞行任务标识发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727784.shtml",
+        "publishedAt": "2026-11-07T10:07:30.000+08:00"
       },
       {
-        "title": "广西首次记录孑遗植物水青树古树",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727772.shtml",
-        "publishedAt": "2026-11-07T09:54:49.000+08:00"
+        "title": "中国空间站将迎来首位外籍航天员",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727783.shtml",
+        "publishedAt": "2026-11-07T10:06:58.000+08:00"
       },
       {
-        "title": "赵乐际会见奥地利总理施托克尔",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210078.shtml",
-        "publishedAt": "2026-11-07T09:43:39.000+08:00"
+        "title": "曼谷湄南河龙舟巡游",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210079.shtml",
+        "publishedAt": "2026-11-07T10:05:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T10:10:03.123+08:00",
+    "fetchedAt": "2026-11-07T10:20:03.599+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T10:10:06.677+08:00",
+      "fetchedAt": "2026-11-07T10:20:07.711+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T10:10:06.955+08:00",
+      "fetchedAt": "2026-11-07T10:20:08.018+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T10:10:06.964+08:00",
+      "fetchedAt": "2026-11-07T10:20:08.021+08:00",
       "error": null
     }
   }
