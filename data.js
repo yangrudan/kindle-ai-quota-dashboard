@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T16:50:38.755+08:00",
+  "updatedAt": "2026-11-07T17:00:09.272+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.2,
-    "feelsLikeC": 16.1,
+    "tempC": 18.1,
+    "feelsLikeC": 15.9,
     "humidity": 65,
-    "windKph": 17.5,
+    "windKph": 18.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-07T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T16:50:38.756+08:00",
+    "observedAt": "2026-11-07T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T17:00:09.272+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河北保定一在建桥梁桥体脱落",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727926.shtml",
-        "publishedAt": "2026-11-07T16:42:39.000+08:00"
+        "title": "全国7481名长城保护员将获巡护装备包",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727960.shtml",
+        "publishedAt": "2026-11-07T16:59:22.000+08:00"
       },
       {
-        "title": "刑事诉讼法修改进程引热议：把“管住权力、保障权利”落到实处",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727937.shtml",
-        "publishedAt": "2026-11-07T16:42:05.000+08:00"
+        "title": "两岸“小三通”客运航线今年出入境旅客量突破203万人次 创历史新高",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727955.shtml",
+        "publishedAt": "2026-11-07T16:56:22.000+08:00"
       },
       {
-        "title": "（第九届进博会）零关税添机遇 非洲好物进博寻商机",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727940.shtml",
-        "publishedAt": "2026-11-07T16:41:41.000+08:00"
+        "title": "河北鸡泽：市政铸件畅销海内外",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727928.shtml",
+        "publishedAt": "2026-11-07T16:53:18.000+08:00"
       },
       {
-        "title": "（第九届进博会）台企参展规模扩大：进博会是“最好舞台”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727936.shtml",
-        "publishedAt": "2026-11-07T16:40:39.000+08:00"
+        "title": "广州港南沙四期全自动化码头迎来首条外贸班轮航线",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727944.shtml",
+        "publishedAt": "2026-11-07T16:47:35.000+08:00"
       },
       {
-        "title": "新加坡艺术家林子平特展在上海开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727945.shtml",
-        "publishedAt": "2026-11-07T16:39:43.000+08:00"
+        "title": "湖南低空装备加速出海 “株洲造”飞向全球",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727939.shtml",
+        "publishedAt": "2026-11-07T16:46:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T16:50:03.874+08:00",
+    "fetchedAt": "2026-11-07T17:00:03.318+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-07T16:50:37.328+08:00",
+      "fetchedAt": "2026-11-07T17:00:07.806+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T21:50:38.000+08:00"
+          "resetAt": "2026-11-07T22:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T16:50:37.560+08:00",
+      "fetchedAt": "2026-11-07T17:00:08.084+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-07T16:50:37.570+08:00",
+      "fetchedAt": "2026-11-07T17:00:08.093+08:00",
       "error": null
     }
   }
