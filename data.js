@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T19:10:08.628+08:00",
+  "updatedAt": "2026-11-08T19:20:08.527+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.6,
-    "feelsLikeC": 16.3,
+    "tempC": 16.5,
+    "feelsLikeC": 16.2,
     "humidity": 93,
-    "windKph": 13.9,
+    "windKph": 14.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T19:10:08.628+08:00",
+    "observedAt": "2026-11-08T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T19:20:08.528+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中央气象台11月8日18时继续发布大风蓝色预警",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728465.shtml",
+        "publishedAt": "2026-11-08T19:05:39.000+08:00"
+      },
+      {
+        "title": "直播：第十三届“好记者讲好故事”——2026中国记者节特别节目",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-08/10728466.shtml",
+        "publishedAt": "2026-11-08T19:04:31.000+08:00"
+      },
       {
         "title": "寒潮蓝色预警：湖北等10省份部分地区降温10～12℃",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728464.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "寒潮继续影响中东部地区 云南等地多降水",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728462.shtml",
         "publishedAt": "2026-11-08T18:45:54.000+08:00"
-      },
-      {
-        "title": "山西太原一高层建筑发生火灾 消防人员仍在扑救",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728461.shtml",
-        "publishedAt": "2026-11-08T18:36:56.000+08:00"
-      },
-      {
-        "title": "韩正访问格鲁吉亚",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728428.shtml",
-        "publishedAt": "2026-11-08T18:34:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T19:10:03.595+08:00",
+    "fetchedAt": "2026-11-08T19:20:03.259+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T19:10:07.450+08:00",
+      "fetchedAt": "2026-11-08T19:20:07.243+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T00:10:08.000+08:00"
+          "resetAt": "2026-11-09T00:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T19:10:07.668+08:00",
+      "fetchedAt": "2026-11-08T19:20:07.524+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T19:10:07.677+08:00",
+      "fetchedAt": "2026-11-08T19:20:07.532+08:00",
       "error": null
     }
   }
