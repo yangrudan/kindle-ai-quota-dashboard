@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T09:30:08.561+08:00",
+  "updatedAt": "2026-11-08T09:40:39.086+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-08T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T09:30:08.561+08:00",
+    "fetchedAt": "2026-11-08T09:40:39.086+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国新闻社7件作品获中国新闻奖，2件作品一等奖！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728238.shtml",
+        "publishedAt": "2026-11-08T09:35:27.000+08:00"
+      },
+      {
+        "title": "“航母五件套”未来还可能升级！专家解读“5+X”新模式",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728237.shtml",
+        "publishedAt": "2026-11-08T09:33:10.000+08:00"
+      },
       {
         "title": "光“星巴扎”就破防？那我告诉你，国际酒店也成群去新疆了",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728236.shtml",
@@ -33,19 +43,9 @@
         "title": "广西开行首趟“八桂嗦粉”主题旅游列车 列车上设有米粉展示区",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728219.shtml",
         "publishedAt": "2026-11-08T09:15:13.000+08:00"
-      },
-      {
-        "title": "第二十三届北京论坛开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728220.shtml",
-        "publishedAt": "2026-11-08T09:03:45.000+08:00"
-      },
-      {
-        "title": "东南亚警察组队赴“村超”踢球",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728218.shtml",
-        "publishedAt": "2026-11-08T09:02:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T09:30:03.552+08:00",
+    "fetchedAt": "2026-11-08T09:40:03.548+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T09:30:07.382+08:00",
+      "fetchedAt": "2026-11-08T09:40:37.427+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T14:30:08.000+08:00"
+          "resetAt": "2026-11-08T14:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T09:30:07.654+08:00",
+      "fetchedAt": "2026-11-08T09:40:37.786+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T09:30:07.662+08:00",
+      "fetchedAt": "2026-11-08T09:40:37.791+08:00",
       "error": null
     }
   }
