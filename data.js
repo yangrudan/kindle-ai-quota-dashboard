@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T10:30:40.301+08:00",
+  "updatedAt": "2026-11-08T10:40:09.175+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-08T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T10:30:40.301+08:00",
+    "fetchedAt": "2026-11-08T10:40:09.175+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "青春华章 疆来可期丨邝斐婷：传承袁隆平院士精神，让一粒种子在新疆沙漠扎下根",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728262.shtml",
+        "publishedAt": "2026-11-08T10:33:16.000+08:00"
+      },
+      {
+        "title": "民众参观红军西路军进疆纪念馆",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210164.shtml",
+        "publishedAt": "2026-11-08T10:27:43.000+08:00"
+      },
+      {
+        "title": "举重世锦赛：廖桂芳摘得三金 刷新两项世界纪录",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728252.shtml",
+        "publishedAt": "2026-11-08T10:25:09.000+08:00"
+      },
       {
         "title": "国家图书馆举办“纪念八大山人诞辰400周年”国图公开课特别活动",
         "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728249.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "览草原盛事品边城风味 《藏不住的好去处》走进呼伦贝尔",
         "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728248.shtml",
         "publishedAt": "2026-11-08T10:24:13.000+08:00"
-      },
-      {
-        "title": "太平洋部分海域为何更蓝更绿？最新研究称或是微塑料浓度增加所致",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728243.shtml",
-        "publishedAt": "2026-11-08T10:23:17.000+08:00"
-      },
-      {
-        "title": "深入学习贯彻党的二十届五中全会精神系列述评之七",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728258.shtml",
-        "publishedAt": "2026-11-08T10:21:55.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）从百年“赛珍会”到进博“静安会客厅”：张园让全球珍奇走进上海街区的365天",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728247.shtml",
-        "publishedAt": "2026-11-08T10:21:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T10:30:04.964+08:00",
+    "fetchedAt": "2026-11-08T10:40:03.694+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T10:30:39.110+08:00",
+      "fetchedAt": "2026-11-08T10:40:07.666+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T15:30:40.000+08:00"
+          "resetAt": "2026-11-08T15:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T10:30:39.384+08:00",
+      "fetchedAt": "2026-11-08T10:40:07.858+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T10:30:39.388+08:00",
+      "fetchedAt": "2026-11-08T10:40:07.862+08:00",
       "error": null
     }
   }
