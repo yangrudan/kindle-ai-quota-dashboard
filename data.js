@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T15:30:09.660+08:00",
+  "updatedAt": "2026-11-08T15:40:10.112+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-08T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T15:30:09.660+08:00",
+    "fetchedAt": "2026-11-08T15:40:10.112+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "12分10板 杨瀚森拿下NBA生涯首个两双",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210208.shtml",
+        "publishedAt": "2026-11-08T15:32:25.000+08:00"
+      },
+      {
+        "title": "口袋绿地、便民工坊 群众家门口有了“幸福圈”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728357.shtml",
+        "publishedAt": "2026-11-08T15:27:40.000+08:00"
+      },
+      {
+        "title": "以更优服务解决群众急难愁盼（贯彻五中全会精神一线见闻）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728356.shtml",
+        "publishedAt": "2026-11-08T15:23:09.000+08:00"
+      },
       {
         "title": "国际锐评丨进博之约让世界共享开放红利",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728355.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "波兰克拉科夫发生枪击事件 已致6死16伤",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210194.shtml",
         "publishedAt": "2026-11-08T15:11:37.000+08:00"
-      },
-      {
-        "title": "数据中心回收服务器余热 为供暖提供“热源”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728353.shtml",
-        "publishedAt": "2026-11-08T15:05:30.000+08:00"
-      },
-      {
-        "title": "综述｜从亲历到读懂：国际媒体人士共话真实中国",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728352.shtml",
-        "publishedAt": "2026-11-08T15:01:50.000+08:00"
-      },
-      {
-        "title": "全国消防日 | 火灾调查行家说：冷静判断、科学逃生是保命根本",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728351.shtml",
-        "publishedAt": "2026-11-08T14:52:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T15:30:04.574+08:00",
+    "fetchedAt": "2026-11-08T15:40:03.424+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T15:30:08.235+08:00",
+      "fetchedAt": "2026-11-08T15:40:08.653+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T20:30:09.000+08:00"
+          "resetAt": "2026-11-08T20:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T15:30:08.495+08:00",
+      "fetchedAt": "2026-11-08T15:40:08.992+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T15:30:08.505+08:00",
+      "fetchedAt": "2026-11-08T15:40:08.999+08:00",
       "error": null
     }
   }
