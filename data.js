@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T08:20:08.449+08:00",
+  "updatedAt": "2026-11-08T08:30:09.474+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15.4,
-    "feelsLikeC": 15.8,
+    "feelsLikeC": 15.9,
     "humidity": 97,
-    "windKph": 8,
+    "windKph": 7.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-08T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T08:20:08.449+08:00",
+    "observedAt": "2026-11-08T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T08:30:09.474+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728204.shtml",
-        "publishedAt": "2026-11-08T08:02:22.000+08:00"
+        "title": "雨雪降温来袭 天津部分高速封闭限行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728231.shtml",
+        "publishedAt": "2026-11-08T08:28:29.000+08:00"
       },
       {
-        "title": "日本静冈县西部发生5.7级地震",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728203.shtml",
-        "publishedAt": "2026-11-08T07:54:25.000+08:00"
+        "title": "浙江西塘上演国风主题活动 传统文化在水乡“活”起来",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728206.shtml",
+        "publishedAt": "2026-11-08T08:26:19.000+08:00"
       },
       {
-        "title": "年轻人为何爱看“古人开演唱会”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728202.shtml",
-        "publishedAt": "2026-11-08T07:53:25.000+08:00"
+        "title": "河北秦皇岛凌晨发布暴雪红色预警 降雪仍在持续",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728229.shtml",
+        "publishedAt": "2026-11-08T08:25:41.000+08:00"
       },
       {
-        "title": "买棉服别踩坑！名字带棉不一定是棉花，重点看吊牌",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728201.shtml",
-        "publishedAt": "2026-11-08T07:14:19.000+08:00"
+        "title": "（第九届进博会）中欧商界寻找合作共振点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728205.shtml",
+        "publishedAt": "2026-11-08T08:24:27.000+08:00"
       },
       {
-        "title": "11月8日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-08/10728200.shtml",
-        "publishedAt": "2026-11-08T07:04:24.000+08:00"
+        "title": "“光影聚智·两岸共生”影视文化沙龙分享会在厦门举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728213.shtml",
+        "publishedAt": "2026-11-08T08:21:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T08:20:03.581+08:00",
+    "fetchedAt": "2026-11-08T08:30:04.520+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T08:20:07.226+08:00",
+      "fetchedAt": "2026-11-08T08:30:08.094+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T13:20:08.000+08:00"
+          "resetAt": "2026-11-08T13:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T08:20:07.448+08:00",
+      "fetchedAt": "2026-11-08T08:30:08.308+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T08:20:07.454+08:00",
+      "fetchedAt": "2026-11-08T08:30:08.318+08:00",
       "error": null
     }
   }
