@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T19:40:09.167+08:00",
+  "updatedAt": "2026-11-08T19:50:39.435+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.5,
-    "feelsLikeC": 16.2,
+    "feelsLikeC": 16.1,
     "humidity": 92,
     "windKph": 14.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T19:40:09.167+08:00",
+    "observedAt": "2026-11-08T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T19:50:39.436+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第十二届文山三七节开幕 以三七为媒共话友谊",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728482.shtml",
-        "publishedAt": "2026-11-08T19:34:21.000+08:00"
+        "title": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728492.shtml",
+        "publishedAt": "2026-11-08T19:44:17.000+08:00"
       },
       {
-        "title": "两度赴贵州赫章 广州番禺教师夫妻把山里孩子放在心上",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-08/10728481.shtml",
-        "publishedAt": "2026-11-08T19:34:13.000+08:00"
+        "title": "第六届长三角街舞公开赛落幕 千年古城邂逅青春律动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728477.shtml",
+        "publishedAt": "2026-11-08T19:43:47.000+08:00"
       },
       {
-        "title": "聚焦AI与VR双向赋能 第二十六届中国虚拟现实大会在穗举办",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728480.shtml",
-        "publishedAt": "2026-11-08T19:33:31.000+08:00"
+        "title": "（粤港澳大湾区）2026国际湾区经济论坛聚焦全球湾区经济合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728473.shtml",
+        "publishedAt": "2026-11-08T19:42:47.000+08:00"
       },
       {
-        "title": "奥运“四金王”施廷懋助阵 2026重庆涪陵白鹤梁半马起跑",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728479.shtml",
-        "publishedAt": "2026-11-08T19:32:35.000+08:00"
+        "title": "中超联赛：上海申花4比0胜青岛西海",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210254.shtml",
+        "publishedAt": "2026-11-08T19:42:01.000+08:00"
       },
       {
-        "title": "（第九届进博会）在进博读懂中国“引力场”：每一次“再来”都有新可能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728475.shtml",
-        "publishedAt": "2026-11-08T19:31:15.000+08:00"
+        "title": "“孙中山《实业计划》与上海孙中山故居馆藏图书文献”专题数据库上线",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728472.shtml",
+        "publishedAt": "2026-11-08T19:41:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T19:40:03.820+08:00",
+    "fetchedAt": "2026-11-08T19:50:04.028+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T19:40:07.768+08:00",
+      "fetchedAt": "2026-11-08T19:50:38.119+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T00:40:09.000+08:00"
+          "resetAt": "2026-11-09T00:50:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T19:40:08.010+08:00",
+      "fetchedAt": "2026-11-08T19:50:38.455+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T19:40:08.019+08:00",
+      "fetchedAt": "2026-11-08T19:50:38.459+08:00",
       "error": null
     }
   }
