@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T09:00:08.452+08:00",
+  "updatedAt": "2026-11-08T09:10:09.591+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-08T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T09:00:08.453+08:00",
+    "fetchedAt": "2026-11-08T09:10:09.592+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "四川广元：航拍曾家山数万亩林海披上“黄金甲”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728225.shtml",
-        "publishedAt": "2026-11-08T08:51:50.000+08:00"
+        "title": "第二十三届北京论坛开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728220.shtml",
+        "publishedAt": "2026-11-08T09:03:45.000+08:00"
       },
       {
-        "title": "湖北巴东：600余人立冬横渡三峡",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728226.shtml",
-        "publishedAt": "2026-11-08T08:51:16.000+08:00"
+        "title": "东南亚警察组队赴“村超”踢球",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728218.shtml",
+        "publishedAt": "2026-11-08T09:02:47.000+08:00"
       },
       {
-        "title": "2026中国杯世界花样滑冰大奖赛：女子单人滑·自由滑项目展开角逐",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728223.shtml",
-        "publishedAt": "2026-11-08T08:50:00.000+08:00"
+        "title": "寒潮继续影响中东部地区 局地降温可达14℃以上",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728234.shtml",
+        "publishedAt": "2026-11-08T08:59:57.000+08:00"
       },
       {
-        "title": "浙江杭州：市民游客打卡杭州ADM展 解锁多元生活方式",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728228.shtml",
-        "publishedAt": "2026-11-08T08:47:54.000+08:00"
+        "title": "“90后”返乡青年深耕电商 花木衍生产业年销近亿元",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728217.shtml",
+        "publishedAt": "2026-11-08T08:58:03.000+08:00"
       },
       {
-        "title": "浙江省第十二届残疾人运动会在衢州开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728227.shtml",
-        "publishedAt": "2026-11-08T08:47:28.000+08:00"
+        "title": "云南“十五五”将建成多源多尺度实景三维云南",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728216.shtml",
+        "publishedAt": "2026-11-08T08:57:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T09:00:03.246+08:00",
+    "fetchedAt": "2026-11-08T09:10:03.756+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T09:00:07.089+08:00",
+      "fetchedAt": "2026-11-08T09:10:08.284+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T14:00:08.000+08:00"
+          "resetAt": "2026-11-08T14:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T09:00:07.378+08:00",
+      "fetchedAt": "2026-11-08T09:10:08.537+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T09:00:07.382+08:00",
+      "fetchedAt": "2026-11-08T09:10:08.545+08:00",
       "error": null
     }
   }
