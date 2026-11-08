@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T10:00:09.399+08:00",
+  "updatedAt": "2026-11-08T10:10:09.116+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-08T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T10:00:09.399+08:00",
+    "fetchedAt": "2026-11-08T10:10:09.116+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "多地雪场进入“开板模式” 做好防护才能安心畅滑",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728255.shtml",
+        "publishedAt": "2026-11-08T10:03:50.000+08:00"
+      },
       {
         "title": "第九届虹桥国际经济论坛举行，与会人士呼吁——坚守多边主义，推进普惠包容的经济全球化",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728239.shtml",
@@ -35,17 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-08T09:33:10.000+08:00"
       },
       {
-        "title": "光“星巴扎”就破防？那我告诉你，国际酒店也成群去新疆了",
+        "title": "国际酒店“集体抢滩”新疆",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728236.shtml",
         "publishedAt": "2026-11-08T09:20:38.000+08:00"
-      },
-      {
-        "title": "日本静冈县西部发生5.7级地震",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210155.shtml",
-        "publishedAt": "2026-11-08T09:16:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T10:00:03.702+08:00",
+    "fetchedAt": "2026-11-08T10:10:03.978+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T10:00:08.163+08:00",
+      "fetchedAt": "2026-11-08T10:10:07.758+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T15:00:09.000+08:00"
+          "resetAt": "2026-11-08T15:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T10:00:08.486+08:00",
+      "fetchedAt": "2026-11-08T10:10:07.975+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T10:00:08.493+08:00",
+      "fetchedAt": "2026-11-08T10:10:07.984+08:00",
       "error": null
     }
   }
