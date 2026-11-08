@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T11:00:08.027+08:00",
+  "updatedAt": "2026-11-08T11:10:08.972+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-08T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T11:00:08.027+08:00",
+    "fetchedAt": "2026-11-08T11:10:08.972+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "评论：台企“回流”大陆印证产供链深度嵌合",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728278.shtml",
+        "publishedAt": "2026-11-08T11:03:37.000+08:00"
+      },
+      {
+        "title": "波兰克拉科夫枪击事件已致6死 枪手家中另发现3具遗体",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728276.shtml",
+        "publishedAt": "2026-11-08T11:01:23.000+08:00"
+      },
+      {
+        "title": "日本静冈县地震已致20余人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728274.shtml",
+        "publishedAt": "2026-11-08T10:59:33.000+08:00"
+      },
+      {
+        "title": "心脑血管急症身体会有哪些预警？这些症状要警惕",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-08/10728273.shtml",
+        "publishedAt": "2026-11-08T10:57:21.000+08:00"
+      },
+      {
         "title": "日本有识之士：热播日剧颠倒黑白别有用心 缺乏正确史观",
         "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728272.shtml",
         "publishedAt": "2026-11-08T10:55:03.000+08:00"
-      },
-      {
-        "title": "胡塞武装称沙特空袭也门萨那周边",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210168.shtml",
-        "publishedAt": "2026-11-08T10:54:20.000+08:00"
-      },
-      {
-        "title": "从“进博好物”看消费新趋势",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728270.shtml",
-        "publishedAt": "2026-11-08T10:53:59.000+08:00"
-      },
-      {
-        "title": "日媒：日本新版防卫战略或强化“持续作战能力”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728269.shtml",
-        "publishedAt": "2026-11-08T10:49:19.000+08:00"
-      },
-      {
-        "title": "中国杯世界花样滑冰大奖赛：米希纳/加利亚莫夫夺得双人滑冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728245.shtml",
-        "publishedAt": "2026-11-08T10:48:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T11:00:02.711+08:00",
+    "fetchedAt": "2026-11-08T11:10:03.376+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T11:00:06.374+08:00",
+      "fetchedAt": "2026-11-08T11:10:07.657+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T16:00:08.000+08:00"
+          "resetAt": "2026-11-08T16:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T11:00:06.545+08:00",
+      "fetchedAt": "2026-11-08T11:10:07.819+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T11:00:06.555+08:00",
+      "fetchedAt": "2026-11-08T11:10:07.826+08:00",
       "error": null
     }
   }
