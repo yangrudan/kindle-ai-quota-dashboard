@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T18:30:07.940+08:00",
+  "updatedAt": "2026-11-08T18:40:18.601+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-08T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T18:30:07.941+08:00",
+    "fetchedAt": "2026-11-08T18:40:18.601+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "山西太原一高层建筑发生火灾 消防人员仍在扑救",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728461.shtml",
+        "publishedAt": "2026-11-08T18:36:56.000+08:00"
+      },
+      {
+        "title": "韩正访问格鲁吉亚",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728428.shtml",
+        "publishedAt": "2026-11-08T18:34:16.000+08:00"
+      },
+      {
+        "title": "海峡两岸机械产业博览会在福建龙岩开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728456.shtml",
+        "publishedAt": "2026-11-08T18:27:27.000+08:00"
+      },
       {
         "title": "2026中国杯世界花样滑冰大奖赛：男子单人滑·自由滑项目展开角逐",
         "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728445.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "河南新乡：蔬菜智慧种植引民众参观打卡",
         "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728437.shtml",
         "publishedAt": "2026-11-08T18:24:53.000+08:00"
-      },
-      {
-        "title": "重庆市第八届大学生艺术展演活动现场集中展演举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728436.shtml",
-        "publishedAt": "2026-11-08T18:23:49.000+08:00"
-      },
-      {
-        "title": "通讯：APEC之城：出海路上的“侨”力量",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728447.shtml",
-        "publishedAt": "2026-11-08T18:23:29.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）三个“进博故事”里的安徽开放之约",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728448.shtml",
-        "publishedAt": "2026-11-08T18:22:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T18:30:02.669+08:00",
+    "fetchedAt": "2026-11-08T18:40:12.487+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T18:30:06.533+08:00",
+      "fetchedAt": "2026-11-08T18:40:17.124+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T23:30:07.000+08:00"
+          "resetAt": "2026-11-08T23:40:18.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T18:30:06.876+08:00",
+      "fetchedAt": "2026-11-08T18:40:17.451+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T18:30:06.885+08:00",
+      "fetchedAt": "2026-11-08T18:40:17.455+08:00",
       "error": null
     }
   }
