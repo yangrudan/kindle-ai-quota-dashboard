@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T21:20:09.094+08:00",
+  "updatedAt": "2026-11-08T21:30:08.986+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16,
-    "feelsLikeC": 14.9,
+    "tempC": 15.9,
+    "feelsLikeC": 14.8,
     "humidity": 89,
-    "windKph": 16.3,
+    "windKph": 16.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T21:20:09.095+08:00",
+    "observedAt": "2026-11-08T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T21:30:08.986+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "以首发经济看进博：一场关于“未来”的剧透",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728549.shtml",
+        "publishedAt": "2026-11-08T21:26:35.000+08:00"
+      },
+      {
+        "title": "埃及列车脱轨事故致司机死亡 64人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728548.shtml",
+        "publishedAt": "2026-11-08T21:20:13.000+08:00"
+      },
       {
         "title": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728532.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "舞剧《五星出东方》将亮相希腊舞台",
         "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728538.shtml",
         "publishedAt": "2026-11-08T21:02:24.000+08:00"
-      },
-      {
-        "title": "尼泊尔举行敬狗日庆祝活动 呼吁关注动物福利",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728534.shtml",
-        "publishedAt": "2026-11-08T21:02:04.000+08:00"
-      },
-      {
-        "title": "埃及列车脱轨事故致司机死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728543.shtml",
-        "publishedAt": "2026-11-08T21:02:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T21:20:03.559+08:00",
+    "fetchedAt": "2026-11-08T21:30:03.782+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T21:20:07.707+08:00",
+      "fetchedAt": "2026-11-08T21:30:07.715+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T02:20:08.000+08:00"
+          "resetAt": "2026-11-09T02:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T21:20:08.046+08:00",
+      "fetchedAt": "2026-11-08T21:30:08.045+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T21:20:08.056+08:00",
+      "fetchedAt": "2026-11-08T21:30:08.053+08:00",
       "error": null
     }
   }
