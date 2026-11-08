@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:50:08.520+08:00",
+  "updatedAt": "2026-11-08T18:00:48.683+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-08T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T17:50:08.520+08:00",
+    "fetchedAt": "2026-11-08T18:00:48.683+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "非法窃取个人信息10亿余条 “开盒”者数罪并罚被严惩",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728426.shtml",
+        "publishedAt": "2026-11-08T17:54:57.000+08:00"
+      },
+      {
+        "title": "今年前10个月国开行发放制造业贷款超4800亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728425.shtml",
+        "publishedAt": "2026-11-08T17:50:31.000+08:00"
+      },
+      {
+        "title": "大连英博队获中超冠军 成都蓉城队四连败丢冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728423.shtml",
+        "publishedAt": "2026-11-08T17:49:17.000+08:00"
+      },
+      {
+        "title": "阿勒泰市第三中学：以法润校 守护民族团结之花",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728424.shtml",
+        "publishedAt": "2026-11-08T17:46:17.000+08:00"
+      },
+      {
         "title": "第九届进博会｜进博会上东非鲜切花探路中国",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728422.shtml",
         "publishedAt": "2026-11-08T17:39:13.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）进博好物“护航”大众睡眠",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210227.shtml",
-        "publishedAt": "2026-11-08T17:32:23.000+08:00"
-      },
-      {
-        "title": "中国挖掘机在海外卖爆了！什么情况？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728420.shtml",
-        "publishedAt": "2026-11-08T17:31:16.000+08:00"
-      },
-      {
-        "title": "特稿｜中国微短剧在欧洲激起涟漪",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728419.shtml",
-        "publishedAt": "2026-11-08T17:20:02.000+08:00"
-      },
-      {
-        "title": "日本大阪发生持刀伤人事件致1人受伤 嫌犯被捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728417.shtml",
-        "publishedAt": "2026-11-08T17:10:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T17:50:03.408+08:00",
+    "fetchedAt": "2026-11-08T18:00:12.810+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T17:50:07.255+08:00",
+      "fetchedAt": "2026-11-08T18:00:47.395+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T22:50:08.000+08:00"
+          "resetAt": "2026-11-08T23:00:48.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T17:50:07.539+08:00",
+      "fetchedAt": "2026-11-08T18:00:47.708+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T17:50:07.543+08:00",
+      "fetchedAt": "2026-11-08T18:00:47.718+08:00",
       "error": null
     }
   }
