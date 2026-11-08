@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T23:10:08.077+08:00",
+  "updatedAt": "2026-11-08T23:20:37.850+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.4,
-    "feelsLikeC": 14.1,
+    "tempC": 15.3,
+    "feelsLikeC": 13.9,
     "humidity": 88,
-    "windKph": 16.3,
+    "windKph": 16.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T23:10:08.077+08:00",
+    "observedAt": "2026-11-08T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T23:20:37.850+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "举重世锦赛落幕：中国队夺得17金10银6铜",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728569.shtml",
+        "publishedAt": "2026-11-08T23:16:05.000+08:00"
+      },
       {
         "title": "畅通教育科技人才良性循环 为新质生产力蓄势赋能",
         "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
         "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728563.shtml",
         "publishedAt": "2026-11-08T22:09:45.000+08:00"
-      },
-      {
-        "title": "中超末轮综述：英博大逆转夺冠 蓉城不敌泰山功亏一篑",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728562.shtml",
-        "publishedAt": "2026-11-08T22:08:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T23:10:03.271+08:00",
+    "fetchedAt": "2026-11-08T23:20:02.901+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T23:10:06.883+08:00",
+      "fetchedAt": "2026-11-08T23:20:36.457+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T04:10:07.000+08:00"
+          "resetAt": "2026-11-09T04:20:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T23:10:07.161+08:00",
+      "fetchedAt": "2026-11-08T23:20:36.826+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T23:10:07.172+08:00",
+      "fetchedAt": "2026-11-08T23:20:36.834+08:00",
       "error": null
     }
   }
