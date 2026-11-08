@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T22:20:38.450+08:00",
+  "updatedAt": "2026-11-08T22:30:08.606+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.7,
-    "feelsLikeC": 14.5,
+    "tempC": 15.6,
+    "feelsLikeC": 14.4,
     "humidity": 88,
     "windKph": 16.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T22:20:38.450+08:00",
+    "observedAt": "2026-11-08T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T22:30:08.606+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "WTA250香港公开赛收官 美国选手刘婧文击败菲律宾选手埃亚拉夺得女单冠军",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728566.shtml",
+        "publishedAt": "2026-11-08T22:25:50.000+08:00"
+      },
       {
         "title": "风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
         "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728563.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "民众齐唱《小白杨》送别词作家梁上泉",
         "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728554.shtml",
         "publishedAt": "2026-11-08T21:43:46.000+08:00"
-      },
-      {
-        "title": "铸牢共同体 中华一家亲丨六星街：奏响多民族共居共乐的“最美和声”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-08/10728553.shtml",
-        "publishedAt": "2026-11-08T21:40:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T22:20:03.456+08:00",
+    "fetchedAt": "2026-11-08T22:30:03.063+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T22:20:37.092+08:00",
+      "fetchedAt": "2026-11-08T22:30:07.389+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T03:20:38.000+08:00"
+          "resetAt": "2026-11-09T03:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T22:20:37.454+08:00",
+      "fetchedAt": "2026-11-08T22:30:07.710+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T22:20:37.462+08:00",
+      "fetchedAt": "2026-11-08T22:30:07.717+08:00",
       "error": null
     }
   }
