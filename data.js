@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T08:00:38.508+08:00",
+  "updatedAt": "2026-11-08T08:10:37.611+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-08T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T08:00:38.508+08:00",
+    "fetchedAt": "2026-11-08T08:10:37.611+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728204.shtml",
+        "publishedAt": "2026-11-08T08:02:22.000+08:00"
+      },
       {
         "title": "日本静冈县西部发生5.7级地震",
         "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728203.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "11月8日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-08/10728200.shtml",
         "publishedAt": "2026-11-08T07:04:24.000+08:00"
-      },
-      {
-        "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728199.shtml",
-        "publishedAt": "2026-11-08T06:53:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T08:00:03.132+08:00",
+    "fetchedAt": "2026-11-08T08:10:02.975+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T08:00:37.296+08:00",
+      "fetchedAt": "2026-11-08T08:10:36.239+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T13:00:38.000+08:00"
+          "resetAt": "2026-11-08T13:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T08:00:37.526+08:00",
+      "fetchedAt": "2026-11-08T08:10:36.461+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T08:00:37.535+08:00",
+      "fetchedAt": "2026-11-08T08:10:36.471+08:00",
       "error": null
     }
   }
