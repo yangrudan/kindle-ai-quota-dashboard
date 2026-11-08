@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T07:20:38.487+08:00",
+  "updatedAt": "2026-11-09T07:30:10.574+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 11.3,
-    "feelsLikeC": 7.9,
+    "feelsLikeC": 7.8,
     "humidity": 79,
-    "windKph": 19.4,
+    "windKph": 19.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-09T07:20:38.487+08:00",
+    "observedAt": "2026-11-09T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-09T07:30:10.575+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728587.shtml",
+        "publishedAt": "2026-11-09T07:24:58.000+08:00"
+      },
       {
         "title": "日本宫城县近海发生4.5级地震 多地有震感",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728585.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "我国成功发射卫星互联网低轨29组卫星",
         "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728582.shtml",
         "publishedAt": "2026-11-09T06:40:59.000+08:00"
-      },
-      {
-        "title": "特朗普：美伊谈判若取得进展 “极不可能”再对伊动武",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728581.shtml",
-        "publishedAt": "2026-11-09T06:22:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T07:20:03.627+08:00",
+    "fetchedAt": "2026-11-09T07:30:04.925+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T07:20:37.299+08:00",
+      "fetchedAt": "2026-11-09T07:30:09.165+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T12:20:38.000+08:00"
+          "resetAt": "2026-11-09T12:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T07:20:37.540+08:00",
+      "fetchedAt": "2026-11-09T07:30:09.402+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T07:20:37.549+08:00",
+      "fetchedAt": "2026-11-09T07:30:09.411+08:00",
       "error": null
     }
   }
