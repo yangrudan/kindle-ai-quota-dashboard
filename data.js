@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T17:40:10.985+08:00",
+  "updatedAt": "2026-11-08T17:50:08.520+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17,
-    "feelsLikeC": 17.5,
-    "humidity": 95,
-    "windKph": 10.8,
+    "tempC": 16.9,
+    "feelsLikeC": 17.2,
+    "humidity": 94,
+    "windKph": 11.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T17:40:10.985+08:00",
+    "observedAt": "2026-11-08T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T17:50:08.520+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第九届进博会｜进博会上东非鲜切花探路中国",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728422.shtml",
+        "publishedAt": "2026-11-08T17:39:13.000+08:00"
+      },
       {
         "title": "（第九届进博会）进博好物“护航”大众睡眠",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210227.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "日本大阪发生持刀伤人事件致1人受伤 嫌犯被捕",
         "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728417.shtml",
         "publishedAt": "2026-11-08T17:10:35.000+08:00"
-      },
-      {
-        "title": "法兰克福无四强，国乒莫让“学费”白交",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728416.shtml",
-        "publishedAt": "2026-11-08T17:10:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T17:40:05.014+08:00",
+    "fetchedAt": "2026-11-08T17:50:03.408+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T17:40:09.319+08:00",
+      "fetchedAt": "2026-11-08T17:50:07.255+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T22:40:10.000+08:00"
+          "resetAt": "2026-11-08T22:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T17:40:09.550+08:00",
+      "fetchedAt": "2026-11-08T17:50:07.539+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T17:40:09.557+08:00",
+      "fetchedAt": "2026-11-08T17:50:07.543+08:00",
       "error": null
     }
   }
