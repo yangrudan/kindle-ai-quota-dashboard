@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T14:10:38.699+08:00",
+  "updatedAt": "2026-11-08T14:20:09.211+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
+    "description": "雨",
+    "iconKey": "rain",
     "tempC": 18.5,
     "feelsLikeC": 19.6,
-    "humidity": 81,
-    "windKph": 4.7,
+    "humidity": 82,
+    "windKph": 4.4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-08T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T14:10:38.699+08:00",
+    "observedAt": "2026-11-08T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T14:20:09.211+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西藏考古的话语权，如何从西方学者逐渐转移到中国学者手中？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-08/10728343.shtml",
+        "publishedAt": "2026-11-08T14:05:13.000+08:00"
+      },
       {
         "title": "南宁粉纸扇扮靓城市 游客驻足打卡",
         "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728333.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2025年我国海洋工程建筑业实现增加值2110亿元 同比增长0.3%",
         "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728316.shtml",
         "publishedAt": "2026-11-08T13:48:08.000+08:00"
-      },
-      {
-        "title": "国际最新研发出能检测高血压智能手表 灵敏度与传统诊室测量相当",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728315.shtml",
-        "publishedAt": "2026-11-08T13:46:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T14:10:03.172+08:00",
+    "fetchedAt": "2026-11-08T14:20:03.347+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T14:10:37.308+08:00",
+      "fetchedAt": "2026-11-08T14:20:07.941+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T19:10:38.000+08:00"
+          "resetAt": "2026-11-08T19:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T14:10:37.570+08:00",
+      "fetchedAt": "2026-11-08T14:20:08.173+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T14:10:37.580+08:00",
+      "fetchedAt": "2026-11-08T14:20:08.185+08:00",
       "error": null
     }
   }
