@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-09T07:40:09.152+08:00",
+  "updatedAt": "2026-11-09T07:50:38.070+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.3,
+    "tempC": 11.4,
     "feelsLikeC": 7.8,
-    "humidity": 79,
-    "windKph": 19.9,
+    "humidity": 77,
+    "windKph": 20.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-09T07:40:09.152+08:00",
+    "observedAt": "2026-11-09T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-09T07:50:38.071+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "AI打开新空间，影视创作如何向新而行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728592.shtml",
+        "publishedAt": "2026-11-09T07:46:33.000+08:00"
+      },
+      {
+        "title": "满屏“人生赢家”，不是你的标准答案",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-09/10728591.shtml",
+        "publishedAt": "2026-11-09T07:43:55.000+08:00"
+      },
+      {
+        "title": "今天，想请你重新认识一下“蓝朋友”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728590.shtml",
+        "publishedAt": "2026-11-09T07:39:07.000+08:00"
+      },
       {
         "title": "不明来历快递里的二维码，扫完会通向哪里",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728589.shtml",
@@ -28,24 +43,9 @@
         "title": "婚介服务市场调查：说好“精准匹配”，实则名不副实",
         "url": "https://www.chinanews.com.cn/fz/2026/11-09/10728588.shtml",
         "publishedAt": "2026-11-09T07:30:16.000+08:00"
-      },
-      {
-        "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728587.shtml",
-        "publishedAt": "2026-11-09T07:24:58.000+08:00"
-      },
-      {
-        "title": "日本宫城县近海发生4.5级地震 多地有震感",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728585.shtml",
-        "publishedAt": "2026-11-09T06:59:18.000+08:00"
-      },
-      {
-        "title": "美国一大学接连发生两起枪击事件 致1死3伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728584.shtml",
-        "publishedAt": "2026-11-09T06:49:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T07:40:03.872+08:00",
+    "fetchedAt": "2026-11-09T07:50:03.171+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T07:40:07.746+08:00",
+      "fetchedAt": "2026-11-09T07:50:36.764+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T12:40:09.000+08:00"
+          "resetAt": "2026-11-09T12:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T07:40:07.991+08:00",
+      "fetchedAt": "2026-11-09T07:50:37.034+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T07:40:07.997+08:00",
+      "fetchedAt": "2026-11-09T07:50:37.044+08:00",
       "error": null
     }
   }
