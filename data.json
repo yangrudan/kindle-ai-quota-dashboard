@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-08T09:10:09.591+08:00",
+  "updatedAt": "2026-11-08T09:20:08.263+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.5,
-    "feelsLikeC": 16.2,
-    "humidity": 97,
-    "windKph": 6.6,
+    "tempC": 15.7,
+    "feelsLikeC": 16.5,
+    "humidity": 96,
+    "windKph": 6.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-08T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T09:10:09.592+08:00",
+    "observedAt": "2026-11-08T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T09:20:08.263+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广西开行首趟“八桂嗦粉”主题旅游列车 列车上设有米粉展示区",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728219.shtml",
+        "publishedAt": "2026-11-08T09:15:13.000+08:00"
+      },
       {
         "title": "第二十三届北京论坛开幕",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728220.shtml",
@@ -38,14 +43,9 @@
         "title": "“90后”返乡青年深耕电商 花木衍生产业年销近亿元",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728217.shtml",
         "publishedAt": "2026-11-08T08:58:03.000+08:00"
-      },
-      {
-        "title": "云南“十五五”将建成多源多尺度实景三维云南",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728216.shtml",
-        "publishedAt": "2026-11-08T08:57:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T09:10:03.756+08:00",
+    "fetchedAt": "2026-11-08T09:20:03.055+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T09:10:08.284+08:00",
+      "fetchedAt": "2026-11-08T09:20:06.961+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T14:10:09.000+08:00"
+          "resetAt": "2026-11-08T14:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T09:10:08.537+08:00",
+      "fetchedAt": "2026-11-08T09:20:07.320+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T09:10:08.545+08:00",
+      "fetchedAt": "2026-11-08T09:20:07.329+08:00",
       "error": null
     }
   }
