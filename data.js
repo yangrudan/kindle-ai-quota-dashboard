@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T10:40:09.175+08:00",
+  "updatedAt": "2026-11-08T10:50:08.893+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.6,
-    "feelsLikeC": 17.6,
-    "humidity": 94,
-    "windKph": 6.3,
+    "tempC": 16.7,
+    "feelsLikeC": 17.7,
+    "humidity": 93,
+    "windKph": 6.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-08T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T10:40:09.175+08:00",
+    "observedAt": "2026-11-08T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T10:50:08.893+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青春华章 疆来可期丨邝斐婷：传承袁隆平院士精神，让一粒种子在新疆沙漠扎下根",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728262.shtml",
-        "publishedAt": "2026-11-08T10:33:16.000+08:00"
+        "title": "立冬迎初雪 五台山银装素裹、美不胜收",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728246.shtml",
+        "publishedAt": "2026-11-08T10:44:36.000+08:00"
       },
       {
-        "title": "民众参观红军西路军进疆纪念馆",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210164.shtml",
-        "publishedAt": "2026-11-08T10:27:43.000+08:00"
+        "title": "最后一位开国将军王扶之逝世",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728268.shtml",
+        "publishedAt": "2026-11-08T10:43:20.000+08:00"
       },
       {
-        "title": "举重世锦赛：廖桂芳摘得三金 刷新两项世界纪录",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728252.shtml",
-        "publishedAt": "2026-11-08T10:25:09.000+08:00"
+        "title": "男子考驾照戴AI眼镜作弊，民警：答案错得离谱",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728267.shtml",
+        "publishedAt": "2026-11-08T10:41:50.000+08:00"
       },
       {
-        "title": "国家图书馆举办“纪念八大山人诞辰400周年”国图公开课特别活动",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728249.shtml",
-        "publishedAt": "2026-11-08T10:24:21.000+08:00"
+        "title": "已售“10万+”你会不会买它",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728266.shtml",
+        "publishedAt": "2026-11-08T10:39:50.000+08:00"
       },
       {
-        "title": "览草原盛事品边城风味 《藏不住的好去处》走进呼伦贝尔",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728248.shtml",
-        "publishedAt": "2026-11-08T10:24:13.000+08:00"
+        "title": "人手一个全职管家的时代来了？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728265.shtml",
+        "publishedAt": "2026-11-08T10:36:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T10:40:03.694+08:00",
+    "fetchedAt": "2026-11-08T10:50:03.256+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T10:40:07.666+08:00",
+      "fetchedAt": "2026-11-08T10:50:07.496+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T15:40:09.000+08:00"
+          "resetAt": "2026-11-08T15:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T10:40:07.858+08:00",
+      "fetchedAt": "2026-11-08T10:50:07.758+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T10:40:07.862+08:00",
+      "fetchedAt": "2026-11-08T10:50:07.762+08:00",
       "error": null
     }
   }
