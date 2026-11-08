@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T18:10:09.650+08:00",
+  "updatedAt": "2026-11-08T18:20:08.713+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.8,
-    "feelsLikeC": 16.9,
+    "feelsLikeC": 16.8,
     "humidity": 94,
-    "windKph": 12.9,
+    "windKph": 13.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T18:10:09.650+08:00",
+    "observedAt": "2026-11-08T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T18:20:08.713+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "印尼举办“文化博览日”活动",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210230.shtml",
-        "publishedAt": "2026-11-08T18:01:35.000+08:00"
+        "title": "1.3万名跑者打卡“吉象”赛道 感受无锡“东大门”生态之美",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728453.shtml",
+        "publishedAt": "2026-11-08T18:16:45.000+08:00"
       },
       {
-        "title": "非法窃取个人信息10亿余条 “开盒”者数罪并罚被严惩",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728426.shtml",
-        "publishedAt": "2026-11-08T17:54:57.000+08:00"
+        "title": "（第九届进博会）上海交易团大型零售采购商联盟集中采购签约",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728455.shtml",
+        "publishedAt": "2026-11-08T18:16:09.000+08:00"
       },
       {
-        "title": "今年前10个月国开行发放制造业贷款超4800亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728425.shtml",
-        "publishedAt": "2026-11-08T17:50:31.000+08:00"
+        "title": "雄安新区首批疏解高校配套住宅项目正式开盘",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728438.shtml",
+        "publishedAt": "2026-11-08T18:15:55.000+08:00"
       },
       {
-        "title": "大连英博队获中超冠军 成都蓉城队四连败丢冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728423.shtml",
-        "publishedAt": "2026-11-08T17:49:17.000+08:00"
+        "title": "航拍河北迁安雪后长城",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728454.shtml",
+        "publishedAt": "2026-11-08T18:15:19.000+08:00"
       },
       {
-        "title": "阿勒泰市第三中学：以法润校 守护民族团结之花",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728424.shtml",
-        "publishedAt": "2026-11-08T17:46:17.000+08:00"
+        "title": "（走进中国乡村）冬日敦煌“骆驼村”：驼铃声里迎世界客",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728433.shtml",
+        "publishedAt": "2026-11-08T18:15:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T18:10:03.852+08:00",
+    "fetchedAt": "2026-11-08T18:20:03.458+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T18:10:08.009+08:00",
+      "fetchedAt": "2026-11-08T18:20:07.518+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T23:10:09.000+08:00"
+          "resetAt": "2026-11-08T23:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T18:10:08.323+08:00",
+      "fetchedAt": "2026-11-08T18:20:07.851+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T18:10:08.332+08:00",
+      "fetchedAt": "2026-11-08T18:20:07.861+08:00",
       "error": null
     }
   }
