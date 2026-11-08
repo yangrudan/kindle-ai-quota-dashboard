@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-09T05:50:08.400+08:00",
+  "updatedAt": "2026-11-09T06:00:08.760+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.6,
-    "feelsLikeC": 8.4,
+    "tempC": 11.5,
+    "feelsLikeC": 8.3,
     "humidity": 82,
-    "windKph": 19.2,
+    "windKph": 19.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T05:45:00.000+08:00",
-    "fetchedAt": "2026-11-09T05:50:08.400+08:00",
+    "observedAt": "2026-11-09T06:00:00.000+08:00",
+    "fetchedAt": "2026-11-09T06:00:08.760+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026中超盘点：竞争格局下的奇迹上演与神话破灭",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
-        "publishedAt": "2026-11-08T23:30:40.000+08:00"
+        "title": "埃及列车脱轨事故已致7死112伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
+        "publishedAt": "2026-11-09T05:54:59.000+08:00"
       },
       {
-        "title": "举重世锦赛落幕：中国队夺得17金10银6铜",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728569.shtml",
-        "publishedAt": "2026-11-08T23:16:05.000+08:00"
+        "title": "南非地方选举计票结束 非国大保住第一大党地位",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728578.shtml",
+        "publishedAt": "2026-11-09T05:54:07.000+08:00"
       },
       {
-        "title": "畅通教育科技人才良性循环 为新质生产力蓄势赋能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml",
-        "publishedAt": "2026-11-08T22:53:10.000+08:00"
+        "title": "土伊重申合作终结库尔德工人党在辛贾尔地区的存在",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728577.shtml",
+        "publishedAt": "2026-11-09T05:53:11.000+08:00"
       },
       {
-        "title": "山西太原一公寓发生火灾 致5人遇难",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728568.shtml",
-        "publishedAt": "2026-11-08T22:49:37.000+08:00"
+        "title": "飞行数据显示两架美军机同日分别在黑海和俄边境附近活动",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728576.shtml",
+        "publishedAt": "2026-11-09T05:51:35.000+08:00"
       },
       {
-        "title": "WTA250香港公开赛收官 美国选手刘婧文击败菲律宾选手埃亚拉夺得女单冠军",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728566.shtml",
-        "publishedAt": "2026-11-08T22:25:50.000+08:00"
+        "title": "伊拉克库尔德自治区天然气田遭不明来源无人机袭击",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728575.shtml",
+        "publishedAt": "2026-11-09T05:50:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T05:50:03.219+08:00",
+    "fetchedAt": "2026-11-09T06:00:03.691+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T05:50:07.284+08:00",
+      "fetchedAt": "2026-11-09T06:00:07.553+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T10:50:08.000+08:00"
+          "resetAt": "2026-11-09T11:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T05:50:07.506+08:00",
+      "fetchedAt": "2026-11-09T06:00:07.810+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T05:50:07.516+08:00",
+      "fetchedAt": "2026-11-09T06:00:07.819+08:00",
       "error": null
     }
   }
