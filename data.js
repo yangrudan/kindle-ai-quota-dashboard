@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T22:10:08.138+08:00",
+  "updatedAt": "2026-11-08T22:20:38.450+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
-    "feelsLikeC": 14.6,
+    "tempC": 15.7,
+    "feelsLikeC": 14.5,
     "humidity": 88,
     "windKph": 16.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T22:10:08.138+08:00",
+    "observedAt": "2026-11-08T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T22:20:38.450+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728563.shtml",
+        "publishedAt": "2026-11-08T22:09:45.000+08:00"
+      },
+      {
+        "title": "中超末轮综述：英博大逆转夺冠 蓉城不敌泰山功亏一篑",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728562.shtml",
+        "publishedAt": "2026-11-08T22:08:53.000+08:00"
+      },
       {
         "title": "2026年红河流域中越合作周在河口开幕 边交会同步举办",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-08/10728555.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "铸牢共同体 中华一家亲丨六星街：奏响多民族共居共乐的“最美和声”",
         "url": "https://www.chinanews.com.cn/txy/2026/11-08/10728553.shtml",
         "publishedAt": "2026-11-08T21:40:36.000+08:00"
-      },
-      {
-        "title": "专访美中贸易全国委员会会长：美企不希望看到贸易保护主义抬头",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728551.shtml",
-        "publishedAt": "2026-11-08T21:35:05.000+08:00"
-      },
-      {
-        "title": "对接、洽谈、签约 进博会各项配套活动全面展开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728550.shtml",
-        "publishedAt": "2026-11-08T21:31:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T22:10:03.158+08:00",
+    "fetchedAt": "2026-11-08T22:20:03.456+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T22:10:06.930+08:00",
+      "fetchedAt": "2026-11-08T22:20:37.092+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T03:10:08.000+08:00"
+          "resetAt": "2026-11-09T03:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T22:10:07.228+08:00",
+      "fetchedAt": "2026-11-08T22:20:37.454+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T22:10:07.237+08:00",
+      "fetchedAt": "2026-11-08T22:20:37.462+08:00",
       "error": null
     }
   }
