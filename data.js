@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T21:40:08.646+08:00",
+  "updatedAt": "2026-11-08T21:50:08.690+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.9,
-    "feelsLikeC": 14.8,
+    "tempC": 15.8,
+    "feelsLikeC": 14.7,
     "humidity": 89,
-    "windKph": 16.4,
+    "windKph": 16.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T21:40:08.646+08:00",
+    "observedAt": "2026-11-08T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T21:50:08.690+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026年红河流域中越合作周在河口开幕 边交会同步举办",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-08/10728555.shtml",
+        "publishedAt": "2026-11-08T21:44:26.000+08:00"
+      },
+      {
+        "title": "民众齐唱《小白杨》送别词作家梁上泉",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728554.shtml",
+        "publishedAt": "2026-11-08T21:43:46.000+08:00"
+      },
+      {
+        "title": "铸牢共同体 中华一家亲丨六星街：奏响多民族共居共乐的“最美和声”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-08/10728553.shtml",
+        "publishedAt": "2026-11-08T21:40:36.000+08:00"
+      },
+      {
+        "title": "专访美中贸易全国委员会会长：美企不希望看到贸易保护主义抬头",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728551.shtml",
+        "publishedAt": "2026-11-08T21:35:05.000+08:00"
+      },
+      {
         "title": "对接、洽谈、签约 进博会各项配套活动全面展开",
         "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728550.shtml",
         "publishedAt": "2026-11-08T21:31:25.000+08:00"
-      },
-      {
-        "title": "以首发经济看进博：一场关于“未来”的剧透",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728549.shtml",
-        "publishedAt": "2026-11-08T21:26:35.000+08:00"
-      },
-      {
-        "title": "埃及列车脱轨事故致司机死亡 64人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728548.shtml",
-        "publishedAt": "2026-11-08T21:20:13.000+08:00"
-      },
-      {
-        "title": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728532.shtml",
-        "publishedAt": "2026-11-08T21:04:50.000+08:00"
-      },
-      {
-        "title": "山西太原一高层建筑发生火灾 有人员送医",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728536.shtml",
-        "publishedAt": "2026-11-08T21:04:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T21:40:03.626+08:00",
+    "fetchedAt": "2026-11-08T21:50:03.412+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T21:40:07.287+08:00",
+      "fetchedAt": "2026-11-08T21:50:07.490+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T02:40:08.000+08:00"
+          "resetAt": "2026-11-09T02:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T21:40:07.495+08:00",
+      "fetchedAt": "2026-11-08T21:50:07.674+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T21:40:07.504+08:00",
+      "fetchedAt": "2026-11-08T21:50:07.683+08:00",
       "error": null
     }
   }
