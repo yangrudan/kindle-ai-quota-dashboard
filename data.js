@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T16:00:09.126+08:00",
+  "updatedAt": "2026-11-08T16:10:07.640+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-08T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T16:00:09.126+08:00",
+    "fetchedAt": "2026-11-08T16:10:07.640+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "受气象条件影响 “两马”航线9日双向停航",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728363.shtml",
-        "publishedAt": "2026-11-08T15:53:31.000+08:00"
+        "title": "黑龙江“一键玩龙江”智慧文旅小程序焕新上线",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728371.shtml",
+        "publishedAt": "2026-11-08T16:02:53.000+08:00"
       },
       {
-        "title": "红色中华报：跨越95年的回响｜一张布告 人民江山",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728361.shtml",
-        "publishedAt": "2026-11-08T15:40:52.000+08:00"
+        "title": "东西问丨西班牙第二副首相为何在乌镇峰会提到“通宝”？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-08/10728362.shtml",
+        "publishedAt": "2026-11-08T16:00:33.000+08:00"
       },
       {
-        "title": "12分10板 杨瀚森拿下NBA生涯首个两双",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210208.shtml",
-        "publishedAt": "2026-11-08T15:32:25.000+08:00"
+        "title": "（第九届进博会）美国康菲石油高管：中国能源政策令人备受鼓舞",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728367.shtml",
+        "publishedAt": "2026-11-08T15:57:51.000+08:00"
       },
       {
-        "title": "口袋绿地、便民工坊 群众家门口有了“幸福圈”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728357.shtml",
-        "publishedAt": "2026-11-08T15:27:40.000+08:00"
+        "title": "（第九届进博会）进博会贸易风向之新：“反向定制”重塑全球好物",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728366.shtml",
+        "publishedAt": "2026-11-08T15:56:39.000+08:00"
       },
       {
-        "title": "以更优服务解决群众急难愁盼（贯彻五中全会精神一线见闻）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728356.shtml",
-        "publishedAt": "2026-11-08T15:23:09.000+08:00"
+        "title": "黑龙江冬季冰雪旅游“百日行动”启动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728365.shtml",
+        "publishedAt": "2026-11-08T15:55:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T16:00:03.695+08:00",
+    "fetchedAt": "2026-11-08T16:10:03.006+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T16:00:07.933+08:00",
+      "fetchedAt": "2026-11-08T16:10:06.410+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T21:00:09.000+08:00"
+          "resetAt": "2026-11-08T21:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T16:00:08.167+08:00",
+      "fetchedAt": "2026-11-08T16:10:06.636+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T16:00:08.177+08:00",
+      "fetchedAt": "2026-11-08T16:10:06.646+08:00",
       "error": null
     }
   }
