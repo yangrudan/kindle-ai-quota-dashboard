@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T15:50:08.745+08:00",
+  "updatedAt": "2026-11-08T16:00:09.126+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 17.5,
-    "feelsLikeC": 19.2,
+    "feelsLikeC": 19.1,
     "humidity": 96,
-    "windKph": 4.7,
+    "windKph": 5.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T15:50:08.745+08:00",
+    "observedAt": "2026-11-08T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T16:00:09.126+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "受气象条件影响 “两马”航线9日双向停航",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728363.shtml",
+        "publishedAt": "2026-11-08T15:53:31.000+08:00"
+      },
+      {
+        "title": "红色中华报：跨越95年的回响｜一张布告 人民江山",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728361.shtml",
+        "publishedAt": "2026-11-08T15:40:52.000+08:00"
+      },
       {
         "title": "12分10板 杨瀚森拿下NBA生涯首个两双",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210208.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "以更优服务解决群众急难愁盼（贯彻五中全会精神一线见闻）",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728356.shtml",
         "publishedAt": "2026-11-08T15:23:09.000+08:00"
-      },
-      {
-        "title": "国际锐评丨进博之约让世界共享开放红利",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728355.shtml",
-        "publishedAt": "2026-11-08T15:18:41.000+08:00"
-      },
-      {
-        "title": "波兰克拉科夫发生枪击事件 已致6死16伤",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210194.shtml",
-        "publishedAt": "2026-11-08T15:11:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T15:50:03.573+08:00",
+    "fetchedAt": "2026-11-08T16:00:03.695+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T15:50:07.346+08:00",
+      "fetchedAt": "2026-11-08T16:00:07.933+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T20:50:08.000+08:00"
+          "resetAt": "2026-11-08T21:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T15:50:07.579+08:00",
+      "fetchedAt": "2026-11-08T16:00:08.167+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T15:50:07.583+08:00",
+      "fetchedAt": "2026-11-08T16:00:08.177+08:00",
       "error": null
     }
   }
