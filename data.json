@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-08T19:50:39.435+08:00",
+  "updatedAt": "2026-11-08T20:00:11.299+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.5,
     "feelsLikeC": 16.1,
-    "humidity": 92,
-    "windKph": 14.4,
+    "humidity": 91,
+    "windKph": 14.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T19:50:39.436+08:00",
+    "observedAt": "2026-11-08T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T20:00:11.299+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728492.shtml",
-        "publishedAt": "2026-11-08T19:44:17.000+08:00"
+        "title": "透视进博｜在进博会，寻找“不同”的答案",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728499.shtml",
+        "publishedAt": "2026-11-08T19:54:58.000+08:00"
       },
       {
-        "title": "第六届长三角街舞公开赛落幕 千年古城邂逅青春律动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728477.shtml",
-        "publishedAt": "2026-11-08T19:43:47.000+08:00"
+        "title": "《非洲马克思主义译丛》新书发布 拓宽非洲思想脉络观察窗口",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728460.shtml",
+        "publishedAt": "2026-11-08T19:54:02.000+08:00"
       },
       {
-        "title": "（粤港澳大湾区）2026国际湾区经济论坛聚焦全球湾区经济合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728473.shtml",
-        "publishedAt": "2026-11-08T19:42:47.000+08:00"
+        "title": "2026未来科学大奖在香港颁奖 张宏、赵东元、袁新意获奖",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728489.shtml",
+        "publishedAt": "2026-11-08T19:53:06.000+08:00"
       },
       {
-        "title": "中超联赛：上海申花4比0胜青岛西海",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210254.shtml",
-        "publishedAt": "2026-11-08T19:42:01.000+08:00"
+        "title": "重庆：百余幅作品亮相展大学生艺术素养",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728486.shtml",
+        "publishedAt": "2026-11-08T19:52:14.000+08:00"
       },
       {
-        "title": "“孙中山《实业计划》与上海孙中山故居馆藏图书文献”专题数据库上线",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728472.shtml",
-        "publishedAt": "2026-11-08T19:41:27.000+08:00"
+        "title": "2026年暨南大学国际土风舞大赛在广州举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728478.shtml",
+        "publishedAt": "2026-11-08T19:51:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T19:50:04.028+08:00",
+    "fetchedAt": "2026-11-08T20:00:05.484+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T19:50:38.119+08:00",
+      "fetchedAt": "2026-11-08T20:00:09.703+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T00:50:39.000+08:00"
+          "resetAt": "2026-11-09T01:00:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T19:50:38.455+08:00",
+      "fetchedAt": "2026-11-08T20:00:10.032+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T19:50:38.459+08:00",
+      "fetchedAt": "2026-11-08T20:00:10.040+08:00",
       "error": null
     }
   }
