@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T17:30:09.589+08:00",
+  "updatedAt": "2026-11-08T17:40:10.985+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-08T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T17:30:09.589+08:00",
+    "fetchedAt": "2026-11-08T17:40:10.985+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）进博好物“护航”大众睡眠",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210227.shtml",
+        "publishedAt": "2026-11-08T17:32:23.000+08:00"
+      },
+      {
+        "title": "中国挖掘机在海外卖爆了！什么情况？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728420.shtml",
+        "publishedAt": "2026-11-08T17:31:16.000+08:00"
+      },
       {
         "title": "特稿｜中国微短剧在欧洲激起涟漪",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728419.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "法兰克福无四强，国乒莫让“学费”白交",
         "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728416.shtml",
         "publishedAt": "2026-11-08T17:10:29.000+08:00"
-      },
-      {
-        "title": "日本舆论称政府新版防卫战略引发国内外担忧",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728413.shtml",
-        "publishedAt": "2026-11-08T17:07:31.000+08:00"
-      },
-      {
-        "title": "日本民众呼吁日社会正视侵略历史 加强教育",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728409.shtml",
-        "publishedAt": "2026-11-08T17:00:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T17:30:04.498+08:00",
+    "fetchedAt": "2026-11-08T17:40:05.014+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T17:30:08.442+08:00",
+      "fetchedAt": "2026-11-08T17:40:09.319+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T22:30:09.000+08:00"
+          "resetAt": "2026-11-08T22:40:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T17:30:08.679+08:00",
+      "fetchedAt": "2026-11-08T17:40:09.550+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T17:30:08.687+08:00",
+      "fetchedAt": "2026-11-08T17:40:09.557+08:00",
       "error": null
     }
   }
