@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T20:40:09.209+08:00",
+  "updatedAt": "2026-11-08T20:50:39.928+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.2,
-    "feelsLikeC": 15.3,
-    "humidity": 90,
-    "windKph": 16.2,
+    "tempC": 16.1,
+    "feelsLikeC": 15.2,
+    "humidity": 89,
+    "windKph": 16.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T20:40:09.210+08:00",
+    "observedAt": "2026-11-08T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T20:50:39.928+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026喀什马拉松鸣笛开跑",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728509.shtml",
-        "publishedAt": "2026-11-08T20:32:24.000+08:00"
+        "title": "新华社快讯：埃及发生列车脱轨事故致至少50人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728529.shtml",
+        "publishedAt": "2026-11-08T20:44:59.000+08:00"
       },
       {
-        "title": "广西钦州市获2028年广西文化旅游发展大会承办权",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728508.shtml",
-        "publishedAt": "2026-11-08T20:31:38.000+08:00"
+        "title": "“局部理想主义”沙龙在京举办 《村庄无小事》记录基层变迁",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728506.shtml",
+        "publishedAt": "2026-11-08T20:43:23.000+08:00"
       },
       {
-        "title": "广西文化旅游产业招商推介会现场集中签约21个项目",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728507.shtml",
-        "publishedAt": "2026-11-08T20:31:04.000+08:00"
+        "title": "（第九届进博会）借进博之窗融通中外 世界500强华侨华人高管共话AI全球化新机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728513.shtml",
+        "publishedAt": "2026-11-08T20:42:19.000+08:00"
       },
       {
-        "title": "山西太原一高层建筑发生火灾",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210269.shtml",
-        "publishedAt": "2026-11-08T20:30:19.000+08:00"
+        "title": "（第九届进博会）场馆内外开设退税点 进博会境外客商“买完就能退”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728514.shtml",
+        "publishedAt": "2026-11-08T20:41:08.000+08:00"
       },
       {
-        "title": "中超：大连英博队主场3:1战胜天津津门虎队",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728511.shtml",
-        "publishedAt": "2026-11-08T20:28:56.000+08:00"
+        "title": "中国首款可互联中性原子量子计算机“乾阵”原型机在合肥发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728516.shtml",
+        "publishedAt": "2026-11-08T20:40:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T20:40:03.805+08:00",
+    "fetchedAt": "2026-11-08T20:50:04.433+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T20:40:07.765+08:00",
+      "fetchedAt": "2026-11-08T20:50:38.644+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T01:40:09.000+08:00"
+          "resetAt": "2026-11-09T01:50:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T20:40:08.016+08:00",
+      "fetchedAt": "2026-11-08T20:50:38.946+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T20:40:08.020+08:00",
+      "fetchedAt": "2026-11-08T20:50:38.954+08:00",
       "error": null
     }
   }
