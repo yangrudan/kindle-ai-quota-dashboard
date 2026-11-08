@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T10:20:10.334+08:00",
+  "updatedAt": "2026-11-08T10:30:40.301+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 16.6,
-    "feelsLikeC": 17.5,
+    "feelsLikeC": 17.6,
     "humidity": 94,
-    "windKph": 6.2,
+    "windKph": 6.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-08T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T10:20:10.334+08:00",
+    "observedAt": "2026-11-08T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T10:30:40.301+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美军称在阿曼湾打击一艘货船，使其丧失航行能力",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728260.shtml",
-        "publishedAt": "2026-11-08T10:13:01.000+08:00"
+        "title": "国家图书馆举办“纪念八大山人诞辰400周年”国图公开课特别活动",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728249.shtml",
+        "publishedAt": "2026-11-08T10:24:21.000+08:00"
       },
       {
-        "title": "东西问丨全球治理，为何需要市长对话？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-08/10728250.shtml",
-        "publishedAt": "2026-11-08T10:12:31.000+08:00"
+        "title": "览草原盛事品边城风味 《藏不住的好去处》走进呼伦贝尔",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728248.shtml",
+        "publishedAt": "2026-11-08T10:24:13.000+08:00"
       },
       {
-        "title": "新型研究型大学，何以破解“纸上得来终觉浅”？",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-08/10728251.shtml",
-        "publishedAt": "2026-11-08T10:11:12.000+08:00"
+        "title": "太平洋部分海域为何更蓝更绿？最新研究称或是微塑料浓度增加所致",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728243.shtml",
+        "publishedAt": "2026-11-08T10:23:17.000+08:00"
       },
       {
-        "title": "循鱼鳞图册 解码浙江金华寺平古村“财富密码”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728244.shtml",
-        "publishedAt": "2026-11-08T10:10:54.000+08:00"
+        "title": "深入学习贯彻党的二十届五中全会精神系列述评之七",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728258.shtml",
+        "publishedAt": "2026-11-08T10:21:55.000+08:00"
       },
       {
-        "title": "中央组织部负责人就党的二十一大代表选举工作答新华社记者问",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728254.shtml",
-        "publishedAt": "2026-11-08T10:09:36.000+08:00"
+        "title": "（第九届进博会）从百年“赛珍会”到进博“静安会客厅”：张园让全球珍奇走进上海街区的365天",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728247.shtml",
+        "publishedAt": "2026-11-08T10:21:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T10:20:03.675+08:00",
+    "fetchedAt": "2026-11-08T10:30:04.964+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T10:20:08.760+08:00",
+      "fetchedAt": "2026-11-08T10:30:39.110+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T15:20:10.000+08:00"
+          "resetAt": "2026-11-08T15:30:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T10:20:09.020+08:00",
+      "fetchedAt": "2026-11-08T10:30:39.384+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T10:20:09.029+08:00",
+      "fetchedAt": "2026-11-08T10:30:39.388+08:00",
       "error": null
     }
   }
