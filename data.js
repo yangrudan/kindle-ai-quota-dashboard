@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T08:40:39.466+08:00",
+  "updatedAt": "2026-11-08T08:50:08.906+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15.4,
-    "feelsLikeC": 15.9,
+    "feelsLikeC": 16,
     "humidity": 97,
-    "windKph": 7.5,
+    "windKph": 7.1,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-08T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T08:40:39.466+08:00",
+    "observedAt": "2026-11-08T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T08:50:08.906+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "英国组合夺得中国杯世界花样滑冰大奖赛冰上舞蹈冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728208.shtml",
-        "publishedAt": "2026-11-08T08:33:59.000+08:00"
+        "title": "“五洲侨心促统情”海外代表人士主题交流分享会在江西赣州举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728215.shtml",
+        "publishedAt": "2026-11-08T08:44:36.000+08:00"
       },
       {
-        "title": "（第九届进博会）上海杨浦与老挝携手推进贸易往来",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728207.shtml",
-        "publishedAt": "2026-11-08T08:33:15.000+08:00"
+        "title": "香港举办中小学生历史文化知识竞赛 超8万名学生参与",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728212.shtml",
+        "publishedAt": "2026-11-08T08:43:50.000+08:00"
       },
       {
-        "title": "北京今天雨雪逐渐结束 气温继续下降将创下半年来新低",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728232.shtml",
-        "publishedAt": "2026-11-08T08:31:57.000+08:00"
+        "title": "（第九届进博会）汽车技术跨界出圈 赋能具身智能新赛道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728211.shtml",
+        "publishedAt": "2026-11-08T08:42:14.000+08:00"
       },
       {
-        "title": "本周末中东部地区有大范围降水 今日为雨雪最强时段",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728222.shtml",
-        "publishedAt": "2026-11-08T08:29:45.000+08:00"
+        "title": "聚焦AI等前沿科技领域 中欧青年创新产业对接活动在北京举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728209.shtml",
+        "publishedAt": "2026-11-08T08:37:27.000+08:00"
       },
       {
-        "title": "雨雪降温来袭 天津部分高速封闭限行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728231.shtml",
-        "publishedAt": "2026-11-08T08:28:29.000+08:00"
+        "title": "近百名专家聚海南研讨海洋地震科技 赋能自贸港安全发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728214.shtml",
+        "publishedAt": "2026-11-08T08:36:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T08:40:03.887+08:00",
+    "fetchedAt": "2026-11-08T08:50:03.671+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T08:40:38.062+08:00",
+      "fetchedAt": "2026-11-08T08:50:07.717+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T13:40:39.000+08:00"
+          "resetAt": "2026-11-08T13:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T08:40:38.343+08:00",
+      "fetchedAt": "2026-11-08T08:50:08.019+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T08:40:38.352+08:00",
+      "fetchedAt": "2026-11-08T08:50:08.028+08:00",
       "error": null
     }
   }
