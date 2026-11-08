@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T16:50:38.860+08:00",
+  "updatedAt": "2026-11-08T17:00:10.718+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
-    "feelsLikeC": 18.4,
+    "tempC": 17.2,
+    "feelsLikeC": 18.1,
     "humidity": 95,
-    "windKph": 7.6,
+    "windKph": 8.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T16:50:38.860+08:00",
+    "observedAt": "2026-11-08T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T17:00:10.718+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普下令美国司法部调查民主党人“威胁弹劾”行为",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728408.shtml",
+        "publishedAt": "2026-11-08T16:56:56.000+08:00"
+      },
+      {
+        "title": "陈茂波：连串盛事汇聚香江 香港持续壮大高增值会展旅游",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728406.shtml",
+        "publishedAt": "2026-11-08T16:56:00.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）第九届进博会向社会观众开放",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210222.shtml",
+        "publishedAt": "2026-11-08T16:51:33.000+08:00"
+      },
       {
         "title": "大器鼎成，仰望鼎曜超豪华行政旗舰轿车全球首发",
         "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728403.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "进博“含新量”成为发展“含金量”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728404.shtml",
         "publishedAt": "2026-11-08T16:33:45.000+08:00"
-      },
-      {
-        "title": "福建省第十八届运动会青少年部·行业部羽毛球项目在大田开赛 24支代表队293名运动员同台竞技",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728384.shtml",
-        "publishedAt": "2026-11-08T16:28:31.000+08:00"
-      },
-      {
-        "title": "昆仑决世界格斗冠军赛新疆和田站：中国选手章润击败巴西选手法比奥",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728376.shtml",
-        "publishedAt": "2026-11-08T16:26:43.000+08:00"
-      },
-      {
-        "title": "当AI也能画水墨，艺术家的价值在哪里？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728374.shtml",
-        "publishedAt": "2026-11-08T16:25:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T16:50:03.776+08:00",
+    "fetchedAt": "2026-11-08T17:00:04.126+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T16:50:37.677+08:00",
+      "fetchedAt": "2026-11-08T17:00:08.750+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T21:50:38.000+08:00"
+          "resetAt": "2026-11-08T22:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T16:50:37.904+08:00",
+      "fetchedAt": "2026-11-08T17:00:09.055+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T16:50:37.912+08:00",
+      "fetchedAt": "2026-11-08T17:00:09.064+08:00",
       "error": null
     }
   }
