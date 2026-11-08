@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T19:20:08.527+08:00",
+  "updatedAt": "2026-11-08T19:30:39.403+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.5,
     "feelsLikeC": 16.2,
-    "humidity": 93,
-    "windKph": 14.1,
+    "humidity": 92,
+    "windKph": 14.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T19:20:08.528+08:00",
+    "observedAt": "2026-11-08T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T19:30:39.404+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "刷到停不下来但感觉“脑子变笨”：AI短剧“勾”住你了吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728468.shtml",
+        "publishedAt": "2026-11-08T19:19:16.000+08:00"
+      },
       {
         "title": "中央气象台11月8日18时继续发布大风蓝色预警",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728465.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“资本市场辟谣平台”正式上线",
         "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728463.shtml",
         "publishedAt": "2026-11-08T18:51:02.000+08:00"
-      },
-      {
-        "title": "寒潮继续影响中东部地区 云南等地多降水",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728462.shtml",
-        "publishedAt": "2026-11-08T18:45:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T19:20:03.259+08:00",
+    "fetchedAt": "2026-11-08T19:30:04.522+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T19:20:07.243+08:00",
+      "fetchedAt": "2026-11-08T19:30:38.136+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T00:20:08.000+08:00"
+          "resetAt": "2026-11-09T00:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T19:20:07.524+08:00",
+      "fetchedAt": "2026-11-08T19:30:38.405+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T19:20:07.532+08:00",
+      "fetchedAt": "2026-11-08T19:30:38.409+08:00",
       "error": null
     }
   }
