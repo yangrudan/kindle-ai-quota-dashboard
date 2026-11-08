@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T14:50:16.968+08:00",
+  "updatedAt": "2026-11-08T15:00:09.296+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.9,
-    "feelsLikeC": 19.1,
-    "humidity": 86,
-    "windKph": 3.9,
+    "tempC": 17.6,
+    "feelsLikeC": 19.5,
+    "humidity": 93,
+    "windKph": 2.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T14:50:16.968+08:00",
+    "observedAt": "2026-11-08T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T15:00:09.296+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国消防日 | 火灾调查行家说：冷静判断、科学逃生是保命根本",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728351.shtml",
+        "publishedAt": "2026-11-08T14:52:56.000+08:00"
+      },
       {
         "title": "住宅楼起火如何正确逃生？2个避险误区要警惕",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728344.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "全国119消防奖先进个人阳剑华：一只“蓝色背包”把安全背进村里",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728321.shtml",
         "publishedAt": "2026-11-08T14:25:16.000+08:00"
-      },
-      {
-        "title": "不靠海却通江达海 重庆开州以港口为牵引构建现代化集疏运体系",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728317.shtml",
-        "publishedAt": "2026-11-08T14:24:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T14:50:12.133+08:00",
+    "fetchedAt": "2026-11-08T15:00:03.340+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T14:50:15.746+08:00",
+      "fetchedAt": "2026-11-08T15:00:08.078+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T19:50:16.000+08:00"
+          "resetAt": "2026-11-08T20:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T14:50:15.971+08:00",
+      "fetchedAt": "2026-11-08T15:00:08.231+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T14:50:15.974+08:00",
+      "fetchedAt": "2026-11-08T15:00:08.234+08:00",
       "error": null
     }
   }
