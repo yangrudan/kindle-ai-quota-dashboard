@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T13:20:39.732+08:00",
+  "updatedAt": "2026-11-08T13:30:08.099+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.5,
-    "feelsLikeC": 19.4,
-    "humidity": 82,
-    "windKph": 5.5,
+    "feelsLikeC": 19.5,
+    "humidity": 81,
+    "windKph": 5.3,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-08T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T13:20:39.732+08:00",
+    "observedAt": "2026-11-08T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T13:30:08.099+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）进博会上，全球合作社好物“组团”入华",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728305.shtml",
+        "publishedAt": "2026-11-08T13:20:11.000+08:00"
+      },
+      {
+        "title": "受大风影响 辽鲁省际、大连陆岛客运全线停航",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728306.shtml",
+        "publishedAt": "2026-11-08T13:18:13.000+08:00"
+      },
       {
         "title": "新一代通信网加快建设 筑牢高质量发展数字底座",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728299.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "跨国组队竞牌艺 2026年亚太秋季桥牌公开赛在山东青岛收官",
         "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728287.shtml",
         "publishedAt": "2026-11-08T11:23:44.000+08:00"
-      },
-      {
-        "title": "地球深部探测与亚洲四维地形国际研讨会在京开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728289.shtml",
-        "publishedAt": "2026-11-08T11:23:32.000+08:00"
-      },
-      {
-        "title": "AI技术在财务领域加速应用 报告建言建立规范可操作流程",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728290.shtml",
-        "publishedAt": "2026-11-08T11:22:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T13:20:04.501+08:00",
+    "fetchedAt": "2026-11-08T13:30:03.272+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T13:20:38.050+08:00",
+      "fetchedAt": "2026-11-08T13:30:06.927+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T18:20:39.000+08:00"
+          "resetAt": "2026-11-08T18:30:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T13:20:38.509+08:00",
+      "fetchedAt": "2026-11-08T13:30:07.218+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T13:20:38.518+08:00",
+      "fetchedAt": "2026-11-08T13:30:07.224+08:00",
       "error": null
     }
   }
