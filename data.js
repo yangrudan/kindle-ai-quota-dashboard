@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T16:20:08.742+08:00",
+  "updatedAt": "2026-11-08T16:30:09.529+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.4,
-    "feelsLikeC": 18.9,
+    "tempC": 17.3,
+    "feelsLikeC": 18.6,
     "humidity": 96,
-    "windKph": 6,
+    "windKph": 6.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-08T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T16:20:08.742+08:00",
+    "observedAt": "2026-11-08T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T16:30:09.529+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一半载客一半赶集：乌蒙山慢火车成流动“乡村集市”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728391.shtml",
-        "publishedAt": "2026-11-08T16:14:48.000+08:00"
+        "title": "当AI也能画水墨，艺术家的价值在哪里？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728374.shtml",
+        "publishedAt": "2026-11-08T16:25:03.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会看外企新动作：从“在中国销售”到深入布局“在中国智造”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728385.shtml",
-        "publishedAt": "2026-11-08T16:13:56.000+08:00"
+        "title": "重大革命题材电视剧《伟大的长征》创作座谈会在京召开",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728373.shtml",
+        "publishedAt": "2026-11-08T16:23:47.000+08:00"
       },
       {
-        "title": "（第九届进博会）特写：进博时刻的侨青之约：以“侨”为桥，奔赴山海",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728375.shtml",
-        "publishedAt": "2026-11-08T16:13:00.000+08:00"
+        "title": "2026中国·白沟国际箱包博览会开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728372.shtml",
+        "publishedAt": "2026-11-08T16:21:53.000+08:00"
       },
       {
-        "title": "AI不是“选答题” 浙商如何向新破局？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728369.shtml",
-        "publishedAt": "2026-11-08T16:11:52.000+08:00"
+        "title": "近万名中外选手畅跑2026重庆荣昌马拉松",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728370.shtml",
+        "publishedAt": "2026-11-08T16:20:58.000+08:00"
       },
       {
-        "title": "（第九届进博会）牵手全球伙伴 多个参展方“签单”织密产业合作网络",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728383.shtml",
-        "publishedAt": "2026-11-08T16:09:14.000+08:00"
+        "title": "2026眉山东坡马拉松比赛鸣枪开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728388.shtml",
+        "publishedAt": "2026-11-08T16:20:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T16:20:03.478+08:00",
+    "fetchedAt": "2026-11-08T16:30:04.167+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-08T16:20:07.461+08:00",
+      "fetchedAt": "2026-11-08T16:30:08.225+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T21:20:08.000+08:00"
+          "resetAt": "2026-11-08T21:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T16:20:07.681+08:00",
+      "fetchedAt": "2026-11-08T16:30:08.518+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-08T16:20:07.690+08:00",
+      "fetchedAt": "2026-11-08T16:30:08.529+08:00",
       "error": null
     }
   }
