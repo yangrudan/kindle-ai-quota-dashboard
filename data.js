@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T06:00:08.760+08:00",
+  "updatedAt": "2026-11-09T06:10:08.130+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T06:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T06:00:08.760+08:00",
+    "fetchedAt": "2026-11-09T06:10:08.131+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国一大学校园发生两起枪击事件 致1死3伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728580.shtml",
+        "publishedAt": "2026-11-09T06:05:37.000+08:00"
+      },
       {
         "title": "埃及列车脱轨事故已致7死112伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "飞行数据显示两架美军机同日分别在黑海和俄边境附近活动",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728576.shtml",
         "publishedAt": "2026-11-09T05:51:35.000+08:00"
-      },
-      {
-        "title": "伊拉克库尔德自治区天然气田遭不明来源无人机袭击",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728575.shtml",
-        "publishedAt": "2026-11-09T05:50:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T06:00:03.691+08:00",
+    "fetchedAt": "2026-11-09T06:10:03.040+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T06:00:07.553+08:00",
+      "fetchedAt": "2026-11-09T06:10:06.888+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T11:00:08.000+08:00"
+          "resetAt": "2026-11-09T11:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T06:00:07.810+08:00",
+      "fetchedAt": "2026-11-09T06:10:07.151+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T06:00:07.819+08:00",
+      "fetchedAt": "2026-11-09T06:10:07.159+08:00",
       "error": null
     }
   }
