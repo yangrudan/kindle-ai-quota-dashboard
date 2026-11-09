@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T14:10:09.060+08:00",
+  "updatedAt": "2026-11-09T14:20:10.000+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.5,
-    "feelsLikeC": 6.4,
-    "humidity": 57,
-    "windKph": 24,
+    "tempC": 11.4,
+    "feelsLikeC": 6.3,
+    "humidity": 56,
+    "windKph": 23.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T14:10:09.061+08:00",
+    "observedAt": "2026-11-09T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-09T14:20:10.000+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "逾千名徒步爱好者齐聚清远连南 徒步穿越瑶乡赏秋景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728779.shtml",
+        "publishedAt": "2026-11-09T14:15:42.000+08:00"
+      },
+      {
+        "title": "广东东莞：广深改扩建项目加紧施工",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210323.shtml",
+        "publishedAt": "2026-11-09T14:12:10.000+08:00"
+      },
+      {
+        "title": "长春举办动力伞编队展演 庆祝人民空军成立77周年",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728782.shtml",
+        "publishedAt": "2026-11-09T14:09:18.000+08:00"
+      },
       {
         "title": "第十二届深圳摄影作品年度展呈现生态人文科技交织画卷",
         "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728771.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "寒潮主体南下！今天降温核心转移至南方 中东部逐步开启升温模式",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728785.shtml",
         "publishedAt": "2026-11-09T14:04:03.000+08:00"
-      },
-      {
-        "title": "河北邯郸凝聚“五老”银发力量巧解乡村纠纷",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728774.shtml",
-        "publishedAt": "2026-11-09T14:02:35.000+08:00"
-      },
-      {
-        "title": "匠心护老暖桑榆 沈阳市“工匠杯”养老护理员职工职业技能竞赛完赛",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728780.shtml",
-        "publishedAt": "2026-11-09T14:02:27.000+08:00"
-      },
-      {
-        "title": "暨南大学公共管理学院举行建院15周年高质量发展大会",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728778.shtml",
-        "publishedAt": "2026-11-09T13:56:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T14:10:03.529+08:00",
+    "fetchedAt": "2026-11-09T14:20:03.744+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T14:10:07.589+08:00",
+      "fetchedAt": "2026-11-09T14:20:08.240+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 60,
+          "usedPct": 70,
           "resetAt": "2026-11-09T14:50:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 38,
+          "usedPct": 40,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T14:10:07.934+08:00",
+      "fetchedAt": "2026-11-09T14:20:08.624+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T14:10:07.945+08:00",
+      "fetchedAt": "2026-11-09T14:20:08.631+08:00",
       "error": null
     }
   }
