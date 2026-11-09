@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T12:30:08.888+08:00",
+  "updatedAt": "2026-11-09T12:40:38.371+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-09T12:30:08.888+08:00",
+    "fetchedAt": "2026-11-09T12:40:38.371+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）外资持续“加码”中国市场 共享亚太开放合作新机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728724.shtml",
+        "publishedAt": "2026-11-09T12:26:14.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）联合国政策事务副秘书长：冀APEC会议成果助推联合国相关议程",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728717.shtml",
+        "publishedAt": "2026-11-09T12:24:38.000+08:00"
+      },
       {
         "title": "（第九届进博会）毕马威中国主席：中国企业在AI认同和落地上更具优势",
         "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728722.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "合肥“一夜入冬” 长三角迎下半年来最冷一天",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728718.shtml",
         "publishedAt": "2026-11-09T12:16:54.000+08:00"
-      },
-      {
-        "title": "20所高校齐聚暨大 共探党建与公管学科深度融合之道",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728716.shtml",
-        "publishedAt": "2026-11-09T12:13:45.000+08:00"
-      },
-      {
-        "title": "穿羽绒服千万别这样做 真的会爆燃！",
-        "url": "https://www.chinanews.com.cn/life/2026/11-09/10728729.shtml",
-        "publishedAt": "2026-11-09T12:12:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T12:30:03.753+08:00",
+    "fetchedAt": "2026-11-09T12:40:03.222+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T12:30:07.732+08:00",
+      "fetchedAt": "2026-11-09T12:40:36.991+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T12:30:07.909+08:00",
+      "fetchedAt": "2026-11-09T12:40:37.328+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T12:30:07.918+08:00",
+      "fetchedAt": "2026-11-09T12:40:37.336+08:00",
       "error": null
     }
   }
