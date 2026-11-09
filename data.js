@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T14:30:14.108+08:00",
+  "updatedAt": "2026-11-09T14:40:09.518+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-09T14:30:14.108+08:00",
+    "fetchedAt": "2026-11-09T14:40:09.518+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "桂林通报“部分天桥扶梯运行不稳定”问题：已成立调查组开展核查",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728767.shtml",
+        "publishedAt": "2026-11-09T14:28:49.000+08:00"
+      },
+      {
+        "title": "重庆海关缉私局移动警务服务项目中标公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728796.shtml",
+        "publishedAt": "2026-11-09T14:23:20.000+08:00"
+      },
+      {
+        "title": "重庆海关物流数据开放互联试点场景建设数据服务项目中标公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728794.shtml",
+        "publishedAt": "2026-11-09T14:22:14.000+08:00"
+      },
       {
         "title": "逾千名徒步爱好者齐聚清远连南 徒步穿越瑶乡赏秋景",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728779.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "广东东莞：广深改扩建项目加紧施工",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210323.shtml",
         "publishedAt": "2026-11-09T14:12:10.000+08:00"
-      },
-      {
-        "title": "长春举办动力伞编队展演 庆祝人民空军成立77周年",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728782.shtml",
-        "publishedAt": "2026-11-09T14:09:18.000+08:00"
-      },
-      {
-        "title": "第十二届深圳摄影作品年度展呈现生态人文科技交织画卷",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728771.shtml",
-        "publishedAt": "2026-11-09T14:04:51.000+08:00"
-      },
-      {
-        "title": "寒潮主体南下！今天降温核心转移至南方 中东部逐步开启升温模式",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728785.shtml",
-        "publishedAt": "2026-11-09T14:04:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T14:30:04.918+08:00",
+    "fetchedAt": "2026-11-09T14:40:03.693+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T14:30:11.965+08:00",
+      "fetchedAt": "2026-11-09T14:40:07.651+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 80,
+          "usedPct": 98,
           "resetAt": "2026-11-09T14:50:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 42,
+          "usedPct": 44,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T14:30:12.248+08:00",
+      "fetchedAt": "2026-11-09T14:40:08.024+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T14:30:12.274+08:00",
+      "fetchedAt": "2026-11-09T14:40:08.032+08:00",
       "error": null
     }
   }
