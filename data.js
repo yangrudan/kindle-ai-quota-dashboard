@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T15:10:09.290+08:00",
+  "updatedAt": "2026-11-09T15:20:38.912+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11,
-    "feelsLikeC": 6.1,
+    "tempC": 10.7,
+    "feelsLikeC": 5.8,
     "humidity": 56,
-    "windKph": 22.2,
+    "windKph": 21.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T15:10:09.290+08:00",
+    "observedAt": "2026-11-09T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-09T15:20:38.912+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年全国羽毛球团体锦标赛宜昌开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-09/10728795.shtml",
-        "publishedAt": "2026-11-09T15:01:58.000+08:00"
+        "title": "从“单打独斗”到“抱团破局” 沈阳OPC社区打造超级个体创业生态",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728799.shtml",
+        "publishedAt": "2026-11-09T15:18:39.000+08:00"
       },
       {
-        "title": "AI替代就业，国家出手了",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728824.shtml",
-        "publishedAt": "2026-11-09T15:00:34.000+08:00"
+        "title": "东西问丨张志刚：为何说新疆地区从未建立政教合一政权？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-09/10728811.shtml",
+        "publishedAt": "2026-11-09T15:15:41.000+08:00"
       },
       {
-        "title": "宁夏银川：鸥群不只是路过",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728793.shtml",
-        "publishedAt": "2026-11-09T15:00:06.000+08:00"
+        "title": "国家版权局、全国“扫黄打非”办公室公布一批制售侵权盗版图书典型案件",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728828.shtml",
+        "publishedAt": "2026-11-09T15:13:25.000+08:00"
       },
       {
-        "title": "闸口海关水湾路业务技术用房及配套设施维修改造项目（水湾路综合业务楼）招标公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728821.shtml",
-        "publishedAt": "2026-11-09T14:55:44.000+08:00"
+        "title": "A股收评：超2200只个股飘红，沪指收涨，深指、创业板指收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728832.shtml",
+        "publishedAt": "2026-11-09T15:10:49.000+08:00"
       },
       {
-        "title": "美国众院民主党领袖：防长赫格塞思“必须走人”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728820.shtml",
-        "publishedAt": "2026-11-09T14:54:54.000+08:00"
+        "title": "斯洛伐克外交部长布拉纳尔将访华",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728830.shtml",
+        "publishedAt": "2026-11-09T15:09:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T15:10:03.485+08:00",
+    "fetchedAt": "2026-11-09T15:20:03.825+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T15:10:08.007+08:00",
+      "fetchedAt": "2026-11-09T15:20:37.739+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T15:10:08.174+08:00",
+      "fetchedAt": "2026-11-09T15:20:37.991+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T15:10:08.184+08:00",
+      "fetchedAt": "2026-11-09T15:20:38.000+08:00",
       "error": null
     }
   }
