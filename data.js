@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T11:00:08.805+08:00",
+  "updatedAt": "2026-11-09T11:10:39.260+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T11:00:08.806+08:00",
+    "fetchedAt": "2026-11-09T11:10:39.260+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）传统风雅与前沿科技交汇 浙江人文交流活动亮相进博舞台",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728660.shtml",
-        "publishedAt": "2026-11-09T10:55:33.000+08:00"
+        "title": "太原一建筑火灾已致14死",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728678.shtml",
+        "publishedAt": "2026-11-09T11:03:40.000+08:00"
       },
       {
-        "title": "中国成功发射卫星互联网低轨29组卫星",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210311.shtml",
-        "publishedAt": "2026-11-09T10:54:31.000+08:00"
+        "title": "“煤炭生产基地+能源大动脉”筑牢冬供“温暖防线” 守护群众安全过冬",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728677.shtml",
+        "publishedAt": "2026-11-09T11:02:51.000+08:00"
       },
       {
-        "title": "桂林理工大学建校70周年高质量发展大会举行",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728658.shtml",
-        "publishedAt": "2026-11-09T10:52:57.000+08:00"
+        "title": "辽宁省农业农村厅党组成员、副厅长冀登义接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728655.shtml",
+        "publishedAt": "2026-11-09T10:59:15.000+08:00"
       },
       {
-        "title": "在进博会，感受开放中国的诚心、恒心、暖心",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728665.shtml",
-        "publishedAt": "2026-11-09T10:48:37.000+08:00"
+        "title": "港澳台人士表示二十届五中全会意义深远",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728676.shtml",
+        "publishedAt": "2026-11-09T10:59:13.000+08:00"
       },
       {
-        "title": "水口海关关于开展2026年11月份“关领导接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728664.shtml",
-        "publishedAt": "2026-11-09T10:47:13.000+08:00"
+        "title": "九届全勤，这些外企为何钟爱进博会",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728674.shtml",
+        "publishedAt": "2026-11-09T10:58:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T11:00:03.493+08:00",
+    "fetchedAt": "2026-11-09T11:10:03.276+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T11:00:07.531+08:00",
+      "fetchedAt": "2026-11-09T11:10:37.746+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T11:00:07.767+08:00",
+      "fetchedAt": "2026-11-09T11:10:37.969+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T11:00:07.775+08:00",
+      "fetchedAt": "2026-11-09T11:10:37.978+08:00",
       "error": null
     }
   }
