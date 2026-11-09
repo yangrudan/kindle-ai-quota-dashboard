@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T09:20:09.224+08:00",
+  "updatedAt": "2026-11-09T09:30:08.706+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.4,
-    "feelsLikeC": 6.9,
-    "humidity": 68,
+    "tempC": 11.5,
+    "feelsLikeC": 7,
+    "humidity": 67,
     "windKph": 23.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-09T09:20:09.225+08:00",
+    "observedAt": "2026-11-09T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-09T09:30:08.706+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "寒潮继续南下影响江淮江南华南等地 云南等地降水明显",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728610.shtml",
+        "publishedAt": "2026-11-09T09:27:40.000+08:00"
+      },
+      {
+        "title": "本是领养猫咪，却背上了“贷款”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728617.shtml",
+        "publishedAt": "2026-11-09T09:27:12.000+08:00"
+      },
+      {
+        "title": "埃及列车脱轨事故已致7死112伤",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210288.shtml",
+        "publishedAt": "2026-11-09T09:14:35.000+08:00"
+      },
+      {
+        "title": "王小洪在云南调研时强调 提高政策措施的针对性有效性 因地制宜推动高质量发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728609.shtml",
+        "publishedAt": "2026-11-09T09:08:03.000+08:00"
+      },
+      {
         "title": "私域直播屡被曝光查处仍能死灰复燃 如何斩断私域“神药”的链条？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728611.shtml",
         "publishedAt": "2026-11-09T09:07:23.000+08:00"
-      },
-      {
-        "title": "金观平：依法依规治理低价无序竞争",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728608.shtml",
-        "publishedAt": "2026-11-09T08:40:48.000+08:00"
-      },
-      {
-        "title": "特朗普称提议任命达纳·怀特为白宫新闻秘书“只是开玩笑”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728607.shtml",
-        "publishedAt": "2026-11-09T08:34:59.000+08:00"
-      },
-      {
-        "title": "全国大部进入晴朗模式 寒潮核心降温区域转移至南方",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728606.shtml",
-        "publishedAt": "2026-11-09T08:33:23.000+08:00"
-      },
-      {
-        "title": "隔夜白开水不能喝……是真是假？｜谣言终结站",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-09/10728601.shtml",
-        "publishedAt": "2026-11-09T08:18:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T09:20:03.860+08:00",
+    "fetchedAt": "2026-11-09T09:30:03.049+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T09:20:08.008+08:00",
+      "fetchedAt": "2026-11-09T09:30:06.972+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T14:20:09.000+08:00"
+          "resetAt": "2026-11-09T14:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T09:20:08.284+08:00",
+      "fetchedAt": "2026-11-09T09:30:07.321+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T09:20:08.293+08:00",
+      "fetchedAt": "2026-11-09T09:30:07.333+08:00",
       "error": null
     }
   }
