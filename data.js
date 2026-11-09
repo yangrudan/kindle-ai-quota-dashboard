@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T16:30:08.786+08:00",
+  "updatedAt": "2026-11-09T16:40:09.045+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-09T16:30:08.786+08:00",
+    "fetchedAt": "2026-11-09T16:40:09.045+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“星云星座计划”发布 我国太空算力网加快部署",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728890.shtml",
+        "publishedAt": "2026-11-09T16:28:07.000+08:00"
+      },
       {
         "title": "全力以赴应对寒潮 多地多部门织密织牢“安全网”保出行、保生产、保民生",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728885.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "县域消费供给持续升级 家门口的小店有了新模样",
         "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728883.shtml",
         "publishedAt": "2026-11-09T16:17:00.000+08:00"
-      },
-      {
-        "title": "同比上涨、环比持平 从10月份CPI数据看我国物价总水平保持平稳运行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728881.shtml",
-        "publishedAt": "2026-11-09T16:14:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T16:30:03.844+08:00",
+    "fetchedAt": "2026-11-09T16:40:02.910+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T16:30:07.472+08:00",
+      "fetchedAt": "2026-11-09T16:40:07.467+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T16:30:07.744+08:00",
+      "fetchedAt": "2026-11-09T16:40:07.748+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T16:30:07.750+08:00",
+      "fetchedAt": "2026-11-09T16:40:07.757+08:00",
       "error": null
     }
   }
