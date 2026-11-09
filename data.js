@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T09:00:38.666+08:00",
+  "updatedAt": "2026-11-09T09:10:09.374+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.3,
-    "feelsLikeC": 6.8,
-    "humidity": 70,
+    "tempC": 12,
+    "feelsLikeC": 7.7,
+    "humidity": 71,
     "windKph": 23.7,
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T09:00:38.666+08:00",
+    "fetchedAt": "2026-11-09T09:10:09.374+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "私域直播屡被曝光查处仍能死灰复燃 如何斩断私域“神药”的链条？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728611.shtml",
+        "publishedAt": "2026-11-09T09:07:23.000+08:00"
+      },
       {
         "title": "金观平：依法依规治理低价无序竞争",
         "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728608.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "隔夜白开水不能喝……是真是假？｜谣言终结站",
         "url": "https://www.chinanews.com.cn/jk/2026/11-09/10728601.shtml",
         "publishedAt": "2026-11-09T08:18:13.000+08:00"
-      },
-      {
-        "title": "中央气象台：寒潮继续影响我国南方地区 云南等地多降水",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728596.shtml",
-        "publishedAt": "2026-11-09T08:15:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T09:00:03.782+08:00",
+    "fetchedAt": "2026-11-09T09:10:03.828+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T09:00:37.225+08:00",
+      "fetchedAt": "2026-11-09T09:10:07.933+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T14:00:38.000+08:00"
+          "resetAt": "2026-11-09T14:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T09:00:37.546+08:00",
+      "fetchedAt": "2026-11-09T09:10:08.215+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T09:00:37.553+08:00",
+      "fetchedAt": "2026-11-09T09:10:08.220+08:00",
       "error": null
     }
   }
