@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T12:20:38.778+08:00",
+  "updatedAt": "2026-11-09T12:30:08.888+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 12,
     "feelsLikeC": 7,
     "humidity": 58,
-    "windKph": 24.8,
+    "windKph": 24.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-09T12:20:38.778+08:00",
+    "observedAt": "2026-11-09T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-09T12:30:08.888+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）毕马威中国主席：中国企业在AI认同和落地上更具优势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728722.shtml",
+        "publishedAt": "2026-11-09T12:20:04.000+08:00"
+      },
+      {
+        "title": "反对高市政府打造“战争国家” 日本各界持续发声",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728730.shtml",
+        "publishedAt": "2026-11-09T12:18:00.000+08:00"
+      },
       {
         "title": "合肥“一夜入冬” 长三角迎下半年来最冷一天",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728718.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "穿羽绒服千万别这样做 真的会爆燃！",
         "url": "https://www.chinanews.com.cn/life/2026/11-09/10728729.shtml",
         "publishedAt": "2026-11-09T12:12:49.000+08:00"
-      },
-      {
-        "title": "亚洲最大专业货运机场持续拓展非洲南美空中走廊",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728712.shtml",
-        "publishedAt": "2026-11-09T12:11:33.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）全球风味走上中国餐桌 舌尖选择迎开放机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728711.shtml",
-        "publishedAt": "2026-11-09T12:06:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T12:20:03.939+08:00",
+    "fetchedAt": "2026-11-09T12:30:03.753+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T12:20:37.562+08:00",
+      "fetchedAt": "2026-11-09T12:30:07.732+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T12:20:37.730+08:00",
+      "fetchedAt": "2026-11-09T12:30:07.909+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T12:20:37.739+08:00",
+      "fetchedAt": "2026-11-09T12:30:07.918+08:00",
       "error": null
     }
   }
