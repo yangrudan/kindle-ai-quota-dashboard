@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T12:10:45.962+08:00",
+  "updatedAt": "2026-11-09T12:20:38.778+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 12,
     "feelsLikeC": 7,
-    "humidity": 59,
-    "windKph": 24.9,
+    "humidity": 58,
+    "windKph": 24.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T12:10:45.962+08:00",
+    "observedAt": "2026-11-09T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-09T12:20:38.778+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一只“富贵小羊”，藏着全乌鲁木齐的温柔",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728707.shtml",
-        "publishedAt": "2026-11-09T11:59:05.000+08:00"
+        "title": "合肥“一夜入冬” 长三角迎下半年来最冷一天",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728718.shtml",
+        "publishedAt": "2026-11-09T12:16:54.000+08:00"
       },
       {
-        "title": "交通运输部：继续暂停对美船舶收取船舶特别港务费",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728720.shtml",
-        "publishedAt": "2026-11-09T11:57:06.000+08:00"
+        "title": "20所高校齐聚暨大 共探党建与公管学科深度融合之道",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728716.shtml",
+        "publishedAt": "2026-11-09T12:13:45.000+08:00"
       },
       {
-        "title": "今年北京入冬时间为11月2日 比常年偏晚2天",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728703.shtml",
-        "publishedAt": "2026-11-09T11:55:26.000+08:00"
+        "title": "穿羽绒服千万别这样做 真的会爆燃！",
+        "url": "https://www.chinanews.com.cn/life/2026/11-09/10728729.shtml",
+        "publishedAt": "2026-11-09T12:12:49.000+08:00"
       },
       {
-        "title": "公安部推出5项交管便民利企新措施 12月1日起全国推行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728709.shtml",
-        "publishedAt": "2026-11-09T11:46:36.000+08:00"
+        "title": "亚洲最大专业货运机场持续拓展非洲南美空中走廊",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728712.shtml",
+        "publishedAt": "2026-11-09T12:11:33.000+08:00"
       },
       {
-        "title": "A股午评：超2600只个股飘红，三大指数集体收涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728714.shtml",
-        "publishedAt": "2026-11-09T11:43:18.000+08:00"
+        "title": "（第九届进博会）全球风味走上中国餐桌 舌尖选择迎开放机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728711.shtml",
+        "publishedAt": "2026-11-09T12:06:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T12:10:10.179+08:00",
+    "fetchedAt": "2026-11-09T12:20:03.939+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T12:10:44.515+08:00",
+      "fetchedAt": "2026-11-09T12:20:37.562+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T12:10:44.689+08:00",
+      "fetchedAt": "2026-11-09T12:20:37.730+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T12:10:44.696+08:00",
+      "fetchedAt": "2026-11-09T12:20:37.739+08:00",
       "error": null
     }
   }
