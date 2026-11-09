@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-09T10:20:39.202+08:00",
+  "updatedAt": "2026-11-09T10:30:08.975+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.7,
+    "tempC": 11.8,
     "feelsLikeC": 7,
-    "humidity": 64,
-    "windKph": 23.7,
+    "humidity": 63,
+    "windKph": 24,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-09T10:20:39.202+08:00",
+    "observedAt": "2026-11-09T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-09T10:30:08.975+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "邕州海关2026年11月份“关领导接待日”公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728644.shtml",
-        "publishedAt": "2026-11-09T10:15:25.000+08:00"
+        "title": "防城海关关于开展2026年11月份 “关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728648.shtml",
+        "publishedAt": "2026-11-09T10:25:05.000+08:00"
       },
       {
-        "title": "波士顿科学Rezūm EVO国产设备亮相进博会 加速创新疗法本土化落地",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728624.shtml",
-        "publishedAt": "2026-11-09T10:13:15.000+08:00"
+        "title": "作品与传播同步治理！AI短剧如何告别低俗化、同质化？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728647.shtml",
+        "publishedAt": "2026-11-09T10:22:55.000+08:00"
       },
       {
-        "title": "浙江义乌 一城小商品 万里通非洲",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728643.shtml",
-        "publishedAt": "2026-11-09T10:12:09.000+08:00"
+        "title": "美军重兵压境、伊朗针锋相对，中东大战一触即发？",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728630.shtml",
+        "publishedAt": "2026-11-09T10:22:23.000+08:00"
       },
       {
-        "title": "中超末轮综述：英博大逆转夺冠 蓉城不敌泰山功亏一篑",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-09/10728620.shtml",
-        "publishedAt": "2026-11-09T10:11:49.000+08:00"
+        "title": "埃及列车相撞事故死亡人数升至7人",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728625.shtml",
+        "publishedAt": "2026-11-09T10:21:01.000+08:00"
       },
       {
-        "title": "文脉相牵 手足相亲（铸牢共同体 中华一家亲）",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-09/10728642.shtml",
-        "publishedAt": "2026-11-09T10:11:09.000+08:00"
+        "title": "南宁吴圩机场海关关于开展2026年11月份“关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728646.shtml",
+        "publishedAt": "2026-11-09T10:18:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T10:20:04.013+08:00",
+    "fetchedAt": "2026-11-09T10:30:03.571+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T10:20:37.661+08:00",
+      "fetchedAt": "2026-11-09T10:30:07.666+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 14,
+          "usedPct": 32,
           "resetAt": "2026-11-09T14:50:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 31,
+          "usedPct": 34,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T10:20:37.924+08:00",
+      "fetchedAt": "2026-11-09T10:30:07.931+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T10:20:37.933+08:00",
+      "fetchedAt": "2026-11-09T10:30:07.940+08:00",
       "error": null
     }
   }
