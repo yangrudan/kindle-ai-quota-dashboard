@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T11:50:09.657+08:00",
+  "updatedAt": "2026-11-09T12:00:08.706+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 12,
-    "feelsLikeC": 6.9,
+    "feelsLikeC": 7,
     "humidity": 59,
     "windKph": 24.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-09T11:50:09.657+08:00",
+    "observedAt": "2026-11-09T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-09T12:00:08.706+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "交通运输部关于继续暂停对美船舶收取船舶特别港务费、暂停开展航运业造船业及相关产业链供应链安全和发展利益受",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728720.shtml",
+        "publishedAt": "2026-11-09T11:57:06.000+08:00"
+      },
+      {
+        "title": "今年北京入冬时间为11月2日 比常年偏晚2天",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728703.shtml",
+        "publishedAt": "2026-11-09T11:55:26.000+08:00"
+      },
       {
         "title": "公安部推出5项交管便民利企新措施 12月1日起全国推行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728709.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "COP31前瞻｜1.5℃难保，双主席并行，“落实时代”的首场气候大会有哪些看点？",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728708.shtml",
         "publishedAt": "2026-11-09T11:36:07.000+08:00"
-      },
-      {
-        "title": "“感谢山东老铁！” 大连多个景区对山东游客免费100天",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728696.shtml",
-        "publishedAt": "2026-11-09T11:34:37.000+08:00"
-      },
-      {
-        "title": "中国成功发射卫星互联网低轨29组卫星",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728684.shtml",
-        "publishedAt": "2026-11-09T11:34:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T11:50:03.723+08:00",
+    "fetchedAt": "2026-11-09T12:00:03.020+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T11:50:08.202+08:00",
+      "fetchedAt": "2026-11-09T12:00:07.541+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T11:50:08.366+08:00",
+      "fetchedAt": "2026-11-09T12:00:07.692+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T11:50:08.375+08:00",
+      "fetchedAt": "2026-11-09T12:00:07.701+08:00",
       "error": null
     }
   }
