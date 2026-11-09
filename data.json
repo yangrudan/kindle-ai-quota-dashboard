@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-09T09:50:23.284+08:00",
+  "updatedAt": "2026-11-09T10:00:09.200+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.6,
+    "tempC": 11.7,
     "feelsLikeC": 7,
-    "humidity": 66,
-    "windKph": 23.6,
+    "humidity": 65,
+    "windKph": 23.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-09T09:50:23.284+08:00",
+    "observedAt": "2026-11-09T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-09T10:00:09.200+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家统计局：10月份CPI同比继续上涨 PPI环比涨幅回落",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728628.shtml",
+        "publishedAt": "2026-11-09T09:56:44.000+08:00"
+      },
+      {
+        "title": "从进博之门到开放之门丨研发首选中国，创新走向世界",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728631.shtml",
+        "publishedAt": "2026-11-09T09:55:28.000+08:00"
+      },
+      {
+        "title": "三峡大坝青年集体婚礼：50对新人行古礼许终身",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728626.shtml",
+        "publishedAt": "2026-11-09T09:49:44.000+08:00"
+      },
       {
         "title": "钦州港海关2026年11月份“关长接待日”公告",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728623.shtml",
@@ -28,24 +43,9 @@
         "title": "11月9日央行开展1820亿元隔夜逆回购操作",
         "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728618.shtml",
         "publishedAt": "2026-11-09T09:35:55.000+08:00"
-      },
-      {
-        "title": "A股周一开盘：超4800只个股飘红，三大指数集体高开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728621.shtml",
-        "publishedAt": "2026-11-09T09:35:51.000+08:00"
-      },
-      {
-        "title": "国家统计局：10月份居民消费价格同比上涨0.7%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728619.shtml",
-        "publishedAt": "2026-11-09T09:32:09.000+08:00"
-      },
-      {
-        "title": "11月9日人民币对美元中间价报6.7188 下调20个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728616.shtml",
-        "publishedAt": "2026-11-09T09:30:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T09:50:03.072+08:00",
+    "fetchedAt": "2026-11-09T10:00:03.199+08:00",
     "error": null
   },
   "sources": {
@@ -55,14 +55,13 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 4.9,
+          "usedPct": 100,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1427 / 1500 AIC"
+          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T16:18:27.751+08:00",
-      "error": "云端查询失败：Get \"https://api.github.com/copilot_internal/user\": net/http: TLS handshake timeout\n",
-      "stale": true
+      "fetchedAt": "2026-11-09T10:00:07.758+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -70,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 4,
           "resetAt": "2026-11-09T14:50:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 29,
+          "usedPct": 30,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T09:50:16.420+08:00",
+      "fetchedAt": "2026-11-09T10:00:08.008+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T09:50:16.431+08:00",
+      "fetchedAt": "2026-11-09T10:00:08.011+08:00",
       "error": null
     }
   }
