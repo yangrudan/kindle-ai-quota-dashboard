@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T11:10:39.260+08:00",
+  "updatedAt": "2026-11-09T11:20:08.802+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.8,
+    "tempC": 11.9,
     "feelsLikeC": 6.9,
     "humidity": 61,
-    "windKph": 24.5,
+    "windKph": 24.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T11:10:39.260+08:00",
+    "observedAt": "2026-11-09T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-09T11:20:08.802+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国收购秋粮超1亿吨",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728683.shtml",
+        "publishedAt": "2026-11-09T11:08:16.000+08:00"
+      },
       {
         "title": "太原一建筑火灾已致14死",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728678.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "港澳台人士表示二十届五中全会意义深远",
         "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728676.shtml",
         "publishedAt": "2026-11-09T10:59:13.000+08:00"
-      },
-      {
-        "title": "九届全勤，这些外企为何钟爱进博会",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728674.shtml",
-        "publishedAt": "2026-11-09T10:58:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T11:10:03.276+08:00",
+    "fetchedAt": "2026-11-09T11:20:03.648+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T11:10:37.746+08:00",
+      "fetchedAt": "2026-11-09T11:20:07.563+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T11:10:37.969+08:00",
+      "fetchedAt": "2026-11-09T11:20:07.846+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T11:10:37.978+08:00",
+      "fetchedAt": "2026-11-09T11:20:07.850+08:00",
       "error": null
     }
   }
