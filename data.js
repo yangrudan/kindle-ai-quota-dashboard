@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T15:30:09.881+08:00",
+  "updatedAt": "2026-11-09T15:40:39.976+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-09T15:30:09.881+08:00",
+    "fetchedAt": "2026-11-09T15:40:39.976+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外交部：中方就中俄美元首会晤同相关方保持着沟通",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728837.shtml",
-        "publishedAt": "2026-11-09T15:21:17.000+08:00"
+        "title": "保护地球免疫力，菲仕兰生物多样性亲子探索营在黄河口圆满收官",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728763.shtml",
+        "publishedAt": "2026-11-09T15:34:22.000+08:00"
       },
       {
-        "title": "四川：聚力资本市场与实体经济双向互动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728802.shtml",
-        "publishedAt": "2026-11-09T15:21:05.000+08:00"
+        "title": "以“链接”赋能超大城市跨域治理，将“进博流量”转化为高质量发展增量",
+        "url": "https://www.chinanews.com.cn/kong/2026/11-09/10728844.shtml",
+        "publishedAt": "2026-11-09T15:33:04.000+08:00"
       },
       {
-        "title": "聚焦深地储能关键技术 国家级高级研修班在山东泰安开班",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728801.shtml",
-        "publishedAt": "2026-11-09T15:20:29.000+08:00"
+        "title": "古巴党和政府特使将访华 中方介绍有关情况",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728842.shtml",
+        "publishedAt": "2026-11-09T15:31:46.000+08:00"
       },
       {
-        "title": "甘肃民建探索“黄河解法”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728808.shtml",
-        "publishedAt": "2026-11-09T15:19:45.000+08:00"
+        "title": "中国空间站将首次迎来外籍航天员到访 外交部回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728840.shtml",
+        "publishedAt": "2026-11-09T15:24:46.000+08:00"
       },
       {
-        "title": "从“单打独斗”到“抱团破局” 沈阳OPC社区打造超级个体创业生态",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728799.shtml",
-        "publishedAt": "2026-11-09T15:18:39.000+08:00"
+        "title": "黄仁勋婚外情对象为中国情报部门工作？外交部回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728839.shtml",
+        "publishedAt": "2026-11-09T15:23:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T15:30:04.399+08:00",
+    "fetchedAt": "2026-11-09T15:40:03.459+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T15:30:08.421+08:00",
+      "fetchedAt": "2026-11-09T15:40:38.005+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T15:30:08.558+08:00",
+      "fetchedAt": "2026-11-09T15:40:38.402+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T15:30:08.566+08:00",
+      "fetchedAt": "2026-11-09T15:40:38.408+08:00",
       "error": null
     }
   }
