@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T17:00:08.226+08:00",
+  "updatedAt": "2026-11-09T17:10:09.091+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T17:00:08.227+08:00",
+    "fetchedAt": "2026-11-09T17:10:09.091+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第35个全国消防日｜沉浸式科普实践让公众看得懂、摸得到、学得会",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728922.shtml",
-        "publishedAt": "2026-11-09T16:52:58.000+08:00"
+        "title": "（第九届进博会）“镜观”第九届进博会",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728932.shtml",
+        "publishedAt": "2026-11-09T17:02:01.000+08:00"
       },
       {
-        "title": "三亚西岛，藏着一个百年“最美渔村”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728906.shtml",
-        "publishedAt": "2026-11-09T16:52:36.000+08:00"
+        "title": "世界气象组织：近四年为有记录以来最热的四年",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728938.shtml",
+        "publishedAt": "2026-11-09T17:01:49.000+08:00"
       },
       {
-        "title": "四川消防宣传月启动 着力提升民众自防自救能力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728903.shtml",
-        "publishedAt": "2026-11-09T16:52:16.000+08:00"
+        "title": "消防共建进凯旋 同心守护万家安",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728930.shtml",
+        "publishedAt": "2026-11-09T17:00:57.000+08:00"
       },
       {
-        "title": "山西芝麻实收亩产创新纪录 实收最高亩产达到147.8公斤",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728901.shtml",
-        "publishedAt": "2026-11-09T16:51:36.000+08:00"
+        "title": "10月中国乘用车出口量同比增长68.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728936.shtml",
+        "publishedAt": "2026-11-09T17:00:45.000+08:00"
       },
       {
-        "title": "报告：中外企业气候行动整体呈现向好趋势 碳数据披露持续完善",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728910.shtml",
-        "publishedAt": "2026-11-09T16:51:26.000+08:00"
+        "title": "长江支流黄柏河：清流活水润育乡村振兴",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728927.shtml",
+        "publishedAt": "2026-11-09T16:59:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T17:00:03.104+08:00",
+    "fetchedAt": "2026-11-09T17:10:03.703+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T17:00:07.012+08:00",
+      "fetchedAt": "2026-11-09T17:10:07.532+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T17:00:07.299+08:00",
+      "fetchedAt": "2026-11-09T17:10:07.861+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T17:00:07.308+08:00",
+      "fetchedAt": "2026-11-09T17:10:07.866+08:00",
       "error": null
     }
   }
