@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T08:40:10.644+08:00",
+  "updatedAt": "2026-11-09T08:50:08.507+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.7,
-    "feelsLikeC": 7.9,
-    "humidity": 74,
+    "tempC": 11.8,
+    "feelsLikeC": 8,
+    "humidity": 73,
     "windKph": 20.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-09T08:40:10.645+08:00",
+    "observedAt": "2026-11-09T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-09T08:50:08.508+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "金观平：依法依规治理低价无序竞争",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728608.shtml",
+        "publishedAt": "2026-11-09T08:40:48.000+08:00"
+      },
+      {
+        "title": "特朗普称提议任命达纳·怀特为白宫新闻秘书“只是开玩笑”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728607.shtml",
+        "publishedAt": "2026-11-09T08:34:59.000+08:00"
+      },
+      {
+        "title": "全国大部进入晴朗模式 寒潮核心降温区域转移至南方",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728606.shtml",
+        "publishedAt": "2026-11-09T08:33:23.000+08:00"
+      },
       {
         "title": "隔夜白开水不能喝……是真是假？｜谣言终结站",
         "url": "https://www.chinanews.com.cn/jk/2026/11-09/10728601.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中央气象台：寒潮继续影响我国南方地区 云南等地多降水",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728596.shtml",
         "publishedAt": "2026-11-09T08:15:44.000+08:00"
-      },
-      {
-        "title": "开屏广告太添堵，怎么治？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728599.shtml",
-        "publishedAt": "2026-11-09T08:11:42.000+08:00"
-      },
-      {
-        "title": "南非公布地方选举结果 过半数市镇现“悬峙议会”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728586.shtml",
-        "publishedAt": "2026-11-09T08:11:16.000+08:00"
-      },
-      {
-        "title": "寒潮+大风预警持续 部分地区降温超10℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728598.shtml",
-        "publishedAt": "2026-11-09T08:06:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T08:40:03.735+08:00",
+    "fetchedAt": "2026-11-09T08:50:03.137+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T08:40:09.076+08:00",
+      "fetchedAt": "2026-11-09T08:50:07.275+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T13:40:10.000+08:00"
+          "resetAt": "2026-11-09T13:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T08:40:09.385+08:00",
+      "fetchedAt": "2026-11-09T08:50:07.585+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T08:40:09.392+08:00",
+      "fetchedAt": "2026-11-09T08:50:07.595+08:00",
       "error": null
     }
   }
