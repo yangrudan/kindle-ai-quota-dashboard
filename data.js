@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T08:20:08.682+08:00",
+  "updatedAt": "2026-11-09T08:30:07.792+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.5,
-    "feelsLikeC": 7.8,
-    "humidity": 76,
-    "windKph": 20.6,
+    "tempC": 11.7,
+    "feelsLikeC": 7.9,
+    "humidity": 74,
+    "windKph": 20.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-09T08:20:08.682+08:00",
+    "observedAt": "2026-11-09T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-09T08:30:07.792+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "隔夜白开水不能喝……是真是假？",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-09/10728601.shtml",
+        "publishedAt": "2026-11-09T08:18:13.000+08:00"
+      },
       {
         "title": "中央气象台：寒潮继续影响我国南方地区 云南等地多降水",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728596.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "寒潮+大风预警持续 部分地区降温超10℃",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728598.shtml",
         "publishedAt": "2026-11-09T08:06:08.000+08:00"
-      },
-      {
-        "title": "外媒：伊拉克库区天然气田遭不明来源无人机袭击",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728597.shtml",
-        "publishedAt": "2026-11-09T08:02:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T08:20:03.863+08:00",
+    "fetchedAt": "2026-11-09T08:30:02.890+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T08:20:07.480+08:00",
+      "fetchedAt": "2026-11-09T08:30:06.548+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T13:20:08.000+08:00"
+          "resetAt": "2026-11-09T13:30:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T08:20:07.768+08:00",
+      "fetchedAt": "2026-11-09T08:30:06.856+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T08:20:07.777+08:00",
+      "fetchedAt": "2026-11-09T08:30:06.866+08:00",
       "error": null
     }
   }
