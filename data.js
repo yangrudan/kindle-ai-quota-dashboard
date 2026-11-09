@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T15:50:09.994+08:00",
+  "updatedAt": "2026-11-09T16:00:09.341+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 10.9,
-    "feelsLikeC": 5.8,
-    "humidity": 52,
-    "windKph": 21.4,
+    "feelsLikeC": 5.9,
+    "humidity": 51,
+    "windKph": 20.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-09T15:50:09.994+08:00",
+    "observedAt": "2026-11-09T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-09T16:00:09.341+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026商业航天论坛武汉开幕 多项合作集中签约",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728852.shtml",
-        "publishedAt": "2026-11-09T15:45:15.000+08:00"
+        "title": "外交部：中方在美国输华芯片问题上的立场是一贯的",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728872.shtml",
+        "publishedAt": "2026-11-09T15:49:49.000+08:00"
       },
       {
-        "title": "中方：美伊战事延宕不符合当事方和国际社会共同利益",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728867.shtml",
-        "publishedAt": "2026-11-09T15:44:53.000+08:00"
+        "title": "（第九届进博会）离开中国8年，这位美国商人带着生意回来",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728865.shtml",
+        "publishedAt": "2026-11-09T15:47:57.000+08:00"
       },
       {
-        "title": "第八届福建省“读中华经典 颂时代华章”诵读比赛优秀作品展演福州落下帷幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728860.shtml",
-        "publishedAt": "2026-11-09T15:44:51.000+08:00"
+        "title": "从“想来看看”到“多待多买”，入境游已是next level",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728870.shtml",
+        "publishedAt": "2026-11-09T15:47:55.000+08:00"
       },
       {
-        "title": "福建宁德铺陈全域康养旅居新图景：山海有约 四季可栖",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728854.shtml",
-        "publishedAt": "2026-11-09T15:44:15.000+08:00"
+        "title": "石榴花开暖校园 沈商公益助成长 ——沈阳市工商联“沈商公益”爱心捐赠活动走进浑南区朝鲜族学校",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728859.shtml",
+        "publishedAt": "2026-11-09T15:47:09.000+08:00"
       },
       {
-        "title": "重庆潼南将从三方面发力 打造“桥头堡”城市",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728855.shtml",
-        "publishedAt": "2026-11-09T15:44:07.000+08:00"
+        "title": "“中国生态柠檬之都”重庆潼南擦亮金字招牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728858.shtml",
+        "publishedAt": "2026-11-09T15:46:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T15:50:04.047+08:00",
+    "fetchedAt": "2026-11-09T16:00:03.745+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T15:50:08.541+08:00",
+      "fetchedAt": "2026-11-09T16:00:07.646+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T15:50:08.825+08:00",
+      "fetchedAt": "2026-11-09T16:00:07.914+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T15:50:08.834+08:00",
+      "fetchedAt": "2026-11-09T16:00:07.923+08:00",
       "error": null
     }
   }
