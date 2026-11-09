@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T13:50:08.279+08:00",
+  "updatedAt": "2026-11-09T14:00:10.763+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.6,
-    "feelsLikeC": 6.5,
+    "tempC": 11.5,
+    "feelsLikeC": 6.4,
     "humidity": 57,
-    "windKph": 24.3,
+    "windKph": 24,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-09T13:50:08.279+08:00",
+    "observedAt": "2026-11-09T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-09T14:00:10.763+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "川澳手艺人面对面 聊出非遗融合发展新灵感",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728736.shtml",
-        "publishedAt": "2026-11-09T13:42:44.000+08:00"
+        "title": "中国12月起推行进口小客车新车上牌“一件事”等5项便民新措施",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728766.shtml",
+        "publishedAt": "2026-11-09T13:53:57.000+08:00"
       },
       {
-        "title": "梧州海关关于开展2026年11月份“关长接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728770.shtml",
-        "publishedAt": "2026-11-09T13:40:40.000+08:00"
+        "title": "峒中海关关于开展2026年11月份“关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728776.shtml",
+        "publishedAt": "2026-11-09T13:51:43.000+08:00"
       },
       {
-        "title": "北海海关2026年11月份“关领导接待日”公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728764.shtml",
-        "publishedAt": "2026-11-09T13:33:30.000+08:00"
+        "title": "医药领域专家学者齐聚“中华药港” 共商人工智能赋能医药创新",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728772.shtml",
+        "publishedAt": "2026-11-09T13:50:37.000+08:00"
       },
       {
-        "title": "菲律宾第三季度经济增速放缓至2.1%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728762.shtml",
-        "publishedAt": "2026-11-09T13:31:10.000+08:00"
+        "title": "山西太原一公寓火灾已致14人遇难",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728761.shtml",
+        "publishedAt": "2026-11-09T13:49:29.000+08:00"
       },
       {
-        "title": "中国公布调整对原产于美国的进口商品加征关税措施",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728760.shtml",
-        "publishedAt": "2026-11-09T13:30:50.000+08:00"
+        "title": "“红鹰”编队飞越长春 贺空军成立77周年",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728769.shtml",
+        "publishedAt": "2026-11-09T13:48:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T13:50:02.966+08:00",
+    "fetchedAt": "2026-11-09T14:00:05.095+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T13:50:07.077+08:00",
+      "fetchedAt": "2026-11-09T14:00:08.959+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
+          "usedPct": 53,
           "resetAt": "2026-11-09T14:50:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 36,
+          "usedPct": 37,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T13:50:07.319+08:00",
+      "fetchedAt": "2026-11-09T14:00:09.253+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T13:50:07.322+08:00",
+      "fetchedAt": "2026-11-09T14:00:09.263+08:00",
       "error": null
     }
   }
