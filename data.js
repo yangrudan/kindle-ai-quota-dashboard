@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T16:50:09.743+08:00",
+  "updatedAt": "2026-11-09T17:00:08.226+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 10.4,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 10.2,
     "feelsLikeC": 6.3,
-    "humidity": 55,
-    "windKph": 15.7,
+    "humidity": 56,
+    "windKph": 14.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-09T16:50:09.743+08:00",
+    "observedAt": "2026-11-09T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-09T17:00:08.227+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "商务部：继续暂停对韩华海洋株式会社5家美国相关子公司实施反制措施2个月",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728894.shtml",
-        "publishedAt": "2026-11-09T16:41:50.000+08:00"
+        "title": "第35个全国消防日｜沉浸式科普实践让公众看得懂、摸得到、学得会",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728922.shtml",
+        "publishedAt": "2026-11-09T16:52:58.000+08:00"
       },
       {
-        "title": "五中全会精神在基层丨门向群众敞开，天津基层全面从严治党一线观察",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728897.shtml",
-        "publishedAt": "2026-11-09T16:41:10.000+08:00"
+        "title": "三亚西岛，藏着一个百年“最美渔村”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728906.shtml",
+        "publishedAt": "2026-11-09T16:52:36.000+08:00"
       },
       {
-        "title": "山西恒山黄芪全产业链产值突破15亿元 远销60多个国家和地区",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728892.shtml",
-        "publishedAt": "2026-11-09T16:40:10.000+08:00"
+        "title": "四川消防宣传月启动 着力提升民众自防自救能力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728903.shtml",
+        "publishedAt": "2026-11-09T16:52:16.000+08:00"
       },
       {
-        "title": "攀枝花：同心聚力绘就共富新图景",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728889.shtml",
-        "publishedAt": "2026-11-09T16:39:18.000+08:00"
+        "title": "山西芝麻实收亩产创新纪录 实收最高亩产达到147.8公斤",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728901.shtml",
+        "publishedAt": "2026-11-09T16:51:36.000+08:00"
       },
       {
-        "title": "第九届进博会|虹桥论坛聚焦全球经济热点议题",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728891.shtml",
-        "publishedAt": "2026-11-09T16:33:29.000+08:00"
+        "title": "报告：中外企业气候行动整体呈现向好趋势 碳数据披露持续完善",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728910.shtml",
+        "publishedAt": "2026-11-09T16:51:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T16:50:04.018+08:00",
+    "fetchedAt": "2026-11-09T17:00:03.104+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T16:50:08.287+08:00",
+      "fetchedAt": "2026-11-09T17:00:07.012+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T16:50:08.566+08:00",
+      "fetchedAt": "2026-11-09T17:00:07.299+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T16:50:08.575+08:00",
+      "fetchedAt": "2026-11-09T17:00:07.308+08:00",
       "error": null
     }
   }
