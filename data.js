@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T11:20:08.802+08:00",
+  "updatedAt": "2026-11-09T11:30:10.763+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 11.9,
     "feelsLikeC": 6.9,
-    "humidity": 61,
-    "windKph": 24.7,
+    "humidity": 60,
+    "windKph": 24.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-09T11:20:08.802+08:00",
+    "observedAt": "2026-11-09T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-09T11:30:10.764+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国收购秋粮超1亿吨",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728683.shtml",
-        "publishedAt": "2026-11-09T11:08:16.000+08:00"
+        "title": "（第九届进博会）新需求涌现 外企尝试“读懂”中国消费者",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728670.shtml",
+        "publishedAt": "2026-11-09T11:26:43.000+08:00"
       },
       {
-        "title": "太原一建筑火灾已致14死",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728678.shtml",
-        "publishedAt": "2026-11-09T11:03:40.000+08:00"
+        "title": "红星照耀中国·三军会师启新程 | 甘肃成县：五龙山阻击战",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728694.shtml",
+        "publishedAt": "2026-11-09T11:25:45.000+08:00"
       },
       {
-        "title": "“煤炭生产基地+能源大动脉”筑牢冬供“温暖防线” 守护群众安全过冬",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728677.shtml",
-        "publishedAt": "2026-11-09T11:02:51.000+08:00"
+        "title": "电影《澳门大赛车》全球首映",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-09/10728693.shtml",
+        "publishedAt": "2026-11-09T11:24:49.000+08:00"
       },
       {
-        "title": "辽宁省农业农村厅党组成员、副厅长冀登义接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728655.shtml",
-        "publishedAt": "2026-11-09T10:59:15.000+08:00"
+        "title": "河北石家庄迎来低温霜冻天气",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728689.shtml",
+        "publishedAt": "2026-11-09T11:24:13.000+08:00"
       },
       {
-        "title": "港澳台人士表示二十届五中全会意义深远",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728676.shtml",
-        "publishedAt": "2026-11-09T10:59:13.000+08:00"
+        "title": "云南多地气温骤降将有暴雨 8州（市）启动防汛四级应急响应",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728667.shtml",
+        "publishedAt": "2026-11-09T11:23:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T11:20:03.648+08:00",
+    "fetchedAt": "2026-11-09T11:30:03.789+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T11:20:07.563+08:00",
+      "fetchedAt": "2026-11-09T11:30:08.089+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 38,
           "resetAt": "2026-11-09T14:50:02.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T11:20:07.846+08:00",
+      "fetchedAt": "2026-11-09T11:30:09.638+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T11:20:07.850+08:00",
+      "fetchedAt": "2026-11-09T11:30:09.646+08:00",
       "error": null
     }
   }
