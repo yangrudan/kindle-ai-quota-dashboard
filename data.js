@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T10:30:08.975+08:00",
+  "updatedAt": "2026-11-09T10:40:09.796+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-09T10:30:08.975+08:00",
+    "fetchedAt": "2026-11-09T10:40:09.797+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "防城海关关于开展2026年11月份 “关领导接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728648.shtml",
-        "publishedAt": "2026-11-09T10:25:05.000+08:00"
+        "title": "国务院关税税则委员会发布公告调整对原产于美国的进口商品加征关税措施",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728657.shtml",
+        "publishedAt": "2026-11-09T10:38:06.000+08:00"
       },
       {
-        "title": "作品与传播同步治理！AI短剧如何告别低俗化、同质化？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728647.shtml",
-        "publishedAt": "2026-11-09T10:22:55.000+08:00"
+        "title": "在历史回响中坚定前行（暖闻热评）",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-09/10728656.shtml",
+        "publishedAt": "2026-11-09T10:36:18.000+08:00"
       },
       {
-        "title": "美军重兵压境、伊朗针锋相对，中东大战一触即发？",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728630.shtml",
-        "publishedAt": "2026-11-09T10:22:23.000+08:00"
+        "title": "四川汶川《爱在汶川》全域沉浸式演绎点亮羌年",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728650.shtml",
+        "publishedAt": "2026-11-09T10:34:14.000+08:00"
       },
       {
-        "title": "埃及列车相撞事故死亡人数升至7人",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728625.shtml",
-        "publishedAt": "2026-11-09T10:21:01.000+08:00"
+        "title": "江苏苏州吴江区：“阳光物业”守护群众安居梦",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-09/10728654.shtml",
+        "publishedAt": "2026-11-09T10:34:06.000+08:00"
       },
       {
-        "title": "南宁吴圩机场海关关于开展2026年11月份“关领导接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728646.shtml",
-        "publishedAt": "2026-11-09T10:18:45.000+08:00"
+        "title": "尼泊尔民众庆祝“敬狗日”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728645.shtml",
+        "publishedAt": "2026-11-09T10:31:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T10:30:03.571+08:00",
+    "fetchedAt": "2026-11-09T10:40:04.027+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T10:30:07.666+08:00",
+      "fetchedAt": "2026-11-09T10:40:07.978+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 32,
-          "resetAt": "2026-11-09T14:50:02.000+08:00"
+          "usedPct": 35,
+          "resetAt": "2026-11-09T14:50:03.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 34,
+          "usedPct": 35,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T10:30:07.931+08:00",
+      "fetchedAt": "2026-11-09T10:40:08.336+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T10:30:07.940+08:00",
+      "fetchedAt": "2026-11-09T10:40:08.345+08:00",
       "error": null
     }
   }
