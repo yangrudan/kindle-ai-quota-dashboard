@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T15:00:09.029+08:00",
+  "updatedAt": "2026-11-09T15:10:09.290+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 10.7,
-    "feelsLikeC": 5.9,
-    "humidity": 57,
-    "windKph": 21.2,
+    "tempC": 11,
+    "feelsLikeC": 6.1,
+    "humidity": 56,
+    "windKph": 22.2,
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T15:00:09.029+08:00",
+    "fetchedAt": "2026-11-09T15:10:09.290+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年全国羽毛球团体锦标赛宜昌开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-09/10728795.shtml",
+        "publishedAt": "2026-11-09T15:01:58.000+08:00"
+      },
+      {
+        "title": "AI替代就业，国家出手了",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728824.shtml",
+        "publishedAt": "2026-11-09T15:00:34.000+08:00"
+      },
+      {
+        "title": "宁夏银川：鸥群不只是路过",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728793.shtml",
+        "publishedAt": "2026-11-09T15:00:06.000+08:00"
+      },
       {
         "title": "闸口海关水湾路业务技术用房及配套设施维修改造项目（水湾路综合业务楼）招标公告",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728821.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "美国众院民主党领袖：防长赫格塞思“必须走人”",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728820.shtml",
         "publishedAt": "2026-11-09T14:54:54.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）进博会递“共赢之梯”：助力不同发展阶段国家接入中国大市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728787.shtml",
-        "publishedAt": "2026-11-09T14:54:10.000+08:00"
-      },
-      {
-        "title": "“欢乐潇湘” 展演点亮张家界大庸古城 赋能文旅融合",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728797.shtml",
-        "publishedAt": "2026-11-09T14:53:22.000+08:00"
-      },
-      {
-        "title": "今年前10个月海南离岛免税购物金额同比增长12.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728789.shtml",
-        "publishedAt": "2026-11-09T14:51:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T15:00:03.491+08:00",
+    "fetchedAt": "2026-11-09T15:10:03.485+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T15:00:07.660+08:00",
+      "fetchedAt": "2026-11-09T15:10:08.007+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-09T20:00:08.000+08:00"
+          "usedPct": 4,
+          "resetAt": "2026-11-09T20:04:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 44,
+          "usedPct": 45,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T15:00:07.876+08:00",
+      "fetchedAt": "2026-11-09T15:10:08.174+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T15:00:07.885+08:00",
+      "fetchedAt": "2026-11-09T15:10:08.184+08:00",
       "error": null
     }
   }
