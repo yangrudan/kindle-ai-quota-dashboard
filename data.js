@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T09:40:09.082+08:00",
+  "updatedAt": "2026-11-09T09:50:23.284+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.5,
+    "tempC": 11.6,
     "feelsLikeC": 7,
-    "humidity": 67,
-    "windKph": 23.7,
+    "humidity": 66,
+    "windKph": 23.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-09T09:40:09.082+08:00",
+    "observedAt": "2026-11-09T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-09T09:50:23.284+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,22 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年10月份居民消费价格同比上涨0.7%",
+        "title": "钦州港海关2026年11月份“关长接待日”公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728623.shtml",
+        "publishedAt": "2026-11-09T09:38:05.000+08:00"
+      },
+      {
+        "title": "11月9日央行开展1820亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728618.shtml",
+        "publishedAt": "2026-11-09T09:35:55.000+08:00"
+      },
+      {
+        "title": "A股周一开盘：超4800只个股飘红，三大指数集体高开",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728621.shtml",
+        "publishedAt": "2026-11-09T09:35:51.000+08:00"
+      },
+      {
+        "title": "国家统计局：10月份居民消费价格同比上涨0.7%",
         "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728619.shtml",
         "publishedAt": "2026-11-09T09:32:09.000+08:00"
       },
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "11月9日人民币对美元中间价报6.7188 下调20个基点",
         "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728616.shtml",
         "publishedAt": "2026-11-09T09:30:50.000+08:00"
-      },
-      {
-        "title": "寒潮继续南下影响江淮江南华南等地 云南等地降水明显",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728610.shtml",
-        "publishedAt": "2026-11-09T09:27:40.000+08:00"
-      },
-      {
-        "title": "本是领养猫咪，却背上了“贷款”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728617.shtml",
-        "publishedAt": "2026-11-09T09:27:12.000+08:00"
-      },
-      {
-        "title": "强化地方党委功能（学习贯彻党的二十届五中全会精神）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728613.shtml",
-        "publishedAt": "2026-11-09T09:23:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T09:40:03.606+08:00",
+    "fetchedAt": "2026-11-09T09:50:03.072+08:00",
     "error": null
   },
   "sources": {
@@ -55,13 +55,14 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 100,
+          "usedPct": 4.9,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
+          "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T09:40:07.748+08:00",
-      "error": null
+      "fetchedAt": "2026-11-06T16:18:27.751+08:00",
+      "error": "云端查询失败：Get \"https://api.github.com/copilot_internal/user\": net/http: TLS handshake timeout\n",
+      "stale": true
     },
     "codex": {
       "ok": true,
@@ -70,7 +71,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T14:40:09.000+08:00"
+          "resetAt": "2026-11-09T14:50:02.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T09:40:07.996+08:00",
+      "fetchedAt": "2026-11-09T09:50:16.420+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T09:40:08.006+08:00",
+      "fetchedAt": "2026-11-09T09:50:16.431+08:00",
       "error": null
     }
   }
