@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T14:50:38.840+08:00",
+  "updatedAt": "2026-11-09T15:00:09.029+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.1,
-    "feelsLikeC": 6.1,
-    "humidity": 56,
-    "windKph": 22.6,
+    "tempC": 10.7,
+    "feelsLikeC": 5.9,
+    "humidity": 57,
+    "windKph": 21.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-09T14:50:38.841+08:00",
+    "observedAt": "2026-11-09T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-09T15:00:09.029+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "移民后裔寒衣节齐聚“华人老家”山西洪洞大槐树祭祖",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728783.shtml",
-        "publishedAt": "2026-11-09T14:36:17.000+08:00"
+        "title": "闸口海关水湾路业务技术用房及配套设施维修改造项目（水湾路综合业务楼）招标公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728821.shtml",
+        "publishedAt": "2026-11-09T14:55:44.000+08:00"
       },
       {
-        "title": "印度中央邦排灯节期间发生两起火灾 致12人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728800.shtml",
-        "publishedAt": "2026-11-09T14:34:25.000+08:00"
+        "title": "美国众院民主党领袖：防长赫格塞思“必须走人”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728820.shtml",
+        "publishedAt": "2026-11-09T14:54:54.000+08:00"
       },
       {
-        "title": "2026基层社会治理创新座谈会聚焦新质生产力赋能基层治理",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728788.shtml",
-        "publishedAt": "2026-11-09T14:33:01.000+08:00"
+        "title": "（第九届进博会）进博会递“共赢之梯”：助力不同发展阶段国家接入中国大市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728787.shtml",
+        "publishedAt": "2026-11-09T14:54:10.000+08:00"
       },
       {
-        "title": "（第九届进博会）“新阶层·建设力”链接进博会 共筑“出海桥梁”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-09/10728804.shtml",
-        "publishedAt": "2026-11-09T14:31:39.000+08:00"
+        "title": "“欢乐潇湘” 展演点亮张家界大庸古城 赋能文旅融合",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728797.shtml",
+        "publishedAt": "2026-11-09T14:53:22.000+08:00"
       },
       {
-        "title": "中国海警舰艇编队在中国钓鱼岛及其附属岛屿领海内维权巡航",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728781.shtml",
-        "publishedAt": "2026-11-09T14:31:19.000+08:00"
+        "title": "今年前10个月海南离岛免税购物金额同比增长12.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728789.shtml",
+        "publishedAt": "2026-11-09T14:51:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T14:50:03.369+08:00",
+    "fetchedAt": "2026-11-09T15:00:03.491+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T14:50:37.250+08:00",
+      "fetchedAt": "2026-11-09T15:00:07.660+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T19:50:38.000+08:00"
+          "resetAt": "2026-11-09T20:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T14:50:37.653+08:00",
+      "fetchedAt": "2026-11-09T15:00:07.876+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T14:50:37.665+08:00",
+      "fetchedAt": "2026-11-09T15:00:07.885+08:00",
       "error": null
     }
   }
