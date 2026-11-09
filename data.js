@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T14:00:10.763+08:00",
+  "updatedAt": "2026-11-09T14:10:09.060+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-09T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T14:00:10.763+08:00",
+    "fetchedAt": "2026-11-09T14:10:09.061+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国12月起推行进口小客车新车上牌“一件事”等5项便民新措施",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728766.shtml",
-        "publishedAt": "2026-11-09T13:53:57.000+08:00"
+        "title": "第十二届深圳摄影作品年度展呈现生态人文科技交织画卷",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728771.shtml",
+        "publishedAt": "2026-11-09T14:04:51.000+08:00"
       },
       {
-        "title": "峒中海关关于开展2026年11月份“关领导接待日”的公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-09/10728776.shtml",
-        "publishedAt": "2026-11-09T13:51:43.000+08:00"
+        "title": "寒潮主体南下！今天降温核心转移至南方 中东部逐步开启升温模式",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728785.shtml",
+        "publishedAt": "2026-11-09T14:04:03.000+08:00"
       },
       {
-        "title": "医药领域专家学者齐聚“中华药港” 共商人工智能赋能医药创新",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728772.shtml",
-        "publishedAt": "2026-11-09T13:50:37.000+08:00"
+        "title": "河北邯郸凝聚“五老”银发力量巧解乡村纠纷",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728774.shtml",
+        "publishedAt": "2026-11-09T14:02:35.000+08:00"
       },
       {
-        "title": "山西太原一公寓火灾已致14人遇难",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728761.shtml",
-        "publishedAt": "2026-11-09T13:49:29.000+08:00"
+        "title": "匠心护老暖桑榆 沈阳市“工匠杯”养老护理员职工职业技能竞赛完赛",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728780.shtml",
+        "publishedAt": "2026-11-09T14:02:27.000+08:00"
       },
       {
-        "title": "“红鹰”编队飞越长春 贺空军成立77周年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728769.shtml",
-        "publishedAt": "2026-11-09T13:48:47.000+08:00"
+        "title": "暨南大学公共管理学院举行建院15周年高质量发展大会",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728778.shtml",
+        "publishedAt": "2026-11-09T13:56:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T14:00:05.095+08:00",
+    "fetchedAt": "2026-11-09T14:10:03.529+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-09T14:00:08.959+08:00",
+      "fetchedAt": "2026-11-09T14:10:07.589+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 53,
+          "usedPct": 60,
           "resetAt": "2026-11-09T14:50:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 37,
+          "usedPct": 38,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T14:00:09.253+08:00",
+      "fetchedAt": "2026-11-09T14:10:07.934+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T14:00:09.263+08:00",
+      "fetchedAt": "2026-11-09T14:10:07.945+08:00",
       "error": null
     }
   }
