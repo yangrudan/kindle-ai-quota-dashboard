@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T13:20:26.968+08:00",
+  "updatedAt": "2026-11-10T13:30:27.693+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.3,
-    "feelsLikeC": 11.3,
+    "tempC": 13.4,
+    "feelsLikeC": 11.2,
     "humidity": 52,
     "windKph": 6.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-10T13:20:26.968+08:00",
+    "observedAt": "2026-11-10T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-10T13:30:27.693+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）弗拉明戈伴火腿香 巴塞罗那亮相进博续写上海友城佳话",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729361.shtml",
-        "publishedAt": "2026-11-10T13:08:51.000+08:00"
+        "title": "柬埔寨一运送学生车辆坠塘致多人死伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729363.shtml",
+        "publishedAt": "2026-11-10T13:25:02.000+08:00"
       },
       {
-        "title": "非洲国家议员研讨班开班式举行：深化治国理政和立法经验交流",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729364.shtml",
-        "publishedAt": "2026-11-10T13:06:31.000+08:00"
+        "title": "美共和党众议员再次对防长赫格塞思发起弹劾",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729358.shtml",
+        "publishedAt": "2026-11-10T13:24:14.000+08:00"
       },
       {
-        "title": "中国乒协公布混团世界杯参赛名单 王楚钦、孙颖莎等入选",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729360.shtml",
-        "publishedAt": "2026-11-10T13:05:47.000+08:00"
+        "title": "星云星座计划在合肥发布 国产太空算力网建设提速",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729365.shtml",
+        "publishedAt": "2026-11-10T13:19:17.000+08:00"
       },
       {
-        "title": "10月中国进出口总值同比增超三成",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729359.shtml",
-        "publishedAt": "2026-11-10T13:04:43.000+08:00"
+        "title": "贵金属价格震荡加剧 中国金币集团发布风险提示",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729368.shtml",
+        "publishedAt": "2026-11-10T13:18:43.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会聚“破局之思”：在世界变局中寻找合作共识",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729347.shtml",
-        "publishedAt": "2026-11-10T13:04:37.000+08:00"
+        "title": "中央美术学院雕塑系金属工作室优秀师生作品亮相景德镇",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729366.shtml",
+        "publishedAt": "2026-11-10T13:18:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T13:20:02.698+08:00",
+    "fetchedAt": "2026-11-10T13:30:04.051+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T13:20:06.805+08:00",
+      "fetchedAt": "2026-11-10T13:30:07.536+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T13:20:06.960+08:00"
+      "lastAttemptAt": "2026-11-10T13:30:07.688+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T13:20:06.964+08:00",
+      "fetchedAt": "2026-11-10T13:30:07.691+08:00",
       "error": null
     }
   }
