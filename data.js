@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T14:00:32.803+08:00",
+  "updatedAt": "2026-11-10T14:10:26.968+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-10T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T14:00:32.803+08:00",
+    "fetchedAt": "2026-11-10T14:10:26.968+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "洋浦海关2号驻勤楼电梯节能改造项目比选成交公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729379.shtml",
+        "publishedAt": "2026-11-10T14:00:44.000+08:00"
+      },
+      {
+        "title": "四部门：进一步做好创新药安全合理配备使用工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729375.shtml",
+        "publishedAt": "2026-11-10T13:59:36.000+08:00"
+      },
       {
         "title": "从“单打独斗”到“五方联动”：江苏高邮探索东方白鹳“赔修一体”新路径",
         "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729370.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（第九届进博会）进博会读懂中国“聚侨力”：侨心所向机遇共享",
         "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729372.shtml",
         "publishedAt": "2026-11-10T13:41:07.000+08:00"
-      },
-      {
-        "title": "镇村开行“云公交” 常州算对几笔账",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729374.shtml",
-        "publishedAt": "2026-11-10T13:40:18.000+08:00"
-      },
-      {
-        "title": "玉林海关2026年12月份“关领导接待日”公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729371.shtml",
-        "publishedAt": "2026-11-10T13:29:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T14:00:08.007+08:00",
+    "fetchedAt": "2026-11-10T14:10:03.131+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T14:00:12.601+08:00",
+      "fetchedAt": "2026-11-10T14:10:06.836+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T14:00:12.797+08:00"
+      "lastAttemptAt": "2026-11-10T14:10:06.961+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T14:00:12.800+08:00",
+      "fetchedAt": "2026-11-10T14:10:06.964+08:00",
       "error": null
     }
   }
