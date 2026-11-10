@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T12:50:37.502+08:00",
+  "updatedAt": "2026-11-10T13:00:35.139+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-10T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-10T12:50:37.502+08:00",
+    "fetchedAt": "2026-11-10T13:00:35.139+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-10T12:23:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T12:50:03.132+08:00",
+    "fetchedAt": "2026-11-10T13:00:12.021+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T12:50:36.134+08:00",
+      "fetchedAt": "2026-11-10T13:00:14.932+08:00",
       "error": null
     },
     "codex": {
@@ -79,7 +79,9 @@
         }
       ],
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
-      "error": null
+      "error": "Codex app-server 查询超时",
+      "stale": true,
+      "lastAttemptAt": "2026-11-10T13:00:15.133+08:00"
     },
     "mimo": {
       "ok": true,
@@ -97,7 +99,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T12:50:36.321+08:00",
+      "fetchedAt": "2026-11-10T13:00:15.137+08:00",
       "error": null
     }
   }
