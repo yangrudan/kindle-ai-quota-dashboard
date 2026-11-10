@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-10T09:40:26.675+08:00",
+  "updatedAt": "2026-11-10T09:50:11.423+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.6,
-    "feelsLikeC": 6.4,
-    "humidity": 57,
-    "windKph": 8.8,
+    "tempC": 10.1,
+    "feelsLikeC": 6.9,
+    "humidity": 56,
+    "windKph": 9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T09:40:26.675+08:00",
+    "observedAt": "2026-11-10T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-10T09:50:11.423+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "侨聚进博时刻，一日双场联动！",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729215.shtml",
+        "publishedAt": "2026-11-10T09:44:22.000+08:00"
+      },
+      {
+        "title": "眉山：发挥基层文化优势 推进统一战线思想政治引领",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729213.shtml",
+        "publishedAt": "2026-11-10T09:43:04.000+08:00"
+      },
+      {
+        "title": "关于贵港海关受灾维修项目竞争性磋商公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729225.shtml",
+        "publishedAt": "2026-11-10T09:41:02.000+08:00"
+      },
+      {
+        "title": "直播：国家发改委就增进民生福祉有关情况举行新闻发布会",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-10/10729223.shtml",
+        "publishedAt": "2026-11-10T09:39:21.000+08:00"
+      },
+      {
         "title": "在这里，港澳青年与创意尽情生长",
         "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729212.shtml",
         "publishedAt": "2026-11-10T09:35:55.000+08:00"
-      },
-      {
-        "title": "北海海关业务网新版门户网站开发建设服务项目协商谈判采购公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729220.shtml",
-        "publishedAt": "2026-11-10T09:34:13.000+08:00"
-      },
-      {
-        "title": "教育部、公安部、农业农村部部署实施服务乡村振兴高校招生专项计划",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729219.shtml",
-        "publishedAt": "2026-11-10T09:33:17.000+08:00"
-      },
-      {
-        "title": "寒潮影响已近尾声 云南贵州新疆等地多降水",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729214.shtml",
-        "publishedAt": "2026-11-10T09:28:39.000+08:00"
-      },
-      {
-        "title": "打好扫黑除恶的“新战役”（人民时评）",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729218.shtml",
-        "publishedAt": "2026-11-10T09:28:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T09:40:03.012+08:00",
+    "fetchedAt": "2026-11-10T09:50:02.624+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T09:40:06.568+08:00",
+      "fetchedAt": "2026-11-10T09:50:05.892+08:00",
       "error": null
     },
     "codex": {
@@ -79,9 +79,9 @@
         }
       ],
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
-      "error": "Codex app-server 查询超时",
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T09:40:06.667+08:00"
+      "lastAttemptAt": "2026-11-10T09:50:06.074+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T09:40:06.673+08:00",
+      "fetchedAt": "2026-11-10T09:50:06.079+08:00",
       "error": null
     }
   }
