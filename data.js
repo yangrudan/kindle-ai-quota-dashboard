@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T13:40:18.780+08:00",
+  "updatedAt": "2026-11-10T13:50:28.177+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.4,
+    "tempC": 13.5,
     "feelsLikeC": 11.2,
     "humidity": 52,
     "windKph": 6.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T13:40:18.780+08:00",
+    "observedAt": "2026-11-10T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-10T13:50:28.177+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "从“单打独斗”到“五方联动”：江苏高邮探索东方白鹳“赔修一体”新路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729370.shtml",
+        "publishedAt": "2026-11-10T13:42:13.000+08:00"
+      },
+      {
+        "title": "国家发展改革委：聚焦群众就医痛点 持续提升医疗卫生服务能力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729376.shtml",
+        "publishedAt": "2026-11-10T13:41:17.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）进博会读懂中国“聚侨力”：侨心所向机遇共享",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729372.shtml",
+        "publishedAt": "2026-11-10T13:41:07.000+08:00"
+      },
+      {
+        "title": "镇村开行“云公交” 常州算对几笔账",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729374.shtml",
+        "publishedAt": "2026-11-10T13:40:18.000+08:00"
+      },
+      {
         "title": "玉林海关2026年12月份“关领导接待日”公告",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729371.shtml",
         "publishedAt": "2026-11-10T13:29:56.000+08:00"
-      },
-      {
-        "title": "柬埔寨一运送学生车辆坠塘致多人死伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729363.shtml",
-        "publishedAt": "2026-11-10T13:25:02.000+08:00"
-      },
-      {
-        "title": "美共和党众议员再次对防长赫格塞思发起弹劾",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729358.shtml",
-        "publishedAt": "2026-11-10T13:24:14.000+08:00"
-      },
-      {
-        "title": "星云星座计划在合肥发布 国产太空算力网建设提速",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729365.shtml",
-        "publishedAt": "2026-11-10T13:19:17.000+08:00"
-      },
-      {
-        "title": "贵金属价格震荡加剧 中国金币集团发布风险提示",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729368.shtml",
-        "publishedAt": "2026-11-10T13:18:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T13:40:08.049+08:00",
+    "fetchedAt": "2026-11-10T13:50:03.971+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T13:40:13.378+08:00",
+      "fetchedAt": "2026-11-10T13:50:08.014+08:00",
       "error": null
     },
     "codex": {
@@ -79,9 +79,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T13:40:13.450+08:00"
+      "lastAttemptAt": "2026-11-10T13:50:08.171+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T13:40:13.453+08:00",
+      "fetchedAt": "2026-11-10T13:50:08.174+08:00",
       "error": null
     }
   }
