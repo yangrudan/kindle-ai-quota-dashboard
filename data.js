@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T15:00:57.145+08:00",
+  "updatedAt": "2026-11-10T15:10:27.028+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-10T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T15:00:57.146+08:00",
+    "fetchedAt": "2026-11-10T15:10:27.029+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "伊朗最高领袖指示：结束与美国“不战不和”状态",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729387.shtml",
-        "publishedAt": "2026-11-10T14:54:45.000+08:00"
+        "title": "从住在一起，到心在一起——山西长治“红石榴”服务站里的多民族日常",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729416.shtml",
+        "publishedAt": "2026-11-10T15:03:49.000+08:00"
       },
       {
-        "title": "盛事不断，香港创科发展动能澎湃",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-10/10729411.shtml",
-        "publishedAt": "2026-11-10T14:51:44.000+08:00"
+        "title": "从秦巴腹地到黄龙山麓：陕西省自行车联赛由全域覆盖走向体系跃升",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729414.shtml",
+        "publishedAt": "2026-11-10T15:02:35.000+08:00"
       },
       {
-        "title": "日本男子强闯中国驻日使馆案开审 检方求刑18个月拘禁刑",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729390.shtml",
-        "publishedAt": "2026-11-10T14:51:30.000+08:00"
+        "title": "广州举办建筑展览 纪念孙中山诞辰160周年",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729403.shtml",
+        "publishedAt": "2026-11-10T15:02:09.000+08:00"
       },
       {
-        "title": "九赴进博，再续十年之诺：拜耳以“黑科技”和十余项合作签约交出进博新答卷",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729395.shtml",
-        "publishedAt": "2026-11-10T14:48:46.000+08:00"
+        "title": "“黄河入晋第一县”山西偏关：接续数十年植绿治理 实现从生态痛点到示范蝶变",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729397.shtml",
+        "publishedAt": "2026-11-10T15:01:39.000+08:00"
       },
       {
-        "title": "高校学子,需要怎样的“生活教育课”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729406.shtml",
-        "publishedAt": "2026-11-10T14:47:40.000+08:00"
+        "title": "双11首发限量30000瓶！ 剑南春携手国博打造生肖酒文化标杆",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729386.shtml",
+        "publishedAt": "2026-11-10T15:00:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T15:00:03.770+08:00",
+    "fetchedAt": "2026-11-10T15:10:03.232+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T15:00:36.681+08:00",
+      "fetchedAt": "2026-11-10T15:10:06.786+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T15:00:37.138+08:00"
+      "lastAttemptAt": "2026-11-10T15:10:07.022+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T15:00:37.141+08:00",
+      "fetchedAt": "2026-11-10T15:10:07.025+08:00",
       "error": null
     }
   }
