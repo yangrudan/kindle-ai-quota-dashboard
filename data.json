@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-10T10:50:15.135+08:00",
+  "updatedAt": "2026-11-10T11:00:16.300+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.1,
-    "feelsLikeC": 8.7,
-    "humidity": 55,
-    "windKph": 8,
-    "windDir": "西北风",
+    "tempC": 11.4,
+    "feelsLikeC": 9.2,
+    "humidity": 54,
+    "windKph": 7.9,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-10T10:50:15.135+08:00",
+    "observedAt": "2026-11-10T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-10T11:00:16.300+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "消费者加油有何新变化（信息服务台）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729276.shtml",
+        "publishedAt": "2026-11-10T10:50:09.000+08:00"
+      },
       {
         "title": "一线调研丨千里嘉陵“通关”记",
         "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729274.shtml",
@@ -38,14 +43,9 @@
         "title": "铁路电子发票服务将优化 新增购票人为乘车人开票功能",
         "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729258.shtml",
         "publishedAt": "2026-11-10T10:36:29.000+08:00"
-      },
-      {
-        "title": "增长20%，前10个月我国外贸保持强劲增长态势",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729259.shtml",
-        "publishedAt": "2026-11-10T10:32:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T10:50:03.207+08:00",
+    "fetchedAt": "2026-11-10T11:00:03.115+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T10:50:09.501+08:00",
+      "fetchedAt": "2026-11-10T11:00:08.695+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T10:50:09.683+08:00"
+      "lastAttemptAt": "2026-11-10T11:00:08.890+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T10:50:09.690+08:00",
+      "fetchedAt": "2026-11-10T11:00:08.896+08:00",
       "error": null
     }
   }
