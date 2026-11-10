@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:00:16.300+08:00",
+  "updatedAt": "2026-11-10T11:10:31.438+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-10T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T11:00:16.300+08:00",
+    "fetchedAt": "2026-11-10T11:10:31.438+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "消费者加油有何新变化（信息服务台）",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729276.shtml",
-        "publishedAt": "2026-11-10T10:50:09.000+08:00"
+        "title": "宁夏永宁：冬季文旅不闭园 一铺热炕招“烧炕员”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729262.shtml",
+        "publishedAt": "2026-11-10T11:04:12.000+08:00"
       },
       {
-        "title": "一线调研丨千里嘉陵“通关”记",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729274.shtml",
-        "publishedAt": "2026-11-10T10:46:49.000+08:00"
+        "title": "山西偏关激活“黄河握手长城”文旅资源 拓宽文旅产业发展路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729260.shtml",
+        "publishedAt": "2026-11-10T11:03:36.000+08:00"
       },
       {
-        "title": "以务实之举筑牢冬季“防火墙”",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729267.shtml",
-        "publishedAt": "2026-11-10T10:42:27.000+08:00"
+        "title": "翱亚集团CEO郑志雄：依托新加坡区域枢纽，陪伴中国企业扎根东盟市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729245.shtml",
+        "publishedAt": "2026-11-10T11:02:10.000+08:00"
       },
       {
-        "title": "纹样里的六盘水｜一道水纹，一座高桥，九年之变",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729263.shtml",
-        "publishedAt": "2026-11-10T10:40:29.000+08:00"
+        "title": "敦煌研究院副院长张小刚：敦煌与澳门可就文化遗产保护互学共进",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-10/10729285.shtml",
+        "publishedAt": "2026-11-10T11:00:52.000+08:00"
       },
       {
-        "title": "铁路电子发票服务将优化 新增购票人为乘车人开票功能",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729258.shtml",
-        "publishedAt": "2026-11-10T10:36:29.000+08:00"
+        "title": "黄山今冬首场雾凇“上线” 玉树琼枝宛如仙境",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729257.shtml",
+        "publishedAt": "2026-11-10T10:59:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T11:00:03.115+08:00",
+    "fetchedAt": "2026-11-10T11:10:04.118+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T11:00:08.695+08:00",
+      "fetchedAt": "2026-11-10T11:10:11.196+08:00",
       "error": null
     },
     "codex": {
@@ -79,9 +79,9 @@
         }
       ],
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T11:00:08.890+08:00"
+      "lastAttemptAt": "2026-11-10T11:10:11.431+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T11:00:08.896+08:00",
+      "fetchedAt": "2026-11-10T11:10:11.435+08:00",
       "error": null
     }
   }
