@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T14:10:26.968+08:00",
+  "updatedAt": "2026-11-10T14:20:56.315+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 13.6,
-    "feelsLikeC": 11.2,
+    "feelsLikeC": 11.3,
     "humidity": 51,
-    "windKph": 6,
+    "windKph": 5.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T14:10:26.968+08:00",
+    "observedAt": "2026-11-10T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-10T14:20:56.315+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "突发：菲律宾一飞机坠毁 载有6名外国公民",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729382.shtml",
+        "publishedAt": "2026-11-10T14:08:40.000+08:00"
+      },
       {
         "title": "洋浦海关2号驻勤楼电梯节能改造项目比选成交公告",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729379.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "国家发展改革委：聚焦群众就医痛点 持续提升医疗卫生服务能力",
         "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729376.shtml",
         "publishedAt": "2026-11-10T13:41:17.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）进博会读懂中国“聚侨力”：侨心所向机遇共享",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729372.shtml",
-        "publishedAt": "2026-11-10T13:41:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T14:10:03.131+08:00",
+    "fetchedAt": "2026-11-10T14:20:03.454+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T14:10:06.836+08:00",
+      "fetchedAt": "2026-11-10T14:20:36.139+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T14:10:06.961+08:00"
+      "lastAttemptAt": "2026-11-10T14:20:36.309+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T14:10:06.964+08:00",
+      "fetchedAt": "2026-11-10T14:20:36.312+08:00",
       "error": null
     }
   }
