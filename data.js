@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T12:31:14.699+08:00",
+  "updatedAt": "2026-11-10T12:40:27.365+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-10T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T12:31:14.699+08:00",
+    "fetchedAt": "2026-11-10T12:40:27.365+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“我们这个石头村，班子也硬”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729348.shtml",
+        "publishedAt": "2026-11-10T12:27:33.000+08:00"
+      },
       {
         "title": "米夏埃尔·舒曼：信任是国际气候政策中的稀缺资源",
         "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729345.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
         "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729337.shtml",
         "publishedAt": "2026-11-10T12:07:19.000+08:00"
-      },
-      {
-        "title": "今年前十月两岸进出口贸易额同比增长32%",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729335.shtml",
-        "publishedAt": "2026-11-10T12:05:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T12:30:03.710+08:00",
+    "fetchedAt": "2026-11-10T12:40:03.970+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T12:30:54.398+08:00",
+      "fetchedAt": "2026-11-10T12:40:07.154+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T12:30:54.691+08:00"
+      "lastAttemptAt": "2026-11-10T12:40:07.361+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T12:30:54.695+08:00",
+      "fetchedAt": "2026-11-10T12:40:07.364+08:00",
       "error": null
     }
   }
