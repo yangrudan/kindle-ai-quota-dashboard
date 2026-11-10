@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T10:20:12.032+08:00",
+  "updatedAt": "2026-11-10T10:30:37.865+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.4,
-    "feelsLikeC": 7.6,
-    "humidity": 56,
-    "windKph": 8.5,
+    "tempC": 10.8,
+    "feelsLikeC": 8.1,
+    "humidity": 55,
+    "windKph": 8.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-10T10:20:12.032+08:00",
+    "observedAt": "2026-11-10T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-10T10:30:37.866+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "11月10日人民币对美元中间价报6.7167 上调21个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729234.shtml",
-        "publishedAt": "2026-11-10T10:14:15.000+08:00"
+        "title": "2026“中国熊猫杯”学生中文演讲大赛在多伦多举行",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729248.shtml",
+        "publishedAt": "2026-11-10T10:28:20.000+08:00"
       },
       {
-        "title": "第八届中法文化论坛在巴黎举行",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-10/1210421.shtml",
-        "publishedAt": "2026-11-10T10:14:13.000+08:00"
+        "title": "近视防控镜片行业“标尺”，应该怎么立",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729252.shtml",
+        "publishedAt": "2026-11-10T10:26:42.000+08:00"
       },
       {
-        "title": "四面八方话进博｜“进博会是双向奔赴的平台”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729243.shtml",
-        "publishedAt": "2026-11-10T10:12:15.000+08:00"
+        "title": "美国参展商的进博“新故事”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729250.shtml",
+        "publishedAt": "2026-11-10T10:21:20.000+08:00"
       },
       {
-        "title": "11月10日央行开展1900亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729227.shtml",
-        "publishedAt": "2026-11-10T10:11:11.000+08:00"
+        "title": "特朗普称伊朗战事已“事实上结束”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729249.shtml",
+        "publishedAt": "2026-11-10T10:20:00.000+08:00"
       },
       {
-        "title": "金观平：协同合作共护共兴全球海洋",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729242.shtml",
-        "publishedAt": "2026-11-10T10:10:11.000+08:00"
+        "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729247.shtml",
+        "publishedAt": "2026-11-10T10:18:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T10:20:03.110+08:00",
+    "fetchedAt": "2026-11-10T10:30:08.492+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T10:20:06.756+08:00",
+      "fetchedAt": "2026-11-10T10:30:17.643+08:00",
       "error": null
     },
     "codex": {
@@ -79,9 +79,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T10:20:06.905+08:00"
+      "lastAttemptAt": "2026-11-10T10:30:17.861+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T10:20:06.912+08:00",
+      "fetchedAt": "2026-11-10T10:30:17.865+08:00",
       "error": null
     }
   }
