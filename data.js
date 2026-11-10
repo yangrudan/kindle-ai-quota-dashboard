@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T13:10:27.836+08:00",
+  "updatedAt": "2026-11-10T13:20:26.968+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.1,
-    "feelsLikeC": 11.2,
-    "humidity": 53,
-    "windKph": 6.3,
+    "tempC": 13.3,
+    "feelsLikeC": 11.3,
+    "humidity": 52,
+    "windKph": 6.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T13:10:27.836+08:00",
+    "observedAt": "2026-11-10T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-10T13:20:26.968+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东西问丨西班牙汉学家阿莉西亚·雷林科：文明对话需要“和合”",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-10/10729354.shtml",
-        "publishedAt": "2026-11-10T12:58:18.000+08:00"
+        "title": "（第九届进博会）弗拉明戈伴火腿香 巴塞罗那亮相进博续写上海友城佳话",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729361.shtml",
+        "publishedAt": "2026-11-10T13:08:51.000+08:00"
       },
       {
-        "title": "“十五五”时期我国将加力支持革命老区加快振兴发展",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729353.shtml",
-        "publishedAt": "2026-11-10T12:42:27.000+08:00"
+        "title": "非洲国家议员研讨班开班式举行：深化治国理政和立法经验交流",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729364.shtml",
+        "publishedAt": "2026-11-10T13:06:31.000+08:00"
       },
       {
-        "title": "四部门发文：加强创新药安全合理配备使用",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-10/10729351.shtml",
-        "publishedAt": "2026-11-10T12:41:23.000+08:00"
+        "title": "中国乒协公布混团世界杯参赛名单 王楚钦、孙颖莎等入选",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729360.shtml",
+        "publishedAt": "2026-11-10T13:05:47.000+08:00"
       },
       {
-        "title": "联合国气候变化安塔利亚大会开幕 聚焦气候融资和能源转型等议题",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729350.shtml",
-        "publishedAt": "2026-11-10T12:36:59.000+08:00"
+        "title": "10月中国进出口总值同比增超三成",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729359.shtml",
+        "publishedAt": "2026-11-10T13:04:43.000+08:00"
       },
       {
-        "title": "“我们这个石头村，班子也硬”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729348.shtml",
-        "publishedAt": "2026-11-10T12:27:33.000+08:00"
+        "title": "（第九届进博会）进博会聚“破局之思”：在世界变局中寻找合作共识",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729347.shtml",
+        "publishedAt": "2026-11-10T13:04:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T13:10:04.164+08:00",
+    "fetchedAt": "2026-11-10T13:20:02.698+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T13:10:07.504+08:00",
+      "fetchedAt": "2026-11-10T13:20:06.805+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T13:10:07.828+08:00"
+      "lastAttemptAt": "2026-11-10T13:20:06.960+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T13:10:07.832+08:00",
+      "fetchedAt": "2026-11-10T13:20:06.964+08:00",
       "error": null
     }
   }
