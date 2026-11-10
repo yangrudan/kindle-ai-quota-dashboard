@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T13:30:27.693+08:00",
+  "updatedAt": "2026-11-10T13:40:18.780+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-10T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T13:30:27.693+08:00",
+    "fetchedAt": "2026-11-10T13:40:18.780+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "玉林海关2026年12月份“关领导接待日”公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729371.shtml",
+        "publishedAt": "2026-11-10T13:29:56.000+08:00"
+      },
       {
         "title": "柬埔寨一运送学生车辆坠塘致多人死伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729363.shtml",
@@ -38,14 +43,9 @@
         "title": "贵金属价格震荡加剧 中国金币集团发布风险提示",
         "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729368.shtml",
         "publishedAt": "2026-11-10T13:18:43.000+08:00"
-      },
-      {
-        "title": "中央美术学院雕塑系金属工作室优秀师生作品亮相景德镇",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729366.shtml",
-        "publishedAt": "2026-11-10T13:18:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T13:30:04.051+08:00",
+    "fetchedAt": "2026-11-10T13:40:08.049+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T13:30:07.536+08:00",
+      "fetchedAt": "2026-11-10T13:40:13.378+08:00",
       "error": null
     },
     "codex": {
@@ -79,9 +79,9 @@
         }
       ],
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
-      "error": "Codex app-server 查询超时",
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T13:30:07.688+08:00"
+      "lastAttemptAt": "2026-11-10T13:40:13.450+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T13:30:07.691+08:00",
+      "fetchedAt": "2026-11-10T13:40:13.453+08:00",
       "error": null
     }
   }
