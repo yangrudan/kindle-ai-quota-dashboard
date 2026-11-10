@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T09:10:08.154+08:00",
+  "updatedAt": "2026-11-10T09:20:28.785+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.8,
+    "tempC": 9.2,
     "feelsLikeC": 5.9,
     "humidity": 58,
-    "windKph": 13.8,
+    "windKph": 8.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-09T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T09:10:08.154+08:00",
+    "observedAt": "2026-11-10T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-10T09:20:28.785+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）新科中超冠军大连英博展品受关注",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-09/1210358.shtml",
-        "publishedAt": "2026-11-09T17:23:37.000+08:00"
+        "title": "龙邦海关关于发布2026年11月份 “关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729210.shtml",
+        "publishedAt": "2026-11-10T09:07:16.000+08:00"
       },
       {
-        "title": "今年台风个数创21世纪新高！台风为什么“扎堆”来？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728947.shtml",
-        "publishedAt": "2026-11-09T17:21:02.000+08:00"
+        "title": "湖南省体育局党组成员、副局长陈彬接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729209.shtml",
+        "publishedAt": "2026-11-10T09:06:22.000+08:00"
       },
       {
-        "title": "服役68载迎转场倒计时 呼和浩特人“组团”告别白塔机场",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728944.shtml",
-        "publishedAt": "2026-11-09T17:20:06.000+08:00"
+        "title": "平孟海关关于2026年11月份“关领导接待日”的公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729208.shtml",
+        "publishedAt": "2026-11-10T09:01:33.000+08:00"
       },
       {
-        "title": "聚焦AI时代创作者成长 唐季礼：好作品不可能AI一键生成",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728943.shtml",
-        "publishedAt": "2026-11-09T17:19:16.000+08:00"
+        "title": "太空算力成全球竞争新方向 我国“星云星座计划”亮相",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729206.shtml",
+        "publishedAt": "2026-11-10T08:45:47.000+08:00"
       },
       {
-        "title": "贵州威宁降雪 高原城市银装素裹迎冬日",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-09/10728945.shtml",
-        "publishedAt": "2026-11-09T17:14:34.000+08:00"
+        "title": "（寻味中华｜艺林）黄山脚下遇知音 三百年徽剧走向世界舞台",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729201.shtml",
+        "publishedAt": "2026-11-10T08:43:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T17:30:03.430+08:00",
+    "fetchedAt": "2026-11-10T09:20:03.564+08:00",
     "error": null
   },
   "sources": {
@@ -55,14 +55,13 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 4.9,
+          "usedPct": 100,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1427 / 1500 AIC"
+          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T16:18:27.751+08:00",
-      "error": "云端查询失败：error connecting to api.github.com\ncheck your internet connection or https://githubstatus.com\n",
-      "stale": true
+      "fetchedAt": "2026-11-10T09:20:08.685+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -80,9 +79,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T09:10:03.001+08:00"
+      "lastAttemptAt": "2026-11-10T09:20:08.773+08:00"
     },
     "mimo": {
       "ok": true,
@@ -100,10 +99,8 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-09T17:30:08.412+08:00",
-      "error": "fetch failed",
-      "stale": true,
-      "lastAttemptAt": "2026-11-10T09:10:03.004+08:00"
+      "fetchedAt": "2026-11-10T09:20:08.781+08:00",
+      "error": null
     }
   }
 };
