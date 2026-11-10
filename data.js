@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T14:41:05.198+08:00",
+  "updatedAt": "2026-11-10T14:50:22.215+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 13.6,
     "feelsLikeC": 11.3,
-    "humidity": 51,
-    "windKph": 5.7,
+    "humidity": 52,
+    "windKph": 5.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T14:41:05.198+08:00",
+    "observedAt": "2026-11-10T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-10T14:50:22.215+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "我国已牵头制定25项医疗器械领域国际标准",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729393.shtml",
-        "publishedAt": "2026-11-10T14:36:24.000+08:00"
+        "title": "广西关键金属产业谋转型 院士建言深化中国—东盟跨境产业链协作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729398.shtml",
+        "publishedAt": "2026-11-10T14:46:42.000+08:00"
       },
       {
-        "title": "斯诺克冠中冠赛：中国军团3人参赛 卫冕冠军塞尔比小组战折戟",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729384.shtml",
-        "publishedAt": "2026-11-10T14:35:55.000+08:00"
+        "title": "北京初冬胜景引游客",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-10/1210427.shtml",
+        "publishedAt": "2026-11-10T14:43:41.000+08:00"
       },
       {
-        "title": "印度南部一电子工厂发生事故 3人吸入有毒气体后身亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729392.shtml",
-        "publishedAt": "2026-11-10T14:34:37.000+08:00"
+        "title": "二十年，从沈阳走出的西藏孩子",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729383.shtml",
+        "publishedAt": "2026-11-10T14:39:18.000+08:00"
       },
       {
-        "title": "第十届吉林省中华职业教育创新创业大赛决赛在长春举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729378.shtml",
-        "publishedAt": "2026-11-10T14:31:19.000+08:00"
+        "title": "逾百名全国中老年足球爱好者佛山“以赛会友”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729389.shtml",
+        "publishedAt": "2026-11-10T14:39:16.000+08:00"
       },
       {
-        "title": "在“四叶草”里，看见中国太保的“AI+”与“心”温度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729377.shtml",
-        "publishedAt": "2026-11-10T14:29:55.000+08:00"
+        "title": "【第九届进博会】华商话进博：这里是“会客厅”，明年一定“再来”",
+        "url": "http://www.chinanews.com.cn/hr/shipin/cns-d/2026/11-10/news1074418.shtml",
+        "publishedAt": "2026-11-10T14:37:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T14:40:04.234+08:00",
+    "fetchedAt": "2026-11-10T14:50:04.285+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T14:40:44.974+08:00",
+      "fetchedAt": "2026-11-10T14:50:14.370+08:00",
       "error": null
     },
     "codex": {
@@ -79,9 +79,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
-      "error": "Codex app-server 查询超时",
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T14:40:45.192+08:00"
+      "lastAttemptAt": "2026-11-10T14:50:14.638+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T14:40:45.195+08:00",
+      "fetchedAt": "2026-11-10T14:50:14.641+08:00",
       "error": null
     }
   }
