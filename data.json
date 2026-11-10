@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-10T14:50:22.215+08:00",
+  "updatedAt": "2026-11-10T15:00:57.145+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.6,
-    "feelsLikeC": 11.3,
-    "humidity": 52,
-    "windKph": 5.6,
+    "tempC": 13.7,
+    "feelsLikeC": 11.5,
+    "humidity": 53,
+    "windKph": 5.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-10T14:50:22.215+08:00",
+    "observedAt": "2026-11-10T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-10T15:00:57.146+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西关键金属产业谋转型 院士建言深化中国—东盟跨境产业链协作",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729398.shtml",
-        "publishedAt": "2026-11-10T14:46:42.000+08:00"
+        "title": "伊朗最高领袖指示：结束与美国“不战不和”状态",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729387.shtml",
+        "publishedAt": "2026-11-10T14:54:45.000+08:00"
       },
       {
-        "title": "北京初冬胜景引游客",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-10/1210427.shtml",
-        "publishedAt": "2026-11-10T14:43:41.000+08:00"
+        "title": "盛事不断，香港创科发展动能澎湃",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-10/10729411.shtml",
+        "publishedAt": "2026-11-10T14:51:44.000+08:00"
       },
       {
-        "title": "二十年，从沈阳走出的西藏孩子",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729383.shtml",
-        "publishedAt": "2026-11-10T14:39:18.000+08:00"
+        "title": "日本男子强闯中国驻日使馆案开审 检方求刑18个月拘禁刑",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729390.shtml",
+        "publishedAt": "2026-11-10T14:51:30.000+08:00"
       },
       {
-        "title": "逾百名全国中老年足球爱好者佛山“以赛会友”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729389.shtml",
-        "publishedAt": "2026-11-10T14:39:16.000+08:00"
+        "title": "九赴进博，再续十年之诺：拜耳以“黑科技”和十余项合作签约交出进博新答卷",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729395.shtml",
+        "publishedAt": "2026-11-10T14:48:46.000+08:00"
       },
       {
-        "title": "【第九届进博会】华商话进博：这里是“会客厅”，明年一定“再来”",
-        "url": "http://www.chinanews.com.cn/hr/shipin/cns-d/2026/11-10/news1074418.shtml",
-        "publishedAt": "2026-11-10T14:37:43.000+08:00"
+        "title": "高校学子,需要怎样的“生活教育课”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729406.shtml",
+        "publishedAt": "2026-11-10T14:47:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T14:50:04.285+08:00",
+    "fetchedAt": "2026-11-10T15:00:03.770+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T14:50:14.370+08:00",
+      "fetchedAt": "2026-11-10T15:00:36.681+08:00",
       "error": null
     },
     "codex": {
@@ -79,9 +79,9 @@
         }
       ],
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T14:50:14.638+08:00"
+      "lastAttemptAt": "2026-11-10T15:00:37.138+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T14:50:14.641+08:00",
+      "fetchedAt": "2026-11-10T15:00:37.141+08:00",
       "error": null
     }
   }
