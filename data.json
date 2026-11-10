@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-10T10:00:59.882+08:00",
+  "updatedAt": "2026-11-10T10:10:05.972+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.5,
-    "feelsLikeC": 7.4,
-    "humidity": 55,
-    "windKph": 9,
+    "tempC": 10.1,
+    "feelsLikeC": 7,
+    "humidity": 57,
+    "windKph": 8.9,
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-10T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T10:00:59.882+08:00",
+    "fetchedAt": "2026-11-10T10:10:05.972+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "土耳其钢铁厂爆炸已致16人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729221.shtml",
-        "publishedAt": "2026-11-10T09:56:54.000+08:00"
+        "title": "起底日本右翼“文化投毒”的四种手法",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729240.shtml",
+        "publishedAt": "2026-11-10T10:04:23.000+08:00"
       },
       {
-        "title": "铸牢共同体 中华一家亲丨王三街里听新声",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-10/10729236.shtml",
-        "publishedAt": "2026-11-10T09:54:48.000+08:00"
+        "title": "员工疑因玩梗“画地为牢”遭辞退？律师解读：如属实，企业或涉嫌违法解除",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729233.shtml",
+        "publishedAt": "2026-11-10T10:03:33.000+08:00"
       },
       {
-        "title": "体验中国共享机遇 进博会中国馆硬核成果反向圈粉",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729231.shtml",
-        "publishedAt": "2026-11-10T09:52:02.000+08:00"
+        "title": "海南检察机关依法对戴北方涉嫌受贿案提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729239.shtml",
+        "publishedAt": "2026-11-10T10:02:07.000+08:00"
       },
       {
-        "title": "成品油零售加油站全面推广“交易即开票” 消费者加油有何新变化",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729229.shtml",
-        "publishedAt": "2026-11-10T09:50:40.000+08:00"
+        "title": "新阶层主题月：专场活动之“新善大连·爱在沙河口”温情启幕",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729230.shtml",
+        "publishedAt": "2026-11-10T10:00:43.000+08:00"
       },
       {
-        "title": "组团“上岗”！进博会这些AI太懂你",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729228.shtml",
-        "publishedAt": "2026-11-10T09:50:06.000+08:00"
+        "title": "加拿大延长对部分美国进口商品的关税减免至2028年",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729222.shtml",
+        "publishedAt": "2026-11-10T09:59:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T10:00:06.459+08:00",
+    "fetchedAt": "2026-11-10T10:10:02.541+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T10:00:40.025+08:00",
+      "fetchedAt": "2026-11-10T10:10:05.621+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T10:00:40.157+08:00"
+      "lastAttemptAt": "2026-11-10T10:10:05.719+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T10:00:40.166+08:00",
+      "fetchedAt": "2026-11-10T10:10:05.728+08:00",
       "error": null
     }
   }
