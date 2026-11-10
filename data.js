@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T13:00:35.139+08:00",
+  "updatedAt": "2026-11-10T13:10:27.836+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13,
-    "feelsLikeC": 11.1,
+    "tempC": 13.1,
+    "feelsLikeC": 11.2,
     "humidity": 53,
-    "windKph": 6.5,
+    "windKph": 6.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-10T13:00:35.139+08:00",
+    "observedAt": "2026-11-10T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-10T13:10:27.836+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "东西问丨西班牙汉学家阿莉西亚·雷林科：文明对话需要“和合”",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-10/10729354.shtml",
+        "publishedAt": "2026-11-10T12:58:18.000+08:00"
+      },
       {
         "title": "“十五五”时期我国将加力支持革命老区加快振兴发展",
         "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729353.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“我们这个石头村，班子也硬”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729348.shtml",
         "publishedAt": "2026-11-10T12:27:33.000+08:00"
-      },
-      {
-        "title": "米夏埃尔·舒曼：信任是国际气候政策中的稀缺资源",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729345.shtml",
-        "publishedAt": "2026-11-10T12:23:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T13:00:12.021+08:00",
+    "fetchedAt": "2026-11-10T13:10:04.164+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T13:00:14.932+08:00",
+      "fetchedAt": "2026-11-10T13:10:07.504+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T13:00:15.133+08:00"
+      "lastAttemptAt": "2026-11-10T13:10:07.828+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T13:00:15.137+08:00",
+      "fetchedAt": "2026-11-10T13:10:07.832+08:00",
       "error": null
     }
   }
