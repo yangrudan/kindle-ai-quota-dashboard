@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T10:40:30.870+08:00",
+  "updatedAt": "2026-11-10T10:50:15.135+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.2,
-    "feelsLikeC": 8.5,
-    "humidity": 54,
-    "windKph": 8.5,
+    "tempC": 11.1,
+    "feelsLikeC": 8.7,
+    "humidity": 55,
+    "windKph": 8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T10:40:30.870+08:00",
+    "observedAt": "2026-11-10T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-10T10:50:15.135+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一线调研丨千里嘉陵“通关”记",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729274.shtml",
+        "publishedAt": "2026-11-10T10:46:49.000+08:00"
+      },
+      {
+        "title": "以务实之举筑牢冬季“防火墙”",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729267.shtml",
+        "publishedAt": "2026-11-10T10:42:27.000+08:00"
+      },
+      {
+        "title": "纹样里的六盘水｜一道水纹，一座高桥，九年之变",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729263.shtml",
+        "publishedAt": "2026-11-10T10:40:29.000+08:00"
+      },
       {
         "title": "铁路电子发票服务将优化 新增购票人为乘车人开票功能",
         "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729258.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "增长20%，前10个月我国外贸保持强劲增长态势",
         "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729259.shtml",
         "publishedAt": "2026-11-10T10:32:48.000+08:00"
-      },
-      {
-        "title": "被告人陈某芬、杨某根故意杀人，陈某芬伪造身份证件、使用虚假身份证件、偷越国（边）境案一审宣判",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729256.shtml",
-        "publishedAt": "2026-11-10T10:32:16.000+08:00"
-      },
-      {
-        "title": "国家发改委：推进实现托育综合服务中心地市级全覆盖",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729254.shtml",
-        "publishedAt": "2026-11-10T10:30:50.000+08:00"
-      },
-      {
-        "title": "“在田保鲜”种植技术延长供应期 小辣椒串起“大产业”释放“热辣”动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729253.shtml",
-        "publishedAt": "2026-11-10T10:29:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T10:40:06.732+08:00",
+    "fetchedAt": "2026-11-10T10:50:03.207+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T10:40:10.636+08:00",
+      "fetchedAt": "2026-11-10T10:50:09.501+08:00",
       "error": null
     },
     "codex": {
@@ -79,9 +79,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
-      "error": "Codex app-server 查询超时",
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T10:40:10.858+08:00"
+      "lastAttemptAt": "2026-11-10T10:50:09.683+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T10:40:10.868+08:00",
+      "fetchedAt": "2026-11-10T10:50:09.690+08:00",
       "error": null
     }
   }
