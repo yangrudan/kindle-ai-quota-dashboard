@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T10:10:05.972+08:00",
+  "updatedAt": "2026-11-10T10:20:12.032+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.1,
-    "feelsLikeC": 7,
-    "humidity": 57,
-    "windKph": 8.9,
+    "tempC": 10.4,
+    "feelsLikeC": 7.6,
+    "humidity": 56,
+    "windKph": 8.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T10:10:05.972+08:00",
+    "observedAt": "2026-11-10T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-10T10:20:12.032+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "起底日本右翼“文化投毒”的四种手法",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729240.shtml",
-        "publishedAt": "2026-11-10T10:04:23.000+08:00"
+        "title": "11月10日人民币对美元中间价报6.7167 上调21个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729234.shtml",
+        "publishedAt": "2026-11-10T10:14:15.000+08:00"
       },
       {
-        "title": "员工疑因玩梗“画地为牢”遭辞退？律师解读：如属实，企业或涉嫌违法解除",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729233.shtml",
-        "publishedAt": "2026-11-10T10:03:33.000+08:00"
+        "title": "第八届中法文化论坛在巴黎举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-10/1210421.shtml",
+        "publishedAt": "2026-11-10T10:14:13.000+08:00"
       },
       {
-        "title": "海南检察机关依法对戴北方涉嫌受贿案提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729239.shtml",
-        "publishedAt": "2026-11-10T10:02:07.000+08:00"
+        "title": "四面八方话进博｜“进博会是双向奔赴的平台”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729243.shtml",
+        "publishedAt": "2026-11-10T10:12:15.000+08:00"
       },
       {
-        "title": "新阶层主题月：专场活动之“新善大连·爱在沙河口”温情启幕",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729230.shtml",
-        "publishedAt": "2026-11-10T10:00:43.000+08:00"
+        "title": "11月10日央行开展1900亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729227.shtml",
+        "publishedAt": "2026-11-10T10:11:11.000+08:00"
       },
       {
-        "title": "加拿大延长对部分美国进口商品的关税减免至2028年",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729222.shtml",
-        "publishedAt": "2026-11-10T09:59:55.000+08:00"
+        "title": "金观平：协同合作共护共兴全球海洋",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729242.shtml",
+        "publishedAt": "2026-11-10T10:10:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T10:10:02.541+08:00",
+    "fetchedAt": "2026-11-10T10:20:03.110+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T10:10:05.621+08:00",
+      "fetchedAt": "2026-11-10T10:20:06.756+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T10:10:05.719+08:00"
+      "lastAttemptAt": "2026-11-10T10:20:06.905+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T10:10:05.728+08:00",
+      "fetchedAt": "2026-11-10T10:20:06.912+08:00",
       "error": null
     }
   }
