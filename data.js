@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T12:10:27.372+08:00",
+  "updatedAt": "2026-11-10T12:20:27.299+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.5,
-    "feelsLikeC": 10.6,
+    "tempC": 12.7,
+    "feelsLikeC": 10.8,
     "humidity": 53,
-    "windKph": 7.2,
+    "windKph": 6.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T12:10:27.372+08:00",
+    "observedAt": "2026-11-10T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-10T12:20:27.300+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国—土耳其绿色发展商务论坛在伊斯坦布尔举办",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729305.shtml",
-        "publishedAt": "2026-11-10T12:04:01.000+08:00"
+        "title": "英国大雾侵袭多地扰乱交通",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729277.shtml",
+        "publishedAt": "2026-11-10T12:11:20.000+08:00"
       },
       {
-        "title": "“卷帙匠心——古今书籍装帧美学”展在柏林开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729303.shtml",
-        "publishedAt": "2026-11-10T12:03:09.000+08:00"
+        "title": "国际最新研究：预计2026年全球二氧化碳排放量将暂时性下降0.4%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729301.shtml",
+        "publishedAt": "2026-11-10T12:11:14.000+08:00"
       },
       {
-        "title": "最新气候变化研究：全球区域性变暖或已与升温1.5 °C的世界相仿",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729295.shtml",
-        "publishedAt": "2026-11-10T12:03:01.000+08:00"
+        "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729337.shtml",
+        "publishedAt": "2026-11-10T12:07:19.000+08:00"
       },
       {
-        "title": "老藤长篇小说《上东北》讲述五代人守护黑土地的平民史诗",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729329.shtml",
-        "publishedAt": "2026-11-10T12:02:57.000+08:00"
+        "title": "今年前十月两岸进出口贸易额同比增长32%",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729335.shtml",
+        "publishedAt": "2026-11-10T12:05:41.000+08:00"
       },
       {
-        "title": "人民论坛网评 | 于细处深耕 向实处发力",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729339.shtml",
-        "publishedAt": "2026-11-10T12:02:55.000+08:00"
+        "title": "湖南新田做强淮山特色产业 拓宽乡村富民路",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729331.shtml",
+        "publishedAt": "2026-11-10T12:05:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T12:10:03.179+08:00",
+    "fetchedAt": "2026-11-10T12:20:03.330+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T12:10:07.139+08:00",
+      "fetchedAt": "2026-11-10T12:20:07.058+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T12:10:07.367+08:00"
+      "lastAttemptAt": "2026-11-10T12:20:07.294+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T12:10:07.370+08:00",
+      "fetchedAt": "2026-11-10T12:20:07.298+08:00",
       "error": null
     }
   }
