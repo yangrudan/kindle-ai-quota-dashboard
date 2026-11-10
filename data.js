@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T11:50:26.368+08:00",
+  "updatedAt": "2026-11-10T12:00:35.945+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-10T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-10T11:50:26.368+08:00",
+    "fetchedAt": "2026-11-10T12:00:35.945+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "万菊争妍姹紫嫣红 南京农业大学菊花基地绘就斑斓世界",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729321.shtml",
-        "publishedAt": "2026-11-10T11:41:22.000+08:00"
+        "title": "寒潮过后大回暖！全国升温大赛来了 看看你家能升到多少度",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729333.shtml",
+        "publishedAt": "2026-11-10T11:51:49.000+08:00"
       },
       {
-        "title": "七类常见疼痛 教你“见招拆招”",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-10/10729328.shtml",
-        "publishedAt": "2026-11-10T11:36:18.000+08:00"
+        "title": "（第九届进博会）全球灵感在此交汇 进博会见证创新要素双向流动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729330.shtml",
+        "publishedAt": "2026-11-10T11:51:01.000+08:00"
       },
       {
-        "title": "旅美摄影家龚建华：将沪上光影带进美国美术馆",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729312.shtml",
-        "publishedAt": "2026-11-10T11:27:39.000+08:00"
+        "title": "山东凝侨心、聚侨力 书写侨务工作奋进画卷",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729325.shtml",
+        "publishedAt": "2026-11-10T11:49:08.000+08:00"
       },
       {
-        "title": "美媒：特朗普或将与民主党合作，就移民问题达成协议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729278.shtml",
-        "publishedAt": "2026-11-10T11:27:31.000+08:00"
+        "title": "“中场抓住嘛！”新疆足球大叔和他的草根训练场",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729323.shtml",
+        "publishedAt": "2026-11-10T11:47:28.000+08:00"
       },
       {
-        "title": "10月份数据出炉，当前物价运行态势如何？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729322.shtml",
-        "publishedAt": "2026-11-10T11:25:53.000+08:00"
+        "title": "（第九届进博会）进博会加速AI从“炫技”走向“生产力”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729318.shtml",
+        "publishedAt": "2026-11-10T11:47:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T11:50:03.232+08:00",
+    "fetchedAt": "2026-11-10T12:00:11.940+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T11:50:06.197+08:00",
+      "fetchedAt": "2026-11-10T12:00:15.744+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T11:50:06.361+08:00"
+      "lastAttemptAt": "2026-11-10T12:00:15.942+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T11:50:06.364+08:00",
+      "fetchedAt": "2026-11-10T12:00:15.945+08:00",
       "error": null
     }
   }
