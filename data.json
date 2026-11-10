@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:30:27.056+08:00",
+  "updatedAt": "2026-11-10T11:40:29.805+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-10T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T11:30:27.056+08:00",
+    "fetchedAt": "2026-11-10T11:40:29.805+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "旅美摄影家龚建华：将沪上光影带进美国美术馆",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729312.shtml",
+        "publishedAt": "2026-11-10T11:27:39.000+08:00"
+      },
+      {
+        "title": "美媒：特朗普或将与民主党合作，就移民问题达成协议",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729278.shtml",
+        "publishedAt": "2026-11-10T11:27:31.000+08:00"
+      },
+      {
+        "title": "10月份数据出炉，当前物价运行态势如何？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729322.shtml",
+        "publishedAt": "2026-11-10T11:25:53.000+08:00"
+      },
       {
         "title": "国铁沈阳局东北环线12趟动车雪具随车同行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729309.shtml",
@@ -28,24 +43,9 @@
         "title": "我国加速低轨卫星互联网组网",
         "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729320.shtml",
         "publishedAt": "2026-11-10T11:23:17.000+08:00"
-      },
-      {
-        "title": "2026中国网球匹克球双拍赛暨首届“国金杯”上海站收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729308.shtml",
-        "publishedAt": "2026-11-10T11:22:11.000+08:00"
-      },
-      {
-        "title": "机器人登泰山“中暑”暴露哪些短板",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729317.shtml",
-        "publishedAt": "2026-11-10T11:21:55.000+08:00"
-      },
-      {
-        "title": "三秦少年塞上争锋 陕西省青少年排球冠军赛启幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729306.shtml",
-        "publishedAt": "2026-11-10T11:21:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T11:30:03.287+08:00",
+    "fetchedAt": "2026-11-10T11:40:06.206+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T11:30:06.886+08:00",
+      "fetchedAt": "2026-11-10T11:40:09.640+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T11:30:07.051+08:00"
+      "lastAttemptAt": "2026-11-10T11:40:09.798+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T11:30:07.054+08:00",
+      "fetchedAt": "2026-11-10T11:40:09.801+08:00",
       "error": null
     }
   }
