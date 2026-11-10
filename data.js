@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T10:30:37.865+08:00",
+  "updatedAt": "2026-11-10T10:40:30.870+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.8,
-    "feelsLikeC": 8.1,
-    "humidity": 55,
-    "windKph": 8.3,
+    "tempC": 11.2,
+    "feelsLikeC": 8.5,
+    "humidity": 54,
+    "windKph": 8.5,
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-10T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T10:30:37.866+08:00",
+    "fetchedAt": "2026-11-10T10:40:30.870+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026“中国熊猫杯”学生中文演讲大赛在多伦多举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729248.shtml",
-        "publishedAt": "2026-11-10T10:28:20.000+08:00"
+        "title": "铁路电子发票服务将优化 新增购票人为乘车人开票功能",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729258.shtml",
+        "publishedAt": "2026-11-10T10:36:29.000+08:00"
       },
       {
-        "title": "近视防控镜片行业“标尺”，应该怎么立",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729252.shtml",
-        "publishedAt": "2026-11-10T10:26:42.000+08:00"
+        "title": "增长20%，前10个月我国外贸保持强劲增长态势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729259.shtml",
+        "publishedAt": "2026-11-10T10:32:48.000+08:00"
       },
       {
-        "title": "美国参展商的进博“新故事”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729250.shtml",
-        "publishedAt": "2026-11-10T10:21:20.000+08:00"
+        "title": "被告人陈某芬、杨某根故意杀人，陈某芬伪造身份证件、使用虚假身份证件、偷越国（边）境案一审宣判",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729256.shtml",
+        "publishedAt": "2026-11-10T10:32:16.000+08:00"
       },
       {
-        "title": "特朗普称伊朗战事已“事实上结束”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729249.shtml",
-        "publishedAt": "2026-11-10T10:20:00.000+08:00"
+        "title": "国家发改委：推进实现托育综合服务中心地市级全覆盖",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729254.shtml",
+        "publishedAt": "2026-11-10T10:30:50.000+08:00"
       },
       {
-        "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729247.shtml",
-        "publishedAt": "2026-11-10T10:18:10.000+08:00"
+        "title": "“在田保鲜”种植技术延长供应期 小辣椒串起“大产业”释放“热辣”动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729253.shtml",
+        "publishedAt": "2026-11-10T10:29:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T10:30:08.492+08:00",
+    "fetchedAt": "2026-11-10T10:40:06.732+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T10:30:17.643+08:00",
+      "fetchedAt": "2026-11-10T10:40:10.636+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T10:30:17.861+08:00"
+      "lastAttemptAt": "2026-11-10T10:40:10.858+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T10:30:17.865+08:00",
+      "fetchedAt": "2026-11-10T10:40:10.868+08:00",
       "error": null
     }
   }
