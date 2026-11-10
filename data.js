@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T12:00:35.945+08:00",
+  "updatedAt": "2026-11-10T12:10:27.372+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.2,
-    "feelsLikeC": 10.3,
+    "tempC": 12.5,
+    "feelsLikeC": 10.6,
     "humidity": 53,
-    "windKph": 7.4,
+    "windKph": 7.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-10T12:00:35.945+08:00",
+    "observedAt": "2026-11-10T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-10T12:10:27.372+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "寒潮过后大回暖！全国升温大赛来了 看看你家能升到多少度",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729333.shtml",
-        "publishedAt": "2026-11-10T11:51:49.000+08:00"
+        "title": "中国—土耳其绿色发展商务论坛在伊斯坦布尔举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729305.shtml",
+        "publishedAt": "2026-11-10T12:04:01.000+08:00"
       },
       {
-        "title": "（第九届进博会）全球灵感在此交汇 进博会见证创新要素双向流动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729330.shtml",
-        "publishedAt": "2026-11-10T11:51:01.000+08:00"
+        "title": "“卷帙匠心——古今书籍装帧美学”展在柏林开幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729303.shtml",
+        "publishedAt": "2026-11-10T12:03:09.000+08:00"
       },
       {
-        "title": "山东凝侨心、聚侨力 书写侨务工作奋进画卷",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729325.shtml",
-        "publishedAt": "2026-11-10T11:49:08.000+08:00"
+        "title": "最新气候变化研究：全球区域性变暖或已与升温1.5 °C的世界相仿",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729295.shtml",
+        "publishedAt": "2026-11-10T12:03:01.000+08:00"
       },
       {
-        "title": "“中场抓住嘛！”新疆足球大叔和他的草根训练场",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729323.shtml",
-        "publishedAt": "2026-11-10T11:47:28.000+08:00"
+        "title": "老藤长篇小说《上东北》讲述五代人守护黑土地的平民史诗",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729329.shtml",
+        "publishedAt": "2026-11-10T12:02:57.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会加速AI从“炫技”走向“生产力”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729318.shtml",
-        "publishedAt": "2026-11-10T11:47:26.000+08:00"
+        "title": "人民论坛网评 | 于细处深耕 向实处发力",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729339.shtml",
+        "publishedAt": "2026-11-10T12:02:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T12:00:11.940+08:00",
+    "fetchedAt": "2026-11-10T12:10:03.179+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T12:00:15.744+08:00",
+      "fetchedAt": "2026-11-10T12:10:07.139+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-09T17:30:08.402+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T12:00:15.942+08:00"
+      "lastAttemptAt": "2026-11-10T12:10:07.367+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T12:00:15.945+08:00",
+      "fetchedAt": "2026-11-10T12:10:07.370+08:00",
       "error": null
     }
   }
