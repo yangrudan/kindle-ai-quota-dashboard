@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-10T15:20:32.643+08:00",
+  "updatedAt": "2026-11-10T15:30:58.443+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 13.6,
-    "feelsLikeC": 11.4,
+    "feelsLikeC": 11.3,
     "humidity": 53,
-    "windKph": 5.4,
+    "windKph": 5.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-10T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-10T15:20:32.643+08:00",
+    "observedAt": "2026-11-10T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-10T15:30:58.444+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "奥运冠军宣布竞选法国总统 马克龙表态：欢迎",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729418.shtml",
+        "publishedAt": "2026-11-10T15:19:02.000+08:00"
+      },
       {
         "title": "吉林北大湖、松花湖雪场冲刺大冬会筹备",
         "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729425.shtml",
@@ -38,14 +43,9 @@
         "title": "（乡村行·看振兴）两代人两本账：吉林葡萄村靠新老接力酿出甜蜜产业",
         "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729424.shtml",
         "publishedAt": "2026-11-10T15:15:26.000+08:00"
-      },
-      {
-        "title": "第九届进博会按年计意向成交额突破854亿美元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729440.shtml",
-        "publishedAt": "2026-11-10T15:14:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T15:20:08.738+08:00",
+    "fetchedAt": "2026-11-10T15:30:05.366+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-10T15:20:12.342+08:00",
+      "fetchedAt": "2026-11-10T15:30:38.218+08:00",
       "error": null
     },
     "codex": {
@@ -81,7 +81,7 @@
       "fetchedAt": "2026-11-10T12:50:36.317+08:00",
       "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T15:20:12.637+08:00"
+      "lastAttemptAt": "2026-11-10T15:30:38.437+08:00"
     },
     "mimo": {
       "ok": true,
@@ -99,7 +99,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T15:20:12.640+08:00",
+      "fetchedAt": "2026-11-10T15:30:38.441+08:00",
       "error": null
     }
   }
