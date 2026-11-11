@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T15:20:08.591+08:00",
+  "updatedAt": "2026-11-11T15:30:10.444+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 17.4,
-    "feelsLikeC": 16.6,
+    "feelsLikeC": 16.7,
     "humidity": 61,
-    "windKph": 4.6,
+    "windKph": 4.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-11T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T15:20:08.591+08:00",
+    "observedAt": "2026-11-11T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T15:30:10.444+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外交部：中方期待推动《中国—东盟自贸区3.0版升级议定书》尽快生效",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730178.shtml",
-        "publishedAt": "2026-11-11T15:16:00.000+08:00"
+        "title": "中国已与25个“一带一路”共建国家签署19个自贸协定",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730181.shtml",
+        "publishedAt": "2026-11-11T15:23:23.000+08:00"
       },
       {
-        "title": "前三季度我国自共建“一带一路”国家进口增速达17.9%",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10730176.shtml",
-        "publishedAt": "2026-11-11T15:13:02.000+08:00"
+        "title": "东西问丨黄子坚：海外华人研究如何助力破解华人融入难题？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-11/10730171.shtml",
+        "publishedAt": "2026-11-11T15:22:44.000+08:00"
       },
       {
-        "title": "宜宾：向下扎根，向心凝聚，让统战组织在基层“生根开花”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730167.shtml",
-        "publishedAt": "2026-11-11T15:12:46.000+08:00"
+        "title": "韩国一辆公交车冲撞32辆汽车致48人伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730174.shtml",
+        "publishedAt": "2026-11-11T15:22:34.000+08:00"
       },
       {
-        "title": "海外华文媒体代表合肥探访量子计算成果",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730133.shtml",
-        "publishedAt": "2026-11-11T15:12:32.000+08:00"
+        "title": "158株苗，86年深耕｜昭通以统战之力厚植民营经济沃土",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730177.shtml",
+        "publishedAt": "2026-11-11T15:21:12.000+08:00"
       },
       {
-        "title": "辽宁省抚顺市工商联牵线搭桥 苏抚中医药产业对口合作成功签约",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730165.shtml",
-        "publishedAt": "2026-11-11T15:11:32.000+08:00"
+        "title": "手握200万条个人信息！净水器骗局精准收割“养老钱”",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10730180.shtml",
+        "publishedAt": "2026-11-11T15:20:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T15:20:03.026+08:00",
+    "fetchedAt": "2026-11-11T15:30:05.246+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T15:20:06.605+08:00",
+      "fetchedAt": "2026-11-11T15:30:08.922+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
+          "usedPct": 23,
           "resetAt": "2026-11-11T19:43:45.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 59,
+          "usedPct": 60,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T15:20:07.108+08:00",
+      "fetchedAt": "2026-11-11T15:30:09.192+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T15:20:07.118+08:00",
+      "fetchedAt": "2026-11-11T15:30:09.202+08:00",
       "error": null
     }
   }
