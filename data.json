@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-11T18:50:09.654+08:00",
+  "updatedAt": "2026-11-11T19:00:07.869+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14,
-    "feelsLikeC": 12.9,
-    "humidity": 81,
-    "windKph": 8.8,
+    "tempC": 13.8,
+    "feelsLikeC": 12.8,
+    "humidity": 82,
+    "windKph": 8.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-11T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T18:50:09.654+08:00",
+    "observedAt": "2026-11-11T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-11T19:00:07.869+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "大雾黄色预警：京津冀等6省市部分地区有大雾 局地有强浓雾",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730354.shtml",
+        "publishedAt": "2026-11-11T18:51:46.000+08:00"
+      },
+      {
+        "title": "2026年前三季度全国广播电视服务业总收入11330.88亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730348.shtml",
+        "publishedAt": "2026-11-11T18:45:03.000+08:00"
+      },
       {
         "title": "涉及百姓生活、高新技术等 市场监管总局批准发布一批国家标准",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730352.shtml",
@@ -33,19 +43,9 @@
         "title": "“全妆”深圳，出圈了",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730349.shtml",
         "publishedAt": "2026-11-11T18:16:52.000+08:00"
-      },
-      {
-        "title": "王毅：中方将坚定支持古巴维护国家主权和正当权益",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730333.shtml",
-        "publishedAt": "2026-11-11T18:11:52.000+08:00"
-      },
-      {
-        "title": "财政部将在香港发行美元主权债券",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730346.shtml",
-        "publishedAt": "2026-11-11T18:04:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T18:50:03.769+08:00",
+    "fetchedAt": "2026-11-11T19:00:03.050+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T18:50:08.078+08:00",
+      "fetchedAt": "2026-11-11T19:00:06.481+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T18:50:08.348+08:00",
+      "fetchedAt": "2026-11-11T19:00:06.864+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T18:50:08.357+08:00",
+      "fetchedAt": "2026-11-11T19:00:06.868+08:00",
       "error": null
     }
   }
