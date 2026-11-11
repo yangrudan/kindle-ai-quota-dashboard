@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T16:10:39.714+08:00",
+  "updatedAt": "2026-11-11T16:20:12.551+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.1,
-    "feelsLikeC": 16.4,
-    "humidity": 63,
-    "windKph": 4.3,
-    "windDir": "东风",
+    "tempC": 16.8,
+    "feelsLikeC": 16.1,
+    "humidity": 65,
+    "windKph": 4.4,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-11T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T16:10:39.715+08:00",
+    "observedAt": "2026-11-11T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-11T16:20:12.552+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "迎“双十一”物流高峰期 南铁安排400余列载客动车组装运快件",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730225.shtml",
-        "publishedAt": "2026-11-11T16:05:19.000+08:00"
+        "title": "印度一列客运火车脱轨 导致部分乘客受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730251.shtml",
+        "publishedAt": "2026-11-11T16:15:17.000+08:00"
       },
       {
-        "title": "财政部：开展财会监督质效提升三年行动 全链条惩治违法违规行为",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730239.shtml",
-        "publishedAt": "2026-11-11T16:04:37.000+08:00"
+        "title": "中国政府中东问题特使翟隽访问阿曼",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730249.shtml",
+        "publishedAt": "2026-11-11T16:14:25.000+08:00"
       },
       {
-        "title": "2026年前三季度青海加大重点领域金融供给",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730226.shtml",
-        "publishedAt": "2026-11-11T16:04:19.000+08:00"
+        "title": "你我身边的“六张网”丨快递“坐”公交 农货“赶”专线",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730248.shtml",
+        "publishedAt": "2026-11-11T16:12:21.000+08:00"
       },
       {
-        "title": "上海市文史研究馆开展“海上名家新疆行”活动",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730228.shtml",
-        "publishedAt": "2026-11-11T16:03:45.000+08:00"
+        "title": "从AI赛道读懂外贸转型地方样本",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730247.shtml",
+        "publishedAt": "2026-11-11T16:11:05.000+08:00"
       },
       {
-        "title": "贵州动态遴选重点关注企业 集中力量打造企业科技创新力量",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730229.shtml",
-        "publishedAt": "2026-11-11T16:03:09.000+08:00"
+        "title": "消费基建“20条”出台，让投资与消费相互赋能",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730246.shtml",
+        "publishedAt": "2026-11-11T16:09:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T16:10:03.969+08:00",
+    "fetchedAt": "2026-11-11T16:20:06.420+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T16:10:38.376+08:00",
+      "fetchedAt": "2026-11-11T16:20:10.943+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 35,
+          "usedPct": 36,
           "resetAt": "2026-11-11T19:43:45.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T16:10:38.658+08:00",
+      "fetchedAt": "2026-11-11T16:20:11.293+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T16:10:38.668+08:00",
+      "fetchedAt": "2026-11-11T16:20:11.296+08:00",
       "error": null
     }
   }
