@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T13:30:09.935+08:00",
+  "updatedAt": "2026-11-11T13:40:10.446+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T13:30:09.936+08:00",
+    "fetchedAt": "2026-11-11T13:40:10.447+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本多方批评高市政府：不应在扩军道路上一路狂奔",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730044.shtml",
-        "publishedAt": "2026-11-11T13:22:16.000+08:00"
+        "title": "第39届中国电影金鸡奖揭晓 爱奇艺出品电影《捕风追影》主演梁家辉斩获最佳男主角",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730056.shtml",
+        "publishedAt": "2026-11-11T13:33:05.000+08:00"
       },
       {
-        "title": "国台办：台湾问题是中国内政 不容任何外来干涉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730043.shtml",
-        "publishedAt": "2026-11-11T13:21:28.000+08:00"
+        "title": "COP31谈判主席：中国“绿色红利”惠及全球 | 新闻会客厅",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730053.shtml",
+        "publishedAt": "2026-11-11T13:32:28.000+08:00"
       },
       {
-        "title": "韩国京畿道公交车连环撞车事故致48人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730039.shtml",
-        "publishedAt": "2026-11-11T13:15:56.000+08:00"
+        "title": "八所海关缉私分局业务用房院区前后门修缮改造与防撞柱安装工程项目比选公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730059.shtml",
+        "publishedAt": "2026-11-11T13:30:08.000+08:00"
       },
       {
-        "title": "委内瑞拉修法向私人开放电力领域",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730022.shtml",
-        "publishedAt": "2026-11-11T13:15:00.000+08:00"
+        "title": "《中非标准化合作发展蓝皮书》发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730055.shtml",
+        "publishedAt": "2026-11-11T13:26:44.000+08:00"
       },
       {
-        "title": "伊朗最高国家安全委员会秘书否认将与万斯会面",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730006.shtml",
-        "publishedAt": "2026-11-11T13:14:54.000+08:00"
+        "title": "民生调查局 | 洁厕剂、洗洁精长得像果汁、闻着像果茶，喝下去却可能要命",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730042.shtml",
+        "publishedAt": "2026-11-11T13:24:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T13:30:04.735+08:00",
+    "fetchedAt": "2026-11-11T13:40:04.897+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T13:30:08.463+08:00",
+      "fetchedAt": "2026-11-11T13:40:08.995+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T13:30:08.715+08:00",
+      "fetchedAt": "2026-11-11T13:40:09.210+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T13:30:08.724+08:00",
+      "fetchedAt": "2026-11-11T13:40:09.220+08:00",
       "error": null
     }
   }
