@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T21:20:08.828+08:00",
+  "updatedAt": "2026-11-11T21:30:10.030+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 12.9,
-    "feelsLikeC": 12.6,
+    "feelsLikeC": 12.8,
     "humidity": 88,
-    "windKph": 4.3,
+    "windKph": 3.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-11T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T21:20:08.828+08:00",
+    "observedAt": "2026-11-11T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T21:30:10.030+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "我国成功发射探源计划探路者卫星",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-11/1210571.shtml",
-        "publishedAt": "2026-11-11T21:13:08.000+08:00"
+        "title": "婺剧《三打白骨精》揭幕第十二届上海国际喜剧节",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730528.shtml",
+        "publishedAt": "2026-11-11T21:24:50.000+08:00"
       },
       {
-        "title": "三个关键词解读前10个月我国外贸进出口数据",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730507.shtml",
-        "publishedAt": "2026-11-11T21:08:39.000+08:00"
+        "title": "中印尼智库论坛（2026）在雅加达举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730529.shtml",
+        "publishedAt": "2026-11-11T21:24:48.000+08:00"
       },
       {
-        "title": "COP31开幕，中国以实干诠释气候治理担当",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730478.shtml",
-        "publishedAt": "2026-11-11T20:52:42.000+08:00"
+        "title": "长沙发布204项国际采购需求清单 全球500多家企业来湘对接",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730530.shtml",
+        "publishedAt": "2026-11-11T21:24:26.000+08:00"
       },
       {
-        "title": "中国财政部：严查会计审计违法违规行为",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730497.shtml",
-        "publishedAt": "2026-11-11T20:51:26.000+08:00"
+        "title": "香港“出海全球通”皖企经贸服务快线启动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730531.shtml",
+        "publishedAt": "2026-11-11T21:24:16.000+08:00"
       },
       {
-        "title": "中国央行：支持更多境外主体发行熊猫债",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730498.shtml",
-        "publishedAt": "2026-11-11T20:50:24.000+08:00"
+        "title": "香港“双十一”带动购物潮 服务消费成新增长点",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730532.shtml",
+        "publishedAt": "2026-11-11T21:24:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T21:20:03.366+08:00",
+    "fetchedAt": "2026-11-11T21:30:04.789+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T21:20:07.405+08:00",
+      "fetchedAt": "2026-11-11T21:30:08.805+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T02:20:08.000+08:00"
+          "resetAt": "2026-11-12T02:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T21:20:07.676+08:00",
+      "fetchedAt": "2026-11-11T21:30:09.109+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T21:20:07.683+08:00",
+      "fetchedAt": "2026-11-11T21:30:09.115+08:00",
       "error": null
     }
   }
