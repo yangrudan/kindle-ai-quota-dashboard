@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T20:00:11.680+08:00",
+  "updatedAt": "2026-11-11T20:10:11.488+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T20:00:11.680+08:00",
+    "fetchedAt": "2026-11-11T20:10:11.488+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "王沪宁会见古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730401.shtml",
-        "publishedAt": "2026-11-11T19:41:30.000+08:00"
+        "title": "俄罗斯公布本轮俄美乌三方会谈部分成果",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730405.shtml",
+        "publishedAt": "2026-11-11T20:04:08.000+08:00"
       },
       {
-        "title": "央行发布2026年第三季度中国货币政策执行报告",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730398.shtml",
-        "publishedAt": "2026-11-11T19:33:04.000+08:00"
+        "title": "我国成功发射探源计划探路者卫星",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730404.shtml",
+        "publishedAt": "2026-11-11T20:04:08.000+08:00"
       },
       {
-        "title": "俄方公布本轮俄美乌三方会谈成果",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730400.shtml",
-        "publishedAt": "2026-11-11T19:33:02.000+08:00"
+        "title": "伊朗外长致信联合国：要求谴责美国悬赏征集伊核情报",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730403.shtml",
+        "publishedAt": "2026-11-11T20:03:04.000+08:00"
       },
       {
-        "title": "总台起底MCN机构“暴力起号”套路 四川宜宾成立调查组",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730399.shtml",
-        "publishedAt": "2026-11-11T19:30:02.000+08:00"
+        "title": "北京启动空气重污染橙色预警 如何科学防护？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730402.shtml",
+        "publishedAt": "2026-11-11T19:55:11.000+08:00"
       },
       {
-        "title": "@高校毕业生 131场就业服务活动等你来",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-11/10730394.shtml",
-        "publishedAt": "2026-11-11T19:21:33.000+08:00"
+        "title": "联合国气候高官：中国的能源转型成就在全球是独一份的 | 新闻会客厅",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730396.shtml",
+        "publishedAt": "2026-11-11T19:54:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T20:00:06.482+08:00",
+    "fetchedAt": "2026-11-11T20:10:05.393+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T20:00:10.401+08:00",
+      "fetchedAt": "2026-11-11T20:10:10.300+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T01:00:11.000+08:00"
+          "resetAt": "2026-11-12T01:10:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T20:00:10.611+08:00",
+      "fetchedAt": "2026-11-11T20:10:10.459+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T20:00:10.618+08:00",
+      "fetchedAt": "2026-11-11T20:10:10.463+08:00",
       "error": null
     }
   }
