@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T16:30:08.852+08:00",
+  "updatedAt": "2026-11-11T16:40:08.418+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-11T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T16:30:08.852+08:00",
+    "fetchedAt": "2026-11-11T16:40:08.418+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "承古开新 西安有章",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730257.shtml",
-        "publishedAt": "2026-11-11T16:19:04.000+08:00"
+        "title": "澳大利亚经济学家彼得·德赖斯代尔接受《环球时报》专访：深圳APEC将为多边合作注入动力",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-11/10730271.shtml",
+        "publishedAt": "2026-11-11T16:36:12.000+08:00"
       },
       {
-        "title": "让实体书店焕发新活力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730256.shtml",
-        "publishedAt": "2026-11-11T16:18:04.000+08:00"
+        "title": "离岸信托收益征税平稳有序推进",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730270.shtml",
+        "publishedAt": "2026-11-11T16:35:36.000+08:00"
       },
       {
-        "title": "（台湾写真）在台北找寻中山先生的历史回响",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730231.shtml",
-        "publishedAt": "2026-11-11T16:17:59.000+08:00"
+        "title": "多元发展向绿向智 进博会折射新能源汽车产业新动向",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730269.shtml",
+        "publishedAt": "2026-11-11T16:35:14.000+08:00"
       },
       {
-        "title": "一位美国老人的中国乡愁",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730254.shtml",
-        "publishedAt": "2026-11-11T16:17:01.000+08:00"
+        "title": "美媒爆料：美财长因遭伊朗威胁已迁至军事基地居住",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730221.shtml",
+        "publishedAt": "2026-11-11T16:34:02.000+08:00"
       },
       {
-        "title": "“入坑”容易退费难，AI短视频培训套路层出不穷",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10730253.shtml",
-        "publishedAt": "2026-11-11T16:16:47.000+08:00"
+        "title": "高技术产品成出口新名片 中国外贸的APEC底色更浓",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730267.shtml",
+        "publishedAt": "2026-11-11T16:33:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T16:30:03.280+08:00",
+    "fetchedAt": "2026-11-11T16:40:02.970+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T16:30:07.625+08:00",
+      "fetchedAt": "2026-11-11T16:40:07.229+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 40,
           "resetAt": "2026-11-11T19:43:45.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 62,
+          "usedPct": 63,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T16:30:07.931+08:00",
+      "fetchedAt": "2026-11-11T16:40:07.521+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T16:30:07.935+08:00",
+      "fetchedAt": "2026-11-11T16:40:07.524+08:00",
       "error": null
     }
   }
