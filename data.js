@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T21:30:10.030+08:00",
+  "updatedAt": "2026-11-11T21:40:09.348+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.9,
-    "feelsLikeC": 12.8,
-    "humidity": 88,
-    "windKph": 3.1,
+    "tempC": 12.7,
+    "feelsLikeC": 12.4,
+    "humidity": 87,
+    "windKph": 3.7,
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T21:30:10.030+08:00",
+    "fetchedAt": "2026-11-11T21:40:09.348+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "婺剧《三打白骨精》揭幕第十二届上海国际喜剧节",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730528.shtml",
-        "publishedAt": "2026-11-11T21:24:50.000+08:00"
+        "title": "重庆市永川区人大常委会原副主任王寒峰被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730536.shtml",
+        "publishedAt": "2026-11-11T21:34:31.000+08:00"
       },
       {
-        "title": "中印尼智库论坛（2026）在雅加达举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730529.shtml",
-        "publishedAt": "2026-11-11T21:24:48.000+08:00"
+        "title": "河北廊坊：中试平台赋能 助力京津科创成果落地转化",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730492.shtml",
+        "publishedAt": "2026-11-11T21:32:33.000+08:00"
       },
       {
-        "title": "长沙发布204项国际采购需求清单 全球500多家企业来湘对接",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730530.shtml",
-        "publishedAt": "2026-11-11T21:24:26.000+08:00"
+        "title": "浙江发布可持续发展开发区蓝皮书 擦亮绿色发展底色",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730520.shtml",
+        "publishedAt": "2026-11-11T21:31:06.000+08:00"
       },
       {
-        "title": "香港“出海全球通”皖企经贸服务快线启动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730531.shtml",
-        "publishedAt": "2026-11-11T21:24:16.000+08:00"
+        "title": "澜湄六国深化人力资源合作 依托职教搭建桥梁",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730522.shtml",
+        "publishedAt": "2026-11-11T21:30:56.000+08:00"
       },
       {
-        "title": "香港“双十一”带动购物潮 服务消费成新增长点",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730532.shtml",
-        "publishedAt": "2026-11-11T21:24:06.000+08:00"
+        "title": "土耳其航空开通成都至伊斯坦布尔客运航线",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730490.shtml",
+        "publishedAt": "2026-11-11T21:30:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T21:30:04.789+08:00",
+    "fetchedAt": "2026-11-11T21:40:03.893+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T21:30:08.805+08:00",
+      "fetchedAt": "2026-11-11T21:40:07.664+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T02:30:09.000+08:00"
+          "resetAt": "2026-11-12T02:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T21:30:09.109+08:00",
+      "fetchedAt": "2026-11-11T21:40:07.912+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T21:30:09.115+08:00",
+      "fetchedAt": "2026-11-11T21:40:07.922+08:00",
       "error": null
     }
   }
