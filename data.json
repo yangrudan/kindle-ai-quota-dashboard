@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T14:30:09.001+08:00",
+  "updatedAt": "2026-11-11T14:40:09.220+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T14:30:09.002+08:00",
+    "fetchedAt": "2026-11-11T14:40:09.220+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“‘喝大水’越多越健康”系谣言丨中新真探",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730047.shtml",
-        "publishedAt": "2026-11-11T14:19:21.000+08:00"
+        "title": "拱北海关技术中心2026年理化类实验室设备采购项目（重新招标）中标公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730112.shtml",
+        "publishedAt": "2026-11-11T14:35:02.000+08:00"
       },
       {
-        "title": "从线上种草到深度探访：外国游客“入境游”越走越深",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730092.shtml",
-        "publishedAt": "2026-11-11T14:16:37.000+08:00"
+        "title": "百年口岸绥芬河借势“双11” 跨境电商贸易额破3.3亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730076.shtml",
+        "publishedAt": "2026-11-11T14:32:00.000+08:00"
       },
       {
-        "title": "三亚与阿联酋企业签约 深化绿色低碳国际合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730087.shtml",
-        "publishedAt": "2026-11-11T14:14:51.000+08:00"
+        "title": "医生有了AI分身，看病会不一样吗？还有哪些障碍？",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730108.shtml",
+        "publishedAt": "2026-11-11T14:31:46.000+08:00"
       },
       {
-        "title": "东方雨虹董事长李卫国：不待万全之策，以试错积蓄胜势，以迭代奔赴新高度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730074.shtml",
-        "publishedAt": "2026-11-11T14:11:57.000+08:00"
+        "title": "国家发改委5场发布会稳预期、提信心",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730100.shtml",
+        "publishedAt": "2026-11-11T14:29:56.000+08:00"
       },
       {
-        "title": "李月汝亮相山西竹叶青酒女篮新赛季出征仪式",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730083.shtml",
-        "publishedAt": "2026-11-11T14:08:42.000+08:00"
+        "title": "三峡水运新通道前置保障工程取得新进展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730078.shtml",
+        "publishedAt": "2026-11-11T14:24:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T14:30:03.495+08:00",
+    "fetchedAt": "2026-11-11T14:40:03.338+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T14:30:07.583+08:00",
+      "fetchedAt": "2026-11-11T14:40:07.845+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 67,
-          "resetAt": "2026-11-11T14:35:13.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-11T19:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T14:30:07.890+08:00",
+      "fetchedAt": "2026-11-11T14:40:08.118+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T14:30:07.897+08:00",
+      "fetchedAt": "2026-11-11T14:40:08.122+08:00",
       "error": null
     }
   }
