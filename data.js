@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T07:00:12.895+08:00",
+  "updatedAt": "2026-11-12T07:10:38.682+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-12T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T07:00:12.895+08:00",
+    "fetchedAt": "2026-11-12T07:10:38.683+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美军机被曝撤出驻英基地 包括至少10架加油机和3架“鱼鹰”运输机",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730580.shtml",
+        "publishedAt": "2026-11-12T07:04:00.000+08:00"
+      },
       {
         "title": "号称“降压降糖抗癌” 食物真能代替药物吗",
         "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730579.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
         "publishedAt": "2026-11-12T06:39:25.000+08:00"
-      },
-      {
-        "title": "俄外交部：将持续致力于揭露日本军国主义罪行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730575.shtml",
-        "publishedAt": "2026-11-12T06:38:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T07:00:03.963+08:00",
+    "fetchedAt": "2026-11-12T07:10:03.259+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T07:00:11.536+08:00",
+      "fetchedAt": "2026-11-12T07:10:36.941+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T12:00:12.000+08:00"
+          "resetAt": "2026-11-12T12:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T07:00:11.820+08:00",
+      "fetchedAt": "2026-11-12T07:10:37.264+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T07:00:11.828+08:00",
+      "fetchedAt": "2026-11-12T07:10:37.273+08:00",
       "error": null
     }
   }
