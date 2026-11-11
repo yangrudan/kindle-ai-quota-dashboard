@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:30:08.216+08:00",
+  "updatedAt": "2026-11-12T07:40:38.887+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-12T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T07:30:08.216+08:00",
+    "fetchedAt": "2026-11-12T07:40:38.888+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美军机被曝撤出驻英基地 包括至少10架加油机和3架“鱼鹰”运输机",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730580.shtml",
-        "publishedAt": "2026-11-12T07:04:00.000+08:00"
+        "title": "百亿级市场火爆！“超六成访客是老外” 有人当场下单",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730587.shtml",
+        "publishedAt": "2026-11-12T07:36:16.000+08:00"
       },
       {
-        "title": "号称“降压降糖抗癌” 食物真能代替药物吗",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730579.shtml",
-        "publishedAt": "2026-11-12T06:57:08.000+08:00"
+        "title": "中国汽车工业协会：10月份新能源重卡渗透率突破50%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730586.shtml",
+        "publishedAt": "2026-11-12T07:33:28.000+08:00"
       },
       {
-        "title": "阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730578.shtml",
-        "publishedAt": "2026-11-12T06:53:58.000+08:00"
+        "title": "陈文清主持召开专题会议强调 深入贯彻落实习近平总书记重要指示精神 纵深推进依法从严查处危害食品安全违法犯",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730584.shtml",
+        "publishedAt": "2026-11-12T07:30:36.000+08:00"
       },
       {
-        "title": "11月12日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730577.shtml",
-        "publishedAt": "2026-11-12T06:45:51.000+08:00"
+        "title": "俄罗斯总统普京12日将会见美方谈判代表",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730585.shtml",
+        "publishedAt": "2026-11-12T07:28:39.000+08:00"
       },
       {
-        "title": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
-        "publishedAt": "2026-11-12T06:39:25.000+08:00"
+        "title": "学习贯彻党的二十届五中全会精神中央宣讲团在中央统战部宣讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730582.shtml",
+        "publishedAt": "2026-11-12T07:28:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T07:30:02.842+08:00",
+    "fetchedAt": "2026-11-12T07:40:03.615+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T07:30:07.036+08:00",
+      "fetchedAt": "2026-11-12T07:40:37.573+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T12:30:08.000+08:00"
+          "resetAt": "2026-11-12T12:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T07:30:07.247+08:00",
+      "fetchedAt": "2026-11-12T07:40:37.877+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T07:30:07.256+08:00",
+      "fetchedAt": "2026-11-12T07:40:37.883+08:00",
       "error": null
     }
   }
