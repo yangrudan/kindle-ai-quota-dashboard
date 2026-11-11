@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T20:30:10.056+08:00",
+  "updatedAt": "2026-11-11T20:40:09.352+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T20:30:10.056+08:00",
+    "fetchedAt": "2026-11-11T20:40:09.352+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国国家税务总局：离岸信托收益征税平稳有序推进",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730412.shtml",
-        "publishedAt": "2026-11-11T20:20:41.000+08:00"
+        "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730469.shtml",
+        "publishedAt": "2026-11-11T20:33:55.000+08:00"
       },
       {
-        "title": "从红砖书院到线上课堂，南洋暨南人的华文坚守",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-11/10730424.shtml",
-        "publishedAt": "2026-11-11T20:20:03.000+08:00"
+        "title": "广西三江：柚香满园采收忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730468.shtml",
+        "publishedAt": "2026-11-11T20:32:09.000+08:00"
       },
       {
-        "title": "四川绵阳南山中学原党委书记徐勇 严重违纪违法被开除党籍和公职",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730426.shtml",
-        "publishedAt": "2026-11-11T20:19:57.000+08:00"
+        "title": "财政部：“十五五”企业可持续信息披露将推三大工作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730467.shtml",
+        "publishedAt": "2026-11-11T20:30:13.000+08:00"
       },
       {
-        "title": "广东本轮冷空气过程最低气温仅6.6℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730427.shtml",
-        "publishedAt": "2026-11-11T20:19:55.000+08:00"
+        "title": "云南首个中医国际医疗服务试点开诊运行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730465.shtml",
+        "publishedAt": "2026-11-11T20:29:49.000+08:00"
       },
       {
-        "title": "中亚市场成为广东民企出海优质赛道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730429.shtml",
-        "publishedAt": "2026-11-11T20:19:53.000+08:00"
+        "title": "云南出台方案扩大消费 深耕旅居、赛事、低空、口岸四大场景",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730472.shtml",
+        "publishedAt": "2026-11-11T20:29:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T20:30:05.086+08:00",
+    "fetchedAt": "2026-11-11T20:40:04.063+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T20:30:08.815+08:00",
+      "fetchedAt": "2026-11-11T20:40:07.938+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T01:30:10.000+08:00"
+          "resetAt": "2026-11-12T01:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T20:30:08.915+08:00",
+      "fetchedAt": "2026-11-11T20:40:08.331+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T20:30:08.922+08:00",
+      "fetchedAt": "2026-11-11T20:40:08.339+08:00",
       "error": null
     }
   }
