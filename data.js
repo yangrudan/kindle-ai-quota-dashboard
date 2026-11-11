@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T13:20:08.779+08:00",
+  "updatedAt": "2026-11-11T13:30:09.935+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.4,
+    "tempC": 16.5,
     "feelsLikeC": 15.6,
-    "humidity": 60,
+    "humidity": 59,
     "windKph": 4.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-11T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T13:20:08.779+08:00",
+    "observedAt": "2026-11-11T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T13:30:09.936+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中新健康｜想赚医院的钱，不那么容易了！医疗信息化相关厂商业绩承压",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730041.shtml",
-        "publishedAt": "2026-11-11T13:04:05.000+08:00"
+        "title": "日本多方批评高市政府：不应在扩军道路上一路狂奔",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730044.shtml",
+        "publishedAt": "2026-11-11T13:22:16.000+08:00"
       },
       {
-        "title": "探访港澳孙中山史迹：潮起南天，传承不息",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730040.shtml",
-        "publishedAt": "2026-11-11T13:02:07.000+08:00"
+        "title": "国台办：台湾问题是中国内政 不容任何外来干涉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730043.shtml",
+        "publishedAt": "2026-11-11T13:21:28.000+08:00"
       },
       {
-        "title": "报告：“十五五”政策有望支撑中国2027至2029年实现碳达峰",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730038.shtml",
-        "publishedAt": "2026-11-11T12:56:21.000+08:00"
+        "title": "韩国京畿道公交车连环撞车事故致48人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730039.shtml",
+        "publishedAt": "2026-11-11T13:15:56.000+08:00"
       },
       {
-        "title": "戴手套！戴手套！“72小时可夺命” 医生提醒",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730037.shtml",
-        "publishedAt": "2026-11-11T12:44:28.000+08:00"
+        "title": "委内瑞拉修法向私人开放电力领域",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730022.shtml",
+        "publishedAt": "2026-11-11T13:15:00.000+08:00"
       },
       {
-        "title": "诺华高管COP31现场分享“生态共赢”实践：期待继续与中国合作｜新闻会客厅",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730033.shtml",
-        "publishedAt": "2026-11-11T12:33:11.000+08:00"
+        "title": "伊朗最高国家安全委员会秘书否认将与万斯会面",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730006.shtml",
+        "publishedAt": "2026-11-11T13:14:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T13:20:03.564+08:00",
+    "fetchedAt": "2026-11-11T13:30:04.735+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T13:20:07.408+08:00",
+      "fetchedAt": "2026-11-11T13:30:08.463+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T13:20:07.666+08:00",
+      "fetchedAt": "2026-11-11T13:30:08.715+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T13:20:07.672+08:00",
+      "fetchedAt": "2026-11-11T13:30:08.724+08:00",
       "error": null
     }
   }
