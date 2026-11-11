@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T13:50:08.918+08:00",
+  "updatedAt": "2026-11-11T14:00:09.958+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.7,
-    "feelsLikeC": 15.7,
+    "tempC": 16.8,
+    "feelsLikeC": 15.8,
     "humidity": 59,
     "windKph": 4.5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-11T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T13:50:08.918+08:00",
+    "observedAt": "2026-11-11T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-11T14:00:09.958+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "海口海关基础设施功能恢复项目（文昌海关）施工招标公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730070.shtml",
+        "publishedAt": "2026-11-11T13:52:22.000+08:00"
+      },
+      {
+        "title": "印度官员称印美继续磋商双边贸易协议",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730069.shtml",
+        "publishedAt": "2026-11-11T13:51:08.000+08:00"
+      },
+      {
+        "title": "中国“两次发射”方案亮相 全球载人登月进入多路线并行时代",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730068.shtml",
+        "publishedAt": "2026-11-11T13:50:09.000+08:00"
+      },
       {
         "title": "斯诺克冠中冠赛：特鲁姆普首轮出局 尼尔·罗伯逊晋级四强",
         "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730049.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "国台办：欢迎台湾有关方面积极参与“妈祖”相关活动及项目",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730046.shtml",
         "publishedAt": "2026-11-11T13:38:31.000+08:00"
-      },
-      {
-        "title": "海口港海关基础设施功能恢复项目监理服务采购比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730063.shtml",
-        "publishedAt": "2026-11-11T13:34:25.000+08:00"
-      },
-      {
-        "title": "第39届中国电影金鸡奖揭晓 爱奇艺出品电影《捕风追影》主演梁家辉斩获最佳男主角",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730056.shtml",
-        "publishedAt": "2026-11-11T13:33:05.000+08:00"
-      },
-      {
-        "title": "COP31谈判主席：中国“绿色红利”惠及全球 | 新闻会客厅",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730053.shtml",
-        "publishedAt": "2026-11-11T13:32:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T13:50:03.741+08:00",
+    "fetchedAt": "2026-11-11T14:00:04.120+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T13:50:07.616+08:00",
+      "fetchedAt": "2026-11-11T14:00:08.635+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 56,
+          "usedPct": 57,
           "resetAt": "2026-11-11T14:35:13.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T13:50:07.843+08:00",
+      "fetchedAt": "2026-11-11T14:00:09.023+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T13:50:07.853+08:00",
+      "fetchedAt": "2026-11-11T14:00:09.028+08:00",
       "error": null
     }
   }
