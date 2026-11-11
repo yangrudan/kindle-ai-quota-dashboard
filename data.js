@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T18:20:08.676+08:00",
+  "updatedAt": "2026-11-11T18:30:39.633+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 14.4,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 14.2,
     "feelsLikeC": 13,
-    "humidity": 78,
-    "windKph": 10.7,
+    "humidity": 79,
+    "windKph": 9.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-11T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T18:20:08.676+08:00",
+    "observedAt": "2026-11-11T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T18:30:39.633+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“全妆”深圳，出圈了",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730349.shtml",
+        "publishedAt": "2026-11-11T18:16:52.000+08:00"
+      },
       {
         "title": "王毅：中方将坚定支持古巴维护国家主权和正当权益",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730333.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "我国将深化与共建国家绿色贸易跨境电商等合作",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730335.shtml",
         "publishedAt": "2026-11-11T17:56:09.000+08:00"
-      },
-      {
-        "title": "我国首款商用级中小型纯太阳能无人机首飞成功",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730345.shtml",
-        "publishedAt": "2026-11-11T17:54:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T18:20:03.613+08:00",
+    "fetchedAt": "2026-11-11T18:30:04.140+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T18:20:07.322+08:00",
+      "fetchedAt": "2026-11-11T18:30:38.511+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T18:20:07.666+08:00",
+      "fetchedAt": "2026-11-11T18:30:38.659+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T18:20:07.671+08:00",
+      "fetchedAt": "2026-11-11T18:30:38.663+08:00",
       "error": null
     }
   }
