@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T19:20:08.881+08:00",
+  "updatedAt": "2026-11-11T19:30:10.370+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.6,
-    "feelsLikeC": 12.8,
-    "humidity": 83,
-    "windKph": 7.6,
+    "tempC": 13.5,
+    "feelsLikeC": 12.7,
+    "humidity": 85,
+    "windKph": 7.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-11T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T19:20:08.881+08:00",
+    "observedAt": "2026-11-11T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T19:30:10.371+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "@高校毕业生 131场就业服务活动等你来",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-11/10730394.shtml",
+        "publishedAt": "2026-11-11T19:21:33.000+08:00"
+      },
+      {
+        "title": "北方将出现强降雪 华南气温将回升至30℃",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730395.shtml",
+        "publishedAt": "2026-11-11T19:20:17.000+08:00"
+      },
+      {
+        "title": "《联合国气候变化框架公约》秘书处执行秘书：须推出可落地方案",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730378.shtml",
+        "publishedAt": "2026-11-11T19:15:47.000+08:00"
+      },
       {
         "title": "住建部：开展房屋市政工程预防高处坠落专项行动",
         "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730390.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "学者评《文史交响的红楼梦》：扎根原著文本 文史互证",
         "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730386.shtml",
         "publishedAt": "2026-11-11T19:09:31.000+08:00"
-      },
-      {
-        "title": "两名外籍乘客在高铁车厢门口吸烟引争议 12306客服回应",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730381.shtml",
-        "publishedAt": "2026-11-11T19:08:25.000+08:00"
-      },
-      {
-        "title": "重庆887人成功挑战“最大规模的重庆小面品鉴”吉尼斯世界纪录",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730370.shtml",
-        "publishedAt": "2026-11-11T19:08:13.000+08:00"
-      },
-      {
-        "title": "土耳其航空开通伊斯坦布尔直飞成都航线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730380.shtml",
-        "publishedAt": "2026-11-11T19:07:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T19:20:03.503+08:00",
+    "fetchedAt": "2026-11-11T19:30:04.918+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T19:20:07.437+08:00",
+      "fetchedAt": "2026-11-11T19:30:09.014+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T19:20:07.783+08:00",
+      "fetchedAt": "2026-11-11T19:30:09.249+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T19:20:07.792+08:00",
+      "fetchedAt": "2026-11-11T19:30:09.258+08:00",
       "error": null
     }
   }
