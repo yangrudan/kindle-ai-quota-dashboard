@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-11T19:40:11.516+08:00",
+  "updatedAt": "2026-11-11T19:50:08.963+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.5,
+    "tempC": 13.4,
     "feelsLikeC": 12.7,
     "humidity": 85,
-    "windKph": 7.1,
+    "windKph": 6.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-11T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T19:40:11.516+08:00",
+    "observedAt": "2026-11-11T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T19:50:08.963+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王沪宁会见古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730401.shtml",
+        "publishedAt": "2026-11-11T19:41:30.000+08:00"
+      },
       {
         "title": "央行发布2026年第三季度中国货币政策执行报告",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730398.shtml",
@@ -38,14 +43,9 @@
         "title": "@高校毕业生 131场就业服务活动等你来",
         "url": "https://www.chinanews.com.cn/edu/2026/11-11/10730394.shtml",
         "publishedAt": "2026-11-11T19:21:33.000+08:00"
-      },
-      {
-        "title": "北方将出现强降雪 华南气温将回升至30℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730395.shtml",
-        "publishedAt": "2026-11-11T19:20:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T19:40:05.032+08:00",
+    "fetchedAt": "2026-11-11T19:50:03.700+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T19:40:09.497+08:00",
+      "fetchedAt": "2026-11-11T19:50:07.500+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
-          "resetAt": "2026-11-11T19:43:45.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-12T00:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T19:40:09.854+08:00",
+      "fetchedAt": "2026-11-11T19:50:07.870+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T19:40:09.857+08:00",
+      "fetchedAt": "2026-11-11T19:50:07.873+08:00",
       "error": null
     }
   }
