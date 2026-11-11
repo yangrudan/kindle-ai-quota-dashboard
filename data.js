@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T17:30:08.130+08:00",
+  "updatedAt": "2026-11-11T17:40:10.008+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T17:30:08.131+08:00",
+    "fetchedAt": "2026-11-11T17:40:10.008+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "市场监管总局就电子计价秤网络销售计量合规要求公开征求意见",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730287.shtml",
-        "publishedAt": "2026-11-11T17:21:09.000+08:00"
+        "title": "河北任丘：百年古窑薪火传 古法青砖“筑”就古今对话",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730323.shtml",
+        "publishedAt": "2026-11-11T17:37:20.000+08:00"
       },
       {
-        "title": "山东省司法厅原党委书记、厅长解维俊受贿案一审宣判",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730298.shtml",
-        "publishedAt": "2026-11-11T17:20:55.000+08:00"
+        "title": "第二届全国全民健身大赛游泳总决赛在山东青岛开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730322.shtml",
+        "publishedAt": "2026-11-11T17:37:18.000+08:00"
       },
       {
-        "title": "“华侨为革命之母”，孙中山先生为何有此论断？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-11/10730285.shtml",
-        "publishedAt": "2026-11-11T17:16:49.000+08:00"
+        "title": "江西近三年各类事故起数下降31% 应急管理改革筑牢“安全底板”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730321.shtml",
+        "publishedAt": "2026-11-11T17:37:16.000+08:00"
       },
       {
-        "title": "COP31“生态文明与美丽中国实践”主题边会举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730278.shtml",
-        "publishedAt": "2026-11-11T17:14:05.000+08:00"
+        "title": "一件时日笺亮相广州 清晰记载孙中山的确切生辰",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730319.shtml",
+        "publishedAt": "2026-11-11T17:37:12.000+08:00"
       },
       {
-        "title": "2026年APEC领导人会议周新闻中心启用",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730284.shtml",
-        "publishedAt": "2026-11-11T17:08:44.000+08:00"
+        "title": "李延声《伟大的先行者孙中山画卷》主题作品展启幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730317.shtml",
+        "publishedAt": "2026-11-11T17:37:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T17:30:02.911+08:00",
+    "fetchedAt": "2026-11-11T17:40:03.375+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T17:30:06.729+08:00",
+      "fetchedAt": "2026-11-11T17:40:08.355+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T17:30:07.014+08:00",
+      "fetchedAt": "2026-11-11T17:40:08.654+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T17:30:07.017+08:00",
+      "fetchedAt": "2026-11-11T17:40:08.663+08:00",
       "error": null
     }
   }
