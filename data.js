@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T10:40:09.648+08:00",
+  "updatedAt": "2026-11-11T10:50:09.575+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.2,
-    "feelsLikeC": 12.3,
-    "humidity": 67,
-    "windKph": 3.1,
+    "tempC": 13.6,
+    "feelsLikeC": 12.8,
+    "humidity": 66,
+    "windKph": 3.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-11T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T10:40:09.648+08:00",
+    "observedAt": "2026-11-11T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T10:50:09.575+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "人民空军，生日快乐！",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729971.shtml",
+        "publishedAt": "2026-11-11T10:41:29.000+08:00"
+      },
+      {
+        "title": "2026年中英清洁能源合作论坛举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729960.shtml",
+        "publishedAt": "2026-11-11T10:38:13.000+08:00"
+      },
+      {
+        "title": "巴黎中国文化中心举办“中国味道”主题沙龙活动",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729956.shtml",
+        "publishedAt": "2026-11-11T10:38:07.000+08:00"
+      },
+      {
+        "title": "铸牢共同体 中华一家亲丨从巷口到地头 天山南北一脉同心",
+        "url": "https://www.chinanews.com.cn/mz/2026/11-11/10729967.shtml",
+        "publishedAt": "2026-11-11T10:37:03.000+08:00"
+      },
+      {
         "title": "“双11”里的消费迁移",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729964.shtml",
         "publishedAt": "2026-11-11T10:34:25.000+08:00"
-      },
-      {
-        "title": "中国驻日使馆发言人敦促日方依法严惩侵闯使馆凶犯",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729958.shtml",
-        "publishedAt": "2026-11-11T10:28:29.000+08:00"
-      },
-      {
-        "title": "我国已与150多个国家30多个国际组织签署共建“一带一路”合作文件",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10729957.shtml",
-        "publishedAt": "2026-11-11T10:28:11.000+08:00"
-      },
-      {
-        "title": "从钱塘江到泰晤士河—“诗画浙江”走进英国",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729952.shtml",
-        "publishedAt": "2026-11-11T10:28:03.000+08:00"
-      },
-      {
-        "title": "市场监管总局部署多项举措 共建放心消费生态圈",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729954.shtml",
-        "publishedAt": "2026-11-11T10:25:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T10:40:03.403+08:00",
+    "fetchedAt": "2026-11-11T10:50:03.231+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T10:40:08.060+08:00",
+      "fetchedAt": "2026-11-11T10:50:07.647+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T10:40:08.336+08:00",
+      "fetchedAt": "2026-11-11T10:50:08.074+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T10:40:08.345+08:00",
+      "fetchedAt": "2026-11-11T10:50:08.083+08:00",
       "error": null
     }
   }
