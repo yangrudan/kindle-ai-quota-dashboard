@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T23:30:39.000+08:00",
+  "updatedAt": "2026-11-11T23:40:12.294+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-11T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T23:30:39.000+08:00",
+    "fetchedAt": "2026-11-11T23:40:12.294+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“熊猫杯”国际足球锦标赛中国U19男足首站告捷",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730566.shtml",
+        "publishedAt": "2026-11-11T23:27:17.000+08:00"
+      },
+      {
+        "title": "2026年中国国际拳击公开赛收官 中国选手9金领跑",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730565.shtml",
+        "publishedAt": "2026-11-11T23:26:45.000+08:00"
+      },
       {
         "title": "王毅同美国国务卿鲁比奥通电话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730564.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "俄美乌三方会谈结束 俄乌就大规模换俘达成一致",
         "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730554.shtml",
         "publishedAt": "2026-11-11T22:03:46.000+08:00"
-      },
-      {
-        "title": "纪念孙中山诞辰160周年图片展在菲律宾马尼拉开幕",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-11/10730555.shtml",
-        "publishedAt": "2026-11-11T22:03:42.000+08:00"
-      },
-      {
-        "title": "（友城故事）成都与莫斯科再签三年行动计划促各领域合作深化",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10730552.shtml",
-        "publishedAt": "2026-11-11T22:03:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T23:30:03.009+08:00",
+    "fetchedAt": "2026-11-11T23:40:07.133+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T23:30:37.219+08:00",
+      "fetchedAt": "2026-11-11T23:40:10.891+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T04:30:38.000+08:00"
+          "resetAt": "2026-11-12T04:40:12.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T23:30:37.554+08:00",
+      "fetchedAt": "2026-11-11T23:40:11.235+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T23:30:37.564+08:00",
+      "fetchedAt": "2026-11-11T23:40:11.244+08:00",
       "error": null
     }
   }
