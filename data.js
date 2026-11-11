@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T09:22:15.473+08:00",
+  "updatedAt": "2026-11-11T09:30:11.118+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 13.6,
-    "feelsLikeC": 11.3,
-    "humidity": 53,
-    "windKph": 5.6,
-    "windDir": "北风",
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 11.4,
+    "feelsLikeC": 10.2,
+    "humidity": 70,
+    "windKph": 1.4,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-10T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T09:22:15.473+08:00",
+    "observedAt": "2026-11-11T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T09:30:11.118+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "报告：演艺从业者多元路径参与公益",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729430.shtml",
-        "publishedAt": "2026-11-10T15:32:43.000+08:00"
+        "title": "桂林海关缉私分局2026年公务租车定点服务采购项目成交公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10729914.shtml",
+        "publishedAt": "2026-11-11T09:25:21.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会见证中国消费升级带来的世界机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729429.shtml",
-        "publishedAt": "2026-11-10T15:30:45.000+08:00"
+        "title": "11月11日人民币对美元中间价报6.7191 下调24个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729912.shtml",
+        "publishedAt": "2026-11-11T09:25:09.000+08:00"
       },
       {
-        "title": "海口海关技术中心2026年度精密仪器设备全责型维保服务采购项目比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729451.shtml",
-        "publishedAt": "2026-11-10T15:28:56.000+08:00"
+        "title": "东兴海关食材定点配送服务采购项目（项目编号：FC(ZB3)2026180G）公开招标公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10729911.shtml",
+        "publishedAt": "2026-11-11T09:19:13.000+08:00"
       },
       {
-        "title": "告别“手搓” AI比价算账能帮消费者省钱吗",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729449.shtml",
-        "publishedAt": "2026-11-10T15:27:46.000+08:00"
+        "title": "云南南部及华南等地降雨增多 华北黄淮等地大气扩散条件较差",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729909.shtml",
+        "publishedAt": "2026-11-11T09:15:17.000+08:00"
       },
       {
-        "title": "旅美大熊猫“平平”“福双”正式与公众见面 外交部回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729443.shtml",
-        "publishedAt": "2026-11-10T15:27:46.000+08:00"
+        "title": "东兴海关缉私分局北仑河沿线海关管段哨塔监控系统改造项目竞争性协商公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10729907.shtml",
+        "publishedAt": "2026-11-11T09:07:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T15:40:03.694+08:00",
+    "fetchedAt": "2026-11-11T09:30:04.598+08:00",
     "error": null
   },
   "sources": {
@@ -55,14 +55,13 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 4.9,
+          "usedPct": 100,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1427 / 1500 AIC"
+          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-06T16:18:27.751+08:00",
-      "error": "云端查询失败：error connecting to api.github.com\ncheck your internet connection or https://githubstatus.com\n",
-      "stale": true
+      "fetchedAt": "2026-11-11T09:30:10.496+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -71,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-10T17:47:09.000+08:00"
+          "resetAt": "2026-11-11T14:30:11.000+08:00"
         },
         {
           "name": "周",
@@ -79,10 +78,8 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T12:50:36.317+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-11T09:22:10.093+08:00"
+      "fetchedAt": "2026-11-11T09:30:10.016+08:00",
+      "error": null
     },
     "mimo": {
       "ok": true,
@@ -100,10 +97,8 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-10T15:30:38.441+08:00",
-      "error": "fetch failed",
-      "stale": true,
-      "lastAttemptAt": "2026-11-11T09:22:10.111+08:00"
+      "fetchedAt": "2026-11-11T09:30:10.025+08:00",
+      "error": null
     }
   }
 };
