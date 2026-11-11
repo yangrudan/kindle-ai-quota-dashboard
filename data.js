@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T19:30:10.370+08:00",
+  "updatedAt": "2026-11-11T19:40:11.516+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T19:30:10.371+08:00",
+    "fetchedAt": "2026-11-11T19:40:11.516+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "央行发布2026年第三季度中国货币政策执行报告",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730398.shtml",
+        "publishedAt": "2026-11-11T19:33:04.000+08:00"
+      },
+      {
+        "title": "俄方公布本轮俄美乌三方会谈成果",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730400.shtml",
+        "publishedAt": "2026-11-11T19:33:02.000+08:00"
+      },
+      {
+        "title": "总台起底MCN机构“暴力起号”套路 四川宜宾成立调查组",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730399.shtml",
+        "publishedAt": "2026-11-11T19:30:02.000+08:00"
+      },
       {
         "title": "@高校毕业生 131场就业服务活动等你来",
         "url": "https://www.chinanews.com.cn/edu/2026/11-11/10730394.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "北方将出现强降雪 华南气温将回升至30℃",
         "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730395.shtml",
         "publishedAt": "2026-11-11T19:20:17.000+08:00"
-      },
-      {
-        "title": "《联合国气候变化框架公约》秘书处执行秘书：须推出可落地方案",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730378.shtml",
-        "publishedAt": "2026-11-11T19:15:47.000+08:00"
-      },
-      {
-        "title": "住建部：开展房屋市政工程预防高处坠落专项行动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730390.shtml",
-        "publishedAt": "2026-11-11T19:11:53.000+08:00"
-      },
-      {
-        "title": "学者评《文史交响的红楼梦》：扎根原著文本 文史互证",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730386.shtml",
-        "publishedAt": "2026-11-11T19:09:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T19:30:04.918+08:00",
+    "fetchedAt": "2026-11-11T19:40:05.032+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T19:30:09.014+08:00",
+      "fetchedAt": "2026-11-11T19:40:09.497+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T19:30:09.249+08:00",
+      "fetchedAt": "2026-11-11T19:40:09.854+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T19:30:09.258+08:00",
+      "fetchedAt": "2026-11-11T19:40:09.857+08:00",
       "error": null
     }
   }
