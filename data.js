@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T14:00:09.958+08:00",
+  "updatedAt": "2026-11-11T14:10:10.446+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T14:00:09.958+08:00",
+    "fetchedAt": "2026-11-11T14:10:10.446+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "我国新能源汽车销量占比持续走高",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730082.shtml",
+        "publishedAt": "2026-11-11T14:03:48.000+08:00"
+      },
+      {
+        "title": "会计改革与发展“十五五”规划发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730080.shtml",
+        "publishedAt": "2026-11-11T14:02:52.000+08:00"
+      },
+      {
+        "title": "新修订《人类遗传资源管理条例实施细则》公布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730058.shtml",
+        "publishedAt": "2026-11-11T14:00:10.000+08:00"
+      },
+      {
+        "title": "《过来人》、“闪身步”走红两岸 国台办：共鸣是密码",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730062.shtml",
+        "publishedAt": "2026-11-11T13:52:50.000+08:00"
+      },
+      {
         "title": "海口海关基础设施功能恢复项目（文昌海关）施工招标公告",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730070.shtml",
         "publishedAt": "2026-11-11T13:52:22.000+08:00"
-      },
-      {
-        "title": "印度官员称印美继续磋商双边贸易协议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730069.shtml",
-        "publishedAt": "2026-11-11T13:51:08.000+08:00"
-      },
-      {
-        "title": "中国“两次发射”方案亮相 全球载人登月进入多路线并行时代",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730068.shtml",
-        "publishedAt": "2026-11-11T13:50:09.000+08:00"
-      },
-      {
-        "title": "斯诺克冠中冠赛：特鲁姆普首轮出局 尼尔·罗伯逊晋级四强",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730049.shtml",
-        "publishedAt": "2026-11-11T13:38:37.000+08:00"
-      },
-      {
-        "title": "国台办：欢迎台湾有关方面积极参与“妈祖”相关活动及项目",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730046.shtml",
-        "publishedAt": "2026-11-11T13:38:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T14:00:04.120+08:00",
+    "fetchedAt": "2026-11-11T14:10:03.073+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T14:00:08.635+08:00",
+      "fetchedAt": "2026-11-11T14:10:09.027+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 57,
+          "usedPct": 58,
           "resetAt": "2026-11-11T14:35:13.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T14:00:09.023+08:00",
+      "fetchedAt": "2026-11-11T14:10:09.325+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T14:00:09.028+08:00",
+      "fetchedAt": "2026-11-11T14:10:09.329+08:00",
       "error": null
     }
   }
