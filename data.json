@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:00:08.181+08:00",
+  "updatedAt": "2026-11-11T21:10:10.857+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T21:00:08.182+08:00",
+    "fetchedAt": "2026-11-11T21:10:10.857+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "三个关键词解读前10个月我国外贸进出口数据",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730507.shtml",
+        "publishedAt": "2026-11-11T21:08:39.000+08:00"
+      },
       {
         "title": "COP31开幕，中国以实干诠释气候治理担当",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730478.shtml",
@@ -38,14 +43,9 @@
         "title": "（走进中国乡村）年产劳保手套60亿副 沂蒙小镇拓国际大市场",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730499.shtml",
         "publishedAt": "2026-11-11T20:48:14.000+08:00"
-      },
-      {
-        "title": "宁夏未来五年设十个重大科技专项 攻关直指产业化",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730500.shtml",
-        "publishedAt": "2026-11-11T20:48:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T21:00:03.332+08:00",
+    "fetchedAt": "2026-11-11T21:10:04.857+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T21:00:06.937+08:00",
+      "fetchedAt": "2026-11-11T21:10:09.388+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T02:00:08.000+08:00"
+          "resetAt": "2026-11-12T02:10:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T21:00:07.265+08:00",
+      "fetchedAt": "2026-11-11T21:10:09.691+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T21:00:07.273+08:00",
+      "fetchedAt": "2026-11-11T21:10:09.701+08:00",
       "error": null
     }
   }
