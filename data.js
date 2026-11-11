@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T20:40:09.352+08:00",
+  "updatedAt": "2026-11-11T20:50:39.618+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.1,
+    "tempC": 13,
     "feelsLikeC": 12.5,
-    "humidity": 87,
-    "windKph": 5.9,
+    "humidity": 88,
+    "windKph": 5.7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-11T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T20:40:09.352+08:00",
+    "observedAt": "2026-11-11T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T20:50:39.618+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730469.shtml",
-        "publishedAt": "2026-11-11T20:33:55.000+08:00"
+        "title": "工业遗产美学出圈 海外媒体人看庐江千年矾矿蝶变",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730487.shtml",
+        "publishedAt": "2026-11-11T20:40:24.000+08:00"
       },
       {
-        "title": "广西三江：柚香满园采收忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730468.shtml",
-        "publishedAt": "2026-11-11T20:32:09.000+08:00"
+        "title": "34名侨界专家受聘为河南省侨联“智囊团”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-11/10730489.shtml",
+        "publishedAt": "2026-11-11T20:40:22.000+08:00"
       },
       {
-        "title": "财政部：“十五五”企业可持续信息披露将推三大工作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730467.shtml",
-        "publishedAt": "2026-11-11T20:30:13.000+08:00"
+        "title": "数智赋能甜蜜产业 广西来宾加快打造全国糖业高质量发展标杆",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730491.shtml",
+        "publishedAt": "2026-11-11T20:40:20.000+08:00"
       },
       {
-        "title": "云南首个中医国际医疗服务试点开诊运行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730465.shtml",
-        "publishedAt": "2026-11-11T20:29:49.000+08:00"
+        "title": "宁夏开发区规上工业总产值占全自治区比重将提至85%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730493.shtml",
+        "publishedAt": "2026-11-11T20:40:18.000+08:00"
       },
       {
-        "title": "云南出台方案扩大消费 深耕旅居、赛事、低空、口岸四大场景",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730472.shtml",
-        "publishedAt": "2026-11-11T20:29:41.000+08:00"
+        "title": "事关东方通特别代表人诉讼，证监会回应",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730495.shtml",
+        "publishedAt": "2026-11-11T20:40:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T20:40:04.063+08:00",
+    "fetchedAt": "2026-11-11T20:50:04.411+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T20:40:07.938+08:00",
+      "fetchedAt": "2026-11-11T20:50:38.000+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T01:40:09.000+08:00"
+          "resetAt": "2026-11-12T01:50:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T20:40:08.331+08:00",
+      "fetchedAt": "2026-11-11T20:50:38.346+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T20:40:08.339+08:00",
+      "fetchedAt": "2026-11-11T20:50:38.355+08:00",
       "error": null
     }
   }
