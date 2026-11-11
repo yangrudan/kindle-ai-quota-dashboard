@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T11:10:08.637+08:00",
+  "updatedAt": "2026-11-11T11:20:08.909+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.9,
-    "feelsLikeC": 13.3,
-    "humidity": 65,
-    "windKph": 3.9,
+    "tempC": 14.3,
+    "feelsLikeC": 13.7,
+    "humidity": 64,
+    "windKph": 4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-11T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T11:10:08.637+08:00",
+    "observedAt": "2026-11-11T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-11T11:20:08.909+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国家发改委：中欧班列已累计开行超14万列，发送货物货值超5600亿美元",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10729980.shtml",
-        "publishedAt": "2026-11-11T11:01:42.000+08:00"
+        "title": "时代人物｜湟源的孩子",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729999.shtml",
+        "publishedAt": "2026-11-11T11:11:53.000+08:00"
       },
       {
-        "title": "国际随笔丨九届进博的“变”与“不变”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729979.shtml",
-        "publishedAt": "2026-11-11T10:52:10.000+08:00"
+        "title": "特朗普称民主党针对美防长赫格塞思的弹劾“惨败”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729998.shtml",
+        "publishedAt": "2026-11-11T11:11:31.000+08:00"
       },
       {
-        "title": "心梗发作前，身体会发出哪些警报？",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10729978.shtml",
-        "publishedAt": "2026-11-11T10:52:06.000+08:00"
+        "title": "从快递流向看区域协调发展“一盘棋”（读数）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729996.shtml",
+        "publishedAt": "2026-11-11T11:09:51.000+08:00"
       },
       {
-        "title": "亚行报告：东盟基础设施融资缺口巨大",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10729966.shtml",
-        "publishedAt": "2026-11-11T10:51:24.000+08:00"
+        "title": "【赓续长征精神 奋进复兴征程】湖北：长征精神耀荆楚 砥砺奋进新支点",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729993.shtml",
+        "publishedAt": "2026-11-11T11:08:53.000+08:00"
       },
       {
-        "title": "公安机关依法严打网络售假犯罪 公布10起典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729962.shtml",
-        "publishedAt": "2026-11-11T10:50:48.000+08:00"
+        "title": "国台办：民进党当局应停止政治操弄 切实为民谋利",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729985.shtml",
+        "publishedAt": "2026-11-11T11:07:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T11:10:03.548+08:00",
+    "fetchedAt": "2026-11-11T11:20:03.403+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T11:10:06.983+08:00",
+      "fetchedAt": "2026-11-11T11:20:07.310+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T11:10:07.285+08:00",
+      "fetchedAt": "2026-11-11T11:20:07.596+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T11:10:07.295+08:00",
+      "fetchedAt": "2026-11-11T11:20:07.599+08:00",
       "error": null
     }
   }
