@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T11:00:08.221+08:00",
+  "updatedAt": "2026-11-11T11:10:08.637+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-11T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T11:00:08.221+08:00",
+    "fetchedAt": "2026-11-11T11:10:08.637+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家发改委：中欧班列已累计开行超14万列，发送货物货值超5600亿美元",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10729980.shtml",
+        "publishedAt": "2026-11-11T11:01:42.000+08:00"
+      },
       {
         "title": "国际随笔丨九届进博的“变”与“不变”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729979.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "公安机关依法严打网络售假犯罪 公布10起典型案例",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729962.shtml",
         "publishedAt": "2026-11-11T10:50:48.000+08:00"
-      },
-      {
-        "title": "一艘运载4万吨俄柴油的油轮驶向纽约，却在“临门一脚”时停航？",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729931.shtml",
-        "publishedAt": "2026-11-11T10:50:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T11:00:03.113+08:00",
+    "fetchedAt": "2026-11-11T11:10:03.548+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T11:00:06.693+08:00",
+      "fetchedAt": "2026-11-11T11:10:06.983+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T11:00:06.983+08:00",
+      "fetchedAt": "2026-11-11T11:10:07.285+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T11:00:06.992+08:00",
+      "fetchedAt": "2026-11-11T11:10:07.295+08:00",
       "error": null
     }
   }
