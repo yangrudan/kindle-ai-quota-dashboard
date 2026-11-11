@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T20:50:39.618+08:00",
+  "updatedAt": "2026-11-11T21:00:08.181+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 13,
     "feelsLikeC": 12.5,
     "humidity": 88,
-    "windKph": 5.7,
+    "windKph": 5.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-11T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T20:50:39.618+08:00",
+    "observedAt": "2026-11-11T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-11T21:00:08.182+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "工业遗产美学出圈 海外媒体人看庐江千年矾矿蝶变",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730487.shtml",
-        "publishedAt": "2026-11-11T20:40:24.000+08:00"
+        "title": "COP31开幕，中国以实干诠释气候治理担当",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730478.shtml",
+        "publishedAt": "2026-11-11T20:52:42.000+08:00"
       },
       {
-        "title": "34名侨界专家受聘为河南省侨联“智囊团”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-11/10730489.shtml",
-        "publishedAt": "2026-11-11T20:40:22.000+08:00"
+        "title": "中国财政部：严查会计审计违法违规行为",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730497.shtml",
+        "publishedAt": "2026-11-11T20:51:26.000+08:00"
       },
       {
-        "title": "数智赋能甜蜜产业 广西来宾加快打造全国糖业高质量发展标杆",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730491.shtml",
-        "publishedAt": "2026-11-11T20:40:20.000+08:00"
+        "title": "中国央行：支持更多境外主体发行熊猫债",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730498.shtml",
+        "publishedAt": "2026-11-11T20:50:24.000+08:00"
       },
       {
-        "title": "宁夏开发区规上工业总产值占全自治区比重将提至85%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730493.shtml",
-        "publishedAt": "2026-11-11T20:40:18.000+08:00"
+        "title": "（走进中国乡村）年产劳保手套60亿副 沂蒙小镇拓国际大市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730499.shtml",
+        "publishedAt": "2026-11-11T20:48:14.000+08:00"
       },
       {
-        "title": "事关东方通特别代表人诉讼，证监会回应",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730495.shtml",
-        "publishedAt": "2026-11-11T20:40:16.000+08:00"
+        "title": "宁夏未来五年设十个重大科技专项 攻关直指产业化",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730500.shtml",
+        "publishedAt": "2026-11-11T20:48:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T20:50:04.411+08:00",
+    "fetchedAt": "2026-11-11T21:00:03.332+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T20:50:38.000+08:00",
+      "fetchedAt": "2026-11-11T21:00:06.937+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T01:50:39.000+08:00"
+          "resetAt": "2026-11-12T02:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T20:50:38.346+08:00",
+      "fetchedAt": "2026-11-11T21:00:07.265+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T20:50:38.355+08:00",
+      "fetchedAt": "2026-11-11T21:00:07.273+08:00",
       "error": null
     }
   }
