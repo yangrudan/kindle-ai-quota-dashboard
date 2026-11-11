@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T13:00:08.267+08:00",
+  "updatedAt": "2026-11-11T13:10:15.505+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T13:00:08.267+08:00",
+    "fetchedAt": "2026-11-11T13:10:15.505+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中新健康｜想赚医院的钱，不那么容易了！医疗信息化相关厂商业绩承压",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730041.shtml",
+        "publishedAt": "2026-11-11T13:04:05.000+08:00"
+      },
+      {
+        "title": "探访港澳孙中山史迹：潮起南天，传承不息",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730040.shtml",
+        "publishedAt": "2026-11-11T13:02:07.000+08:00"
+      },
+      {
+        "title": "报告：“十五五”政策有望支撑中国2027至2029年实现碳达峰",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730038.shtml",
+        "publishedAt": "2026-11-11T12:56:21.000+08:00"
+      },
       {
         "title": "戴手套！戴手套！“72小时可夺命” 医生提醒",
         "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730037.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "诺华高管COP31现场分享“生态共赢”实践：期待继续与中国合作｜新闻会客厅",
         "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730033.shtml",
         "publishedAt": "2026-11-11T12:33:11.000+08:00"
-      },
-      {
-        "title": "浩瀚大洋连起21个经济体 带你读懂APEC",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730035.shtml",
-        "publishedAt": "2026-11-11T12:25:15.000+08:00"
-      },
-      {
-        "title": "炮制历史谣言、筛选受众卖课 揭露伪史博主的流量生意",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730034.shtml",
-        "publishedAt": "2026-11-11T12:21:35.000+08:00"
-      },
-      {
-        "title": "直播间买到假货谁来赔？典型案例厘清商家、主播、平台责任",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730032.shtml",
-        "publishedAt": "2026-11-11T12:10:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T13:00:03.222+08:00",
+    "fetchedAt": "2026-11-11T13:10:10.310+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T13:00:06.885+08:00",
+      "fetchedAt": "2026-11-11T13:10:13.920+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T13:00:07.147+08:00",
+      "fetchedAt": "2026-11-11T13:10:14.336+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T13:00:07.156+08:00",
+      "fetchedAt": "2026-11-11T13:10:14.344+08:00",
       "error": null
     }
   }
