@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T12:20:07.505+08:00",
+  "updatedAt": "2026-11-11T12:30:09.577+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.5,
-    "feelsLikeC": 15,
+    "tempC": 15.7,
+    "feelsLikeC": 15.2,
     "humidity": 61,
     "windKph": 4.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-11T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T12:20:07.506+08:00",
+    "observedAt": "2026-11-11T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T12:30:09.577+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "浩瀚大洋连起21个经济体 带你读懂APEC",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730035.shtml",
+        "publishedAt": "2026-11-11T12:25:15.000+08:00"
+      },
+      {
+        "title": "炮制历史谣言、筛选受众卖课 揭露伪史博主的流量生意",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730034.shtml",
+        "publishedAt": "2026-11-11T12:21:35.000+08:00"
+      },
       {
         "title": "直播间买到假货谁来赔？典型案例厘清商家、主播、平台责任",
         "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730032.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "枯水期逆势回升 中国最大淡水湖水位突破12米枯水位线",
         "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730024.shtml",
         "publishedAt": "2026-11-11T12:09:32.000+08:00"
-      },
-      {
-        "title": "2026北京·天桥音乐剧年度盛典立足“聚力”促资源对接与交流",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730023.shtml",
-        "publishedAt": "2026-11-11T12:09:28.000+08:00"
-      },
-      {
-        "title": "中山精神联结两岸，百年初心照进现实——各界纪念孙中山诞辰160周年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729981.shtml",
-        "publishedAt": "2026-11-11T12:07:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T12:20:02.827+08:00",
+    "fetchedAt": "2026-11-11T12:30:03.867+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T12:20:06.295+08:00",
+      "fetchedAt": "2026-11-11T12:30:07.675+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T12:20:06.462+08:00",
+      "fetchedAt": "2026-11-11T12:30:07.828+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T12:20:06.471+08:00",
+      "fetchedAt": "2026-11-11T12:30:07.836+08:00",
       "error": null
     }
   }
