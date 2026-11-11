@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T15:00:12.095+08:00",
+  "updatedAt": "2026-11-11T15:10:08.933+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17,
-    "feelsLikeC": 16,
-    "humidity": 59,
-    "windKph": 4.9,
+    "tempC": 17.4,
+    "feelsLikeC": 16.7,
+    "humidity": 61,
+    "windKph": 4.5,
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-11T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T15:00:12.095+08:00",
+    "fetchedAt": "2026-11-11T15:10:08.933+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年世界数码及AI排名出炉 香港三项指标摘全球第一",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730151.shtml",
-        "publishedAt": "2026-11-11T14:52:01.000+08:00"
+        "title": "中亚媒体代表探访新疆克拉玛依世界魔鬼城",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730160.shtml",
+        "publishedAt": "2026-11-11T15:07:44.000+08:00"
       },
       {
-        "title": "菲律宾约60个地区高温达高度警戒级 局地达41摄氏度",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730144.shtml",
-        "publishedAt": "2026-11-11T14:51:55.000+08:00"
+        "title": "“民族团结手相牵·同心共筑中国梦”2026年九省（区、市）各族青少年科技实践营活动在沈阳启动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730122.shtml",
+        "publishedAt": "2026-11-11T15:07:24.000+08:00"
       },
       {
-        "title": "宁夏深化耕地占补平衡改革 守牢耕地保护红线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730113.shtml",
-        "publishedAt": "2026-11-11T14:51:55.000+08:00"
+        "title": "港珠澳大桥口岸经海关跨境电商平台出口破千亿元",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730168.shtml",
+        "publishedAt": "2026-11-11T15:06:52.000+08:00"
       },
       {
-        "title": "南京房企：推动高品质住宅建设成新动向",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730114.shtml",
-        "publishedAt": "2026-11-11T14:51:49.000+08:00"
+        "title": "西安美术学院雕塑系学科建设文献展系统梳理70余年发展",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730120.shtml",
+        "publishedAt": "2026-11-11T15:05:02.000+08:00"
       },
       {
-        "title": "手机深处，广告在等你手滑",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730153.shtml",
-        "publishedAt": "2026-11-11T14:51:27.000+08:00"
+        "title": "首届AI赋能科学发现奖揭晓 全球四位科研人员获奖",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730121.shtml",
+        "publishedAt": "2026-11-11T15:04:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T15:00:05.390+08:00",
+    "fetchedAt": "2026-11-11T15:10:03.110+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T15:00:10.100+08:00",
+      "fetchedAt": "2026-11-11T15:10:07.580+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 12,
           "resetAt": "2026-11-11T19:43:45.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 57,
+          "usedPct": 59,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T15:00:10.365+08:00",
+      "fetchedAt": "2026-11-11T15:10:07.879+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T15:00:10.368+08:00",
+      "fetchedAt": "2026-11-11T15:10:07.888+08:00",
       "error": null
     }
   }
