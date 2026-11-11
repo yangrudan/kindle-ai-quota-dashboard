@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T06:50:09.401+08:00",
+  "updatedAt": "2026-11-12T07:00:12.895+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12,
-    "feelsLikeC": 11.8,
+    "tempC": 12.2,
+    "feelsLikeC": 12,
     "humidity": 93,
-    "windKph": 3.1,
-    "windDir": "西南风",
+    "windKph": 3.3,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-12T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T06:50:09.401+08:00",
+    "observedAt": "2026-11-12T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T07:00:12.895+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "号称“降压降糖抗癌” 食物真能代替药物吗",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730579.shtml",
+        "publishedAt": "2026-11-12T06:57:08.000+08:00"
+      },
+      {
+        "title": "阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730578.shtml",
+        "publishedAt": "2026-11-12T06:53:58.000+08:00"
+      },
+      {
+        "title": "11月12日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730577.shtml",
+        "publishedAt": "2026-11-12T06:45:51.000+08:00"
+      },
       {
         "title": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "俄外交部：将持续致力于揭露日本军国主义罪行",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730575.shtml",
         "publishedAt": "2026-11-12T06:38:17.000+08:00"
-      },
-      {
-        "title": "守住你的钱袋子 “双十一”网购防骗指南请查收",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730574.shtml",
-        "publishedAt": "2026-11-12T06:14:19.000+08:00"
-      },
-      {
-        "title": "伊朗议长：美国必须满足伊方提出的七项条件",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730573.shtml",
-        "publishedAt": "2026-11-12T06:07:37.000+08:00"
-      },
-      {
-        "title": "俄外交部：俄驻美大使达尔奇耶夫猝然去世",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730572.shtml",
-        "publishedAt": "2026-11-12T06:04:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T06:50:04.000+08:00",
+    "fetchedAt": "2026-11-12T07:00:03.963+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T06:50:07.914+08:00",
+      "fetchedAt": "2026-11-12T07:00:11.536+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T11:50:09.000+08:00"
+          "resetAt": "2026-11-12T12:00:12.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T06:50:08.176+08:00",
+      "fetchedAt": "2026-11-12T07:00:11.820+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T06:50:08.185+08:00",
+      "fetchedAt": "2026-11-12T07:00:11.828+08:00",
       "error": null
     }
   }
