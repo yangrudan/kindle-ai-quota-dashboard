@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T10:00:09.042+08:00",
+  "updatedAt": "2026-11-11T10:10:08.690+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.3,
+    "tempC": 12.4,
     "feelsLikeC": 11.2,
-    "humidity": 69,
+    "humidity": 66,
     "windKph": 2.3,
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-11T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T10:00:09.042+08:00",
+    "fetchedAt": "2026-11-11T10:10:08.690+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西将加快推动自然灾害治理向事前预防转型",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729926.shtml",
-        "publishedAt": "2026-11-11T09:54:09.000+08:00"
+        "title": "涉嫌为俄罗斯从事间谍活动，一名美军士兵在英国被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729936.shtml",
+        "publishedAt": "2026-11-11T10:01:47.000+08:00"
       },
       {
-        "title": "理响中国·讲好“中国式商量”故事｜一湖碧水如何“商量”出甜蜜经济与民生幸福",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-11/10729929.shtml",
-        "publishedAt": "2026-11-11T09:53:29.000+08:00"
+        "title": "广东检察机关依法对肖杰涉嫌受贿案提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729935.shtml",
+        "publishedAt": "2026-11-11T10:01:01.000+08:00"
       },
       {
-        "title": "银川五人制足球国际邀请赛收官 伊朗女队夺冠",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10729921.shtml",
-        "publishedAt": "2026-11-11T09:51:43.000+08:00"
+        "title": "焦点访谈｜“进博之约”让世界共享中国发展机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729934.shtml",
+        "publishedAt": "2026-11-11T09:59:55.000+08:00"
       },
       {
-        "title": "平台试点推出“机器人救护车” 全新就业赛道面临哪些挑战？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729925.shtml",
-        "publishedAt": "2026-11-11T09:47:48.000+08:00"
+        "title": "韩正会见联合国秘书长古特雷斯",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729908.shtml",
+        "publishedAt": "2026-11-11T09:58:55.000+08:00"
       },
       {
-        "title": "雄忻高铁山西段全线接触网送电完成",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729923.shtml",
-        "publishedAt": "2026-11-11T09:44:20.000+08:00"
+        "title": "“效率提升达百倍” 一种“新型基础设施”来了",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729933.shtml",
+        "publishedAt": "2026-11-11T09:58:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T10:00:03.544+08:00",
+    "fetchedAt": "2026-11-11T10:10:03.113+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T10:00:07.774+08:00",
+      "fetchedAt": "2026-11-11T10:10:07.204+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 51,
+          "usedPct": 54,
           "resetAt": "2026-11-11T14:35:13.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 54,
+          "usedPct": 55,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T10:00:08.036+08:00",
+      "fetchedAt": "2026-11-11T10:10:07.427+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T10:00:08.042+08:00",
+      "fetchedAt": "2026-11-11T10:10:07.436+08:00",
       "error": null
     }
   }
