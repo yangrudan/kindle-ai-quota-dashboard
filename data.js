@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T11:30:09.039+08:00",
+  "updatedAt": "2026-11-11T11:40:09.686+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-11T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T11:30:09.039+08:00",
+    "fetchedAt": "2026-11-11T11:40:09.686+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "福建再添一植物新种：闽江源马兜铃",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729997.shtml",
-        "publishedAt": "2026-11-11T11:22:59.000+08:00"
+        "title": "天津首单养老产业专项债务融资工具落地 2.5亿元资金赋能银发经济",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730011.shtml",
+        "publishedAt": "2026-11-11T11:32:34.000+08:00"
       },
       {
-        "title": "中越金水河—马鹿塘公路口岸升级为国际口岸",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730005.shtml",
-        "publishedAt": "2026-11-11T11:21:01.000+08:00"
+        "title": "国家发改委：深入实施共建“一带一路”科技创新行动计划",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10730007.shtml",
+        "publishedAt": "2026-11-11T11:32:24.000+08:00"
       },
       {
-        "title": "国台办：人民军队日益强大 坚定捍卫国家主权、统一和领土完整",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730004.shtml",
-        "publishedAt": "2026-11-11T11:20:05.000+08:00"
+        "title": "找一颗与地球相似的行星为啥这么难",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730021.shtml",
+        "publishedAt": "2026-11-11T11:32:04.000+08:00"
       },
       {
-        "title": "国台办：将一如既往支持广大台商台企来大陆投资兴业",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729992.shtml",
-        "publishedAt": "2026-11-11T11:15:59.000+08:00"
+        "title": "（乡村行·看振兴）广东徐村：“航天椒”鼓起村民“钱袋子”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730000.shtml",
+        "publishedAt": "2026-11-11T11:30:18.000+08:00"
       },
       {
-        "title": "风笛伴寒而行，筑牢冬供“温暖防线”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730003.shtml",
-        "publishedAt": "2026-11-11T11:15:49.000+08:00"
+        "title": "“双十一”带旺海外订单 昆明口岸跨境电商空运出口超1300万元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730015.shtml",
+        "publishedAt": "2026-11-11T11:28:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T11:30:03.640+08:00",
+    "fetchedAt": "2026-11-11T11:40:03.556+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T11:30:07.768+08:00",
+      "fetchedAt": "2026-11-11T11:40:08.172+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T11:30:08.084+08:00",
+      "fetchedAt": "2026-11-11T11:40:08.546+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T11:30:08.093+08:00",
+      "fetchedAt": "2026-11-11T11:40:08.550+08:00",
       "error": null
     }
   }
