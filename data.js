@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T10:20:10.550+08:00",
+  "updatedAt": "2026-11-11T10:30:38.812+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.8,
-    "feelsLikeC": 11.8,
-    "humidity": 68,
-    "windKph": 2.7,
+    "tempC": 13.2,
+    "feelsLikeC": 12.3,
+    "humidity": 67,
+    "windKph": 3.1,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-11T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T10:20:10.551+08:00",
+    "observedAt": "2026-11-11T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T10:30:38.812+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本推动修订“安保三文件” 威胁地区和平稳定",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729949.shtml",
+        "publishedAt": "2026-11-11T10:19:44.000+08:00"
+      },
+      {
+        "title": "“一纸合约 多层关系”MCN机构签约乱象频发 如何完善行业规则？",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10729948.shtml",
+        "publishedAt": "2026-11-11T10:18:38.000+08:00"
+      },
+      {
+        "title": "贵州省信访局原局长马磊被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729941.shtml",
+        "publishedAt": "2026-11-11T10:15:28.000+08:00"
+      },
       {
         "title": "贵州省黔南州人大常委会原副主任朱奉余被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729939.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "保加利亚连环车祸致12死50伤 11日为全国哀悼日",
         "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729928.shtml",
         "publishedAt": "2026-11-11T10:11:52.000+08:00"
-      },
-      {
-        "title": "陈永奇任江西省人民政府副省长、代理省长职务",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729943.shtml",
-        "publishedAt": "2026-11-11T10:11:32.000+08:00"
-      },
-      {
-        "title": "2026CFA中国之队·银川五人制足球国际邀请赛落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10729938.shtml",
-        "publishedAt": "2026-11-11T10:10:06.000+08:00"
-      },
-      {
-        "title": "日本执意推进“再军事化”是在透支国家未来（国际论坛）",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729940.shtml",
-        "publishedAt": "2026-11-11T10:08:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T10:20:03.602+08:00",
+    "fetchedAt": "2026-11-11T10:30:03.521+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-11T10:20:07.137+08:00",
+      "fetchedAt": "2026-11-11T10:30:36.959+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T10:20:07.406+08:00",
+      "fetchedAt": "2026-11-11T10:30:37.321+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-11T10:20:07.415+08:00",
+      "fetchedAt": "2026-11-11T10:30:37.328+08:00",
       "error": null
     }
   }
