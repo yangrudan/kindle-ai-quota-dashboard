@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T07:50:38.921+08:00",
+  "updatedAt": "2026-11-12T08:00:08.396+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.9,
-    "feelsLikeC": 12.8,
-    "humidity": 91,
-    "windKph": 3.5,
+    "tempC": 13.2,
+    "feelsLikeC": 13.1,
+    "humidity": 89,
+    "windKph": 3.6,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-12T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T07:50:38.922+08:00",
+    "observedAt": "2026-11-12T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T08:00:08.396+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一离职员工被索赔二十余万元 工作交接义务边界何在",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-12/10730590.shtml",
+        "publishedAt": "2026-11-12T07:51:43.000+08:00"
+      },
+      {
+        "title": "“薪酬”“股份”背后的腐败账 “两高”典型案例揭秘新型、隐性职务犯罪",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-12/10730589.shtml",
+        "publishedAt": "2026-11-12T07:47:18.000+08:00"
+      },
       {
         "title": "基金会，如何赢得更多公信力？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730588.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "百亿级市场火爆！“超六成访客是老外” 有人当场下单",
         "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730587.shtml",
         "publishedAt": "2026-11-12T07:36:16.000+08:00"
-      },
-      {
-        "title": "中国汽车工业协会：10月份新能源重卡渗透率突破50%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730586.shtml",
-        "publishedAt": "2026-11-12T07:33:28.000+08:00"
-      },
-      {
-        "title": "陈文清主持召开专题会议强调 深入贯彻落实习近平总书记重要指示精神 纵深推进依法从严查处危害食品安全违法犯",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730584.shtml",
-        "publishedAt": "2026-11-12T07:30:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T07:50:03.344+08:00",
+    "fetchedAt": "2026-11-12T08:00:03.600+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T07:50:37.325+08:00",
+      "fetchedAt": "2026-11-12T08:00:07.207+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T12:50:38.000+08:00"
+          "resetAt": "2026-11-12T13:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T07:50:37.564+08:00",
+      "fetchedAt": "2026-11-12T08:00:07.466+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T07:50:37.573+08:00",
+      "fetchedAt": "2026-11-12T08:00:07.475+08:00",
       "error": null
     }
   }
