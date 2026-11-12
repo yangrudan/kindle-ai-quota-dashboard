@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T09:00:09.577+08:00",
+  "updatedAt": "2026-11-12T09:10:31.146+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-12T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T09:00:09.577+08:00",
+    "fetchedAt": "2026-11-12T09:10:31.146+08:00",
     "error": null
   },
   "news": {
@@ -23,6 +23,11 @@ window.DASH_DATA = {
         "title": "2026年APEC领导人会议周新闻中心启用",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210591.shtml",
         "publishedAt": "2026-11-12T08:41:32.000+08:00"
+      },
+      {
+        "title": "学习手记丨向着全面建成世界一流空军奋飞",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730604.shtml",
+        "publishedAt": "2026-11-12T08:39:01.000+08:00"
       },
       {
         "title": "89.0%受访者感觉当前AI卖家秀与收到实物差距大",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地有雾霾天气",
         "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730596.shtml",
         "publishedAt": "2026-11-12T08:23:16.000+08:00"
-      },
-      {
-        "title": "中央气象台对台风“查帕卡”停止编号",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730601.shtml",
-        "publishedAt": "2026-11-12T08:21:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T09:00:05.035+08:00",
+    "fetchedAt": "2026-11-12T09:10:23.675+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T09:00:08.347+08:00",
+      "fetchedAt": "2026-11-12T09:10:27.318+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T14:00:09.000+08:00"
+          "resetAt": "2026-11-12T14:10:28.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T09:00:08.657+08:00",
+      "fetchedAt": "2026-11-12T09:10:27.645+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T09:00:08.660+08:00",
+      "fetchedAt": "2026-11-12T09:10:27.648+08:00",
       "error": null
     }
   }
