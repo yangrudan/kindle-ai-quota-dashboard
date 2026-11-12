@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T16:50:08.272+08:00",
+  "updatedAt": "2026-11-12T17:00:10.435+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 19.5,
-    "humidity": 75,
-    "windKph": 4.4,
+    "tempC": 18.4,
+    "feelsLikeC": 19.2,
+    "humidity": 78,
+    "windKph": 4.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-12T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T16:50:08.272+08:00",
+    "observedAt": "2026-11-12T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T17:00:10.435+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香港举行孙中山先生诞辰160周年纪念仪式",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730888.shtml",
-        "publishedAt": "2026-11-12T16:41:11.000+08:00"
+        "title": "在进博会上感受AI产业新脉动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730923.shtml",
+        "publishedAt": "2026-11-12T16:52:18.000+08:00"
       },
       {
-        "title": "特写：“小饭碗”装着“大民生”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730917.shtml",
-        "publishedAt": "2026-11-12T16:39:37.000+08:00"
+        "title": "孙中山外曾孙王祖耀：愿为先生弟子与同志",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-12/10730903.shtml",
+        "publishedAt": "2026-11-12T16:50:50.000+08:00"
       },
       {
-        "title": "济南市中山公园：百年园林里的“中山印记”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730886.shtml",
-        "publishedAt": "2026-11-12T16:39:33.000+08:00"
+        "title": "聚焦开源发展 2026 OSCAR开源产业大会在北京召开",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730864.shtml",
+        "publishedAt": "2026-11-12T16:50:18.000+08:00"
       },
       {
-        "title": "陈卫东：刑诉法修改应法典化",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-12/10730916.shtml",
-        "publishedAt": "2026-11-12T16:39:13.000+08:00"
+        "title": "“闽东之光”何以越擦越亮？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730905.shtml",
+        "publishedAt": "2026-11-12T16:49:52.000+08:00"
       },
       {
-        "title": "美国有史以来最贵的中期选举",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730911.shtml",
-        "publishedAt": "2026-11-12T16:38:25.000+08:00"
+        "title": "走进“中国古铜都”安徽铜陵 探寻铜雕技艺创新传承之路",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730894.shtml",
+        "publishedAt": "2026-11-12T16:49:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T16:50:03.530+08:00",
+    "fetchedAt": "2026-11-12T17:00:04.037+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T16:50:07.267+08:00",
+      "fetchedAt": "2026-11-12T17:00:09.375+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 7,
           "resetAt": "2026-11-12T19:30:13.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T16:50:07.306+08:00",
+      "fetchedAt": "2026-11-12T17:00:09.397+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T16:50:07.310+08:00",
+      "fetchedAt": "2026-11-12T17:00:09.402+08:00",
       "error": null
     }
   }
