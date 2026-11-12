@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T04:50:08.862+08:00",
+  "updatedAt": "2026-11-13T05:00:08.570+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 13.7,
-    "feelsLikeC": 14.6,
-    "humidity": 98,
-    "windKph": 1.5,
+    "feelsLikeC": 14.5,
+    "humidity": 99,
+    "windKph": 1.8,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T04:45:00.000+08:00",
-    "fetchedAt": "2026-11-13T04:50:08.862+08:00",
+    "observedAt": "2026-11-13T05:00:00.000+08:00",
+    "fetchedAt": "2026-11-13T05:00:08.570+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "菲律宾多个政府部门遭网络攻击 总统府称已做好应对准备",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731240.shtml",
+        "publishedAt": "2026-11-13T04:48:25.000+08:00"
+      },
+      {
+        "title": "美国华盛顿枪击事件致1亡4伤 嫌疑人自杀",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731239.shtml",
+        "publishedAt": "2026-11-13T04:47:55.000+08:00"
+      },
       {
         "title": "英国三季度经济延续复苏态势",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731238.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "普京会见美特使：提议康斯坦丁诺夫卡人道行动",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731236.shtml",
         "publishedAt": "2026-11-13T04:45:37.000+08:00"
-      },
-      {
-        "title": "英伟达宣布黄仁勋辞职 将遴选新CEO",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731235.shtml",
-        "publishedAt": "2026-11-13T04:44:39.000+08:00"
-      },
-      {
-        "title": "马斯克：招揽黄仁勋将是我的荣幸",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731234.shtml",
-        "publishedAt": "2026-11-13T00:28:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T04:50:03.664+08:00",
+    "fetchedAt": "2026-11-13T05:00:02.821+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T04:50:07.617+08:00",
+      "fetchedAt": "2026-11-13T05:00:06.406+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T09:50:08.000+08:00"
+          "resetAt": "2026-11-13T10:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T04:50:07.948+08:00",
+      "fetchedAt": "2026-11-13T05:00:06.786+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T04:50:07.951+08:00",
+      "fetchedAt": "2026-11-13T05:00:06.790+08:00",
       "error": null
     }
   }
