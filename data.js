@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T19:00:10.672+08:00",
+  "updatedAt": "2026-11-12T19:10:38.812+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-12T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T19:00:10.672+08:00",
+    "fetchedAt": "2026-11-12T19:10:38.813+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一针一线蕴藏“数智” 浙江台州搭建缝制设备全球供需桥梁",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731026.shtml",
-        "publishedAt": "2026-11-12T18:57:03.000+08:00"
+        "title": "《纪念孙中山先生诞辰160周年》纪念邮票在广州首发",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731032.shtml",
+        "publishedAt": "2026-11-12T19:02:17.000+08:00"
       },
       {
-        "title": "烟台苹果迎出口旺季 智能分选护航抢“鲜”出海",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731017.shtml",
-        "publishedAt": "2026-11-12T18:56:57.000+08:00"
+        "title": "意大利多所学校收到炸弹威胁邮件",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210652.shtml",
+        "publishedAt": "2026-11-12T19:01:50.000+08:00"
       },
       {
-        "title": "第九届中央企业优秀故事作品名单在京发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731025.shtml",
-        "publishedAt": "2026-11-12T18:56:55.000+08:00"
+        "title": "云端见浙江 “诗画浙江”号彩绘飞机首航",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731034.shtml",
+        "publishedAt": "2026-11-12T19:01:13.000+08:00"
       },
       {
-        "title": "专家学者聚福州共探AI赋能基础科学与产业创新",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731021.shtml",
-        "publishedAt": "2026-11-12T18:55:57.000+08:00"
+        "title": "湖南东安高质量发展观察：特色产业兴县 民生实事暖心",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731027.shtml",
+        "publishedAt": "2026-11-12T19:01:03.000+08:00"
       },
       {
-        "title": "宁夏为酿酒葡萄产业绘就气候“图谱”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731014.shtml",
-        "publishedAt": "2026-11-12T18:54:51.000+08:00"
+        "title": "江苏首发入境游一站式智能服务 畅通海外游客中国行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731005.shtml",
+        "publishedAt": "2026-11-12T19:00:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T19:00:05.382+08:00",
+    "fetchedAt": "2026-11-12T19:10:03.154+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T19:00:09.335+08:00",
+      "fetchedAt": "2026-11-12T19:10:37.497+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T19:00:09.660+08:00",
+      "fetchedAt": "2026-11-12T19:10:37.795+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T19:00:09.665+08:00",
+      "fetchedAt": "2026-11-12T19:10:37.805+08:00",
       "error": null
     }
   }
