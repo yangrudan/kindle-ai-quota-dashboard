@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T11:20:08.126+08:00",
+  "updatedAt": "2026-11-12T11:30:19.274+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-12T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T11:20:08.126+08:00",
+    "fetchedAt": "2026-11-12T11:30:19.275+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
+        "publishedAt": "2026-11-12T11:24:44.000+08:00"
+      },
+      {
+        "title": "美国费城交响乐团2026年中国巡演海南首站启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730700.shtml",
+        "publishedAt": "2026-11-12T11:18:54.000+08:00"
+      },
+      {
+        "title": "中国海油在渤海中部海域取得超深层油气勘探重大突破",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730704.shtml",
+        "publishedAt": "2026-11-12T11:17:44.000+08:00"
+      },
+      {
+        "title": "柬埔寨风情汇聚昆明 上演异域文化盛宴",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730698.shtml",
+        "publishedAt": "2026-11-12T11:17:44.000+08:00"
+      },
+      {
         "title": "“文明互鉴国际论坛二〇二六”在澳门举办 以文化为桥 跨山海对话",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730707.shtml",
         "publishedAt": "2026-11-12T11:15:06.000+08:00"
-      },
-      {
-        "title": "上海气质 国际风范——在进博会感受有序与活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730706.shtml",
-        "publishedAt": "2026-11-12T11:13:08.000+08:00"
-      },
-      {
-        "title": "国际人士热切期待APEC“深圳时间”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730703.shtml",
-        "publishedAt": "2026-11-12T11:10:23.000+08:00"
-      },
-      {
-        "title": "广西龙胜：培训技艺传非遗",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730694.shtml",
-        "publishedAt": "2026-11-12T11:09:57.000+08:00"
-      },
-      {
-        "title": "直播海报：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730699.shtml",
-        "publishedAt": "2026-11-12T11:06:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T11:20:02.885+08:00",
+    "fetchedAt": "2026-11-12T11:30:12.680+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T11:20:06.733+08:00",
+      "fetchedAt": "2026-11-12T11:30:17.374+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 20,
+          "usedPct": 23,
           "resetAt": "2026-11-12T14:13:17.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T11:20:07.082+08:00",
+      "fetchedAt": "2026-11-12T11:30:17.613+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T11:20:07.085+08:00",
+      "fetchedAt": "2026-11-12T11:30:17.622+08:00",
       "error": null
     }
   }
