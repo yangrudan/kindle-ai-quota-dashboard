@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T14:30:09.381+08:00",
+  "updatedAt": "2026-11-12T14:40:09.429+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 18.6,
-    "humidity": 66,
-    "windKph": 5.6,
-    "windDir": "北风",
+    "tempC": 20.6,
+    "feelsLikeC": 21,
+    "humidity": 60,
+    "windKph": 2.4,
+    "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-12T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T14:30:09.381+08:00",
+    "fetchedAt": "2026-11-12T14:40:09.429+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "王建民：新疆非遗在各民族相互作用、相互融合中生长生成",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730756.shtml",
-        "publishedAt": "2026-11-12T14:24:44.000+08:00"
+        "title": "农工党宜春市委会专题学习中共宜春市第六次代表大会精神",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730787.shtml",
+        "publishedAt": "2026-11-12T14:29:56.000+08:00"
       },
       {
-        "title": "航标筑就大湾区航运海上通途",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730758.shtml",
-        "publishedAt": "2026-11-12T14:24:36.000+08:00"
+        "title": "辽宁师范大学举行“统战之家”揭牌仪式",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730770.shtml",
+        "publishedAt": "2026-11-12T14:28:30.000+08:00"
       },
       {
-        "title": "“消费入座”属商家自主安排还是变相设置最低消费？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730784.shtml",
-        "publishedAt": "2026-11-12T14:23:50.000+08:00"
+        "title": "云岭动态第三十九期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730768.shtml",
+        "publishedAt": "2026-11-12T14:27:44.000+08:00"
       },
       {
-        "title": "近600家博物馆齐聚海口“博博会” 海量文创集中亮相",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730776.shtml",
-        "publishedAt": "2026-11-12T14:21:10.000+08:00"
+        "title": "甘肃草原里的“种子密码”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730777.shtml",
+        "publishedAt": "2026-11-12T14:27:30.000+08:00"
       },
       {
-        "title": "一羊场内有身份不明残障务工人员？山西长治通报",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730774.shtml",
-        "publishedAt": "2026-11-12T14:21:04.000+08:00"
+        "title": "重庆城市轨道交通运营里程跨越600公里",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730762.shtml",
+        "publishedAt": "2026-11-12T14:27:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T14:30:04.137+08:00",
+    "fetchedAt": "2026-11-12T14:40:03.758+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T14:30:07.951+08:00",
+      "fetchedAt": "2026-11-12T14:40:07.955+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-12T19:30:09.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-11-12T19:30:13.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T14:30:08.390+08:00",
+      "fetchedAt": "2026-11-12T14:40:08.325+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T14:30:08.398+08:00",
+      "fetchedAt": "2026-11-12T14:40:08.335+08:00",
       "error": null
     }
   }
