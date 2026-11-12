@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T13:50:12.498+08:00",
+  "updatedAt": "2026-11-12T14:00:38.569+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 18.8,
     "feelsLikeC": 18.8,
     "humidity": 66,
-    "windKph": 4.7,
+    "windKph": 4.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T13:50:12.498+08:00",
+    "observedAt": "2026-11-12T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T14:00:38.569+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《新加坡港口指南》正式出版",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730745.shtml",
+        "publishedAt": "2026-11-12T13:49:56.000+08:00"
+      },
+      {
+        "title": "葵花籽油期货及期权挂牌上市",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730744.shtml",
+        "publishedAt": "2026-11-12T13:49:12.000+08:00"
+      },
       {
         "title": "累计报告数千麻疹病例 美国或失去“麻疹消除国”地位",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730747.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "突发：美国纽约一建筑发生坍塌事故 已致至少2死17伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730741.shtml",
         "publishedAt": "2026-11-12T13:29:45.000+08:00"
-      },
-      {
-        "title": "中新健康｜AI十年内攻克癌症？Anthropic CEO预测引质疑",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730740.shtml",
-        "publishedAt": "2026-11-12T13:22:29.000+08:00"
-      },
-      {
-        "title": "李家超寄语香港下一代：传承孙中山先生矢志不渝振兴中华民族的精神",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730739.shtml",
-        "publishedAt": "2026-11-12T13:07:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T13:50:06.542+08:00",
+    "fetchedAt": "2026-11-12T14:00:03.687+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T13:50:10.844+08:00",
+      "fetchedAt": "2026-11-12T14:00:37.320+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T13:50:11.193+08:00",
+      "fetchedAt": "2026-11-12T14:00:37.428+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T13:50:11.202+08:00",
+      "fetchedAt": "2026-11-12T14:00:37.435+08:00",
       "error": null
     }
   }
