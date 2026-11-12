@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T20:20:09.553+08:00",
+  "updatedAt": "2026-11-12T20:30:39.771+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 14.9,
-    "feelsLikeC": 15,
+    "feelsLikeC": 15.1,
     "humidity": 87,
-    "windKph": 4.9,
+    "windKph": 4.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T20:20:09.553+08:00",
+    "observedAt": "2026-11-12T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-12T20:30:39.772+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国际友人在北京以诗词“会友”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10731071.shtml",
-        "publishedAt": "2026-11-12T20:01:40.000+08:00"
+        "title": "长三角光电集成产业联盟成立 促产学研用深度融合",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731078.shtml",
+        "publishedAt": "2026-11-12T20:26:30.000+08:00"
       },
       {
-        "title": "台湾各界人士在台北举办“两岸和平倡议大会”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731072.shtml",
-        "publishedAt": "2026-11-12T20:01:28.000+08:00"
+        "title": "存量提质、增量上新 浙江工业大区蓄势向新",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731079.shtml",
+        "publishedAt": "2026-11-12T20:25:34.000+08:00"
       },
       {
-        "title": "（深圳APEC）侨见APEC“中国年”：以侨为桥，联通亚太",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731070.shtml",
-        "publishedAt": "2026-11-12T20:00:36.000+08:00"
+        "title": "第二艘国产大型邮轮爱达·花城号抵达广州",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210662.shtml",
+        "publishedAt": "2026-11-12T20:22:35.000+08:00"
       },
       {
-        "title": "学习贯彻党的二十届五中全会精神中央宣讲团在中央组织部机关宣讲",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731069.shtml",
-        "publishedAt": "2026-11-12T19:55:40.000+08:00"
+        "title": "植物遭遇虫咬怎么办？科学家揭示植物识别虫害防御机制",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731076.shtml",
+        "publishedAt": "2026-11-12T20:21:19.000+08:00"
       },
       {
-        "title": "李强主持国务院第二十二次专题学习",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731067.shtml",
-        "publishedAt": "2026-11-12T19:53:10.000+08:00"
+        "title": "东西问｜孙伟勇：从《建国方略》到大湾区，粤港澳如何接续中山先生振兴中华之梦？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-12/10731075.shtml",
+        "publishedAt": "2026-11-12T20:20:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T20:20:02.530+08:00",
+    "fetchedAt": "2026-11-12T20:30:04.073+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T20:20:07.301+08:00",
+      "fetchedAt": "2026-11-12T20:30:38.142+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T01:20:09.000+08:00"
+          "resetAt": "2026-11-13T01:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T20:20:07.565+08:00",
+      "fetchedAt": "2026-11-12T20:30:38.475+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T20:20:07.574+08:00",
+      "fetchedAt": "2026-11-12T20:30:38.478+08:00",
       "error": null
     }
   }
