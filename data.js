@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T17:00:10.435+08:00",
+  "updatedAt": "2026-11-12T17:10:08.636+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-12T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T17:00:10.435+08:00",
+    "fetchedAt": "2026-11-12T17:10:08.636+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "在进博会上感受AI产业新脉动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730923.shtml",
-        "publishedAt": "2026-11-12T16:52:18.000+08:00"
+        "title": "日本教育工作者坚守和平 反对修宪",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730930.shtml",
+        "publishedAt": "2026-11-12T17:01:38.000+08:00"
       },
       {
-        "title": "孙中山外曾孙王祖耀：愿为先生弟子与同志",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-12/10730903.shtml",
-        "publishedAt": "2026-11-12T16:50:50.000+08:00"
+        "title": "近80个汽车品牌在河南展出 新能源汽车占比超六成",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730897.shtml",
+        "publishedAt": "2026-11-12T17:01:20.000+08:00"
       },
       {
-        "title": "聚焦开源发展 2026 OSCAR开源产业大会在北京召开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730864.shtml",
-        "publishedAt": "2026-11-12T16:50:18.000+08:00"
+        "title": "向价值链高端攀爬——从深圳两大商贸集散地看新质生产力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730927.shtml",
+        "publishedAt": "2026-11-12T16:59:32.000+08:00"
       },
       {
-        "title": "“闽东之光”何以越擦越亮？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730905.shtml",
-        "publishedAt": "2026-11-12T16:49:52.000+08:00"
+        "title": "中国测绘地信装备展落地长沙 空天地深技术同台亮相",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730885.shtml",
+        "publishedAt": "2026-11-12T16:57:42.000+08:00"
       },
       {
-        "title": "走进“中国古铜都”安徽铜陵 探寻铜雕技艺创新传承之路",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730894.shtml",
-        "publishedAt": "2026-11-12T16:49:44.000+08:00"
+        "title": "一条路 如何串起亚太供应链",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730926.shtml",
+        "publishedAt": "2026-11-12T16:56:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T17:00:04.037+08:00",
+    "fetchedAt": "2026-11-12T17:10:03.111+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T17:00:09.375+08:00",
+      "fetchedAt": "2026-11-12T17:10:07.328+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 11,
           "resetAt": "2026-11-12T19:30:13.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 69,
+          "usedPct": 70,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T17:00:09.397+08:00",
+      "fetchedAt": "2026-11-12T17:10:07.655+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T17:00:09.402+08:00",
+      "fetchedAt": "2026-11-12T17:10:07.664+08:00",
       "error": null
     }
   }
