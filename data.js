@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T11:40:08.833+08:00",
+  "updatedAt": "2026-11-12T11:50:09.211+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.6,
-    "feelsLikeC": 18.9,
-    "humidity": 65,
-    "windKph": 1.8,
-    "windDir": "西北风",
+    "tempC": 19,
+    "feelsLikeC": 19.2,
+    "humidity": 64,
+    "windKph": 2.6,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T11:40:08.833+08:00",
+    "observedAt": "2026-11-12T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-12T11:50:09.211+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（长征胜利90周年）红军烈士后代广西兴安界首渡口祭英烈：湘江没有忘记你",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730711.shtml",
-        "publishedAt": "2026-11-12T11:34:53.000+08:00"
+        "title": "探访盐城鹤行书局：方寸书香点亮一座城",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730725.shtml",
+        "publishedAt": "2026-11-12T11:45:31.000+08:00"
       },
       {
-        "title": "早期像感冒、严重可致命！很多人分不清",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730716.shtml",
-        "publishedAt": "2026-11-12T11:32:31.000+08:00"
+        "title": "男子醉驾后伪造“送孕妻就医”记录 缘何被从重处罚→",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730727.shtml",
+        "publishedAt": "2026-11-12T11:45:09.000+08:00"
       },
       {
-        "title": "青春华章·我们的新长征丨走进百年南开中学，从一面镜子开始",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730636.shtml",
-        "publishedAt": "2026-11-12T11:32:29.000+08:00"
+        "title": "收紧管控边界 新修正《陕西省秦始皇陵保护条例》施行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730726.shtml",
+        "publishedAt": "2026-11-12T11:41:39.000+08:00"
       },
       {
-        "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
-        "publishedAt": "2026-11-12T11:24:44.000+08:00"
+        "title": "MCN机构如何织起“买号—洗稿—刷量”的黑灰产业链？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730723.shtml",
+        "publishedAt": "2026-11-12T11:39:33.000+08:00"
       },
       {
-        "title": "美国费城交响乐团2026年中国巡演海南首站启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730700.shtml",
-        "publishedAt": "2026-11-12T11:18:54.000+08:00"
+        "title": "外媒：马克龙迎接斯洛伐克总统 仪仗队队员当场晕倒",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730718.shtml",
+        "publishedAt": "2026-11-12T11:38:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T11:40:04.020+08:00",
+    "fetchedAt": "2026-11-12T11:50:03.529+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T11:40:07.572+08:00",
+      "fetchedAt": "2026-11-12T11:50:07.570+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T11:40:07.844+08:00",
+      "fetchedAt": "2026-11-12T11:50:07.932+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T11:40:07.853+08:00",
+      "fetchedAt": "2026-11-12T11:50:07.936+08:00",
       "error": null
     }
   }
