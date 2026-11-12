@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T16:00:09.897+08:00",
+  "updatedAt": "2026-11-12T16:10:09.463+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-12T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T16:00:09.897+08:00",
+    "fetchedAt": "2026-11-12T16:10:09.463+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "重庆綦江一包装制品公司发生火灾 现场无人员伤亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730838.shtml",
+        "publishedAt": "2026-11-12T16:03:21.000+08:00"
+      },
+      {
+        "title": "韩国外长赵显将访华 中国外交部介绍有关安排",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730841.shtml",
+        "publishedAt": "2026-11-12T16:02:53.000+08:00"
+      },
+      {
+        "title": "18起涉食品安全重大犯罪案件被挂牌督办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730848.shtml",
+        "publishedAt": "2026-11-12T16:01:55.000+08:00"
+      },
+      {
+        "title": "油吃多了不好，怎样吃才健康？真相在这儿！",
+        "url": "https://www.chinanews.com.cn/life/2026/11-12/10730845.shtml",
+        "publishedAt": "2026-11-12T15:59:05.000+08:00"
+      },
+      {
         "title": "商务部：中美经贸关系本质是互利共赢 合作是唯一正确道路",
         "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730839.shtml",
         "publishedAt": "2026-11-12T15:54:49.000+08:00"
-      },
-      {
-        "title": "商务部：中欧医疗器械专场贸易对接会达成合作意向超100项",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730837.shtml",
-        "publishedAt": "2026-11-12T15:52:13.000+08:00"
-      },
-      {
-        "title": "无人机高空坠箭猎杀野生动物 起底盗猎装备网购灰色链条",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-12/10730836.shtml",
-        "publishedAt": "2026-11-12T15:47:48.000+08:00"
-      },
-      {
-        "title": "商务部：第十届进博会的筹备工作已启动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730833.shtml",
-        "publishedAt": "2026-11-12T15:47:04.000+08:00"
-      },
-      {
-        "title": "比利时和智利将合并申办《海洋生物多样性协定》秘书处 中方：至少存在6个“不符合”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730835.shtml",
-        "publishedAt": "2026-11-12T15:47:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T16:00:03.414+08:00",
+    "fetchedAt": "2026-11-12T16:10:03.620+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T16:00:08.207+08:00",
+      "fetchedAt": "2026-11-12T16:10:07.873+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T16:00:08.524+08:00",
+      "fetchedAt": "2026-11-12T16:10:08.237+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T16:00:08.534+08:00",
+      "fetchedAt": "2026-11-12T16:10:08.246+08:00",
       "error": null
     }
   }
