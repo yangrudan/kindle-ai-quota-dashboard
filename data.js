@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T20:10:07.865+08:00",
+  "updatedAt": "2026-11-12T20:20:09.553+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
-    "feelsLikeC": 16.2,
-    "humidity": 91,
-    "windKph": 6.6,
+    "tempC": 14.9,
+    "feelsLikeC": 15,
+    "humidity": 87,
+    "windKph": 4.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T20:10:07.866+08:00",
+    "observedAt": "2026-11-12T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T20:20:09.553+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "国际友人在北京以诗词“会友”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10731071.shtml",
+        "publishedAt": "2026-11-12T20:01:40.000+08:00"
+      },
+      {
+        "title": "台湾各界人士在台北举办“两岸和平倡议大会”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731072.shtml",
+        "publishedAt": "2026-11-12T20:01:28.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）侨见APEC“中国年”：以侨为桥，联通亚太",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731070.shtml",
+        "publishedAt": "2026-11-12T20:00:36.000+08:00"
+      },
+      {
+        "title": "学习贯彻党的二十届五中全会精神中央宣讲团在中央组织部机关宣讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731069.shtml",
+        "publishedAt": "2026-11-12T19:55:40.000+08:00"
+      },
+      {
         "title": "李强主持国务院第二十二次专题学习",
         "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731067.shtml",
         "publishedAt": "2026-11-12T19:53:10.000+08:00"
-      },
-      {
-        "title": "中国经济圆桌会｜专家：抢抓数字乡村建设机遇推动发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731066.shtml",
-        "publishedAt": "2026-11-12T19:42:13.000+08:00"
-      },
-      {
-        "title": "中国经济圆桌会丨湖北东郊村：更多新农人把农田变成创业热土",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731065.shtml",
-        "publishedAt": "2026-11-12T19:41:13.000+08:00"
-      },
-      {
-        "title": "中国经济圆桌会｜中国一拖：推动国产农机“颜值”和“功力”双双提升",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731064.shtml",
-        "publishedAt": "2026-11-12T19:40:15.000+08:00"
-      },
-      {
-        "title": "中国经济圆桌会｜黑龙江绿色有机食品认定面积突破1亿亩",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731063.shtml",
-        "publishedAt": "2026-11-12T19:38:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T20:10:02.813+08:00",
+    "fetchedAt": "2026-11-12T20:20:02.530+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T20:10:06.225+08:00",
+      "fetchedAt": "2026-11-12T20:20:07.301+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T01:10:07.000+08:00"
+          "resetAt": "2026-11-13T01:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T20:10:06.490+08:00",
+      "fetchedAt": "2026-11-12T20:20:07.565+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T20:10:06.498+08:00",
+      "fetchedAt": "2026-11-12T20:20:07.574+08:00",
       "error": null
     }
   }
