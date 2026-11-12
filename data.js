@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T13:40:39.334+08:00",
+  "updatedAt": "2026-11-12T13:50:12.498+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.8,
-    "feelsLikeC": 18.7,
-    "humidity": 65,
+    "feelsLikeC": 18.8,
+    "humidity": 66,
     "windKph": 4.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T13:40:39.334+08:00",
+    "observedAt": "2026-11-12T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-12T13:50:12.498+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "累计报告数千麻疹病例 美国或失去“麻疹消除国”地位",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730747.shtml",
+        "publishedAt": "2026-11-12T13:43:00.000+08:00"
+      },
+      {
+        "title": "斯诺克冠中冠赛：中国球手吴宜泽、常冰玉出局",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10730742.shtml",
+        "publishedAt": "2026-11-12T13:38:42.000+08:00"
+      },
       {
         "title": "突发：美国纽约一建筑发生坍塌事故 已致至少2死17伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730741.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "李家超寄语香港下一代：传承孙中山先生矢志不渝振兴中华民族的精神",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730739.shtml",
         "publishedAt": "2026-11-12T13:07:54.000+08:00"
-      },
-      {
-        "title": "海外多地办展 回望孙中山与海外华侨的革命同行路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730738.shtml",
-        "publishedAt": "2026-11-12T13:06:38.000+08:00"
-      },
-      {
-        "title": "美国纽约一楼房倒塌致至少2死17伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730734.shtml",
-        "publishedAt": "2026-11-12T13:06:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T13:40:03.556+08:00",
+    "fetchedAt": "2026-11-12T13:50:06.542+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T13:40:37.770+08:00",
+      "fetchedAt": "2026-11-12T13:50:10.844+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T13:40:38.113+08:00",
+      "fetchedAt": "2026-11-12T13:50:11.193+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T13:40:38.122+08:00",
+      "fetchedAt": "2026-11-12T13:50:11.202+08:00",
       "error": null
     }
   }
