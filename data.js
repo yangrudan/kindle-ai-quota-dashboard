@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T07:20:09.324+08:00",
+  "updatedAt": "2026-11-13T07:30:38.487+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.8,
-    "feelsLikeC": 14.6,
-    "humidity": 98,
-    "windKph": 1.9,
+    "tempC": 14.1,
+    "feelsLikeC": 15,
+    "humidity": 97,
+    "windKph": 1.7,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-13T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-13T07:20:09.324+08:00",
+    "observedAt": "2026-11-13T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-13T07:30:38.487+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国华盛顿发生枪击事件 已致1死4伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731248.shtml",
+        "publishedAt": "2026-11-13T07:24:04.000+08:00"
+      },
       {
         "title": "11月13日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-13/10731247.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "国际油价12日上涨",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731244.shtml",
         "publishedAt": "2026-11-13T06:04:18.000+08:00"
-      },
-      {
-        "title": "古巴外长批评七国集团涉古声明回避美国对古封锁影响",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731243.shtml",
-        "publishedAt": "2026-11-13T06:02:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T07:20:03.522+08:00",
+    "fetchedAt": "2026-11-13T07:30:03.170+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T07:20:07.698+08:00",
+      "fetchedAt": "2026-11-13T07:30:37.167+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T12:20:09.000+08:00"
+          "resetAt": "2026-11-13T12:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T07:20:07.920+08:00",
+      "fetchedAt": "2026-11-13T07:30:37.463+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T07:20:07.928+08:00",
+      "fetchedAt": "2026-11-13T07:30:37.468+08:00",
       "error": null
     }
   }
