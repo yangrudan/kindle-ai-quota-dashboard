@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T14:00:38.569+08:00",
+  "updatedAt": "2026-11-12T14:10:09.557+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-12T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T14:00:38.569+08:00",
+    "fetchedAt": "2026-11-12T14:10:09.558+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《新加坡港口指南》正式出版",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730745.shtml",
-        "publishedAt": "2026-11-12T13:49:56.000+08:00"
+        "title": "密西西比州民主党人翻转参议院席位",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml",
+        "publishedAt": "2026-11-12T14:00:21.000+08:00"
       },
       {
-        "title": "葵花籽油期货及期权挂牌上市",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730744.shtml",
-        "publishedAt": "2026-11-12T13:49:12.000+08:00"
+        "title": "电影《云水谣》二十周年系列主题活动在福建南靖举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730751.shtml",
+        "publishedAt": "2026-11-12T13:55:28.000+08:00"
       },
       {
-        "title": "累计报告数千麻疹病例 美国或失去“麻疹消除国”地位",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730747.shtml",
-        "publishedAt": "2026-11-12T13:43:00.000+08:00"
+        "title": "中国证监会：汇聚各方合力 全力维护市场平稳运行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730755.shtml",
+        "publishedAt": "2026-11-12T13:52:44.000+08:00"
       },
       {
-        "title": "斯诺克冠中冠赛：中国球手吴宜泽、常冰玉出局",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10730742.shtml",
-        "publishedAt": "2026-11-12T13:38:42.000+08:00"
+        "title": "纪念孙中山先生诞辰160周年大会在北京举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210621.shtml",
+        "publishedAt": "2026-11-12T13:52:42.000+08:00"
       },
       {
-        "title": "突发：美国纽约一建筑发生坍塌事故 已致至少2死17伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730741.shtml",
-        "publishedAt": "2026-11-12T13:29:45.000+08:00"
+        "title": "纪念孙中山先生诞辰160周年大会在北京举行 习近平发表重要讲话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730743.shtml",
+        "publishedAt": "2026-11-12T13:52:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T14:00:03.687+08:00",
+    "fetchedAt": "2026-11-12T14:10:03.455+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T14:00:37.320+08:00",
+      "fetchedAt": "2026-11-12T14:10:08.060+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T14:00:37.428+08:00",
+      "fetchedAt": "2026-11-12T14:10:08.095+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T14:00:37.435+08:00",
+      "fetchedAt": "2026-11-12T14:10:08.105+08:00",
       "error": null
     }
   }
