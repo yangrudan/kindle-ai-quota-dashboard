@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T12:00:09.175+08:00",
+  "updatedAt": "2026-11-12T12:10:40.941+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-12T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T12:00:09.175+08:00",
+    "fetchedAt": "2026-11-12T12:10:40.942+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "去不去养老院，老人和子女谁说了算",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730731.shtml",
+        "publishedAt": "2026-11-12T12:01:40.000+08:00"
+      },
+      {
+        "title": "第二艘国产大型邮轮完成首个试运营航次 抵达广州",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730720.shtml",
+        "publishedAt": "2026-11-12T11:57:34.000+08:00"
+      },
       {
         "title": "建设银行举办2026年对公客户经理技能竞赛",
         "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730713.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“彩电大王”倪润峰逝世 享年82岁",
         "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730724.shtml",
         "publishedAt": "2026-11-12T11:52:48.000+08:00"
-      },
-      {
-        "title": "厄尔尼诺致菲律宾农业损失近100亿比索 玉米和水稻生产受冲击",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730705.shtml",
-        "publishedAt": "2026-11-12T11:52:18.000+08:00"
-      },
-      {
-        "title": "巴西前10月电动化轻型汽车销量同比增125.7%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730702.shtml",
-        "publishedAt": "2026-11-12T11:51:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T12:00:03.264+08:00",
+    "fetchedAt": "2026-11-12T12:10:05.693+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T12:00:07.874+08:00",
+      "fetchedAt": "2026-11-12T12:10:39.565+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T12:00:08.176+08:00",
+      "fetchedAt": "2026-11-12T12:10:39.923+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T12:00:08.186+08:00",
+      "fetchedAt": "2026-11-12T12:10:39.933+08:00",
       "error": null
     }
   }
