@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T17:10:08.636+08:00",
+  "updatedAt": "2026-11-12T17:20:09.217+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 18.4,
-    "feelsLikeC": 19.2,
-    "humidity": 78,
-    "windKph": 4.3,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 18.1,
+    "feelsLikeC": 19,
+    "humidity": 80,
+    "windKph": 4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-12T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T17:10:08.636+08:00",
+    "observedAt": "2026-11-12T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T17:20:09.217+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本教育工作者坚守和平 反对修宪",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730930.shtml",
-        "publishedAt": "2026-11-12T17:01:38.000+08:00"
+        "title": "南京举行第43次集体江葬活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730877.shtml",
+        "publishedAt": "2026-11-12T17:18:45.000+08:00"
       },
       {
-        "title": "近80个汽车品牌在河南展出 新能源汽车占比超六成",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730897.shtml",
-        "publishedAt": "2026-11-12T17:01:20.000+08:00"
+        "title": "“诗颂中俄·友谊之声”2026中俄学生朗诵大赛举办",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-12/10730879.shtml",
+        "publishedAt": "2026-11-12T17:18:13.000+08:00"
       },
       {
-        "title": "向价值链高端攀爬——从深圳两大商贸集散地看新质生产力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730927.shtml",
-        "publishedAt": "2026-11-12T16:59:32.000+08:00"
+        "title": "从田间唱到“榜单” 甘肃临夏“花儿”赓续乡音",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730882.shtml",
+        "publishedAt": "2026-11-12T17:17:47.000+08:00"
       },
       {
-        "title": "中国测绘地信装备展落地长沙 空天地深技术同台亮相",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730885.shtml",
-        "publishedAt": "2026-11-12T16:57:42.000+08:00"
+        "title": "湘疆2万余名师生同上思政课 让石榴籽跨越万里紧紧相拥",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-12/10730884.shtml",
+        "publishedAt": "2026-11-12T17:17:07.000+08:00"
       },
       {
-        "title": "一条路 如何串起亚太供应链",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730926.shtml",
-        "publishedAt": "2026-11-12T16:56:42.000+08:00"
+        "title": "山西推出秋假研学产品 邀全国中小学生走进“行走的华夏课堂”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730881.shtml",
+        "publishedAt": "2026-11-12T17:16:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T17:10:03.111+08:00",
+    "fetchedAt": "2026-11-12T17:20:03.961+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T17:10:07.328+08:00",
+      "fetchedAt": "2026-11-12T17:20:07.704+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
+          "usedPct": 18,
           "resetAt": "2026-11-12T19:30:13.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 70,
+          "usedPct": 71,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T17:10:07.655+08:00",
+      "fetchedAt": "2026-11-12T17:20:08.142+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T17:10:07.664+08:00",
+      "fetchedAt": "2026-11-12T17:20:08.154+08:00",
       "error": null
     }
   }
