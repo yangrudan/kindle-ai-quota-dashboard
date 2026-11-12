@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T17:30:09.312+08:00",
+  "updatedAt": "2026-11-12T17:40:09.008+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-12T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T17:30:09.312+08:00",
+    "fetchedAt": "2026-11-12T17:40:09.008+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“孙中山与统一战线”学术研讨会在上海大学举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730873.shtml",
-        "publishedAt": "2026-11-12T17:24:46.000+08:00"
+        "title": "中国三部门挂牌督办18起涉食品安全重大犯罪案件",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730935.shtml",
+        "publishedAt": "2026-11-12T17:34:24.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）一码溯源黑土粮：磐石千塘稻凭生境数字化走向国际",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730872.shtml",
-        "publishedAt": "2026-11-12T17:24:12.000+08:00"
+        "title": "企业出海“走出去”专题论坛在沪举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730946.shtml",
+        "publishedAt": "2026-11-12T17:33:08.000+08:00"
       },
       {
-        "title": "列车装上“AI大脑” 新型地铁智慧列车在山东青岛下线",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730875.shtml",
-        "publishedAt": "2026-11-12T17:22:28.000+08:00"
+        "title": "新雪季长白山升级雪雕版云顶天宫 增设“青铜门”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730945.shtml",
+        "publishedAt": "2026-11-12T17:33:06.000+08:00"
       },
       {
-        "title": "上海证券交易所理事长邱勇：支持更多领域优质“硬科技”企业在科创板上市",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730868.shtml",
-        "publishedAt": "2026-11-12T17:21:58.000+08:00"
+        "title": "宁夏发布“十五五”林草规划 到2030年完成生态修复400万亩以上",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730943.shtml",
+        "publishedAt": "2026-11-12T17:32:56.000+08:00"
       },
       {
-        "title": "纪念孙中山先生诞辰160周年大会在京举行",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210644.shtml",
-        "publishedAt": "2026-11-12T17:21:50.000+08:00"
+        "title": "宁夏黄河“几字弯”攻坚战完成任务84.9% 腾格里防风阻沙带全线贯通",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730942.shtml",
+        "publishedAt": "2026-11-12T17:32:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T17:30:03.713+08:00",
+    "fetchedAt": "2026-11-12T17:40:03.468+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T17:30:07.729+08:00",
+      "fetchedAt": "2026-11-12T17:40:07.644+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 24,
+          "usedPct": 29,
           "resetAt": "2026-11-12T19:30:13.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 72,
+          "usedPct": 73,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T17:30:08.106+08:00",
+      "fetchedAt": "2026-11-12T17:40:07.963+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T17:30:08.115+08:00",
+      "fetchedAt": "2026-11-12T17:40:07.972+08:00",
       "error": null
     }
   }
