@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T21:10:08.519+08:00",
+  "updatedAt": "2026-11-12T21:20:09.827+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.9,
+    "tempC": 14.8,
     "feelsLikeC": 15.2,
     "humidity": 87,
-    "windKph": 3.5,
+    "windKph": 3.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T21:10:08.520+08:00",
+    "observedAt": "2026-11-12T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T21:20:09.827+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "奔驰CEO称在中国车要大得惊人！难道造车的尽头只能“以大为优”？",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-12/10731147.shtml",
-        "publishedAt": "2026-11-12T21:00:31.000+08:00"
+        "title": "多家机构在三亚共建海洋生物制造业创新中心",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731154.shtml",
+        "publishedAt": "2026-11-12T21:10:34.000+08:00"
       },
       {
-        "title": "港澳各界人士：继承发扬中山精神，为民族复兴贡献力量",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731136.shtml",
-        "publishedAt": "2026-11-12T20:58:09.000+08:00"
+        "title": "金积750千伏输变电站正式投运 畅通宁夏东部新能源外送通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731151.shtml",
+        "publishedAt": "2026-11-12T21:09:38.000+08:00"
       },
       {
-        "title": "孙中山诞辰160周年 江苏省暨南京市各界人士拜谒中山陵",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731134.shtml",
-        "publishedAt": "2026-11-12T20:55:03.000+08:00"
+        "title": "意大利12日再有超1800所学校收到炸弹威胁邮件",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731158.shtml",
+        "publishedAt": "2026-11-12T21:09:14.000+08:00"
       },
       {
-        "title": "“duanju”爆火背后的中国短剧产业跃迁",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731139.shtml",
-        "publishedAt": "2026-11-12T20:52:43.000+08:00"
+        "title": "“外婆家的美术馆”影像展在浙江桐乡开展 留存江南小镇变迁史",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10731152.shtml",
+        "publishedAt": "2026-11-12T21:08:46.000+08:00"
       },
       {
-        "title": "（粤港澳大湾区）横琴口岸年度车流首破400万辆次 澳门单牌车成主力军",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731133.shtml",
-        "publishedAt": "2026-11-12T20:48:49.000+08:00"
+        "title": "谁说西北只有黄沙？宁夏用天蓝地绿水美实力“出圈”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731157.shtml",
+        "publishedAt": "2026-11-12T21:07:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T21:10:03.248+08:00",
+    "fetchedAt": "2026-11-12T21:20:04.474+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T21:10:07.221+08:00",
+      "fetchedAt": "2026-11-12T21:20:08.493+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T02:10:08.000+08:00"
+          "resetAt": "2026-11-13T02:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T21:10:07.568+08:00",
+      "fetchedAt": "2026-11-12T21:20:08.800+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T21:10:07.572+08:00",
+      "fetchedAt": "2026-11-12T21:20:08.809+08:00",
       "error": null
     }
   }
