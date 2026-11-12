@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T21:20:09.827+08:00",
+  "updatedAt": "2026-11-12T21:30:11.061+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.8,
-    "feelsLikeC": 15.2,
-    "humidity": 87,
-    "windKph": 3.1,
+    "tempC": 14.7,
+    "feelsLikeC": 15.1,
+    "humidity": 88,
+    "windKph": 2.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T21:20:09.827+08:00",
+    "observedAt": "2026-11-12T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-12T21:30:11.061+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "多家机构在三亚共建海洋生物制造业创新中心",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731154.shtml",
-        "publishedAt": "2026-11-12T21:10:34.000+08:00"
+        "title": "青海省2026年秋季迁徙水鸟监测数量较去年增加25万余只",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731163.shtml",
+        "publishedAt": "2026-11-12T21:28:43.000+08:00"
       },
       {
-        "title": "金积750千伏输变电站正式投运 畅通宁夏东部新能源外送通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731151.shtml",
-        "publishedAt": "2026-11-12T21:09:38.000+08:00"
+        "title": "新交所集团CEO罗文才：中国市场蕴含更多机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731161.shtml",
+        "publishedAt": "2026-11-12T21:28:41.000+08:00"
       },
       {
-        "title": "意大利12日再有超1800所学校收到炸弹威胁邮件",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731158.shtml",
-        "publishedAt": "2026-11-12T21:09:14.000+08:00"
+        "title": "“双碳”绿色技术赋能中小企业高质量发展交流会在济南举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731148.shtml",
+        "publishedAt": "2026-11-12T21:27:25.000+08:00"
       },
       {
-        "title": "“外婆家的美术馆”影像展在浙江桐乡开展 留存江南小镇变迁史",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10731152.shtml",
-        "publishedAt": "2026-11-12T21:08:46.000+08:00"
+        "title": "“LED灯会让人变胖”冲上热搜 这些人群要注意",
+        "url": "https://www.chinanews.com.cn/life/2026/11-12/10731174.shtml",
+        "publishedAt": "2026-11-12T21:27:03.000+08:00"
       },
       {
-        "title": "谁说西北只有黄沙？宁夏用天蓝地绿水美实力“出圈”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731157.shtml",
-        "publishedAt": "2026-11-12T21:07:54.000+08:00"
+        "title": "中国铁路工程首次应用“格构墩”结构",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731164.shtml",
+        "publishedAt": "2026-11-12T21:26:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T21:20:04.474+08:00",
+    "fetchedAt": "2026-11-12T21:30:05.209+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T21:20:08.493+08:00",
+      "fetchedAt": "2026-11-12T21:30:09.760+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T02:20:09.000+08:00"
+          "resetAt": "2026-11-13T02:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T21:20:08.800+08:00",
+      "fetchedAt": "2026-11-12T21:30:10.130+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T21:20:08.809+08:00",
+      "fetchedAt": "2026-11-12T21:30:10.137+08:00",
       "error": null
     }
   }
