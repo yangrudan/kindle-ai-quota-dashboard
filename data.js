@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T04:40:07.940+08:00",
+  "updatedAt": "2026-11-13T04:50:08.862+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 13.7,
     "feelsLikeC": 14.6,
     "humidity": 98,
-    "windKph": 1.4,
-    "windDir": "西南风",
+    "windKph": 1.5,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T04:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T04:40:07.940+08:00",
+    "observedAt": "2026-11-13T04:45:00.000+08:00",
+    "fetchedAt": "2026-11-13T04:50:08.862+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "英国三季度经济延续复苏态势",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731238.shtml",
+        "publishedAt": "2026-11-13T04:46:59.000+08:00"
+      },
+      {
+        "title": "泰国借世界园艺博览会推旅游新线路",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731237.shtml",
+        "publishedAt": "2026-11-13T04:46:19.000+08:00"
+      },
+      {
+        "title": "普京会见美特使：提议康斯坦丁诺夫卡人道行动",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731236.shtml",
+        "publishedAt": "2026-11-13T04:45:37.000+08:00"
+      },
+      {
+        "title": "英伟达宣布黄仁勋辞职 将遴选新CEO",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731235.shtml",
+        "publishedAt": "2026-11-13T04:44:39.000+08:00"
+      },
+      {
         "title": "马斯克：招揽黄仁勋将是我的荣幸",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731234.shtml",
         "publishedAt": "2026-11-13T00:28:13.000+08:00"
-      },
-      {
-        "title": "特朗普：建议库克接替黄仁勋担任英伟达CEO",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731233.shtml",
-        "publishedAt": "2026-11-13T00:26:21.000+08:00"
-      },
-      {
-        "title": "黄仁勋辞职后英伟达股价震荡 分析称做空该公司的投资者获利丰厚",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731232.shtml",
-        "publishedAt": "2026-11-12T23:37:48.000+08:00"
-      },
-      {
-        "title": "中新社“新闻会客厅”在土耳其迎来首批国际客人",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731184.shtml",
-        "publishedAt": "2026-11-12T23:18:37.000+08:00"
-      },
-      {
-        "title": "英伟达股价开盘暴跌13% 或创2025年以来最大单日跌幅",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731230.shtml",
-        "publishedAt": "2026-11-12T22:51:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T04:40:02.776+08:00",
+    "fetchedAt": "2026-11-13T04:50:03.664+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T04:40:06.607+08:00",
+      "fetchedAt": "2026-11-13T04:50:07.617+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T09:40:07.000+08:00"
+          "resetAt": "2026-11-13T09:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T04:40:06.920+08:00",
+      "fetchedAt": "2026-11-13T04:50:07.948+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T04:40:06.928+08:00",
+      "fetchedAt": "2026-11-13T04:50:07.951+08:00",
       "error": null
     }
   }
