@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T13:30:08.839+08:00",
+  "updatedAt": "2026-11-12T13:40:39.334+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-12T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T13:30:08.839+08:00",
+    "fetchedAt": "2026-11-12T13:40:39.334+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "突发：美国纽约一建筑发生坍塌事故 已致至少2死17伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730741.shtml",
+        "publishedAt": "2026-11-12T13:29:45.000+08:00"
+      },
       {
         "title": "中新健康｜AI十年内攻克癌症？Anthropic CEO预测引质疑",
         "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730740.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "美国纽约一楼房倒塌致至少2死17伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730734.shtml",
         "publishedAt": "2026-11-12T13:06:28.000+08:00"
-      },
-      {
-        "title": "尹艳林：中国经济增长动力结构正发生积极变化",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730737.shtml",
-        "publishedAt": "2026-11-12T12:50:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T13:30:03.721+08:00",
+    "fetchedAt": "2026-11-12T13:40:03.556+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T13:30:07.588+08:00",
+      "fetchedAt": "2026-11-12T13:40:37.770+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T13:30:07.907+08:00",
+      "fetchedAt": "2026-11-12T13:40:38.113+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T13:30:07.910+08:00",
+      "fetchedAt": "2026-11-12T13:40:38.122+08:00",
       "error": null
     }
   }
