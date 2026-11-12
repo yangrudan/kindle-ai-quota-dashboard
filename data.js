@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T14:20:11.959+08:00",
+  "updatedAt": "2026-11-12T14:30:09.381+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 18.7,
+    "tempC": 18.7,
+    "feelsLikeC": 18.6,
     "humidity": 66,
-    "windKph": 5.2,
+    "windKph": 5.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T14:20:11.959+08:00",
+    "observedAt": "2026-11-12T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-12T14:30:09.381+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "冯忠华同志任职",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730771.shtml",
-        "publishedAt": "2026-11-12T14:14:09.000+08:00"
+        "title": "王建民：新疆非遗在各民族相互作用、相互融合中生长生成",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730756.shtml",
+        "publishedAt": "2026-11-12T14:24:44.000+08:00"
       },
       {
-        "title": "中国证监会：中国发展具有长期确定性 投资中国具备坚实基础",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730763.shtml",
-        "publishedAt": "2026-11-12T14:11:59.000+08:00"
+        "title": "航标筑就大湾区航运海上通途",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730758.shtml",
+        "publishedAt": "2026-11-12T14:24:36.000+08:00"
       },
       {
-        "title": "冰雪季开启 收好这份户外滑雪安全指南",
-        "url": "https://www.chinanews.com.cn/life/2026/11-12/10730766.shtml",
-        "publishedAt": "2026-11-12T14:08:29.000+08:00"
+        "title": "“消费入座”属商家自主安排还是变相设置最低消费？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730784.shtml",
+        "publishedAt": "2026-11-12T14:23:50.000+08:00"
       },
       {
-        "title": "密西西比州民主党人翻转参议院席位",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml",
-        "publishedAt": "2026-11-12T14:00:21.000+08:00"
+        "title": "近600家博物馆齐聚海口“博博会” 海量文创集中亮相",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730776.shtml",
+        "publishedAt": "2026-11-12T14:21:10.000+08:00"
       },
       {
-        "title": "电影《云水谣》二十周年系列主题活动在福建南靖举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730751.shtml",
-        "publishedAt": "2026-11-12T13:55:28.000+08:00"
+        "title": "一羊场内有身份不明残障务工人员？山西长治通报",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730774.shtml",
+        "publishedAt": "2026-11-12T14:21:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T14:20:03.909+08:00",
+    "fetchedAt": "2026-11-12T14:30:04.137+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T14:20:08.388+08:00",
+      "fetchedAt": "2026-11-12T14:30:07.951+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T19:20:09.000+08:00"
+          "resetAt": "2026-11-12T19:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T14:20:08.686+08:00",
+      "fetchedAt": "2026-11-12T14:30:08.390+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T14:20:08.691+08:00",
+      "fetchedAt": "2026-11-12T14:30:08.398+08:00",
       "error": null
     }
   }
