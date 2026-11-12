@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T10:10:09.945+08:00",
+  "updatedAt": "2026-11-12T10:20:09.366+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.3,
-    "feelsLikeC": 16.6,
-    "humidity": 74,
+    "tempC": 16.6,
+    "feelsLikeC": 16.9,
+    "humidity": 73,
     "windKph": 0.9,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-12T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T10:10:09.945+08:00",
+    "observedAt": "2026-11-12T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T10:20:09.366+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖南检察机关依法对韩嵩涉嫌受贿案提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730638.shtml",
-        "publishedAt": "2026-11-12T10:01:28.000+08:00"
+        "title": "巴黎和平论坛“解读中国的全球角色和影响力”专题研讨会举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730598.shtml",
+        "publishedAt": "2026-11-12T10:06:50.000+08:00"
       },
       {
-        "title": "内蒙古乌海一地“出现刺鼻气味” 当地通报：系应急演练催泪弹产生",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730628.shtml",
-        "publishedAt": "2026-11-12T09:59:12.000+08:00"
+        "title": "巴拿马外长回应美防长：运河由巴拿马掌控",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730613.shtml",
+        "publishedAt": "2026-11-12T10:06:06.000+08:00"
       },
       {
-        "title": "“不只盯着干，大家还一起商量着办”（贯彻五中全会精神一线见闻）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730634.shtml",
-        "publishedAt": "2026-11-12T09:57:36.000+08:00"
+        "title": "荷兰禽流感疫情蔓延 近8万只家禽被扑杀",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730626.shtml",
+        "publishedAt": "2026-11-12T10:05:26.000+08:00"
       },
       {
-        "title": "最近高发！这种病毒发作时剧痛难忍",
-        "url": "https://www.chinanews.com.cn/life/2026/11-12/10730633.shtml",
-        "publishedAt": "2026-11-12T09:55:51.000+08:00"
+        "title": "在无名战士墓前说笑 美防长赫格塞思等人被士兵大声告诫",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730627.shtml",
+        "publishedAt": "2026-11-12T10:04:46.000+08:00"
       },
       {
-        "title": "透过进博之窗，世界深切感知“中国机遇2.0”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730632.shtml",
-        "publishedAt": "2026-11-12T09:54:11.000+08:00"
+        "title": "全国冬小麦播种过八成 秋冬种进展顺利",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730641.shtml",
+        "publishedAt": "2026-11-12T10:03:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T10:10:03.325+08:00",
+    "fetchedAt": "2026-11-12T10:20:04.249+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T10:10:08.648+08:00",
+      "fetchedAt": "2026-11-12T10:20:07.803+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T10:10:08.925+08:00",
+      "fetchedAt": "2026-11-12T10:20:08.091+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T10:10:08.933+08:00",
+      "fetchedAt": "2026-11-12T10:20:08.101+08:00",
       "error": null
     }
   }
