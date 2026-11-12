@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T18:00:38.913+08:00",
+  "updatedAt": "2026-11-12T18:10:10.569+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-12T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T18:00:38.914+08:00",
+    "fetchedAt": "2026-11-12T18:10:10.569+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国商务部：中美正就贸易、投资等问题保持密切沟通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730989.shtml",
+        "publishedAt": "2026-11-12T18:00:34.000+08:00"
+      },
+      {
+        "title": "1元租金的创业空间里 藏着湾区青年的创业答案",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730992.shtml",
+        "publishedAt": "2026-11-12T17:58:46.000+08:00"
+      },
       {
         "title": "铁路部门通报“一旅客过安检喝白酒”：信息不实，系喝水用于拍视频",
         "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730985.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "纪念孙中山先生诞辰160周年 晋谒衣冠冢仪式在北京举行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730979.shtml",
         "publishedAt": "2026-11-12T17:51:55.000+08:00"
-      },
-      {
-        "title": "河南前9个月培育钻石出口量1580万克拉 同比增116%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730978.shtml",
-        "publishedAt": "2026-11-12T17:49:35.000+08:00"
-      },
-      {
-        "title": "全国总工会2026年重点支持建设200家工匠学院",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730958.shtml",
-        "publishedAt": "2026-11-12T17:45:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T18:00:03.078+08:00",
+    "fetchedAt": "2026-11-12T18:10:03.134+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T18:00:37.096+08:00",
+      "fetchedAt": "2026-11-12T18:10:08.084+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T18:00:37.351+08:00",
+      "fetchedAt": "2026-11-12T18:10:08.465+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T18:00:37.360+08:00",
+      "fetchedAt": "2026-11-12T18:10:08.469+08:00",
       "error": null
     }
   }
