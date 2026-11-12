@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T12:50:09.948+08:00",
+  "updatedAt": "2026-11-12T13:00:08.183+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.9,
-    "feelsLikeC": 18.8,
-    "humidity": 64,
-    "windKph": 4.3,
+    "tempC": 18.7,
+    "feelsLikeC": 18.7,
+    "humidity": 65,
+    "windKph": 4.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T12:50:09.948+08:00",
+    "observedAt": "2026-11-12T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T13:00:08.183+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "尹艳林：中国经济增长动力结构正发生积极变化",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730737.shtml",
+        "publishedAt": "2026-11-12T12:50:31.000+08:00"
+      },
+      {
+        "title": "中国在风电领域实现国际标准新突破",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730736.shtml",
+        "publishedAt": "2026-11-12T12:49:29.000+08:00"
+      },
       {
         "title": "中外团队研究证实：肥胖诊断不能只看体重",
         "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730735.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730732.shtml",
         "publishedAt": "2026-11-12T12:11:57.000+08:00"
-      },
-      {
-        "title": "华润集团原副总经理韩嵩被公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730730.shtml",
-        "publishedAt": "2026-11-12T12:10:53.000+08:00"
-      },
-      {
-        "title": "去不去养老院，老人和子女谁说了算",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730731.shtml",
-        "publishedAt": "2026-11-12T12:01:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T12:50:04.267+08:00",
+    "fetchedAt": "2026-11-12T13:00:03.181+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T12:50:08.211+08:00",
+      "fetchedAt": "2026-11-12T13:00:06.826+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T12:50:08.534+08:00",
+      "fetchedAt": "2026-11-12T13:00:07.100+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T12:50:08.539+08:00",
+      "fetchedAt": "2026-11-12T13:00:07.109+08:00",
       "error": null
     }
   }
