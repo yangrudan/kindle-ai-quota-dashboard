@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T17:50:08.372+08:00",
+  "updatedAt": "2026-11-12T18:00:38.913+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.7,
-    "feelsLikeC": 18.8,
-    "humidity": 83,
-    "windKph": 3.3,
-    "windDir": "东风",
+    "tempC": 17.5,
+    "feelsLikeC": 18.7,
+    "humidity": 85,
+    "windKph": 3.2,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T17:50:08.372+08:00",
+    "observedAt": "2026-11-12T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T18:00:38.914+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "六家国际画廊携60余位大师级艺术家经典作品亮相上海",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730953.shtml",
-        "publishedAt": "2026-11-12T17:45:13.000+08:00"
+        "title": "铁路部门通报“一旅客过安检喝白酒”：信息不实，系喝水用于拍视频",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730985.shtml",
+        "publishedAt": "2026-11-12T17:54:29.000+08:00"
       },
       {
-        "title": "宁夏出台空气质量持续改善行动方案 “十五五”聚焦PM2.5标本兼治",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730963.shtml",
-        "publishedAt": "2026-11-12T17:44:29.000+08:00"
+        "title": "欧亚企业重庆行产业对接会在渝举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730986.shtml",
+        "publishedAt": "2026-11-12T17:52:31.000+08:00"
       },
       {
-        "title": "宁夏“十五五”从三方面发力 筑牢水旱灾害防御安全屏障",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730961.shtml",
-        "publishedAt": "2026-11-12T17:44:25.000+08:00"
+        "title": "纪念孙中山先生诞辰160周年 晋谒衣冠冢仪式在北京举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730979.shtml",
+        "publishedAt": "2026-11-12T17:51:55.000+08:00"
       },
       {
-        "title": "河北唐山万顺书场：一块醒木，百年书场",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730960.shtml",
-        "publishedAt": "2026-11-12T17:44:21.000+08:00"
+        "title": "河南前9个月培育钻石出口量1580万克拉 同比增116%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730978.shtml",
+        "publishedAt": "2026-11-12T17:49:35.000+08:00"
       },
       {
-        "title": "以词元驱动 重庆促进数据产业高质量发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730968.shtml",
-        "publishedAt": "2026-11-12T17:43:33.000+08:00"
+        "title": "全国总工会2026年重点支持建设200家工匠学院",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730958.shtml",
+        "publishedAt": "2026-11-12T17:45:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T17:50:03.485+08:00",
+    "fetchedAt": "2026-11-12T18:00:03.078+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T17:50:07.234+08:00",
+      "fetchedAt": "2026-11-12T18:00:37.096+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T17:50:07.407+08:00",
+      "fetchedAt": "2026-11-12T18:00:37.351+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T17:50:07.414+08:00",
+      "fetchedAt": "2026-11-12T18:00:37.360+08:00",
       "error": null
     }
   }
