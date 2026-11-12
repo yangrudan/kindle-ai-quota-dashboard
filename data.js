@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T07:30:38.487+08:00",
+  "updatedAt": "2026-11-13T07:40:38.791+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-13T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T07:30:38.487+08:00",
+    "fetchedAt": "2026-11-13T07:40:38.792+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "净水器何时换滤芯 真由商家说了算？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731252.shtml",
+        "publishedAt": "2026-11-13T07:35:02.000+08:00"
+      },
+      {
+        "title": "胡塞武装宣布对沙特发起四次军事行动，打击石油设施及空军基地",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731249.shtml",
+        "publishedAt": "2026-11-13T07:27:04.000+08:00"
+      },
       {
         "title": "美国华盛顿发生枪击事件 已致1死4伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731248.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "特朗普改口：美国不需要与伊朗达成协议",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731246.shtml",
         "publishedAt": "2026-11-13T06:52:42.000+08:00"
-      },
-      {
-        "title": "普京：不接受外国军队在乌克兰境内驻扎",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731245.shtml",
-        "publishedAt": "2026-11-13T06:48:42.000+08:00"
-      },
-      {
-        "title": "国际油价12日上涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731244.shtml",
-        "publishedAt": "2026-11-13T06:04:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T07:30:03.170+08:00",
+    "fetchedAt": "2026-11-13T07:40:03.755+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T07:30:37.167+08:00",
+      "fetchedAt": "2026-11-13T07:40:37.411+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T12:30:38.000+08:00"
+          "resetAt": "2026-11-13T12:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T07:30:37.463+08:00",
+      "fetchedAt": "2026-11-13T07:40:37.756+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T07:30:37.468+08:00",
+      "fetchedAt": "2026-11-13T07:40:37.765+08:00",
       "error": null
     }
   }
