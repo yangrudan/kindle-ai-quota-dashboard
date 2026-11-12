@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T19:40:08.838+08:00",
+  "updatedAt": "2026-11-12T19:50:10.565+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.2,
-    "feelsLikeC": 16.8,
-    "humidity": 90,
-    "windKph": 5.8,
+    "tempC": 16,
+    "feelsLikeC": 16.5,
+    "humidity": 91,
+    "windKph": 6.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T19:40:08.838+08:00",
+    "observedAt": "2026-11-12T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-12T19:50:10.566+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "直播：民歌大观“我就是‘民’星”特别节目",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10731060.shtml",
-        "publishedAt": "2026-11-12T19:31:27.000+08:00"
+        "title": "中国经济圆桌会｜专家：抢抓数字乡村建设机遇推动发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731066.shtml",
+        "publishedAt": "2026-11-12T19:42:13.000+08:00"
       },
       {
-        "title": "内蒙古自贸试验区获批七个月，发展有何亮点？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731059.shtml",
-        "publishedAt": "2026-11-12T19:28:43.000+08:00"
+        "title": "中国经济圆桌会丨湖北东郊村：更多新农人把农田变成创业热土",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731065.shtml",
+        "publishedAt": "2026-11-12T19:41:13.000+08:00"
       },
       {
-        "title": "山西省职业技能大赛开赛 2302名选手同台竞技",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731054.shtml",
-        "publishedAt": "2026-11-12T19:28:04.000+08:00"
+        "title": "中国经济圆桌会｜中国一拖：推动国产农机“颜值”和“功力”双双提升",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731064.shtml",
+        "publishedAt": "2026-11-12T19:40:15.000+08:00"
       },
       {
-        "title": "福建政和大溪盆地持续发掘侏罗纪化石",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731053.shtml",
-        "publishedAt": "2026-11-12T19:26:42.000+08:00"
+        "title": "中国经济圆桌会｜黑龙江绿色有机食品认定面积突破1亿亩",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731063.shtml",
+        "publishedAt": "2026-11-12T19:38:51.000+08:00"
       },
       {
-        "title": "国家药监局批准芮弗西拜单抗注射液（皮下注射）上市",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10731058.shtml",
-        "publishedAt": "2026-11-12T19:26:06.000+08:00"
+        "title": "当秋招遇上AI面试 高校学生该如何避免被算法误判？",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731062.shtml",
+        "publishedAt": "2026-11-12T19:36:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T19:40:03.730+08:00",
+    "fetchedAt": "2026-11-12T19:50:05.162+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T19:40:07.492+08:00",
+      "fetchedAt": "2026-11-12T19:50:08.769+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T00:40:08.000+08:00"
+          "resetAt": "2026-11-13T00:50:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T19:40:07.885+08:00",
+      "fetchedAt": "2026-11-12T19:50:09.078+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T19:40:07.894+08:00",
+      "fetchedAt": "2026-11-12T19:50:09.082+08:00",
       "error": null
     }
   }
