@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T08:10:09.139+08:00",
+  "updatedAt": "2026-11-12T08:20:08.294+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.2,
-    "feelsLikeC": 13.1,
-    "humidity": 89,
-    "windKph": 3.6,
+    "tempC": 13.7,
+    "feelsLikeC": 13.7,
+    "humidity": 87,
+    "windKph": 3.3,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-12T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T08:10:09.139+08:00",
+    "observedAt": "2026-11-12T08:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T08:20:08.294+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊朗高官宣布：目前波斯湾内没有美军存在",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730595.shtml",
+        "publishedAt": "2026-11-12T08:07:52.000+08:00"
+      },
+      {
+        "title": "习言道｜激励和团结海内外全体中华儿女为实现中华民族伟大复兴而共同奋斗",
+        "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-12/news1074633.shtml",
+        "publishedAt": "2026-11-12T08:05:50.000+08:00"
+      },
       {
         "title": "一离职员工被索赔二十余万元 工作交接义务边界何在",
         "url": "https://www.chinanews.com.cn/fz/2026/11-12/10730590.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "基金会，如何赢得更多公信力？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730588.shtml",
         "publishedAt": "2026-11-12T07:42:30.000+08:00"
-      },
-      {
-        "title": "王毅同美国国务卿鲁比奥通电话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730581.shtml",
-        "publishedAt": "2026-11-12T07:39:22.000+08:00"
-      },
-      {
-        "title": "百亿级市场火爆！“超六成访客是老外” 有人当场下单",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730587.shtml",
-        "publishedAt": "2026-11-12T07:36:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T08:10:03.925+08:00",
+    "fetchedAt": "2026-11-12T08:20:03.012+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T08:10:07.673+08:00",
+      "fetchedAt": "2026-11-12T08:20:06.919+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T13:10:09.000+08:00"
+          "resetAt": "2026-11-12T13:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T08:10:08.006+08:00",
+      "fetchedAt": "2026-11-12T08:20:07.264+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T08:10:08.015+08:00",
+      "fetchedAt": "2026-11-12T08:20:07.274+08:00",
       "error": null
     }
   }
