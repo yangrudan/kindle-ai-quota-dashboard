@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T11:10:09.957+08:00",
+  "updatedAt": "2026-11-12T11:20:08.126+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
-    "feelsLikeC": 18.2,
-    "humidity": 68,
-    "windKph": 0.7,
-    "windDir": "西风",
+    "tempC": 18.1,
+    "feelsLikeC": 18.5,
+    "humidity": 67,
+    "windKph": 1,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T11:10:09.957+08:00",
+    "observedAt": "2026-11-12T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T11:20:08.126+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一批侵华日军细菌战化学战新罪证集中发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730697.shtml",
-        "publishedAt": "2026-11-12T11:04:47.000+08:00"
+        "title": "“文明互鉴国际论坛二〇二六”在澳门举办 以文化为桥 跨山海对话",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730707.shtml",
+        "publishedAt": "2026-11-12T11:15:06.000+08:00"
       },
       {
-        "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在北京举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730681.shtml",
-        "publishedAt": "2026-11-12T11:04:25.000+08:00"
+        "title": "上海气质 国际风范——在进博会感受有序与活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730706.shtml",
+        "publishedAt": "2026-11-12T11:13:08.000+08:00"
       },
       {
-        "title": "专访孙中山家族后人孙雅丽：冀故乡的酸子树，让中山精神在宝岛再次扎根人心",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730677.shtml",
-        "publishedAt": "2026-11-12T11:01:37.000+08:00"
+        "title": "国际人士热切期待APEC“深圳时间”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730703.shtml",
+        "publishedAt": "2026-11-12T11:10:23.000+08:00"
       },
       {
-        "title": "黄喜忠任江西省人民政府副省长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730696.shtml",
-        "publishedAt": "2026-11-12T11:01:01.000+08:00"
+        "title": "广西龙胜：培训技艺传非遗",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730694.shtml",
+        "publishedAt": "2026-11-12T11:09:57.000+08:00"
       },
       {
-        "title": "俄外交部：日本应放弃推进再军事化",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730695.shtml",
-        "publishedAt": "2026-11-12T11:00:45.000+08:00"
+        "title": "直播海报：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730699.shtml",
+        "publishedAt": "2026-11-12T11:06:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T11:10:04.276+08:00",
+    "fetchedAt": "2026-11-12T11:20:02.885+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T11:10:08.515+08:00",
+      "fetchedAt": "2026-11-12T11:20:06.733+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
+          "usedPct": 20,
           "resetAt": "2026-11-12T14:13:17.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 66,
+          "usedPct": 67,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T11:10:08.829+08:00",
+      "fetchedAt": "2026-11-12T11:20:07.082+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T11:10:08.838+08:00",
+      "fetchedAt": "2026-11-12T11:20:07.085+08:00",
       "error": null
     }
   }
