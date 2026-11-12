@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T12:10:40.941+08:00",
+  "updatedAt": "2026-11-12T12:20:08.938+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 19.2,
     "feelsLikeC": 19.3,
     "humidity": 63,
-    "windKph": 3.3,
+    "windKph": 3.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T12:10:40.942+08:00",
+    "observedAt": "2026-11-12T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T12:20:08.938+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "华润集团原副总经理韩嵩被公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730730.shtml",
+        "publishedAt": "2026-11-12T12:10:53.000+08:00"
+      },
       {
         "title": "去不去养老院，老人和子女谁说了算",
         "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730731.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026年广东省女子篮球联赛四强出炉",
         "url": "https://www.chinanews.com.cn/ty/2026/11-12/10730722.shtml",
         "publishedAt": "2026-11-12T11:54:08.000+08:00"
-      },
-      {
-        "title": "“彩电大王”倪润峰逝世 享年82岁",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730724.shtml",
-        "publishedAt": "2026-11-12T11:52:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T12:10:05.693+08:00",
+    "fetchedAt": "2026-11-12T12:20:03.000+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T12:10:39.565+08:00",
+      "fetchedAt": "2026-11-12T12:20:07.345+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T12:10:39.923+08:00",
+      "fetchedAt": "2026-11-12T12:20:07.644+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T12:10:39.933+08:00",
+      "fetchedAt": "2026-11-12T12:20:07.647+08:00",
       "error": null
     }
   }
