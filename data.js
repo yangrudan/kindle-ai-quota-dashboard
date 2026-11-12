@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T14:50:10.809+08:00",
+  "updatedAt": "2026-11-12T15:00:09.755+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.6,
-    "feelsLikeC": 18.4,
-    "humidity": 66,
-    "windKph": 6,
-    "windDir": "北风",
+    "tempC": 20.4,
+    "feelsLikeC": 20.8,
+    "humidity": 62,
+    "windKph": 3.3,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T14:50:10.809+08:00",
+    "observedAt": "2026-11-12T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T15:00:09.755+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江西省人大常委会原委员郭兵被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730792.shtml",
-        "publishedAt": "2026-11-12T14:40:41.000+08:00"
+        "title": "8年寻归途 河北秦皇岛“戴河一号”为走失者点亮回家路",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730795.shtml",
+        "publishedAt": "2026-11-12T14:53:44.000+08:00"
       },
       {
-        "title": "日照—仁川集装箱班轮航线首航 山东日照再添陆海循环新通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730780.shtml",
-        "publishedAt": "2026-11-12T14:37:57.000+08:00"
+        "title": "超六成受访者希望建立“AB货”商家黑名单及公示制度",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730800.shtml",
+        "publishedAt": "2026-11-12T14:52:15.000+08:00"
       },
       {
-        "title": "万载县举办民营经济高质量发展专题研修班",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730791.shtml",
-        "publishedAt": "2026-11-12T14:37:19.000+08:00"
+        "title": "报告：2025年中国传媒产业总产值同比上升6.79%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730798.shtml",
+        "publishedAt": "2026-11-12T14:52:01.000+08:00"
       },
       {
-        "title": "专交会举办“专利引领+地标赋能”活动 发布知识产权运营年度报告",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730775.shtml",
-        "publishedAt": "2026-11-12T14:36:37.000+08:00"
+        "title": "俄媒：一名俄军官在圣彼得堡汽车爆炸事件中丧生",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730799.shtml",
+        "publishedAt": "2026-11-12T14:49:29.000+08:00"
       },
       {
-        "title": "控血糖，生活方式是关键",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730793.shtml",
-        "publishedAt": "2026-11-12T14:35:57.000+08:00"
+        "title": "邕州海关电动车停车棚膜结构工程项目采购成交结果公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-12/10730797.shtml",
+        "publishedAt": "2026-11-12T14:48:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T14:50:04.473+08:00",
+    "fetchedAt": "2026-11-12T15:00:03.641+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T14:50:08.810+08:00",
+      "fetchedAt": "2026-11-12T15:00:08.288+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T14:50:09.315+08:00",
+      "fetchedAt": "2026-11-12T15:00:08.607+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T14:50:09.325+08:00",
+      "fetchedAt": "2026-11-12T15:00:08.616+08:00",
       "error": null
     }
   }
