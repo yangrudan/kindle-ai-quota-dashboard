@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T09:40:09.063+08:00",
+  "updatedAt": "2026-11-12T09:50:08.741+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.9,
-    "feelsLikeC": 16.1,
+    "tempC": 16,
+    "feelsLikeC": 16.3,
     "humidity": 75,
-    "windKph": 1.2,
-    "windDir": "西南风",
+    "windKph": 1,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-12T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T09:40:09.064+08:00",
+    "observedAt": "2026-11-12T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-12T09:50:08.741+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "95.8%受访者感觉AI卖家秀让自己“没底”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730607.shtml",
+        "publishedAt": "2026-11-12T09:41:31.000+08:00"
+      },
+      {
+        "title": "中国驻巴布亚新几内亚大使馆再次提醒中国公民和机构切勿参与非法采金和黄金走私违法活动",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-12/10730622.shtml",
+        "publishedAt": "2026-11-12T09:39:04.000+08:00"
+      },
+      {
+        "title": "11月12日央行开展3840亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730617.shtml",
+        "publishedAt": "2026-11-12T09:37:04.000+08:00"
+      },
+      {
+        "title": "APEC工商咨询理事会本周六起在深圳举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730606.shtml",
+        "publishedAt": "2026-11-12T09:36:54.000+08:00"
+      },
+      {
         "title": "2026年中央八项规定精神贯彻执行情况网络调查问卷",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730619.shtml",
         "publishedAt": "2026-11-12T09:33:34.000+08:00"
-      },
-      {
-        "title": "第22届中美电影节和电视节在洛杉矶举行“金天使奖”颁奖典礼",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210611.shtml",
-        "publishedAt": "2026-11-12T09:33:27.000+08:00"
-      },
-      {
-        "title": "11月12日人民币对美元中间价报6.7174 上调17个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730616.shtml",
-        "publishedAt": "2026-11-12T09:28:58.000+08:00"
-      },
-      {
-        "title": "【四时映画】河南郑州：天鹅戏水晨雾间",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210606.shtml",
-        "publishedAt": "2026-11-12T09:23:58.000+08:00"
-      },
-      {
-        "title": "湖南省邵阳市政协副主席孙清良接受监察调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730612.shtml",
-        "publishedAt": "2026-11-12T09:22:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T09:40:03.727+08:00",
+    "fetchedAt": "2026-11-12T09:50:03.076+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T09:40:07.670+08:00",
+      "fetchedAt": "2026-11-12T09:50:07.249+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 4,
           "resetAt": "2026-11-12T14:13:17.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T09:40:07.889+08:00",
+      "fetchedAt": "2026-11-12T09:50:07.549+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T09:40:07.892+08:00",
+      "fetchedAt": "2026-11-12T09:50:07.558+08:00",
       "error": null
     }
   }
