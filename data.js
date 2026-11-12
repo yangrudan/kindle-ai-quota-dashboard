@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T20:40:08.531+08:00",
+  "updatedAt": "2026-11-12T20:50:39.078+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 14.9,
-    "feelsLikeC": 15.1,
-    "humidity": 87,
-    "windKph": 4.2,
+    "feelsLikeC": 15.2,
+    "humidity": 86,
+    "windKph": 3.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T20:40:08.532+08:00",
+    "observedAt": "2026-11-12T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-12T20:50:39.078+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "以制度型开放破题 浙江加快推进大宗商品资源配置枢纽建设",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731117.shtml",
-        "publishedAt": "2026-11-12T20:36:50.000+08:00"
+        "title": "香港立法会通过条例草案 助力加快北都建设",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731135.shtml",
+        "publishedAt": "2026-11-12T20:46:17.000+08:00"
       },
       {
-        "title": "宁夏银川：胡萝卜采收忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731098.shtml",
-        "publishedAt": "2026-11-12T20:36:24.000+08:00"
+        "title": "2026泉州南少林功夫精英赛开幕 逾千名海内外选手参赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731137.shtml",
+        "publishedAt": "2026-11-12T20:45:31.000+08:00"
       },
       {
-        "title": "横琴再添一家上市企业 一微科技在港交所主板敲钟",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731116.shtml",
-        "publishedAt": "2026-11-12T20:36:22.000+08:00"
+        "title": "超大城市如何更具安全韧性 杭州市政协专题协商建言",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731121.shtml",
+        "publishedAt": "2026-11-12T20:43:23.000+08:00"
       },
       {
-        "title": "创业50周年 曹德旺：推动福耀走向更辉煌的未来",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731114.shtml",
-        "publishedAt": "2026-11-12T20:36:20.000+08:00"
+        "title": "黑龙江民营企业家参加“龙商铸魂·北大荒精神行”研学活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10731122.shtml",
+        "publishedAt": "2026-11-12T20:41:44.000+08:00"
       },
       {
-        "title": "围绕大宗商品资源配置枢纽建设 浙江形成70余项首单成果",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731113.shtml",
-        "publishedAt": "2026-11-12T20:36:18.000+08:00"
+        "title": "湖北多措并举推进质量强省建设",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731107.shtml",
+        "publishedAt": "2026-11-12T20:41:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T20:40:03.204+08:00",
+    "fetchedAt": "2026-11-12T20:50:03.831+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T20:40:07.190+08:00",
+      "fetchedAt": "2026-11-12T20:50:37.512+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T01:40:08.000+08:00"
+          "resetAt": "2026-11-13T01:50:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T20:40:07.462+08:00",
+      "fetchedAt": "2026-11-12T20:50:37.842+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T20:40:07.472+08:00",
+      "fetchedAt": "2026-11-12T20:50:37.850+08:00",
       "error": null
     }
   }
