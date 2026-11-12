@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T15:50:10.004+08:00",
+  "updatedAt": "2026-11-12T16:00:09.897+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20,
-    "feelsLikeC": 20.4,
-    "humidity": 67,
-    "windKph": 4.7,
+    "tempC": 19.8,
+    "feelsLikeC": 20.2,
+    "humidity": 69,
+    "windKph": 5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T15:50:10.005+08:00",
+    "observedAt": "2026-11-12T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T16:00:09.897+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "人力资源社会保障部关于《技能人才评价条例（征求意见稿）》公开征求意见的通知",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-12/10730834.shtml",
-        "publishedAt": "2026-11-12T15:43:54.000+08:00"
+        "title": "商务部：中美经贸关系本质是互利共赢 合作是唯一正确道路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730839.shtml",
+        "publishedAt": "2026-11-12T15:54:49.000+08:00"
       },
       {
-        "title": "事关技能人才评价 这部条例公开征求意见",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730832.shtml",
-        "publishedAt": "2026-11-12T15:41:38.000+08:00"
+        "title": "商务部：中欧医疗器械专场贸易对接会达成合作意向超100项",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730837.shtml",
+        "publishedAt": "2026-11-12T15:52:13.000+08:00"
       },
       {
-        "title": "外交部：坚决反对美方泛化国家安全概念 无理打压中国机构",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730831.shtml",
-        "publishedAt": "2026-11-12T15:39:08.000+08:00"
+        "title": "无人机高空坠箭猎杀野生动物 起底盗猎装备网购灰色链条",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-12/10730836.shtml",
+        "publishedAt": "2026-11-12T15:47:48.000+08:00"
       },
       {
-        "title": "大连大学联合大连市对口支援工作队共建铸牢中华民族共同体意识实践育人平台",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730772.shtml",
-        "publishedAt": "2026-11-12T15:38:12.000+08:00"
+        "title": "商务部：第十届进博会的筹备工作已启动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730833.shtml",
+        "publishedAt": "2026-11-12T15:47:04.000+08:00"
       },
       {
-        "title": "九三学社：找好选题 讲好“自己的故事”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730823.shtml",
-        "publishedAt": "2026-11-12T15:36:58.000+08:00"
+        "title": "比利时和智利将合并申办《海洋生物多样性协定》秘书处 中方：至少存在6个“不符合”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730835.shtml",
+        "publishedAt": "2026-11-12T15:47:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T15:50:03.739+08:00",
+    "fetchedAt": "2026-11-12T16:00:03.414+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T15:50:08.308+08:00",
+      "fetchedAt": "2026-11-12T16:00:08.207+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-11-12T19:30:13.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T15:50:08.636+08:00",
+      "fetchedAt": "2026-11-12T16:00:08.524+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T15:50:08.646+08:00",
+      "fetchedAt": "2026-11-12T16:00:08.534+08:00",
       "error": null
     }
   }
