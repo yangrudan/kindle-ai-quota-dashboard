@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T16:10:09.463+08:00",
+  "updatedAt": "2026-11-12T16:20:10.718+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.8,
-    "feelsLikeC": 20.2,
-    "humidity": 69,
-    "windKph": 5,
+    "tempC": 19.5,
+    "feelsLikeC": 20,
+    "humidity": 71,
+    "windKph": 4.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T16:10:09.463+08:00",
+    "observedAt": "2026-11-12T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T16:20:10.718+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆綦江一包装制品公司发生火灾 现场无人员伤亡",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730838.shtml",
-        "publishedAt": "2026-11-12T16:03:21.000+08:00"
+        "title": "俄方对圣彼得堡汽车爆炸致军人死亡案展开刑事调查",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730852.shtml",
+        "publishedAt": "2026-11-12T16:12:40.000+08:00"
       },
       {
-        "title": "韩国外长赵显将访华 中国外交部介绍有关安排",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730841.shtml",
-        "publishedAt": "2026-11-12T16:02:53.000+08:00"
+        "title": "小时候的火腿肠，长大后的年夜饭：双汇陪你走过的四季三餐",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730857.shtml",
+        "publishedAt": "2026-11-12T16:11:54.000+08:00"
       },
       {
-        "title": "18起涉食品安全重大犯罪案件被挂牌督办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730848.shtml",
-        "publishedAt": "2026-11-12T16:01:55.000+08:00"
+        "title": "秋冬季糖炒栗子热销，科学选购要注意",
+        "url": "https://www.chinanews.com.cn/life/2026/11-12/10730860.shtml",
+        "publishedAt": "2026-11-12T16:10:58.000+08:00"
       },
       {
-        "title": "油吃多了不好，怎样吃才健康？真相在这儿！",
-        "url": "https://www.chinanews.com.cn/life/2026/11-12/10730845.shtml",
-        "publishedAt": "2026-11-12T15:59:05.000+08:00"
+        "title": "消费提示：3种常见景观果含有毒素，切勿采摘食用",
+        "url": "https://www.chinanews.com.cn/life/2026/11-12/10730859.shtml",
+        "publishedAt": "2026-11-12T16:07:38.000+08:00"
       },
       {
-        "title": "商务部：中美经贸关系本质是互利共赢 合作是唯一正确道路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730839.shtml",
-        "publishedAt": "2026-11-12T15:54:49.000+08:00"
+        "title": "何以南沙：一场生物医药大赛背后的城市创新生态",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730858.shtml",
+        "publishedAt": "2026-11-12T16:07:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T16:10:03.620+08:00",
+    "fetchedAt": "2026-11-12T16:20:04.220+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T16:10:07.873+08:00",
+      "fetchedAt": "2026-11-12T16:20:08.955+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T16:10:08.237+08:00",
+      "fetchedAt": "2026-11-12T16:20:09.324+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T16:10:08.246+08:00",
+      "fetchedAt": "2026-11-12T16:20:09.334+08:00",
       "error": null
     }
   }
