@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T06:00:38.652+08:00",
+  "updatedAt": "2026-11-13T06:10:09.768+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 13.4,
-    "feelsLikeC": 14.4,
+    "feelsLikeC": 14.3,
     "humidity": 99,
-    "windKph": 0.2,
-    "windDir": "南风",
+    "windKph": 0.3,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-13T05:45:00.000+08:00",
-    "fetchedAt": "2026-11-13T06:00:38.652+08:00",
+    "observedAt": "2026-11-13T06:00:00.000+08:00",
+    "fetchedAt": "2026-11-13T06:10:09.768+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "国际油价12日上涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731244.shtml",
+        "publishedAt": "2026-11-13T06:04:18.000+08:00"
+      },
+      {
+        "title": "古巴外长批评七国集团涉古声明回避美国对古封锁影响",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731243.shtml",
+        "publishedAt": "2026-11-13T06:02:57.000+08:00"
+      },
+      {
+        "title": "金价再度跌破3900美元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731242.shtml",
+        "publishedAt": "2026-11-13T06:02:21.000+08:00"
+      },
+      {
+        "title": "贵州毕节市威宁县发生4.5级地震 震源深度10公里",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731241.shtml",
+        "publishedAt": "2026-11-13T06:00:41.000+08:00"
+      },
+      {
         "title": "菲律宾多个政府部门遭网络攻击 总统府称已做好应对准备",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731240.shtml",
         "publishedAt": "2026-11-13T04:48:25.000+08:00"
-      },
-      {
-        "title": "美国华盛顿枪击事件致1亡4伤 嫌疑人自杀",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731239.shtml",
-        "publishedAt": "2026-11-13T04:47:55.000+08:00"
-      },
-      {
-        "title": "英国三季度经济延续复苏态势",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731238.shtml",
-        "publishedAt": "2026-11-13T04:46:59.000+08:00"
-      },
-      {
-        "title": "泰国借世界园艺博览会推旅游新线路",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731237.shtml",
-        "publishedAt": "2026-11-13T04:46:19.000+08:00"
-      },
-      {
-        "title": "普京会见美特使：提议康斯坦丁诺夫卡人道行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731236.shtml",
-        "publishedAt": "2026-11-13T04:45:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T06:00:03.104+08:00",
+    "fetchedAt": "2026-11-13T06:10:03.436+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T06:00:37.013+08:00",
+      "fetchedAt": "2026-11-13T06:10:07.360+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T11:00:38.000+08:00"
+          "resetAt": "2026-11-13T11:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T06:00:37.378+08:00",
+      "fetchedAt": "2026-11-13T06:10:08.531+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T06:00:37.385+08:00",
+      "fetchedAt": "2026-11-13T06:10:08.539+08:00",
       "error": null
     }
   }
