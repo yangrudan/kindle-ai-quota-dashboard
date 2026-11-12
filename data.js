@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T18:10:10.569+08:00",
+  "updatedAt": "2026-11-12T18:20:10.331+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 17.5,
-    "feelsLikeC": 18.7,
-    "humidity": 85,
-    "windKph": 3.2,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 17.3,
+    "feelsLikeC": 18.5,
+    "humidity": 86,
+    "windKph": 3.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T18:10:10.569+08:00",
+    "observedAt": "2026-11-12T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T18:20:10.331+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国商务部：中美正就贸易、投资等问题保持密切沟通",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730989.shtml",
-        "publishedAt": "2026-11-12T18:00:34.000+08:00"
+        "title": "大雾黄色预警继续：京津冀等地局地有能见度低于200米的强浓雾",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730997.shtml",
+        "publishedAt": "2026-11-12T18:14:38.000+08:00"
       },
       {
-        "title": "1元租金的创业空间里 藏着湾区青年的创业答案",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730992.shtml",
-        "publishedAt": "2026-11-12T17:58:46.000+08:00"
+        "title": "贴秋膘练编队！莫莫格湿地候鸟整装奔赴越冬家园",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730996.shtml",
+        "publishedAt": "2026-11-12T18:04:28.000+08:00"
       },
       {
-        "title": "铁路部门通报“一旅客过安检喝白酒”：信息不实，系喝水用于拍视频",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730985.shtml",
-        "publishedAt": "2026-11-12T17:54:29.000+08:00"
+        "title": "湖北当阳季家湖：天鹅组团赴冬约",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730959.shtml",
+        "publishedAt": "2026-11-12T18:02:36.000+08:00"
       },
       {
-        "title": "欧亚企业重庆行产业对接会在渝举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730986.shtml",
-        "publishedAt": "2026-11-12T17:52:31.000+08:00"
+        "title": "山西万荣：立冬拾穗忙 滩区粮归仓",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730962.shtml",
+        "publishedAt": "2026-11-12T18:01:44.000+08:00"
       },
       {
-        "title": "纪念孙中山先生诞辰160周年 晋谒衣冠冢仪式在北京举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730979.shtml",
-        "publishedAt": "2026-11-12T17:51:55.000+08:00"
+        "title": "扇贝迎丰收！河北秦皇岛“蓝色粮仓”采收忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730969.shtml",
+        "publishedAt": "2026-11-12T18:01:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T18:10:03.134+08:00",
+    "fetchedAt": "2026-11-12T18:20:03.929+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T18:10:08.084+08:00",
+      "fetchedAt": "2026-11-12T18:20:08.582+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 30,
+          "usedPct": 31,
           "resetAt": "2026-11-12T19:30:13.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T18:10:08.465+08:00",
+      "fetchedAt": "2026-11-12T18:20:08.898+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T18:10:08.469+08:00",
+      "fetchedAt": "2026-11-12T18:20:08.904+08:00",
       "error": null
     }
   }
