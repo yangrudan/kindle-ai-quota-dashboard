@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T22:10:39.590+08:00",
+  "updatedAt": "2026-11-12T22:20:09.227+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 14.6,
     "feelsLikeC": 15.1,
-    "humidity": 88,
-    "windKph": 2.3,
+    "humidity": 89,
+    "windKph": 2.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T22:10:39.591+08:00",
+    "observedAt": "2026-11-12T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T22:20:09.227+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "黄仁勋辞去英伟达公司总裁、首席执行官及董事会成员职务",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731212.shtml",
-        "publishedAt": "2026-11-12T21:59:13.000+08:00"
+        "title": "贵州雷山迎海内外游客欢庆苗年",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10731220.shtml",
+        "publishedAt": "2026-11-12T22:10:21.000+08:00"
       },
       {
-        "title": "留学生走进广西钦州：在平陆运河畔读懂海陆共兴与非遗传承",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731207.shtml",
-        "publishedAt": "2026-11-12T21:58:19.000+08:00"
+        "title": "英伟达宣布黄仁勋辞职",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731222.shtml",
+        "publishedAt": "2026-11-12T22:09:11.000+08:00"
       },
       {
-        "title": "贵州雷山苗年启幕 非遗巡游展演引客来",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10731208.shtml",
-        "publishedAt": "2026-11-12T21:57:25.000+08:00"
+        "title": "评论：纪念中山先生，中华儿女要交三份答卷",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731216.shtml",
+        "publishedAt": "2026-11-12T22:07:17.000+08:00"
       },
       {
-        "title": "海南新组建空天集团 注册资金100亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731206.shtml",
-        "publishedAt": "2026-11-12T21:56:39.000+08:00"
+        "title": "学者析习近平重要讲话涉台内容：突出“团结” 释放善意",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731217.shtml",
+        "publishedAt": "2026-11-12T22:07:07.000+08:00"
       },
       {
-        "title": "广西发掘广电视听领域AI创新力量 推动优质项目落地转化",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731198.shtml",
-        "publishedAt": "2026-11-12T21:54:12.000+08:00"
+        "title": "成渝三地联合进京推介文旅 西部国际AI漫剧产业园亮相",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731214.shtml",
+        "publishedAt": "2026-11-12T22:05:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T22:10:04.079+08:00",
+    "fetchedAt": "2026-11-12T22:20:03.411+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T22:10:38.224+08:00",
+      "fetchedAt": "2026-11-12T22:20:07.117+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T03:10:39.000+08:00"
+          "resetAt": "2026-11-13T03:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T22:10:38.555+08:00",
+      "fetchedAt": "2026-11-12T22:20:07.439+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T22:10:38.559+08:00",
+      "fetchedAt": "2026-11-12T22:20:07.448+08:00",
       "error": null
     }
   }
