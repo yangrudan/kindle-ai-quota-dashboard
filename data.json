@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T14:40:09.429+08:00",
+  "updatedAt": "2026-11-12T14:50:10.809+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.6,
-    "feelsLikeC": 21,
-    "humidity": 60,
-    "windKph": 2.4,
-    "windDir": "东北风",
+    "tempC": 18.6,
+    "feelsLikeC": 18.4,
+    "humidity": 66,
+    "windKph": 6,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T14:40:09.429+08:00",
+    "observedAt": "2026-11-12T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-12T14:50:10.809+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "农工党宜春市委会专题学习中共宜春市第六次代表大会精神",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730787.shtml",
-        "publishedAt": "2026-11-12T14:29:56.000+08:00"
+        "title": "江西省人大常委会原委员郭兵被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730792.shtml",
+        "publishedAt": "2026-11-12T14:40:41.000+08:00"
       },
       {
-        "title": "辽宁师范大学举行“统战之家”揭牌仪式",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730770.shtml",
-        "publishedAt": "2026-11-12T14:28:30.000+08:00"
+        "title": "日照—仁川集装箱班轮航线首航 山东日照再添陆海循环新通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730780.shtml",
+        "publishedAt": "2026-11-12T14:37:57.000+08:00"
       },
       {
-        "title": "云岭动态第三十九期",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730768.shtml",
-        "publishedAt": "2026-11-12T14:27:44.000+08:00"
+        "title": "万载县举办民营经济高质量发展专题研修班",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730791.shtml",
+        "publishedAt": "2026-11-12T14:37:19.000+08:00"
       },
       {
-        "title": "甘肃草原里的“种子密码”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730777.shtml",
-        "publishedAt": "2026-11-12T14:27:30.000+08:00"
+        "title": "专交会举办“专利引领+地标赋能”活动 发布知识产权运营年度报告",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730775.shtml",
+        "publishedAt": "2026-11-12T14:36:37.000+08:00"
       },
       {
-        "title": "重庆城市轨道交通运营里程跨越600公里",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730762.shtml",
-        "publishedAt": "2026-11-12T14:27:00.000+08:00"
+        "title": "控血糖，生活方式是关键",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730793.shtml",
+        "publishedAt": "2026-11-12T14:35:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T14:40:03.758+08:00",
+    "fetchedAt": "2026-11-12T14:50:04.473+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T14:40:07.955+08:00",
+      "fetchedAt": "2026-11-12T14:50:08.810+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-11-12T19:30:13.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 68,
+          "usedPct": 69,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T14:40:08.325+08:00",
+      "fetchedAt": "2026-11-12T14:50:09.315+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T14:40:08.335+08:00",
+      "fetchedAt": "2026-11-12T14:50:09.325+08:00",
       "error": null
     }
   }
