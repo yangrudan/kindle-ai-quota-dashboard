@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T09:50:08.741+08:00",
+  "updatedAt": "2026-11-12T10:00:08.392+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16,
-    "feelsLikeC": 16.3,
-    "humidity": 75,
-    "windKph": 1,
+    "tempC": 16.3,
+    "feelsLikeC": 16.6,
+    "humidity": 74,
+    "windKph": 0.9,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-12T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T09:50:08.741+08:00",
+    "observedAt": "2026-11-12T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T10:00:08.392+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "95.8%受访者感觉AI卖家秀让自己“没底”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730607.shtml",
-        "publishedAt": "2026-11-12T09:41:31.000+08:00"
+        "title": "最近高发！这种病毒发作时剧痛难忍",
+        "url": "https://www.chinanews.com.cn/life/2026/11-12/10730633.shtml",
+        "publishedAt": "2026-11-12T09:55:51.000+08:00"
       },
       {
-        "title": "中国驻巴布亚新几内亚大使馆再次提醒中国公民和机构切勿参与非法采金和黄金走私违法活动",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-12/10730622.shtml",
-        "publishedAt": "2026-11-12T09:39:04.000+08:00"
+        "title": "透过进博之窗，世界深切感知“中国机遇2.0”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730632.shtml",
+        "publishedAt": "2026-11-12T09:54:11.000+08:00"
       },
       {
-        "title": "11月12日央行开展3840亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730617.shtml",
-        "publishedAt": "2026-11-12T09:37:04.000+08:00"
+        "title": "2026年秋招推出第三批131场就业服务活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730609.shtml",
+        "publishedAt": "2026-11-12T09:54:05.000+08:00"
       },
       {
-        "title": "APEC工商咨询理事会本周六起在深圳举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730606.shtml",
-        "publishedAt": "2026-11-12T09:36:54.000+08:00"
+        "title": "首店首展！各地拓展新场景新业态 激发消费活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730630.shtml",
+        "publishedAt": "2026-11-12T09:50:57.000+08:00"
       },
       {
-        "title": "2026年中央八项规定精神贯彻执行情况网络调查问卷",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730619.shtml",
-        "publishedAt": "2026-11-12T09:33:34.000+08:00"
+        "title": "“十五五”时期我国将深化拓展“人工智能+”行动",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730629.shtml",
+        "publishedAt": "2026-11-12T09:47:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T09:50:03.076+08:00",
+    "fetchedAt": "2026-11-12T10:00:02.984+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T09:50:07.249+08:00",
+      "fetchedAt": "2026-11-12T10:00:06.993+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 6,
           "resetAt": "2026-11-12T14:13:17.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 64,
+          "usedPct": 65,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T09:50:07.549+08:00",
+      "fetchedAt": "2026-11-12T10:00:07.267+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T09:50:07.558+08:00",
+      "fetchedAt": "2026-11-12T10:00:07.276+08:00",
       "error": null
     }
   }
