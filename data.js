@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T11:30:19.274+08:00",
+  "updatedAt": "2026-11-12T11:40:08.833+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.1,
-    "feelsLikeC": 18.5,
-    "humidity": 67,
-    "windKph": 1,
+    "tempC": 18.6,
+    "feelsLikeC": 18.9,
+    "humidity": 65,
+    "windKph": 1.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T11:30:19.275+08:00",
+    "observedAt": "2026-11-12T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-12T11:40:08.833+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（长征胜利90周年）红军烈士后代广西兴安界首渡口祭英烈：湘江没有忘记你",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730711.shtml",
+        "publishedAt": "2026-11-12T11:34:53.000+08:00"
+      },
+      {
+        "title": "早期像感冒、严重可致命！很多人分不清",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730716.shtml",
+        "publishedAt": "2026-11-12T11:32:31.000+08:00"
+      },
+      {
+        "title": "青春华章·我们的新长征丨走进百年南开中学，从一面镜子开始",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730636.shtml",
+        "publishedAt": "2026-11-12T11:32:29.000+08:00"
+      },
       {
         "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "美国费城交响乐团2026年中国巡演海南首站启幕",
         "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730700.shtml",
         "publishedAt": "2026-11-12T11:18:54.000+08:00"
-      },
-      {
-        "title": "中国海油在渤海中部海域取得超深层油气勘探重大突破",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730704.shtml",
-        "publishedAt": "2026-11-12T11:17:44.000+08:00"
-      },
-      {
-        "title": "柬埔寨风情汇聚昆明 上演异域文化盛宴",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730698.shtml",
-        "publishedAt": "2026-11-12T11:17:44.000+08:00"
-      },
-      {
-        "title": "“文明互鉴国际论坛二〇二六”在澳门举办 以文化为桥 跨山海对话",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730707.shtml",
-        "publishedAt": "2026-11-12T11:15:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T11:30:12.680+08:00",
+    "fetchedAt": "2026-11-12T11:40:04.020+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T11:30:17.374+08:00",
+      "fetchedAt": "2026-11-12T11:40:07.572+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 28,
           "resetAt": "2026-11-12T14:13:17.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 67,
+          "usedPct": 68,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T11:30:17.613+08:00",
+      "fetchedAt": "2026-11-12T11:40:07.844+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T11:30:17.622+08:00",
+      "fetchedAt": "2026-11-12T11:40:07.853+08:00",
       "error": null
     }
   }
