@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T21:50:40.129+08:00",
+  "updatedAt": "2026-11-12T22:00:10.610+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.7,
+    "tempC": 14.6,
     "feelsLikeC": 15.1,
     "humidity": 88,
-    "windKph": 2.6,
+    "windKph": 2.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-12T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T21:50:40.130+08:00",
+    "observedAt": "2026-11-12T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T22:00:10.610+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“冬游西藏”正当时",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731171.shtml",
-        "publishedAt": "2026-11-12T21:44:26.000+08:00"
+        "title": "广西发掘广电视听领域AI创新力量 推动优质项目落地转化",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731198.shtml",
+        "publishedAt": "2026-11-12T21:54:12.000+08:00"
       },
       {
-        "title": "福建惠安影雕传承人：以石为纸，匠心绘影",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731170.shtml",
-        "publishedAt": "2026-11-12T21:40:14.000+08:00"
+        "title": "2026年度邵逸夫奖得主在港共话“何为成功”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731200.shtml",
+        "publishedAt": "2026-11-12T21:53:02.000+08:00"
       },
       {
-        "title": "云南腾冲百年皮影戏舞出新天地",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731169.shtml",
-        "publishedAt": "2026-11-12T21:39:28.000+08:00"
+        "title": "向美而行逐梦未来 江苏大学生艺术展演亮相东南大学",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731194.shtml",
+        "publishedAt": "2026-11-12T21:53:00.000+08:00"
       },
       {
-        "title": "西宁百年老街开展民俗文化体验活动 丰富民众生活",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731168.shtml",
-        "publishedAt": "2026-11-12T21:39:12.000+08:00"
+        "title": "2026年全国攀岩锦标赛（重庆九龙坡）开赛 240名攀岩健儿岩壁争锋",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731192.shtml",
+        "publishedAt": "2026-11-12T21:52:40.000+08:00"
       },
       {
-        "title": "广东星湖国家湿地公园迎候鸟迁徙季",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731100.shtml",
-        "publishedAt": "2026-11-12T21:38:54.000+08:00"
+        "title": "AI赋能视听创新 中国—东盟人文交流搭新桥",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-12/10731202.shtml",
+        "publishedAt": "2026-11-12T21:52:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T21:50:04.627+08:00",
+    "fetchedAt": "2026-11-12T22:00:04.702+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T21:50:38.728+08:00",
+      "fetchedAt": "2026-11-12T22:00:09.082+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T02:50:40.000+08:00"
+          "resetAt": "2026-11-13T03:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T21:50:39.026+08:00",
+      "fetchedAt": "2026-11-12T22:00:09.435+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T21:50:39.035+08:00",
+      "fetchedAt": "2026-11-12T22:00:09.444+08:00",
       "error": null
     }
   }
