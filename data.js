@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T13:00:08.183+08:00",
+  "updatedAt": "2026-11-12T13:10:09.725+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-12T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T13:00:08.183+08:00",
+    "fetchedAt": "2026-11-12T13:10:09.726+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李家超寄语香港下一代：传承孙中山先生矢志不渝振兴中华民族的精神",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730739.shtml",
+        "publishedAt": "2026-11-12T13:07:54.000+08:00"
+      },
+      {
+        "title": "海外多地办展 回望孙中山与海外华侨的革命同行路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730738.shtml",
+        "publishedAt": "2026-11-12T13:06:38.000+08:00"
+      },
+      {
+        "title": "美国纽约一楼房倒塌致至少2死17伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730734.shtml",
+        "publishedAt": "2026-11-12T13:06:28.000+08:00"
+      },
       {
         "title": "尹艳林：中国经济增长动力结构正发生积极变化",
         "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730737.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国在风电领域实现国际标准新突破",
         "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730736.shtml",
         "publishedAt": "2026-11-12T12:49:29.000+08:00"
-      },
-      {
-        "title": "中外团队研究证实：肥胖诊断不能只看体重",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730735.shtml",
-        "publishedAt": "2026-11-12T12:34:32.000+08:00"
-      },
-      {
-        "title": "受权发布丨习近平：在纪念孙中山先生诞辰160周年大会上的讲话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730733.shtml",
-        "publishedAt": "2026-11-12T12:27:06.000+08:00"
-      },
-      {
-        "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730732.shtml",
-        "publishedAt": "2026-11-12T12:11:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T13:00:03.181+08:00",
+    "fetchedAt": "2026-11-12T13:10:03.613+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-12T13:00:06.826+08:00",
+      "fetchedAt": "2026-11-12T13:10:08.133+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T13:00:07.100+08:00",
+      "fetchedAt": "2026-11-12T13:10:08.446+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-12T13:00:07.109+08:00",
+      "fetchedAt": "2026-11-12T13:10:08.454+08:00",
       "error": null
     }
   }
