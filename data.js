@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T00:30:38.887+08:00",
+  "updatedAt": "2026-11-13T00:40:08.552+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-13T00:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T00:30:38.887+08:00",
+    "fetchedAt": "2026-11-13T00:40:08.553+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "马斯克：招揽黄仁勋将是我的荣幸",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731234.shtml",
+        "publishedAt": "2026-11-13T00:28:13.000+08:00"
+      },
       {
         "title": "特朗普：建议库克接替黄仁勋担任英伟达CEO",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731233.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "英伟达股价开盘暴跌13% 或创2025年以来最大单日跌幅",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731230.shtml",
         "publishedAt": "2026-11-12T22:51:26.000+08:00"
-      },
-      {
-        "title": "美国华盛顿特区发生多起枪击事件 4人中枪",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731229.shtml",
-        "publishedAt": "2026-11-12T22:30:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T00:30:03.341+08:00",
+    "fetchedAt": "2026-11-13T00:40:03.237+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T00:30:37.109+08:00",
+      "fetchedAt": "2026-11-13T00:40:07.157+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T05:30:38.000+08:00"
+          "resetAt": "2026-11-13T05:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T00:30:37.453+08:00",
+      "fetchedAt": "2026-11-13T00:40:07.520+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T00:30:37.456+08:00",
+      "fetchedAt": "2026-11-13T00:40:07.529+08:00",
       "error": null
     }
   }
