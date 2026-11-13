@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T20:30:08.201+08:00",
+  "updatedAt": "2026-11-13T20:40:09.398+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-13T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T20:30:08.201+08:00",
+    "fetchedAt": "2026-11-13T20:40:09.398+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "使用暖手宝，这些禁忌别忽视",
+        "url": "https://www.chinanews.com.cn/life/2026/11-13/10731712.shtml",
+        "publishedAt": "2026-11-13T20:39:13.000+08:00"
+      },
+      {
+        "title": "事关流程工业智能工厂业务管理 市场监管总局发布国家标准",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731709.shtml",
+        "publishedAt": "2026-11-13T20:27:50.000+08:00"
+      },
       {
         "title": "“山西大同采空区塌陷引发强震”系谣言（2026·11·13）",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731708.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "冬奥冠军宁忠岩新赛季首战夺冠",
         "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731707.shtml",
         "publishedAt": "2026-11-13T20:20:20.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）山东莱阳迟家沟：“奶油富士”出山谷",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731672.shtml",
-        "publishedAt": "2026-11-13T20:19:56.000+08:00"
-      },
-      {
-        "title": "一台机床致富一方百姓 浙江缙云将举办国际机床工具展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731673.shtml",
-        "publishedAt": "2026-11-13T20:19:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T20:30:03.083+08:00",
+    "fetchedAt": "2026-11-13T20:40:03.703+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T20:30:06.964+08:00",
+      "fetchedAt": "2026-11-13T20:40:07.779+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T01:30:08.000+08:00"
+          "resetAt": "2026-11-14T01:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T20:30:07.150+08:00",
+      "fetchedAt": "2026-11-13T20:40:08.146+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T20:30:07.162+08:00",
+      "fetchedAt": "2026-11-13T20:40:08.156+08:00",
       "error": null
     }
   }
