@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T09:40:08.382+08:00",
+  "updatedAt": "2026-11-13T09:50:39.168+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.9,
-    "feelsLikeC": 18.1,
-    "humidity": 87,
-    "windKph": 2,
+    "tempC": 17.1,
+    "feelsLikeC": 18.5,
+    "humidity": 86,
+    "windKph": 1.3,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T09:40:08.382+08:00",
+    "observedAt": "2026-11-13T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-13T09:50:39.168+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "11月13日央行开展3640亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731291.shtml",
-        "publishedAt": "2026-11-13T09:30:27.000+08:00"
+        "title": "印度发生火车脱轨事故 8人受轻伤",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-13/1210689.shtml",
+        "publishedAt": "2026-11-13T09:48:30.000+08:00"
       },
       {
-        "title": "词元摆上双11货架 折射数字消费新变迁",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731290.shtml",
-        "publishedAt": "2026-11-13T09:26:51.000+08:00"
+        "title": "哈尔滨大雾 市民称“像走在人间仙境”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731301.shtml",
+        "publishedAt": "2026-11-13T09:45:04.000+08:00"
       },
       {
-        "title": "AI的冲击变成现实！全球就业格局加快重塑",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731289.shtml",
-        "publishedAt": "2026-11-13T09:24:38.000+08:00"
+        "title": "哈尔滨发布大雾橙色预警",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731302.shtml",
+        "publishedAt": "2026-11-13T09:44:25.000+08:00"
       },
       {
-        "title": "吃了这么多年的胡萝卜 第一步竟错了？",
-        "url": "https://www.chinanews.com.cn/life/2026/11-13/10731288.shtml",
-        "publishedAt": "2026-11-13T09:21:54.000+08:00"
+        "title": "“日新万象”展览在港开幕 逾80件文物呈现孙中山多重形象",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731280.shtml",
+        "publishedAt": "2026-11-13T09:42:07.000+08:00"
       },
       {
-        "title": "11月13日人民币对美元中间价报6.7152 上调22个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731286.shtml",
-        "publishedAt": "2026-11-13T09:21:46.000+08:00"
+        "title": "虚拟雪道衔接真雪场：吉林培育冰雪全产业链人才",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731283.shtml",
+        "publishedAt": "2026-11-13T09:39:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T09:40:02.505+08:00",
+    "fetchedAt": "2026-11-13T09:50:03.396+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T09:40:06.812+08:00",
+      "fetchedAt": "2026-11-13T09:50:37.581+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 10,
+          "usedPct": 17,
           "resetAt": "2026-11-13T14:10:36.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 74,
+          "usedPct": 76,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T09:40:07.197+08:00",
+      "fetchedAt": "2026-11-13T09:50:37.989+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T09:40:07.207+08:00",
+      "fetchedAt": "2026-11-13T09:50:38.000+08:00",
       "error": null
     }
   }
