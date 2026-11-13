@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T12:50:08.309+08:00",
+  "updatedAt": "2026-11-13T13:00:47.930+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-13T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-13T12:50:08.309+08:00",
+    "fetchedAt": "2026-11-13T13:00:47.930+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "三部门推出新政 企业办事少跑腿 四项业务实现联动联办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731416.shtml",
+        "publishedAt": "2026-11-13T12:50:58.000+08:00"
+      },
       {
         "title": "华北火流星陨石追踪：它是什么、价值多少、归谁所有",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731415.shtml",
@@ -35,17 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-13T12:33:17.000+08:00"
       },
       {
-        "title": "三部门推出新政 企业办事少跑腿 四项业务实现联动联办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731412.shtml",
-        "publishedAt": "2026-11-13T12:30:56.000+08:00"
-      },
-      {
         "title": "进博会结束了，长三角为什么更忙了？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731411.shtml",
         "publishedAt": "2026-11-13T12:30:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T12:50:03.084+08:00",
+    "fetchedAt": "2026-11-13T13:00:12.243+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T12:50:06.777+08:00",
+      "fetchedAt": "2026-11-13T13:00:46.388+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T12:50:07.057+08:00",
+      "fetchedAt": "2026-11-13T13:00:46.763+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T12:50:07.060+08:00",
+      "fetchedAt": "2026-11-13T13:00:46.772+08:00",
       "error": null
     }
   }
