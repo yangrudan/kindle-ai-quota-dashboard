@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T19:20:09.770+08:00",
+  "updatedAt": "2026-11-13T19:30:09.634+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.7,
-    "feelsLikeC": 19.6,
+    "feelsLikeC": 19.7,
     "humidity": 93,
-    "windKph": 1.7,
+    "windKph": 1.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-13T19:20:09.770+08:00",
+    "observedAt": "2026-11-13T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-13T19:30:09.634+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "明起我国自北向南逐步降温 多地将迎大范围雨雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731665.shtml",
-        "publishedAt": "2026-11-13T19:13:38.000+08:00"
+        "title": "（投资中国）GE医疗无锡基地迎30周年 向全球发布创新成果",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731647.shtml",
+        "publishedAt": "2026-11-13T19:25:49.000+08:00"
       },
       {
-        "title": "国航“空轨联运”落地大湾区 七城一票直达",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731617.shtml",
-        "publishedAt": "2026-11-13T19:08:36.000+08:00"
+        "title": "浙江新增南欧陆运通道：义乌至法国米拉马斯中欧班列首发",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-13/10731656.shtml",
+        "publishedAt": "2026-11-13T19:23:53.000+08:00"
       },
       {
-        "title": "宁夏引入公益慈善力量助力未成年人关爱保护工作",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731614.shtml",
-        "publishedAt": "2026-11-13T19:08:32.000+08:00"
+        "title": "民生调查局｜特惠车、一口价，逼“疯”网约车司机",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731663.shtml",
+        "publishedAt": "2026-11-13T19:23:33.000+08:00"
       },
       {
-        "title": "普法不再“广撒网” 宁夏“九五”普法探索群众“点单”新模式",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731616.shtml",
-        "publishedAt": "2026-11-13T19:08:30.000+08:00"
+        "title": "“付费彩蛋”乱象该管管了",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731662.shtml",
+        "publishedAt": "2026-11-13T19:22:17.000+08:00"
       },
       {
-        "title": "观众花钱看“拼好剧”？《嫁金钗》18元付费彩蛋惹争议",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731661.shtml",
-        "publishedAt": "2026-11-13T19:07:16.000+08:00"
+        "title": "重庆今年已新增来渝青年人才、留渝高校毕业生27.5万人",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731622.shtml",
+        "publishedAt": "2026-11-13T19:22:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T19:20:03.953+08:00",
+    "fetchedAt": "2026-11-13T19:30:04.008+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T19:20:08.553+08:00",
+      "fetchedAt": "2026-11-13T19:30:08.250+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T19:20:08.879+08:00",
+      "fetchedAt": "2026-11-13T19:30:08.642+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T19:20:08.882+08:00",
+      "fetchedAt": "2026-11-13T19:30:08.652+08:00",
       "error": null
     }
   }
