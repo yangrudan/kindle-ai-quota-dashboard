@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T07:50:18.817+08:00",
+  "updatedAt": "2026-11-13T08:00:07.957+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.1,
-    "feelsLikeC": 15,
-    "humidity": 97,
-    "windKph": 1.7,
+    "tempC": 14.6,
+    "feelsLikeC": 15.6,
+    "humidity": 95,
+    "windKph": 1.1,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-13T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T07:50:18.817+08:00",
+    "observedAt": "2026-11-13T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-13T08:00:07.957+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "谷歌“司法战”受挫 欧洲法院顾问质疑撤销谷歌罚款裁决",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731251.shtml",
+        "publishedAt": "2026-11-13T07:50:47.000+08:00"
+      },
+      {
+        "title": "出口暴涨116.6%！国产“新顶流” 全球爆单",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731256.shtml",
+        "publishedAt": "2026-11-13T07:49:45.000+08:00"
+      },
+      {
+        "title": "大雾黄色预警：十余省区市有大雾 京津冀等部分地区有浓雾",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731254.shtml",
+        "publishedAt": "2026-11-13T07:43:43.000+08:00"
+      },
+      {
         "title": "北京今天有雾昼夜温差大 周日大气扩散条件和能见度将好转",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731253.shtml",
         "publishedAt": "2026-11-13T07:41:13.000+08:00"
       },
       {
-        "title": "净水器何时换滤芯 真由商家说了算？",
+        "title": "净水器何时换滤芯，真由商家说了算？真相来了",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731252.shtml",
         "publishedAt": "2026-11-13T07:35:02.000+08:00"
-      },
-      {
-        "title": "胡塞武装宣布对沙特发起四次军事行动，打击石油设施及空军基地",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731249.shtml",
-        "publishedAt": "2026-11-13T07:27:04.000+08:00"
-      },
-      {
-        "title": "美国华盛顿发生枪击事件 已致1死4伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731248.shtml",
-        "publishedAt": "2026-11-13T07:24:04.000+08:00"
-      },
-      {
-        "title": "11月13日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-13/10731247.shtml",
-        "publishedAt": "2026-11-13T07:00:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T07:50:12.378+08:00",
+    "fetchedAt": "2026-11-13T08:00:03.100+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T07:50:17.044+08:00",
+      "fetchedAt": "2026-11-13T08:00:06.707+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T12:50:18.000+08:00"
+          "resetAt": "2026-11-13T13:00:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T07:50:17.314+08:00",
+      "fetchedAt": "2026-11-13T08:00:06.951+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T07:50:17.318+08:00",
+      "fetchedAt": "2026-11-13T08:00:06.959+08:00",
       "error": null
     }
   }
