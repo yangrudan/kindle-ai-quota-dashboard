@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T17:50:08.679+08:00",
+  "updatedAt": "2026-11-13T18:00:09.183+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.2,
-    "feelsLikeC": 20.4,
-    "humidity": 90,
-    "windKph": 0.5,
-    "windDir": "北风",
+    "tempC": 18.1,
+    "feelsLikeC": 20.3,
+    "humidity": 91,
+    "windKph": 0.6,
+    "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-13T17:50:08.679+08:00",
+    "observedAt": "2026-11-13T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-13T18:00:09.183+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重点突出“安全”“环保” 《汽车改装管理办法》公开征求意见",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731589.shtml",
-        "publishedAt": "2026-11-13T17:36:09.000+08:00"
+        "title": "2026年应对三峡库区危岩崩塌水上联合演练今日举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731595.shtml",
+        "publishedAt": "2026-11-13T17:53:00.000+08:00"
       },
       {
-        "title": "土耳其专家点赞中国地热资源利用：为生态保护与经济发展协同推进提供思路｜新闻会客厅",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731573.shtml",
-        "publishedAt": "2026-11-13T17:19:10.000+08:00"
+        "title": "守护老年人睡眠质量与居家品质 家纺适老化国家标准发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731594.shtml",
+        "publishedAt": "2026-11-13T17:51:40.000+08:00"
       },
       {
-        "title": "“中国-土耳其生态文明与绿色转型对话会”在土耳其伊斯坦布尔举办",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-13/10731575.shtml",
-        "publishedAt": "2026-11-13T17:18:50.000+08:00"
+        "title": "火锅、针灸与供应链，暨南人在欧洲搭起民间桥",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731592.shtml",
+        "publishedAt": "2026-11-13T17:50:42.000+08:00"
       },
       {
-        "title": "把“板凳”搬到“露天会场”，5.2万居民和社区干部聊难题",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731574.shtml",
-        "publishedAt": "2026-11-13T17:14:16.000+08:00"
+        "title": "辽宁集聚省内外作家共筑精品出版高地",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731591.shtml",
+        "publishedAt": "2026-11-13T17:50:36.000+08:00"
       },
       {
-        "title": "上海公布“交大医学院基因编辑研究事件”调查结果",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731572.shtml",
-        "publishedAt": "2026-11-13T17:13:02.000+08:00"
+        "title": "中国科协撤销3人“全国优秀科技工作者”荣誉",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731585.shtml",
+        "publishedAt": "2026-11-13T17:49:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T17:50:03.256+08:00",
+    "fetchedAt": "2026-11-13T18:00:03.173+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T17:50:07.292+08:00",
+      "fetchedAt": "2026-11-13T18:00:07.503+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
+          "usedPct": 63,
           "resetAt": "2026-11-13T19:52:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 9,
+          "usedPct": 10,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T17:50:07.597+08:00",
+      "fetchedAt": "2026-11-13T18:00:08.073+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T17:50:07.606+08:00",
+      "fetchedAt": "2026-11-13T18:00:08.082+08:00",
       "error": null
     }
   }
