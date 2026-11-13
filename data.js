@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T06:30:38.817+08:00",
+  "updatedAt": "2026-11-14T06:40:38.814+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-14T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T06:30:38.817+08:00",
+    "fetchedAt": "2026-11-14T06:40:38.814+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "科斯塔：欧洲五国及欧盟机构将参与下一轮乌克兰问题谈判",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731873.shtml",
+        "publishedAt": "2026-11-14T06:32:49.000+08:00"
+      },
+      {
+        "title": "美国联邦航空管理局发布全国范围地面停飞指令",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731872.shtml",
+        "publishedAt": "2026-11-14T06:31:03.000+08:00"
+      },
+      {
+        "title": "《惊天魔盗团·魔幻现场秀》登陆纽约百老汇",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-14/10731871.shtml",
+        "publishedAt": "2026-11-14T06:28:57.000+08:00"
+      },
       {
         "title": "新疆阿克苏地区库车市发生5.0级地震",
         "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731870.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "香港中通社举办系列活动庆祝成立70周年",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731869.shtml",
         "publishedAt": "2026-11-13T23:28:18.000+08:00"
-      },
-      {
-        "title": "湄南河灯光节展现泰国历史文化魅力",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731867.shtml",
-        "publishedAt": "2026-11-13T23:19:28.000+08:00"
-      },
-      {
-        "title": "“投资中国”比荷卢企业圆桌会在布鲁塞尔举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731866.shtml",
-        "publishedAt": "2026-11-13T23:18:52.000+08:00"
-      },
-      {
-        "title": "速度滑冰世界杯北京站开赛 宁忠岩男子1000米破场地纪录夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731865.shtml",
-        "publishedAt": "2026-11-13T23:17:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T06:30:03.354+08:00",
+    "fetchedAt": "2026-11-14T06:40:03.095+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T06:30:37.496+08:00",
+      "fetchedAt": "2026-11-14T06:40:37.490+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T11:30:38.000+08:00"
+          "resetAt": "2026-11-14T11:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T06:30:37.768+08:00",
+      "fetchedAt": "2026-11-14T06:40:37.720+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T06:30:37.779+08:00",
+      "fetchedAt": "2026-11-14T06:40:37.729+08:00",
       "error": null
     }
   }
