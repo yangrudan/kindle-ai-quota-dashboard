@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T15:50:10.706+08:00",
+  "updatedAt": "2026-11-13T16:00:09.149+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.3,
-    "feelsLikeC": 20.9,
-    "humidity": 79,
-    "windKph": 1.7,
-    "windDir": "东北风",
+    "tempC": 19.8,
+    "feelsLikeC": 21.5,
+    "humidity": 80,
+    "windKph": 3.6,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-13T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-13T15:50:10.706+08:00",
+    "observedAt": "2026-11-13T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-13T16:00:09.150+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国防部：中国军队将搭建更多更好的中外青年军官交流平台",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731518.shtml",
+        "publishedAt": "2026-11-13T15:55:42.000+08:00"
+      },
+      {
+        "title": "2026世界中文大会发布国际中文教育垂直大模型",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731519.shtml",
+        "publishedAt": "2026-11-13T15:51:25.000+08:00"
+      },
       {
         "title": "外交部：对于所谓的“中国间谍”论调，我们已经多次阐明立场",
         "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731517.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "祖国腾飞，我奋飞——从八一飞行表演队多彩航迹看人民空军精神风貌",
         "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731516.shtml",
         "publishedAt": "2026-11-13T15:36:49.000+08:00"
-      },
-      {
-        "title": "上海出台首部科学数据管理专项文件",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731498.shtml",
-        "publishedAt": "2026-11-13T15:36:33.000+08:00"
-      },
-      {
-        "title": "今年以来北京新增道路非机动车停车位22.2万个",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731496.shtml",
-        "publishedAt": "2026-11-13T15:35:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T15:50:04.668+08:00",
+    "fetchedAt": "2026-11-13T16:00:03.161+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T15:50:08.757+08:00",
+      "fetchedAt": "2026-11-13T16:00:07.784+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
+          "usedPct": 19,
           "resetAt": "2026-11-13T19:52:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T15:50:09.103+08:00",
+      "fetchedAt": "2026-11-13T16:00:07.980+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T15:50:09.112+08:00",
+      "fetchedAt": "2026-11-13T16:00:07.988+08:00",
       "error": null
     }
   }
