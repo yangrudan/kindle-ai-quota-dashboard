@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T17:30:08.776+08:00",
+  "updatedAt": "2026-11-13T17:40:08.069+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-13T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T17:30:08.777+08:00",
+    "fetchedAt": "2026-11-13T17:40:08.069+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "重点突出“安全”“环保” 《汽车改装管理办法》公开征求意见",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731589.shtml",
+        "publishedAt": "2026-11-13T17:36:09.000+08:00"
+      },
       {
         "title": "土耳其专家点赞中国地热资源利用：为生态保护与经济发展协同推进提供思路｜新闻会客厅",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731573.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "上海公布“交大医学院基因编辑研究事件”调查结果",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731572.shtml",
         "publishedAt": "2026-11-13T17:13:02.000+08:00"
-      },
-      {
-        "title": "伊斯坦布尔大学副教授：中国探索实践为绿色与数字化转型提供经验 | 新闻会客厅",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731571.shtml",
-        "publishedAt": "2026-11-13T17:12:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T17:30:03.464+08:00",
+    "fetchedAt": "2026-11-13T17:40:02.908+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T17:30:07.079+08:00",
+      "fetchedAt": "2026-11-13T17:40:06.717+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T17:30:07.412+08:00",
+      "fetchedAt": "2026-11-13T17:40:07.036+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T17:30:07.420+08:00",
+      "fetchedAt": "2026-11-13T17:40:07.046+08:00",
       "error": null
     }
   }
