@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T13:20:12.163+08:00",
+  "updatedAt": "2026-11-13T13:30:09.443+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.9,
-    "feelsLikeC": 20.5,
+    "tempC": 19,
+    "feelsLikeC": 20.6,
     "humidity": 78,
     "windKph": 0.4,
-    "windDir": "南风",
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-13T13:20:12.164+08:00",
+    "observedAt": "2026-11-13T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-13T13:30:09.443+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "AI时代，软件产业靠什么赢得竞争",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731424.shtml",
+        "publishedAt": "2026-11-13T13:20:57.000+08:00"
+      },
+      {
+        "title": "跟车700多公里，看新能源重卡何以越跑越远",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731421.shtml",
+        "publishedAt": "2026-11-13T13:16:47.000+08:00"
+      },
       {
         "title": "海外这些地名，藏着几多“侨味”？",
         "url": "https://www.chinanews.com.cn/hr/2026/11-13/10731420.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "三部门推出新政 企业办事少跑腿 四项业务实现联动联办",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731416.shtml",
         "publishedAt": "2026-11-13T12:50:58.000+08:00"
-      },
-      {
-        "title": "华北火流星陨石追踪：它是什么、价值多少、归谁所有",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731415.shtml",
-        "publishedAt": "2026-11-13T12:36:33.000+08:00"
-      },
-      {
-        "title": "小车次激活“流动中国”大叙事",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731413.shtml",
-        "publishedAt": "2026-11-13T12:34:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T13:20:06.218+08:00",
+    "fetchedAt": "2026-11-13T13:30:03.817+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T13:20:10.222+08:00",
+      "fetchedAt": "2026-11-13T13:30:08.055+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T13:20:10.563+08:00",
+      "fetchedAt": "2026-11-13T13:30:08.403+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T13:20:10.572+08:00",
+      "fetchedAt": "2026-11-13T13:30:08.414+08:00",
       "error": null
     }
   }
