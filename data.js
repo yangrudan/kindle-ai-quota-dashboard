@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T11:40:09.803+08:00",
+  "updatedAt": "2026-11-13T11:50:39.176+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
-    "feelsLikeC": 18.7,
-    "humidity": 85,
-    "windKph": 0.9,
+    "tempC": 17.7,
+    "feelsLikeC": 19.1,
+    "humidity": 83,
+    "windKph": 1.2,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T11:40:09.803+08:00",
+    "observedAt": "2026-11-13T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-13T11:50:39.176+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西区运会的绿茵“双城对决” 检验青训成果",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731372.shtml",
-        "publishedAt": "2026-11-13T11:36:36.000+08:00"
+        "title": "6平方米档口连通世界 她的 “国际手账” 记录异国来客",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731396.shtml",
+        "publishedAt": "2026-11-13T11:46:56.000+08:00"
       },
       {
-        "title": "黑龙江省首个危旧住房自主更新原拆原建项目通过竣工验收",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731368.shtml",
-        "publishedAt": "2026-11-13T11:35:59.000+08:00"
+        "title": "（深圳APEC）APEC“中国年”的湾区效能：粤港澳各展所长、协同发力",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731395.shtml",
+        "publishedAt": "2026-11-13T11:44:08.000+08:00"
       },
       {
-        "title": "康弘药业KH607进入Ⅲ期临床，国产创新药瞄准抑郁症疗效难题",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731367.shtml",
-        "publishedAt": "2026-11-13T11:35:21.000+08:00"
+        "title": "2026海外华文媒体山东行在济南启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731389.shtml",
+        "publishedAt": "2026-11-13T11:43:02.000+08:00"
       },
       {
-        "title": "水效入链，回馈入河，百事集团持续探索可持续水资源管理新路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731366.shtml",
-        "publishedAt": "2026-11-13T11:34:19.000+08:00"
+        "title": "（深圳APEC）APEC进入“深圳时间” 为亚太经贸合作注入确定性",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731388.shtml",
+        "publishedAt": "2026-11-13T11:42:22.000+08:00"
       },
       {
-        "title": "2027年全国硕士研究生招生考试安全工作视频会召开",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731392.shtml",
-        "publishedAt": "2026-11-13T11:33:37.000+08:00"
+        "title": "八省（区）林业有害生物联防联治工作会议在福建将乐举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731387.shtml",
+        "publishedAt": "2026-11-13T11:41:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T11:40:03.645+08:00",
+    "fetchedAt": "2026-11-13T11:50:03.660+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T11:40:08.474+08:00",
+      "fetchedAt": "2026-11-13T11:50:37.527+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 48,
+          "usedPct": 49,
           "resetAt": "2026-11-13T14:10:36.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-20T11:40:09.000+08:00"
+          "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T11:40:08.804+08:00",
+      "fetchedAt": "2026-11-13T11:50:37.874+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T11:40:08.808+08:00",
+      "fetchedAt": "2026-11-13T11:50:37.881+08:00",
       "error": null
     }
   }
