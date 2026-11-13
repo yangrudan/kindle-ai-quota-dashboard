@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T22:40:08.905+08:00",
+  "updatedAt": "2026-11-13T22:50:11.743+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.8,
-    "feelsLikeC": 18.9,
+    "feelsLikeC": 18.8,
     "humidity": 96,
-    "windKph": 0.4,
+    "windKph": 0.5,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T22:40:08.905+08:00",
+    "observedAt": "2026-11-13T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-13T22:50:11.743+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香港将2026年经济增长预测上调至4.8%",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731854.shtml",
+        "publishedAt": "2026-11-13T22:49:22.000+08:00"
+      },
       {
         "title": "日本核污染水排放总量超19万吨",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731850.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "江豚逐水入画来 千年古镇“守”与“新”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731847.shtml",
         "publishedAt": "2026-11-13T22:28:43.000+08:00"
-      },
-      {
-        "title": "全球首座半潜式风电制氢平台拖航启程",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731848.shtml",
-        "publishedAt": "2026-11-13T22:27:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T22:40:03.589+08:00",
+    "fetchedAt": "2026-11-13T22:50:05.062+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T22:40:07.416+08:00",
+      "fetchedAt": "2026-11-13T22:50:09.893+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T03:40:08.000+08:00"
+          "resetAt": "2026-11-14T03:50:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T22:40:07.745+08:00",
+      "fetchedAt": "2026-11-13T22:50:10.177+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T22:40:07.755+08:00",
+      "fetchedAt": "2026-11-13T22:50:10.187+08:00",
       "error": null
     }
   }
