@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-13T17:10:08.820+08:00",
+  "updatedAt": "2026-11-13T17:20:39.186+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 18.5,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 18.4,
     "feelsLikeC": 20.1,
-    "humidity": 88,
-    "windKph": 4.4,
+    "humidity": 89,
+    "windKph": 3.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-13T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T17:10:08.820+08:00",
+    "observedAt": "2026-11-13T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-13T17:20:39.186+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "土耳其经济学家：以技术实力守护绿水青山，中国为全球能源转型提供重要支撑 | 新闻会客厅",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731566.shtml",
-        "publishedAt": "2026-11-13T16:57:07.000+08:00"
+        "title": "把“板凳”搬到“露天会场”，5.2万居民和社区干部聊难题",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731574.shtml",
+        "publishedAt": "2026-11-13T17:14:16.000+08:00"
       },
       {
-        "title": "数说APEC 一场双向奔赴的投资",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731565.shtml",
-        "publishedAt": "2026-11-13T16:52:55.000+08:00"
+        "title": "上海公布“交大医学院基因编辑研究事件”调查结果",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731572.shtml",
+        "publishedAt": "2026-11-13T17:13:02.000+08:00"
       },
       {
-        "title": "“中国-土耳其生态文明与绿色转型对话会”在土耳其伊斯坦布尔举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731561.shtml",
-        "publishedAt": "2026-11-13T16:52:15.000+08:00"
+        "title": "智能体加速落地，“数字员工”走进千行百业",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731570.shtml",
+        "publishedAt": "2026-11-13T17:09:54.000+08:00"
       },
       {
-        "title": "没有强迫硬说强迫！你说强迫就是强迫？",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-13/10731564.shtml",
-        "publishedAt": "2026-11-13T16:51:47.000+08:00"
+        "title": "澳经济学家：期待亚太共同体建设成为其他地区典范",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731569.shtml",
+        "publishedAt": "2026-11-13T17:07:45.000+08:00"
       },
       {
-        "title": "一个AI创意 如何在亚太加快落地？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731563.shtml",
-        "publishedAt": "2026-11-13T16:51:21.000+08:00"
+        "title": "李强抵达曼谷开始对泰国进行正式访问",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731549.shtml",
+        "publishedAt": "2026-11-13T17:07:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T17:10:03.214+08:00",
+    "fetchedAt": "2026-11-13T17:20:04.064+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T17:10:07.399+08:00",
+      "fetchedAt": "2026-11-13T17:20:37.477+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 51,
+          "usedPct": 58,
           "resetAt": "2026-11-13T19:52:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
+          "usedPct": 9,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T17:10:07.724+08:00",
+      "fetchedAt": "2026-11-13T17:20:37.870+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T17:10:07.733+08:00",
+      "fetchedAt": "2026-11-13T17:20:37.880+08:00",
       "error": null
     }
   }
