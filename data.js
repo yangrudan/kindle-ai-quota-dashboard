@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T21:40:09.527+08:00",
+  "updatedAt": "2026-11-13T21:50:39.118+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.1,
-    "feelsLikeC": 19.2,
+    "tempC": 17,
+    "feelsLikeC": 19.1,
     "humidity": 95,
     "windKph": 0.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-13T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T21:40:09.528+08:00",
+    "observedAt": "2026-11-13T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-13T21:50:39.118+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "粤港澳大湾区（广州）绿色船舶能源供应链联盟成立",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731773.shtml",
-        "publishedAt": "2026-11-13T21:35:50.000+08:00"
+        "title": "浙江：到2030年全域旅游综合收入达1.5万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731822.shtml",
+        "publishedAt": "2026-11-13T21:42:30.000+08:00"
       },
       {
-        "title": "刀刻樟木间 江西东固造像传承六百年",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731763.shtml",
-        "publishedAt": "2026-11-13T21:35:24.000+08:00"
+        "title": "科技赋能储粮 七台河市勃利县31万吨智慧粮库即将投用",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731794.shtml",
+        "publishedAt": "2026-11-13T21:42:28.000+08:00"
       },
       {
-        "title": "中国海警三都舰结束对马来西亚槟城港口访问",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731807.shtml",
-        "publishedAt": "2026-11-13T21:34:58.000+08:00"
+        "title": "世界最长跨海高铁桥海上架梁提速",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731821.shtml",
+        "publishedAt": "2026-11-13T21:42:26.000+08:00"
       },
       {
-        "title": "从“滨江花果城”到“开放节点” 云南元江通道经济加速转型",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731754.shtml",
-        "publishedAt": "2026-11-13T21:34:58.000+08:00"
+        "title": "湖南冷水滩晚稻抢收忙 社会化烘干告别 “靠天晒谷”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731762.shtml",
+        "publishedAt": "2026-11-13T21:42:26.000+08:00"
       },
       {
-        "title": "拼“全”制胜 广西水文尖兵技能比武“炼”人才",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731759.shtml",
-        "publishedAt": "2026-11-13T21:34:04.000+08:00"
+        "title": "《颠覆性技术产业化指数报告（2026）》在天津发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731808.shtml",
+        "publishedAt": "2026-11-13T21:42:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T21:40:03.795+08:00",
+    "fetchedAt": "2026-11-13T21:50:03.108+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T21:40:08.119+08:00",
+      "fetchedAt": "2026-11-13T21:50:37.365+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T02:40:09.000+08:00"
+          "resetAt": "2026-11-14T02:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T21:40:08.514+08:00",
+      "fetchedAt": "2026-11-13T21:50:37.849+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T21:40:08.524+08:00",
+      "fetchedAt": "2026-11-13T21:50:37.858+08:00",
       "error": null
     }
   }
