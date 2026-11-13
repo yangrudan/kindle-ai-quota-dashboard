@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T20:00:08.337+08:00",
+  "updatedAt": "2026-11-13T20:10:09.491+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-13T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T20:00:08.337+08:00",
+    "fetchedAt": "2026-11-13T20:10:09.491+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "企业数据跨境合规与安全实务课堂在京举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731685.shtml",
-        "publishedAt": "2026-11-13T19:52:32.000+08:00"
+        "title": "全国近百名职教社代表齐聚宁德 共话地方组织建设与产教融合发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731680.shtml",
+        "publishedAt": "2026-11-13T20:01:39.000+08:00"
       },
       {
-        "title": "闽宁协作打通宁夏农货出海新通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731681.shtml",
-        "publishedAt": "2026-11-13T19:50:54.000+08:00"
+        "title": "官宣：常卫魏任女足国家队主教练",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731702.shtml",
+        "publishedAt": "2026-11-13T19:57:57.000+08:00"
       },
       {
-        "title": "“孙中山与上海统一战线”座谈会在沪举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-13/10731683.shtml",
-        "publishedAt": "2026-11-13T19:49:48.000+08:00"
+        "title": "前10月东莞对APEC其他经济体进出口近万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731688.shtml",
+        "publishedAt": "2026-11-13T19:56:01.000+08:00"
       },
       {
-        "title": "大雾橙色预警：京津冀等15省份部分地区有大雾",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731664.shtml",
-        "publishedAt": "2026-11-13T19:46:40.000+08:00"
+        "title": "联合国糖尿病日科普传播活动：从“管血糖”到“管健康”",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-13/10731676.shtml",
+        "publishedAt": "2026-11-13T19:54:57.000+08:00"
       },
       {
-        "title": "一日“打卡”600家博物馆 “博博会”海口开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731690.shtml",
-        "publishedAt": "2026-11-13T19:42:58.000+08:00"
+        "title": "从31分出发：一位重庆援疆教师的边疆答卷",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-13/10731679.shtml",
+        "publishedAt": "2026-11-13T19:53:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T20:00:02.593+08:00",
+    "fetchedAt": "2026-11-13T20:10:03.982+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T20:00:06.964+08:00",
+      "fetchedAt": "2026-11-13T20:10:07.940+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T01:00:08.000+08:00"
+          "resetAt": "2026-11-14T01:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T20:00:07.351+08:00",
+      "fetchedAt": "2026-11-13T20:10:08.357+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T20:00:07.360+08:00",
+      "fetchedAt": "2026-11-13T20:10:08.368+08:00",
       "error": null
     }
   }
