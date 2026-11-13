@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T21:20:08.321+08:00",
+  "updatedAt": "2026-11-13T21:30:09.079+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.2,
-    "feelsLikeC": 19.3,
-    "humidity": 94,
-    "windKph": 0.4,
+    "tempC": 17.1,
+    "feelsLikeC": 19.2,
+    "humidity": 95,
+    "windKph": 0.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-13T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-13T21:20:08.321+08:00",
+    "observedAt": "2026-11-13T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-13T21:30:09.080+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "三星堆-金沙联合展位亮相第十一届“博博会”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731731.shtml",
-        "publishedAt": "2026-11-13T21:15:07.000+08:00"
+        "title": "先贤往事“声”入人心 民盟盟员在可感可知中重温盟史",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-13/10731736.shtml",
+        "publishedAt": "2026-11-13T21:23:05.000+08:00"
       },
       {
-        "title": "特写：一笼内蒙古羊肉烧麦的杭州之旅",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731734.shtml",
-        "publishedAt": "2026-11-13T21:13:37.000+08:00"
+        "title": "浙江：2026义乌新能源与储能出口博览会启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731735.shtml",
+        "publishedAt": "2026-11-13T21:22:35.000+08:00"
       },
       {
-        "title": "肚子长出“西瓜”！湖南医院多学科一次手术解难题",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-13/10731730.shtml",
-        "publishedAt": "2026-11-13T21:13:01.000+08:00"
+        "title": "致敬中国生态文明 4K超高清纪录片《红树林》发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731733.shtml",
+        "publishedAt": "2026-11-13T21:22:03.000+08:00"
       },
       {
-        "title": "甘肃灵活就业群体权益保障有新解",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731728.shtml",
-        "publishedAt": "2026-11-13T21:11:23.000+08:00"
+        "title": "台湾媒体人走进广州大元帅府 追寻孙中山革命初心",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731783.shtml",
+        "publishedAt": "2026-11-13T21:21:37.000+08:00"
       },
       {
-        "title": "感动网友的“母女吃7碗白米饭”系摆拍！演出来的“暖心”，凉了谁的心？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731726.shtml",
-        "publishedAt": "2026-11-13T21:10:37.000+08:00"
+        "title": "文艺复兴艺术与明清书画特展在海口展出",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731778.shtml",
+        "publishedAt": "2026-11-13T21:21:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T21:20:03.432+08:00",
+    "fetchedAt": "2026-11-13T21:30:03.877+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T21:20:06.958+08:00",
+      "fetchedAt": "2026-11-13T21:30:07.610+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T02:20:08.000+08:00"
+          "resetAt": "2026-11-14T02:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T21:20:07.248+08:00",
+      "fetchedAt": "2026-11-13T21:30:07.922+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T21:20:07.257+08:00",
+      "fetchedAt": "2026-11-13T21:30:07.926+08:00",
       "error": null
     }
   }
