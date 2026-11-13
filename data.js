@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T12:30:40.384+08:00",
+  "updatedAt": "2026-11-13T12:40:39.019+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-13T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T12:30:40.384+08:00",
+    "fetchedAt": "2026-11-13T12:40:39.019+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "增进互信、着眼长远，中美政党对话聚焦两国相处之道",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731405.shtml",
-        "publishedAt": "2026-11-13T12:22:40.000+08:00"
+        "title": "小车次激活“流动中国”大叙事",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731413.shtml",
+        "publishedAt": "2026-11-13T12:34:35.000+08:00"
       },
       {
-        "title": "从戏服到汉服，5万人小镇“绣”出百亿元“华裳产业”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731404.shtml",
-        "publishedAt": "2026-11-13T12:16:22.000+08:00"
+        "title": "红星照耀中国·三军会师启新程| 这所小学为何会有一座镌刻了《七律·长征》的诗碑",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731414.shtml",
+        "publishedAt": "2026-11-13T12:33:17.000+08:00"
       },
       {
-        "title": "“祝愿家乡所有人平安快乐”——这场中美视频连线“跨越百年”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731403.shtml",
-        "publishedAt": "2026-11-13T12:13:36.000+08:00"
+        "title": "三部门推出新政 企业办事少跑腿 四项业务实现联动联办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731412.shtml",
+        "publishedAt": "2026-11-13T12:30:56.000+08:00"
       },
       {
-        "title": "怎样看待当前消费形势？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731402.shtml",
-        "publishedAt": "2026-11-13T12:11:03.000+08:00"
+        "title": "进博会结束了，长三角为什么更忙了？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731411.shtml",
+        "publishedAt": "2026-11-13T12:30:00.000+08:00"
       },
       {
-        "title": "“为亚太经济增长开辟更广阔空间”——访亚太经合组织秘书处前执行主任卡普纳伊",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731401.shtml",
-        "publishedAt": "2026-11-13T12:05:01.000+08:00"
+        "title": "国资国企以高质量党建促进高质量发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731410.shtml",
+        "publishedAt": "2026-11-13T12:27:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T12:30:04.300+08:00",
+    "fetchedAt": "2026-11-13T12:40:04.301+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T12:30:38.982+08:00",
+      "fetchedAt": "2026-11-13T12:40:37.747+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T12:30:39.277+08:00",
+      "fetchedAt": "2026-11-13T12:40:38.118+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T12:30:39.280+08:00",
+      "fetchedAt": "2026-11-13T12:40:38.121+08:00",
       "error": null
     }
   }
