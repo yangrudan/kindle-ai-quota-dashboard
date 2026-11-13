@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T10:10:09.181+08:00",
+  "updatedAt": "2026-11-13T10:20:09.571+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
+    "tempC": 17.2,
     "feelsLikeC": 18.7,
     "humidity": 85,
-    "windKph": 0.8,
+    "windKph": 0.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T10:10:09.182+08:00",
+    "observedAt": "2026-11-13T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-13T10:20:09.572+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "增强免疫力 改善睡眠 这种水果维生素C含量是苹果的60倍",
+        "url": "https://www.chinanews.com.cn/life/2026/11-13/10731326.shtml",
+        "publishedAt": "2026-11-13T10:10:23.000+08:00"
+      },
       {
         "title": "货车司机完不成的指标 检察官揭露“套路运”诈骗连环计",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731322.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "日本接连发生禽流感疫情 20余万只鸡将被扑杀",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731308.shtml",
         "publishedAt": "2026-11-13T10:05:13.000+08:00"
-      },
-      {
-        "title": "蜀道新长征，中国铁塔打通巴蜀深山的“信息动脉”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731315.shtml",
-        "publishedAt": "2026-11-13T10:04:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T10:10:03.828+08:00",
+    "fetchedAt": "2026-11-13T10:20:04.245+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T10:10:07.890+08:00",
+      "fetchedAt": "2026-11-13T10:20:08.327+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 23,
           "resetAt": "2026-11-13T14:10:36.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 76,
+          "usedPct": 77,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T10:10:07.997+08:00",
+      "fetchedAt": "2026-11-13T10:20:08.528+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T10:10:08.006+08:00",
+      "fetchedAt": "2026-11-13T10:20:08.537+08:00",
       "error": null
     }
   }
