@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T21:00:10.207+08:00",
+  "updatedAt": "2026-11-13T21:10:38.041+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-13T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T21:00:10.208+08:00",
+    "fetchedAt": "2026-11-13T21:10:38.041+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "12306开始卖国际机票了！手把手教你如何购买",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731716.shtml",
-        "publishedAt": "2026-11-13T20:54:02.000+08:00"
+        "title": "浙大研究团队首次揭示溶酶体钙摄取机制 筑基罕见病研究",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-13/10731723.shtml",
+        "publishedAt": "2026-11-13T21:04:26.000+08:00"
       },
       {
-        "title": "制造对立、渲染悲情 MCN灰产套路不断翻新，平台如何破局？",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-13/10731713.shtml",
-        "publishedAt": "2026-11-13T20:51:56.000+08:00"
+        "title": "2026年海峡两岸农博会·花博会在杭州举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731722.shtml",
+        "publishedAt": "2026-11-13T21:02:56.000+08:00"
       },
       {
-        "title": "事关建筑垃圾循环利用 市场监管总局发布国家标准",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731711.shtml",
-        "publishedAt": "2026-11-13T20:50:54.000+08:00"
+        "title": "到2030年中国新型储能装机规模计划达3亿千瓦",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731719.shtml",
+        "publishedAt": "2026-11-13T21:01:50.000+08:00"
       },
       {
-        "title": "使用暖手宝，这些禁忌别忽视",
-        "url": "https://www.chinanews.com.cn/life/2026/11-13/10731712.shtml",
-        "publishedAt": "2026-11-13T20:39:13.000+08:00"
+        "title": "第十三届上海国际童书展开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731720.shtml",
+        "publishedAt": "2026-11-13T21:00:46.000+08:00"
       },
       {
-        "title": "事关流程工业智能工厂业务管理 市场监管总局发布国家标准",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731709.shtml",
-        "publishedAt": "2026-11-13T20:27:50.000+08:00"
+        "title": "“双十一”包裹奔赴东盟 “中国购”解锁跨境极速达",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-13/10731721.shtml",
+        "publishedAt": "2026-11-13T20:59:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T21:00:04.513+08:00",
+    "fetchedAt": "2026-11-13T21:10:02.793+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T21:00:08.917+08:00",
+      "fetchedAt": "2026-11-13T21:10:36.661+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T02:00:10.000+08:00"
+          "resetAt": "2026-11-14T02:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T21:00:09.217+08:00",
+      "fetchedAt": "2026-11-13T21:10:36.952+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T21:00:09.226+08:00",
+      "fetchedAt": "2026-11-13T21:10:36.959+08:00",
       "error": null
     }
   }
