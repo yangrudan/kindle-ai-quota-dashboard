@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-13T16:40:13.025+08:00",
+  "updatedAt": "2026-11-13T16:50:14.330+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.2,
-    "feelsLikeC": 20.8,
-    "humidity": 84,
-    "windKph": 4,
+    "tempC": 18.8,
+    "feelsLikeC": 20.4,
+    "humidity": 86,
+    "windKph": 4.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-13T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T16:40:13.025+08:00",
+    "observedAt": "2026-11-13T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-13T16:50:14.331+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "秋假拉动出游热 长沙景区人气攀升",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731538.shtml",
-        "publishedAt": "2026-11-13T16:33:42.000+08:00"
+        "title": "“十五五”期间我国国有林场将重点推进四大体系建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731555.shtml",
+        "publishedAt": "2026-11-13T16:43:58.000+08:00"
       },
       {
-        "title": "中国团队揭示大脑三维空间实时导航系统 助力新一代脑机接口研发",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731540.shtml",
-        "publishedAt": "2026-11-13T16:33:40.000+08:00"
+        "title": "土耳其资深学者：绿色产能重塑全球格局 土中合作为新兴经济体提供参考样本 | 新闻会客厅",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731553.shtml",
+        "publishedAt": "2026-11-13T16:40:26.000+08:00"
       },
       {
-        "title": "中俄研究者贝加尔湖畔携手探索地球奥秘",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731551.shtml",
-        "publishedAt": "2026-11-13T16:33:06.000+08:00"
+        "title": "博物馆里的“魔法光”：戴上眼镜看细节，摘下眼镜看悬浮",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731543.shtml",
+        "publishedAt": "2026-11-13T16:37:36.000+08:00"
       },
       {
-        "title": "港商眼中的APEC：离小老板很远？其实不远",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731539.shtml",
-        "publishedAt": "2026-11-13T16:32:22.000+08:00"
+        "title": "联合国环境规划署前官员：“全球南方接受气候援助”这一认知已过时，期待携手推动气候治理｜新闻会客厅",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731548.shtml",
+        "publishedAt": "2026-11-13T16:36:28.000+08:00"
       },
       {
-        "title": "探访内蒙古戈壁小站：为边民 “加油”，为共富 “续航”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731537.shtml",
-        "publishedAt": "2026-11-13T16:31:37.000+08:00"
+        "title": "湖北神农架：村民“设宴” 鸟雀“吃席”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731542.shtml",
+        "publishedAt": "2026-11-13T16:35:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T16:40:04.685+08:00",
+    "fetchedAt": "2026-11-13T16:50:02.966+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 0,
+          "usedPct": 100,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1 / 1 AIC"
+          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T16:40:11.601+08:00",
+      "fetchedAt": "2026-11-13T16:50:12.526+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 34,
+          "usedPct": 39,
           "resetAt": "2026-11-13T19:52:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T16:40:12.026+08:00",
+      "fetchedAt": "2026-11-13T16:50:12.881+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T16:40:12.035+08:00",
+      "fetchedAt": "2026-11-13T16:50:12.891+08:00",
       "error": null
     }
   }
