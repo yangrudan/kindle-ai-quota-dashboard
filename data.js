@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T12:10:08.726+08:00",
+  "updatedAt": "2026-11-13T12:20:08.058+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18,
-    "feelsLikeC": 19.4,
-    "humidity": 82,
+    "tempC": 18.2,
+    "feelsLikeC": 19.6,
+    "humidity": 81,
     "windKph": 1.4,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T12:10:08.727+08:00",
+    "observedAt": "2026-11-13T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-13T12:20:08.059+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "怎样看待当前消费形势？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731402.shtml",
+        "publishedAt": "2026-11-13T12:11:03.000+08:00"
+      },
+      {
+        "title": "“为亚太经济增长开辟更广阔空间”——访亚太经合组织秘书处前执行主任卡普纳伊",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731401.shtml",
+        "publishedAt": "2026-11-13T12:05:01.000+08:00"
+      },
       {
         "title": "伊朗专家会议呼吁审议退出《不扩散核武器条约》",
         "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731357.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "APEC朋友圈丨VR京剧“洋创客”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731399.shtml",
         "publishedAt": "2026-11-13T11:53:06.000+08:00"
-      },
-      {
-        "title": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731398.shtml",
-        "publishedAt": "2026-11-13T11:50:58.000+08:00"
-      },
-      {
-        "title": "从华强北到平湖实验室 探访深圳的科创密码",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731397.shtml",
-        "publishedAt": "2026-11-13T11:48:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T12:10:03.743+08:00",
+    "fetchedAt": "2026-11-13T12:20:02.844+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T12:10:07.459+08:00",
+      "fetchedAt": "2026-11-13T12:20:06.499+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 68,
+          "usedPct": 73,
           "resetAt": "2026-11-13T14:10:36.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T12:10:07.729+08:00",
+      "fetchedAt": "2026-11-13T12:20:06.942+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T12:10:07.737+08:00",
+      "fetchedAt": "2026-11-13T12:20:06.951+08:00",
       "error": null
     }
   }
