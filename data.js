@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T12:00:07.935+08:00",
+  "updatedAt": "2026-11-13T12:10:08.726+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-13T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T12:00:07.935+08:00",
+    "fetchedAt": "2026-11-13T12:10:08.727+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊朗专家会议呼吁审议退出《不扩散核武器条约》",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731357.shtml",
+        "publishedAt": "2026-11-13T11:57:05.000+08:00"
+      },
+      {
+        "title": "凤凰台上 家国长歌（铸牢共同体 中华一家亲）",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-13/10731400.shtml",
+        "publishedAt": "2026-11-13T11:56:15.000+08:00"
+      },
+      {
+        "title": "APEC朋友圈丨VR京剧“洋创客”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731399.shtml",
+        "publishedAt": "2026-11-13T11:53:06.000+08:00"
+      },
       {
         "title": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731398.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "从华强北到平湖实验室 探访深圳的科创密码",
         "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731397.shtml",
         "publishedAt": "2026-11-13T11:48:48.000+08:00"
-      },
-      {
-        "title": "6平方米档口连通世界 她的 “国际手账” 记录异国来客",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731396.shtml",
-        "publishedAt": "2026-11-13T11:46:56.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）APEC“中国年”的湾区效能：粤港澳各展所长、协同发力",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731395.shtml",
-        "publishedAt": "2026-11-13T11:44:08.000+08:00"
-      },
-      {
-        "title": "2026海外华文媒体山东行在济南启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731389.shtml",
-        "publishedAt": "2026-11-13T11:43:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T12:00:02.588+08:00",
+    "fetchedAt": "2026-11-13T12:10:03.743+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T12:00:06.518+08:00",
+      "fetchedAt": "2026-11-13T12:10:07.459+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 49,
+          "usedPct": 68,
           "resetAt": "2026-11-13T14:10:36.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
+          "usedPct": 3,
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T12:00:06.803+08:00",
+      "fetchedAt": "2026-11-13T12:10:07.729+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T12:00:06.812+08:00",
+      "fetchedAt": "2026-11-13T12:10:07.737+08:00",
       "error": null
     }
   }
