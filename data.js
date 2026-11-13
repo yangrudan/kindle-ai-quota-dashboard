@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T14:00:09.671+08:00",
+  "updatedAt": "2026-11-13T14:10:09.060+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-13T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T14:00:09.672+08:00",
+    "fetchedAt": "2026-11-13T14:10:09.060+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（乡村行·看振兴）广东寒鸭村：“绿电兴村”跑出乡村振兴“加速度”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731442.shtml",
-        "publishedAt": "2026-11-13T13:53:29.000+08:00"
+        "title": "斯诺克冠中冠赛：赵心童无缘四强 中国球手三人皆止步",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731446.shtml",
+        "publishedAt": "2026-11-13T14:04:12.000+08:00"
       },
       {
-        "title": "河北滦州“老爷爷报告团”：一堂讲了19年的课",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731441.shtml",
-        "publishedAt": "2026-11-13T13:53:23.000+08:00"
+        "title": "2026年新疆青少年航空、车辆、建筑模型教育竞赛举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731443.shtml",
+        "publishedAt": "2026-11-13T14:02:33.000+08:00"
       },
       {
-        "title": "学者：藏传佛教史就是各民族交往交流交融史",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731440.shtml",
-        "publishedAt": "2026-11-13T13:49:39.000+08:00"
+        "title": "聚力打造徐州科创大走廊 构建区域创新发展新格局",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731444.shtml",
+        "publishedAt": "2026-11-13T14:02:23.000+08:00"
       },
       {
-        "title": "从“鲜见候鸟”到“天鹅落脚”：河北宽城瀑河生态蝶变",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731439.shtml",
-        "publishedAt": "2026-11-13T13:48:53.000+08:00"
+        "title": "湖南涟源探索秸秆饲料化利用 种养循环破解秸秆处置难题",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731456.shtml",
+        "publishedAt": "2026-11-13T14:01:17.000+08:00"
       },
       {
-        "title": "新疆健全家庭教育法治体系 护航少年健康成长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731437.shtml",
-        "publishedAt": "2026-11-13T13:48:41.000+08:00"
+        "title": "2026泉州南少林功夫精英赛开幕 逾千名海内外选手同场竞技",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-13/news1074793.shtml",
+        "publishedAt": "2026-11-13T13:58:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T14:00:03.934+08:00",
+    "fetchedAt": "2026-11-13T14:10:03.514+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T14:00:08.233+08:00",
+      "fetchedAt": "2026-11-13T14:10:07.247+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 89,
+          "usedPct": 100,
           "resetAt": "2026-11-13T14:10:36.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 6,
+          "usedPct": 8,
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T14:00:08.554+08:00",
+      "fetchedAt": "2026-11-13T14:10:07.616+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T14:00:08.560+08:00",
+      "fetchedAt": "2026-11-13T14:10:07.625+08:00",
       "error": null
     }
   }
