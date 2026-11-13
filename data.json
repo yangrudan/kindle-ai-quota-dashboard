@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-13T11:50:39.176+08:00",
+  "updatedAt": "2026-11-13T12:00:07.935+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
-    "feelsLikeC": 19.1,
-    "humidity": 83,
-    "windKph": 1.2,
+    "tempC": 18,
+    "feelsLikeC": 19.4,
+    "humidity": 82,
+    "windKph": 1.4,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-13T11:50:39.176+08:00",
+    "observedAt": "2026-11-13T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-13T12:00:07.935+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731398.shtml",
+        "publishedAt": "2026-11-13T11:50:58.000+08:00"
+      },
+      {
+        "title": "从华强北到平湖实验室 探访深圳的科创密码",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731397.shtml",
+        "publishedAt": "2026-11-13T11:48:48.000+08:00"
+      },
       {
         "title": "6平方米档口连通世界 她的 “国际手账” 记录异国来客",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731396.shtml",
@@ -33,19 +43,9 @@
         "title": "2026海外华文媒体山东行在济南启动",
         "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731389.shtml",
         "publishedAt": "2026-11-13T11:43:02.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）APEC进入“深圳时间” 为亚太经贸合作注入确定性",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731388.shtml",
-        "publishedAt": "2026-11-13T11:42:22.000+08:00"
-      },
-      {
-        "title": "八省（区）林业有害生物联防联治工作会议在福建将乐举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731387.shtml",
-        "publishedAt": "2026-11-13T11:41:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T11:50:03.660+08:00",
+    "fetchedAt": "2026-11-13T12:00:02.588+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T11:50:37.527+08:00",
+      "fetchedAt": "2026-11-13T12:00:06.518+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T11:50:37.874+08:00",
+      "fetchedAt": "2026-11-13T12:00:06.803+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T11:50:37.881+08:00",
+      "fetchedAt": "2026-11-13T12:00:06.812+08:00",
       "error": null
     }
   }
