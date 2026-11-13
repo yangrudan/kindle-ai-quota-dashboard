@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T08:10:08.703+08:00",
+  "updatedAt": "2026-11-13T08:20:07.395+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.6,
-    "feelsLikeC": 15.6,
-    "humidity": 95,
-    "windKph": 1.1,
-    "windDir": "西风",
+    "tempC": 15.1,
+    "feelsLikeC": 16.2,
+    "humidity": 94,
+    "windKph": 1.6,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T08:10:08.703+08:00",
+    "observedAt": "2026-11-13T08:15:00.000+08:00",
+    "fetchedAt": "2026-11-13T08:20:07.396+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中央气象台：华南江南等地有降水 新疆等地多雨雪 华北黄淮东北等地有雾霾天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731260.shtml",
+        "publishedAt": "2026-11-13T08:18:25.000+08:00"
+      },
+      {
+        "title": "进一步完善党和国家监督体系（学习贯彻党的二十届五中全会精神）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731258.shtml",
+        "publishedAt": "2026-11-13T08:09:12.000+08:00"
+      },
+      {
+        "title": "学习贯彻党的二十届五中全会精神中央宣讲团在外交部宣讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731259.shtml",
+        "publishedAt": "2026-11-13T08:06:52.000+08:00"
+      },
       {
         "title": "谷歌“司法战”受挫 欧洲法院顾问质疑撤销谷歌罚款裁决",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731251.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "出口暴涨116.6%！国产“新顶流”全球爆单",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731256.shtml",
         "publishedAt": "2026-11-13T07:49:45.000+08:00"
-      },
-      {
-        "title": "大雾黄色预警：十余省区市有大雾 京津冀等部分地区有浓雾",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731254.shtml",
-        "publishedAt": "2026-11-13T07:43:43.000+08:00"
-      },
-      {
-        "title": "北京今天有雾昼夜温差大 周日大气扩散条件和能见度将好转",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731253.shtml",
-        "publishedAt": "2026-11-13T07:41:13.000+08:00"
-      },
-      {
-        "title": "净水器何时换滤芯，真由商家说了算？真相来了",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731252.shtml",
-        "publishedAt": "2026-11-13T07:35:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T08:10:03.443+08:00",
+    "fetchedAt": "2026-11-13T08:20:02.732+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T08:10:07.308+08:00",
+      "fetchedAt": "2026-11-13T08:20:06.143+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T13:10:08.000+08:00"
+          "resetAt": "2026-11-13T13:20:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T08:10:07.613+08:00",
+      "fetchedAt": "2026-11-13T08:20:06.359+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T08:10:07.619+08:00",
+      "fetchedAt": "2026-11-13T08:20:06.363+08:00",
       "error": null
     }
   }
