@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T10:50:08.628+08:00",
+  "updatedAt": "2026-11-13T11:00:09.577+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.9,
-    "feelsLikeC": 18.3,
+    "feelsLikeC": 18.2,
     "humidity": 86,
-    "windKph": 0.9,
+    "windKph": 0.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-13T10:50:08.629+08:00",
+    "observedAt": "2026-11-13T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-13T11:00:09.577+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "增长45.4%！10月新型基础设施等领域投资持续升温",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731364.shtml",
+        "publishedAt": "2026-11-13T10:52:17.000+08:00"
+      },
+      {
+        "title": "秋假带火研学游、亲子游 多地惠民文旅上线",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731360.shtml",
+        "publishedAt": "2026-11-13T10:50:21.000+08:00"
+      },
+      {
+        "title": "重庆荣昌营商环境体系观察：数字背后的温度",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731346.shtml",
+        "publishedAt": "2026-11-13T10:47:53.000+08:00"
+      },
+      {
+        "title": "2026年广东省女子篮球联赛：佛山队、东莞队会师决赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731348.shtml",
+        "publishedAt": "2026-11-13T10:46:07.000+08:00"
+      },
+      {
         "title": "亚洲最大耙吸挖泥船“浚广”守护粤西能源港湾",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731340.shtml",
         "publishedAt": "2026-11-13T10:40:10.000+08:00"
-      },
-      {
-        "title": "聚焦产业创新探索 2026生物制造大赛决赛将在天津举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731331.shtml",
-        "publishedAt": "2026-11-13T10:38:42.000+08:00"
-      },
-      {
-        "title": "金价波动加剧，多家银行新增积存金挂单业务",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731353.shtml",
-        "publishedAt": "2026-11-13T10:38:12.000+08:00"
-      },
-      {
-        "title": "北交所：开市五年 从81家到355家",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731350.shtml",
-        "publishedAt": "2026-11-13T10:35:50.000+08:00"
-      },
-      {
-        "title": "无弦琵琶雕塑出圈背后的政协担当",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731325.shtml",
-        "publishedAt": "2026-11-13T10:35:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T10:50:02.698+08:00",
+    "fetchedAt": "2026-11-13T11:00:03.341+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T10:50:06.820+08:00",
+      "fetchedAt": "2026-11-13T11:00:07.643+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 35,
+          "usedPct": 39,
           "resetAt": "2026-11-13T14:10:36.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 78,
+          "usedPct": 79,
           "resetAt": "2026-11-13T11:28:14.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T10:50:07.283+08:00",
+      "fetchedAt": "2026-11-13T11:00:07.967+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T10:50:07.294+08:00",
+      "fetchedAt": "2026-11-13T11:00:07.979+08:00",
       "error": null
     }
   }
