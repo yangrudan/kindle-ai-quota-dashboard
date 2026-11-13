@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T13:30:09.443+08:00",
+  "updatedAt": "2026-11-13T13:40:09.870+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-13T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T13:30:09.443+08:00",
+    "fetchedAt": "2026-11-13T13:40:09.870+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "海口海关华为延伸云平台硬件设备维保服务项目比选成交公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-13/10731445.shtml",
+        "publishedAt": "2026-11-13T13:35:24.000+08:00"
+      },
+      {
+        "title": "中国教育部：2027年全国硕士研究生报考人数为347万",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731427.shtml",
+        "publishedAt": "2026-11-13T13:29:58.000+08:00"
+      },
       {
         "title": "AI时代，软件产业靠什么赢得竞争",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731424.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "海外这些地名，藏着几多“侨味”？",
         "url": "https://www.chinanews.com.cn/hr/2026/11-13/10731420.shtml",
         "publishedAt": "2026-11-13T13:12:49.000+08:00"
-      },
-      {
-        "title": "粮食、能源、油气安全有保障—— 三个视角看经济安全",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731419.shtml",
-        "publishedAt": "2026-11-13T13:10:29.000+08:00"
-      },
-      {
-        "title": "三部门推出新政 企业办事少跑腿 四项业务实现联动联办",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731416.shtml",
-        "publishedAt": "2026-11-13T12:50:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T13:30:03.817+08:00",
+    "fetchedAt": "2026-11-13T13:40:03.493+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T13:30:08.055+08:00",
+      "fetchedAt": "2026-11-13T13:40:07.952+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T13:30:08.403+08:00",
+      "fetchedAt": "2026-11-13T13:40:08.567+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T13:30:08.414+08:00",
+      "fetchedAt": "2026-11-13T13:40:08.577+08:00",
       "error": null
     }
   }
