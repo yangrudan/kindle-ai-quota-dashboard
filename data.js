@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T20:10:09.491+08:00",
+  "updatedAt": "2026-11-13T20:20:09.939+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 19.6,
-    "humidity": 93,
-    "windKph": 0.9,
-    "windDir": "东风",
+    "tempC": 17.5,
+    "feelsLikeC": 19.5,
+    "humidity": 94,
+    "windKph": 1.2,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T20:10:09.491+08:00",
+    "observedAt": "2026-11-13T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-13T20:20:09.939+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "在世界中文大会 看见“不止于语言”的国际中文教育",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-13/1210722.shtml",
+        "publishedAt": "2026-11-13T20:09:57.000+08:00"
+      },
+      {
+        "title": "世界中文大会全体会议在北京举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-13/1210720.shtml",
+        "publishedAt": "2026-11-13T20:08:46.000+08:00"
+      },
       {
         "title": "全国近百名职教社代表齐聚宁德 共话地方组织建设与产教融合发展",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731680.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "前10月东莞对APEC其他经济体进出口近万亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731688.shtml",
         "publishedAt": "2026-11-13T19:56:01.000+08:00"
-      },
-      {
-        "title": "联合国糖尿病日科普传播活动：从“管血糖”到“管健康”",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-13/10731676.shtml",
-        "publishedAt": "2026-11-13T19:54:57.000+08:00"
-      },
-      {
-        "title": "从31分出发：一位重庆援疆教师的边疆答卷",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-13/10731679.shtml",
-        "publishedAt": "2026-11-13T19:53:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T20:10:03.982+08:00",
+    "fetchedAt": "2026-11-13T20:20:04.196+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T20:10:07.940+08:00",
+      "fetchedAt": "2026-11-13T20:20:08.582+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T01:10:09.000+08:00"
+          "resetAt": "2026-11-14T01:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T20:10:08.357+08:00",
+      "fetchedAt": "2026-11-13T20:20:08.826+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T20:10:08.368+08:00",
+      "fetchedAt": "2026-11-13T20:20:08.836+08:00",
       "error": null
     }
   }
