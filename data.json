@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-13T14:50:18.142+08:00",
+  "updatedAt": "2026-11-13T15:00:09.401+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.2,
-    "feelsLikeC": 20.5,
+    "tempC": 19.3,
+    "feelsLikeC": 20.7,
     "humidity": 78,
-    "windKph": 2.3,
-    "windDir": "东风",
+    "windKph": 2.7,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-13T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T14:50:18.142+08:00",
+    "observedAt": "2026-11-13T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-13T15:00:09.401+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "云朵枕号称“护脊贴合”，适合儿童吗",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-13/10731473.shtml",
+        "publishedAt": "2026-11-13T14:53:22.000+08:00"
+      },
+      {
+        "title": "一架相机一年拍到野生动物2000多次，四川官员向世界分享环保经验",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731450.shtml",
+        "publishedAt": "2026-11-13T14:50:30.000+08:00"
+      },
+      {
+        "title": "从长臂猿到大叶茶，海南官员在土耳其分享热带生态保护经验",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731436.shtml",
+        "publishedAt": "2026-11-13T14:46:54.000+08:00"
+      },
       {
         "title": "俞岚：以媒体之力，为全球绿色转型凝聚共识、贡献智慧",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731464.shtml",
@@ -28,24 +43,9 @@
         "title": "相约旅游 买近万元套餐后“女友”失联 起底网恋骗局",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731466.shtml",
         "publishedAt": "2026-11-13T14:39:05.000+08:00"
-      },
-      {
-        "title": "欧洲夏季高温带来中国空调供不应求，马龙以案例谈企业绿色创新",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731430.shtml",
-        "publishedAt": "2026-11-13T14:38:45.000+08:00"
-      },
-      {
-        "title": "尚健：中土两国在绿色发展领域优势互补、潜力巨大",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731425.shtml",
-        "publishedAt": "2026-11-13T14:38:33.000+08:00"
-      },
-      {
-        "title": "胡军：让绿色发展成果更好惠及各国人民",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731423.shtml",
-        "publishedAt": "2026-11-13T14:38:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T14:50:12.719+08:00",
+    "fetchedAt": "2026-11-13T15:00:04.302+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T14:50:16.556+08:00",
+      "fetchedAt": "2026-11-13T15:00:08.209+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 100,
-          "resetAt": "2026-11-13T19:14:27.000+08:00"
+          "usedPct": 6,
+          "resetAt": "2026-11-13T19:52:34.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 24,
-          "resetAt": "2026-11-20T11:43:02.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T14:50:16.828+08:00",
+      "fetchedAt": "2026-11-13T15:00:08.484+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T14:50:16.837+08:00",
+      "fetchedAt": "2026-11-13T15:00:08.488+08:00",
       "error": null
     }
   }
