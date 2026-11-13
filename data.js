@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T00:40:39.059+08:00",
+  "updatedAt": "2026-11-14T00:50:09.453+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 16.5,
-    "feelsLikeC": 18.4,
+    "feelsLikeC": 18.3,
     "humidity": 96,
-    "windKph": 1,
+    "windKph": 1.1,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-14T00:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T00:40:39.060+08:00",
+    "observedAt": "2026-11-14T00:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T00:50:09.454+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新疆阿克苏地区库车市发生5.0级地震",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731870.shtml",
+        "publishedAt": "2026-11-14T00:34:38.000+08:00"
+      },
       {
         "title": "香港中通社举办系列活动庆祝成立70周年",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731869.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "速度滑冰世界杯北京站开赛 宁忠岩男子1000米破场地纪录夺冠",
         "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731865.shtml",
         "publishedAt": "2026-11-13T23:17:47.000+08:00"
-      },
-      {
-        "title": "厉娜带火的鸭舌，十根有四根来自温州！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731864.shtml",
-        "publishedAt": "2026-11-13T23:13:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T00:40:02.609+08:00",
+    "fetchedAt": "2026-11-14T00:50:03.457+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T00:40:37.654+08:00",
+      "fetchedAt": "2026-11-14T00:50:07.722+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T05:40:39.000+08:00"
+          "resetAt": "2026-11-14T05:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T00:40:38.092+08:00",
+      "fetchedAt": "2026-11-14T00:50:08.104+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T00:40:38.101+08:00",
+      "fetchedAt": "2026-11-14T00:50:08.117+08:00",
       "error": null
     }
   }
