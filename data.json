@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-13T12:20:08.058+08:00",
+  "updatedAt": "2026-11-13T12:30:40.384+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.2,
-    "feelsLikeC": 19.6,
-    "humidity": 81,
-    "windKph": 1.4,
+    "tempC": 18.5,
+    "feelsLikeC": 19.9,
+    "humidity": 80,
+    "windKph": 1.2,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-13T12:20:08.059+08:00",
+    "observedAt": "2026-11-13T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-13T12:30:40.384+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "增进互信、着眼长远，中美政党对话聚焦两国相处之道",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731405.shtml",
+        "publishedAt": "2026-11-13T12:22:40.000+08:00"
+      },
+      {
+        "title": "从戏服到汉服，5万人小镇“绣”出百亿元“华裳产业”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731404.shtml",
+        "publishedAt": "2026-11-13T12:16:22.000+08:00"
+      },
+      {
+        "title": "“祝愿家乡所有人平安快乐”——这场中美视频连线“跨越百年”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731403.shtml",
+        "publishedAt": "2026-11-13T12:13:36.000+08:00"
+      },
       {
         "title": "怎样看待当前消费形势？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731402.shtml",
@@ -28,24 +43,9 @@
         "title": "“为亚太经济增长开辟更广阔空间”——访亚太经合组织秘书处前执行主任卡普纳伊",
         "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731401.shtml",
         "publishedAt": "2026-11-13T12:05:01.000+08:00"
-      },
-      {
-        "title": "伊朗专家会议呼吁审议退出《不扩散核武器条约》",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731357.shtml",
-        "publishedAt": "2026-11-13T11:57:05.000+08:00"
-      },
-      {
-        "title": "凤凰台上 家国长歌（铸牢共同体 中华一家亲）",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-13/10731400.shtml",
-        "publishedAt": "2026-11-13T11:56:15.000+08:00"
-      },
-      {
-        "title": "APEC朋友圈丨VR京剧“洋创客”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731399.shtml",
-        "publishedAt": "2026-11-13T11:53:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T12:20:02.844+08:00",
+    "fetchedAt": "2026-11-13T12:30:04.300+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T12:20:06.499+08:00",
+      "fetchedAt": "2026-11-13T12:30:38.982+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T12:20:06.942+08:00",
+      "fetchedAt": "2026-11-13T12:30:39.277+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T12:20:06.951+08:00",
+      "fetchedAt": "2026-11-13T12:30:39.280+08:00",
       "error": null
     }
   }
