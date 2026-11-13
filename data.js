@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T18:30:39.513+08:00",
+  "updatedAt": "2026-11-13T18:40:38.180+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-13T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T18:30:39.513+08:00",
+    "fetchedAt": "2026-11-13T18:40:38.180+08:00",
     "error": null
   },
   "news": {
@@ -25,27 +25,27 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-13T18:21:33.000+08:00"
       },
       {
+        "title": "王毅会见2026中美政党对话美方代表",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731648.shtml",
+        "publishedAt": "2026-11-13T18:19:55.000+08:00"
+      },
+      {
         "title": "三券首发、百景发布：江苏“人工智能+”环省行扬州站推动AI文旅落地",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731613.shtml",
         "publishedAt": "2026-11-13T18:19:07.000+08:00"
       },
       {
+        "title": "（近观中国）世界目光聚焦深圳，习近平将启“APEC时间”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731583.shtml",
+        "publishedAt": "2026-11-13T18:18:19.000+08:00"
+      },
+      {
         "title": "四川牛油果首次出口 攀西牛油果亮相马来西亚市场",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-13/10731612.shtml",
         "publishedAt": "2026-11-13T18:18:07.000+08:00"
-      },
-      {
-        "title": "西藏拉萨迎候鸟越冬",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731638.shtml",
-        "publishedAt": "2026-11-13T18:17:41.000+08:00"
-      },
-      {
-        "title": "第十一届中国博物馆及相关产品与技术博览会在海南海口开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731649.shtml",
-        "publishedAt": "2026-11-13T18:17:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T18:30:04.609+08:00",
+    "fetchedAt": "2026-11-13T18:40:02.987+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T18:30:38.428+08:00",
+      "fetchedAt": "2026-11-13T18:40:36.597+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T18:30:38.485+08:00",
+      "fetchedAt": "2026-11-13T18:40:37.083+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T18:30:38.495+08:00",
+      "fetchedAt": "2026-11-13T18:40:37.091+08:00",
       "error": null
     }
   }
