@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T12:40:39.019+08:00",
+  "updatedAt": "2026-11-13T12:50:08.309+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.5,
-    "feelsLikeC": 19.9,
-    "humidity": 80,
-    "windKph": 1.2,
+    "tempC": 18.7,
+    "feelsLikeC": 20.2,
+    "humidity": 79,
+    "windKph": 0.9,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T12:40:39.019+08:00",
+    "observedAt": "2026-11-13T12:45:00.000+08:00",
+    "fetchedAt": "2026-11-13T12:50:08.309+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "华北火流星陨石追踪：它是什么、价值多少、归谁所有",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731415.shtml",
+        "publishedAt": "2026-11-13T12:36:33.000+08:00"
+      },
       {
         "title": "小车次激活“流动中国”大叙事",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731413.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "进博会结束了，长三角为什么更忙了？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731411.shtml",
         "publishedAt": "2026-11-13T12:30:00.000+08:00"
-      },
-      {
-        "title": "国资国企以高质量党建促进高质量发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731410.shtml",
-        "publishedAt": "2026-11-13T12:27:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T12:40:04.301+08:00",
+    "fetchedAt": "2026-11-13T12:50:03.084+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T12:40:37.747+08:00",
+      "fetchedAt": "2026-11-13T12:50:06.777+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T12:40:38.118+08:00",
+      "fetchedAt": "2026-11-13T12:50:07.057+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T12:40:38.121+08:00",
+      "fetchedAt": "2026-11-13T12:50:07.060+08:00",
       "error": null
     }
   }
