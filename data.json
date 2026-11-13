@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T14:40:10.139+08:00",
+  "updatedAt": "2026-11-13T14:50:18.142+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-13T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T14:40:10.139+08:00",
+    "fetchedAt": "2026-11-13T14:50:18.142+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "数智时代新的社会阶层引关注 第三届新时代新的社会阶层发展学术研讨会在沪举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-13/10731453.shtml",
-        "publishedAt": "2026-11-13T14:11:32.000+08:00"
+        "title": "俞岚：以媒体之力，为全球绿色转型凝聚共识、贡献智慧",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731464.shtml",
+        "publishedAt": "2026-11-13T14:42:00.000+08:00"
       },
       {
-        "title": "同一张照片索赔三次 揭秘食品碰瓷新型敲诈",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731463.shtml",
-        "publishedAt": "2026-11-13T14:10:56.000+08:00"
+        "title": "相约旅游 买近万元套餐后“女友”失联 起底网恋骗局",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731466.shtml",
+        "publishedAt": "2026-11-13T14:39:05.000+08:00"
       },
       {
-        "title": "从COP31长江影像展看重明视界：亿像素阵列计算摄像机加速落地城市内容资产市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731460.shtml",
-        "publishedAt": "2026-11-13T14:09:38.000+08:00"
+        "title": "欧洲夏季高温带来中国空调供不应求，马龙以案例谈企业绿色创新",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731430.shtml",
+        "publishedAt": "2026-11-13T14:38:45.000+08:00"
       },
       {
-        "title": "警方通报上海一饭店“天价酒水账单”：系虚假视频，15人涉案被抓",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731459.shtml",
-        "publishedAt": "2026-11-13T14:08:56.000+08:00"
+        "title": "尚健：中土两国在绿色发展领域优势互补、潜力巨大",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731425.shtml",
+        "publishedAt": "2026-11-13T14:38:33.000+08:00"
       },
       {
-        "title": "“十五五”时期北京将建设“近悦远来”的国际化环境",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731452.shtml",
-        "publishedAt": "2026-11-13T14:08:20.000+08:00"
+        "title": "胡军：让绿色发展成果更好惠及各国人民",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731423.shtml",
+        "publishedAt": "2026-11-13T14:38:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T14:40:03.848+08:00",
+    "fetchedAt": "2026-11-13T14:50:12.719+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T14:40:08.556+08:00",
+      "fetchedAt": "2026-11-13T14:50:16.556+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 71,
+          "usedPct": 100,
           "resetAt": "2026-11-13T19:14:27.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 19,
+          "usedPct": 24,
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T14:40:09.038+08:00",
+      "fetchedAt": "2026-11-13T14:50:16.828+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T14:40:09.042+08:00",
+      "fetchedAt": "2026-11-13T14:50:16.837+08:00",
       "error": null
     }
   }
