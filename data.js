@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T15:20:09.402+08:00",
+  "updatedAt": "2026-11-13T15:30:09.750+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.3,
-    "feelsLikeC": 20.7,
+    "tempC": 19.4,
+    "feelsLikeC": 20.9,
     "humidity": 78,
-    "windKph": 2.6,
+    "windKph": 2.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-13T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-13T15:20:09.402+08:00",
+    "observedAt": "2026-11-13T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-13T15:30:09.751+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“达尔富拉姆事件”88周年纪念活动在澳大利亚伍伦贡市举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-13/1210704.shtml",
+        "publishedAt": "2026-11-13T15:23:08.000+08:00"
+      },
+      {
+        "title": "日媒呼吁坚持“无核三原则” 反对高市政府鲁莽行径",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731499.shtml",
+        "publishedAt": "2026-11-13T15:21:58.000+08:00"
+      },
+      {
+        "title": "贵州毕节多地迎红嘴鸥越冬",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731481.shtml",
+        "publishedAt": "2026-11-13T15:21:06.000+08:00"
+      },
+      {
+        "title": "江苏省徐州市人大常委会主任王安顺接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731487.shtml",
+        "publishedAt": "2026-11-13T15:14:19.000+08:00"
+      },
+      {
         "title": "甘肃成县：林下多茬皆成景 轮作套种无闲田",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731475.shtml",
         "publishedAt": "2026-11-13T15:12:13.000+08:00"
-      },
-      {
-        "title": "中国科协通报：三人被撤销“全国优秀科技工作者”荣誉称号",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731418.shtml",
-        "publishedAt": "2026-11-13T15:11:59.000+08:00"
-      },
-      {
-        "title": "国防部：菲方应严格约束个别政客的危险言行",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-13/10731492.shtml",
-        "publishedAt": "2026-11-13T15:09:43.000+08:00"
-      },
-      {
-        "title": "日本右翼势力种种行径是对战后国际秩序的公然挑衅",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731490.shtml",
-        "publishedAt": "2026-11-13T15:08:35.000+08:00"
-      },
-      {
-        "title": "六省区科普人齐聚广州 探索馆校协同新路径",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731474.shtml",
-        "publishedAt": "2026-11-13T15:08:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T15:20:03.343+08:00",
+    "fetchedAt": "2026-11-13T15:30:03.273+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T15:20:08.051+08:00",
+      "fetchedAt": "2026-11-13T15:30:07.991+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
+          "usedPct": 15,
           "resetAt": "2026-11-13T19:52:34.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T15:20:08.395+08:00",
+      "fetchedAt": "2026-11-13T15:30:08.310+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T15:20:08.405+08:00",
+      "fetchedAt": "2026-11-13T15:30:08.316+08:00",
       "error": null
     }
   }
