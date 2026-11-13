@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T23:20:08.978+08:00",
+  "updatedAt": "2026-11-13T23:30:11.437+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
+    "tempC": 16.6,
     "feelsLikeC": 18.6,
     "humidity": 96,
     "windKph": 0.8,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-13T23:20:08.979+08:00",
+    "observedAt": "2026-11-13T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-13T23:30:11.438+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "湄南河灯光节展现泰国历史文化魅力",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731867.shtml",
+        "publishedAt": "2026-11-13T23:19:28.000+08:00"
+      },
+      {
+        "title": "“投资中国”比荷卢企业圆桌会在布鲁塞尔举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731866.shtml",
+        "publishedAt": "2026-11-13T23:18:52.000+08:00"
+      },
+      {
+        "title": "速度滑冰世界杯北京站开赛 宁忠岩男子1000米破场地纪录夺冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731865.shtml",
+        "publishedAt": "2026-11-13T23:17:47.000+08:00"
+      },
+      {
+        "title": "厉娜带火的鸭舌，十根有四根来自温州！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731864.shtml",
+        "publishedAt": "2026-11-13T23:13:31.000+08:00"
+      },
+      {
         "title": "王毅同韩国外长赵显会谈",
         "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731860.shtml",
         "publishedAt": "2026-11-13T22:55:46.000+08:00"
-      },
-      {
-        "title": "韩国财政经济部：韩国经济总体保持“稳健增长”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731855.shtml",
-        "publishedAt": "2026-11-13T22:50:08.000+08:00"
-      },
-      {
-        "title": "香港将2026年经济增长预测上调至4.8%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731854.shtml",
-        "publishedAt": "2026-11-13T22:49:22.000+08:00"
-      },
-      {
-        "title": "日本核污染水排放总量超19万吨",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731850.shtml",
-        "publishedAt": "2026-11-13T22:33:49.000+08:00"
-      },
-      {
-        "title": "（国际观察）“乌克兰困局”能否迎来破局时刻？",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731846.shtml",
-        "publishedAt": "2026-11-13T22:32:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T23:20:03.942+08:00",
+    "fetchedAt": "2026-11-13T23:30:05.547+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T23:20:07.592+08:00",
+      "fetchedAt": "2026-11-13T23:30:09.733+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T04:20:08.000+08:00"
+          "resetAt": "2026-11-14T04:30:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T23:20:07.758+08:00",
+      "fetchedAt": "2026-11-13T23:30:09.954+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T23:20:07.768+08:00",
+      "fetchedAt": "2026-11-13T23:30:09.964+08:00",
       "error": null
     }
   }
