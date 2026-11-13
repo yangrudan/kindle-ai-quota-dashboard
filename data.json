@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-13T13:10:08.687+08:00",
+  "updatedAt": "2026-11-13T13:20:12.163+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 20.4,
+    "tempC": 18.9,
+    "feelsLikeC": 20.5,
     "humidity": 78,
-    "windKph": 0.6,
-    "windDir": "西南风",
+    "windKph": 0.4,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-13T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T13:10:08.688+08:00",
+    "observedAt": "2026-11-13T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-13T13:20:12.164+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "海外这些地名，藏着几多“侨味”？",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-13/10731420.shtml",
+        "publishedAt": "2026-11-13T13:12:49.000+08:00"
+      },
+      {
+        "title": "粮食、能源、油气安全有保障—— 三个视角看经济安全",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731419.shtml",
+        "publishedAt": "2026-11-13T13:10:29.000+08:00"
+      },
       {
         "title": "三部门推出新政 企业办事少跑腿 四项业务实现联动联办",
         "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731416.shtml",
@@ -33,19 +43,9 @@
         "title": "小车次激活“流动中国”大叙事",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731413.shtml",
         "publishedAt": "2026-11-13T12:34:35.000+08:00"
-      },
-      {
-        "title": "红星照耀中国·三军会师启新程| 这所小学为何会有一座镌刻了《七律·长征》的诗碑",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731414.shtml",
-        "publishedAt": "2026-11-13T12:33:17.000+08:00"
-      },
-      {
-        "title": "进博会结束了，长三角为什么更忙了？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731411.shtml",
-        "publishedAt": "2026-11-13T12:30:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T13:10:03.549+08:00",
+    "fetchedAt": "2026-11-13T13:20:06.218+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T13:10:07.283+08:00",
+      "fetchedAt": "2026-11-13T13:20:10.222+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T11:43:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T13:10:07.612+08:00",
+      "fetchedAt": "2026-11-13T13:20:10.563+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T13:10:07.617+08:00",
+      "fetchedAt": "2026-11-13T13:20:10.572+08:00",
       "error": null
     }
   }
