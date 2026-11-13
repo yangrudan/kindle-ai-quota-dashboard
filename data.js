@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T07:10:08.751+08:00",
+  "updatedAt": "2026-11-14T07:20:38.658+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 16,
-    "feelsLikeC": 17.4,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 16.1,
+    "feelsLikeC": 17.6,
     "humidity": 99,
-    "windKph": 3.6,
+    "windKph": 3.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T07:10:08.751+08:00",
+    "observedAt": "2026-11-14T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-14T07:20:38.658+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月14日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-14/10731874.shtml",
+        "publishedAt": "2026-11-14T07:06:43.000+08:00"
+      },
       {
         "title": "科斯塔：欧洲五国及欧盟机构将参与下一轮乌克兰问题谈判",
         "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731873.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "新疆阿克苏地区库车市发生5.0级地震",
         "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731870.shtml",
         "publishedAt": "2026-11-14T00:34:38.000+08:00"
-      },
-      {
-        "title": "香港中通社举办系列活动庆祝成立70周年",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731869.shtml",
-        "publishedAt": "2026-11-13T23:28:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T07:10:03.200+08:00",
+    "fetchedAt": "2026-11-14T07:20:02.729+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T07:10:07.447+08:00",
+      "fetchedAt": "2026-11-14T07:20:37.025+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T12:10:08.000+08:00"
+          "resetAt": "2026-11-14T12:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T07:10:07.599+08:00",
+      "fetchedAt": "2026-11-14T07:20:37.264+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T07:10:07.609+08:00",
+      "fetchedAt": "2026-11-14T07:20:37.273+08:00",
       "error": null
     }
   }
