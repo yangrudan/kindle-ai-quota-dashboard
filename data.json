@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:30:09.079+08:00",
+  "updatedAt": "2026-11-13T21:40:09.527+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-13T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T21:30:09.080+08:00",
+    "fetchedAt": "2026-11-13T21:40:09.528+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "先贤往事“声”入人心 民盟盟员在可感可知中重温盟史",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-13/10731736.shtml",
-        "publishedAt": "2026-11-13T21:23:05.000+08:00"
+        "title": "粤港澳大湾区（广州）绿色船舶能源供应链联盟成立",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731773.shtml",
+        "publishedAt": "2026-11-13T21:35:50.000+08:00"
       },
       {
-        "title": "浙江：2026义乌新能源与储能出口博览会启幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731735.shtml",
-        "publishedAt": "2026-11-13T21:22:35.000+08:00"
+        "title": "刀刻樟木间 江西东固造像传承六百年",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731763.shtml",
+        "publishedAt": "2026-11-13T21:35:24.000+08:00"
       },
       {
-        "title": "致敬中国生态文明 4K超高清纪录片《红树林》发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731733.shtml",
-        "publishedAt": "2026-11-13T21:22:03.000+08:00"
+        "title": "中国海警三都舰结束对马来西亚槟城港口访问",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731807.shtml",
+        "publishedAt": "2026-11-13T21:34:58.000+08:00"
       },
       {
-        "title": "台湾媒体人走进广州大元帅府 追寻孙中山革命初心",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731783.shtml",
-        "publishedAt": "2026-11-13T21:21:37.000+08:00"
+        "title": "从“滨江花果城”到“开放节点” 云南元江通道经济加速转型",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731754.shtml",
+        "publishedAt": "2026-11-13T21:34:58.000+08:00"
       },
       {
-        "title": "文艺复兴艺术与明清书画特展在海口展出",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731778.shtml",
-        "publishedAt": "2026-11-13T21:21:07.000+08:00"
+        "title": "拼“全”制胜 广西水文尖兵技能比武“炼”人才",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731759.shtml",
+        "publishedAt": "2026-11-13T21:34:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T21:30:03.877+08:00",
+    "fetchedAt": "2026-11-13T21:40:03.795+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-13T21:30:07.610+08:00",
+      "fetchedAt": "2026-11-13T21:40:08.119+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T02:30:08.000+08:00"
+          "resetAt": "2026-11-14T02:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T21:30:07.922+08:00",
+      "fetchedAt": "2026-11-13T21:40:08.514+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-13T21:30:07.926+08:00",
+      "fetchedAt": "2026-11-13T21:40:08.524+08:00",
       "error": null
     }
   }
