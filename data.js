@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T20:30:11.328+08:00",
+  "updatedAt": "2026-11-14T20:40:11.438+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-14T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T20:30:11.328+08:00",
+    "fetchedAt": "2026-11-14T20:40:11.438+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "粤港澳大湾区已成为中国经济活力最强的区域之一",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-14/10732147.shtml",
-        "publishedAt": "2026-11-14T20:05:15.000+08:00"
+        "title": "两岸青年十年踏访茶马古道 在台北举办纪实摄影展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732142.shtml",
+        "publishedAt": "2026-11-14T20:28:11.000+08:00"
       },
       {
-        "title": "绿皮车里“赶巴扎”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732145.shtml",
-        "publishedAt": "2026-11-14T20:02:03.000+08:00"
+        "title": "旅游特色孔子学院联盟揭牌成立",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732141.shtml",
+        "publishedAt": "2026-11-14T20:27:55.000+08:00"
       },
       {
-        "title": "深圳以开放创新应答亚太合作新考题",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732130.shtml",
-        "publishedAt": "2026-11-14T19:59:47.000+08:00"
+        "title": "膳承千年国粹 广西以赛为媒推动药食同源产业融合发展",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732159.shtml",
+        "publishedAt": "2026-11-14T20:26:45.000+08:00"
       },
       {
-        "title": "天津南开大学第34届外语节启幕 搭建中外文化互鉴平台",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732139.shtml",
-        "publishedAt": "2026-11-14T19:57:33.000+08:00"
+        "title": "湖南江永推广“稻稻油”轮作 冬闲田变身增收田",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732157.shtml",
+        "publishedAt": "2026-11-14T20:25:59.000+08:00"
       },
       {
-        "title": "主播说联播丨95岁美国老人的“中国乡愁”，为何引发全网关注？",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732143.shtml",
-        "publishedAt": "2026-11-14T19:56:23.000+08:00"
+        "title": "第五届石家庄“海石杯”高层次人才创新创业大赛落幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732156.shtml",
+        "publishedAt": "2026-11-14T20:25:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T20:30:06.264+08:00",
+    "fetchedAt": "2026-11-14T20:40:05.146+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T20:30:09.968+08:00",
+      "fetchedAt": "2026-11-14T20:40:10.120+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T01:30:11.000+08:00"
+          "resetAt": "2026-11-15T01:40:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T20:30:10.267+08:00",
+      "fetchedAt": "2026-11-14T20:40:10.369+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T20:30:10.276+08:00",
+      "fetchedAt": "2026-11-14T20:40:10.380+08:00",
       "error": null
     }
   }
