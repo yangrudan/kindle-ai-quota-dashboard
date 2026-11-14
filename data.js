@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T12:40:08.757+08:00",
+  "updatedAt": "2026-11-14T12:50:10.490+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20,
-    "feelsLikeC": 21.9,
-    "humidity": 84,
-    "windKph": 3.7,
+    "tempC": 19.7,
+    "feelsLikeC": 21.7,
+    "humidity": 85,
+    "windKph": 3.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T12:40:08.757+08:00",
+    "observedAt": "2026-11-14T12:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T12:50:10.490+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026中国电影表演艺术周在南京开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-14/10731937.shtml",
-        "publishedAt": "2026-11-14T12:18:06.000+08:00"
+        "title": "9项量和单位领域国家标准发布 自2028年1月1日起正式实施",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731941.shtml",
+        "publishedAt": "2026-11-14T12:42:40.000+08:00"
       },
       {
-        "title": "四川首票进口南非油桃抵达成都",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731922.shtml",
-        "publishedAt": "2026-11-14T12:17:30.000+08:00"
+        "title": "国家防总办公室安排部署2026-2027年度凌汛期防凌工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731940.shtml",
+        "publishedAt": "2026-11-14T12:41:50.000+08:00"
       },
       {
-        "title": "宁夏前十月外贸额超222亿元 规模超去年全年",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731920.shtml",
-        "publishedAt": "2026-11-14T12:17:02.000+08:00"
+        "title": "中新健康｜“药篮子”上新！2026年医保商保“双目录”发布",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731942.shtml",
+        "publishedAt": "2026-11-14T12:41:29.000+08:00"
       },
       {
-        "title": "我国10吨级电动商用飞机完成首次有人驾驶智能飞行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731939.shtml",
-        "publishedAt": "2026-11-14T12:08:38.000+08:00"
+        "title": "吉林遭遇持续性大雾 高速关闭航班延误",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731938.shtml",
+        "publishedAt": "2026-11-14T12:38:35.000+08:00"
       },
       {
-        "title": "河南登封嵩山大法王寺千年银杏树披金",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210765.shtml",
-        "publishedAt": "2026-11-14T11:58:49.000+08:00"
+        "title": "傅藏荣任福建宁德市副市长、代理市长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731935.shtml",
+        "publishedAt": "2026-11-14T12:36:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T12:40:02.871+08:00",
+    "fetchedAt": "2026-11-14T12:50:04.337+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T12:40:07.503+08:00",
+      "fetchedAt": "2026-11-14T12:50:08.716+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 84,
+          "usedPct": 88,
           "resetAt": "2026-11-14T13:49:35.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 23,
+          "usedPct": 24,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T12:40:07.739+08:00",
+      "fetchedAt": "2026-11-14T12:50:08.999+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T12:40:07.746+08:00",
+      "fetchedAt": "2026-11-14T12:50:09.005+08:00",
       "error": null
     }
   }
