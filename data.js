@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T18:30:38.931+08:00",
+  "updatedAt": "2026-11-14T18:40:08.619+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-14T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T18:30:38.932+08:00",
+    "fetchedAt": "2026-11-14T18:40:08.619+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第二艘国产大型邮轮开启第二个试运营航次",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732088.shtml",
-        "publishedAt": "2026-11-14T18:25:38.000+08:00"
+        "title": "一瓶水之后：哈尔滨一手机店与“孤独症大博”的半年",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732091.shtml",
+        "publishedAt": "2026-11-14T18:34:02.000+08:00"
       },
       {
-        "title": "“三秦四季·绘览河山——主题美术作品展”在陕西省美术博物馆开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732076.shtml",
-        "publishedAt": "2026-11-14T18:25:36.000+08:00"
+        "title": "医养赋能和美乡村 第四届乡村康养学术交流会在江西婺源举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732086.shtml",
+        "publishedAt": "2026-11-14T18:33:30.000+08:00"
       },
       {
-        "title": "空军多型战机试飞员将亮相第十六届中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732094.shtml",
-        "publishedAt": "2026-11-14T18:24:20.000+08:00"
+        "title": "台商打造妈祖主题沉浸式演艺园区 助两岸文化交流",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732084.shtml",
+        "publishedAt": "2026-11-14T18:31:34.000+08:00"
       },
       {
-        "title": "中外学者兰州对话：丝路引智释放高校开放新势能",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732075.shtml",
-        "publishedAt": "2026-11-14T18:24:08.000+08:00"
+        "title": "上海多方携手共育青少年人工智能创新人才",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732082.shtml",
+        "publishedAt": "2026-11-14T18:29:02.000+08:00"
       },
       {
-        "title": "聚焦APEC丨何立峰出席亚太经合组织工商咨询理事会第四次会议开幕式并致辞",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732093.shtml",
-        "publishedAt": "2026-11-14T18:21:00.000+08:00"
+        "title": "中外专家学者聚福州共探智能建造技术与国际合作",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732077.shtml",
+        "publishedAt": "2026-11-14T18:28:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T18:30:03.846+08:00",
+    "fetchedAt": "2026-11-14T18:40:03.170+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T18:30:37.402+08:00",
+      "fetchedAt": "2026-11-14T18:40:06.922+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T23:30:38.000+08:00"
+          "resetAt": "2026-11-14T23:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T18:30:37.685+08:00",
+      "fetchedAt": "2026-11-14T18:40:07.390+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T18:30:37.693+08:00",
+      "fetchedAt": "2026-11-14T18:40:07.399+08:00",
       "error": null
     }
   }
