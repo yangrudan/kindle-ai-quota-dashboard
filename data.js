@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T12:10:37.764+08:00",
+  "updatedAt": "2026-11-14T12:20:11.442+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 20.2,
-    "feelsLikeC": 22.3,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 20.1,
+    "feelsLikeC": 22.2,
     "humidity": 83,
-    "windKph": 3.1,
+    "windKph": 3.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T12:10:37.764+08:00",
+    "observedAt": "2026-11-14T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-14T12:20:11.442+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "四川首票进口南非油桃抵达成都",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731922.shtml",
+        "publishedAt": "2026-11-14T12:17:30.000+08:00"
+      },
+      {
+        "title": "宁夏前十月外贸额超222亿元 规模超去年全年",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731920.shtml",
+        "publishedAt": "2026-11-14T12:17:02.000+08:00"
+      },
+      {
+        "title": "我国10吨级电动商用飞机完成首次有人驾驶智能飞行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731939.shtml",
+        "publishedAt": "2026-11-14T12:08:38.000+08:00"
+      },
       {
         "title": "香港新闻联创立30周年 李家超寄语业界“立身、立业和立家”",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-14/10731929.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "新疆库车市发生5.0级地震",
         "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731928.shtml",
         "publishedAt": "2026-11-14T11:51:25.000+08:00"
-      },
-      {
-        "title": "潘国强任宁德市委书记",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731927.shtml",
-        "publishedAt": "2026-11-14T11:49:29.000+08:00"
-      },
-      {
-        "title": "爱尔兰在多国领导人晚宴地点附近查获爆炸装置",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731932.shtml",
-        "publishedAt": "2026-11-14T11:41:12.000+08:00"
-      },
-      {
-        "title": "别把腹泻都当“吃坏肚子” 感染性休克早期信号要知道",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731931.shtml",
-        "publishedAt": "2026-11-14T11:38:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T12:10:02.420+08:00",
+    "fetchedAt": "2026-11-14T12:20:06.733+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T12:10:36.347+08:00",
+      "fetchedAt": "2026-11-14T12:20:10.326+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 64,
+          "usedPct": 69,
           "resetAt": "2026-11-14T13:49:35.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 20,
+          "usedPct": 21,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T12:10:36.699+08:00",
+      "fetchedAt": "2026-11-14T12:20:10.559+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T12:10:36.709+08:00",
+      "fetchedAt": "2026-11-14T12:20:10.564+08:00",
       "error": null
     }
   }
