@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T19:00:08.324+08:00",
+  "updatedAt": "2026-11-14T19:10:41.225+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-14T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T19:00:08.324+08:00",
+    "fetchedAt": "2026-11-14T19:10:41.225+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "这5场发布会，传递了哪些信号",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732113.shtml",
+        "publishedAt": "2026-11-14T18:59:14.000+08:00"
+      },
+      {
+        "title": "民众打卡农贸市场寻觅地道云南风味",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732104.shtml",
+        "publishedAt": "2026-11-14T18:58:50.000+08:00"
+      },
+      {
+        "title": "中国排球超级联赛：北京北冰洋女排3比0胜河南双汇女排",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210786.shtml",
+        "publishedAt": "2026-11-14T18:58:01.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）深圳成中国内地首个外贸进出口超5万亿元城市",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732108.shtml",
+        "publishedAt": "2026-11-14T18:57:48.000+08:00"
+      },
+      {
         "title": "绣花针挑起大产业 云南楚雄以赛促产“绣”出新动能",
         "url": "https://www.chinanews.com.cn/mz/2026/11-14/10732105.shtml",
         "publishedAt": "2026-11-14T18:50:27.000+08:00"
-      },
-      {
-        "title": "“一带一路”中阿工商对话在江苏苏州举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732103.shtml",
-        "publishedAt": "2026-11-14T18:46:07.000+08:00"
-      },
-      {
-        "title": "鼎州窑博物馆16件瓷器亮相2026中意陶瓷艺术展",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732101.shtml",
-        "publishedAt": "2026-11-14T18:45:11.000+08:00"
-      },
-      {
-        "title": "重庆今年以来已救护放归近200只鸟类",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732097.shtml",
-        "publishedAt": "2026-11-14T18:42:15.000+08:00"
-      },
-      {
-        "title": "2026中国网球巡回赛职业级总决赛将在澳门举行",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732098.shtml",
-        "publishedAt": "2026-11-14T18:41:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T19:00:02.886+08:00",
+    "fetchedAt": "2026-11-14T19:10:06.002+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T19:00:07.072+08:00",
+      "fetchedAt": "2026-11-14T19:10:39.922+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T00:00:08.000+08:00"
+          "resetAt": "2026-11-15T00:10:41.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T19:00:07.339+08:00",
+      "fetchedAt": "2026-11-14T19:10:40.128+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T19:00:07.348+08:00",
+      "fetchedAt": "2026-11-14T19:10:40.139+08:00",
       "error": null
     }
   }
