@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T11:40:37.228+08:00",
+  "updatedAt": "2026-11-14T11:50:09.045+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.6,
-    "feelsLikeC": 21.8,
-    "humidity": 86,
-    "windKph": 2.1,
-    "windDir": "西风",
+    "tempC": 20,
+    "feelsLikeC": 22.1,
+    "humidity": 84,
+    "windKph": 2.6,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T11:40:37.228+08:00",
+    "observedAt": "2026-11-14T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T11:50:09.045+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "爱尔兰在多国领导人晚宴地点附近查获爆炸装置",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731932.shtml",
+        "publishedAt": "2026-11-14T11:41:12.000+08:00"
+      },
+      {
+        "title": "别把腹泻都当“吃坏肚子” 感染性休克早期信号要知道",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731931.shtml",
+        "publishedAt": "2026-11-14T11:38:10.000+08:00"
+      },
       {
         "title": "大雁、地瓜、船……习近平妙喻APEC合作",
         "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731924.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "贵州全面启动“寒冬送温暖”专项救助行动",
         "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731926.shtml",
         "publishedAt": "2026-11-14T11:25:23.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）在深圳，感受APEC开放故事",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731923.shtml",
-        "publishedAt": "2026-11-14T11:15:49.000+08:00"
-      },
-      {
-        "title": "追忆孙中山与琼岛的百年情缘：“先生没来过海南，却把海南放在心里”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-14/10731921.shtml",
-        "publishedAt": "2026-11-14T11:11:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T11:40:02.247+08:00",
+    "fetchedAt": "2026-11-14T11:50:03.496+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T11:40:35.798+08:00",
+      "fetchedAt": "2026-11-14T11:50:07.475+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 32,
+          "usedPct": 43,
           "resetAt": "2026-11-14T13:49:35.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 15,
+          "usedPct": 17,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T11:40:35.986+08:00",
+      "fetchedAt": "2026-11-14T11:50:07.740+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T11:40:35.990+08:00",
+      "fetchedAt": "2026-11-14T11:50:07.747+08:00",
       "error": null
     }
   }
