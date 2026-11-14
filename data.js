@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T11:50:09.045+08:00",
+  "updatedAt": "2026-11-14T12:00:09.886+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20,
-    "feelsLikeC": 22.1,
-    "humidity": 84,
-    "windKph": 2.6,
+    "tempC": 20.2,
+    "feelsLikeC": 22.3,
+    "humidity": 83,
+    "windKph": 3.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-14T11:50:09.045+08:00",
+    "observedAt": "2026-11-14T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-14T12:00:09.886+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香港新闻联创立30周年 李家超寄语业界“立身、立业和立家”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-14/10731929.shtml",
+        "publishedAt": "2026-11-14T11:53:29.000+08:00"
+      },
+      {
+        "title": "新疆库车市发生5.0级地震",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731928.shtml",
+        "publishedAt": "2026-11-14T11:51:25.000+08:00"
+      },
+      {
+        "title": "潘国强任宁德市委书记",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731927.shtml",
+        "publishedAt": "2026-11-14T11:49:29.000+08:00"
+      },
       {
         "title": "爱尔兰在多国领导人晚宴地点附近查获爆炸装置",
         "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731932.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "别把腹泻都当“吃坏肚子” 感染性休克早期信号要知道",
         "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731931.shtml",
         "publishedAt": "2026-11-14T11:38:10.000+08:00"
-      },
-      {
-        "title": "大雁、地瓜、船……习近平妙喻APEC合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731924.shtml",
-        "publishedAt": "2026-11-14T11:29:02.000+08:00"
-      },
-      {
-        "title": "《青少年体育培训行为规范》施行 专家建议：健全属地落实机制发挥协会专业作用",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731930.shtml",
-        "publishedAt": "2026-11-14T11:28:46.000+08:00"
-      },
-      {
-        "title": "贵州全面启动“寒冬送温暖”专项救助行动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731926.shtml",
-        "publishedAt": "2026-11-14T11:25:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T11:50:03.496+08:00",
+    "fetchedAt": "2026-11-14T12:00:04.790+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T11:50:07.475+08:00",
+      "fetchedAt": "2026-11-14T12:00:08.555+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 43,
+          "usedPct": 53,
           "resetAt": "2026-11-14T13:49:35.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 17,
+          "usedPct": 18,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T11:50:07.740+08:00",
+      "fetchedAt": "2026-11-14T12:00:08.869+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T11:50:07.747+08:00",
+      "fetchedAt": "2026-11-14T12:00:08.878+08:00",
       "error": null
     }
   }
