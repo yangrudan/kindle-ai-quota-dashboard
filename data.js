@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T16:40:07.608+08:00",
+  "updatedAt": "2026-11-14T16:50:08.692+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.6,
-    "feelsLikeC": 20.3,
+    "tempC": 18.4,
+    "feelsLikeC": 20.1,
     "humidity": 95,
-    "windKph": 7,
+    "windKph": 6.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T16:40:07.608+08:00",
+    "observedAt": "2026-11-14T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T16:50:08.692+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "能点头会眨眼却不是真人 谁在帮AI深度伪造“假人脸”通过验证？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732054.shtml",
+        "publishedAt": "2026-11-14T16:44:55.000+08:00"
+      },
+      {
+        "title": "盯上马斯克？美民主党人据称要求保留“星链”限速记录",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732051.shtml",
+        "publishedAt": "2026-11-14T16:41:20.000+08:00"
+      },
+      {
+        "title": "历届“汉语桥”比赛获奖者在2026世界中文大会畅聊经验",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210781.shtml",
+        "publishedAt": "2026-11-14T16:39:16.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）APEC深圳会议各项筹备工作已就绪 呈现三个特点",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732046.shtml",
+        "publishedAt": "2026-11-14T16:36:40.000+08:00"
+      },
+      {
         "title": "甘肃临夏厨房里兴起“浪漫经济”：养眼又养味",
         "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732043.shtml",
         "publishedAt": "2026-11-14T16:30:28.000+08:00"
-      },
-      {
-        "title": "科技赋能让文博场景更“真”更“活”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732036.shtml",
-        "publishedAt": "2026-11-14T16:27:52.000+08:00"
-      },
-      {
-        "title": "府院联动共筑司法屏障 西安以法治护航区域科创中心建设",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732035.shtml",
-        "publishedAt": "2026-11-14T16:25:20.000+08:00"
-      },
-      {
-        "title": "深圳龙岗探索词元经济统计与治理 为智能经济打造“尺子”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732031.shtml",
-        "publishedAt": "2026-11-14T16:23:11.000+08:00"
-      },
-      {
-        "title": "上海资源化利用固废工作向纵深推进 循环理念深入生产生活",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732045.shtml",
-        "publishedAt": "2026-11-14T16:20:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T16:40:02.449+08:00",
+    "fetchedAt": "2026-11-14T16:50:02.982+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T16:40:06.364+08:00",
+      "fetchedAt": "2026-11-14T16:50:07.234+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T21:40:07.000+08:00"
+          "resetAt": "2026-11-14T21:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T16:40:06.609+08:00",
+      "fetchedAt": "2026-11-14T16:50:07.500+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T16:40:06.622+08:00",
+      "fetchedAt": "2026-11-14T16:50:07.509+08:00",
       "error": null
     }
   }
