@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T11:30:07.724+08:00",
+  "updatedAt": "2026-11-14T11:40:37.228+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-14T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T11:30:07.724+08:00",
+    "fetchedAt": "2026-11-14T11:40:37.228+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "大雁、地瓜、船……习近平妙喻APEC合作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731924.shtml",
+        "publishedAt": "2026-11-14T11:29:02.000+08:00"
+      },
+      {
+        "title": "《青少年体育培训行为规范》施行 专家建议：健全属地落实机制发挥协会专业作用",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731930.shtml",
+        "publishedAt": "2026-11-14T11:28:46.000+08:00"
+      },
+      {
+        "title": "贵州全面启动“寒冬送温暖”专项救助行动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731926.shtml",
+        "publishedAt": "2026-11-14T11:25:23.000+08:00"
+      },
       {
         "title": "（深圳APEC）在深圳，感受APEC开放故事",
         "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731923.shtml",
@@ -28,24 +43,9 @@
         "title": "追忆孙中山与琼岛的百年情缘：“先生没来过海南，却把海南放在心里”",
         "url": "https://www.chinanews.com.cn/hr/2026/11-14/10731921.shtml",
         "publishedAt": "2026-11-14T11:11:47.000+08:00"
-      },
-      {
-        "title": "西藏林芝：三省区297名箭手角逐千年响箭",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-14/10731917.shtml",
-        "publishedAt": "2026-11-14T11:07:32.000+08:00"
-      },
-      {
-        "title": "话剧《死无葬身之地》登西安舞台 叩问人性与尊严引观众深思",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-14/10731914.shtml",
-        "publishedAt": "2026-11-14T11:06:32.000+08:00"
-      },
-      {
-        "title": "“青春华章·我们的新长征”大思政课网络主题宣传和互动引导活动在天津举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731911.shtml",
-        "publishedAt": "2026-11-14T11:05:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T11:30:02.962+08:00",
+    "fetchedAt": "2026-11-14T11:40:02.247+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T11:30:06.632+08:00",
+      "fetchedAt": "2026-11-14T11:40:35.798+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 20,
+          "usedPct": 32,
           "resetAt": "2026-11-14T13:49:35.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 13,
+          "usedPct": 15,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T11:30:06.798+08:00",
+      "fetchedAt": "2026-11-14T11:40:35.986+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T11:30:06.802+08:00",
+      "fetchedAt": "2026-11-14T11:40:35.990+08:00",
       "error": null
     }
   }
