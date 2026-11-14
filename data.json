@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-14T15:50:09.228+08:00",
+  "updatedAt": "2026-11-14T16:00:39.092+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 19.7,
-    "feelsLikeC": 21.9,
-    "humidity": 87,
-    "windKph": 3,
-    "windDir": "西北风",
+    "tempC": 19.1,
+    "feelsLikeC": 20.6,
+    "humidity": 92,
+    "windKph": 8.2,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-14T15:50:09.228+08:00",
+    "observedAt": "2026-11-14T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-14T16:00:39.092+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "辽宁省沈阳市发布大雾橙色预警信号",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732022.shtml",
+        "publishedAt": "2026-11-14T15:53:10.000+08:00"
+      },
+      {
+        "title": "全美停飞令解除但混乱持续 “损害公众对美航空系统信任”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732029.shtml",
+        "publishedAt": "2026-11-14T15:51:38.000+08:00"
+      },
       {
         "title": "全国近百名冲浪健儿逐浪汕头",
         "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732012.shtml",
@@ -33,19 +43,9 @@
         "title": "香港福建社团联会致贺28位闽籍人士获香港特区政府授勋、嘉奖及委任",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-14/10732017.shtml",
         "publishedAt": "2026-11-14T15:38:35.000+08:00"
-      },
-      {
-        "title": "中国10吨级电动商用飞机完成首次有人驾驶智能飞行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732009.shtml",
-        "publishedAt": "2026-11-14T15:35:13.000+08:00"
-      },
-      {
-        "title": "2026年APEC领导人会议周新闻中心举办广东、深圳专场中外媒体吹风会",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210770.shtml",
-        "publishedAt": "2026-11-14T15:21:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T15:50:03.237+08:00",
+    "fetchedAt": "2026-11-14T16:00:03.331+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T15:50:07.456+08:00",
+      "fetchedAt": "2026-11-14T16:00:37.736+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T20:50:09.000+08:00"
+          "resetAt": "2026-11-14T21:00:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T15:50:07.882+08:00",
+      "fetchedAt": "2026-11-14T16:00:38.077+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T15:50:07.901+08:00",
+      "fetchedAt": "2026-11-14T16:00:38.087+08:00",
       "error": null
     }
   }
