@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T17:50:08.927+08:00",
+  "updatedAt": "2026-11-14T18:00:38.659+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.8,
-    "feelsLikeC": 19.2,
+    "tempC": 17.7,
+    "feelsLikeC": 19,
     "humidity": 97,
-    "windKph": 7.6,
+    "windKph": 8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-14T17:50:08.927+08:00",
+    "observedAt": "2026-11-14T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-14T18:00:38.659+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "以悬疑为外壳讲述女性伤痛 《她是受害者》分享会举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-14/10732048.shtml",
+        "publishedAt": "2026-11-14T17:52:52.000+08:00"
+      },
+      {
+        "title": "古都西安初冬景色如画 民众彩林间赏景休闲",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732072.shtml",
+        "publishedAt": "2026-11-14T17:47:30.000+08:00"
+      },
+      {
+        "title": "山西公安公布6起新型黑恶违法犯罪典型案例",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732038.shtml",
+        "publishedAt": "2026-11-14T17:47:06.000+08:00"
+      },
+      {
+        "title": "蒙商银行股份有限公司原党委副书记廉斌被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732060.shtml",
+        "publishedAt": "2026-11-14T17:46:16.000+08:00"
+      },
+      {
         "title": "黑龙江伊春启幕冰雪旅游“百日行动” 打造国际森林冰雪运动目的地",
         "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732062.shtml",
         "publishedAt": "2026-11-14T17:43:22.000+08:00"
-      },
-      {
-        "title": "福建福鼎嵛山镇出台“新岛民”措施 让上岛人才留得下、干得久",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732058.shtml",
-        "publishedAt": "2026-11-14T17:41:20.000+08:00"
-      },
-      {
-        "title": "李强同泰国总理阿努廷共同出席中泰企业家座谈会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732067.shtml",
-        "publishedAt": "2026-11-14T17:34:33.000+08:00"
-      },
-      {
-        "title": "ChinaMAP绘就国人“代谢图谱” 向全球开放数据申请",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732047.shtml",
-        "publishedAt": "2026-11-14T17:31:27.000+08:00"
-      },
-      {
-        "title": "因涉嫌酒驾 驻日美军上尉被日本警方逮捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732065.shtml",
-        "publishedAt": "2026-11-14T17:28:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T17:50:03.040+08:00",
+    "fetchedAt": "2026-11-14T18:00:03.367+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T17:50:07.182+08:00",
+      "fetchedAt": "2026-11-14T18:00:37.136+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T22:50:08.000+08:00"
+          "resetAt": "2026-11-14T23:00:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T17:50:07.477+08:00",
+      "fetchedAt": "2026-11-14T18:00:37.360+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T17:50:07.488+08:00",
+      "fetchedAt": "2026-11-14T18:00:37.371+08:00",
       "error": null
     }
   }
