@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T23:40:39.555+08:00",
+  "updatedAt": "2026-11-14T23:50:09.454+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.4,
+    "tempC": 16.3,
     "feelsLikeC": 16.8,
     "humidity": 96,
-    "windKph": 10.1,
+    "windKph": 9.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T23:40:39.555+08:00",
+    "observedAt": "2026-11-14T23:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T23:50:09.454+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "在柬埔寨金边“法语国家文化村”感受多元文化魅力",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml",
+        "publishedAt": "2026-11-14T23:43:11.000+08:00"
+      },
       {
         "title": "英国格拉斯哥公寓楼发生蓄意纵火案 15人送医",
         "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "APEC朋友圈丨中国无人机如何改变智利农田",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml",
         "publishedAt": "2026-11-14T22:35:00.000+08:00"
-      },
-      {
-        "title": "期待！总台《非遗里的中国》特展即将亮相深圳",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-14/10732202.shtml",
-        "publishedAt": "2026-11-14T22:23:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T23:40:03.439+08:00",
+    "fetchedAt": "2026-11-14T23:50:03.572+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T23:40:37.514+08:00",
+      "fetchedAt": "2026-11-14T23:50:08.111+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T04:40:39.000+08:00"
+          "resetAt": "2026-11-15T04:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T23:40:37.666+08:00",
+      "fetchedAt": "2026-11-14T23:50:08.368+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T23:40:37.675+08:00",
+      "fetchedAt": "2026-11-14T23:50:08.381+08:00",
       "error": null
     }
   }
