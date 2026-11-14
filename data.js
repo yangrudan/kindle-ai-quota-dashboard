@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T16:20:08.993+08:00",
+  "updatedAt": "2026-11-14T16:30:10.446+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.8,
-    "feelsLikeC": 20.4,
-    "humidity": 93,
-    "windKph": 7.8,
+    "tempC": 18.6,
+    "feelsLikeC": 20.3,
+    "humidity": 95,
+    "windKph": 7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-14T16:20:08.994+08:00",
+    "observedAt": "2026-11-14T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-14T16:30:10.446+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "深圳龙岗探索词元经济统计与治理 为智能经济打造“尺子”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732031.shtml",
+        "publishedAt": "2026-11-14T16:23:11.000+08:00"
+      },
+      {
+        "title": "上海资源化利用固废工作向纵深推进 循环理念深入生产生活",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732045.shtml",
+        "publishedAt": "2026-11-14T16:20:39.000+08:00"
+      },
+      {
+        "title": "点进这类链接，请立即断网！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732042.shtml",
+        "publishedAt": "2026-11-14T16:15:39.000+08:00"
+      },
       {
         "title": "（深圳APEC）外媒聚焦深圳APEC会议周：共识为桥 务实为要",
         "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732023.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "山西太原：古戏台上演沉浸式新派戏剧",
         "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732033.shtml",
         "publishedAt": "2026-11-14T16:02:44.000+08:00"
-      },
-      {
-        "title": "首位外籍航天员将进入中国空间站！来自巴基斯坦，先学会了说中文",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732034.shtml",
-        "publishedAt": "2026-11-14T16:01:36.000+08:00"
-      },
-      {
-        "title": "没了闰秒，会不会影响我们的日常生活",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732030.shtml",
-        "publishedAt": "2026-11-14T15:55:32.000+08:00"
-      },
-      {
-        "title": "哈尔滨松花江畔现雾凇美景",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732027.shtml",
-        "publishedAt": "2026-11-14T15:54:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T16:20:03.043+08:00",
+    "fetchedAt": "2026-11-14T16:30:03.988+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T16:20:07.461+08:00",
+      "fetchedAt": "2026-11-14T16:30:08.969+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T21:20:08.000+08:00"
+          "resetAt": "2026-11-14T21:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T16:20:07.814+08:00",
+      "fetchedAt": "2026-11-14T16:30:09.403+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T16:20:07.824+08:00",
+      "fetchedAt": "2026-11-14T16:30:09.414+08:00",
       "error": null
     }
   }
