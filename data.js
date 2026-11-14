@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T08:40:39.821+08:00",
+  "updatedAt": "2026-11-14T08:50:08.306+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.4,
-    "feelsLikeC": 19.4,
+    "tempC": 17.6,
+    "feelsLikeC": 19.8,
     "humidity": 97,
-    "windKph": 2.6,
-    "windDir": "西北风",
+    "windKph": 2.3,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-14T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T08:40:39.821+08:00",
+    "observedAt": "2026-11-14T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T08:50:08.306+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "每8个成年人中就有1人患病，被称为“沉默的杀手”，35岁以上人群请注意！",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731879.shtml",
+        "publishedAt": "2026-11-14T08:40:06.000+08:00"
+      },
+      {
+        "title": "全球脱碳如何提速？国际环保组织负责人看到了“中国机遇”｜新闻会客厅",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731876.shtml",
+        "publishedAt": "2026-11-14T08:31:34.000+08:00"
+      },
       {
         "title": "美国联邦航空管理局因通信问题暂停全美航班起飞",
         "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731875.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "科斯塔：欧洲五国及欧盟机构将参与下一轮乌克兰问题谈判",
         "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731873.shtml",
         "publishedAt": "2026-11-14T06:32:49.000+08:00"
-      },
-      {
-        "title": "美国联邦航空管理局发布全国范围地面停飞指令",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731872.shtml",
-        "publishedAt": "2026-11-14T06:31:03.000+08:00"
-      },
-      {
-        "title": "《惊天魔盗团·魔幻现场秀》登陆纽约百老汇",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-14/10731871.shtml",
-        "publishedAt": "2026-11-14T06:28:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T08:40:03.535+08:00",
+    "fetchedAt": "2026-11-14T08:50:02.957+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T08:40:37.723+08:00",
+      "fetchedAt": "2026-11-14T08:50:06.789+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-14T13:40:39.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-11-14T13:49:35.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T08:40:38.014+08:00",
+      "fetchedAt": "2026-11-14T08:50:07.078+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T08:40:38.023+08:00",
+      "fetchedAt": "2026-11-14T08:50:07.088+08:00",
       "error": null
     }
   }
