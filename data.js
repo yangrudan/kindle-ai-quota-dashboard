@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T08:00:38.566+08:00",
+  "updatedAt": "2026-11-14T08:10:08.205+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-14T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T08:00:38.566+08:00",
+    "fetchedAt": "2026-11-14T08:10:08.205+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国联邦航空管理局因通信问题暂停全美航班起飞",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731875.shtml",
+        "publishedAt": "2026-11-14T07:57:02.000+08:00"
+      },
       {
         "title": "11月14日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-14/10731874.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "《惊天魔盗团·魔幻现场秀》登陆纽约百老汇",
         "url": "https://www.chinanews.com.cn/cul/2026/11-14/10731871.shtml",
         "publishedAt": "2026-11-14T06:28:57.000+08:00"
-      },
-      {
-        "title": "新疆阿克苏地区库车市发生5.0级地震",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731870.shtml",
-        "publishedAt": "2026-11-14T00:34:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T08:00:03.413+08:00",
+    "fetchedAt": "2026-11-14T08:10:02.770+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T08:00:37.091+08:00",
+      "fetchedAt": "2026-11-14T08:10:07.090+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T13:00:38.000+08:00"
+          "resetAt": "2026-11-14T13:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T08:00:37.533+08:00",
+      "fetchedAt": "2026-11-14T08:10:07.235+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T08:00:37.543+08:00",
+      "fetchedAt": "2026-11-14T08:10:07.246+08:00",
       "error": null
     }
   }
