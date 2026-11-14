@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T15:20:09.650+08:00",
+  "updatedAt": "2026-11-14T15:30:08.356+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20.2,
-    "feelsLikeC": 22.2,
-    "humidity": 83,
-    "windKph": 3.1,
+    "tempC": 20,
+    "feelsLikeC": 22.1,
+    "humidity": 85,
+    "windKph": 3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-14T15:20:09.650+08:00",
+    "observedAt": "2026-11-14T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-14T15:30:08.357+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026年APEC领导人会议周新闻中心举办广东、深圳专场中外媒体吹风会",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210770.shtml",
+        "publishedAt": "2026-11-14T15:21:36.000+08:00"
+      },
+      {
+        "title": "A股新经济公司数量、营收、市值占比均超一半",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732010.shtml",
+        "publishedAt": "2026-11-14T15:12:12.000+08:00"
+      },
+      {
+        "title": "2026年世界速度轮滑场地系列赛总决赛在湖南新化开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732007.shtml",
+        "publishedAt": "2026-11-14T15:11:48.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）深圳市市长李运：会议筹备就绪 静候八方宾客",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732008.shtml",
+        "publishedAt": "2026-11-14T15:11:22.000+08:00"
+      },
+      {
         "title": "一颗蓝莓的“最鲜一公里”——广州市花都区政协以提案履职助推设施农业提质增效",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732011.shtml",
         "publishedAt": "2026-11-14T15:07:21.000+08:00"
-      },
-      {
-        "title": "【青春华章·长征路上山河新】一座转折之城，把红色故事变成看得见的振兴",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732006.shtml",
-        "publishedAt": "2026-11-14T14:59:13.000+08:00"
-      },
-      {
-        "title": "从“有活干”到“干得好” 甘肃解锁就业新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731984.shtml",
-        "publishedAt": "2026-11-14T14:56:03.000+08:00"
-      },
-      {
-        "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732003.shtml",
-        "publishedAt": "2026-11-14T14:53:05.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）榴莲、龙虾漂洋过海 APEC生鲜奔赴中国餐桌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731997.shtml",
-        "publishedAt": "2026-11-14T14:51:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T15:20:03.342+08:00",
+    "fetchedAt": "2026-11-14T15:30:03.089+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T15:20:07.669+08:00",
+      "fetchedAt": "2026-11-14T15:30:07.158+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T20:20:09.000+08:00"
+          "resetAt": "2026-11-14T20:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T15:20:07.949+08:00",
+      "fetchedAt": "2026-11-14T15:30:07.332+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T15:20:07.960+08:00",
+      "fetchedAt": "2026-11-14T15:30:07.341+08:00",
       "error": null
     }
   }
