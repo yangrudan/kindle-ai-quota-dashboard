@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T10:00:08.711+08:00",
+  "updatedAt": "2026-11-14T10:10:09.534+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-14T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T10:00:08.711+08:00",
+    "fetchedAt": "2026-11-14T10:10:09.534+08:00",
     "error": null
   },
   "news": {
@@ -20,14 +20,19 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海南省文物局局长：封关运作打通海南文博开放“四大通道”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731889.shtml",
-        "publishedAt": "2026-11-14T09:51:06.000+08:00"
+        "title": "“亚洲保险论坛2026”在港举行 聚焦保险业增长方向",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-14/10731893.shtml",
+        "publishedAt": "2026-11-14T09:53:44.000+08:00"
       },
       {
         "title": "广西6位应急先进模范代表分享一线履职故事",
         "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731888.shtml",
-        "publishedAt": "2026-11-14T09:50:12.000+08:00"
+        "publishedAt": "2026-11-14T09:51:20.000+08:00"
+      },
+      {
+        "title": "海南省文物局局长：封关运作打通海南文博开放“四大通道”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731889.shtml",
+        "publishedAt": "2026-11-14T09:51:06.000+08:00"
       },
       {
         "title": "美国联邦航空管理局：地面停飞令已解除",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "预计到2030年 我国新增清洁能源电量将覆盖新增用电量",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731902.shtml",
         "publishedAt": "2026-11-14T09:41:50.000+08:00"
-      },
-      {
-        "title": "湖南农业大学—长沙隆平产业开发区现代农业科创港揭牌启航",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731886.shtml",
-        "publishedAt": "2026-11-14T09:38:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T10:00:03.305+08:00",
+    "fetchedAt": "2026-11-14T10:10:03.684+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T10:00:07.226+08:00",
+      "fetchedAt": "2026-11-14T10:10:07.890+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T10:00:07.723+08:00",
+      "fetchedAt": "2026-11-14T10:10:08.228+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T10:00:07.732+08:00",
+      "fetchedAt": "2026-11-14T10:10:08.238+08:00",
       "error": null
     }
   }
