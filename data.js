@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T21:40:08.758+08:00",
+  "updatedAt": "2026-11-14T21:50:39.137+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.8,
-    "feelsLikeC": 17.4,
-    "humidity": 95,
-    "windKph": 9.9,
+    "tempC": 16.7,
+    "feelsLikeC": 17.3,
+    "humidity": 96,
+    "windKph": 10.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T21:40:08.758+08:00",
+    "observedAt": "2026-11-14T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T21:50:39.137+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“开板”是拥抱冬天的独特方式 八方雪友乐享火热冰雪赛事",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml",
+        "publishedAt": "2026-11-14T21:39:30.000+08:00"
+      },
+      {
+        "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml",
+        "publishedAt": "2026-11-14T21:36:34.000+08:00"
+      },
       {
         "title": "数说APEC丨中国生态治理经验 如何为亚太增“绿”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732194.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "两岸网友共创视频｜我们的城市有条中山路",
         "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml",
         "publishedAt": "2026-11-14T21:29:10.000+08:00"
-      },
-      {
-        "title": "习近平主席引领亚太大家庭扬帆前行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732184.shtml",
-        "publishedAt": "2026-11-14T21:26:24.000+08:00"
-      },
-      {
-        "title": "文物“一张图”非遗“一本账” 云南“十五五”将加强文化遗产保护传承",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732179.shtml",
-        "publishedAt": "2026-11-14T21:19:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T21:40:03.503+08:00",
+    "fetchedAt": "2026-11-14T21:50:03.394+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T21:40:07.446+08:00",
+      "fetchedAt": "2026-11-14T21:50:37.347+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T02:40:08.000+08:00"
+          "resetAt": "2026-11-15T02:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T21:40:07.754+08:00",
+      "fetchedAt": "2026-11-14T21:50:37.775+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T21:40:07.761+08:00",
+      "fetchedAt": "2026-11-14T21:50:37.786+08:00",
       "error": null
     }
   }
