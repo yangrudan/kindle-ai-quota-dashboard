@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T21:50:39.137+08:00",
+  "updatedAt": "2026-11-14T22:00:10.301+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 16.7,
-    "feelsLikeC": 17.3,
+    "feelsLikeC": 17.2,
     "humidity": 96,
-    "windKph": 10.2,
+    "windKph": 10.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-14T21:50:39.137+08:00",
+    "observedAt": "2026-11-14T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-14T22:00:10.302+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "WWF气候负责人：气候行动走向落实 中国发挥关键桥梁作用",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732198.shtml",
+        "publishedAt": "2026-11-14T21:54:21.000+08:00"
+      },
+      {
+        "title": "从承诺到行动：COP31上的中国答卷",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml",
+        "publishedAt": "2026-11-14T21:44:41.000+08:00"
+      },
       {
         "title": "“开板”是拥抱冬天的独特方式 八方雪友乐享火热冰雪赛事",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "数说APEC丨中国生态治理经验 如何为亚太增“绿”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732194.shtml",
         "publishedAt": "2026-11-14T21:34:18.000+08:00"
-      },
-      {
-        "title": "深圳通江达海的物流网如何昼夜运转？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732193.shtml",
-        "publishedAt": "2026-11-14T21:32:32.000+08:00"
-      },
-      {
-        "title": "两岸网友共创视频｜我们的城市有条中山路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml",
-        "publishedAt": "2026-11-14T21:29:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T21:50:03.394+08:00",
+    "fetchedAt": "2026-11-14T22:00:04.862+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T21:50:37.347+08:00",
+      "fetchedAt": "2026-11-14T22:00:08.978+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T02:50:38.000+08:00"
+          "resetAt": "2026-11-15T03:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T21:50:37.775+08:00",
+      "fetchedAt": "2026-11-14T22:00:09.284+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T21:50:37.786+08:00",
+      "fetchedAt": "2026-11-14T22:00:09.294+08:00",
       "error": null
     }
   }
