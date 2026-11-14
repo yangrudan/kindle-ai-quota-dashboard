@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T15:40:09.185+08:00",
+  "updatedAt": "2026-11-14T15:50:09.228+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20,
-    "feelsLikeC": 22.1,
-    "humidity": 85,
+    "tempC": 19.7,
+    "feelsLikeC": 21.9,
+    "humidity": 87,
     "windKph": 3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T15:40:09.186+08:00",
+    "observedAt": "2026-11-14T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T15:50:09.228+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国近百名冲浪健儿逐浪汕头",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732012.shtml",
+        "publishedAt": "2026-11-14T15:47:35.000+08:00"
+      },
+      {
+        "title": "2026世界中文大会展览内容丰富多彩",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210775.shtml",
+        "publishedAt": "2026-11-14T15:46:52.000+08:00"
+      },
+      {
+        "title": "香港福建社团联会致贺28位闽籍人士获香港特区政府授勋、嘉奖及委任",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-14/10732017.shtml",
+        "publishedAt": "2026-11-14T15:38:35.000+08:00"
+      },
       {
         "title": "中国10吨级电动商用飞机完成首次有人驾驶智能飞行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732009.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "2026年APEC领导人会议周新闻中心举办广东、深圳专场中外媒体吹风会",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210770.shtml",
         "publishedAt": "2026-11-14T15:21:36.000+08:00"
-      },
-      {
-        "title": "A股新经济公司数量、营收、市值占比均超一半",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732010.shtml",
-        "publishedAt": "2026-11-14T15:12:12.000+08:00"
-      },
-      {
-        "title": "2026年世界速度轮滑场地系列赛总决赛在湖南新化开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732007.shtml",
-        "publishedAt": "2026-11-14T15:11:48.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）深圳市市长李运：会议筹备就绪 静候八方宾客",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732008.shtml",
-        "publishedAt": "2026-11-14T15:11:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T15:40:03.254+08:00",
+    "fetchedAt": "2026-11-14T15:50:03.237+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T15:40:07.804+08:00",
+      "fetchedAt": "2026-11-14T15:50:07.456+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T20:40:09.000+08:00"
+          "resetAt": "2026-11-14T20:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T15:40:08.075+08:00",
+      "fetchedAt": "2026-11-14T15:50:07.882+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T15:40:08.084+08:00",
+      "fetchedAt": "2026-11-14T15:50:07.901+08:00",
       "error": null
     }
   }
