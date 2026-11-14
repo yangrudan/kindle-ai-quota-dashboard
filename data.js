@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T07:30:08.621+08:00",
+  "updatedAt": "2026-11-15T07:40:08.557+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-15T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T07:30:08.621+08:00",
+    "fetchedAt": "2026-11-15T07:40:08.558+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "高铁开窗会把人吸出去？新鲜空气从哪来？高铁“呼吸系统”揭秘",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732215.shtml",
+        "publishedAt": "2026-11-15T07:34:53.000+08:00"
+      },
       {
         "title": "11月15日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-15/10732213.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "在柬埔寨金边“法语国家文化村”感受多元文化魅力",
         "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml",
         "publishedAt": "2026-11-14T23:43:11.000+08:00"
-      },
-      {
-        "title": "英国格拉斯哥公寓楼发生蓄意纵火案 15人送医",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml",
-        "publishedAt": "2026-11-14T22:56:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T07:30:03.192+08:00",
+    "fetchedAt": "2026-11-15T07:40:03.142+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T07:30:07.095+08:00",
+      "fetchedAt": "2026-11-15T07:40:07.113+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T12:30:08.000+08:00"
+          "resetAt": "2026-11-15T12:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T07:30:07.385+08:00",
+      "fetchedAt": "2026-11-15T07:40:07.452+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T07:30:07.396+08:00",
+      "fetchedAt": "2026-11-15T07:40:07.461+08:00",
       "error": null
     }
   }
