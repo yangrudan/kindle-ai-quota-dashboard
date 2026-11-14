@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T22:40:09.378+08:00",
+  "updatedAt": "2026-11-14T22:50:11.742+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
+    "tempC": 16.6,
     "feelsLikeC": 17.1,
     "humidity": 96,
     "windKph": 10.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T22:40:09.379+08:00",
+    "observedAt": "2026-11-14T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T22:50:11.742+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "跨越山海照亮万家！一度电，如何点亮亚太合作之光？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml",
+        "publishedAt": "2026-11-14T22:38:36.000+08:00"
+      },
       {
         "title": "APEC朋友圈丨中国无人机如何改变智利农田",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "WWF气候负责人：气候行动走向落实 中国发挥关键桥梁作用",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732198.shtml",
         "publishedAt": "2026-11-14T21:54:21.000+08:00"
-      },
-      {
-        "title": "从承诺到行动：COP31上的中国答卷",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml",
-        "publishedAt": "2026-11-14T21:44:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T22:40:04.311+08:00",
+    "fetchedAt": "2026-11-14T22:50:04.838+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T22:40:08.061+08:00",
+      "fetchedAt": "2026-11-14T22:50:10.105+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T03:40:09.000+08:00"
+          "resetAt": "2026-11-15T03:50:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T22:40:08.407+08:00",
+      "fetchedAt": "2026-11-14T22:50:10.343+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T22:40:08.419+08:00",
+      "fetchedAt": "2026-11-14T22:50:10.347+08:00",
       "error": null
     }
   }
