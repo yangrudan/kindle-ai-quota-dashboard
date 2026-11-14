@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T11:20:09.335+08:00",
+  "updatedAt": "2026-11-14T11:30:07.724+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.2,
-    "feelsLikeC": 21.5,
-    "humidity": 88,
-    "windKph": 1.6,
+    "tempC": 19.6,
+    "feelsLikeC": 21.8,
+    "humidity": 86,
+    "windKph": 2.1,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-14T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-14T11:20:09.335+08:00",
+    "observedAt": "2026-11-14T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-14T11:30:07.724+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）在深圳，感受APEC开放故事",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731923.shtml",
+        "publishedAt": "2026-11-14T11:15:49.000+08:00"
+      },
+      {
+        "title": "追忆孙中山与琼岛的百年情缘：“先生没来过海南，却把海南放在心里”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-14/10731921.shtml",
+        "publishedAt": "2026-11-14T11:11:47.000+08:00"
+      },
       {
         "title": "西藏林芝：三省区297名箭手角逐千年响箭",
         "url": "https://www.chinanews.com.cn/mz/2026/11-14/10731917.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“青春华章·我们的新长征”大思政课网络主题宣传和互动引导活动在天津举办",
         "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731911.shtml",
         "publishedAt": "2026-11-14T11:05:34.000+08:00"
-      },
-      {
-        "title": "原创音乐剧《绝壁天路》首演：数字技术“穿越”讲述河南新乡“郭亮洞”开凿史",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10731916.shtml",
-        "publishedAt": "2026-11-14T11:01:58.000+08:00"
-      },
-      {
-        "title": "美航空局解除航班停飞令 交通部长呼吁国会拨款500亿美元",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731919.shtml",
-        "publishedAt": "2026-11-14T11:01:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T11:20:03.597+08:00",
+    "fetchedAt": "2026-11-14T11:30:02.962+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T11:20:08.140+08:00",
+      "fetchedAt": "2026-11-14T11:30:06.632+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
+          "usedPct": 20,
           "resetAt": "2026-11-14T13:49:35.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 11,
+          "usedPct": 13,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T11:20:08.334+08:00",
+      "fetchedAt": "2026-11-14T11:30:06.798+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T11:20:08.341+08:00",
+      "fetchedAt": "2026-11-14T11:30:06.802+08:00",
       "error": null
     }
   }
