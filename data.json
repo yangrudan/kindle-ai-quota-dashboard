@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-14T10:40:08.401+08:00",
+  "updatedAt": "2026-11-14T10:50:09.059+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 21,
-    "humidity": 91,
+    "tempC": 18.8,
+    "feelsLikeC": 21.1,
+    "humidity": 90,
     "windKph": 1.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-14T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T10:40:08.401+08:00",
+    "observedAt": "2026-11-14T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T10:50:09.059+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "韩国政府连续三年单独举办佐渡金山劳工受害者悼念仪式",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731894.shtml",
+        "publishedAt": "2026-11-14T10:36:47.000+08:00"
+      },
+      {
+        "title": "11.68天！我国深层页岩油钻井速度刷新纪录",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731910.shtml",
+        "publishedAt": "2026-11-14T10:35:59.000+08:00"
+      },
+      {
+        "title": "微视频｜亚太共潮生",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731900.shtml",
+        "publishedAt": "2026-11-14T10:35:23.000+08:00"
+      },
+      {
+        "title": "日本政府拟大幅增加防卫费引批评：扩军备武换不来安全",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731909.shtml",
+        "publishedAt": "2026-11-14T10:33:41.000+08:00"
+      },
+      {
         "title": "美国联邦航空管理局因通信问题暂停全美航班起飞",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210755.shtml",
         "publishedAt": "2026-11-14T10:30:05.000+08:00"
-      },
-      {
-        "title": "2026年豫排联赛启幕 首战郑州队获胜",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731907.shtml",
-        "publishedAt": "2026-11-14T10:26:22.000+08:00"
-      },
-      {
-        "title": "新疆阿克苏地区库车市发生5.0级地震 水利部迅即启动水利抗震救灾调度指挥机制",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731904.shtml",
-        "publishedAt": "2026-11-14T10:18:40.000+08:00"
-      },
-      {
-        "title": "国家统计局：11月上旬16种产品价格上涨，生猪价格环比下降6.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731905.shtml",
-        "publishedAt": "2026-11-14T10:07:49.000+08:00"
-      },
-      {
-        "title": "聚焦APEC｜APEC深圳会议各项筹备工作已经就绪",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731906.shtml",
-        "publishedAt": "2026-11-14T10:06:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T10:40:02.877+08:00",
+    "fetchedAt": "2026-11-14T10:50:03.190+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T10:40:07.005+08:00",
+      "fetchedAt": "2026-11-14T10:50:07.275+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T10:40:07.279+08:00",
+      "fetchedAt": "2026-11-14T10:50:07.706+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T10:40:07.283+08:00",
+      "fetchedAt": "2026-11-14T10:50:07.712+08:00",
       "error": null
     }
   }
