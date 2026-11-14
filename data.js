@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T17:10:08.914+08:00",
+  "updatedAt": "2026-11-14T17:20:08.530+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.2,
-    "feelsLikeC": 19.9,
-    "humidity": 96,
-    "windKph": 6.2,
+    "tempC": 18,
+    "feelsLikeC": 19.8,
+    "humidity": 97,
+    "windKph": 6.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T17:10:08.914+08:00",
+    "observedAt": "2026-11-14T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-14T17:20:08.530+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国李庄杯·第22届“十月文学奖”颁奖典礼举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-14/10732016.shtml",
-        "publishedAt": "2026-11-14T17:00:09.000+08:00"
+        "title": "700余幅摄影作品亮相重庆 定格千村万景",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732059.shtml",
+        "publishedAt": "2026-11-14T17:10:52.000+08:00"
       },
       {
-        "title": "第九届华彩台球排名赛收官 黎海松加冕本赛季三冠王",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732013.shtml",
-        "publishedAt": "2026-11-14T16:59:11.000+08:00"
+        "title": "青海东部山区“小酸果”发展“甜产业”促民增收",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732044.shtml",
+        "publishedAt": "2026-11-14T17:08:58.000+08:00"
       },
       {
-        "title": "能点头会眨眼却不是真人 谁在帮AI深度伪造“假人脸”通过验证？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732054.shtml",
-        "publishedAt": "2026-11-14T16:44:55.000+08:00"
+        "title": "“固原优品”亮相第二十三届农交会 特色农产品拓长三角市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732041.shtml",
+        "publishedAt": "2026-11-14T17:08:22.000+08:00"
       },
       {
-        "title": "盯上马斯克？美民主党人据称要求保留“星链”限速记录",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732051.shtml",
-        "publishedAt": "2026-11-14T16:41:20.000+08:00"
+        "title": "西宁至成都铁路红原2号隧道贯通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732040.shtml",
+        "publishedAt": "2026-11-14T17:08:14.000+08:00"
       },
       {
-        "title": "历届“汉语桥”比赛获奖者在2026世界中文大会畅聊经验",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210781.shtml",
-        "publishedAt": "2026-11-14T16:39:16.000+08:00"
+        "title": "（深圳APEC）深圳市市长：衷心感谢市民朋友的理解与支持",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732052.shtml",
+        "publishedAt": "2026-11-14T17:07:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T17:10:03.745+08:00",
+    "fetchedAt": "2026-11-14T17:20:03.666+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T17:10:07.491+08:00",
+      "fetchedAt": "2026-11-14T17:20:07.327+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T22:10:08.000+08:00"
+          "resetAt": "2026-11-14T22:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T17:10:07.720+08:00",
+      "fetchedAt": "2026-11-14T17:20:07.547+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T17:10:07.730+08:00",
+      "fetchedAt": "2026-11-14T17:20:07.557+08:00",
       "error": null
     }
   }
