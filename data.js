@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T14:30:08.440+08:00",
+  "updatedAt": "2026-11-14T14:40:09.031+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-14T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T14:30:08.440+08:00",
+    "fetchedAt": "2026-11-14T14:40:09.031+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "面孔丨此心归处是湟源",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731993.shtml",
+        "publishedAt": "2026-11-14T14:33:05.000+08:00"
+      },
+      {
+        "title": "“南京—东南亚”滚装外贸新通道开通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731985.shtml",
+        "publishedAt": "2026-11-14T14:26:01.000+08:00"
+      },
+      {
+        "title": "AI短剧《持械入宋》火到台湾，台湾网友自嘲怕在古代活不过一集",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731992.shtml",
+        "publishedAt": "2026-11-14T14:25:07.000+08:00"
+      },
       {
         "title": "今年前10个月社会融资规模新增28.61万亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731982.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "管好血糖，最该做的是“早行动” | 联合国糖尿病日",
         "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731981.shtml",
         "publishedAt": "2026-11-14T14:02:48.000+08:00"
-      },
-      {
-        "title": "江苏推出“跟着赛事去旅行”新玩法",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731976.shtml",
-        "publishedAt": "2026-11-14T13:57:14.000+08:00"
-      },
-      {
-        "title": "从卖产品到卖解决方案 机器人成湖南外贸的“新名片”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731975.shtml",
-        "publishedAt": "2026-11-14T13:56:58.000+08:00"
-      },
-      {
-        "title": "青春华章·我们的新长征 | 实验室助力天津成“信创第一城”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731977.shtml",
-        "publishedAt": "2026-11-14T13:53:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T14:30:02.982+08:00",
+    "fetchedAt": "2026-11-14T14:40:03.823+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T14:30:07.021+08:00",
+      "fetchedAt": "2026-11-14T14:40:07.793+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T19:30:08.000+08:00"
+          "resetAt": "2026-11-14T19:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T14:30:07.389+08:00",
+      "fetchedAt": "2026-11-14T14:40:08.027+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T14:30:07.399+08:00",
+      "fetchedAt": "2026-11-14T14:40:08.037+08:00",
       "error": null
     }
   }
