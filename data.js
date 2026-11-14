@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T13:30:08.667+08:00",
+  "updatedAt": "2026-11-14T13:40:10.189+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-14T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T13:30:08.667+08:00",
+    "fetchedAt": "2026-11-14T13:40:10.189+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“0卡糖”应该怎么选？减肥控糖必看",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731963.shtml",
-        "publishedAt": "2026-11-14T13:20:36.000+08:00"
+        "title": "天津锚定“大城智管” 2030年建成全域智慧治理新格局",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731958.shtml",
+        "publishedAt": "2026-11-14T13:35:22.000+08:00"
       },
       {
-        "title": "北京延庆奥林匹克园区启动造雪 今年计划开放13条雪道",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731957.shtml",
-        "publishedAt": "2026-11-14T13:11:31.000+08:00"
+        "title": "汕头对低效闲置用地实施改造 盐碱滩蝶变“城市中央田园”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731949.shtml",
+        "publishedAt": "2026-11-14T13:34:40.000+08:00"
       },
       {
-        "title": "斯诺克冠中冠赛：韦克林淘汰罗伯逊晋级决赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731950.shtml",
-        "publishedAt": "2026-11-14T13:10:09.000+08:00"
+        "title": "从欧洲家庭到北美车间 机器人成湖南出海新力量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731962.shtml",
+        "publishedAt": "2026-11-14T13:34:06.000+08:00"
       },
       {
-        "title": "佛山队夺得2026年广东省女子篮球联赛冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731948.shtml",
-        "publishedAt": "2026-11-14T13:09:23.000+08:00"
+        "title": "福建省第十八届运动会在三明开幕 首用林业碳票实现赛事碳中和",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731961.shtml",
+        "publishedAt": "2026-11-14T13:31:22.000+08:00"
       },
       {
-        "title": "openEuler发布面向Agentic Infra的操作系统，全球协同共建AI生态",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731945.shtml",
-        "publishedAt": "2026-11-14T13:09:19.000+08:00"
+        "title": "顺着汽车产业链“长”出机器人 重庆探路“车—机同源”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731960.shtml",
+        "publishedAt": "2026-11-14T13:31:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T13:30:03.320+08:00",
+    "fetchedAt": "2026-11-14T13:40:04.908+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T13:30:07.205+08:00",
+      "fetchedAt": "2026-11-14T13:40:08.884+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T13:30:07.530+08:00",
+      "fetchedAt": "2026-11-14T13:40:09.097+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T13:30:07.541+08:00",
+      "fetchedAt": "2026-11-14T13:40:09.106+08:00",
       "error": null
     }
   }
