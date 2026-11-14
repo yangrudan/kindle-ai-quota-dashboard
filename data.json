@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-14T13:10:08.803+08:00",
+  "updatedAt": "2026-11-14T13:20:08.970+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
+    "description": "多云",
+    "iconKey": "cloudy",
     "tempC": 19.6,
-    "feelsLikeC": 21.5,
+    "feelsLikeC": 21.6,
     "humidity": 85,
-    "windKph": 4,
+    "windKph": 3.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T13:10:08.803+08:00",
+    "observedAt": "2026-11-14T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-14T13:20:08.971+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "自媒体人卢克文与成都青年共话家国情怀",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731946.shtml",
-        "publishedAt": "2026-11-14T12:59:40.000+08:00"
+        "title": "北京延庆奥林匹克园区启动造雪 今年计划开放13条雪道",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731957.shtml",
+        "publishedAt": "2026-11-14T13:11:31.000+08:00"
       },
       {
-        "title": "9项量和单位领域国家标准发布 自2028年1月1日起正式实施",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731941.shtml",
-        "publishedAt": "2026-11-14T12:42:40.000+08:00"
+        "title": "斯诺克冠中冠赛：韦克林淘汰罗伯逊晋级决赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731950.shtml",
+        "publishedAt": "2026-11-14T13:10:09.000+08:00"
       },
       {
-        "title": "国家防总办公室安排部署2026-2027年度凌汛期防凌工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731940.shtml",
-        "publishedAt": "2026-11-14T12:41:50.000+08:00"
+        "title": "佛山队夺得2026年广东省女子篮球联赛冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731948.shtml",
+        "publishedAt": "2026-11-14T13:09:23.000+08:00"
       },
       {
-        "title": "中新健康｜“药篮子”上新！2026年医保商保“双目录”发布",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731942.shtml",
-        "publishedAt": "2026-11-14T12:41:29.000+08:00"
+        "title": "openEuler发布面向Agentic Infra的操作系统，全球协同共建AI生态",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731945.shtml",
+        "publishedAt": "2026-11-14T13:09:19.000+08:00"
       },
       {
-        "title": "吉林遭遇持续性大雾 高速关闭航班延误",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731938.shtml",
-        "publishedAt": "2026-11-14T12:38:35.000+08:00"
+        "title": "悄悄看、精准打！“攻击-21”+四川舰带来3方面改变",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731956.shtml",
+        "publishedAt": "2026-11-14T13:08:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T13:10:03.749+08:00",
+    "fetchedAt": "2026-11-14T13:20:03.666+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T13:10:07.541+08:00",
+      "fetchedAt": "2026-11-14T13:20:07.781+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T13:10:07.764+08:00",
+      "fetchedAt": "2026-11-14T13:20:08.001+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T13:10:07.768+08:00",
+      "fetchedAt": "2026-11-14T13:20:08.011+08:00",
       "error": null
     }
   }
