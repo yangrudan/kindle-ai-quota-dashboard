@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T09:40:08.478+08:00",
+  "updatedAt": "2026-11-14T09:50:08.162+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18,
-    "feelsLikeC": 20.3,
-    "humidity": 95,
-    "windKph": 1.3,
+    "tempC": 18.2,
+    "feelsLikeC": 20.5,
+    "humidity": 94,
+    "windKph": 1.4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-14T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T09:40:08.479+08:00",
+    "observedAt": "2026-11-14T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T09:50:08.162+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国联邦航空管理局：地面停飞令已解除",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731903.shtml",
+        "publishedAt": "2026-11-14T09:44:50.000+08:00"
+      },
+      {
+        "title": "预计到2030年 我国新增清洁能源电量将覆盖新增用电量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731902.shtml",
+        "publishedAt": "2026-11-14T09:41:50.000+08:00"
+      },
+      {
+        "title": "湖南农业大学—长沙隆平产业开发区现代农业科创港揭牌启航",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731886.shtml",
+        "publishedAt": "2026-11-14T09:38:44.000+08:00"
+      },
       {
         "title": "两股冷空气来袭部分地区降温可超10℃ 新一轮大范围雨雪将上线",
         "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731901.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "江西省商务厅访问团与比利时业界人士座谈交流",
         "url": "https://www.chinanews.com.cn/hr/2026/11-14/10731891.shtml",
         "publishedAt": "2026-11-14T09:32:53.000+08:00"
-      },
-      {
-        "title": "中越近千名青年南宁体验“越友趣”文化嘉年华",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10731885.shtml",
-        "publishedAt": "2026-11-14T09:31:39.000+08:00"
-      },
-      {
-        "title": "贵州雷山百年水上粮仓引客来",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10731895.shtml",
-        "publishedAt": "2026-11-14T09:25:07.000+08:00"
-      },
-      {
-        "title": "2026年河南省女子排球城市联赛在郑州开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10731890.shtml",
-        "publishedAt": "2026-11-14T09:22:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T09:40:02.894+08:00",
+    "fetchedAt": "2026-11-14T09:50:02.836+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T09:40:06.815+08:00",
+      "fetchedAt": "2026-11-14T09:50:06.651+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T09:40:07.248+08:00",
+      "fetchedAt": "2026-11-14T09:50:06.869+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T09:40:07.260+08:00",
+      "fetchedAt": "2026-11-14T09:50:06.878+08:00",
       "error": null
     }
   }
