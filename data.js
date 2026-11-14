@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T15:30:08.356+08:00",
+  "updatedAt": "2026-11-14T15:40:09.185+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-14T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T15:30:08.357+08:00",
+    "fetchedAt": "2026-11-14T15:40:09.186+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国10吨级电动商用飞机完成首次有人驾驶智能飞行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732009.shtml",
+        "publishedAt": "2026-11-14T15:35:13.000+08:00"
+      },
       {
         "title": "2026年APEC领导人会议周新闻中心举办广东、深圳专场中外媒体吹风会",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210770.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）深圳市市长李运：会议筹备就绪 静候八方宾客",
         "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732008.shtml",
         "publishedAt": "2026-11-14T15:11:22.000+08:00"
-      },
-      {
-        "title": "一颗蓝莓的“最鲜一公里”——广州市花都区政协以提案履职助推设施农业提质增效",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732011.shtml",
-        "publishedAt": "2026-11-14T15:07:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T15:30:03.089+08:00",
+    "fetchedAt": "2026-11-14T15:40:03.254+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T15:30:07.158+08:00",
+      "fetchedAt": "2026-11-14T15:40:07.804+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T20:30:08.000+08:00"
+          "resetAt": "2026-11-14T20:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T15:30:07.332+08:00",
+      "fetchedAt": "2026-11-14T15:40:08.075+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T15:30:07.341+08:00",
+      "fetchedAt": "2026-11-14T15:40:08.084+08:00",
       "error": null
     }
   }
