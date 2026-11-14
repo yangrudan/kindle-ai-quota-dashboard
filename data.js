@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T11:00:07.772+08:00",
+  "updatedAt": "2026-11-14T11:10:09.059+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-14T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T11:00:07.772+08:00",
+    "fetchedAt": "2026-11-14T11:10:09.059+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "原创音乐剧《绝壁天路》首演：数字技术“穿越”讲述河南新乡“郭亮洞”开凿史",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10731916.shtml",
+        "publishedAt": "2026-11-14T11:01:58.000+08:00"
+      },
+      {
+        "title": "美航空局解除航班停飞令 交通部长呼吁国会拨款500亿美元",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731919.shtml",
+        "publishedAt": "2026-11-14T11:01:22.000+08:00"
+      },
+      {
+        "title": "福建省第十八届运动会在三明开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10731915.shtml",
+        "publishedAt": "2026-11-14T10:54:10.000+08:00"
+      },
+      {
+        "title": "【和合共生】习言道丨亚太是我们安身立命之所",
+        "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-14/news1074850.shtml",
+        "publishedAt": "2026-11-14T10:49:29.000+08:00"
+      },
+      {
         "title": "再创新高 51个一类新药进入新版国家医保药品目录",
         "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731912.shtml",
         "publishedAt": "2026-11-14T10:44:35.000+08:00"
-      },
-      {
-        "title": "韩国政府连续三年单独举办佐渡金山劳工受害者悼念仪式",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731894.shtml",
-        "publishedAt": "2026-11-14T10:36:47.000+08:00"
-      },
-      {
-        "title": "11.68天！我国深层页岩油钻井速度刷新纪录",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731910.shtml",
-        "publishedAt": "2026-11-14T10:35:59.000+08:00"
-      },
-      {
-        "title": "微视频｜亚太共潮生",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731900.shtml",
-        "publishedAt": "2026-11-14T10:35:23.000+08:00"
-      },
-      {
-        "title": "日本政府拟大幅增加防卫费引批评：扩军备武换不来安全",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731909.shtml",
-        "publishedAt": "2026-11-14T10:33:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T11:00:02.462+08:00",
+    "fetchedAt": "2026-11-14T11:10:03.564+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T11:00:06.426+08:00",
+      "fetchedAt": "2026-11-14T11:10:07.699+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T11:00:06.755+08:00",
+      "fetchedAt": "2026-11-14T11:10:07.957+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T11:00:06.764+08:00",
+      "fetchedAt": "2026-11-14T11:10:07.967+08:00",
       "error": null
     }
   }
