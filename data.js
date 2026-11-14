@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T19:40:38.697+08:00",
+  "updatedAt": "2026-11-14T19:50:09.056+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17,
-    "feelsLikeC": 18.2,
-    "humidity": 97,
-    "windKph": 6.9,
+    "tempC": 16.9,
+    "feelsLikeC": 18,
+    "humidity": 96,
+    "windKph": 7.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-14T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T19:40:38.698+08:00",
+    "observedAt": "2026-11-14T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T19:50:09.056+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "易中天：文博场景的数字化清晰不如实地“接地气”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732118.shtml",
-        "publishedAt": "2026-11-14T19:34:16.000+08:00"
+        "title": "广西财政统筹资金91亿元 精准助力消费提质扩容",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732126.shtml",
+        "publishedAt": "2026-11-14T19:43:30.000+08:00"
       },
       {
-        "title": "“国家安全学期刊高质量发展协进研讨会”举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732110.shtml",
-        "publishedAt": "2026-11-14T19:34:00.000+08:00"
+        "title": "让“旅游饭”香飘武陵山区 重庆酉阳以文旅促“三交”的共富探索",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732125.shtml",
+        "publishedAt": "2026-11-14T19:41:00.000+08:00"
       },
       {
-        "title": "第四届“心启航杯”孤独症青少年足球邀请赛在福州开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732111.shtml",
-        "publishedAt": "2026-11-14T19:24:33.000+08:00"
+        "title": "从“草原云谷”迈向“Token之都” 乌兰察布算力产业加速跃升",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732121.shtml",
+        "publishedAt": "2026-11-14T19:40:50.000+08:00"
       },
       {
-        "title": "（深圳APEC）何立峰出席亚太经合组织工商咨询理事会第四次会议开幕式并致辞",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732107.shtml",
-        "publishedAt": "2026-11-14T19:17:47.000+08:00"
+        "title": "黑龙江省速度滑冰联赛第二站在哈尔滨开赛 民众可免费观赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732120.shtml",
+        "publishedAt": "2026-11-14T19:40:12.000+08:00"
       },
       {
-        "title": "福建长汀丁屋岭荣获“全球人居环境村落范例”奖",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732102.shtml",
-        "publishedAt": "2026-11-14T19:17:11.000+08:00"
+        "title": "上海市职业院校学生创新创意大赛首设“特殊职业教育”赛道",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732119.shtml",
+        "publishedAt": "2026-11-14T19:36:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T19:40:03.452+08:00",
+    "fetchedAt": "2026-11-14T19:50:03.000+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T19:40:37.107+08:00",
+      "fetchedAt": "2026-11-14T19:50:07.660+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T00:40:38.000+08:00"
+          "resetAt": "2026-11-15T00:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T19:40:37.356+08:00",
+      "fetchedAt": "2026-11-14T19:50:07.935+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T19:40:37.367+08:00",
+      "fetchedAt": "2026-11-14T19:50:07.946+08:00",
       "error": null
     }
   }
