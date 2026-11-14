@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T10:10:09.534+08:00",
+  "updatedAt": "2026-11-14T10:20:10.393+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.5,
-    "feelsLikeC": 20.8,
+    "tempC": 18.6,
+    "feelsLikeC": 20.9,
     "humidity": 92,
     "windKph": 1.6,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-14T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T10:10:09.534+08:00",
+    "observedAt": "2026-11-14T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-14T10:20:10.393+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家统计局：11月上旬16种产品价格上涨，生猪价格环比下降6.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731905.shtml",
+        "publishedAt": "2026-11-14T10:07:49.000+08:00"
+      },
+      {
+        "title": "聚焦APEC｜APEC深圳会议各项筹备工作已经就绪",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731906.shtml",
+        "publishedAt": "2026-11-14T10:06:45.000+08:00"
+      },
       {
         "title": "“亚洲保险论坛2026”在港举行 聚焦保险业增长方向",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-14/10731893.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "海南省文物局局长：封关运作打通海南文博开放“四大通道”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731889.shtml",
         "publishedAt": "2026-11-14T09:51:06.000+08:00"
-      },
-      {
-        "title": "美国联邦航空管理局：地面停飞令已解除",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731903.shtml",
-        "publishedAt": "2026-11-14T09:44:50.000+08:00"
-      },
-      {
-        "title": "预计到2030年 我国新增清洁能源电量将覆盖新增用电量",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731902.shtml",
-        "publishedAt": "2026-11-14T09:41:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T10:10:03.684+08:00",
+    "fetchedAt": "2026-11-14T10:20:05.315+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T10:10:07.890+08:00",
+      "fetchedAt": "2026-11-14T10:20:09.089+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T10:10:08.228+08:00",
+      "fetchedAt": "2026-11-14T10:20:09.350+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T10:10:08.238+08:00",
+      "fetchedAt": "2026-11-14T10:20:09.360+08:00",
       "error": null
     }
   }
