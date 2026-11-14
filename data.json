@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-14T08:50:08.306+08:00",
+  "updatedAt": "2026-11-14T09:00:11.006+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 19.8,
-    "humidity": 97,
-    "windKph": 2.3,
+    "tempC": 17.8,
+    "feelsLikeC": 20,
+    "humidity": 96,
+    "windKph": 2.1,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-14T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-14T08:50:08.306+08:00",
+    "observedAt": "2026-11-14T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-14T09:00:11.006+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "华北黄淮东北等地仍有雾霾天气 中东部将有大范围大风降温和雨雪天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731878.shtml",
+        "publishedAt": "2026-11-14T08:52:27.000+08:00"
+      },
+      {
+        "title": "北京：2026中意陶瓷艺术展开幕",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210748.shtml",
+        "publishedAt": "2026-11-14T08:46:14.000+08:00"
+      },
       {
         "title": "每8个成年人中就有1人患病，被称为“沉默的杀手”，35岁以上人群请注意！",
         "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731879.shtml",
@@ -33,19 +43,9 @@
         "title": "美国联邦航空管理局因通信问题暂停全美航班起飞",
         "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731875.shtml",
         "publishedAt": "2026-11-14T07:57:02.000+08:00"
-      },
-      {
-        "title": "11月14日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-14/10731874.shtml",
-        "publishedAt": "2026-11-14T07:06:43.000+08:00"
-      },
-      {
-        "title": "科斯塔：欧洲五国及欧盟机构将参与下一轮乌克兰问题谈判",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731873.shtml",
-        "publishedAt": "2026-11-14T06:32:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T08:50:02.957+08:00",
+    "fetchedAt": "2026-11-14T09:00:03.327+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-14T08:50:06.789+08:00",
+      "fetchedAt": "2026-11-14T09:00:09.629+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-11-14T13:49:35.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T08:50:07.078+08:00",
+      "fetchedAt": "2026-11-14T09:00:09.819+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-14T08:50:07.088+08:00",
+      "fetchedAt": "2026-11-14T09:00:09.829+08:00",
       "error": null
     }
   }
