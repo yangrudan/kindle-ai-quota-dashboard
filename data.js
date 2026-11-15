@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T17:30:38.528+08:00",
+  "updatedAt": "2026-11-15T17:40:09.440+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-15T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T17:30:38.528+08:00",
+    "fetchedAt": "2026-11-15T17:40:09.440+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "连休5天、免费滑雪！多地公布“雪假”时间",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732413.shtml",
+        "publishedAt": "2026-11-15T17:29:58.000+08:00"
+      },
       {
         "title": "美“星舰”第15次试飞：“筷子夹飞船”首试成功，助推器未能返回发射场",
         "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732408.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "陈茂波：前三季人民币成在港上市债券市场最大发行币种",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732405.shtml",
         "publishedAt": "2026-11-15T17:18:01.000+08:00"
-      },
-      {
-        "title": "沈阳启动原创文学IP创造性转化项目 让更多于洪故事走向荧屏",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732402.shtml",
-        "publishedAt": "2026-11-15T17:15:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T17:30:02.982+08:00",
+    "fetchedAt": "2026-11-15T17:40:04.060+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T17:30:36.834+08:00",
+      "fetchedAt": "2026-11-15T17:40:07.687+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T22:30:38.000+08:00"
+          "resetAt": "2026-11-15T22:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T17:30:37.212+08:00",
+      "fetchedAt": "2026-11-15T17:40:08.005+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T17:30:37.221+08:00",
+      "fetchedAt": "2026-11-15T17:40:08.015+08:00",
       "error": null
     }
   }
