@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T15:50:08.669+08:00",
+  "updatedAt": "2026-11-15T16:00:38.030+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 18,
-    "humidity": 65,
-    "windKph": 9.5,
+    "tempC": 18.6,
+    "feelsLikeC": 17.8,
+    "humidity": 66,
+    "windKph": 9.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T15:50:08.670+08:00",
+    "observedAt": "2026-11-15T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T16:00:38.030+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江苏扬州第三届警营开放日：民众在互动中读懂公安、收获安全",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732353.shtml",
-        "publishedAt": "2026-11-15T15:47:00.000+08:00"
+        "title": "沈阳故宫博物院百年守护：雕梁画栋间的色彩记忆",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732359.shtml",
+        "publishedAt": "2026-11-15T15:55:13.000+08:00"
       },
       {
-        "title": "哈马斯下属卡桑旅称其高级成员在以色列袭击中身亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732325.shtml",
-        "publishedAt": "2026-11-15T15:44:22.000+08:00"
+        "title": "兰州黄河畔“机甲风”与“少年梦”科创相逢",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732351.shtml",
+        "publishedAt": "2026-11-15T15:51:36.000+08:00"
       },
       {
-        "title": "APEC前夕看深圳：设计师定标准，曲艺人做共情",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732350.shtml",
-        "publishedAt": "2026-11-15T15:41:38.000+08:00"
+        "title": "上海网球大师赛获评2026年度最佳ATP1000赛事",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732356.shtml",
+        "publishedAt": "2026-11-15T15:50:58.000+08:00"
       },
       {
-        "title": "香港培侨中学举行80周年校庆晚宴 各界共话爱国教育传承",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732352.shtml",
-        "publishedAt": "2026-11-15T15:40:42.000+08:00"
+        "title": "多领域专家探讨非遗推动历史经典产业高质量发展路径",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732355.shtml",
+        "publishedAt": "2026-11-15T15:50:30.000+08:00"
       },
       {
-        "title": "建设书香海南：公共阅读空间需从“有阵地”迈向“有活力”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732349.shtml",
-        "publishedAt": "2026-11-15T15:38:06.000+08:00"
+        "title": "乔纳森·斯通：中国气候韧性创新实践值得推广",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732354.shtml",
+        "publishedAt": "2026-11-15T15:49:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T15:50:03.804+08:00",
+    "fetchedAt": "2026-11-15T16:00:02.657+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T15:50:07.362+08:00",
+      "fetchedAt": "2026-11-15T16:00:36.500+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T20:50:08.000+08:00"
+          "resetAt": "2026-11-15T21:00:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T15:50:07.672+08:00",
+      "fetchedAt": "2026-11-15T16:00:36.809+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T15:50:07.681+08:00",
+      "fetchedAt": "2026-11-15T16:00:36.820+08:00",
       "error": null
     }
   }
