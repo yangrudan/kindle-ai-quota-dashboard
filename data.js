@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T23:50:10.895+08:00",
+  "updatedAt": "2026-11-16T00:00:12.074+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.2,
-    "feelsLikeC": 14.8,
+    "tempC": 15.1,
+    "feelsLikeC": 14.7,
     "humidity": 86,
-    "windKph": 8.3,
+    "windKph": 8.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T23:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T23:50:10.895+08:00",
+    "observedAt": "2026-11-16T00:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T00:00:12.074+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "重返“冰丝带”，北京冬奥会冠军高亭宇速滑世界杯夺金",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732528.shtml",
+        "publishedAt": "2026-11-15T23:53:55.000+08:00"
+      },
       {
         "title": "海外华媒走读安徽：“新”、“古”、“变”",
         "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732518.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）APEC盛会核心场馆“静待花开” 会场外围成打卡热点",
         "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732515.shtml",
         "publishedAt": "2026-11-15T22:44:43.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）APEC经济体相关侨批原件首次联合展出 见证亚太民间往来",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732514.shtml",
-        "publishedAt": "2026-11-15T22:39:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T23:50:04.130+08:00",
+    "fetchedAt": "2026-11-16T00:00:03.061+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T23:50:08.857+08:00",
+      "fetchedAt": "2026-11-16T00:00:10.370+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T04:50:10.000+08:00"
+          "resetAt": "2026-11-16T05:00:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T23:50:09.106+08:00",
+      "fetchedAt": "2026-11-16T00:00:10.804+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T23:50:09.119+08:00",
+      "fetchedAt": "2026-11-16T00:00:10.814+08:00",
       "error": null
     }
   }
