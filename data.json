@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T02:20:07.978+08:00",
+  "updatedAt": "2026-11-16T02:30:09.447+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.3,
-    "feelsLikeC": 13.4,
-    "humidity": 92,
-    "windKph": 3.1,
+    "tempC": 13.1,
+    "feelsLikeC": 13.3,
+    "humidity": 93,
+    "windKph": 2.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T02:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T02:20:07.978+08:00",
+    "observedAt": "2026-11-16T02:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T02:30:09.448+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-15T22:46:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T02:20:02.950+08:00",
+    "fetchedAt": "2026-11-16T02:30:03.672+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T02:20:06.704+08:00",
+      "fetchedAt": "2026-11-16T02:30:08.076+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T07:20:07.000+08:00"
+          "resetAt": "2026-11-16T07:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T02:20:06.909+08:00",
+      "fetchedAt": "2026-11-16T02:30:08.351+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T02:20:06.921+08:00",
+      "fetchedAt": "2026-11-16T02:30:08.361+08:00",
       "error": null
     }
   }
