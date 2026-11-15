@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T09:20:38.106+08:00",
+  "updatedAt": "2026-11-15T09:30:39.220+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.4,
+    "tempC": 16.6,
     "feelsLikeC": 15.6,
-    "humidity": 76,
-    "windKph": 10.3,
+    "humidity": 75,
+    "windKph": 11.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T09:20:38.106+08:00",
+    "observedAt": "2026-11-15T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-15T09:30:39.221+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中东部将有大范围大风降温和雨雪天气 华北黄淮等地雾霾将减弱消散",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732220.shtml",
-        "publishedAt": "2026-11-15T09:07:22.000+08:00"
+        "title": "部分电动自行车3C认证卡壳 消费者上牌遇阻",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732245.shtml",
+        "publishedAt": "2026-11-15T09:21:45.000+08:00"
       },
       {
-        "title": "1至10月份国家铁路发送货物34.2亿吨",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732221.shtml",
-        "publishedAt": "2026-11-15T09:02:18.000+08:00"
+        "title": "“AI漫剧”成健康科普新形式，如何避免“伪科普”陷阱？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732243.shtml",
+        "publishedAt": "2026-11-15T09:19:59.000+08:00"
       },
       {
-        "title": "肺癌一发现就是晚期？出现这些症状，千万别拖！",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-15/10732228.shtml",
-        "publishedAt": "2026-11-15T08:50:30.000+08:00"
+        "title": "金融机构外汇存款准备金率今起提高至6%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml",
+        "publishedAt": "2026-11-15T09:18:01.000+08:00"
       },
       {
-        "title": "为什么有人每天睡得少却很精神？科学家发现“短睡基因”",
-        "url": "https://www.chinanews.com.cn/life/2026/11-15/10732227.shtml",
-        "publishedAt": "2026-11-15T08:47:27.000+08:00"
+        "title": "青春华章｜机器人跑得比博尔特还快，要闯过多少关？",
+        "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-15/news1074910.shtml",
+        "publishedAt": "2026-11-15T09:09:05.000+08:00"
       },
       {
-        "title": "中东部气温将大范围创新低 雨雪增强北方局地有暴雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732226.shtml",
-        "publishedAt": "2026-11-15T08:43:43.000+08:00"
+        "title": "对话中国首位奥运冠军许海峰：国家安全体现在各行各业，要时刻有保密观念",
+        "url": "http://www.chinanews.com.cn/ty/shipin/2026/11-15/news1074909.shtml",
+        "publishedAt": "2026-11-15T09:07:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T09:20:02.913+08:00",
+    "fetchedAt": "2026-11-15T09:30:03.667+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T09:20:36.598+08:00",
+      "fetchedAt": "2026-11-15T09:30:37.774+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T14:20:37.000+08:00"
+          "resetAt": "2026-11-15T14:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T09:20:36.837+08:00",
+      "fetchedAt": "2026-11-15T09:30:38.191+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T09:20:36.846+08:00",
+      "fetchedAt": "2026-11-15T09:30:38.203+08:00",
       "error": null
     }
   }
