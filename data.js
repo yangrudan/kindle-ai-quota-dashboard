@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T19:00:12.294+08:00",
+  "updatedAt": "2026-11-15T19:10:39.886+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-15T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T19:00:12.294+08:00",
+    "fetchedAt": "2026-11-15T19:10:39.886+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "荆州崇湖湿地现初冬生态画卷",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732412.shtml",
+        "publishedAt": "2026-11-15T18:55:04.000+08:00"
+      },
       {
         "title": "中西部首次落地 海南航空在渝开通“跨航司国际通程中转”业务",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732428.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）从深圳港口到海外市场，跨境物流链升级通达亚太",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732421.shtml",
         "publishedAt": "2026-11-15T18:47:20.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）从“APEC蓝”到“APEC紫”，主场外交“色彩出圈”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732419.shtml",
-        "publishedAt": "2026-11-15T18:43:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T19:00:07.106+08:00",
+    "fetchedAt": "2026-11-15T19:10:03.580+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T19:00:11.052+08:00",
+      "fetchedAt": "2026-11-15T19:10:37.652+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T00:00:12.000+08:00"
+          "resetAt": "2026-11-16T00:10:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T19:00:11.294+08:00",
+      "fetchedAt": "2026-11-15T19:10:37.901+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T19:00:11.306+08:00",
+      "fetchedAt": "2026-11-15T19:10:37.912+08:00",
       "error": null
     }
   }
