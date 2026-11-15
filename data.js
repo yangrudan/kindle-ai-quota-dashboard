@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T20:50:08.489+08:00",
+  "updatedAt": "2026-11-15T21:00:09.617+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.6,
-    "feelsLikeC": 15.8,
-    "humidity": 82,
-    "windKph": 3.9,
+    "tempC": 15.5,
+    "feelsLikeC": 15.6,
+    "humidity": 83,
+    "windKph": 4.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T20:50:08.490+08:00",
+    "observedAt": "2026-11-15T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T21:00:09.617+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "浙江海宁：11只白天鹅飞抵钱塘江畔越冬",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732474.shtml",
-        "publishedAt": "2026-11-15T20:42:18.000+08:00"
+        "title": "把服务阵地建到群众家门口 福建漳州持续推进民生综合体建设",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732496.shtml",
+        "publishedAt": "2026-11-15T20:51:27.000+08:00"
       },
       {
-        "title": "张光北、卢奇等电影表演艺术家走进南京金陵老年大学共话表演艺术",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732456.shtml",
-        "publishedAt": "2026-11-15T20:41:16.000+08:00"
+        "title": "天津“遇见国防”市集周末人气十足",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732483.shtml",
+        "publishedAt": "2026-11-15T20:48:40.000+08:00"
       },
       {
-        "title": "辽宁沈北禾丰女足获2026赛季女超冠军",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732453.shtml",
-        "publishedAt": "2026-11-15T20:40:24.000+08:00"
+        "title": "河南柘城：小辣椒开启交易旺季",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732481.shtml",
+        "publishedAt": "2026-11-15T20:47:00.000+08:00"
       },
       {
-        "title": "2026年中国龙舟公开赛总决赛举行 闽江源上演速度与激情",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732448.shtml",
-        "publishedAt": "2026-11-15T20:39:24.000+08:00"
+        "title": "安徽淮南工业遗存焕新烟火街区",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732477.shtml",
+        "publishedAt": "2026-11-15T20:45:34.000+08:00"
       },
       {
-        "title": "安徽淮南：初冬八公山层林尽染",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732446.shtml",
-        "publishedAt": "2026-11-15T20:37:22.000+08:00"
+        "title": "刘家琨全球首次大型个展在上海展出",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732476.shtml",
+        "publishedAt": "2026-11-15T20:44:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T20:50:03.679+08:00",
+    "fetchedAt": "2026-11-15T21:00:04.149+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T20:50:07.262+08:00",
+      "fetchedAt": "2026-11-15T21:00:08.247+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T01:50:08.000+08:00"
+          "resetAt": "2026-11-16T02:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T20:50:07.447+08:00",
+      "fetchedAt": "2026-11-15T21:00:08.542+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T20:50:07.457+08:00",
+      "fetchedAt": "2026-11-15T21:00:08.549+08:00",
       "error": null
     }
   }
