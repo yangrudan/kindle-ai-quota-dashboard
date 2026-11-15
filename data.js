@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T16:00:38.030+08:00",
+  "updatedAt": "2026-11-15T16:10:39.173+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-15T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T16:00:38.030+08:00",
+    "fetchedAt": "2026-11-15T16:10:39.173+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "沈阳故宫博物院百年守护：雕梁画栋间的色彩记忆",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732359.shtml",
-        "publishedAt": "2026-11-15T15:55:13.000+08:00"
+        "title": "直播海报：共赴深圳之约——APEC“中国年”全媒体特别节目",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732369.shtml",
+        "publishedAt": "2026-11-15T16:08:29.000+08:00"
       },
       {
-        "title": "兰州黄河畔“机甲风”与“少年梦”科创相逢",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732351.shtml",
-        "publishedAt": "2026-11-15T15:51:36.000+08:00"
+        "title": "（深圳APEC）APEC工商领导人峰会将发布深圳倡议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732363.shtml",
+        "publishedAt": "2026-11-15T16:06:39.000+08:00"
       },
       {
-        "title": "上海网球大师赛获评2026年度最佳ATP1000赛事",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732356.shtml",
-        "publishedAt": "2026-11-15T15:50:58.000+08:00"
+        "title": "（走进中国乡村）走出深山变网红 沂蒙百花峪村焕发新生",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732362.shtml",
+        "publishedAt": "2026-11-15T16:05:01.000+08:00"
       },
       {
-        "title": "多领域专家探讨非遗推动历史经典产业高质量发展路径",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732355.shtml",
-        "publishedAt": "2026-11-15T15:50:30.000+08:00"
+        "title": "从登山到“读山”：秦岭“轻户外”渐成风尚",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732361.shtml",
+        "publishedAt": "2026-11-15T16:03:33.000+08:00"
       },
       {
-        "title": "乔纳森·斯通：中国气候韧性创新实践值得推广",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732354.shtml",
-        "publishedAt": "2026-11-15T15:49:32.000+08:00"
+        "title": "博物馆的“焕新”图景：文创出圈 科技造境",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732360.shtml",
+        "publishedAt": "2026-11-15T16:02:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T16:00:02.657+08:00",
+    "fetchedAt": "2026-11-15T16:10:04.282+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T16:00:36.500+08:00",
+      "fetchedAt": "2026-11-15T16:10:37.829+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T21:00:37.000+08:00"
+          "resetAt": "2026-11-15T21:10:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T16:00:36.809+08:00",
+      "fetchedAt": "2026-11-15T16:10:38.175+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T16:00:36.820+08:00",
+      "fetchedAt": "2026-11-15T16:10:38.184+08:00",
       "error": null
     }
   }
