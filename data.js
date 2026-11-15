@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T19:20:09.054+08:00",
+  "updatedAt": "2026-11-15T19:30:10.705+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.4,
+    "tempC": 16.3,
     "feelsLikeC": 16.5,
-    "humidity": 79,
-    "windKph": 5.1,
+    "humidity": 80,
+    "windKph": 4.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T19:20:09.054+08:00",
+    "observedAt": "2026-11-15T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-15T19:30:10.705+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（深圳APEC）打卡“深圳之眼” 媒体记者走进岗厦北枢纽",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-15/1210869.shtml",
+        "publishedAt": "2026-11-15T19:21:39.000+08:00"
+      },
+      {
+        "title": "一馆看遍琼岛文脉 “海南文博综合馆”博博会人气旺",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732449.shtml",
+        "publishedAt": "2026-11-15T19:20:00.000+08:00"
+      },
+      {
+        "title": "“城市地理视野下的北京文学研究”研讨会在京举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732447.shtml",
+        "publishedAt": "2026-11-15T19:19:16.000+08:00"
+      },
+      {
+        "title": "一秒一度皆底线 退役飞行员长春揭秘飞行表演",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732444.shtml",
+        "publishedAt": "2026-11-15T19:18:58.000+08:00"
+      },
+      {
         "title": "2026重庆璧山马拉松鸣枪起跑 万名选手畅跑“公园之城”",
         "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732443.shtml",
         "publishedAt": "2026-11-15T19:18:12.000+08:00"
-      },
-      {
-        "title": "测控数据链系统助力中国10吨级电动商用飞机首次有人驾驶智能飞行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732442.shtml",
-        "publishedAt": "2026-11-15T19:18:06.000+08:00"
-      },
-      {
-        "title": "北京市政协建言养老事业与产业协同发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732441.shtml",
-        "publishedAt": "2026-11-15T19:17:13.000+08:00"
-      },
-      {
-        "title": "“希望的田野”公益阅读在海南乡村种下“希望的种子”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732440.shtml",
-        "publishedAt": "2026-11-15T19:16:57.000+08:00"
-      },
-      {
-        "title": "宁夏贺兰山东麓葡萄酒亮相青田侨博会 借侨为桥开拓海外市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732439.shtml",
-        "publishedAt": "2026-11-15T19:16:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T19:20:03.940+08:00",
+    "fetchedAt": "2026-11-15T19:30:04.970+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T19:20:07.797+08:00",
+      "fetchedAt": "2026-11-15T19:30:09.201+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T00:20:08.000+08:00"
+          "resetAt": "2026-11-16T00:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T19:20:08.072+08:00",
+      "fetchedAt": "2026-11-15T19:30:09.442+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T19:20:08.099+08:00",
+      "fetchedAt": "2026-11-15T19:30:09.454+08:00",
       "error": null
     }
   }
