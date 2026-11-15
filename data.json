@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-15T19:40:47.572+08:00",
+  "updatedAt": "2026-11-15T19:50:40.312+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.3,
-    "feelsLikeC": 16.5,
-    "humidity": 80,
-    "windKph": 4.5,
+    "tempC": 16.2,
+    "feelsLikeC": 16.4,
+    "humidity": 81,
+    "windKph": 4.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T19:40:47.573+08:00",
+    "observedAt": "2026-11-15T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-15T19:50:40.313+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）打卡“深圳之眼” 媒体记者走进岗厦北枢纽",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-15/1210869.shtml",
-        "publishedAt": "2026-11-15T19:21:39.000+08:00"
+        "title": "HSK留学中国预科联盟在京成立",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-15/10732454.shtml",
+        "publishedAt": "2026-11-15T19:45:15.000+08:00"
       },
       {
-        "title": "一馆看遍琼岛文脉 “海南文博综合馆”博博会人气旺",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732449.shtml",
-        "publishedAt": "2026-11-15T19:20:00.000+08:00"
+        "title": "中韩青年江西共建“友谊橙园”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732455.shtml",
+        "publishedAt": "2026-11-15T19:42:21.000+08:00"
       },
       {
-        "title": "“城市地理视野下的北京文学研究”研讨会在京举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732447.shtml",
-        "publishedAt": "2026-11-15T19:19:16.000+08:00"
+        "title": "中国驻法国使馆举办二十届五中全会精神宣介会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732452.shtml",
+        "publishedAt": "2026-11-15T19:39:27.000+08:00"
       },
       {
-        "title": "一秒一度皆底线 退役飞行员长春揭秘飞行表演",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732444.shtml",
-        "publishedAt": "2026-11-15T19:18:58.000+08:00"
+        "title": "2026桂林马拉松鸣枪开跑 2.5万跑者共赴山水之约",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732451.shtml",
+        "publishedAt": "2026-11-15T19:39:19.000+08:00"
       },
       {
-        "title": "2026重庆璧山马拉松鸣枪起跑 万名选手畅跑“公园之城”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732443.shtml",
-        "publishedAt": "2026-11-15T19:18:12.000+08:00"
+        "title": "（深圳APEC）中外客商汇聚深圳华强北 觅科技机遇",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-15/1210873.shtml",
+        "publishedAt": "2026-11-15T19:38:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T19:40:12.623+08:00",
+    "fetchedAt": "2026-11-15T19:50:04.475+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T19:40:46.235+08:00",
+      "fetchedAt": "2026-11-15T19:50:38.710+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T00:40:47.000+08:00"
+          "resetAt": "2026-11-16T00:50:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T19:40:46.501+08:00",
+      "fetchedAt": "2026-11-15T19:50:38.979+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T19:40:46.510+08:00",
+      "fetchedAt": "2026-11-15T19:50:38.990+08:00",
       "error": null
     }
   }
