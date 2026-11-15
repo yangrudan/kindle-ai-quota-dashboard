@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T10:40:07.198+08:00",
+  "updatedAt": "2026-11-15T10:50:39.186+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
-    "feelsLikeC": 15.8,
-    "humidity": 70,
-    "windKph": 13.9,
+    "tempC": 17.4,
+    "feelsLikeC": 15.9,
+    "humidity": 69,
+    "windKph": 14.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T10:40:07.198+08:00",
+    "observedAt": "2026-11-15T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-15T10:50:39.186+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732254.shtml",
+        "publishedAt": "2026-11-15T10:41:46.000+08:00"
+      },
+      {
+        "title": "学习新语｜亚太是我们的共同家园",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732246.shtml",
+        "publishedAt": "2026-11-15T10:37:45.000+08:00"
+      },
+      {
+        "title": "速度滑冰世界杯北京站：中国选手廉子文获男子500米金牌",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-15/1210810.shtml",
+        "publishedAt": "2026-11-15T10:37:02.000+08:00"
+      },
       {
         "title": "李强会见泰国国王哇集拉隆功",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732251.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "聚焦深化全民阅读 “十五五·同心聚力自贸港”七期沙龙举行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732248.shtml",
         "publishedAt": "2026-11-15T10:16:48.000+08:00"
-      },
-      {
-        "title": "刺绣高技能人才集群培养计划在湘启动 产教联动共育非遗绣才",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732249.shtml",
-        "publishedAt": "2026-11-15T10:16:46.000+08:00"
-      },
-      {
-        "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732253.shtml",
-        "publishedAt": "2026-11-15T10:13:42.000+08:00"
-      },
-      {
-        "title": "直播海报：2026年APEC工商界活动专题新闻发布会",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-15/10732252.shtml",
-        "publishedAt": "2026-11-15T10:08:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T10:40:02.436+08:00",
+    "fetchedAt": "2026-11-15T10:50:03.481+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T10:40:06.080+08:00",
+      "fetchedAt": "2026-11-15T10:50:37.737+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T15:40:07.000+08:00"
+          "resetAt": "2026-11-15T15:50:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T10:40:06.271+08:00",
+      "fetchedAt": "2026-11-15T10:50:37.870+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T10:40:06.281+08:00",
+      "fetchedAt": "2026-11-15T10:50:37.880+08:00",
       "error": null
     }
   }
