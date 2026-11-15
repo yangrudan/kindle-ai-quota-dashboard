@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T07:40:37.682+08:00",
+  "updatedAt": "2026-11-16T07:50:09.001+08:00",
   "weather": {
     "ok": true,
-    "description": "雾",
-    "iconKey": "fog",
-    "tempC": 12.6,
-    "feelsLikeC": 12.7,
-    "humidity": 97,
-    "windKph": 3.7,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 12.9,
+    "feelsLikeC": 13.1,
+    "humidity": 96,
+    "windKph": 3.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T07:40:37.682+08:00",
+    "observedAt": "2026-11-16T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-16T07:50:09.001+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊朗外交部：伊朗“不会等待任何人”，将继续回应任何军事侵略",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml",
+        "publishedAt": "2026-11-16T07:41:55.000+08:00"
+      },
       {
         "title": "方言何以在青年网络生活中“潮”起来",
         "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732539.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "胡塞武装宣布：沙特联军24小时内75次袭击也门多地",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml",
         "publishedAt": "2026-11-16T07:03:46.000+08:00"
-      },
-      {
-        "title": "11月16日早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732533.shtml",
-        "publishedAt": "2026-11-16T06:43:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T07:40:02.915+08:00",
+    "fetchedAt": "2026-11-16T07:50:03.542+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T07:40:36.490+08:00",
+      "fetchedAt": "2026-11-16T07:50:07.256+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T12:40:37.000+08:00"
+          "resetAt": "2026-11-16T12:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T07:40:36.709+08:00",
+      "fetchedAt": "2026-11-16T07:50:07.551+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T07:40:36.719+08:00",
+      "fetchedAt": "2026-11-16T07:50:07.561+08:00",
       "error": null
     }
   }
