@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T17:00:07.749+08:00",
+  "updatedAt": "2026-11-15T17:10:08.224+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-15T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T17:00:07.749+08:00",
+    "fetchedAt": "2026-11-15T17:10:08.224+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "安徽淮南：民众周末走进博物馆探寻地球生命起源",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732357.shtml",
-        "publishedAt": "2026-11-15T16:34:37.000+08:00"
+        "title": "百余名专家探讨后申遗时代西夏陵破局之路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732398.shtml",
+        "publishedAt": "2026-11-15T17:07:30.000+08:00"
       },
       {
-        "title": "天涯共此诗",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732389.shtml",
-        "publishedAt": "2026-11-15T16:30:54.000+08:00"
+        "title": "港珠澳大桥半马开跑 近万名中外跑者迎风竞逐",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732397.shtml",
+        "publishedAt": "2026-11-15T17:03:26.000+08:00"
       },
       {
-        "title": "雄忻高铁山西段进入联调联试阶段",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732368.shtml",
-        "publishedAt": "2026-11-15T16:24:38.000+08:00"
+        "title": "台湾博主行走大陆 用镜头述烟火温情",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732396.shtml",
+        "publishedAt": "2026-11-15T17:03:22.000+08:00"
       },
       {
-        "title": "从武王墩到异国餐桌 一碗淮南牛肉汤熬出千年江淮烟火",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732367.shtml",
-        "publishedAt": "2026-11-15T16:15:32.000+08:00"
+        "title": "成渝中线高铁成都站主体结构完工",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732395.shtml",
+        "publishedAt": "2026-11-15T17:03:18.000+08:00"
       },
       {
-        "title": "海外华文媒体代表：天天挂在嘴边的成语“老家”原来在淮南",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732366.shtml",
-        "publishedAt": "2026-11-15T16:15:28.000+08:00"
+        "title": "青藏高原一颗沙棘小金果的“进阶之路”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732394.shtml",
+        "publishedAt": "2026-11-15T17:01:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T17:00:03.051+08:00",
+    "fetchedAt": "2026-11-15T17:10:03.150+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T17:00:06.432+08:00",
+      "fetchedAt": "2026-11-15T17:10:06.941+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T22:00:07.000+08:00"
+          "resetAt": "2026-11-15T22:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T17:00:06.762+08:00",
+      "fetchedAt": "2026-11-15T17:10:07.216+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T17:00:06.772+08:00",
+      "fetchedAt": "2026-11-15T17:10:07.224+08:00",
       "error": null
     }
   }
