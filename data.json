@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-15T19:10:39.886+08:00",
+  "updatedAt": "2026-11-15T19:20:09.054+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.5,
-    "feelsLikeC": 16.6,
+    "tempC": 16.4,
+    "feelsLikeC": 16.5,
     "humidity": 79,
-    "windKph": 5.4,
+    "windKph": 5.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T19:10:39.886+08:00",
+    "observedAt": "2026-11-15T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T19:20:09.054+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "荆州崇湖湿地现初冬生态画卷",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732412.shtml",
-        "publishedAt": "2026-11-15T18:55:04.000+08:00"
+        "title": "2026重庆璧山马拉松鸣枪起跑 万名选手畅跑“公园之城”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732443.shtml",
+        "publishedAt": "2026-11-15T19:18:12.000+08:00"
       },
       {
-        "title": "中西部首次落地 海南航空在渝开通“跨航司国际通程中转”业务",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732428.shtml",
-        "publishedAt": "2026-11-15T18:50:10.000+08:00"
+        "title": "测控数据链系统助力中国10吨级电动商用飞机首次有人驾驶智能飞行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732442.shtml",
+        "publishedAt": "2026-11-15T19:18:06.000+08:00"
       },
       {
-        "title": "从羊倌到供货商 甘肃临夏把牛羊“吃干榨净”有一套",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732425.shtml",
-        "publishedAt": "2026-11-15T18:48:22.000+08:00"
+        "title": "北京市政协建言养老事业与产业协同发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732441.shtml",
+        "publishedAt": "2026-11-15T19:17:13.000+08:00"
       },
       {
-        "title": "（经济观察）COP31中场：气候行动“知易行难”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732423.shtml",
-        "publishedAt": "2026-11-15T18:47:26.000+08:00"
+        "title": "“希望的田野”公益阅读在海南乡村种下“希望的种子”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732440.shtml",
+        "publishedAt": "2026-11-15T19:16:57.000+08:00"
       },
       {
-        "title": "（深圳APEC）从深圳港口到海外市场，跨境物流链升级通达亚太",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732421.shtml",
-        "publishedAt": "2026-11-15T18:47:20.000+08:00"
+        "title": "宁夏贺兰山东麓葡萄酒亮相青田侨博会 借侨为桥开拓海外市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732439.shtml",
+        "publishedAt": "2026-11-15T19:16:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T19:10:03.580+08:00",
+    "fetchedAt": "2026-11-15T19:20:03.940+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T19:10:37.652+08:00",
+      "fetchedAt": "2026-11-15T19:20:07.797+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T00:10:39.000+08:00"
+          "resetAt": "2026-11-16T00:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T19:10:37.901+08:00",
+      "fetchedAt": "2026-11-15T19:20:08.072+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T19:10:37.912+08:00",
+      "fetchedAt": "2026-11-15T19:20:08.099+08:00",
       "error": null
     }
   }
