@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T17:20:09.653+08:00",
+  "updatedAt": "2026-11-15T17:30:38.528+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.4,
-    "feelsLikeC": 17.4,
-    "humidity": 74,
-    "windKph": 5.7,
+    "tempC": 17.2,
+    "feelsLikeC": 17.2,
+    "humidity": 76,
+    "windKph": 6.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T17:20:09.653+08:00",
+    "observedAt": "2026-11-15T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-15T17:30:38.528+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美“星舰”第15次试飞：“筷子夹飞船”首试成功，助推器未能返回发射场",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732408.shtml",
+        "publishedAt": "2026-11-15T17:22:47.000+08:00"
+      },
+      {
+        "title": "广西千年坭兴陶：以数智焕陶韵 借文创拓出海",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732403.shtml",
+        "publishedAt": "2026-11-15T17:19:35.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）一杯咖啡里的“APEC浓度”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732404.shtml",
+        "publishedAt": "2026-11-15T17:19:15.000+08:00"
+      },
       {
         "title": "陈茂波：前三季人民币成在港上市债券市场最大发行币种",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732405.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "沈阳启动原创文学IP创造性转化项目 让更多于洪故事走向荧屏",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732402.shtml",
         "publishedAt": "2026-11-15T17:15:57.000+08:00"
-      },
-      {
-        "title": "“开明阅读”启智育人 助力书香自贸港建设",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732401.shtml",
-        "publishedAt": "2026-11-15T17:13:45.000+08:00"
-      },
-      {
-        "title": "“热雪新疆·相约首尔”新疆冬季旅游推介会在韩国首尔举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732400.shtml",
-        "publishedAt": "2026-11-15T17:08:17.000+08:00"
-      },
-      {
-        "title": "百余名专家探讨后申遗时代西夏陵破局之路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732398.shtml",
-        "publishedAt": "2026-11-15T17:07:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T17:20:03.831+08:00",
+    "fetchedAt": "2026-11-15T17:30:02.982+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T17:20:08.216+08:00",
+      "fetchedAt": "2026-11-15T17:30:36.834+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T22:20:09.000+08:00"
+          "resetAt": "2026-11-15T22:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T17:20:08.533+08:00",
+      "fetchedAt": "2026-11-15T17:30:37.212+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T17:20:08.543+08:00",
+      "fetchedAt": "2026-11-15T17:30:37.221+08:00",
       "error": null
     }
   }
