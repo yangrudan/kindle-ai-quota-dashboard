@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T09:50:39.143+08:00",
+  "updatedAt": "2026-11-15T10:00:08.899+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.8,
+    "tempC": 17,
     "feelsLikeC": 15.7,
-    "humidity": 74,
-    "windKph": 12.2,
+    "humidity": 72,
+    "windKph": 13,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T09:50:39.144+08:00",
+    "observedAt": "2026-11-15T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T10:00:08.899+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "亚洲备灾中心执行主任：中国助力各国建设与未来发展",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732236.shtml",
-        "publishedAt": "2026-11-15T09:25:01.000+08:00"
+        "title": "一道寿州城墙守护一城烟火",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732234.shtml",
+        "publishedAt": "2026-11-15T09:48:45.000+08:00"
       },
       {
-        "title": "南非夸纳省一华人超市遭遇持枪抢劫 中国驻德班总领馆发布安全提醒",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732229.shtml",
-        "publishedAt": "2026-11-15T09:24:15.000+08:00"
+        "title": "一老一小社区发展支持计划研讨会举行 专家建言优先培养综合人才",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732232.shtml",
+        "publishedAt": "2026-11-15T09:48:41.000+08:00"
       },
       {
-        "title": "部分电动自行车3C认证卡壳 消费者上牌遇阻",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732245.shtml",
-        "publishedAt": "2026-11-15T09:21:45.000+08:00"
+        "title": "澳门开展同善堂历史人物研究 弘扬慈善传统",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732231.shtml",
+        "publishedAt": "2026-11-15T09:47:45.000+08:00"
       },
       {
-        "title": "“AI漫剧”成健康科普新形式，如何避免“伪科普”陷阱？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732243.shtml",
-        "publishedAt": "2026-11-15T09:19:59.000+08:00"
+        "title": "秦海翔当选福州市委书记",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732223.shtml",
+        "publishedAt": "2026-11-15T09:47:41.000+08:00"
       },
       {
-        "title": "金融机构外汇存款准备金率今起提高至6%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml",
-        "publishedAt": "2026-11-15T09:18:01.000+08:00"
+        "title": "第2届中国高校校友网球公开赛在郑州开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732237.shtml",
+        "publishedAt": "2026-11-15T09:46:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T09:50:03.830+08:00",
+    "fetchedAt": "2026-11-15T10:00:03.558+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T09:50:37.289+08:00",
+      "fetchedAt": "2026-11-15T10:00:07.495+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T14:50:39.000+08:00"
+          "resetAt": "2026-11-15T15:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T09:50:37.651+08:00",
+      "fetchedAt": "2026-11-15T10:00:07.832+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T09:50:37.661+08:00",
+      "fetchedAt": "2026-11-15T10:00:07.842+08:00",
       "error": null
     }
   }
