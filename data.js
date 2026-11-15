@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T10:00:08.899+08:00",
+  "updatedAt": "2026-11-15T10:10:39.211+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-15T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T10:00:08.899+08:00",
+    "fetchedAt": "2026-11-15T10:10:39.211+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一道寿州城墙守护一城烟火",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732234.shtml",
-        "publishedAt": "2026-11-15T09:48:45.000+08:00"
+        "title": "职场年轻人谨防胃肠“亮红灯” 专家：条件允许尽量自制餐食",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-15/10732247.shtml",
+        "publishedAt": "2026-11-15T09:55:47.000+08:00"
       },
       {
-        "title": "一老一小社区发展支持计划研讨会举行 专家建言优先培养综合人才",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732232.shtml",
-        "publishedAt": "2026-11-15T09:48:41.000+08:00"
+        "title": "千亿产值之后 云南文山绿色铝求解“精深”之问",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732244.shtml",
+        "publishedAt": "2026-11-15T09:52:41.000+08:00"
       },
       {
-        "title": "澳门开展同善堂历史人物研究 弘扬慈善传统",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732231.shtml",
-        "publishedAt": "2026-11-15T09:47:45.000+08:00"
+        "title": "《手捧繁星》亮相广州推介会：在低谷中寻光，于助人中成长",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732242.shtml",
+        "publishedAt": "2026-11-15T09:52:13.000+08:00"
       },
       {
-        "title": "秦海翔当选福州市委书记",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732223.shtml",
-        "publishedAt": "2026-11-15T09:47:41.000+08:00"
+        "title": "（寻味中华｜风俗）蟳埔女习俗：从渔村日常到花漾美学",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732241.shtml",
+        "publishedAt": "2026-11-15T09:51:37.000+08:00"
       },
       {
-        "title": "第2届中国高校校友网球公开赛在郑州开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732237.shtml",
-        "publishedAt": "2026-11-15T09:46:41.000+08:00"
+        "title": "高过姚明的章丘大葱 凭什么撑起35亿元产值？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732239.shtml",
+        "publishedAt": "2026-11-15T09:49:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T10:00:03.558+08:00",
+    "fetchedAt": "2026-11-15T10:10:04.000+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T10:00:07.495+08:00",
+      "fetchedAt": "2026-11-15T10:10:37.638+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T15:00:08.000+08:00"
+          "resetAt": "2026-11-15T15:10:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T10:00:07.832+08:00",
+      "fetchedAt": "2026-11-15T10:10:38.021+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T10:00:07.842+08:00",
+      "fetchedAt": "2026-11-15T10:10:38.031+08:00",
       "error": null
     }
   }
