@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T16:10:39.173+08:00",
+  "updatedAt": "2026-11-15T16:20:11.879+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.6,
+    "tempC": 18.4,
     "feelsLikeC": 17.8,
-    "humidity": 66,
-    "windKph": 9.4,
+    "humidity": 68,
+    "windKph": 8.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T16:10:39.173+08:00",
+    "observedAt": "2026-11-15T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T16:20:11.879+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "直播海报：共赴深圳之约——APEC“中国年”全媒体特别节目",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732369.shtml",
-        "publishedAt": "2026-11-15T16:08:29.000+08:00"
+        "title": "中法专家聚山西为晋祠申遗提供学术支撑",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732364.shtml",
+        "publishedAt": "2026-11-15T16:13:30.000+08:00"
       },
       {
-        "title": "（深圳APEC）APEC工商领导人峰会将发布深圳倡议",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732363.shtml",
-        "publishedAt": "2026-11-15T16:06:39.000+08:00"
+        "title": "近镜头｜习近平主席妙论亚太合作之道",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732342.shtml",
+        "publishedAt": "2026-11-15T16:12:03.000+08:00"
       },
       {
-        "title": "（走进中国乡村）走出深山变网红 沂蒙百花峪村焕发新生",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732362.shtml",
-        "publishedAt": "2026-11-15T16:05:01.000+08:00"
+        "title": "携手共建亚太命运共同体",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732358.shtml",
+        "publishedAt": "2026-11-15T16:11:11.000+08:00"
       },
       {
-        "title": "从登山到“读山”：秦岭“轻户外”渐成风尚",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732361.shtml",
-        "publishedAt": "2026-11-15T16:03:33.000+08:00"
+        "title": "（深圳APEC）12位APEC经济体领导人将出席APEC工商领导人峰会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732330.shtml",
+        "publishedAt": "2026-11-15T16:10:25.000+08:00"
       },
       {
-        "title": "博物馆的“焕新”图景：文创出圈 科技造境",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732360.shtml",
-        "publishedAt": "2026-11-15T16:02:21.000+08:00"
+        "title": "直播海报：2026年亚太经合组织工商咨询理事会（ABAC）第四次会议新闻发布会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732371.shtml",
+        "publishedAt": "2026-11-15T16:10:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T16:10:04.282+08:00",
+    "fetchedAt": "2026-11-15T16:20:06.225+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T16:10:37.829+08:00",
+      "fetchedAt": "2026-11-15T16:20:10.093+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T21:10:39.000+08:00"
+          "resetAt": "2026-11-15T21:20:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T16:10:38.175+08:00",
+      "fetchedAt": "2026-11-15T16:20:10.363+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T16:10:38.184+08:00",
+      "fetchedAt": "2026-11-15T16:20:10.373+08:00",
       "error": null
     }
   }
