@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T11:30:08.713+08:00",
+  "updatedAt": "2026-11-15T11:40:38.734+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-15T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T11:30:08.713+08:00",
+    "fetchedAt": "2026-11-15T11:40:38.734+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中山区统一战线开展“寻迹中山·同心筑梦”主题活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732268.shtml",
-        "publishedAt": "2026-11-15T11:15:47.000+08:00"
+        "title": "今起北方多地供暖！不热怎么办？注意这几件事",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732278.shtml",
+        "publishedAt": "2026-11-15T11:29:30.000+08:00"
       },
       {
-        "title": "吉林市选派师生代表参加九省（区、市）各族青少年科技实践营活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732270.shtml",
-        "publishedAt": "2026-11-15T11:14:37.000+08:00"
+        "title": "广东举行首批铸牢中华民族共同体意识研究基地和推进我国宗教中国化研究基地授牌仪式",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732276.shtml",
+        "publishedAt": "2026-11-15T11:23:38.000+08:00"
       },
       {
-        "title": "“民族团结手相牵·同心共筑中国梦”2026年九省（区、市）各族青少年科技实践营圆满结束",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732272.shtml",
-        "publishedAt": "2026-11-15T11:13:13.000+08:00"
+        "title": "同心聚中山 向海谋发展——辽宁省大连市中山区统一战线开展“寻迹中山·同心筑梦”主题活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732275.shtml",
+        "publishedAt": "2026-11-15T11:17:39.000+08:00"
       },
       {
-        "title": "上高县委统战部开展党的二十届五中全会精神主题宣讲",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732273.shtml",
-        "publishedAt": "2026-11-15T11:11:59.000+08:00"
+        "title": "农工党吉林省委会举办2026年度骨干党员培训班",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732262.shtml",
+        "publishedAt": "2026-11-15T11:16:29.000+08:00"
       },
       {
-        "title": "速度滑冰世界杯北京站：中国选手韩梅获女子1500米铜牌",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-15/1210820.shtml",
-        "publishedAt": "2026-11-15T11:10:23.000+08:00"
+        "title": "云岭动态第四十期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732263.shtml",
+        "publishedAt": "2026-11-15T11:15:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T11:30:03.003+08:00",
+    "fetchedAt": "2026-11-15T11:40:03.262+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T11:30:07.088+08:00",
+      "fetchedAt": "2026-11-15T11:40:37.545+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T16:30:08.000+08:00"
+          "resetAt": "2026-11-15T16:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T11:30:07.333+08:00",
+      "fetchedAt": "2026-11-15T11:40:37.800+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T11:30:07.342+08:00",
+      "fetchedAt": "2026-11-15T11:40:37.809+08:00",
       "error": null
     }
   }
