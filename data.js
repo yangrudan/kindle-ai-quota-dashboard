@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T13:20:11.470+08:00",
+  "updatedAt": "2026-11-15T13:30:10.300+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.9,
+    "tempC": 18.8,
     "feelsLikeC": 17.3,
     "humidity": 60,
-    "windKph": 12.9,
+    "windKph": 12.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T13:20:11.470+08:00",
+    "observedAt": "2026-11-15T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-15T13:30:10.300+08:00",
     "error": null
   },
   "news": {
@@ -25,7 +25,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-15T13:04:55.000+08:00"
       },
       {
-        "title": "古特雷斯卸任前最后一次参加气候大会，再次呼吁各方落实承诺",
+        "title": "联合国秘书长古特雷斯：充分肯定中国在可再生能源领域作出的努力丨新闻会客厅",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732319.shtml",
         "publishedAt": "2026-11-15T13:00:53.000+08:00"
       },
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-15T12:54:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T13:20:06.372+08:00",
+    "fetchedAt": "2026-11-15T13:30:04.063+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T13:20:09.946+08:00",
+      "fetchedAt": "2026-11-15T13:30:08.594+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T18:20:11.000+08:00"
+          "resetAt": "2026-11-15T18:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T13:20:10.203+08:00",
+      "fetchedAt": "2026-11-15T13:30:08.928+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T13:20:10.211+08:00",
+      "fetchedAt": "2026-11-15T13:30:08.938+08:00",
       "error": null
     }
   }
