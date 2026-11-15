@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T10:20:09.902+08:00",
+  "updatedAt": "2026-11-15T10:30:08.615+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.2,
+    "tempC": 17.3,
     "feelsLikeC": 15.8,
-    "humidity": 71,
-    "windKph": 13.5,
+    "humidity": 70,
+    "windKph": 13.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T10:20:09.902+08:00",
+    "observedAt": "2026-11-15T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-15T10:30:08.616+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "聚焦深化全民阅读 “十五五·同心聚力自贸港”七期沙龙举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732248.shtml",
+        "publishedAt": "2026-11-15T10:16:48.000+08:00"
+      },
+      {
+        "title": "刺绣高技能人才集群培养计划在湘启动 产教联动共育非遗绣才",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732249.shtml",
+        "publishedAt": "2026-11-15T10:16:46.000+08:00"
+      },
+      {
+        "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732253.shtml",
+        "publishedAt": "2026-11-15T10:13:42.000+08:00"
+      },
       {
         "title": "直播海报：2026年APEC工商界活动专题新闻发布会",
         "url": "https://www.chinanews.com.cn/kong/2026/11-15/10732252.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "职场年轻人谨防胃肠“亮红灯” 专家：条件允许尽量自制餐食",
         "url": "https://www.chinanews.com.cn/jk/2026/11-15/10732247.shtml",
         "publishedAt": "2026-11-15T09:55:47.000+08:00"
-      },
-      {
-        "title": "千亿产值之后 云南文山绿色铝求解“精深”之问",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732244.shtml",
-        "publishedAt": "2026-11-15T09:52:41.000+08:00"
-      },
-      {
-        "title": "《手捧繁星》亮相广州推介会：在低谷中寻光，于助人中成长",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732242.shtml",
-        "publishedAt": "2026-11-15T09:52:13.000+08:00"
-      },
-      {
-        "title": "（寻味中华｜风俗）蟳埔女习俗：从渔村日常到花漾美学",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732241.shtml",
-        "publishedAt": "2026-11-15T09:51:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T10:20:04.429+08:00",
+    "fetchedAt": "2026-11-15T10:30:03.436+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T10:20:08.528+08:00",
+      "fetchedAt": "2026-11-15T10:30:07.293+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T15:20:09.000+08:00"
+          "resetAt": "2026-11-15T15:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T10:20:08.814+08:00",
+      "fetchedAt": "2026-11-15T10:30:07.587+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T10:20:08.824+08:00",
+      "fetchedAt": "2026-11-15T10:30:07.594+08:00",
       "error": null
     }
   }
