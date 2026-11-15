@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T10:30:08.615+08:00",
+  "updatedAt": "2026-11-15T10:40:07.198+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-15T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T10:30:08.616+08:00",
+    "fetchedAt": "2026-11-15T10:40:07.198+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李强会见泰国国王哇集拉隆功",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732251.shtml",
+        "publishedAt": "2026-11-15T10:35:05.000+08:00"
+      },
       {
         "title": "聚焦深化全民阅读 “十五五·同心聚力自贸港”七期沙龙举行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732248.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "直播海报：2026年APEC工商界活动专题新闻发布会",
         "url": "https://www.chinanews.com.cn/kong/2026/11-15/10732252.shtml",
         "publishedAt": "2026-11-15T10:08:44.000+08:00"
-      },
-      {
-        "title": "职场年轻人谨防胃肠“亮红灯” 专家：条件允许尽量自制餐食",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-15/10732247.shtml",
-        "publishedAt": "2026-11-15T09:55:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T10:30:03.436+08:00",
+    "fetchedAt": "2026-11-15T10:40:02.436+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T10:30:07.293+08:00",
+      "fetchedAt": "2026-11-15T10:40:06.080+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T15:30:08.000+08:00"
+          "resetAt": "2026-11-15T15:40:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T10:30:07.587+08:00",
+      "fetchedAt": "2026-11-15T10:40:06.271+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T10:30:07.594+08:00",
+      "fetchedAt": "2026-11-15T10:40:06.281+08:00",
       "error": null
     }
   }
