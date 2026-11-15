@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T14:00:07.980+08:00",
+  "updatedAt": "2026-11-15T14:10:08.480+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-15T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T14:00:07.980+08:00",
+    "fetchedAt": "2026-11-15T14:10:08.481+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国产AI漫剧，抢占全球",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732321.shtml",
+        "publishedAt": "2026-11-15T13:55:30.000+08:00"
+      },
+      {
+        "title": "科技巨头押注AI制药",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732320.shtml",
+        "publishedAt": "2026-11-15T13:52:20.000+08:00"
+      },
       {
         "title": "王牌飞行员王延周的传奇人生",
         "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732318.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "同心织就沂蒙韵 统战赋能布艺兴",
         "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732317.shtml",
         "publishedAt": "2026-11-15T12:57:33.000+08:00"
-      },
-      {
-        "title": "【新阶层主题月】专场活动之“科创大连”举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732312.shtml",
-        "publishedAt": "2026-11-15T12:54:59.000+08:00"
-      },
-      {
-        "title": "（近观中国）从谚语看习近平如何讲述亚太合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732300.shtml",
-        "publishedAt": "2026-11-15T12:54:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T14:00:03.124+08:00",
+    "fetchedAt": "2026-11-15T14:10:03.000+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T14:00:06.749+08:00",
+      "fetchedAt": "2026-11-15T14:10:07.229+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T19:00:07.000+08:00"
+          "resetAt": "2026-11-15T19:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T14:00:06.964+08:00",
+      "fetchedAt": "2026-11-15T14:10:07.485+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T14:00:06.974+08:00",
+      "fetchedAt": "2026-11-15T14:10:07.496+08:00",
       "error": null
     }
   }
