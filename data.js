@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T00:10:09.433+08:00",
+  "updatedAt": "2026-11-16T00:20:38.786+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.1,
-    "feelsLikeC": 14.7,
+    "tempC": 15,
+    "feelsLikeC": 14.5,
     "humidity": 86,
-    "windKph": 8.6,
+    "windKph": 8.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T00:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T00:10:09.433+08:00",
+    "observedAt": "2026-11-16T00:15:00.000+08:00",
+    "fetchedAt": "2026-11-16T00:20:38.786+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "法国周末示威活动中超过400人被拘捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml",
+        "publishedAt": "2026-11-16T00:06:52.000+08:00"
+      },
       {
         "title": "乒乓球前国手方博夺得复出后首冠",
         "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732529.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国平台企业“出招”优化新就业群体劳动权益保障",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732517.shtml",
         "publishedAt": "2026-11-15T22:46:03.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）专访郑永年：西方唱衰中国经济毫无道理，商界知道动力在哪",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732516.shtml",
-        "publishedAt": "2026-11-15T22:45:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T00:10:03.741+08:00",
+    "fetchedAt": "2026-11-16T00:20:03.335+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T00:10:08.006+08:00",
+      "fetchedAt": "2026-11-16T00:20:37.137+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T05:10:09.000+08:00"
+          "resetAt": "2026-11-16T05:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T00:10:08.305+08:00",
+      "fetchedAt": "2026-11-16T00:20:37.382+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T00:10:08.314+08:00",
+      "fetchedAt": "2026-11-16T00:20:37.391+08:00",
       "error": null
     }
   }
