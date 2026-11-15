@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T16:20:11.879+08:00",
+  "updatedAt": "2026-11-15T16:30:09.386+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.4,
+    "tempC": 18.1,
     "feelsLikeC": 17.8,
-    "humidity": 68,
-    "windKph": 8.7,
+    "humidity": 70,
+    "windKph": 7.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T16:20:11.879+08:00",
+    "observedAt": "2026-11-15T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-15T16:30:09.386+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从武王墩到异国餐桌 一碗淮南牛肉汤熬出千年江淮烟火",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732367.shtml",
+        "publishedAt": "2026-11-15T16:15:32.000+08:00"
+      },
+      {
+        "title": "海外华文媒体代表：天天挂在嘴边的成语“老家”原来在淮南",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732366.shtml",
+        "publishedAt": "2026-11-15T16:15:28.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）风光绿电点亮APEC会场，“奇迹之城”深耕绿色转型",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732365.shtml",
+        "publishedAt": "2026-11-15T16:14:40.000+08:00"
+      },
       {
         "title": "中法专家聚山西为晋祠申遗提供学术支撑",
         "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732364.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "近镜头｜习近平主席妙论亚太合作之道",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732342.shtml",
         "publishedAt": "2026-11-15T16:12:03.000+08:00"
-      },
-      {
-        "title": "携手共建亚太命运共同体",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732358.shtml",
-        "publishedAt": "2026-11-15T16:11:11.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）12位APEC经济体领导人将出席APEC工商领导人峰会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732330.shtml",
-        "publishedAt": "2026-11-15T16:10:25.000+08:00"
-      },
-      {
-        "title": "直播海报：2026年亚太经合组织工商咨询理事会（ABAC）第四次会议新闻发布会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732371.shtml",
-        "publishedAt": "2026-11-15T16:10:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T16:20:06.225+08:00",
+    "fetchedAt": "2026-11-15T16:30:04.111+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T16:20:10.093+08:00",
+      "fetchedAt": "2026-11-15T16:30:07.877+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T21:20:11.000+08:00"
+          "resetAt": "2026-11-15T21:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T16:20:10.363+08:00",
+      "fetchedAt": "2026-11-15T16:30:08.114+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T16:20:10.373+08:00",
+      "fetchedAt": "2026-11-15T16:30:08.125+08:00",
       "error": null
     }
   }
