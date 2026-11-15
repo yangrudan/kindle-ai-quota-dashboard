@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T12:50:09.743+08:00",
+  "updatedAt": "2026-11-15T13:00:09.075+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.9,
-    "feelsLikeC": 17.2,
-    "humidity": 60,
+    "tempC": 19,
+    "feelsLikeC": 17.3,
+    "humidity": 59,
     "windKph": 13.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T12:50:09.744+08:00",
+    "observedAt": "2026-11-15T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T13:00:09.075+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "【新阶层主题月】专场活动之“科创大连”举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732312.shtml",
+        "publishedAt": "2026-11-15T12:54:59.000+08:00"
+      },
+      {
+        "title": "（近观中国）从谚语看习近平如何讲述亚太合作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732300.shtml",
+        "publishedAt": "2026-11-15T12:54:43.000+08:00"
+      },
+      {
+        "title": "“侨史大家说”走近孙中山与爱国华侨→",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732307.shtml",
+        "publishedAt": "2026-11-15T12:48:30.000+08:00"
+      },
       {
         "title": "首次落地海南的“博博会”：一场展会与自贸港的“双向奔赴”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732306.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "美军：已护航超17亿桶原油通过霍尔木兹海峡",
         "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732309.shtml",
         "publishedAt": "2026-11-15T12:15:47.000+08:00"
-      },
-      {
-        "title": "聚力数智新财经 上财开启110周年校庆倒计时一周年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732305.shtml",
-        "publishedAt": "2026-11-15T12:14:45.000+08:00"
-      },
-      {
-        "title": "2026新华网思客年会在大同举办 聚焦能源安全与产业体系",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732304.shtml",
-        "publishedAt": "2026-11-15T12:13:04.000+08:00"
-      },
-      {
-        "title": "河南三门峡：冬晨雾飘渺 天鹅入画来",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732282.shtml",
-        "publishedAt": "2026-11-15T12:12:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T12:50:04.465+08:00",
+    "fetchedAt": "2026-11-15T13:00:03.197+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T12:50:08.201+08:00",
+      "fetchedAt": "2026-11-15T13:00:07.713+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T17:50:09.000+08:00"
+          "resetAt": "2026-11-15T18:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T12:50:08.640+08:00",
+      "fetchedAt": "2026-11-15T13:00:08.029+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T12:50:08.649+08:00",
+      "fetchedAt": "2026-11-15T13:00:08.039+08:00",
       "error": null
     }
   }
