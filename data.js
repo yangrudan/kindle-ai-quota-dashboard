@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T07:20:08.455+08:00",
+  "updatedAt": "2026-11-16T07:30:09.177+08:00",
   "weather": {
     "ok": true,
     "description": "雾",
     "iconKey": "fog",
-    "tempC": 12.2,
-    "feelsLikeC": 12.2,
-    "humidity": 98,
-    "windKph": 4.1,
+    "tempC": 12.6,
+    "feelsLikeC": 12.7,
+    "humidity": 97,
+    "windKph": 3.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T07:20:08.455+08:00",
+    "observedAt": "2026-11-16T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T07:30:09.177+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊朗：两艘油轮在霍尔木兹海峡触雷引发剧烈爆炸",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732537.shtml",
+        "publishedAt": "2026-11-16T07:20:21.000+08:00"
+      },
       {
         "title": "胡塞武装宣布：沙特联军24小时内75次袭击也门多地",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "美“火神”火箭未能将亚马逊卫星送入预定轨道",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732531.shtml",
         "publishedAt": "2026-11-16T06:20:40.000+08:00"
-      },
-      {
-        "title": "法国周末示威活动中超过400人被拘捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml",
-        "publishedAt": "2026-11-16T00:06:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T07:20:02.735+08:00",
+    "fetchedAt": "2026-11-16T07:30:03.723+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T07:20:07.078+08:00",
+      "fetchedAt": "2026-11-16T07:30:07.632+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T12:20:08.000+08:00"
+          "resetAt": "2026-11-16T12:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T07:20:07.467+08:00",
+      "fetchedAt": "2026-11-16T07:30:07.852+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T07:20:07.476+08:00",
+      "fetchedAt": "2026-11-16T07:30:07.862+08:00",
       "error": null
     }
   }
