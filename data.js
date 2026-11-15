@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T11:10:38.560+08:00",
+  "updatedAt": "2026-11-15T11:20:07.849+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 16,
-    "humidity": 68,
-    "windKph": 14.2,
+    "tempC": 17.8,
+    "feelsLikeC": 16.2,
+    "humidity": 67,
+    "windKph": 14,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T11:10:38.560+08:00",
+    "observedAt": "2026-11-15T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T11:20:07.849+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "南充：“四化联动”探索园区统战工作新模式",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732257.shtml",
-        "publishedAt": "2026-11-15T11:06:13.000+08:00"
+        "title": "中山区统一战线开展“寻迹中山·同心筑梦”主题活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732268.shtml",
+        "publishedAt": "2026-11-15T11:15:47.000+08:00"
       },
       {
-        "title": "汇聚侨心侨力，中山华侨日又“上新”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732255.shtml",
-        "publishedAt": "2026-11-15T11:03:19.000+08:00"
+        "title": "吉林市选派师生代表参加九省（区、市）各族青少年科技实践营活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732270.shtml",
+        "publishedAt": "2026-11-15T11:14:37.000+08:00"
       },
       {
-        "title": "深化经贸往来，把亚太合作的蛋糕越做越大（瞩望深圳APEC会议）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732271.shtml",
-        "publishedAt": "2026-11-15T11:03:17.000+08:00"
+        "title": "“民族团结手相牵·同心共筑中国梦”2026年九省（区、市）各族青少年科技实践营圆满结束",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732272.shtml",
+        "publishedAt": "2026-11-15T11:13:13.000+08:00"
       },
       {
-        "title": "数说APEC丨APEC进口农产品丰富中国餐桌",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732261.shtml",
-        "publishedAt": "2026-11-15T10:49:26.000+08:00"
+        "title": "上高县委统战部开展党的二十届五中全会精神主题宣讲",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732273.shtml",
+        "publishedAt": "2026-11-15T11:11:59.000+08:00"
       },
       {
-        "title": "速度滑冰世界杯北京站：中国选手宁忠岩获男子1500米金牌",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-15/1210815.shtml",
-        "publishedAt": "2026-11-15T10:48:33.000+08:00"
+        "title": "速度滑冰世界杯北京站：中国选手韩梅获女子1500米铜牌",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-15/1210820.shtml",
+        "publishedAt": "2026-11-15T11:10:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T11:10:03.469+08:00",
+    "fetchedAt": "2026-11-15T11:20:02.877+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T11:10:37.030+08:00",
+      "fetchedAt": "2026-11-15T11:20:06.456+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T16:10:38.000+08:00"
+          "resetAt": "2026-11-15T16:20:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T11:10:37.488+08:00",
+      "fetchedAt": "2026-11-15T11:20:06.706+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T11:10:37.498+08:00",
+      "fetchedAt": "2026-11-15T11:20:06.716+08:00",
       "error": null
     }
   }
