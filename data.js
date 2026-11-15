@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T06:40:08.376+08:00",
+  "updatedAt": "2026-11-16T06:50:08.651+08:00",
   "weather": {
     "ok": true,
     "description": "雾",
     "iconKey": "fog",
     "tempC": 12,
-    "feelsLikeC": 11.9,
-    "humidity": 98,
-    "windKph": 4.6,
+    "feelsLikeC": 11.8,
+    "humidity": 99,
+    "windKph": 4.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T06:40:08.377+08:00",
+    "observedAt": "2026-11-16T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-16T06:50:08.651+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月16日早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732533.shtml",
+        "publishedAt": "2026-11-16T06:43:25.000+08:00"
+      },
       {
         "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732532.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "乒乓球前国手方博夺得复出后首冠",
         "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732529.shtml",
         "publishedAt": "2026-11-15T23:55:31.000+08:00"
-      },
-      {
-        "title": "重返“冰丝带”，北京冬奥会冠军高亭宇速滑世界杯夺金",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732528.shtml",
-        "publishedAt": "2026-11-15T23:53:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T06:40:03.158+08:00",
+    "fetchedAt": "2026-11-16T06:50:03.144+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T06:40:06.975+08:00",
+      "fetchedAt": "2026-11-16T06:50:07.395+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T11:40:08.000+08:00"
+          "resetAt": "2026-11-16T11:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T06:40:07.188+08:00",
+      "fetchedAt": "2026-11-16T06:50:07.649+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T06:40:07.198+08:00",
+      "fetchedAt": "2026-11-16T06:50:07.661+08:00",
       "error": null
     }
   }
