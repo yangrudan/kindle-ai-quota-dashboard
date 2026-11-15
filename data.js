@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T22:50:10.856+08:00",
+  "updatedAt": "2026-11-15T23:00:09.304+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 6.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T22:50:10.856+08:00",
+    "observedAt": "2026-11-15T23:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T23:00:09.305+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "海外华媒走读安徽：“新”、“古”、“变”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732518.shtml",
+        "publishedAt": "2026-11-15T22:46:19.000+08:00"
+      },
+      {
+        "title": "中国平台企业“出招”优化新就业群体劳动权益保障",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732517.shtml",
+        "publishedAt": "2026-11-15T22:46:03.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）专访郑永年：西方唱衰中国经济毫无道理，商界知道动力在哪",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732516.shtml",
+        "publishedAt": "2026-11-15T22:45:23.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）APEC盛会核心场馆“静待花开” 会场外围成打卡热点",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732515.shtml",
+        "publishedAt": "2026-11-15T22:44:43.000+08:00"
+      },
+      {
         "title": "（深圳APEC）APEC经济体相关侨批原件首次联合展出 见证亚太民间往来",
         "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732514.shtml",
         "publishedAt": "2026-11-15T22:39:02.000+08:00"
-      },
-      {
-        "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732511.shtml",
-        "publishedAt": "2026-11-15T21:33:45.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）三个建筑师，给深圳APEC写了一份“国家答卷”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732513.shtml",
-        "publishedAt": "2026-11-15T21:22:20.000+08:00"
-      },
-      {
-        "title": "云岭龙狮舞出新气象 云南民族大学彩带龙队全国锦标赛夺魁",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732493.shtml",
-        "publishedAt": "2026-11-15T21:10:32.000+08:00"
-      },
-      {
-        "title": "云南镇康：雨林深处种出富民“金豆子”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732494.shtml",
-        "publishedAt": "2026-11-15T21:10:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T22:50:04.462+08:00",
+    "fetchedAt": "2026-11-15T23:00:03.296+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T22:50:09.086+08:00",
+      "fetchedAt": "2026-11-15T23:00:07.690+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T03:50:10.000+08:00"
+          "resetAt": "2026-11-16T04:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T22:50:09.466+08:00",
+      "fetchedAt": "2026-11-15T23:00:08.099+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T22:50:09.475+08:00",
+      "fetchedAt": "2026-11-15T23:00:08.108+08:00",
       "error": null
     }
   }
