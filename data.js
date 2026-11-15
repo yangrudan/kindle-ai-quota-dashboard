@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T12:10:08.398+08:00",
+  "updatedAt": "2026-11-15T12:20:40.539+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.4,
-    "feelsLikeC": 16.8,
-    "humidity": 62,
-    "windKph": 13.2,
+    "tempC": 18.6,
+    "feelsLikeC": 17,
+    "humidity": 61,
+    "windKph": 13.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T12:10:08.398+08:00",
+    "observedAt": "2026-11-15T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T12:20:40.540+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026新华网思客年会在大同举办 聚焦能源安全与产业体系",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732304.shtml",
+        "publishedAt": "2026-11-15T12:13:04.000+08:00"
+      },
+      {
+        "title": "河南三门峡：冬晨雾飘渺 天鹅入画来",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732282.shtml",
+        "publishedAt": "2026-11-15T12:12:56.000+08:00"
+      },
+      {
+        "title": "石家庄湾里庙灯会启幕 自贡彩灯点亮“羊”气中国年",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732303.shtml",
+        "publishedAt": "2026-11-15T12:11:16.000+08:00"
+      },
+      {
+        "title": "BLG登顶S16全球总决赛冠军宝座，2000万人在B站见证LPL历史时刻",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732302.shtml",
+        "publishedAt": "2026-11-15T12:05:34.000+08:00"
+      },
+      {
         "title": "国际永久编号361707号小行星被命名为“中国药科大学星”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732297.shtml",
         "publishedAt": "2026-11-15T12:04:38.000+08:00"
-      },
-      {
-        "title": "张文娟：“逆行”守安澜 双岗践初心",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732301.shtml",
-        "publishedAt": "2026-11-15T12:04:30.000+08:00"
-      },
-      {
-        "title": "河南登封：武校学子冬日练功忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732288.shtml",
-        "publishedAt": "2026-11-15T12:04:12.000+08:00"
-      },
-      {
-        "title": "多国汉学家谈中文学习：从笔下功夫到文化体悟",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732296.shtml",
-        "publishedAt": "2026-11-15T12:03:36.000+08:00"
-      },
-      {
-        "title": "1至10月份中国国家铁路发送货物34.2亿吨",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732295.shtml",
-        "publishedAt": "2026-11-15T12:03:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T12:10:02.924+08:00",
+    "fetchedAt": "2026-11-15T12:20:04.742+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T12:10:06.858+08:00",
+      "fetchedAt": "2026-11-15T12:20:38.744+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T17:10:08.000+08:00"
+          "resetAt": "2026-11-15T17:20:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T12:10:07.200+08:00",
+      "fetchedAt": "2026-11-15T12:20:39.134+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T12:10:07.209+08:00",
+      "fetchedAt": "2026-11-15T12:20:39.143+08:00",
       "error": null
     }
   }
