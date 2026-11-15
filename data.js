@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T19:50:40.312+08:00",
+  "updatedAt": "2026-11-15T20:00:11.281+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.2,
-    "feelsLikeC": 16.4,
-    "humidity": 81,
-    "windKph": 4.2,
+    "tempC": 16,
+    "feelsLikeC": 16.3,
+    "humidity": 82,
+    "windKph": 3.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-15T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T19:50:40.313+08:00",
+    "observedAt": "2026-11-15T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T20:00:11.281+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《尺牍成珍》为《与平原书》作注 带读者回到西晋文学活动现场",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732460.shtml",
+        "publishedAt": "2026-11-15T19:49:07.000+08:00"
+      },
+      {
+        "title": "豆腐发源地安徽淮南的千年文脉与世界表达",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732459.shtml",
+        "publishedAt": "2026-11-15T19:48:09.000+08:00"
+      },
+      {
+        "title": "专家学者南京共话宫颈癌防控 聚焦精准分流与AI赋能",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-15/10732458.shtml",
+        "publishedAt": "2026-11-15T19:46:51.000+08:00"
+      },
       {
         "title": "HSK留学中国预科联盟在京成立",
         "url": "https://www.chinanews.com.cn/edu/2026/11-15/10732454.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中韩青年江西共建“友谊橙园”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732455.shtml",
         "publishedAt": "2026-11-15T19:42:21.000+08:00"
-      },
-      {
-        "title": "中国驻法国使馆举办二十届五中全会精神宣介会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732452.shtml",
-        "publishedAt": "2026-11-15T19:39:27.000+08:00"
-      },
-      {
-        "title": "2026桂林马拉松鸣枪开跑 2.5万跑者共赴山水之约",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732451.shtml",
-        "publishedAt": "2026-11-15T19:39:19.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）中外客商汇聚深圳华强北 觅科技机遇",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-15/1210873.shtml",
-        "publishedAt": "2026-11-15T19:38:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T19:50:04.475+08:00",
+    "fetchedAt": "2026-11-15T20:00:04.334+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-15T19:50:38.710+08:00",
+      "fetchedAt": "2026-11-15T20:00:08.932+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T00:50:40.000+08:00"
+          "resetAt": "2026-11-16T01:00:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T19:50:38.979+08:00",
+      "fetchedAt": "2026-11-15T20:00:09.241+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-15T19:50:38.990+08:00",
+      "fetchedAt": "2026-11-15T20:00:09.246+08:00",
       "error": null
     }
   }
