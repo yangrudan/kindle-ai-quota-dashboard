@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T20:30:38.928+08:00",
+  "updatedAt": "2026-11-16T20:40:14.555+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-16T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T20:30:38.928+08:00",
+    "fetchedAt": "2026-11-16T20:40:14.556+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2025年广东林业产业总产值超万亿元",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733016.shtml",
-        "publishedAt": "2026-11-16T20:24:16.000+08:00"
+        "title": "山西打通山区预警“最后一公里”：让预警跑在山洪前面",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733017.shtml",
+        "publishedAt": "2026-11-16T20:33:20.000+08:00"
       },
       {
-        "title": "从馄饨店走出来的新大众文艺作家常玫瑰：烟火有诗情 小草也开花",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733008.shtml",
-        "publishedAt": "2026-11-16T20:22:54.000+08:00"
+        "title": "中国提出到2030年基本形成全球领先的轻工业标准体系",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733024.shtml",
+        "publishedAt": "2026-11-16T20:32:44.000+08:00"
       },
       {
-        "title": "粤港合办纪念香港达德学院创校80周年展览 96岁校友寄语后辈心怀家国",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733021.shtml",
-        "publishedAt": "2026-11-16T20:22:14.000+08:00"
+        "title": "白琵鹭时隔16年再现云南迪庆纳帕海湿地",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733015.shtml",
+        "publishedAt": "2026-11-16T20:31:00.000+08:00"
       },
       {
-        "title": "广东携超5.5万个岗位再赴赣揽人才",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733018.shtml",
-        "publishedAt": "2026-11-16T20:22:02.000+08:00"
+        "title": "浙江慈溪棉拖鞋产销旺 企业订单排到明年初",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10733027.shtml",
+        "publishedAt": "2026-11-16T20:30:08.000+08:00"
       },
       {
-        "title": "“沈阳故宫 光影百年”图片展开展 呈现百年文博路",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733004.shtml",
-        "publishedAt": "2026-11-16T20:21:26.000+08:00"
+        "title": "2026北京朝阳区新就业群体运动会开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10733013.shtml",
+        "publishedAt": "2026-11-16T20:29:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T20:30:03.767+08:00",
+    "fetchedAt": "2026-11-16T20:40:09.059+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T20:30:37.716+08:00",
+      "fetchedAt": "2026-11-16T20:40:12.888+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T01:30:38.000+08:00"
+          "resetAt": "2026-11-17T01:40:14.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T20:30:37.985+08:00",
+      "fetchedAt": "2026-11-16T20:40:13.226+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T20:30:37.991+08:00",
+      "fetchedAt": "2026-11-16T20:40:13.230+08:00",
       "error": null
     }
   }
