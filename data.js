@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T12:10:07.855+08:00",
+  "updatedAt": "2026-11-16T12:20:39.851+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.5,
-    "feelsLikeC": 18.2,
-    "humidity": 62,
-    "windKph": 4.3,
+    "tempC": 18.7,
+    "feelsLikeC": 18.4,
+    "humidity": 61,
+    "windKph": 4,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T12:10:07.855+08:00",
+    "observedAt": "2026-11-16T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-16T12:20:39.852+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从“速度竞赛”转向“价值深耕” 小零食何以做出大声量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732703.shtml",
+        "publishedAt": "2026-11-16T12:09:51.000+08:00"
+      },
+      {
+        "title": "东风云南汽车有限公司党委书记龚先华接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732699.shtml",
+        "publishedAt": "2026-11-16T12:09:31.000+08:00"
+      },
+      {
+        "title": "墨西哥总统辛鲍姆抵达深圳 将出席APEC领导人非正式会议 记者现场直击",
+        "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-16/news1075031.shtml",
+        "publishedAt": "2026-11-16T12:01:13.000+08:00"
+      },
       {
         "title": "中国与东盟宣布将2027年定为人工智能合作年",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732701.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732698.shtml",
         "publishedAt": "2026-11-16T11:53:44.000+08:00"
-      },
-      {
-        "title": "A股午评：超3500只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732697.shtml",
-        "publishedAt": "2026-11-16T11:48:18.000+08:00"
-      },
-      {
-        "title": "“戏聚天津”，在小洋楼里沉浸式入戏",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732696.shtml",
-        "publishedAt": "2026-11-16T11:45:46.000+08:00"
-      },
-      {
-        "title": "10万候鸟的选择——深圳向亚太亮出生态名片",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732695.shtml",
-        "publishedAt": "2026-11-16T11:42:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T12:10:02.742+08:00",
+    "fetchedAt": "2026-11-16T12:20:04.185+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T12:10:06.493+08:00",
+      "fetchedAt": "2026-11-16T12:20:38.179+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T12:10:06.769+08:00",
+      "fetchedAt": "2026-11-16T12:20:38.525+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T12:10:06.778+08:00",
+      "fetchedAt": "2026-11-16T12:20:38.532+08:00",
       "error": null
     }
   }
