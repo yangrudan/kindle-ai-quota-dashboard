@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T08:30:08.509+08:00",
+  "updatedAt": "2026-11-16T08:40:09.413+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-16T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T08:30:08.510+08:00",
+    "fetchedAt": "2026-11-16T08:40:09.413+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "居家机器人，何时进家门？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732556.shtml",
+        "publishedAt": "2026-11-16T08:27:35.000+08:00"
+      },
       {
         "title": "购买儿童票，看身高还是看年龄？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732555.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中东部将有大范围大风降温和雨雪天气",
         "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732551.shtml",
         "publishedAt": "2026-11-16T08:16:02.000+08:00"
-      },
-      {
-        "title": "停飞影响持续 美航空运输预计16日全面恢复 空管老旧问题再受关注",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732550.shtml",
-        "publishedAt": "2026-11-16T08:04:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T08:30:03.268+08:00",
+    "fetchedAt": "2026-11-16T08:40:03.980+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T08:30:07.130+08:00",
+      "fetchedAt": "2026-11-16T08:40:07.843+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T13:30:08.000+08:00"
+          "resetAt": "2026-11-16T13:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T08:30:07.470+08:00",
+      "fetchedAt": "2026-11-16T08:40:08.150+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T08:30:07.480+08:00",
+      "fetchedAt": "2026-11-16T08:40:08.163+08:00",
       "error": null
     }
   }
