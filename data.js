@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T21:40:09.613+08:00",
+  "updatedAt": "2026-11-16T21:50:10.112+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.5,
-    "feelsLikeC": 15.2,
-    "humidity": 82,
-    "windKph": 7,
+    "tempC": 15.4,
+    "feelsLikeC": 15.6,
+    "humidity": 84,
+    "windKph": 5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T21:40:09.613+08:00",
+    "observedAt": "2026-11-16T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-16T21:50:10.112+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）媒体记者走进腾讯总部园区",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210933.shtml",
+        "publishedAt": "2026-11-16T21:40:05.000+08:00"
+      },
       {
         "title": "日本东京突发持刀伤人事件 1人被刺身亡",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733096.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）前海这片“海”，何以链接亚太？",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733092.shtml",
         "publishedAt": "2026-11-16T21:28:53.000+08:00"
-      },
-      {
-        "title": "宠物消费市场稳步扩容 专家共话规范产业发展新路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733089.shtml",
-        "publishedAt": "2026-11-16T21:27:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T21:40:03.490+08:00",
+    "fetchedAt": "2026-11-16T21:50:03.695+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T21:40:08.400+08:00",
+      "fetchedAt": "2026-11-16T21:50:08.661+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T02:40:09.000+08:00"
+          "resetAt": "2026-11-17T02:50:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T21:40:08.656+08:00",
+      "fetchedAt": "2026-11-16T21:50:08.882+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T21:40:08.661+08:00",
+      "fetchedAt": "2026-11-16T21:50:08.886+08:00",
       "error": null
     }
   }
