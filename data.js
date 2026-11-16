@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T16:50:09.067+08:00",
+  "updatedAt": "2026-11-16T17:00:47.853+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.2,
-    "feelsLikeC": 17.9,
-    "humidity": 68,
-    "windKph": 6.3,
-    "windDir": "东北风",
+    "tempC": 17.9,
+    "feelsLikeC": 17.6,
+    "humidity": 69,
+    "windKph": 6.5,
+    "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T16:50:09.067+08:00",
+    "observedAt": "2026-11-16T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T17:00:47.853+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "民进宜春市委会赴明月山开展优化营商环境民主监督调研",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732873.shtml",
+        "publishedAt": "2026-11-16T16:55:46.000+08:00"
+      },
+      {
+        "title": "铸牢共同体 中华一家亲丨一朵红花的“三级跳”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732872.shtml",
+        "publishedAt": "2026-11-16T16:47:52.000+08:00"
+      },
       {
         "title": "新疆：团结同心书写共富华章",
         "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732871.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "鸣沙山下添新地标：游客从“看敦煌”到“过一天敦煌生活”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732868.shtml",
         "publishedAt": "2026-11-16T16:42:36.000+08:00"
-      },
-      {
-        "title": "“石榴花”为什么这样红：新疆各族民众结对帮扶 亲如一家",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-16/10732866.shtml",
-        "publishedAt": "2026-11-16T16:41:06.000+08:00"
-      },
-      {
-        "title": "中国最长二氧化碳输送管道在吉林投运",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732865.shtml",
-        "publishedAt": "2026-11-16T16:40:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T16:50:02.864+08:00",
+    "fetchedAt": "2026-11-16T17:00:03.136+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T16:50:07.734+08:00",
+      "fetchedAt": "2026-11-16T17:00:39.099+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 53,
+          "usedPct": 55,
           "resetAt": "2026-11-16T19:55:06.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T16:50:07.990+08:00",
+      "fetchedAt": "2026-11-16T17:00:40.637+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T16:50:07.996+08:00",
+      "fetchedAt": "2026-11-16T17:00:40.641+08:00",
       "error": null
     }
   }
