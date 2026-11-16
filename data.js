@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T20:20:10.783+08:00",
+  "updatedAt": "2026-11-16T20:30:38.928+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.7,
-    "feelsLikeC": 15,
+    "feelsLikeC": 15.1,
     "humidity": 79,
-    "windKph": 8.6,
+    "windKph": 8.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T20:20:10.783+08:00",
+    "observedAt": "2026-11-16T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T20:30:38.928+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东到2030年将累计建成碧道10000公里",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733001.shtml",
-        "publishedAt": "2026-11-16T20:13:29.000+08:00"
+        "title": "2025年广东林业产业总产值超万亿元",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733016.shtml",
+        "publishedAt": "2026-11-16T20:24:16.000+08:00"
       },
       {
-        "title": "近半席位来自浑南 沈阳“AI+制造”集群领跑全省",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732998.shtml",
-        "publishedAt": "2026-11-16T20:12:41.000+08:00"
+        "title": "从馄饨店走出来的新大众文艺作家常玫瑰：烟火有诗情 小草也开花",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733008.shtml",
+        "publishedAt": "2026-11-16T20:22:54.000+08:00"
       },
       {
-        "title": "中国万拓气象大模型发布 低成本实现全球天气模型精细化",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732999.shtml",
-        "publishedAt": "2026-11-16T20:12:37.000+08:00"
+        "title": "粤港合办纪念香港达德学院创校80周年展览 96岁校友寄语后辈心怀家国",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733021.shtml",
+        "publishedAt": "2026-11-16T20:22:14.000+08:00"
       },
       {
-        "title": "中船大连造船单日连交两船",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732996.shtml",
-        "publishedAt": "2026-11-16T20:10:01.000+08:00"
+        "title": "广东携超5.5万个岗位再赴赣揽人才",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733018.shtml",
+        "publishedAt": "2026-11-16T20:22:02.000+08:00"
       },
       {
-        "title": "APEC工商咨询理事会全年共达成14项成果文件 创历年新高",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733012.shtml",
-        "publishedAt": "2026-11-16T20:09:15.000+08:00"
+        "title": "“沈阳故宫 光影百年”图片展开展 呈现百年文博路",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733004.shtml",
+        "publishedAt": "2026-11-16T20:21:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T20:20:04.717+08:00",
+    "fetchedAt": "2026-11-16T20:30:03.767+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T20:20:09.613+08:00",
+      "fetchedAt": "2026-11-16T20:30:37.716+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T01:20:10.000+08:00"
+          "resetAt": "2026-11-17T01:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T20:20:09.900+08:00",
+      "fetchedAt": "2026-11-16T20:30:37.985+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T20:20:09.907+08:00",
+      "fetchedAt": "2026-11-16T20:30:37.991+08:00",
       "error": null
     }
   }
