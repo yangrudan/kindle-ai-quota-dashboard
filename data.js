@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T17:50:07.918+08:00",
+  "updatedAt": "2026-11-16T18:00:08.641+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.3,
-    "feelsLikeC": 16.6,
+    "tempC": 17.1,
+    "feelsLikeC": 16.3,
     "humidity": 72,
-    "windKph": 9.1,
+    "windKph": 9.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T17:50:07.918+08:00",
+    "observedAt": "2026-11-16T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T18:00:08.641+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中越28对伴侣以跨国瀑布为证 山水间缔结良缘",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-16/10732905.shtml",
+        "publishedAt": "2026-11-16T17:50:41.000+08:00"
+      },
       {
         "title": "创新药的“中国速度”：从获批到纳入医保不到一年",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732912.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "10月上海、沈阳二手房价格同比率先止跌",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732902.shtml",
         "publishedAt": "2026-11-16T17:25:26.000+08:00"
-      },
-      {
-        "title": "拼多多升级“申诉优赔”服务：单日处理申诉单达百万级，年度补偿商家数十亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732901.shtml",
-        "publishedAt": "2026-11-16T17:24:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T17:50:03.092+08:00",
+    "fetchedAt": "2026-11-16T18:00:03.675+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T17:50:06.717+08:00",
+      "fetchedAt": "2026-11-16T18:00:07.453+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T17:50:06.977+08:00",
+      "fetchedAt": "2026-11-16T18:00:07.737+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T17:50:06.985+08:00",
+      "fetchedAt": "2026-11-16T18:00:07.742+08:00",
       "error": null
     }
   }
