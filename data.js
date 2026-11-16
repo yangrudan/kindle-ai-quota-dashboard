@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T12:50:39.266+08:00",
+  "updatedAt": "2026-11-16T13:00:09.491+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 18.6,
-    "humidity": 61,
-    "windKph": 3.3,
+    "tempC": 18.9,
+    "feelsLikeC": 18.7,
+    "humidity": 60,
+    "windKph": 3.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T12:50:39.266+08:00",
+    "observedAt": "2026-11-16T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T13:00:09.491+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我国自主研发电子航海日志系统今天正式发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732710.shtml",
+        "publishedAt": "2026-11-16T12:47:09.000+08:00"
+      },
       {
         "title": "APEC进入深圳时间：花团织锦绣 鹏城迎客来",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732700.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "我国牵头制定的覆雪冰模型试验国际标准发布",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732708.shtml",
         "publishedAt": "2026-11-16T12:24:52.000+08:00"
-      },
-      {
-        "title": "草原遇硒泉 文化架桥梁——明月山以文艺交流推动各民族交往交流交融",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732690.shtml",
-        "publishedAt": "2026-11-16T12:17:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T12:50:03.929+08:00",
+    "fetchedAt": "2026-11-16T13:00:03.440+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T12:50:37.881+08:00",
+      "fetchedAt": "2026-11-16T13:00:08.007+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T12:50:38.216+08:00",
+      "fetchedAt": "2026-11-16T13:00:08.465+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T12:50:38.225+08:00",
+      "fetchedAt": "2026-11-16T13:00:08.471+08:00",
       "error": null
     }
   }
