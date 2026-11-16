@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T18:20:38.546+08:00",
+  "updatedAt": "2026-11-16T18:30:09.840+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.9,
-    "feelsLikeC": 16,
-    "humidity": 73,
+    "tempC": 16.6,
+    "feelsLikeC": 15.7,
+    "humidity": 75,
     "windKph": 10,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T18:20:38.546+08:00",
+    "observedAt": "2026-11-16T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T18:30:09.840+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“同心荟”园艺惠民党外专家服务站专场活动举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732899.shtml",
-        "publishedAt": "2026-11-16T18:13:35.000+08:00"
+        "title": "腾空间、护种群、减干扰、强科普 海南白沙多举措守护雨林家园",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732930.shtml",
+        "publishedAt": "2026-11-16T18:24:17.000+08:00"
       },
       {
-        "title": "（深圳APEC）机器人出海促优势互补 “中国智造”链接亚太",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732921.shtml",
-        "publishedAt": "2026-11-16T18:11:27.000+08:00"
+        "title": "中新健康｜隐匿期长达二三十年，阿尔茨海默病为何难攻克？",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-16/10732934.shtml",
+        "publishedAt": "2026-11-16T18:24:11.000+08:00"
       },
       {
-        "title": "韩国2026年家庭越冬辛奇制作成本回落",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732926.shtml",
-        "publishedAt": "2026-11-16T18:09:27.000+08:00"
+        "title": "科技“外挂”助力丹霞“轻”游 福建泰宁文旅服务再升级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732928.shtml",
+        "publishedAt": "2026-11-16T18:22:43.000+08:00"
       },
       {
-        "title": "香港举行“航空科创马拉松” 全球超200名青年挑战24小时内“创意变应用”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10732922.shtml",
-        "publishedAt": "2026-11-16T18:09:12.000+08:00"
+        "title": "四川：穿齐11件套游200米 “十佳”指战员评比专挑难科目",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732929.shtml",
+        "publishedAt": "2026-11-16T18:19:35.000+08:00"
       },
       {
-        "title": "6个“外行”拍AI剧，观众成了最后一道审片",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732931.shtml",
-        "publishedAt": "2026-11-16T18:08:00.000+08:00"
+        "title": "重庆沙坪坝构建全链条发展生态 让青年成为“城市合伙人”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732924.shtml",
+        "publishedAt": "2026-11-16T18:18:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T18:20:02.295+08:00",
+    "fetchedAt": "2026-11-16T18:30:03.909+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T18:20:36.943+08:00",
+      "fetchedAt": "2026-11-16T18:30:08.344+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T18:20:37.405+08:00",
+      "fetchedAt": "2026-11-16T18:30:08.569+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T18:20:37.410+08:00",
+      "fetchedAt": "2026-11-16T18:30:08.577+08:00",
       "error": null
     }
   }
