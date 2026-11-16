@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T18:40:17.649+08:00",
+  "updatedAt": "2026-11-16T18:50:09.736+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.6,
-    "feelsLikeC": 15.7,
-    "humidity": 75,
-    "windKph": 10,
+    "tempC": 16.3,
+    "feelsLikeC": 15.5,
+    "humidity": 76,
+    "windKph": 9.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T18:40:17.649+08:00",
+    "observedAt": "2026-11-16T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-16T18:50:09.736+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "锚定美丽晋中建设 山西晋中“十五五”协同推进降碳、减污、扩绿、增长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732937.shtml",
-        "publishedAt": "2026-11-16T18:36:02.000+08:00"
+        "title": "第三轮第七批中央生态环保督察全面完成督察进驻工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732939.shtml",
+        "publishedAt": "2026-11-16T18:46:30.000+08:00"
       },
       {
-        "title": "黑龙江呼玛县：界江寒雾凝霜花 呼玛边城赏雾凇",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732936.shtml",
-        "publishedAt": "2026-11-16T18:34:44.000+08:00"
+        "title": "华晨宇完成个人第100场演唱会 感谢歌迷12年陪伴",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732941.shtml",
+        "publishedAt": "2026-11-16T18:45:44.000+08:00"
       },
       {
-        "title": "海南深化热带雨林标志性物种品牌建设 让“生态名片”更具价值",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732933.shtml",
-        "publishedAt": "2026-11-16T18:31:16.000+08:00"
+        "title": "射箭、摔跤、下象棋：实拍锡林郭勒小学生的“冬运会”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732925.shtml",
+        "publishedAt": "2026-11-16T18:39:56.000+08:00"
       },
       {
-        "title": "岑浩辉：继续实施现金分享计划 永久性居民每人获发1万澳门元",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10732935.shtml",
-        "publishedAt": "2026-11-16T18:30:10.000+08:00"
+        "title": "辽宁大连长海大桥迎关键节点 主通航孔桥主塔承台浇筑完成",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732919.shtml",
+        "publishedAt": "2026-11-16T18:38:58.000+08:00"
       },
       {
-        "title": "世界首个300兆瓦人工硐室型压气储能电站并网发电",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732932.shtml",
-        "publishedAt": "2026-11-16T18:26:37.000+08:00"
+        "title": "福建永安首次拍到豹猫 天然“灭鼠能手”现身印证生态向好",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732938.shtml",
+        "publishedAt": "2026-11-16T18:37:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T18:40:12.172+08:00",
+    "fetchedAt": "2026-11-16T18:50:03.888+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T18:40:16.205+08:00",
+      "fetchedAt": "2026-11-16T18:50:08.194+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T18:40:16.420+08:00",
+      "fetchedAt": "2026-11-16T18:50:08.692+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T18:40:16.426+08:00",
+      "fetchedAt": "2026-11-16T18:50:08.695+08:00",
       "error": null
     }
   }
