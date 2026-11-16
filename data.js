@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T15:50:14.908+08:00",
+  "updatedAt": "2026-11-16T16:00:10.658+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.1,
-    "feelsLikeC": 18.5,
-    "humidity": 60,
-    "windKph": 6.4,
+    "tempC": 19.2,
+    "feelsLikeC": 18.8,
+    "humidity": 63,
+    "windKph": 6.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T15:50:14.908+08:00",
+    "observedAt": "2026-11-16T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T16:00:10.658+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第十四届中国中部投资贸易博览会将于本月21日至23日举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732810.shtml",
-        "publishedAt": "2026-11-16T15:44:19.000+08:00"
+        "title": "10月中国原油生产增速加快",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732805.shtml",
+        "publishedAt": "2026-11-16T15:55:01.000+08:00"
       },
       {
-        "title": "2026年APEC工商界活动形成14份成果文件",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732802.shtml",
-        "publishedAt": "2026-11-16T15:36:52.000+08:00"
+        "title": "APEC参会代表：合作是共同基调 APEC需要中国",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732780.shtml",
+        "publishedAt": "2026-11-16T15:53:45.000+08:00"
       },
       {
-        "title": "中方：敦促日本早日彻底清除日遗化武毒害，还中国人民以净土",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732798.shtml",
-        "publishedAt": "2026-11-16T15:34:30.000+08:00"
+        "title": "《非遗里的中国》特展携两百余件精品亮相深圳",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732803.shtml",
+        "publishedAt": "2026-11-16T15:52:31.000+08:00"
       },
       {
-        "title": "美食文旅节目《寻味山海》在辽宁海城品人与自然的和谐共生",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732793.shtml",
-        "publishedAt": "2026-11-16T15:34:28.000+08:00"
+        "title": "11月16日“农产品批发价格200指数”比上周五下降0.04个点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732806.shtml",
+        "publishedAt": "2026-11-16T15:51:47.000+08:00"
       },
       {
-        "title": "AI博主如何交税、要交哪些税？专家解读",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732797.shtml",
-        "publishedAt": "2026-11-16T15:33:00.000+08:00"
+        "title": "新版移动式空调器国家标准发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732757.shtml",
+        "publishedAt": "2026-11-16T15:51:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T15:50:08.157+08:00",
+    "fetchedAt": "2026-11-16T16:00:04.208+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T15:50:13.293+08:00",
+      "fetchedAt": "2026-11-16T16:00:09.015+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 42,
           "resetAt": "2026-11-16T19:55:06.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 46,
+          "usedPct": 47,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T15:50:13.659+08:00",
+      "fetchedAt": "2026-11-16T16:00:09.441+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T15:50:13.666+08:00",
+      "fetchedAt": "2026-11-16T16:00:09.444+08:00",
       "error": null
     }
   }
