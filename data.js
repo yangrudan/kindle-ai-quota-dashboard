@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T23:00:10.477+08:00",
+  "updatedAt": "2026-11-16T23:10:09.101+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-16T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T23:00:10.478+08:00",
+    "fetchedAt": "2026-11-16T23:10:09.101+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第七届香港中美论坛举行 尼克松外孙以“门”喻香港重要性",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733149.shtml",
+        "publishedAt": "2026-11-16T22:59:46.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）AI上APEC：从共识到场景 企业出海赋能亚太数智协作生态",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733148.shtml",
+        "publishedAt": "2026-11-16T22:59:34.000+08:00"
+      },
       {
         "title": "习近平在广东中山考察",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210942.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）从大雁到大鹏 十二载后APEC再回中国",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733137.shtml",
         "publishedAt": "2026-11-16T22:35:13.000+08:00"
-      },
-      {
-        "title": "日本2026年三季度GDP再现负增长",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733142.shtml",
-        "publishedAt": "2026-11-16T22:34:29.000+08:00"
-      },
-      {
-        "title": "韩国政府多举措严防AI技术考试作弊",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733143.shtml",
-        "publishedAt": "2026-11-16T22:34:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T23:00:05.385+08:00",
+    "fetchedAt": "2026-11-16T23:10:03.710+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T23:00:09.170+08:00",
+      "fetchedAt": "2026-11-16T23:10:07.596+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T04:00:10.000+08:00"
+          "resetAt": "2026-11-17T04:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T23:00:09.428+08:00",
+      "fetchedAt": "2026-11-16T23:10:07.834+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T23:00:09.435+08:00",
+      "fetchedAt": "2026-11-16T23:10:07.841+08:00",
       "error": null
     }
   }
