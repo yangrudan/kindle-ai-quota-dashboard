@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T11:50:08.863+08:00",
+  "updatedAt": "2026-11-16T12:00:08.840+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.4,
-    "feelsLikeC": 18.1,
-    "humidity": 63,
-    "windKph": 4.6,
+    "tempC": 18.5,
+    "feelsLikeC": 18.2,
+    "humidity": 62,
+    "windKph": 4.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T11:50:08.863+08:00",
+    "observedAt": "2026-11-16T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T12:00:08.840+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732698.shtml",
+        "publishedAt": "2026-11-16T11:53:44.000+08:00"
+      },
+      {
+        "title": "A股午评：超3500只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732697.shtml",
+        "publishedAt": "2026-11-16T11:48:18.000+08:00"
+      },
+      {
+        "title": "“戏聚天津”，在小洋楼里沉浸式入戏",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732696.shtml",
+        "publishedAt": "2026-11-16T11:45:46.000+08:00"
+      },
       {
         "title": "10万候鸟的选择——深圳向亚太亮出生态名片",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732695.shtml",
@@ -28,24 +43,9 @@
         "title": "墨西哥总统辛鲍姆抵达深圳 将出席APEC领导人非正式会议",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732694.shtml",
         "publishedAt": "2026-11-16T11:38:05.000+08:00"
-      },
-      {
-        "title": "直播外链：墨西哥总统辛鲍姆抵达深圳",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732693.shtml",
-        "publishedAt": "2026-11-16T11:37:25.000+08:00"
-      },
-      {
-        "title": "河南商丘虞城县：多措并举 提升统一战线宣传工作质效",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732686.shtml",
-        "publishedAt": "2026-11-16T11:35:59.000+08:00"
-      },
-      {
-        "title": "2026年APEC工商领导人峰会将举行 这些亮点不容错过",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732691.shtml",
-        "publishedAt": "2026-11-16T11:35:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T11:50:03.644+08:00",
+    "fetchedAt": "2026-11-16T12:00:03.610+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T11:50:07.518+08:00",
+      "fetchedAt": "2026-11-16T12:00:07.574+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 73,
+          "usedPct": 82,
           "resetAt": "2026-11-16T14:23:25.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 36,
+          "usedPct": 38,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T11:50:07.705+08:00",
+      "fetchedAt": "2026-11-16T12:00:07.868+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T11:50:07.709+08:00",
+      "fetchedAt": "2026-11-16T12:00:07.872+08:00",
       "error": null
     }
   }
