@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T06:40:07.312+08:00",
+  "updatedAt": "2026-11-17T06:50:38.360+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 13.6,
-    "feelsLikeC": 13.4,
+    "feelsLikeC": 13.3,
     "humidity": 93,
-    "windKph": 7.1,
+    "windKph": 7.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T06:40:07.312+08:00",
+    "observedAt": "2026-11-17T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-17T06:50:38.360+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "印尼卡伊群岛发生6.6级地震，震源深度20千米",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733165.shtml",
+        "publishedAt": "2026-11-17T06:41:58.000+08:00"
+      },
+      {
+        "title": "11月17日早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-17/10733164.shtml",
+        "publishedAt": "2026-11-17T06:41:08.000+08:00"
+      },
       {
         "title": "伊朗官方否认伊斯法罕省启动防空系统",
         "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733163.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "波黑新一届主席团成员宣誓就职",
         "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733161.shtml",
         "publishedAt": "2026-11-17T00:36:44.000+08:00"
-      },
-      {
-        "title": "俄称下轮俄美乌三方会谈仍在阿布扎比举行 时间待定",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733160.shtml",
-        "publishedAt": "2026-11-17T00:36:40.000+08:00"
-      },
-      {
-        "title": "亚太工商界看好APEC机遇：深化开放合作，共享发展红利",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733159.shtml",
-        "publishedAt": "2026-11-17T00:30:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T06:40:02.457+08:00",
+    "fetchedAt": "2026-11-17T06:50:03.136+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T06:40:05.989+08:00",
+      "fetchedAt": "2026-11-17T06:50:36.870+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T11:40:07.000+08:00"
+          "resetAt": "2026-11-17T11:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T06:40:06.264+08:00",
+      "fetchedAt": "2026-11-17T06:50:37.133+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T06:40:06.267+08:00",
+      "fetchedAt": "2026-11-17T06:50:37.141+08:00",
       "error": null
     }
   }
