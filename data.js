@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T22:50:07.743+08:00",
+  "updatedAt": "2026-11-16T23:00:10.477+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.1,
-    "feelsLikeC": 15.3,
-    "humidity": 89,
-    "windKph": 5.7,
+    "tempC": 15,
+    "feelsLikeC": 15.1,
+    "humidity": 90,
+    "windKph": 6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T22:50:07.743+08:00",
+    "observedAt": "2026-11-16T23:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T23:00:10.478+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平在广东中山考察",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210942.shtml",
+        "publishedAt": "2026-11-16T22:48:45.000+08:00"
+      },
       {
         "title": "王沪宁会见瑙鲁总统阿迪昂",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210941.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "韩国政府多举措严防AI技术考试作弊",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733143.shtml",
         "publishedAt": "2026-11-16T22:34:21.000+08:00"
-      },
-      {
-        "title": "“援”定天山：对口支援共建现代化新疆",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-16/10733141.shtml",
-        "publishedAt": "2026-11-16T22:33:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T22:50:02.583+08:00",
+    "fetchedAt": "2026-11-16T23:00:05.385+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T22:50:06.393+08:00",
+      "fetchedAt": "2026-11-16T23:00:09.170+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T03:50:07.000+08:00"
+          "resetAt": "2026-11-17T04:00:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T22:50:06.630+08:00",
+      "fetchedAt": "2026-11-16T23:00:09.428+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T22:50:06.639+08:00",
+      "fetchedAt": "2026-11-16T23:00:09.435+08:00",
       "error": null
     }
   }
