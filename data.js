@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T10:00:38.326+08:00",
+  "updatedAt": "2026-11-16T10:10:17.758+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-16T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T10:00:38.326+08:00",
+    "fetchedAt": "2026-11-16T10:10:17.759+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "以色列爆料“伊朗近期可能袭击特朗普”，特朗普减少公开活动，贝森特、鲁比奥等高官住进“安全屋”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732610.shtml",
-        "publishedAt": "2026-11-16T09:54:46.000+08:00"
+        "title": "“统战恐惧症”该治治了！五张“药方”拿走不谢",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732622.shtml",
+        "publishedAt": "2026-11-16T10:04:46.000+08:00"
       },
       {
-        "title": "农银债市宝 让投资债券触手可及",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732598.shtml",
-        "publishedAt": "2026-11-16T09:53:54.000+08:00"
+        "title": "10月国民经济运行总体平稳、向新向优",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732619.shtml",
+        "publishedAt": "2026-11-16T10:02:58.000+08:00"
       },
       {
-        "title": "村民组队乡亲助威 湖南桃江“村拔”赛出乡村体育热",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732604.shtml",
-        "publishedAt": "2026-11-16T09:53:12.000+08:00"
+        "title": "2022年以来云南累计完成绿电交易超40亿千瓦时",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732608.shtml",
+        "publishedAt": "2026-11-16T10:01:56.000+08:00"
       },
       {
-        "title": "官方通报“湘超”球迷拉侮辱性横幅：2人被行拘",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732584.shtml",
-        "publishedAt": "2026-11-16T09:51:34.000+08:00"
+        "title": "河北检察机关依法对王峻涉嫌受贿案提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732617.shtml",
+        "publishedAt": "2026-11-16T10:01:32.000+08:00"
       },
       {
-        "title": "2026青年企业家创新发展大会在北京召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732580.shtml",
-        "publishedAt": "2026-11-16T09:48:17.000+08:00"
+        "title": "孔泉阐述帮助理解中国对外政策的“四个关键词”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732609.shtml",
+        "publishedAt": "2026-11-16T10:00:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T10:00:03.470+08:00",
+    "fetchedAt": "2026-11-16T10:10:12.668+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T10:00:37.122+08:00",
+      "fetchedAt": "2026-11-16T10:10:16.655+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 38,
+          "usedPct": 42,
           "resetAt": "2026-11-16T14:23:25.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T10:00:37.327+08:00",
+      "fetchedAt": "2026-11-16T10:10:16.869+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T10:00:37.331+08:00",
+      "fetchedAt": "2026-11-16T10:10:16.876+08:00",
       "error": null
     }
   }
