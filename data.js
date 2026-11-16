@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T09:10:39.624+08:00",
+  "updatedAt": "2026-11-16T09:20:12.676+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15,
-    "feelsLikeC": 15.2,
-    "humidity": 83,
-    "windKph": 2.9,
+    "tempC": 15.4,
+    "feelsLikeC": 15.6,
+    "humidity": 81,
+    "windKph": 3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T09:10:39.624+08:00",
+    "observedAt": "2026-11-16T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-16T09:20:12.677+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中东部大范围雨雪天气持续发展 南北方大片地区气温将创新低",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732564.shtml",
-        "publishedAt": "2026-11-16T08:53:02.000+08:00"
+        "title": "健身半年，竟然两次真菌感染！医生提醒→",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-16/10732579.shtml",
+        "publishedAt": "2026-11-16T09:15:38.000+08:00"
       },
       {
-        "title": "2026世界中文大会闭幕 中文水平考试如何见证全球“来华热”不断升温？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732560.shtml",
-        "publishedAt": "2026-11-16T08:49:22.000+08:00"
+        "title": "大范围雨雪持续影响中东部 北方大部地区进入低温模式",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732566.shtml",
+        "publishedAt": "2026-11-16T09:13:11.000+08:00"
       },
       {
-        "title": "第49届东盟峰会在菲律宾马尼拉开幕",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210887.shtml",
-        "publishedAt": "2026-11-16T08:39:56.000+08:00"
+        "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732571.shtml",
+        "publishedAt": "2026-11-16T09:06:41.000+08:00"
       },
       {
-        "title": "居家机器人，何时进家门？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732556.shtml",
-        "publishedAt": "2026-11-16T08:27:35.000+08:00"
+        "title": "以平台对接推动项目“落地” 绿色联盟与脆弱二十国集团签署合作协议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732572.shtml",
+        "publishedAt": "2026-11-16T09:05:51.000+08:00"
       },
       {
-        "title": "购买儿童票，看身高还是看年龄？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732555.shtml",
-        "publishedAt": "2026-11-16T08:22:45.000+08:00"
+        "title": "速度滑冰世界杯北京站收官 中国队再获1金2银",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732535.shtml",
+        "publishedAt": "2026-11-16T09:05:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T09:10:04.548+08:00",
+    "fetchedAt": "2026-11-16T09:20:03.454+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T09:10:38.298+08:00",
+      "fetchedAt": "2026-11-16T09:20:11.164+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T14:10:39.000+08:00"
+          "resetAt": "2026-11-16T14:20:12.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T09:10:38.487+08:00",
+      "fetchedAt": "2026-11-16T09:20:11.407+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T09:10:38.500+08:00",
+      "fetchedAt": "2026-11-16T09:20:11.412+08:00",
       "error": null
     }
   }
