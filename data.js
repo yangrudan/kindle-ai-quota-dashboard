@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T09:20:12.676+08:00",
+  "updatedAt": "2026-11-16T09:30:38.259+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.4,
-    "feelsLikeC": 15.6,
-    "humidity": 81,
+    "tempC": 15.8,
+    "feelsLikeC": 16,
+    "humidity": 79,
     "windKph": 3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T09:20:12.677+08:00",
+    "observedAt": "2026-11-16T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T09:30:38.259+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "学习手记｜开放是亚太合作的生命线",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732561.shtml",
+        "publishedAt": "2026-11-16T09:22:18.000+08:00"
+      },
       {
         "title": "健身半年，竟然两次真菌感染！医生提醒→",
         "url": "https://www.chinanews.com.cn/jk/2026/11-16/10732579.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "以平台对接推动项目“落地” 绿色联盟与脆弱二十国集团签署合作协议",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732572.shtml",
         "publishedAt": "2026-11-16T09:05:51.000+08:00"
-      },
-      {
-        "title": "速度滑冰世界杯北京站收官 中国队再获1金2银",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732535.shtml",
-        "publishedAt": "2026-11-16T09:05:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T09:20:03.454+08:00",
+    "fetchedAt": "2026-11-16T09:30:03.525+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T09:20:11.164+08:00",
+      "fetchedAt": "2026-11-16T09:30:36.927+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-16T14:20:12.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-11-16T14:23:25.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T09:20:11.407+08:00",
+      "fetchedAt": "2026-11-16T09:30:37.100+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T09:20:11.412+08:00",
+      "fetchedAt": "2026-11-16T09:30:37.105+08:00",
       "error": null
     }
   }
