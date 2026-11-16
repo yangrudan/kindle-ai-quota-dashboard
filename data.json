@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T22:20:08.302+08:00",
+  "updatedAt": "2026-11-16T22:30:08.886+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.3,
+    "tempC": 15.2,
     "feelsLikeC": 15.4,
-    "humidity": 86,
+    "humidity": 88,
     "windKph": 5.4,
-    "windDir": "东风",
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T22:20:08.302+08:00",
+    "observedAt": "2026-11-16T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T22:30:08.886+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "泉州古城：半城烟火半城仙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10733118.shtml",
+        "publishedAt": "2026-11-16T22:19:58.000+08:00"
+      },
       {
         "title": "万盆菊花争奇斗艳 杭州西湖边的“斗菊会”醉游人",
         "url": "https://www.chinanews.com.cn/tp/2026/11-16/10733097.shtml",
@@ -38,14 +43,9 @@
         "title": "（近观中国）习近平眼中“亚太的成功”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733104.shtml",
         "publishedAt": "2026-11-16T22:12:28.000+08:00"
-      },
-      {
-        "title": "聚焦APEC｜加拿大总理卡尼抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733126.shtml",
-        "publishedAt": "2026-11-16T22:10:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T22:20:03.060+08:00",
+    "fetchedAt": "2026-11-16T22:30:03.327+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T22:20:06.879+08:00",
+      "fetchedAt": "2026-11-16T22:30:07.721+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T03:20:08.000+08:00"
+          "resetAt": "2026-11-17T03:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T22:20:07.208+08:00",
+      "fetchedAt": "2026-11-16T22:30:07.945+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T22:20:07.211+08:00",
+      "fetchedAt": "2026-11-16T22:30:07.952+08:00",
       "error": null
     }
   }
