@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T16:30:37.886+08:00",
+  "updatedAt": "2026-11-16T16:41:00.940+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-16T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T16:30:37.886+08:00",
+    "fetchedAt": "2026-11-16T16:41:00.940+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "北京：邂逅“油画”中的公交车站",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210905.shtml",
-        "publishedAt": "2026-11-16T16:27:57.000+08:00"
+        "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732833.shtml",
+        "publishedAt": "2026-11-16T16:34:11.000+08:00"
       },
       {
-        "title": "中国石化宣布乌兰察布绿氢及输氢管道项目正式启动，发布五大城市群氢能交通建设倡议",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732848.shtml",
-        "publishedAt": "2026-11-16T16:27:41.000+08:00"
+        "title": "APEC工商领导人峰会与会嘉宾：APEC需要中国",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732864.shtml",
+        "publishedAt": "2026-11-16T16:33:59.000+08:00"
       },
       {
-        "title": "解读中国—东盟自贸区3.0版：以制度升级提升区域合作质量与共同发展能力",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-16/10732826.shtml",
-        "publishedAt": "2026-11-16T16:26:23.000+08:00"
+        "title": "检察机关依法分别对谭景峰、牛顺生、王镇义、高常亮提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732831.shtml",
+        "publishedAt": "2026-11-16T16:33:53.000+08:00"
       },
       {
-        "title": "金龙鱼持续完善在川布局 瞄准东盟粮油市场",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-16/10732827.shtml",
-        "publishedAt": "2026-11-16T16:26:07.000+08:00"
+        "title": "李强出席第29次中国－东盟领导人会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732807.shtml",
+        "publishedAt": "2026-11-16T16:33:31.000+08:00"
       },
       {
-        "title": "东西问丨郑永年：为什么说中国的开放是对APEC成员最好的“公共产品”？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-16/10732839.shtml",
-        "publishedAt": "2026-11-16T16:25:51.000+08:00"
+        "title": "“中国发展经验、长期主义理念为亚太经济体提供有益借鉴”——访APEC工商咨询理事会秘书处主任巴西利奥",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732859.shtml",
+        "publishedAt": "2026-11-16T16:31:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T16:30:07.344+08:00",
+    "fetchedAt": "2026-11-16T16:40:16.060+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T16:30:36.668+08:00",
+      "fetchedAt": "2026-11-16T16:40:53.562+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 51,
+          "usedPct": 52,
           "resetAt": "2026-11-16T19:55:06.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T16:30:36.935+08:00",
+      "fetchedAt": "2026-11-16T16:40:55.974+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T16:30:36.939+08:00",
+      "fetchedAt": "2026-11-16T16:40:55.984+08:00",
       "error": null
     }
   }
