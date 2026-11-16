@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:00:09.052+08:00",
+  "updatedAt": "2026-11-16T11:10:40.740+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-16T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T11:00:09.052+08:00",
+    "fetchedAt": "2026-11-16T11:10:40.740+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“罗斯福”号抵达 美军在中东集结三个航空母舰打击群",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732664.shtml",
-        "publishedAt": "2026-11-16T10:51:45.000+08:00"
+        "title": "数说APEC丨中国贸易伙伴网如何越织越密？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732672.shtml",
+        "publishedAt": "2026-11-16T11:02:31.000+08:00"
       },
       {
-        "title": "小米亮相联合国气候变化大会，新一代SU7与泰坦合金2.0获中国车企国际EPD双项认证",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732624.shtml",
-        "publishedAt": "2026-11-16T10:51:35.000+08:00"
+        "title": "日本民众举行集会 反对高市政权扩军修宪",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732670.shtml",
+        "publishedAt": "2026-11-16T11:00:29.000+08:00"
       },
       {
-        "title": "国家统计局公布2026年1—10月份全国固定资产投资基本情况",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732641.shtml",
-        "publishedAt": "2026-11-16T10:48:27.000+08:00"
+        "title": "朝中社发文谴责日本拥核野心",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732667.shtml",
+        "publishedAt": "2026-11-16T10:58:27.000+08:00"
       },
       {
-        "title": "多国人士：中国促进亚太和全球合作发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732658.shtml",
-        "publishedAt": "2026-11-16T10:45:29.000+08:00"
+        "title": "推动新型储能进入市场化发展阶段(锐财经)",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732668.shtml",
+        "publishedAt": "2026-11-16T10:57:57.000+08:00"
       },
       {
-        "title": "国家统计局：2026年10月份规模以上工业增加值增长4.8%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732640.shtml",
-        "publishedAt": "2026-11-16T10:43:34.000+08:00"
+        "title": "上海加码涉外经贸急需紧缺人才培养",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732652.shtml",
+        "publishedAt": "2026-11-16T10:57:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T11:00:03.531+08:00",
+    "fetchedAt": "2026-11-16T11:10:05.313+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T11:00:07.743+08:00",
+      "fetchedAt": "2026-11-16T11:10:39.060+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 50,
+          "usedPct": 52,
           "resetAt": "2026-11-16T14:23:25.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T11:00:08.121+08:00",
+      "fetchedAt": "2026-11-16T11:10:39.164+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T11:00:08.124+08:00",
+      "fetchedAt": "2026-11-16T11:10:39.174+08:00",
       "error": null
     }
   }
