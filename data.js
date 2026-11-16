@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T13:20:39.457+08:00",
+  "updatedAt": "2026-11-16T13:30:11.598+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 18.8,
-    "humidity": 60,
-    "windKph": 3.7,
+    "tempC": 19.1,
+    "feelsLikeC": 18.7,
+    "humidity": 59,
+    "windKph": 4.2,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T13:20:39.458+08:00",
+    "observedAt": "2026-11-16T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T13:30:11.598+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）中国深圳迎接APEC",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210895.shtml",
+        "publishedAt": "2026-11-16T13:24:48.000+08:00"
+      },
       {
         "title": "一张自拍照，AI给癌症患者“算命”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732716.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "我国自主研发电子航海日志系统今天正式发布",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732710.shtml",
         "publishedAt": "2026-11-16T12:47:09.000+08:00"
-      },
-      {
-        "title": "APEC进入深圳时间：花团织锦绣 鹏城迎客来",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732700.shtml",
-        "publishedAt": "2026-11-16T12:39:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T13:20:04.422+08:00",
+    "fetchedAt": "2026-11-16T13:30:02.840+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T13:20:38.061+08:00",
+      "fetchedAt": "2026-11-16T13:30:07.000+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T13:20:38.325+08:00",
+      "fetchedAt": "2026-11-16T13:30:07.259+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T13:20:38.331+08:00",
+      "fetchedAt": "2026-11-16T13:30:07.268+08:00",
       "error": null
     }
   }
