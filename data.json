@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T14:10:08.659+08:00",
+  "updatedAt": "2026-11-16T14:20:10.958+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 19.2,
     "feelsLikeC": 18.7,
     "humidity": 59,
-    "windKph": 5.2,
+    "windKph": 5.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T14:10:08.659+08:00",
+    "observedAt": "2026-11-16T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-16T14:20:10.958+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "AI坐上“副驾驶” 助量子计算机“跑得更稳”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732732.shtml",
+        "publishedAt": "2026-11-16T14:09:18.000+08:00"
+      },
+      {
+        "title": "电冰箱等四项家电售后服务国家标准修订发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732730.shtml",
+        "publishedAt": "2026-11-16T14:02:11.000+08:00"
+      },
       {
         "title": "“天价”抗癌药进医保，迈出普惠关键一步",
         "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732728.shtml",
@@ -33,19 +43,9 @@
         "title": "国家统计局：10月份我国工业机器人产量同比增长26%",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732715.shtml",
         "publishedAt": "2026-11-16T13:46:16.000+08:00"
-      },
-      {
-        "title": "迎APEC 深圳国际交流中心场馆设施已准备就绪",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732724.shtml",
-        "publishedAt": "2026-11-16T13:36:48.000+08:00"
-      },
-      {
-        "title": "《丁未年》特种邮票图稿发布",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210897.shtml",
-        "publishedAt": "2026-11-16T13:33:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T14:10:03.539+08:00",
+    "fetchedAt": "2026-11-16T14:20:04.943+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T14:10:07.307+08:00",
+      "fetchedAt": "2026-11-16T14:20:09.695+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T14:10:07.606+08:00",
+      "fetchedAt": "2026-11-16T14:20:09.930+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T14:10:07.611+08:00",
+      "fetchedAt": "2026-11-16T14:20:09.937+08:00",
       "error": null
     }
   }
