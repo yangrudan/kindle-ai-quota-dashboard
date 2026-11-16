@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T15:20:08.238+08:00",
+  "updatedAt": "2026-11-16T15:30:09.533+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 19.2,
     "feelsLikeC": 18.5,
-    "humidity": 58,
-    "windKph": 6.3,
+    "humidity": 59,
+    "windKph": 6.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T15:20:08.238+08:00",
+    "observedAt": "2026-11-16T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T15:30:09.533+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "印尼总统就跨境烟霾影响向邻国道歉",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732755.shtml",
-        "publishedAt": "2026-11-16T15:08:35.000+08:00"
+        "title": "外交部：敦促日方早日彻底清除日遗化武毒害",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732789.shtml",
+        "publishedAt": "2026-11-16T15:22:59.000+08:00"
       },
       {
-        "title": "我国牵头的首个智能制造仿真技术国际标准正式发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732782.shtml",
-        "publishedAt": "2026-11-16T15:07:13.000+08:00"
+        "title": "外交部谈中俄美元首会晤：具有开创性意义",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732787.shtml",
+        "publishedAt": "2026-11-16T15:18:11.000+08:00"
       },
       {
-        "title": "山西晋中未来五年推进农村供水与农田灌溉“双保障、双增效”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732777.shtml",
-        "publishedAt": "2026-11-16T15:06:49.000+08:00"
+        "title": "10月份中国工业机器人产量同比增长26%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732784.shtml",
+        "publishedAt": "2026-11-16T15:16:51.000+08:00"
       },
       {
-        "title": "四川扩投资提速：前10月省重点项目完成投资超8000亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732775.shtml",
-        "publishedAt": "2026-11-16T15:04:27.000+08:00"
+        "title": "土耳其专家点赞中国地热资源利用：为生态保护与经济发展协同推进提供思路｜新闻会客厅",
+        "url": "http://www.chinanews.com.cn/gj/shipin/2026/11-16/news1075044.shtml",
+        "publishedAt": "2026-11-16T15:14:54.000+08:00"
       },
       {
-        "title": "我国中小学校、幼儿园将聘任健康副校（园）长",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-16/10732781.shtml",
-        "publishedAt": "2026-11-16T15:02:32.000+08:00"
+        "title": "土耳其媒体人：绿色转型需要技术进步和经济投入，也离不开公众理解与支持 | 新闻会客厅",
+        "url": "http://www.chinanews.com.cn/gj/shipin/2026/11-16/news1075046.shtml",
+        "publishedAt": "2026-11-16T15:14:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T15:20:02.776+08:00",
+    "fetchedAt": "2026-11-16T15:30:04.100+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T15:20:07.046+08:00",
+      "fetchedAt": "2026-11-16T15:30:08.089+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
+          "usedPct": 28,
           "resetAt": "2026-11-16T19:55:06.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T15:20:07.294+08:00",
+      "fetchedAt": "2026-11-16T15:30:08.333+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T15:20:07.304+08:00",
+      "fetchedAt": "2026-11-16T15:30:08.342+08:00",
       "error": null
     }
   }
