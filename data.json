@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T21:30:08.234+08:00",
+  "updatedAt": "2026-11-16T21:40:09.613+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-16T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T21:30:08.235+08:00",
+    "fetchedAt": "2026-11-16T21:40:09.613+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国证监会召开国际顾问委员会第23次会议",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733088.shtml",
-        "publishedAt": "2026-11-16T21:25:43.000+08:00"
+        "title": "日本东京突发持刀伤人事件 1人被刺身亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733096.shtml",
+        "publishedAt": "2026-11-16T21:34:21.000+08:00"
       },
       {
-        "title": "浙江夯实算力底座 以AI赋能千行百业",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733087.shtml",
-        "publishedAt": "2026-11-16T21:22:51.000+08:00"
+        "title": "（深圳APEC）中外媒体参访荣耀全球制造中心",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210927.shtml",
+        "publishedAt": "2026-11-16T21:33:15.000+08:00"
       },
       {
-        "title": "中国成功连任国际电信联盟理事国",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733083.shtml",
-        "publishedAt": "2026-11-16T21:21:47.000+08:00"
+        "title": "第十届沈阳青年影像节学术论坛举办 聚焦“想象东北的方法”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733090.shtml",
+        "publishedAt": "2026-11-16T21:29:15.000+08:00"
       },
       {
-        "title": "（深圳APEC）从“通”到“融” 深中通道跑出大湾区融合发展加速度",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733086.shtml",
-        "publishedAt": "2026-11-16T21:21:09.000+08:00"
+        "title": "（深圳APEC）前海这片“海”，何以链接亚太？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733092.shtml",
+        "publishedAt": "2026-11-16T21:28:53.000+08:00"
       },
       {
-        "title": "九三学社牵线聚智 助力浙江海盐打造核医疗全产业链高地",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10733079.shtml",
-        "publishedAt": "2026-11-16T21:19:41.000+08:00"
+        "title": "宠物消费市场稳步扩容 专家共话规范产业发展新路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733089.shtml",
+        "publishedAt": "2026-11-16T21:27:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T21:30:03.145+08:00",
+    "fetchedAt": "2026-11-16T21:40:03.490+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T21:30:07.088+08:00",
+      "fetchedAt": "2026-11-16T21:40:08.400+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T02:30:08.000+08:00"
+          "resetAt": "2026-11-17T02:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T21:30:07.364+08:00",
+      "fetchedAt": "2026-11-16T21:40:08.656+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T21:30:07.367+08:00",
+      "fetchedAt": "2026-11-16T21:40:08.661+08:00",
       "error": null
     }
   }
