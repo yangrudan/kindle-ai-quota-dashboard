@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T19:20:39.091+08:00",
+  "updatedAt": "2026-11-16T19:30:08.273+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.9,
-    "feelsLikeC": 15.2,
+    "tempC": 15.8,
+    "feelsLikeC": 15.1,
     "humidity": 78,
-    "windKph": 9.5,
+    "windKph": 9.3,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T19:20:39.091+08:00",
+    "observedAt": "2026-11-16T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T19:30:08.273+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从“抢救保护”迈向“活态新生” 江苏扬州立法护航百年扬剧",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732964.shtml",
-        "publishedAt": "2026-11-16T19:10:48.000+08:00"
+        "title": "第十四届中国中部投资贸易博览会将在郑州举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732972.shtml",
+        "publishedAt": "2026-11-16T19:22:26.000+08:00"
       },
       {
-        "title": "气象服务赋能山西能源保供、生态治理与农业发展",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732965.shtml",
-        "publishedAt": "2026-11-16T19:10:28.000+08:00"
+        "title": "中国官方将对应付账款规模大、故意拉长账期车企开展约谈",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732970.shtml",
+        "publishedAt": "2026-11-16T19:18:58.000+08:00"
       },
       {
-        "title": "宁夏真金白银办好老年幸福“食”事",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732959.shtml",
-        "publishedAt": "2026-11-16T19:10:18.000+08:00"
+        "title": "江西省第十六次党代会即将召开 主要有四项议程",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732968.shtml",
+        "publishedAt": "2026-11-16T19:18:10.000+08:00"
       },
       {
-        "title": "山西沁水八里坪遗址考古实证二里头文化与山西高原交流",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732958.shtml",
-        "publishedAt": "2026-11-16T19:08:50.000+08:00"
+        "title": "忙于“甩锅”？美交通部长拒绝为全美航班停飞事件道歉",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732977.shtml",
+        "publishedAt": "2026-11-16T19:14:40.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）织密共富网，浙江南浔乡土好物“链”上生金",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732963.shtml",
-        "publishedAt": "2026-11-16T19:08:44.000+08:00"
+        "title": "20家海外华媒为何奔赴海南而来？",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-16/10732967.shtml",
+        "publishedAt": "2026-11-16T19:14:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T19:20:04.392+08:00",
+    "fetchedAt": "2026-11-16T19:30:02.531+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T19:20:38.234+08:00",
+      "fetchedAt": "2026-11-16T19:30:06.330+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T19:20:38.069+08:00",
+      "fetchedAt": "2026-11-16T19:30:06.523+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T19:20:38.072+08:00",
+      "fetchedAt": "2026-11-16T19:30:06.528+08:00",
       "error": null
     }
   }
