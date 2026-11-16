@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T15:00:09.196+08:00",
+  "updatedAt": "2026-11-16T15:10:39.990+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-16T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T15:00:09.196+08:00",
+    "fetchedAt": "2026-11-16T15:10:39.990+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "六项水上北斗领域国家标准发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732778.shtml",
-        "publishedAt": "2026-11-16T14:56:26.000+08:00"
+        "title": "我国中小学校、幼儿园将聘任健康副校（园）长",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-16/10732781.shtml",
+        "publishedAt": "2026-11-16T15:02:32.000+08:00"
       },
       {
-        "title": "TVB剧《玫瑰战争》开播",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732772.shtml",
-        "publishedAt": "2026-11-16T14:48:24.000+08:00"
+        "title": "中国国家统计局：实现全年经济发展预期目标有支撑有条件",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732774.shtml",
+        "publishedAt": "2026-11-16T15:01:20.000+08:00"
       },
       {
-        "title": "延边歌舞团以文艺精品促进各民族交往交流交融",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732767.shtml",
-        "publishedAt": "2026-11-16T14:48:16.000+08:00"
+        "title": "山东东营：G220东深线上跨张东铁路万吨桥梁顺利完成转体",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732776.shtml",
+        "publishedAt": "2026-11-16T15:00:54.000+08:00"
       },
       {
-        "title": "第16届“亚洲物流航运及空运会议”在港揭幕 共探全球供应链新格局",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10732753.shtml",
-        "publishedAt": "2026-11-16T14:46:52.000+08:00"
+        "title": "中国国家统计局：房地产市场出现一定积极变化",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732773.shtml",
+        "publishedAt": "2026-11-16T14:59:24.000+08:00"
       },
       {
-        "title": "美国新奥尔良港一游船与油轮相撞后部分沉没",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210900.shtml",
-        "publishedAt": "2026-11-16T14:46:01.000+08:00"
+        "title": "中国官方回应商品销售增速回落：市场规模扩大趋势未变",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732771.shtml",
+        "publishedAt": "2026-11-16T14:59:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T15:00:03.524+08:00",
+    "fetchedAt": "2026-11-16T15:10:04.080+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T15:00:07.330+08:00",
+      "fetchedAt": "2026-11-16T15:10:38.560+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 6,
+          "usedPct": 16,
           "resetAt": "2026-11-16T19:55:06.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 41,
+          "usedPct": 43,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T15:00:07.590+08:00",
+      "fetchedAt": "2026-11-16T15:10:38.813+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T15:00:07.600+08:00",
+      "fetchedAt": "2026-11-16T15:10:38.820+08:00",
       "error": null
     }
   }
