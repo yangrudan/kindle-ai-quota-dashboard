@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T17:00:47.853+08:00",
+  "updatedAt": "2026-11-16T17:10:13.860+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-16T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T17:00:47.853+08:00",
+    "fetchedAt": "2026-11-16T17:10:13.860+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "民进宜春市委会赴明月山开展优化营商环境民主监督调研",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732873.shtml",
-        "publishedAt": "2026-11-16T16:55:46.000+08:00"
+        "title": "京澳高校足球邀请赛澳琴开赛",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10732886.shtml",
+        "publishedAt": "2026-11-16T17:05:23.000+08:00"
       },
       {
-        "title": "铸牢共同体 中华一家亲丨一朵红花的“三级跳”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732872.shtml",
-        "publishedAt": "2026-11-16T16:47:52.000+08:00"
+        "title": "从“过客”变“住客” 宁夏兴庆黄河滩涂迎来大批越冬候鸟",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732884.shtml",
+        "publishedAt": "2026-11-16T17:03:57.000+08:00"
       },
       {
-        "title": "新疆：团结同心书写共富华章",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732871.shtml",
-        "publishedAt": "2026-11-16T16:44:56.000+08:00"
+        "title": "中国深层页岩油钻井周期刷新纪录",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732883.shtml",
+        "publishedAt": "2026-11-16T17:02:05.000+08:00"
       },
       {
-        "title": "破多项纪录 我国输送距离最长二氧化碳长输管道投运",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732870.shtml",
-        "publishedAt": "2026-11-16T16:43:08.000+08:00"
+        "title": "万载县召开全县党外人士学习座谈会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732877.shtml",
+        "publishedAt": "2026-11-16T17:00:27.000+08:00"
       },
       {
-        "title": "鸣沙山下添新地标：游客从“看敦煌”到“过一天敦煌生活”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732868.shtml",
-        "publishedAt": "2026-11-16T16:42:36.000+08:00"
+        "title": "丰城市委统战部召开全市党外人士学习座谈会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732876.shtml",
+        "publishedAt": "2026-11-16T16:59:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T17:00:03.136+08:00",
+    "fetchedAt": "2026-11-16T17:10:05.084+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T17:00:39.099+08:00",
+      "fetchedAt": "2026-11-16T17:10:12.469+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 55,
+          "usedPct": 57,
           "resetAt": "2026-11-16T19:55:06.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T17:00:40.637+08:00",
+      "fetchedAt": "2026-11-16T17:10:12.750+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T17:00:40.641+08:00",
+      "fetchedAt": "2026-11-16T17:10:12.762+08:00",
       "error": null
     }
   }
