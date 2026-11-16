@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T21:00:12.544+08:00",
+  "updatedAt": "2026-11-16T21:10:37.921+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-16T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T21:00:12.544+08:00",
+    "fetchedAt": "2026-11-16T21:10:37.921+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）从黄浦江、雁栖湖到香蜜湖 APEC临水之约蕴东方意涵",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733050.shtml",
-        "publishedAt": "2026-11-16T20:54:23.000+08:00"
+        "title": "山西林草新政：防火期延长46天 火灾追责赔偿修复一体落地",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733064.shtml",
+        "publishedAt": "2026-11-16T21:05:12.000+08:00"
       },
       {
-        "title": "黑龙江东部将迎中到大雪 局地暴雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733047.shtml",
-        "publishedAt": "2026-11-16T20:54:09.000+08:00"
+        "title": "西部陆海新通道跨境公路班车累计发运超4.5万车次",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-16/10733065.shtml",
+        "publishedAt": "2026-11-16T21:05:02.000+08:00"
       },
       {
-        "title": "中卫推进蒙甘宁联防联治项目 3万亩沙化土地综合治理筑牢风沙防线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733044.shtml",
-        "publishedAt": "2026-11-16T20:48:27.000+08:00"
+        "title": "（乡村行·看振兴）浙江缙云：“一只馒头”飘出共富香",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733072.shtml",
+        "publishedAt": "2026-11-16T21:04:34.000+08:00"
       },
       {
-        "title": "（深圳APEC）媒体记者探访中国首个具身智能机器人示范街区",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210910.shtml",
-        "publishedAt": "2026-11-16T20:44:06.000+08:00"
+        "title": "前三季度四川社会消费品零售总额达2.15万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733074.shtml",
+        "publishedAt": "2026-11-16T21:03:42.000+08:00"
       },
       {
-        "title": "联合国妇女署：将性别平等纳入气候政策，中国为全球提供借鉴",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733049.shtml",
-        "publishedAt": "2026-11-16T20:42:49.000+08:00"
+        "title": "（深圳APEC）广东与亚太经济体对接签约重大经贸合作项目29个",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733075.shtml",
+        "publishedAt": "2026-11-16T21:01:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T21:00:03.203+08:00",
+    "fetchedAt": "2026-11-16T21:10:02.476+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 0,
+          "usedPct": 100,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "剩余 1 / 1 AIC"
+          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T21:00:11.165+08:00",
+      "fetchedAt": "2026-11-16T21:10:36.434+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T02:00:12.000+08:00"
+          "resetAt": "2026-11-17T02:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T21:00:11.526+08:00",
+      "fetchedAt": "2026-11-16T21:10:36.718+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T21:00:11.532+08:00",
+      "fetchedAt": "2026-11-16T21:10:36.727+08:00",
       "error": null
     }
   }
