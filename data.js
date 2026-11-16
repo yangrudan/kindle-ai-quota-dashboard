@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T21:20:37.595+08:00",
+  "updatedAt": "2026-11-16T21:30:08.234+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.6,
+    "tempC": 15.5,
     "feelsLikeC": 15.2,
-    "humidity": 80,
-    "windKph": 7.5,
+    "humidity": 82,
+    "windKph": 7,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T21:20:37.595+08:00",
+    "observedAt": "2026-11-16T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T21:30:08.235+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026“一带一路”青年创意与遗产论坛开幕 中外青年相聚长沙碰撞创意",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-16/10733077.shtml",
-        "publishedAt": "2026-11-16T21:16:03.000+08:00"
+        "title": "中国证监会召开国际顾问委员会第23次会议",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733088.shtml",
+        "publishedAt": "2026-11-16T21:25:43.000+08:00"
       },
       {
-        "title": "2026“世界电视日”大视听产业系列活动将启",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733081.shtml",
-        "publishedAt": "2026-11-16T21:14:42.000+08:00"
+        "title": "浙江夯实算力底座 以AI赋能千行百业",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733087.shtml",
+        "publishedAt": "2026-11-16T21:22:51.000+08:00"
       },
       {
-        "title": "河南小麦播种基本结束",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733080.shtml",
-        "publishedAt": "2026-11-16T21:14:16.000+08:00"
+        "title": "中国成功连任国际电信联盟理事国",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733083.shtml",
+        "publishedAt": "2026-11-16T21:21:47.000+08:00"
       },
       {
-        "title": "（深圳APEC）深圳这三个APEC场馆，藏着怎样的“中国气派”？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733073.shtml",
-        "publishedAt": "2026-11-16T21:13:44.000+08:00"
+        "title": "（深圳APEC）从“通”到“融” 深中通道跑出大湾区融合发展加速度",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733086.shtml",
+        "publishedAt": "2026-11-16T21:21:09.000+08:00"
       },
       {
-        "title": "（深圳APEC）一纸侨批，照见亚太往来今昔",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-16/10733071.shtml",
-        "publishedAt": "2026-11-16T21:13:36.000+08:00"
+        "title": "九三学社牵线聚智 助力浙江海盐打造核医疗全产业链高地",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10733079.shtml",
+        "publishedAt": "2026-11-16T21:19:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T21:20:02.890+08:00",
+    "fetchedAt": "2026-11-16T21:30:03.145+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T21:20:36.348+08:00",
+      "fetchedAt": "2026-11-16T21:30:07.088+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T02:20:37.000+08:00"
+          "resetAt": "2026-11-17T02:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T21:20:36.626+08:00",
+      "fetchedAt": "2026-11-16T21:30:07.364+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T21:20:36.633+08:00",
+      "fetchedAt": "2026-11-16T21:30:07.367+08:00",
       "error": null
     }
   }
