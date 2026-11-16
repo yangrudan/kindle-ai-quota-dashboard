@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T21:50:10.112+08:00",
+  "updatedAt": "2026-11-16T22:00:38.372+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15.4,
-    "feelsLikeC": 15.6,
-    "humidity": 84,
-    "windKph": 5,
+    "feelsLikeC": 15.5,
+    "humidity": 85,
+    "windKph": 5.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T21:50:10.112+08:00",
+    "observedAt": "2026-11-16T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T22:00:38.372+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）媒体记者走进腾讯总部园区",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210933.shtml",
-        "publishedAt": "2026-11-16T21:40:05.000+08:00"
+        "title": "跨省揽才、政策托底 今年“秋招”已提供超550万个岗位",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733106.shtml",
+        "publishedAt": "2026-11-16T21:50:54.000+08:00"
       },
       {
-        "title": "日本东京突发持刀伤人事件 1人被刺身亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733096.shtml",
-        "publishedAt": "2026-11-16T21:34:21.000+08:00"
+        "title": "总书记致暨南大学贺信激发团结奋进新征程强大力量",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733093.shtml",
+        "publishedAt": "2026-11-16T21:50:54.000+08:00"
       },
       {
-        "title": "（深圳APEC）中外媒体参访荣耀全球制造中心",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210927.shtml",
-        "publishedAt": "2026-11-16T21:33:15.000+08:00"
+        "title": "怎样看待当前消费形势（每周经济评论）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733105.shtml",
+        "publishedAt": "2026-11-16T21:50:02.000+08:00"
       },
       {
-        "title": "第十届沈阳青年影像节学术论坛举办 聚焦“想象东北的方法”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733090.shtml",
-        "publishedAt": "2026-11-16T21:29:15.000+08:00"
+        "title": "福建泉州口岸前10个月原油进口超1500万吨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733102.shtml",
+        "publishedAt": "2026-11-16T21:49:04.000+08:00"
       },
       {
-        "title": "（深圳APEC）前海这片“海”，何以链接亚太？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733092.shtml",
-        "publishedAt": "2026-11-16T21:28:53.000+08:00"
+        "title": "10国学员齐聚重庆 研修西部陆海新通道跨境贸易与产业合作",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-16/10733101.shtml",
+        "publishedAt": "2026-11-16T21:49:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T21:50:03.695+08:00",
+    "fetchedAt": "2026-11-16T22:00:02.972+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T21:50:08.661+08:00",
+      "fetchedAt": "2026-11-16T22:00:36.931+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T02:50:10.000+08:00"
+          "resetAt": "2026-11-17T03:00:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T21:50:08.882+08:00",
+      "fetchedAt": "2026-11-16T22:00:37.161+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T21:50:08.886+08:00",
+      "fetchedAt": "2026-11-16T22:00:37.169+08:00",
       "error": null
     }
   }
