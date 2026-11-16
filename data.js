@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T12:00:08.840+08:00",
+  "updatedAt": "2026-11-16T12:10:07.855+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-16T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T12:00:08.840+08:00",
+    "fetchedAt": "2026-11-16T12:10:07.855+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国与东盟宣布将2027年定为人工智能合作年",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732701.shtml",
+        "publishedAt": "2026-11-16T11:57:48.000+08:00"
+      },
       {
         "title": "中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732698.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "10万候鸟的选择——深圳向亚太亮出生态名片",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732695.shtml",
         "publishedAt": "2026-11-16T11:42:56.000+08:00"
-      },
-      {
-        "title": "墨西哥总统辛鲍姆抵达深圳 将出席APEC领导人非正式会议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732694.shtml",
-        "publishedAt": "2026-11-16T11:38:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T12:00:03.610+08:00",
+    "fetchedAt": "2026-11-16T12:10:02.742+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T12:00:07.574+08:00",
+      "fetchedAt": "2026-11-16T12:10:06.493+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 82,
+          "usedPct": 91,
           "resetAt": "2026-11-16T14:23:25.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 38,
+          "usedPct": 39,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T12:00:07.868+08:00",
+      "fetchedAt": "2026-11-16T12:10:06.769+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T12:00:07.872+08:00",
+      "fetchedAt": "2026-11-16T12:10:06.778+08:00",
       "error": null
     }
   }
