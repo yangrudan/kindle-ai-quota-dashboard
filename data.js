@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T20:40:14.555+08:00",
+  "updatedAt": "2026-11-16T20:50:10.420+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 15.7,
     "feelsLikeC": 15.1,
     "humidity": 79,
-    "windKph": 8.3,
+    "windKph": 8.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T20:40:14.556+08:00",
+    "observedAt": "2026-11-16T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-16T20:50:10.420+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山西打通山区预警“最后一公里”：让预警跑在山洪前面",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733017.shtml",
-        "publishedAt": "2026-11-16T20:33:20.000+08:00"
+        "title": "（深圳APEC）媒体记者探访中国首个具身智能机器人示范街区",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210910.shtml",
+        "publishedAt": "2026-11-16T20:44:06.000+08:00"
       },
       {
-        "title": "中国提出到2030年基本形成全球领先的轻工业标准体系",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733024.shtml",
-        "publishedAt": "2026-11-16T20:32:44.000+08:00"
+        "title": "联合国妇女署：将性别平等纳入气候政策，中国为全球提供借鉴",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733049.shtml",
+        "publishedAt": "2026-11-16T20:42:49.000+08:00"
       },
       {
-        "title": "白琵鹭时隔16年再现云南迪庆纳帕海湿地",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733015.shtml",
-        "publishedAt": "2026-11-16T20:31:00.000+08:00"
+        "title": "土耳其主流媒体代表团参访新疆",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733043.shtml",
+        "publishedAt": "2026-11-16T20:41:43.000+08:00"
       },
       {
-        "title": "浙江慈溪棉拖鞋产销旺 企业订单排到明年初",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10733027.shtml",
-        "publishedAt": "2026-11-16T20:30:08.000+08:00"
+        "title": "“彩云汇”专题赛云南安宁开幕 以赛促科创项目落地转化",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733040.shtml",
+        "publishedAt": "2026-11-16T20:41:37.000+08:00"
       },
       {
-        "title": "2026北京朝阳区新就业群体运动会开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10733013.shtml",
-        "publishedAt": "2026-11-16T20:29:56.000+08:00"
+        "title": "2026脑机接口大会将于11月19日在北京昌平启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733036.shtml",
+        "publishedAt": "2026-11-16T20:41:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T20:40:09.059+08:00",
+    "fetchedAt": "2026-11-16T20:50:04.049+08:00",
     "error": null
   },
   "sources": {
@@ -55,12 +55,12 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 100,
+          "usedPct": 0,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
+          "detailText": "剩余 1 / 1 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T20:40:12.888+08:00",
+      "fetchedAt": "2026-11-16T20:50:09.085+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T01:40:14.000+08:00"
+          "resetAt": "2026-11-17T01:50:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T20:40:13.226+08:00",
+      "fetchedAt": "2026-11-16T20:50:09.365+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T20:40:13.230+08:00",
+      "fetchedAt": "2026-11-16T20:50:09.370+08:00",
       "error": null
     }
   }
