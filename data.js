@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T10:30:07.916+08:00",
+  "updatedAt": "2026-11-16T10:40:38.416+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-16T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T10:30:07.917+08:00",
+    "fetchedAt": "2026-11-16T10:40:38.417+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "直播：国新办就2026年10月份国民经济运行情况举行新闻发布会",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732638.shtml",
+        "publishedAt": "2026-11-16T10:22:41.000+08:00"
+      },
+      {
+        "title": "习近平致信祝贺暨南大学建校120周年",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732633.shtml",
+        "publishedAt": "2026-11-16T10:21:27.000+08:00"
+      },
+      {
+        "title": "【光明论坛】增强党在新兴领域号召力凝聚力影响力",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732636.shtml",
+        "publishedAt": "2026-11-16T10:20:31.000+08:00"
+      },
       {
         "title": "国家统计局：10月份国民经济运行总体平稳、向新向优",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732626.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "延寿、护心、舒缓颈椎 这项运动的好处被低估了",
         "url": "https://www.chinanews.com.cn/jk/2026/11-16/10732629.shtml",
         "publishedAt": "2026-11-16T10:12:09.000+08:00"
-      },
-      {
-        "title": "全国羽毛球团体锦标赛落幕：浙江男队卫冕 江苏女队夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732625.shtml",
-        "publishedAt": "2026-11-16T10:11:31.000+08:00"
-      },
-      {
-        "title": "“统战恐惧症”该治治了！五张“药方”拿走不谢",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732622.shtml",
-        "publishedAt": "2026-11-16T10:04:46.000+08:00"
-      },
-      {
-        "title": "10月国民经济运行总体平稳、向新向优",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732619.shtml",
-        "publishedAt": "2026-11-16T10:02:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T10:30:02.726+08:00",
+    "fetchedAt": "2026-11-16T10:40:03.051+08:00",
     "error": null
   },
   "sources": {
@@ -55,13 +55,14 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "月度 AIC",
-          "usedPct": 100,
+          "usedPct": 4.9,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
+          "detailText": "剩余 1427 / 1500 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T10:30:06.372+08:00",
-      "error": null
+      "fetchedAt": "2026-11-06T16:18:27.751+08:00",
+      "error": "云端查询失败：gh: API rate limit exceeded for 216.133.150.64. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) (HTTP 403)\n",
+      "stale": true
     },
     "codex": {
       "ok": true,
@@ -78,7 +79,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T10:30:06.588+08:00",
+      "fetchedAt": "2026-11-16T10:40:36.957+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +98,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T10:30:06.597+08:00",
+      "fetchedAt": "2026-11-16T10:40:36.977+08:00",
       "error": null
     }
   }
