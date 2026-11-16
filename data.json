@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T11:20:07.910+08:00",
+  "updatedAt": "2026-11-16T11:30:10.298+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18,
-    "feelsLikeC": 17.7,
-    "humidity": 66,
-    "windKph": 5.2,
+    "tempC": 18.2,
+    "feelsLikeC": 17.9,
+    "humidity": 65,
+    "windKph": 5,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T11:20:07.910+08:00",
+    "observedAt": "2026-11-16T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T11:30:10.299+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "云岭动态第四十一期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732681.shtml",
+        "publishedAt": "2026-11-16T11:18:50.000+08:00"
+      },
+      {
+        "title": "1至10月全国铁路完成固定资产投资6773亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732671.shtml",
+        "publishedAt": "2026-11-16T11:16:36.000+08:00"
+      },
+      {
+        "title": "超强厄尔尼诺来袭 中国多举措力保今冬供暖",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732678.shtml",
+        "publishedAt": "2026-11-16T11:15:44.000+08:00"
+      },
+      {
+        "title": "青藏高原实现高铁电商快件规模化运输",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732677.shtml",
+        "publishedAt": "2026-11-16T11:15:06.000+08:00"
+      },
+      {
         "title": "步行街变创新秀场：新技术、新产品、新业态扎堆激活深圳科创活力",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732679.shtml",
         "publishedAt": "2026-11-16T11:13:48.000+08:00"
-      },
-      {
-        "title": "事关婴幼儿配方乳粉两项风险防控指南 市场监管总局公开征求意见",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732676.shtml",
-        "publishedAt": "2026-11-16T11:07:52.000+08:00"
-      },
-      {
-        "title": "巴媒主编盛赞深圳发展经验：亚太地区应携手创造确定性",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732675.shtml",
-        "publishedAt": "2026-11-16T11:07:02.000+08:00"
-      },
-      {
-        "title": "从一片红树林，看见APEC的深圳注脚",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732674.shtml",
-        "publishedAt": "2026-11-16T11:04:34.000+08:00"
-      },
-      {
-        "title": "逆风夺冠，电竞热更需行稳致远",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732673.shtml",
-        "publishedAt": "2026-11-16T11:04:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T11:20:03.134+08:00",
+    "fetchedAt": "2026-11-16T11:30:04.416+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T11:20:06.744+08:00",
+      "fetchedAt": "2026-11-16T11:30:08.997+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 52,
+          "usedPct": 58,
           "resetAt": "2026-11-16T14:23:25.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 33,
+          "usedPct": 34,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T11:20:07.010+08:00",
+      "fetchedAt": "2026-11-16T11:30:09.346+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T11:20:07.014+08:00",
+      "fetchedAt": "2026-11-16T11:30:09.355+08:00",
       "error": null
     }
   }
