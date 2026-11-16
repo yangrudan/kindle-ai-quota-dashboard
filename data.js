@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T11:10:40.740+08:00",
+  "updatedAt": "2026-11-16T11:20:07.910+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.8,
-    "feelsLikeC": 17.5,
-    "humidity": 68,
+    "tempC": 18,
+    "feelsLikeC": 17.7,
+    "humidity": 66,
     "windKph": 5.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T11:10:40.740+08:00",
+    "observedAt": "2026-11-16T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-16T11:20:07.910+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "数说APEC丨中国贸易伙伴网如何越织越密？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732672.shtml",
-        "publishedAt": "2026-11-16T11:02:31.000+08:00"
+        "title": "步行街变创新秀场：新技术、新产品、新业态扎堆激活深圳科创活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732679.shtml",
+        "publishedAt": "2026-11-16T11:13:48.000+08:00"
       },
       {
-        "title": "日本民众举行集会 反对高市政权扩军修宪",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732670.shtml",
-        "publishedAt": "2026-11-16T11:00:29.000+08:00"
+        "title": "事关婴幼儿配方乳粉两项风险防控指南 市场监管总局公开征求意见",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732676.shtml",
+        "publishedAt": "2026-11-16T11:07:52.000+08:00"
       },
       {
-        "title": "朝中社发文谴责日本拥核野心",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732667.shtml",
-        "publishedAt": "2026-11-16T10:58:27.000+08:00"
+        "title": "巴媒主编盛赞深圳发展经验：亚太地区应携手创造确定性",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732675.shtml",
+        "publishedAt": "2026-11-16T11:07:02.000+08:00"
       },
       {
-        "title": "推动新型储能进入市场化发展阶段(锐财经)",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732668.shtml",
-        "publishedAt": "2026-11-16T10:57:57.000+08:00"
+        "title": "从一片红树林，看见APEC的深圳注脚",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732674.shtml",
+        "publishedAt": "2026-11-16T11:04:34.000+08:00"
       },
       {
-        "title": "上海加码涉外经贸急需紧缺人才培养",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732652.shtml",
-        "publishedAt": "2026-11-16T10:57:09.000+08:00"
+        "title": "逆风夺冠，电竞热更需行稳致远",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732673.shtml",
+        "publishedAt": "2026-11-16T11:04:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T11:10:05.313+08:00",
+    "fetchedAt": "2026-11-16T11:20:03.134+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T11:10:39.060+08:00",
+      "fetchedAt": "2026-11-16T11:20:06.744+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T11:10:39.164+08:00",
+      "fetchedAt": "2026-11-16T11:20:07.010+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T11:10:39.174+08:00",
+      "fetchedAt": "2026-11-16T11:20:07.014+08:00",
       "error": null
     }
   }
