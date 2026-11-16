@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T17:20:09.663+08:00",
+  "updatedAt": "2026-11-16T17:30:09.195+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
-    "feelsLikeC": 17.3,
-    "humidity": 70,
-    "windKph": 7.1,
+    "tempC": 17.5,
+    "feelsLikeC": 17,
+    "humidity": 71,
+    "windKph": 8.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T17:20:09.663+08:00",
+    "observedAt": "2026-11-16T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T17:30:09.195+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆70余年历史老影院变身社区空间 吸引民众打卡",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732880.shtml",
-        "publishedAt": "2026-11-16T17:16:08.000+08:00"
+        "title": "10月上海、沈阳二手房价格同比率先止跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732902.shtml",
+        "publishedAt": "2026-11-16T17:25:26.000+08:00"
       },
       {
-        "title": "重庆沙坪坝多举措提升开放型经济发展质效",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732887.shtml",
-        "publishedAt": "2026-11-16T17:14:54.000+08:00"
+        "title": "拼多多升级“申诉优赔”服务：单日处理申诉单达百万级，年度补偿商家数十亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732901.shtml",
+        "publishedAt": "2026-11-16T17:24:08.000+08:00"
       },
       {
-        "title": "全国中小学舞蹈教师培优计划湖南站开班",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-16/10732888.shtml",
-        "publishedAt": "2026-11-16T17:13:47.000+08:00"
+        "title": "涉17家重点车企 供应商账款支付情况调研评估将进行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732900.shtml",
+        "publishedAt": "2026-11-16T17:20:44.000+08:00"
       },
       {
-        "title": "三重解码剑南春：天猫双11的领先样本",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732890.shtml",
-        "publishedAt": "2026-11-16T17:10:45.000+08:00"
+        "title": "跨国美育交流走进无锡新安 版画架起文明对话桥梁",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732898.shtml",
+        "publishedAt": "2026-11-16T17:19:10.000+08:00"
       },
       {
-        "title": "京澳高校足球邀请赛澳琴开赛",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10732886.shtml",
-        "publishedAt": "2026-11-16T17:05:23.000+08:00"
+        "title": "原甘肃林业职业技术学院院长陈逸平接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732891.shtml",
+        "publishedAt": "2026-11-16T17:17:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T17:20:02.849+08:00",
+    "fetchedAt": "2026-11-16T17:30:03.291+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T17:20:06.362+08:00",
+      "fetchedAt": "2026-11-16T17:30:08.045+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 60,
+          "usedPct": 61,
           "resetAt": "2026-11-16T19:55:06.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T17:20:06.641+08:00",
+      "fetchedAt": "2026-11-16T17:30:08.307+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T17:20:06.647+08:00",
+      "fetchedAt": "2026-11-16T17:30:08.315+08:00",
       "error": null
     }
   }
