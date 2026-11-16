@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T09:40:08.798+08:00",
+  "updatedAt": "2026-11-16T09:50:08.682+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.9,
-    "feelsLikeC": 16.2,
-    "humidity": 79,
-    "windKph": 3,
+    "tempC": 16.4,
+    "feelsLikeC": 16.6,
+    "humidity": 77,
+    "windKph": 3.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T09:40:08.798+08:00",
+    "observedAt": "2026-11-16T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-16T09:50:08.682+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新疆医科大学党委原书记高发水接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732573.shtml",
-        "publishedAt": "2026-11-16T09:33:39.000+08:00"
+        "title": "AI时代的饭碗要怎么端",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732595.shtml",
+        "publishedAt": "2026-11-16T09:41:27.000+08:00"
       },
       {
-        "title": "新版医保目录“新”在哪",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732590.shtml",
-        "publishedAt": "2026-11-16T09:31:08.000+08:00"
+        "title": "“绑沙袋跑步瘦得更快”，是真的吗？医生提醒",
+        "url": "https://www.chinanews.com.cn/life/2026/11-16/10732593.shtml",
+        "publishedAt": "2026-11-16T09:35:45.000+08:00"
       },
       {
-        "title": "2026重庆武隆芙蓉湖铁人三项公开赛鸣枪开赛 中外“铁人”展开角逐",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732576.shtml",
-        "publishedAt": "2026-11-16T09:29:04.000+08:00"
+        "title": "江苏如东：洋口港LNG接收站吹响冬供号角",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732589.shtml",
+        "publishedAt": "2026-11-16T09:35:37.000+08:00"
       },
       {
-        "title": "尼泊尔民众庆祝太阳节",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732567.shtml",
-        "publishedAt": "2026-11-16T09:26:38.000+08:00"
+        "title": "11月16日央行开展4600亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732586.shtml",
+        "publishedAt": "2026-11-16T09:35:35.000+08:00"
       },
       {
-        "title": "学习手记｜开放是亚太合作的生命线",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732561.shtml",
-        "publishedAt": "2026-11-16T09:22:18.000+08:00"
+        "title": "11月16日人民币对美元中间价报6.7141 上调11个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732583.shtml",
+        "publishedAt": "2026-11-16T09:35:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T09:40:02.875+08:00",
+    "fetchedAt": "2026-11-16T09:50:03.754+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T09:40:07.340+08:00",
+      "fetchedAt": "2026-11-16T09:50:07.214+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 21,
           "resetAt": "2026-11-16T14:23:25.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 26,
+          "usedPct": 28,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T09:40:07.537+08:00",
+      "fetchedAt": "2026-11-16T09:50:07.409+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T09:40:07.544+08:00",
+      "fetchedAt": "2026-11-16T09:50:07.414+08:00",
       "error": null
     }
   }
