@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T16:41:00.940+08:00",
+  "updatedAt": "2026-11-16T16:50:09.067+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.6,
-    "feelsLikeC": 18.3,
-    "humidity": 66,
-    "windKph": 6.4,
+    "tempC": 18.2,
+    "feelsLikeC": 17.9,
+    "humidity": 68,
+    "windKph": 6.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T16:41:00.940+08:00",
+    "observedAt": "2026-11-16T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-16T16:50:09.067+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732833.shtml",
-        "publishedAt": "2026-11-16T16:34:11.000+08:00"
+        "title": "新疆：团结同心书写共富华章",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732871.shtml",
+        "publishedAt": "2026-11-16T16:44:56.000+08:00"
       },
       {
-        "title": "APEC工商领导人峰会与会嘉宾：APEC需要中国",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732864.shtml",
-        "publishedAt": "2026-11-16T16:33:59.000+08:00"
+        "title": "破多项纪录 我国输送距离最长二氧化碳长输管道投运",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732870.shtml",
+        "publishedAt": "2026-11-16T16:43:08.000+08:00"
       },
       {
-        "title": "检察机关依法分别对谭景峰、牛顺生、王镇义、高常亮提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732831.shtml",
-        "publishedAt": "2026-11-16T16:33:53.000+08:00"
+        "title": "鸣沙山下添新地标：游客从“看敦煌”到“过一天敦煌生活”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732868.shtml",
+        "publishedAt": "2026-11-16T16:42:36.000+08:00"
       },
       {
-        "title": "李强出席第29次中国－东盟领导人会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732807.shtml",
-        "publishedAt": "2026-11-16T16:33:31.000+08:00"
+        "title": "“石榴花”为什么这样红：新疆各族民众结对帮扶 亲如一家",
+        "url": "https://www.chinanews.com.cn/mz/2026/11-16/10732866.shtml",
+        "publishedAt": "2026-11-16T16:41:06.000+08:00"
       },
       {
-        "title": "“中国发展经验、长期主义理念为亚太经济体提供有益借鉴”——访APEC工商咨询理事会秘书处主任巴西利奥",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732859.shtml",
-        "publishedAt": "2026-11-16T16:31:17.000+08:00"
+        "title": "中国最长二氧化碳输送管道在吉林投运",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732865.shtml",
+        "publishedAt": "2026-11-16T16:40:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T16:40:16.060+08:00",
+    "fetchedAt": "2026-11-16T16:50:02.864+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T16:40:53.562+08:00",
+      "fetchedAt": "2026-11-16T16:50:07.734+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 52,
+          "usedPct": 53,
           "resetAt": "2026-11-16T19:55:06.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T16:40:55.974+08:00",
+      "fetchedAt": "2026-11-16T16:50:07.990+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T16:40:55.984+08:00",
+      "fetchedAt": "2026-11-16T16:50:07.996+08:00",
       "error": null
     }
   }
