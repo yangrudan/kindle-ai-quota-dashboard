@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T08:50:08.812+08:00",
+  "updatedAt": "2026-11-16T09:00:09.131+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.6,
-    "feelsLikeC": 14.9,
-    "humidity": 85,
-    "windKph": 2.7,
+    "tempC": 15,
+    "feelsLikeC": 15.2,
+    "humidity": 83,
+    "windKph": 2.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T08:50:08.812+08:00",
+    "observedAt": "2026-11-16T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T09:00:09.131+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026世界中文大会闭幕 中文水平考试如何见证全球“来华热”不断升温？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732560.shtml",
+        "publishedAt": "2026-11-16T08:49:22.000+08:00"
+      },
       {
         "title": "第49届东盟峰会在菲律宾马尼拉开幕",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210887.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“政策落地相当实惠”——居民购房贷款贴息政策落地满月观察",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732553.shtml",
         "publishedAt": "2026-11-16T08:17:10.000+08:00"
-      },
-      {
-        "title": "美“星舰”第15次试飞：“筷子夹飞船”首试成功 由发射塔机械臂“捕获”回收",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210882.shtml",
-        "publishedAt": "2026-11-16T08:16:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T08:50:03.698+08:00",
+    "fetchedAt": "2026-11-16T09:00:03.082+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T08:50:07.573+08:00",
+      "fetchedAt": "2026-11-16T09:00:07.472+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T13:50:08.000+08:00"
+          "resetAt": "2026-11-16T14:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T08:50:07.780+08:00",
+      "fetchedAt": "2026-11-16T09:00:07.631+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T08:50:07.790+08:00",
+      "fetchedAt": "2026-11-16T09:00:07.640+08:00",
       "error": null
     }
   }
