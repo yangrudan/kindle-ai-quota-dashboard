@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T09:30:38.259+08:00",
+  "updatedAt": "2026-11-16T09:40:08.798+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
-    "feelsLikeC": 16,
+    "tempC": 15.9,
+    "feelsLikeC": 16.2,
     "humidity": 79,
     "windKph": 3,
-    "windDir": "北风",
+    "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-16T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T09:30:38.259+08:00",
+    "fetchedAt": "2026-11-16T09:40:08.798+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "新疆医科大学党委原书记高发水接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732573.shtml",
+        "publishedAt": "2026-11-16T09:33:39.000+08:00"
+      },
+      {
+        "title": "新版医保目录“新”在哪",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732590.shtml",
+        "publishedAt": "2026-11-16T09:31:08.000+08:00"
+      },
+      {
+        "title": "2026重庆武隆芙蓉湖铁人三项公开赛鸣枪开赛 中外“铁人”展开角逐",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732576.shtml",
+        "publishedAt": "2026-11-16T09:29:04.000+08:00"
+      },
+      {
+        "title": "尼泊尔民众庆祝太阳节",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732567.shtml",
+        "publishedAt": "2026-11-16T09:26:38.000+08:00"
+      },
+      {
         "title": "学习手记｜开放是亚太合作的生命线",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732561.shtml",
         "publishedAt": "2026-11-16T09:22:18.000+08:00"
-      },
-      {
-        "title": "健身半年，竟然两次真菌感染！医生提醒→",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-16/10732579.shtml",
-        "publishedAt": "2026-11-16T09:15:38.000+08:00"
-      },
-      {
-        "title": "大范围雨雪持续影响中东部 北方大部地区进入低温模式",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732566.shtml",
-        "publishedAt": "2026-11-16T09:13:11.000+08:00"
-      },
-      {
-        "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732571.shtml",
-        "publishedAt": "2026-11-16T09:06:41.000+08:00"
-      },
-      {
-        "title": "以平台对接推动项目“落地” 绿色联盟与脆弱二十国集团签署合作协议",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732572.shtml",
-        "publishedAt": "2026-11-16T09:05:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T09:30:03.525+08:00",
+    "fetchedAt": "2026-11-16T09:40:02.875+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T09:30:36.927+08:00",
+      "fetchedAt": "2026-11-16T09:40:07.340+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 7,
           "resetAt": "2026-11-16T14:23:25.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 25,
+          "usedPct": 26,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T09:30:37.100+08:00",
+      "fetchedAt": "2026-11-16T09:40:07.537+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T09:30:37.105+08:00",
+      "fetchedAt": "2026-11-16T09:40:07.544+08:00",
       "error": null
     }
   }
