@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T17:40:40.298+08:00",
+  "updatedAt": "2026-11-16T17:50:07.918+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.5,
-    "feelsLikeC": 17,
-    "humidity": 71,
-    "windKph": 8.1,
+    "tempC": 17.3,
+    "feelsLikeC": 16.6,
+    "humidity": 72,
+    "windKph": 9.1,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T17:40:40.298+08:00",
+    "observedAt": "2026-11-16T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-16T17:50:07.918+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "创新药的“中国速度”：从获批到纳入医保不到一年",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732912.shtml",
+        "publishedAt": "2026-11-16T17:41:11.000+08:00"
+      },
+      {
+        "title": "中泰四方共建卓越工程师学院 跨国联合育人先导项目启动",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-16/10732904.shtml",
+        "publishedAt": "2026-11-16T17:40:25.000+08:00"
+      },
       {
         "title": "今年中国与APEC经济体已达成近50项经贸领域务实成果",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732907.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "拼多多升级“申诉优赔”服务：单日处理申诉单达百万级，年度补偿商家数十亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732901.shtml",
         "publishedAt": "2026-11-16T17:24:08.000+08:00"
-      },
-      {
-        "title": "涉17家重点车企 供应商账款支付情况调研评估将进行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732900.shtml",
-        "publishedAt": "2026-11-16T17:20:44.000+08:00"
-      },
-      {
-        "title": "跨国美育交流走进无锡新安 版画架起文明对话桥梁",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732898.shtml",
-        "publishedAt": "2026-11-16T17:19:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T17:40:04.906+08:00",
+    "fetchedAt": "2026-11-16T17:50:03.092+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T17:40:38.830+08:00",
+      "fetchedAt": "2026-11-16T17:50:06.717+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T17:40:39.096+08:00",
+      "fetchedAt": "2026-11-16T17:50:06.977+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T17:40:39.101+08:00",
+      "fetchedAt": "2026-11-16T17:50:06.985+08:00",
       "error": null
     }
   }
