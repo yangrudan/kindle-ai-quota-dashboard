@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T18:10:10.057+08:00",
+  "updatedAt": "2026-11-16T18:20:38.546+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.1,
-    "feelsLikeC": 16.3,
-    "humidity": 72,
-    "windKph": 9.8,
+    "tempC": 16.9,
+    "feelsLikeC": 16,
+    "humidity": 73,
+    "windKph": 10,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T18:10:10.057+08:00",
+    "observedAt": "2026-11-16T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-16T18:20:38.546+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日媒：日本最尖端超级计算机“富岳”遭非法访问",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732927.shtml",
-        "publishedAt": "2026-11-16T18:02:56.000+08:00"
+        "title": "“同心荟”园艺惠民党外专家服务站专场活动举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732899.shtml",
+        "publishedAt": "2026-11-16T18:13:35.000+08:00"
       },
       {
-        "title": "两部门：酚丁类、比沙可啶类物质被列入非食用物质名录",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732923.shtml",
-        "publishedAt": "2026-11-16T18:00:42.000+08:00"
+        "title": "（深圳APEC）机器人出海促优势互补 “中国智造”链接亚太",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732921.shtml",
+        "publishedAt": "2026-11-16T18:11:27.000+08:00"
       },
       {
-        "title": "新疆北屯冷水鲜鱼迎来捕捞季",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732916.shtml",
-        "publishedAt": "2026-11-16T17:56:34.000+08:00"
+        "title": "韩国2026年家庭越冬辛奇制作成本回落",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732926.shtml",
+        "publishedAt": "2026-11-16T18:09:27.000+08:00"
       },
       {
-        "title": "今年前10个月江苏省外贸进出口总值同比增长超三成",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732917.shtml",
-        "publishedAt": "2026-11-16T17:55:52.000+08:00"
+        "title": "香港举行“航空科创马拉松” 全球超200名青年挑战24小时内“创意变应用”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10732922.shtml",
+        "publishedAt": "2026-11-16T18:09:12.000+08:00"
       },
       {
-        "title": "中越28对伴侣以跨国瀑布为证 山水间缔结良缘",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-16/10732905.shtml",
-        "publishedAt": "2026-11-16T17:50:41.000+08:00"
+        "title": "6个“外行”拍AI剧，观众成了最后一道审片",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732931.shtml",
+        "publishedAt": "2026-11-16T18:08:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T18:10:03.557+08:00",
+    "fetchedAt": "2026-11-16T18:20:02.295+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T18:10:08.712+08:00",
+      "fetchedAt": "2026-11-16T18:20:36.943+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T18:10:09.047+08:00",
+      "fetchedAt": "2026-11-16T18:20:37.405+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T18:10:09.055+08:00",
+      "fetchedAt": "2026-11-16T18:20:37.410+08:00",
       "error": null
     }
   }
