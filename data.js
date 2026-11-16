@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T10:50:08.552+08:00",
+  "updatedAt": "2026-11-16T11:00:09.052+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 17.4,
-    "humidity": 69,
-    "windKph": 4.9,
+    "tempC": 17.8,
+    "feelsLikeC": 17.5,
+    "humidity": 68,
+    "windKph": 5.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-16T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T10:50:08.552+08:00",
+    "observedAt": "2026-11-16T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T11:00:09.052+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "民心如镜长相映（金台随笔）",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-16/10732653.shtml",
-        "publishedAt": "2026-11-16T10:35:36.000+08:00"
+        "title": "“罗斯福”号抵达 美军在中东集结三个航空母舰打击群",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732664.shtml",
+        "publishedAt": "2026-11-16T10:51:45.000+08:00"
       },
       {
-        "title": "《丁未年》特种邮票图稿发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732650.shtml",
-        "publishedAt": "2026-11-16T10:33:40.000+08:00"
+        "title": "小米亮相联合国气候变化大会，新一代SU7与泰坦合金2.0获中国车企国际EPD双项认证",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732624.shtml",
+        "publishedAt": "2026-11-16T10:51:35.000+08:00"
       },
       {
-        "title": "习近平致暨南大学建校120周年的贺信",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732639.shtml",
-        "publishedAt": "2026-11-16T10:33:20.000+08:00"
+        "title": "国家统计局公布2026年1—10月份全国固定资产投资基本情况",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732641.shtml",
+        "publishedAt": "2026-11-16T10:48:27.000+08:00"
       },
       {
-        "title": "离任不离责 接力谋发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732648.shtml",
-        "publishedAt": "2026-11-16T10:32:54.000+08:00"
+        "title": "多国人士：中国促进亚太和全球合作发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732658.shtml",
+        "publishedAt": "2026-11-16T10:45:29.000+08:00"
       },
       {
-        "title": "直播：国新办就2026年10月份国民经济运行情况举行新闻发布会",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732638.shtml",
-        "publishedAt": "2026-11-16T10:22:41.000+08:00"
+        "title": "国家统计局：2026年10月份规模以上工业增加值增长4.8%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732640.shtml",
+        "publishedAt": "2026-11-16T10:43:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T10:50:03.283+08:00",
+    "fetchedAt": "2026-11-16T11:00:03.531+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T10:50:07.039+08:00",
+      "fetchedAt": "2026-11-16T11:00:07.743+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
+          "usedPct": 50,
           "resetAt": "2026-11-16T14:23:25.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 32,
+          "usedPct": 33,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T10:50:07.418+08:00",
+      "fetchedAt": "2026-11-16T11:00:08.121+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T10:50:07.427+08:00",
+      "fetchedAt": "2026-11-16T11:00:08.124+08:00",
       "error": null
     }
   }
