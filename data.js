@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T07:40:08.180+08:00",
+  "updatedAt": "2026-11-17T07:50:09.568+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 13.8,
     "feelsLikeC": 13.3,
-    "humidity": 90,
+    "humidity": 89,
     "windKph": 8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T07:40:08.181+08:00",
+    "observedAt": "2026-11-17T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-17T07:50:09.568+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“智能好物”热卖，消费解锁新空间",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733175.shtml",
-        "publishedAt": "2026-11-17T07:30:07.000+08:00"
+        "title": "伊朗：24小时内第四艘油轮在霍尔木兹海峡以东触雷起火",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733179.shtml",
+        "publishedAt": "2026-11-17T07:39:13.000+08:00"
       },
       {
-        "title": "FAA停飞风波未平，美联航又遭遇“大面积系统故障”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733169.shtml",
-        "publishedAt": "2026-11-17T07:23:16.000+08:00"
+        "title": "美法官撤销国土安全部限制国际学生等停留期限新规",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733174.shtml",
+        "publishedAt": "2026-11-17T07:39:05.000+08:00"
       },
       {
-        "title": "秋假如何让孩子们过得更尽兴、更有意义？",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-17/10733168.shtml",
-        "publishedAt": "2026-11-17T07:22:28.000+08:00"
+        "title": "2026年欧元金融周“中国日”活动在法兰克福举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733173.shtml",
+        "publishedAt": "2026-11-17T07:38:33.000+08:00"
       },
       {
-        "title": "“梦想”号大洋钻探船完成重大装备海试任务",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733167.shtml",
-        "publishedAt": "2026-11-17T07:01:43.000+08:00"
+        "title": "柬埔寨千年古迹西梅奔寺重新向游客开放",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733172.shtml",
+        "publishedAt": "2026-11-17T07:37:41.000+08:00"
       },
       {
-        "title": "乌克兰首都基辅响起爆炸声",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733166.shtml",
-        "publishedAt": "2026-11-17T07:00:51.000+08:00"
+        "title": "英国首相伯纳姆直言“脱欧”弊大于利",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733171.shtml",
+        "publishedAt": "2026-11-17T07:37:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T07:40:02.639+08:00",
+    "fetchedAt": "2026-11-17T07:50:02.926+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T07:40:06.577+08:00",
+      "fetchedAt": "2026-11-17T07:50:07.276+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T12:40:08.000+08:00"
+          "resetAt": "2026-11-17T12:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T07:40:07.064+08:00",
+      "fetchedAt": "2026-11-17T07:50:07.520+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T07:40:07.068+08:00",
+      "fetchedAt": "2026-11-17T07:50:07.527+08:00",
       "error": null
     }
   }
