@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T16:10:10.367+08:00",
+  "updatedAt": "2026-11-16T16:20:25.619+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.2,
-    "feelsLikeC": 18.8,
-    "humidity": 63,
-    "windKph": 6.6,
+    "tempC": 18.9,
+    "feelsLikeC": 18.6,
+    "humidity": 64,
+    "windKph": 6.4,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T16:10:10.367+08:00",
+    "observedAt": "2026-11-16T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-16T16:20:25.619+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "北方开启冬季供暖 各地加强能源保供 迎峰度冬",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732828.shtml",
-        "publishedAt": "2026-11-16T16:06:18.000+08:00"
+        "title": "1至10月中国铁路完成固定资产投资6773亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732815.shtml",
+        "publishedAt": "2026-11-16T16:17:32.000+08:00"
       },
       {
-        "title": "第三轮第七批中央生态环境保护督察全面完成督察进驻阶段工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732824.shtml",
-        "publishedAt": "2026-11-16T16:02:20.000+08:00"
+        "title": "北京市消协对80款冲锋衣开展比较试验：需关注耐久表现",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732812.shtml",
+        "publishedAt": "2026-11-16T16:16:46.000+08:00"
       },
       {
-        "title": "“最想带回中国经验！”APEC参会嘉宾表示期待深化合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732823.shtml",
-        "publishedAt": "2026-11-16T16:01:50.000+08:00"
+        "title": "广东“百千万”篮球赛珠三角六队出线",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732814.shtml",
+        "publishedAt": "2026-11-16T16:16:30.000+08:00"
       },
       {
-        "title": "“亚太共同体”如何从愿景走向行动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732821.shtml",
-        "publishedAt": "2026-11-16T15:58:13.000+08:00"
+        "title": "各地依托秋日景观资源推出“花式”特色活动 文旅消费市场活力奔涌",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732843.shtml",
+        "publishedAt": "2026-11-16T16:15:42.000+08:00"
       },
       {
-        "title": "中方是否同胡塞组织进行了接触？外交部回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732820.shtml",
-        "publishedAt": "2026-11-16T15:56:31.000+08:00"
+        "title": "聚焦自贸港封关一年发展 17国华媒海南行",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-16/10732811.shtml",
+        "publishedAt": "2026-11-16T16:14:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T16:10:04.932+08:00",
+    "fetchedAt": "2026-11-16T16:20:03.529+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T16:10:08.820+08:00",
+      "fetchedAt": "2026-11-16T16:20:19.043+08:00",
       "error": null
     },
     "codex": {
@@ -79,7 +79,9 @@
         }
       ],
       "fetchedAt": "2026-11-16T16:10:09.165+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-16T16:20:20.378+08:00"
     },
     "mimo": {
       "ok": true,
@@ -97,7 +99,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T16:10:09.174+08:00",
+      "fetchedAt": "2026-11-16T16:20:20.388+08:00",
       "error": null
     }
   }
