@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T23:20:09.314+08:00",
+  "updatedAt": "2026-11-16T23:30:37.807+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 14.9,
-    "feelsLikeC": 15,
-    "humidity": 91,
-    "windKph": 6.4,
+    "tempC": 14.8,
+    "feelsLikeC": 14.9,
+    "humidity": 92,
+    "windKph": 6.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-16T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T23:20:09.314+08:00",
+    "observedAt": "2026-11-16T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T23:30:37.807+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "三枚金牌，刻进KPL十年的高光里程碑",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10733153.shtml",
+        "publishedAt": "2026-11-16T23:19:09.000+08:00"
+      },
       {
         "title": "第七届香港中美论坛举行 尼克松外孙以“门”喻香港重要性",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733149.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "王沪宁会见瑙鲁总统阿迪昂",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210941.shtml",
         "publishedAt": "2026-11-16T22:39:47.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）从大雁到大鹏 十二载后APEC再回中国",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733137.shtml",
-        "publishedAt": "2026-11-16T22:35:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T23:20:03.419+08:00",
+    "fetchedAt": "2026-11-16T23:30:03.052+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-16T23:20:07.933+08:00",
+      "fetchedAt": "2026-11-16T23:30:36.626+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T04:20:09.000+08:00"
+          "resetAt": "2026-11-17T04:30:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T23:20:08.167+08:00",
+      "fetchedAt": "2026-11-16T23:30:36.756+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-16T23:20:08.174+08:00",
+      "fetchedAt": "2026-11-16T23:30:36.761+08:00",
       "error": null
     }
   }
