@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T19:00:38.480+08:00",
+  "updatedAt": "2026-11-17T19:10:39.574+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-17T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T19:00:38.481+08:00",
+    "fetchedAt": "2026-11-17T19:10:39.574+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西多措拓展面向东盟向海经贸合作新空间",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-17/10733576.shtml",
-        "publishedAt": "2026-11-17T18:53:10.000+08:00"
+        "title": "成渝高速公路扩容项目资中三叉沟大桥双幅架通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733615.shtml",
+        "publishedAt": "2026-11-17T19:05:36.000+08:00"
       },
       {
-        "title": "习近平会见秘鲁总统藤森庆子",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733606.shtml",
-        "publishedAt": "2026-11-17T18:48:53.000+08:00"
+        "title": "广东已有近1.5万家各级各类创新工作室",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733622.shtml",
+        "publishedAt": "2026-11-17T19:05:28.000+08:00"
       },
       {
-        "title": "马六甲·厦门侨批文化周暨主题交流展开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733587.shtml",
-        "publishedAt": "2026-11-17T18:46:15.000+08:00"
+        "title": "全国花滑少年逐梦长春 长春大冬会同步测试赛场",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-17/10733616.shtml",
+        "publishedAt": "2026-11-17T19:05:28.000+08:00"
       },
       {
-        "title": "神舟二十四号船箭组合体转运至发射区 计划近日择机实施发射",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733607.shtml",
-        "publishedAt": "2026-11-17T18:45:07.000+08:00"
+        "title": "习近平会见墨西哥总统辛鲍姆",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211014.shtml",
+        "publishedAt": "2026-11-17T19:03:38.000+08:00"
       },
       {
-        "title": "一张邀请函，全球企业赴约深圳",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733603.shtml",
-        "publishedAt": "2026-11-17T18:43:43.000+08:00"
+        "title": "俄称克里米亚大桥再遭袭击 交通暂时中断",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733611.shtml",
+        "publishedAt": "2026-11-17T19:02:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T19:00:02.833+08:00",
+    "fetchedAt": "2026-11-17T19:10:03.566+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T19:00:37.260+08:00",
+      "fetchedAt": "2026-11-17T19:10:38.339+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T19:00:37.470+08:00",
+      "fetchedAt": "2026-11-17T19:10:38.562+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T19:00:37.477+08:00",
+      "fetchedAt": "2026-11-17T19:10:38.576+08:00",
       "error": null
     }
   }
