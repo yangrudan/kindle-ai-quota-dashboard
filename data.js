@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T15:30:09.849+08:00",
+  "updatedAt": "2026-11-17T15:40:11.205+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-17T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T15:30:09.849+08:00",
+    "fetchedAt": "2026-11-17T15:40:11.205+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "藤萍：只要有足够的想象力，武侠的情怀就不会终止",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733453.shtml",
-        "publishedAt": "2026-11-17T15:23:44.000+08:00"
+        "title": "福建永春：第三届永春白鹤拳传承发展大会启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733457.shtml",
+        "publishedAt": "2026-11-17T15:33:27.000+08:00"
       },
       {
-        "title": "秦岭迎降雪 山峦“披”冬装",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733450.shtml",
-        "publishedAt": "2026-11-17T15:23:36.000+08:00"
+        "title": "抢不到的“LABUBU”去了哪里？检察机关办理一起潮玩外挂案",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-17/10733468.shtml",
+        "publishedAt": "2026-11-17T15:33:09.000+08:00"
       },
       {
-        "title": "山西展出80余幅力群版画作品 再现与鲁迅往事",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733454.shtml",
-        "publishedAt": "2026-11-17T15:23:14.000+08:00"
+        "title": "中国会否延长对西班牙等国的免签政策？外交部回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733467.shtml",
+        "publishedAt": "2026-11-17T15:31:45.000+08:00"
       },
       {
-        "title": "特朗普称或将在中国与金正恩会面 中方回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733456.shtml",
-        "publishedAt": "2026-11-17T15:23:10.000+08:00"
+        "title": "“梦想”号大洋钻探船完成重大装备海试任务",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733442.shtml",
+        "publishedAt": "2026-11-17T15:31:41.000+08:00"
       },
       {
-        "title": "初冬时节 西安城墙下景色如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733447.shtml",
-        "publishedAt": "2026-11-17T15:22:38.000+08:00"
+        "title": "2026粤港澳大湾区山地户外运动交流活动在珠海举行",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733407.shtml",
+        "publishedAt": "2026-11-17T15:31:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T15:30:04.298+08:00",
+    "fetchedAt": "2026-11-17T15:40:05.170+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T15:30:08.489+08:00",
+      "fetchedAt": "2026-11-17T15:40:09.873+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 49,
-          "resetAt": "2026-11-17T19:25:20.000+08:00"
+          "usedPct": 58,
+          "resetAt": "2026-11-17T19:25:21.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 65,
+          "usedPct": 66,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T15:30:08.525+08:00",
+      "fetchedAt": "2026-11-17T15:40:09.889+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T15:30:08.537+08:00",
+      "fetchedAt": "2026-11-17T15:40:09.898+08:00",
       "error": null
     }
   }
