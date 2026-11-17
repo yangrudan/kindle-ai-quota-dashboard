@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T18:00:09.982+08:00",
+  "updatedAt": "2026-11-17T18:10:39.699+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-17T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T18:00:09.982+08:00",
+    "fetchedAt": "2026-11-17T18:10:39.700+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "前10个月青海省外贸进出口56亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733572.shtml",
+        "publishedAt": "2026-11-17T18:03:33.000+08:00"
+      },
+      {
+        "title": "候鸟翩飞漩门湾 浙江玉环立体巡护筑牢迁徙安全通道",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733570.shtml",
+        "publishedAt": "2026-11-17T17:59:21.000+08:00"
+      },
+      {
+        "title": "平陆运河通航以来货运量持续攀升",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733571.shtml",
+        "publishedAt": "2026-11-17T17:59:07.000+08:00"
+      },
       {
         "title": "浙江温州往返越南胡志明市国际航线开通",
         "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733569.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "香港浸大启动创意智能研究中心 探索人机协作未来",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733568.shtml",
         "publishedAt": "2026-11-17T17:45:46.000+08:00"
-      },
-      {
-        "title": "秦晋豫探源成果齐聚山西 百余件文物呈现“最初的中国”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733566.shtml",
-        "publishedAt": "2026-11-17T17:44:32.000+08:00"
-      },
-      {
-        "title": "合肥铁路警方护航 “秋假”135万人次旅客出行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733567.shtml",
-        "publishedAt": "2026-11-17T17:42:56.000+08:00"
-      },
-      {
-        "title": "虎牙2026Q3财报：盈利能力大幅提升，内容生态优势赋能多元业务发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733560.shtml",
-        "publishedAt": "2026-11-17T17:40:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T18:00:02.971+08:00",
+    "fetchedAt": "2026-11-17T18:10:03.227+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T18:00:08.502+08:00",
+      "fetchedAt": "2026-11-17T18:10:38.333+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T18:00:08.860+08:00",
+      "fetchedAt": "2026-11-17T18:10:38.561+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T18:00:08.867+08:00",
+      "fetchedAt": "2026-11-17T18:10:38.567+08:00",
       "error": null
     }
   }
