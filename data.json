@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T00:50:11.483+08:00",
+  "updatedAt": "2026-11-18T01:00:09.269+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 12.9,
+    "tempC": 12.8,
     "feelsLikeC": 12.4,
-    "humidity": 95,
-    "windKph": 7.7,
+    "humidity": 96,
+    "windKph": 7.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T00:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T00:50:11.484+08:00",
+    "observedAt": "2026-11-18T01:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T01:00:09.270+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "聚焦APEC｜韩国总统李在明抵达深圳",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733805.shtml",
+        "publishedAt": "2026-11-18T00:51:40.000+08:00"
+      },
       {
         "title": "聚焦APEC｜马来西亚总理安瓦尔抵达深圳",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733804.shtml",
@@ -38,14 +43,9 @@
         "title": "韩国高考防作弊“升级” 李在明称作弊行为是严重犯罪",
         "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733799.shtml",
         "publishedAt": "2026-11-18T00:02:07.000+08:00"
-      },
-      {
-        "title": "日本“隼鸟2”号小行星探测器因发动机故障变更探测目标",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733796.shtml",
-        "publishedAt": "2026-11-17T23:56:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T00:50:03.449+08:00",
+    "fetchedAt": "2026-11-18T01:00:03.365+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T00:50:09.506+08:00",
+      "fetchedAt": "2026-11-18T01:00:08.014+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T05:50:11.000+08:00"
+          "resetAt": "2026-11-18T06:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T00:50:09.950+08:00",
+      "fetchedAt": "2026-11-18T01:00:08.257+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T00:50:09.960+08:00",
+      "fetchedAt": "2026-11-18T01:00:08.261+08:00",
       "error": null
     }
   }
