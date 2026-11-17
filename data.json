@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T11:30:39.834+08:00",
+  "updatedAt": "2026-11-17T11:40:14.531+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-17T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T11:30:39.834+08:00",
+    "fetchedAt": "2026-11-17T11:40:14.531+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "抵达深圳后，加拿大总理卡尼发文：期待为太平洋两岸开拓新机遇",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733303.shtml",
-        "publishedAt": "2026-11-17T11:21:59.000+08:00"
+        "title": "Hi，鹏友！一起玩转深圳！",
+        "url": "https://www.chinanews.com.cn/chuangyi/2026/11-17/10733304.shtml",
+        "publishedAt": "2026-11-17T11:33:00.000+08:00"
       },
       {
-        "title": "一张票根连双城，古井歌会让诗酒走入烟火",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733294.shtml",
-        "publishedAt": "2026-11-17T11:21:51.000+08:00"
+        "title": "广西前10月文旅体与传媒支出近49亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733301.shtml",
+        "publishedAt": "2026-11-17T11:32:28.000+08:00"
       },
       {
-        "title": "寒潮将给多地制造大风天气 北方十余省区市阵风可达7级以上",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733302.shtml",
-        "publishedAt": "2026-11-17T11:21:29.000+08:00"
+        "title": "APEC领导人会议周期间将继续围绕贸易议题寻求“最大公约数”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733309.shtml",
+        "publishedAt": "2026-11-17T11:31:12.000+08:00"
       },
       {
-        "title": "辽宁省抚顺市侨联组织侨商代表赴本溪市考察交流",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733289.shtml",
-        "publishedAt": "2026-11-17T11:20:03.000+08:00"
+        "title": "姜坤：萤火微光，聚之如芒",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733300.shtml",
+        "publishedAt": "2026-11-17T11:30:02.000+08:00"
       },
       {
-        "title": "葡萄牙大陆地区今年已出现10次热浪 创单年热浪次数新高",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733279.shtml",
-        "publishedAt": "2026-11-17T11:20:01.000+08:00"
+        "title": "500强企业集聚海口江东新区：在这里出海更高效",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733299.shtml",
+        "publishedAt": "2026-11-17T11:27:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T11:30:03.502+08:00",
+    "fetchedAt": "2026-11-17T11:40:04.500+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T11:30:35.371+08:00",
+      "fetchedAt": "2026-11-17T11:40:13.168+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
+          "usedPct": 21,
           "resetAt": "2026-11-17T14:25:11.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 52,
+          "usedPct": 53,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T11:30:35.650+08:00",
+      "fetchedAt": "2026-11-17T11:40:13.461+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T11:30:35.661+08:00",
+      "fetchedAt": "2026-11-17T11:40:13.472+08:00",
       "error": null
     }
   }
