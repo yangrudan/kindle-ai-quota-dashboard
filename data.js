@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T21:30:12.760+08:00",
+  "updatedAt": "2026-11-17T21:40:39.072+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-17T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T21:30:12.761+08:00",
+    "fetchedAt": "2026-11-17T21:40:39.072+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“熊猫杯”国际足球锦标赛：塔吉克斯坦U19男足2比2战平越南队",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733749.shtml",
+        "publishedAt": "2026-11-17T21:25:20.000+08:00"
+      },
       {
         "title": "2026知识产权服务万里行雄安站活动举办",
         "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733736.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "游客参观西藏博物馆 领略藏地文化魅力",
         "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733709.shtml",
         "publishedAt": "2026-11-17T21:22:18.000+08:00"
-      },
-      {
-        "title": "河北廊坊持续织密快递物流网 赋能县域特色产业发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733738.shtml",
-        "publishedAt": "2026-11-17T21:21:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T21:30:03.992+08:00",
+    "fetchedAt": "2026-11-17T21:40:03.057+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T21:30:11.108+08:00",
+      "fetchedAt": "2026-11-17T21:40:37.744+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T21:30:11.643+08:00",
+      "fetchedAt": "2026-11-17T21:40:38.070+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T21:30:11.657+08:00",
+      "fetchedAt": "2026-11-17T21:40:38.078+08:00",
       "error": null
     }
   }
