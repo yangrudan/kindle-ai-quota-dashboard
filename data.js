@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T18:30:10.943+08:00",
+  "updatedAt": "2026-11-17T18:40:08.958+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-17T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T18:30:10.943+08:00",
+    "fetchedAt": "2026-11-17T18:40:08.958+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）APEC新闻中心里，藏着一封写给亚太的“情书”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733593.shtml",
+        "publishedAt": "2026-11-17T18:33:07.000+08:00"
+      },
+      {
+        "title": "民企落子雄安，拼多多推动本地产业链提质生长",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733592.shtml",
+        "publishedAt": "2026-11-17T18:31:47.000+08:00"
+      },
       {
         "title": "宋陵“出圈”之后 河南巩义擘画文旅融合发展新蓝图",
         "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733583.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "贵州安盘高速公路古牛河特大桥全桥贯通",
         "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733581.shtml",
         "publishedAt": "2026-11-17T18:19:20.000+08:00"
-      },
-      {
-        "title": "宁夏隆德：晨光早市升腾烟火气 小城藏着看得见的幸福",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733579.shtml",
-        "publishedAt": "2026-11-17T18:19:14.000+08:00"
-      },
-      {
-        "title": "土耳其媒体人参访新疆博物馆",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733586.shtml",
-        "publishedAt": "2026-11-17T18:18:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T18:30:03.068+08:00",
+    "fetchedAt": "2026-11-17T18:40:02.758+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T18:30:09.511+08:00",
+      "fetchedAt": "2026-11-17T18:40:07.628+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T18:30:09.746+08:00",
+      "fetchedAt": "2026-11-17T18:40:07.846+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T18:30:09.760+08:00",
+      "fetchedAt": "2026-11-17T18:40:07.857+08:00",
       "error": null
     }
   }
