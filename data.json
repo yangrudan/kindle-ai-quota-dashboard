@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-17T09:20:09.097+08:00",
+  "updatedAt": "2026-11-17T09:30:08.648+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.2,
-    "feelsLikeC": 13.9,
-    "humidity": 87,
-    "windKph": 6.4,
+    "tempC": 14.3,
+    "feelsLikeC": 14,
+    "humidity": 86,
+    "windKph": 6.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-17T09:20:09.098+08:00",
+    "observedAt": "2026-11-17T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-17T09:30:08.648+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "高达近800℃！被窝被它暖“没”了，取暖别踩这个“坑”",
+        "url": "https://www.chinanews.com.cn/life/2026/11-17/10733213.shtml",
+        "publishedAt": "2026-11-17T09:22:07.000+08:00"
+      },
+      {
+        "title": "直播海报：APEC进行时：漫游深圳，打卡城市地标",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733211.shtml",
+        "publishedAt": "2026-11-17T09:19:44.000+08:00"
+      },
       {
         "title": "2026年1-9月广州关区所辖7地市进出口综合统计资料",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-17/10733209.shtml",
@@ -33,19 +43,9 @@
         "title": "聚焦APEC｜2000余位政商界代表参加2026年APEC工商领导人峰会",
         "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733206.shtml",
         "publishedAt": "2026-11-17T09:10:58.000+08:00"
-      },
-      {
-        "title": "哪些人适合穿抗菌衣服？抗菌等级越高效果越好？",
-        "url": "https://www.chinanews.com.cn/life/2026/11-17/10733203.shtml",
-        "publishedAt": "2026-11-17T09:04:48.000+08:00"
-      },
-      {
-        "title": "这些不起眼的习惯正在悄悄助长“超级细菌”",
-        "url": "https://www.chinanews.com.cn/life/2026/11-17/10733202.shtml",
-        "publishedAt": "2026-11-17T09:03:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T09:20:03.142+08:00",
+    "fetchedAt": "2026-11-17T09:30:03.107+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T09:20:07.536+08:00",
+      "fetchedAt": "2026-11-17T09:30:07.320+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-17T14:20:08.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-17T14:25:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T09:20:07.852+08:00",
+      "fetchedAt": "2026-11-17T09:30:07.595+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T09:20:07.861+08:00",
+      "fetchedAt": "2026-11-17T09:30:07.599+08:00",
       "error": null
     }
   }
