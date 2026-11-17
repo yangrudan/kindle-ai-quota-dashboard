@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:00:07.941+08:00",
+  "updatedAt": "2026-11-17T14:10:12.202+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-17T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T14:00:07.941+08:00",
+    "fetchedAt": "2026-11-17T14:10:12.203+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（深圳APEC）中国发展不是“抽走梯子”，而是与亚太伙伴“搭建新网络”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733363.shtml",
+        "publishedAt": "2026-11-17T14:02:24.000+08:00"
+      },
+      {
+        "title": "跟风练“薄肌” 康复专家教你核心训练法",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-17/10733386.shtml",
+        "publishedAt": "2026-11-17T14:01:52.000+08:00"
+      },
+      {
+        "title": "中国快递业务量连续两个月超170亿件",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733362.shtml",
+        "publishedAt": "2026-11-17T13:59:42.000+08:00"
+      },
+      {
+        "title": "前10个月北京服务机器人产量同比增长1.7倍",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733361.shtml",
+        "publishedAt": "2026-11-17T13:57:08.000+08:00"
+      },
+      {
         "title": "第五届民进促发展产学研合作对接会在沈举办 首家民进服务产学研合作驿站正式启动",
         "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733358.shtml",
         "publishedAt": "2026-11-17T13:54:32.000+08:00"
-      },
-      {
-        "title": "减重能降血压？警惕看不见的内脏脂肪",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-17/10733379.shtml",
-        "publishedAt": "2026-11-17T13:53:31.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）2026年APEC领导人会议周新闻中心举行第五场吹风会",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210967.shtml",
-        "publishedAt": "2026-11-17T13:52:36.000+08:00"
-      },
-      {
-        "title": "封关后的海南：跨境保税维修产业链全球",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733357.shtml",
-        "publishedAt": "2026-11-17T13:51:35.000+08:00"
-      },
-      {
-        "title": "习近平会见巴布亚新几内亚总理马拉佩",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733372.shtml",
-        "publishedAt": "2026-11-17T13:49:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T14:00:02.439+08:00",
+    "fetchedAt": "2026-11-17T14:10:06.790+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T14:00:06.610+08:00",
+      "fetchedAt": "2026-11-17T14:10:10.800+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 40,
           "resetAt": "2026-11-17T14:25:11.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T14:00:06.994+08:00",
+      "fetchedAt": "2026-11-17T14:10:11.069+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T14:00:06.999+08:00",
+      "fetchedAt": "2026-11-17T14:10:11.074+08:00",
       "error": null
     }
   }
