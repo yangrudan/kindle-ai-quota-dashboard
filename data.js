@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T16:00:11.869+08:00",
+  "updatedAt": "2026-11-17T16:10:38.477+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.4,
-    "feelsLikeC": 15.1,
-    "humidity": 76,
+    "feelsLikeC": 15.3,
+    "humidity": 79,
     "windKph": 4.1,
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-17T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T16:00:11.869+08:00",
+    "fetchedAt": "2026-11-17T16:10:38.477+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中国驻日本大使馆提醒中国公民切勿在封山期擅自登山",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733478.shtml",
+        "publishedAt": "2026-11-17T16:04:21.000+08:00"
+      },
+      {
+        "title": "一餐热饭暖夕阳 长春构建“15分钟养老服务圈”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733476.shtml",
+        "publishedAt": "2026-11-17T16:03:05.000+08:00"
+      },
+      {
+        "title": "习近平会见墨西哥总统辛鲍姆",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733500.shtml",
+        "publishedAt": "2026-11-17T16:02:27.000+08:00"
+      },
+      {
+        "title": "“雪”字头列车限时返场 铁路多彩标签精准对接旅客需求",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733496.shtml",
+        "publishedAt": "2026-11-17T15:56:08.000+08:00"
+      },
+      {
         "title": "（深圳APEC）智利总统卡斯特抵达深圳",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210992.shtml",
         "publishedAt": "2026-11-17T15:54:02.000+08:00"
-      },
-      {
-        "title": "国家知识产权局印发《地理标志保护和运用“十五五”规划》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733346.shtml",
-        "publishedAt": "2026-11-17T15:52:24.000+08:00"
-      },
-      {
-        "title": "习言道丨建设大湾区，习近平寄语“开路先锋”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733444.shtml",
-        "publishedAt": "2026-11-17T15:50:00.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）深圳APEC领导人非正式会议成果文件磋商工作已启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733437.shtml",
-        "publishedAt": "2026-11-17T15:48:16.000+08:00"
-      },
-      {
-        "title": "美媒记者深圳体验自动驾驶汽车 外媒点赞中国科技创新，见证发展活力",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733481.shtml",
-        "publishedAt": "2026-11-17T15:47:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T16:00:06.578+08:00",
+    "fetchedAt": "2026-11-17T16:10:03.741+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T16:00:10.500+08:00",
+      "fetchedAt": "2026-11-17T16:10:37.059+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 76,
+          "usedPct": 88,
           "resetAt": "2026-11-17T19:25:20.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 69,
+          "usedPct": 71,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T16:00:10.767+08:00",
+      "fetchedAt": "2026-11-17T16:10:37.286+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T16:00:10.774+08:00",
+      "fetchedAt": "2026-11-17T16:10:37.295+08:00",
       "error": null
     }
   }
