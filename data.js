@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T11:40:14.531+08:00",
+  "updatedAt": "2026-11-17T11:50:27.894+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.6,
-    "feelsLikeC": 14.7,
-    "humidity": 72,
-    "windKph": 7.5,
-    "windDir": "东北风",
+    "tempC": 15.8,
+    "feelsLikeC": 14.8,
+    "humidity": 71,
+    "windKph": 7.9,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T11:40:14.531+08:00",
+    "observedAt": "2026-11-17T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-17T11:50:27.894+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026Tennis123分级赛全国总决赛落幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-17/10733291.shtml",
+        "publishedAt": "2026-11-17T11:36:56.000+08:00"
+      },
+      {
+        "title": "“突及其！突及其！”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733306.shtml",
+        "publishedAt": "2026-11-17T11:36:10.000+08:00"
+      },
       {
         "title": "Hi，鹏友！一起玩转深圳！",
         "url": "https://www.chinanews.com.cn/chuangyi/2026/11-17/10733304.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "APEC领导人会议周期间将继续围绕贸易议题寻求“最大公约数”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733309.shtml",
         "publishedAt": "2026-11-17T11:31:12.000+08:00"
-      },
-      {
-        "title": "姜坤：萤火微光，聚之如芒",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733300.shtml",
-        "publishedAt": "2026-11-17T11:30:02.000+08:00"
-      },
-      {
-        "title": "500强企业集聚海口江东新区：在这里出海更高效",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733299.shtml",
-        "publishedAt": "2026-11-17T11:27:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T11:40:04.500+08:00",
+    "fetchedAt": "2026-11-17T11:50:08.244+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T11:40:13.168+08:00",
+      "fetchedAt": "2026-11-17T11:50:26.144+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 27,
           "resetAt": "2026-11-17T14:25:11.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 53,
+          "usedPct": 54,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T11:40:13.461+08:00",
+      "fetchedAt": "2026-11-17T11:50:26.413+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T11:40:13.472+08:00",
+      "fetchedAt": "2026-11-17T11:50:26.427+08:00",
       "error": null
     }
   }
