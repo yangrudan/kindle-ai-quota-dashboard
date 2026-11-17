@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T19:30:09.421+08:00",
+  "updatedAt": "2026-11-17T19:40:11.574+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-17T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T19:30:09.421+08:00",
+    "fetchedAt": "2026-11-17T19:40:11.574+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习近平会见墨西哥总统辛鲍姆",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211016.shtml",
-        "publishedAt": "2026-11-17T19:25:34.000+08:00"
+        "title": "北京城市副中心将“无废城市”理念延伸到景区等各类城市运行场景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733641.shtml",
+        "publishedAt": "2026-11-17T19:35:14.000+08:00"
       },
       {
-        "title": "APEC领导人非正式会议即将举行 多国人士：期待会议凝聚共识",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733650.shtml",
-        "publishedAt": "2026-11-17T19:25:13.000+08:00"
+        "title": "115家世界500强为何齐聚深圳？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733660.shtml",
+        "publishedAt": "2026-11-17T19:34:50.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平会见墨西哥总统辛鲍姆",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733632.shtml",
-        "publishedAt": "2026-11-17T19:25:13.000+08:00"
+        "title": "福州西湖菊展吸引游人",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733624.shtml",
+        "publishedAt": "2026-11-17T19:33:54.000+08:00"
       },
       {
-        "title": "纪录片揭秘重要农业文化遗产阳山水蜜桃栽培系统中的风味密码",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733629.shtml",
-        "publishedAt": "2026-11-17T19:22:53.000+08:00"
+        "title": "中国商务部：稳妥应对“新三样”固废退役高峰期",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733637.shtml",
+        "publishedAt": "2026-11-17T19:33:24.000+08:00"
       },
       {
-        "title": "习近平会见智利总统卡斯特",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733633.shtml",
-        "publishedAt": "2026-11-17T19:20:09.000+08:00"
+        "title": "“中国是出色的APEC东道主” 工商界代表沉浸式体验湾区科技巡航",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733659.shtml",
+        "publishedAt": "2026-11-17T19:33:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T19:30:03.131+08:00",
+    "fetchedAt": "2026-11-17T19:40:03.489+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T19:30:08.005+08:00",
+      "fetchedAt": "2026-11-17T19:40:10.054+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T00:30:09.000+08:00"
+          "resetAt": "2026-11-18T00:40:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T19:30:08.333+08:00",
+      "fetchedAt": "2026-11-17T19:40:10.325+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T19:30:08.349+08:00",
+      "fetchedAt": "2026-11-17T19:40:10.336+08:00",
       "error": null
     }
   }
