@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T17:00:08.947+08:00",
+  "updatedAt": "2026-11-17T17:10:08.603+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-17T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T17:00:08.947+08:00",
+    "fetchedAt": "2026-11-17T17:10:08.603+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习近平会见秘鲁总统藤森庆子",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733532.shtml",
-        "publishedAt": "2026-11-17T16:50:45.000+08:00"
+        "title": "宁夏贺兰山东麓葡萄酒国家地理标志保护示范区获批",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733537.shtml",
+        "publishedAt": "2026-11-17T17:03:14.000+08:00"
       },
       {
-        "title": "革命老区山西临县赓续红色血脉 打造沉浸式红色研学课堂",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733530.shtml",
-        "publishedAt": "2026-11-17T16:48:57.000+08:00"
+        "title": "210余家科创企业竞逐赛场 中国创新创业大赛生物医药全国赛在沈阳高新区启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733535.shtml",
+        "publishedAt": "2026-11-17T17:02:02.000+08:00"
       },
       {
-        "title": "海关总署首次发布西部陆海新通道对外贸易指数",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733486.shtml",
-        "publishedAt": "2026-11-17T16:47:31.000+08:00"
+        "title": "习近平会见越共中央总书记、国家主席苏林",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211006.shtml",
+        "publishedAt": "2026-11-17T16:58:04.000+08:00"
       },
       {
-        "title": "永春白鹤拳传承发展大会在福建启幕 海内外弟子同台献艺",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733513.shtml",
-        "publishedAt": "2026-11-17T16:45:33.000+08:00"
+        "title": "11月17日“农产品批发价格200指数”比昨天上升0.13个点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733492.shtml",
+        "publishedAt": "2026-11-17T16:57:55.000+08:00"
       },
       {
-        "title": "深圳城市趋势报告发布：小红书上民间交流火热，共同呈现“未来生活样板间”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733512.shtml",
-        "publishedAt": "2026-11-17T16:45:09.000+08:00"
+        "title": "习近平会见加拿大总理卡尼",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210996.shtml",
+        "publishedAt": "2026-11-17T16:53:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T17:00:02.769+08:00",
+    "fetchedAt": "2026-11-17T17:10:02.566+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T17:00:07.330+08:00",
+      "fetchedAt": "2026-11-17T17:10:07.064+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T17:00:07.679+08:00",
+      "fetchedAt": "2026-11-17T17:10:07.311+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T17:00:07.687+08:00",
+      "fetchedAt": "2026-11-17T17:10:07.317+08:00",
       "error": null
     }
   }
