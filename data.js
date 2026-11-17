@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T16:30:11.139+08:00",
+  "updatedAt": "2026-11-17T16:40:38.515+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-17T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T16:30:11.140+08:00",
+    "fetchedAt": "2026-11-17T16:40:38.515+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "第九届全国职工职业技能大赛决赛在湖南株洲开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733497.shtml",
+        "publishedAt": "2026-11-17T16:31:04.000+08:00"
+      },
+      {
+        "title": "2027年贵州“村超”赛季新变化：榕江女婿、名誉村长均可报名参赛",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733495.shtml",
+        "publishedAt": "2026-11-17T16:30:44.000+08:00"
+      },
+      {
+        "title": "2026陆海新通道经济发展论坛开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733510.shtml",
+        "publishedAt": "2026-11-17T16:29:30.000+08:00"
+      },
+      {
+        "title": "石家庄市赞皇县黑枣迎丰收 直播带货拓宽致富路",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733494.shtml",
+        "publishedAt": "2026-11-17T16:28:14.000+08:00"
+      },
+      {
         "title": "【东盟专线】中老铁路年度发送跨境旅客首次突破30万人次",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-17/10733482.shtml",
         "publishedAt": "2026-11-17T16:25:54.000+08:00"
-      },
-      {
-        "title": "黑龙江“冰超”上新：机器人亮相冰雪赛事 多赛事联动惠民",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733493.shtml",
-        "publishedAt": "2026-11-17T16:24:32.000+08:00"
-      },
-      {
-        "title": "古人的御寒“黑科技”：用“汤婆子”取暖 手炉可揣入袖内暖手",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733489.shtml",
-        "publishedAt": "2026-11-17T16:24:24.000+08:00"
-      },
-      {
-        "title": "寒潮开启速冻模式 全国冰冻线进程图看你那里何时跌破冰点",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733516.shtml",
-        "publishedAt": "2026-11-17T16:23:24.000+08:00"
-      },
-      {
-        "title": "“暖核一号”海阳核能供热项目第8个供热季开启",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733485.shtml",
-        "publishedAt": "2026-11-17T16:21:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T16:30:04.158+08:00",
+    "fetchedAt": "2026-11-17T16:40:02.910+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T16:30:08.657+08:00",
+      "fetchedAt": "2026-11-17T16:40:25.229+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 98,
+          "usedPct": 100,
           "resetAt": "2026-11-17T19:25:20.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T16:30:08.956+08:00",
+      "fetchedAt": "2026-11-17T16:40:37.328+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T16:30:08.962+08:00",
+      "fetchedAt": "2026-11-17T16:40:37.331+08:00",
       "error": null
     }
   }
