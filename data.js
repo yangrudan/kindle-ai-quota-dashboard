@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T15:10:09.145+08:00",
+  "updatedAt": "2026-11-17T15:20:09.324+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16,
+    "tempC": 15.9,
     "feelsLikeC": 15.1,
-    "humidity": 69,
-    "windKph": 6.7,
+    "humidity": 71,
+    "windKph": 6.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T15:10:09.145+08:00",
+    "observedAt": "2026-11-17T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-17T15:20:09.324+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "辽宁司法救助“免申即享”织密民生保障网",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733404.shtml",
-        "publishedAt": "2026-11-17T14:57:41.000+08:00"
+        "title": "（洋话香江）香港咏春师傅Nima：把中国武学“翻译”给世界各地",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733410.shtml",
+        "publishedAt": "2026-11-17T15:11:30.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平会见加拿大总理卡尼",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733427.shtml",
-        "publishedAt": "2026-11-17T14:57:11.000+08:00"
+        "title": "兴凯湖明水期捕捞作业结束 湖面进入流冰期",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733403.shtml",
+        "publishedAt": "2026-11-17T15:10:54.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平会见巴布亚新几内亚总理马拉佩",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733426.shtml",
-        "publishedAt": "2026-11-17T14:56:57.000+08:00"
+        "title": "西安闹市区现北宋神秘群墓",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733441.shtml",
+        "publishedAt": "2026-11-17T15:09:36.000+08:00"
       },
       {
-        "title": "USANA跨境购上架首款内服美肤产品，以“细胞营养”切入美肤赛道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733430.shtml",
-        "publishedAt": "2026-11-17T14:55:33.000+08:00"
+        "title": "生态环境部：到2030年基本建成生态环境智慧执法体系",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733439.shtml",
+        "publishedAt": "2026-11-17T15:08:18.000+08:00"
       },
       {
-        "title": "探访海南文昌宋氏祖居：中国华侨国际文化交流基地",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733402.shtml",
-        "publishedAt": "2026-11-17T14:54:47.000+08:00"
+        "title": "习近平会见越共中央总书记、国家主席苏林",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210985.shtml",
+        "publishedAt": "2026-11-17T15:06:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T15:10:03.322+08:00",
+    "fetchedAt": "2026-11-17T15:20:04.133+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T15:10:07.522+08:00",
+      "fetchedAt": "2026-11-17T15:20:08.052+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 25,
+          "usedPct": 37,
           "resetAt": "2026-11-17T19:25:20.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 61,
+          "usedPct": 63,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T15:10:07.673+08:00",
+      "fetchedAt": "2026-11-17T15:20:08.126+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T15:10:07.677+08:00",
+      "fetchedAt": "2026-11-17T15:20:08.129+08:00",
       "error": null
     }
   }
