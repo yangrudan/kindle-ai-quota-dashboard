@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T19:50:09.923+08:00",
+  "updatedAt": "2026-11-17T20:00:10.283+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 14,
-    "feelsLikeC": 13.7,
-    "humidity": 86,
-    "windKph": 5.5,
+    "tempC": 13.9,
+    "feelsLikeC": 13.6,
+    "humidity": 87,
+    "windKph": 5.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-17T19:50:09.923+08:00",
+    "observedAt": "2026-11-17T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-17T20:00:10.283+08:00",
     "error": null
   },
   "news": {
@@ -20,9 +20,19 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "蒙古族作家新作《雪山杜鹃》呈现各族同胞在长征中守望相助",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733661.shtml",
+        "publishedAt": "2026-11-17T19:48:01.000+08:00"
+      },
+      {
         "title": "习近平会见秘鲁总统藤森庆子",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211021.shtml",
         "publishedAt": "2026-11-17T19:39:59.000+08:00"
+      },
+      {
+        "title": "借一本书到底有多快？探访深圳“魔法”图书馆！地下巨型书库，400万藏书主动来找你？",
+        "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-17/news1075243.shtml",
+        "publishedAt": "2026-11-17T19:39:01.000+08:00"
       },
       {
         "title": "好评中国丨小巷中见大国善治之道",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "【好评中国】扎根民心沃土，让青春在基层闪闪发光",
         "url": "https://www.chinanews.com.cn/ll/2026/11-17/10733666.shtml",
         "publishedAt": "2026-11-17T19:37:34.000+08:00"
-      },
-      {
-        "title": "云南科企携手破解思茅松高端绒毛浆生产技术",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733648.shtml",
-        "publishedAt": "2026-11-17T19:36:28.000+08:00"
-      },
-      {
-        "title": "潮起鹏城 世界瞩目：外媒期待APEC会议为亚太发展注入新动力",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733663.shtml",
-        "publishedAt": "2026-11-17T19:36:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T19:50:02.900+08:00",
+    "fetchedAt": "2026-11-17T20:00:03.235+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T19:50:08.760+08:00",
+      "fetchedAt": "2026-11-17T20:00:08.453+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T19:50:08.940+08:00",
+      "fetchedAt": "2026-11-17T20:00:08.785+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T19:50:08.948+08:00",
+      "fetchedAt": "2026-11-17T20:00:08.794+08:00",
       "error": null
     }
   }
