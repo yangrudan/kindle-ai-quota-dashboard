@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T16:20:07.900+08:00",
+  "updatedAt": "2026-11-17T16:30:11.139+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.2,
+    "tempC": 15.1,
     "feelsLikeC": 15.2,
-    "humidity": 81,
-    "windKph": 3.8,
+    "humidity": 82,
+    "windKph": 3.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-17T16:20:07.900+08:00",
+    "observedAt": "2026-11-17T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-17T16:30:11.140+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "以侨兴县 “侨”何以成为浙江青田县域经济最大IP？",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733490.shtml",
-        "publishedAt": "2026-11-17T16:15:43.000+08:00"
+        "title": "【东盟专线】中老铁路年度发送跨境旅客首次突破30万人次",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-17/10733482.shtml",
+        "publishedAt": "2026-11-17T16:25:54.000+08:00"
       },
       {
-        "title": "（深圳APEC）2000余位政商界代表参加APEC工商领导人峰会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733479.shtml",
-        "publishedAt": "2026-11-17T16:13:29.000+08:00"
+        "title": "黑龙江“冰超”上新：机器人亮相冰雪赛事 多赛事联动惠民",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733493.shtml",
+        "publishedAt": "2026-11-17T16:24:32.000+08:00"
       },
       {
-        "title": "“出口中国”有了操作手册：卖什么，怎么卖，卖得好",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733509.shtml",
-        "publishedAt": "2026-11-17T16:12:45.000+08:00"
+        "title": "古人的御寒“黑科技”：用“汤婆子”取暖 手炉可揣入袖内暖手",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733489.shtml",
+        "publishedAt": "2026-11-17T16:24:24.000+08:00"
       },
       {
-        "title": "蒙古国总统宣布辞职",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733477.shtml",
-        "publishedAt": "2026-11-17T16:07:41.000+08:00"
+        "title": "寒潮开启速冻模式 全国冰冻线进程图看你那里何时跌破冰点",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733516.shtml",
+        "publishedAt": "2026-11-17T16:23:24.000+08:00"
       },
       {
-        "title": "中国驻日本大使馆提醒中国公民切勿在封山期擅自登山",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733478.shtml",
-        "publishedAt": "2026-11-17T16:04:21.000+08:00"
+        "title": "“暖核一号”海阳核能供热项目第8个供热季开启",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733485.shtml",
+        "publishedAt": "2026-11-17T16:21:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T16:20:03.012+08:00",
+    "fetchedAt": "2026-11-17T16:30:04.158+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T16:20:06.661+08:00",
+      "fetchedAt": "2026-11-17T16:30:08.657+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 91,
+          "usedPct": 98,
           "resetAt": "2026-11-17T19:25:20.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 72,
+          "usedPct": 73,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T16:20:06.761+08:00",
+      "fetchedAt": "2026-11-17T16:30:08.956+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T16:20:06.764+08:00",
+      "fetchedAt": "2026-11-17T16:30:08.962+08:00",
       "error": null
     }
   }
