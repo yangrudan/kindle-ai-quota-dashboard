@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-17T21:20:08.935+08:00",
+  "updatedAt": "2026-11-17T21:30:12.760+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.3,
+    "tempC": 13.2,
     "feelsLikeC": 12.9,
-    "humidity": 91,
-    "windKph": 6.2,
+    "humidity": 92,
+    "windKph": 6.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-17T21:20:08.935+08:00",
+    "observedAt": "2026-11-17T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-17T21:30:12.761+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）深圳上演APEC主题灯光秀 吸引民众观看",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211035.shtml",
-        "publishedAt": "2026-11-17T21:13:37.000+08:00"
+        "title": "2026知识产权服务万里行雄安站活动举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733736.shtml",
+        "publishedAt": "2026-11-17T21:25:16.000+08:00"
       },
       {
-        "title": "“越桂港陆空超级物流通道”建立 香港第二批伙伴港口公布",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733733.shtml",
-        "publishedAt": "2026-11-17T21:13:29.000+08:00"
+        "title": "（深圳APEC）习近平会见智利总统卡斯特",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733737.shtml",
+        "publishedAt": "2026-11-17T21:23:46.000+08:00"
       },
       {
-        "title": "旧马甲见证美国老人柏大卫的湟源情：不求盛名 只念桑梓",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733731.shtml",
-        "publishedAt": "2026-11-17T21:13:29.000+08:00"
+        "title": "中国商务部回应美发布限制远程获取先进半导体相关措施",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733735.shtml",
+        "publishedAt": "2026-11-17T21:23:14.000+08:00"
       },
       {
-        "title": "11月17日新闻夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-17/10733739.shtml",
-        "publishedAt": "2026-11-17T21:13:25.000+08:00"
+        "title": "游客参观西藏博物馆 领略藏地文化魅力",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733709.shtml",
+        "publishedAt": "2026-11-17T21:22:18.000+08:00"
       },
       {
-        "title": "海口多校创新形式引导青少年树牢总体国家安全观",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733730.shtml",
-        "publishedAt": "2026-11-17T21:13:25.000+08:00"
+        "title": "河北廊坊持续织密快递物流网 赋能县域特色产业发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733738.shtml",
+        "publishedAt": "2026-11-17T21:21:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T21:20:02.973+08:00",
+    "fetchedAt": "2026-11-17T21:30:03.992+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T21:20:07.562+08:00",
+      "fetchedAt": "2026-11-17T21:30:11.108+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T21:20:07.789+08:00",
+      "fetchedAt": "2026-11-17T21:30:11.643+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T21:20:07.795+08:00",
+      "fetchedAt": "2026-11-17T21:30:11.657+08:00",
       "error": null
     }
   }
