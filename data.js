@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T22:10:41.523+08:00",
+  "updatedAt": "2026-11-17T22:20:39.096+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 13.1,
-    "feelsLikeC": 12.9,
+    "feelsLikeC": 12.8,
     "humidity": 94,
-    "windKph": 6,
+    "windKph": 6.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T22:10:41.523+08:00",
+    "observedAt": "2026-11-17T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-17T22:20:39.096+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普最新表态：我期待访问中国",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733780.shtml",
+        "publishedAt": "2026-11-17T22:10:48.000+08:00"
+      },
       {
         "title": "新书《APEC作家湾区手记》正式与读者见面",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733779.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "习近平会见智利总统卡斯特",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211042.shtml",
         "publishedAt": "2026-11-17T21:56:59.000+08:00"
-      },
-      {
-        "title": "赞歌故里迎远客 歌声为桥叙友谊",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211038.shtml",
-        "publishedAt": "2026-11-17T21:53:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T22:10:03.583+08:00",
+    "fetchedAt": "2026-11-17T22:20:02.921+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T22:10:39.040+08:00",
+      "fetchedAt": "2026-11-17T22:20:37.637+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T22:10:40.243+08:00",
+      "fetchedAt": "2026-11-17T22:20:37.861+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T22:10:40.249+08:00",
+      "fetchedAt": "2026-11-17T22:20:37.865+08:00",
       "error": null
     }
   }
