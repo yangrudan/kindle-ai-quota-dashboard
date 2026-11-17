@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T19:10:39.574+08:00",
+  "updatedAt": "2026-11-17T19:20:12.904+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 14.3,
-    "feelsLikeC": 14,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 14.2,
+    "feelsLikeC": 13.9,
     "humidity": 85,
-    "windKph": 5.9,
+    "windKph": 5.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T19:10:39.574+08:00",
+    "observedAt": "2026-11-17T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-17T19:20:12.904+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "成渝高速公路扩容项目资中三叉沟大桥双幅架通",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733615.shtml",
-        "publishedAt": "2026-11-17T19:05:36.000+08:00"
+        "title": "海内外专家学者福建永春共话白鹤拳传承发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733627.shtml",
+        "publishedAt": "2026-11-17T19:14:01.000+08:00"
       },
       {
-        "title": "广东已有近1.5万家各级各类创新工作室",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733622.shtml",
-        "publishedAt": "2026-11-17T19:05:28.000+08:00"
+        "title": "（深圳APEC）机器人在深圳APEC“上班”的一天",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733625.shtml",
+        "publishedAt": "2026-11-17T19:11:13.000+08:00"
       },
       {
-        "title": "全国花滑少年逐梦长春 长春大冬会同步测试赛场",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-17/10733616.shtml",
-        "publishedAt": "2026-11-17T19:05:28.000+08:00"
+        "title": "湖北省政协建言文艺精品与旅游融合发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733618.shtml",
+        "publishedAt": "2026-11-17T19:10:59.000+08:00"
       },
       {
-        "title": "习近平会见墨西哥总统辛鲍姆",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211014.shtml",
-        "publishedAt": "2026-11-17T19:03:38.000+08:00"
+        "title": "2026陆海新通道国际物流博览会在重庆举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733617.shtml",
+        "publishedAt": "2026-11-17T19:10:25.000+08:00"
       },
       {
-        "title": "俄称克里米亚大桥再遭袭击 交通暂时中断",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733611.shtml",
-        "publishedAt": "2026-11-17T19:02:56.000+08:00"
+        "title": "习近平会见秘鲁总统藤森庆子",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211015.shtml",
+        "publishedAt": "2026-11-17T19:08:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T19:10:03.566+08:00",
+    "fetchedAt": "2026-11-17T19:20:03.773+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T19:10:38.339+08:00",
+      "fetchedAt": "2026-11-17T19:20:11.110+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T19:10:38.562+08:00",
+      "fetchedAt": "2026-11-17T19:20:11.430+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T19:10:38.576+08:00",
+      "fetchedAt": "2026-11-17T19:20:11.436+08:00",
       "error": null
     }
   }
