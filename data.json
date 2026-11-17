@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-17T21:10:40.109+08:00",
+  "updatedAt": "2026-11-17T21:20:08.935+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 13.3,
     "feelsLikeC": 12.9,
-    "humidity": 90,
-    "windKph": 6.4,
+    "humidity": 91,
+    "windKph": 6.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T21:10:40.109+08:00",
+    "observedAt": "2026-11-17T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-17T21:20:08.935+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从街头烟火到千亿产业：兰州牛肉面如何“拉长”发展链条？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733718.shtml",
-        "publishedAt": "2026-11-17T21:03:43.000+08:00"
+        "title": "（深圳APEC）深圳上演APEC主题灯光秀 吸引民众观看",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211035.shtml",
+        "publishedAt": "2026-11-17T21:13:37.000+08:00"
       },
       {
-        "title": "“炉火总在燃烧：写作者应该如何成长？”文学活动在京举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733723.shtml",
-        "publishedAt": "2026-11-17T21:02:59.000+08:00"
+        "title": "“越桂港陆空超级物流通道”建立 香港第二批伙伴港口公布",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733733.shtml",
+        "publishedAt": "2026-11-17T21:13:29.000+08:00"
       },
       {
-        "title": "永春纸织画：经纬交织 朦胧入画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733714.shtml",
-        "publishedAt": "2026-11-17T21:02:41.000+08:00"
+        "title": "旧马甲见证美国老人柏大卫的湟源情：不求盛名 只念桑梓",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733731.shtml",
+        "publishedAt": "2026-11-17T21:13:29.000+08:00"
       },
       {
-        "title": "学者探讨中国特色传记学的建设路径",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733724.shtml",
-        "publishedAt": "2026-11-17T21:02:19.000+08:00"
+        "title": "11月17日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-17/10733739.shtml",
+        "publishedAt": "2026-11-17T21:13:25.000+08:00"
       },
       {
-        "title": "河南新密中医验方“千碑林”引关注",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733713.shtml",
-        "publishedAt": "2026-11-17T20:59:59.000+08:00"
+        "title": "海口多校创新形式引导青少年树牢总体国家安全观",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733730.shtml",
+        "publishedAt": "2026-11-17T21:13:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T21:10:03.211+08:00",
+    "fetchedAt": "2026-11-17T21:20:02.973+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T21:10:38.768+08:00",
+      "fetchedAt": "2026-11-17T21:20:07.562+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T21:10:38.973+08:00",
+      "fetchedAt": "2026-11-17T21:20:07.789+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T21:10:38.979+08:00",
+      "fetchedAt": "2026-11-17T21:20:07.795+08:00",
       "error": null
     }
   }
