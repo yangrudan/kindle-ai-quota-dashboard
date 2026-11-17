@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T10:00:14.944+08:00",
+  "updatedAt": "2026-11-17T10:10:48.725+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-17T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T10:00:14.944+08:00",
+    "fetchedAt": "2026-11-17T10:10:48.726+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国驻日本大使馆提醒中国公民切勿违规擅自登山",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733232.shtml",
-        "publishedAt": "2026-11-17T09:54:08.000+08:00"
+        "title": "区域一体化激活东盟增长动能",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-17/10733252.shtml",
+        "publishedAt": "2026-11-17T10:06:45.000+08:00"
       },
       {
-        "title": "湖南省娄底市人民政府原常务副市长谢学龙被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733220.shtml",
-        "publishedAt": "2026-11-17T09:53:54.000+08:00"
+        "title": "推动修订“安保三文件” 日本“防卫产业基础战略”部分内容被曝光",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733251.shtml",
+        "publishedAt": "2026-11-17T10:05:07.000+08:00"
       },
       {
-        "title": "人民论坛网评 | 党性锤炼须下实功",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-17/10733241.shtml",
-        "publishedAt": "2026-11-17T09:53:38.000+08:00"
+        "title": "大型运投无人机“长鹰-8”完成运输投送试验",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733250.shtml",
+        "publishedAt": "2026-11-17T10:04:49.000+08:00"
       },
       {
-        "title": "保温杯里的“口红印”会引发感染？医生提醒",
-        "url": "https://www.chinanews.com.cn/life/2026/11-17/10733239.shtml",
-        "publishedAt": "2026-11-17T09:52:28.000+08:00"
+        "title": "奥地利维也纳中文学校校长郑婕：从华校“受益者”到华教“接棒者”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733243.shtml",
+        "publishedAt": "2026-11-17T10:04:11.000+08:00"
       },
       {
-        "title": "发展的“坎”也是起跳的“板”",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-17/10733238.shtml",
-        "publishedAt": "2026-11-17T09:52:04.000+08:00"
+        "title": "巴西圣保罗举行“肥皂盒赛车”比赛",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210956.shtml",
+        "publishedAt": "2026-11-17T10:03:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T10:00:03.043+08:00",
+    "fetchedAt": "2026-11-17T10:10:12.411+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T10:00:09.878+08:00",
+      "fetchedAt": "2026-11-17T10:10:46.656+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T10:00:11.541+08:00",
+      "fetchedAt": "2026-11-17T10:10:46.933+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T10:00:11.548+08:00",
+      "fetchedAt": "2026-11-17T10:10:46.940+08:00",
       "error": null
     }
   }
