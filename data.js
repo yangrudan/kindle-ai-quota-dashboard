@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T20:50:09.620+08:00",
+  "updatedAt": "2026-11-17T21:00:10.128+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.4,
+    "tempC": 13.3,
     "feelsLikeC": 12.9,
-    "humidity": 89,
-    "windKph": 6.5,
+    "humidity": 90,
+    "windKph": 6.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-17T20:50:09.620+08:00",
+    "observedAt": "2026-11-17T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-17T21:00:10.128+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中加同意将初步联合安排的相关豁免措施延长2年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733707.shtml",
-        "publishedAt": "2026-11-17T20:44:58.000+08:00"
+        "title": "消费市场扩容、提质、焕新亮点显现 “文旅热”“赛事热”带动服务消费持续增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733725.shtml",
+        "publishedAt": "2026-11-17T20:54:34.000+08:00"
       },
       {
-        "title": "山东非遗“逐”新潮 青年“守”艺人崭露头角",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733710.shtml",
-        "publishedAt": "2026-11-17T20:42:00.000+08:00"
+        "title": "一场长期陪伴，如何为“阳光儿童”点亮微光？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733721.shtml",
+        "publishedAt": "2026-11-17T20:52:46.000+08:00"
       },
       {
-        "title": "一座没有农村的城市连起亚太田野",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733711.shtml",
-        "publishedAt": "2026-11-17T20:37:17.000+08:00"
+        "title": "2026世界剧院北京论坛暨台湖舞美国际论坛闭幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733717.shtml",
+        "publishedAt": "2026-11-17T20:52:12.000+08:00"
       },
       {
-        "title": "学习手记｜共同做大亚太合作蛋糕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733703.shtml",
-        "publishedAt": "2026-11-17T20:34:37.000+08:00"
+        "title": "“中国糖都”广西崇左启动新榨季糖料蔗机械化收获",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733712.shtml",
+        "publishedAt": "2026-11-17T20:51:08.000+08:00"
       },
       {
-        "title": "商务部新闻发言人就美商务部发布限制远程获取先进半导体相关措施答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733706.shtml",
-        "publishedAt": "2026-11-17T20:32:41.000+08:00"
+        "title": "“稳”的特质明显，“稳”的底气增强（权威发布）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733722.shtml",
+        "publishedAt": "2026-11-17T20:49:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T20:50:03.115+08:00",
+    "fetchedAt": "2026-11-17T21:00:03.786+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T20:50:08.112+08:00",
+      "fetchedAt": "2026-11-17T21:00:08.799+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T20:50:08.175+08:00",
+      "fetchedAt": "2026-11-17T21:00:08.992+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T20:50:08.188+08:00",
+      "fetchedAt": "2026-11-17T21:00:09.001+08:00",
       "error": null
     }
   }
