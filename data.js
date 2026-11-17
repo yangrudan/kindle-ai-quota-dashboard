@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T06:10:09.422+08:00",
+  "updatedAt": "2026-11-18T06:20:11.722+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 12.3,
-    "feelsLikeC": 11.4,
-    "humidity": 97,
-    "windKph": 9.6,
+    "tempC": 12.2,
+    "feelsLikeC": 11.3,
+    "humidity": 96,
+    "windKph": 9.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T06:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T06:10:09.422+08:00",
+    "observedAt": "2026-11-18T06:15:00.000+08:00",
+    "fetchedAt": "2026-11-18T06:20:11.723+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733822.shtml",
+        "publishedAt": "2026-11-18T06:13:45.000+08:00"
+      },
+      {
+        "title": "以色列议会选举马坦·卡哈纳为新任议长",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733821.shtml",
+        "publishedAt": "2026-11-18T06:13:35.000+08:00"
+      },
+      {
+        "title": "从1.0到3.0 中国—东盟自贸区“升级包”带来哪些商机",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733820.shtml",
+        "publishedAt": "2026-11-18T06:12:05.000+08:00"
+      },
+      {
+        "title": "中国U19击败韩国U19 夺得熊猫杯冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-18/10733819.shtml",
+        "publishedAt": "2026-11-18T06:10:45.000+08:00"
+      },
+      {
         "title": "聚焦APEC｜俄罗斯总统普京抵达深圳 蔡奇前往机场迎接",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733815.shtml",
         "publishedAt": "2026-11-18T02:13:56.000+08:00"
-      },
-      {
-        "title": "大国外交进行时丨俄罗斯总统普京抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733813.shtml",
-        "publishedAt": "2026-11-18T02:04:30.000+08:00"
-      },
-      {
-        "title": "聚焦APEC｜韩国总统李在明抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733805.shtml",
-        "publishedAt": "2026-11-18T00:51:40.000+08:00"
-      },
-      {
-        "title": "聚焦APEC｜马来西亚总理安瓦尔抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733804.shtml",
-        "publishedAt": "2026-11-18T00:33:13.000+08:00"
-      },
-      {
-        "title": "聚焦APEC｜文莱苏丹哈桑纳尔抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733803.shtml",
-        "publishedAt": "2026-11-18T00:31:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T06:10:03.050+08:00",
+    "fetchedAt": "2026-11-18T06:20:03.033+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T06:10:08.063+08:00",
+      "fetchedAt": "2026-11-18T06:20:09.992+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T11:10:09.000+08:00"
+          "resetAt": "2026-11-18T11:20:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T06:10:08.290+08:00",
+      "fetchedAt": "2026-11-18T06:20:10.271+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T06:10:08.301+08:00",
+      "fetchedAt": "2026-11-18T06:20:10.278+08:00",
       "error": null
     }
   }
