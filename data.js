@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T15:40:11.205+08:00",
+  "updatedAt": "2026-11-17T15:50:11.518+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.7,
-    "feelsLikeC": 15.1,
-    "humidity": 73,
-    "windKph": 5,
+    "tempC": 15.5,
+    "feelsLikeC": 15.2,
+    "humidity": 74,
+    "windKph": 4.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T15:40:11.205+08:00",
+    "observedAt": "2026-11-17T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-17T15:50:11.518+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "福建永春：第三届永春白鹤拳传承发展大会启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733457.shtml",
-        "publishedAt": "2026-11-17T15:33:27.000+08:00"
+        "title": "前十月新动能贡献超五成 工业增长焕发强劲创新活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733469.shtml",
+        "publishedAt": "2026-11-17T15:44:08.000+08:00"
       },
       {
-        "title": "抢不到的“LABUBU”去了哪里？检察机关办理一起潮玩外挂案",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-17/10733468.shtml",
-        "publishedAt": "2026-11-17T15:33:09.000+08:00"
+        "title": "APEC时间丨开放带来增长 创新驱动未来 合作共享繁荣",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733461.shtml",
+        "publishedAt": "2026-11-17T15:42:47.000+08:00"
       },
       {
-        "title": "中国会否延长对西班牙等国的免签政策？外交部回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733467.shtml",
-        "publishedAt": "2026-11-17T15:31:45.000+08:00"
+        "title": "中方：APEC领导人非正式会议即将拉开帷幕，期待同各方进一步凝聚共识",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733475.shtml",
+        "publishedAt": "2026-11-17T15:42:15.000+08:00"
       },
       {
-        "title": "“梦想”号大洋钻探船完成重大装备海试任务",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733442.shtml",
-        "publishedAt": "2026-11-17T15:31:41.000+08:00"
+        "title": "（深圳APEC）习近平会见越共中央总书记、国家主席苏林",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733466.shtml",
+        "publishedAt": "2026-11-17T15:42:13.000+08:00"
       },
       {
-        "title": "2026粤港澳大湾区山地户外运动交流活动在珠海举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733407.shtml",
-        "publishedAt": "2026-11-17T15:31:41.000+08:00"
+        "title": "外交部回应美国政府调查涉英伟达芯片一事",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733474.shtml",
+        "publishedAt": "2026-11-17T15:41:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T15:40:05.170+08:00",
+    "fetchedAt": "2026-11-17T15:50:03.611+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T15:40:09.873+08:00",
+      "fetchedAt": "2026-11-17T15:50:09.917+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 58,
-          "resetAt": "2026-11-17T19:25:21.000+08:00"
+          "usedPct": 65,
+          "resetAt": "2026-11-17T19:25:20.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 66,
+          "usedPct": 67,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T15:40:09.889+08:00",
+      "fetchedAt": "2026-11-17T15:50:10.134+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T15:40:09.898+08:00",
+      "fetchedAt": "2026-11-17T15:50:10.149+08:00",
       "error": null
     }
   }
