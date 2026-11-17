@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T21:00:10.128+08:00",
+  "updatedAt": "2026-11-17T21:10:40.109+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-17T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T21:00:10.128+08:00",
+    "fetchedAt": "2026-11-17T21:10:40.109+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "消费市场扩容、提质、焕新亮点显现 “文旅热”“赛事热”带动服务消费持续增长",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733725.shtml",
-        "publishedAt": "2026-11-17T20:54:34.000+08:00"
+        "title": "从街头烟火到千亿产业：兰州牛肉面如何“拉长”发展链条？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733718.shtml",
+        "publishedAt": "2026-11-17T21:03:43.000+08:00"
       },
       {
-        "title": "一场长期陪伴，如何为“阳光儿童”点亮微光？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733721.shtml",
-        "publishedAt": "2026-11-17T20:52:46.000+08:00"
+        "title": "“炉火总在燃烧：写作者应该如何成长？”文学活动在京举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733723.shtml",
+        "publishedAt": "2026-11-17T21:02:59.000+08:00"
       },
       {
-        "title": "2026世界剧院北京论坛暨台湖舞美国际论坛闭幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733717.shtml",
-        "publishedAt": "2026-11-17T20:52:12.000+08:00"
+        "title": "永春纸织画：经纬交织 朦胧入画",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733714.shtml",
+        "publishedAt": "2026-11-17T21:02:41.000+08:00"
       },
       {
-        "title": "“中国糖都”广西崇左启动新榨季糖料蔗机械化收获",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733712.shtml",
-        "publishedAt": "2026-11-17T20:51:08.000+08:00"
+        "title": "学者探讨中国特色传记学的建设路径",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733724.shtml",
+        "publishedAt": "2026-11-17T21:02:19.000+08:00"
       },
       {
-        "title": "“稳”的特质明显，“稳”的底气增强（权威发布）",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733722.shtml",
-        "publishedAt": "2026-11-17T20:49:20.000+08:00"
+        "title": "河南新密中医验方“千碑林”引关注",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733713.shtml",
+        "publishedAt": "2026-11-17T20:59:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T21:00:03.786+08:00",
+    "fetchedAt": "2026-11-17T21:10:03.211+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T21:00:08.799+08:00",
+      "fetchedAt": "2026-11-17T21:10:38.768+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T21:00:08.992+08:00",
+      "fetchedAt": "2026-11-17T21:10:38.973+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T21:00:09.001+08:00",
+      "fetchedAt": "2026-11-17T21:10:38.979+08:00",
       "error": null
     }
   }
