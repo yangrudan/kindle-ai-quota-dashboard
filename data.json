@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T22:30:14.135+08:00",
+  "updatedAt": "2026-11-17T22:40:10.055+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-17T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T22:30:14.136+08:00",
+    "fetchedAt": "2026-11-17T22:40:10.055+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "深圳，见证高光时刻！",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733785.shtml",
-        "publishedAt": "2026-11-17T22:19:19.000+08:00"
+        "title": "一组数字，看深圳与APEC“双向奔赴”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733789.shtml",
+        "publishedAt": "2026-11-17T22:33:18.000+08:00"
       },
       {
-        "title": "德勤：中国企业出海从拼产品转向拼能力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733784.shtml",
-        "publishedAt": "2026-11-17T22:19:01.000+08:00"
+        "title": "绿电点亮APEC会场 在深圳看见中国式现代化城市样本",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733788.shtml",
+        "publishedAt": "2026-11-17T22:28:09.000+08:00"
       },
       {
-        "title": "特朗普最新表态：我期待访问中国",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733780.shtml",
-        "publishedAt": "2026-11-17T22:10:48.000+08:00"
+        "title": "APEC与会各经济体领导人将共商亚太发展大计",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733787.shtml",
+        "publishedAt": "2026-11-17T22:25:51.000+08:00"
       },
       {
-        "title": "新书《APEC作家湾区手记》正式与读者见面",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733779.shtml",
-        "publishedAt": "2026-11-17T22:01:20.000+08:00"
+        "title": "全国花滑少年逐梦长春 长春大冬会同步测试赛场",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733782.shtml",
+        "publishedAt": "2026-11-17T22:24:35.000+08:00"
       },
       {
-        "title": "21条硬核措施 云南省七部门联合推进“电动云南”建设",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733778.shtml",
-        "publishedAt": "2026-11-17T21:59:54.000+08:00"
+        "title": "中国贡献为亚太发展注入新动能",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733786.shtml",
+        "publishedAt": "2026-11-17T22:24:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T22:30:05.253+08:00",
+    "fetchedAt": "2026-11-17T22:40:03.899+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T22:30:12.449+08:00",
+      "fetchedAt": "2026-11-17T22:40:08.708+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T22:30:12.676+08:00",
+      "fetchedAt": "2026-11-17T22:40:09.036+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T22:30:12.692+08:00",
+      "fetchedAt": "2026-11-17T22:40:09.045+08:00",
       "error": null
     }
   }
