@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T14:40:12.784+08:00",
+  "updatedAt": "2026-11-17T14:50:07.813+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.1,
-    "feelsLikeC": 15.3,
+    "feelsLikeC": 15.2,
     "humidity": 68,
-    "windKph": 6.3,
+    "windKph": 6.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T14:40:12.784+08:00",
+    "observedAt": "2026-11-17T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-17T14:50:07.814+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海外华文媒体：当好翻译助“硬科技”故事“软着陆”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733396.shtml",
-        "publishedAt": "2026-11-17T14:30:50.000+08:00"
+        "title": "“用时光熬一碗米线” 两岸夫妻在南京开暖心小店",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733398.shtml",
+        "publishedAt": "2026-11-17T14:38:30.000+08:00"
       },
       {
-        "title": "习近平会见加拿大总理卡尼",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210978.shtml",
-        "publishedAt": "2026-11-17T14:30:40.000+08:00"
+        "title": "我国全面推行疫苗处方",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733424.shtml",
+        "publishedAt": "2026-11-17T14:37:04.000+08:00"
       },
       {
-        "title": "多国媒体和智库：期待APEC会议带来新机遇",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733411.shtml",
-        "publishedAt": "2026-11-17T14:27:31.000+08:00"
+        "title": "斯诺克德国大师赛资格赛：中国军团首日5胜",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-17/10733397.shtml",
+        "publishedAt": "2026-11-17T14:35:32.000+08:00"
       },
       {
-        "title": "用24小时 看深圳的APEC日常故事",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733399.shtml",
-        "publishedAt": "2026-11-17T14:23:55.000+08:00"
+        "title": "习近平会见巴布亚新几内亚总理马拉佩",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210979.shtml",
+        "publishedAt": "2026-11-17T14:34:09.000+08:00"
       },
       {
-        "title": "首次以倡议形式发布成果文件 APEC工商领导人峰会看点不断",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733395.shtml",
-        "publishedAt": "2026-11-17T14:21:49.000+08:00"
+        "title": "注意！这些情形需要向公司支付违约金",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733421.shtml",
+        "publishedAt": "2026-11-17T14:33:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T14:40:06.915+08:00",
+    "fetchedAt": "2026-11-17T14:50:02.477+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T14:40:11.344+08:00",
+      "fetchedAt": "2026-11-17T14:50:06.417+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
+          "usedPct": 14,
           "resetAt": "2026-11-17T19:25:20.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 59,
+          "usedPct": 60,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T14:40:11.590+08:00",
+      "fetchedAt": "2026-11-17T14:50:06.652+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T14:40:11.598+08:00",
+      "fetchedAt": "2026-11-17T14:50:06.661+08:00",
       "error": null
     }
   }
