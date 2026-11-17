@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T14:10:12.202+08:00",
+  "updatedAt": "2026-11-17T14:20:09.000+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 16.1,
     "feelsLikeC": 15.3,
     "humidity": 68,
-    "windKph": 5.9,
+    "windKph": 6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T14:10:12.203+08:00",
+    "observedAt": "2026-11-17T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-17T14:20:09.000+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "后脖梗发黑 提防糖尿病偷袭",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-17/10733391.shtml",
+        "publishedAt": "2026-11-17T14:16:49.000+08:00"
+      },
+      {
+        "title": "卡尼：加拿大或寻求与中国等车企合作",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733390.shtml",
+        "publishedAt": "2026-11-17T14:14:45.000+08:00"
+      },
+      {
+        "title": "巴勒斯坦称以色列定居者在约旦河西岸开枪致1死10伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733356.shtml",
+        "publishedAt": "2026-11-17T14:08:18.000+08:00"
+      },
       {
         "title": "（深圳APEC）中国发展不是“抽走梯子”，而是与亚太伙伴“搭建新网络”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733363.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "跟风练“薄肌” 康复专家教你核心训练法",
         "url": "https://www.chinanews.com.cn/jk/2026/11-17/10733386.shtml",
         "publishedAt": "2026-11-17T14:01:52.000+08:00"
-      },
-      {
-        "title": "中国快递业务量连续两个月超170亿件",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733362.shtml",
-        "publishedAt": "2026-11-17T13:59:42.000+08:00"
-      },
-      {
-        "title": "前10个月北京服务机器人产量同比增长1.7倍",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733361.shtml",
-        "publishedAt": "2026-11-17T13:57:08.000+08:00"
-      },
-      {
-        "title": "第五届民进促发展产学研合作对接会在沈举办 首家民进服务产学研合作驿站正式启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733358.shtml",
-        "publishedAt": "2026-11-17T13:54:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T14:10:06.790+08:00",
+    "fetchedAt": "2026-11-17T14:20:02.959+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T14:10:10.800+08:00",
+      "fetchedAt": "2026-11-17T14:20:07.290+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 40,
+          "usedPct": 44,
           "resetAt": "2026-11-17T14:25:11.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 56,
+          "usedPct": 57,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T14:10:11.069+08:00",
+      "fetchedAt": "2026-11-17T14:20:07.571+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T14:10:11.074+08:00",
+      "fetchedAt": "2026-11-17T14:20:07.580+08:00",
       "error": null
     }
   }
