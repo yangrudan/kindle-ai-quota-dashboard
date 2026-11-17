@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T20:30:11.114+08:00",
+  "updatedAt": "2026-11-17T20:40:12.388+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-17T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T20:30:11.114+08:00",
+    "fetchedAt": "2026-11-17T20:40:12.388+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "轨道交通上的平安守护：浙江温州民警把服务送到旅客身边",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733695.shtml",
-        "publishedAt": "2026-11-17T20:22:06.000+08:00"
+        "title": "一座没有农村的城市连起亚太田野",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733711.shtml",
+        "publishedAt": "2026-11-17T20:37:17.000+08:00"
       },
       {
-        "title": "CBSA中国普尔9球巡回赛安徽合肥站收官 刘莎莎三连冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-17/10733698.shtml",
-        "publishedAt": "2026-11-17T20:21:00.000+08:00"
+        "title": "学习手记｜共同做大亚太合作蛋糕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733703.shtml",
+        "publishedAt": "2026-11-17T20:34:37.000+08:00"
       },
       {
-        "title": "河南老界岭迎立冬后首场降雪",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733679.shtml",
-        "publishedAt": "2026-11-17T20:19:54.000+08:00"
+        "title": "商务部新闻发言人就美商务部发布限制远程获取先进半导体相关措施答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733706.shtml",
+        "publishedAt": "2026-11-17T20:32:41.000+08:00"
       },
       {
-        "title": "新疆伊尔克什坦口岸进出口货运量创历史新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733694.shtml",
-        "publishedAt": "2026-11-17T20:18:46.000+08:00"
+        "title": "圆明园管理处成立50周年回顾展在京启幕",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211030.shtml",
+        "publishedAt": "2026-11-17T20:30:50.000+08:00"
       },
       {
-        "title": "泰国推出税收优惠措施帮助受边境局势及洪灾影响的民众",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733700.shtml",
-        "publishedAt": "2026-11-17T20:17:52.000+08:00"
+        "title": "多连发外链：聚焦APEC",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-17/10733704.shtml",
+        "publishedAt": "2026-11-17T20:26:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T20:30:05.351+08:00",
+    "fetchedAt": "2026-11-17T20:40:04.150+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T20:30:10.074+08:00",
+      "fetchedAt": "2026-11-17T20:40:10.739+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T20:30:10.151+08:00",
+      "fetchedAt": "2026-11-17T20:40:10.890+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T20:30:10.163+08:00",
+      "fetchedAt": "2026-11-17T20:40:10.900+08:00",
       "error": null
     }
   }
