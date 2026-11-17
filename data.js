@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T07:10:10.178+08:00",
+  "updatedAt": "2026-11-18T07:20:09.691+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 12,
-    "feelsLikeC": 10.7,
+    "tempC": 11.9,
+    "feelsLikeC": 10.4,
     "humidity": 96,
-    "windKph": 11.1,
+    "windKph": 12.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T07:10:10.178+08:00",
+    "observedAt": "2026-11-18T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-18T07:20:09.691+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外媒：沙特联军袭击也门多地，已致17人死亡、39人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733825.shtml",
+        "publishedAt": "2026-11-18T07:09:36.000+08:00"
+      },
       {
         "title": "11月18日早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-18/10733824.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "以色列议会选举马坦·卡哈纳为新任议长",
         "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733821.shtml",
         "publishedAt": "2026-11-18T06:13:35.000+08:00"
-      },
-      {
-        "title": "从1.0到3.0 中国—东盟自贸区“升级包”带来哪些商机",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733820.shtml",
-        "publishedAt": "2026-11-18T06:12:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T07:10:03.489+08:00",
+    "fetchedAt": "2026-11-18T07:20:03.143+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T07:10:08.949+08:00",
+      "fetchedAt": "2026-11-18T07:20:08.594+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T07:10:08.983+08:00",
+      "fetchedAt": "2026-11-18T07:20:08.535+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T07:10:08.991+08:00",
+      "fetchedAt": "2026-11-18T07:20:08.539+08:00",
       "error": null
     }
   }
