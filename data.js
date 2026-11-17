@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T10:40:11.323+08:00",
+  "updatedAt": "2026-11-17T10:50:52.676+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.9,
-    "feelsLikeC": 14.3,
-    "humidity": 79,
-    "windKph": 6.2,
+    "tempC": 15.1,
+    "feelsLikeC": 14.4,
+    "humidity": 77,
+    "windKph": 6.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T10:40:11.323+08:00",
+    "observedAt": "2026-11-17T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-17T10:50:52.676+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）墨西哥总统辛鲍姆抵达深圳 将出席APEC领导人非正式会议",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210962.shtml",
-        "publishedAt": "2026-11-17T10:31:30.000+08:00"
+        "title": "青岛海外联谊会举办海外侨团与本土企业经贸对接沙龙",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733268.shtml",
+        "publishedAt": "2026-11-17T10:44:25.000+08:00"
       },
       {
-        "title": "重庆“母城”推进革命文物活化利用 红色资源融入生活日常",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733257.shtml",
-        "publishedAt": "2026-11-17T10:27:26.000+08:00"
+        "title": "AI漫剧看多了觉得真人“变丑”？心理学解释来了",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733274.shtml",
+        "publishedAt": "2026-11-17T10:42:47.000+08:00"
       },
       {
-        "title": "现场画面！越共中央总书记、国家主席苏林走出舱门 同现场欢迎人员亲切打招呼",
-        "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-17/news1075144.shtml",
-        "publishedAt": "2026-11-17T10:25:21.000+08:00"
+        "title": "8人凌晨3点潜入军工厂纵火，这个国家却要关闭对俄口岸！俄罗斯：这是“恐俄症”发作",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733273.shtml",
+        "publishedAt": "2026-11-17T10:41:25.000+08:00"
       },
       {
-        "title": "探访海口综合保税区：跨境维修火热",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733259.shtml",
-        "publishedAt": "2026-11-17T10:21:58.000+08:00"
+        "title": "爱奇艺发布2026Q3财报：Non-GAAP运营盈利 转型战略稳步推进",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733260.shtml",
+        "publishedAt": "2026-11-17T10:37:35.000+08:00"
       },
       {
-        "title": "深圳APEC领导人非正式会议成果文件磋商工作已启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733265.shtml",
-        "publishedAt": "2026-11-17T10:21:32.000+08:00"
+        "title": "习近平会见加拿大总理卡尼",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733271.shtml",
+        "publishedAt": "2026-11-17T10:34:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T10:40:03.082+08:00",
+    "fetchedAt": "2026-11-17T10:50:03.631+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T10:40:10.008+08:00",
+      "fetchedAt": "2026-11-17T10:50:51.202+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T10:40:10.294+08:00",
+      "fetchedAt": "2026-11-17T10:50:51.492+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T10:40:10.298+08:00",
+      "fetchedAt": "2026-11-17T10:50:51.498+08:00",
       "error": null
     }
   }
