@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T21:50:10.322+08:00",
+  "updatedAt": "2026-11-17T22:00:09.769+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.2,
+    "tempC": 13.1,
     "feelsLikeC": 12.9,
-    "humidity": 93,
+    "humidity": 94,
     "windKph": 6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-17T21:50:10.322+08:00",
+    "observedAt": "2026-11-17T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-17T22:00:09.769+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外交部驻港公署举办中国共产党二十届五中全会专题宣介会",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733767.shtml",
+        "publishedAt": "2026-11-17T21:51:45.000+08:00"
+      },
+      {
+        "title": "云南侦办首例替来他明电子烟案",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733771.shtml",
+        "publishedAt": "2026-11-17T21:51:29.000+08:00"
+      },
+      {
+        "title": "（长征胜利90周年）广西桂林老兵永安关下重走长征路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733770.shtml",
+        "publishedAt": "2026-11-17T21:47:55.000+08:00"
+      },
       {
         "title": "欧盟称今年前三季度经济增长好于预期",
         "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733772.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "巴西累西腓华侨华人协会拜会中国驻累总领馆",
         "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733769.shtml",
         "publishedAt": "2026-11-17T21:45:25.000+08:00"
-      },
-      {
-        "title": "一名驻日美军涉嫌酒后损坏财物被捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733742.shtml",
-        "publishedAt": "2026-11-17T21:45:19.000+08:00"
-      },
-      {
-        "title": "广东迎候鸟迁徙高峰 黑脸琵鹭飞舞深圳湾",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733768.shtml",
-        "publishedAt": "2026-11-17T21:45:11.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）韩国青年申文燮：深圳赋予我创作热情和灵感",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733746.shtml",
-        "publishedAt": "2026-11-17T21:44:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T21:50:03.185+08:00",
+    "fetchedAt": "2026-11-17T22:00:03.545+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T21:50:08.699+08:00",
+      "fetchedAt": "2026-11-17T22:00:08.345+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T21:50:08.821+08:00",
+      "fetchedAt": "2026-11-17T22:00:08.647+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T21:50:08.831+08:00",
+      "fetchedAt": "2026-11-17T22:00:08.654+08:00",
       "error": null
     }
   }
