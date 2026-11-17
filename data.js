@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T18:40:08.958+08:00",
+  "updatedAt": "2026-11-17T18:50:11.485+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 14.4,
-    "feelsLikeC": 14.3,
+    "feelsLikeC": 14.1,
     "humidity": 85,
-    "windKph": 4.8,
+    "windKph": 5.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T18:40:08.958+08:00",
+    "observedAt": "2026-11-17T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-17T18:50:11.486+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "神舟二十四号计划近日择机实施发射，船箭组合体转运至发射区",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733605.shtml",
+        "publishedAt": "2026-11-17T18:41:47.000+08:00"
+      },
+      {
+        "title": "新华图讯丨习近平会见智利总统卡斯特",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733602.shtml",
+        "publishedAt": "2026-11-17T18:39:43.000+08:00"
+      },
+      {
+        "title": "美媒梳理特朗普出访亚洲团队名单：美国务卿、财长及多位白宫工作人员在列",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733601.shtml",
+        "publishedAt": "2026-11-17T18:34:41.000+08:00"
+      },
       {
         "title": "（深圳APEC）APEC新闻中心里，藏着一封写给亚太的“情书”",
         "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733593.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "民企落子雄安，拼多多推动本地产业链提质生长",
         "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733592.shtml",
         "publishedAt": "2026-11-17T18:31:47.000+08:00"
-      },
-      {
-        "title": "宋陵“出圈”之后 河南巩义擘画文旅融合发展新蓝图",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733583.shtml",
-        "publishedAt": "2026-11-17T18:23:06.000+08:00"
-      },
-      {
-        "title": "广西将修订条例 完善漓江流域生态环境保护法治保障",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733582.shtml",
-        "publishedAt": "2026-11-17T18:21:44.000+08:00"
-      },
-      {
-        "title": "贵州安盘高速公路古牛河特大桥全桥贯通",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733581.shtml",
-        "publishedAt": "2026-11-17T18:19:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T18:40:02.758+08:00",
+    "fetchedAt": "2026-11-17T18:50:03.349+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T18:40:07.628+08:00",
+      "fetchedAt": "2026-11-17T18:50:09.784+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T18:40:07.846+08:00",
+      "fetchedAt": "2026-11-17T18:50:10.085+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T18:40:07.857+08:00",
+      "fetchedAt": "2026-11-17T18:50:10.100+08:00",
       "error": null
     }
   }
