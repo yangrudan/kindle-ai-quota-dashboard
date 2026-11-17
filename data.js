@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T08:50:07.362+08:00",
+  "updatedAt": "2026-11-17T09:00:08.526+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14,
-    "feelsLikeC": 13.6,
-    "humidity": 90,
-    "windKph": 7,
+    "tempC": 14.1,
+    "feelsLikeC": 13.8,
+    "humidity": 88,
+    "windKph": 6.6,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-17T08:50:07.362+08:00",
+    "observedAt": "2026-11-17T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-17T09:00:08.526+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（寻味中华丨艺林）白纸坊太狮：狮头七铃响 坊间京韵长",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733189.shtml",
+        "publishedAt": "2026-11-17T08:53:09.000+08:00"
+      },
+      {
+        "title": "中东部降水依然广泛 寒潮将制造大风降温天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733196.shtml",
+        "publishedAt": "2026-11-17T08:50:13.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）加拿大总理卡尼抵达深圳",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210953.shtml",
+        "publishedAt": "2026-11-17T08:46:20.000+08:00"
+      },
       {
         "title": "直播外链：APEC进行时：漫游深圳，打卡城市地标",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-17/10733192.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "丘成桐谈AI与数学：守住对真理的好奇",
         "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733193.shtml",
         "publishedAt": "2026-11-17T08:44:17.000+08:00"
-      },
-      {
-        "title": "一枚胸针如何给人赋能？把AI穿戴在人身上，延伸人的感知、记忆、经验与决策",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733191.shtml",
-        "publishedAt": "2026-11-17T08:39:14.000+08:00"
-      },
-      {
-        "title": "几十元就能破解电话手表 刷机服务暗藏哪些安全风险？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733190.shtml",
-        "publishedAt": "2026-11-17T08:31:58.000+08:00"
-      },
-      {
-        "title": "中东部将有大范围雨雪和寒潮天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733187.shtml",
-        "publishedAt": "2026-11-17T08:29:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T08:50:02.207+08:00",
+    "fetchedAt": "2026-11-17T09:00:03.171+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T08:50:06.026+08:00",
+      "fetchedAt": "2026-11-17T09:00:06.911+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T13:50:07.000+08:00"
+          "resetAt": "2026-11-17T14:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T08:50:06.224+08:00",
+      "fetchedAt": "2026-11-17T09:00:07.272+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T08:50:06.230+08:00",
+      "fetchedAt": "2026-11-17T09:00:07.278+08:00",
       "error": null
     }
   }
