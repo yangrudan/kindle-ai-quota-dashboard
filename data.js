@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T15:20:09.324+08:00",
+  "updatedAt": "2026-11-17T15:30:09.849+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.9,
+    "tempC": 15.7,
     "feelsLikeC": 15.1,
-    "humidity": 71,
-    "windKph": 6.1,
+    "humidity": 73,
+    "windKph": 5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-17T15:20:09.324+08:00",
+    "observedAt": "2026-11-17T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-17T15:30:09.849+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（洋话香江）香港咏春师傅Nima：把中国武学“翻译”给世界各地",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733410.shtml",
-        "publishedAt": "2026-11-17T15:11:30.000+08:00"
+        "title": "藤萍：只要有足够的想象力，武侠的情怀就不会终止",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733453.shtml",
+        "publishedAt": "2026-11-17T15:23:44.000+08:00"
       },
       {
-        "title": "兴凯湖明水期捕捞作业结束 湖面进入流冰期",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733403.shtml",
-        "publishedAt": "2026-11-17T15:10:54.000+08:00"
+        "title": "秦岭迎降雪 山峦“披”冬装",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733450.shtml",
+        "publishedAt": "2026-11-17T15:23:36.000+08:00"
       },
       {
-        "title": "西安闹市区现北宋神秘群墓",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733441.shtml",
-        "publishedAt": "2026-11-17T15:09:36.000+08:00"
+        "title": "山西展出80余幅力群版画作品 再现与鲁迅往事",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733454.shtml",
+        "publishedAt": "2026-11-17T15:23:14.000+08:00"
       },
       {
-        "title": "生态环境部：到2030年基本建成生态环境智慧执法体系",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733439.shtml",
-        "publishedAt": "2026-11-17T15:08:18.000+08:00"
+        "title": "特朗普称或将在中国与金正恩会面 中方回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733456.shtml",
+        "publishedAt": "2026-11-17T15:23:10.000+08:00"
       },
       {
-        "title": "习近平会见越共中央总书记、国家主席苏林",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210985.shtml",
-        "publishedAt": "2026-11-17T15:06:05.000+08:00"
+        "title": "初冬时节 西安城墙下景色如画",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733447.shtml",
+        "publishedAt": "2026-11-17T15:22:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T15:20:04.133+08:00",
+    "fetchedAt": "2026-11-17T15:30:04.298+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T15:20:08.052+08:00",
+      "fetchedAt": "2026-11-17T15:30:08.489+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 37,
+          "usedPct": 49,
           "resetAt": "2026-11-17T19:25:20.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 63,
+          "usedPct": 65,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T15:20:08.126+08:00",
+      "fetchedAt": "2026-11-17T15:30:08.525+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T15:20:08.129+08:00",
+      "fetchedAt": "2026-11-17T15:30:08.537+08:00",
       "error": null
     }
   }
