@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T13:00:37.437+08:00",
+  "updatedAt": "2026-11-17T13:10:43.126+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-17T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T13:00:37.437+08:00",
+    "fetchedAt": "2026-11-17T13:10:43.126+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "新华图讯丨习近平会见加拿大总理卡尼",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733340.shtml",
+        "publishedAt": "2026-11-17T13:08:23.000+08:00"
+      },
+      {
+        "title": "近镜头｜深中通道，辉映百年梦想",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733337.shtml",
+        "publishedAt": "2026-11-17T13:07:35.000+08:00"
+      },
+      {
+        "title": "《习近平法治思想干部读本》出版发行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733333.shtml",
+        "publishedAt": "2026-11-17T13:05:27.000+08:00"
+      },
+      {
+        "title": "蒙古国总统呼日勒苏赫宣布辞职",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733344.shtml",
+        "publishedAt": "2026-11-17T13:04:29.000+08:00"
+      },
+      {
         "title": "法医专家：爱泼斯坦可能在狱中遭谋杀，而非自杀",
         "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733336.shtml",
         "publishedAt": "2026-11-17T12:40:43.000+08:00"
-      },
-      {
-        "title": "APEC让数字红利惠及亚太",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733326.shtml",
-        "publishedAt": "2026-11-17T12:36:37.000+08:00"
-      },
-      {
-        "title": "商务部等9部门深入推进再生资源回收体系建设",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733330.shtml",
-        "publishedAt": "2026-11-17T12:36:37.000+08:00"
-      },
-      {
-        "title": "联合国前副秘书长索尔海姆：别只听传言，亲眼看看中国的绿色蜕变 | 新闻会客厅",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733325.shtml",
-        "publishedAt": "2026-11-17T12:25:29.000+08:00"
-      },
-      {
-        "title": "靖安县委统战部牵头开展产教融合调研 推动校企合作签约",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733313.shtml",
-        "publishedAt": "2026-11-17T12:15:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T13:00:02.733+08:00",
+    "fetchedAt": "2026-11-17T13:10:03.059+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T13:00:36.224+08:00",
+      "fetchedAt": "2026-11-17T13:10:41.706+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T13:00:36.412+08:00",
+      "fetchedAt": "2026-11-17T13:10:41.881+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T13:00:36.422+08:00",
+      "fetchedAt": "2026-11-17T13:10:41.891+08:00",
       "error": null
     }
   }
