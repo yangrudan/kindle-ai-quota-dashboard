@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T09:50:11.269+08:00",
+  "updatedAt": "2026-11-17T10:00:14.944+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.5,
+    "tempC": 14.6,
     "feelsLikeC": 14.2,
-    "humidity": 84,
+    "humidity": 83,
     "windKph": 5.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-17T09:50:11.269+08:00",
+    "observedAt": "2026-11-17T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-17T10:00:14.944+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "我国快递业务量连续两个月超170亿件",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733229.shtml",
-        "publishedAt": "2026-11-17T09:45:14.000+08:00"
+        "title": "中国驻日本大使馆提醒中国公民切勿违规擅自登山",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733232.shtml",
+        "publishedAt": "2026-11-17T09:54:08.000+08:00"
       },
       {
-        "title": "理响中国·一笔一画｜算电协同，为数字中国建设注入坚实动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733227.shtml",
-        "publishedAt": "2026-11-17T09:43:26.000+08:00"
+        "title": "湖南省娄底市人民政府原常务副市长谢学龙被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733220.shtml",
+        "publishedAt": "2026-11-17T09:53:54.000+08:00"
       },
       {
-        "title": "我国北斗终端设备应用数量近4200万",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733225.shtml",
-        "publishedAt": "2026-11-17T09:42:42.000+08:00"
+        "title": "人民论坛网评 | 党性锤炼须下实功",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-17/10733241.shtml",
+        "publishedAt": "2026-11-17T09:53:38.000+08:00"
       },
       {
-        "title": "越共中央总书记、国家主席苏林抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733223.shtml",
-        "publishedAt": "2026-11-17T09:40:50.000+08:00"
+        "title": "保温杯里的“口红印”会引发感染？医生提醒",
+        "url": "https://www.chinanews.com.cn/life/2026/11-17/10733239.shtml",
+        "publishedAt": "2026-11-17T09:52:28.000+08:00"
       },
       {
-        "title": "哥伦比亚人工智能培训班官员参访福建漳州",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733204.shtml",
-        "publishedAt": "2026-11-17T09:39:36.000+08:00"
+        "title": "发展的“坎”也是起跳的“板”",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-17/10733238.shtml",
+        "publishedAt": "2026-11-17T09:52:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T09:50:03.371+08:00",
+    "fetchedAt": "2026-11-17T10:00:03.043+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T09:50:09.889+08:00",
+      "fetchedAt": "2026-11-17T10:00:09.878+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T09:50:10.146+08:00",
+      "fetchedAt": "2026-11-17T10:00:11.541+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T09:50:10.155+08:00",
+      "fetchedAt": "2026-11-17T10:00:11.548+08:00",
       "error": null
     }
   }
