@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T22:00:09.769+08:00",
+  "updatedAt": "2026-11-17T22:10:41.523+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-17T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T22:00:09.769+08:00",
+    "fetchedAt": "2026-11-17T22:10:41.523+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外交部驻港公署举办中国共产党二十届五中全会专题宣介会",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733767.shtml",
-        "publishedAt": "2026-11-17T21:51:45.000+08:00"
+        "title": "新书《APEC作家湾区手记》正式与读者见面",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733779.shtml",
+        "publishedAt": "2026-11-17T22:01:20.000+08:00"
       },
       {
-        "title": "云南侦办首例替来他明电子烟案",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733771.shtml",
-        "publishedAt": "2026-11-17T21:51:29.000+08:00"
+        "title": "21条硬核措施 云南省七部门联合推进“电动云南”建设",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733778.shtml",
+        "publishedAt": "2026-11-17T21:59:54.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）广西桂林老兵永安关下重走长征路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733770.shtml",
-        "publishedAt": "2026-11-17T21:47:55.000+08:00"
+        "title": "港教大嘉许亚运会得奖运动员 橄榄球冠军李卡度盼深耕青少年体育",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733774.shtml",
+        "publishedAt": "2026-11-17T21:57:08.000+08:00"
       },
       {
-        "title": "欧盟称今年前三季度经济增长好于预期",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733772.shtml",
-        "publishedAt": "2026-11-17T21:46:03.000+08:00"
+        "title": "习近平会见智利总统卡斯特",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211042.shtml",
+        "publishedAt": "2026-11-17T21:56:59.000+08:00"
       },
       {
-        "title": "巴西累西腓华侨华人协会拜会中国驻累总领馆",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733769.shtml",
-        "publishedAt": "2026-11-17T21:45:25.000+08:00"
+        "title": "赞歌故里迎远客 歌声为桥叙友谊",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211038.shtml",
+        "publishedAt": "2026-11-17T21:53:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T22:00:03.545+08:00",
+    "fetchedAt": "2026-11-17T22:10:03.583+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T22:00:08.345+08:00",
+      "fetchedAt": "2026-11-17T22:10:39.040+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T22:00:08.647+08:00",
+      "fetchedAt": "2026-11-17T22:10:40.243+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T22:00:08.654+08:00",
+      "fetchedAt": "2026-11-17T22:10:40.249+08:00",
       "error": null
     }
   }
