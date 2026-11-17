@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T11:20:37.391+08:00",
+  "updatedAt": "2026-11-17T11:30:39.834+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.4,
-    "feelsLikeC": 14.6,
-    "humidity": 73,
-    "windKph": 7.1,
+    "tempC": 15.6,
+    "feelsLikeC": 14.7,
+    "humidity": 72,
+    "windKph": 7.5,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-17T11:20:37.391+08:00",
+    "observedAt": "2026-11-17T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-17T11:30:39.834+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山东省委统战部走进“双联共建”村开展 “共建聚合力 携手暖民心” 活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733286.shtml",
-        "publishedAt": "2026-11-17T11:13:57.000+08:00"
+        "title": "抵达深圳后，加拿大总理卡尼发文：期待为太平洋两岸开拓新机遇",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733303.shtml",
+        "publishedAt": "2026-11-17T11:21:59.000+08:00"
       },
       {
-        "title": "大理大学科研团队持续追踪水鸟动态 记录洱海生态之变",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733283.shtml",
-        "publishedAt": "2026-11-17T11:13:43.000+08:00"
+        "title": "一张票根连双城，古井歌会让诗酒走入烟火",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733294.shtml",
+        "publishedAt": "2026-11-17T11:21:51.000+08:00"
       },
       {
-        "title": "辽宁省阜新市开展“博物馆里话共同”大中小学思政课一体化共建活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733284.shtml",
-        "publishedAt": "2026-11-17T11:12:57.000+08:00"
+        "title": "寒潮将给多地制造大风天气 北方十余省区市阵风可达7级以上",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733302.shtml",
+        "publishedAt": "2026-11-17T11:21:29.000+08:00"
       },
       {
-        "title": "福建君子峰保护区再添4种大型真菌新种 累计发现8种新种",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733282.shtml",
-        "publishedAt": "2026-11-17T11:11:21.000+08:00"
+        "title": "辽宁省抚顺市侨联组织侨商代表赴本溪市考察交流",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733289.shtml",
+        "publishedAt": "2026-11-17T11:20:03.000+08:00"
       },
       {
-        "title": "助力6G与卫星互联网 中国实验验证Q/V频段最高码速率无线通信",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733281.shtml",
-        "publishedAt": "2026-11-17T11:09:08.000+08:00"
+        "title": "葡萄牙大陆地区今年已出现10次热浪 创单年热浪次数新高",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733279.shtml",
+        "publishedAt": "2026-11-17T11:20:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T11:20:03.585+08:00",
+    "fetchedAt": "2026-11-17T11:30:03.502+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T11:20:35.966+08:00",
+      "fetchedAt": "2026-11-17T11:30:35.371+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 15,
           "resetAt": "2026-11-17T14:25:11.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 51,
+          "usedPct": 52,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T11:20:36.236+08:00",
+      "fetchedAt": "2026-11-17T11:30:35.650+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T11:20:36.241+08:00",
+      "fetchedAt": "2026-11-17T11:30:35.661+08:00",
       "error": null
     }
   }
