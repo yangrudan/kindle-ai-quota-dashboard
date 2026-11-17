@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T13:10:43.126+08:00",
+  "updatedAt": "2026-11-17T13:20:09.508+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.9,
-    "feelsLikeC": 14.9,
-    "humidity": 69,
-    "windKph": 6.8,
+    "feelsLikeC": 15,
+    "humidity": 68,
+    "windKph": 6.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T13:10:43.126+08:00",
+    "observedAt": "2026-11-17T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-17T13:20:09.508+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "专家解读食品标签：“0蔗糖”“零添加”未必更健康",
+        "url": "https://www.chinanews.com.cn/life/2026/11-17/10733347.shtml",
+        "publishedAt": "2026-11-17T13:11:03.000+08:00"
+      },
       {
         "title": "新华图讯丨习近平会见加拿大总理卡尼",
         "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733340.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "蒙古国总统呼日勒苏赫宣布辞职",
         "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733344.shtml",
         "publishedAt": "2026-11-17T13:04:29.000+08:00"
-      },
-      {
-        "title": "法医专家：爱泼斯坦可能在狱中遭谋杀，而非自杀",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733336.shtml",
-        "publishedAt": "2026-11-17T12:40:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T13:10:03.059+08:00",
+    "fetchedAt": "2026-11-17T13:20:03.688+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T13:10:41.706+08:00",
+      "fetchedAt": "2026-11-17T13:20:08.081+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T13:10:41.881+08:00",
+      "fetchedAt": "2026-11-17T13:20:08.478+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T13:10:41.891+08:00",
+      "fetchedAt": "2026-11-17T13:20:08.487+08:00",
       "error": null
     }
   }
