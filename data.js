@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T11:00:28.960+08:00",
+  "updatedAt": "2026-11-17T11:10:21.973+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-17T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T11:00:28.960+08:00",
+    "fetchedAt": "2026-11-17T11:10:21.973+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云岭动态第四十二期",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733272.shtml",
-        "publishedAt": "2026-11-17T10:48:03.000+08:00"
+        "title": "399元羽绒服被抢空引发热议 平价羽绒服为何突然变得“真香”",
+        "url": "https://www.chinanews.com.cn/life/2026/11-17/10733296.shtml",
+        "publishedAt": "2026-11-17T11:02:16.000+08:00"
       },
       {
-        "title": "政策红利“落地成景” 海南前10月入境游客同比增43.2%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733270.shtml",
-        "publishedAt": "2026-11-17T10:46:17.000+08:00"
+        "title": "江西九江“有事先商量”：协商沉一线 民生有回响",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733277.shtml",
+        "publishedAt": "2026-11-17T11:00:30.000+08:00"
       },
       {
-        "title": "以实干担当书写海归新篇——留学人员热议党的二十届五中全会精神",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733276.shtml",
-        "publishedAt": "2026-11-17T10:45:33.000+08:00"
+        "title": "青海省海东市政协原副主席马维忠被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733261.shtml",
+        "publishedAt": "2026-11-17T10:59:10.000+08:00"
       },
       {
-        "title": "青岛海外联谊会举办海外侨团与本土企业经贸对接沙龙",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733268.shtml",
-        "publishedAt": "2026-11-17T10:44:25.000+08:00"
+        "title": "深入了解中国 工商界人士收获满满",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733293.shtml",
+        "publishedAt": "2026-11-17T10:57:44.000+08:00"
       },
       {
-        "title": "AI漫剧看多了觉得真人“变丑”？心理学解释来了",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733274.shtml",
-        "publishedAt": "2026-11-17T10:42:47.000+08:00"
+        "title": "向创新要活力，塑造亚太发展新动能",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733290.shtml",
+        "publishedAt": "2026-11-17T10:55:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T11:00:04.807+08:00",
+    "fetchedAt": "2026-11-17T11:10:06.547+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T11:00:27.019+08:00",
+      "fetchedAt": "2026-11-17T11:10:20.339+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T11:00:27.311+08:00",
+      "fetchedAt": "2026-11-17T11:10:20.664+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T11:00:27.316+08:00",
+      "fetchedAt": "2026-11-17T11:10:20.674+08:00",
       "error": null
     }
   }
