@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T00:00:10.774+08:00",
+  "updatedAt": "2026-11-18T00:10:39.313+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T00:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T00:00:10.774+08:00",
+    "fetchedAt": "2026-11-18T00:10:39.313+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "韩国高考防作弊“升级” 李在明称作弊行为是严重犯罪",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733799.shtml",
+        "publishedAt": "2026-11-18T00:02:07.000+08:00"
+      },
       {
         "title": "日本“隼鸟2”号小行星探测器因发动机故障变更探测目标",
         "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733796.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "APEC工商领导人峰会聚焦区域合作 共绘亚太发展蓝图",
         "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733790.shtml",
         "publishedAt": "2026-11-17T22:35:24.000+08:00"
-      },
-      {
-        "title": "一组数字，看深圳与APEC“双向奔赴”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733789.shtml",
-        "publishedAt": "2026-11-17T22:33:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T00:00:03.641+08:00",
+    "fetchedAt": "2026-11-18T00:10:02.574+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T00:00:08.967+08:00",
+      "fetchedAt": "2026-11-18T00:10:37.845+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T00:00:09.257+08:00",
+      "fetchedAt": "2026-11-18T00:10:38.102+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T00:00:09.263+08:00",
+      "fetchedAt": "2026-11-18T00:10:38.107+08:00",
       "error": null
     }
   }
