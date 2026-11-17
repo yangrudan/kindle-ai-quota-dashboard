@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T12:30:08.710+08:00",
+  "updatedAt": "2026-11-17T12:40:09.792+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-17T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T12:30:08.710+08:00",
+    "fetchedAt": "2026-11-17T12:40:09.792+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "联合国前副秘书长索尔海姆：别只听传言，亲眼看看中国的绿色蜕变 | 新闻会客厅",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733325.shtml",
+        "publishedAt": "2026-11-17T12:25:29.000+08:00"
+      },
       {
         "title": "靖安县委统战部牵头开展产教融合调研 推动校企合作签约",
         "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733313.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "连续6年稳步上行 海关总署发布西部陆海新通道对外贸易指数",
         "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733329.shtml",
         "publishedAt": "2026-11-17T12:13:14.000+08:00"
-      },
-      {
-        "title": "习近平对人民法院工作作出重要指示",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733327.shtml",
-        "publishedAt": "2026-11-17T12:12:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T12:30:02.816+08:00",
+    "fetchedAt": "2026-11-17T12:40:04.749+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T12:30:07.125+08:00",
+      "fetchedAt": "2026-11-17T12:40:08.583+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T12:30:07.354+08:00",
+      "fetchedAt": "2026-11-17T12:40:08.835+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T12:30:07.357+08:00",
+      "fetchedAt": "2026-11-17T12:40:08.839+08:00",
       "error": null
     }
   }
