@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T15:00:37.658+08:00",
+  "updatedAt": "2026-11-17T15:10:09.145+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-17T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T15:00:37.659+08:00",
+    "fetchedAt": "2026-11-17T15:10:09.145+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（乡村行·看振兴）四季轮动兴产业 吉林乡村风味远销海外",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733400.shtml",
-        "publishedAt": "2026-11-17T14:52:57.000+08:00"
+        "title": "辽宁司法救助“免申即享”织密民生保障网",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733404.shtml",
+        "publishedAt": "2026-11-17T14:57:41.000+08:00"
       },
       {
-        "title": "青海西宁迎来降雪",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733401.shtml",
-        "publishedAt": "2026-11-17T14:52:51.000+08:00"
+        "title": "（深圳APEC）习近平会见加拿大总理卡尼",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733427.shtml",
+        "publishedAt": "2026-11-17T14:57:11.000+08:00"
       },
       {
-        "title": "西部战区空军某旅探索“体系+”训练模式",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733432.shtml",
-        "publishedAt": "2026-11-17T14:52:33.000+08:00"
+        "title": "（深圳APEC）习近平会见巴布亚新几内亚总理马拉佩",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733426.shtml",
+        "publishedAt": "2026-11-17T14:56:57.000+08:00"
       },
       {
-        "title": "终端消费偷税套路藏不住",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733431.shtml",
-        "publishedAt": "2026-11-17T14:50:19.000+08:00"
+        "title": "USANA跨境购上架首款内服美肤产品，以“细胞营养”切入美肤赛道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733430.shtml",
+        "publishedAt": "2026-11-17T14:55:33.000+08:00"
       },
       {
-        "title": "（深圳APEC）深圳图书馆举办澳大利亚华人华裔主题展览",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210980.shtml",
-        "publishedAt": "2026-11-17T14:46:48.000+08:00"
+        "title": "探访海南文昌宋氏祖居：中国华侨国际文化交流基地",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733402.shtml",
+        "publishedAt": "2026-11-17T14:54:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T15:00:02.523+08:00",
+    "fetchedAt": "2026-11-17T15:10:03.322+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T15:00:36.377+08:00",
+      "fetchedAt": "2026-11-17T15:10:07.522+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 25,
           "resetAt": "2026-11-17T19:25:20.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 60,
+          "usedPct": 61,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T15:00:36.617+08:00",
+      "fetchedAt": "2026-11-17T15:10:07.673+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T15:00:36.624+08:00",
+      "fetchedAt": "2026-11-17T15:10:07.677+08:00",
       "error": null
     }
   }
