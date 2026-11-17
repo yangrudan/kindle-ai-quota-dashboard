@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T07:30:09.691+08:00",
+  "updatedAt": "2026-11-18T07:40:40.239+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T07:30:09.691+08:00",
+    "fetchedAt": "2026-11-18T07:40:40.239+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外媒：沙特联军袭击也门多地，已致17人死亡、39人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733825.shtml",
-        "publishedAt": "2026-11-18T07:09:36.000+08:00"
+        "title": "植物能“听”会“说”，你知道吗？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733834.shtml",
+        "publishedAt": "2026-11-18T07:34:51.000+08:00"
       },
       {
-        "title": "11月18日早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-18/10733824.shtml",
-        "publishedAt": "2026-11-18T06:55:01.000+08:00"
+        "title": "西藏拉萨：民众参观朗孜夏陈列馆",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10733833.shtml",
+        "publishedAt": "2026-11-18T07:33:17.000+08:00"
       },
       {
-        "title": "以色列议会选举马坦·卡哈纳担任新任议长",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733823.shtml",
-        "publishedAt": "2026-11-18T06:49:15.000+08:00"
+        "title": "神舟二十四号船箭就位 发射准备进展如何？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733832.shtml",
+        "publishedAt": "2026-11-18T07:29:53.000+08:00"
       },
       {
-        "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733822.shtml",
-        "publishedAt": "2026-11-18T06:13:45.000+08:00"
+        "title": "中共全国政协党组理论学习中心组举行2026年第五次集体学习 王沪宁主持并讲话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733826.shtml",
+        "publishedAt": "2026-11-18T07:29:49.000+08:00"
       },
       {
-        "title": "以色列议会选举马坦·卡哈纳为新任议长",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733821.shtml",
-        "publishedAt": "2026-11-18T06:13:35.000+08:00"
+        "title": "手机中虚拟骰子扔出的随机数，真的“随机”吗？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733827.shtml",
+        "publishedAt": "2026-11-18T07:26:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T07:30:03.558+08:00",
+    "fetchedAt": "2026-11-18T07:40:03.280+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T07:30:08.315+08:00",
+      "fetchedAt": "2026-11-18T07:40:38.733+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T07:30:08.609+08:00",
+      "fetchedAt": "2026-11-18T07:40:38.851+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T07:30:08.615+08:00",
+      "fetchedAt": "2026-11-18T07:40:38.870+08:00",
       "error": null
     }
   }
