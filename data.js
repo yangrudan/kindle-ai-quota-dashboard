@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T08:00:38.718+08:00",
+  "updatedAt": "2026-11-17T08:10:07.840+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-17T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T08:00:38.719+08:00",
+    "fetchedAt": "2026-11-17T08:10:07.841+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习近平致电祝贺波黑新一届主席团成员就职",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733177.shtml",
-        "publishedAt": "2026-11-17T07:53:52.000+08:00"
+        "title": "医保钱包代缴居民医保费统筹地区范围不断扩大",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733186.shtml",
+        "publishedAt": "2026-11-17T08:04:30.000+08:00"
       },
       {
-        "title": "从“随手买”走向“必购必带” 游客喜欢怎样的城市礼物",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733183.shtml",
-        "publishedAt": "2026-11-17T07:53:14.000+08:00"
+        "title": "第49届东盟峰会及系列会议在菲律宾举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210950.shtml",
+        "publishedAt": "2026-11-17T08:04:19.000+08:00"
       },
       {
-        "title": "别让“AI面试官”把求职者“训练”成另一个AI",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733182.shtml",
-        "publishedAt": "2026-11-17T07:49:00.000+08:00"
+        "title": "餐品送达却仍遭退款 揭秘外卖代下单诈骗套路",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733184.shtml",
+        "publishedAt": "2026-11-17T07:58:26.000+08:00"
       },
       {
-        "title": "秋假2.0升级为“小黄金周”，文旅市场持续火热",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733181.shtml",
-        "publishedAt": "2026-11-17T07:43:51.000+08:00"
+        "title": "习言道｜奋力开创粤港澳大湾区高质量发展新局面",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733178.shtml",
+        "publishedAt": "2026-11-17T07:56:52.000+08:00"
       },
       {
-        "title": "伊朗：24小时内第四艘油轮在霍尔木兹海峡以东触雷起火",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733179.shtml",
-        "publishedAt": "2026-11-17T07:39:13.000+08:00"
+        "title": "保持惩治腐败高压态势（学习贯彻党的二十届五中全会精神）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733180.shtml",
+        "publishedAt": "2026-11-17T07:56:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T08:00:03.376+08:00",
+    "fetchedAt": "2026-11-17T08:10:02.307+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T08:00:37.297+08:00",
+      "fetchedAt": "2026-11-17T08:10:06.298+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T13:00:38.000+08:00"
+          "resetAt": "2026-11-17T13:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T08:00:37.562+08:00",
+      "fetchedAt": "2026-11-17T08:10:06.633+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T08:00:37.568+08:00",
+      "fetchedAt": "2026-11-17T08:10:06.637+08:00",
       "error": null
     }
   }
