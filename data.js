@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T21:40:39.072+08:00",
+  "updatedAt": "2026-11-17T21:50:10.322+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 13.2,
     "feelsLikeC": 12.9,
-    "humidity": 92,
-    "windKph": 6.1,
+    "humidity": 93,
+    "windKph": 6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T21:40:39.072+08:00",
+    "observedAt": "2026-11-17T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-17T21:50:10.322+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“熊猫杯”国际足球锦标赛：塔吉克斯坦U19男足2比2战平越南队",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733749.shtml",
-        "publishedAt": "2026-11-17T21:25:20.000+08:00"
+        "title": "欧盟称今年前三季度经济增长好于预期",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733772.shtml",
+        "publishedAt": "2026-11-17T21:46:03.000+08:00"
       },
       {
-        "title": "2026知识产权服务万里行雄安站活动举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733736.shtml",
-        "publishedAt": "2026-11-17T21:25:16.000+08:00"
+        "title": "巴西累西腓华侨华人协会拜会中国驻累总领馆",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-17/10733769.shtml",
+        "publishedAt": "2026-11-17T21:45:25.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平会见智利总统卡斯特",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733737.shtml",
-        "publishedAt": "2026-11-17T21:23:46.000+08:00"
+        "title": "一名驻日美军涉嫌酒后损坏财物被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733742.shtml",
+        "publishedAt": "2026-11-17T21:45:19.000+08:00"
       },
       {
-        "title": "中国商务部回应美发布限制远程获取先进半导体相关措施",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733735.shtml",
-        "publishedAt": "2026-11-17T21:23:14.000+08:00"
+        "title": "广东迎候鸟迁徙高峰 黑脸琵鹭飞舞深圳湾",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733768.shtml",
+        "publishedAt": "2026-11-17T21:45:11.000+08:00"
       },
       {
-        "title": "游客参观西藏博物馆 领略藏地文化魅力",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733709.shtml",
-        "publishedAt": "2026-11-17T21:22:18.000+08:00"
+        "title": "（深圳APEC）韩国青年申文燮：深圳赋予我创作热情和灵感",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733746.shtml",
+        "publishedAt": "2026-11-17T21:44:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T21:40:03.057+08:00",
+    "fetchedAt": "2026-11-17T21:50:03.185+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T21:40:37.744+08:00",
+      "fetchedAt": "2026-11-17T21:50:08.699+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T21:40:38.070+08:00",
+      "fetchedAt": "2026-11-17T21:50:08.821+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T21:40:38.078+08:00",
+      "fetchedAt": "2026-11-17T21:50:08.831+08:00",
       "error": null
     }
   }
