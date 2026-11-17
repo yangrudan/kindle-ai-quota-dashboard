@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T07:40:40.239+08:00",
+  "updatedAt": "2026-11-18T07:50:09.422+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 11.8,
-    "feelsLikeC": 10.1,
+    "tempC": 11.7,
+    "feelsLikeC": 9.7,
     "humidity": 95,
-    "windKph": 13.7,
+    "windKph": 15.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T07:40:40.239+08:00",
+    "observedAt": "2026-11-18T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T07:50:09.422+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美媒：美军对伊朗格什姆岛实施“自卫”打击",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733838.shtml",
+        "publishedAt": "2026-11-18T07:39:06.000+08:00"
+      },
+      {
+        "title": "新国货品牌，从“看见”到“记住”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733836.shtml",
+        "publishedAt": "2026-11-18T07:38:14.000+08:00"
+      },
+      {
+        "title": "新型电网，新在哪？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733835.shtml",
+        "publishedAt": "2026-11-18T07:36:50.000+08:00"
+      },
       {
         "title": "植物能“听”会“说”，你知道吗？",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733834.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "西藏拉萨：民众参观朗孜夏陈列馆",
         "url": "https://www.chinanews.com.cn/tp/2026/11-18/10733833.shtml",
         "publishedAt": "2026-11-18T07:33:17.000+08:00"
-      },
-      {
-        "title": "神舟二十四号船箭就位 发射准备进展如何？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733832.shtml",
-        "publishedAt": "2026-11-18T07:29:53.000+08:00"
-      },
-      {
-        "title": "中共全国政协党组理论学习中心组举行2026年第五次集体学习 王沪宁主持并讲话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733826.shtml",
-        "publishedAt": "2026-11-18T07:29:49.000+08:00"
-      },
-      {
-        "title": "手机中虚拟骰子扔出的随机数，真的“随机”吗？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733827.shtml",
-        "publishedAt": "2026-11-18T07:26:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T07:40:03.280+08:00",
+    "fetchedAt": "2026-11-18T07:50:03.044+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T07:40:38.733+08:00",
+      "fetchedAt": "2026-11-18T07:50:07.630+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T07:40:38.851+08:00",
+      "fetchedAt": "2026-11-18T07:50:08.027+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T07:40:38.870+08:00",
+      "fetchedAt": "2026-11-18T07:50:08.032+08:00",
       "error": null
     }
   }
