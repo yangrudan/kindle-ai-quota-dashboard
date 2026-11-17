@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T19:40:11.574+08:00",
+  "updatedAt": "2026-11-17T19:50:09.923+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 14.1,
-    "feelsLikeC": 13.8,
+    "tempC": 14,
+    "feelsLikeC": 13.7,
     "humidity": 86,
-    "windKph": 5.7,
+    "windKph": 5.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T19:40:11.574+08:00",
+    "observedAt": "2026-11-17T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-17T19:50:09.923+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "北京城市副中心将“无废城市”理念延伸到景区等各类城市运行场景",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733641.shtml",
-        "publishedAt": "2026-11-17T19:35:14.000+08:00"
+        "title": "习近平会见秘鲁总统藤森庆子",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1211021.shtml",
+        "publishedAt": "2026-11-17T19:39:59.000+08:00"
       },
       {
-        "title": "115家世界500强为何齐聚深圳？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733660.shtml",
-        "publishedAt": "2026-11-17T19:34:50.000+08:00"
+        "title": "好评中国丨小巷中见大国善治之道",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-17/10733668.shtml",
+        "publishedAt": "2026-11-17T19:38:34.000+08:00"
       },
       {
-        "title": "福州西湖菊展吸引游人",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733624.shtml",
-        "publishedAt": "2026-11-17T19:33:54.000+08:00"
+        "title": "【好评中国】扎根民心沃土，让青春在基层闪闪发光",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-17/10733666.shtml",
+        "publishedAt": "2026-11-17T19:37:34.000+08:00"
       },
       {
-        "title": "中国商务部：稳妥应对“新三样”固废退役高峰期",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733637.shtml",
-        "publishedAt": "2026-11-17T19:33:24.000+08:00"
+        "title": "云南科企携手破解思茅松高端绒毛浆生产技术",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733648.shtml",
+        "publishedAt": "2026-11-17T19:36:28.000+08:00"
       },
       {
-        "title": "“中国是出色的APEC东道主” 工商界代表沉浸式体验湾区科技巡航",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733659.shtml",
-        "publishedAt": "2026-11-17T19:33:24.000+08:00"
+        "title": "潮起鹏城 世界瞩目：外媒期待APEC会议为亚太发展注入新动力",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733663.shtml",
+        "publishedAt": "2026-11-17T19:36:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T19:40:03.489+08:00",
+    "fetchedAt": "2026-11-17T19:50:02.900+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T19:40:10.054+08:00",
+      "fetchedAt": "2026-11-17T19:50:08.760+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T00:40:11.000+08:00"
+          "resetAt": "2026-11-18T00:45:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T19:40:10.325+08:00",
+      "fetchedAt": "2026-11-17T19:50:08.940+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T19:40:10.336+08:00",
+      "fetchedAt": "2026-11-17T19:50:08.948+08:00",
       "error": null
     }
   }
