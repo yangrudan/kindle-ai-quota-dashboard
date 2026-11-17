@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T23:50:09.805+08:00",
+  "updatedAt": "2026-11-18T00:00:10.774+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 12.9,
     "feelsLikeC": 12.3,
     "humidity": 95,
-    "windKph": 8.5,
+    "windKph": 8.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-17T23:45:00.000+08:00",
-    "fetchedAt": "2026-11-17T23:50:09.805+08:00",
+    "observedAt": "2026-11-18T00:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T00:00:10.774+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本“隼鸟2”号小行星探测器因发动机故障变更探测目标",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733796.shtml",
+        "publishedAt": "2026-11-17T23:56:36.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）1500把椅子的“亚太时刻”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733795.shtml",
+        "publishedAt": "2026-11-17T23:56:32.000+08:00"
+      },
+      {
+        "title": "王毅会见加拿大外长阿南德",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733794.shtml",
+        "publishedAt": "2026-11-17T23:47:26.000+08:00"
+      },
       {
         "title": "APEC工商领导人峰会聚焦区域合作 共绘亚太发展蓝图",
         "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733790.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "一组数字，看深圳与APEC“双向奔赴”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733789.shtml",
         "publishedAt": "2026-11-17T22:33:18.000+08:00"
-      },
-      {
-        "title": "绿电点亮APEC会场 在深圳看见中国式现代化城市样本",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733788.shtml",
-        "publishedAt": "2026-11-17T22:28:09.000+08:00"
-      },
-      {
-        "title": "APEC与会各经济体领导人将共商亚太发展大计",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733787.shtml",
-        "publishedAt": "2026-11-17T22:25:51.000+08:00"
-      },
-      {
-        "title": "全国花滑少年逐梦长春 长春大冬会同步测试赛场",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733782.shtml",
-        "publishedAt": "2026-11-17T22:24:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T23:50:03.160+08:00",
+    "fetchedAt": "2026-11-18T00:00:03.641+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-17T23:50:08.534+08:00",
+      "fetchedAt": "2026-11-18T00:00:08.967+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T23:50:08.760+08:00",
+      "fetchedAt": "2026-11-18T00:00:09.257+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-17T23:50:08.765+08:00",
+      "fetchedAt": "2026-11-18T00:00:09.263+08:00",
       "error": null
     }
   }
