@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T18:20:07.286+08:00",
+  "updatedAt": "2026-11-18T18:30:07.951+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.3,
-    "feelsLikeC": 9.2,
-    "humidity": 59,
-    "windKph": 12,
+    "tempC": 12.2,
+    "feelsLikeC": 9.1,
+    "humidity": 60,
+    "windKph": 11.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T18:20:07.287+08:00",
+    "observedAt": "2026-11-18T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T18:30:07.951+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "河北崇礼新雪季：AI数字陪练亮相雪场",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734227.shtml",
+        "publishedAt": "2026-11-18T18:22:37.000+08:00"
+      },
       {
         "title": "江西安福：一枚金兰柚“结”出富民新业",
         "url": "https://www.chinanews.com.cn/txy/2026/11-18/10734243.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）习近平会见俄罗斯总统普京",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734238.shtml",
         "publishedAt": "2026-11-18T18:08:14.000+08:00"
-      },
-      {
-        "title": "“十五五”青海省计划新增残疾人就业1.3万人",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734242.shtml",
-        "publishedAt": "2026-11-18T18:06:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T18:20:02.305+08:00",
+    "fetchedAt": "2026-11-18T18:30:02.990+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T18:20:05.895+08:00",
+      "fetchedAt": "2026-11-18T18:30:06.522+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T18:20:06.128+08:00",
+      "fetchedAt": "2026-11-18T18:30:06.768+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T18:20:06.137+08:00",
+      "fetchedAt": "2026-11-18T18:30:06.778+08:00",
       "error": null
     }
   }
