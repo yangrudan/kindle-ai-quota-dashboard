@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T16:10:37.574+08:00",
+  "updatedAt": "2026-11-18T16:20:09.214+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14,
-    "feelsLikeC": 10.9,
-    "humidity": 63,
-    "windKph": 15.4,
+    "tempC": 13.8,
+    "feelsLikeC": 10.8,
+    "humidity": 62,
+    "windKph": 14.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T16:10:37.574+08:00",
+    "observedAt": "2026-11-18T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-18T16:20:09.214+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "星厨巡味、沪赏华章 全聚德集团非遗匠心美食巡礼在沪启幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734112.shtml",
-        "publishedAt": "2026-11-18T16:04:19.000+08:00"
+        "title": "北上追雪、南下向暖 为冬季户外消费注入新增量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734135.shtml",
+        "publishedAt": "2026-11-18T16:15:06.000+08:00"
       },
       {
-        "title": "中方：欢迎亚太工商界继续共享中国式现代化机遇",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734117.shtml",
-        "publishedAt": "2026-11-18T15:59:59.000+08:00"
+        "title": "（深圳APEC）马来西亚总理安瓦尔：新兴经济体应当获得尊重与平等对待",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734131.shtml",
+        "publishedAt": "2026-11-18T16:14:18.000+08:00"
       },
       {
-        "title": "习近平会见韩国总统李在明",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211108.shtml",
-        "publishedAt": "2026-11-18T15:58:28.000+08:00"
+        "title": "（深圳APEC）普京：俄希望与中国发展多层次经贸联系",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734124.shtml",
+        "publishedAt": "2026-11-18T16:13:20.000+08:00"
       },
       {
-        "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211107.shtml",
-        "publishedAt": "2026-11-18T15:49:39.000+08:00"
+        "title": "从一份议程单看亚太新机遇→",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734129.shtml",
+        "publishedAt": "2026-11-18T16:09:37.000+08:00"
       },
       {
-        "title": "图集丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734106.shtml",
-        "publishedAt": "2026-11-18T15:47:28.000+08:00"
+        "title": "从新产品到新场景，首发经济不止于开店",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734128.shtml",
+        "publishedAt": "2026-11-18T16:08:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T16:10:02.417+08:00",
+    "fetchedAt": "2026-11-18T16:20:03.418+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T16:10:36.338+08:00",
+      "fetchedAt": "2026-11-18T16:20:07.806+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T16:10:36.630+08:00",
+      "fetchedAt": "2026-11-18T16:20:08.096+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T16:10:36.637+08:00",
+      "fetchedAt": "2026-11-18T16:20:08.106+08:00",
       "error": null
     }
   }
