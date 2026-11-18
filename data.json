@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T15:00:38.151+08:00",
+  "updatedAt": "2026-11-18T15:10:09.156+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T15:00:38.151+08:00",
+    "fetchedAt": "2026-11-18T15:10:09.156+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "探访厦门金砖出海综合服务港：打通企业出海“最后一公里”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734064.shtml",
-        "publishedAt": "2026-11-18T14:53:01.000+08:00"
+        "title": "8级阵风+风寒效应！北方多地“被冻透” 大风天为何体感更冷？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734091.shtml",
+        "publishedAt": "2026-11-18T15:03:24.000+08:00"
       },
       {
-        "title": "湖北武汉：红枫层林尽染吸引民众游玩",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734079.shtml",
-        "publishedAt": "2026-11-18T14:49:11.000+08:00"
+        "title": "海南发布冬春及跨年迎新活动 多个“首个”“首家”业态亮相",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734084.shtml",
+        "publishedAt": "2026-11-18T15:01:56.000+08:00"
       },
       {
-        "title": "哈尔滨迎降雪 文庙风景如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734072.shtml",
-        "publishedAt": "2026-11-18T14:48:23.000+08:00"
+        "title": "中部车市风向标再赴年终之约 购车政策集中落地长沙国际车展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734078.shtml",
+        "publishedAt": "2026-11-18T15:00:34.000+08:00"
       },
       {
-        "title": "大理大学来华留学生用手机镜头讲述大理故事",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734047.shtml",
-        "publishedAt": "2026-11-18T14:47:09.000+08:00"
+        "title": "“十五五”时期四川国资国企将“三业”并举助力高质量发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734081.shtml",
+        "publishedAt": "2026-11-18T14:58:56.000+08:00"
       },
       {
-        "title": "一张农田“云图” 解锁广西贺州平桂良田管护新模式",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734045.shtml",
-        "publishedAt": "2026-11-18T14:45:33.000+08:00"
+        "title": "商家赠品、抽奖怎么缴税？专家详解",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734090.shtml",
+        "publishedAt": "2026-11-18T14:58:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T15:00:02.614+08:00",
+    "fetchedAt": "2026-11-18T15:10:03.173+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T15:00:36.733+08:00",
+      "fetchedAt": "2026-11-18T15:10:07.537+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 54,
+          "usedPct": 57,
           "resetAt": "2026-11-18T16:58:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 95,
+          "usedPct": 96,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T15:00:37.005+08:00",
+      "fetchedAt": "2026-11-18T15:10:07.911+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T15:00:37.015+08:00",
+      "fetchedAt": "2026-11-18T15:10:07.920+08:00",
       "error": null
     }
   }
