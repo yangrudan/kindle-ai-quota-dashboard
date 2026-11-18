@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T13:00:08.704+08:00",
+  "updatedAt": "2026-11-18T13:10:37.098+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T13:00:08.704+08:00",
+    "fetchedAt": "2026-11-18T13:10:37.098+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一张收款码，如何让小店接住国际客流？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734000.shtml",
+        "publishedAt": "2026-11-18T12:57:09.000+08:00"
+      },
       {
         "title": "（深圳APEC）习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733987.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）习近平：坚定信心、勇毅前行 促进亚太共同繁荣",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733984.shtml",
         "publishedAt": "2026-11-18T12:49:11.000+08:00"
-      },
-      {
-        "title": "智利总统来华之际发文：智利和中国之间有着“兄弟般的情谊”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733996.shtml",
-        "publishedAt": "2026-11-18T12:42:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T13:00:03.019+08:00",
+    "fetchedAt": "2026-11-18T13:10:02.360+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T13:00:07.371+08:00",
+      "fetchedAt": "2026-11-18T13:10:35.976+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
+          "usedPct": 23,
           "resetAt": "2026-11-18T16:58:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 88,
+          "usedPct": 90,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T13:00:07.490+08:00",
+      "fetchedAt": "2026-11-18T13:10:36.065+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T13:00:07.493+08:00",
+      "fetchedAt": "2026-11-18T13:10:36.080+08:00",
       "error": null
     }
   }
