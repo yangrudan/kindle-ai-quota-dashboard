@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T11:30:08.440+08:00",
+  "updatedAt": "2026-11-18T11:40:41.515+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T11:30:08.440+08:00",
+    "fetchedAt": "2026-11-18T11:40:41.515+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "东西问丨世界聚焦深圳：邂逅一座没有“科技焦虑”的未来之城",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-18/10733957.shtml",
+        "publishedAt": "2026-11-18T11:24:46.000+08:00"
+      },
       {
         "title": "现场直击：多国领导人抵达深圳（视频+高清大图）",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733966.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广西硕龙口岸首迎越南团签入境旅游团",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10733922.shtml",
         "publishedAt": "2026-11-18T11:17:14.000+08:00"
-      },
-      {
-        "title": "28名华裔青年获奖学金 入琼学中文了解中华文化",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733919.shtml",
-        "publishedAt": "2026-11-18T11:15:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T11:30:02.830+08:00",
+    "fetchedAt": "2026-11-18T11:40:06.057+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T11:30:07.079+08:00",
+      "fetchedAt": "2026-11-18T11:40:39.817+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 84,
+          "usedPct": 87,
           "resetAt": "2026-11-18T11:52:18.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 86,
+          "usedPct": 87,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T11:30:07.355+08:00",
+      "fetchedAt": "2026-11-18T11:40:40.153+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T11:30:07.358+08:00",
+      "fetchedAt": "2026-11-18T11:40:40.158+08:00",
       "error": null
     }
   }
