@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T12:40:08.728+08:00",
+  "updatedAt": "2026-11-18T12:50:08.489+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.9,
-    "feelsLikeC": 11.2,
-    "humidity": 61,
-    "windKph": 20.6,
+    "tempC": 14.6,
+    "feelsLikeC": 11.1,
+    "humidity": 63,
+    "windKph": 19.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T12:40:08.728+08:00",
+    "observedAt": "2026-11-18T12:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T12:50:08.489+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "俄媒：普京感谢中方出色主办APEC会议",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733995.shtml",
+        "publishedAt": "2026-11-18T12:40:34.000+08:00"
+      },
+      {
+        "title": "普京APEC发表讲话点赞深圳：“充满活力、蓬勃发展，令人印象深刻”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733993.shtml",
+        "publishedAt": "2026-11-18T12:39:14.000+08:00"
+      },
+      {
+        "title": "国台办呼吁取消陆生赴台不合理限制",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733992.shtml",
+        "publishedAt": "2026-11-18T12:38:32.000+08:00"
+      },
+      {
+        "title": "中国证监会新闻发言人答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733990.shtml",
+        "publishedAt": "2026-11-18T12:32:50.000+08:00"
+      },
+      {
         "title": "A股午评：超4500只个股飘绿，三大指数集体收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733986.shtml",
         "publishedAt": "2026-11-18T12:19:39.000+08:00"
-      },
-      {
-        "title": "聚焦APEC｜印度尼西亚总统普拉博沃抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733981.shtml",
-        "publishedAt": "2026-11-18T12:15:13.000+08:00"
-      },
-      {
-        "title": "习近平会见俄罗斯总统普京",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733979.shtml",
-        "publishedAt": "2026-11-18T12:06:58.000+08:00"
-      },
-      {
-        "title": "兰州牛肉面出海“破题”：“一碗面”香飘80余国",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733971.shtml",
-        "publishedAt": "2026-11-18T11:59:04.000+08:00"
-      },
-      {
-        "title": "福建三明“以侨为桥”聚侨力促发展",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733967.shtml",
-        "publishedAt": "2026-11-18T11:57:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T12:40:03.129+08:00",
+    "fetchedAt": "2026-11-18T12:50:03.557+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T12:40:07.319+08:00",
+      "fetchedAt": "2026-11-18T12:50:07.356+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 2,
           "resetAt": "2026-11-18T16:58:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T12:40:07.655+08:00",
+      "fetchedAt": "2026-11-18T12:50:07.545+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T12:40:07.660+08:00",
+      "fetchedAt": "2026-11-18T12:50:07.553+08:00",
       "error": null
     }
   }
