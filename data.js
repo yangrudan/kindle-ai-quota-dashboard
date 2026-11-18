@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T12:50:08.489+08:00",
+  "updatedAt": "2026-11-18T13:00:08.704+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.6,
+    "tempC": 14.5,
     "feelsLikeC": 11.1,
     "humidity": 63,
-    "windKph": 19.5,
+    "windKph": 18.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T12:50:08.489+08:00",
+    "observedAt": "2026-11-18T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T13:00:08.704+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "俄媒：普京感谢中方出色主办APEC会议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733995.shtml",
-        "publishedAt": "2026-11-18T12:40:34.000+08:00"
+        "title": "（深圳APEC）习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733987.shtml",
+        "publishedAt": "2026-11-18T12:50:07.000+08:00"
       },
       {
-        "title": "普京APEC发表讲话点赞深圳：“充满活力、蓬勃发展，令人印象深刻”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733993.shtml",
-        "publishedAt": "2026-11-18T12:39:14.000+08:00"
+        "title": "（深圳APEC）习近平：“十五五”规划是中国面向全球工商界发出的合作邀约",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733985.shtml",
+        "publishedAt": "2026-11-18T12:49:49.000+08:00"
       },
       {
-        "title": "国台办呼吁取消陆生赴台不合理限制",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733992.shtml",
-        "publishedAt": "2026-11-18T12:38:32.000+08:00"
+        "title": "（深圳APEC）习近平：中方支持成立世界湾区经济合作联盟",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733983.shtml",
+        "publishedAt": "2026-11-18T12:49:29.000+08:00"
       },
       {
-        "title": "中国证监会新闻发言人答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733990.shtml",
-        "publishedAt": "2026-11-18T12:32:50.000+08:00"
+        "title": "（深圳APEC）习近平：坚定信心、勇毅前行 促进亚太共同繁荣",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733984.shtml",
+        "publishedAt": "2026-11-18T12:49:11.000+08:00"
       },
       {
-        "title": "A股午评：超4500只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733986.shtml",
-        "publishedAt": "2026-11-18T12:19:39.000+08:00"
+        "title": "智利总统来华之际发文：智利和中国之间有着“兄弟般的情谊”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733996.shtml",
+        "publishedAt": "2026-11-18T12:42:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T12:50:03.557+08:00",
+    "fetchedAt": "2026-11-18T13:00:03.019+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T12:50:07.356+08:00",
+      "fetchedAt": "2026-11-18T13:00:07.371+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 11,
           "resetAt": "2026-11-18T16:58:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 87,
+          "usedPct": 88,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T12:50:07.545+08:00",
+      "fetchedAt": "2026-11-18T13:00:07.490+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T12:50:07.553+08:00",
+      "fetchedAt": "2026-11-18T13:00:07.493+08:00",
       "error": null
     }
   }
