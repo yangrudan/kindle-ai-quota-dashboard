@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T16:00:08.312+08:00",
+  "updatedAt": "2026-11-18T16:10:37.574+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T16:00:08.312+08:00",
+    "fetchedAt": "2026-11-18T16:10:37.574+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "星厨巡味、沪赏华章 全聚德集团非遗匠心美食巡礼在沪启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734112.shtml",
+        "publishedAt": "2026-11-18T16:04:19.000+08:00"
+      },
+      {
+        "title": "中方：欢迎亚太工商界继续共享中国式现代化机遇",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734117.shtml",
+        "publishedAt": "2026-11-18T15:59:59.000+08:00"
+      },
+      {
+        "title": "习近平会见韩国总统李在明",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211108.shtml",
+        "publishedAt": "2026-11-18T15:58:28.000+08:00"
+      },
       {
         "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211107.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "图集丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734106.shtml",
         "publishedAt": "2026-11-18T15:47:28.000+08:00"
-      },
-      {
-        "title": "2026年海上丝绸之路国际文化旅游节将在福州举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734108.shtml",
-        "publishedAt": "2026-11-18T15:44:32.000+08:00"
-      },
-      {
-        "title": "法治为桥 规则为纽——一位中国法学专家眼中的中国—东盟法治合作之路",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734092.shtml",
-        "publishedAt": "2026-11-18T15:43:42.000+08:00"
-      },
-      {
-        "title": "两人代寄近3000封虚假“催款律师函”被上海警方刑拘",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734104.shtml",
-        "publishedAt": "2026-11-18T15:42:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T16:00:02.633+08:00",
+    "fetchedAt": "2026-11-18T16:10:02.417+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T16:00:06.452+08:00",
+      "fetchedAt": "2026-11-18T16:10:36.338+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T16:00:06.853+08:00",
+      "fetchedAt": "2026-11-18T16:10:36.630+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T16:00:06.860+08:00",
+      "fetchedAt": "2026-11-18T16:10:36.637+08:00",
       "error": null
     }
   }
