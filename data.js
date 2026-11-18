@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T14:30:08.625+08:00",
+  "updatedAt": "2026-11-18T14:40:07.909+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T14:30:08.625+08:00",
+    "fetchedAt": "2026-11-18T14:40:07.909+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "赏秋“小长假”撬动亲子游大需求",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734067.shtml",
+        "publishedAt": "2026-11-18T14:28:04.000+08:00"
+      },
+      {
+        "title": "贵州省纪念红军长征胜利90周年网络主题宣传活动在遵义举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734057.shtml",
+        "publishedAt": "2026-11-18T14:26:04.000+08:00"
+      },
+      {
+        "title": "新疆兵团：多元种养模式释放土地新价值",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734046.shtml",
+        "publishedAt": "2026-11-18T14:25:04.000+08:00"
+      },
       {
         "title": "上海跨国公司地区总部和外资研发中心累计分别达1124家和680家",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734055.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "物流流量转为产业增量 西部陆海新通道拓宽产供链协同",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734056.shtml",
         "publishedAt": "2026-11-18T14:21:58.000+08:00"
-      },
-      {
-        "title": "罗大佑发声获两岸民间支持 国台办指“德不孤，必有邻”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734060.shtml",
-        "publishedAt": "2026-11-18T14:20:25.000+08:00"
-      },
-      {
-        "title": "“汉语桥”连四海 隔万里尚为邻",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-18/10734063.shtml",
-        "publishedAt": "2026-11-18T14:20:19.000+08:00"
-      },
-      {
-        "title": "冷空气带火浙江慈溪棉拖鞋 “内鞋外穿”成新潮流",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734034.shtml",
-        "publishedAt": "2026-11-18T14:18:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T14:30:03.061+08:00",
+    "fetchedAt": "2026-11-18T14:40:02.365+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T14:30:07.045+08:00",
+      "fetchedAt": "2026-11-18T14:40:06.453+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 45,
+          "usedPct": 47,
           "resetAt": "2026-11-18T16:58:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T14:30:07.319+08:00",
+      "fetchedAt": "2026-11-18T14:40:06.822+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T14:30:07.323+08:00",
+      "fetchedAt": "2026-11-18T14:40:06.831+08:00",
       "error": null
     }
   }
