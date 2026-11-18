@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T21:10:09.603+08:00",
+  "updatedAt": "2026-11-18T21:20:07.747+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.9,
-    "feelsLikeC": 6.7,
-    "humidity": 62,
-    "windKph": 10.7,
+    "tempC": 9.6,
+    "feelsLikeC": 6.5,
+    "humidity": 63,
+    "windKph": 10.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T21:10:09.604+08:00",
+    "observedAt": "2026-11-18T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-18T21:20:07.747+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "冷空气抵达广东 最大降温幅度13.5℃",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734332.shtml",
-        "publishedAt": "2026-11-18T21:05:20.000+08:00"
+        "title": "托起困境儿童的明天 重庆“十五五”把关爱送到 “家门口”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734365.shtml",
+        "publishedAt": "2026-11-18T21:15:36.000+08:00"
       },
       {
-        "title": "第三届CBA俱乐部杯（银川赛区）开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734340.shtml",
-        "publishedAt": "2026-11-18T21:04:05.000+08:00"
+        "title": "别把“慢阻肺”当衰老 中医专家：老年患者健脾、补肾亦是治肺之法",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-18/10734314.shtml",
+        "publishedAt": "2026-11-18T21:14:58.000+08:00"
       },
       {
-        "title": "福建戏曲“天下第一团”暨稀有剧种折子戏展演在福州启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734357.shtml",
-        "publishedAt": "2026-11-18T21:03:35.000+08:00"
+        "title": "环渤海自贸区海事政务跨域通办新模式迎来首单船舶转籍登记业务",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734354.shtml",
+        "publishedAt": "2026-11-18T21:14:50.000+08:00"
       },
       {
-        "title": "海南省“交海即交证”新速度：多平台打通 数据跑起来",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734356.shtml",
-        "publishedAt": "2026-11-18T21:02:47.000+08:00"
+        "title": "《团体标准化 良好行为规范》国家标准宣贯会在京举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734333.shtml",
+        "publishedAt": "2026-11-18T21:14:42.000+08:00"
       },
       {
-        "title": "何以中国·和合礼让丨六尺巷外修路记",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734367.shtml",
-        "publishedAt": "2026-11-18T21:02:33.000+08:00"
+        "title": "北京东城长者影像展亮相 二十余位长者肖像与故事走进胡同院落",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734368.shtml",
+        "publishedAt": "2026-11-18T21:13:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T21:10:03.432+08:00",
+    "fetchedAt": "2026-11-18T21:20:02.720+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T21:10:07.981+08:00",
+      "fetchedAt": "2026-11-18T21:20:06.475+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T21:10:08.261+08:00",
+      "fetchedAt": "2026-11-18T21:20:06.738+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T21:10:08.269+08:00",
+      "fetchedAt": "2026-11-18T21:20:06.743+08:00",
       "error": null
     }
   }
