@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T20:30:10.314+08:00",
+  "updatedAt": "2026-11-18T20:40:09.058+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T20:30:10.314+08:00",
+    "fetchedAt": "2026-11-18T20:40:09.058+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "跨学科科学排名出炉 香港大学跻身全球前十",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734277.shtml",
-        "publishedAt": "2026-11-18T20:23:31.000+08:00"
+        "title": "中国研制当前全球最大机载分布式推进电机系统完成实飞验证",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734283.shtml",
+        "publishedAt": "2026-11-18T20:34:38.000+08:00"
       },
       {
-        "title": "市场监管总局：深入治理特种设备领域弄虚作假问题",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734278.shtml",
-        "publishedAt": "2026-11-18T20:22:27.000+08:00"
+        "title": "中国驻布里斯班总领馆举办中昆“旅游+”对话会",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734335.shtml",
+        "publishedAt": "2026-11-18T20:33:48.000+08:00"
       },
       {
-        "title": "东盟秘书长高金洪：东盟与中国数字经济合作关乎下一代发展",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734331.shtml",
-        "publishedAt": "2026-11-18T20:20:11.000+08:00"
+        "title": "黑龙江省气象台发布道路结冰和大风预报",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734273.shtml",
+        "publishedAt": "2026-11-18T20:33:34.000+08:00"
       },
       {
-        "title": "亚太之声·深圳时刻 | 新中友好协会总会会长欧百利：中国在APEC中发挥关键作用",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734330.shtml",
-        "publishedAt": "2026-11-18T20:18:39.000+08:00"
+        "title": "重庆：争取到2030年城市“15分钟养老服务圈”建成率达80%",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734284.shtml",
+        "publishedAt": "2026-11-18T20:33:24.000+08:00"
       },
       {
-        "title": "习近平迎接美国总统特朗普",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211130.shtml",
-        "publishedAt": "2026-11-18T20:18:12.000+08:00"
+        "title": "国图少儿馆亮相上海国际童书展 展示少儿阅读推广服务新路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734282.shtml",
+        "publishedAt": "2026-11-18T20:28:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T20:30:04.411+08:00",
+    "fetchedAt": "2026-11-18T20:40:03.047+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T20:30:08.969+08:00",
+      "fetchedAt": "2026-11-18T20:40:07.477+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T20:30:09.332+08:00",
+      "fetchedAt": "2026-11-18T20:40:07.768+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T20:30:09.335+08:00",
+      "fetchedAt": "2026-11-18T20:40:07.777+08:00",
       "error": null
     }
   }
