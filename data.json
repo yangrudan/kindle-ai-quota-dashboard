@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T20:20:08.641+08:00",
+  "updatedAt": "2026-11-18T20:30:10.314+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.7,
-    "feelsLikeC": 7.5,
-    "humidity": 60,
-    "windKph": 11.2,
+    "tempC": 10.5,
+    "feelsLikeC": 7.4,
+    "humidity": 61,
+    "windKph": 10.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T20:20:08.641+08:00",
+    "observedAt": "2026-11-18T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T20:30:10.314+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "甘南青少年中国科学技术馆研学",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734320.shtml",
-        "publishedAt": "2026-11-18T20:06:48.000+08:00"
+        "title": "跨学科科学排名出炉 香港大学跻身全球前十",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734277.shtml",
+        "publishedAt": "2026-11-18T20:23:31.000+08:00"
       },
       {
-        "title": "福建首个中小学秋假开启 文博研学成“课堂”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734321.shtml",
-        "publishedAt": "2026-11-18T20:06:32.000+08:00"
+        "title": "市场监管总局：深入治理特种设备领域弄虚作假问题",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734278.shtml",
+        "publishedAt": "2026-11-18T20:22:27.000+08:00"
       },
       {
-        "title": "美国友人柏立美的取景框：世纪影像里藏着的高原古城",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734317.shtml",
-        "publishedAt": "2026-11-18T20:04:50.000+08:00"
+        "title": "东盟秘书长高金洪：东盟与中国数字经济合作关乎下一代发展",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734331.shtml",
+        "publishedAt": "2026-11-18T20:20:11.000+08:00"
       },
       {
-        "title": "河南方城2100岁银杏树吸引游客",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734319.shtml",
-        "publishedAt": "2026-11-18T20:02:34.000+08:00"
+        "title": "亚太之声·深圳时刻 | 新中友好协会总会会长欧百利：中国在APEC中发挥关键作用",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734330.shtml",
+        "publishedAt": "2026-11-18T20:18:39.000+08:00"
       },
       {
-        "title": "中国银行原副行长林景臻一审获刑13年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734299.shtml",
-        "publishedAt": "2026-11-18T20:01:36.000+08:00"
+        "title": "习近平迎接美国总统特朗普",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211130.shtml",
+        "publishedAt": "2026-11-18T20:18:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T20:20:03.160+08:00",
+    "fetchedAt": "2026-11-18T20:30:04.411+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T20:20:06.998+08:00",
+      "fetchedAt": "2026-11-18T20:30:08.969+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T20:20:07.259+08:00",
+      "fetchedAt": "2026-11-18T20:30:09.332+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T20:20:07.274+08:00",
+      "fetchedAt": "2026-11-18T20:30:09.335+08:00",
       "error": null
     }
   }
