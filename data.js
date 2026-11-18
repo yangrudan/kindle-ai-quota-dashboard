@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T08:20:09.758+08:00",
+  "updatedAt": "2026-11-18T08:30:40.244+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 11.9,
+    "tempC": 11.8,
     "feelsLikeC": 9.9,
     "humidity": 93,
-    "windKph": 15.4,
+    "windKph": 14.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T08:20:09.758+08:00",
+    "observedAt": "2026-11-18T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T08:30:40.244+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国希望通过APEC传递什么信号？外媒聚焦",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733848.shtml",
-        "publishedAt": "2026-11-18T08:06:31.000+08:00"
+        "title": "寒潮继续影响中东部地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733849.shtml",
+        "publishedAt": "2026-11-18T08:26:22.000+08:00"
       },
       {
-        "title": "捡起英国“烂尾剧本”，欧洲五国联手要把非法移民“外包”给卢旺达，首期却只送100人",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733847.shtml",
-        "publishedAt": "2026-11-18T08:05:59.000+08:00"
+        "title": "英国宣布向乌克兰提供千余枚防空导弹",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733841.shtml",
+        "publishedAt": "2026-11-18T08:23:06.000+08:00"
       },
       {
-        "title": "“免押租赁”遭遇信息“过度索取” 如何保护消费者隐私安全？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733846.shtml",
-        "publishedAt": "2026-11-18T08:01:21.000+08:00"
+        "title": "俄一架安-12军用运输机坠毁 机上19人全部遇难",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733839.shtml",
+        "publishedAt": "2026-11-18T08:23:04.000+08:00"
       },
       {
-        "title": "舒默宣布已锁定足够票数当选美参议院多数党领袖",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733845.shtml",
-        "publishedAt": "2026-11-18T08:00:29.000+08:00"
+        "title": "德国芬兰两国总统表示欧洲必须参与乌克兰和平谈判",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733840.shtml",
+        "publishedAt": "2026-11-18T08:23:02.000+08:00"
       },
       {
-        "title": "点进去容易，退出来难 弹窗广告为何“越关越多”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733844.shtml",
-        "publishedAt": "2026-11-18T07:48:56.000+08:00"
+        "title": "儿童用品全品类强制国标施行 赠品试用装同受约束",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733850.shtml",
+        "publishedAt": "2026-11-18T08:22:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T08:20:03.145+08:00",
+    "fetchedAt": "2026-11-18T08:30:03.142+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T08:20:08.383+08:00",
+      "fetchedAt": "2026-11-18T08:30:38.613+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T08:20:08.587+08:00",
+      "fetchedAt": "2026-11-18T08:30:38.907+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T08:20:08.595+08:00",
+      "fetchedAt": "2026-11-18T08:30:38.912+08:00",
       "error": null
     }
   }
