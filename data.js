@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T17:30:08.136+08:00",
+  "updatedAt": "2026-11-18T17:40:08.668+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T17:30:08.137+08:00",
+    "fetchedAt": "2026-11-18T17:40:08.668+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "重庆梁平将高水平建设“新和富美”特色城市",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734217.shtml",
+        "publishedAt": "2026-11-18T17:35:52.000+08:00"
+      },
+      {
+        "title": "中俄美会晤影响涉及台湾？国台办强调台湾问题纯属中国内政",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734210.shtml",
+        "publishedAt": "2026-11-18T17:33:30.000+08:00"
+      },
       {
         "title": "习近平会见俄罗斯总统普京",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211127.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "习近平迎接美国总统特朗普",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734214.shtml",
         "publishedAt": "2026-11-18T17:12:43.000+08:00"
-      },
-      {
-        "title": "浙江临海“小城故事”：何以让青年创业“不烧心”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734209.shtml",
-        "publishedAt": "2026-11-18T17:12:39.000+08:00"
-      },
-      {
-        "title": "美国友人柏大卫捐赠的138幅百年湟源古城影像在青海西宁展出",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734191.shtml",
-        "publishedAt": "2026-11-18T17:08:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T17:30:03.232+08:00",
+    "fetchedAt": "2026-11-18T17:40:02.639+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T17:30:06.820+08:00",
+      "fetchedAt": "2026-11-18T17:40:07.206+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T22:30:08.000+08:00"
+          "resetAt": "2026-11-18T22:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T17:30:07.151+08:00",
+      "fetchedAt": "2026-11-18T17:40:07.432+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T17:30:07.155+08:00",
+      "fetchedAt": "2026-11-18T17:40:07.441+08:00",
       "error": null
     }
   }
