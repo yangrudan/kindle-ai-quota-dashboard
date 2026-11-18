@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T23:30:07.877+08:00",
+  "updatedAt": "2026-11-18T23:40:08.099+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T23:30:07.878+08:00",
+    "fetchedAt": "2026-11-18T23:40:08.100+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "英国10月通胀率升至一年来新高",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734425.shtml",
+        "publishedAt": "2026-11-18T23:32:15.000+08:00"
+      },
+      {
+        "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734424.shtml",
+        "publishedAt": "2026-11-18T23:18:41.000+08:00"
+      },
       {
         "title": "到大学演讲、给车厘子“带货”、打卡家乡菜……各国领导人在深圳忙不停",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734423.shtml",
@@ -33,19 +43,9 @@
         "title": "（深圳APEC）详讯：习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734415.shtml",
         "publishedAt": "2026-11-18T22:42:57.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）中国为何支持成立世界湾区经济合作联盟？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734416.shtml",
-        "publishedAt": "2026-11-18T22:42:51.000+08:00"
-      },
-      {
-        "title": "从墨累河畔到苍山洱海：一封越洋贺信里的大理开放故事",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734419.shtml",
-        "publishedAt": "2026-11-18T22:38:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T23:30:02.387+08:00",
+    "fetchedAt": "2026-11-18T23:40:02.519+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T23:30:06.386+08:00",
+      "fetchedAt": "2026-11-18T23:40:06.726+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T04:30:07.000+08:00"
+          "resetAt": "2026-11-19T04:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T23:30:06.600+08:00",
+      "fetchedAt": "2026-11-18T23:40:06.997+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T23:30:06.608+08:00",
+      "fetchedAt": "2026-11-18T23:40:07.005+08:00",
       "error": null
     }
   }
