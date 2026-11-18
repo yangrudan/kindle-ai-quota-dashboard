@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T16:50:09.053+08:00",
+  "updatedAt": "2026-11-18T17:00:08.980+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.6,
-    "feelsLikeC": 10.4,
-    "humidity": 60,
-    "windKph": 14.3,
+    "tempC": 13.4,
+    "feelsLikeC": 10.3,
+    "humidity": 59,
+    "windKph": 13.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T16:50:09.053+08:00",
+    "observedAt": "2026-11-18T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T17:00:08.980+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "清明上河园指路牌火了！看河南文旅如何把服务做进细节里",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734145.shtml",
-        "publishedAt": "2026-11-18T16:46:53.000+08:00"
+        "title": "QS世界大学可持续发展排名公布 香港11所高校上榜",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734160.shtml",
+        "publishedAt": "2026-11-18T16:57:18.000+08:00"
       },
       {
-        "title": "全球洞察 | 意大利学者：开放创新合作是全球工商界的共识",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734178.shtml",
-        "publishedAt": "2026-11-18T16:46:39.000+08:00"
+        "title": "2026现代服务业高质量发展大会在重庆举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734157.shtml",
+        "publishedAt": "2026-11-18T16:56:30.000+08:00"
       },
       {
-        "title": "《2026年亚太经合组织工商领导人峰会深圳倡议》11月18日发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734176.shtml",
-        "publishedAt": "2026-11-18T16:46:07.000+08:00"
+        "title": "河北石家庄至贝尔格莱德国际货运航线开通",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-18/10734134.shtml",
+        "publishedAt": "2026-11-18T16:56:22.000+08:00"
       },
       {
-        "title": "多国工商界人士：期待APEC各经济体加强合作 创造繁荣",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734174.shtml",
-        "publishedAt": "2026-11-18T16:45:23.000+08:00"
+        "title": "斯诺克德国大师赛资格赛：中国军团获7胜 傅家俊首战过关",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-18/10734133.shtml",
+        "publishedAt": "2026-11-18T16:56:04.000+08:00"
       },
       {
-        "title": "宁夏泾源闲置资产改出三座特色展馆",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734158.shtml",
-        "publishedAt": "2026-11-18T16:45:01.000+08:00"
+        "title": "日月谭天丨这场举世瞩目的盛会再次让岛内震撼！",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734198.shtml",
+        "publishedAt": "2026-11-18T16:54:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T16:50:02.378+08:00",
+    "fetchedAt": "2026-11-18T17:00:03.096+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T16:50:07.569+08:00",
+      "fetchedAt": "2026-11-18T17:00:07.235+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 60,
-          "resetAt": "2026-11-18T16:58:23.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-18T22:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T16:50:07.850+08:00",
+      "fetchedAt": "2026-11-18T17:00:07.607+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T16:50:07.857+08:00",
+      "fetchedAt": "2026-11-18T17:00:07.618+08:00",
       "error": null
     }
   }
