@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T15:50:38.873+08:00",
+  "updatedAt": "2026-11-18T16:00:08.312+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.9,
-    "feelsLikeC": 10.2,
-    "humidity": 59,
-    "windKph": 17.7,
+    "tempC": 14,
+    "feelsLikeC": 10.9,
+    "humidity": 63,
+    "windKph": 15.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T15:50:38.874+08:00",
+    "observedAt": "2026-11-18T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T16:00:08.312+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211107.shtml",
+        "publishedAt": "2026-11-18T15:49:39.000+08:00"
+      },
+      {
+        "title": "图集丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734106.shtml",
+        "publishedAt": "2026-11-18T15:47:28.000+08:00"
+      },
       {
         "title": "2026年海上丝绸之路国际文化旅游节将在福州举办",
         "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734108.shtml",
@@ -33,19 +43,9 @@
         "title": "两人代寄近3000封虚假“催款律师函”被上海警方刑拘",
         "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734104.shtml",
         "publishedAt": "2026-11-18T15:42:28.000+08:00"
-      },
-      {
-        "title": "就业帮扶到人到岗 湖南桂东精准服务稳就业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734102.shtml",
-        "publishedAt": "2026-11-18T15:41:38.000+08:00"
-      },
-      {
-        "title": "2026“科学与中国”走进香港 院士专家为特区中小学作科普报告",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734103.shtml",
-        "publishedAt": "2026-11-18T15:41:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T15:50:03.014+08:00",
+    "fetchedAt": "2026-11-18T16:00:02.633+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T15:50:36.599+08:00",
+      "fetchedAt": "2026-11-18T16:00:06.452+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 60,
-          "resetAt": "2026-11-18T16:58:24.000+08:00"
+          "resetAt": "2026-11-18T16:58:23.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T15:50:36.877+08:00",
+      "fetchedAt": "2026-11-18T16:00:06.853+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T15:50:36.880+08:00",
+      "fetchedAt": "2026-11-18T16:00:06.860+08:00",
       "error": null
     }
   }
