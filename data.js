@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T11:40:41.515+08:00",
+  "updatedAt": "2026-11-18T11:50:10.016+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.5,
-    "feelsLikeC": 10.8,
-    "humidity": 64,
-    "windKph": 21.2,
+    "tempC": 14.9,
+    "feelsLikeC": 11.1,
+    "humidity": 62,
+    "windKph": 22.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T11:40:41.515+08:00",
+    "observedAt": "2026-11-18T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T11:50:10.017+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东西问丨世界聚焦深圳：邂逅一座没有“科技焦虑”的未来之城",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-18/10733957.shtml",
-        "publishedAt": "2026-11-18T11:24:46.000+08:00"
+        "title": "“投资中国 对话山西”中法产业合作圆桌会议在太原举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733927.shtml",
+        "publishedAt": "2026-11-18T11:45:23.000+08:00"
       },
       {
-        "title": "现场直击：多国领导人抵达深圳（视频+高清大图）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733966.shtml",
-        "publishedAt": "2026-11-18T11:23:00.000+08:00"
+        "title": "云南抚仙湖发现川蜷属三新种 近30年“失踪”瘤川蜷同步重现",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10733926.shtml",
+        "publishedAt": "2026-11-18T11:44:13.000+08:00"
       },
       {
-        "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733955.shtml",
-        "publishedAt": "2026-11-18T11:22:26.000+08:00"
+        "title": "国台办：台湾岛内议统望统热度不断升高",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733977.shtml",
+        "publishedAt": "2026-11-18T11:43:09.000+08:00"
       },
       {
-        "title": "聚焦APEC｜泰国总理阿努廷抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733965.shtml",
-        "publishedAt": "2026-11-18T11:20:54.000+08:00"
+        "title": "古都大同擘画“十五五”文物新图景：从守好家底到全民共享",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10733923.shtml",
+        "publishedAt": "2026-11-18T11:43:01.000+08:00"
       },
       {
-        "title": "广西硕龙口岸首迎越南团签入境旅游团",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10733922.shtml",
-        "publishedAt": "2026-11-18T11:17:14.000+08:00"
+        "title": "数千海地居民声援萨尔瓦多部队打击黑帮",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733942.shtml",
+        "publishedAt": "2026-11-18T11:42:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T11:40:06.057+08:00",
+    "fetchedAt": "2026-11-18T11:50:02.619+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T11:40:39.817+08:00",
+      "fetchedAt": "2026-11-18T11:50:06.410+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T11:40:40.153+08:00",
+      "fetchedAt": "2026-11-18T11:50:06.713+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T11:40:40.158+08:00",
+      "fetchedAt": "2026-11-18T11:50:06.719+08:00",
       "error": null
     }
   }
