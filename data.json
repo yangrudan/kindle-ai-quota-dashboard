@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T16:40:07.615+08:00",
+  "updatedAt": "2026-11-18T16:50:09.053+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.7,
-    "feelsLikeC": 10.6,
-    "humidity": 61,
-    "windKph": 14.6,
+    "tempC": 13.6,
+    "feelsLikeC": 10.4,
+    "humidity": 60,
+    "windKph": 14.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T16:40:07.615+08:00",
+    "observedAt": "2026-11-18T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T16:50:09.053+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西泽乡：“三强三促” 筑牢民族团结进步之基",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-18/10734123.shtml",
-        "publishedAt": "2026-11-18T16:33:07.000+08:00"
+        "title": "清明上河园指路牌火了！看河南文旅如何把服务做进细节里",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734145.shtml",
+        "publishedAt": "2026-11-18T16:46:53.000+08:00"
       },
       {
-        "title": "“Whoosh”乘风，读懂APEC里的合作密码",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734153.shtml",
-        "publishedAt": "2026-11-18T16:32:39.000+08:00"
+        "title": "全球洞察 | 意大利学者：开放创新合作是全球工商界的共识",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734178.shtml",
+        "publishedAt": "2026-11-18T16:46:39.000+08:00"
       },
       {
-        "title": "从“旧厂房”中寻到天津城市更新“新路子”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734151.shtml",
-        "publishedAt": "2026-11-18T16:30:33.000+08:00"
+        "title": "《2026年亚太经合组织工商领导人峰会深圳倡议》11月18日发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734176.shtml",
+        "publishedAt": "2026-11-18T16:46:07.000+08:00"
       },
       {
-        "title": "2026年度市委委托重点考察调研工作综述",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-18/10734121.shtml",
-        "publishedAt": "2026-11-18T16:27:24.000+08:00"
+        "title": "多国工商界人士：期待APEC各经济体加强合作 创造繁荣",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734174.shtml",
+        "publishedAt": "2026-11-18T16:45:23.000+08:00"
       },
       {
-        "title": "中国与加拿大签署《中加金融工作组工作规范》",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734122.shtml",
-        "publishedAt": "2026-11-18T16:26:56.000+08:00"
+        "title": "宁夏泾源闲置资产改出三座特色展馆",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734158.shtml",
+        "publishedAt": "2026-11-18T16:45:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T16:40:02.450+08:00",
+    "fetchedAt": "2026-11-18T16:50:02.378+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T16:40:06.405+08:00",
+      "fetchedAt": "2026-11-18T16:50:07.569+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T16:40:06.627+08:00",
+      "fetchedAt": "2026-11-18T16:50:07.850+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T16:40:06.636+08:00",
+      "fetchedAt": "2026-11-18T16:50:07.857+08:00",
       "error": null
     }
   }
