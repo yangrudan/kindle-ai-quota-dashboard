@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T12:00:38.871+08:00",
+  "updatedAt": "2026-11-18T12:10:07.969+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T12:00:38.871+08:00",
+    "fetchedAt": "2026-11-18T12:10:07.969+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "兰州牛肉面出海“破题”：“一碗面”香飘80余国",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733971.shtml",
+        "publishedAt": "2026-11-18T11:59:04.000+08:00"
+      },
+      {
+        "title": "福建三明“以侨为桥”聚侨力促发展",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733967.shtml",
+        "publishedAt": "2026-11-18T11:57:20.000+08:00"
+      },
       {
         "title": "大漠戈壁繁育作物良种 为寒旱农业注入“芯”动能",
         "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733962.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "载重5吨全球最大、可从北京直飞新疆，两款“空中卡车”试飞成功",
         "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733956.shtml",
         "publishedAt": "2026-11-18T11:53:21.000+08:00"
-      },
-      {
-        "title": "大连市上线统一战线特色宣传阵地电子地图",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-18/10733947.shtml",
-        "publishedAt": "2026-11-18T11:51:51.000+08:00"
-      },
-      {
-        "title": "云岭动态第四十三期",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-18/10733946.shtml",
-        "publishedAt": "2026-11-18T11:50:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T12:00:02.414+08:00",
+    "fetchedAt": "2026-11-18T12:10:02.419+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T12:00:35.814+08:00",
+      "fetchedAt": "2026-11-18T12:10:06.723+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T12:00:36.003+08:00",
+      "fetchedAt": "2026-11-18T12:10:07.027+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T12:00:36.008+08:00",
+      "fetchedAt": "2026-11-18T12:10:07.035+08:00",
       "error": null
     }
   }
