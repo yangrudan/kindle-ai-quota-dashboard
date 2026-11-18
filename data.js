@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T09:50:39.846+08:00",
+  "updatedAt": "2026-11-18T10:00:12.614+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.1,
-    "feelsLikeC": 10.8,
-    "humidity": 80,
-    "windKph": 15.2,
+    "tempC": 13.4,
+    "feelsLikeC": 10.9,
+    "humidity": 77,
+    "windKph": 16,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T09:50:39.846+08:00",
+    "observedAt": "2026-11-18T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T10:00:12.614+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "台退休教师区桂芝怒批民进党当局现行课纲瓦解中国人伦理",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733866.shtml",
+        "publishedAt": "2026-11-18T09:52:37.000+08:00"
+      },
+      {
+        "title": "西藏体彩发布2025年度社会责任报告 筹集公益金3.69亿元",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-18/10733892.shtml",
+        "publishedAt": "2026-11-18T09:51:59.000+08:00"
+      },
       {
         "title": "（深圳APEC）文莱苏丹哈桑纳尔抵达深圳",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211066.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "AI代言不是法外之地，AI广告该怎么做？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733883.shtml",
         "publishedAt": "2026-11-18T09:41:50.000+08:00"
-      },
-      {
-        "title": "中新网评：虚拟人“带货”，带的必须是真话，守的必须是规矩",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10733865.shtml",
-        "publishedAt": "2026-11-18T09:41:12.000+08:00"
-      },
-      {
-        "title": "袜子涨价引发风波，日本人生活成本压力难消",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733880.shtml",
-        "publishedAt": "2026-11-18T09:37:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T09:50:03.273+08:00",
+    "fetchedAt": "2026-11-18T10:00:03.443+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T09:50:38.345+08:00",
+      "fetchedAt": "2026-11-18T10:00:10.732+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 34,
+          "usedPct": 45,
           "resetAt": "2026-11-18T11:52:18.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 78,
+          "usedPct": 80,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T09:50:38.622+08:00",
+      "fetchedAt": "2026-11-18T10:00:10.993+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T09:50:38.626+08:00",
+      "fetchedAt": "2026-11-18T10:00:11.005+08:00",
       "error": null
     }
   }
