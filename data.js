@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T18:50:07.985+08:00",
+  "updatedAt": "2026-11-18T19:00:09.864+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.1,
-    "feelsLikeC": 9.1,
+    "tempC": 11.9,
+    "feelsLikeC": 8.9,
     "humidity": 60,
     "windKph": 11.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T18:50:07.985+08:00",
+    "observedAt": "2026-11-18T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T19:00:09.864+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）新鸿基地产郭基煇：把握APEC机遇 港深同心双向赋能",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734248.shtml",
-        "publishedAt": "2026-11-18T18:38:58.000+08:00"
+        "title": "阿联酋方面称一船只在霍尔木兹海峡遇袭 致11人伤、1人失踪",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734268.shtml",
+        "publishedAt": "2026-11-18T18:53:56.000+08:00"
       },
       {
-        "title": "广西基层卫生发展条例草案一审 立法守护家门口健康",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734259.shtml",
-        "publishedAt": "2026-11-18T18:33:29.000+08:00"
+        "title": "委员“站家”架起连心桥 江西九江推动政协协商向基层延伸",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734260.shtml",
+        "publishedAt": "2026-11-18T18:53:24.000+08:00"
       },
       {
-        "title": "浙江举办近年海域规模最大海上综合应急演习",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734257.shtml",
-        "publishedAt": "2026-11-18T18:32:11.000+08:00"
+        "title": "广西首票NCD可转让货物单证进境业务在友谊关口岸落地",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734258.shtml",
+        "publishedAt": "2026-11-18T18:51:32.000+08:00"
       },
       {
-        "title": "中国水产方案亮相横琴 200余家企业搭台对接全球买家",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734250.shtml",
-        "publishedAt": "2026-11-18T18:30:29.000+08:00"
+        "title": "（深圳APEC）习近平迎接美国总统特朗普",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734266.shtml",
+        "publishedAt": "2026-11-18T18:50:44.000+08:00"
       },
       {
-        "title": "日本连续第6个月出现贸易逆差",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734252.shtml",
-        "publishedAt": "2026-11-18T18:28:39.000+08:00"
+        "title": "山西文旅“十五五”规划：从观光打卡到全域全龄全季游",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734269.shtml",
+        "publishedAt": "2026-11-18T18:49:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T18:50:02.904+08:00",
+    "fetchedAt": "2026-11-18T19:00:02.886+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T18:50:06.697+08:00",
+      "fetchedAt": "2026-11-18T19:00:08.481+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T18:50:06.989+08:00",
+      "fetchedAt": "2026-11-18T19:00:08.634+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T18:50:06.998+08:00",
+      "fetchedAt": "2026-11-18T19:00:08.639+08:00",
       "error": null
     }
   }
