@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T07:10:08.784+08:00",
+  "updatedAt": "2026-11-19T07:20:08.858+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 5.1,
-    "feelsLikeC": 2.1,
-    "humidity": 76,
-    "windKph": 7,
+    "tempC": 5.5,
+    "feelsLikeC": 2.5,
+    "humidity": 74,
+    "windKph": 6.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T07:10:08.785+08:00",
+    "observedAt": "2026-11-19T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T07:20:08.859+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我国成功发射实践二十四号卫星",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734441.shtml",
+        "publishedAt": "2026-11-19T07:13:43.000+08:00"
+      },
+      {
+        "title": "以军发表声明：在加沙地带打死两名哈马斯指挥官",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734440.shtml",
+        "publishedAt": "2026-11-19T07:07:33.000+08:00"
+      },
       {
         "title": "美国民主党提名杰弗里斯为众议院议长",
         "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734439.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "马来西亚总理和23家中国知名企业代表对话：展望新能源等多领域合作机遇",
         "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734437.shtml",
         "publishedAt": "2026-11-19T06:38:09.000+08:00"
-      },
-      {
-        "title": "以军称在加沙地带“黄线”以西开展地道拆除行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734436.shtml",
-        "publishedAt": "2026-11-19T06:05:13.000+08:00"
-      },
-      {
-        "title": "首次运投成功！国产“空中重卡”来了",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734435.shtml",
-        "publishedAt": "2026-11-19T06:05:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T07:10:02.729+08:00",
+    "fetchedAt": "2026-11-19T07:20:03.657+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T07:10:06.583+08:00",
+      "fetchedAt": "2026-11-19T07:20:07.564+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T12:10:08.000+08:00"
+          "resetAt": "2026-11-19T12:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T07:10:06.784+08:00",
+      "fetchedAt": "2026-11-19T07:20:07.781+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-19T07:10:06.789+08:00",
+      "fetchedAt": "2026-11-19T07:20:07.790+08:00",
       "error": null
     }
   }
