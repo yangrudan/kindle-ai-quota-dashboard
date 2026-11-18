@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T20:00:38.430+08:00",
+  "updatedAt": "2026-11-18T20:10:09.456+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T20:00:38.430+08:00",
+    "fetchedAt": "2026-11-18T20:10:09.456+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖南新田农闲资源“再上岗” 富硒木耳种植拓宽农户增收路",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734315.shtml",
-        "publishedAt": "2026-11-18T19:58:24.000+08:00"
+        "title": "甘南青少年中国科学技术馆研学",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734320.shtml",
+        "publishedAt": "2026-11-18T20:06:48.000+08:00"
       },
       {
-        "title": "今年以来中缅边境勐啊口岸出入境人员突破150万人次",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734316.shtml",
-        "publishedAt": "2026-11-18T19:56:12.000+08:00"
+        "title": "福建首个中小学秋假开启 文博研学成“课堂”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734321.shtml",
+        "publishedAt": "2026-11-18T20:06:32.000+08:00"
       },
       {
-        "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734305.shtml",
-        "publishedAt": "2026-11-18T19:48:23.000+08:00"
+        "title": "美国友人柏立美的取景框：世纪影像里藏着的高原古城",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734317.shtml",
+        "publishedAt": "2026-11-18T20:04:50.000+08:00"
       },
       {
-        "title": "赵乐际在云南调研时强调 深入学习贯彻党的二十届五中全会精神 提高人大党建和工作质量",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734302.shtml",
-        "publishedAt": "2026-11-18T19:47:45.000+08:00"
+        "title": "河南方城2100岁银杏树吸引游客",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734319.shtml",
+        "publishedAt": "2026-11-18T20:02:34.000+08:00"
       },
       {
-        "title": "海南博鳌：百年侨村 沙美如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734307.shtml",
-        "publishedAt": "2026-11-18T19:47:37.000+08:00"
+        "title": "中国银行原副行长林景臻一审获刑13年",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734299.shtml",
+        "publishedAt": "2026-11-18T20:01:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T20:00:02.916+08:00",
+    "fetchedAt": "2026-11-18T20:10:02.451+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T20:00:37.062+08:00",
+      "fetchedAt": "2026-11-18T20:10:07.855+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T20:00:37.363+08:00",
+      "fetchedAt": "2026-11-18T20:10:08.257+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T20:00:37.366+08:00",
+      "fetchedAt": "2026-11-18T20:10:08.267+08:00",
       "error": null
     }
   }
