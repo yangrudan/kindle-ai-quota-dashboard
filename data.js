@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T09:20:10.784+08:00",
+  "updatedAt": "2026-11-18T09:30:10.320+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.2,
-    "feelsLikeC": 10.3,
-    "humidity": 88,
-    "windKph": 13.7,
+    "tempC": 12.7,
+    "feelsLikeC": 10.6,
+    "humidity": 84,
+    "windKph": 14.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T09:20:10.785+08:00",
+    "observedAt": "2026-11-18T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T09:30:10.320+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "青少年健康用网公益行动走进河南 守护青少年上网边界",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733871.shtml",
+        "publishedAt": "2026-11-18T09:25:46.000+08:00"
+      },
+      {
+        "title": "汤泉馆直播引流，质疑者被拉黑……律师称涉嫌侵权",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-18/10733875.shtml",
+        "publishedAt": "2026-11-18T09:25:42.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）俄罗斯总统普京抵达深圳",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211063.shtml",
+        "publishedAt": "2026-11-18T09:22:00.000+08:00"
+      },
+      {
+        "title": "毒性极强！只吃一口，呼吸困难送医急救……",
+        "url": "https://www.chinanews.com.cn/life/2026/11-18/10733869.shtml",
+        "publishedAt": "2026-11-18T09:17:45.000+08:00"
+      },
+      {
         "title": "寒潮南下！中东部雨雪缩减 气温将自北向南陆续下跌",
         "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733862.shtml",
         "publishedAt": "2026-11-18T09:11:19.000+08:00"
-      },
-      {
-        "title": "【这个城市有点潮】深圳：“鹏城”万里 APEC“圳”当时",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211044.shtml",
-        "publishedAt": "2026-11-18T09:05:48.000+08:00"
-      },
-      {
-        "title": "人这一辈子，一定要去一趟中国“APEC第三城”！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733859.shtml",
-        "publishedAt": "2026-11-18T08:59:38.000+08:00"
-      },
-      {
-        "title": "今年前10个月 我国共批准发布1028项国家标准物质",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733857.shtml",
-        "publishedAt": "2026-11-18T08:57:56.000+08:00"
-      },
-      {
-        "title": "永春纸织画：经纬交织 朦胧入画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10733856.shtml",
-        "publishedAt": "2026-11-18T08:54:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T09:20:02.837+08:00",
+    "fetchedAt": "2026-11-18T09:30:03.373+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T09:20:07.322+08:00",
+      "fetchedAt": "2026-11-18T09:30:08.807+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 19,
+          "usedPct": 21,
           "resetAt": "2026-11-18T11:52:18.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T09:20:07.600+08:00",
+      "fetchedAt": "2026-11-18T09:30:09.062+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T09:20:07.608+08:00",
+      "fetchedAt": "2026-11-18T09:30:09.067+08:00",
       "error": null
     }
   }
