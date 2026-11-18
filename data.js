@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T14:10:08.637+08:00",
+  "updatedAt": "2026-11-18T14:20:09.726+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.8,
-    "feelsLikeC": 11.2,
-    "humidity": 60,
-    "windKph": 19.4,
+    "tempC": 14.7,
+    "feelsLikeC": 11,
+    "humidity": 59,
+    "windKph": 19.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T14:10:08.637+08:00",
+    "observedAt": "2026-11-18T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-18T14:20:09.726+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "全国人大常委会副委员长肖捷率团访问埃及",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734061.shtml",
+        "publishedAt": "2026-11-18T14:14:35.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）2026年亚太经合组织工商领导人峰会开幕式在深圳举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211086.shtml",
+        "publishedAt": "2026-11-18T14:08:35.000+08:00"
+      },
+      {
+        "title": "【和合共生】习言道｜亚太工商界是全球经济的弄潮儿",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734004.shtml",
+        "publishedAt": "2026-11-18T14:06:31.000+08:00"
+      },
+      {
+        "title": "中新健康｜CAR-T进医保、预申报提速：2026年国家医保目录调整释放哪些信号？",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-18/10734012.shtml",
+        "publishedAt": "2026-11-18T14:05:43.000+08:00"
+      },
+      {
         "title": "从田间到车间 山西闻喜“一根粉条”串起富民产业链",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734016.shtml",
-        "publishedAt": "2026-11-18T14:04:25.000+08:00"
-      },
-      {
-        "title": "超强厄尔尼诺事件背景下 “中原粮仓”河南小麦如何“闯关”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734018.shtml",
-        "publishedAt": "2026-11-18T14:03:55.000+08:00"
-      },
-      {
-        "title": "北京大兴机场2026年旅客吞吐量突破5000万人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734020.shtml",
-        "publishedAt": "2026-11-18T14:03:47.000+08:00"
-      },
-      {
-        "title": "戈壁滩上“晋”行曲 ——一位山西援疆干部与北塔山牧场的600多天",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734015.shtml",
-        "publishedAt": "2026-11-18T14:03:25.000+08:00"
-      },
-      {
-        "title": "中新健康 | 国家药监局通报27批次药品不符合规定，涉及北京同仁堂等17家企业",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-18/10734022.shtml",
-        "publishedAt": "2026-11-18T14:02:39.000+08:00"
+        "publishedAt": "2026-11-18T14:05:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T14:10:02.770+08:00",
+    "fetchedAt": "2026-11-18T14:20:03.237+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T14:10:07.168+08:00",
+      "fetchedAt": "2026-11-18T14:20:08.448+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 32,
+          "usedPct": 36,
           "resetAt": "2026-11-18T16:58:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T14:10:07.596+08:00",
+      "fetchedAt": "2026-11-18T14:20:08.730+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T14:10:07.601+08:00",
+      "fetchedAt": "2026-11-18T14:20:08.733+08:00",
       "error": null
     }
   }
