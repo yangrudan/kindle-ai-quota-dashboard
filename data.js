@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T20:50:08.282+08:00",
+  "updatedAt": "2026-11-18T21:00:09.059+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.2,
-    "feelsLikeC": 7.1,
+    "tempC": 9.9,
+    "feelsLikeC": 6.7,
     "humidity": 62,
     "windKph": 10.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T20:50:08.282+08:00",
+    "observedAt": "2026-11-18T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T21:00:09.059+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "新型电网，新在哪？（产经视野·聚焦“六张网”）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734355.shtml",
+        "publishedAt": "2026-11-18T20:53:47.000+08:00"
+      },
+      {
+        "title": "和合共生｜APEC观察：亚太自贸区愿景如何落实为共同行动",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734350.shtml",
+        "publishedAt": "2026-11-18T20:51:45.000+08:00"
+      },
+      {
+        "title": "北京天气晴好 游客登景山俯瞰京城",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211136.shtml",
+        "publishedAt": "2026-11-18T20:48:59.000+08:00"
+      },
+      {
+        "title": "普京点赞深圳：最现代化、最具活力的大都市",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734344.shtml",
+        "publishedAt": "2026-11-18T20:46:21.000+08:00"
+      },
+      {
         "title": "从一张席到一方庭院：第九届教育影像展重读中国教育空间史",
         "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734318.shtml",
         "publishedAt": "2026-11-18T20:45:20.000+08:00"
-      },
-      {
-        "title": "湖南农业大学首批海外科技小院成立",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734295.shtml",
-        "publishedAt": "2026-11-18T20:43:40.000+08:00"
-      },
-      {
-        "title": "香港与越南签署有关避免及解决国际争议合作备忘录",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734294.shtml",
-        "publishedAt": "2026-11-18T20:41:12.000+08:00"
-      },
-      {
-        "title": "报告指香港千万富翁约41.2万人 女性占比53%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734292.shtml",
-        "publishedAt": "2026-11-18T20:40:18.000+08:00"
-      },
-      {
-        "title": "AI赋能+外商直采 浙江拱墅激活专业市场外贸新动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734311.shtml",
-        "publishedAt": "2026-11-18T20:39:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T20:50:02.910+08:00",
+    "fetchedAt": "2026-11-18T21:00:02.681+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T20:50:07.427+08:00",
+      "fetchedAt": "2026-11-18T21:00:07.505+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T20:50:07.312+08:00",
+      "fetchedAt": "2026-11-18T21:00:07.760+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T20:50:07.322+08:00",
+      "fetchedAt": "2026-11-18T21:00:07.769+08:00",
       "error": null
     }
   }
