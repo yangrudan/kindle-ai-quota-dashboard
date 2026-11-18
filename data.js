@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T21:30:08.908+08:00",
+  "updatedAt": "2026-11-18T21:40:08.088+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T21:30:08.908+08:00",
+    "fetchedAt": "2026-11-18T21:40:08.089+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江苏网络代表人士“寻美”太湖之畔 解锁产业新质活力",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-18/10734362.shtml",
-        "publishedAt": "2026-11-18T21:25:31.000+08:00"
+        "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734385.shtml",
+        "publishedAt": "2026-11-18T21:36:23.000+08:00"
       },
       {
-        "title": "让学习成为一种生活方式 杭州构建全民终身学习服务体系",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734297.shtml",
-        "publishedAt": "2026-11-18T21:18:54.000+08:00"
+        "title": "交房即交证 黑龙江省首个自主更新原拆原建项目完成回搬交付",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734364.shtml",
+        "publishedAt": "2026-11-18T21:35:59.000+08:00"
       },
       {
-        "title": "第十五届杭州当代戏剧季开幕 《恋爱的犀牛》回归",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734369.shtml",
-        "publishedAt": "2026-11-18T21:18:20.000+08:00"
+        "title": "澳门师生探访南宁昆仑关战役旧址",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734378.shtml",
+        "publishedAt": "2026-11-18T21:35:05.000+08:00"
       },
       {
-        "title": "一戏牵两地 声腔寄忠魂：黄龙戏《刘德彪》跨省公演",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734306.shtml",
-        "publishedAt": "2026-11-18T21:17:34.000+08:00"
+        "title": "开局起步“十五五” 黑龙江今年重点建设10所高水平大学",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734349.shtml",
+        "publishedAt": "2026-11-18T21:34:51.000+08:00"
       },
       {
-        "title": "11月18日新闻夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-18/10734373.shtml",
-        "publishedAt": "2026-11-18T21:17:04.000+08:00"
+        "title": "云南两地地标品牌亮相上海 供应链重构破解区域农产品瓶颈",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734372.shtml",
+        "publishedAt": "2026-11-18T21:34:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T21:30:03.264+08:00",
+    "fetchedAt": "2026-11-18T21:40:03.051+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T21:30:07.471+08:00",
+      "fetchedAt": "2026-11-18T21:40:06.737+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T21:30:07.730+08:00",
+      "fetchedAt": "2026-11-18T21:40:07.020+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T21:30:07.739+08:00",
+      "fetchedAt": "2026-11-18T21:40:07.029+08:00",
       "error": null
     }
   }
