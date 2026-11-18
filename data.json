@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T22:20:08.221+08:00",
+  "updatedAt": "2026-11-18T22:30:17.975+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T22:20:08.222+08:00",
+    "fetchedAt": "2026-11-18T22:30:17.975+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "马来西亚2026年第三季度GDP同比增长5.5%",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734414.shtml",
+        "publishedAt": "2026-11-18T22:23:46.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）俄罗斯总统普京到访深圳北理莫斯科大学",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734413.shtml",
+        "publishedAt": "2026-11-18T22:22:48.000+08:00"
+      },
+      {
+        "title": "河北南皮“王厂錾铜浮雕”技艺：一锤一錾传承运河文脉",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734406.shtml",
+        "publishedAt": "2026-11-18T22:19:18.000+08:00"
+      },
       {
         "title": "甘肃保安腰刀迎来“工厂模式”",
         "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734404.shtml",
@@ -28,24 +43,9 @@
         "title": "数智赋能 浙江云和木玩产业加速“闯”世界",
         "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734396.shtml",
         "publishedAt": "2026-11-18T22:13:55.000+08:00"
-      },
-      {
-        "title": "“第十一届书籍设计艺术展览”在广西桂林开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734394.shtml",
-        "publishedAt": "2026-11-18T22:11:49.000+08:00"
-      },
-      {
-        "title": "广西打造面向东盟开放的国际化法治化营商环境",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734401.shtml",
-        "publishedAt": "2026-11-18T22:09:53.000+08:00"
-      },
-      {
-        "title": "多名内地选手亮相香港羽毛球公开赛单打首轮赛事",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734392.shtml",
-        "publishedAt": "2026-11-18T22:09:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T22:20:02.872+08:00",
+    "fetchedAt": "2026-11-18T22:30:11.963+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T22:20:06.399+08:00",
+      "fetchedAt": "2026-11-18T22:30:16.414+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T22:20:06.792+08:00",
+      "fetchedAt": "2026-11-18T22:30:16.728+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T22:20:06.800+08:00",
+      "fetchedAt": "2026-11-18T22:30:16.734+08:00",
       "error": null
     }
   }
