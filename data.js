@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T10:50:10.870+08:00",
+  "updatedAt": "2026-11-18T11:00:08.381+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.6,
+    "tempC": 13.7,
     "feelsLikeC": 10.5,
-    "humidity": 72,
-    "windKph": 18.1,
+    "humidity": 69,
+    "windKph": 19,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T10:50:10.870+08:00",
+    "observedAt": "2026-11-18T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T11:00:08.381+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "三地青年齐聚天津 产学研银企联动赋能京津冀协同发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733915.shtml",
-        "publishedAt": "2026-11-18T10:43:38.000+08:00"
+        "title": "苹果、万豪等美国公司突发网络技术故障",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733908.shtml",
+        "publishedAt": "2026-11-18T10:53:42.000+08:00"
       },
       {
-        "title": "聚焦APEC｜澳大利亚总理阿尔巴尼斯抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733933.shtml",
-        "publishedAt": "2026-11-18T10:41:06.000+08:00"
+        "title": "国台办批陆委会恐吓台商",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733939.shtml",
+        "publishedAt": "2026-11-18T10:53:20.000+08:00"
       },
       {
-        "title": "在海南侨乡文昌，听一座祖居的历史回响",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733914.shtml",
-        "publishedAt": "2026-11-18T10:40:52.000+08:00"
+        "title": "岛内人士提议两岸2032年统一货币，国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733938.shtml",
+        "publishedAt": "2026-11-18T10:51:20.000+08:00"
       },
       {
-        "title": "2026越南青年来华“红色研学之旅”云南行昆明启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733902.shtml",
-        "publishedAt": "2026-11-18T10:39:27.000+08:00"
+        "title": "国台办引论语评罗大佑痛批民进党",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733937.shtml",
+        "publishedAt": "2026-11-18T10:50:04.000+08:00"
       },
       {
-        "title": "国台办评罗大佑近日批判民进党当局言论",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733931.shtml",
-        "publishedAt": "2026-11-18T10:38:23.000+08:00"
+        "title": "国台办回应台检调部门起诉高金素梅",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733936.shtml",
+        "publishedAt": "2026-11-18T10:48:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T10:50:03.068+08:00",
+    "fetchedAt": "2026-11-18T11:00:02.469+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T10:50:08.874+08:00",
+      "fetchedAt": "2026-11-18T11:00:07.048+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 77,
+          "usedPct": 78,
           "resetAt": "2026-11-18T11:52:18.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T10:50:09.101+08:00",
+      "fetchedAt": "2026-11-18T11:00:07.275+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T10:50:09.108+08:00",
+      "fetchedAt": "2026-11-18T11:00:07.280+08:00",
       "error": null
     }
   }
