@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T11:50:10.016+08:00",
+  "updatedAt": "2026-11-18T12:00:38.871+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.9,
-    "feelsLikeC": 11.1,
-    "humidity": 62,
-    "windKph": 22.1,
+    "tempC": 15.2,
+    "feelsLikeC": 11.2,
+    "humidity": 60,
+    "windKph": 22.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T11:50:10.017+08:00",
+    "observedAt": "2026-11-18T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T12:00:38.871+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“投资中国 对话山西”中法产业合作圆桌会议在太原举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733927.shtml",
-        "publishedAt": "2026-11-18T11:45:23.000+08:00"
+        "title": "大漠戈壁繁育作物良种 为寒旱农业注入“芯”动能",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733962.shtml",
+        "publishedAt": "2026-11-18T11:55:24.000+08:00"
       },
       {
-        "title": "云南抚仙湖发现川蜷属三新种 近30年“失踪”瘤川蜷同步重现",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10733926.shtml",
-        "publishedAt": "2026-11-18T11:44:13.000+08:00"
+        "title": "湖北神农架守护金丝猴平安越冬",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733961.shtml",
+        "publishedAt": "2026-11-18T11:54:34.000+08:00"
       },
       {
-        "title": "国台办：台湾岛内议统望统热度不断升高",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733977.shtml",
-        "publishedAt": "2026-11-18T11:43:09.000+08:00"
+        "title": "载重5吨全球最大、可从北京直飞新疆，两款“空中卡车”试飞成功",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733956.shtml",
+        "publishedAt": "2026-11-18T11:53:21.000+08:00"
       },
       {
-        "title": "古都大同擘画“十五五”文物新图景：从守好家底到全民共享",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10733923.shtml",
-        "publishedAt": "2026-11-18T11:43:01.000+08:00"
+        "title": "大连市上线统一战线特色宣传阵地电子地图",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-18/10733947.shtml",
+        "publishedAt": "2026-11-18T11:51:51.000+08:00"
       },
       {
-        "title": "数千海地居民声援萨尔瓦多部队打击黑帮",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733942.shtml",
-        "publishedAt": "2026-11-18T11:42:49.000+08:00"
+        "title": "云岭动态第四十三期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-18/10733946.shtml",
+        "publishedAt": "2026-11-18T11:50:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T11:50:02.619+08:00",
+    "fetchedAt": "2026-11-18T12:00:02.414+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T11:50:06.410+08:00",
+      "fetchedAt": "2026-11-18T12:00:35.814+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 87,
-          "resetAt": "2026-11-18T11:52:18.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-18T16:58:23.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T11:50:06.713+08:00",
+      "fetchedAt": "2026-11-18T12:00:36.003+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T11:50:06.719+08:00",
+      "fetchedAt": "2026-11-18T12:00:36.008+08:00",
       "error": null
     }
   }
