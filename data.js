@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T23:40:08.099+08:00",
+  "updatedAt": "2026-11-18T23:50:08.823+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.7,
-    "feelsLikeC": 4.5,
+    "tempC": 7.5,
+    "feelsLikeC": 4.3,
     "humidity": 67,
-    "windKph": 9.7,
+    "windKph": 9.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T23:40:08.100+08:00",
+    "observedAt": "2026-11-18T23:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T23:50:08.823+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211155.shtml",
+        "publishedAt": "2026-11-18T23:46:02.000+08:00"
+      },
       {
         "title": "英国10月通胀率升至一年来新高",
         "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734425.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“国常会上有人表态不会再频繁救市了”系谣言",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734213.shtml",
         "publishedAt": "2026-11-18T22:54:03.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）详讯：习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734415.shtml",
-        "publishedAt": "2026-11-18T22:42:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T23:40:02.519+08:00",
+    "fetchedAt": "2026-11-18T23:50:03.046+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T23:40:06.726+08:00",
+      "fetchedAt": "2026-11-18T23:50:07.199+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T04:40:08.000+08:00"
+          "resetAt": "2026-11-19T04:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T23:40:06.997+08:00",
+      "fetchedAt": "2026-11-18T23:50:07.481+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T23:40:07.005+08:00",
+      "fetchedAt": "2026-11-18T23:50:07.488+08:00",
       "error": null
     }
   }
