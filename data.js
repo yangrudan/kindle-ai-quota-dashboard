@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T00:00:08.923+08:00",
+  "updatedAt": "2026-11-19T00:10:08.663+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T00:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T00:00:08.924+08:00",
+    "fetchedAt": "2026-11-19T00:10:08.663+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国广西新发现直立人化石 将助力破解古人类演化关键谜题",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734432.shtml",
+        "publishedAt": "2026-11-19T00:07:40.000+08:00"
+      },
       {
         "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211155.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "到大学演讲、给车厘子“带货”、打卡家乡菜……各国领导人在深圳忙不停",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734423.shtml",
         "publishedAt": "2026-11-18T22:55:01.000+08:00"
-      },
-      {
-        "title": "“国常会上有人表态不会再频繁救市了”系谣言",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734213.shtml",
-        "publishedAt": "2026-11-18T22:54:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T00:00:02.769+08:00",
+    "fetchedAt": "2026-11-19T00:10:02.847+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T00:00:07.153+08:00",
+      "fetchedAt": "2026-11-19T00:10:07.228+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T05:00:08.000+08:00"
+          "resetAt": "2026-11-19T05:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T00:00:07.400+08:00",
+      "fetchedAt": "2026-11-19T00:10:07.423+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-19T00:00:07.405+08:00",
+      "fetchedAt": "2026-11-19T00:10:07.427+08:00",
       "error": null
     }
   }
