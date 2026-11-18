@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T13:20:07.725+08:00",
+  "updatedAt": "2026-11-18T13:30:08.594+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.5,
-    "feelsLikeC": 11.1,
-    "humidity": 63,
-    "windKph": 18.6,
+    "tempC": 14.6,
+    "feelsLikeC": 11.2,
+    "humidity": 62,
+    "windKph": 18.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T13:20:07.725+08:00",
+    "observedAt": "2026-11-18T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T13:30:08.594+08:00",
     "error": null
   },
   "news": {
@@ -20,9 +20,19 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "体育消费新观察：动起来，消费“跑”起来",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734008.shtml",
+        "publishedAt": "2026-11-18T13:19:44.000+08:00"
+      },
+      {
         "title": "一张收款码，如何让小店接住国际客流？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734000.shtml",
         "publishedAt": "2026-11-18T12:57:09.000+08:00"
+      },
+      {
+        "title": "海外华文媒体探访宋氏祖居：读懂来时路，凝聚侨界力量",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-18/news1075326.shtml",
+        "publishedAt": "2026-11-18T12:56:48.000+08:00"
       },
       {
         "title": "（深圳APEC）习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）习近平：“十五五”规划是中国面向全球工商界发出的合作邀约",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733985.shtml",
         "publishedAt": "2026-11-18T12:49:49.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）习近平：中方支持成立世界湾区经济合作联盟",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733983.shtml",
-        "publishedAt": "2026-11-18T12:49:29.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）习近平：坚定信心、勇毅前行 促进亚太共同繁荣",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733984.shtml",
-        "publishedAt": "2026-11-18T12:49:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T13:20:02.337+08:00",
+    "fetchedAt": "2026-11-18T13:30:03.007+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T13:20:06.010+08:00",
+      "fetchedAt": "2026-11-18T13:30:07.272+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 25,
+          "usedPct": 26,
           "resetAt": "2026-11-18T16:58:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T13:20:06.191+08:00",
+      "fetchedAt": "2026-11-18T13:30:07.556+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T13:20:06.204+08:00",
+      "fetchedAt": "2026-11-18T13:30:07.560+08:00",
       "error": null
     }
   }
