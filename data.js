@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T10:00:12.614+08:00",
+  "updatedAt": "2026-11-18T10:10:09.800+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T10:00:12.614+08:00",
+    "fetchedAt": "2026-11-18T10:10:09.800+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "台退休教师区桂芝怒批民进党当局现行课纲瓦解中国人伦理",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733866.shtml",
-        "publishedAt": "2026-11-18T09:52:37.000+08:00"
+        "title": "（深圳APEC）中欧基金国际CEO：冀APEC推进亚太自贸区建设和数字经济发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733872.shtml",
+        "publishedAt": "2026-11-18T09:59:33.000+08:00"
       },
       {
-        "title": "西藏体彩发布2025年度社会责任报告 筹集公益金3.69亿元",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-18/10733892.shtml",
-        "publishedAt": "2026-11-18T09:51:59.000+08:00"
+        "title": "11月18日央行开展7002亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733885.shtml",
+        "publishedAt": "2026-11-18T09:55:05.000+08:00"
       },
       {
-        "title": "（深圳APEC）文莱苏丹哈桑纳尔抵达深圳",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211066.shtml",
-        "publishedAt": "2026-11-18T09:45:53.000+08:00"
+        "title": "11月18日人民币对美元中间价报6.7118 上调14个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733879.shtml",
+        "publishedAt": "2026-11-18T09:54:55.000+08:00"
       },
       {
-        "title": "兰合铁路全线铺轨正式启动 预计2027年底通车",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733887.shtml",
-        "publishedAt": "2026-11-18T09:45:31.000+08:00"
+        "title": "中使馆提醒在尼日利亚中国公民加强安全防范",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733864.shtml",
+        "publishedAt": "2026-11-18T09:54:47.000+08:00"
       },
       {
-        "title": "AI代言不是法外之地，AI广告该怎么做？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733883.shtml",
-        "publishedAt": "2026-11-18T09:41:50.000+08:00"
+        "title": "中央气象台：强冷空气继续影响中东部地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733858.shtml",
+        "publishedAt": "2026-11-18T09:54:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T10:00:03.443+08:00",
+    "fetchedAt": "2026-11-18T10:10:03.374+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T10:00:10.732+08:00",
+      "fetchedAt": "2026-11-18T10:10:08.472+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 45,
+          "usedPct": 54,
           "resetAt": "2026-11-18T11:52:18.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 80,
+          "usedPct": 82,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T10:00:10.993+08:00",
+      "fetchedAt": "2026-11-18T10:10:08.723+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T10:00:11.005+08:00",
+      "fetchedAt": "2026-11-18T10:10:08.728+08:00",
       "error": null
     }
   }
