@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T22:30:17.975+08:00",
+  "updatedAt": "2026-11-18T22:40:07.869+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.5,
-    "feelsLikeC": 5.4,
+    "tempC": 8.3,
+    "feelsLikeC": 5.2,
     "humidity": 66,
-    "windKph": 9.2,
+    "windKph": 9.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T22:30:17.975+08:00",
+    "observedAt": "2026-11-18T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T22:40:07.870+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "马来西亚2026年第三季度GDP同比增长5.5%",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734414.shtml",
-        "publishedAt": "2026-11-18T22:23:46.000+08:00"
+        "title": "从“买卖全球”到共创共享 浙江诠释对外开放新内涵",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734418.shtml",
+        "publishedAt": "2026-11-18T22:32:40.000+08:00"
       },
       {
-        "title": "（深圳APEC）俄罗斯总统普京到访深圳北理莫斯科大学",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734413.shtml",
-        "publishedAt": "2026-11-18T22:22:48.000+08:00"
+        "title": "【和合共生】习言道丨为了建设亚太共同体，我们跨越山海走到一起",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734403.shtml",
+        "publishedAt": "2026-11-18T22:32:40.000+08:00"
       },
       {
-        "title": "河北南皮“王厂錾铜浮雕”技艺：一锤一錾传承运河文脉",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734406.shtml",
-        "publishedAt": "2026-11-18T22:19:18.000+08:00"
+        "title": "宋庆龄和平天使艺术团京昆表演团2026年戏曲晚会在北京上演",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734417.shtml",
+        "publishedAt": "2026-11-18T22:32:00.000+08:00"
       },
       {
-        "title": "甘肃保安腰刀迎来“工厂模式”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734404.shtml",
-        "publishedAt": "2026-11-18T22:16:13.000+08:00"
+        "title": "新华图讯丨习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734405.shtml",
+        "publishedAt": "2026-11-18T22:31:20.000+08:00"
       },
       {
-        "title": "数智赋能 浙江云和木玩产业加速“闯”世界",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734396.shtml",
-        "publishedAt": "2026-11-18T22:13:55.000+08:00"
+        "title": "（深圳APEC）中国向全球工商界发出合作“邀请函”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734388.shtml",
+        "publishedAt": "2026-11-18T22:30:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T22:30:11.963+08:00",
+    "fetchedAt": "2026-11-18T22:40:02.769+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T22:30:16.414+08:00",
+      "fetchedAt": "2026-11-18T22:40:06.529+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T22:30:16.728+08:00",
+      "fetchedAt": "2026-11-18T22:40:06.730+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T22:30:16.734+08:00",
+      "fetchedAt": "2026-11-18T22:40:06.739+08:00",
       "error": null
     }
   }
