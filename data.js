@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T14:40:07.909+08:00",
+  "updatedAt": "2026-11-18T14:50:08.731+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.6,
-    "feelsLikeC": 10.8,
-    "humidity": 59,
-    "windKph": 19.7,
+    "tempC": 14.4,
+    "feelsLikeC": 10.6,
+    "humidity": 58,
+    "windKph": 19.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T14:40:07.909+08:00",
+    "observedAt": "2026-11-18T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T14:50:08.731+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（深圳APEC）印度尼西亚总统普拉博沃抵达深圳",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211097.shtml",
+        "publishedAt": "2026-11-18T14:43:29.000+08:00"
+      },
+      {
+        "title": "两岸共同市场、统一货币等主张 国台办表示“欢迎”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734059.shtml",
+        "publishedAt": "2026-11-18T14:43:15.000+08:00"
+      },
+      {
+        "title": "采油井旁的“大国工匠”刘丽：33载匠心，让石油红薪火相传",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734058.shtml",
+        "publishedAt": "2026-11-18T14:40:53.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）保护好候鸟的“五星级驿站”，深圳做对了什么？",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734065.shtml",
+        "publishedAt": "2026-11-18T14:37:48.000+08:00"
+      },
+      {
         "title": "赏秋“小长假”撬动亲子游大需求",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734067.shtml",
         "publishedAt": "2026-11-18T14:28:04.000+08:00"
-      },
-      {
-        "title": "贵州省纪念红军长征胜利90周年网络主题宣传活动在遵义举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734057.shtml",
-        "publishedAt": "2026-11-18T14:26:04.000+08:00"
-      },
-      {
-        "title": "新疆兵团：多元种养模式释放土地新价值",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734046.shtml",
-        "publishedAt": "2026-11-18T14:25:04.000+08:00"
-      },
-      {
-        "title": "上海跨国公司地区总部和外资研发中心累计分别达1124家和680家",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734055.shtml",
-        "publishedAt": "2026-11-18T14:24:40.000+08:00"
-      },
-      {
-        "title": "物流流量转为产业增量 西部陆海新通道拓宽产供链协同",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734056.shtml",
-        "publishedAt": "2026-11-18T14:21:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T14:40:02.365+08:00",
+    "fetchedAt": "2026-11-18T14:50:02.645+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T14:40:06.453+08:00",
+      "fetchedAt": "2026-11-18T14:50:07.155+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 47,
+          "usedPct": 54,
           "resetAt": "2026-11-18T16:58:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 94,
+          "usedPct": 95,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T14:40:06.822+08:00",
+      "fetchedAt": "2026-11-18T14:50:07.473+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T14:40:06.831+08:00",
+      "fetchedAt": "2026-11-18T14:50:07.483+08:00",
       "error": null
     }
   }
