@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T14:50:08.731+08:00",
+  "updatedAt": "2026-11-18T15:00:38.151+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.4,
-    "feelsLikeC": 10.6,
+    "tempC": 14.3,
+    "feelsLikeC": 10.4,
     "humidity": 58,
-    "windKph": 19.9,
+    "windKph": 19.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T14:50:08.731+08:00",
+    "observedAt": "2026-11-18T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T15:00:38.151+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）印度尼西亚总统普拉博沃抵达深圳",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211097.shtml",
-        "publishedAt": "2026-11-18T14:43:29.000+08:00"
+        "title": "探访厦门金砖出海综合服务港：打通企业出海“最后一公里”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734064.shtml",
+        "publishedAt": "2026-11-18T14:53:01.000+08:00"
       },
       {
-        "title": "两岸共同市场、统一货币等主张 国台办表示“欢迎”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734059.shtml",
-        "publishedAt": "2026-11-18T14:43:15.000+08:00"
+        "title": "湖北武汉：红枫层林尽染吸引民众游玩",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734079.shtml",
+        "publishedAt": "2026-11-18T14:49:11.000+08:00"
       },
       {
-        "title": "采油井旁的“大国工匠”刘丽：33载匠心，让石油红薪火相传",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734058.shtml",
-        "publishedAt": "2026-11-18T14:40:53.000+08:00"
+        "title": "哈尔滨迎降雪 文庙风景如画",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734072.shtml",
+        "publishedAt": "2026-11-18T14:48:23.000+08:00"
       },
       {
-        "title": "（深圳APEC）保护好候鸟的“五星级驿站”，深圳做对了什么？",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734065.shtml",
-        "publishedAt": "2026-11-18T14:37:48.000+08:00"
+        "title": "大理大学来华留学生用手机镜头讲述大理故事",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734047.shtml",
+        "publishedAt": "2026-11-18T14:47:09.000+08:00"
       },
       {
-        "title": "赏秋“小长假”撬动亲子游大需求",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734067.shtml",
-        "publishedAt": "2026-11-18T14:28:04.000+08:00"
+        "title": "一张农田“云图” 解锁广西贺州平桂良田管护新模式",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734045.shtml",
+        "publishedAt": "2026-11-18T14:45:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T14:50:02.645+08:00",
+    "fetchedAt": "2026-11-18T15:00:02.614+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T14:50:07.155+08:00",
+      "fetchedAt": "2026-11-18T15:00:36.733+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T14:50:07.473+08:00",
+      "fetchedAt": "2026-11-18T15:00:37.005+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T14:50:07.483+08:00",
+      "fetchedAt": "2026-11-18T15:00:37.015+08:00",
       "error": null
     }
   }
