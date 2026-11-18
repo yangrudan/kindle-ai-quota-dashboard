@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T11:00:08.381+08:00",
+  "updatedAt": "2026-11-18T11:10:12.001+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T11:00:08.381+08:00",
+    "fetchedAt": "2026-11-18T11:10:12.001+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "舞剧《胡笳十八拍》2026全国巡演在鄂尔多斯收官",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10733944.shtml",
+        "publishedAt": "2026-11-18T11:04:41.000+08:00"
+      },
+      {
+        "title": "多国工商界人士：期待APEC各经济体加强合作 创造繁荣",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733945.shtml",
+        "publishedAt": "2026-11-18T11:03:17.000+08:00"
+      },
+      {
+        "title": "中国驻克赖斯特彻奇总领馆提醒中国公民防范地震灾害，注意出行安全",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733890.shtml",
+        "publishedAt": "2026-11-18T10:57:28.000+08:00"
+      },
+      {
+        "title": "孙中山后人痛心岛内不学中国历史 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733940.shtml",
+        "publishedAt": "2026-11-18T10:56:28.000+08:00"
+      },
+      {
         "title": "苹果、万豪等美国公司突发网络技术故障",
         "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733908.shtml",
         "publishedAt": "2026-11-18T10:53:42.000+08:00"
-      },
-      {
-        "title": "国台办批陆委会恐吓台商",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733939.shtml",
-        "publishedAt": "2026-11-18T10:53:20.000+08:00"
-      },
-      {
-        "title": "岛内人士提议两岸2032年统一货币，国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733938.shtml",
-        "publishedAt": "2026-11-18T10:51:20.000+08:00"
-      },
-      {
-        "title": "国台办引论语评罗大佑痛批民进党",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733937.shtml",
-        "publishedAt": "2026-11-18T10:50:04.000+08:00"
-      },
-      {
-        "title": "国台办回应台检调部门起诉高金素梅",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733936.shtml",
-        "publishedAt": "2026-11-18T10:48:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T11:00:02.469+08:00",
+    "fetchedAt": "2026-11-18T11:10:03.481+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T11:00:07.048+08:00",
+      "fetchedAt": "2026-11-18T11:10:10.439+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 78,
+          "usedPct": 80,
           "resetAt": "2026-11-18T11:52:18.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 85,
+          "usedPct": 86,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T11:00:07.275+08:00",
+      "fetchedAt": "2026-11-18T11:10:10.692+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T11:00:07.280+08:00",
+      "fetchedAt": "2026-11-18T11:10:10.704+08:00",
       "error": null
     }
   }
