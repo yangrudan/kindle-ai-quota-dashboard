@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T22:50:09.082+08:00",
+  "updatedAt": "2026-11-18T23:00:08.926+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.2,
-    "feelsLikeC": 5,
+    "tempC": 8,
+    "feelsLikeC": 4.8,
     "humidity": 66,
-    "windKph": 9.9,
+    "windKph": 10,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T22:50:09.083+08:00",
+    "observedAt": "2026-11-18T23:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T23:00:08.926+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“国常会上有人表态不会再频繁救市了”系谣言",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734213.shtml",
+        "publishedAt": "2026-11-18T22:54:03.000+08:00"
+      },
       {
         "title": "（深圳APEC）详讯：习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734415.shtml",
@@ -38,14 +43,9 @@
         "title": "习近平：看五十年的中国就来深圳",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734411.shtml",
         "publishedAt": "2026-11-18T22:33:20.000+08:00"
-      },
-      {
-        "title": "从“买卖全球”到共创共享 浙江诠释对外开放新内涵",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734418.shtml",
-        "publishedAt": "2026-11-18T22:32:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T22:50:02.664+08:00",
+    "fetchedAt": "2026-11-18T23:00:03.127+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T22:50:07.566+08:00",
+      "fetchedAt": "2026-11-18T23:00:07.513+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T22:52:56.000+08:00"
+          "resetAt": "2026-11-19T04:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T22:50:07.845+08:00",
+      "fetchedAt": "2026-11-18T23:00:07.674+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T22:50:07.853+08:00",
+      "fetchedAt": "2026-11-18T23:00:07.683+08:00",
       "error": null
     }
   }
