@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T17:40:08.668+08:00",
+  "updatedAt": "2026-11-18T17:50:37.574+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.9,
-    "feelsLikeC": 9.8,
+    "tempC": 12.7,
+    "feelsLikeC": 9.5,
     "humidity": 59,
-    "windKph": 13.1,
+    "windKph": 12.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T17:40:08.668+08:00",
+    "observedAt": "2026-11-18T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T17:50:37.574+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026四川平台经济产业链合作伙伴大会：搭建多方协作共商发展平台",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734212.shtml",
+        "publishedAt": "2026-11-18T17:41:40.000+08:00"
+      },
+      {
+        "title": "“有路中文”平台上线 探索数字技术与国际中文教育融合新路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734222.shtml",
+        "publishedAt": "2026-11-18T17:40:08.000+08:00"
+      },
+      {
+        "title": "巩金龙任北京化工大学校长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734228.shtml",
+        "publishedAt": "2026-11-18T17:39:50.000+08:00"
+      },
       {
         "title": "重庆梁平将高水平建设“新和富美”特色城市",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734217.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中俄美会晤影响涉及台湾？国台办强调台湾问题纯属中国内政",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734210.shtml",
         "publishedAt": "2026-11-18T17:33:30.000+08:00"
-      },
-      {
-        "title": "习近平会见俄罗斯总统普京",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211127.shtml",
-        "publishedAt": "2026-11-18T17:16:25.000+08:00"
-      },
-      {
-        "title": "辟谣丨网传铁岭尼尔科达板材致癌为不实信息",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734207.shtml",
-        "publishedAt": "2026-11-18T17:13:59.000+08:00"
-      },
-      {
-        "title": "习近平迎接美国总统特朗普",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734214.shtml",
-        "publishedAt": "2026-11-18T17:12:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T17:40:02.639+08:00",
+    "fetchedAt": "2026-11-18T17:50:02.451+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T17:40:07.206+08:00",
+      "fetchedAt": "2026-11-18T17:50:36.465+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T22:40:08.000+08:00"
+          "resetAt": "2026-11-18T22:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T17:40:07.432+08:00",
+      "fetchedAt": "2026-11-18T17:50:36.668+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T17:40:07.441+08:00",
+      "fetchedAt": "2026-11-18T17:50:36.678+08:00",
       "error": null
     }
   }
