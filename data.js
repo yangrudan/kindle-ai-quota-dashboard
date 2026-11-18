@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T17:50:37.574+08:00",
+  "updatedAt": "2026-11-18T18:00:38.103+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.7,
-    "feelsLikeC": 9.5,
+    "tempC": 12.4,
+    "feelsLikeC": 9.3,
     "humidity": 59,
-    "windKph": 12.7,
+    "windKph": 12.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T17:50:37.574+08:00",
+    "observedAt": "2026-11-18T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T18:00:38.103+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026四川平台经济产业链合作伙伴大会：搭建多方协作共商发展平台",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734212.shtml",
-        "publishedAt": "2026-11-18T17:41:40.000+08:00"
+        "title": "广西工业城市创新监管机制 推动“新三样”货物海运便利出口",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734224.shtml",
+        "publishedAt": "2026-11-18T17:58:39.000+08:00"
       },
       {
-        "title": "“有路中文”平台上线 探索数字技术与国际中文教育融合新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734222.shtml",
-        "publishedAt": "2026-11-18T17:40:08.000+08:00"
+        "title": "习近平迎接美国总统特朗普",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734239.shtml",
+        "publishedAt": "2026-11-18T17:58:35.000+08:00"
       },
       {
-        "title": "巩金龙任北京化工大学校长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734228.shtml",
-        "publishedAt": "2026-11-18T17:39:50.000+08:00"
+        "title": "（走进中国乡村）西藏措美县“爱心湖”古如拉错风光壮美引客来",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734232.shtml",
+        "publishedAt": "2026-11-18T17:57:23.000+08:00"
       },
       {
-        "title": "重庆梁平将高水平建设“新和富美”特色城市",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734217.shtml",
-        "publishedAt": "2026-11-18T17:35:52.000+08:00"
+        "title": "中国民营船企首次完成大型LNG船舶批量建造",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734230.shtml",
+        "publishedAt": "2026-11-18T17:54:01.000+08:00"
       },
       {
-        "title": "中俄美会晤影响涉及台湾？国台办强调台湾问题纯属中国内政",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734210.shtml",
-        "publishedAt": "2026-11-18T17:33:30.000+08:00"
+        "title": "货通山海 双向集散：2026武陵山（秀山）与东盟合作论坛举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734220.shtml",
+        "publishedAt": "2026-11-18T17:52:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T17:50:02.451+08:00",
+    "fetchedAt": "2026-11-18T18:00:03.489+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T17:50:36.465+08:00",
+      "fetchedAt": "2026-11-18T18:00:36.960+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T22:50:37.000+08:00"
+          "resetAt": "2026-11-18T22:52:56.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T17:50:36.668+08:00",
+      "fetchedAt": "2026-11-18T18:00:37.191+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T17:50:36.678+08:00",
+      "fetchedAt": "2026-11-18T18:00:37.201+08:00",
       "error": null
     }
   }
