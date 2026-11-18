@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T10:40:42.904+08:00",
+  "updatedAt": "2026-11-18T10:50:10.870+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 13.6,
-    "feelsLikeC": 10.7,
-    "humidity": 73,
-    "windKph": 17.3,
+    "feelsLikeC": 10.5,
+    "humidity": 72,
+    "windKph": 18.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-18T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T10:40:42.904+08:00",
+    "observedAt": "2026-11-18T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T10:50:10.870+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西田林：山脊上风机吊装忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10733873.shtml",
-        "publishedAt": "2026-11-18T10:25:53.000+08:00"
+        "title": "三地青年齐聚天津 产学研银企联动赋能京津冀协同发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733915.shtml",
+        "publishedAt": "2026-11-18T10:43:38.000+08:00"
       },
       {
-        "title": "广西三江：花映楼桥景如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10733877.shtml",
-        "publishedAt": "2026-11-18T10:24:55.000+08:00"
+        "title": "聚焦APEC｜澳大利亚总理阿尔巴尼斯抵达深圳",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733933.shtml",
+        "publishedAt": "2026-11-18T10:41:06.000+08:00"
       },
       {
-        "title": "聚焦共同发展新机遇 一起看各国媒体对APEC的期待",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733921.shtml",
-        "publishedAt": "2026-11-18T10:23:59.000+08:00"
+        "title": "在海南侨乡文昌，听一座祖居的历史回响",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733914.shtml",
+        "publishedAt": "2026-11-18T10:40:52.000+08:00"
       },
       {
-        "title": "二手房交易活跃带动市场趋稳",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733916.shtml",
-        "publishedAt": "2026-11-18T10:22:53.000+08:00"
+        "title": "2026越南青年来华“红色研学之旅”云南行昆明启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733902.shtml",
+        "publishedAt": "2026-11-18T10:39:27.000+08:00"
       },
       {
-        "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733907.shtml",
-        "publishedAt": "2026-11-18T10:20:28.000+08:00"
+        "title": "国台办评罗大佑近日批判民进党当局言论",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733931.shtml",
+        "publishedAt": "2026-11-18T10:38:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T10:40:03.162+08:00",
+    "fetchedAt": "2026-11-18T10:50:03.068+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T10:40:38.086+08:00",
+      "fetchedAt": "2026-11-18T10:50:08.874+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 74,
+          "usedPct": 77,
           "resetAt": "2026-11-18T11:52:18.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T10:40:38.316+08:00",
+      "fetchedAt": "2026-11-18T10:50:09.101+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T10:40:38.321+08:00",
+      "fetchedAt": "2026-11-18T10:50:09.108+08:00",
       "error": null
     }
   }
