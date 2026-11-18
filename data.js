@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T09:30:10.320+08:00",
+  "updatedAt": "2026-11-18T09:40:13.309+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-18T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T09:30:10.320+08:00",
+    "fetchedAt": "2026-11-18T09:40:13.309+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "500元以下的羽绒服不要买？专家：价格能决定的只是配置高低",
+        "url": "https://www.chinanews.com.cn/life/2026/11-18/10733882.shtml",
+        "publishedAt": "2026-11-18T09:35:46.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）韩国总统李在明抵达深圳",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211064.shtml",
+        "publishedAt": "2026-11-18T09:33:14.000+08:00"
+      },
+      {
+        "title": "科威特军方称防空系统正拦截敌对无人机",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733861.shtml",
+        "publishedAt": "2026-11-18T09:27:54.000+08:00"
+      },
       {
         "title": "青少年健康用网公益行动走进河南 守护青少年上网边界",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733871.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "汤泉馆直播引流，质疑者被拉黑……律师称涉嫌侵权",
         "url": "https://www.chinanews.com.cn/fz/2026/11-18/10733875.shtml",
         "publishedAt": "2026-11-18T09:25:42.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）俄罗斯总统普京抵达深圳",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211063.shtml",
-        "publishedAt": "2026-11-18T09:22:00.000+08:00"
-      },
-      {
-        "title": "毒性极强！只吃一口，呼吸困难送医急救……",
-        "url": "https://www.chinanews.com.cn/life/2026/11-18/10733869.shtml",
-        "publishedAt": "2026-11-18T09:17:45.000+08:00"
-      },
-      {
-        "title": "寒潮南下！中东部雨雪缩减 气温将自北向南陆续下跌",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733862.shtml",
-        "publishedAt": "2026-11-18T09:11:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T09:30:03.373+08:00",
+    "fetchedAt": "2026-11-18T09:40:03.796+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T09:30:08.807+08:00",
+      "fetchedAt": "2026-11-18T09:40:10.677+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 25,
           "resetAt": "2026-11-18T11:52:18.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 76,
+          "usedPct": 77,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T09:30:09.062+08:00",
+      "fetchedAt": "2026-11-18T09:40:10.935+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-18T09:30:09.067+08:00",
+      "fetchedAt": "2026-11-18T09:40:10.942+08:00",
       "error": null
     }
   }
