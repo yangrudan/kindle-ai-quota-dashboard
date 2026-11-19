@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T22:10:38.118+08:00",
+  "updatedAt": "2026-11-19T22:20:38.840+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.9,
-    "feelsLikeC": 4.6,
-    "humidity": 49,
-    "windKph": 13.7,
+    "tempC": 8.8,
+    "feelsLikeC": 4.3,
+    "humidity": 48,
+    "windKph": 14.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T22:10:38.118+08:00",
+    "observedAt": "2026-11-19T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T22:20:38.841+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（近观中国）“鹏城”之会，习近平寄语亚太合作鹏程万里",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734949.shtml",
+        "publishedAt": "2026-11-19T22:09:14.000+08:00"
+      },
       {
         "title": "琼州海峡智能航运示范工程在海口启动",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734950.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "韩国前第一夫人金建希首案终审被判有期徒刑4年",
         "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734932.shtml",
         "publishedAt": "2026-11-19T21:54:49.000+08:00"
-      },
-      {
-        "title": "拼多多发布Q3财报，赵佳臻：坚持深耕“全产业链”，推动传统产业数智升级",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734947.shtml",
-        "publishedAt": "2026-11-19T21:54:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T22:10:02.702+08:00",
+    "fetchedAt": "2026-11-19T22:20:03.107+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T22:10:36.701+08:00",
+      "fetchedAt": "2026-11-19T22:20:37.545+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T03:10:38.000+08:00"
+          "resetAt": "2026-11-20T03:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T22:10:36.971+08:00",
+      "fetchedAt": "2026-11-19T22:20:37.870+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T22:10:36.978+08:00",
+      "fetchedAt": "2026-11-19T22:20:37.876+08:00",
       "error": null
     }
   }
