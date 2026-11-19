@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T17:40:09.231+08:00",
+  "updatedAt": "2026-11-19T17:50:38.328+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 10.8,
-    "feelsLikeC": 6.4,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 10.7,
+    "feelsLikeC": 6.2,
     "humidity": 47,
-    "windKph": 15.5,
+    "windKph": 16.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T17:40:09.231+08:00",
+    "observedAt": "2026-11-19T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-19T17:50:38.328+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从一槽铝水到一池微藻 邹平铝业构建绿色低碳闭环",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734753.shtml",
-        "publishedAt": "2026-11-19T17:29:46.000+08:00"
+        "title": "“游历于色彩与线条之间”特别企画展在东京中国文化中心举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734653.shtml",
+        "publishedAt": "2026-11-19T17:41:45.000+08:00"
       },
       {
-        "title": "（深圳APEC）深圳留下近十年最全APEC“全家福”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734752.shtml",
-        "publishedAt": "2026-11-19T17:28:48.000+08:00"
+        "title": "追忆乡村教师叶连平：“最后一口气我要在讲台上呼出去的”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734770.shtml",
+        "publishedAt": "2026-11-19T17:40:15.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平会见美国总统特朗普",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734739.shtml",
-        "publishedAt": "2026-11-19T17:27:46.000+08:00"
+        "title": "忘忧草“出海记”：一株中国黄花的世界叙事",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734758.shtml",
+        "publishedAt": "2026-11-19T17:37:17.000+08:00"
       },
       {
-        "title": "新华图讯｜习近平主持中俄美元首会晤",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734754.shtml",
-        "publishedAt": "2026-11-19T17:26:42.000+08:00"
+        "title": "新疆“画家村”：农民画家手绘乡村蝶变",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734761.shtml",
+        "publishedAt": "2026-11-19T17:35:57.000+08:00"
       },
       {
-        "title": "广东携超2万个岗位赴湘三校“精准揽才”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734759.shtml",
-        "publishedAt": "2026-11-19T17:25:24.000+08:00"
+        "title": "习近平会见美国总统特朗普",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211230.shtml",
+        "publishedAt": "2026-11-19T17:33:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T17:40:03.046+08:00",
+    "fetchedAt": "2026-11-19T17:50:03.072+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T17:40:07.338+08:00",
+      "fetchedAt": "2026-11-19T17:50:36.939+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T17:40:07.578+08:00",
+      "fetchedAt": "2026-11-19T17:50:37.270+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T17:40:07.587+08:00",
+      "fetchedAt": "2026-11-19T17:50:37.276+08:00",
       "error": null
     }
   }
