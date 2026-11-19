@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T16:20:09.615+08:00",
+  "updatedAt": "2026-11-19T16:30:39.941+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.8,
-    "feelsLikeC": 9,
-    "humidity": 43,
-    "windKph": 11.3,
+    "tempC": 12.2,
+    "feelsLikeC": 8.4,
+    "humidity": 44,
+    "windKph": 12.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T16:20:09.615+08:00",
+    "observedAt": "2026-11-19T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T16:30:39.941+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第七届长三角文博会开幕 聚焦文化消费新活力",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734678.shtml",
-        "publishedAt": "2026-11-19T16:05:08.000+08:00"
+        "title": "习近平会见美国总统特朗普",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734694.shtml",
+        "publishedAt": "2026-11-19T16:22:55.000+08:00"
       },
       {
-        "title": "东莞跨境电商出海再添新通道",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734680.shtml",
-        "publishedAt": "2026-11-19T16:04:22.000+08:00"
+        "title": "新西兰前总理希普利：中国光伏储能为全球能源转型提供关键支撑",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734697.shtml",
+        "publishedAt": "2026-11-19T16:22:09.000+08:00"
       },
       {
-        "title": "中国人民对外友好协会会长杨万明访问尼泊尔",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734681.shtml",
-        "publishedAt": "2026-11-19T16:02:50.000+08:00"
+        "title": "月面聚光烧砖、远程送电、开采水冰：中国新技术推动人类从“探月”迈向“驻月”",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/11-19/news1075459.shtml",
+        "publishedAt": "2026-11-19T16:14:44.000+08:00"
       },
       {
-        "title": "北京出台专项措施促特殊医学用途配方食品创新发展",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734677.shtml",
-        "publishedAt": "2026-11-19T15:59:48.000+08:00"
+        "title": "浙江安吉：缤纷冬日景美如画",
+        "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-19/news1075461.shtml",
+        "publishedAt": "2026-11-19T16:12:47.000+08:00"
       },
       {
-        "title": "从广州到东南亚：短剧爆红之旅",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734679.shtml",
-        "publishedAt": "2026-11-19T15:56:57.000+08:00"
+        "title": "暨南大学120周年华诞 校友师生共话“声教讫于四海”",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/11-19/news1075468.shtml",
+        "publishedAt": "2026-11-19T16:09:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T16:20:03.094+08:00",
+    "fetchedAt": "2026-11-19T16:30:03.408+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T16:20:07.754+08:00",
+      "fetchedAt": "2026-11-19T16:30:38.391+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T16:20:08.134+08:00",
+      "fetchedAt": "2026-11-19T16:30:38.665+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T16:20:08.139+08:00",
+      "fetchedAt": "2026-11-19T16:30:38.678+08:00",
       "error": null
     }
   }
