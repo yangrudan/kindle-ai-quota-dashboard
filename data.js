@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T11:10:37.567+08:00",
+  "updatedAt": "2026-11-19T11:20:08.325+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.8,
-    "feelsLikeC": 8.8,
+    "tempC": 12,
+    "feelsLikeC": 9.1,
     "humidity": 46,
     "windKph": 9.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T11:10:37.567+08:00",
+    "observedAt": "2026-11-19T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T11:20:08.325+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）深圳之约，美企缘何“用脚投票”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734545.shtml",
+        "publishedAt": "2026-11-19T11:16:38.000+08:00"
+      },
+      {
+        "title": "凝聚粤港澳台侨青年同心力量 江门市举办纪念孙中山先生诞辰160周年专题研讨会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734541.shtml",
+        "publishedAt": "2026-11-19T11:15:52.000+08:00"
+      },
+      {
+        "title": "杨秀梅：一株寒梅绽芳华?履职尽责写担当",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734543.shtml",
+        "publishedAt": "2026-11-19T11:15:24.000+08:00"
+      },
       {
         "title": "国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734531.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "多名中国公民在赞比亚因非法采金被捕，中使馆提醒",
         "url": "https://www.chinanews.com.cn/hr/2026/11-19/10734486.shtml",
         "publishedAt": "2026-11-19T11:03:46.000+08:00"
-      },
-      {
-        "title": "我国16座水库进行“三个大坝”建设试点",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734539.shtml",
-        "publishedAt": "2026-11-19T11:03:36.000+08:00"
-      },
-      {
-        "title": "短时免费、夜间封顶 上海停车迎来哪些新变化？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734537.shtml",
-        "publishedAt": "2026-11-19T11:01:05.000+08:00"
-      },
-      {
-        "title": "一个“稳”字谈何易！",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-19/10734534.shtml",
-        "publishedAt": "2026-11-19T10:58:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T11:10:03.177+08:00",
+    "fetchedAt": "2026-11-19T11:20:02.647+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T11:10:36.190+08:00",
+      "fetchedAt": "2026-11-19T11:20:07.132+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T16:10:37.000+08:00"
+          "resetAt": "2026-11-19T16:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T11:10:36.405+08:00",
+      "fetchedAt": "2026-11-19T11:20:07.377+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 24.35,
+      "balance": 22.76,
       "currency": "CNY",
-      "detail": "余额 ¥24.35",
-      "fetchedAt": "2026-11-19T11:10:36.408+08:00",
+      "detail": "余额 ¥22.76",
+      "fetchedAt": "2026-11-19T11:20:07.380+08:00",
       "error": null
     }
   }
