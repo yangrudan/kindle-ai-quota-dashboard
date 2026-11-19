@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T18:30:09.106+08:00",
+  "updatedAt": "2026-11-19T18:40:38.000+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T18:30:09.106+08:00",
+    "fetchedAt": "2026-11-19T18:40:38.001+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中国智造新坐标，海信视像入选领航级智能工厂培育名单",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734791.shtml",
+        "publishedAt": "2026-11-19T18:32:54.000+08:00"
+      },
+      {
+        "title": "聚力担当启新篇 浙江农工党书写参政为民新答卷",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734800.shtml",
+        "publishedAt": "2026-11-19T18:29:52.000+08:00"
+      },
+      {
+        "title": "课程上新！",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734769.shtml",
+        "publishedAt": "2026-11-19T18:28:26.000+08:00"
+      },
+      {
+        "title": "河南平顶山：汝瓷技艺援疆结硕果 以非遗匠心赋能豫疆文化交流",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734767.shtml",
+        "publishedAt": "2026-11-19T18:26:52.000+08:00"
+      },
+      {
         "title": "浙江景宁综合高中试点观察：一所山区县中的“第二次选择”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734777.shtml",
         "publishedAt": "2026-11-19T18:22:33.000+08:00"
-      },
-      {
-        "title": "扬州泰州冬春航季向“远”飞：春秋航空新增4条航线畅通长三角北翼",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734751.shtml",
-        "publishedAt": "2026-11-19T18:22:15.000+08:00"
-      },
-      {
-        "title": "马永生院士：绿色燃料正成为难减排领域深度脱碳的关键路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734741.shtml",
-        "publishedAt": "2026-11-19T18:21:15.000+08:00"
-      },
-      {
-        "title": "中法机构签署合作文件 构建“大晋祠文化景观”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734793.shtml",
-        "publishedAt": "2026-11-19T18:19:59.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）习近平就大国如何正确相处提出4点看法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734794.shtml",
-        "publishedAt": "2026-11-19T18:15:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T18:30:03.243+08:00",
+    "fetchedAt": "2026-11-19T18:40:02.928+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T18:30:07.432+08:00",
+      "fetchedAt": "2026-11-19T18:40:36.754+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T18:30:07.655+08:00",
+      "fetchedAt": "2026-11-19T18:40:37.051+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T18:30:07.658+08:00",
+      "fetchedAt": "2026-11-19T18:40:37.060+08:00",
       "error": null
     }
   }
