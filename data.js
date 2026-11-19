@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T22:00:08.447+08:00",
+  "updatedAt": "2026-11-19T22:10:38.118+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T22:00:08.447+08:00",
+    "fetchedAt": "2026-11-19T22:10:38.118+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新华视点｜一地一特色 看乡土大地的丰收与青绿",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734946.shtml",
-        "publishedAt": "2026-11-19T21:50:57.000+08:00"
+        "title": "琼州海峡智能航运示范工程在海口启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734950.shtml",
+        "publishedAt": "2026-11-19T22:01:25.000+08:00"
       },
       {
-        "title": "（深圳APEC）事关中国经济 外媒五大关切在深圳找到答案",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734942.shtml",
-        "publishedAt": "2026-11-19T21:50:45.000+08:00"
+        "title": "中国排球超级联赛：北京越野男排3比0胜福建福清男排",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211257.shtml",
+        "publishedAt": "2026-11-19T21:58:00.000+08:00"
       },
       {
-        "title": "从“国际手账”看深圳！三个现场读懂创新之城“待客之道”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734945.shtml",
-        "publishedAt": "2026-11-19T21:49:25.000+08:00"
+        "title": "国家广播电视总局举办电视剧《伟大的长征》创作座谈会",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734944.shtml",
+        "publishedAt": "2026-11-19T21:55:31.000+08:00"
       },
       {
-        "title": "香港举行亚洲知识产权营商论坛 首设“出海全球通”专区",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734941.shtml",
-        "publishedAt": "2026-11-19T21:48:02.000+08:00"
+        "title": "韩国前第一夫人金建希首案终审被判有期徒刑4年",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734932.shtml",
+        "publishedAt": "2026-11-19T21:54:49.000+08:00"
       },
       {
-        "title": "何以中国｜唐韵润古邑 诗脉续长安",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734943.shtml",
-        "publishedAt": "2026-11-19T21:47:14.000+08:00"
+        "title": "拼多多发布Q3财报，赵佳臻：坚持深耕“全产业链”，推动传统产业数智升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734947.shtml",
+        "publishedAt": "2026-11-19T21:54:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T22:00:02.570+08:00",
+    "fetchedAt": "2026-11-19T22:10:02.702+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T22:00:07.133+08:00",
+      "fetchedAt": "2026-11-19T22:10:36.701+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T03:00:08.000+08:00"
+          "resetAt": "2026-11-20T03:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T22:00:07.350+08:00",
+      "fetchedAt": "2026-11-19T22:10:36.971+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T22:00:07.358+08:00",
+      "fetchedAt": "2026-11-19T22:10:36.978+08:00",
       "error": null
     }
   }
