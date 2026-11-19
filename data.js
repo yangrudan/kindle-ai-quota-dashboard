@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T14:50:08.824+08:00",
+  "updatedAt": "2026-11-19T15:00:38.749+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 13.9,
     "feelsLikeC": 10.6,
     "humidity": 38,
-    "windKph": 7.9,
+    "windKph": 8.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-19T14:50:08.824+08:00",
+    "observedAt": "2026-11-19T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-19T15:00:38.749+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第八届中国—东盟法治论坛在重庆举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734623.shtml",
+        "publishedAt": "2026-11-19T14:51:50.000+08:00"
+      },
+      {
+        "title": "斯诺克德国大师赛资格赛：丁俊晖晋级正赛32强",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734622.shtml",
+        "publishedAt": "2026-11-19T14:50:36.000+08:00"
+      },
+      {
+        "title": "成都首发中亚JSQ捷达班列",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734621.shtml",
+        "publishedAt": "2026-11-19T14:48:48.000+08:00"
+      },
       {
         "title": "（深圳APEC）习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734613.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "陕西深入推进防震减灾综合治理 构建“空天地井”立体监测网络",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734615.shtml",
         "publishedAt": "2026-11-19T14:34:47.000+08:00"
-      },
-      {
-        "title": "第二十二届辽宁省摄影艺术展暨第十六届中国东北三省摄影艺术展辽宁巡展举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734616.shtml",
-        "publishedAt": "2026-11-19T14:33:09.000+08:00"
-      },
-      {
-        "title": "四川发力新型技术改造 前三季度技改投资增长14.2%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734617.shtml",
-        "publishedAt": "2026-11-19T14:32:19.000+08:00"
-      },
-      {
-        "title": "女子耳内“有虫爬” 竟是家中宠物惹的祸",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734619.shtml",
-        "publishedAt": "2026-11-19T14:30:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T14:50:02.748+08:00",
+    "fetchedAt": "2026-11-19T15:00:02.916+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T14:50:07.228+08:00",
+      "fetchedAt": "2026-11-19T15:00:37.620+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 16,
+          "usedPct": 18,
           "resetAt": "2026-11-19T19:03:29.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T14:50:07.528+08:00",
+      "fetchedAt": "2026-11-19T15:00:37.769+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T14:50:07.532+08:00",
+      "fetchedAt": "2026-11-19T15:00:37.778+08:00",
       "error": null
     }
   }
