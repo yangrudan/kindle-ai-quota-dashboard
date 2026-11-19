@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T16:40:38.526+08:00",
+  "updatedAt": "2026-11-19T16:50:08.758+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.2,
-    "feelsLikeC": 8.4,
-    "humidity": 44,
-    "windKph": 12.2,
+    "tempC": 11.7,
+    "feelsLikeC": 7.7,
+    "humidity": 46,
+    "windKph": 13,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T16:40:38.527+08:00",
+    "observedAt": "2026-11-19T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-19T16:50:08.759+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "驻华使节走进浙江舟山 探渔业可持续发展经验",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734706.shtml",
-        "publishedAt": "2026-11-19T16:31:35.000+08:00"
+        "title": "习近平：大国良性互动不是选择题，而是必答题",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734714.shtml",
+        "publishedAt": "2026-11-19T16:43:00.000+08:00"
       },
       {
-        "title": "中俄美元首会晤开始举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734704.shtml",
-        "publishedAt": "2026-11-19T16:27:49.000+08:00"
+        "title": "甘肃临夏回族自治州成立70周年庆祝大会举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734709.shtml",
+        "publishedAt": "2026-11-19T16:43:00.000+08:00"
       },
       {
-        "title": "深圳，一个有大故事的地方",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734700.shtml",
-        "publishedAt": "2026-11-19T16:27:21.000+08:00"
+        "title": "（深圳APEC）APEC工商领导人峰会参会嘉宾参访深圳前海“深港汇”双向总部基地",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211216.shtml",
+        "publishedAt": "2026-11-19T16:42:31.000+08:00"
       },
       {
-        "title": "第六届世界华文教育大会在海南召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734703.shtml",
-        "publishedAt": "2026-11-19T16:25:55.000+08:00"
+        "title": "习近平：大国和，则世界安；大国斗，则世界乱",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734712.shtml",
+        "publishedAt": "2026-11-19T16:41:10.000+08:00"
       },
       {
-        "title": "习近平会见美国总统特朗普",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734694.shtml",
-        "publishedAt": "2026-11-19T16:22:55.000+08:00"
+        "title": "“中国造”商品汽车出口专列累计开行突破1万列",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734698.shtml",
+        "publishedAt": "2026-11-19T16:40:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T16:40:03.255+08:00",
+    "fetchedAt": "2026-11-19T16:50:03.270+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T16:40:37.306+08:00",
+      "fetchedAt": "2026-11-19T16:50:07.169+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 78,
+          "usedPct": 81,
           "resetAt": "2026-11-19T20:19:11.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 13,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T16:40:37.510+08:00",
+      "fetchedAt": "2026-11-19T16:50:07.448+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T16:40:37.520+08:00",
+      "fetchedAt": "2026-11-19T16:50:07.455+08:00",
       "error": null
     }
   }
