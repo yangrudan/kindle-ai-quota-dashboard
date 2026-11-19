@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T19:20:08.607+08:00",
+  "updatedAt": "2026-11-19T19:30:38.524+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 9.7,
-    "feelsLikeC": 6.1,
-    "humidity": 51,
-    "windKph": 10.2,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 9.5,
+    "feelsLikeC": 6,
+    "humidity": 52,
+    "windKph": 9.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T19:20:08.607+08:00",
+    "observedAt": "2026-11-19T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T19:30:38.524+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河南三门峡：越冬天鹅吸引游客",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734838.shtml",
-        "publishedAt": "2026-11-19T19:16:08.000+08:00"
+        "title": "理响中国·讲好“中国式商量”故事｜百姓提案：民间“金点子”结出“金果子”",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-19/10734856.shtml",
+        "publishedAt": "2026-11-19T19:27:19.000+08:00"
       },
       {
-        "title": "巴基斯坦在反恐行动中打死22名恐怖分子",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734843.shtml",
-        "publishedAt": "2026-11-19T19:15:44.000+08:00"
+        "title": "好评中国丨秋假释放文旅活力，让“诗与远方”赋能成长",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734854.shtml",
+        "publishedAt": "2026-11-19T19:25:25.000+08:00"
       },
       {
-        "title": "从古埃及到罗马帝国：环地中海青铜艺术展亮相兰州",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734826.shtml",
-        "publishedAt": "2026-11-19T19:14:02.000+08:00"
+        "title": "“见龙在田”恐龙化石展在香港揭幕 34组国家一级重点保护化石亮相",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734848.shtml",
+        "publishedAt": "2026-11-19T19:25:03.000+08:00"
       },
       {
-        "title": "侨乡海南万宁：兴隆小镇侨味浓",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734824.shtml",
-        "publishedAt": "2026-11-19T19:06:26.000+08:00"
+        "title": "李希在广西调研时强调 深入学习贯彻党的二十届五中全会精神 在持之以恒推进全面从严治党中更好担当尽责",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734844.shtml",
+        "publishedAt": "2026-11-19T19:23:17.000+08:00"
       },
       {
-        "title": "冷空气补充影响广东 全省气温继续下降",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734817.shtml",
-        "publishedAt": "2026-11-19T19:05:44.000+08:00"
+        "title": "云南巴拉格宗：高原雪山美景引客来",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734840.shtml",
+        "publishedAt": "2026-11-19T19:17:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T19:20:02.568+08:00",
+    "fetchedAt": "2026-11-19T19:30:02.534+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T19:20:07.059+08:00",
+      "fetchedAt": "2026-11-19T19:30:36.745+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T19:20:07.327+08:00",
+      "fetchedAt": "2026-11-19T19:30:37.091+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T19:20:07.336+08:00",
+      "fetchedAt": "2026-11-19T19:30:37.094+08:00",
       "error": null
     }
   }
