@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T16:30:39.941+08:00",
+  "updatedAt": "2026-11-19T16:40:38.526+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-19T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T16:30:39.941+08:00",
+    "fetchedAt": "2026-11-19T16:40:38.527+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "驻华使节走进浙江舟山 探渔业可持续发展经验",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734706.shtml",
+        "publishedAt": "2026-11-19T16:31:35.000+08:00"
+      },
+      {
+        "title": "中俄美元首会晤开始举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734704.shtml",
+        "publishedAt": "2026-11-19T16:27:49.000+08:00"
+      },
+      {
+        "title": "深圳，一个有大故事的地方",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734700.shtml",
+        "publishedAt": "2026-11-19T16:27:21.000+08:00"
+      },
+      {
+        "title": "第六届世界华文教育大会在海南召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734703.shtml",
+        "publishedAt": "2026-11-19T16:25:55.000+08:00"
+      },
+      {
         "title": "习近平会见美国总统特朗普",
         "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734694.shtml",
         "publishedAt": "2026-11-19T16:22:55.000+08:00"
-      },
-      {
-        "title": "新西兰前总理希普利：中国光伏储能为全球能源转型提供关键支撑",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734697.shtml",
-        "publishedAt": "2026-11-19T16:22:09.000+08:00"
-      },
-      {
-        "title": "月面聚光烧砖、远程送电、开采水冰：中国新技术推动人类从“探月”迈向“驻月”",
-        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/11-19/news1075459.shtml",
-        "publishedAt": "2026-11-19T16:14:44.000+08:00"
-      },
-      {
-        "title": "浙江安吉：缤纷冬日景美如画",
-        "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-19/news1075461.shtml",
-        "publishedAt": "2026-11-19T16:12:47.000+08:00"
-      },
-      {
-        "title": "暨南大学120周年华诞 校友师生共话“声教讫于四海”",
-        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/11-19/news1075468.shtml",
-        "publishedAt": "2026-11-19T16:09:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T16:30:03.408+08:00",
+    "fetchedAt": "2026-11-19T16:40:03.255+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T16:30:38.391+08:00",
+      "fetchedAt": "2026-11-19T16:40:37.306+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T16:30:38.665+08:00",
+      "fetchedAt": "2026-11-19T16:40:37.510+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T16:30:38.678+08:00",
+      "fetchedAt": "2026-11-19T16:40:37.520+08:00",
       "error": null
     }
   }
