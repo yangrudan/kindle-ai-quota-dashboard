@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T13:40:08.642+08:00",
+  "updatedAt": "2026-11-19T13:50:38.098+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.6,
+    "tempC": 13.7,
     "feelsLikeC": 10.4,
-    "humidity": 40,
-    "windKph": 8.3,
+    "humidity": 39,
+    "windKph": 8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T13:40:08.643+08:00",
+    "observedAt": "2026-11-19T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-19T13:50:38.098+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "累计开行1万列！“中国造”商品车出口专列跑出加速度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734577.shtml",
+        "publishedAt": "2026-11-19T13:41:30.000+08:00"
+      },
+      {
+        "title": "习近平：携手搭建亚太共同体的“四梁八柱”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734582.shtml",
+        "publishedAt": "2026-11-19T13:38:48.000+08:00"
+      },
       {
         "title": "习近平会见美国总统特朗普",
         "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734583.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "今年前10个月上海市货物贸易进出口总值同比增长18.7%",
         "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734556.shtml",
         "publishedAt": "2026-11-19T13:08:34.000+08:00"
-      },
-      {
-        "title": "中国男足世界排名上升一位至第95位",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734575.shtml",
-        "publishedAt": "2026-11-19T13:06:52.000+08:00"
-      },
-      {
-        "title": "委内瑞拉同美国签署协议恢复军事技术合作",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734563.shtml",
-        "publishedAt": "2026-11-19T12:48:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T13:40:02.710+08:00",
+    "fetchedAt": "2026-11-19T13:50:02.443+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T13:40:06.913+08:00",
+      "fetchedAt": "2026-11-19T13:50:36.492+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T18:40:08.000+08:00"
+          "resetAt": "2026-11-19T18:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T13:40:07.258+08:00",
+      "fetchedAt": "2026-11-19T13:50:36.962+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 12.89,
+      "balance": 12.41,
       "currency": "CNY",
-      "detail": "余额 ¥12.89",
-      "fetchedAt": "2026-11-19T13:40:07.264+08:00",
+      "detail": "余额 ¥12.41",
+      "fetchedAt": "2026-11-19T13:50:36.972+08:00",
       "error": null
     }
   }
