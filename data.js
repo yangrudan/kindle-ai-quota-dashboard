@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T15:10:09.586+08:00",
+  "updatedAt": "2026-11-19T15:20:08.372+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.9,
-    "feelsLikeC": 10.3,
-    "humidity": 38,
-    "windKph": 9.9,
+    "tempC": 13.8,
+    "feelsLikeC": 10.2,
+    "humidity": 39,
+    "windKph": 10.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T15:10:09.587+08:00",
+    "observedAt": "2026-11-19T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T15:20:08.373+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734632.shtml",
-        "publishedAt": "2026-11-19T15:09:11.000+08:00"
+        "title": "洪都拉斯发生袭击事件造成至少12人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734574.shtml",
+        "publishedAt": "2026-11-19T15:19:09.000+08:00"
       },
       {
-        "title": "大熊猫“林阳”因病救治无效死亡 时年25岁",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734631.shtml",
-        "publishedAt": "2026-11-19T15:03:44.000+08:00"
+        "title": "中国雪乡风景区开园 新增冰雪DIY体验",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734640.shtml",
+        "publishedAt": "2026-11-19T15:18:49.000+08:00"
       },
       {
-        "title": "吉林市迎今冬最大降雪 校园上演趣味雪课",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734630.shtml",
-        "publishedAt": "2026-11-19T15:02:02.000+08:00"
+        "title": "一增一稳，外商真金白银投下信任票（读数）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734641.shtml",
+        "publishedAt": "2026-11-19T15:18:45.000+08:00"
       },
       {
-        "title": "“水脉变革”让新疆“白色荒滩”变“绿色粮仓”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734626.shtml",
-        "publishedAt": "2026-11-19T14:55:06.000+08:00"
+        "title": "鹄影蹁跹引客来 新疆“赏天鹅季”催热冬季文旅",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734633.shtml",
+        "publishedAt": "2026-11-19T15:16:17.000+08:00"
       },
       {
-        "title": "第八届中国—东盟法治论坛在重庆举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734623.shtml",
-        "publishedAt": "2026-11-19T14:51:50.000+08:00"
+        "title": "多位领导人在APEC工商领导人峰会上呼吁开放创新合作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734639.shtml",
+        "publishedAt": "2026-11-19T15:15:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T15:10:02.307+08:00",
+    "fetchedAt": "2026-11-19T15:20:02.889+08:00",
     "error": null
   },
   "sources": {
@@ -57,10 +57,10 @@ window.DASH_DATA = {
           "name": "月度 AIC",
           "usedPct": 100,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
+          "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T15:10:06.815+08:00",
+      "fetchedAt": "2026-11-19T15:20:07.033+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
-          "resetAt": "2026-11-19T19:03:29.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-11-19T20:19:11.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 99,
-          "resetAt": "2026-11-20T14:52:34.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T15:10:06.922+08:00",
+      "fetchedAt": "2026-11-19T15:20:07.122+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T15:10:06.932+08:00",
+      "fetchedAt": "2026-11-19T15:20:07.125+08:00",
       "error": null
     }
   }
