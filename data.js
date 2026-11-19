@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T08:20:08.179+08:00",
+  "updatedAt": "2026-11-19T08:30:09.009+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.7,
-    "feelsLikeC": 4.9,
+    "tempC": 8.2,
+    "feelsLikeC": 5.5,
     "humidity": 64,
-    "windKph": 5.7,
+    "windKph": 6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T08:20:08.180+08:00",
+    "observedAt": "2026-11-19T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T08:30:09.010+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“考古中国”成果上新 揭开哪些历史谜题？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734460.shtml",
+        "publishedAt": "2026-11-19T08:19:59.000+08:00"
+      },
+      {
+        "title": "【四时映画】哈尔滨迎降雪 文庙风景如画",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211159.shtml",
+        "publishedAt": "2026-11-19T08:19:52.000+08:00"
+      },
+      {
+        "title": "全国大部地区降水稀少",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734458.shtml",
+        "publishedAt": "2026-11-19T08:16:06.000+08:00"
+      },
       {
         "title": "词元作为数字商品进入大众消费 专家建议：统一计量口径守护AI消费权益",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734457.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "民宿烤全羊被指分量不足 四川平武市场监管部门立案调查",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734454.shtml",
         "publishedAt": "2026-11-19T08:02:24.000+08:00"
-      },
-      {
-        "title": "Token抢手？超半数受访者表示没必要囤",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734453.shtml",
-        "publishedAt": "2026-11-19T07:46:09.000+08:00"
-      },
-      {
-        "title": "沙特主导的联军称摧毁胡塞武装60个军事目标",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734452.shtml",
-        "publishedAt": "2026-11-19T07:43:53.000+08:00"
-      },
-      {
-        "title": "“咨询量增长100%”！外籍客商扎堆打卡→",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734451.shtml",
-        "publishedAt": "2026-11-19T07:41:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T08:20:02.919+08:00",
+    "fetchedAt": "2026-11-19T08:30:03.400+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T08:20:06.754+08:00",
+      "fetchedAt": "2026-11-19T08:30:07.636+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T13:20:08.000+08:00"
+          "resetAt": "2026-11-19T13:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T08:20:07.048+08:00",
+      "fetchedAt": "2026-11-19T08:30:07.880+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-19T08:20:07.051+08:00",
+      "fetchedAt": "2026-11-19T08:30:07.889+08:00",
       "error": null
     }
   }
