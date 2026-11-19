@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T19:10:08.439+08:00",
+  "updatedAt": "2026-11-19T19:20:08.607+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.9,
+    "tempC": 9.7,
     "feelsLikeC": 6.1,
-    "humidity": 50,
-    "windKph": 11.1,
+    "humidity": 51,
+    "windKph": 10.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T19:10:08.439+08:00",
+    "observedAt": "2026-11-19T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T19:20:08.607+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "河南三门峡：越冬天鹅吸引游客",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734838.shtml",
+        "publishedAt": "2026-11-19T19:16:08.000+08:00"
+      },
+      {
+        "title": "巴基斯坦在反恐行动中打死22名恐怖分子",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734843.shtml",
+        "publishedAt": "2026-11-19T19:15:44.000+08:00"
+      },
+      {
+        "title": "从古埃及到罗马帝国：环地中海青铜艺术展亮相兰州",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734826.shtml",
+        "publishedAt": "2026-11-19T19:14:02.000+08:00"
+      },
+      {
+        "title": "侨乡海南万宁：兴隆小镇侨味浓",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734824.shtml",
+        "publishedAt": "2026-11-19T19:06:26.000+08:00"
+      },
+      {
         "title": "冷空气补充影响广东 全省气温继续下降",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734817.shtml",
         "publishedAt": "2026-11-19T19:05:44.000+08:00"
-      },
-      {
-        "title": "宁夏畅通“乌金”运输通道 守护万家冬日暖流",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734815.shtml",
-        "publishedAt": "2026-11-19T19:05:12.000+08:00"
-      },
-      {
-        "title": "【和合共生】习言道｜习近平与深圳的“大故事”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734813.shtml",
-        "publishedAt": "2026-11-19T19:04:42.000+08:00"
-      },
-      {
-        "title": "习近平：三国会晤播下的种子必将生根发芽、开花结果",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734825.shtml",
-        "publishedAt": "2026-11-19T18:59:09.000+08:00"
-      },
-      {
-        "title": "第九届“一带一路·七彩云南”汽车拉力赛在昆明发车",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734822.shtml",
-        "publishedAt": "2026-11-19T18:57:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T19:10:02.850+08:00",
+    "fetchedAt": "2026-11-19T19:20:02.568+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T19:10:06.941+08:00",
+      "fetchedAt": "2026-11-19T19:20:07.059+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T19:10:07.193+08:00",
+      "fetchedAt": "2026-11-19T19:20:07.327+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T19:10:07.199+08:00",
+      "fetchedAt": "2026-11-19T19:20:07.336+08:00",
       "error": null
     }
   }
