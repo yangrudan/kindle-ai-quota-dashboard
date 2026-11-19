@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T07:20:07.547+08:00",
+  "updatedAt": "2026-11-20T07:30:08.364+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 3.9,
-    "feelsLikeC": 0.6,
-    "humidity": 77,
-    "windKph": 8.3,
+    "tempC": 4.5,
+    "feelsLikeC": 1.3,
+    "humidity": 75,
+    "windKph": 8.2,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T07:20:07.547+08:00",
+    "observedAt": "2026-11-20T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T07:30:08.364+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外媒：一移民船在塞内加尔沿海倾覆 已致数十人失踪",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734992.shtml",
+        "publishedAt": "2026-11-20T07:18:42.000+08:00"
+      },
       {
         "title": "11月20日早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-20/10734991.shtml",
@@ -38,14 +43,9 @@
         "title": "钱凯港运营两周年 为中秘双边贸易带来哪些改变？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10734988.shtml",
         "publishedAt": "2026-11-20T06:06:26.000+08:00"
-      },
-      {
-        "title": "普京：克里米亚大桥遭袭后 不再讨论海上停火",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734987.shtml",
-        "publishedAt": "2026-11-20T06:05:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T07:20:02.460+08:00",
+    "fetchedAt": "2026-11-20T07:30:02.736+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T07:20:06.364+08:00",
+      "fetchedAt": "2026-11-20T07:30:06.931+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T12:20:07.000+08:00"
+          "resetAt": "2026-11-20T12:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T07:20:06.513+08:00",
+      "fetchedAt": "2026-11-20T07:30:07.078+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T07:20:06.521+08:00",
+      "fetchedAt": "2026-11-20T07:30:07.087+08:00",
       "error": null
     }
   }
