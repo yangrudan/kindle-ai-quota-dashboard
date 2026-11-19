@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T21:20:38.724+08:00",
+  "updatedAt": "2026-11-19T21:30:08.416+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9,
+    "tempC": 9.3,
     "feelsLikeC": 5.3,
-    "humidity": 54,
-    "windKph": 10.8,
+    "humidity": 52,
+    "windKph": 12.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T21:20:38.725+08:00",
+    "observedAt": "2026-11-19T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T21:30:08.416+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“援”定天山：龙江健儿带阿勒泰“冰上飞驰”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734827.shtml",
-        "publishedAt": "2026-11-19T21:15:53.000+08:00"
+        "title": "32家企业纳入横琴粤澳深度合作区第三批“育苗”库",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734916.shtml",
+        "publishedAt": "2026-11-19T21:26:51.000+08:00"
       },
       {
-        "title": "（深圳APEC）深圳APEC“摆桌”促对话：场边外交密集进行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734912.shtml",
-        "publishedAt": "2026-11-19T21:15:03.000+08:00"
+        "title": "全国首家省级政校协同网络交易研究院在黑龙江揭牌成立",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734895.shtml",
+        "publishedAt": "2026-11-19T21:25:49.000+08:00"
       },
       {
-        "title": "“援”定天山：长白山人参“扎根”阿勒泰戈壁",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734823.shtml",
-        "publishedAt": "2026-11-19T21:14:35.000+08:00"
+        "title": "2026年中国内地与香港企业会计准则保持持续趋同",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734909.shtml",
+        "publishedAt": "2026-11-19T21:25:45.000+08:00"
       },
       {
-        "title": "2026年亚太经合组织领导人深圳展望 建设亚太共同体，促进共同繁荣",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734929.shtml",
-        "publishedAt": "2026-11-19T21:14:01.000+08:00"
+        "title": "重庆设立多式联运仲裁中心 护航西部陆海新通道高水平对外开放",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734847.shtml",
+        "publishedAt": "2026-11-19T21:23:57.000+08:00"
       },
       {
-        "title": "（深圳APEC）从APEC上的六个高频词看亚太合作新动向",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734910.shtml",
-        "publishedAt": "2026-11-19T21:10:28.000+08:00"
+        "title": "太行腹地藏冷泉 邯郸涉县冷水鱼“游”出富民产业",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734911.shtml",
+        "publishedAt": "2026-11-19T21:23:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T21:20:02.919+08:00",
+    "fetchedAt": "2026-11-19T21:30:02.823+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T21:20:37.365+08:00",
+      "fetchedAt": "2026-11-19T21:30:06.760+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T02:20:38.000+08:00"
+          "resetAt": "2026-11-20T02:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T21:20:37.653+08:00",
+      "fetchedAt": "2026-11-19T21:30:07.306+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T21:20:37.659+08:00",
+      "fetchedAt": "2026-11-19T21:30:07.315+08:00",
       "error": null
     }
   }
