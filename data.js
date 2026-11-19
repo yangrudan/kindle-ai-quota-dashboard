@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T06:50:08.758+08:00",
+  "updatedAt": "2026-11-20T07:00:08.872+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 3.4,
-    "feelsLikeC": 0,
-    "humidity": 78,
+    "tempC": 3.5,
+    "feelsLikeC": 0.1,
+    "humidity": 77,
     "windKph": 8.3,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T06:50:08.758+08:00",
+    "observedAt": "2026-11-20T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T07:00:08.872+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734989.shtml",
+        "publishedAt": "2026-11-20T06:45:16.000+08:00"
+      },
       {
         "title": "钱凯港运营两周年 为中秘双边贸易带来哪些改变？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10734988.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "习近平：大国和则世界安，大国斗则世界乱",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10734985.shtml",
         "publishedAt": "2026-11-20T00:13:45.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）亚太经合组织互联互通蓝图发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml",
-        "publishedAt": "2026-11-19T23:57:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T06:50:03.082+08:00",
+    "fetchedAt": "2026-11-20T07:00:02.784+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T06:50:07.356+08:00",
+      "fetchedAt": "2026-11-20T07:00:07.395+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T11:50:08.000+08:00"
+          "resetAt": "2026-11-20T12:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T06:50:07.662+08:00",
+      "fetchedAt": "2026-11-20T07:00:07.565+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T06:50:07.671+08:00",
+      "fetchedAt": "2026-11-20T07:00:07.574+08:00",
       "error": null
     }
   }
