@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T18:10:09.087+08:00",
+  "updatedAt": "2026-11-19T18:20:09.172+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 10.6,
+    "tempC": 10.4,
     "feelsLikeC": 6,
-    "humidity": 47,
-    "windKph": 16.4,
+    "humidity": 48,
+    "windKph": 15.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T18:10:09.087+08:00",
+    "observedAt": "2026-11-19T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T18:20:09.172+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "福建省入渝推介文旅资源 签约5.9亿元文旅项目深化合作",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734748.shtml",
-        "publishedAt": "2026-11-19T18:01:44.000+08:00"
+        "title": "香港“宁波帮”人士严玉珍捐赠1500万港币助力家乡教育",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734797.shtml",
+        "publishedAt": "2026-11-19T18:13:59.000+08:00"
       },
       {
-        "title": "吉林延边耐寒苗木出海 首进俄罗斯市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734744.shtml",
-        "publishedAt": "2026-11-19T17:57:40.000+08:00"
+        "title": "（深圳APEC）习近平：大国和，则世界安；大国斗，则世界乱",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734790.shtml",
+        "publishedAt": "2026-11-19T18:13:29.000+08:00"
       },
       {
-        "title": "玉龙县：石榴花香润校园 籽籽同心育新苗",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734779.shtml",
-        "publishedAt": "2026-11-19T17:56:14.000+08:00"
+        "title": "链东盟 跨山海：第14届武陵山商品交易博览会开幕",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734750.shtml",
+        "publishedAt": "2026-11-19T18:12:21.000+08:00"
       },
       {
-        "title": "河北援疆：戈壁兴产业 天山育新人",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-19/10734781.shtml",
-        "publishedAt": "2026-11-19T17:53:16.000+08:00"
+        "title": "（深圳APEC）快讯：习近平主持中俄美元首会晤",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734787.shtml",
+        "publishedAt": "2026-11-19T18:11:37.000+08:00"
       },
       {
-        "title": "诺贝尔奖得主斯宾塞走进苏州校园探讨“AI时代人的价值”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734780.shtml",
-        "publishedAt": "2026-11-19T17:52:04.000+08:00"
+        "title": "报告：中国海洋装备产业全面跃升 从技术突破迈向规模化应用",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734745.shtml",
+        "publishedAt": "2026-11-19T18:11:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T18:10:02.706+08:00",
+    "fetchedAt": "2026-11-19T18:20:02.954+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T18:10:07.353+08:00",
+      "fetchedAt": "2026-11-19T18:20:07.784+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T18:10:07.561+08:00",
+      "fetchedAt": "2026-11-19T18:20:08.194+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T18:10:07.568+08:00",
+      "fetchedAt": "2026-11-19T18:20:08.204+08:00",
       "error": null
     }
   }
