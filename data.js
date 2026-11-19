@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T09:10:55.828+08:00",
+  "updatedAt": "2026-11-19T09:20:07.833+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.1,
-    "feelsLikeC": 6.1,
-    "humidity": 59,
-    "windKph": 7.2,
+    "tempC": 9.5,
+    "feelsLikeC": 6.4,
+    "humidity": 56,
+    "windKph": 7.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T09:10:55.828+08:00",
+    "observedAt": "2026-11-19T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T09:20:07.833+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734481.shtml",
+        "publishedAt": "2026-11-19T09:13:28.000+08:00"
+      },
+      {
+        "title": "49年走到1光日 带着金唱片的旅行者1号能被外星人发现吗",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734478.shtml",
+        "publishedAt": "2026-11-19T09:08:13.000+08:00"
+      },
+      {
+        "title": "调查：超八成受访青年因线下观看竞技体育赛事结识了新朋友",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734476.shtml",
+        "publishedAt": "2026-11-19T09:04:59.000+08:00"
+      },
+      {
+        "title": "二三百位中医献方！河南新密中医验方“千碑林”引关注",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-19/news1075421.shtml",
+        "publishedAt": "2026-11-19T08:58:31.000+08:00"
+      },
+      {
         "title": "年轻人看体育赛事是在看什么 超半数受访青年从竞体赛事中学会了接纳输赢",
         "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734473.shtml",
         "publishedAt": "2026-11-19T08:54:55.000+08:00"
-      },
-      {
-        "title": "消防隐患要消除 酿成火灾或领刑",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-19/10734471.shtml",
-        "publishedAt": "2026-11-19T08:50:38.000+08:00"
-      },
-      {
-        "title": "22年历史“幻彩咏香江”收官 “香港冬日小镇·尖沙咀”接棒",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211168.shtml",
-        "publishedAt": "2026-11-19T08:47:27.000+08:00"
-      },
-      {
-        "title": "南北方多地气温将陆续触底创新低 明起中东部进入降水间歇期",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734469.shtml",
-        "publishedAt": "2026-11-19T08:46:32.000+08:00"
-      },
-      {
-        "title": "52.2%受访者表示为AI花过钱 知识处理、多媒体创作、办公学习是主要用途",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734467.shtml",
-        "publishedAt": "2026-11-19T08:41:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T09:10:02.502+08:00",
+    "fetchedAt": "2026-11-19T09:20:02.771+08:00",
     "error": null
   },
   "sources": {
@@ -60,9 +60,8 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T12:51:49.135+08:00",
-      "error": "云端查询失败：spawnSync gh ETIMEDOUT",
-      "stale": true
+      "fetchedAt": "2026-11-19T09:20:06.623+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -71,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T14:10:55.000+08:00"
+          "resetAt": "2026-11-19T14:20:07.000+08:00"
         },
         {
           "name": "周",
@@ -79,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T09:10:54.659+08:00",
+      "fetchedAt": "2026-11-19T09:20:06.844+08:00",
       "error": null
     },
     "mimo": {
@@ -98,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-19T09:10:54.669+08:00",
+      "fetchedAt": "2026-11-19T09:20:06.853+08:00",
       "error": null
     }
   }
