@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T12:50:38.335+08:00",
+  "updatedAt": "2026-11-19T13:00:08.624+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.2,
-    "feelsLikeC": 10.3,
+    "tempC": 13.4,
+    "feelsLikeC": 10.4,
     "humidity": 41,
-    "windKph": 8.8,
+    "windKph": 8.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-19T12:50:38.335+08:00",
+    "observedAt": "2026-11-19T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-19T13:00:08.624+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "委内瑞拉同美国签署协议恢复军事技术合作",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734563.shtml",
+        "publishedAt": "2026-11-19T12:48:07.000+08:00"
+      },
+      {
+        "title": "打造红色沉浸式空间 沪三大红色场馆亮相长三角文博会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734555.shtml",
+        "publishedAt": "2026-11-19T12:46:41.000+08:00"
+      },
+      {
+        "title": "新华图讯丨习近平主持亚太经合组织第三十三次领导人非正式会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734573.shtml",
+        "publishedAt": "2026-11-19T12:46:09.000+08:00"
+      },
+      {
+        "title": "（近观中国）一湾锦绣通亚太，习近平讲述“深圳大故事”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734570.shtml",
+        "publishedAt": "2026-11-19T12:45:05.000+08:00"
+      },
+      {
         "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734571.shtml",
         "publishedAt": "2026-11-19T12:28:40.000+08:00"
-      },
-      {
-        "title": "习近平对老龄工作作出重要指示",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734565.shtml",
-        "publishedAt": "2026-11-19T12:21:40.000+08:00"
-      },
-      {
-        "title": "“AI变现”图书热销 这类书籍如何挑选？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734567.shtml",
-        "publishedAt": "2026-11-19T12:18:58.000+08:00"
-      },
-      {
-        "title": "国家数据局：开展新一批可信数据空间创新发展试点",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734558.shtml",
-        "publishedAt": "2026-11-19T12:04:43.000+08:00"
-      },
-      {
-        "title": "抓住“黄金3分钟” 坚持做这6个动作让你全身受益",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734564.shtml",
-        "publishedAt": "2026-11-19T12:02:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T12:50:02.918+08:00",
+    "fetchedAt": "2026-11-19T13:00:03.097+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T12:50:36.892+08:00",
+      "fetchedAt": "2026-11-19T13:00:07.072+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T17:50:38.000+08:00"
+          "resetAt": "2026-11-19T18:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T12:50:37.169+08:00",
+      "fetchedAt": "2026-11-19T13:00:07.380+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 18.03,
       "currency": "CNY",
       "detail": "余额 ¥18.03",
-      "fetchedAt": "2026-11-19T12:50:37.172+08:00",
+      "fetchedAt": "2026-11-19T13:00:07.387+08:00",
       "error": null
     }
   }
