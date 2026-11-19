@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T16:50:08.758+08:00",
+  "updatedAt": "2026-11-19T17:00:13.180+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.7,
-    "feelsLikeC": 7.7,
-    "humidity": 46,
-    "windKph": 13,
+    "tempC": 11.3,
+    "feelsLikeC": 7.2,
+    "humidity": 47,
+    "windKph": 13.7,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-19T16:50:08.759+08:00",
+    "observedAt": "2026-11-19T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-19T17:00:13.180+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习近平：大国良性互动不是选择题，而是必答题",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734714.shtml",
-        "publishedAt": "2026-11-19T16:43:00.000+08:00"
+        "title": "安徽巢湖湿地再现“候鸟翔集”生态画卷",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734702.shtml",
+        "publishedAt": "2026-11-19T16:55:23.000+08:00"
       },
       {
-        "title": "甘肃临夏回族自治州成立70周年庆祝大会举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734709.shtml",
-        "publishedAt": "2026-11-19T16:43:00.000+08:00"
+        "title": "2026中国5G+工业互联网大会在武汉举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734705.shtml",
+        "publishedAt": "2026-11-19T16:53:32.000+08:00"
       },
       {
-        "title": "（深圳APEC）APEC工商领导人峰会参会嘉宾参访深圳前海“深港汇”双向总部基地",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211216.shtml",
-        "publishedAt": "2026-11-19T16:42:31.000+08:00"
+        "title": "武汉算网融合重塑产业底座",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734724.shtml",
+        "publishedAt": "2026-11-19T16:53:10.000+08:00"
       },
       {
-        "title": "习近平：大国和，则世界安；大国斗，则世界乱",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734712.shtml",
-        "publishedAt": "2026-11-19T16:41:10.000+08:00"
+        "title": "2026生物制造大赛决赛在天津武清举行 400余名专家分组差异化评审",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734717.shtml",
+        "publishedAt": "2026-11-19T16:52:42.000+08:00"
       },
       {
-        "title": "“中国造”商品汽车出口专列累计开行突破1万列",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734698.shtml",
-        "publishedAt": "2026-11-19T16:40:14.000+08:00"
+        "title": "工信部：中国已建成工业5G专网2.7万个",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734721.shtml",
+        "publishedAt": "2026-11-19T16:52:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T16:50:03.270+08:00",
+    "fetchedAt": "2026-11-19T17:00:03.148+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T16:50:07.169+08:00",
+      "fetchedAt": "2026-11-19T17:00:07.481+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 81,
+          "usedPct": 83,
           "resetAt": "2026-11-19T20:19:11.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T16:50:07.448+08:00",
+      "fetchedAt": "2026-11-19T17:00:07.908+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T16:50:07.455+08:00",
+      "fetchedAt": "2026-11-19T17:00:07.913+08:00",
       "error": null
     }
   }
