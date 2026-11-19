@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T08:30:09.009+08:00",
+  "updatedAt": "2026-11-19T08:40:40.870+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T08:30:09.010+08:00",
+    "fetchedAt": "2026-11-19T08:40:40.870+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "上课点名、体育长跑、饭卡充值……校园App为何越装越多？",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734464.shtml",
+        "publishedAt": "2026-11-19T08:30:29.000+08:00"
+      },
+      {
+        "title": "“把中国制造推向世界” 一群深圳00后用短视频闯出海路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734462.shtml",
+        "publishedAt": "2026-11-19T08:24:43.000+08:00"
+      },
       {
         "title": "“考古中国”成果上新 揭开哪些历史谜题？",
         "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734460.shtml",
@@ -33,19 +43,9 @@
         "title": "全国大部地区降水稀少",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734458.shtml",
         "publishedAt": "2026-11-19T08:16:06.000+08:00"
-      },
-      {
-        "title": "词元作为数字商品进入大众消费 专家建议：统一计量口径守护AI消费权益",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734457.shtml",
-        "publishedAt": "2026-11-19T08:05:42.000+08:00"
-      },
-      {
-        "title": "民宿烤全羊被指分量不足 四川平武市场监管部门立案调查",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734454.shtml",
-        "publishedAt": "2026-11-19T08:02:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T08:30:03.400+08:00",
+    "fetchedAt": "2026-11-19T08:40:05.948+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T08:30:07.636+08:00",
+      "fetchedAt": "2026-11-19T08:40:39.637+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T13:30:08.000+08:00"
+          "resetAt": "2026-11-19T13:40:40.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T08:30:07.880+08:00",
+      "fetchedAt": "2026-11-19T08:40:39.920+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-19T08:30:07.889+08:00",
+      "fetchedAt": "2026-11-19T08:40:39.923+08:00",
       "error": null
     }
   }
