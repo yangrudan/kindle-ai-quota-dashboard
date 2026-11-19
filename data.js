@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T18:20:09.172+08:00",
+  "updatedAt": "2026-11-19T18:30:09.106+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 10.4,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 10.3,
     "feelsLikeC": 6,
     "humidity": 48,
-    "windKph": 15.6,
+    "windKph": 14.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T18:20:09.172+08:00",
+    "observedAt": "2026-11-19T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T18:30:09.106+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香港“宁波帮”人士严玉珍捐赠1500万港币助力家乡教育",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734797.shtml",
-        "publishedAt": "2026-11-19T18:13:59.000+08:00"
+        "title": "浙江景宁综合高中试点观察：一所山区县中的“第二次选择”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734777.shtml",
+        "publishedAt": "2026-11-19T18:22:33.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平：大国和，则世界安；大国斗，则世界乱",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734790.shtml",
-        "publishedAt": "2026-11-19T18:13:29.000+08:00"
+        "title": "扬州泰州冬春航季向“远”飞：春秋航空新增4条航线畅通长三角北翼",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734751.shtml",
+        "publishedAt": "2026-11-19T18:22:15.000+08:00"
       },
       {
-        "title": "链东盟 跨山海：第14届武陵山商品交易博览会开幕",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734750.shtml",
-        "publishedAt": "2026-11-19T18:12:21.000+08:00"
+        "title": "马永生院士：绿色燃料正成为难减排领域深度脱碳的关键路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734741.shtml",
+        "publishedAt": "2026-11-19T18:21:15.000+08:00"
       },
       {
-        "title": "（深圳APEC）快讯：习近平主持中俄美元首会晤",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734787.shtml",
-        "publishedAt": "2026-11-19T18:11:37.000+08:00"
+        "title": "中法机构签署合作文件 构建“大晋祠文化景观”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734793.shtml",
+        "publishedAt": "2026-11-19T18:19:59.000+08:00"
       },
       {
-        "title": "报告：中国海洋装备产业全面跃升 从技术突破迈向规模化应用",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734745.shtml",
-        "publishedAt": "2026-11-19T18:11:23.000+08:00"
+        "title": "（深圳APEC）习近平就大国如何正确相处提出4点看法",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734794.shtml",
+        "publishedAt": "2026-11-19T18:15:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T18:20:02.954+08:00",
+    "fetchedAt": "2026-11-19T18:30:03.243+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T18:20:07.784+08:00",
+      "fetchedAt": "2026-11-19T18:30:07.432+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T18:20:08.194+08:00",
+      "fetchedAt": "2026-11-19T18:30:07.655+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T18:20:08.204+08:00",
+      "fetchedAt": "2026-11-19T18:30:07.658+08:00",
       "error": null
     }
   }
