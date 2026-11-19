@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T14:40:09.646+08:00",
+  "updatedAt": "2026-11-19T14:50:08.824+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 13.9,
-    "feelsLikeC": 10.5,
+    "feelsLikeC": 10.6,
     "humidity": 38,
     "windKph": 7.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T14:40:09.646+08:00",
+    "observedAt": "2026-11-19T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-19T14:50:08.824+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734613.shtml",
+        "publishedAt": "2026-11-19T14:37:43.000+08:00"
+      },
+      {
+        "title": "陕西深入推进防震减灾综合治理 构建“空天地井”立体监测网络",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734615.shtml",
+        "publishedAt": "2026-11-19T14:34:47.000+08:00"
+      },
       {
         "title": "第二十二届辽宁省摄影艺术展暨第十六届中国东北三省摄影艺术展辽宁巡展举行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734616.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "女子耳内“有虫爬” 竟是家中宠物惹的祸",
         "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734619.shtml",
         "publishedAt": "2026-11-19T14:30:19.000+08:00"
-      },
-      {
-        "title": "【和合共生】习言道｜推动建设和衷共济、开放融通、开拓创新、包容发展的亚太共同体",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734579.shtml",
-        "publishedAt": "2026-11-19T14:23:18.000+08:00"
-      },
-      {
-        "title": "中越将举行第41次北部湾联合巡逻",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734612.shtml",
-        "publishedAt": "2026-11-19T14:22:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T14:40:03.300+08:00",
+    "fetchedAt": "2026-11-19T14:50:02.748+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T14:40:08.033+08:00",
+      "fetchedAt": "2026-11-19T14:50:07.228+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 16,
           "resetAt": "2026-11-19T19:03:29.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 97,
+          "usedPct": 99,
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T14:40:08.367+08:00",
+      "fetchedAt": "2026-11-19T14:50:07.528+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T14:40:08.377+08:00",
+      "fetchedAt": "2026-11-19T14:50:07.532+08:00",
       "error": null
     }
   }
