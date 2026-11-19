@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T23:30:07.733+08:00",
+  "updatedAt": "2026-11-19T23:40:09.606+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T23:30:07.734+08:00",
+    "fetchedAt": "2026-11-19T23:40:09.606+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）王毅举行中外记者会",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211260.shtml",
+        "publishedAt": "2026-11-19T23:30:56.000+08:00"
+      },
       {
         "title": "国家级非遗“宛梆”唱响伏牛山",
         "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734964.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "难忘二战记忆——火光之下，不只是新加坡",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734976.shtml",
         "publishedAt": "2026-11-19T22:56:14.000+08:00"
-      },
-      {
-        "title": "亚太经合组织互联互通蓝图",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734972.shtml",
-        "publishedAt": "2026-11-19T22:51:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T23:30:02.401+08:00",
+    "fetchedAt": "2026-11-19T23:40:03.060+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T23:30:06.365+08:00",
+      "fetchedAt": "2026-11-19T23:40:07.957+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T04:30:07.000+08:00"
+          "resetAt": "2026-11-20T04:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T23:30:06.684+08:00",
+      "fetchedAt": "2026-11-19T23:40:08.288+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T23:30:06.688+08:00",
+      "fetchedAt": "2026-11-19T23:40:08.296+08:00",
       "error": null
     }
   }
