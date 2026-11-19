@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T11:00:10.114+08:00",
+  "updatedAt": "2026-11-19T11:10:37.567+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T11:00:10.114+08:00",
+    "fetchedAt": "2026-11-19T11:10:37.567+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734531.shtml",
+        "publishedAt": "2026-11-19T11:03:54.000+08:00"
+      },
+      {
+        "title": "多名中国公民在赞比亚因非法采金被捕，中使馆提醒",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-19/10734486.shtml",
+        "publishedAt": "2026-11-19T11:03:46.000+08:00"
+      },
+      {
+        "title": "我国16座水库进行“三个大坝”建设试点",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734539.shtml",
+        "publishedAt": "2026-11-19T11:03:36.000+08:00"
+      },
+      {
+        "title": "短时免费、夜间封顶 上海停车迎来哪些新变化？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734537.shtml",
+        "publishedAt": "2026-11-19T11:01:05.000+08:00"
+      },
+      {
         "title": "一个“稳”字谈何易！",
         "url": "https://www.chinanews.com.cn/ll/2026/11-19/10734534.shtml",
         "publishedAt": "2026-11-19T10:58:27.000+08:00"
-      },
-      {
-        "title": "新疆各族群众团结奋斗、共享发展成果 果香飘向远方 生活充满希望",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734533.shtml",
-        "publishedAt": "2026-11-19T10:56:25.000+08:00"
-      },
-      {
-        "title": "中国广西新发现直立人化石 将助力破解古人类演化关键谜题",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734528.shtml",
-        "publishedAt": "2026-11-19T10:53:21.000+08:00"
-      },
-      {
-        "title": "日本多个民间团体要求政府坚持“无核三原则”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734532.shtml",
-        "publishedAt": "2026-11-19T10:52:19.000+08:00"
-      },
-      {
-        "title": "雪假来了：特色假期如何“放”到心坎里",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734530.shtml",
-        "publishedAt": "2026-11-19T10:50:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T11:00:03.019+08:00",
+    "fetchedAt": "2026-11-19T11:10:03.177+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T11:00:06.937+08:00",
+      "fetchedAt": "2026-11-19T11:10:36.190+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T16:00:08.000+08:00"
+          "resetAt": "2026-11-19T16:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T11:00:07.209+08:00",
+      "fetchedAt": "2026-11-19T11:10:36.405+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 24.37,
+      "balance": 24.35,
       "currency": "CNY",
-      "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-19T11:00:07.219+08:00",
+      "detail": "余额 ¥24.35",
+      "fetchedAt": "2026-11-19T11:10:36.408+08:00",
       "error": null
     }
   }
