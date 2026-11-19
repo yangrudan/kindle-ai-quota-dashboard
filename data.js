@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T17:20:38.073+08:00",
+  "updatedAt": "2026-11-19T17:30:38.260+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11,
-    "feelsLikeC": 6.8,
+    "tempC": 10.8,
+    "feelsLikeC": 6.4,
     "humidity": 47,
-    "windKph": 14.7,
+    "windKph": 15.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T17:20:38.073+08:00",
+    "observedAt": "2026-11-19T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T17:30:38.260+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,22 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2027届全国普通高校毕业生就业创业工作会议召开",
+        "title": "上海五部门联合印发“园八条” 文创园区迎来新一轮政策利好",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734746.shtml",
+        "publishedAt": "2026-11-19T17:15:34.000+08:00"
+      },
+      {
+        "title": "习近平就大国如何正确相处提出4点看法",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734740.shtml",
+        "publishedAt": "2026-11-19T17:15:34.000+08:00"
+      },
+      {
+        "title": "印度一学校62名学生疑因附近沥青厂污染出现恶心和呼吸困难症状",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734747.shtml",
+        "publishedAt": "2026-11-19T17:11:33.000+08:00"
+      },
+      {
+        "title": "2027届全国普通高校毕业生规模预计1299万人",
         "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734743.shtml",
         "publishedAt": "2026-11-19T17:08:47.000+08:00"
       },
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国5G+工业互联网大会开幕 展示新技术新成果",
         "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734735.shtml",
         "publishedAt": "2026-11-19T17:02:41.000+08:00"
-      },
-      {
-        "title": "第九届全国职工职业技能大赛圆满落幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734738.shtml",
-        "publishedAt": "2026-11-19T17:02:09.000+08:00"
-      },
-      {
-        "title": "河南信阳市息县：四姓同源汇同心 根亲赋能兴息州",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734727.shtml",
-        "publishedAt": "2026-11-19T17:01:17.000+08:00"
-      },
-      {
-        "title": "首次突破5亿元 音集协卡拉OK版权收费创历史新高",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734728.shtml",
-        "publishedAt": "2026-11-19T17:01:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T17:20:02.647+08:00",
+    "fetchedAt": "2026-11-19T17:30:02.986+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T17:20:36.416+08:00",
+      "fetchedAt": "2026-11-19T17:30:36.602+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 88,
+          "usedPct": 90,
           "resetAt": "2026-11-19T20:19:11.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T17:20:36.843+08:00",
+      "fetchedAt": "2026-11-19T17:30:36.853+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T17:20:36.850+08:00",
+      "fetchedAt": "2026-11-19T17:30:36.862+08:00",
       "error": null
     }
   }
