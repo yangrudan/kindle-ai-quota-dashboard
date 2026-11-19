@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T14:00:08.496+08:00",
+  "updatedAt": "2026-11-19T14:10:08.632+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T14:00:08.497+08:00",
+    "fetchedAt": "2026-11-19T14:10:08.633+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "黑龙江漠河：守护最北民生 让边疆老年人更幸福",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734586.shtml",
-        "publishedAt": "2026-11-19T13:48:02.000+08:00"
+        "title": "食品安全监管不能有“真空”",
+        "url": "https://www.chinanews.com.cn/life/2026/11-19/10734608.shtml",
+        "publishedAt": "2026-11-19T14:01:21.000+08:00"
       },
       {
-        "title": "累计开行1万列！“中国造”商品车出口专列跑出加速度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734577.shtml",
-        "publishedAt": "2026-11-19T13:41:30.000+08:00"
+        "title": "俄罗斯宫廷珍宝亮相上海世博会博物馆",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734606.shtml",
+        "publishedAt": "2026-11-19T14:01:03.000+08:00"
       },
       {
-        "title": "习近平：携手搭建亚太共同体的“四梁八柱”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734582.shtml",
-        "publishedAt": "2026-11-19T13:38:48.000+08:00"
+        "title": "（深圳APEC）戴文渊：共建开放可信AI生态 让亚太中小企业共享AI红利",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734587.shtml",
+        "publishedAt": "2026-11-19T14:00:07.000+08:00"
       },
       {
-        "title": "习近平会见美国总统特朗普",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734583.shtml",
-        "publishedAt": "2026-11-19T13:34:24.000+08:00"
+        "title": "小松塔变身文创 河北围场“塞罕手作”出圈",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734588.shtml",
+        "publishedAt": "2026-11-19T13:57:57.000+08:00"
       },
       {
-        "title": "北方多地飘雪！山东半岛冷流降雪上线 威海迎来下半年首场降雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734580.shtml",
-        "publishedAt": "2026-11-19T13:16:53.000+08:00"
+        "title": "河南新密中医验方“千碑林”引关注",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734589.shtml",
+        "publishedAt": "2026-11-19T13:57:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T14:00:02.927+08:00",
+    "fetchedAt": "2026-11-19T14:10:02.773+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T14:00:06.912+08:00",
+      "fetchedAt": "2026-11-19T14:10:07.051+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-19T19:00:08.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-19T19:03:29.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T14:00:07.223+08:00",
+      "fetchedAt": "2026-11-19T14:10:07.342+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@ window.DASH_DATA = {
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 11.38,
+      "balance": 10.03,
       "currency": "CNY",
-      "detail": "余额 ¥11.38",
-      "fetchedAt": "2026-11-19T14:00:07.226+08:00",
+      "detail": "余额 ¥10.03",
+      "fetchedAt": "2026-11-19T14:10:07.351+08:00",
       "error": null
     }
   }
