@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T06:10:07.816+08:00",
+  "updatedAt": "2026-11-20T06:20:37.392+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 3.6,
-    "feelsLikeC": 0.3,
-    "humidity": 76,
+    "tempC": 3.5,
+    "feelsLikeC": 0.2,
+    "humidity": 77,
     "windKph": 7.8,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T06:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T06:10:07.816+08:00",
+    "observedAt": "2026-11-20T06:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T06:20:37.393+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "钱凯港运营两周年 为中秘双边贸易带来哪些改变？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10734988.shtml",
+        "publishedAt": "2026-11-20T06:06:26.000+08:00"
+      },
+      {
+        "title": "普京：克里米亚大桥遭袭后 不再讨论海上停火",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734987.shtml",
+        "publishedAt": "2026-11-20T06:05:38.000+08:00"
+      },
+      {
+        "title": "特朗普表示不会在新年前“仓促”决定对伊朗行动",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734986.shtml",
+        "publishedAt": "2026-11-20T06:04:00.000+08:00"
+      },
       {
         "title": "习近平：大国和则世界安，大国斗则世界乱",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10734985.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）亚太经合组织互联互通蓝图发布",
         "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml",
         "publishedAt": "2026-11-19T23:57:46.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）外媒聚焦APEC：开放合作为亚太发展凝聚共识",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734981.shtml",
-        "publishedAt": "2026-11-19T23:45:35.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）王毅举行中外记者会",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211260.shtml",
-        "publishedAt": "2026-11-19T23:30:56.000+08:00"
-      },
-      {
-        "title": "国家级非遗“宛梆”唱响伏牛山",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734964.shtml",
-        "publishedAt": "2026-11-19T23:15:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T06:10:02.690+08:00",
+    "fetchedAt": "2026-11-20T06:20:02.567+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T06:10:06.557+08:00",
+      "fetchedAt": "2026-11-20T06:20:35.873+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T11:10:07.000+08:00"
+          "resetAt": "2026-11-20T11:20:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T06:10:06.821+08:00",
+      "fetchedAt": "2026-11-20T06:20:36.165+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T06:10:06.827+08:00",
+      "fetchedAt": "2026-11-20T06:20:36.168+08:00",
       "error": null
     }
   }
