@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:00:08.872+08:00",
+  "updatedAt": "2026-11-20T07:10:37.284+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-20T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T07:00:08.872+08:00",
+    "fetchedAt": "2026-11-20T07:10:37.285+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月20日早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-20/10734991.shtml",
+        "publishedAt": "2026-11-20T07:04:27.000+08:00"
+      },
+      {
+        "title": "韩国最高法院将前总理韩德洙涉内乱案发回重审",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734990.shtml",
+        "publishedAt": "2026-11-20T07:02:27.000+08:00"
+      },
       {
         "title": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734989.shtml",
@@ -33,19 +43,9 @@
         "title": "普京：克里米亚大桥遭袭后 不再讨论海上停火",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734987.shtml",
         "publishedAt": "2026-11-20T06:05:38.000+08:00"
-      },
-      {
-        "title": "特朗普表示不会在新年前“仓促”决定对伊朗行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734986.shtml",
-        "publishedAt": "2026-11-20T06:04:00.000+08:00"
-      },
-      {
-        "title": "习近平：大国和则世界安，大国斗则世界乱",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10734985.shtml",
-        "publishedAt": "2026-11-20T00:13:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T07:00:02.784+08:00",
+    "fetchedAt": "2026-11-20T07:10:02.420+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T07:00:07.395+08:00",
+      "fetchedAt": "2026-11-20T07:10:36.021+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T12:00:08.000+08:00"
+          "resetAt": "2026-11-20T12:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T07:00:07.565+08:00",
+      "fetchedAt": "2026-11-20T07:10:36.216+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T07:00:07.574+08:00",
+      "fetchedAt": "2026-11-20T07:10:36.224+08:00",
       "error": null
     }
   }
