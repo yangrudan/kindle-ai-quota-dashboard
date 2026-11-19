@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T10:00:07.654+08:00",
+  "updatedAt": "2026-11-19T10:10:08.527+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T10:00:07.655+08:00",
+    "fetchedAt": "2026-11-19T10:10:08.527+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "11月19日人民币对美元中间价报6.7128 下调10个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734499.shtml",
-        "publishedAt": "2026-11-19T09:53:14.000+08:00"
+        "title": "“仅供参考”的AIGC检测 不该变成学生的付费闯关",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734510.shtml",
+        "publishedAt": "2026-11-19T10:03:42.000+08:00"
       },
       {
-        "title": "11月19日央行开展7675亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734495.shtml",
-        "publishedAt": "2026-11-19T09:53:08.000+08:00"
+        "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734509.shtml",
+        "publishedAt": "2026-11-19T10:02:52.000+08:00"
       },
       {
-        "title": "冷空气影响趋于结束 未来三天全国大部降水稀少",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734475.shtml",
-        "publishedAt": "2026-11-19T09:52:58.000+08:00"
+        "title": "（乡村行·看振兴）广东西田村：旱地西洋菜“串起”富民大产业",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734504.shtml",
+        "publishedAt": "2026-11-19T10:00:16.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）从传统渔村到“国际会客厅”：百年侨村的美丽蝶变",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-19/10734501.shtml",
-        "publishedAt": "2026-11-19T09:52:20.000+08:00"
+        "title": "沈阳航空航天大学举办“AI+双创”教育成果展 智能体“创伴”发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734503.shtml",
+        "publishedAt": "2026-11-19T09:59:36.000+08:00"
       },
       {
-        "title": "习近平主持亚太经合组织第三十三次领导人非正式会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734502.shtml",
-        "publishedAt": "2026-11-19T09:51:38.000+08:00"
+        "title": "提升版粤剧《一把存忠剑》上演 武戏场面更加恢宏",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734505.shtml",
+        "publishedAt": "2026-11-19T09:59:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T10:00:02.644+08:00",
+    "fetchedAt": "2026-11-19T10:10:03.068+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T10:00:06.207+08:00",
+      "fetchedAt": "2026-11-19T10:10:06.807+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T15:00:07.000+08:00"
+          "resetAt": "2026-11-19T15:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T10:00:06.468+08:00",
+      "fetchedAt": "2026-11-19T10:10:07.096+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-19T10:00:06.477+08:00",
+      "fetchedAt": "2026-11-19T10:10:07.106+08:00",
       "error": null
     }
   }
