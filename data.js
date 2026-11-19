@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T17:30:38.260+08:00",
+  "updatedAt": "2026-11-19T17:40:09.231+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T17:30:38.260+08:00",
+    "fetchedAt": "2026-11-19T17:40:09.231+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "上海五部门联合印发“园八条” 文创园区迎来新一轮政策利好",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734746.shtml",
-        "publishedAt": "2026-11-19T17:15:34.000+08:00"
+        "title": "从一槽铝水到一池微藻 邹平铝业构建绿色低碳闭环",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734753.shtml",
+        "publishedAt": "2026-11-19T17:29:46.000+08:00"
       },
       {
-        "title": "习近平就大国如何正确相处提出4点看法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734740.shtml",
-        "publishedAt": "2026-11-19T17:15:34.000+08:00"
+        "title": "（深圳APEC）深圳留下近十年最全APEC“全家福”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734752.shtml",
+        "publishedAt": "2026-11-19T17:28:48.000+08:00"
       },
       {
-        "title": "印度一学校62名学生疑因附近沥青厂污染出现恶心和呼吸困难症状",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734747.shtml",
-        "publishedAt": "2026-11-19T17:11:33.000+08:00"
+        "title": "（深圳APEC）习近平会见美国总统特朗普",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734739.shtml",
+        "publishedAt": "2026-11-19T17:27:46.000+08:00"
       },
       {
-        "title": "2027届全国普通高校毕业生规模预计1299万人",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734743.shtml",
-        "publishedAt": "2026-11-19T17:08:47.000+08:00"
+        "title": "新华图讯｜习近平主持中俄美元首会晤",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734754.shtml",
+        "publishedAt": "2026-11-19T17:26:42.000+08:00"
       },
       {
-        "title": "中国5G+工业互联网大会开幕 展示新技术新成果",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734735.shtml",
-        "publishedAt": "2026-11-19T17:02:41.000+08:00"
+        "title": "广东携超2万个岗位赴湘三校“精准揽才”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734759.shtml",
+        "publishedAt": "2026-11-19T17:25:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T17:30:02.986+08:00",
+    "fetchedAt": "2026-11-19T17:40:03.046+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T17:30:36.602+08:00",
+      "fetchedAt": "2026-11-19T17:40:07.338+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 90,
+          "usedPct": 95,
           "resetAt": "2026-11-19T20:19:11.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 14,
+          "usedPct": 15,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T17:30:36.853+08:00",
+      "fetchedAt": "2026-11-19T17:40:07.578+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T17:30:36.862+08:00",
+      "fetchedAt": "2026-11-19T17:40:07.587+08:00",
       "error": null
     }
   }
