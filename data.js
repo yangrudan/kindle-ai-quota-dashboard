@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T15:00:38.749+08:00",
+  "updatedAt": "2026-11-19T15:10:09.586+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 13.9,
-    "feelsLikeC": 10.6,
+    "feelsLikeC": 10.3,
     "humidity": 38,
-    "windKph": 8.3,
+    "windKph": 9.9,
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T15:00:38.749+08:00",
+    "fetchedAt": "2026-11-19T15:10:09.587+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734632.shtml",
+        "publishedAt": "2026-11-19T15:09:11.000+08:00"
+      },
+      {
+        "title": "大熊猫“林阳”因病救治无效死亡 时年25岁",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734631.shtml",
+        "publishedAt": "2026-11-19T15:03:44.000+08:00"
+      },
+      {
+        "title": "吉林市迎今冬最大降雪 校园上演趣味雪课",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734630.shtml",
+        "publishedAt": "2026-11-19T15:02:02.000+08:00"
+      },
+      {
+        "title": "“水脉变革”让新疆“白色荒滩”变“绿色粮仓”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734626.shtml",
+        "publishedAt": "2026-11-19T14:55:06.000+08:00"
+      },
+      {
         "title": "第八届中国—东盟法治论坛在重庆举行",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734623.shtml",
         "publishedAt": "2026-11-19T14:51:50.000+08:00"
-      },
-      {
-        "title": "斯诺克德国大师赛资格赛：丁俊晖晋级正赛32强",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734622.shtml",
-        "publishedAt": "2026-11-19T14:50:36.000+08:00"
-      },
-      {
-        "title": "成都首发中亚JSQ捷达班列",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734621.shtml",
-        "publishedAt": "2026-11-19T14:48:48.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734613.shtml",
-        "publishedAt": "2026-11-19T14:37:43.000+08:00"
-      },
-      {
-        "title": "陕西深入推进防震减灾综合治理 构建“空天地井”立体监测网络",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734615.shtml",
-        "publishedAt": "2026-11-19T14:34:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T15:00:02.916+08:00",
+    "fetchedAt": "2026-11-19T15:10:02.307+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T15:00:37.620+08:00",
+      "fetchedAt": "2026-11-19T15:10:06.815+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 21,
           "resetAt": "2026-11-19T19:03:29.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T15:00:37.769+08:00",
+      "fetchedAt": "2026-11-19T15:10:06.922+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T15:00:37.778+08:00",
+      "fetchedAt": "2026-11-19T15:10:06.932+08:00",
       "error": null
     }
   }
