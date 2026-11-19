@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T20:00:38.770+08:00",
+  "updatedAt": "2026-11-19T20:10:09.461+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T20:00:38.770+08:00",
+    "fetchedAt": "2026-11-19T20:10:09.461+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）习近平：三国会晤播下的种子必将生根发芽、开花结果",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734863.shtml",
-        "publishedAt": "2026-11-19T19:50:40.000+08:00"
+        "title": "2026年驻济高校发挥统战优势助力省会高质量发展学习交流活动成功举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734771.shtml",
+        "publishedAt": "2026-11-19T20:04:43.000+08:00"
       },
       {
-        "title": "民进中央对口宁夏开展黄河流域生态保护和高质量发展民主监督2026年情况反馈会在宁夏银川召开",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734859.shtml",
-        "publishedAt": "2026-11-19T19:50:14.000+08:00"
+        "title": "（深圳APEC）中外媒体记者关注2026年APEC领导人会议周",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211234.shtml",
+        "publishedAt": "2026-11-19T20:04:10.000+08:00"
       },
       {
-        "title": "（深圳APEC）李家超：香港深化与APEC经济体交流，讲好大湾区故事",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734839.shtml",
-        "publishedAt": "2026-11-19T19:49:26.000+08:00"
+        "title": "2026“汉交会”开幕 中外客商共寻经贸合作机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734837.shtml",
+        "publishedAt": "2026-11-19T20:03:17.000+08:00"
       },
       {
-        "title": "中国自研合成生物领域首个酶设计大模型发布",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734841.shtml",
-        "publishedAt": "2026-11-19T19:47:34.000+08:00"
+        "title": "旧物缄口 故事不息：年轻人如何读懂美国友人柏大卫？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734855.shtml",
+        "publishedAt": "2026-11-19T20:01:01.000+08:00"
       },
       {
-        "title": "榕台职工福州探寻百年工业文脉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734842.shtml",
-        "publishedAt": "2026-11-19T19:45:56.000+08:00"
+        "title": "“梦想织锦·香港”展览在港开幕 邀访客参与摄影创作",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734858.shtml",
+        "publishedAt": "2026-11-19T20:00:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T20:00:02.676+08:00",
+    "fetchedAt": "2026-11-19T20:10:03.033+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T20:00:36.919+08:00",
+      "fetchedAt": "2026-11-19T20:10:07.591+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T20:00:37.183+08:00",
+      "fetchedAt": "2026-11-19T20:10:07.817+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T20:00:37.189+08:00",
+      "fetchedAt": "2026-11-19T20:10:07.821+08:00",
       "error": null
     }
   }
