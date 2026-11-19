@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T19:50:08.776+08:00",
+  "updatedAt": "2026-11-19T20:00:38.770+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 9.3,
-    "feelsLikeC": 5.9,
-    "humidity": 54,
-    "windKph": 9.1,
+    "tempC": 9.2,
+    "feelsLikeC": 5.8,
+    "humidity": 55,
+    "windKph": 8.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-19T19:50:08.777+08:00",
+    "observedAt": "2026-11-19T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-19T20:00:38.770+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）习近平：三国会晤播下的种子必将生根发芽、开花结果",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734863.shtml",
+        "publishedAt": "2026-11-19T19:50:40.000+08:00"
+      },
+      {
+        "title": "民进中央对口宁夏开展黄河流域生态保护和高质量发展民主监督2026年情况反馈会在宁夏银川召开",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734859.shtml",
+        "publishedAt": "2026-11-19T19:50:14.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）李家超：香港深化与APEC经济体交流，讲好大湾区故事",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734839.shtml",
+        "publishedAt": "2026-11-19T19:49:26.000+08:00"
+      },
       {
         "title": "中国自研合成生物领域首个酶设计大模型发布",
         "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734841.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "榕台职工福州探寻百年工业文脉",
         "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734842.shtml",
         "publishedAt": "2026-11-19T19:45:56.000+08:00"
-      },
-      {
-        "title": "国际智能制造联盟主席杨华勇：推动新一代智能制造从概念走向落地",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734760.shtml",
-        "publishedAt": "2026-11-19T19:45:08.000+08:00"
-      },
-      {
-        "title": "新疆阿拉山口铁路口岸今年通行中欧（中亚）班列超8000列",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734845.shtml",
-        "publishedAt": "2026-11-19T19:44:58.000+08:00"
-      },
-      {
-        "title": "石泰峰在陕西、四川调研时强调 深入学习贯彻习近平党建思想 推动全面从严治党各项任务落到实处",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734861.shtml",
-        "publishedAt": "2026-11-19T19:43:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T19:50:03.155+08:00",
+    "fetchedAt": "2026-11-19T20:00:02.676+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T19:50:07.311+08:00",
+      "fetchedAt": "2026-11-19T20:00:36.919+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T19:50:07.537+08:00",
+      "fetchedAt": "2026-11-19T20:00:37.183+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T19:50:07.546+08:00",
+      "fetchedAt": "2026-11-19T20:00:37.189+08:00",
       "error": null
     }
   }
