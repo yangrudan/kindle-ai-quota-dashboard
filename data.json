@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T11:20:08.325+08:00",
+  "updatedAt": "2026-11-19T11:30:38.340+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12,
-    "feelsLikeC": 9.1,
-    "humidity": 46,
-    "windKph": 9.8,
+    "tempC": 12.3,
+    "feelsLikeC": 9.4,
+    "humidity": 45,
+    "windKph": 9.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T11:20:08.325+08:00",
+    "observedAt": "2026-11-19T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T11:30:38.340+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）深圳之约，美企缘何“用脚投票”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734545.shtml",
-        "publishedAt": "2026-11-19T11:16:38.000+08:00"
+        "title": "江苏扬州发布涉企网络服务清单 五类16项举措护航企业“网事”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734550.shtml",
+        "publishedAt": "2026-11-19T11:28:21.000+08:00"
       },
       {
-        "title": "凝聚粤港澳台侨青年同心力量 江门市举办纪念孙中山先生诞辰160周年专题研讨会",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734541.shtml",
-        "publishedAt": "2026-11-19T11:15:52.000+08:00"
+        "title": "云南西双版纳举办边境贸易旅游交易会 架起澜湄经贸桥",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734551.shtml",
+        "publishedAt": "2026-11-19T11:28:13.000+08:00"
       },
       {
-        "title": "杨秀梅：一株寒梅绽芳华?履职尽责写担当",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734543.shtml",
-        "publishedAt": "2026-11-19T11:15:24.000+08:00"
+        "title": "三峡枢纽新通道首条500千伏线路完成迁改",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734552.shtml",
+        "publishedAt": "2026-11-19T11:27:43.000+08:00"
       },
       {
-        "title": "国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734531.shtml",
-        "publishedAt": "2026-11-19T11:03:54.000+08:00"
+        "title": "黑龙江共青团“金秋助学”希望工程圆梦行动助力5.6万名学子逐梦成才",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734553.shtml",
+        "publishedAt": "2026-11-19T11:27:19.000+08:00"
       },
       {
-        "title": "多名中国公民在赞比亚因非法采金被捕，中使馆提醒",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-19/10734486.shtml",
-        "publishedAt": "2026-11-19T11:03:46.000+08:00"
+        "title": "汇聚海内外客商 江苏江阴以链聚势打造产业新增长极",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734554.shtml",
+        "publishedAt": "2026-11-19T11:27:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T11:20:02.647+08:00",
+    "fetchedAt": "2026-11-19T11:30:02.799+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T11:20:07.132+08:00",
+      "fetchedAt": "2026-11-19T11:30:36.897+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T16:20:08.000+08:00"
+          "resetAt": "2026-11-19T16:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T11:20:07.377+08:00",
+      "fetchedAt": "2026-11-19T11:30:37.123+08:00",
       "error": null
     },
     "mimo": {
@@ -94,10 +94,10 @@
     "deepseek": {
       "ok": true,
       "label": "DeepSeek",
-      "balance": 22.76,
+      "balance": 21.99,
       "currency": "CNY",
-      "detail": "余额 ¥22.76",
-      "fetchedAt": "2026-11-19T11:20:07.380+08:00",
+      "detail": "余额 ¥21.99",
+      "fetchedAt": "2026-11-19T11:30:37.134+08:00",
       "error": null
     }
   }
