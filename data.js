@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T10:30:38.318+08:00",
+  "updatedAt": "2026-11-19T10:40:08.509+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T10:30:38.319+08:00",
+    "fetchedAt": "2026-11-19T10:40:08.509+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第二届空间科学青年科学家国际论坛在塞浦路斯举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734516.shtml",
-        "publishedAt": "2026-11-19T10:22:43.000+08:00"
+        "title": "床位总量下行，养老院还进得去吗",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734527.shtml",
+        "publishedAt": "2026-11-19T10:36:48.000+08:00"
       },
       {
-        "title": "冬装消费需求更趋多元 折射大众真实消费取向与市场新机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734514.shtml",
-        "publishedAt": "2026-11-19T10:14:55.000+08:00"
+        "title": "（深圳APEC）物流跨海、订单“快跑” 亚太互联互通持续升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734522.shtml",
+        "publishedAt": "2026-11-19T10:34:20.000+08:00"
       },
       {
-        "title": "通化市：“书记有约·纾困直通车”架起连心桥",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734512.shtml",
-        "publishedAt": "2026-11-19T10:14:01.000+08:00"
+        "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734521.shtml",
+        "publishedAt": "2026-11-19T10:27:26.000+08:00"
       },
       {
-        "title": "云岭动态第四十四期",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734511.shtml",
-        "publishedAt": "2026-11-19T10:12:49.000+08:00"
+        "title": "联合国前副秘书长索尔海姆：中国清洁能源发展让各国走向繁荣与绿色",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734517.shtml",
+        "publishedAt": "2026-11-19T10:26:40.000+08:00"
       },
       {
-        "title": "“晶通丝路”东海水晶文化体验活动在曼谷举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734491.shtml",
-        "publishedAt": "2026-11-19T10:11:59.000+08:00"
+        "title": "云南砚山：云海流淌 彝乡晨景如仙境",
+        "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-19/news1075431.shtml",
+        "publishedAt": "2026-11-19T10:26:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T10:30:02.980+08:00",
+    "fetchedAt": "2026-11-19T10:40:02.948+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T10:30:36.763+08:00",
+      "fetchedAt": "2026-11-19T10:40:07.142+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T15:30:38.000+08:00"
+          "resetAt": "2026-11-19T15:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T10:30:37.038+08:00",
+      "fetchedAt": "2026-11-19T10:40:07.396+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 24.37,
       "currency": "CNY",
       "detail": "余额 ¥24.37",
-      "fetchedAt": "2026-11-19T10:30:37.049+08:00",
+      "fetchedAt": "2026-11-19T10:40:07.401+08:00",
       "error": null
     }
   }
