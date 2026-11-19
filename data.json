@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T12:10:09.561+08:00",
+  "updatedAt": "2026-11-19T12:20:09.154+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.7,
-    "feelsLikeC": 9.9,
-    "humidity": 43,
-    "windKph": 9.2,
+    "tempC": 12.9,
+    "feelsLikeC": 10.1,
+    "humidity": 42,
+    "windKph": 9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T12:10:09.561+08:00",
+    "observedAt": "2026-11-19T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T12:20:09.154+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家数据局：开展新一批可信数据空间创新发展试点",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734558.shtml",
+        "publishedAt": "2026-11-19T12:04:43.000+08:00"
+      },
       {
         "title": "抓住“黄金3分钟” 坚持做这6个动作让你全身受益",
         "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734564.shtml",
@@ -38,14 +43,9 @@
         "title": "A股午评：三大指数收跌，超4500只个股飘绿",
         "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734560.shtml",
         "publishedAt": "2026-11-19T11:48:22.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）习近平：携手搭建亚太共同体的“四梁八柱”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734544.shtml",
-        "publishedAt": "2026-11-19T11:34:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T12:10:03.154+08:00",
+    "fetchedAt": "2026-11-19T12:20:02.542+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T12:10:07.829+08:00",
+      "fetchedAt": "2026-11-19T12:20:06.706+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T17:10:09.000+08:00"
+          "resetAt": "2026-11-19T17:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T12:10:08.063+08:00",
+      "fetchedAt": "2026-11-19T12:20:07.066+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 18.03,
       "currency": "CNY",
       "detail": "余额 ¥18.03",
-      "fetchedAt": "2026-11-19T12:10:08.067+08:00",
+      "fetchedAt": "2026-11-19T12:20:07.075+08:00",
       "error": null
     }
   }
