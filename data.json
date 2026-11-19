@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T11:50:37.975+08:00",
+  "updatedAt": "2026-11-19T12:00:09.514+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.5,
-    "feelsLikeC": 9.7,
-    "humidity": 44,
-    "windKph": 9.4,
+    "tempC": 12.7,
+    "feelsLikeC": 9.9,
+    "humidity": 43,
+    "windKph": 9.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-19T11:50:37.976+08:00",
+    "observedAt": "2026-11-19T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-19T12:00:09.514+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）习近平主持亚太经合组织第三十三次领导人非正式会议",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211187.shtml",
+        "publishedAt": "2026-11-19T11:52:56.000+08:00"
+      },
+      {
+        "title": "深耕中国、看好深圳：美国工商界人士期待借APEC深化中美经贸合作",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734557.shtml",
+        "publishedAt": "2026-11-19T11:49:34.000+08:00"
+      },
       {
         "title": "A股午评：三大指数收跌，超4500只个股飘绿",
         "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734560.shtml",
@@ -33,19 +43,9 @@
         "title": "（深圳APEC）习近平谈建设亚太共同体",
         "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734542.shtml",
         "publishedAt": "2026-11-19T11:34:45.000+08:00"
-      },
-      {
-        "title": "辽宁省算力券政策正式落地实施",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734549.shtml",
-        "publishedAt": "2026-11-19T11:29:11.000+08:00"
-      },
-      {
-        "title": "江苏扬州发布涉企网络服务清单 五类16项举措护航企业“网事”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734550.shtml",
-        "publishedAt": "2026-11-19T11:28:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T11:50:02.974+08:00",
+    "fetchedAt": "2026-11-19T12:00:03.145+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T11:50:36.453+08:00",
+      "fetchedAt": "2026-11-19T12:00:07.430+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T16:50:37.000+08:00"
+          "resetAt": "2026-11-19T17:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-20T14:52:34.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T11:50:36.739+08:00",
+      "fetchedAt": "2026-11-19T12:00:07.671+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 18.03,
       "currency": "CNY",
       "detail": "余额 ¥18.03",
-      "fetchedAt": "2026-11-19T11:50:36.745+08:00",
+      "fetchedAt": "2026-11-19T12:00:07.681+08:00",
       "error": null
     }
   }
