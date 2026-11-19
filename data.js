@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T21:00:08.102+08:00",
+  "updatedAt": "2026-11-19T21:10:09.147+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T21:00:08.102+08:00",
+    "fetchedAt": "2026-11-19T21:10:09.147+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国官方：2027届全国普通高校毕业生规模预计1299万人",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734900.shtml",
-        "publishedAt": "2026-11-19T20:54:31.000+08:00"
+        "title": "青海2030年粮食产能锚定120万吨以上",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734907.shtml",
+        "publishedAt": "2026-11-19T21:05:00.000+08:00"
       },
       {
-        "title": "习近平主持中俄美元首会晤",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211240.shtml",
-        "publishedAt": "2026-11-19T20:54:04.000+08:00"
+        "title": "《新历史知识理论》中文版首发",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734906.shtml",
+        "publishedAt": "2026-11-19T21:03:58.000+08:00"
       },
       {
-        "title": "从“看见”到“听见” 浙江脑机接口加速走向病床",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734808.shtml",
-        "publishedAt": "2026-11-19T20:52:47.000+08:00"
+        "title": "从“留住根”到“知文化信文化” 华裔青年接力拓展华文教育边界",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-19/10734908.shtml",
+        "publishedAt": "2026-11-19T21:02:32.000+08:00"
       },
       {
-        "title": "上海区域空间环评改革扩围 源头管控方式更丰富",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734849.shtml",
-        "publishedAt": "2026-11-19T20:48:53.000+08:00"
+        "title": "11月19日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-19/10734913.shtml",
+        "publishedAt": "2026-11-19T21:01:54.000+08:00"
       },
       {
-        "title": "中国落子亚太区域合作先手棋",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734889.shtml",
-        "publishedAt": "2026-11-19T20:47:57.000+08:00"
+        "title": "10月中国企业信用指数稳步回升",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734899.shtml",
+        "publishedAt": "2026-11-19T21:01:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T21:00:02.415+08:00",
+    "fetchedAt": "2026-11-19T21:10:03.495+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T21:00:06.718+08:00",
+      "fetchedAt": "2026-11-19T21:10:07.832+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T02:00:08.000+08:00"
+          "resetAt": "2026-11-20T02:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T21:00:07.120+08:00",
+      "fetchedAt": "2026-11-19T21:10:08.111+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T21:00:07.129+08:00",
+      "fetchedAt": "2026-11-19T21:10:08.115+08:00",
       "error": null
     }
   }
