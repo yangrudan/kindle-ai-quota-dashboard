@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T15:20:08.372+08:00",
+  "updatedAt": "2026-11-19T15:30:08.521+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.8,
-    "feelsLikeC": 10.2,
+    "tempC": 13.7,
+    "feelsLikeC": 10.1,
     "humidity": 39,
-    "windKph": 10.1,
+    "windKph": 10.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-19T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T15:20:08.373+08:00",
+    "observedAt": "2026-11-19T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T15:30:08.521+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "洪都拉斯发生袭击事件造成至少12人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734574.shtml",
-        "publishedAt": "2026-11-19T15:19:09.000+08:00"
+        "title": "新华图讯丨习近平会见美国总统特朗普",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734624.shtml",
+        "publishedAt": "2026-11-19T15:24:16.000+08:00"
       },
       {
-        "title": "中国雪乡风景区开园 新增冰雪DIY体验",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734640.shtml",
-        "publishedAt": "2026-11-19T15:18:49.000+08:00"
+        "title": "何以中国丨在长安，与诗相遇",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734649.shtml",
+        "publishedAt": "2026-11-19T15:23:32.000+08:00"
       },
       {
-        "title": "一增一稳，外商真金白银投下信任票（读数）",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734641.shtml",
-        "publishedAt": "2026-11-19T15:18:45.000+08:00"
+        "title": "（深圳APEC）出席欢迎宴会的来宾步入深圳国际交流中心",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211198.shtml",
+        "publishedAt": "2026-11-19T15:23:16.000+08:00"
       },
       {
-        "title": "鹄影蹁跹引客来 新疆“赏天鹅季”催热冬季文旅",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734633.shtml",
-        "publishedAt": "2026-11-19T15:16:17.000+08:00"
+        "title": "金正恩会否与特朗普举行会晤？中方回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734645.shtml",
+        "publishedAt": "2026-11-19T15:20:05.000+08:00"
       },
       {
-        "title": "多位领导人在APEC工商领导人峰会上呼吁开放创新合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734639.shtml",
-        "publishedAt": "2026-11-19T15:15:27.000+08:00"
+        "title": "APEC会议期间中日领导人是否会举行会晤？外交部回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734644.shtml",
+        "publishedAt": "2026-11-19T15:19:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T15:20:02.889+08:00",
+    "fetchedAt": "2026-11-19T15:30:02.823+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T15:20:07.033+08:00",
+      "fetchedAt": "2026-11-19T15:30:07.143+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-11-19T20:19:11.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T15:20:07.122+08:00",
+      "fetchedAt": "2026-11-19T15:30:07.324+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T15:20:07.125+08:00",
+      "fetchedAt": "2026-11-19T15:30:07.327+08:00",
       "error": null
     }
   }
