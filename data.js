@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T21:30:08.416+08:00",
+  "updatedAt": "2026-11-19T21:40:09.108+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-19T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T21:30:08.416+08:00",
+    "fetchedAt": "2026-11-19T21:40:09.108+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "32家企业纳入横琴粤澳深度合作区第三批“育苗”库",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734916.shtml",
-        "publishedAt": "2026-11-19T21:26:51.000+08:00"
+        "title": "习近平主持中俄美元首会晤",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734919.shtml",
+        "publishedAt": "2026-11-19T21:35:16.000+08:00"
       },
       {
-        "title": "全国首家省级政校协同网络交易研究院在黑龙江揭牌成立",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734895.shtml",
-        "publishedAt": "2026-11-19T21:25:49.000+08:00"
+        "title": "浙江杭州：机器人“售货员”上岗街头零售亭",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734926.shtml",
+        "publishedAt": "2026-11-19T21:34:34.000+08:00"
       },
       {
-        "title": "2026年中国内地与香港企业会计准则保持持续趋同",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734909.shtml",
-        "publishedAt": "2026-11-19T21:25:45.000+08:00"
+        "title": "刘汉元：让光伏发电从“看天吃饭”走向可调度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734846.shtml",
+        "publishedAt": "2026-11-19T21:31:48.000+08:00"
       },
       {
-        "title": "重庆设立多式联运仲裁中心 护航西部陆海新通道高水平对外开放",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734847.shtml",
-        "publishedAt": "2026-11-19T21:23:57.000+08:00"
+        "title": "浙江杭州：西湖秋意浓",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734922.shtml",
+        "publishedAt": "2026-11-19T21:30:37.000+08:00"
       },
       {
-        "title": "太行腹地藏冷泉 邯郸涉县冷水鱼“游”出富民产业",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734911.shtml",
-        "publishedAt": "2026-11-19T21:23:39.000+08:00"
+        "title": "第七届全国乒乓球“业余球王”总决赛开赛 657名选手角逐“球王”荣誉",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734834.shtml",
+        "publishedAt": "2026-11-19T21:29:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T21:30:02.823+08:00",
+    "fetchedAt": "2026-11-19T21:40:02.932+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-19T21:30:06.760+08:00",
+      "fetchedAt": "2026-11-19T21:40:07.361+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T02:30:08.000+08:00"
+          "resetAt": "2026-11-20T02:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T21:30:07.306+08:00",
+      "fetchedAt": "2026-11-19T21:40:07.651+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-19T21:30:07.315+08:00",
+      "fetchedAt": "2026-11-19T21:40:07.661+08:00",
       "error": null
     }
   }
