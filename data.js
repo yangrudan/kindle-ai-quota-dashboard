@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T22:20:08.975+08:00",
+  "updatedAt": "2026-11-20T22:30:38.520+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 6.4,
-    "feelsLikeC": 4,
-    "humidity": 73,
-    "windKph": 3.9,
+    "tempC": 6.1,
+    "feelsLikeC": 3.8,
+    "humidity": 75,
+    "windKph": 3.7,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T22:20:08.975+08:00",
+    "observedAt": "2026-11-20T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T22:30:38.520+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "赵乐际会见澳大利亚总理阿尔巴尼斯",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211322.shtml",
+        "publishedAt": "2026-11-20T22:22:20.000+08:00"
+      },
+      {
+        "title": "越共中央总书记、国家主席苏林就任后首访云南",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735579.shtml",
+        "publishedAt": "2026-11-20T22:18:21.000+08:00"
+      },
       {
         "title": "（深圳APEC）“未来在此被设计、测试和建造”——APEC与会领导人点赞深圳",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735538.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "百对新人喜结良缘 福州市2026年集体婚礼举行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735580.shtml",
         "publishedAt": "2026-11-20T22:06:16.000+08:00"
-      },
-      {
-        "title": "第三届推进中华民族共同体建设学术研讨会在南宁举办",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-20/10735577.shtml",
-        "publishedAt": "2026-11-20T22:04:42.000+08:00"
-      },
-      {
-        "title": "习近平会见印度尼西亚总统普拉博沃",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211320.shtml",
-        "publishedAt": "2026-11-20T22:04:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T22:20:02.501+08:00",
+    "fetchedAt": "2026-11-20T22:30:02.551+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T22:20:07.346+08:00",
+      "fetchedAt": "2026-11-20T22:30:37.210+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T03:20:08.000+08:00"
+          "resetAt": "2026-11-21T03:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T22:20:07.548+08:00",
+      "fetchedAt": "2026-11-20T22:30:37.404+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T22:20:07.557+08:00",
+      "fetchedAt": "2026-11-20T22:30:37.413+08:00",
       "error": null
     }
   }
