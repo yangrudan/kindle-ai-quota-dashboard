@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T08:00:09.504+08:00",
+  "updatedAt": "2026-11-20T08:10:07.533+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-20T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T08:00:09.504+08:00",
+    "fetchedAt": "2026-11-20T08:10:07.533+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "抄袭、洗稿事件频发 文学刊物如何守住“原创防线”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735008.shtml",
+        "publishedAt": "2026-11-20T08:05:14.000+08:00"
+      },
       {
         "title": "研究发现：大脑的“青春期”能持续到32岁左右",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735006.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "产销、改装、回收，汽车消费全链条发力",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735005.shtml",
         "publishedAt": "2026-11-20T07:45:47.000+08:00"
-      },
-      {
-        "title": "尼泊尔法院批准羁押两名前劳工部长",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734994.shtml",
-        "publishedAt": "2026-11-20T07:40:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T08:00:03.305+08:00",
+    "fetchedAt": "2026-11-20T08:10:02.508+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T08:00:07.668+08:00",
+      "fetchedAt": "2026-11-20T08:10:06.241+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T13:00:09.000+08:00"
+          "resetAt": "2026-11-20T13:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T08:00:07.917+08:00",
+      "fetchedAt": "2026-11-20T08:10:06.472+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T08:00:07.925+08:00",
+      "fetchedAt": "2026-11-20T08:10:06.481+08:00",
       "error": null
     }
   }
