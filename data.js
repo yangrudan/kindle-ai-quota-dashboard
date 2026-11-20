@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T14:10:08.358+08:00",
+  "updatedAt": "2026-11-20T14:20:43.324+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.1,
+    "tempC": 14.2,
     "feelsLikeC": 11.1,
-    "humidity": 31,
+    "humidity": 30,
     "windKph": 3.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T14:10:08.359+08:00",
+    "observedAt": "2026-11-20T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T14:20:43.324+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "AI类岗位扩容、技能人才需求旺 就业市场出现哪些新趋势？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735196.shtml",
+        "publishedAt": "2026-11-20T14:10:38.000+08:00"
+      },
+      {
+        "title": "广西三江：脐橙飘香引客来",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735188.shtml",
+        "publishedAt": "2026-11-20T14:05:50.000+08:00"
+      },
       {
         "title": "采油守望者：传承“三老四严” 数字赋能守护油田生命线",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735189.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（乡村行·看振兴）寒江赏雾凇 非遗暖游人：吉林古镇做热“冷风景”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735187.shtml",
         "publishedAt": "2026-11-20T13:57:16.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）海外侨胞关注APEC会议：凝聚合作共识 共促亚太繁荣",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735124.shtml",
-        "publishedAt": "2026-11-20T13:56:50.000+08:00"
-      },
-      {
-        "title": "在抉择中看见人性的温度 北京人艺《赵氏孤儿》再登台",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735190.shtml",
-        "publishedAt": "2026-11-20T13:56:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T14:10:02.433+08:00",
+    "fetchedAt": "2026-11-20T14:20:02.801+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T14:10:06.765+08:00",
+      "fetchedAt": "2026-11-20T14:20:41.851+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T14:10:06.976+08:00",
+      "fetchedAt": "2026-11-20T14:20:41.907+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T14:10:06.988+08:00",
+      "fetchedAt": "2026-11-20T14:20:41.916+08:00",
       "error": null
     }
   }
