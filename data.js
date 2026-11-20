@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T10:50:38.646+08:00",
+  "updatedAt": "2026-11-20T11:00:08.864+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.7,
-    "feelsLikeC": 8.6,
+    "tempC": 11.9,
+    "feelsLikeC": 9,
     "humidity": 34,
-    "windKph": 6.1,
+    "windKph": 5.8,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T10:50:38.646+08:00",
+    "observedAt": "2026-11-20T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T11:00:08.865+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "我国海洋药物和功能制品业发展提速 规模近千亿",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735109.shtml",
-        "publishedAt": "2026-11-20T10:44:27.000+08:00"
+        "title": "郑州大学第一附属医院原党委书记王成增被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735072.shtml",
+        "publishedAt": "2026-11-20T10:51:59.000+08:00"
       },
       {
-        "title": "“印章怎么盖在马赛克上？”厉娜晒流水遭质疑，银行客服回应、律师解读",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735095.shtml",
-        "publishedAt": "2026-11-20T10:43:19.000+08:00"
+        "title": "（投资中国）DHL高管：对中国市场长期增长前景保持信心",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735111.shtml",
+        "publishedAt": "2026-11-20T10:51:39.000+08:00"
       },
       {
-        "title": "微短剧《子如青山》在渝开机 致敬新时代渝商精神",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735089.shtml",
-        "publishedAt": "2026-11-20T10:41:53.000+08:00"
+        "title": "11月20日央行开展3795亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735064.shtml",
+        "publishedAt": "2026-11-20T10:51:39.000+08:00"
       },
       {
-        "title": "重庆大渡口：“十五五”工业总产值力争突破1000亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735062.shtml",
-        "publishedAt": "2026-11-20T10:40:35.000+08:00"
+        "title": "11月20日人民币对美元中间价报6.7131 下调3个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735059.shtml",
+        "publishedAt": "2026-11-20T10:51:29.000+08:00"
       },
       {
-        "title": "高安市举办第五期“同心·学习大讲坛”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735074.shtml",
-        "publishedAt": "2026-11-20T10:38:55.000+08:00"
+        "title": "靖安县委统战部牵头开展产教融合调研推动校企合作签约",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735107.shtml",
+        "publishedAt": "2026-11-20T10:51:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T10:50:02.891+08:00",
+    "fetchedAt": "2026-11-20T11:00:02.775+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T10:50:37.605+08:00",
+      "fetchedAt": "2026-11-20T11:00:07.478+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T10:50:37.732+08:00",
+      "fetchedAt": "2026-11-20T11:00:07.656+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T10:50:37.736+08:00",
+      "fetchedAt": "2026-11-20T11:00:07.665+08:00",
       "error": null
     }
   }
