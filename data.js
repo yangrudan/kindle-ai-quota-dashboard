@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T20:30:09.201+08:00",
+  "updatedAt": "2026-11-20T20:40:08.864+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-20T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T20:30:09.201+08:00",
+    "fetchedAt": "2026-11-20T20:40:08.864+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "集聚英才强链补链 重庆高新区发力新一代电子信息制造业",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735506.shtml",
-        "publishedAt": "2026-11-20T20:21:20.000+08:00"
+        "title": "（乡村行·看振兴）“薯”写丰收路 浙江文成山货变身富民“金疙瘩”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735514.shtml",
+        "publishedAt": "2026-11-20T20:35:19.000+08:00"
       },
       {
-        "title": "中国高层次国际化人才培养创新实践项目惠及62.3万余名师生",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735503.shtml",
-        "publishedAt": "2026-11-20T20:21:16.000+08:00"
+        "title": "中国首次量子磁测电缆巡检实战作业完成",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735513.shtml",
+        "publishedAt": "2026-11-20T20:34:57.000+08:00"
       },
       {
-        "title": "马来西亚10月出口同比激增61.1%",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735500.shtml",
-        "publishedAt": "2026-11-20T20:21:14.000+08:00"
+        "title": "专家解读：如何成长为A级纳税人？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735512.shtml",
+        "publishedAt": "2026-11-20T20:34:39.000+08:00"
       },
       {
-        "title": "“京沪快线”在上海虹桥国际机场跨航司自愿签转服务再升级",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735498.shtml",
-        "publishedAt": "2026-11-20T20:21:12.000+08:00"
+        "title": "兰花“架”桥 香馥万里",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735511.shtml",
+        "publishedAt": "2026-11-20T20:34:35.000+08:00"
       },
       {
-        "title": "报告：预计2035年世界电气化率达到30%左右",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735497.shtml",
-        "publishedAt": "2026-11-20T20:20:14.000+08:00"
+        "title": "北交所推出创新型中小企业发展公司债券",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735508.shtml",
+        "publishedAt": "2026-11-20T20:34:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T20:30:03.427+08:00",
+    "fetchedAt": "2026-11-20T20:40:03.547+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T20:30:06.479+08:00",
+      "fetchedAt": "2026-11-20T20:40:07.292+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T01:30:09.000+08:00"
+          "resetAt": "2026-11-21T01:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T20:30:08.114+08:00",
+      "fetchedAt": "2026-11-20T20:40:07.646+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T20:30:08.123+08:00",
+      "fetchedAt": "2026-11-20T20:40:07.654+08:00",
       "error": null
     }
   }
