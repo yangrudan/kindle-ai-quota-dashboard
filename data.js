@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T12:50:09.821+08:00",
+  "updatedAt": "2026-11-20T13:00:08.160+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.3,
-    "feelsLikeC": 10.5,
+    "tempC": 13.5,
+    "feelsLikeC": 10.6,
     "humidity": 34,
-    "windKph": 4.2,
+    "windKph": 4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T12:50:09.821+08:00",
+    "observedAt": "2026-11-20T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T13:00:08.160+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "河南郑州：初冬赏景正当时",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735131.shtml",
+        "publishedAt": "2026-11-20T12:50:56.000+08:00"
+      },
+      {
+        "title": "世界客属第34届恳亲大会在海口开幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735149.shtml",
+        "publishedAt": "2026-11-20T12:48:26.000+08:00"
+      },
       {
         "title": "“援”定天山：智能工厂落地 新疆棉沪企造",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735134.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "让历史“可触摸”让共识润物无声 重庆让统战文化“活”在当下",
         "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735141.shtml",
         "publishedAt": "2026-11-20T12:24:47.000+08:00"
-      },
-      {
-        "title": "宁夏固原：一条河的五年蜕变 一座城的绿色转身",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735137.shtml",
-        "publishedAt": "2026-11-20T12:23:25.000+08:00"
-      },
-      {
-        "title": "“援”定天山：克州组装电动车驶入中亚市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735132.shtml",
-        "publishedAt": "2026-11-20T12:22:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T12:50:02.662+08:00",
+    "fetchedAt": "2026-11-20T13:00:02.478+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T12:50:07.487+08:00",
+      "fetchedAt": "2026-11-20T13:00:06.767+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T12:50:07.928+08:00",
+      "fetchedAt": "2026-11-20T13:00:07.076+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T12:50:07.936+08:00",
+      "fetchedAt": "2026-11-20T13:00:07.085+08:00",
       "error": null
     }
   }
