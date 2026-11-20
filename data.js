@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T21:00:08.567+08:00",
+  "updatedAt": "2026-11-20T21:10:08.126+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-20T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T21:00:08.567+08:00",
+    "fetchedAt": "2026-11-20T21:10:08.126+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从接警到“治未病”：浙江义乌古镇警务“向前一步”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735524.shtml",
-        "publishedAt": "2026-11-20T20:46:10.000+08:00"
+        "title": "体验非遗与文创 台湾民众盼赴大陆旅游更便捷",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735531.shtml",
+        "publishedAt": "2026-11-20T21:05:09.000+08:00"
       },
       {
-        "title": "从机器人到低空飞行器：欧洲记者、博主在成都感受“未来”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735523.shtml",
-        "publishedAt": "2026-11-20T20:42:09.000+08:00"
+        "title": "任栋任扬州市副市长、代理市长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735530.shtml",
+        "publishedAt": "2026-11-20T21:03:53.000+08:00"
       },
       {
-        "title": "产业观察：一座山区小县城，何以“无所不锯”？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735522.shtml",
-        "publishedAt": "2026-11-20T20:42:03.000+08:00"
+        "title": "浙江多地气温创下半年新低",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735529.shtml",
+        "publishedAt": "2026-11-20T21:02:59.000+08:00"
       },
       {
-        "title": "浙江探路综合高中 给成长多留一段“缓冲期”",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735521.shtml",
-        "publishedAt": "2026-11-20T20:41:09.000+08:00"
+        "title": "重庆发布一批产业核心载体与合作计划助推OPC发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735528.shtml",
+        "publishedAt": "2026-11-20T21:02:22.000+08:00"
       },
       {
-        "title": "访西安石油大学“油泥新生”团队：助力石化固废绿色资源化",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735520.shtml",
-        "publishedAt": "2026-11-20T20:40:45.000+08:00"
+        "title": "广州民企巨鲸出海成长计划启动 北京路侨商集市启幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735527.shtml",
+        "publishedAt": "2026-11-20T21:01:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T21:00:03.099+08:00",
+    "fetchedAt": "2026-11-20T21:10:02.541+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T21:00:06.936+08:00",
+      "fetchedAt": "2026-11-20T21:10:06.935+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T02:00:08.000+08:00"
+          "resetAt": "2026-11-21T02:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T21:00:07.278+08:00",
+      "fetchedAt": "2026-11-20T21:10:07.164+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T21:00:07.287+08:00",
+      "fetchedAt": "2026-11-20T21:10:07.173+08:00",
       "error": null
     }
   }
