@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T13:50:08.836+08:00",
+  "updatedAt": "2026-11-20T14:00:10.625+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14,
-    "feelsLikeC": 11,
-    "humidity": 32,
-    "windKph": 3.4,
+    "tempC": 14.1,
+    "feelsLikeC": 11.1,
+    "humidity": 31,
+    "windKph": 3.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T13:50:08.837+08:00",
+    "observedAt": "2026-11-20T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T14:00:10.626+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（深圳APEC）习近平会见印度尼西亚总统普拉博沃",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735167.shtml",
+        "publishedAt": "2026-11-20T13:51:11.000+08:00"
+      },
+      {
+        "title": "从包装到中转 快递全链条向“绿色”转变",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735183.shtml",
+        "publishedAt": "2026-11-20T13:49:37.000+08:00"
+      },
+      {
+        "title": "湖北职业技能大赛开幕 能工巧匠同台切磋技艺",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735175.shtml",
+        "publishedAt": "2026-11-20T13:44:13.000+08:00"
+      },
+      {
+        "title": "斯诺克德国大师赛资格赛收官 中国军团六人率先晋级正赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-20/10735176.shtml",
+        "publishedAt": "2026-11-20T13:43:11.000+08:00"
+      },
+      {
         "title": "APEC“全家福”围巾 大有门道",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735180.shtml",
         "publishedAt": "2026-11-20T13:38:45.000+08:00"
-      },
-      {
-        "title": "双向联动拓新局 沪新理事会第七次会议在沪签约落地多项合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735173.shtml",
-        "publishedAt": "2026-11-20T13:32:10.000+08:00"
-      },
-      {
-        "title": "A股午评：三大指数收跌，超4800只个股飘绿",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735178.shtml",
-        "publishedAt": "2026-11-20T13:30:52.000+08:00"
-      },
-      {
-        "title": "国家公园每五年开展一次“生态体检”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735177.shtml",
-        "publishedAt": "2026-11-20T13:29:34.000+08:00"
-      },
-      {
-        "title": "今年以来广州白云机场口岸APEC外籍旅客占入出境六成",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735168.shtml",
-        "publishedAt": "2026-11-20T13:25:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T13:50:03.192+08:00",
+    "fetchedAt": "2026-11-20T14:00:03.940+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T13:50:07.380+08:00",
+      "fetchedAt": "2026-11-20T14:00:07.821+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 56,
+          "usedPct": 59,
           "resetAt": "2026-11-20T14:22:09.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T13:50:07.645+08:00",
+      "fetchedAt": "2026-11-20T14:00:08.163+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T13:50:07.649+08:00",
+      "fetchedAt": "2026-11-20T14:00:08.170+08:00",
       "error": null
     }
   }
