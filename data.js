@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T11:00:08.864+08:00",
+  "updatedAt": "2026-11-20T11:10:37.762+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-20T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T11:00:08.865+08:00",
+    "fetchedAt": "2026-11-20T11:10:37.763+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一卡玩转长三角！来文博会解锁展内展外多元新体验",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735115.shtml",
+        "publishedAt": "2026-11-20T11:00:22.000+08:00"
+      },
+      {
+        "title": "习近平会见新加坡总理黄循财",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735114.shtml",
+        "publishedAt": "2026-11-20T10:54:40.000+08:00"
+      },
       {
         "title": "郑州大学第一附属医院原党委书记王成增被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735072.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "11月20日央行开展3795亿元隔夜逆回购操作",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735064.shtml",
         "publishedAt": "2026-11-20T10:51:39.000+08:00"
-      },
-      {
-        "title": "11月20日人民币对美元中间价报6.7131 下调3个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735059.shtml",
-        "publishedAt": "2026-11-20T10:51:29.000+08:00"
-      },
-      {
-        "title": "靖安县委统战部牵头开展产教融合调研推动校企合作签约",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735107.shtml",
-        "publishedAt": "2026-11-20T10:51:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T11:00:02.775+08:00",
+    "fetchedAt": "2026-11-20T11:10:02.241+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T11:00:07.478+08:00",
+      "fetchedAt": "2026-11-20T11:10:36.468+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T11:00:07.656+08:00",
+      "fetchedAt": "2026-11-20T11:10:36.596+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T11:00:07.665+08:00",
+      "fetchedAt": "2026-11-20T11:10:36.600+08:00",
       "error": null
     }
   }
