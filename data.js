@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T11:30:08.496+08:00",
+  "updatedAt": "2026-11-20T11:40:09.101+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-20T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T11:30:08.496+08:00",
+    "fetchedAt": "2026-11-20T11:40:09.101+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "五部门印发2026版海洋产业投融资指导目录",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735127.shtml",
+        "publishedAt": "2026-11-20T11:30:52.000+08:00"
+      },
+      {
+        "title": "习近平会见泰国总理阿努廷",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735126.shtml",
+        "publishedAt": "2026-11-20T11:30:44.000+08:00"
+      },
       {
         "title": "当AI“得知”自己将被关闭，它竟然干了这种事……",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735123.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“中文热”催生多元需求 海外华校推进“中文+”课程建设",
         "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735119.shtml",
         "publishedAt": "2026-11-20T11:21:47.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）一叶斑兰南洋味 林下生“金”兴黎村",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735120.shtml",
-        "publishedAt": "2026-11-20T11:20:39.000+08:00"
-      },
-      {
-        "title": "似睡非睡4年 竟拖成顽固性失眠",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735121.shtml",
-        "publishedAt": "2026-11-20T11:18:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T11:30:03.008+08:00",
+    "fetchedAt": "2026-11-20T11:40:03.127+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T11:30:06.922+08:00",
+      "fetchedAt": "2026-11-20T11:40:07.748+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T11:30:07.266+08:00",
+      "fetchedAt": "2026-11-20T11:40:07.995+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T11:30:07.276+08:00",
+      "fetchedAt": "2026-11-20T11:40:08.004+08:00",
       "error": null
     }
   }
