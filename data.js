@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T17:30:08.185+08:00",
+  "updatedAt": "2026-11-20T17:40:38.285+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-20T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T17:30:08.185+08:00",
+    "fetchedAt": "2026-11-20T17:40:38.285+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "贵州新蒲新区：乐器配件生产忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735357.shtml",
+        "publishedAt": "2026-11-20T17:37:37.000+08:00"
+      },
+      {
+        "title": "昆明民进书画院40余幅新作再现红军长征图景",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735362.shtml",
+        "publishedAt": "2026-11-20T17:36:35.000+08:00"
+      },
+      {
+        "title": "辽宁省大连市商务局原局长丛克接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735312.shtml",
+        "publishedAt": "2026-11-20T17:29:19.000+08:00"
+      },
+      {
+        "title": "河南省许昌市政协原副主席周亮军被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735310.shtml",
+        "publishedAt": "2026-11-20T17:28:39.000+08:00"
+      },
+      {
         "title": "黑龙江广播电视传媒网络集团股份有限公司原董事长赵鸿洋被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735321.shtml",
         "publishedAt": "2026-11-20T17:27:55.000+08:00"
-      },
-      {
-        "title": "第二届福建工艺美术双年展启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735350.shtml",
-        "publishedAt": "2026-11-20T17:24:37.000+08:00"
-      },
-      {
-        "title": "前三季度数字产业收入超32万亿元 同比增长14.8%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735341.shtml",
-        "publishedAt": "2026-11-20T17:12:54.000+08:00"
-      },
-      {
-        "title": "四川成都：“年轮：四川美术馆2024—2025年收藏作品展”吸引参观者",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735334.shtml",
-        "publishedAt": "2026-11-20T17:11:24.000+08:00"
-      },
-      {
-        "title": "富平赴南昌开展两场文旅推介 推进赣陕文旅协作",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735330.shtml",
-        "publishedAt": "2026-11-20T17:10:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T17:30:02.625+08:00",
+    "fetchedAt": "2026-11-20T17:40:02.979+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T17:30:06.348+08:00",
+      "fetchedAt": "2026-11-20T17:40:36.559+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T17:30:06.715+08:00",
+      "fetchedAt": "2026-11-20T17:40:37.087+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T17:30:06.725+08:00",
+      "fetchedAt": "2026-11-20T17:40:37.090+08:00",
       "error": null
     }
   }
