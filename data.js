@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T20:40:08.864+08:00",
+  "updatedAt": "2026-11-20T20:50:08.246+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.1,
-    "feelsLikeC": 5.5,
+    "tempC": 7.9,
+    "feelsLikeC": 5.4,
     "humidity": 62,
-    "windKph": 4,
-    "windDir": "西北风",
+    "windKph": 3.9,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T20:40:08.864+08:00",
+    "observedAt": "2026-11-20T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T20:50:08.246+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（乡村行·看振兴）“薯”写丰收路 浙江文成山货变身富民“金疙瘩”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735514.shtml",
-        "publishedAt": "2026-11-20T20:35:19.000+08:00"
+        "title": "从机器人到低空飞行器：欧洲记者、博主在成都感受“未来”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735523.shtml",
+        "publishedAt": "2026-11-20T20:42:09.000+08:00"
       },
       {
-        "title": "中国首次量子磁测电缆巡检实战作业完成",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735513.shtml",
-        "publishedAt": "2026-11-20T20:34:57.000+08:00"
+        "title": "产业观察：一座山区小县城，何以“无所不锯”？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735522.shtml",
+        "publishedAt": "2026-11-20T20:42:03.000+08:00"
       },
       {
-        "title": "专家解读：如何成长为A级纳税人？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735512.shtml",
-        "publishedAt": "2026-11-20T20:34:39.000+08:00"
+        "title": "浙江探路综合高中 给成长多留一段“缓冲期”",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735521.shtml",
+        "publishedAt": "2026-11-20T20:41:09.000+08:00"
       },
       {
-        "title": "兰花“架”桥 香馥万里",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735511.shtml",
-        "publishedAt": "2026-11-20T20:34:35.000+08:00"
+        "title": "访西安石油大学“油泥新生”团队：助力石化固废绿色资源化",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735520.shtml",
+        "publishedAt": "2026-11-20T20:40:45.000+08:00"
       },
       {
-        "title": "北交所推出创新型中小企业发展公司债券",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735508.shtml",
-        "publishedAt": "2026-11-20T20:34:33.000+08:00"
+        "title": "（深圳APEC）APEC十二年的变与不变",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735518.shtml",
+        "publishedAt": "2026-11-20T20:37:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T20:40:03.547+08:00",
+    "fetchedAt": "2026-11-20T20:50:03.067+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T20:40:07.292+08:00",
+      "fetchedAt": "2026-11-20T20:50:06.781+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T01:40:08.000+08:00"
+          "resetAt": "2026-11-21T01:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T20:40:07.646+08:00",
+      "fetchedAt": "2026-11-20T20:50:07.158+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T20:40:07.654+08:00",
+      "fetchedAt": "2026-11-20T20:50:07.166+08:00",
       "error": null
     }
   }
