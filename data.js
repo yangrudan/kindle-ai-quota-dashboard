@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T15:20:08.425+08:00",
+  "updatedAt": "2026-11-20T15:30:08.984+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.1,
-    "feelsLikeC": 11.3,
+    "tempC": 14.2,
+    "feelsLikeC": 11.5,
     "humidity": 31,
-    "windKph": 1.5,
-    "windDir": "西南风",
+    "windKph": 1,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-20T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T15:20:08.425+08:00",
+    "observedAt": "2026-11-20T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T15:30:08.984+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "我国首个海上注碳增气技术示范应用工程陆地建设全面完工",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735249.shtml",
-        "publishedAt": "2026-11-20T15:13:58.000+08:00"
+        "title": "中铝集团广西华银铝业有限公司原总经理刘永刚接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735247.shtml",
+        "publishedAt": "2026-11-20T15:23:20.000+08:00"
       },
       {
-        "title": "初冬时节 南京明孝陵石象路层林尽染入画来",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735234.shtml",
-        "publishedAt": "2026-11-20T15:12:50.000+08:00"
+        "title": "11月20日“农产品批发价格200指数”比昨天下降0.08个点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735244.shtml",
+        "publishedAt": "2026-11-20T15:22:50.000+08:00"
       },
       {
-        "title": "西安博物院古籍展吸引民众参观",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735230.shtml",
-        "publishedAt": "2026-11-20T15:11:46.000+08:00"
+        "title": "（深圳APEC）APEC“中国年”达成系列成果 明确亚太经贸合作着力点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735254.shtml",
+        "publishedAt": "2026-11-20T15:22:26.000+08:00"
       },
       {
-        "title": "福建福州：古街秋假迎客来",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735213.shtml",
-        "publishedAt": "2026-11-20T15:11:06.000+08:00"
+        "title": "（深圳APEC）习近平会见新加坡总理黄循财",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735225.shtml",
+        "publishedAt": "2026-11-20T15:21:14.000+08:00"
       },
       {
-        "title": "2026年空手道世界杯开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735211.shtml",
-        "publishedAt": "2026-11-20T15:10:29.000+08:00"
+        "title": "宁波银行深圳分行用心用情优化支付服务 多措并举礼迎八方宾朋",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735251.shtml",
+        "publishedAt": "2026-11-20T15:19:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T15:20:02.782+08:00",
+    "fetchedAt": "2026-11-20T15:30:02.737+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T15:20:06.726+08:00",
+      "fetchedAt": "2026-11-20T15:30:07.416+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
+          "usedPct": 15,
           "resetAt": "2026-11-20T19:36:43.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T15:20:06.735+08:00",
+      "fetchedAt": "2026-11-20T15:30:07.688+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T15:20:06.740+08:00",
+      "fetchedAt": "2026-11-20T15:30:07.693+08:00",
       "error": null
     }
   }
