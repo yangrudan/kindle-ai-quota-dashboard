@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T10:10:09.118+08:00",
+  "updatedAt": "2026-11-20T10:20:09.107+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.9,
-    "feelsLikeC": 7.2,
-    "humidity": 37,
-    "windKph": 7.4,
+    "tempC": 11.2,
+    "feelsLikeC": 7.7,
+    "humidity": 35,
+    "windKph": 7,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T10:10:09.118+08:00",
+    "observedAt": "2026-11-20T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T10:20:09.107+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“电子榨菜”变“文化硬菜” “duanju”为何在海外爆火",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735071.shtml",
-        "publishedAt": "2026-11-20T10:03:41.000+08:00"
+        "title": "广西以法典为剑 织密涉重金属污染法治防线",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735048.shtml",
+        "publishedAt": "2026-11-20T10:12:59.000+08:00"
       },
       {
-        "title": "从深圳APEC的三个C，读懂亚太发展的“最大公约数”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735068.shtml",
-        "publishedAt": "2026-11-20T10:02:23.000+08:00"
+        "title": "专卖店、修车铺都表示不提供改装 电动自行车“远光刺客”哪儿冒出来的？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735084.shtml",
+        "publishedAt": "2026-11-20T10:11:39.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）一片斑兰叶带富一个黎族村",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735043.shtml",
-        "publishedAt": "2026-11-20T10:00:01.000+08:00"
+        "title": "天津老旧供水管网改造完成132.49公里 进度同比大幅提升",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735050.shtml",
+        "publishedAt": "2026-11-20T10:11:35.000+08:00"
       },
       {
-        "title": "从小展台到大市场，展会给农业带来了什么？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735065.shtml",
-        "publishedAt": "2026-11-20T09:58:43.000+08:00"
+        "title": "同心同行正高新 “拾光梦想汇”音乐节燃情开唱",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735046.shtml",
+        "publishedAt": "2026-11-20T10:10:21.000+08:00"
       },
       {
-        "title": "土耳其媒体人探访稻香村 点赞新疆乡村振兴成果",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735041.shtml",
-        "publishedAt": "2026-11-20T09:57:49.000+08:00"
+        "title": "一张卡片守望邻里",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735080.shtml",
+        "publishedAt": "2026-11-20T10:10:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T10:10:03.331+08:00",
+    "fetchedAt": "2026-11-20T10:20:03.431+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T10:10:07.695+08:00",
+      "fetchedAt": "2026-11-20T10:20:07.665+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
+          "usedPct": 11,
           "resetAt": "2026-11-20T14:22:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 16,
+          "usedPct": 17,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T10:10:08.009+08:00",
+      "fetchedAt": "2026-11-20T10:20:07.902+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T10:10:08.021+08:00",
+      "fetchedAt": "2026-11-20T10:20:07.911+08:00",
       "error": null
     }
   }
