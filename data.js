@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T22:00:38.500+08:00",
+  "updatedAt": "2026-11-20T22:10:38.557+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-20T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T22:00:38.501+08:00",
+    "fetchedAt": "2026-11-20T22:10:38.557+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "莫高义、刘奇凡会见！APEC会后苏林为何直奔云南？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735569.shtml",
-        "publishedAt": "2026-11-20T21:51:59.000+08:00"
+        "title": "2026年空手道世界杯在杭州举行 系首次落地中国",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-20/10735575.shtml",
+        "publishedAt": "2026-11-20T22:03:12.000+08:00"
       },
       {
-        "title": "海南自贸港金融租赁创新“破题” “管理型项目公司+SPV”落地见效",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735555.shtml",
-        "publishedAt": "2026-11-20T21:51:39.000+08:00"
+        "title": "第三届兰花奖颁奖典礼在北京举行 10位国际友人获奖",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735574.shtml",
+        "publishedAt": "2026-11-20T22:03:02.000+08:00"
       },
       {
-        "title": "宁夏首次发布“宁夏枸杞”商标维权典型案例 多梯度打击商标侵权",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735552.shtml",
-        "publishedAt": "2026-11-20T21:46:01.000+08:00"
+        "title": "光影为媒回望历史 中国电影博物馆举办电影中的长征专题展",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735571.shtml",
+        "publishedAt": "2026-11-20T22:02:08.000+08:00"
       },
       {
-        "title": "宁夏以主宾省身份亮相香港国际中医药大会 道地药材借港出海",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735551.shtml",
-        "publishedAt": "2026-11-20T21:45:17.000+08:00"
+        "title": "38名广州台湾青少年同场决赛 宣讲岭南文化",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735570.shtml",
+        "publishedAt": "2026-11-20T22:01:36.000+08:00"
       },
       {
-        "title": "我国成功发射卫星互联网低轨30组卫星",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735563.shtml",
-        "publishedAt": "2026-11-20T21:44:13.000+08:00"
+        "title": "广东海警紧急出动 连续救助两名海岛群众",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735572.shtml",
+        "publishedAt": "2026-11-20T22:01:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T22:00:03.109+08:00",
+    "fetchedAt": "2026-11-20T22:10:03.208+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T22:00:36.526+08:00",
+      "fetchedAt": "2026-11-20T22:10:37.395+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T03:00:38.000+08:00"
+          "resetAt": "2026-11-21T03:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T22:00:36.906+08:00",
+      "fetchedAt": "2026-11-20T22:10:37.589+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T22:00:36.913+08:00",
+      "fetchedAt": "2026-11-20T22:10:37.594+08:00",
       "error": null
     }
   }
