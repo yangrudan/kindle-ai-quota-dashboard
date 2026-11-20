@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T10:20:09.107+08:00",
+  "updatedAt": "2026-11-20T10:30:09.399+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.2,
-    "feelsLikeC": 7.7,
-    "humidity": 35,
-    "windKph": 7,
+    "tempC": 11.4,
+    "feelsLikeC": 8.1,
+    "humidity": 34,
+    "windKph": 6.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T10:20:09.107+08:00",
+    "observedAt": "2026-11-20T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T10:30:09.400+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西以法典为剑 织密涉重金属污染法治防线",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735048.shtml",
-        "publishedAt": "2026-11-20T10:12:59.000+08:00"
+        "title": "习近平会见澳大利亚总理阿尔巴尼斯",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735091.shtml",
+        "publishedAt": "2026-11-20T10:21:00.000+08:00"
       },
       {
-        "title": "专卖店、修车铺都表示不提供改装 电动自行车“远光刺客”哪儿冒出来的？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735084.shtml",
-        "publishedAt": "2026-11-20T10:11:39.000+08:00"
+        "title": "从愿景到行动：APEC深圳会议的价值在于化承诺为成果",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-20/10735093.shtml",
+        "publishedAt": "2026-11-20T10:20:12.000+08:00"
       },
       {
-        "title": "天津老旧供水管网改造完成132.49公里 进度同比大幅提升",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735050.shtml",
-        "publishedAt": "2026-11-20T10:11:35.000+08:00"
+        "title": "舞步诉说山海情深 中国首部踢踏舞剧《扎西夏卓》亮相成都",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735049.shtml",
+        "publishedAt": "2026-11-20T10:18:20.000+08:00"
       },
       {
-        "title": "同心同行正高新 “拾光梦想汇”音乐节燃情开唱",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735046.shtml",
-        "publishedAt": "2026-11-20T10:10:21.000+08:00"
+        "title": "（深圳APEC）从“全妆”迎客到AI赋能 深圳APEC亮点纷呈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735085.shtml",
+        "publishedAt": "2026-11-20T10:17:48.000+08:00"
       },
       {
-        "title": "一张卡片守望邻里",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735080.shtml",
-        "publishedAt": "2026-11-20T10:10:05.000+08:00"
+        "title": "在深圳，读懂亚太工商界人士的“心头事”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735092.shtml",
+        "publishedAt": "2026-11-20T10:17:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T10:20:03.431+08:00",
+    "fetchedAt": "2026-11-20T10:30:03.565+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T10:20:07.665+08:00",
+      "fetchedAt": "2026-11-20T10:30:07.917+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
+          "usedPct": 15,
           "resetAt": "2026-11-20T14:22:09.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T10:20:07.902+08:00",
+      "fetchedAt": "2026-11-20T10:30:08.115+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T10:20:07.911+08:00",
+      "fetchedAt": "2026-11-20T10:30:08.125+08:00",
       "error": null
     }
   }
