@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T17:50:09.104+08:00",
+  "updatedAt": "2026-11-20T18:00:08.671+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.3,
-    "feelsLikeC": 8.2,
-    "humidity": 60,
-    "windKph": 2.8,
+    "tempC": 10,
+    "feelsLikeC": 7.9,
+    "humidity": 61,
+    "windKph": 2.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-20T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T17:50:09.104+08:00",
+    "observedAt": "2026-11-20T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T18:00:08.671+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "辽宁省工商联“三措并举”护航民营经济高质量发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735347.shtml",
-        "publishedAt": "2026-11-20T17:45:12.000+08:00"
+        "title": "今年前10个月重庆外贸进出口总值超过2025年全年",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735353.shtml",
+        "publishedAt": "2026-11-20T17:52:20.000+08:00"
       },
       {
-        "title": "多国嘉宾合肥共话全球数智合作新图景",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735351.shtml",
-        "publishedAt": "2026-11-20T17:45:08.000+08:00"
+        "title": "中美两军举行海上军事安全磋商机制工作小组会议和年度会晤",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735375.shtml",
+        "publishedAt": "2026-11-20T17:51:52.000+08:00"
       },
       {
-        "title": "民族团结同心行 健康文体进乡村 ——沈阳市民族和宗教事务局联合沈阳医学院走进新民市兴隆堡镇",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735346.shtml",
-        "publishedAt": "2026-11-20T17:45:04.000+08:00"
+        "title": "香港公屋综合轮候时间降至4.4年 创十年新低",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735352.shtml",
+        "publishedAt": "2026-11-20T17:51:48.000+08:00"
       },
       {
-        "title": "中老铁路迎开通以来最大入境外国旅游团",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735340.shtml",
-        "publishedAt": "2026-11-20T17:44:20.000+08:00"
+        "title": "吉林省欧美同学会开展“赴吉逐梦 畅行无忧”留学生出入境政策解读主题实践活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735349.shtml",
+        "publishedAt": "2026-11-20T17:51:42.000+08:00"
       },
       {
-        "title": "从工业到体育 脑机接口加速“破圈”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735342.shtml",
-        "publishedAt": "2026-11-20T17:44:16.000+08:00"
+        "title": "“学生写的系统全校用” 山东职校学子把校园变“实训场”",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735348.shtml",
+        "publishedAt": "2026-11-20T17:51:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T17:50:03.055+08:00",
+    "fetchedAt": "2026-11-20T18:00:03.076+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T17:50:07.865+08:00",
+      "fetchedAt": "2026-11-20T18:00:07.088+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T17:50:08.180+08:00",
+      "fetchedAt": "2026-11-20T18:00:07.431+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T17:50:08.189+08:00",
+      "fetchedAt": "2026-11-20T18:00:07.440+08:00",
       "error": null
     }
   }
