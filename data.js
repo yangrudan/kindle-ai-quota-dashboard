@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T19:50:08.139+08:00",
+  "updatedAt": "2026-11-20T20:00:38.341+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.5,
-    "feelsLikeC": 6.1,
-    "humidity": 63,
-    "windKph": 3.9,
+    "tempC": 8.4,
+    "feelsLikeC": 5.9,
+    "humidity": 62,
+    "windKph": 4.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-20T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T19:50:08.139+08:00",
+    "observedAt": "2026-11-20T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T20:00:38.342+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中蒙俄国际旅客列车11月25日起每周往返开行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735445.shtml",
-        "publishedAt": "2026-11-20T19:42:42.000+08:00"
+        "title": "2026广州文交会“科技味”浓 国际展区异彩纷呈",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735458.shtml",
+        "publishedAt": "2026-11-20T19:51:13.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）科技赋能养殖转型 山西和顺激活乡村振兴“畜”动力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735442.shtml",
-        "publishedAt": "2026-11-20T19:40:56.000+08:00"
+        "title": "宁夏“光明行”医疗队远赴贝宁",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735462.shtml",
+        "publishedAt": "2026-11-20T19:50:55.000+08:00"
       },
       {
-        "title": "2026地球“体检”报告发布 郭华东院士解读十大亮点成果",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735440.shtml",
-        "publishedAt": "2026-11-20T19:39:48.000+08:00"
+        "title": "从“AI中医”到草本护肤 海外客商西安探寻中医药新商机",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735457.shtml",
+        "publishedAt": "2026-11-20T19:49:33.000+08:00"
       },
       {
-        "title": "江西首个“万兆光网+数字标注”OPC社区揭牌落地",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735438.shtml",
-        "publishedAt": "2026-11-20T19:38:48.000+08:00"
+        "title": "中缅2026至2027年度榨季甘蔗跨境运输开启",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735448.shtml",
+        "publishedAt": "2026-11-20T19:48:20.000+08:00"
       },
       {
-        "title": "（深圳APEC）深圳的一天，亚太的明天",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735417.shtml",
-        "publishedAt": "2026-11-20T19:25:37.000+08:00"
+        "title": "（机遇香港）APEC青年企业家峰会在港举行 多方点赞香港亚太枢纽价值",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735470.shtml",
+        "publishedAt": "2026-11-20T19:48:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T19:50:03.090+08:00",
+    "fetchedAt": "2026-11-20T20:00:03.070+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T19:50:06.651+08:00",
+      "fetchedAt": "2026-11-20T20:00:36.631+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T00:50:07.000+08:00"
+          "resetAt": "2026-11-21T01:00:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T19:50:06.875+08:00",
+      "fetchedAt": "2026-11-20T20:00:37.039+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T19:50:06.884+08:00",
+      "fetchedAt": "2026-11-20T20:00:37.045+08:00",
       "error": null
     }
   }
