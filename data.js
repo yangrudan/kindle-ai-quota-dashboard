@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T16:00:07.591+08:00",
+  "updatedAt": "2026-11-20T16:10:09.463+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-20T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T16:00:07.591+08:00",
+    "fetchedAt": "2026-11-20T16:10:09.463+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "百项计量成果入库 为产业“卡脖子”难题提供精准解法",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735260.shtml",
+        "publishedAt": "2026-11-20T15:59:36.000+08:00"
+      },
+      {
+        "title": "亚太经合组织关于亚太地区新兴技术促进就业和繁荣的声明",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735282.shtml",
+        "publishedAt": "2026-11-20T15:59:30.000+08:00"
+      },
       {
         "title": "实时定位、扫码求助：智能钥匙扣帮助走失老人回家",
         "url": "https://www.chinanews.com.cn/fz/2026/11-20/10735274.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "习近平会见澳大利亚总理阿尔巴尼斯",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211283.shtml",
         "publishedAt": "2026-11-20T15:46:45.000+08:00"
-      },
-      {
-        "title": "第三届兰花奖评选结果公布 外交部对获奖者表示祝贺",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735267.shtml",
-        "publishedAt": "2026-11-20T15:45:09.000+08:00"
-      },
-      {
-        "title": "亚太共同体研究中心即将成立",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735208.shtml",
-        "publishedAt": "2026-11-20T15:45:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T16:00:02.384+08:00",
+    "fetchedAt": "2026-11-20T16:10:03.115+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T16:00:06.285+08:00",
+      "fetchedAt": "2026-11-20T16:10:08.257+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T16:00:06.484+08:00",
+      "fetchedAt": "2026-11-20T16:10:08.447+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T16:00:06.494+08:00",
+      "fetchedAt": "2026-11-20T16:10:08.456+08:00",
       "error": null
     }
   }
