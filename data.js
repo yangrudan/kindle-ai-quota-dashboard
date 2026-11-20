@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T22:40:37.879+08:00",
+  "updatedAt": "2026-11-20T22:50:08.733+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 6.1,
-    "feelsLikeC": 3.8,
-    "humidity": 75,
-    "windKph": 3.7,
+    "tempC": 5.9,
+    "feelsLikeC": 3.6,
+    "humidity": 76,
+    "windKph": 3.4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T22:40:37.879+08:00",
+    "observedAt": "2026-11-20T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T22:50:08.733+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "印尼摄影家镜头里的中国：百幅作品亮相雅加达",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211326.shtml",
+        "publishedAt": "2026-11-20T22:40:41.000+08:00"
+      },
       {
         "title": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤",
         "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211324.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "赵乐际会见澳大利亚总理阿尔巴尼斯",
         "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211322.shtml",
         "publishedAt": "2026-11-20T22:22:20.000+08:00"
-      },
-      {
-        "title": "越共中央总书记、国家主席苏林就任后首访云南",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735579.shtml",
-        "publishedAt": "2026-11-20T22:18:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T22:40:02.547+08:00",
+    "fetchedAt": "2026-11-20T22:50:02.882+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T22:40:36.461+08:00",
+      "fetchedAt": "2026-11-20T22:50:07.187+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T03:40:37.000+08:00"
+          "resetAt": "2026-11-21T03:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T22:40:36.631+08:00",
+      "fetchedAt": "2026-11-20T22:50:07.421+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T22:40:36.640+08:00",
+      "fetchedAt": "2026-11-20T22:50:07.431+08:00",
       "error": null
     }
   }
