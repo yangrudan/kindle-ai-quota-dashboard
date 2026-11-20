@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T19:20:37.969+08:00",
+  "updatedAt": "2026-11-20T19:30:39.062+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.9,
-    "feelsLikeC": 6.8,
+    "tempC": 8.7,
+    "feelsLikeC": 6.4,
     "humidity": 64,
-    "windKph": 2.7,
-    "windDir": "北风",
+    "windKph": 3.4,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-20T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T19:20:37.970+08:00",
+    "observedAt": "2026-11-20T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T19:30:39.062+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "财政部在香港成功发行20亿美元主权债券 总认购金额为发行金额36倍",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735454.shtml",
+        "publishedAt": "2026-11-20T19:18:55.000+08:00"
+      },
+      {
+        "title": "2026世界计算大会在长沙开幕 共探智能经济新形态",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735453.shtml",
+        "publishedAt": "2026-11-20T19:18:51.000+08:00"
+      },
+      {
+        "title": "云南布局“十五五”生态文明：争当排头兵 消除国省控劣Ⅴ类断面",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735451.shtml",
+        "publishedAt": "2026-11-20T19:18:49.000+08:00"
+      },
+      {
+        "title": "日本核心CPI连续62个月上涨",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735435.shtml",
+        "publishedAt": "2026-11-20T19:17:53.000+08:00"
+      },
+      {
         "title": "（深圳APEC）深圳的一天，亚太的明天",
         "url": "https://www.chinanews.com.cn/${mypath}/2007/06-21/1.shtml",
         "publishedAt": "2026-11-20T19:05:12.000+08:00"
-      },
-      {
-        "title": "日本核心CPI连续62个月上涨 民调显示高市应对通胀措施遭质疑",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735447.shtml",
-        "publishedAt": "2026-11-20T19:03:54.000+08:00"
-      },
-      {
-        "title": "权威报告称，中国深海远洋海洋生物资源探查采集能力持续提升",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735437.shtml",
-        "publishedAt": "2026-11-20T19:03:38.000+08:00"
-      },
-      {
-        "title": "世界儿童日：专家呼吁关注0-3岁儿童早期发展",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735434.shtml",
-        "publishedAt": "2026-11-20T19:03:08.000+08:00"
-      },
-      {
-        "title": "A股银行板块周五逆势飘红 多只银行股股价创历史新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735433.shtml",
-        "publishedAt": "2026-11-20T19:01:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T19:20:02.647+08:00",
+    "fetchedAt": "2026-11-20T19:30:03.314+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T19:20:36.577+08:00",
+      "fetchedAt": "2026-11-20T19:30:37.554+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T19:20:36.775+08:00",
+      "fetchedAt": "2026-11-20T19:30:37.818+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T19:20:36.784+08:00",
+      "fetchedAt": "2026-11-20T19:30:37.824+08:00",
       "error": null
     }
   }
