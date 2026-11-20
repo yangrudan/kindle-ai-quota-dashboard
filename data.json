@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T11:10:37.762+08:00",
+  "updatedAt": "2026-11-20T11:20:08.609+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 11.9,
-    "feelsLikeC": 9,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 12.1,
+    "feelsLikeC": 9.4,
     "humidity": 34,
-    "windKph": 5.8,
+    "windKph": 5.6,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T11:10:37.763+08:00",
+    "observedAt": "2026-11-20T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T11:20:08.609+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "出现红斑揉一揉，再用气圈垫一垫？ 这些“好心护理法”正在加重压疮",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735118.shtml",
+        "publishedAt": "2026-11-20T11:14:05.000+08:00"
+      },
+      {
+        "title": "62.8%！中国超六成可持续发展指标接近或实现2030年目标",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735116.shtml",
+        "publishedAt": "2026-11-20T11:06:52.000+08:00"
+      },
       {
         "title": "一卡玩转长三角！来文博会解锁展内展外多元新体验",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735115.shtml",
@@ -33,19 +43,9 @@
         "title": "郑州大学第一附属医院原党委书记王成增被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735072.shtml",
         "publishedAt": "2026-11-20T10:51:59.000+08:00"
-      },
-      {
-        "title": "（投资中国）DHL高管：对中国市场长期增长前景保持信心",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735111.shtml",
-        "publishedAt": "2026-11-20T10:51:39.000+08:00"
-      },
-      {
-        "title": "11月20日央行开展3795亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735064.shtml",
-        "publishedAt": "2026-11-20T10:51:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T11:10:02.241+08:00",
+    "fetchedAt": "2026-11-20T11:20:02.418+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T11:10:36.468+08:00",
+      "fetchedAt": "2026-11-20T11:20:07.348+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T11:10:36.596+08:00",
+      "fetchedAt": "2026-11-20T11:20:07.489+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T11:10:36.600+08:00",
+      "fetchedAt": "2026-11-20T11:20:07.493+08:00",
       "error": null
     }
   }
