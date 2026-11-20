@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T15:50:38.933+08:00",
+  "updatedAt": "2026-11-20T16:00:07.591+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.2,
-    "feelsLikeC": 11.5,
-    "humidity": 30,
-    "windKph": 0.5,
-    "windDir": "南风",
+    "tempC": 14,
+    "feelsLikeC": 11.4,
+    "humidity": 32,
+    "windKph": 0.4,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-20T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T15:50:38.933+08:00",
+    "observedAt": "2026-11-20T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T16:00:07.591+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "宁夏出台管理办法推动医药产业高质量发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735239.shtml",
-        "publishedAt": "2026-11-20T15:42:37.000+08:00"
+        "title": "实时定位、扫码求助：智能钥匙扣帮助走失老人回家",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-20/10735274.shtml",
+        "publishedAt": "2026-11-20T15:50:02.000+08:00"
       },
       {
-        "title": "外交部：薛捍勤法官根据其专业知识发表意见是履职尽责的表现",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735266.shtml",
-        "publishedAt": "2026-11-20T15:40:53.000+08:00"
+        "title": "东西问丨刘文锁：考古实证新疆古代多教并存",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-20/10735245.shtml",
+        "publishedAt": "2026-11-20T15:48:36.000+08:00"
       },
       {
-        "title": "习近平会见印度尼西亚总统普拉博沃",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211281.shtml",
-        "publishedAt": "2026-11-20T15:40:53.000+08:00"
+        "title": "习近平会见澳大利亚总理阿尔巴尼斯",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211283.shtml",
+        "publishedAt": "2026-11-20T15:46:45.000+08:00"
       },
       {
-        "title": "广东罗浮山发现“紫霞仙子”紫纹兜兰逾百株",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735252.shtml",
-        "publishedAt": "2026-11-20T15:35:43.000+08:00"
+        "title": "第三届兰花奖评选结果公布 外交部对获奖者表示祝贺",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735267.shtml",
+        "publishedAt": "2026-11-20T15:45:09.000+08:00"
       },
       {
-        "title": "宁夏建立健全药品医疗器械经营企业退出机制",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735253.shtml",
-        "publishedAt": "2026-11-20T15:35:37.000+08:00"
+        "title": "亚太共同体研究中心即将成立",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735208.shtml",
+        "publishedAt": "2026-11-20T15:45:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T15:50:03.245+08:00",
+    "fetchedAt": "2026-11-20T16:00:02.384+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T15:50:37.297+08:00",
+      "fetchedAt": "2026-11-20T16:00:06.285+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T15:50:37.591+08:00",
+      "fetchedAt": "2026-11-20T16:00:06.484+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T15:50:37.597+08:00",
+      "fetchedAt": "2026-11-20T16:00:06.494+08:00",
       "error": null
     }
   }
