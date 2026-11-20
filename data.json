@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T14:40:38.713+08:00",
+  "updatedAt": "2026-11-20T14:50:38.980+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@
     "tempC": 14.4,
     "feelsLikeC": 11.2,
     "humidity": 29,
-    "windKph": 3.9,
-    "windDir": "西风",
+    "windKph": 4.3,
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-20T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T14:40:38.713+08:00",
+    "observedAt": "2026-11-20T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T14:50:38.980+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "甘肃康县：林间麻出山 席上鲜入座",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735219.shtml",
-        "publishedAt": "2026-11-20T14:38:46.000+08:00"
+        "title": "前10月中国快递收入增速“跑赢”业务量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735226.shtml",
+        "publishedAt": "2026-11-20T14:48:16.000+08:00"
       },
       {
-        "title": "多年“蛰伏”，终迎“星光”——专访S16冠军战队BLG",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-20/10735215.shtml",
-        "publishedAt": "2026-11-20T14:37:44.000+08:00"
+        "title": "百万重奖寻创作者！2027宁波银行·天e网络文学大赛全球启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735227.shtml",
+        "publishedAt": "2026-11-20T14:47:40.000+08:00"
       },
       {
-        "title": "以会为媒 四川将端出冰雪旅游季“大餐”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735205.shtml",
-        "publishedAt": "2026-11-20T14:35:58.000+08:00"
+        "title": "中国电动汽车充电枪总数超2500万个",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735224.shtml",
+        "publishedAt": "2026-11-20T14:47:18.000+08:00"
       },
       {
-        "title": "探访成都花花猫岛：一座1500平方米孤岛上的流浪猫“桃花源”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735209.shtml",
-        "publishedAt": "2026-11-20T14:31:25.000+08:00"
+        "title": "中医药文化体验成西安入境游新热点",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735223.shtml",
+        "publishedAt": "2026-11-20T14:44:08.000+08:00"
       },
       {
-        "title": "享惠货值破百亿 海口海关“三同三溯”监管红利持续释放",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735206.shtml",
-        "publishedAt": "2026-11-20T14:26:49.000+08:00"
+        "title": "江苏首例侵入式脑机接口手术患者实现“脑控”轮椅出行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735221.shtml",
+        "publishedAt": "2026-11-20T14:41:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T14:40:03.298+08:00",
+    "fetchedAt": "2026-11-20T14:50:03.276+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T14:40:37.415+08:00",
+      "fetchedAt": "2026-11-20T14:50:37.441+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T14:40:37.641+08:00",
+      "fetchedAt": "2026-11-20T14:50:37.700+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T14:40:37.651+08:00",
+      "fetchedAt": "2026-11-20T14:50:37.707+08:00",
       "error": null
     }
   }
