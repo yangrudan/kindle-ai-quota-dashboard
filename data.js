@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T08:10:07.533+08:00",
+  "updatedAt": "2026-11-20T08:20:38.352+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 5.9,
-    "feelsLikeC": 2.7,
-    "humidity": 71,
-    "windKph": 7.7,
+    "tempC": 6.8,
+    "feelsLikeC": 3.7,
+    "humidity": 67,
+    "windKph": 7.4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T08:10:07.533+08:00",
+    "observedAt": "2026-11-20T08:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T08:20:38.353+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“零添加”“0蔗糖”未必更健康",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735009.shtml",
+        "publishedAt": "2026-11-20T08:08:41.000+08:00"
+      },
+      {
+        "title": "全国大部天气晴好",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735007.shtml",
+        "publishedAt": "2026-11-20T08:07:43.000+08:00"
+      },
       {
         "title": "抄袭、洗稿事件频发 文学刊物如何守住“原创防线”",
         "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735008.shtml",
@@ -30,22 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-20T07:51:52.000+08:00"
       },
       {
-        "title": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10734999.shtml",
-        "publishedAt": "2026-11-20T07:46:21.000+08:00"
-      },
-      {
-        "title": "起床后这4件事易引发心梗，冬天尤其别做",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735004.shtml",
-        "publishedAt": "2026-11-20T07:46:01.000+08:00"
-      },
-      {
-        "title": "产销、改装、回收，汽车消费全链条发力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735005.shtml",
-        "publishedAt": "2026-11-20T07:45:47.000+08:00"
+        "title": "强化对党忠诚教育（学习贯彻党的二十届五中全会精神）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735003.shtml",
+        "publishedAt": "2026-11-20T07:50:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T08:10:02.508+08:00",
+    "fetchedAt": "2026-11-20T08:20:02.408+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T08:10:06.241+08:00",
+      "fetchedAt": "2026-11-20T08:20:36.443+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T13:10:07.000+08:00"
+          "resetAt": "2026-11-20T13:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T08:10:06.472+08:00",
+      "fetchedAt": "2026-11-20T08:20:36.770+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T08:10:06.481+08:00",
+      "fetchedAt": "2026-11-20T08:20:36.779+08:00",
       "error": null
     }
   }
