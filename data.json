@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T23:10:07.787+08:00",
+  "updatedAt": "2026-11-20T23:20:08.913+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 5.7,
-    "feelsLikeC": 3.4,
-    "humidity": 77,
+    "tempC": 5.5,
+    "feelsLikeC": 3.2,
+    "humidity": 79,
     "windKph": 3.2,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T23:10:07.787+08:00",
+    "observedAt": "2026-11-20T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T23:20:08.913+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "联合国助理秘书长：儿基会同中国合作正惠及世界更多儿童",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735596.shtml",
+        "publishedAt": "2026-11-20T23:07:47.000+08:00"
+      },
       {
         "title": "浙江杭州：朱炳仁铜艺作品亮相“非遗盛会”吸引民众",
         "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735559.shtml",
@@ -38,14 +43,9 @@
         "title": "色彩斑斓“绘就”天然画卷 南京燕雀湖迎来最美时节",
         "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735478.shtml",
         "publishedAt": "2026-11-20T23:00:57.000+08:00"
-      },
-      {
-        "title": "从课堂到舞台，“中国民族声乐表演人才培训”交答卷",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735593.shtml",
-        "publishedAt": "2026-11-20T22:51:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T23:10:02.577+08:00",
+    "fetchedAt": "2026-11-20T23:20:03.086+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T23:10:06.423+08:00",
+      "fetchedAt": "2026-11-20T23:20:06.948+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T04:10:07.000+08:00"
+          "resetAt": "2026-11-21T04:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T23:10:06.658+08:00",
+      "fetchedAt": "2026-11-20T23:20:07.233+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T23:10:06.668+08:00",
+      "fetchedAt": "2026-11-20T23:20:07.241+08:00",
       "error": null
     }
   }
