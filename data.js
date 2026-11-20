@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T08:40:07.778+08:00",
+  "updatedAt": "2026-11-20T08:50:38.575+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.6,
-    "feelsLikeC": 4.4,
-    "humidity": 63,
-    "windKph": 8,
+    "tempC": 8.3,
+    "feelsLikeC": 5.2,
+    "humidity": 59,
+    "windKph": 7.4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T08:40:07.778+08:00",
+    "observedAt": "2026-11-20T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T08:50:38.575+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“一带一路”上的医疗合作",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-20/10735015.shtml",
+        "publishedAt": "2026-11-20T08:30:38.000+08:00"
+      },
       {
         "title": "香港TVB迎59周年台庆 汪明荃等亮相红毯",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211262.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“零添加”“0蔗糖”未必更健康",
         "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735009.shtml",
         "publishedAt": "2026-11-20T08:08:41.000+08:00"
-      },
-      {
-        "title": "中央气象台：未来两天，全国大部降水稀少",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735007.shtml",
-        "publishedAt": "2026-11-20T08:07:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T08:40:02.534+08:00",
+    "fetchedAt": "2026-11-20T08:50:02.497+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T08:40:06.249+08:00",
+      "fetchedAt": "2026-11-20T08:50:36.024+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T13:40:07.000+08:00"
+          "resetAt": "2026-11-20T13:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T08:40:06.524+08:00",
+      "fetchedAt": "2026-11-20T08:50:36.288+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T08:40:06.533+08:00",
+      "fetchedAt": "2026-11-20T08:50:36.296+08:00",
       "error": null
     }
   }
