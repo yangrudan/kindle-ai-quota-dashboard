@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T09:40:09.262+08:00",
+  "updatedAt": "2026-11-20T09:50:09.656+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10,
-    "feelsLikeC": 6.6,
-    "humidity": 45,
-    "windKph": 7.2,
+    "tempC": 10.5,
+    "feelsLikeC": 6.9,
+    "humidity": 40,
+    "windKph": 7.4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T09:40:09.263+08:00",
+    "observedAt": "2026-11-20T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T09:50:09.656+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“城超”，因地制宜更出彩",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735045.shtml",
-        "publishedAt": "2026-11-20T09:25:55.000+08:00"
+        "title": "【和合共生】习言道｜密集会见多国领导人，习近平频繁提及这几个词",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735017.shtml",
+        "publishedAt": "2026-11-20T09:42:24.000+08:00"
       },
       {
-        "title": "11月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735037.shtml",
-        "publishedAt": "2026-11-20T09:23:45.000+08:00"
+        "title": "习近平会见印度尼西亚总统普拉博沃",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735055.shtml",
+        "publishedAt": "2026-11-20T09:41:22.000+08:00"
       },
       {
-        "title": "有中国公民在委内瑞拉遭网络电信诈骗，中使馆发布提醒",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735022.shtml",
-        "publishedAt": "2026-11-20T09:23:33.000+08:00"
+        "title": "上万日本民众举行抗议集会 反对高市政府扩军修宪",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735056.shtml",
+        "publishedAt": "2026-11-20T09:39:38.000+08:00"
       },
       {
-        "title": "全国大部降水稀少 未来十天冷空气势力较弱",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735018.shtml",
-        "publishedAt": "2026-11-20T09:23:23.000+08:00"
+        "title": "A股开盘：超5300只个股飘绿，三大指数集体低开",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735054.shtml",
+        "publishedAt": "2026-11-20T09:35:59.000+08:00"
       },
       {
-        "title": "呵护群众参与监督的心气（人民时评）",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-20/10735039.shtml",
-        "publishedAt": "2026-11-20T09:22:15.000+08:00"
+        "title": "国内推出首个智能座舱AI分级评价体系",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735052.shtml",
+        "publishedAt": "2026-11-20T09:34:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T09:40:03.249+08:00",
+    "fetchedAt": "2026-11-20T09:50:03.317+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T09:40:07.532+08:00",
+      "fetchedAt": "2026-11-20T09:50:07.771+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-11-20T14:22:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 15,
+          "usedPct": 16,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T09:40:07.909+08:00",
+      "fetchedAt": "2026-11-20T09:50:08.001+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T09:40:07.913+08:00",
+      "fetchedAt": "2026-11-20T09:50:08.010+08:00",
       "error": null
     }
   }
