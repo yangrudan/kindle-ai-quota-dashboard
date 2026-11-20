@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T18:50:08.246+08:00",
+  "updatedAt": "2026-11-20T19:00:09.080+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.3,
-    "feelsLikeC": 7.3,
-    "humidity": 64,
-    "windKph": 2,
+    "tempC": 9.1,
+    "feelsLikeC": 7.1,
+    "humidity": 65,
+    "windKph": 2.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-20T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T18:50:08.246+08:00",
+    "observedAt": "2026-11-20T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T19:00:09.081+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026生物制造大赛全国总决赛收官 54个项目斩获大奖",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735408.shtml",
+        "publishedAt": "2026-11-20T18:51:59.000+08:00"
+      },
+      {
+        "title": "中国首个海上注碳增气技术示范应用工程陆地建设在青岛完工",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735407.shtml",
+        "publishedAt": "2026-11-20T18:51:13.000+08:00"
+      },
+      {
+        "title": "中美两军举行海上军事安全磋商机制工作小组会议和年度会晤",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735423.shtml",
+        "publishedAt": "2026-11-20T18:50:43.000+08:00"
+      },
+      {
+        "title": "今年前10个月中国新设外企超5.2万家",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735422.shtml",
+        "publishedAt": "2026-11-20T18:50:39.000+08:00"
+      },
+      {
         "title": "广西将织密乡村数字底座 提升产业数字化水平",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735421.shtml",
         "publishedAt": "2026-11-20T18:45:11.000+08:00"
-      },
-      {
-        "title": "汇聚国内外科创力量 中国—东盟专业赛搭建跨境合作桥梁",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735418.shtml",
-        "publishedAt": "2026-11-20T18:42:17.000+08:00"
-      },
-      {
-        "title": "重庆与东盟国家举行经贸合作对接洽谈 达成120余项合作意向",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735415.shtml",
-        "publishedAt": "2026-11-20T18:42:07.000+08:00"
-      },
-      {
-        "title": "山西朔州“十五五”布局文旅融合 让千年应县木塔“活起来”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735406.shtml",
-        "publishedAt": "2026-11-20T18:40:49.000+08:00"
-      },
-      {
-        "title": "“侨胞医疗会诊转诊中心”在广州揭牌",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735413.shtml",
-        "publishedAt": "2026-11-20T18:40:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T18:50:02.461+08:00",
+    "fetchedAt": "2026-11-20T19:00:03.366+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T18:50:06.887+08:00",
+      "fetchedAt": "2026-11-20T19:00:07.470+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T18:50:07.230+08:00",
+      "fetchedAt": "2026-11-20T19:00:07.797+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T18:50:07.239+08:00",
+      "fetchedAt": "2026-11-20T19:00:07.806+08:00",
       "error": null
     }
   }
