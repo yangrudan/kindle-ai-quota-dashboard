@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T23:00:08.209+08:00",
+  "updatedAt": "2026-11-20T23:10:07.787+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-20T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T23:00:08.209+08:00",
+    "fetchedAt": "2026-11-20T23:10:07.787+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "浙江杭州：朱炳仁铜艺作品亮相“非遗盛会”吸引民众",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735559.shtml",
+        "publishedAt": "2026-11-20T23:03:07.000+08:00"
+      },
+      {
+        "title": "首届历史经典产业博览会在浙江杭州开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735554.shtml",
+        "publishedAt": "2026-11-20T23:02:27.000+08:00"
+      },
+      {
+        "title": "街球高手集结长沙 2V2百分大战搭配手游竞技",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735553.shtml",
+        "publishedAt": "2026-11-20T23:01:27.000+08:00"
+      },
+      {
+        "title": "色彩斑斓“绘就”天然画卷 南京燕雀湖迎来最美时节",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735478.shtml",
+        "publishedAt": "2026-11-20T23:00:57.000+08:00"
+      },
+      {
         "title": "从课堂到舞台，“中国民族声乐表演人才培训”交答卷",
         "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735593.shtml",
         "publishedAt": "2026-11-20T22:51:00.000+08:00"
-      },
-      {
-        "title": "印尼摄影家镜头里的中国：百幅作品亮相雅加达",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211326.shtml",
-        "publishedAt": "2026-11-20T22:40:41.000+08:00"
-      },
-      {
-        "title": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211324.shtml",
-        "publishedAt": "2026-11-20T22:33:36.000+08:00"
-      },
-      {
-        "title": "宁夏出台干线公路勘察设计指导书 贴合本地地质筑牢公路建设源头关口",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735583.shtml",
-        "publishedAt": "2026-11-20T22:26:07.000+08:00"
-      },
-      {
-        "title": "种下“懒庄稼” 富了“勤快人”——记“中国黄精之乡”十八年产业路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735582.shtml",
-        "publishedAt": "2026-11-20T22:25:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T23:00:02.519+08:00",
+    "fetchedAt": "2026-11-20T23:10:02.577+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T23:00:06.894+08:00",
+      "fetchedAt": "2026-11-20T23:10:06.423+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T04:00:08.000+08:00"
+          "resetAt": "2026-11-21T04:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T23:00:07.096+08:00",
+      "fetchedAt": "2026-11-20T23:10:06.658+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T23:00:07.100+08:00",
+      "fetchedAt": "2026-11-20T23:10:06.668+08:00",
       "error": null
     }
   }
