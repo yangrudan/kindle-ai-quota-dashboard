@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T13:20:09.155+08:00",
+  "updatedAt": "2026-11-20T13:30:39.577+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.7,
-    "feelsLikeC": 10.7,
-    "humidity": 33,
-    "windKph": 3.8,
+    "tempC": 13.8,
+    "feelsLikeC": 10.8,
+    "humidity": 32,
+    "windKph": 3.6,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T13:20:09.155+08:00",
+    "observedAt": "2026-11-20T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T13:30:39.577+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "统战牵线农技下沉 江西临川百合产业提质富民",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735163.shtml",
-        "publishedAt": "2026-11-20T13:16:45.000+08:00"
+        "title": "今年以来广州白云机场口岸APEC外籍旅客占入出境六成",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735168.shtml",
+        "publishedAt": "2026-11-20T13:25:50.000+08:00"
       },
       {
-        "title": "拖欠抚养费10万元，补齐仍要被追责？法院判了",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-20/10735169.shtml",
-        "publishedAt": "2026-11-20T13:16:17.000+08:00"
+        "title": "新华图讯丨习近平会见新加坡总理黄循财",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735160.shtml",
+        "publishedAt": "2026-11-20T13:25:40.000+08:00"
       },
       {
-        "title": "AI赋能华文教育 业界探索技术与人文融合路径",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735157.shtml",
-        "publishedAt": "2026-11-20T13:07:53.000+08:00"
+        "title": "新华图讯丨习近平会见澳大利亚总理阿尔巴尼斯",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735165.shtml",
+        "publishedAt": "2026-11-20T13:25:16.000+08:00"
       },
       {
-        "title": "（深圳APEC）与会多国人士眼中的深圳APEC",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735154.shtml",
-        "publishedAt": "2026-11-20T13:07:47.000+08:00"
+        "title": "新华图讯丨习近平会见印度尼西亚总统普拉博沃",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735162.shtml",
+        "publishedAt": "2026-11-20T13:25:00.000+08:00"
       },
       {
-        "title": "（机遇香港）把握APEC机遇 香港借湾区优势拓国际合作新空间",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735159.shtml",
-        "publishedAt": "2026-11-20T13:07:07.000+08:00"
+        "title": "亚太经合组织贸易数字化合作框架（2027－2030）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735174.shtml",
+        "publishedAt": "2026-11-20T13:24:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T13:20:02.927+08:00",
+    "fetchedAt": "2026-11-20T13:30:03.099+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T13:20:07.745+08:00",
+      "fetchedAt": "2026-11-20T13:30:37.493+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T13:20:08.127+08:00",
+      "fetchedAt": "2026-11-20T13:30:37.712+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T13:20:08.138+08:00",
+      "fetchedAt": "2026-11-20T13:30:37.722+08:00",
       "error": null
     }
   }
