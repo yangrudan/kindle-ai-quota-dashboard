@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T23:30:08.137+08:00",
+  "updatedAt": "2026-11-20T23:40:09.424+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-20T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T23:30:08.137+08:00",
+    "fetchedAt": "2026-11-20T23:40:09.424+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "印尼人与中国的故事：镜头、课本与父辈记忆",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735602.shtml",
+        "publishedAt": "2026-11-20T23:32:07.000+08:00"
+      },
+      {
+        "title": "俄罗斯友人：如果用一个词形容中国，我会说“震撼”",
+        "url": "http://www.chinanews.com.cn/cj/shipin/2026/11-20/news1075623.shtml",
+        "publishedAt": "2026-11-20T23:22:56.000+08:00"
+      },
       {
         "title": "联合国助理秘书长：儿基会同中国合作正惠及世界更多儿童",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735596.shtml",
@@ -33,19 +43,9 @@
         "title": "首届历史经典产业博览会在浙江杭州开幕",
         "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735554.shtml",
         "publishedAt": "2026-11-20T23:02:27.000+08:00"
-      },
-      {
-        "title": "街球高手集结长沙 2V2百分大战搭配手游竞技",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735553.shtml",
-        "publishedAt": "2026-11-20T23:01:27.000+08:00"
-      },
-      {
-        "title": "色彩斑斓“绘就”天然画卷 南京燕雀湖迎来最美时节",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735478.shtml",
-        "publishedAt": "2026-11-20T23:00:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T23:30:02.985+08:00",
+    "fetchedAt": "2026-11-20T23:40:03.170+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T23:30:06.882+08:00",
+      "fetchedAt": "2026-11-20T23:40:07.818+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T04:30:08.000+08:00"
+          "resetAt": "2026-11-21T04:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T23:30:07.118+08:00",
+      "fetchedAt": "2026-11-20T23:40:08.122+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T23:30:07.126+08:00",
+      "fetchedAt": "2026-11-20T23:40:08.128+08:00",
       "error": null
     }
   }
