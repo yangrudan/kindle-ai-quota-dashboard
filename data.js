@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T06:40:37.930+08:00",
+  "updatedAt": "2026-11-21T06:50:07.875+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 3.3,
     "feelsLikeC": 0.7,
     "humidity": 83,
-    "windKph": 3.8,
+    "windKph": 4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-21T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T06:40:37.931+08:00",
+    "observedAt": "2026-11-21T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T06:50:07.875+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月21日早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-21/10735609.shtml",
+        "publishedAt": "2026-11-21T06:41:40.000+08:00"
+      },
       {
         "title": "U17世界杯 中国队首战不敌西班牙队",
         "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735608.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "国际金价创一年多新低 黄金消费热潮背后这几点要知道",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735605.shtml",
         "publishedAt": "2026-11-21T06:06:22.000+08:00"
-      },
-      {
-        "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735603.shtml",
-        "publishedAt": "2026-11-20T23:53:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T06:40:02.624+08:00",
+    "fetchedAt": "2026-11-21T06:50:02.821+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T06:40:36.514+08:00",
+      "fetchedAt": "2026-11-21T06:50:06.548+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T11:40:37.000+08:00"
+          "resetAt": "2026-11-21T11:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T06:40:36.819+08:00",
+      "fetchedAt": "2026-11-21T06:50:06.754+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T06:40:36.825+08:00",
+      "fetchedAt": "2026-11-21T06:50:06.763+08:00",
       "error": null
     }
   }
