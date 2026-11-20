@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T12:20:09.360+08:00",
+  "updatedAt": "2026-11-20T12:30:09.608+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.9,
-    "feelsLikeC": 10.2,
-    "humidity": 35,
-    "windKph": 4.9,
+    "tempC": 13.1,
+    "feelsLikeC": 10.4,
+    "humidity": 34,
+    "windKph": 4.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T12:20:09.360+08:00",
+    "observedAt": "2026-11-20T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T12:30:09.609+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "结束中国之行后，特朗普和白宫接连发文：非常精彩、影响深远",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735143.shtml",
-        "publishedAt": "2026-11-20T12:05:30.000+08:00"
+        "title": "让历史“可触摸”让共识润物无声 重庆让统战文化“活”在当下",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735141.shtml",
+        "publishedAt": "2026-11-20T12:24:47.000+08:00"
       },
       {
-        "title": "500元以下的羽绒服，到底能不能买？",
-        "url": "https://www.chinanews.com.cn/life/2026/11-20/10735144.shtml",
-        "publishedAt": "2026-11-20T12:02:55.000+08:00"
+        "title": "宁夏固原：一条河的五年蜕变 一座城的绿色转身",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735137.shtml",
+        "publishedAt": "2026-11-20T12:23:25.000+08:00"
       },
       {
-        "title": "1-10月份辽宁省进出口稳步增长 出口增长较快",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735138.shtml",
-        "publishedAt": "2026-11-20T12:01:55.000+08:00"
+        "title": "“援”定天山：克州组装电动车驶入中亚市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735132.shtml",
+        "publishedAt": "2026-11-20T12:22:42.000+08:00"
       },
       {
-        "title": "2026休闲度假大会在安徽石台举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735136.shtml",
-        "publishedAt": "2026-11-20T11:58:03.000+08:00"
+        "title": "习近平会见马来西亚总理安瓦尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735147.shtml",
+        "publishedAt": "2026-11-20T12:20:38.000+08:00"
       },
       {
-        "title": "轻音乐与木卡姆和鸣：歌声牵起沪喀双城",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735133.shtml",
-        "publishedAt": "2026-11-20T11:56:21.000+08:00"
+        "title": "习近平会见澳大利亚总理阿尔巴尼斯",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735146.shtml",
+        "publishedAt": "2026-11-20T12:20:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T12:20:03.292+08:00",
+    "fetchedAt": "2026-11-20T12:30:03.235+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T12:20:07.920+08:00",
+      "fetchedAt": "2026-11-20T12:30:06.999+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T12:20:08.253+08:00",
+      "fetchedAt": "2026-11-20T12:30:07.359+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T12:20:08.261+08:00",
+      "fetchedAt": "2026-11-20T12:30:07.364+08:00",
       "error": null
     }
   }
