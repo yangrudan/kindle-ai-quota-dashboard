@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T13:10:09.218+08:00",
+  "updatedAt": "2026-11-20T13:20:09.155+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.5,
-    "feelsLikeC": 10.6,
-    "humidity": 34,
-    "windKph": 4,
+    "tempC": 13.7,
+    "feelsLikeC": 10.7,
+    "humidity": 33,
+    "windKph": 3.8,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T13:10:09.218+08:00",
+    "observedAt": "2026-11-20T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T13:20:09.155+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "四川万源千年“夫妻银杏”披金甲 初冬赏景正当时",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735139.shtml",
-        "publishedAt": "2026-11-20T12:55:02.000+08:00"
+        "title": "统战牵线农技下沉 江西临川百合产业提质富民",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735163.shtml",
+        "publishedAt": "2026-11-20T13:16:45.000+08:00"
       },
       {
-        "title": "第二十三届中国国际运输与物流博览会在河南郑州开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735135.shtml",
-        "publishedAt": "2026-11-20T12:54:22.000+08:00"
+        "title": "拖欠抚养费10万元，补齐仍要被追责？法院判了",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-20/10735169.shtml",
+        "publishedAt": "2026-11-20T13:16:17.000+08:00"
       },
       {
-        "title": "河南郑州：初冬赏景正当时",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735131.shtml",
-        "publishedAt": "2026-11-20T12:50:56.000+08:00"
+        "title": "AI赋能华文教育 业界探索技术与人文融合路径",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735157.shtml",
+        "publishedAt": "2026-11-20T13:07:53.000+08:00"
       },
       {
-        "title": "世界客属第34届恳亲大会在海口开幕",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735149.shtml",
-        "publishedAt": "2026-11-20T12:48:26.000+08:00"
+        "title": "（深圳APEC）与会多国人士眼中的深圳APEC",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735154.shtml",
+        "publishedAt": "2026-11-20T13:07:47.000+08:00"
       },
       {
-        "title": "“援”定天山：智能工厂落地 新疆棉沪企造",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735134.shtml",
-        "publishedAt": "2026-11-20T12:27:59.000+08:00"
+        "title": "（机遇香港）把握APEC机遇 香港借湾区优势拓国际合作新空间",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735159.shtml",
+        "publishedAt": "2026-11-20T13:07:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T13:10:02.881+08:00",
+    "fetchedAt": "2026-11-20T13:20:02.927+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T13:10:07.615+08:00",
+      "fetchedAt": "2026-11-20T13:20:07.745+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 34,
+          "usedPct": 40,
           "resetAt": "2026-11-20T14:22:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 20,
+          "usedPct": 21,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T13:10:07.835+08:00",
+      "fetchedAt": "2026-11-20T13:20:08.127+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T13:10:07.841+08:00",
+      "fetchedAt": "2026-11-20T13:20:08.138+08:00",
       "error": null
     }
   }
