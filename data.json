@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T22:30:38.520+08:00",
+  "updatedAt": "2026-11-20T22:40:37.879+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-20T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T22:30:38.520+08:00",
+    "fetchedAt": "2026-11-20T22:40:37.879+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211324.shtml",
+        "publishedAt": "2026-11-20T22:33:36.000+08:00"
+      },
+      {
+        "title": "宁夏出台干线公路勘察设计指导书 贴合本地地质筑牢公路建设源头关口",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735583.shtml",
+        "publishedAt": "2026-11-20T22:26:07.000+08:00"
+      },
+      {
+        "title": "种下“懒庄稼” 富了“勤快人”——记“中国黄精之乡”十八年产业路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735582.shtml",
+        "publishedAt": "2026-11-20T22:25:03.000+08:00"
+      },
       {
         "title": "赵乐际会见澳大利亚总理阿尔巴尼斯",
         "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211322.shtml",
@@ -28,24 +43,9 @@
         "title": "越共中央总书记、国家主席苏林就任后首访云南",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735579.shtml",
         "publishedAt": "2026-11-20T22:18:21.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）“未来在此被设计、测试和建造”——APEC与会领导人点赞深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735538.shtml",
-        "publishedAt": "2026-11-20T22:13:40.000+08:00"
-      },
-      {
-        "title": "习近平会见新加坡总理黄循财",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211321.shtml",
-        "publishedAt": "2026-11-20T22:08:27.000+08:00"
-      },
-      {
-        "title": "百对新人喜结良缘 福州市2026年集体婚礼举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735580.shtml",
-        "publishedAt": "2026-11-20T22:06:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T22:30:02.551+08:00",
+    "fetchedAt": "2026-11-20T22:40:02.547+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T22:30:37.210+08:00",
+      "fetchedAt": "2026-11-20T22:40:36.461+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T03:30:38.000+08:00"
+          "resetAt": "2026-11-21T03:40:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T22:30:37.404+08:00",
+      "fetchedAt": "2026-11-20T22:40:36.631+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T22:30:37.413+08:00",
+      "fetchedAt": "2026-11-20T22:40:36.640+08:00",
       "error": null
     }
   }
