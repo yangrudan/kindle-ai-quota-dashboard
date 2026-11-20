@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T21:30:09.029+08:00",
+  "updatedAt": "2026-11-20T21:40:38.177+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-20T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T21:30:09.029+08:00",
+    "fetchedAt": "2026-11-20T21:40:38.177+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "11月20日新闻夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-20/10735537.shtml",
-        "publishedAt": "2026-11-20T21:14:53.000+08:00"
+        "title": "626种创新药械、特殊食品在海南博鳌实现“中国首用”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735546.shtml",
+        "publishedAt": "2026-11-20T21:37:50.000+08:00"
       },
       {
-        "title": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735483.shtml",
-        "publishedAt": "2026-11-20T21:12:33.000+08:00"
+        "title": "首届历史经典产业博览会在杭州启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735548.shtml",
+        "publishedAt": "2026-11-20T21:37:46.000+08:00"
       },
       {
-        "title": "赵乐际会见澳大利亚总理阿尔巴尼斯",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735479.shtml",
-        "publishedAt": "2026-11-20T21:11:53.000+08:00"
+        "title": "知识产权赋能文旅发展 江西擦亮赣鄱文旅品牌",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735545.shtml",
+        "publishedAt": "2026-11-20T21:37:06.000+08:00"
       },
       {
-        "title": "体验非遗与文创 台湾民众盼赴大陆旅游更便捷",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735531.shtml",
-        "publishedAt": "2026-11-20T21:05:09.000+08:00"
+        "title": "白尾海雕连续多年“打卡”黄河中卫段",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735544.shtml",
+        "publishedAt": "2026-11-20T21:36:34.000+08:00"
       },
       {
-        "title": "任栋任扬州市副市长、代理市长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735530.shtml",
-        "publishedAt": "2026-11-20T21:03:53.000+08:00"
+        "title": "海南自贸港封关近一年 制度集成创新为发展注入新动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735543.shtml",
+        "publishedAt": "2026-11-20T21:35:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T21:30:03.128+08:00",
+    "fetchedAt": "2026-11-20T21:40:03.053+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T21:30:07.568+08:00",
+      "fetchedAt": "2026-11-20T21:40:36.708+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T02:30:08.000+08:00"
+          "resetAt": "2026-11-21T02:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T21:30:07.736+08:00",
+      "fetchedAt": "2026-11-20T21:40:36.945+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T21:30:07.746+08:00",
+      "fetchedAt": "2026-11-20T21:40:36.951+08:00",
       "error": null
     }
   }
