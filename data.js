@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T17:20:38.345+08:00",
+  "updatedAt": "2026-11-20T17:30:08.185+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.9,
-    "feelsLikeC": 8.8,
-    "humidity": 56,
+    "tempC": 10.6,
+    "feelsLikeC": 8.5,
+    "humidity": 59,
     "windKph": 2.9,
-    "windDir": "东风",
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-20T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T17:20:38.346+08:00",
+    "observedAt": "2026-11-20T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T17:30:08.185+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "黑龙江广播电视传媒网络集团股份有限公司原董事长赵鸿洋被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735321.shtml",
+        "publishedAt": "2026-11-20T17:27:55.000+08:00"
+      },
+      {
+        "title": "第二届福建工艺美术双年展启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735350.shtml",
+        "publishedAt": "2026-11-20T17:24:37.000+08:00"
+      },
       {
         "title": "前三季度数字产业收入超32万亿元 同比增长14.8%",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735341.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "富平赴南昌开展两场文旅推介 推进赣陕文旅协作",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735330.shtml",
         "publishedAt": "2026-11-20T17:10:50.000+08:00"
-      },
-      {
-        "title": "山东各地开展供热保障工作 守护民众冬日暖意",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735328.shtml",
-        "publishedAt": "2026-11-20T17:10:40.000+08:00"
-      },
-      {
-        "title": "中欧班列（武汉）2026年始发开行突破500列",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-20/10735323.shtml",
-        "publishedAt": "2026-11-20T17:00:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T17:20:03.153+08:00",
+    "fetchedAt": "2026-11-20T17:30:02.625+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T17:20:36.873+08:00",
+      "fetchedAt": "2026-11-20T17:30:06.348+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 70,
+          "usedPct": 71,
           "resetAt": "2026-11-20T19:36:43.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 36,
+          "usedPct": 37,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T17:20:37.121+08:00",
+      "fetchedAt": "2026-11-20T17:30:06.715+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T17:20:37.130+08:00",
+      "fetchedAt": "2026-11-20T17:30:06.725+08:00",
       "error": null
     }
   }
