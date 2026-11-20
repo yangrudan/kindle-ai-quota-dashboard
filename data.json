@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:30:38.475+08:00",
+  "updatedAt": "2026-11-20T16:40:08.872+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-20T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T16:30:38.476+08:00",
+    "fetchedAt": "2026-11-20T16:40:08.872+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "丁薛祥将访问新加坡并主持中新双边合作机制会议 外交部介绍有关情况",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735283.shtml",
-        "publishedAt": "2026-11-20T16:24:30.000+08:00"
+        "title": "【环瞰·APEC中国年】APEC会议现场，企业代表热议“互联互通”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735306.shtml",
+        "publishedAt": "2026-11-20T16:33:44.000+08:00"
       },
       {
-        "title": "“一件事”上新让企业少跑腿",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735296.shtml",
-        "publishedAt": "2026-11-20T16:21:57.000+08:00"
+        "title": "深度｜APEC领导人会议周的外媒记者，看到一个怎样的中国？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735305.shtml",
+        "publishedAt": "2026-11-20T16:32:16.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平会见马来西亚总理安瓦尔",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735268.shtml",
-        "publishedAt": "2026-11-20T16:20:45.000+08:00"
+        "title": "全球媒体聚焦 | “中国的发展为亚太各方带来实实在在新机遇”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735302.shtml",
+        "publishedAt": "2026-11-20T16:28:54.000+08:00"
       },
       {
-        "title": "寻访诗词文脉 赴一场长安诗约",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735294.shtml",
-        "publishedAt": "2026-11-20T16:20:01.000+08:00"
+        "title": "湖北省第三届职业技能大赛在武汉举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735257.shtml",
+        "publishedAt": "2026-11-20T16:26:22.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平会见泰国总理阿努廷",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735278.shtml",
-        "publishedAt": "2026-11-20T16:19:59.000+08:00"
+        "title": "从鹏城再出发，亚太合作展翅高飞",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-20/10735299.shtml",
+        "publishedAt": "2026-11-20T16:26:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T16:30:02.842+08:00",
+    "fetchedAt": "2026-11-20T16:40:02.885+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T16:30:36.864+08:00",
+      "fetchedAt": "2026-11-20T16:40:07.216+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 37,
+          "usedPct": 39,
           "resetAt": "2026-11-20T19:36:43.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 31,
+          "usedPct": 32,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T16:30:37.172+08:00",
+      "fetchedAt": "2026-11-20T16:40:07.396+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T16:30:37.183+08:00",
+      "fetchedAt": "2026-11-20T16:40:07.405+08:00",
       "error": null
     }
   }
