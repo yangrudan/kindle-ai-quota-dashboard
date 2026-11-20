@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T21:40:38.177+08:00",
+  "updatedAt": "2026-11-20T21:50:38.151+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.3,
-    "feelsLikeC": 4.8,
-    "humidity": 65,
-    "windKph": 3.8,
+    "tempC": 6.9,
+    "feelsLikeC": 4.4,
+    "humidity": 69,
+    "windKph": 4.1,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T21:40:38.177+08:00",
+    "observedAt": "2026-11-20T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T21:50:38.151+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“之江同心”搭台 助浙江东阳低空产业“驭风起势”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735550.shtml",
+        "publishedAt": "2026-11-20T21:42:49.000+08:00"
+      },
+      {
+        "title": "宁夏为国省干线逐公里赋数字坐标 公路养护实现精准溯源",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735549.shtml",
+        "publishedAt": "2026-11-20T21:41:37.000+08:00"
+      },
+      {
+        "title": "重庆统战文化之都、统战历史名城建设成果发布",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735547.shtml",
+        "publishedAt": "2026-11-20T21:38:22.000+08:00"
+      },
       {
         "title": "626种创新药械、特殊食品在海南博鳌实现“中国首用”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735546.shtml",
@@ -28,24 +43,9 @@
         "title": "首届历史经典产业博览会在杭州启幕",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735548.shtml",
         "publishedAt": "2026-11-20T21:37:46.000+08:00"
-      },
-      {
-        "title": "知识产权赋能文旅发展 江西擦亮赣鄱文旅品牌",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735545.shtml",
-        "publishedAt": "2026-11-20T21:37:06.000+08:00"
-      },
-      {
-        "title": "白尾海雕连续多年“打卡”黄河中卫段",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735544.shtml",
-        "publishedAt": "2026-11-20T21:36:34.000+08:00"
-      },
-      {
-        "title": "海南自贸港封关近一年 制度集成创新为发展注入新动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735543.shtml",
-        "publishedAt": "2026-11-20T21:35:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T21:40:03.053+08:00",
+    "fetchedAt": "2026-11-20T21:50:03.009+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T21:40:36.708+08:00",
+      "fetchedAt": "2026-11-20T21:50:36.847+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T02:40:38.000+08:00"
+          "resetAt": "2026-11-21T02:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T21:40:36.945+08:00",
+      "fetchedAt": "2026-11-20T21:50:37.137+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T21:40:36.951+08:00",
+      "fetchedAt": "2026-11-20T21:50:37.144+08:00",
       "error": null
     }
   }
