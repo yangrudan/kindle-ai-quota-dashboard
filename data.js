@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T11:40:09.101+08:00",
+  "updatedAt": "2026-11-20T11:50:09.084+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.3,
-    "feelsLikeC": 9.7,
-    "humidity": 34,
+    "tempC": 12.5,
+    "feelsLikeC": 9.9,
+    "humidity": 35,
     "windKph": 5.3,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T11:40:09.101+08:00",
+    "observedAt": "2026-11-20T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T11:50:09.084+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "截至10月底，我国电动汽车充电基础设施(枪)总数达到2539.1万个",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735117.shtml",
+        "publishedAt": "2026-11-20T11:43:42.000+08:00"
+      },
+      {
+        "title": "沙漠合围之地“飞”出生态画卷：甘肃民勤候鸟翔集",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735130.shtml",
+        "publishedAt": "2026-11-20T11:39:46.000+08:00"
+      },
+      {
+        "title": "中韩青年江西行，看见了什么？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735128.shtml",
+        "publishedAt": "2026-11-20T11:38:22.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）港澳各界热议深圳APEC会议：深度参与亚太合作，助力共同繁荣",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735125.shtml",
+        "publishedAt": "2026-11-20T11:37:12.000+08:00"
+      },
+      {
         "title": "五部门印发2026版海洋产业投融资指导目录",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735127.shtml",
         "publishedAt": "2026-11-20T11:30:52.000+08:00"
-      },
-      {
-        "title": "习近平会见泰国总理阿努廷",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735126.shtml",
-        "publishedAt": "2026-11-20T11:30:44.000+08:00"
-      },
-      {
-        "title": "当AI“得知”自己将被关闭，它竟然干了这种事……",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735123.shtml",
-        "publishedAt": "2026-11-20T11:24:13.000+08:00"
-      },
-      {
-        "title": "进入高发季！出现这6个信号，可能是心梗",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735122.shtml",
-        "publishedAt": "2026-11-20T11:22:21.000+08:00"
-      },
-      {
-        "title": "“中文热”催生多元需求 海外华校推进“中文+”课程建设",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735119.shtml",
-        "publishedAt": "2026-11-20T11:21:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T11:40:03.127+08:00",
+    "fetchedAt": "2026-11-20T11:50:03.126+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T11:40:07.748+08:00",
+      "fetchedAt": "2026-11-20T11:50:07.430+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T11:40:07.995+08:00",
+      "fetchedAt": "2026-11-20T11:50:07.757+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T11:40:08.004+08:00",
+      "fetchedAt": "2026-11-20T11:50:07.765+08:00",
       "error": null
     }
   }
