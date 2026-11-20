@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T09:50:09.656+08:00",
+  "updatedAt": "2026-11-20T10:00:08.890+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.5,
-    "feelsLikeC": 6.9,
-    "humidity": 40,
+    "tempC": 10.9,
+    "feelsLikeC": 7.2,
+    "humidity": 37,
     "windKph": 7.4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T09:50:09.656+08:00",
+    "observedAt": "2026-11-20T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T10:00:08.891+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "从社区课堂到产业现场 华校探索多元办学路径",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735040.shtml",
+        "publishedAt": "2026-11-20T09:53:04.000+08:00"
+      },
+      {
+        "title": "老年保健品会销退货难引关注 将商家“自愿承诺”升格为“法定义务”",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-20/10735060.shtml",
+        "publishedAt": "2026-11-20T09:51:14.000+08:00"
+      },
+      {
+        "title": "虚假事业编招聘背后",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735058.shtml",
+        "publishedAt": "2026-11-20T09:45:14.000+08:00"
+      },
+      {
+        "title": "外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735057.shtml",
+        "publishedAt": "2026-11-20T09:44:48.000+08:00"
+      },
+      {
         "title": "【和合共生】习言道｜密集会见多国领导人，习近平频繁提及这几个词",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735017.shtml",
         "publishedAt": "2026-11-20T09:42:24.000+08:00"
-      },
-      {
-        "title": "习近平会见印度尼西亚总统普拉博沃",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735055.shtml",
-        "publishedAt": "2026-11-20T09:41:22.000+08:00"
-      },
-      {
-        "title": "上万日本民众举行抗议集会 反对高市政府扩军修宪",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735056.shtml",
-        "publishedAt": "2026-11-20T09:39:38.000+08:00"
-      },
-      {
-        "title": "A股开盘：超5300只个股飘绿，三大指数集体低开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735054.shtml",
-        "publishedAt": "2026-11-20T09:35:59.000+08:00"
-      },
-      {
-        "title": "国内推出首个智能座舱AI分级评价体系",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735052.shtml",
-        "publishedAt": "2026-11-20T09:34:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T09:50:03.317+08:00",
+    "fetchedAt": "2026-11-20T10:00:03.067+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T09:50:07.771+08:00",
+      "fetchedAt": "2026-11-20T10:00:07.057+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 7,
           "resetAt": "2026-11-20T14:22:09.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T09:50:08.001+08:00",
+      "fetchedAt": "2026-11-20T10:00:07.356+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T09:50:08.010+08:00",
+      "fetchedAt": "2026-11-20T10:00:07.364+08:00",
       "error": null
     }
   }
