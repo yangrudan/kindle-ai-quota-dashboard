@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T12:10:08.820+08:00",
+  "updatedAt": "2026-11-20T12:20:09.360+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.7,
-    "feelsLikeC": 10.1,
+    "tempC": 12.9,
+    "feelsLikeC": 10.2,
     "humidity": 35,
-    "windKph": 5.1,
+    "windKph": 4.9,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-20T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T12:10:08.820+08:00",
+    "observedAt": "2026-11-20T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T12:20:09.360+08:00",
     "error": null
   },
   "news": {
@@ -23,6 +23,11 @@ window.DASH_DATA = {
         "title": "结束中国之行后，特朗普和白宫接连发文：非常精彩、影响深远",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735143.shtml",
         "publishedAt": "2026-11-20T12:05:30.000+08:00"
+      },
+      {
+        "title": "500元以下的羽绒服，到底能不能买？",
+        "url": "https://www.chinanews.com.cn/life/2026/11-20/10735144.shtml",
+        "publishedAt": "2026-11-20T12:02:55.000+08:00"
       },
       {
         "title": "1-10月份辽宁省进出口稳步增长 出口增长较快",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "轻音乐与木卡姆和鸣：歌声牵起沪喀双城",
         "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735133.shtml",
         "publishedAt": "2026-11-20T11:56:21.000+08:00"
-      },
-      {
-        "title": "从老街烟火到海昏汉韵 新阶层人士解锁南昌“魅力密码”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735140.shtml",
-        "publishedAt": "2026-11-20T11:55:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T12:10:03.476+08:00",
+    "fetchedAt": "2026-11-20T12:20:03.292+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-20T12:10:07.356+08:00",
+      "fetchedAt": "2026-11-20T12:20:07.920+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T12:10:07.667+08:00",
+      "fetchedAt": "2026-11-20T12:20:08.253+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-20T12:10:07.676+08:00",
+      "fetchedAt": "2026-11-20T12:20:08.261+08:00",
       "error": null
     }
   }
