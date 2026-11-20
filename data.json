@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T06:10:09.736+08:00",
+  "updatedAt": "2026-11-21T06:20:08.556+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@
     "windKph": 3.6,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-21T06:00:00.000+08:00",
-    "fetchedAt": "2026-11-21T06:10:09.736+08:00",
+    "observedAt": "2026-11-21T06:15:00.000+08:00",
+    "fetchedAt": "2026-11-21T06:20:08.557+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "安理会举行联合国秘书长遴选第九轮意向性投票",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735607.shtml",
+        "publishedAt": "2026-11-21T06:07:58.000+08:00"
+      },
+      {
+        "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735606.shtml",
+        "publishedAt": "2026-11-21T06:06:28.000+08:00"
+      },
+      {
+        "title": "国际金价创一年多新低 黄金消费热潮背后这几点要知道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735605.shtml",
+        "publishedAt": "2026-11-21T06:06:22.000+08:00"
+      },
       {
         "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735603.shtml",
@@ -28,24 +43,9 @@
         "title": "印尼人与中国的故事：镜头、课本与父辈记忆",
         "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735602.shtml",
         "publishedAt": "2026-11-20T23:32:07.000+08:00"
-      },
-      {
-        "title": "俄罗斯友人：如果用一个词形容中国，我会说“震撼”",
-        "url": "http://www.chinanews.com.cn/cj/shipin/2026/11-20/news1075623.shtml",
-        "publishedAt": "2026-11-20T23:22:56.000+08:00"
-      },
-      {
-        "title": "联合国助理秘书长：儿基会同中国合作正惠及世界更多儿童",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735596.shtml",
-        "publishedAt": "2026-11-20T23:07:47.000+08:00"
-      },
-      {
-        "title": "浙江杭州：朱炳仁铜艺作品亮相“非遗盛会”吸引民众",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735559.shtml",
-        "publishedAt": "2026-11-20T23:03:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T06:10:03.549+08:00",
+    "fetchedAt": "2026-11-21T06:20:02.577+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T06:10:07.972+08:00",
+      "fetchedAt": "2026-11-21T06:20:06.996+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T11:10:09.000+08:00"
+          "resetAt": "2026-11-21T11:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T06:10:08.309+08:00",
+      "fetchedAt": "2026-11-21T06:20:07.328+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T06:10:08.318+08:00",
+      "fetchedAt": "2026-11-21T06:20:07.332+08:00",
       "error": null
     }
   }
