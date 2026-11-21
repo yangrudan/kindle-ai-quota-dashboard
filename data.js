@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T12:10:08.359+08:00",
+  "updatedAt": "2026-11-21T12:20:38.647+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.6,
-    "feelsLikeC": 12.6,
+    "tempC": 14.8,
+    "feelsLikeC": 12.7,
     "humidity": 37,
-    "windKph": 3.7,
+    "windKph": 3.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-21T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-21T12:10:08.359+08:00",
+    "observedAt": "2026-11-21T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-21T12:20:38.648+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一场盛会，何以让全球客属乡亲“不虚此行”？",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735686.shtml",
+        "publishedAt": "2026-11-21T12:14:34.000+08:00"
+      },
+      {
+        "title": "2026中国电影节在菲律宾马尼拉开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735687.shtml",
+        "publishedAt": "2026-11-21T12:13:18.000+08:00"
+      },
+      {
+        "title": "1650吨重车组“压阵” 湾区工程清花大桥完成荷载试验",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735688.shtml",
+        "publishedAt": "2026-11-21T12:12:14.000+08:00"
+      },
       {
         "title": "2026年青年企业家创新发展大会在北京召开 伊利集团董事长兼总裁潘刚出席会议并作主旨演讲",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735678.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735677.shtml",
         "publishedAt": "2026-11-21T11:35:12.000+08:00"
-      },
-      {
-        "title": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735663.shtml",
-        "publishedAt": "2026-11-21T11:33:02.000+08:00"
-      },
-      {
-        "title": "五中全会精神在基层丨“放心田”背后是责任心",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-21/10735676.shtml",
-        "publishedAt": "2026-11-21T11:32:54.000+08:00"
-      },
-      {
-        "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735662.shtml",
-        "publishedAt": "2026-11-21T11:32:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T12:10:02.869+08:00",
+    "fetchedAt": "2026-11-21T12:20:03.320+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T12:10:06.615+08:00",
+      "fetchedAt": "2026-11-21T12:20:37.395+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T12:10:07.095+08:00",
+      "fetchedAt": "2026-11-21T12:20:37.685+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T12:10:07.104+08:00",
+      "fetchedAt": "2026-11-21T12:20:37.692+08:00",
       "error": null
     }
   }
