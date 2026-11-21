@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T17:00:08.138+08:00",
+  "updatedAt": "2026-11-21T17:10:09.593+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-21T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-21T17:00:08.138+08:00",
+    "fetchedAt": "2026-11-21T17:10:09.593+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普盛赞深圳城市建设：干净整洁、路面平整，看看人家，再看看我们自己……",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735781.shtml",
+        "publishedAt": "2026-11-21T17:03:08.000+08:00"
+      },
+      {
+        "title": "外籍来华消费有多便利？美国博主：来了就知道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735780.shtml",
+        "publishedAt": "2026-11-21T17:01:02.000+08:00"
+      },
+      {
+        "title": "湾区和湾区经济是啥？人民日报2分钟说透",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-21/10735779.shtml",
+        "publishedAt": "2026-11-21T16:58:52.000+08:00"
+      },
       {
         "title": "广西柳州通报打击非法猎捕贩卖野生鸟类 抓捕涉案人员35人",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735771.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "西藏开展2026年冰雪运动进机关和企事业单位活动",
         "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735769.shtml",
         "publishedAt": "2026-11-21T16:46:21.000+08:00"
-      },
-      {
-        "title": "聚焦AI攻防变局 第六届新一代通信网内生安全大会12月南京举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735758.shtml",
-        "publishedAt": "2026-11-21T16:45:29.000+08:00"
-      },
-      {
-        "title": "河南汝州汝瓷文化节开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735770.shtml",
-        "publishedAt": "2026-11-21T16:40:31.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）新雪季新疆“冰雪小镇”迎客忙",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735765.shtml",
-        "publishedAt": "2026-11-21T16:37:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T17:00:02.554+08:00",
+    "fetchedAt": "2026-11-21T17:10:03.969+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T17:00:06.600+08:00",
+      "fetchedAt": "2026-11-21T17:10:08.032+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T22:00:08.000+08:00"
+          "resetAt": "2026-11-21T22:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T17:00:06.954+08:00",
+      "fetchedAt": "2026-11-21T17:10:08.257+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T17:00:06.962+08:00",
+      "fetchedAt": "2026-11-21T17:10:08.265+08:00",
       "error": null
     }
   }
