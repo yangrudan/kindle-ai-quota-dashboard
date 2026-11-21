@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T22:30:38.043+08:00",
+  "updatedAt": "2026-11-21T22:40:38.780+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-21T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T22:30:38.043+08:00",
+    "fetchedAt": "2026-11-21T22:40:38.780+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "侨商牵线促成足坛巨星IP落地上海 南京东路添体育文化打卡新地标",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735931.shtml",
+        "publishedAt": "2026-11-21T22:32:30.000+08:00"
+      },
+      {
+        "title": "广西留学生“斗诗”品味中国诗词之美",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735927.shtml",
+        "publishedAt": "2026-11-21T22:25:26.000+08:00"
+      },
+      {
+        "title": "2026文化抗战学术研讨会在桂林举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735926.shtml",
+        "publishedAt": "2026-11-21T22:25:20.000+08:00"
+      },
       {
         "title": "“清水文化海外传播与创新发展研讨会”在厦门开幕",
         "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735925.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "第十八届傅雷翻译出版奖获奖者名单在江苏南京揭晓",
         "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735921.shtml",
         "publishedAt": "2026-11-21T21:53:36.000+08:00"
-      },
-      {
-        "title": "第七届世界海洋生物多样性大会在比利时举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735916.shtml",
-        "publishedAt": "2026-11-21T21:52:52.000+08:00"
-      },
-      {
-        "title": "2026年林木业大会在南宁举行 现场签约超400亿元",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735919.shtml",
-        "publishedAt": "2026-11-21T21:51:38.000+08:00"
-      },
-      {
-        "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211364.shtml",
-        "publishedAt": "2026-11-21T21:29:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T22:30:02.804+08:00",
+    "fetchedAt": "2026-11-21T22:40:02.986+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T22:30:36.799+08:00",
+      "fetchedAt": "2026-11-21T22:40:37.504+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T03:30:38.000+08:00"
+          "resetAt": "2026-11-22T03:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T22:30:37.039+08:00",
+      "fetchedAt": "2026-11-21T22:40:37.717+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T22:30:37.042+08:00",
+      "fetchedAt": "2026-11-21T22:40:37.722+08:00",
       "error": null
     }
   }
