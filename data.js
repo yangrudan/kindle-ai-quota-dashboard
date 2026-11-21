@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T14:50:08.695+08:00",
+  "updatedAt": "2026-11-21T15:00:08.346+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.5,
-    "feelsLikeC": 13.2,
+    "tempC": 15.4,
+    "feelsLikeC": 13,
     "humidity": 37,
-    "windKph": 1.7,
+    "windKph": 2.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-21T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T14:50:08.695+08:00",
+    "observedAt": "2026-11-21T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-21T15:00:08.346+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "王志华：49个新增火电项目环评挖掘每年170万吨二氧化碳减排量",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735712.shtml",
-        "publishedAt": "2026-11-21T14:44:45.000+08:00"
+        "title": "中国最高检发布指导性案例 涉性侵害未成年人犯罪抗诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735720.shtml",
+        "publishedAt": "2026-11-21T14:52:07.000+08:00"
       },
       {
-        "title": "纳入“国家行动计划”，中国在农业甲烷治理方面取得积极进展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735710.shtml",
-        "publishedAt": "2026-11-21T14:42:58.000+08:00"
+        "title": "陈盛燃：国家电网已在26个省市建立六氟化硫净化处理中心",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735715.shtml",
+        "publishedAt": "2026-11-21T14:49:45.000+08:00"
       },
       {
-        "title": "“棕色黄金”如何变废为宝？英国学者：中国在相关领域发挥引领作用",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735709.shtml",
-        "publishedAt": "2026-11-21T14:41:06.000+08:00"
+        "title": "李军：中国油气企业甲烷控排联盟成员已达10家",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735714.shtml",
+        "publishedAt": "2026-11-21T14:49:29.000+08:00"
       },
       {
-        "title": "全球甲烷中心首席执行官：近零甲烷标准可使油气业甲烷排放降约八成",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735708.shtml",
-        "publishedAt": "2026-11-21T14:20:07.000+08:00"
+        "title": "中国石油：甲烷排放强度较2019年下降50%，如期实现既定目标",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735713.shtml",
+        "publishedAt": "2026-11-21T14:47:49.000+08:00"
       },
       {
-        "title": "两届香港马王“浪漫勇士”退役",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-21/10735719.shtml",
-        "publishedAt": "2026-11-21T13:58:54.000+08:00"
+        "title": "张建新：北京排水集团利用污泥沼气年发电8000万千瓦时",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735711.shtml",
+        "publishedAt": "2026-11-21T14:46:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T14:50:02.851+08:00",
+    "fetchedAt": "2026-11-21T15:00:02.695+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T14:50:07.259+08:00",
+      "fetchedAt": "2026-11-21T15:00:07.141+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T19:50:08.000+08:00"
+          "resetAt": "2026-11-21T20:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T14:50:07.472+08:00",
+      "fetchedAt": "2026-11-21T15:00:07.333+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T14:50:07.481+08:00",
+      "fetchedAt": "2026-11-21T15:00:07.342+08:00",
       "error": null
     }
   }
