@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:30:08.304+08:00",
+  "updatedAt": "2026-11-21T13:40:08.813+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-21T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T13:30:08.304+08:00",
+    "fetchedAt": "2026-11-21T13:40:08.814+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "苏锡常欧美同学会聚智联动 共探未来产业新赛道",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735695.shtml",
-        "publishedAt": "2026-11-21T13:25:20.000+08:00"
+        "title": "再创国内新纪录！中国石油新疆油田裸眼深部取换套试验取得重大突破",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735698.shtml",
+        "publishedAt": "2026-11-21T13:36:49.000+08:00"
       },
       {
-        "title": "专家：AI检测只是辅助依据 不能替代学术评价",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735696.shtml",
-        "publishedAt": "2026-11-21T13:24:02.000+08:00"
+        "title": "西夏文献流散百年 中外学者共寻“解读”之道",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735697.shtml",
+        "publishedAt": "2026-11-21T13:36:07.000+08:00"
       },
       {
-        "title": "越南—中国西南地区发展战略对接论坛在昆明举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735690.shtml",
-        "publishedAt": "2026-11-21T13:13:52.000+08:00"
+        "title": "第四十届中国植保双交会在蓉开幕 发布10项团体标准",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735694.shtml",
+        "publishedAt": "2026-11-21T13:34:25.000+08:00"
       },
       {
-        "title": "中国织密电池回收网络 千亿级“城市矿山”崛起",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735679.shtml",
-        "publishedAt": "2026-11-21T12:50:32.000+08:00"
+        "title": "第六届“齐白石”全国大学生中国画作品展开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735693.shtml",
+        "publishedAt": "2026-11-21T13:33:41.000+08:00"
       },
       {
-        "title": "最高检发布指导性案例 依法严惩性侵害未成年人犯罪",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-21/10735665.shtml",
-        "publishedAt": "2026-11-21T12:36:38.000+08:00"
+        "title": "江苏扬州“绿扬金凤”人才周开幕：以满满诚意，邀天下英才“追梦”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735692.shtml",
+        "publishedAt": "2026-11-21T13:32:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T13:30:02.575+08:00",
+    "fetchedAt": "2026-11-21T13:40:03.132+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T13:30:06.506+08:00",
+      "fetchedAt": "2026-11-21T13:40:07.512+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T18:30:08.000+08:00"
+          "resetAt": "2026-11-21T18:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T13:30:06.760+08:00",
+      "fetchedAt": "2026-11-21T13:40:07.700+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T13:30:06.766+08:00",
+      "fetchedAt": "2026-11-21T13:40:07.709+08:00",
       "error": null
     }
   }
