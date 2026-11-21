@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T10:00:08.959+08:00",
+  "updatedAt": "2026-11-21T10:10:08.185+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-21T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-21T10:00:08.959+08:00",
+    "fetchedAt": "2026-11-21T10:10:08.185+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新产业催生更多新岗位 @高校毕业生，你准备好了吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735642.shtml",
-        "publishedAt": "2026-11-21T09:53:13.000+08:00"
+        "title": "“讲中国故事”暨印尼摄影家赴福建采风成果展在雅加达举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735636.shtml",
+        "publishedAt": "2026-11-21T10:05:33.000+08:00"
       },
       {
-        "title": "不要小看中国经济“稳”的分量",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735641.shtml",
-        "publishedAt": "2026-11-21T09:49:18.000+08:00"
+        "title": "英国推进移民制度改革 持续关停庇护安置酒店",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735614.shtml",
+        "publishedAt": "2026-11-21T10:05:07.000+08:00"
       },
       {
-        "title": "重庆统战教育高地建设积厚成势 五方面成果集中显现",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735629.shtml",
-        "publishedAt": "2026-11-21T09:48:42.000+08:00"
+        "title": "特朗普：中俄美元首会晤具有重大历史意义",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735613.shtml",
+        "publishedAt": "2026-11-21T10:04:27.000+08:00"
       },
       {
-        "title": "世界首个、蝉联榜首、刷新纪录！本周我国多领域捷报频传",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735640.shtml",
-        "publishedAt": "2026-11-21T09:47:10.000+08:00"
+        "title": "贵州毕节聚焦群众急难愁盼，完善支持保障机制 温暖193万人的外出务工路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735645.shtml",
+        "publishedAt": "2026-11-21T10:04:19.000+08:00"
       },
       {
-        "title": "第二届文化养老产业交流会在厦门举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735630.shtml",
-        "publishedAt": "2026-11-21T09:44:16.000+08:00"
+        "title": "南非7月至9月发生5590起谋杀案 超半数案发公共场所",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735612.shtml",
+        "publishedAt": "2026-11-21T10:02:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T10:00:03.153+08:00",
+    "fetchedAt": "2026-11-21T10:10:02.907+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T10:00:07.418+08:00",
+      "fetchedAt": "2026-11-21T10:10:06.944+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T10:00:07.694+08:00",
+      "fetchedAt": "2026-11-21T10:10:07.158+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T10:00:07.704+08:00",
+      "fetchedAt": "2026-11-21T10:10:07.168+08:00",
       "error": null
     }
   }
