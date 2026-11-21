@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T18:50:08.154+08:00",
+  "updatedAt": "2026-11-21T19:00:38.072+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.9,
-    "feelsLikeC": 7.4,
+    "tempC": 9.7,
+    "feelsLikeC": 7.3,
     "humidity": 62,
     "windKph": 5.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-21T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T18:50:08.154+08:00",
+    "observedAt": "2026-11-21T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-21T19:00:38.073+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "浙江：上山国家考古遗址公园暨上山博物馆正式开放",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735830.shtml",
+        "publishedAt": "2026-11-21T18:50:00.000+08:00"
+      },
+      {
+        "title": "松原首批氢能试点超亿元奖励资金拨付到企",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735829.shtml",
+        "publishedAt": "2026-11-21T18:49:08.000+08:00"
+      },
+      {
+        "title": "2026文化抗战学术研讨会在桂林召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735828.shtml",
+        "publishedAt": "2026-11-21T18:48:36.000+08:00"
+      },
       {
         "title": "第五届长江大保护司法论坛在武汉开幕",
         "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735827.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "2026年侨海（客家）青年发展大会在海口举行",
         "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735824.shtml",
         "publishedAt": "2026-11-21T18:47:04.000+08:00"
-      },
-      {
-        "title": "2026年以来昆明市检察机关办理涉外因素案件210件",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735823.shtml",
-        "publishedAt": "2026-11-21T18:45:58.000+08:00"
-      },
-      {
-        "title": "宁夏银川非遗创新设计大赛收官 36件作品让老手艺走进日常生活",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735821.shtml",
-        "publishedAt": "2026-11-21T18:45:22.000+08:00"
-      },
-      {
-        "title": "2026年世界泳联中国游泳日首次落地哈尔滨 44支队伍逐浪",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735820.shtml",
-        "publishedAt": "2026-11-21T18:44:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T18:50:02.483+08:00",
+    "fetchedAt": "2026-11-21T19:00:02.435+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T18:50:06.754+08:00",
+      "fetchedAt": "2026-11-21T19:00:36.426+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T23:50:08.000+08:00"
+          "resetAt": "2026-11-22T00:00:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T18:50:07.075+08:00",
+      "fetchedAt": "2026-11-21T19:00:36.746+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T18:50:07.080+08:00",
+      "fetchedAt": "2026-11-21T19:00:36.755+08:00",
       "error": null
     }
   }
