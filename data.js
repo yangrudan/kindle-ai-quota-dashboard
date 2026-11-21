@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T09:20:42.905+08:00",
+  "updatedAt": "2026-11-21T09:30:08.259+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.3,
-    "feelsLikeC": 8.1,
-    "humidity": 59,
+    "tempC": 10.9,
+    "feelsLikeC": 8.7,
+    "humidity": 56,
     "windKph": 3.2,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-21T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T09:20:42.905+08:00",
+    "observedAt": "2026-11-21T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-21T09:30:08.259+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“租购修养”全周期保障正在落实落细",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735632.shtml",
+        "publishedAt": "2026-11-21T09:22:15.000+08:00"
+      },
+      {
+        "title": "动起来，不必坐等“有空”",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-21/10735626.shtml",
+        "publishedAt": "2026-11-21T09:19:29.000+08:00"
+      },
       {
         "title": "“助眠神器”，真有用还是“割韭菜”？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735625.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "从“跑多科”到“一号通”，就医流程改革让患者不再“绕晕”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735623.shtml",
         "publishedAt": "2026-11-21T09:13:47.000+08:00"
-      },
-      {
-        "title": "金价走低带火线下购金：豫园某柜台一上午卖出60余只金手镯",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735622.shtml",
-        "publishedAt": "2026-11-21T09:12:27.000+08:00"
-      },
-      {
-        "title": "洗一次摇粒绒释放70万根微塑料？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735621.shtml",
-        "publishedAt": "2026-11-21T09:09:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T09:20:07.704+08:00",
+    "fetchedAt": "2026-11-21T09:30:02.752+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T09:20:41.674+08:00",
+      "fetchedAt": "2026-11-21T09:30:06.810+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T09:20:41.921+08:00",
+      "fetchedAt": "2026-11-21T09:30:07.011+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T09:20:41.930+08:00",
+      "fetchedAt": "2026-11-21T09:30:07.019+08:00",
       "error": null
     }
   }
