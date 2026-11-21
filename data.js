@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T12:20:38.647+08:00",
+  "updatedAt": "2026-11-21T12:30:07.769+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.8,
-    "feelsLikeC": 12.7,
+    "tempC": 14.9,
+    "feelsLikeC": 12.8,
     "humidity": 37,
     "windKph": 3.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-21T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T12:20:38.648+08:00",
+    "observedAt": "2026-11-21T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-21T12:30:07.769+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第二届“我是厨神”环省行首秀落地扬州 五城厨神比拼早茶技艺",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735685.shtml",
+        "publishedAt": "2026-11-21T12:15:12.000+08:00"
+      },
       {
         "title": "一场盛会，何以让全球客属乡亲“不虚此行”？",
         "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735686.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026年青年企业家创新发展大会在北京召开 伊利集团董事长兼总裁潘刚出席会议并作主旨演讲",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735678.shtml",
         "publishedAt": "2026-11-21T11:51:11.000+08:00"
-      },
-      {
-        "title": "产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735677.shtml",
-        "publishedAt": "2026-11-21T11:35:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T12:20:03.320+08:00",
+    "fetchedAt": "2026-11-21T12:30:02.717+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T12:20:37.395+08:00",
+      "fetchedAt": "2026-11-21T12:30:06.263+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T12:20:37.685+08:00",
+      "fetchedAt": "2026-11-21T12:30:06.521+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T12:20:37.692+08:00",
+      "fetchedAt": "2026-11-21T12:30:06.531+08:00",
       "error": null
     }
   }
