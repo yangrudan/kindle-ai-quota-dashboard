@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T06:30:37.618+08:00",
+  "updatedAt": "2026-11-22T06:40:08.330+08:00",
   "weather": {
     "ok": true,
     "description": "雾",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-22T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T06:30:37.618+08:00",
+    "fetchedAt": "2026-11-22T06:40:08.330+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "英国国防大臣访基辅重申长期援乌承诺",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735938.shtml",
+        "publishedAt": "2026-11-22T06:35:31.000+08:00"
+      },
+      {
+        "title": "英国凯特王妃通过纪录片深度讲述抗癌经历",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735937.shtml",
+        "publishedAt": "2026-11-22T06:34:59.000+08:00"
+      },
       {
         "title": "墨西哥抓获大毒枭“矮子伊西德罗”",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735936.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735934.shtml",
         "publishedAt": "2026-11-22T06:10:13.000+08:00"
-      },
-      {
-        "title": "正值流感季 今年毒株有何特点？能自行服用抗生素吗？",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-22/10735933.shtml",
-        "publishedAt": "2026-11-22T06:10:01.000+08:00"
-      },
-      {
-        "title": "空手道世界杯：中国两支女队首次跻身四强 将争铜牌",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10735932.shtml",
-        "publishedAt": "2026-11-22T06:06:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T06:30:02.590+08:00",
+    "fetchedAt": "2026-11-22T06:40:02.381+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T06:30:36.192+08:00",
+      "fetchedAt": "2026-11-22T06:40:07.009+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T11:30:37.000+08:00"
+          "resetAt": "2026-11-22T11:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T06:30:36.506+08:00",
+      "fetchedAt": "2026-11-22T06:40:07.287+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T06:30:36.514+08:00",
+      "fetchedAt": "2026-11-22T06:40:07.294+08:00",
       "error": null
     }
   }
