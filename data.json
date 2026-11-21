@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T15:40:08.635+08:00",
+  "updatedAt": "2026-11-21T15:50:08.087+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.9,
-    "feelsLikeC": 12.6,
-    "humidity": 39,
-    "windKph": 2.3,
+    "tempC": 14.7,
+    "feelsLikeC": 12.4,
+    "humidity": 41,
+    "windKph": 3.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-21T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T15:40:08.635+08:00",
+    "observedAt": "2026-11-21T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T15:50:08.087+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "岛内舆论高度关注特朗普不支持“台独”表态",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735733.shtml",
+        "publishedAt": "2026-11-21T15:36:37.000+08:00"
+      },
       {
         "title": "做好冬季电煤保供运输“加减法” 守护万家冬日暖意",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735736.shtml",
@@ -38,14 +43,9 @@
         "title": "河南：汝瓷借侨连四海",
         "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735723.shtml",
         "publishedAt": "2026-11-21T15:11:44.000+08:00"
-      },
-      {
-        "title": "中国最高检发布指导性案例 涉性侵害未成年人犯罪抗诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735720.shtml",
-        "publishedAt": "2026-11-21T14:52:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T15:40:02.628+08:00",
+    "fetchedAt": "2026-11-21T15:50:02.844+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T15:40:07.180+08:00",
+      "fetchedAt": "2026-11-21T15:50:06.486+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T20:40:08.000+08:00"
+          "resetAt": "2026-11-21T20:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T15:40:07.629+08:00",
+      "fetchedAt": "2026-11-21T15:50:06.724+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T15:40:07.637+08:00",
+      "fetchedAt": "2026-11-21T15:50:06.733+08:00",
       "error": null
     }
   }
