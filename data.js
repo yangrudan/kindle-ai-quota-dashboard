@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T16:50:07.848+08:00",
+  "updatedAt": "2026-11-21T17:00:08.138+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.4,
-    "feelsLikeC": 9.8,
-    "humidity": 52,
-    "windKph": 5.9,
+    "tempC": 11.8,
+    "feelsLikeC": 9.2,
+    "humidity": 55,
+    "windKph": 6.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-21T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T16:50:07.848+08:00",
+    "observedAt": "2026-11-21T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-21T17:00:08.138+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广西柳州通报打击非法猎捕贩卖野生鸟类 抓捕涉案人员35人",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735771.shtml",
+        "publishedAt": "2026-11-21T16:47:49.000+08:00"
+      },
+      {
+        "title": "西藏开展2026年冰雪运动进机关和企事业单位活动",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735769.shtml",
+        "publishedAt": "2026-11-21T16:46:21.000+08:00"
+      },
+      {
+        "title": "聚焦AI攻防变局 第六届新一代通信网内生安全大会12月南京举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735758.shtml",
+        "publishedAt": "2026-11-21T16:45:29.000+08:00"
+      },
       {
         "title": "河南汝州汝瓷文化节开幕",
         "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735770.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "（走进中国乡村）新雪季新疆“冰雪小镇”迎客忙",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735765.shtml",
         "publishedAt": "2026-11-21T16:37:57.000+08:00"
-      },
-      {
-        "title": "第十四届中国中部投资贸易博览会在河南郑州开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735750.shtml",
-        "publishedAt": "2026-11-21T16:37:23.000+08:00"
-      },
-      {
-        "title": "人力资源服务方向国家人工智能应用中试基地在重庆揭牌",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735757.shtml",
-        "publishedAt": "2026-11-21T16:37:15.000+08:00"
-      },
-      {
-        "title": "神舟二十四号任务完成最后一次全区合练，发射场做好发射前各项准备",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735773.shtml",
-        "publishedAt": "2026-11-21T16:35:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T16:50:02.709+08:00",
+    "fetchedAt": "2026-11-21T17:00:02.554+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T16:50:06.306+08:00",
+      "fetchedAt": "2026-11-21T17:00:06.600+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T21:50:07.000+08:00"
+          "resetAt": "2026-11-21T22:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T16:50:06.562+08:00",
+      "fetchedAt": "2026-11-21T17:00:06.954+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T16:50:06.570+08:00",
+      "fetchedAt": "2026-11-21T17:00:06.962+08:00",
       "error": null
     }
   }
