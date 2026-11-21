@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T22:20:39.039+08:00",
+  "updatedAt": "2026-11-21T22:30:38.043+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.8,
-    "feelsLikeC": 5.4,
-    "humidity": 69,
-    "windKph": 4.6,
+    "tempC": 7.7,
+    "feelsLikeC": 5.2,
+    "humidity": 70,
+    "windKph": 4.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-21T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T22:20:39.039+08:00",
+    "observedAt": "2026-11-21T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-21T22:30:38.043+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“清水文化海外传播与创新发展研讨会”在厦门开幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735925.shtml",
+        "publishedAt": "2026-11-21T22:21:45.000+08:00"
+      },
       {
         "title": "第十八届傅雷翻译出版奖获奖者名单在江苏南京揭晓",
         "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735921.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211364.shtml",
         "publishedAt": "2026-11-21T21:29:29.000+08:00"
-      },
-      {
-        "title": "长安大学回应14号面试13号出结果",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735917.shtml",
-        "publishedAt": "2026-11-21T21:28:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T22:20:03.382+08:00",
+    "fetchedAt": "2026-11-21T22:30:02.804+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T22:20:37.577+08:00",
+      "fetchedAt": "2026-11-21T22:30:36.799+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T03:20:38.000+08:00"
+          "resetAt": "2026-11-22T03:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T22:20:37.809+08:00",
+      "fetchedAt": "2026-11-21T22:30:37.039+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T22:20:37.819+08:00",
+      "fetchedAt": "2026-11-21T22:30:37.042+08:00",
       "error": null
     }
   }
