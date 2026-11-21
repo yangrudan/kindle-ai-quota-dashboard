@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T19:00:38.072+08:00",
+  "updatedAt": "2026-11-21T19:10:09.178+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-21T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-21T19:00:38.073+08:00",
+    "fetchedAt": "2026-11-21T19:10:09.178+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "青海海西州德令哈市发生5.6级地震 震源深度10千米",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735833.shtml",
+        "publishedAt": "2026-11-21T18:57:36.000+08:00"
+      },
       {
         "title": "浙江：上山国家考古遗址公园暨上山博物馆正式开放",
         "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735830.shtml",
@@ -38,14 +43,9 @@
         "title": "第五届长江大保护司法论坛在武汉开幕",
         "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735827.shtml",
         "publishedAt": "2026-11-21T18:47:42.000+08:00"
-      },
-      {
-        "title": "2026年侨海（客家）青年发展大会在海口举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735824.shtml",
-        "publishedAt": "2026-11-21T18:47:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T19:00:02.435+08:00",
+    "fetchedAt": "2026-11-21T19:10:03.752+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T19:00:36.426+08:00",
+      "fetchedAt": "2026-11-21T19:10:07.872+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T00:00:37.000+08:00"
+          "resetAt": "2026-11-22T00:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T19:00:36.746+08:00",
+      "fetchedAt": "2026-11-21T19:10:08.109+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T19:00:36.755+08:00",
+      "fetchedAt": "2026-11-21T19:10:08.118+08:00",
       "error": null
     }
   }
