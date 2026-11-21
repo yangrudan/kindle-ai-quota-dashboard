@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T14:40:07.257+08:00",
+  "updatedAt": "2026-11-21T14:50:08.695+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 15.5,
-    "feelsLikeC": 13.3,
+    "feelsLikeC": 13.2,
     "humidity": 37,
-    "windKph": 0.8,
+    "windKph": 1.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-21T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T14:40:07.257+08:00",
+    "observedAt": "2026-11-21T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T14:50:08.695+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王志华：49个新增火电项目环评挖掘每年170万吨二氧化碳减排量",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735712.shtml",
+        "publishedAt": "2026-11-21T14:44:45.000+08:00"
+      },
+      {
+        "title": "纳入“国家行动计划”，中国在农业甲烷治理方面取得积极进展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735710.shtml",
+        "publishedAt": "2026-11-21T14:42:58.000+08:00"
+      },
+      {
+        "title": "“棕色黄金”如何变废为宝？英国学者：中国在相关领域发挥引领作用",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735709.shtml",
+        "publishedAt": "2026-11-21T14:41:06.000+08:00"
+      },
       {
         "title": "全球甲烷中心首席执行官：近零甲烷标准可使油气业甲烷排放降约八成",
         "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735708.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "两届香港马王“浪漫勇士”退役",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-21/10735719.shtml",
         "publishedAt": "2026-11-21T13:58:54.000+08:00"
-      },
-      {
-        "title": "冬奥场馆开启新赛季 四项国际雪联顶级赛事落地云顶滑雪公园",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735707.shtml",
-        "publishedAt": "2026-11-21T13:47:33.000+08:00"
-      },
-      {
-        "title": "纪录片《胶林家书》全国首映 家书串起湘滇支边记忆",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735706.shtml",
-        "publishedAt": "2026-11-21T13:46:05.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）广西浦北陈皮飘香四海 AI巡园助力精准种植",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735705.shtml",
-        "publishedAt": "2026-11-21T13:45:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T14:40:02.304+08:00",
+    "fetchedAt": "2026-11-21T14:50:02.851+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T14:40:06.039+08:00",
+      "fetchedAt": "2026-11-21T14:50:07.259+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T19:40:07.000+08:00"
+          "resetAt": "2026-11-21T19:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T14:40:06.190+08:00",
+      "fetchedAt": "2026-11-21T14:50:07.472+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T14:40:06.199+08:00",
+      "fetchedAt": "2026-11-21T14:50:07.481+08:00",
       "error": null
     }
   }
