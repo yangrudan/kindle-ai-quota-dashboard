@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T20:30:37.637+08:00",
+  "updatedAt": "2026-11-21T20:40:08.724+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-21T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T20:30:37.638+08:00",
+    "fetchedAt": "2026-11-21T20:40:08.724+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年射箭亚洲杯（杭州站）收官",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735866.shtml",
-        "publishedAt": "2026-11-21T20:24:55.000+08:00"
+        "title": "“小雪”后黑龙江多地进入冰封雪飘时节",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735882.shtml",
+        "publishedAt": "2026-11-21T20:36:06.000+08:00"
       },
       {
-        "title": "港口通、绿电足、智能普惠：深圳APEC交出开放创新高分答卷",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735855.shtml",
-        "publishedAt": "2026-11-21T20:24:07.000+08:00"
+        "title": "行业报告称，中国脑机接口产业集聚于三大城市群",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735875.shtml",
+        "publishedAt": "2026-11-21T20:35:26.000+08:00"
       },
       {
-        "title": "广西侨乡举办特色美食节 “侨”味促进乡村文旅融合",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735841.shtml",
-        "publishedAt": "2026-11-21T20:22:27.000+08:00"
+        "title": "ESG传播，不能止于一纸报告",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735878.shtml",
+        "publishedAt": "2026-11-21T20:34:50.000+08:00"
       },
       {
-        "title": "哈尔滨极地公园开启今冬首场企鹅巡游",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735842.shtml",
-        "publishedAt": "2026-11-21T20:21:09.000+08:00"
+        "title": "重庆举办生命科学产业人才发展大会释放创新动能",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735880.shtml",
+        "publishedAt": "2026-11-21T20:34:38.000+08:00"
       },
       {
-        "title": "天津通报正风肃纪反腐“成绩单” 部署深化“三不腐”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735863.shtml",
-        "publishedAt": "2026-11-21T20:20:05.000+08:00"
+        "title": "“CMG电影文化嘉年华·成都专场”启动 聚焦“电影+”经济消费新业态",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735877.shtml",
+        "publishedAt": "2026-11-21T20:32:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T20:30:02.622+08:00",
+    "fetchedAt": "2026-11-21T20:40:03.077+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T20:30:36.210+08:00",
+      "fetchedAt": "2026-11-21T20:40:07.190+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T01:30:37.000+08:00"
+          "resetAt": "2026-11-22T01:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T20:30:36.395+08:00",
+      "fetchedAt": "2026-11-21T20:40:07.369+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T20:30:36.403+08:00",
+      "fetchedAt": "2026-11-21T20:40:07.373+08:00",
       "error": null
     }
   }
