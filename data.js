@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T09:30:08.259+08:00",
+  "updatedAt": "2026-11-21T09:40:07.770+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-21T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T09:30:08.259+08:00",
+    "fetchedAt": "2026-11-21T09:40:07.770+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“租购修养”全周期保障正在落实落细",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735632.shtml",
-        "publishedAt": "2026-11-21T09:22:15.000+08:00"
+        "title": "“BBNJ协定秘书处落户的形势与展望”国际研讨会在海口举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735633.shtml",
+        "publishedAt": "2026-11-21T09:33:58.000+08:00"
       },
       {
-        "title": "动起来，不必坐等“有空”",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-21/10735626.shtml",
-        "publishedAt": "2026-11-21T09:19:29.000+08:00"
+        "title": "第五届霞浦海洋诗会启幕：诗城共生、以文兴城",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735628.shtml",
+        "publishedAt": "2026-11-21T09:31:48.000+08:00"
       },
       {
-        "title": "“助眠神器”，真有用还是“割韭菜”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735625.shtml",
-        "publishedAt": "2026-11-21T09:16:41.000+08:00"
+        "title": "国内外专家齐聚广州共商数智技术与运动健康深度融合新路径",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735634.shtml",
+        "publishedAt": "2026-11-21T09:31:36.000+08:00"
       },
       {
-        "title": "数万名日本民众签名反对日本拥有核潜艇",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211330.shtml",
-        "publishedAt": "2026-11-21T09:15:44.000+08:00"
+        "title": "“网络文明大讲堂·数字里的文化遗产” 专场活动在河南郑州举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735637.shtml",
+        "publishedAt": "2026-11-21T09:30:25.000+08:00"
       },
       {
-        "title": "从“跑多科”到“一号通”，就医流程改革让患者不再“绕晕”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735623.shtml",
-        "publishedAt": "2026-11-21T09:13:47.000+08:00"
+        "title": "福建漳州核电4号机组三台蒸汽发生器全部吊装就位",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735638.shtml",
+        "publishedAt": "2026-11-21T09:29:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T09:30:02.752+08:00",
+    "fetchedAt": "2026-11-21T09:40:02.338+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T09:30:06.810+08:00",
+      "fetchedAt": "2026-11-21T09:40:06.291+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T09:30:07.011+08:00",
+      "fetchedAt": "2026-11-21T09:40:06.489+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T09:30:07.019+08:00",
+      "fetchedAt": "2026-11-21T09:40:06.498+08:00",
       "error": null
     }
   }
