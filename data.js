@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T10:50:09.221+08:00",
+  "updatedAt": "2026-11-21T11:00:08.772+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.5,
-    "feelsLikeC": 11.6,
-    "humidity": 42,
+    "tempC": 13.8,
+    "feelsLikeC": 12,
+    "humidity": 40,
     "windKph": 2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-21T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T10:50:09.221+08:00",
+    "observedAt": "2026-11-21T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-21T11:00:08.772+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“无氟”成为新卖点 买冲锋衣值得为“无氟”多花钱吗",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735661.shtml",
+        "publishedAt": "2026-11-21T10:46:24.000+08:00"
+      },
+      {
+        "title": "西双版纳曼烈村：通道向边境延伸 “老庚”之约岁岁如常",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735647.shtml",
+        "publishedAt": "2026-11-21T10:44:31.000+08:00"
+      },
       {
         "title": "（深圳APEC）出席APEC会议的多国领导人明确表态：坚定恪守一个中国原则",
         "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735652.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "特朗普称无法接受伊朗想达成的协议 重申伊朗“永远不会拥有核武器”",
         "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735660.shtml",
         "publishedAt": "2026-11-21T10:31:47.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）村民变演员 湖南千年水乡“演”出新生活",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735648.shtml",
-        "publishedAt": "2026-11-21T10:30:49.000+08:00"
-      },
-      {
-        "title": "外媒记者访云南迪庆：“当地各民族生活很幸福”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735649.shtml",
-        "publishedAt": "2026-11-21T10:29:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T10:50:03.221+08:00",
+    "fetchedAt": "2026-11-21T11:00:03.300+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T10:50:07.629+08:00",
+      "fetchedAt": "2026-11-21T11:00:07.288+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T10:50:07.965+08:00",
+      "fetchedAt": "2026-11-21T11:00:07.598+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T10:50:07.974+08:00",
+      "fetchedAt": "2026-11-21T11:00:07.603+08:00",
       "error": null
     }
   }
