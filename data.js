@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T11:30:08.833+08:00",
+  "updatedAt": "2026-11-21T11:40:08.283+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-21T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T11:30:08.834+08:00",
+    "fetchedAt": "2026-11-21T11:40:08.283+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "单霁翔：让灿烂文化有尊严地传给子孙后代",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735668.shtml",
-        "publishedAt": "2026-11-21T11:20:53.000+08:00"
+        "title": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735663.shtml",
+        "publishedAt": "2026-11-21T11:33:02.000+08:00"
       },
       {
-        "title": "“三医”协同持续发力 天津北辰探索公立医院改革新路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735666.shtml",
-        "publishedAt": "2026-11-21T11:19:45.000+08:00"
+        "title": "五中全会精神在基层丨“放心田”背后是责任心",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-21/10735676.shtml",
+        "publishedAt": "2026-11-21T11:32:54.000+08:00"
       },
       {
-        "title": "（经济观察）重庆构建NCD综合服务体系 激活西部陆海新通道贸易动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735667.shtml",
-        "publishedAt": "2026-11-21T11:19:25.000+08:00"
+        "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735662.shtml",
+        "publishedAt": "2026-11-21T11:32:08.000+08:00"
       },
       {
-        "title": "英才青年聚海口 “侨”见自贸港新机遇",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735669.shtml",
-        "publishedAt": "2026-11-21T11:17:07.000+08:00"
+        "title": "2026年“数据要素×”大赛新疆分赛正式闭幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735671.shtml",
+        "publishedAt": "2026-11-21T11:28:48.000+08:00"
       },
       {
-        "title": "“无氟”成为新卖点 买冲锋衣值得为“无氟”多花钱吗",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735661.shtml",
-        "publishedAt": "2026-11-21T10:46:24.000+08:00"
+        "title": "以影像为笺寄侨情 “泰国V姐”陈映玲为南洋侨史“留声”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735672.shtml",
+        "publishedAt": "2026-11-21T11:27:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T11:30:02.864+08:00",
+    "fetchedAt": "2026-11-21T11:40:02.549+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T11:30:07.228+08:00",
+      "fetchedAt": "2026-11-21T11:40:06.836+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T11:30:07.503+08:00",
+      "fetchedAt": "2026-11-21T11:40:07.171+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T11:30:07.511+08:00",
+      "fetchedAt": "2026-11-21T11:40:07.179+08:00",
       "error": null
     }
   }
