@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T12:30:07.769+08:00",
+  "updatedAt": "2026-11-21T12:40:37.885+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-21T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T12:30:07.769+08:00",
+    "fetchedAt": "2026-11-21T12:40:37.885+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "湖湾正澎π 无锡滨湖以科产融合拓宽开放新赛道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735682.shtml",
+        "publishedAt": "2026-11-21T12:28:21.000+08:00"
+      },
+      {
+        "title": "（侨乡新貌）从华侨农场到华侨旅游经济区：海南兴隆小镇因侨而兴",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735683.shtml",
+        "publishedAt": "2026-11-21T12:27:37.000+08:00"
+      },
+      {
+        "title": "台胞陶艺家：一脉窑火烧紫砂 手捏陶土牵两岸",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735684.shtml",
+        "publishedAt": "2026-11-21T12:26:33.000+08:00"
+      },
       {
         "title": "第二届“我是厨神”环省行首秀落地扬州 五城厨神比拼早茶技艺",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735685.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "一场盛会，何以让全球客属乡亲“不虚此行”？",
         "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735686.shtml",
         "publishedAt": "2026-11-21T12:14:34.000+08:00"
-      },
-      {
-        "title": "2026中国电影节在菲律宾马尼拉开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735687.shtml",
-        "publishedAt": "2026-11-21T12:13:18.000+08:00"
-      },
-      {
-        "title": "1650吨重车组“压阵” 湾区工程清花大桥完成荷载试验",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735688.shtml",
-        "publishedAt": "2026-11-21T12:12:14.000+08:00"
-      },
-      {
-        "title": "2026年青年企业家创新发展大会在北京召开 伊利集团董事长兼总裁潘刚出席会议并作主旨演讲",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735678.shtml",
-        "publishedAt": "2026-11-21T11:51:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T12:30:02.717+08:00",
+    "fetchedAt": "2026-11-21T12:40:03.080+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T12:30:06.263+08:00",
+      "fetchedAt": "2026-11-21T12:40:36.595+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T12:30:06.521+08:00",
+      "fetchedAt": "2026-11-21T12:40:36.843+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T12:30:06.531+08:00",
+      "fetchedAt": "2026-11-21T12:40:36.852+08:00",
       "error": null
     }
   }
