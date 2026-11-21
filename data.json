@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T11:50:38.286+08:00",
+  "updatedAt": "2026-11-21T12:00:38.831+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.5,
-    "feelsLikeC": 12.5,
+    "tempC": 14.6,
+    "feelsLikeC": 12.6,
     "humidity": 37,
-    "windKph": 3.5,
+    "windKph": 3.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-21T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T11:50:38.287+08:00",
+    "observedAt": "2026-11-21T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-21T12:00:38.832+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年青年企业家创新发展大会在北京召开 伊利集团董事长兼总裁潘刚出席会议并作主旨演讲",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735678.shtml",
+        "publishedAt": "2026-11-21T11:51:11.000+08:00"
+      },
       {
         "title": "产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735677.shtml",
@@ -38,14 +43,9 @@
         "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
         "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735662.shtml",
         "publishedAt": "2026-11-21T11:32:08.000+08:00"
-      },
-      {
-        "title": "我在APEC记者会现场！321场活动、75项成果，一起回顾APEC的成绩单",
-        "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-21/news1075630.shtml",
-        "publishedAt": "2026-11-21T11:31:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T11:50:03.134+08:00",
+    "fetchedAt": "2026-11-21T12:00:03.408+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T11:50:36.712+08:00",
+      "fetchedAt": "2026-11-21T12:00:37.441+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T11:50:37.040+08:00",
+      "fetchedAt": "2026-11-21T12:00:37.735+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T11:50:37.049+08:00",
+      "fetchedAt": "2026-11-21T12:00:37.740+08:00",
       "error": null
     }
   }
