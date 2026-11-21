@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T11:40:08.283+08:00",
+  "updatedAt": "2026-11-21T11:50:38.286+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.3,
+    "tempC": 14.5,
     "feelsLikeC": 12.5,
-    "humidity": 38,
-    "windKph": 2.8,
+    "humidity": 37,
+    "windKph": 3.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-21T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T11:40:08.283+08:00",
+    "observedAt": "2026-11-21T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T11:50:38.287+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735677.shtml",
+        "publishedAt": "2026-11-21T11:35:12.000+08:00"
+      },
       {
         "title": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死",
         "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735663.shtml",
@@ -35,17 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-21T11:32:08.000+08:00"
       },
       {
-        "title": "2026年“数据要素×”大赛新疆分赛正式闭幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735671.shtml",
-        "publishedAt": "2026-11-21T11:28:48.000+08:00"
-      },
-      {
-        "title": "以影像为笺寄侨情 “泰国V姐”陈映玲为南洋侨史“留声”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735672.shtml",
-        "publishedAt": "2026-11-21T11:27:56.000+08:00"
+        "title": "我在APEC记者会现场！321场活动、75项成果，一起回顾APEC的成绩单",
+        "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-21/news1075630.shtml",
+        "publishedAt": "2026-11-21T11:31:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T11:40:02.549+08:00",
+    "fetchedAt": "2026-11-21T11:50:03.134+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T11:40:06.836+08:00",
+      "fetchedAt": "2026-11-21T11:50:36.712+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T11:40:07.171+08:00",
+      "fetchedAt": "2026-11-21T11:50:37.040+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T11:40:07.179+08:00",
+      "fetchedAt": "2026-11-21T11:50:37.049+08:00",
       "error": null
     }
   }
