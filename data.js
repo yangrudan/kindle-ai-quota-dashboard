@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T08:50:08.556+08:00",
+  "updatedAt": "2026-11-21T09:00:09.955+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.8,
-    "feelsLikeC": 6.6,
-    "humidity": 64,
-    "windKph": 3.5,
+    "tempC": 9.6,
+    "feelsLikeC": 7.4,
+    "humidity": 61,
+    "windKph": 3.2,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-21T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T08:50:08.556+08:00",
+    "observedAt": "2026-11-21T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-21T09:00:09.955+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "WorkBuddy教育公益版覆盖66万用户，混元系列成主力模型",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735619.shtml",
+        "publishedAt": "2026-11-21T08:56:30.000+08:00"
+      },
+      {
+        "title": "中澳总理年度会晤联合成果声明（全文）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735611.shtml",
+        "publishedAt": "2026-11-21T08:49:53.000+08:00"
+      },
       {
         "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211329.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美股大跌 纳指年内涨幅悉数回吐",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735615.shtml",
         "publishedAt": "2026-11-21T08:23:08.000+08:00"
-      },
-      {
-        "title": "特朗普：此次亚洲行未能见金正恩 总有一天会见面",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735616.shtml",
-        "publishedAt": "2026-11-21T08:21:32.000+08:00"
-      },
-      {
-        "title": "亚太媒体合作伙伴计划正式成立",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735610.shtml",
-        "publishedAt": "2026-11-21T08:05:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T08:50:03.339+08:00",
+    "fetchedAt": "2026-11-21T09:00:04.196+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T08:50:07.111+08:00",
+      "fetchedAt": "2026-11-21T09:00:08.205+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T08:50:07.345+08:00",
+      "fetchedAt": "2026-11-21T09:00:08.634+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T08:50:07.349+08:00",
+      "fetchedAt": "2026-11-21T09:00:08.639+08:00",
       "error": null
     }
   }
