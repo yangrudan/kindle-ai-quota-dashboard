@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T09:50:08.058+08:00",
+  "updatedAt": "2026-11-21T10:00:08.959+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.5,
-    "feelsLikeC": 9.3,
-    "humidity": 53,
+    "tempC": 12.1,
+    "feelsLikeC": 9.8,
+    "humidity": 51,
     "windKph": 3.1,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-21T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T09:50:08.059+08:00",
+    "observedAt": "2026-11-21T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-21T10:00:08.959+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "新产业催生更多新岗位 @高校毕业生，你准备好了吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735642.shtml",
+        "publishedAt": "2026-11-21T09:53:13.000+08:00"
+      },
+      {
+        "title": "不要小看中国经济“稳”的分量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735641.shtml",
+        "publishedAt": "2026-11-21T09:49:18.000+08:00"
+      },
+      {
+        "title": "重庆统战教育高地建设积厚成势 五方面成果集中显现",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735629.shtml",
+        "publishedAt": "2026-11-21T09:48:42.000+08:00"
+      },
+      {
+        "title": "世界首个、蝉联榜首、刷新纪录！本周我国多领域捷报频传",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735640.shtml",
+        "publishedAt": "2026-11-21T09:47:10.000+08:00"
+      },
+      {
         "title": "第二届文化养老产业交流会在厦门举行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735630.shtml",
         "publishedAt": "2026-11-21T09:44:16.000+08:00"
-      },
-      {
-        "title": "中国科技馆“北辰对话”推出特别节目《雨林的“创”生》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735631.shtml",
-        "publishedAt": "2026-11-21T09:34:58.000+08:00"
-      },
-      {
-        "title": "“BBNJ协定秘书处落户的形势与展望”国际研讨会在海口举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735633.shtml",
-        "publishedAt": "2026-11-21T09:33:58.000+08:00"
-      },
-      {
-        "title": "第五届霞浦海洋诗会启幕：诗城共生、以文兴城",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735628.shtml",
-        "publishedAt": "2026-11-21T09:31:48.000+08:00"
-      },
-      {
-        "title": "国内外专家齐聚广州共商数智技术与运动健康深度融合新路径",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735634.shtml",
-        "publishedAt": "2026-11-21T09:31:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T09:50:02.710+08:00",
+    "fetchedAt": "2026-11-21T10:00:03.153+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T09:50:06.778+08:00",
+      "fetchedAt": "2026-11-21T10:00:07.418+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T09:50:07.012+08:00",
+      "fetchedAt": "2026-11-21T10:00:07.694+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T09:50:07.020+08:00",
+      "fetchedAt": "2026-11-21T10:00:07.704+08:00",
       "error": null
     }
   }
