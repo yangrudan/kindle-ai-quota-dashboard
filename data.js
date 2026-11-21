@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T19:30:09.346+08:00",
+  "updatedAt": "2026-11-21T19:40:09.254+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-21T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T19:30:09.346+08:00",
+    "fetchedAt": "2026-11-21T19:40:09.254+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青海海西州德令哈市发生5.6级地震 震源深度10千米",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735833.shtml",
-        "publishedAt": "2026-11-21T18:57:36.000+08:00"
+        "title": "青海德令哈发生5.6级地震：当地震感强烈 初步排查无人员伤亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735845.shtml",
+        "publishedAt": "2026-11-21T19:36:50.000+08:00"
       },
       {
-        "title": "浙江：上山国家考古遗址公园暨上山博物馆正式开放",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735830.shtml",
-        "publishedAt": "2026-11-21T18:50:00.000+08:00"
+        "title": "伊朗宣布击落一架美军MQ-1无人机",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735843.shtml",
+        "publishedAt": "2026-11-21T19:29:36.000+08:00"
       },
       {
-        "title": "松原首批氢能试点超亿元奖励资金拨付到企",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735829.shtml",
-        "publishedAt": "2026-11-21T18:49:08.000+08:00"
+        "title": "中外高校围绕“产学研用”达成19项合作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735837.shtml",
+        "publishedAt": "2026-11-21T19:29:20.000+08:00"
       },
       {
-        "title": "2026文化抗战学术研讨会在桂林召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735828.shtml",
-        "publishedAt": "2026-11-21T18:48:36.000+08:00"
+        "title": "（走进中国乡村）安徽青阳农民把“生活日记”画向世界",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735836.shtml",
+        "publishedAt": "2026-11-21T19:27:52.000+08:00"
       },
       {
-        "title": "第五届长江大保护司法论坛在武汉开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735827.shtml",
-        "publishedAt": "2026-11-21T18:47:42.000+08:00"
+        "title": "多项大科学装置模型在武汉展出",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735835.shtml",
+        "publishedAt": "2026-11-21T19:26:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T19:30:04.266+08:00",
+    "fetchedAt": "2026-11-21T19:40:03.081+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T19:30:08.141+08:00",
+      "fetchedAt": "2026-11-21T19:40:07.804+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T00:30:09.000+08:00"
+          "resetAt": "2026-11-22T00:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T19:30:08.388+08:00",
+      "fetchedAt": "2026-11-21T19:40:08.167+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T19:30:08.391+08:00",
+      "fetchedAt": "2026-11-21T19:40:08.176+08:00",
       "error": null
     }
   }
