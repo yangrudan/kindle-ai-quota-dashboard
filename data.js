@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T16:30:39.025+08:00",
+  "updatedAt": "2026-11-21T16:40:38.067+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-21T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T16:30:39.026+08:00",
+    "fetchedAt": "2026-11-21T16:40:38.068+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香港演戏家族原创粤语音乐剧《玉良》合肥上演",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735749.shtml",
-        "publishedAt": "2026-11-21T16:16:38.000+08:00"
+        "title": "全国青少年网球排名总决赛湖北京山开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735744.shtml",
+        "publishedAt": "2026-11-21T16:32:42.000+08:00"
       },
       {
-        "title": "东西问·兰花奖｜马凯硕：西方需要学会谦逊，而非傲慢",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-21/10735754.shtml",
-        "publishedAt": "2026-11-21T16:14:47.000+08:00"
+        "title": "西藏阿里地区档案馆实现馆藏档案100%数字化",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735768.shtml",
+        "publishedAt": "2026-11-21T16:32:32.000+08:00"
       },
       {
-        "title": "舞者刘迦等加盟舞剧《经山海》 将于2027年初上演",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735747.shtml",
-        "publishedAt": "2026-11-21T16:11:39.000+08:00"
+        "title": "藏羚羊正值交配期 西藏那曲营造“不被打扰”的栖息环境",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735766.shtml",
+        "publishedAt": "2026-11-21T16:32:02.000+08:00"
       },
       {
-        "title": "以精品创作描绘人生百态 网络剧《醉梦》研讨会在京举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735748.shtml",
-        "publishedAt": "2026-11-21T16:08:19.000+08:00"
+        "title": "亚太共同体建设从“深圳展望”真正启航",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-21/10735767.shtml",
+        "publishedAt": "2026-11-21T16:30:26.000+08:00"
       },
       {
-        "title": "安徽东至一4岁男童走失 多方持续全力搜寻",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735742.shtml",
-        "publishedAt": "2026-11-21T16:05:59.000+08:00"
+        "title": "全球媒体聚焦丨为在变局中谋增长的亚太注入合作新动能",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735764.shtml",
+        "publishedAt": "2026-11-21T16:26:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T16:30:03.414+08:00",
+    "fetchedAt": "2026-11-21T16:40:02.852+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T16:30:37.435+08:00",
+      "fetchedAt": "2026-11-21T16:40:36.777+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T21:30:38.000+08:00"
+          "resetAt": "2026-11-21T21:40:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T16:30:37.704+08:00",
+      "fetchedAt": "2026-11-21T16:40:37.065+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T16:30:37.708+08:00",
+      "fetchedAt": "2026-11-21T16:40:37.069+08:00",
       "error": null
     }
   }
