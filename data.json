@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T09:40:07.770+08:00",
+  "updatedAt": "2026-11-21T09:50:08.058+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.9,
-    "feelsLikeC": 8.7,
-    "humidity": 56,
-    "windKph": 3.2,
+    "tempC": 11.5,
+    "feelsLikeC": 9.3,
+    "humidity": 53,
+    "windKph": 3.1,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-21T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T09:40:07.770+08:00",
+    "observedAt": "2026-11-21T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T09:50:08.059+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第二届文化养老产业交流会在厦门举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735630.shtml",
+        "publishedAt": "2026-11-21T09:44:16.000+08:00"
+      },
+      {
+        "title": "中国科技馆“北辰对话”推出特别节目《雨林的“创”生》",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735631.shtml",
+        "publishedAt": "2026-11-21T09:34:58.000+08:00"
+      },
       {
         "title": "“BBNJ协定秘书处落户的形势与展望”国际研讨会在海口举行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735633.shtml",
@@ -33,19 +43,9 @@
         "title": "国内外专家齐聚广州共商数智技术与运动健康深度融合新路径",
         "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735634.shtml",
         "publishedAt": "2026-11-21T09:31:36.000+08:00"
-      },
-      {
-        "title": "“网络文明大讲堂·数字里的文化遗产” 专场活动在河南郑州举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735637.shtml",
-        "publishedAt": "2026-11-21T09:30:25.000+08:00"
-      },
-      {
-        "title": "福建漳州核电4号机组三台蒸汽发生器全部吊装就位",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735638.shtml",
-        "publishedAt": "2026-11-21T09:29:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T09:40:02.338+08:00",
+    "fetchedAt": "2026-11-21T09:50:02.710+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T09:40:06.291+08:00",
+      "fetchedAt": "2026-11-21T09:50:06.778+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T09:40:06.489+08:00",
+      "fetchedAt": "2026-11-21T09:50:07.012+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T09:40:06.498+08:00",
+      "fetchedAt": "2026-11-21T09:50:07.020+08:00",
       "error": null
     }
   }
