@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T08:20:09.243+08:00",
+  "updatedAt": "2026-11-21T08:30:09.202+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.3,
-    "feelsLikeC": 4.8,
-    "humidity": 68,
-    "windKph": 3.8,
+    "tempC": 8,
+    "feelsLikeC": 5.6,
+    "humidity": 67,
+    "windKph": 4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-21T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T08:20:09.243+08:00",
+    "observedAt": "2026-11-21T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-21T08:30:09.202+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美股大跌 纳指年内涨幅悉数回吐",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735615.shtml",
+        "publishedAt": "2026-11-21T08:23:08.000+08:00"
+      },
+      {
+        "title": "特朗普：此次亚洲行未能见金正恩 总有一天会见面",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735616.shtml",
+        "publishedAt": "2026-11-21T08:21:32.000+08:00"
+      },
       {
         "title": "亚太媒体合作伙伴计划正式成立",
         "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735610.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "U17世界杯 中国队首战不敌西班牙队",
         "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735608.shtml",
         "publishedAt": "2026-11-21T06:17:47.000+08:00"
-      },
-      {
-        "title": "安理会举行联合国秘书长遴选第九轮意向性投票",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735607.shtml",
-        "publishedAt": "2026-11-21T06:07:58.000+08:00"
-      },
-      {
-        "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735606.shtml",
-        "publishedAt": "2026-11-21T06:06:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T08:20:03.574+08:00",
+    "fetchedAt": "2026-11-21T08:30:03.879+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T08:20:07.658+08:00",
+      "fetchedAt": "2026-11-21T08:30:07.901+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T08:20:07.924+08:00",
+      "fetchedAt": "2026-11-21T08:30:08.198+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T08:20:07.933+08:00",
+      "fetchedAt": "2026-11-21T08:30:08.207+08:00",
       "error": null
     }
   }
