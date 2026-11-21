@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T21:30:08.579+08:00",
+  "updatedAt": "2026-11-21T21:40:38.356+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-21T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T21:30:08.579+08:00",
+    "fetchedAt": "2026-11-21T21:40:38.356+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211364.shtml",
+        "publishedAt": "2026-11-21T21:29:29.000+08:00"
+      },
+      {
+        "title": "长安大学回应14号面试13号出结果",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735917.shtml",
+        "publishedAt": "2026-11-21T21:28:19.000+08:00"
+      },
       {
         "title": "半部全唐诗咏长安，今天我们为何还要读诗？",
         "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735915.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "结构向优、动能向新 我国消费市场潜能不断释放",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735914.shtml",
         "publishedAt": "2026-11-21T21:14:40.000+08:00"
-      },
-      {
-        "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）在北京举行 李书磊出席开幕式并发表主旨演讲",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735898.shtml",
-        "publishedAt": "2026-11-21T21:11:12.000+08:00"
-      },
-      {
-        "title": "数万家智能工厂背后，AI到底改变了什么？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735913.shtml",
-        "publishedAt": "2026-11-21T21:11:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T21:30:03.041+08:00",
+    "fetchedAt": "2026-11-21T21:40:03.429+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T21:30:06.932+08:00",
+      "fetchedAt": "2026-11-21T21:40:37.089+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T02:30:08.000+08:00"
+          "resetAt": "2026-11-22T02:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T21:30:07.201+08:00",
+      "fetchedAt": "2026-11-21T21:40:37.389+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T21:30:07.209+08:00",
+      "fetchedAt": "2026-11-21T21:40:37.395+08:00",
       "error": null
     }
   }
