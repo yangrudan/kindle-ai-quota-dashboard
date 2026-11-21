@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T10:30:07.511+08:00",
+  "updatedAt": "2026-11-21T10:40:09.523+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-21T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T10:30:07.511+08:00",
+    "fetchedAt": "2026-11-21T10:40:09.523+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（走进中国乡村）村民变演员 湖南千年水乡“演”出新生活",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735648.shtml",
+        "publishedAt": "2026-11-21T10:30:49.000+08:00"
+      },
+      {
+        "title": "外媒记者访云南迪庆：“当地各民族生活很幸福”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735649.shtml",
+        "publishedAt": "2026-11-21T10:29:03.000+08:00"
+      },
+      {
+        "title": "侨乡小镇的蜕变：因侨而兴",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735653.shtml",
+        "publishedAt": "2026-11-21T10:28:27.000+08:00"
+      },
+      {
+        "title": "又到三峡满山红叶时 重庆巫山举行系列活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735650.shtml",
+        "publishedAt": "2026-11-21T10:27:03.000+08:00"
+      },
+      {
         "title": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
         "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735659.shtml",
         "publishedAt": "2026-11-21T10:25:04.000+08:00"
-      },
-      {
-        "title": "“我们把彼此视为重要合作伙伴”——访墨西哥外贸、投资和技术委员会墨中分委会主席巴尔德斯",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735658.shtml",
-        "publishedAt": "2026-11-21T10:23:10.000+08:00"
-      },
-      {
-        "title": "这杯“调解茶”：茶馆坐得下，云端连得上",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735657.shtml",
-        "publishedAt": "2026-11-21T10:20:58.000+08:00"
-      },
-      {
-        "title": "稳中有进有底气！10月我国经济向新向优发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735656.shtml",
-        "publishedAt": "2026-11-21T10:18:02.000+08:00"
-      },
-      {
-        "title": "U17世界杯：中国队首战0:5不敌西班牙队",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735654.shtml",
-        "publishedAt": "2026-11-21T10:15:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T10:30:02.314+08:00",
+    "fetchedAt": "2026-11-21T10:40:03.366+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T10:30:06.299+08:00",
+      "fetchedAt": "2026-11-21T10:40:08.142+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T10:30:06.603+08:00",
+      "fetchedAt": "2026-11-21T10:40:08.410+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T10:30:06.611+08:00",
+      "fetchedAt": "2026-11-21T10:40:08.419+08:00",
       "error": null
     }
   }
