@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T08:40:15.525+08:00",
+  "updatedAt": "2026-11-21T08:50:08.556+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8,
-    "feelsLikeC": 5.6,
-    "humidity": 67,
-    "windKph": 4,
+    "tempC": 8.8,
+    "feelsLikeC": 6.6,
+    "humidity": 64,
+    "windKph": 3.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-21T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T08:40:15.525+08:00",
+    "observedAt": "2026-11-21T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T08:50:08.556+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211329.shtml",
+        "publishedAt": "2026-11-21T08:46:00.000+08:00"
+      },
+      {
+        "title": "突发：秘鲁发生6.7级地震，首都有震感",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735617.shtml",
+        "publishedAt": "2026-11-21T08:40:51.000+08:00"
+      },
       {
         "title": "美股大跌 纳指年内涨幅悉数回吐",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735615.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "亚太媒体合作伙伴计划正式成立",
         "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735610.shtml",
         "publishedAt": "2026-11-21T08:05:21.000+08:00"
-      },
-      {
-        "title": "11月21日早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-21/10735609.shtml",
-        "publishedAt": "2026-11-21T06:41:40.000+08:00"
-      },
-      {
-        "title": "U17世界杯 中国队首战不敌西班牙队",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735608.shtml",
-        "publishedAt": "2026-11-21T06:17:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T08:40:10.509+08:00",
+    "fetchedAt": "2026-11-21T08:50:03.339+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-21T08:40:14.226+08:00",
+      "fetchedAt": "2026-11-21T08:50:07.111+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T08:40:14.531+08:00",
+      "fetchedAt": "2026-11-21T08:50:07.345+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-21T08:40:14.535+08:00",
+      "fetchedAt": "2026-11-21T08:50:07.349+08:00",
       "error": null
     }
   }
