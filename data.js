@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T16:50:08.420+08:00",
+  "updatedAt": "2026-11-22T17:00:08.709+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.2,
-    "feelsLikeC": 12.1,
-    "humidity": 54,
+    "tempC": 13.6,
+    "feelsLikeC": 11.5,
+    "humidity": 56,
     "windKph": 5.9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-22T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T16:50:08.420+08:00",
+    "observedAt": "2026-11-22T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T17:00:08.709+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "福州陈氏五楼：帝师故园 文脉流长",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736093.shtml",
-        "publishedAt": "2026-11-22T16:40:57.000+08:00"
+        "title": "中国—东盟推动林业合作持续走深走实",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736097.shtml",
+        "publishedAt": "2026-11-22T16:49:08.000+08:00"
       },
       {
-        "title": "河南郑州：《国家考古遗址公园（二）》特种邮票首发仪式举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736090.shtml",
-        "publishedAt": "2026-11-22T16:39:13.000+08:00"
+        "title": "专家学者齐聚福建永春共谋柑橘产业高质量发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736085.shtml",
+        "publishedAt": "2026-11-22T16:44:13.000+08:00"
       },
       {
-        "title": "警惕“吃出”胃石 这些冬令果品怎么吃才安全",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736095.shtml",
-        "publishedAt": "2026-11-22T16:39:13.000+08:00"
+        "title": "黑河红河谷国际滑雪场开板迎客",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736094.shtml",
+        "publishedAt": "2026-11-22T16:44:05.000+08:00"
       },
       {
-        "title": "大理白族自治州庆祝成立70周年",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736086.shtml",
-        "publishedAt": "2026-11-22T16:38:11.000+08:00"
+        "title": "2026南迦巴瓦文化艺术交流月正式启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736087.shtml",
+        "publishedAt": "2026-11-22T16:43:35.000+08:00"
       },
       {
-        "title": "国产大型邮轮“爱达・花城号”开启商业首航",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736091.shtml",
-        "publishedAt": "2026-11-22T16:31:55.000+08:00"
+        "title": "（乡村行·看振兴）“中国芦柑之乡”福建永春果香越山海",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736089.shtml",
+        "publishedAt": "2026-11-22T16:43:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T16:50:02.744+08:00",
+    "fetchedAt": "2026-11-22T17:00:02.913+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T16:50:07.081+08:00",
+      "fetchedAt": "2026-11-22T17:00:07.113+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T21:50:08.000+08:00"
+          "resetAt": "2026-11-22T22:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T16:50:07.402+08:00",
+      "fetchedAt": "2026-11-22T17:00:07.375+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T16:50:07.410+08:00",
+      "fetchedAt": "2026-11-22T17:00:07.384+08:00",
       "error": null
     }
   }
