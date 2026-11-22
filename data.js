@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T14:30:09.009+08:00",
+  "updatedAt": "2026-11-22T14:40:37.964+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-22T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T14:30:09.009+08:00",
+    "fetchedAt": "2026-11-22T14:40:37.965+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "沈阳苏家屯冬季游系列活动启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736045.shtml",
+        "publishedAt": "2026-11-22T14:33:46.000+08:00"
+      },
+      {
+        "title": "贵州铜仁：野生鸳鸯冬日戏水绘生态画卷",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736044.shtml",
+        "publishedAt": "2026-11-22T14:30:30.000+08:00"
+      },
+      {
+        "title": "陈文清将赴德国出席第六次中德高级别安全对话并访问德国、奥地利",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736048.shtml",
+        "publishedAt": "2026-11-22T14:30:28.000+08:00"
+      },
+      {
+        "title": "（东西问·兰花奖）英国导演柯文思：真实的中国生活就是最好的叙事",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736047.shtml",
+        "publishedAt": "2026-11-22T14:29:12.000+08:00"
+      },
+      {
         "title": "粤桂湘滇文艺队伍齐聚广东连南 盘王节主题晚会举行",
         "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736043.shtml",
         "publishedAt": "2026-11-22T14:16:29.000+08:00"
-      },
-      {
-        "title": "冬季如何正确养生？一起听听老话怎么说",
-        "url": "https://www.chinanews.com.cn/life/2026/11-22/10736042.shtml",
-        "publishedAt": "2026-11-22T13:53:18.000+08:00"
-      },
-      {
-        "title": "侨乡福建福清：中国现存最大的布袋弥勒造像吸引参观者",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736024.shtml",
-        "publishedAt": "2026-11-22T13:52:38.000+08:00"
-      },
-      {
-        "title": "韩国总统李在明受理教育部长官崔教振辞呈",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736036.shtml",
-        "publishedAt": "2026-11-22T13:42:38.000+08:00"
-      },
-      {
-        "title": "“零碳暖流”、AI控温 核能供暖是一种什么样的体验",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736035.shtml",
-        "publishedAt": "2026-11-22T13:41:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T14:30:03.165+08:00",
+    "fetchedAt": "2026-11-22T14:40:02.895+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T14:30:07.383+08:00",
+      "fetchedAt": "2026-11-22T14:40:36.457+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T19:30:08.000+08:00"
+          "resetAt": "2026-11-22T19:40:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T14:30:07.610+08:00",
+      "fetchedAt": "2026-11-22T14:40:36.689+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T14:30:07.618+08:00",
+      "fetchedAt": "2026-11-22T14:40:36.693+08:00",
       "error": null
     }
   }
