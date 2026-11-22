@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T23:30:07.625+08:00",
+  "updatedAt": "2026-11-22T23:40:07.651+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-22T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T23:30:07.625+08:00",
+    "fetchedAt": "2026-11-22T23:40:07.652+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026中国壁球公开赛落幕 埃及和马来西亚选手分获男、女单打冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736216.shtml",
+        "publishedAt": "2026-11-22T23:34:38.000+08:00"
+      },
       {
         "title": "创14个月新低 国际金价走势与地缘政治局势变化有何关联？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736215.shtml",
@@ -38,14 +43,9 @@
         "title": "速度滑冰世界杯日本带广站：中国队2金3银2铜收官",
         "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736207.shtml",
         "publishedAt": "2026-11-22T22:05:29.000+08:00"
-      },
-      {
-        "title": "日本文部科学大臣因政治筹款丑闻面临辞职压力",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736208.shtml",
-        "publishedAt": "2026-11-22T22:05:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T23:30:02.384+08:00",
+    "fetchedAt": "2026-11-22T23:40:02.627+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T23:30:06.046+08:00",
+      "fetchedAt": "2026-11-22T23:40:06.445+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T04:30:07.000+08:00"
+          "resetAt": "2026-11-23T04:40:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T23:30:06.254+08:00",
+      "fetchedAt": "2026-11-22T23:40:06.663+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T23:30:06.264+08:00",
+      "fetchedAt": "2026-11-22T23:40:06.672+08:00",
       "error": null
     }
   }
