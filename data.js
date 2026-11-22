@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T20:50:07.813+08:00",
+  "updatedAt": "2026-11-22T21:00:07.505+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-22T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T20:50:07.814+08:00",
+    "fetchedAt": "2026-11-22T21:00:07.505+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（粤港澳大湾区）三港联动 粤港澳大湾区邮轮旅游升温",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736193.shtml",
-        "publishedAt": "2026-11-22T20:45:25.000+08:00"
+        "title": "西藏扎囊拓宽农牧民淡季增收路 提供770个就业岗位",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736197.shtml",
+        "publishedAt": "2026-11-22T20:50:21.000+08:00"
       },
       {
-        "title": "短道速滑世巡赛首尔站收官 中国队获接力一金一铜",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736189.shtml",
-        "publishedAt": "2026-11-22T20:40:40.000+08:00"
+        "title": "全国大学生文旅与会展竞赛吸引多国学子参赛",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736196.shtml",
+        "publishedAt": "2026-11-22T20:50:03.000+08:00"
       },
       {
-        "title": "中国援赤几医疗队发起“云端”交流 分享妇产科诊疗经验",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736187.shtml",
-        "publishedAt": "2026-11-22T20:40:04.000+08:00"
+        "title": "2026中国大学生路跑联赛全国总决赛在成都举行 西南大学夺得团体冠军",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736180.shtml",
+        "publishedAt": "2026-11-22T20:48:33.000+08:00"
       },
       {
-        "title": "从深圳出发，他们去了哪里",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736188.shtml",
-        "publishedAt": "2026-11-22T20:39:20.000+08:00"
+        "title": "光影绘山河 生态护拉萨",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736178.shtml",
+        "publishedAt": "2026-11-22T20:47:27.000+08:00"
       },
       {
-        "title": "“小雪进补”莫跟风 专家：辨清体质再“补” 科学减重需“抗炎”",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736184.shtml",
-        "publishedAt": "2026-11-22T20:35:08.000+08:00"
+        "title": "“香港精神号”艺术涂装客机模型将亮相香港西九海滨",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736194.shtml",
+        "publishedAt": "2026-11-22T20:47:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T20:50:02.953+08:00",
+    "fetchedAt": "2026-11-22T21:00:02.377+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T20:50:06.628+08:00",
+      "fetchedAt": "2026-11-22T21:00:06.103+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T01:50:07.000+08:00"
+          "resetAt": "2026-11-23T02:00:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T20:50:06.901+08:00",
+      "fetchedAt": "2026-11-22T21:00:06.382+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T20:50:06.910+08:00",
+      "fetchedAt": "2026-11-22T21:00:06.386+08:00",
       "error": null
     }
   }
