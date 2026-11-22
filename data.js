@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T12:50:08.915+08:00",
+  "updatedAt": "2026-11-22T13:00:09.745+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.9,
-    "feelsLikeC": 14.6,
-    "humidity": 38,
-    "windKph": 6.9,
+    "tempC": 17.1,
+    "feelsLikeC": 14.5,
+    "humidity": 36,
+    "windKph": 7.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T12:50:08.915+08:00",
+    "observedAt": "2026-11-22T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T13:00:09.746+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "多地秋假激发亲子文旅市场活力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736014.shtml",
+        "publishedAt": "2026-11-22T12:49:53.000+08:00"
+      },
+      {
+        "title": "10月份工业经济总体平稳 发展质量持续提升",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736013.shtml",
+        "publishedAt": "2026-11-22T12:46:05.000+08:00"
+      },
       {
         "title": "从长征精神中汲取团结奋进的力量（国际论坛）",
         "url": "https://www.chinanews.com.cn/ll/2026/11-22/10736012.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "全球酒店巨头密集入驻新疆，这波国际范儿直接拉满丨真相",
         "url": "http://www.chinanews.com.cn/cj/shipin/2026/11-22/news1075687.shtml",
         "publishedAt": "2026-11-22T12:16:19.000+08:00"
-      },
-      {
-        "title": "彩跑燃动长江岸 美心红酒小镇第11届国际高跟鞋彩色跑欢乐起跑",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10735984.shtml",
-        "publishedAt": "2026-11-22T12:10:11.000+08:00"
-      },
-      {
-        "title": "带着4000年前的纹样，甘肃彩陶来大湾区“相亲”了",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736006.shtml",
-        "publishedAt": "2026-11-22T12:08:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T12:50:03.360+08:00",
+    "fetchedAt": "2026-11-22T13:00:03.429+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T12:50:07.636+08:00",
+      "fetchedAt": "2026-11-22T13:00:07.770+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T17:50:08.000+08:00"
+          "resetAt": "2026-11-22T18:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T12:50:07.933+08:00",
+      "fetchedAt": "2026-11-22T13:00:08.080+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T12:50:07.942+08:00",
+      "fetchedAt": "2026-11-22T13:00:08.089+08:00",
       "error": null
     }
   }
