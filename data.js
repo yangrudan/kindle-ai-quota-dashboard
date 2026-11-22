@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T00:00:11.042+08:00",
+  "updatedAt": "2026-11-23T00:10:08.554+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-23T00:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T00:00:11.043+08:00",
+    "fetchedAt": "2026-11-23T00:10:08.554+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李家超致贺香港特区选委会当选委员 冀秉持“爱国者治港”原则履职尽责",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736218.shtml",
+        "publishedAt": "2026-11-22T23:58:55.000+08:00"
+      },
+      {
+        "title": "香港特区选委会界别分组一般选举结果揭晓 全部选委顺利产生",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736217.shtml",
+        "publishedAt": "2026-11-22T23:57:11.000+08:00"
+      },
       {
         "title": "2026中国壁球公开赛落幕 埃及和马来西亚选手分获男、女单打冠军",
         "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736216.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "联合国气候变化安塔利亚大会闭幕",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
         "publishedAt": "2026-11-22T22:55:52.000+08:00"
-      },
-      {
-        "title": "青海德令哈5.6级地震经三轮排查无人员伤亡",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736213.shtml",
-        "publishedAt": "2026-11-22T22:37:37.000+08:00"
-      },
-      {
-        "title": "速度滑冰世界杯日本带广站：中国队2金3银2铜收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736207.shtml",
-        "publishedAt": "2026-11-22T22:05:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T00:00:02.752+08:00",
+    "fetchedAt": "2026-11-23T00:10:02.759+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T00:00:07.798+08:00",
+      "fetchedAt": "2026-11-23T00:10:07.127+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T05:00:10.000+08:00"
+          "resetAt": "2026-11-23T05:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T00:00:10.024+08:00",
+      "fetchedAt": "2026-11-23T00:10:07.398+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T00:00:10.034+08:00",
+      "fetchedAt": "2026-11-23T00:10:07.407+08:00",
       "error": null
     }
   }
