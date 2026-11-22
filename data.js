@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T18:00:08.684+08:00",
+  "updatedAt": "2026-11-22T18:10:08.886+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "杭州",
     "observedAt": "2026-11-22T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T18:00:08.684+08:00",
+    "fetchedAt": "2026-11-22T18:10:08.886+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "菲律宾维萨亚斯电网备用容量趋紧 22日晚进入黄色预警",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736096.shtml",
+        "publishedAt": "2026-11-22T17:54:59.000+08:00"
+      },
       {
         "title": "2026“挥拍中国”羽毛球公开赛海峡西岸赛区‑福州站启幕",
         "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736114.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "CHINA ROCK科技创新工业展览会在成都启幕",
         "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736111.shtml",
         "publishedAt": "2026-11-22T17:33:36.000+08:00"
-      },
-      {
-        "title": "大理白族自治州成立70周年 苍洱处处石榴红",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736110.shtml",
-        "publishedAt": "2026-11-22T17:27:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T18:00:02.873+08:00",
+    "fetchedAt": "2026-11-22T18:10:02.660+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T18:00:07.233+08:00",
+      "fetchedAt": "2026-11-22T18:10:07.409+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T23:00:08.000+08:00"
+          "resetAt": "2026-11-22T23:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T18:00:07.518+08:00",
+      "fetchedAt": "2026-11-22T18:10:07.690+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T18:00:07.529+08:00",
+      "fetchedAt": "2026-11-22T18:10:07.700+08:00",
       "error": null
     }
   }
