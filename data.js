@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T13:00:09.745+08:00",
+  "updatedAt": "2026-11-22T13:10:07.858+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-22T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T13:00:09.746+08:00",
+    "fetchedAt": "2026-11-22T13:10:07.858+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "【何以中国·和合礼让】事已至此，先喝杯“热茶”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736015.shtml",
+        "publishedAt": "2026-11-22T13:01:45.000+08:00"
+      },
       {
         "title": "多地秋假激发亲子文旅市场活力",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736014.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "APEC“中国年” 亚太合作启新航",
         "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736011.shtml",
         "publishedAt": "2026-11-22T12:28:58.000+08:00"
-      },
-      {
-        "title": "全球酒店巨头密集入驻新疆，这波国际范儿直接拉满丨真相",
-        "url": "http://www.chinanews.com.cn/cj/shipin/2026/11-22/news1075687.shtml",
-        "publishedAt": "2026-11-22T12:16:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T13:00:03.429+08:00",
+    "fetchedAt": "2026-11-22T13:10:02.818+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T13:00:07.770+08:00",
+      "fetchedAt": "2026-11-22T13:10:06.529+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T18:00:09.000+08:00"
+          "resetAt": "2026-11-22T18:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T13:00:08.080+08:00",
+      "fetchedAt": "2026-11-22T13:10:06.785+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T13:00:08.089+08:00",
+      "fetchedAt": "2026-11-22T13:10:06.794+08:00",
       "error": null
     }
   }
