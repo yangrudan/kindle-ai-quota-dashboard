@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T18:40:38.665+08:00",
+  "updatedAt": "2026-11-22T18:50:37.927+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 11.9,
-    "feelsLikeC": 9.6,
-    "humidity": 62,
-    "windKph": 7,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 11.6,
+    "feelsLikeC": 9.2,
+    "humidity": 63,
+    "windKph": 7.6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-22T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T18:40:38.666+08:00",
+    "observedAt": "2026-11-22T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-22T18:50:37.927+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国第二艘国产大型邮轮广州首航 边检启用扫码通关",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736127.shtml",
-        "publishedAt": "2026-11-22T18:33:15.000+08:00"
+        "title": "沪深交易所、中国结算推出一揽子降费措施",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736145.shtml",
+        "publishedAt": "2026-11-22T18:43:50.000+08:00"
       },
       {
-        "title": "“奥运冠军之城”七台河：打造“体育+文旅+产业”融合样板",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736129.shtml",
-        "publishedAt": "2026-11-22T18:33:07.000+08:00"
+        "title": "沪深北交易所降低融资保证金比例下限至80%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736144.shtml",
+        "publishedAt": "2026-11-22T18:42:30.000+08:00"
       },
       {
-        "title": "北京东城举办“集贤人才”大会 发布东城青年人才创新创业生态地图",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736135.shtml",
-        "publishedAt": "2026-11-22T18:32:27.000+08:00"
+        "title": "创业板拟引入做市商制度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736143.shtml",
+        "publishedAt": "2026-11-22T18:41:10.000+08:00"
       },
       {
-        "title": "新一股冷空气将致中国局地降温超10℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736126.shtml",
-        "publishedAt": "2026-11-22T18:32:09.000+08:00"
+        "title": "河南郑州：人形机器人秀“功夫” 吸引观众驻足观看",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736131.shtml",
+        "publishedAt": "2026-11-22T18:38:46.000+08:00"
       },
       {
-        "title": "特稿丨坦赞铁路，50年后再出发",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736136.shtml",
-        "publishedAt": "2026-11-22T18:27:51.000+08:00"
+        "title": "沪深北交易所调整融资保证金比例",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736138.shtml",
+        "publishedAt": "2026-11-22T18:37:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T18:40:03.419+08:00",
+    "fetchedAt": "2026-11-22T18:50:02.728+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T18:40:37.369+08:00",
+      "fetchedAt": "2026-11-22T18:50:36.467+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T23:40:38.000+08:00"
+          "resetAt": "2026-11-22T23:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T18:40:37.696+08:00",
+      "fetchedAt": "2026-11-22T18:50:36.732+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T18:40:37.705+08:00",
+      "fetchedAt": "2026-11-22T18:50:36.741+08:00",
       "error": null
     }
   }
