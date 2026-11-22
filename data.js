@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T11:50:08.155+08:00",
+  "updatedAt": "2026-11-22T12:00:08.557+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.9,
-    "feelsLikeC": 14.3,
-    "humidity": 45,
-    "windKph": 5.1,
+    "tempC": 16.2,
+    "feelsLikeC": 14.5,
+    "humidity": 43,
+    "windKph": 5.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T11:50:08.156+08:00",
+    "observedAt": "2026-11-22T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T12:00:08.557+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "江西赣州清晨现平流雾景观 宛若水墨画",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10735972.shtml",
+        "publishedAt": "2026-11-22T11:53:34.000+08:00"
+      },
+      {
+        "title": "泰国大城府水灯节璀璨上演 古都历史遗址焕发节庆魅力",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735990.shtml",
+        "publishedAt": "2026-11-22T11:51:08.000+08:00"
+      },
+      {
+        "title": "巴基斯坦安全部队击毙15名恐怖分子",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735999.shtml",
+        "publishedAt": "2026-11-22T11:50:08.000+08:00"
+      },
+      {
+        "title": "墨西哥国防部：大毒枭“矮子伊西德罗”被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735995.shtml",
+        "publishedAt": "2026-11-22T11:49:16.000+08:00"
+      },
+      {
         "title": "“德国作家骑行长征路”主题读书会在波鸿举行",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735975.shtml",
         "publishedAt": "2026-11-22T11:46:33.000+08:00"
-      },
-      {
-        "title": "什么是可信数据空间？新数据基础设施正在为生活提供便利→",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736003.shtml",
-        "publishedAt": "2026-11-22T11:44:59.000+08:00"
-      },
-      {
-        "title": "郎平获国际排联最高荣誉“排球勋章”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736002.shtml",
-        "publishedAt": "2026-11-22T11:34:53.000+08:00"
-      },
-      {
-        "title": "韩国高考AI作弊事件发酵 教育部长引咎辞职",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736001.shtml",
-        "publishedAt": "2026-11-22T11:30:45.000+08:00"
-      },
-      {
-        "title": "印尼糖果厂火灾已致3人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736000.shtml",
-        "publishedAt": "2026-11-22T11:26:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T11:50:03.324+08:00",
+    "fetchedAt": "2026-11-22T12:00:03.276+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T11:50:06.731+08:00",
+      "fetchedAt": "2026-11-22T12:00:07.073+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T16:50:08.000+08:00"
+          "resetAt": "2026-11-22T17:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T11:50:07.180+08:00",
+      "fetchedAt": "2026-11-22T12:00:07.375+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T11:50:07.188+08:00",
+      "fetchedAt": "2026-11-22T12:00:07.384+08:00",
       "error": null
     }
   }
