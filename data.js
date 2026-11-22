@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T23:10:38.329+08:00",
+  "updatedAt": "2026-11-22T23:20:37.481+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 10.9,
-    "feelsLikeC": 8.6,
-    "humidity": 64,
+    "feelsLikeC": 8.5,
+    "humidity": 65,
     "windKph": 6.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T23:10:38.329+08:00",
+    "observedAt": "2026-11-22T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-22T23:20:37.481+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "创14个月新低 国际金价走势与地缘政治局势变化有何关联？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736215.shtml",
+        "publishedAt": "2026-11-22T23:13:49.000+08:00"
+      },
       {
         "title": "联合国气候变化安塔利亚大会闭幕",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "日本文部科学大臣因政治筹款丑闻面临辞职压力",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736208.shtml",
         "publishedAt": "2026-11-22T22:05:25.000+08:00"
-      },
-      {
-        "title": "（文化新纪行）山东梁山打造分布式流动演出 水浒文脉蕴新活力",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736206.shtml",
-        "publishedAt": "2026-11-22T22:04:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T23:10:02.892+08:00",
+    "fetchedAt": "2026-11-22T23:20:02.430+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T23:10:36.936+08:00",
+      "fetchedAt": "2026-11-22T23:20:36.178+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T04:10:38.000+08:00"
+          "resetAt": "2026-11-23T04:20:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T23:10:37.170+08:00",
+      "fetchedAt": "2026-11-22T23:20:36.439+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T23:10:37.178+08:00",
+      "fetchedAt": "2026-11-22T23:20:36.442+08:00",
       "error": null
     }
   }
