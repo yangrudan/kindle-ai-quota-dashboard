@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-22T14:40:37.964+08:00",
+  "updatedAt": "2026-11-22T14:50:09.127+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.4,
+    "tempC": 17.3,
     "feelsLikeC": 14.1,
-    "humidity": 33,
-    "windKph": 8.6,
+    "humidity": 34,
+    "windKph": 8.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-22T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T14:40:37.965+08:00",
+    "observedAt": "2026-11-22T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-22T14:50:09.128+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "湖北宜昌：千余名冬泳爱好者横渡长江",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736046.shtml",
+        "publishedAt": "2026-11-22T14:41:45.000+08:00"
+      },
+      {
+        "title": "中国排球名宿郎平获颁国际排联最高荣誉“排球勋章”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736051.shtml",
+        "publishedAt": "2026-11-22T14:39:17.000+08:00"
+      },
+      {
+        "title": "印尼一糖果厂发生火灾致3人死亡 数十人失联",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736019.shtml",
+        "publishedAt": "2026-11-22T14:34:28.000+08:00"
+      },
       {
         "title": "沈阳苏家屯冬季游系列活动启幕",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736045.shtml",
@@ -28,24 +43,9 @@
         "title": "贵州铜仁：野生鸳鸯冬日戏水绘生态画卷",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736044.shtml",
         "publishedAt": "2026-11-22T14:30:30.000+08:00"
-      },
-      {
-        "title": "陈文清将赴德国出席第六次中德高级别安全对话并访问德国、奥地利",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736048.shtml",
-        "publishedAt": "2026-11-22T14:30:28.000+08:00"
-      },
-      {
-        "title": "（东西问·兰花奖）英国导演柯文思：真实的中国生活就是最好的叙事",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736047.shtml",
-        "publishedAt": "2026-11-22T14:29:12.000+08:00"
-      },
-      {
-        "title": "粤桂湘滇文艺队伍齐聚广东连南 盘王节主题晚会举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736043.shtml",
-        "publishedAt": "2026-11-22T14:16:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T14:40:02.895+08:00",
+    "fetchedAt": "2026-11-22T14:50:03.212+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T14:40:36.457+08:00",
+      "fetchedAt": "2026-11-22T14:50:07.462+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T19:40:37.000+08:00"
+          "resetAt": "2026-11-22T19:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T14:40:36.689+08:00",
+      "fetchedAt": "2026-11-22T14:50:07.772+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T14:40:36.693+08:00",
+      "fetchedAt": "2026-11-22T14:50:07.780+08:00",
       "error": null
     }
   }
