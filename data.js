@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T17:50:08.561+08:00",
+  "updatedAt": "2026-11-22T18:00:08.684+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.7,
-    "feelsLikeC": 10.5,
-    "humidity": 59,
-    "windKph": 6,
+    "tempC": 12.4,
+    "feelsLikeC": 10.3,
+    "humidity": 60,
+    "windKph": 6.2,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-22T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T17:50:08.561+08:00",
+    "observedAt": "2026-11-22T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T18:00:08.684+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026“挥拍中国”羽毛球公开赛海峡西岸赛区‑福州站启幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736114.shtml",
+        "publishedAt": "2026-11-22T17:43:13.000+08:00"
+      },
       {
         "title": "西藏山南昌果卓舞焕发非遗新活力",
         "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736113.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "大理白族自治州成立70周年 苍洱处处石榴红",
         "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736110.shtml",
         "publishedAt": "2026-11-22T17:27:54.000+08:00"
-      },
-      {
-        "title": "穗港澳青少年齐聚广州“以球会友”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736109.shtml",
-        "publishedAt": "2026-11-22T17:26:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T17:50:02.670+08:00",
+    "fetchedAt": "2026-11-22T18:00:02.873+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T17:50:07.252+08:00",
+      "fetchedAt": "2026-11-22T18:00:07.233+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T22:50:08.000+08:00"
+          "resetAt": "2026-11-22T23:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T17:50:07.552+08:00",
+      "fetchedAt": "2026-11-22T18:00:07.518+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T17:50:07.562+08:00",
+      "fetchedAt": "2026-11-22T18:00:07.529+08:00",
       "error": null
     }
   }
