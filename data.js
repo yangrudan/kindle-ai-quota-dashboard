@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T12:20:39.445+08:00",
+  "updatedAt": "2026-11-22T12:30:08.750+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.5,
-    "feelsLikeC": 14.6,
-    "humidity": 42,
-    "windKph": 6,
+    "tempC": 16.7,
+    "feelsLikeC": 14.7,
+    "humidity": 40,
+    "windKph": 6.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-22T12:20:39.446+08:00",
+    "observedAt": "2026-11-22T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-22T12:30:08.750+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全球酒店巨头密集入驻新疆，这波国际范儿直接拉满丨真相",
+        "url": "http://www.chinanews.com.cn/cj/shipin/2026/11-22/news1075687.shtml",
+        "publishedAt": "2026-11-22T12:16:19.000+08:00"
+      },
       {
         "title": "彩跑燃动长江岸 美心红酒小镇第11届国际高跟鞋彩色跑欢乐起跑",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10735984.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "第二届“川超”揭幕战打响 德阳队4比1胜凉山队",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10735983.shtml",
         "publishedAt": "2026-11-22T12:07:02.000+08:00"
-      },
-      {
-        "title": "历史经典产业博览会主题活动在浙江举办 促跨界对话",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736004.shtml",
-        "publishedAt": "2026-11-22T12:04:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T12:20:03.289+08:00",
+    "fetchedAt": "2026-11-22T12:30:02.712+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T12:20:37.629+08:00",
+      "fetchedAt": "2026-11-22T12:30:06.928+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T17:20:39.000+08:00"
+          "resetAt": "2026-11-22T17:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T12:20:37.986+08:00",
+      "fetchedAt": "2026-11-22T12:30:07.309+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T12:20:37.996+08:00",
+      "fetchedAt": "2026-11-22T12:30:07.318+08:00",
       "error": null
     }
   }
