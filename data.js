@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T20:00:07.777+08:00",
+  "updatedAt": "2026-11-22T20:10:09.497+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-22T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T20:00:07.777+08:00",
+    "fetchedAt": "2026-11-22T20:10:09.497+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "美食文旅节目《寻味山海》走进辽宁锦州品山海相拥的滋味",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736168.shtml",
+        "publishedAt": "2026-11-22T20:04:10.000+08:00"
+      },
+      {
+        "title": "上交所：预计本年度沪市整体降费金额超过24亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736167.shtml",
+        "publishedAt": "2026-11-22T20:02:30.000+08:00"
+      },
+      {
+        "title": "海外学生走进汕头潮州 读侨批学英歌舞感知潮汕文化魅力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736165.shtml",
+        "publishedAt": "2026-11-22T20:01:10.000+08:00"
+      },
+      {
+        "title": "张雪亲自下场 在珠海体验张雪机车820RR",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736169.shtml",
+        "publishedAt": "2026-11-22T20:00:26.000+08:00"
+      },
+      {
         "title": "香港羽毛球公开赛：中国选手王祉怡女单卫冕 混双“凤凰”组合夺冠",
         "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736164.shtml",
         "publishedAt": "2026-11-22T19:54:46.000+08:00"
-      },
-      {
-        "title": "高海拔跨域5G远程机器人肾癌根治手术完成 辽藏协同助力高原医疗",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736162.shtml",
-        "publishedAt": "2026-11-22T19:53:04.000+08:00"
-      },
-      {
-        "title": "通讯丨虫口夺粮——中国与粮农组织合作防治非洲农作物虫害",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736163.shtml",
-        "publishedAt": "2026-11-22T19:43:25.000+08:00"
-      },
-      {
-        "title": "湿地仰望满天星 上海崇明生态岛倡导暗夜守护",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736160.shtml",
-        "publishedAt": "2026-11-22T19:41:37.000+08:00"
-      },
-      {
-        "title": "中国最大盐湖持续保障新能源原料绿色供给",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736161.shtml",
-        "publishedAt": "2026-11-22T19:41:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T20:00:02.673+08:00",
+    "fetchedAt": "2026-11-22T20:10:03.786+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T20:00:06.621+08:00",
+      "fetchedAt": "2026-11-22T20:10:08.041+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T01:00:07.000+08:00"
+          "resetAt": "2026-11-23T01:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T20:00:06.896+08:00",
+      "fetchedAt": "2026-11-22T20:10:08.257+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T20:00:06.904+08:00",
+      "fetchedAt": "2026-11-22T20:10:08.265+08:00",
       "error": null
     }
   }
