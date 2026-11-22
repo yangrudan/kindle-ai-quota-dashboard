@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T09:40:08.455+08:00",
+  "updatedAt": "2026-11-22T09:50:37.918+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.4,
-    "feelsLikeC": 9.9,
-    "humidity": 63,
-    "windKph": 1.6,
+    "tempC": 12.1,
+    "feelsLikeC": 10.6,
+    "humidity": 60,
+    "windKph": 1.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T09:40:08.455+08:00",
+    "observedAt": "2026-11-22T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-22T09:50:37.918+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "神舟二十四号展开全系统合练 备份应急体系如何护航发射？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735952.shtml",
+        "publishedAt": "2026-11-22T09:37:48.000+08:00"
+      },
       {
         "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问",
         "url": "https://www.chinanews.com.cn/cj/2026/11-22/10735951.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "【诗画中国】落一点白 藏一冬安",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-22/1211369.shtml",
         "publishedAt": "2026-11-22T08:57:23.000+08:00"
-      },
-      {
-        "title": "中央气象台：冷空气将影响我国中东部地区",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735941.shtml",
-        "publishedAt": "2026-11-22T08:55:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T09:40:02.903+08:00",
+    "fetchedAt": "2026-11-22T09:50:03.318+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T09:40:06.888+08:00",
+      "fetchedAt": "2026-11-22T09:50:36.538+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T14:40:08.000+08:00"
+          "resetAt": "2026-11-22T14:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T09:40:07.190+08:00",
+      "fetchedAt": "2026-11-22T09:50:36.735+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T09:40:07.199+08:00",
+      "fetchedAt": "2026-11-22T09:50:36.744+08:00",
       "error": null
     }
   }
