@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T17:40:08.774+08:00",
+  "updatedAt": "2026-11-22T17:50:08.561+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.9,
-    "feelsLikeC": 10.8,
+    "tempC": 12.7,
+    "feelsLikeC": 10.5,
     "humidity": 59,
-    "windKph": 5.8,
+    "windKph": 6,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-22T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T17:40:08.775+08:00",
+    "observedAt": "2026-11-22T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-22T17:50:08.561+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西藏山南昌果卓舞焕发非遗新活力",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736113.shtml",
+        "publishedAt": "2026-11-22T17:38:06.000+08:00"
+      },
+      {
+        "title": "中国红基会：中国韧性社区建设经验升级为可供借鉴的“国际标准”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736112.shtml",
+        "publishedAt": "2026-11-22T17:36:56.000+08:00"
+      },
+      {
+        "title": "CHINA ROCK科技创新工业展览会在成都启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736111.shtml",
+        "publishedAt": "2026-11-22T17:33:36.000+08:00"
+      },
       {
         "title": "大理白族自治州成立70周年 苍洱处处石榴红",
         "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736110.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "穗港澳青少年齐聚广州“以球会友”",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736109.shtml",
         "publishedAt": "2026-11-22T17:26:26.000+08:00"
-      },
-      {
-        "title": "《国家考古遗址公园（二）》特种邮票在郑州发行",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736108.shtml",
-        "publishedAt": "2026-11-22T17:24:26.000+08:00"
-      },
-      {
-        "title": "雕刀不辍 青田石雕三代匠人演绎非遗活态传承",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736106.shtml",
-        "publishedAt": "2026-11-22T17:21:56.000+08:00"
-      },
-      {
-        "title": "山西一工地挖出炮弹紧急排爆 警方提示",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736107.shtml",
-        "publishedAt": "2026-11-22T17:18:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T17:40:03.000+08:00",
+    "fetchedAt": "2026-11-22T17:50:02.670+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T17:40:07.179+08:00",
+      "fetchedAt": "2026-11-22T17:50:07.252+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T22:40:08.000+08:00"
+          "resetAt": "2026-11-22T22:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T17:40:07.482+08:00",
+      "fetchedAt": "2026-11-22T17:50:07.552+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T17:40:07.492+08:00",
+      "fetchedAt": "2026-11-22T17:50:07.562+08:00",
       "error": null
     }
   }
