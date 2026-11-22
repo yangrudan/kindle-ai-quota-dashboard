@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T15:10:37.643+08:00",
+  "updatedAt": "2026-11-22T15:20:38.253+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.3,
-    "feelsLikeC": 14.1,
-    "humidity": 34,
-    "windKph": 9,
+    "tempC": 17.1,
+    "feelsLikeC": 14,
+    "humidity": 36,
+    "windKph": 8.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T15:10:37.644+08:00",
+    "observedAt": "2026-11-22T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-22T15:20:38.253+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "哈尔滨全民滑雪年启动 解锁全新冰雪运动时代",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736055.shtml",
-        "publishedAt": "2026-11-22T14:58:08.000+08:00"
+        "title": "15个创业项目登台“找市场” 东南大学举行OPC学生路演专场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736058.shtml",
+        "publishedAt": "2026-11-22T15:09:50.000+08:00"
       },
       {
-        "title": "2026年“海韵乡情”世界闽南语吟唱大会在福建漳州召开",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736052.shtml",
-        "publishedAt": "2026-11-22T14:44:51.000+08:00"
+        "title": "“冬日雪暖阳·好戏在沈阳”——沈阳苏家屯农民画主题大集启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736059.shtml",
+        "publishedAt": "2026-11-22T15:08:56.000+08:00"
       },
       {
-        "title": "湖北宜昌：千余名冬泳爱好者横渡长江",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736046.shtml",
-        "publishedAt": "2026-11-22T14:41:45.000+08:00"
+        "title": "陈晓卿新作前往24地寻色 讲述刻在基因里的中国色",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736060.shtml",
+        "publishedAt": "2026-11-22T15:08:28.000+08:00"
       },
       {
-        "title": "中国排球名宿郎平获颁国际排联最高荣誉“排球勋章”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736051.shtml",
-        "publishedAt": "2026-11-22T14:39:17.000+08:00"
+        "title": "“中山魂·中华情：纪念孙中山先生诞辰160周年”学术研讨会在福州举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736061.shtml",
+        "publishedAt": "2026-11-22T15:07:58.000+08:00"
       },
       {
-        "title": "印尼一糖果厂发生火灾致3人死亡 数十人失联",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736019.shtml",
-        "publishedAt": "2026-11-22T14:34:28.000+08:00"
+        "title": "苏州“同心合锦”围巾登上国际舞台受热捧",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736062.shtml",
+        "publishedAt": "2026-11-22T15:07:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T15:10:02.564+08:00",
+    "fetchedAt": "2026-11-22T15:20:03.357+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T15:10:36.057+08:00",
+      "fetchedAt": "2026-11-22T15:20:37.018+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T20:10:37.000+08:00"
+          "resetAt": "2026-11-22T20:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T15:10:36.383+08:00",
+      "fetchedAt": "2026-11-22T15:20:37.289+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T15:10:36.392+08:00",
+      "fetchedAt": "2026-11-22T15:20:37.298+08:00",
       "error": null
     }
   }
