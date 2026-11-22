@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T07:00:08.184+08:00",
+  "updatedAt": "2026-11-23T07:10:38.614+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-23T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T07:00:08.185+08:00",
+    "fetchedAt": "2026-11-23T07:10:38.614+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月23日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-23/10736223.shtml",
+        "publishedAt": "2026-11-23T06:55:54.000+08:00"
+      },
       {
         "title": "美国达美航空系统故障致大量航班延误 航空公司致歉",
         "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736222.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“零碳暖流”、AI控温 核能供暖是一种什么样的体验",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736219.shtml",
         "publishedAt": "2026-11-23T06:25:51.000+08:00"
-      },
-      {
-        "title": "李家超致贺香港特区选委会当选委员 冀秉持“爱国者治港”原则履职尽责",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736218.shtml",
-        "publishedAt": "2026-11-22T23:58:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T07:00:02.869+08:00",
+    "fetchedAt": "2026-11-23T07:10:03.043+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T07:00:06.814+08:00",
+      "fetchedAt": "2026-11-23T07:10:37.277+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T12:00:08.000+08:00"
+          "resetAt": "2026-11-23T12:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T07:00:07.085+08:00",
+      "fetchedAt": "2026-11-23T07:10:37.526+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T07:00:07.093+08:00",
+      "fetchedAt": "2026-11-23T07:10:37.534+08:00",
       "error": null
     }
   }
