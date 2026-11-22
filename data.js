@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T10:30:38.497+08:00",
+  "updatedAt": "2026-11-22T10:40:08.287+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-22T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T10:30:38.498+08:00",
+    "fetchedAt": "2026-11-22T10:40:08.287+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "网购牛仔裤水洗后轻戳就破 消费者要求“退一赔三”该得到支持吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735966.shtml",
-        "publishedAt": "2026-11-22T10:24:19.000+08:00"
+        "title": "院士专家为春城昆明“把脉” 云南省城市高质量发展高端智库揭牌",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735971.shtml",
+        "publishedAt": "2026-11-22T10:32:25.000+08:00"
       },
       {
-        "title": "《小城良方》后劲为何这么大？演员张国强揭秘",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735954.shtml",
-        "publishedAt": "2026-11-22T10:23:01.000+08:00"
+        "title": "两湖简帛书法非遗考察与研创展在京举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735970.shtml",
+        "publishedAt": "2026-11-22T10:31:01.000+08:00"
       },
       {
-        "title": "从经侦一线到书桌，46岁警察写出多部热门小说",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735956.shtml",
-        "publishedAt": "2026-11-22T10:22:53.000+08:00"
+        "title": "“大公杯”三人篮球赛总决赛在港举行 大湾区球员同场竞技",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10735968.shtml",
+        "publishedAt": "2026-11-22T10:29:35.000+08:00"
       },
       {
-        "title": "“全国艺术电影放映联盟十周年荣誉之夜”在山东举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735955.shtml",
-        "publishedAt": "2026-11-22T10:22:17.000+08:00"
+        "title": "邮寄假律师函为境外诈骗铺路 兼职代发为何沦为犯罪一环？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735969.shtml",
+        "publishedAt": "2026-11-22T10:27:35.000+08:00"
       },
       {
-        "title": "别让AI魔改消费经典 技术创新更需守住敬畏之心",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735957.shtml",
-        "publishedAt": "2026-11-22T10:22:09.000+08:00"
+        "title": "田汉之孙谈抗战文艺跨国传播：至今仍引海外华人共鸣",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735967.shtml",
+        "publishedAt": "2026-11-22T10:27:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T10:30:03.361+08:00",
+    "fetchedAt": "2026-11-22T10:40:03.429+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T10:30:36.931+08:00",
+      "fetchedAt": "2026-11-22T10:40:06.865+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T15:30:38.000+08:00"
+          "resetAt": "2026-11-22T15:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T10:30:37.267+08:00",
+      "fetchedAt": "2026-11-22T10:40:07.151+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T10:30:37.277+08:00",
+      "fetchedAt": "2026-11-22T10:40:07.157+08:00",
       "error": null
     }
   }
