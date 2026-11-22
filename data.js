@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T13:20:39.038+08:00",
+  "updatedAt": "2026-11-22T13:30:38.840+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.2,
-    "feelsLikeC": 14.5,
-    "humidity": 35,
-    "windKph": 7.5,
+    "tempC": 17.3,
+    "feelsLikeC": 14.3,
+    "humidity": 34,
+    "windKph": 7.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-22T13:20:39.039+08:00",
+    "observedAt": "2026-11-22T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-22T13:30:38.841+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "直播公司设计合同陷阱收割违约金 女主播没赚到钱反被索赔十万元",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-22/10736027.shtml",
+        "publishedAt": "2026-11-22T13:26:31.000+08:00"
+      },
+      {
+        "title": "陈茂波：香港可在世界湾区合作中作出独特贡献",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736021.shtml",
+        "publishedAt": "2026-11-22T13:25:39.000+08:00"
+      },
+      {
+        "title": "中国石油天然气集团有限公司副总经理谢军被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736022.shtml",
+        "publishedAt": "2026-11-22T13:24:31.000+08:00"
+      },
+      {
+        "title": "中国首款全尺寸全倾转电动飞行汽车倾转过渡试飞成功",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736018.shtml",
+        "publishedAt": "2026-11-22T13:23:31.000+08:00"
+      },
+      {
         "title": "进口车厘子买回家没几天就坏了？这样做保鲜时间更久→",
         "url": "https://www.chinanews.com.cn/life/2026/11-22/10736017.shtml",
         "publishedAt": "2026-11-22T13:14:14.000+08:00"
-      },
-      {
-        "title": "五中全会精神在基层丨理旧账也是创新绩",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736016.shtml",
-        "publishedAt": "2026-11-22T13:07:54.000+08:00"
-      },
-      {
-        "title": "【何以中国·和合礼让】事已至此，先喝杯“热茶”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736015.shtml",
-        "publishedAt": "2026-11-22T13:01:45.000+08:00"
-      },
-      {
-        "title": "多地秋假激发亲子文旅市场活力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736014.shtml",
-        "publishedAt": "2026-11-22T12:49:53.000+08:00"
-      },
-      {
-        "title": "10月份工业经济总体平稳 发展质量持续提升",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736013.shtml",
-        "publishedAt": "2026-11-22T12:46:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T13:20:02.895+08:00",
+    "fetchedAt": "2026-11-22T13:30:03.282+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T13:20:37.063+08:00",
+      "fetchedAt": "2026-11-22T13:30:37.541+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T18:20:38.000+08:00"
+          "resetAt": "2026-11-22T18:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T13:20:37.349+08:00",
+      "fetchedAt": "2026-11-22T13:30:37.712+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T13:20:37.352+08:00",
+      "fetchedAt": "2026-11-22T13:30:37.721+08:00",
       "error": null
     }
   }
