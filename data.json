@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-22T19:40:09.375+08:00",
+  "updatedAt": "2026-11-22T19:50:09.811+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.1,
-    "feelsLikeC": 8.5,
-    "humidity": 64,
-    "windKph": 8.7,
+    "tempC": 11,
+    "feelsLikeC": 8.4,
+    "humidity": 65,
+    "windKph": 9,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-22T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T19:40:09.376+08:00",
+    "observedAt": "2026-11-22T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-22T19:50:09.811+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "通讯丨虫口夺粮——中国与粮农组织合作防治非洲农作物虫害",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736163.shtml",
+        "publishedAt": "2026-11-22T19:43:25.000+08:00"
+      },
+      {
+        "title": "湿地仰望满天星 上海崇明生态岛倡导暗夜守护",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736160.shtml",
+        "publishedAt": "2026-11-22T19:41:37.000+08:00"
+      },
+      {
+        "title": "中国最大盐湖持续保障新能源原料绿色供给",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736161.shtml",
+        "publishedAt": "2026-11-22T19:41:21.000+08:00"
+      },
       {
         "title": "云南昆明小雪节气暖阳相伴 民众滇池畔乐享周末",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736156.shtml",
@@ -28,24 +43,9 @@
         "title": "江西赣州：“小雪”迎暖阳 民众公园乐享周末",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736157.shtml",
         "publishedAt": "2026-11-22T19:23:40.000+08:00"
-      },
-      {
-        "title": "河南开封：小雪时节冬桃红 特色林果助振兴",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736153.shtml",
-        "publishedAt": "2026-11-22T19:21:46.000+08:00"
-      },
-      {
-        "title": "多国兰花奖嘉宾太原对话 探讨文明交流互鉴路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736155.shtml",
-        "publishedAt": "2026-11-22T19:20:38.000+08:00"
-      },
-      {
-        "title": "高原银幕接力：青海德令哈父子的草原光影之约",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736150.shtml",
-        "publishedAt": "2026-11-22T19:16:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T19:40:03.881+08:00",
+    "fetchedAt": "2026-11-22T19:50:03.362+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T19:40:08.081+08:00",
+      "fetchedAt": "2026-11-22T19:50:08.208+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T00:40:09.000+08:00"
+          "resetAt": "2026-11-23T00:50:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T19:40:08.392+08:00",
+      "fetchedAt": "2026-11-22T19:50:08.570+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T19:40:08.402+08:00",
+      "fetchedAt": "2026-11-22T19:50:08.573+08:00",
       "error": null
     }
   }
