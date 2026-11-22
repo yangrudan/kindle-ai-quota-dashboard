@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-22T13:40:09.174+08:00",
+  "updatedAt": "2026-11-22T13:50:15.202+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.3,
-    "feelsLikeC": 14.3,
-    "humidity": 34,
-    "windKph": 7.7,
+    "tempC": 17.4,
+    "feelsLikeC": 14.2,
+    "humidity": 33,
+    "windKph": 8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T13:40:09.174+08:00",
+    "observedAt": "2026-11-22T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-22T13:50:15.202+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "韩国总统李在明受理教育部长官崔教振辞呈",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736036.shtml",
+        "publishedAt": "2026-11-22T13:42:38.000+08:00"
+      },
+      {
+        "title": "“零碳暖流”、AI控温 核能供暖是一种什么样的体验",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736035.shtml",
+        "publishedAt": "2026-11-22T13:41:48.000+08:00"
+      },
+      {
+        "title": "陕西青少年击剑总决赛古城举行 600余名“小剑客”亮剑争锋",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736033.shtml",
+        "publishedAt": "2026-11-22T13:39:49.000+08:00"
+      },
+      {
+        "title": "从杭州看全球丝绸治理：一座产业城市为何成为新坐标？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736032.shtml",
+        "publishedAt": "2026-11-22T13:39:35.000+08:00"
+      },
+      {
         "title": "全国“最美五老”何红明：点亮边疆万千少年“心灯”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736031.shtml",
         "publishedAt": "2026-11-22T13:35:21.000+08:00"
-      },
-      {
-        "title": "AI如何“牵手”历史经典产业？各界人士在杭州共话新可能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736030.shtml",
-        "publishedAt": "2026-11-22T13:33:43.000+08:00"
-      },
-      {
-        "title": "粤桂企业合作畅通“桂品入湾”渠道 开拓东盟市场",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736028.shtml",
-        "publishedAt": "2026-11-22T13:31:33.000+08:00"
-      },
-      {
-        "title": "广西推进林浆纸原料保供 打造沿江沿海纸产业集群",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736026.shtml",
-        "publishedAt": "2026-11-22T13:31:13.000+08:00"
-      },
-      {
-        "title": "200余名中外人士徒步寻访“南京安全区”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736029.shtml",
-        "publishedAt": "2026-11-22T13:31:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T13:40:02.782+08:00",
+    "fetchedAt": "2026-11-22T13:50:09.038+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T13:40:07.520+08:00",
+      "fetchedAt": "2026-11-22T13:50:13.800+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T18:40:09.000+08:00"
+          "resetAt": "2026-11-22T18:50:15.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T13:40:07.819+08:00",
+      "fetchedAt": "2026-11-22T13:50:14.049+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T13:40:07.825+08:00",
+      "fetchedAt": "2026-11-22T13:50:14.057+08:00",
       "error": null
     }
   }
