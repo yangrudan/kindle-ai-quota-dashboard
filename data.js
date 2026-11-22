@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T15:00:11.402+08:00",
+  "updatedAt": "2026-11-22T15:10:37.643+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 17.2,
-    "feelsLikeC": 14,
-    "humidity": 35,
-    "windKph": 8.7,
-    "windDir": "东风",
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 17.3,
+    "feelsLikeC": 14.1,
+    "humidity": 34,
+    "windKph": 9,
+    "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-22T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T15:00:11.402+08:00",
+    "fetchedAt": "2026-11-22T15:10:37.644+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "哈尔滨全民滑雪年启动 解锁全新冰雪运动时代",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736055.shtml",
+        "publishedAt": "2026-11-22T14:58:08.000+08:00"
+      },
       {
         "title": "2026年“海韵乡情”世界闽南语吟唱大会在福建漳州召开",
         "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736052.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "印尼一糖果厂发生火灾致3人死亡 数十人失联",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736019.shtml",
         "publishedAt": "2026-11-22T14:34:28.000+08:00"
-      },
-      {
-        "title": "沈阳苏家屯冬季游系列活动启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736045.shtml",
-        "publishedAt": "2026-11-22T14:33:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T15:00:02.795+08:00",
+    "fetchedAt": "2026-11-22T15:10:02.564+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T15:00:09.522+08:00",
+      "fetchedAt": "2026-11-22T15:10:36.057+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T20:00:11.000+08:00"
+          "resetAt": "2026-11-22T20:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T15:00:10.016+08:00",
+      "fetchedAt": "2026-11-22T15:10:36.383+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T15:00:10.025+08:00",
+      "fetchedAt": "2026-11-22T15:10:36.392+08:00",
       "error": null
     }
   }
