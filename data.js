@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T08:20:08.676+08:00",
+  "updatedAt": "2026-11-22T08:30:07.769+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.1,
-    "feelsLikeC": 5.3,
-    "humidity": 82,
-    "windKph": 2.8,
+    "tempC": 8.1,
+    "feelsLikeC": 6.4,
+    "humidity": 78,
+    "windKph": 2.3,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-22T08:20:08.676+08:00",
+    "observedAt": "2026-11-22T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-22T08:30:07.770+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "小雪节气如何养生？核心是“藏”",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-22/10735940.shtml",
+        "publishedAt": "2026-11-22T08:18:34.000+08:00"
+      },
       {
         "title": "11月22日早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-22/10735939.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "墨西哥抓获大毒枭“矮子伊西德罗”",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735936.shtml",
         "publishedAt": "2026-11-22T06:14:20.000+08:00"
-      },
-      {
-        "title": "今日开启商业首航！“爱达·花城号”最新乘船攻略来了",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735935.shtml",
-        "publishedAt": "2026-11-22T06:12:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T08:20:02.591+08:00",
+    "fetchedAt": "2026-11-22T08:30:02.676+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T08:20:06.931+08:00",
+      "fetchedAt": "2026-11-22T08:30:06.493+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T13:20:08.000+08:00"
+          "resetAt": "2026-11-22T13:30:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T08:20:07.255+08:00",
+      "fetchedAt": "2026-11-22T08:30:06.795+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T08:20:07.261+08:00",
+      "fetchedAt": "2026-11-22T08:30:06.801+08:00",
       "error": null
     }
   }
