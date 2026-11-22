@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T17:10:12.278+08:00",
+  "updatedAt": "2026-11-22T17:20:38.165+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.6,
-    "feelsLikeC": 11.5,
-    "humidity": 56,
-    "windKph": 5.9,
+    "tempC": 13.2,
+    "feelsLikeC": 11.1,
+    "humidity": 58,
+    "windKph": 5.8,
     "windDir": "东风",
     "place": "杭州",
-    "observedAt": "2026-11-22T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T17:10:12.278+08:00",
+    "observedAt": "2026-11-22T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-22T17:20:38.166+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "海峡两岸近400位茶农福建漳州“斗茶”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736104.shtml",
+        "publishedAt": "2026-11-22T17:12:55.000+08:00"
+      },
+      {
+        "title": "10家海外分灵宫庙赴泉州通淮关岳庙谒祖溯源",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736103.shtml",
+        "publishedAt": "2026-11-22T17:12:47.000+08:00"
+      },
+      {
+        "title": "从“文物展示”到“文明对话” 数智赋能中国文博新体验",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736105.shtml",
+        "publishedAt": "2026-11-22T17:12:31.000+08:00"
+      },
       {
         "title": "山上鸟毛遍地 餐馆售卖“野味” 谁在围猎南迁候鸟？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736102.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国—东盟推动林业合作持续走深走实",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736097.shtml",
         "publishedAt": "2026-11-22T16:49:08.000+08:00"
-      },
-      {
-        "title": "专家学者齐聚福建永春共谋柑橘产业高质量发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736085.shtml",
-        "publishedAt": "2026-11-22T16:44:13.000+08:00"
-      },
-      {
-        "title": "黑河红河谷国际滑雪场开板迎客",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736094.shtml",
-        "publishedAt": "2026-11-22T16:44:05.000+08:00"
-      },
-      {
-        "title": "2026南迦巴瓦文化艺术交流月正式启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736087.shtml",
-        "publishedAt": "2026-11-22T16:43:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T17:10:07.061+08:00",
+    "fetchedAt": "2026-11-22T17:20:03.214+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T17:10:10.829+08:00",
+      "fetchedAt": "2026-11-22T17:20:36.716+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T22:10:12.000+08:00"
+          "resetAt": "2026-11-22T22:20:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T17:10:11.158+08:00",
+      "fetchedAt": "2026-11-22T17:20:36.953+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T17:10:11.164+08:00",
+      "fetchedAt": "2026-11-22T17:20:36.962+08:00",
       "error": null
     }
   }
