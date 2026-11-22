@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T11:00:09.251+08:00",
+  "updatedAt": "2026-11-22T11:10:14.418+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-22T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T11:00:09.251+08:00",
+    "fetchedAt": "2026-11-22T11:10:14.418+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国商务部：美方恶意打压中国电信企业在美运营",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10735994.shtml",
+        "publishedAt": "2026-11-22T11:04:15.000+08:00"
+      },
+      {
+        "title": "藏在烟火里的大理70年开放记：路通、货畅、人相亲",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735993.shtml",
+        "publishedAt": "2026-11-22T11:02:33.000+08:00"
+      },
+      {
+        "title": "中国石油天然气集团有限公司党组成员、副总经理谢军接受中央纪委国家监委纪律审查和监察调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735996.shtml",
+        "publishedAt": "2026-11-22T11:02:17.000+08:00"
+      },
       {
         "title": "全国300名选手齐聚汕尾逐浪追风",
         "url": "https://www.chinanews.com.cn/ty/2026/11-22/10735991.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "（寻味中华｜节令）小雪纳物藏旧味 名泉入盏熨新寒",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735987.shtml",
         "publishedAt": "2026-11-22T10:44:22.000+08:00"
-      },
-      {
-        "title": "聚齐21个经济体 APEC“中国年”留下这些珍贵瞬间",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735989.shtml",
-        "publishedAt": "2026-11-22T10:43:16.000+08:00"
-      },
-      {
-        "title": "2026北京市中小学生篮球冠军赛收官 北京四中男子甲组夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10735986.shtml",
-        "publishedAt": "2026-11-22T10:43:16.000+08:00"
-      },
-      {
-        "title": "广西北海首个海上自然探索邮轮启航 解锁海上微度假",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735985.shtml",
-        "publishedAt": "2026-11-22T10:42:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T11:00:03.138+08:00",
+    "fetchedAt": "2026-11-22T11:10:08.830+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T11:00:07.737+08:00",
+      "fetchedAt": "2026-11-22T11:10:12.696+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T16:00:09.000+08:00"
+          "resetAt": "2026-11-22T16:10:14.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T11:00:08.134+08:00",
+      "fetchedAt": "2026-11-22T11:10:13.129+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T11:00:08.137+08:00",
+      "fetchedAt": "2026-11-22T11:10:13.138+08:00",
       "error": null
     }
   }
