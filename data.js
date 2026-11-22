@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T20:30:08.304+08:00",
+  "updatedAt": "2026-11-22T20:40:38.291+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-22T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T20:30:08.305+08:00",
+    "fetchedAt": "2026-11-22T20:40:38.291+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“小雪进补”莫跟风 专家：辨清体质再“补” 科学减重需“抗炎”",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736184.shtml",
+        "publishedAt": "2026-11-22T20:35:08.000+08:00"
+      },
+      {
+        "title": "（文化新纪行）外国游客爱上“当一天中国古人”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736185.shtml",
+        "publishedAt": "2026-11-22T20:34:22.000+08:00"
+      },
+      {
+        "title": "国家级青少年皮划艇赛事落地宁波 山水之间释放运动活力",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736183.shtml",
+        "publishedAt": "2026-11-22T20:33:14.000+08:00"
+      },
       {
         "title": "云南连续四年举办边境幸福村体育嘉年华 以赛事赋能兴边富民",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736181.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "尹弘当选中共江西省委书记",
         "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736179.shtml",
         "publishedAt": "2026-11-22T20:22:43.000+08:00"
-      },
-      {
-        "title": "阿富汗警方称打死3名武装分子",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736173.shtml",
-        "publishedAt": "2026-11-22T20:22:35.000+08:00"
-      },
-      {
-        "title": "邢少臣师生作品展呈现当代大写意绘画的传承脉络",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736177.shtml",
-        "publishedAt": "2026-11-22T20:18:49.000+08:00"
-      },
-      {
-        "title": "近500名粤港澳骑行爱好者“骑”聚珠海",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736176.shtml",
-        "publishedAt": "2026-11-22T20:18:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T20:30:02.932+08:00",
+    "fetchedAt": "2026-11-22T20:40:03.111+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T20:30:06.638+08:00",
+      "fetchedAt": "2026-11-22T20:40:37.054+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T01:30:08.000+08:00"
+          "resetAt": "2026-11-23T01:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T20:30:06.878+08:00",
+      "fetchedAt": "2026-11-22T20:40:37.245+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T20:30:06.883+08:00",
+      "fetchedAt": "2026-11-22T20:40:37.250+08:00",
       "error": null
     }
   }
