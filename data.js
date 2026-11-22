@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T09:20:37.627+08:00",
+  "updatedAt": "2026-11-22T09:30:08.177+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.7,
-    "feelsLikeC": 9.2,
-    "humidity": 67,
-    "windKph": 1.5,
-    "windDir": "南风",
+    "tempC": 11.4,
+    "feelsLikeC": 9.9,
+    "humidity": 63,
+    "windKph": 1.6,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-22T09:20:37.627+08:00",
+    "observedAt": "2026-11-22T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-22T09:30:08.177+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10735951.shtml",
+        "publishedAt": "2026-11-22T09:21:58.000+08:00"
+      },
       {
         "title": "青海德令哈5.6级地震 青藏铁路部分区间限速开行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735950.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中央气象台：冷空气将影响我国中东部地区",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735941.shtml",
         "publishedAt": "2026-11-22T08:55:46.000+08:00"
-      },
-      {
-        "title": "特朗普：将寻求与伊朗达成一项“永久性”协议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735946.shtml",
-        "publishedAt": "2026-11-22T08:49:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T09:20:02.575+08:00",
+    "fetchedAt": "2026-11-22T09:30:02.864+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T09:20:36.101+08:00",
+      "fetchedAt": "2026-11-22T09:30:06.672+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T14:20:37.000+08:00"
+          "resetAt": "2026-11-22T14:30:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T09:20:36.364+08:00",
+      "fetchedAt": "2026-11-22T09:30:06.957+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T09:20:36.372+08:00",
+      "fetchedAt": "2026-11-22T09:30:06.966+08:00",
       "error": null
     }
   }
