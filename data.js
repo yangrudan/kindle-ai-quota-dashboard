@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T20:10:09.497+08:00",
+  "updatedAt": "2026-11-22T20:20:08.865+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 10.9,
-    "feelsLikeC": 8.2,
-    "humidity": 65,
-    "windKph": 9.3,
+    "feelsLikeC": 8.1,
+    "humidity": 64,
+    "windKph": 9.5,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-22T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T20:10:09.497+08:00",
+    "observedAt": "2026-11-22T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-22T20:20:08.866+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "韩国教育部长官因应对高考作弊引发混乱提出辞职",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736139.shtml",
+        "publishedAt": "2026-11-22T20:15:01.000+08:00"
+      },
+      {
+        "title": "上交所：已有20家做市商为273只科创板股票提供做市服务",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736171.shtml",
+        "publishedAt": "2026-11-22T20:14:13.000+08:00"
+      },
+      {
+        "title": "“小雪”至腌菜正当时 盐与时间酿出中国东北老味道",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736170.shtml",
+        "publishedAt": "2026-11-22T20:06:20.000+08:00"
+      },
       {
         "title": "美食文旅节目《寻味山海》走进辽宁锦州品山海相拥的滋味",
         "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736168.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "上交所：预计本年度沪市整体降费金额超过24亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736167.shtml",
         "publishedAt": "2026-11-22T20:02:30.000+08:00"
-      },
-      {
-        "title": "海外学生走进汕头潮州 读侨批学英歌舞感知潮汕文化魅力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736165.shtml",
-        "publishedAt": "2026-11-22T20:01:10.000+08:00"
-      },
-      {
-        "title": "张雪亲自下场 在珠海体验张雪机车820RR",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736169.shtml",
-        "publishedAt": "2026-11-22T20:00:26.000+08:00"
-      },
-      {
-        "title": "香港羽毛球公开赛：中国选手王祉怡女单卫冕 混双“凤凰”组合夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736164.shtml",
-        "publishedAt": "2026-11-22T19:54:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T20:10:03.786+08:00",
+    "fetchedAt": "2026-11-22T20:20:03.227+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-22T20:10:08.041+08:00",
+      "fetchedAt": "2026-11-22T20:20:07.565+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T01:10:09.000+08:00"
+          "resetAt": "2026-11-23T01:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T20:10:08.257+08:00",
+      "fetchedAt": "2026-11-22T20:20:07.779+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-22T20:10:08.265+08:00",
+      "fetchedAt": "2026-11-22T20:20:07.788+08:00",
       "error": null
     }
   }
