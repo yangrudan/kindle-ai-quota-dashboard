@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T21:20:08.408+08:00",
+  "updatedAt": "2026-11-23T21:30:09.309+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 12.2,
-    "feelsLikeC": 11.2,
+    "tempC": 12.1,
+    "feelsLikeC": 11.3,
     "humidity": 93,
-    "windKph": 8.7,
+    "windKph": 7.8,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-23T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T21:20:08.408+08:00",
+    "observedAt": "2026-11-23T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T21:30:09.310+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中蒙俄国际旅客列车整备一新 即将每周往返开行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211495.shtml",
+        "publishedAt": "2026-11-23T21:25:41.000+08:00"
+      },
+      {
+        "title": "“皇后赛段”燃动广西马山 顶级IP撬动“骑行经济”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736671.shtml",
+        "publishedAt": "2026-11-23T21:24:49.000+08:00"
+      },
+      {
+        "title": "今年前10个月香港国际机场接待旅客5460万人次 同比升9.3%",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736670.shtml",
+        "publishedAt": "2026-11-23T21:20:47.000+08:00"
+      },
       {
         "title": "第二艘国产大型邮轮“爱达·花城号”商业首航抵达香港",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736666.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "今年10月欧盟油价同比增长近三成",
         "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736648.shtml",
         "publishedAt": "2026-11-23T21:07:38.000+08:00"
-      },
-      {
-        "title": "广西十年整治河湖“四乱”问题逾1.7万个 水生态环境质量稳定向好",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736669.shtml",
-        "publishedAt": "2026-11-23T21:04:54.000+08:00"
-      },
-      {
-        "title": "2026珠港澳大学生创业之星育苗计划在珠海结营",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736668.shtml",
-        "publishedAt": "2026-11-23T21:04:22.000+08:00"
-      },
-      {
-        "title": "老挝青年学者来津研修 聚焦人工智能与绿色发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736663.shtml",
-        "publishedAt": "2026-11-23T21:03:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T21:20:02.995+08:00",
+    "fetchedAt": "2026-11-23T21:30:03.377+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T21:20:06.575+08:00",
+      "fetchedAt": "2026-11-23T21:30:07.932+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T02:20:08.000+08:00"
+          "resetAt": "2026-11-24T02:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T21:20:06.842+08:00",
+      "fetchedAt": "2026-11-23T21:30:08.321+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T21:20:06.845+08:00",
+      "fetchedAt": "2026-11-23T21:30:08.331+08:00",
       "error": null
     }
   }
