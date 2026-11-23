@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T00:10:08.457+08:00",
+  "updatedAt": "2026-11-24T00:20:08.924+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
+    "description": "多云",
+    "iconKey": "cloudy",
     "tempC": 11.9,
-    "feelsLikeC": 10.9,
+    "feelsLikeC": 10.7,
     "humidity": 94,
-    "windKph": 8.9,
+    "windKph": 10,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T00:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T00:10:08.457+08:00",
+    "observedAt": "2026-11-24T00:15:00.000+08:00",
+    "fetchedAt": "2026-11-24T00:20:08.924+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“月租”酒店划不划算？先分清“安居”与“旅居”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736725.shtml",
+        "publishedAt": "2026-11-24T00:11:04.000+08:00"
+      },
       {
         "title": "英国曼彻斯特演唱会现不明物质 逾1.2万人被紧急疏散",
         "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736724.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "特朗普再次发文：“祝贺英伟达作出了一个在我看来绝对出色的决定”",
         "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736721.shtml",
         "publishedAt": "2026-11-23T23:10:43.000+08:00"
-      },
-      {
-        "title": "业内人士：AI智能体正成为高端手机出海竞争的新变量",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736712.shtml",
-        "publishedAt": "2026-11-23T23:10:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T00:10:03.359+08:00",
+    "fetchedAt": "2026-11-24T00:20:02.532+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T00:10:07.110+08:00",
+      "fetchedAt": "2026-11-24T00:20:07.463+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T05:10:08.000+08:00"
+          "resetAt": "2026-11-24T05:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T00:10:07.412+08:00",
+      "fetchedAt": "2026-11-24T00:20:07.774+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T00:10:07.422+08:00",
+      "fetchedAt": "2026-11-24T00:20:07.784+08:00",
       "error": null
     }
   }
