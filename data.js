@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T12:20:07.835+08:00",
+  "updatedAt": "2026-11-23T12:30:37.884+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.7,
-    "feelsLikeC": 14.5,
-    "humidity": 60,
-    "windKph": 4.3,
+    "tempC": 15.8,
+    "feelsLikeC": 14.6,
+    "humidity": 59,
+    "windKph": 4.2,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T12:20:07.835+08:00",
+    "observedAt": "2026-11-23T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T12:30:37.884+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "黎巴嫩总理和教育部长谴责以军闯入黎学校拍摄军事宣传视频",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736364.shtml",
+        "publishedAt": "2026-11-23T12:19:22.000+08:00"
+      },
       {
         "title": "我国牵头的摩托车及轻便摩托车信息与服务国际标准正式立项",
         "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736363.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "多所高校推出“一分钱早餐” 这样的激励方式收效如何？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736359.shtml",
         "publishedAt": "2026-11-23T11:52:44.000+08:00"
-      },
-      {
-        "title": "江西赣南红土记：金融活水润出产业新芽",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736355.shtml",
-        "publishedAt": "2026-11-23T11:52:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T12:20:02.586+08:00",
+    "fetchedAt": "2026-11-23T12:30:02.543+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T12:20:06.576+08:00",
+      "fetchedAt": "2026-11-23T12:30:36.487+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T12:20:06.799+08:00",
+      "fetchedAt": "2026-11-23T12:30:36.733+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T12:20:06.803+08:00",
+      "fetchedAt": "2026-11-23T12:30:36.743+08:00",
       "error": null
     }
   }
