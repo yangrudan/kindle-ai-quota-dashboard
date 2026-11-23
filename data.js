@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T18:20:08.058+08:00",
+  "updatedAt": "2026-11-23T18:30:08.517+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13,
-    "feelsLikeC": 13,
-    "humidity": 91,
-    "windKph": 2.7,
-    "windDir": "西南风",
+    "tempC": 12.9,
+    "feelsLikeC": 12.9,
+    "humidity": 92,
+    "windKph": 3.3,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T18:20:08.058+08:00",
+    "observedAt": "2026-11-23T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T18:30:08.517+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "住建部公布四起瓶装液化石油气领域典型执法案例",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736576.shtml",
+        "publishedAt": "2026-11-23T18:19:21.000+08:00"
+      },
       {
         "title": "奋志越山海 群英起乌蒙——民革中央、中华职教社人才领域组团式帮扶毕节纪实",
         "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736572.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "扛牢帮扶责任 同心共育英才——民革中央统筹推动人才领域组团式帮扶毕节工作",
         "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736571.shtml",
         "publishedAt": "2026-11-23T18:04:54.000+08:00"
-      },
-      {
-        "title": "中国足协发布《红图计划》 统一青少年足球培养理念",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736568.shtml",
-        "publishedAt": "2026-11-23T18:01:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T18:20:02.427+08:00",
+    "fetchedAt": "2026-11-23T18:30:03.162+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T18:20:06.444+08:00",
+      "fetchedAt": "2026-11-23T18:30:07.250+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T18:20:06.730+08:00",
+      "fetchedAt": "2026-11-23T18:30:07.512+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T18:20:06.738+08:00",
+      "fetchedAt": "2026-11-23T18:30:07.522+08:00",
       "error": null
     }
   }
