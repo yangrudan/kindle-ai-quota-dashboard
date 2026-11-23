@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T19:30:19.163+08:00",
+  "updatedAt": "2026-11-23T19:40:09.433+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.6,
-    "feelsLikeC": 12.5,
+    "tempC": 12.5,
+    "feelsLikeC": 12.4,
     "humidity": 95,
-    "windKph": 4.6,
-    "windDir": "南风",
+    "windKph": 4.1,
+    "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T19:30:19.163+08:00",
+    "observedAt": "2026-11-23T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T19:40:09.433+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "文化观察：什么是中国具象表现绘画？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736602.shtml",
+        "publishedAt": "2026-11-23T19:36:03.000+08:00"
+      },
+      {
+        "title": "北京丰台集中发布9处优质公园资源 邀各类市场主体激发绿色发展活力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736600.shtml",
+        "publishedAt": "2026-11-23T19:30:39.000+08:00"
+      },
+      {
+        "title": "中国官方：至2030年培训非遗传承人不少于1万人次",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736597.shtml",
+        "publishedAt": "2026-11-23T19:29:39.000+08:00"
+      },
       {
         "title": "18名外籍人士浙江嘉兴共话“第二故乡”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736601.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "发展新质生产力地方实践丨一城多面，北京向“新”生长",
         "url": "http://www.chinanews.com.cn/cj/shipin/2026/11-23/news1075791.shtml",
         "publishedAt": "2026-11-23T19:14:49.000+08:00"
-      },
-      {
-        "title": "韩国综合股价指数下跌逾3%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736556.shtml",
-        "publishedAt": "2026-11-23T19:11:12.000+08:00"
-      },
-      {
-        "title": "马来西亚政府官员基础汉语课程42名学员结业",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736540.shtml",
-        "publishedAt": "2026-11-23T19:10:28.000+08:00"
-      },
-      {
-        "title": "中国发起成立的世界无线局域网应用发展联盟获国际认可",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736594.shtml",
-        "publishedAt": "2026-11-23T19:10:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T19:30:12.655+08:00",
+    "fetchedAt": "2026-11-23T19:40:03.302+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T19:30:17.364+08:00",
+      "fetchedAt": "2026-11-23T19:40:07.780+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T19:30:17.685+08:00",
+      "fetchedAt": "2026-11-23T19:40:08.022+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T19:30:17.691+08:00",
+      "fetchedAt": "2026-11-23T19:40:08.031+08:00",
       "error": null
     }
   }
