@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T22:30:42.875+08:00",
+  "updatedAt": "2026-11-23T22:40:08.811+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-23T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T22:30:42.876+08:00",
+    "fetchedAt": "2026-11-23T22:40:08.811+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "英伟达董事会一致通过黄仁勋复职：恢复总裁兼CEO职务，相关调查仍将继续",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736707.shtml",
+        "publishedAt": "2026-11-23T22:28:47.000+08:00"
+      },
+      {
+        "title": "国务院台办与中国进出口银行签署合作协议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736705.shtml",
+        "publishedAt": "2026-11-23T22:22:02.000+08:00"
+      },
       {
         "title": "尼泊尔“菏泽牡丹园”揭牌",
         "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736702.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "黄仁勋重新出任英伟达CEO",
         "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736703.shtml",
         "publishedAt": "2026-11-23T22:06:37.000+08:00"
-      },
-      {
-        "title": "浙江织密校园安全网 配备6668名公安法治副校长",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736701.shtml",
-        "publishedAt": "2026-11-23T22:02:47.000+08:00"
-      },
-      {
-        "title": "政策性金融解台企发展之“渴” 台商期待借力拓展海外市场",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736698.shtml",
-        "publishedAt": "2026-11-23T22:02:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T22:30:03.007+08:00",
+    "fetchedAt": "2026-11-23T22:40:02.678+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T22:30:41.540+08:00",
+      "fetchedAt": "2026-11-23T22:40:07.534+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T03:30:42.000+08:00"
+          "resetAt": "2026-11-24T03:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T22:30:41.749+08:00",
+      "fetchedAt": "2026-11-23T22:40:07.851+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T22:30:41.756+08:00",
+      "fetchedAt": "2026-11-23T22:40:07.861+08:00",
       "error": null
     }
   }
