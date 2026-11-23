@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T14:20:09.230+08:00",
+  "updatedAt": "2026-11-23T14:30:37.057+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.3,
-    "feelsLikeC": 15.4,
+    "tempC": 16.4,
+    "feelsLikeC": 15.5,
     "humidity": 59,
-    "windKph": 3.2,
-    "windDir": "西南风",
+    "windKph": 3,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-23T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T14:20:09.230+08:00",
+    "observedAt": "2026-11-23T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T14:30:37.057+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本报告本轮禽流感季第三起高致病性禽流感疫情",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736419.shtml",
+        "publishedAt": "2026-11-23T14:22:34.000+08:00"
+      },
+      {
+        "title": "浙江一项公益赛事，何以走过十六载？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736410.shtml",
+        "publishedAt": "2026-11-23T14:13:10.000+08:00"
+      },
       {
         "title": "中国证券金紫荆奖等19个奖项获奖名单在港公布",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736406.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国科研团队提出量子电网仿真新方法",
         "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736407.shtml",
         "publishedAt": "2026-11-23T14:10:32.000+08:00"
-      },
-      {
-        "title": "新疆油田提前完成全年天然气输配任务",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736404.shtml",
-        "publishedAt": "2026-11-23T14:09:40.000+08:00"
-      },
-      {
-        "title": "泰州返乡青年传承非遗技艺：市井烟火长 早茶包子香",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736398.shtml",
-        "publishedAt": "2026-11-23T14:08:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T14:20:03.194+08:00",
+    "fetchedAt": "2026-11-23T14:30:02.263+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T14:20:07.548+08:00",
+      "fetchedAt": "2026-11-23T14:30:35.729+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T14:20:07.794+08:00",
+      "fetchedAt": "2026-11-23T14:30:35.872+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T14:20:07.803+08:00",
+      "fetchedAt": "2026-11-23T14:30:35.882+08:00",
       "error": null
     }
   }
