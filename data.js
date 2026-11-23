@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T17:50:08.017+08:00",
+  "updatedAt": "2026-11-23T18:00:09.377+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.2,
+    "tempC": 13.1,
     "feelsLikeC": 13.1,
-    "humidity": 88,
-    "windKph": 2.9,
-    "windDir": "西风",
+    "humidity": 90,
+    "windKph": 2.6,
+    "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-23T17:50:08.018+08:00",
+    "observedAt": "2026-11-23T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-23T18:00:09.377+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "AI创作者收入怎么计税？数字人主播的收入又该归谁纳税？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736567.shtml",
+        "publishedAt": "2026-11-23T17:49:58.000+08:00"
+      },
+      {
+        "title": "三峡库区：小雪时节垄头忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736539.shtml",
+        "publishedAt": "2026-11-23T17:49:11.000+08:00"
+      },
+      {
+        "title": "“中国食用菌之乡”河北肥乡：小蘑菇畅销海内外",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736544.shtml",
+        "publishedAt": "2026-11-23T17:47:53.000+08:00"
+      },
+      {
+        "title": "动画电影《凤凰与我》新片推介：构建东方奇幻世界",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736547.shtml",
+        "publishedAt": "2026-11-23T17:45:19.000+08:00"
+      },
+      {
         "title": "平台内严肃拒绝 私下里积极接单 AI仿冒名人带货缘何屡禁不止？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736564.shtml",
         "publishedAt": "2026-11-23T17:43:01.000+08:00"
-      },
-      {
-        "title": "大连市沙河口区举办“科创大连·智汇低空”交流座谈会",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736558.shtml",
-        "publishedAt": "2026-11-23T17:41:15.000+08:00"
-      },
-      {
-        "title": "千名学子逐野竞速 2026年全国大学生定向锦标赛在江西安远开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736560.shtml",
-        "publishedAt": "2026-11-23T17:40:41.000+08:00"
-      },
-      {
-        "title": "三连超级月亮要来了！全国赏月指数地图出炉 看哪里将上演皓月当空",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736559.shtml",
-        "publishedAt": "2026-11-23T17:38:29.000+08:00"
-      },
-      {
-        "title": "千余项审批不出园 沈阳“七彩政务”跑出惠企加速度",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736543.shtml",
-        "publishedAt": "2026-11-23T17:35:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T17:50:02.909+08:00",
+    "fetchedAt": "2026-11-23T18:00:03.015+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T17:50:06.843+08:00",
+      "fetchedAt": "2026-11-23T18:00:07.434+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T17:50:06.990+08:00",
+      "fetchedAt": "2026-11-23T18:00:07.579+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T17:50:06.999+08:00",
+      "fetchedAt": "2026-11-23T18:00:07.585+08:00",
       "error": null
     }
   }
