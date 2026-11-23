@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T14:40:09.655+08:00",
+  "updatedAt": "2026-11-23T14:50:08.532+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.4,
-    "feelsLikeC": 15.5,
+    "tempC": 16.5,
+    "feelsLikeC": 15.6,
     "humidity": 59,
-    "windKph": 3,
+    "windKph": 3.1,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-23T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T14:40:09.655+08:00",
+    "observedAt": "2026-11-23T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T14:50:08.532+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "7天2万元，景区“神仙工作”买的是服务还是“热搜”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736422.shtml",
+        "publishedAt": "2026-11-23T14:43:36.000+08:00"
+      },
+      {
+        "title": "信息窗口乱跳转、无法关闭 工信部通报23款APP及SDK",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736373.shtml",
+        "publishedAt": "2026-11-23T14:40:37.000+08:00"
+      },
       {
         "title": "辽宁省财政精准赋能 筑牢公共卫生应急屏障",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736418.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "小雪时节探访河南登封观星台",
         "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736402.shtml",
         "publishedAt": "2026-11-23T14:36:17.000+08:00"
-      },
-      {
-        "title": "广西下达中央水库移民扶持基金移民补助资金11.07亿元 184万人受益",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736401.shtml",
-        "publishedAt": "2026-11-23T14:35:11.000+08:00"
-      },
-      {
-        "title": "藏北野保员次成塔青：动物不会说话，我为它们发言",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736414.shtml",
-        "publishedAt": "2026-11-23T14:35:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T14:40:03.086+08:00",
+    "fetchedAt": "2026-11-23T14:50:02.669+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T14:40:08.165+08:00",
+      "fetchedAt": "2026-11-23T14:50:07.026+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T19:40:09.000+08:00"
+          "resetAt": "2026-11-23T19:47:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T14:40:08.304+08:00",
+      "fetchedAt": "2026-11-23T14:50:07.155+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T14:40:08.314+08:00",
+      "fetchedAt": "2026-11-23T14:50:07.162+08:00",
       "error": null
     }
   }
