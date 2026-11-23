@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T21:10:09.066+08:00",
+  "updatedAt": "2026-11-23T21:20:08.408+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 12.5,
-    "feelsLikeC": 11.8,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 12.2,
+    "feelsLikeC": 11.2,
     "humidity": 93,
-    "windKph": 7.6,
+    "windKph": 8.7,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-23T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T21:10:09.067+08:00",
+    "observedAt": "2026-11-23T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T21:20:08.408+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第二艘国产大型邮轮“爱达·花城号”商业首航抵达香港",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736666.shtml",
+        "publishedAt": "2026-11-23T21:10:22.000+08:00"
+      },
+      {
+        "title": "今年10月欧盟油价同比增长近三成",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736648.shtml",
+        "publishedAt": "2026-11-23T21:07:38.000+08:00"
+      },
       {
         "title": "广西十年整治河湖“四乱”问题逾1.7万个 水生态环境质量稳定向好",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736669.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "老挝青年学者来津研修 聚焦人工智能与绿色发展",
         "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736663.shtml",
         "publishedAt": "2026-11-23T21:03:38.000+08:00"
-      },
-      {
-        "title": "从“捐钱”到“捐能力”：首届深圳科技公益大会展现能力型公益",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736662.shtml",
-        "publishedAt": "2026-11-23T21:02:46.000+08:00"
-      },
-      {
-        "title": "书香河南第五届全民阅读大会将在漯河举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736661.shtml",
-        "publishedAt": "2026-11-23T21:01:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T21:10:02.982+08:00",
+    "fetchedAt": "2026-11-23T21:20:02.995+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T21:10:07.447+08:00",
+      "fetchedAt": "2026-11-23T21:20:06.575+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T02:10:09.000+08:00"
+          "resetAt": "2026-11-24T02:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T21:10:07.685+08:00",
+      "fetchedAt": "2026-11-23T21:20:06.842+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T21:10:07.694+08:00",
+      "fetchedAt": "2026-11-23T21:20:06.845+08:00",
       "error": null
     }
   }
