@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T17:30:08.931+08:00",
+  "updatedAt": "2026-11-23T17:40:47.995+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-23T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T17:30:08.931+08:00",
+    "fetchedAt": "2026-11-23T17:40:47.996+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "呼和浩特冬季文旅推介走进广深拓展大湾区市场",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736545.shtml",
+        "publishedAt": "2026-11-23T17:33:59.000+08:00"
+      },
+      {
+        "title": "菊花展亮相广西南宁 民众在山水间赏菊韵",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736538.shtml",
+        "publishedAt": "2026-11-23T17:33:17.000+08:00"
+      },
+      {
+        "title": "第35届中国茶业科技年会暨第3届茶文化年会在广西贺州举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736542.shtml",
+        "publishedAt": "2026-11-23T17:33:09.000+08:00"
+      },
+      {
+        "title": "天津：警综融合内外联动 巧解群众 “千千结”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736537.shtml",
+        "publishedAt": "2026-11-23T17:24:58.000+08:00"
+      },
+      {
         "title": "2026年全国羽毛球传统学校比赛（高校组）在渝开赛",
         "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736525.shtml",
         "publishedAt": "2026-11-23T17:21:32.000+08:00"
-      },
-      {
-        "title": "湖北组建博士后创新联合体 赋能前沿产业攻关",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736524.shtml",
-        "publishedAt": "2026-11-23T17:20:02.000+08:00"
-      },
-      {
-        "title": "北京计划到2030年城市更新年度投资达3000亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736523.shtml",
-        "publishedAt": "2026-11-23T17:10:33.000+08:00"
-      },
-      {
-        "title": "“齐齐哈尔滨·冰雪双城记”文旅推介会在哈尔滨举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736521.shtml",
-        "publishedAt": "2026-11-23T17:09:07.000+08:00"
-      },
-      {
-        "title": "广西贵港打造“运动之城” 体旅产融合激活山水动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736520.shtml",
-        "publishedAt": "2026-11-23T17:08:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T17:30:02.745+08:00",
+    "fetchedAt": "2026-11-23T17:40:12.850+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T17:30:07.374+08:00",
+      "fetchedAt": "2026-11-23T17:40:46.760+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T17:30:07.615+08:00",
+      "fetchedAt": "2026-11-23T17:40:46.974+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T17:30:07.620+08:00",
+      "fetchedAt": "2026-11-23T17:40:46.984+08:00",
       "error": null
     }
   }
