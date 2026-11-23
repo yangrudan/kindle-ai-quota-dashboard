@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T14:30:37.057+08:00",
+  "updatedAt": "2026-11-23T14:40:09.655+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-23T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T14:30:37.057+08:00",
+    "fetchedAt": "2026-11-23T14:40:09.655+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本报告本轮禽流感季第三起高致病性禽流感疫情",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736419.shtml",
-        "publishedAt": "2026-11-23T14:22:34.000+08:00"
+        "title": "辽宁省财政精准赋能 筑牢公共卫生应急屏障",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736418.shtml",
+        "publishedAt": "2026-11-23T14:37:07.000+08:00"
       },
       {
-        "title": "浙江一项公益赛事，何以走过十六载？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736410.shtml",
-        "publishedAt": "2026-11-23T14:13:10.000+08:00"
+        "title": "留村土窑洞里的红军东征记忆",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736413.shtml",
+        "publishedAt": "2026-11-23T14:36:41.000+08:00"
       },
       {
-        "title": "中国证券金紫荆奖等19个奖项获奖名单在港公布",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736406.shtml",
-        "publishedAt": "2026-11-23T14:12:04.000+08:00"
+        "title": "小雪时节探访河南登封观星台",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736402.shtml",
+        "publishedAt": "2026-11-23T14:36:17.000+08:00"
       },
       {
-        "title": "甘肃欧美同学会“聚才兴陇”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736399.shtml",
-        "publishedAt": "2026-11-23T14:11:22.000+08:00"
+        "title": "广西下达中央水库移民扶持基金移民补助资金11.07亿元 184万人受益",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736401.shtml",
+        "publishedAt": "2026-11-23T14:35:11.000+08:00"
       },
       {
-        "title": "中国科研团队提出量子电网仿真新方法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736407.shtml",
-        "publishedAt": "2026-11-23T14:10:32.000+08:00"
+        "title": "藏北野保员次成塔青：动物不会说话，我为它们发言",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736414.shtml",
+        "publishedAt": "2026-11-23T14:35:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T14:30:02.263+08:00",
+    "fetchedAt": "2026-11-23T14:40:03.086+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T14:30:35.729+08:00",
+      "fetchedAt": "2026-11-23T14:40:08.165+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 96,
-          "resetAt": "2026-11-23T14:32:02.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-23T19:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T14:30:35.872+08:00",
+      "fetchedAt": "2026-11-23T14:40:08.304+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T14:30:35.882+08:00",
+      "fetchedAt": "2026-11-23T14:40:08.314+08:00",
       "error": null
     }
   }
