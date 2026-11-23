@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T21:50:09.010+08:00",
+  "updatedAt": "2026-11-23T22:00:08.881+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 12.1,
+    "tempC": 12,
     "feelsLikeC": 11.3,
-    "humidity": 93,
-    "windKph": 7.2,
+    "humidity": 94,
+    "windKph": 6.9,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-23T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-23T21:50:09.010+08:00",
+    "observedAt": "2026-11-23T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-23T22:00:08.881+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西安光机所在太赫兹数字全息成像领域取得系列进展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736674.shtml",
-        "publishedAt": "2026-11-23T21:47:06.000+08:00"
+        "title": "王兴兴担任杭州市新生代企业家联谊会会长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736687.shtml",
+        "publishedAt": "2026-11-23T21:56:39.000+08:00"
       },
       {
-        "title": "粤科通·科技成果直通车服务平台发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736673.shtml",
-        "publishedAt": "2026-11-23T21:47:04.000+08:00"
+        "title": "地球系统智能科研平台“ZHU·GE”在雄安推出",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736692.shtml",
+        "publishedAt": "2026-11-23T21:56:37.000+08:00"
       },
       {
-        "title": "哈尔滨今年上半年数字经济核心产业营收同比增长21.2%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736672.shtml",
-        "publishedAt": "2026-11-23T21:45:14.000+08:00"
+        "title": "2026中国网球巡回赛香港站预选赛维园开拍",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736689.shtml",
+        "publishedAt": "2026-11-23T21:55:59.000+08:00"
       },
       {
-        "title": "“寿而康——国医大师邓铁涛的养生智慧展”在广州开展",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736665.shtml",
-        "publishedAt": "2026-11-23T21:37:40.000+08:00"
+        "title": "珠中江三地携手在珠海机场举办文化艺术季活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736681.shtml",
+        "publishedAt": "2026-11-23T21:55:27.000+08:00"
       },
       {
-        "title": "第五届琶洲算法大赛具身机器人场景应用大赛决赛在广州举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736664.shtml",
-        "publishedAt": "2026-11-23T21:36:44.000+08:00"
+        "title": "粤北韶关小菌菇“撑”起大场面",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736680.shtml",
+        "publishedAt": "2026-11-23T21:54:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T21:50:02.907+08:00",
+    "fetchedAt": "2026-11-23T22:00:02.967+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T21:50:07.782+08:00",
+      "fetchedAt": "2026-11-23T22:00:07.120+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T02:50:08.000+08:00"
+          "resetAt": "2026-11-24T03:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T21:50:08.066+08:00",
+      "fetchedAt": "2026-11-23T22:00:07.370+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T21:50:08.072+08:00",
+      "fetchedAt": "2026-11-23T22:00:07.375+08:00",
       "error": null
     }
   }
