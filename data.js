@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T11:40:08.262+08:00",
+  "updatedAt": "2026-11-23T11:50:09.505+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 15.4,
     "feelsLikeC": 14.2,
     "humidity": 61,
-    "windKph": 4.2,
+    "windKph": 4.3,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T11:40:08.262+08:00",
+    "observedAt": "2026-11-23T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T11:50:09.505+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "何以中国 | 在西安，连路灯都会背唐诗",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736280.shtml",
-        "publishedAt": "2026-11-23T11:32:55.000+08:00"
+        "title": "马奎斯提前加冕2026赛季MotoGP世界冠军",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211449.shtml",
+        "publishedAt": "2026-11-23T11:42:57.000+08:00"
       },
       {
-        "title": "一个月内连发三起险情 高原旅行遇高反怎么办",
-        "url": "https://www.chinanews.com.cn/life/2026/11-23/10736354.shtml",
-        "publishedAt": "2026-11-23T11:32:19.000+08:00"
+        "title": "泽连斯基敦促美国提供“爱国者”导弹 乌军一周袭击俄8处石油设施",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736321.shtml",
+        "publishedAt": "2026-11-23T11:42:28.000+08:00"
       },
       {
-        "title": "中国海军多型舰机将亮相第十六届中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736351.shtml",
-        "publishedAt": "2026-11-23T11:28:37.000+08:00"
+        "title": "新疆多地陆续公布2026年雪（秋）假时间",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736356.shtml",
+        "publishedAt": "2026-11-23T11:41:52.000+08:00"
       },
       {
-        "title": "加快“补课”，谁是中部大省“第二枢纽”？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736345.shtml",
-        "publishedAt": "2026-11-23T11:18:20.000+08:00"
+        "title": "中国代表团出席联合国气候变化安塔利亚大会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736349.shtml",
+        "publishedAt": "2026-11-23T11:37:17.000+08:00"
       },
       {
-        "title": "断航近半个世纪，湖南这条“黄金水道”为何重启？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736344.shtml",
-        "publishedAt": "2026-11-23T11:12:06.000+08:00"
+        "title": "国家卫健委：动物双歧杆菌乳亚种CP-9等22种物质纳入“三新食品”",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-23/10736339.shtml",
+        "publishedAt": "2026-11-23T11:35:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T11:40:02.736+08:00",
+    "fetchedAt": "2026-11-23T11:50:03.274+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T11:40:06.799+08:00",
+      "fetchedAt": "2026-11-23T11:50:07.652+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T11:40:07.095+08:00",
+      "fetchedAt": "2026-11-23T11:50:07.902+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T11:40:07.104+08:00",
+      "fetchedAt": "2026-11-23T11:50:07.909+08:00",
       "error": null
     }
   }
