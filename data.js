@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T11:00:08.678+08:00",
+  "updatedAt": "2026-11-23T11:10:07.838+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-23T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T11:00:08.678+08:00",
+    "fetchedAt": "2026-11-23T11:10:07.838+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "锐度·厚度·高度——从三个维度看广东加速从制造大省迈向制造强省",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736334.shtml",
-        "publishedAt": "2026-11-23T10:51:29.000+08:00"
+        "title": "解码先进制造：一枚CT部件如何打破国外垄断？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736341.shtml",
+        "publishedAt": "2026-11-23T11:02:10.000+08:00"
       },
       {
-        "title": "西班牙网球名将阿尔卡拉斯首夺ATP年终总决赛冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736322.shtml",
-        "publishedAt": "2026-11-23T10:46:39.000+08:00"
+        "title": "吉林省工商联全力推动民营企业治理现代化",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736335.shtml",
+        "publishedAt": "2026-11-23T11:01:08.000+08:00"
       },
       {
-        "title": "2026年“湖北九三科创讲坛”在汉举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736329.shtml",
-        "publishedAt": "2026-11-23T10:45:55.000+08:00"
+        "title": "小手套做成大产业 滑雪装备如何释放冰雪经济乘数效应",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736340.shtml",
+        "publishedAt": "2026-11-23T10:59:45.000+08:00"
       },
       {
-        "title": "AI时代 我们需要什么样的科研人才",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736331.shtml",
-        "publishedAt": "2026-11-23T10:44:53.000+08:00"
+        "title": "福州：村景如画 人在画中游",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736327.shtml",
+        "publishedAt": "2026-11-23T10:59:05.000+08:00"
       },
       {
-        "title": "电子商务助力经济向新向优",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736330.shtml",
-        "publishedAt": "2026-11-23T10:41:12.000+08:00"
+        "title": "首批主动ETF在沪深交易所上市",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736338.shtml",
+        "publishedAt": "2026-11-23T10:57:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T11:00:02.657+08:00",
+    "fetchedAt": "2026-11-23T11:10:02.717+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T11:00:06.937+08:00",
+      "fetchedAt": "2026-11-23T11:10:06.105+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T11:00:07.423+08:00",
+      "fetchedAt": "2026-11-23T11:10:06.581+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T11:00:07.427+08:00",
+      "fetchedAt": "2026-11-23T11:10:06.589+08:00",
       "error": null
     }
   }
