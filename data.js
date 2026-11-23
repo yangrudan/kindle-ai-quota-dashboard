@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T07:10:37.357+08:00",
+  "updatedAt": "2026-11-24T07:20:07.806+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.2,
-    "feelsLikeC": 5.1,
-    "humidity": 76,
-    "windKph": 11.4,
+    "tempC": 8.3,
+    "feelsLikeC": 5.3,
+    "humidity": 74,
+    "windKph": 11.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T07:10:37.357+08:00",
+    "observedAt": "2026-11-24T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-24T07:20:07.806+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外媒：以军空袭加沙致3死 其中含1名联合国工作人员",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736730.shtml",
+        "publishedAt": "2026-11-24T07:11:43.000+08:00"
+      },
       {
         "title": "11月24日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10736729.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "英伟达恢复黄仁勋总裁、CEO及董事职务",
         "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736726.shtml",
         "publishedAt": "2026-11-24T00:17:37.000+08:00"
-      },
-      {
-        "title": "“月租”酒店划不划算？先分清“安居”与“旅居”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736725.shtml",
-        "publishedAt": "2026-11-24T00:11:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T07:10:02.571+08:00",
+    "fetchedAt": "2026-11-24T07:20:02.752+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T07:10:36.168+08:00",
+      "fetchedAt": "2026-11-24T07:20:06.339+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T12:10:37.000+08:00"
+          "resetAt": "2026-11-24T12:20:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T07:10:36.395+08:00",
+      "fetchedAt": "2026-11-24T07:20:06.671+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T07:10:36.403+08:00",
+      "fetchedAt": "2026-11-24T07:20:06.682+08:00",
       "error": null
     }
   }
