@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T17:20:07.769+08:00",
+  "updatedAt": "2026-11-23T17:30:08.931+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.3,
-    "feelsLikeC": 12.9,
-    "humidity": 85,
-    "windKph": 4.3,
+    "tempC": 13.2,
+    "feelsLikeC": 13,
+    "humidity": 87,
+    "windKph": 3.6,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-23T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T17:20:07.769+08:00",
+    "observedAt": "2026-11-23T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T17:30:08.931+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年全国羽毛球传统学校比赛（高校组）在渝开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736525.shtml",
+        "publishedAt": "2026-11-23T17:21:32.000+08:00"
+      },
+      {
+        "title": "湖北组建博士后创新联合体 赋能前沿产业攻关",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736524.shtml",
+        "publishedAt": "2026-11-23T17:20:02.000+08:00"
+      },
       {
         "title": "北京计划到2030年城市更新年度投资达3000亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736523.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "广西贵港打造“运动之城” 体旅产融合激活山水动能",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736520.shtml",
         "publishedAt": "2026-11-23T17:08:01.000+08:00"
-      },
-      {
-        "title": "海南省公安厅原党委委员、副厅长董长青被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736531.shtml",
-        "publishedAt": "2026-11-23T17:07:57.000+08:00"
-      },
-      {
-        "title": "印度贾坎德邦拟建煤矿项目遭居民抗议 12名警察受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736532.shtml",
-        "publishedAt": "2026-11-23T17:07:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T17:20:02.471+08:00",
+    "fetchedAt": "2026-11-23T17:30:02.745+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T17:20:06.289+08:00",
+      "fetchedAt": "2026-11-23T17:30:07.374+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T17:20:06.621+08:00",
+      "fetchedAt": "2026-11-23T17:30:07.615+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T17:20:06.629+08:00",
+      "fetchedAt": "2026-11-23T17:30:07.620+08:00",
       "error": null
     }
   }
