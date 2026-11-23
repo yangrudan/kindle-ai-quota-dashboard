@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T13:10:38.053+08:00",
+  "updatedAt": "2026-11-23T13:20:08.241+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.1,
-    "feelsLikeC": 14.9,
-    "humidity": 58,
-    "windKph": 4.1,
+    "feelsLikeC": 15,
+    "humidity": 59,
+    "windKph": 3.9,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T13:10:38.053+08:00",
+    "observedAt": "2026-11-23T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T13:20:08.241+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "129万元一支的抗癌药进医保，怎么做到的？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736376.shtml",
+        "publishedAt": "2026-11-23T13:15:27.000+08:00"
+      },
+      {
+        "title": "金价十连跌 抢金潮再现",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736374.shtml",
+        "publishedAt": "2026-11-23T13:12:17.000+08:00"
+      },
+      {
+        "title": "从“拉人来”到“接消费” 入境游迈向增量期",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736372.shtml",
+        "publishedAt": "2026-11-23T13:10:16.000+08:00"
+      },
       {
         "title": "“爱达·花城号”正式商业首航 票价到底贵不贵？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736368.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国最高法、中国侨联发布侨益司法保护典型案例",
         "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736367.shtml",
         "publishedAt": "2026-11-23T12:38:05.000+08:00"
-      },
-      {
-        "title": "涉百年历史侨房归属、侨企合法权益保护等，最高法、中国侨联联合发布典型案例",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736365.shtml",
-        "publishedAt": "2026-11-23T12:37:11.000+08:00"
-      },
-      {
-        "title": "黎巴嫩总理和教育部长谴责以军闯入黎学校拍摄军事宣传视频",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736364.shtml",
-        "publishedAt": "2026-11-23T12:19:22.000+08:00"
-      },
-      {
-        "title": "我国牵头的摩托车及轻便摩托车信息与服务国际标准正式立项",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736363.shtml",
-        "publishedAt": "2026-11-23T12:13:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T13:10:02.899+08:00",
+    "fetchedAt": "2026-11-23T13:20:03.540+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T13:10:36.410+08:00",
+      "fetchedAt": "2026-11-23T13:20:07.058+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T13:10:36.676+08:00",
+      "fetchedAt": "2026-11-23T13:20:07.353+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T13:10:36.685+08:00",
+      "fetchedAt": "2026-11-23T13:20:07.357+08:00",
       "error": null
     }
   }
