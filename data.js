@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T18:10:07.530+08:00",
+  "updatedAt": "2026-11-23T18:20:08.058+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 13.1,
-    "feelsLikeC": 13.1,
-    "humidity": 90,
-    "windKph": 2.6,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 13,
+    "feelsLikeC": 13,
+    "humidity": 91,
+    "windKph": 2.7,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T18:10:07.530+08:00",
+    "observedAt": "2026-11-23T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T18:20:08.058+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "奋志越山海 群英起乌蒙——民革中央、中华职教社人才领域组团式帮扶毕节纪实",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736572.shtml",
+        "publishedAt": "2026-11-23T18:09:23.000+08:00"
+      },
+      {
+        "title": "北京市生态环境保护营商竞争力综合指数连续四年蝉联全国第一",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736570.shtml",
+        "publishedAt": "2026-11-23T18:06:50.000+08:00"
+      },
       {
         "title": "160幅华侨华人艺术家书画作品亮相江西纪念孙中山",
         "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736569.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国足协发布《红图计划》 统一青少年足球培养理念",
         "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736568.shtml",
         "publishedAt": "2026-11-23T18:01:46.000+08:00"
-      },
-      {
-        "title": "第二艘国产大型邮轮“爱达·花城号”商业首航首站抵达香港",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736563.shtml",
-        "publishedAt": "2026-11-23T17:59:24.000+08:00"
-      },
-      {
-        "title": "青闽产销对接暨“青海家宴”饗在福建活动举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736561.shtml",
-        "publishedAt": "2026-11-23T17:58:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T18:10:02.421+08:00",
+    "fetchedAt": "2026-11-23T18:20:02.427+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T18:10:06.235+08:00",
+      "fetchedAt": "2026-11-23T18:20:06.444+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T18:10:06.473+08:00",
+      "fetchedAt": "2026-11-23T18:20:06.730+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T18:10:06.480+08:00",
+      "fetchedAt": "2026-11-23T18:20:06.738+08:00",
       "error": null
     }
   }
