@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T09:20:08.417+08:00",
+  "updatedAt": "2026-11-23T09:30:09.903+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.1,
-    "feelsLikeC": 11.5,
-    "humidity": 66,
-    "windKph": 5.6,
-    "windDir": "西南风",
+    "tempC": 13.6,
+    "feelsLikeC": 12.1,
+    "humidity": 65,
+    "windKph": 4.8,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T09:20:08.418+08:00",
+    "observedAt": "2026-11-23T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T09:30:09.903+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "黄金跌跌不休，何时反弹？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736253.shtml",
-        "publishedAt": "2026-11-23T09:12:18.000+08:00"
+        "title": "当年轻人用“生活品质”选城市",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736256.shtml",
+        "publishedAt": "2026-11-23T09:21:20.000+08:00"
       },
       {
-        "title": "中央政府驻港联络办发言人：优中选优展现新气象，选贤任能开创新局面",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736249.shtml",
-        "publishedAt": "2026-11-23T09:10:00.000+08:00"
+        "title": "包容性：被低估的城市竞争力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736255.shtml",
+        "publishedAt": "2026-11-23T09:15:56.000+08:00"
       },
       {
-        "title": "冷空气东移南下 大风降温影响中东部地区",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736248.shtml",
-        "publishedAt": "2026-11-23T09:06:49.000+08:00"
+        "title": "中国农业发展银行董事会办公室原主任张俊强被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736252.shtml",
+        "publishedAt": "2026-11-23T09:15:26.000+08:00"
       },
       {
-        "title": "南方降水短暂发展增强气温下降 北方大部天气晴朗气温偏高",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736247.shtml",
-        "publishedAt": "2026-11-23T09:00:17.000+08:00"
+        "title": "上高县开展无党派人士“双走访”活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736254.shtml",
+        "publishedAt": "2026-11-23T09:14:38.000+08:00"
       },
       {
-        "title": "山西芮城：天鹅翩跹 游弋圣天湖",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211414.shtml",
-        "publishedAt": "2026-11-23T08:53:25.000+08:00"
+        "title": "新疆维吾尔自治区乌鲁木齐市人大常委会原党组副书记、主任阿不都热依木·阿不力孜被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736250.shtml",
+        "publishedAt": "2026-11-23T09:14:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T09:20:02.960+08:00",
+    "fetchedAt": "2026-11-23T09:30:02.710+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T09:20:06.848+08:00",
+      "fetchedAt": "2026-11-23T09:30:08.149+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T14:20:08.000+08:00"
+          "resetAt": "2026-11-23T14:30:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T09:20:07.171+08:00",
+      "fetchedAt": "2026-11-23T09:30:08.395+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T09:20:07.180+08:00",
+      "fetchedAt": "2026-11-23T09:30:08.404+08:00",
       "error": null
     }
   }
