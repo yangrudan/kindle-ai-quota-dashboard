@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T19:20:08.324+08:00",
+  "updatedAt": "2026-11-23T19:30:19.163+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-23T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T19:20:08.324+08:00",
+    "fetchedAt": "2026-11-23T19:30:19.163+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "18名外籍人士浙江嘉兴共话“第二故乡”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736601.shtml",
+        "publishedAt": "2026-11-23T19:26:13.000+08:00"
+      },
+      {
+        "title": "发展新质生产力地方实践丨一城多面，北京向“新”生长",
+        "url": "http://www.chinanews.com.cn/cj/shipin/2026/11-23/news1075791.shtml",
+        "publishedAt": "2026-11-23T19:14:49.000+08:00"
+      },
       {
         "title": "韩国综合股价指数下跌逾3%",
         "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736556.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国发起成立的世界无线局域网应用发展联盟获国际认可",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736594.shtml",
         "publishedAt": "2026-11-23T19:10:02.000+08:00"
-      },
-      {
-        "title": "苏丹首都遭无人机袭击造成4人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736507.shtml",
-        "publishedAt": "2026-11-23T19:09:46.000+08:00"
-      },
-      {
-        "title": "2026年粤港澳大湾区“工BA”职工篮球邀请赛在佛山收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736596.shtml",
-        "publishedAt": "2026-11-23T19:04:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T19:20:03.019+08:00",
+    "fetchedAt": "2026-11-23T19:30:12.655+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T19:20:07.140+08:00",
+      "fetchedAt": "2026-11-23T19:30:17.364+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T19:20:07.371+08:00",
+      "fetchedAt": "2026-11-23T19:30:17.685+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T19:20:07.380+08:00",
+      "fetchedAt": "2026-11-23T19:30:17.691+08:00",
       "error": null
     }
   }
