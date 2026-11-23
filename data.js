@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T09:00:10.439+08:00",
+  "updatedAt": "2026-11-23T09:10:07.760+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-23T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T09:00:10.440+08:00",
+    "fetchedAt": "2026-11-23T09:10:07.761+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冷空气东移南下 大风降温影响中东部地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736248.shtml",
+        "publishedAt": "2026-11-23T09:06:49.000+08:00"
+      },
+      {
+        "title": "南方降水短暂发展增强气温下降 北方大部天气晴朗气温偏高",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736247.shtml",
+        "publishedAt": "2026-11-23T09:00:17.000+08:00"
+      },
+      {
+        "title": "山西芮城：天鹅翩跹 游弋圣天湖",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211414.shtml",
+        "publishedAt": "2026-11-23T08:53:25.000+08:00"
+      },
       {
         "title": "两个箭头火了，网友在点赞什么",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736245.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "把机器人“教”进真实世界",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736244.shtml",
         "publishedAt": "2026-11-23T08:30:37.000+08:00"
-      },
-      {
-        "title": "AI时代，探索的快乐不变",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736242.shtml",
-        "publishedAt": "2026-11-23T08:25:55.000+08:00"
-      },
-      {
-        "title": "香港传奇赛马“浪漫勇士”退役 马迷不舍送别",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211410.shtml",
-        "publishedAt": "2026-11-23T08:23:37.000+08:00"
-      },
-      {
-        "title": "两部门：实施数据领域高技能人才集群培养计划",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-23/10736240.shtml",
-        "publishedAt": "2026-11-23T08:14:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T09:00:03.630+08:00",
+    "fetchedAt": "2026-11-23T09:10:02.517+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T09:00:08.908+08:00",
+      "fetchedAt": "2026-11-23T09:10:06.388+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T14:00:10.000+08:00"
+          "resetAt": "2026-11-23T14:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T09:00:09.269+08:00",
+      "fetchedAt": "2026-11-23T09:10:06.673+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T09:00:09.278+08:00",
+      "fetchedAt": "2026-11-23T09:10:06.680+08:00",
       "error": null
     }
   }
