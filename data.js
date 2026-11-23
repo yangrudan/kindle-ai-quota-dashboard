@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T21:00:09.892+08:00",
+  "updatedAt": "2026-11-23T21:10:09.066+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-23T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T21:00:09.892+08:00",
+    "fetchedAt": "2026-11-23T21:10:09.067+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "松花江即将封冻 哈尔滨警方发布禁止通行通告",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736659.shtml",
-        "publishedAt": "2026-11-23T20:54:15.000+08:00"
+        "title": "广西十年整治河湖“四乱”问题逾1.7万个 水生态环境质量稳定向好",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736669.shtml",
+        "publishedAt": "2026-11-23T21:04:54.000+08:00"
       },
       {
-        "title": "合湛高铁全线最长跨海大桥开始架梁",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736651.shtml",
-        "publishedAt": "2026-11-23T20:47:53.000+08:00"
+        "title": "2026珠港澳大学生创业之星育苗计划在珠海结营",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736668.shtml",
+        "publishedAt": "2026-11-23T21:04:22.000+08:00"
       },
       {
-        "title": "中国浙籍侨胞扎根海外的薯条侨团",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736647.shtml",
-        "publishedAt": "2026-11-23T20:37:57.000+08:00"
+        "title": "老挝青年学者来津研修 聚焦人工智能与绿色发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736663.shtml",
+        "publishedAt": "2026-11-23T21:03:38.000+08:00"
       },
       {
-        "title": "重庆高新区深耕新能源汽摩产业 力争到2030年规模达600亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736645.shtml",
-        "publishedAt": "2026-11-23T20:37:15.000+08:00"
+        "title": "从“捐钱”到“捐能力”：首届深圳科技公益大会展现能力型公益",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736662.shtml",
+        "publishedAt": "2026-11-23T21:02:46.000+08:00"
       },
       {
-        "title": "百亿级科创企业汇聚香港 探讨具身智能产业全球化路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736644.shtml",
-        "publishedAt": "2026-11-23T20:37:11.000+08:00"
+        "title": "书香河南第五届全民阅读大会将在漯河举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736661.shtml",
+        "publishedAt": "2026-11-23T21:01:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T21:00:03.046+08:00",
+    "fetchedAt": "2026-11-23T21:10:02.982+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T21:00:07.174+08:00",
+      "fetchedAt": "2026-11-23T21:10:07.447+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T02:00:09.000+08:00"
+          "resetAt": "2026-11-24T02:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T21:00:07.482+08:00",
+      "fetchedAt": "2026-11-23T21:10:07.685+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T21:00:07.491+08:00",
+      "fetchedAt": "2026-11-23T21:10:07.694+08:00",
       "error": null
     }
   }
