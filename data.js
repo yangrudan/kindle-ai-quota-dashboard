@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T19:00:10.267+08:00",
+  "updatedAt": "2026-11-23T19:10:38.252+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-23T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T19:00:10.267+08:00",
+    "fetchedAt": "2026-11-23T19:10:38.252+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年粤港澳大湾区“工BA”职工篮球邀请赛在佛山收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736596.shtml",
+        "publishedAt": "2026-11-23T19:04:58.000+08:00"
+      },
+      {
+        "title": "多国咖啡专家点赞云南德宏：咖啡产业发展潜力巨大",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736595.shtml",
+        "publishedAt": "2026-11-23T19:03:31.000+08:00"
+      },
+      {
+        "title": "浙江省人大常委会原副主任高兴夫一审被判死缓",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736593.shtml",
+        "publishedAt": "2026-11-23T19:01:11.000+08:00"
+      },
       {
         "title": "“京津冀最美湿地”衡水湖迎候鸟迁徙高峰 “鸟浪”翻涌成冬日画卷",
         "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736581.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "大风蓝色预警：内蒙古山西等9省区局部地区阵风可达10级",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736591.shtml",
         "publishedAt": "2026-11-23T18:46:43.000+08:00"
-      },
-      {
-        "title": "上海地铁新票价方案落地 12月1日起执行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736582.shtml",
-        "publishedAt": "2026-11-23T18:45:57.000+08:00"
-      },
-      {
-        "title": "河北衡水湖迎候鸟迁徙高峰 3万余只候鸟云集",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736584.shtml",
-        "publishedAt": "2026-11-23T18:43:50.000+08:00"
-      },
-      {
-        "title": "松花江干流哈尔滨段等6处江段封冻 黑龙江多条江河进入封冻期",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736588.shtml",
-        "publishedAt": "2026-11-23T18:43:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T19:00:03.580+08:00",
+    "fetchedAt": "2026-11-23T19:10:03.082+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T19:00:08.339+08:00",
+      "fetchedAt": "2026-11-23T19:10:37.014+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T19:00:08.608+08:00",
+      "fetchedAt": "2026-11-23T19:10:37.302+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T19:00:08.613+08:00",
+      "fetchedAt": "2026-11-23T19:10:37.311+08:00",
       "error": null
     }
   }
