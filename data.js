@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T07:40:08.437+08:00",
+  "updatedAt": "2026-11-24T07:50:18.842+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-24T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T07:40:08.437+08:00",
+    "fetchedAt": "2026-11-24T07:50:18.842+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "特朗普下令：暂停美军在艾奥瓦州引爆有毒化学物质",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736742.shtml",
+        "publishedAt": "2026-11-24T07:48:01.000+08:00"
+      },
+      {
+        "title": "东北叙事为什么火",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736740.shtml",
+        "publishedAt": "2026-11-24T07:44:03.000+08:00"
+      },
+      {
+        "title": "谁在操控“恶意差评”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736737.shtml",
+        "publishedAt": "2026-11-24T07:38:39.000+08:00"
+      },
+      {
+        "title": "明明睡够了还是累？可能是“低精力”找上门！",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-24/10736733.shtml",
+        "publishedAt": "2026-11-24T07:33:19.000+08:00"
+      },
+      {
         "title": "AI创作收入如何纳税",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736732.shtml",
         "publishedAt": "2026-11-24T07:28:26.000+08:00"
-      },
-      {
-        "title": "真相来了丨极其不靠谱！用AI技术识别蘑菇是否有毒风险很高",
-        "url": "https://www.chinanews.com.cn/life/2026/11-24/10736731.shtml",
-        "publishedAt": "2026-11-24T07:23:46.000+08:00"
-      },
-      {
-        "title": "外媒：以军空袭加沙致3死 其中含1名联合国工作人员",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736730.shtml",
-        "publishedAt": "2026-11-24T07:11:43.000+08:00"
-      },
-      {
-        "title": "11月24日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10736729.shtml",
-        "publishedAt": "2026-11-24T06:54:50.000+08:00"
-      },
-      {
-        "title": "美媒：英伟达股价暴涨超31% 单日市值增加近1万亿美元",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736728.shtml",
-        "publishedAt": "2026-11-24T06:53:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T07:40:03.140+08:00",
+    "fetchedAt": "2026-11-24T07:50:12.626+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T07:40:07.050+08:00",
+      "fetchedAt": "2026-11-24T07:50:16.962+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T12:40:08.000+08:00"
+          "resetAt": "2026-11-24T12:50:18.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T07:40:07.347+08:00",
+      "fetchedAt": "2026-11-24T07:50:17.334+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T07:40:07.357+08:00",
+      "fetchedAt": "2026-11-24T07:50:17.343+08:00",
       "error": null
     }
   }
