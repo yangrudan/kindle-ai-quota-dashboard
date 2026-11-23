@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T13:50:09.265+08:00",
+  "updatedAt": "2026-11-23T14:00:08.628+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.2,
-    "feelsLikeC": 15.1,
+    "feelsLikeC": 15.3,
     "humidity": 59,
-    "windKph": 3.6,
+    "windKph": 3.4,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-23T13:50:09.265+08:00",
+    "observedAt": "2026-11-23T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-23T14:00:08.628+08:00",
     "error": null
   },
   "news": {
@@ -40,12 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-23T13:42:46.000+08:00"
       },
       {
-        "title": "售价31.98万-42.98万元，家庭智慧旗舰MPV享界V8正式上市，为家而生",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736378.shtml",
-        "publishedAt": "2026-11-23T13:37:14.000+08:00"
+        "title": "三峡百里荒：朝阳伴云海 山川染鎏金",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211458.shtml",
+        "publishedAt": "2026-11-23T13:41:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T13:50:03.136+08:00",
+    "fetchedAt": "2026-11-23T14:00:03.262+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T13:50:07.553+08:00",
+      "fetchedAt": "2026-11-23T14:00:07.263+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 90,
+          "usedPct": 91,
           "resetAt": "2026-11-23T14:32:02.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T13:50:07.803+08:00",
+      "fetchedAt": "2026-11-23T14:00:07.555+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T13:50:07.806+08:00",
+      "fetchedAt": "2026-11-23T14:00:07.565+08:00",
       "error": null
     }
   }
