@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T13:40:08.724+08:00",
+  "updatedAt": "2026-11-23T13:50:09.265+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 16.2,
     "feelsLikeC": 15.1,
     "humidity": 59,
-    "windKph": 3.9,
+    "windKph": 3.6,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T13:40:08.724+08:00",
+    "observedAt": "2026-11-23T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T13:50:09.265+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "三亚以诗歌为媒重塑“天涯”文化意象",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736386.shtml",
+        "publishedAt": "2026-11-23T13:44:24.000+08:00"
+      },
+      {
+        "title": "史上“拖堂”最久COP31闭幕：共识难产，考题后移",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736366.shtml",
+        "publishedAt": "2026-11-23T13:43:34.000+08:00"
+      },
+      {
+        "title": "澳大利亚拟维持处方药最高自付额",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736371.shtml",
+        "publishedAt": "2026-11-23T13:43:22.000+08:00"
+      },
+      {
+        "title": "30岁后“脸垮”了？其实有些能恢复",
+        "url": "https://www.chinanews.com.cn/life/2026/11-23/10736388.shtml",
+        "publishedAt": "2026-11-23T13:42:46.000+08:00"
+      },
+      {
         "title": "售价31.98万-42.98万元，家庭智慧旗舰MPV享界V8正式上市，为家而生",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736378.shtml",
         "publishedAt": "2026-11-23T13:37:14.000+08:00"
-      },
-      {
-        "title": "晚起半小时能让孩子学得更好吗？",
-        "url": "https://www.chinanews.com.cn/life/2026/11-23/10736385.shtml",
-        "publishedAt": "2026-11-23T13:35:54.000+08:00"
-      },
-      {
-        "title": "AI发现肠癌？算力工程师感叹“救我一命”",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-23/10736383.shtml",
-        "publishedAt": "2026-11-23T13:28:11.000+08:00"
-      },
-      {
-        "title": "美国死刑执行再出意外：耗时超一小时，行刑人员费力找静脉，囚犯痛苦呻吟",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736382.shtml",
-        "publishedAt": "2026-11-23T13:27:03.000+08:00"
-      },
-      {
-        "title": "“百害而无一利” 日本各界要求政府坚守“无核三原则”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736377.shtml",
-        "publishedAt": "2026-11-23T13:23:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T13:40:03.186+08:00",
+    "fetchedAt": "2026-11-23T13:50:03.136+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T13:40:07.371+08:00",
+      "fetchedAt": "2026-11-23T13:50:07.553+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 86,
+          "usedPct": 90,
           "resetAt": "2026-11-23T14:32:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 50,
+          "usedPct": 51,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T13:40:07.622+08:00",
+      "fetchedAt": "2026-11-23T13:50:07.803+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T13:40:07.630+08:00",
+      "fetchedAt": "2026-11-23T13:50:07.806+08:00",
       "error": null
     }
   }
