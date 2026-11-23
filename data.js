@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T20:00:08.459+08:00",
+  "updatedAt": "2026-11-23T20:10:08.910+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-23T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T20:00:08.460+08:00",
+    "fetchedAt": "2026-11-23T20:10:08.910+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026/2027赛季全国花样滑冰青年锦标赛在山东青岛举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736607.shtml",
-        "publishedAt": "2026-11-23T19:58:28.000+08:00"
+        "title": "今年前三季度市场监管总局完成经营者集中反垄断审查440件",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736630.shtml",
+        "publishedAt": "2026-11-23T20:07:37.000+08:00"
       },
       {
-        "title": "民生调查局 | 起底MCN“洗号”：买号、换头、接广，粉丝信任成变现“耗材”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736611.shtml",
-        "publishedAt": "2026-11-23T19:49:00.000+08:00"
+        "title": "宁夏出台“十五五”教育发展规划 力争2030年普高录取率达86%",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736619.shtml",
+        "publishedAt": "2026-11-23T20:05:59.000+08:00"
       },
       {
-        "title": "纪录片《山海又相逢》首映，以普通人生活变迁展现闽宁协作三十年",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736604.shtml",
-        "publishedAt": "2026-11-23T19:48:30.000+08:00"
+        "title": "共探AI与人文融合路径 2026数字文化产业学术年会在沪举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736617.shtml",
+        "publishedAt": "2026-11-23T20:05:57.000+08:00"
       },
       {
-        "title": "2026中国—东盟周举行高端对话会 聚焦AI合作新空间",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-23/10736603.shtml",
-        "publishedAt": "2026-11-23T19:46:30.000+08:00"
+        "title": "新技术加速技能结构分化 专家建言职业教育教材建设创新",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736616.shtml",
+        "publishedAt": "2026-11-23T20:05:29.000+08:00"
       },
       {
-        "title": "赖清德、沈伯洋披日本服饰站台“造势”遭岛内舆论痛批",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736599.shtml",
-        "publishedAt": "2026-11-23T19:45:50.000+08:00"
+        "title": "宁夏实施三项行动推进健康学校建设 全方位守护学生身心健康",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736618.shtml",
+        "publishedAt": "2026-11-23T20:04:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T20:00:02.621+08:00",
+    "fetchedAt": "2026-11-23T20:10:03.420+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T20:00:07.121+08:00",
+      "fetchedAt": "2026-11-23T20:10:07.711+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T01:00:08.000+08:00"
+          "resetAt": "2026-11-24T01:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T20:00:07.408+08:00",
+      "fetchedAt": "2026-11-23T20:10:08.001+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T20:00:07.414+08:00",
+      "fetchedAt": "2026-11-23T20:10:08.011+08:00",
       "error": null
     }
   }
