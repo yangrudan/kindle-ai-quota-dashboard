@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T16:00:07.800+08:00",
+  "updatedAt": "2026-11-23T16:10:08.148+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-23T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T16:00:07.801+08:00",
+    "fetchedAt": "2026-11-23T16:10:08.148+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "陕西实景演艺《赳赳大秦》获西娅奖 以舞台展现东方魅力",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736454.shtml",
-        "publishedAt": "2026-11-23T15:57:44.000+08:00"
+        "title": "加力！一系列稳定资本市场举措推出",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736497.shtml",
+        "publishedAt": "2026-11-23T16:08:04.000+08:00"
       },
       {
-        "title": "“来到深圳后，这座城市当时展现出的现代化程度更让我感到震撼”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736489.shtml",
-        "publishedAt": "2026-11-23T15:56:56.000+08:00"
+        "title": "吉林雪场推出“冰雪寄”服务 雪友“轻装”上雪道",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736462.shtml",
+        "publishedAt": "2026-11-23T16:07:32.000+08:00"
       },
       {
-        "title": "全球媒体聚焦｜美学者：中国“电气化技术革命”撬动全球减排拐点",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-23/10736484.shtml",
-        "publishedAt": "2026-11-23T15:52:09.000+08:00"
+        "title": "驻韩美军直升机首次赴日本开展实弹射击训练",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736483.shtml",
+        "publishedAt": "2026-11-23T16:05:32.000+08:00"
       },
       {
-        "title": "来深圳，看五十年的中国",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736481.shtml",
-        "publishedAt": "2026-11-23T15:49:53.000+08:00"
+        "title": "钟南山：医学容不得半点“差不多” 医疗健康领域要有专业AI",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736461.shtml",
+        "publishedAt": "2026-11-23T16:05:12.000+08:00"
       },
       {
-        "title": "中方：一贯主张国际刑事法院应该秉持客观公正立场",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736479.shtml",
-        "publishedAt": "2026-11-23T15:47:15.000+08:00"
+        "title": "2026海丝文化（阳江）国际会客厅活动将在海陵岛举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736460.shtml",
+        "publishedAt": "2026-11-23T16:04:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T16:00:02.343+08:00",
+    "fetchedAt": "2026-11-23T16:10:02.492+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T16:00:06.069+08:00",
+      "fetchedAt": "2026-11-23T16:10:06.354+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 9,
           "resetAt": "2026-11-23T19:47:09.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T16:00:06.469+08:00",
+      "fetchedAt": "2026-11-23T16:10:06.744+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T16:00:06.478+08:00",
+      "fetchedAt": "2026-11-23T16:10:06.753+08:00",
       "error": null
     }
   }
