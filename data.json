@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T12:10:07.586+08:00",
+  "updatedAt": "2026-11-23T12:20:07.835+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.5,
-    "feelsLikeC": 14.3,
-    "humidity": 61,
+    "tempC": 15.7,
+    "feelsLikeC": 14.5,
+    "humidity": 60,
     "windKph": 4.3,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T12:10:07.586+08:00",
+    "observedAt": "2026-11-23T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T12:20:07.835+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我国牵头的摩托车及轻便摩托车信息与服务国际标准正式立项",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736363.shtml",
+        "publishedAt": "2026-11-23T12:13:03.000+08:00"
+      },
       {
         "title": "地球系统智能科研平台“ZHU·GE”推出",
         "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736360.shtml",
@@ -38,14 +43,9 @@
         "title": "江西赣南红土记：金融活水润出产业新芽",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736355.shtml",
         "publishedAt": "2026-11-23T11:52:18.000+08:00"
-      },
-      {
-        "title": "以赛为媒，钱江源头跑出文体旅融合新动能",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736343.shtml",
-        "publishedAt": "2026-11-23T11:51:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T12:10:02.520+08:00",
+    "fetchedAt": "2026-11-23T12:20:02.586+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T12:10:06.129+08:00",
+      "fetchedAt": "2026-11-23T12:20:06.576+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T12:10:06.343+08:00",
+      "fetchedAt": "2026-11-23T12:20:06.799+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T12:10:06.352+08:00",
+      "fetchedAt": "2026-11-23T12:20:06.803+08:00",
       "error": null
     }
   }
