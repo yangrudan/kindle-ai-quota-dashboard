@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T11:20:08.242+08:00",
+  "updatedAt": "2026-11-23T11:30:10.073+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.3,
-    "feelsLikeC": 14.1,
-    "humidity": 60,
+    "tempC": 15.4,
+    "feelsLikeC": 14.2,
+    "humidity": 61,
     "windKph": 4.2,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T11:20:08.242+08:00",
+    "observedAt": "2026-11-23T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T11:30:10.073+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "加快“补课”，谁是中部大省“第二枢纽”？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736345.shtml",
+        "publishedAt": "2026-11-23T11:18:20.000+08:00"
+      },
       {
         "title": "断航近半个世纪，湖南这条“黄金水道”为何重启？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736344.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "小手套做成大产业 滑雪装备如何释放冰雪经济乘数效应",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736340.shtml",
         "publishedAt": "2026-11-23T10:59:45.000+08:00"
-      },
-      {
-        "title": "福州：村景如画 人在画中游",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736327.shtml",
-        "publishedAt": "2026-11-23T10:59:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T11:20:02.477+08:00",
+    "fetchedAt": "2026-11-23T11:30:04.022+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T11:20:06.210+08:00",
+      "fetchedAt": "2026-11-23T11:30:08.365+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 38,
+          "usedPct": 63,
           "resetAt": "2026-11-23T14:32:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 43,
+          "usedPct": 47,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T11:20:06.492+08:00",
+      "fetchedAt": "2026-11-23T11:30:08.649+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T11:20:06.502+08:00",
+      "fetchedAt": "2026-11-23T11:30:08.654+08:00",
       "error": null
     }
   }
