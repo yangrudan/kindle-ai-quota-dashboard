@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T20:30:38.845+08:00",
+  "updatedAt": "2026-11-23T20:40:08.844+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-23T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T20:30:38.845+08:00",
+    "fetchedAt": "2026-11-23T20:40:08.844+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "李家超会见世界技能大赛中国香港代表团：为国家长远发展提供人才支撑",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736634.shtml",
-        "publishedAt": "2026-11-23T20:23:32.000+08:00"
+        "title": "中国团队揭示克拉通边缘控制岩浆型铜镍硫化物成矿动力学机制",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736642.shtml",
+        "publishedAt": "2026-11-23T20:33:54.000+08:00"
       },
       {
-        "title": "“生命的旋律——韩美林艺术展”在国家大剧院启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736632.shtml",
-        "publishedAt": "2026-11-23T20:22:30.000+08:00"
+        "title": "黑龙江：让青年“进得来、留得下、住得安、能成业”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736641.shtml",
+        "publishedAt": "2026-11-23T20:33:08.000+08:00"
       },
       {
-        "title": "在延边山水间遇见纯粹少年温情 朝鲜族题材影片《金哲》上映",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736605.shtml",
-        "publishedAt": "2026-11-23T20:21:48.000+08:00"
+        "title": "2027澳网亚太区外卡赛成都开拍 正赛抽签对阵揭晓",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736640.shtml",
+        "publishedAt": "2026-11-23T20:32:24.000+08:00"
       },
       {
-        "title": "从喜马拉雅山脚到南海之滨：尼泊尔青年在海南看见“机会与友谊”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736627.shtml",
-        "publishedAt": "2026-11-23T20:21:44.000+08:00"
+        "title": "第十二次中俄财长对话举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736637.shtml",
+        "publishedAt": "2026-11-23T20:31:50.000+08:00"
       },
       {
-        "title": "广东湛江今年前十月供港澳活猪同比增逾六倍",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736628.shtml",
-        "publishedAt": "2026-11-23T20:21:42.000+08:00"
+        "title": "山水之城如何“智”理 重庆为超大城市治理立新规",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736639.shtml",
+        "publishedAt": "2026-11-23T20:31:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T20:30:03.032+08:00",
+    "fetchedAt": "2026-11-23T20:40:02.894+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T20:30:37.376+08:00",
+      "fetchedAt": "2026-11-23T20:40:07.045+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T01:30:38.000+08:00"
+          "resetAt": "2026-11-24T01:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T20:30:37.706+08:00",
+      "fetchedAt": "2026-11-23T20:40:07.380+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T20:30:37.716+08:00",
+      "fetchedAt": "2026-11-23T20:40:07.390+08:00",
       "error": null
     }
   }
