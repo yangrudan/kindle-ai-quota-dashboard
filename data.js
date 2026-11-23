@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T18:30:08.517+08:00",
+  "updatedAt": "2026-11-23T18:40:08.474+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-23T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T18:30:08.517+08:00",
+    "fetchedAt": "2026-11-23T18:40:08.474+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "住建部公布四起瓶装液化石油气领域典型执法案例",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736576.shtml",
-        "publishedAt": "2026-11-23T18:19:21.000+08:00"
+        "title": "印尼泗水国立大学孔子学院庆祝建院15周年",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736580.shtml",
+        "publishedAt": "2026-11-23T18:35:56.000+08:00"
       },
       {
-        "title": "奋志越山海 群英起乌蒙——民革中央、中华职教社人才领域组团式帮扶毕节纪实",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736572.shtml",
-        "publishedAt": "2026-11-23T18:09:23.000+08:00"
+        "title": "国产疏浚新船“晟安龙”广州南沙下水 零燃油可拆装",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736577.shtml",
+        "publishedAt": "2026-11-23T18:34:44.000+08:00"
       },
       {
-        "title": "北京市生态环境保护营商竞争力综合指数连续四年蝉联全国第一",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736570.shtml",
-        "publishedAt": "2026-11-23T18:06:50.000+08:00"
+        "title": "高台跳水世界杯肇庆落幕 中国选手成年组首秀表现不俗",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736579.shtml",
+        "publishedAt": "2026-11-23T18:33:46.000+08:00"
       },
       {
-        "title": "160幅华侨华人艺术家书画作品亮相江西纪念孙中山",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736569.shtml",
-        "publishedAt": "2026-11-23T18:05:42.000+08:00"
+        "title": "京津冀三地少年齐聚北京 演绎诵读魅力",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736578.shtml",
+        "publishedAt": "2026-11-23T18:32:20.000+08:00"
       },
       {
-        "title": "扛牢帮扶责任 同心共育英才——民革中央统筹推动人才领域组团式帮扶毕节工作",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736571.shtml",
-        "publishedAt": "2026-11-23T18:04:54.000+08:00"
+        "title": "习近平法治思想对外翻译传播高端学术研讨会召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736381.shtml",
+        "publishedAt": "2026-11-23T18:28:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T18:30:03.162+08:00",
+    "fetchedAt": "2026-11-23T18:40:02.503+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T18:30:07.250+08:00",
+      "fetchedAt": "2026-11-23T18:40:06.427+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T18:30:07.512+08:00",
+      "fetchedAt": "2026-11-23T18:40:06.719+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T18:30:07.522+08:00",
+      "fetchedAt": "2026-11-23T18:40:06.729+08:00",
       "error": null
     }
   }
