@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T06:50:08.099+08:00",
+  "updatedAt": "2026-11-24T07:00:07.803+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 8.2,
     "feelsLikeC": 5.1,
-    "humidity": 77,
-    "windKph": 11.6,
+    "humidity": 76,
+    "windKph": 11.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-24T06:50:08.099+08:00",
+    "observedAt": "2026-11-24T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-24T07:00:07.803+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月24日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10736729.shtml",
+        "publishedAt": "2026-11-24T06:54:50.000+08:00"
+      },
+      {
+        "title": "美媒：英伟达股价暴涨超31% 单日市值增加近1万亿美元",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736728.shtml",
+        "publishedAt": "2026-11-24T06:53:18.000+08:00"
+      },
+      {
+        "title": "10毫秒决断，电网如何守护万家灯火？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736727.shtml",
+        "publishedAt": "2026-11-24T06:46:50.000+08:00"
+      },
       {
         "title": "英伟达恢复黄仁勋总裁、CEO及董事职务",
         "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736726.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "“月租”酒店划不划算？先分清“安居”与“旅居”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736725.shtml",
         "publishedAt": "2026-11-24T00:11:04.000+08:00"
-      },
-      {
-        "title": "英国曼彻斯特演唱会现不明物质 逾1.2万人被紧急疏散",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736724.shtml",
-        "publishedAt": "2026-11-23T23:23:43.000+08:00"
-      },
-      {
-        "title": "菲律宾南部官员住宅遭火箭弹袭击 数百居民再度撤离",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736723.shtml",
-        "publishedAt": "2026-11-23T23:23:05.000+08:00"
-      },
-      {
-        "title": "走进民企看发展丨德康农牧董事长王德根：用科技创新解决农民养殖痛点",
-        "url": "http://www.chinanews.com.cn/cj/shipin/2026/11-23/news1075814.shtml",
-        "publishedAt": "2026-11-23T23:19:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T06:50:02.703+08:00",
+    "fetchedAt": "2026-11-24T07:00:02.457+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T06:50:06.385+08:00",
+      "fetchedAt": "2026-11-24T07:00:06.484+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T11:50:07.000+08:00"
+          "resetAt": "2026-11-24T12:00:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T06:50:06.573+08:00",
+      "fetchedAt": "2026-11-24T07:00:06.668+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T06:50:06.577+08:00",
+      "fetchedAt": "2026-11-24T07:00:06.677+08:00",
       "error": null
     }
   }
