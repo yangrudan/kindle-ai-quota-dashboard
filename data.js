@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T10:10:08.482+08:00",
+  "updatedAt": "2026-11-23T10:20:08.434+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.4,
-    "feelsLikeC": 13.1,
-    "humidity": 63,
-    "windKph": 3.9,
+    "tempC": 14.7,
+    "feelsLikeC": 13.5,
+    "humidity": 62,
+    "windKph": 3.6,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T10:10:08.482+08:00",
+    "observedAt": "2026-11-23T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T10:20:08.434+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《“一老一小”服务体系建设实施方案》发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736289.shtml",
-        "publishedAt": "2026-11-23T10:03:08.000+08:00"
+        "title": "21世纪金融年会启幕 爱康集团发布《2026 版银行及保险高净值客户健康绿皮书》",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736276.shtml",
+        "publishedAt": "2026-11-23T10:11:47.000+08:00"
       },
       {
-        "title": "海军多型舰机将亮相第十六届中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736287.shtml",
-        "publishedAt": "2026-11-23T10:01:04.000+08:00"
+        "title": "广西金秀民众欢庆瑶族盘王节",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736292.shtml",
+        "publishedAt": "2026-11-23T10:11:19.000+08:00"
       },
       {
-        "title": "鹏城有“智”，潮向亚太",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-23/10736285.shtml",
-        "publishedAt": "2026-11-23T09:58:54.000+08:00"
+        "title": "经济保持增长 为什么有些人的感受不一样？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736305.shtml",
+        "publishedAt": "2026-11-23T10:10:59.000+08:00"
       },
       {
-        "title": "农民“上楼”，这些现实难题如何解",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736283.shtml",
-        "publishedAt": "2026-11-23T09:57:04.000+08:00"
+        "title": "好吃又好玩！台青在深圳体验“未来生活”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736302.shtml",
+        "publishedAt": "2026-11-23T10:09:29.000+08:00"
       },
       {
-        "title": "“推动亚太合作迈入新阶段”（APEC中国年：开放 创新 合作）",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-23/10736282.shtml",
-        "publishedAt": "2026-11-23T09:56:58.000+08:00"
+        "title": "从车厘子的“鲜”，品出亚太共同体的“甜”（财经观）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736296.shtml",
+        "publishedAt": "2026-11-23T10:06:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T10:10:02.454+08:00",
+    "fetchedAt": "2026-11-23T10:20:02.504+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T10:10:07.022+08:00",
+      "fetchedAt": "2026-11-23T10:20:06.852+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 8,
           "resetAt": "2026-11-23T14:32:02.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T10:10:07.211+08:00",
+      "fetchedAt": "2026-11-23T10:20:07.166+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T10:10:07.220+08:00",
+      "fetchedAt": "2026-11-23T10:20:07.170+08:00",
       "error": null
     }
   }
