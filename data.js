@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T09:30:09.903+08:00",
+  "updatedAt": "2026-11-23T09:40:07.984+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-23T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T09:30:09.903+08:00",
+    "fetchedAt": "2026-11-23T09:40:07.985+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "11月23日央行开展4995亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736260.shtml",
+        "publishedAt": "2026-11-23T09:29:45.000+08:00"
+      },
+      {
+        "title": "江苏省气象台发布寒潮蓝色预警",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736259.shtml",
+        "publishedAt": "2026-11-23T09:28:59.000+08:00"
+      },
+      {
+        "title": "11月23日人民币对美元中间价报6.7120 上调11个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736257.shtml",
+        "publishedAt": "2026-11-23T09:28:05.000+08:00"
+      },
+      {
+        "title": "兑现力，城市留人的新底牌",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736258.shtml",
+        "publishedAt": "2026-11-23T09:25:04.000+08:00"
+      },
+      {
         "title": "当年轻人用“生活品质”选城市",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736256.shtml",
         "publishedAt": "2026-11-23T09:21:20.000+08:00"
-      },
-      {
-        "title": "包容性：被低估的城市竞争力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736255.shtml",
-        "publishedAt": "2026-11-23T09:15:56.000+08:00"
-      },
-      {
-        "title": "中国农业发展银行董事会办公室原主任张俊强被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736252.shtml",
-        "publishedAt": "2026-11-23T09:15:26.000+08:00"
-      },
-      {
-        "title": "上高县开展无党派人士“双走访”活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736254.shtml",
-        "publishedAt": "2026-11-23T09:14:38.000+08:00"
-      },
-      {
-        "title": "新疆维吾尔自治区乌鲁木齐市人大常委会原党组副书记、主任阿不都热依木·阿不力孜被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736250.shtml",
-        "publishedAt": "2026-11-23T09:14:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T09:30:02.710+08:00",
+    "fetchedAt": "2026-11-23T09:40:02.329+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T09:30:08.149+08:00",
+      "fetchedAt": "2026-11-23T09:40:06.411+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-23T14:30:09.000+08:00"
+          "usedPct": 4,
+          "resetAt": "2026-11-23T14:32:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 37,
+          "usedPct": 38,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T09:30:08.395+08:00",
+      "fetchedAt": "2026-11-23T09:40:06.819+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T09:30:08.404+08:00",
+      "fetchedAt": "2026-11-23T09:40:06.826+08:00",
       "error": null
     }
   }
