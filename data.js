@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T16:10:08.148+08:00",
+  "updatedAt": "2026-11-23T16:20:08.587+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 14.5,
-    "feelsLikeC": 13.8,
-    "humidity": 74,
-    "windKph": 4.6,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 14.3,
+    "feelsLikeC": 13.6,
+    "humidity": 76,
+    "windKph": 4.3,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-23T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T16:10:08.148+08:00",
+    "observedAt": "2026-11-23T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T16:20:08.588+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "加力！一系列稳定资本市场举措推出",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736497.shtml",
-        "publishedAt": "2026-11-23T16:08:04.000+08:00"
+        "title": "全国秋冬种进入尾声 冬季田管有序展开",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736502.shtml",
+        "publishedAt": "2026-11-23T16:13:28.000+08:00"
       },
       {
-        "title": "吉林雪场推出“冰雪寄”服务 雪友“轻装”上雪道",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736462.shtml",
-        "publishedAt": "2026-11-23T16:07:32.000+08:00"
+        "title": "第73届澳门格兰披治大赛车在澳门举行",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211466.shtml",
+        "publishedAt": "2026-11-23T16:12:02.000+08:00"
       },
       {
-        "title": "驻韩美军直升机首次赴日本开展实弹射击训练",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736483.shtml",
-        "publishedAt": "2026-11-23T16:05:32.000+08:00"
+        "title": "稳股市“组合拳”出台 融资保证金比例下限降至80%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736500.shtml",
+        "publishedAt": "2026-11-23T16:11:28.000+08:00"
       },
       {
-        "title": "钟南山：医学容不得半点“差不多” 医疗健康领域要有专业AI",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736461.shtml",
-        "publishedAt": "2026-11-23T16:05:12.000+08:00"
+        "title": "四川服务业经营主体已突破700万户",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736464.shtml",
+        "publishedAt": "2026-11-23T16:11:16.000+08:00"
       },
       {
-        "title": "2026海丝文化（阳江）国际会客厅活动将在海陵岛举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736460.shtml",
-        "publishedAt": "2026-11-23T16:04:20.000+08:00"
+        "title": "李在明提名情报机构和多部门部长级官员",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736485.shtml",
+        "publishedAt": "2026-11-23T16:09:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T16:10:02.492+08:00",
+    "fetchedAt": "2026-11-23T16:20:02.715+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T16:10:06.354+08:00",
+      "fetchedAt": "2026-11-23T16:20:06.844+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 9,
+          "usedPct": 10,
           "resetAt": "2026-11-23T19:47:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 53,
+          "usedPct": 54,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T16:10:06.744+08:00",
+      "fetchedAt": "2026-11-23T16:20:07.132+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T16:10:06.753+08:00",
+      "fetchedAt": "2026-11-23T16:20:07.138+08:00",
       "error": null
     }
   }
