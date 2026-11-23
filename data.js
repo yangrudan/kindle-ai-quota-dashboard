@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T19:10:38.252+08:00",
+  "updatedAt": "2026-11-23T19:20:08.324+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.7,
+    "tempC": 12.6,
     "feelsLikeC": 12.5,
-    "humidity": 94,
-    "windKph": 4.7,
+    "humidity": 95,
+    "windKph": 4.6,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T19:10:38.252+08:00",
+    "observedAt": "2026-11-23T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T19:20:08.324+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "韩国综合股价指数下跌逾3%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736556.shtml",
+        "publishedAt": "2026-11-23T19:11:12.000+08:00"
+      },
+      {
+        "title": "马来西亚政府官员基础汉语课程42名学员结业",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736540.shtml",
+        "publishedAt": "2026-11-23T19:10:28.000+08:00"
+      },
+      {
+        "title": "中国发起成立的世界无线局域网应用发展联盟获国际认可",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736594.shtml",
+        "publishedAt": "2026-11-23T19:10:02.000+08:00"
+      },
+      {
+        "title": "苏丹首都遭无人机袭击造成4人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736507.shtml",
+        "publishedAt": "2026-11-23T19:09:46.000+08:00"
+      },
+      {
         "title": "2026年粤港澳大湾区“工BA”职工篮球邀请赛在佛山收官",
         "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736596.shtml",
         "publishedAt": "2026-11-23T19:04:58.000+08:00"
-      },
-      {
-        "title": "多国咖啡专家点赞云南德宏：咖啡产业发展潜力巨大",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736595.shtml",
-        "publishedAt": "2026-11-23T19:03:31.000+08:00"
-      },
-      {
-        "title": "浙江省人大常委会原副主任高兴夫一审被判死缓",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736593.shtml",
-        "publishedAt": "2026-11-23T19:01:11.000+08:00"
-      },
-      {
-        "title": "“京津冀最美湿地”衡水湖迎候鸟迁徙高峰 “鸟浪”翻涌成冬日画卷",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736581.shtml",
-        "publishedAt": "2026-11-23T18:48:23.000+08:00"
-      },
-      {
-        "title": "大风蓝色预警：内蒙古山西等9省区局部地区阵风可达10级",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736591.shtml",
-        "publishedAt": "2026-11-23T18:46:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T19:10:03.082+08:00",
+    "fetchedAt": "2026-11-23T19:20:03.019+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T19:10:37.014+08:00",
+      "fetchedAt": "2026-11-23T19:20:07.140+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T19:10:37.302+08:00",
+      "fetchedAt": "2026-11-23T19:20:07.371+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T19:10:37.311+08:00",
+      "fetchedAt": "2026-11-23T19:20:07.380+08:00",
       "error": null
     }
   }
