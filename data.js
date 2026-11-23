@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T15:00:37.729+08:00",
+  "updatedAt": "2026-11-23T15:10:10.406+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-23T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T15:00:37.730+08:00",
+    "fetchedAt": "2026-11-23T15:10:10.406+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "斯诺克英锦赛资格赛：中国军团次日8胜5负 傅家俊首战出局",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736424.shtml",
-        "publishedAt": "2026-11-23T14:50:42.000+08:00"
+        "title": "2026中国业余高尔夫球队际公开赛年度总决赛落幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736428.shtml",
+        "publishedAt": "2026-11-23T15:03:11.000+08:00"
       },
       {
-        "title": "2026年“王船之旅”文化传承交流活动在厦门举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736423.shtml",
-        "publishedAt": "2026-11-23T14:48:20.000+08:00"
+        "title": "多地召开省级侨务工作会议 为侨服务向“新”行",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736431.shtml",
+        "publishedAt": "2026-11-23T15:01:25.000+08:00"
       },
       {
-        "title": "专家号加价至900元，优先入院开价1.2万元 陪诊师灰色业务链调查",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736425.shtml",
-        "publishedAt": "2026-11-23T14:47:08.000+08:00"
+        "title": "近期货车肇事导致的交通事故多发 公安部交管局发布提示",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736426.shtml",
+        "publishedAt": "2026-11-23T14:59:30.000+08:00"
       },
       {
-        "title": "5000架无人机点亮巫山夜空 红叶、峡江、高铁等元素吸睛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736395.shtml",
-        "publishedAt": "2026-11-23T14:44:02.000+08:00"
+        "title": "大连市沙河口区委召开民营经济代表人士座谈会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736427.shtml",
+        "publishedAt": "2026-11-23T14:59:00.000+08:00"
       },
       {
-        "title": "7天2万元，景区“神仙工作”买的是服务还是“热搜”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736422.shtml",
-        "publishedAt": "2026-11-23T14:43:36.000+08:00"
+        "title": "借力体育赛事 广东廉江开展民族团结进步主题宣传活动",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736432.shtml",
+        "publishedAt": "2026-11-23T14:58:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T15:00:02.586+08:00",
+    "fetchedAt": "2026-11-23T15:10:05.264+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T15:00:36.310+08:00",
+      "fetchedAt": "2026-11-23T15:10:08.620+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T15:00:36.696+08:00",
+      "fetchedAt": "2026-11-23T15:10:08.944+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T15:00:36.701+08:00",
+      "fetchedAt": "2026-11-23T15:10:08.953+08:00",
       "error": null
     }
   }
