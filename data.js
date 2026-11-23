@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T21:30:09.309+08:00",
+  "updatedAt": "2026-11-23T21:40:08.769+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-23T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T21:30:09.310+08:00",
+    "fetchedAt": "2026-11-23T21:40:08.769+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第五届琶洲算法大赛具身机器人场景应用大赛决赛在广州举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736664.shtml",
+        "publishedAt": "2026-11-23T21:36:44.000+08:00"
+      },
+      {
+        "title": "11月23日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-23/10736691.shtml",
+        "publishedAt": "2026-11-23T21:35:52.000+08:00"
+      },
+      {
+        "title": "东西问·兰花奖｜土耳其友好人士哈桑·恰庞：偏见要靠亲眼所见打破",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736658.shtml",
+        "publishedAt": "2026-11-23T21:28:15.000+08:00"
+      },
       {
         "title": "中蒙俄国际旅客列车整备一新 即将每周往返开行",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211495.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "“皇后赛段”燃动广西马山 顶级IP撬动“骑行经济”",
         "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736671.shtml",
         "publishedAt": "2026-11-23T21:24:49.000+08:00"
-      },
-      {
-        "title": "今年前10个月香港国际机场接待旅客5460万人次 同比升9.3%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736670.shtml",
-        "publishedAt": "2026-11-23T21:20:47.000+08:00"
-      },
-      {
-        "title": "第二艘国产大型邮轮“爱达·花城号”商业首航抵达香港",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736666.shtml",
-        "publishedAt": "2026-11-23T21:10:22.000+08:00"
-      },
-      {
-        "title": "今年10月欧盟油价同比增长近三成",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736648.shtml",
-        "publishedAt": "2026-11-23T21:07:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T21:30:03.377+08:00",
+    "fetchedAt": "2026-11-23T21:40:02.934+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T21:30:07.932+08:00",
+      "fetchedAt": "2026-11-23T21:40:06.994+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T02:30:09.000+08:00"
+          "resetAt": "2026-11-24T02:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T21:30:08.321+08:00",
+      "fetchedAt": "2026-11-23T21:40:07.253+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T21:30:08.331+08:00",
+      "fetchedAt": "2026-11-23T21:40:07.262+08:00",
       "error": null
     }
   }
