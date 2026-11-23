@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T14:10:08.706+08:00",
+  "updatedAt": "2026-11-23T14:20:09.230+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.2,
-    "feelsLikeC": 15.3,
+    "tempC": 16.3,
+    "feelsLikeC": 15.4,
     "humidity": 59,
-    "windKph": 3.4,
+    "windKph": 3.2,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T14:10:08.707+08:00",
+    "observedAt": "2026-11-23T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T14:20:09.230+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从柬埔寨稻田到中国餐桌：一粒香米的“跨国旅程”",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-23/10736392.shtml",
-        "publishedAt": "2026-11-23T14:06:15.000+08:00"
+        "title": "中国证券金紫荆奖等19个奖项获奖名单在港公布",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736406.shtml",
+        "publishedAt": "2026-11-23T14:12:04.000+08:00"
       },
       {
-        "title": "“欧美—中国（川渝）—东盟”跨境游精品线路在重庆发布",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-23/10736390.shtml",
-        "publishedAt": "2026-11-23T14:04:13.000+08:00"
+        "title": "甘肃欧美同学会“聚才兴陇”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736399.shtml",
+        "publishedAt": "2026-11-23T14:11:22.000+08:00"
       },
       {
-        "title": "三亚以诗歌为媒重塑“天涯”文化意象",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736386.shtml",
-        "publishedAt": "2026-11-23T13:44:24.000+08:00"
+        "title": "中国科研团队提出量子电网仿真新方法",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736407.shtml",
+        "publishedAt": "2026-11-23T14:10:32.000+08:00"
       },
       {
-        "title": "史上“拖堂”最久COP31闭幕：共识难产，考题后移",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736366.shtml",
-        "publishedAt": "2026-11-23T13:43:34.000+08:00"
+        "title": "新疆油田提前完成全年天然气输配任务",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736404.shtml",
+        "publishedAt": "2026-11-23T14:09:40.000+08:00"
       },
       {
-        "title": "澳大利亚拟维持处方药最高自付额",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736371.shtml",
-        "publishedAt": "2026-11-23T13:43:22.000+08:00"
+        "title": "泰州返乡青年传承非遗技艺：市井烟火长 早茶包子香",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736398.shtml",
+        "publishedAt": "2026-11-23T14:08:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T14:10:02.353+08:00",
+    "fetchedAt": "2026-11-23T14:20:03.194+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T14:10:06.832+08:00",
+      "fetchedAt": "2026-11-23T14:20:07.548+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T14:10:07.244+08:00",
+      "fetchedAt": "2026-11-23T14:20:07.794+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T14:10:07.253+08:00",
+      "fetchedAt": "2026-11-23T14:20:07.803+08:00",
       "error": null
     }
   }
