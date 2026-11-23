@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T10:50:10.348+08:00",
+  "updatedAt": "2026-11-23T11:00:08.678+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.1,
-    "feelsLikeC": 13.8,
+    "tempC": 15.2,
+    "feelsLikeC": 14,
     "humidity": 61,
-    "windKph": 4,
+    "windKph": 4.1,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-23T10:50:10.348+08:00",
+    "observedAt": "2026-11-23T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-23T11:00:08.678+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "锐度·厚度·高度——从三个维度看广东加速从制造大省迈向制造强省",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736334.shtml",
+        "publishedAt": "2026-11-23T10:51:29.000+08:00"
+      },
+      {
+        "title": "西班牙网球名将阿尔卡拉斯首夺ATP年终总决赛冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736322.shtml",
+        "publishedAt": "2026-11-23T10:46:39.000+08:00"
+      },
+      {
+        "title": "2026年“湖北九三科创讲坛”在汉举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736329.shtml",
+        "publishedAt": "2026-11-23T10:45:55.000+08:00"
+      },
+      {
+        "title": "AI时代 我们需要什么样的科研人才",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736331.shtml",
+        "publishedAt": "2026-11-23T10:44:53.000+08:00"
+      },
+      {
         "title": "电子商务助力经济向新向优",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736330.shtml",
         "publishedAt": "2026-11-23T10:41:12.000+08:00"
-      },
-      {
-        "title": "前10个月全国一般公共预算收入同比增长4.9%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736328.shtml",
-        "publishedAt": "2026-11-23T10:39:38.000+08:00"
-      },
-      {
-        "title": "“饮歌”唱响重庆 港乐金曲搭建渝港文化交流桥梁",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736303.shtml",
-        "publishedAt": "2026-11-23T10:38:26.000+08:00"
-      },
-      {
-        "title": "广西就鸟类保护问题约谈8县（市、区）林长 将全域清网排查",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736325.shtml",
-        "publishedAt": "2026-11-23T10:35:22.000+08:00"
-      },
-      {
-        "title": "未来十天北方大部降水偏少 全国大部气温偏高",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736320.shtml",
-        "publishedAt": "2026-11-23T10:32:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T10:50:03.291+08:00",
+    "fetchedAt": "2026-11-23T11:00:02.657+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T10:50:08.222+08:00",
+      "fetchedAt": "2026-11-23T11:00:06.937+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T10:50:08.464+08:00",
+      "fetchedAt": "2026-11-23T11:00:07.423+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T10:50:08.473+08:00",
+      "fetchedAt": "2026-11-23T11:00:07.427+08:00",
       "error": null
     }
   }
