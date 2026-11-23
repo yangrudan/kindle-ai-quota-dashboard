@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T13:20:08.241+08:00",
+  "updatedAt": "2026-11-23T13:30:37.907+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.1,
-    "feelsLikeC": 15,
+    "tempC": 16.2,
+    "feelsLikeC": 15.1,
     "humidity": 59,
     "windKph": 3.9,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T13:20:08.241+08:00",
+    "observedAt": "2026-11-23T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T13:30:37.907+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“百害而无一利” 日本各界要求政府坚守“无核三原则”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736377.shtml",
+        "publishedAt": "2026-11-23T13:23:05.000+08:00"
+      },
+      {
+        "title": "中新健康｜3.2亿人养老，以后会“精准投喂”",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-23/10736375.shtml",
+        "publishedAt": "2026-11-23T13:20:49.000+08:00"
+      },
       {
         "title": "129万元一支的抗癌药进医保，怎么做到的？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736376.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "从“拉人来”到“接消费” 入境游迈向增量期",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736372.shtml",
         "publishedAt": "2026-11-23T13:10:16.000+08:00"
-      },
-      {
-        "title": "“爱达·花城号”正式商业首航 票价到底贵不贵？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736368.shtml",
-        "publishedAt": "2026-11-23T12:39:09.000+08:00"
-      },
-      {
-        "title": "中国最高法、中国侨联发布侨益司法保护典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736367.shtml",
-        "publishedAt": "2026-11-23T12:38:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T13:20:03.540+08:00",
+    "fetchedAt": "2026-11-23T13:30:02.224+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T13:20:07.058+08:00",
+      "fetchedAt": "2026-11-23T13:30:36.200+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 67,
+          "usedPct": 70,
           "resetAt": "2026-11-23T14:32:02.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T13:20:07.353+08:00",
+      "fetchedAt": "2026-11-23T13:30:36.445+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T13:20:07.357+08:00",
+      "fetchedAt": "2026-11-23T13:30:36.452+08:00",
       "error": null
     }
   }
