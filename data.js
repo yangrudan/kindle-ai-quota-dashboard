@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T17:40:47.995+08:00",
+  "updatedAt": "2026-11-23T17:50:08.017+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 13.2,
-    "feelsLikeC": 13,
-    "humidity": 87,
-    "windKph": 3.6,
+    "feelsLikeC": 13.1,
+    "humidity": 88,
+    "windKph": 2.9,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-23T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T17:40:47.996+08:00",
+    "observedAt": "2026-11-23T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T17:50:08.018+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "呼和浩特冬季文旅推介走进广深拓展大湾区市场",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736545.shtml",
-        "publishedAt": "2026-11-23T17:33:59.000+08:00"
+        "title": "平台内严肃拒绝 私下里积极接单 AI仿冒名人带货缘何屡禁不止？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736564.shtml",
+        "publishedAt": "2026-11-23T17:43:01.000+08:00"
       },
       {
-        "title": "菊花展亮相广西南宁 民众在山水间赏菊韵",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736538.shtml",
-        "publishedAt": "2026-11-23T17:33:17.000+08:00"
+        "title": "大连市沙河口区举办“科创大连·智汇低空”交流座谈会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736558.shtml",
+        "publishedAt": "2026-11-23T17:41:15.000+08:00"
       },
       {
-        "title": "第35届中国茶业科技年会暨第3届茶文化年会在广西贺州举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736542.shtml",
-        "publishedAt": "2026-11-23T17:33:09.000+08:00"
+        "title": "千名学子逐野竞速 2026年全国大学生定向锦标赛在江西安远开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736560.shtml",
+        "publishedAt": "2026-11-23T17:40:41.000+08:00"
       },
       {
-        "title": "天津：警综融合内外联动 巧解群众 “千千结”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736537.shtml",
-        "publishedAt": "2026-11-23T17:24:58.000+08:00"
+        "title": "三连超级月亮要来了！全国赏月指数地图出炉 看哪里将上演皓月当空",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736559.shtml",
+        "publishedAt": "2026-11-23T17:38:29.000+08:00"
       },
       {
-        "title": "2026年全国羽毛球传统学校比赛（高校组）在渝开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736525.shtml",
-        "publishedAt": "2026-11-23T17:21:32.000+08:00"
+        "title": "千余项审批不出园 沈阳“七彩政务”跑出惠企加速度",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736543.shtml",
+        "publishedAt": "2026-11-23T17:35:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T17:40:12.850+08:00",
+    "fetchedAt": "2026-11-23T17:50:02.909+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T17:40:46.760+08:00",
+      "fetchedAt": "2026-11-23T17:50:06.843+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T17:40:46.974+08:00",
+      "fetchedAt": "2026-11-23T17:50:06.990+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T17:40:46.984+08:00",
+      "fetchedAt": "2026-11-23T17:50:06.999+08:00",
       "error": null
     }
   }
