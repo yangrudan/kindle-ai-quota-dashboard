@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T10:20:08.434+08:00",
+  "updatedAt": "2026-11-23T10:30:07.971+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.7,
-    "feelsLikeC": 13.5,
+    "tempC": 14.9,
+    "feelsLikeC": 13.7,
     "humidity": 62,
-    "windKph": 3.6,
-    "windDir": "南风",
+    "windKph": 3.7,
+    "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T10:20:08.434+08:00",
+    "observedAt": "2026-11-23T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T10:30:07.971+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "8000亿元“金融活水”投向了哪些项目",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736317.shtml",
+        "publishedAt": "2026-11-23T10:21:09.000+08:00"
+      },
+      {
+        "title": "“骑”遇大藤峡 千余名选手广西桂平开启骑行之旅",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736299.shtml",
+        "publishedAt": "2026-11-23T10:20:19.000+08:00"
+      },
+      {
+        "title": "最高人民法院、中国侨联联合发布侨益司法保护典型案例",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736304.shtml",
+        "publishedAt": "2026-11-23T10:17:41.000+08:00"
+      },
+      {
+        "title": "稳市场！三项新政来了",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736308.shtml",
+        "publishedAt": "2026-11-23T10:15:39.000+08:00"
+      },
+      {
         "title": "21世纪金融年会启幕 爱康集团发布《2026 版银行及保险高净值客户健康绿皮书》",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736276.shtml",
         "publishedAt": "2026-11-23T10:11:47.000+08:00"
-      },
-      {
-        "title": "广西金秀民众欢庆瑶族盘王节",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736292.shtml",
-        "publishedAt": "2026-11-23T10:11:19.000+08:00"
-      },
-      {
-        "title": "经济保持增长 为什么有些人的感受不一样？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736305.shtml",
-        "publishedAt": "2026-11-23T10:10:59.000+08:00"
-      },
-      {
-        "title": "好吃又好玩！台青在深圳体验“未来生活”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736302.shtml",
-        "publishedAt": "2026-11-23T10:09:29.000+08:00"
-      },
-      {
-        "title": "从车厘子的“鲜”，品出亚太共同体的“甜”（财经观）",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736296.shtml",
-        "publishedAt": "2026-11-23T10:06:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T10:20:02.504+08:00",
+    "fetchedAt": "2026-11-23T10:30:02.340+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T10:20:06.852+08:00",
+      "fetchedAt": "2026-11-23T10:30:06.504+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 11,
           "resetAt": "2026-11-23T14:32:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 38,
+          "usedPct": 39,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T10:20:07.166+08:00",
+      "fetchedAt": "2026-11-23T10:30:06.670+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T10:20:07.170+08:00",
+      "fetchedAt": "2026-11-23T10:30:06.676+08:00",
       "error": null
     }
   }
