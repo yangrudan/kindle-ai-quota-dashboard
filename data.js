@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T20:40:08.844+08:00",
+  "updatedAt": "2026-11-23T20:50:08.068+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 12.5,
-    "feelsLikeC": 12.1,
-    "humidity": 94,
-    "windKph": 5.6,
+    "feelsLikeC": 12,
+    "humidity": 93,
+    "windKph": 6.8,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-23T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T20:40:08.844+08:00",
+    "observedAt": "2026-11-23T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T20:50:08.068+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国团队揭示克拉通边缘控制岩浆型铜镍硫化物成矿动力学机制",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736642.shtml",
-        "publishedAt": "2026-11-23T20:33:54.000+08:00"
+        "title": "中国浙籍侨胞扎根海外的薯条侨团",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736647.shtml",
+        "publishedAt": "2026-11-23T20:37:57.000+08:00"
       },
       {
-        "title": "黑龙江：让青年“进得来、留得下、住得安、能成业”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736641.shtml",
-        "publishedAt": "2026-11-23T20:33:08.000+08:00"
+        "title": "重庆高新区深耕新能源汽摩产业 力争到2030年规模达600亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736645.shtml",
+        "publishedAt": "2026-11-23T20:37:15.000+08:00"
       },
       {
-        "title": "2027澳网亚太区外卡赛成都开拍 正赛抽签对阵揭晓",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736640.shtml",
-        "publishedAt": "2026-11-23T20:32:24.000+08:00"
+        "title": "百亿级科创企业汇聚香港 探讨具身智能产业全球化路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736644.shtml",
+        "publishedAt": "2026-11-23T20:37:11.000+08:00"
       },
       {
-        "title": "第十二次中俄财长对话举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736637.shtml",
-        "publishedAt": "2026-11-23T20:31:50.000+08:00"
+        "title": "“00后”堆绣传承人德吉：让一门老手艺成为更多人的新出路",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736649.shtml",
+        "publishedAt": "2026-11-23T20:37:05.000+08:00"
       },
       {
-        "title": "山水之城如何“智”理 重庆为超大城市治理立新规",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736639.shtml",
-        "publishedAt": "2026-11-23T20:31:42.000+08:00"
+        "title": "福建法院织密涉侨司法保护网",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736646.shtml",
+        "publishedAt": "2026-11-23T20:35:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T20:40:02.894+08:00",
+    "fetchedAt": "2026-11-23T20:50:02.693+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T20:40:07.045+08:00",
+      "fetchedAt": "2026-11-23T20:50:06.748+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T01:40:08.000+08:00"
+          "resetAt": "2026-11-24T01:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T20:40:07.380+08:00",
+      "fetchedAt": "2026-11-23T20:50:07.150+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T20:40:07.390+08:00",
+      "fetchedAt": "2026-11-23T20:50:07.157+08:00",
       "error": null
     }
   }
