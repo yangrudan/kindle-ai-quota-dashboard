@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T18:40:08.474+08:00",
+  "updatedAt": "2026-11-23T18:50:08.363+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.9,
-    "feelsLikeC": 12.9,
-    "humidity": 92,
-    "windKph": 3.3,
+    "tempC": 12.8,
+    "feelsLikeC": 12.7,
+    "humidity": 93,
+    "windKph": 4.2,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-23T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T18:40:08.474+08:00",
+    "observedAt": "2026-11-23T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T18:50:08.363+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "印尼泗水国立大学孔子学院庆祝建院15周年",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736580.shtml",
-        "publishedAt": "2026-11-23T18:35:56.000+08:00"
+        "title": "大风蓝色预警：内蒙古山西等9省区局部地区阵风可达10级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736591.shtml",
+        "publishedAt": "2026-11-23T18:46:43.000+08:00"
       },
       {
-        "title": "国产疏浚新船“晟安龙”广州南沙下水 零燃油可拆装",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736577.shtml",
-        "publishedAt": "2026-11-23T18:34:44.000+08:00"
+        "title": "上海地铁新票价方案落地 12月1日起执行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736582.shtml",
+        "publishedAt": "2026-11-23T18:45:57.000+08:00"
       },
       {
-        "title": "高台跳水世界杯肇庆落幕 中国选手成年组首秀表现不俗",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736579.shtml",
-        "publishedAt": "2026-11-23T18:33:46.000+08:00"
+        "title": "河北衡水湖迎候鸟迁徙高峰 3万余只候鸟云集",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736584.shtml",
+        "publishedAt": "2026-11-23T18:43:50.000+08:00"
       },
       {
-        "title": "京津冀三地少年齐聚北京 演绎诵读魅力",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736578.shtml",
-        "publishedAt": "2026-11-23T18:32:20.000+08:00"
+        "title": "松花江干流哈尔滨段等6处江段封冻 黑龙江多条江河进入封冻期",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736588.shtml",
+        "publishedAt": "2026-11-23T18:43:40.000+08:00"
       },
       {
-        "title": "习近平法治思想对外翻译传播高端学术研讨会召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736381.shtml",
-        "publishedAt": "2026-11-23T18:28:02.000+08:00"
+        "title": "A股周一放量上涨 创业板指收盘涨逾3％",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736585.shtml",
+        "publishedAt": "2026-11-23T18:42:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T18:40:02.503+08:00",
+    "fetchedAt": "2026-11-23T18:50:02.609+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-23T18:40:06.427+08:00",
+      "fetchedAt": "2026-11-23T18:50:07.036+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T18:40:06.719+08:00",
+      "fetchedAt": "2026-11-23T18:50:07.253+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-23T18:40:06.729+08:00",
+      "fetchedAt": "2026-11-23T18:50:07.262+08:00",
       "error": null
     }
   }
