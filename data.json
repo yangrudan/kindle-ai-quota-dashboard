@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-24T11:40:17.586+08:00",
+  "updatedAt": "2026-11-24T11:50:08.720+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.4,
-    "feelsLikeC": 8.4,
-    "humidity": 40,
-    "windKph": 14.6,
+    "tempC": 12.5,
+    "feelsLikeC": 8.3,
+    "humidity": 38,
+    "windKph": 15.3,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T11:40:17.586+08:00",
+    "observedAt": "2026-11-24T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-24T11:50:08.720+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中柬将举行“金龙—2026”联合演习",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736866.shtml",
+        "publishedAt": "2026-11-24T11:42:02.000+08:00"
+      },
+      {
+        "title": "在一起，向未来：鸿蒙操作系统终端设备数突破1亿",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736865.shtml",
+        "publishedAt": "2026-11-24T11:38:32.000+08:00"
+      },
+      {
+        "title": "多连发外链：神二十四载人飞行任务新闻发布会",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10736873.shtml",
+        "publishedAt": "2026-11-24T11:38:20.000+08:00"
+      },
       {
         "title": "U17世界杯：中国队2:2战平摩洛哥",
         "url": "https://www.chinanews.com.cn/ty/2026/11-24/10736849.shtml",
@@ -28,24 +43,9 @@
         "title": "助力中国与东盟多领域合作 这场论坛在重庆举行",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-24/10736857.shtml",
         "publishedAt": "2026-11-24T11:29:05.000+08:00"
-      },
-      {
-        "title": "朝鲜考虑关闭瑞士驻平壤外交办事处",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736850.shtml",
-        "publishedAt": "2026-11-24T11:29:03.000+08:00"
-      },
-      {
-        "title": "从“要我安全”到“我要安全” 山东一线员工争当安全“哨兵”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736855.shtml",
-        "publishedAt": "2026-11-24T11:28:15.000+08:00"
-      },
-      {
-        "title": "国际最新研发出用植物生产抗癌药紫杉醇的新方式",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736829.shtml",
-        "publishedAt": "2026-11-24T11:19:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T11:40:12.117+08:00",
+    "fetchedAt": "2026-11-24T11:50:03.232+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T11:40:15.937+08:00",
+      "fetchedAt": "2026-11-24T11:50:07.505+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T11:40:16.169+08:00",
+      "fetchedAt": "2026-11-24T11:50:07.745+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T11:40:16.177+08:00",
+      "fetchedAt": "2026-11-24T11:50:07.755+08:00",
       "error": null
     }
   }
