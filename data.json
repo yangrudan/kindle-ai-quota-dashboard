@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T16:30:09.456+08:00",
+  "updatedAt": "2026-11-24T16:40:17.803+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-24T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T16:30:09.456+08:00",
+    "fetchedAt": "2026-11-24T16:40:17.804+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "老挝正式退出联合国最不发达国家行列",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737029.shtml",
-        "publishedAt": "2026-11-24T16:23:17.000+08:00"
+        "title": "江西上高：水酒民俗润乡土，同心聚力促振兴",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-24/10736943.shtml",
+        "publishedAt": "2026-11-24T16:32:38.000+08:00"
       },
       {
-        "title": "并非所有心梗都会胸痛 这些症状要警惕",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-24/10737027.shtml",
-        "publishedAt": "2026-11-24T16:21:43.000+08:00"
+        "title": "评论：严打外卖“代下单”黑产需加强跨平台共治",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737032.shtml",
+        "publishedAt": "2026-11-24T16:29:06.000+08:00"
       },
       {
-        "title": "“倚美谋独”遭重击 台湾前途在于国家统一",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737018.shtml",
-        "publishedAt": "2026-11-24T16:15:49.000+08:00"
+        "title": "推动盐业高质量发展：2026减盐健康指数稳中有升",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-24/10737036.shtml",
+        "publishedAt": "2026-11-24T16:28:58.000+08:00"
       },
       {
-        "title": "一场深圳APEC盛会，刺破台湾岛内信息茧房",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737004.shtml",
-        "publishedAt": "2026-11-24T16:12:11.000+08:00"
+        "title": "多家医院推出护士陪诊 与社会化陪诊分工互补",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-24/10736971.shtml",
+        "publishedAt": "2026-11-24T16:25:17.000+08:00"
       },
       {
-        "title": "从实训课堂到产业一线——全球首家鲁班工坊十年育人记",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737002.shtml",
-        "publishedAt": "2026-11-24T16:10:01.000+08:00"
+        "title": "陪诊首个国家标准实施：让陪诊有据可依、有责可追",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-24/10736968.shtml",
+        "publishedAt": "2026-11-24T16:25:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T16:30:02.646+08:00",
+    "fetchedAt": "2026-11-24T16:40:12.169+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T16:30:08.002+08:00",
+      "fetchedAt": "2026-11-24T16:40:16.114+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T16:30:08.319+08:00",
+      "fetchedAt": "2026-11-24T16:40:16.373+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T16:30:08.328+08:00",
+      "fetchedAt": "2026-11-24T16:40:16.380+08:00",
       "error": null
     }
   }
