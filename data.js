@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T13:10:17.802+08:00",
+  "updatedAt": "2026-11-24T13:20:18.557+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-24T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T13:10:17.803+08:00",
+    "fetchedAt": "2026-11-24T13:20:18.558+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "陕西子洲一天然气井发生着火事故致2人死亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736888.shtml",
+        "publishedAt": "2026-11-24T13:09:31.000+08:00"
+      },
       {
         "title": "陕西省委原常委、西安市委原书记方红卫被提起公诉",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736884.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "金与正谴责瑞士将朝鲜一个夏令营列入制裁名单：令人吃惊的卑鄙行径",
         "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736883.shtml",
         "publishedAt": "2026-11-24T12:32:01.000+08:00"
-      },
-      {
-        "title": "我国雨雪范围大幅缩减 云南局地有暴雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736881.shtml",
-        "publishedAt": "2026-11-24T12:29:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T13:10:12.105+08:00",
+    "fetchedAt": "2026-11-24T13:20:12.425+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T13:10:16.503+08:00",
+      "fetchedAt": "2026-11-24T13:20:16.552+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T13:10:16.480+08:00",
+      "fetchedAt": "2026-11-24T13:20:16.804+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T13:10:16.492+08:00",
+      "fetchedAt": "2026-11-24T13:20:16.809+08:00",
       "error": null
     }
   }
