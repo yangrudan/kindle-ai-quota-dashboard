@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T07:00:08.480+08:00",
+  "updatedAt": "2026-11-25T07:10:08.936+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-25T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T07:00:08.480+08:00",
+    "fetchedAt": "2026-11-25T07:10:08.936+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美媒：黄仁勋向英伟达全体员工致歉 称正接受心理治疗",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737284.shtml",
+        "publishedAt": "2026-11-25T07:01:37.000+08:00"
+      },
+      {
+        "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737283.shtml",
+        "publishedAt": "2026-11-25T06:52:53.000+08:00"
+      },
       {
         "title": "11月25日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737282.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "英国2026年夏季高温致死人数创新高",
         "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737280.shtml",
         "publishedAt": "2026-11-25T06:24:07.000+08:00"
-      },
-      {
-        "title": "俄“进步MS-36”货运飞船发射升空前往国际空间站",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737279.shtml",
-        "publishedAt": "2026-11-25T06:23:35.000+08:00"
-      },
-      {
-        "title": "马来西亚拟加强AI陪伴类应用监管",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737278.shtml",
-        "publishedAt": "2026-11-25T06:21:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T07:00:02.682+08:00",
+    "fetchedAt": "2026-11-25T07:10:03.275+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T07:00:06.831+08:00",
+      "fetchedAt": "2026-11-25T07:10:07.579+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T12:00:08.000+08:00"
+          "resetAt": "2026-11-25T12:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T07:00:07.119+08:00",
+      "fetchedAt": "2026-11-25T07:10:07.798+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T07:00:07.129+08:00",
+      "fetchedAt": "2026-11-25T07:10:07.806+08:00",
       "error": null
     }
   }
