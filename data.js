@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T20:40:38.044+08:00",
+  "updatedAt": "2026-11-24T20:50:07.685+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 7,
-    "feelsLikeC": 4.6,
-    "humidity": 66,
-    "windKph": 2.7,
+    "feelsLikeC": 4.7,
+    "humidity": 65,
+    "windKph": 1.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T20:40:38.044+08:00",
+    "observedAt": "2026-11-24T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-24T20:50:07.686+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖南省首单跨市州“区港联动”业务落地常德保税物流中心",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737185.shtml",
-        "publishedAt": "2026-11-24T20:28:26.000+08:00"
+        "title": "湖北开展森林草原火灾扑救跨区域实战演练",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10737186.shtml",
+        "publishedAt": "2026-11-24T20:41:25.000+08:00"
       },
       {
-        "title": "冷空气携狂风暴雨影响广东",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737184.shtml",
-        "publishedAt": "2026-11-24T20:28:18.000+08:00"
+        "title": "今年前10个月新疆进出口值同比增超13%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737200.shtml",
+        "publishedAt": "2026-11-24T20:41:15.000+08:00"
       },
       {
-        "title": "特朗普：黄仁勋已向妻子道歉，“她是一位非常优秀的女性”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737183.shtml",
-        "publishedAt": "2026-11-24T20:26:38.000+08:00"
+        "title": "外国嘉宾走进山西晋中 感受晋商文化",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10737177.shtml",
+        "publishedAt": "2026-11-24T20:40:23.000+08:00"
       },
       {
-        "title": "中柬“金龙—2026”联合演习筹备工作稳步推进",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211548.shtml",
-        "publishedAt": "2026-11-24T20:17:21.000+08:00"
+        "title": "长期左侧卧睡 真的会压迫损伤心脏吗？",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-24/10737212.shtml",
+        "publishedAt": "2026-11-24T20:40:07.000+08:00"
       },
       {
-        "title": "一枚航天冰箱贴延伸电影《登月》的文化长尾",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737172.shtml",
-        "publishedAt": "2026-11-24T20:07:33.000+08:00"
+        "title": "亚洲数学联盟落户港中大 丘成桐担任主席",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-24/10737201.shtml",
+        "publishedAt": "2026-11-24T20:39:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T20:40:03.295+08:00",
+    "fetchedAt": "2026-11-24T20:50:02.808+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T20:40:36.844+08:00",
+      "fetchedAt": "2026-11-24T20:50:06.520+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T01:40:38.000+08:00"
+          "resetAt": "2026-11-25T01:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T20:40:37.057+08:00",
+      "fetchedAt": "2026-11-24T20:50:06.806+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T20:40:37.065+08:00",
+      "fetchedAt": "2026-11-24T20:50:06.812+08:00",
       "error": null
     }
   }
