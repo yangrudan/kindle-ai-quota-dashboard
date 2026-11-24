@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-24T11:50:08.720+08:00",
+  "updatedAt": "2026-11-24T12:00:08.857+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.5,
+    "tempC": 12.6,
     "feelsLikeC": 8.3,
-    "humidity": 38,
-    "windKph": 15.3,
+    "humidity": 37,
+    "windKph": 15.8,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-24T11:50:08.720+08:00",
+    "observedAt": "2026-11-24T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-24T12:00:08.857+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "巴基斯坦航天员齐尚·阿里秀中文：欲穷千里目，更上一层楼",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736876.shtml",
+        "publishedAt": "2026-11-24T11:45:20.000+08:00"
+      },
       {
         "title": "中柬将举行“金龙—2026”联合演习",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736866.shtml",
@@ -38,14 +43,9 @@
         "title": "U17世界杯：中国队2:2战平摩洛哥",
         "url": "https://www.chinanews.com.cn/ty/2026/11-24/10736849.shtml",
         "publishedAt": "2026-11-24T11:29:43.000+08:00"
-      },
-      {
-        "title": "助力中国与东盟多领域合作 这场论坛在重庆举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-24/10736857.shtml",
-        "publishedAt": "2026-11-24T11:29:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T11:50:03.232+08:00",
+    "fetchedAt": "2026-11-24T12:00:02.768+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T11:50:07.505+08:00",
+      "fetchedAt": "2026-11-24T12:00:07.212+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T11:50:07.745+08:00",
+      "fetchedAt": "2026-11-24T12:00:07.481+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T11:50:07.755+08:00",
+      "fetchedAt": "2026-11-24T12:00:07.491+08:00",
       "error": null
     }
   }
