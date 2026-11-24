@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T19:30:08.173+08:00",
+  "updatedAt": "2026-11-24T19:40:09.069+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-24T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T19:30:08.173+08:00",
+    "fetchedAt": "2026-11-24T19:40:09.069+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "印尼糖果厂火灾已致26人死亡 警方展开刑事调查",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737143.shtml",
-        "publishedAt": "2026-11-24T19:22:09.000+08:00"
+        "title": "黑龙江向全国发出邀约 带着机器人来冰城参加“冰超”赛",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737128.shtml",
+        "publishedAt": "2026-11-24T19:29:41.000+08:00"
       },
       {
-        "title": "“攻守有道——吉林省博物院藏古代兵器展”吸引参观者",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10737130.shtml",
-        "publishedAt": "2026-11-24T19:10:24.000+08:00"
+        "title": "杭州为创新栽下千棵“好苗子”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737140.shtml",
+        "publishedAt": "2026-11-24T19:29:35.000+08:00"
       },
       {
-        "title": "2026年10月全国查处违反中央八项规定精神问题28934起",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737139.shtml",
-        "publishedAt": "2026-11-24T19:05:46.000+08:00"
+        "title": "美国青年走进广州校园体验中华文化",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737129.shtml",
+        "publishedAt": "2026-11-24T19:28:37.000+08:00"
       },
       {
-        "title": "河南郑州文庙银杏吸引游人打卡",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10737086.shtml",
-        "publishedAt": "2026-11-24T19:03:18.000+08:00"
+        "title": "首届北京数字化雕塑协会实验展探索数字雕塑的赋能潜力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737131.shtml",
+        "publishedAt": "2026-11-24T19:28:31.000+08:00"
       },
       {
-        "title": "“一国两制”与基本法研讨会在香港举行 聚焦统筹发展和安全",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-24/10737120.shtml",
-        "publishedAt": "2026-11-24T18:58:18.000+08:00"
+        "title": "“中国罗非鱼之都”广东茂名罗非鱼“游”进亚太供应链",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737141.shtml",
+        "publishedAt": "2026-11-24T19:28:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T19:30:02.473+08:00",
+    "fetchedAt": "2026-11-24T19:40:02.396+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T19:30:06.847+08:00",
+      "fetchedAt": "2026-11-24T19:40:07.346+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 57,
-          "resetAt": "2026-11-24T19:32:57.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-25T00:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T19:30:07.158+08:00",
+      "fetchedAt": "2026-11-24T19:40:07.733+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T19:30:07.166+08:00",
+      "fetchedAt": "2026-11-24T19:40:07.742+08:00",
       "error": null
     }
   }
