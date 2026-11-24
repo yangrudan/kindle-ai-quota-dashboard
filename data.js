@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T09:00:11.517+08:00",
+  "updatedAt": "2026-11-24T09:10:07.441+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-24T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T09:00:11.517+08:00",
+    "fetchedAt": "2026-11-24T09:10:07.441+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "神舟二十四号载人飞船瞄准11月25日08时18分发射",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736757.shtml",
+        "publishedAt": "2026-11-24T09:06:38.000+08:00"
+      },
+      {
+        "title": "莲实有心应不死：薪火不绝的诗教之路",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736750.shtml",
+        "publishedAt": "2026-11-24T08:57:15.000+08:00"
+      },
       {
         "title": "大学课堂评价需要什么样的标尺？——从高校课堂“抬头率”说起",
         "url": "https://www.chinanews.com.cn/edu/2026/11-24/10736755.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "设置大量繁杂题目和性格测试 过度求职测评太“烧心”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736753.shtml",
         "publishedAt": "2026-11-24T08:41:32.000+08:00"
-      },
-      {
-        "title": "直播：神舟二十四号载人飞行任务新闻发布会",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10736752.shtml",
-        "publishedAt": "2026-11-24T08:41:08.000+08:00"
-      },
-      {
-        "title": "非洲公共卫生国际会议在埃塞举行 聚焦卫生融资等议题",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736741.shtml",
-        "publishedAt": "2026-11-24T08:27:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T09:00:04.543+08:00",
+    "fetchedAt": "2026-11-24T09:10:02.597+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T09:00:09.466+08:00",
+      "fetchedAt": "2026-11-24T09:10:06.122+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T14:00:11.000+08:00"
+          "resetAt": "2026-11-24T14:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T09:00:09.797+08:00",
+      "fetchedAt": "2026-11-24T09:10:06.388+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T09:00:09.809+08:00",
+      "fetchedAt": "2026-11-24T09:10:06.392+08:00",
       "error": null
     }
   }
