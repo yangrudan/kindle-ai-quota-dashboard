@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T08:20:09.112+08:00",
+  "updatedAt": "2026-11-24T08:30:08.510+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.4,
+    "tempC": 9.6,
     "feelsLikeC": 6.2,
-    "humidity": 65,
-    "windKph": 10.6,
+    "humidity": 61,
+    "windKph": 11.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-24T08:20:09.112+08:00",
+    "observedAt": "2026-11-24T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-24T08:30:08.510+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "净网专项行动 | 公安部网安局公布2026年度使用AI工具编造传播网络谣言10起典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736747.shtml",
-        "publishedAt": "2026-11-24T08:04:34.000+08:00"
+        "title": "德总理默茨会见北约秘书长吕特 重点讨论乌克兰问题",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736738.shtml",
+        "publishedAt": "2026-11-24T08:25:53.000+08:00"
       },
       {
-        "title": "神舟二十四号载人飞行任务新闻发布会将于今天上午召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736745.shtml",
-        "publishedAt": "2026-11-24T08:01:44.000+08:00"
+        "title": "中方呼吁确保黑海粮食、石油等重要民生物资正常流通",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736736.shtml",
+        "publishedAt": "2026-11-24T08:25:01.000+08:00"
       },
       {
-        "title": "网传纳米海绵会释放微塑料 用它洗碗安全吗？",
-        "url": "https://www.chinanews.com.cn/life/2026/11-24/10736743.shtml",
-        "publishedAt": "2026-11-24T07:49:19.000+08:00"
+        "title": "信用卡“瘦身”“转身”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736749.shtml",
+        "publishedAt": "2026-11-24T08:24:27.000+08:00"
       },
       {
-        "title": "特朗普下令：暂停美军在艾奥瓦州引爆有毒化学物质",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736742.shtml",
-        "publishedAt": "2026-11-24T07:48:01.000+08:00"
+        "title": "美国俄亥俄州巴士相撞致2亡9伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736735.shtml",
+        "publishedAt": "2026-11-24T08:24:11.000+08:00"
       },
       {
-        "title": "东北叙事为什么火",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736740.shtml",
-        "publishedAt": "2026-11-24T07:44:03.000+08:00"
+        "title": "英国将承办2035年女足世界杯",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736734.shtml",
+        "publishedAt": "2026-11-24T08:23:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T08:20:02.982+08:00",
+    "fetchedAt": "2026-11-24T08:30:03.190+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T08:20:07.237+08:00",
+      "fetchedAt": "2026-11-24T08:30:07.166+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T13:20:09.000+08:00"
+          "resetAt": "2026-11-24T13:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T08:20:07.491+08:00",
+      "fetchedAt": "2026-11-24T08:30:07.402+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T08:20:07.499+08:00",
+      "fetchedAt": "2026-11-24T08:30:07.413+08:00",
       "error": null
     }
   }
