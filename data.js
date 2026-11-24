@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T17:50:38.870+08:00",
+  "updatedAt": "2026-11-24T18:00:08.316+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.8,
-    "feelsLikeC": 5.4,
-    "humidity": 54,
-    "windKph": 8.4,
+    "tempC": 8.5,
+    "feelsLikeC": 5.1,
+    "humidity": 56,
+    "windKph": 8.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-24T17:50:38.870+08:00",
+    "observedAt": "2026-11-24T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-24T18:00:08.316+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "冬天嗓子干、流鼻血？有这四种症状小心“暖气病”",
-        "url": "https://www.chinanews.com.cn/life/2026/11-24/10737087.shtml",
-        "publishedAt": "2026-11-24T17:39:43.000+08:00"
+        "title": "从“千里调运”到“棚里现摘”：青海茫崖老旧大棚“重生”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737090.shtml",
+        "publishedAt": "2026-11-24T17:52:16.000+08:00"
       },
       {
-        "title": "第十届“艺术长沙”举行 尹朝阳、马轲双个展亮相美仑美术馆",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737081.shtml",
-        "publishedAt": "2026-11-24T17:39:29.000+08:00"
+        "title": "黑龙江推出多项改革举措 持续优化营商环境吸引投资",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737089.shtml",
+        "publishedAt": "2026-11-24T17:51:24.000+08:00"
       },
       {
-        "title": "宁夏隆德：小小帮扶车间 托起稳稳致富路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737080.shtml",
-        "publishedAt": "2026-11-24T17:39:23.000+08:00"
+        "title": "聚焦自主创“芯”和智能制造 2026国家工业软件大会举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737088.shtml",
+        "publishedAt": "2026-11-24T17:51:22.000+08:00"
       },
       {
-        "title": "山东国企依托主业场景加快布局人工智能新赛道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737079.shtml",
-        "publishedAt": "2026-11-24T17:37:31.000+08:00"
+        "title": "中越边境国门通道天麻高速正式通车",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-24/10737085.shtml",
+        "publishedAt": "2026-11-24T17:48:00.000+08:00"
       },
       {
-        "title": "中国商务部回应欧盟宣布对混动汽车采取临时保障措施",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737075.shtml",
-        "publishedAt": "2026-11-24T17:36:37.000+08:00"
+        "title": "百余件长沙马王堆汉墓出土文物在山东青州集结展出",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737084.shtml",
+        "publishedAt": "2026-11-24T17:46:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T17:50:02.278+08:00",
+    "fetchedAt": "2026-11-24T18:00:02.921+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T17:50:36.283+08:00",
+      "fetchedAt": "2026-11-24T18:00:07.000+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T17:50:37.059+08:00",
+      "fetchedAt": "2026-11-24T18:00:07.334+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T17:50:37.063+08:00",
+      "fetchedAt": "2026-11-24T18:00:07.338+08:00",
       "error": null
     }
   }
