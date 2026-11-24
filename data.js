@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T22:00:08.650+08:00",
+  "updatedAt": "2026-11-24T22:10:10.629+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-24T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T22:00:08.650+08:00",
+    "fetchedAt": "2026-11-24T22:10:10.629+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "特朗普停下脚步鼓掌，普京听到熟悉的歌：深圳APEC晚宴乐章曲目大有深意",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737258.shtml",
-        "publishedAt": "2026-11-24T21:53:49.000+08:00"
+        "title": "日本今年1至9月出生人口同比减少0.3%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737230.shtml",
+        "publishedAt": "2026-11-24T22:04:56.000+08:00"
       },
       {
-        "title": "香港无纸证券制度实施后迎来首只新股上市",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-24/10737257.shtml",
-        "publishedAt": "2026-11-24T21:53:35.000+08:00"
+        "title": "哈尔滨市宾县：整合冰雪、温泉、民俗优质资源 培育三大特色冰雪体验",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737264.shtml",
+        "publishedAt": "2026-11-24T22:04:40.000+08:00"
       },
       {
-        "title": "黑龙江尚志市：9座雪场梯次布局 邀游客沉浸式体验酣畅滑雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737256.shtml",
-        "publishedAt": "2026-11-24T21:53:31.000+08:00"
+        "title": "印度阿约提亚至尼泊尔贾纳克布尔新开直达客运列车抵尼",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737211.shtml",
+        "publishedAt": "2026-11-24T22:04:30.000+08:00"
       },
       {
-        "title": "广西龙胜举行盘王节 展瑶家民俗享泉暖康养",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737236.shtml",
-        "publishedAt": "2026-11-24T21:51:51.000+08:00"
+        "title": "韩国30至39岁人群未婚比例升至53.1%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737158.shtml",
+        "publishedAt": "2026-11-24T22:04:02.000+08:00"
       },
       {
-        "title": "广西北海多方联动护航候鸟平安过境",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737241.shtml",
-        "publishedAt": "2026-11-24T21:50:47.000+08:00"
+        "title": "新的社会阶层人士齐聚“世界橙乡”江西赣州 开启“寻美”之旅",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737263.shtml",
+        "publishedAt": "2026-11-24T22:03:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T22:00:03.388+08:00",
+    "fetchedAt": "2026-11-24T22:10:03.213+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T22:00:07.110+08:00",
+      "fetchedAt": "2026-11-24T22:10:07.956+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T03:00:08.000+08:00"
+          "resetAt": "2026-11-25T03:10:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T22:00:07.508+08:00",
+      "fetchedAt": "2026-11-24T22:10:08.258+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T22:00:07.517+08:00",
+      "fetchedAt": "2026-11-24T22:10:08.265+08:00",
       "error": null
     }
   }
