@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T13:40:07.984+08:00",
+  "updatedAt": "2026-11-24T13:50:09.034+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.6,
-    "feelsLikeC": 7.6,
-    "humidity": 31,
-    "windKph": 16.2,
+    "tempC": 12.5,
+    "feelsLikeC": 7.5,
+    "humidity": 32,
+    "windKph": 15.9,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T13:40:07.984+08:00",
+    "observedAt": "2026-11-24T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-24T13:50:09.034+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "补时被绝平，U17男足世界杯中国队2比2摩洛哥队",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10736889.shtml",
-        "publishedAt": "2026-11-24T13:29:36.000+08:00"
+        "title": "近三年西藏那曲冬虫夏草总产量89.2吨 年产值超30亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736893.shtml",
+        "publishedAt": "2026-11-24T13:43:55.000+08:00"
       },
       {
-        "title": "养老服务金融“变阵” 接住更多人养老需求",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736877.shtml",
-        "publishedAt": "2026-11-24T13:21:07.000+08:00"
+        "title": "江苏扬州14部门联合出台十条措施 以法治合力守护大运河“生态+文遗”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736898.shtml",
+        "publishedAt": "2026-11-24T13:42:55.000+08:00"
       },
       {
-        "title": "陕西子洲一天然气井发生着火事故致2人死亡",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736888.shtml",
-        "publishedAt": "2026-11-24T13:09:31.000+08:00"
+        "title": "报告称创新AI工具可帮助中国品牌高效联接全球各地多元化的消费者",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736892.shtml",
+        "publishedAt": "2026-11-24T13:42:17.000+08:00"
       },
       {
-        "title": "陕西省委原常委、西安市委原书记方红卫被提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736884.shtml",
-        "publishedAt": "2026-11-24T12:40:13.000+08:00"
+        "title": "川鄂开辟三峡翻坝运输新航线",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736891.shtml",
+        "publishedAt": "2026-11-24T13:41:14.000+08:00"
       },
       {
-        "title": "“一老一小”新政来了！改造2000个养老机构、打造“一刻钟托育服务圈”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736885.shtml",
-        "publishedAt": "2026-11-24T12:35:31.000+08:00"
+        "title": "第七届巫山神女杯艺术电影周闭幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736895.shtml",
+        "publishedAt": "2026-11-24T13:40:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T13:40:02.533+08:00",
+    "fetchedAt": "2026-11-24T13:50:03.549+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T13:40:06.309+08:00",
+      "fetchedAt": "2026-11-24T13:50:07.626+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T13:40:06.655+08:00",
+      "fetchedAt": "2026-11-24T13:50:07.853+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T13:40:06.664+08:00",
+      "fetchedAt": "2026-11-24T13:50:07.862+08:00",
       "error": null
     }
   }
