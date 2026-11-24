@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:10:17.806+08:00",
+  "updatedAt": "2026-11-25T05:20:37.856+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@
     "windKph": 0.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-25T05:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T05:10:17.806+08:00",
+    "observedAt": "2026-11-25T05:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T05:20:37.856+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "直播：神舟二十四号出征太空 “天宫”将迎首位外籍航天员",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737274.shtml",
+        "publishedAt": "2026-11-25T05:03:55.000+08:00"
+      },
       {
         "title": "从“流量依赖”到“内容回归”：AI给影视行业上了一课",
         "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737271.shtml",
@@ -38,14 +43,9 @@
         "title": "神舟二十四号载人飞行任务航天员与记者见面",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211565.shtml",
         "publishedAt": "2026-11-24T22:43:16.000+08:00"
-      },
-      {
-        "title": "日本今年1至9月出生人口同比减少0.3%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737230.shtml",
-        "publishedAt": "2026-11-24T22:04:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T05:10:12.148+08:00",
+    "fetchedAt": "2026-11-25T05:20:02.526+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T05:10:16.077+08:00",
+      "fetchedAt": "2026-11-25T05:20:36.522+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T10:10:17.000+08:00"
+          "resetAt": "2026-11-25T10:20:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T05:10:16.334+08:00",
+      "fetchedAt": "2026-11-25T05:20:36.765+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T05:10:16.339+08:00",
+      "fetchedAt": "2026-11-25T05:20:36.769+08:00",
       "error": null
     }
   }
