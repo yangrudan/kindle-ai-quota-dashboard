@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T12:30:37.958+08:00",
+  "updatedAt": "2026-11-24T12:40:17.680+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-24T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T12:30:37.959+08:00",
+    "fetchedAt": "2026-11-24T12:40:17.680+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "金与正谴责瑞士将朝鲜一个夏令营列入制裁名单：令人吃惊的卑鄙行径",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736883.shtml",
+        "publishedAt": "2026-11-24T12:32:01.000+08:00"
+      },
+      {
+        "title": "我国雨雪范围大幅缩减 云南局地有暴雨",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736881.shtml",
+        "publishedAt": "2026-11-24T12:29:43.000+08:00"
+      },
+      {
+        "title": "民主党人：将“动用全部权力”调查黄仁勋、特朗普",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736880.shtml",
+        "publishedAt": "2026-11-24T12:27:38.000+08:00"
+      },
       {
         "title": "武毅谈中外航天员联合飞行：文化有差异，但探索飞天的梦想一致",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736879.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "巴基斯坦航天员齐尚·阿里秀中文：欲穷千里目，更上一层楼",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736876.shtml",
         "publishedAt": "2026-11-24T11:45:20.000+08:00"
-      },
-      {
-        "title": "中柬将举行“金龙—2026”联合演习",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736866.shtml",
-        "publishedAt": "2026-11-24T11:42:02.000+08:00"
-      },
-      {
-        "title": "在一起，向未来：鸿蒙操作系统终端设备数突破1亿",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736865.shtml",
-        "publishedAt": "2026-11-24T11:38:32.000+08:00"
-      },
-      {
-        "title": "多连发外链：神二十四载人飞行任务新闻发布会",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10736873.shtml",
-        "publishedAt": "2026-11-24T11:38:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T12:30:02.900+08:00",
+    "fetchedAt": "2026-11-24T12:40:12.130+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T12:30:36.524+08:00",
+      "fetchedAt": "2026-11-24T12:40:16.381+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T12:30:36.889+08:00",
+      "fetchedAt": "2026-11-24T12:40:16.649+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T12:30:36.899+08:00",
+      "fetchedAt": "2026-11-24T12:40:16.652+08:00",
       "error": null
     }
   }
