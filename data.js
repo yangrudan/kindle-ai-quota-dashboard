@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T16:10:09.090+08:00",
+  "updatedAt": "2026-11-24T16:20:09.400+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.7,
-    "feelsLikeC": 8,
-    "humidity": 42,
-    "windKph": 9.3,
+    "tempC": 11.3,
+    "feelsLikeC": 7.7,
+    "humidity": 44,
+    "windKph": 8.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T16:10:09.091+08:00",
+    "observedAt": "2026-11-24T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-24T16:20:09.400+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "一场深圳APEC盛会，刺破台湾岛内信息茧房",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737004.shtml",
+        "publishedAt": "2026-11-24T16:12:11.000+08:00"
+      },
+      {
+        "title": "从实训课堂到产业一线——全球首家鲁班工坊十年育人记",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737002.shtml",
+        "publishedAt": "2026-11-24T16:10:01.000+08:00"
+      },
+      {
+        "title": "马来西亚前部长：APEC深圳会议指明方向，“新一代互联互通”成亚太破局关键",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737001.shtml",
+        "publishedAt": "2026-11-24T16:07:14.000+08:00"
+      },
+      {
+        "title": "巴基斯坦媒体：中国航天国际合作为发展中国家打开太空之门",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736999.shtml",
+        "publishedAt": "2026-11-24T16:05:32.000+08:00"
+      },
+      {
         "title": "“冰雪+”活力奔涌，烹出“特”字当先的冰雪热经济",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736996.shtml",
         "publishedAt": "2026-11-24T16:01:02.000+08:00"
-      },
-      {
-        "title": "神二十四乘组集体亮相 三名航天员简历公布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736946.shtml",
-        "publishedAt": "2026-11-24T16:00:06.000+08:00"
-      },
-      {
-        "title": "湖北武汉：晴川阁银杏金黄引游客",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10736987.shtml",
-        "publishedAt": "2026-11-24T15:56:42.000+08:00"
-      },
-      {
-        "title": "夯实“一老一小”服务，筑牢民生之基",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736994.shtml",
-        "publishedAt": "2026-11-24T15:55:02.000+08:00"
-      },
-      {
-        "title": "法治之光点亮清朗之城 网络法治护航高质量发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736993.shtml",
-        "publishedAt": "2026-11-24T15:53:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T16:10:03.802+08:00",
+    "fetchedAt": "2026-11-24T16:20:03.100+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T16:10:07.646+08:00",
+      "fetchedAt": "2026-11-24T16:20:07.692+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T16:10:07.925+08:00",
+      "fetchedAt": "2026-11-24T16:20:08.088+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T16:10:07.935+08:00",
+      "fetchedAt": "2026-11-24T16:20:08.095+08:00",
       "error": null
     }
   }
