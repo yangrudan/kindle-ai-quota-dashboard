@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T18:20:17.972+08:00",
+  "updatedAt": "2026-11-24T18:30:08.243+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.5,
-    "feelsLikeC": 5.1,
-    "humidity": 56,
-    "windKph": 8.3,
+    "tempC": 8,
+    "feelsLikeC": 4.9,
+    "humidity": 59,
+    "windKph": 7.1,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T18:20:17.972+08:00",
+    "observedAt": "2026-11-24T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-24T18:30:08.243+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（乡村行·看振兴）梅里斯达斡尔族区红旗村：3566亩托管良田交出初冬“增收账”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737105.shtml",
+        "publishedAt": "2026-11-24T18:22:20.000+08:00"
+      },
+      {
+        "title": "今年10月访港旅客约513万人次 同比升12%",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-24/10737104.shtml",
+        "publishedAt": "2026-11-24T18:19:15.000+08:00"
+      },
+      {
+        "title": "约八成展品首亮相 吉林省博物院展出古代兵器珍藏",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737102.shtml",
+        "publishedAt": "2026-11-24T18:14:11.000+08:00"
+      },
       {
         "title": "2962家古茗门店齐助力，雪域高原换上新操场",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737097.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "聚焦关键核心技术保护 最高检发布5起典型案例",
         "url": "https://www.chinanews.com.cn/fz/2026/11-24/10737100.shtml",
         "publishedAt": "2026-11-24T18:05:23.000+08:00"
-      },
-      {
-        "title": "一场体育盛会激活一座城 广西北海力拓文体旅新格局",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-24/10737094.shtml",
-        "publishedAt": "2026-11-24T18:05:07.000+08:00"
-      },
-      {
-        "title": "1800名冰雪少年绥化集结 黑龙江“冰超”赛事再添新军",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10737093.shtml",
-        "publishedAt": "2026-11-24T18:02:15.000+08:00"
-      },
-      {
-        "title": "天津七里海湿地新增5种鸟类记录 累计记录达313种",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737096.shtml",
-        "publishedAt": "2026-11-24T17:58:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T18:20:12.173+08:00",
+    "fetchedAt": "2026-11-24T18:30:03.089+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T18:20:16.763+08:00",
+      "fetchedAt": "2026-11-24T18:30:06.996+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T18:20:16.951+08:00",
+      "fetchedAt": "2026-11-24T18:30:07.259+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T18:20:16.960+08:00",
+      "fetchedAt": "2026-11-24T18:30:07.266+08:00",
       "error": null
     }
   }
