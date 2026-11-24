@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T19:50:38.160+08:00",
+  "updatedAt": "2026-11-24T20:00:09.176+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7,
-    "feelsLikeC": 4.2,
+    "tempC": 6.9,
+    "feelsLikeC": 4.1,
     "humidity": 64,
-    "windKph": 5.2,
+    "windKph": 4.9,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-24T19:50:38.160+08:00",
+    "observedAt": "2026-11-24T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-24T20:00:09.176+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "陈平原、王德威等对谈“李欧梵的二十世纪”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737155.shtml",
-        "publishedAt": "2026-11-24T19:46:20.000+08:00"
+        "title": "2026年黑龙江省外语导游培训班开班",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737151.shtml",
+        "publishedAt": "2026-11-24T19:50:50.000+08:00"
       },
       {
-        "title": "冰雪景观、精品赛事、休闲业态交融 哈尔滨市道里区端出冬日文旅盛宴",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737150.shtml",
-        "publishedAt": "2026-11-24T19:45:40.000+08:00"
+        "title": "七位艺术家的200余件（套）西藏题材作品展出 填补雪域记忆",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737161.shtml",
+        "publishedAt": "2026-11-24T19:50:26.000+08:00"
       },
       {
-        "title": "原四川省交通投资集团有限责任公司党委委员、职工董事、工会主席彭洪严重违纪违法被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737156.shtml",
-        "publishedAt": "2026-11-24T19:44:58.000+08:00"
+        "title": "从“无”到“精” 腾冲科学家论坛五年聚才引智逾千项",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737162.shtml",
+        "publishedAt": "2026-11-24T19:49:20.000+08:00"
       },
       {
-        "title": "四川省阿坝州人大常委会原党组副书记、副主任贺松严重违纪违法被开除党籍和公职",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737154.shtml",
-        "publishedAt": "2026-11-24T19:44:46.000+08:00"
+        "title": "“一场会面引发调查”？美国会民主党人着手调查万斯",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737164.shtml",
+        "publishedAt": "2026-11-24T19:49:16.000+08:00"
       },
       {
-        "title": "上海机构养老专委会揭牌成立 专家预判机构养老刚性需求将大增",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737135.shtml",
-        "publishedAt": "2026-11-24T19:44:10.000+08:00"
+        "title": "重庆办国际旅行商大会东盟专场活动深化文旅合作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-24/10737153.shtml",
+        "publishedAt": "2026-11-24T19:48:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T19:50:03.203+08:00",
+    "fetchedAt": "2026-11-24T20:00:03.160+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T19:50:36.860+08:00",
+      "fetchedAt": "2026-11-24T20:00:07.809+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T00:50:37.000+08:00"
+          "resetAt": "2026-11-25T01:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T19:50:37.141+08:00",
+      "fetchedAt": "2026-11-24T20:00:08.124+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T19:50:37.144+08:00",
+      "fetchedAt": "2026-11-24T20:00:08.127+08:00",
       "error": null
     }
   }
