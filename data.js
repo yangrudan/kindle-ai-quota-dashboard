@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T07:40:09.058+08:00",
+  "updatedAt": "2026-11-25T07:50:08.651+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 3.9,
-    "feelsLikeC": 1.5,
-    "humidity": 84,
-    "windKph": 3.3,
+    "tempC": 4.6,
+    "feelsLikeC": 2.2,
+    "humidity": 81,
+    "windKph": 3.6,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T07:40:09.058+08:00",
+    "observedAt": "2026-11-25T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T07:50:08.651+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "顶尖AI学院，用“古法教学”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737290.shtml",
+        "publishedAt": "2026-11-25T07:43:18.000+08:00"
+      },
+      {
+        "title": "投资金条为何受热捧",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737289.shtml",
+        "publishedAt": "2026-11-25T07:37:03.000+08:00"
+      },
       {
         "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-25/1211569.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "人才缺口超百万！新职业来了",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737286.shtml",
         "publishedAt": "2026-11-25T07:20:54.000+08:00"
-      },
-      {
-        "title": "土耳其一军用直升机坠毁 造成5名士兵死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737285.shtml",
-        "publishedAt": "2026-11-25T07:16:24.000+08:00"
-      },
-      {
-        "title": "美媒：黄仁勋向英伟达全体员工致歉 称正接受心理治疗",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737284.shtml",
-        "publishedAt": "2026-11-25T07:01:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T07:40:02.923+08:00",
+    "fetchedAt": "2026-11-25T07:50:02.753+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T07:40:07.214+08:00",
+      "fetchedAt": "2026-11-25T07:50:07.411+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T12:40:08.000+08:00"
+          "resetAt": "2026-11-25T12:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T07:40:07.596+08:00",
+      "fetchedAt": "2026-11-25T07:50:07.757+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T07:40:07.599+08:00",
+      "fetchedAt": "2026-11-25T07:50:07.762+08:00",
       "error": null
     }
   }
