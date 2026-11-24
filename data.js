@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T15:40:07.911+08:00",
+  "updatedAt": "2026-11-24T15:50:08.855+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.1,
+    "tempC": 12,
     "feelsLikeC": 8.2,
-    "humidity": 38,
-    "windKph": 10.5,
-    "windDir": "北风",
+    "humidity": 40,
+    "windKph": 9.8,
+    "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T15:40:07.911+08:00",
+    "observedAt": "2026-11-24T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-24T15:50:08.855+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中方：始终秉持相互尊重、平等相待的原则发展同所罗门群岛的关系",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736975.shtml",
-        "publishedAt": "2026-11-24T15:30:54.000+08:00"
+        "title": "北京胡同里穿着彩色毛衣的大树吸引市民打卡",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211536.shtml",
+        "publishedAt": "2026-11-24T15:42:32.000+08:00"
       },
       {
-        "title": "羽绒降价，羽绒服为何越卖越贵？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736973.shtml",
-        "publishedAt": "2026-11-24T15:25:20.000+08:00"
+        "title": "缩小视听障碍群体信息鸿沟 声频视频无障碍出版国家标准发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736977.shtml",
+        "publishedAt": "2026-11-24T15:42:11.000+08:00"
       },
       {
-        "title": "外交部：瑞士联邦主席、联邦副主席先后访华 体现两国高度政治互信",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736972.shtml",
-        "publishedAt": "2026-11-24T15:25:10.000+08:00"
+        "title": "青春小店 装下生活与梦想（经济聚焦）",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736981.shtml",
+        "publishedAt": "2026-11-24T15:41:51.000+08:00"
       },
       {
-        "title": "中欧班列“东通道”绥芬河铁路口岸累计通行量突破5000列",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736948.shtml",
-        "publishedAt": "2026-11-24T15:23:38.000+08:00"
+        "title": "神二十四乘组地面训练照片公布",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211521.shtml",
+        "publishedAt": "2026-11-24T15:40:58.000+08:00"
       },
       {
-        "title": "巴基斯坦航天员将到访中国“天宫” 中方对此航天盛事充满期待",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736970.shtml",
-        "publishedAt": "2026-11-24T15:22:02.000+08:00"
+        "title": "超长驻留+中外联合飞行 神舟二十四号任务看点拉满",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736978.shtml",
+        "publishedAt": "2026-11-24T15:39:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T15:40:02.361+08:00",
+    "fetchedAt": "2026-11-24T15:50:02.863+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T15:40:06.737+08:00",
+      "fetchedAt": "2026-11-24T15:50:07.498+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T15:40:06.992+08:00",
+      "fetchedAt": "2026-11-24T15:50:07.854+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T15:40:06.999+08:00",
+      "fetchedAt": "2026-11-24T15:50:07.861+08:00",
       "error": null
     }
   }
