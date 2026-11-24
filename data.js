@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T17:10:09.110+08:00",
+  "updatedAt": "2026-11-24T17:20:08.369+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.8,
-    "feelsLikeC": 6.4,
-    "humidity": 50,
-    "windKph": 8.2,
+    "tempC": 9.4,
+    "feelsLikeC": 6,
+    "humidity": 52,
+    "windKph": 8.3,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T17:10:09.110+08:00",
+    "observedAt": "2026-11-24T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-24T17:20:08.369+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "日本在野党决定问责并要求文部科学大臣辞职",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737038.shtml",
+        "publishedAt": "2026-11-24T17:12:56.000+08:00"
+      },
+      {
+        "title": "阿联酋哈伊马角酋长国发生车祸已致11死",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737017.shtml",
+        "publishedAt": "2026-11-24T17:12:20.000+08:00"
+      },
+      {
+        "title": "从深山溪涧到海外餐桌 秦岭冷水鱼“游”出绿色产业新赛道",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737056.shtml",
+        "publishedAt": "2026-11-24T17:12:00.000+08:00"
+      },
+      {
+        "title": "西安一公益美术课：让“星星的孩子”在色彩里被看见",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737055.shtml",
+        "publishedAt": "2026-11-24T17:10:08.000+08:00"
+      },
+      {
         "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737068.shtml",
         "publishedAt": "2026-11-24T17:05:44.000+08:00"
-      },
-      {
-        "title": "非法收受财物1.13亿余元 吴胜华一审被判无期徒刑",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737058.shtml",
-        "publishedAt": "2026-11-24T17:01:21.000+08:00"
-      },
-      {
-        "title": "广西一猪舍起火致5死事故调查报告公布：丢烟头点燃纸箱引发火灾",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737057.shtml",
-        "publishedAt": "2026-11-24T17:01:15.000+08:00"
-      },
-      {
-        "title": "高铁座椅会传染HPV病毒？想多了",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737054.shtml",
-        "publishedAt": "2026-11-24T16:58:29.000+08:00"
-      },
-      {
-        "title": "商务部：继续调整实施商务部公告2024年第46号的决定",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737053.shtml",
-        "publishedAt": "2026-11-24T16:53:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T17:10:02.684+08:00",
+    "fetchedAt": "2026-11-24T17:20:03.000+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T17:10:07.218+08:00",
+      "fetchedAt": "2026-11-24T17:20:07.039+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 8,
           "resetAt": "2026-11-24T19:32:57.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 63,
+          "usedPct": 64,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T17:10:07.471+08:00",
+      "fetchedAt": "2026-11-24T17:20:07.278+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T17:10:07.481+08:00",
+      "fetchedAt": "2026-11-24T17:20:07.281+08:00",
       "error": null
     }
   }
