@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T00:10:07.775+08:00",
+  "updatedAt": "2026-11-25T00:20:08.859+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 5,
-    "feelsLikeC": 2.7,
-    "humidity": 78,
-    "windKph": 2.7,
+    "tempC": 4.8,
+    "feelsLikeC": 2.5,
+    "humidity": 79,
+    "windKph": 2.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-25T00:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T00:10:07.775+08:00",
+    "observedAt": "2026-11-25T00:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T00:20:08.859+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从“流量依赖”到“内容回归”：AI给影视行业上了一课",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737271.shtml",
+        "publishedAt": "2026-11-25T00:04:03.000+08:00"
+      },
       {
         "title": "王毅同英国外交大臣米利班德通电话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737270.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "日本今年1至9月出生人口同比减少0.3%",
         "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737230.shtml",
         "publishedAt": "2026-11-24T22:04:56.000+08:00"
-      },
-      {
-        "title": "哈尔滨市宾县：整合冰雪、温泉、民俗优质资源 培育三大特色冰雪体验",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737264.shtml",
-        "publishedAt": "2026-11-24T22:04:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T00:10:02.683+08:00",
+    "fetchedAt": "2026-11-25T00:20:03.042+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T00:10:06.507+08:00",
+      "fetchedAt": "2026-11-25T00:20:07.331+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T05:10:07.000+08:00"
+          "resetAt": "2026-11-25T05:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T00:10:06.742+08:00",
+      "fetchedAt": "2026-11-25T00:20:07.627+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T00:10:06.751+08:00",
+      "fetchedAt": "2026-11-25T00:20:07.635+08:00",
       "error": null
     }
   }
