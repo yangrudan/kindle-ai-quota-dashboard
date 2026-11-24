@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T21:30:08.715+08:00",
+  "updatedAt": "2026-11-24T21:40:09.139+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-24T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T21:30:08.715+08:00",
+    "fetchedAt": "2026-11-24T21:40:09.139+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月24日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10737238.shtml",
+        "publishedAt": "2026-11-24T21:27:48.000+08:00"
+      },
+      {
+        "title": "一杯奶茶一束光！唐山这家特殊小店，藏着8名残障青年的甜蜜事业",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737237.shtml",
+        "publishedAt": "2026-11-24T21:27:30.000+08:00"
+      },
       {
         "title": "珠肇高铁江机段5标无砟轨道施工转入铺轨阶段",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737223.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "香港推出个人创业培育计划 降低AI创业门槛",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737216.shtml",
         "publishedAt": "2026-11-24T21:12:07.000+08:00"
-      },
-      {
-        "title": "田秉毅任国家羽毛球队主教练",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10737225.shtml",
-        "publishedAt": "2026-11-24T21:08:01.000+08:00"
-      },
-      {
-        "title": "逛完博物馆、听完木卡姆，土耳其媒体人走访新疆多地，亲口戳穿西方谎言丨真相",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737220.shtml",
-        "publishedAt": "2026-11-24T20:58:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T21:30:02.991+08:00",
+    "fetchedAt": "2026-11-24T21:40:02.842+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T21:30:07.515+08:00",
+      "fetchedAt": "2026-11-24T21:40:07.604+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T02:30:08.000+08:00"
+          "resetAt": "2026-11-25T02:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T21:30:07.639+08:00",
+      "fetchedAt": "2026-11-24T21:40:07.779+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T21:30:07.642+08:00",
+      "fetchedAt": "2026-11-24T21:40:07.788+08:00",
       "error": null
     }
   }
