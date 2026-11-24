@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:40:09.293+08:00",
+  "updatedAt": "2026-11-25T05:50:19.799+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-25T05:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T05:40:09.293+08:00",
+    "fetchedAt": "2026-11-25T05:50:19.799+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "神舟二十四号航天员汤洪波、武毅、穆罕默德·齐尚·阿里领命出征",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737276.shtml",
+        "publishedAt": "2026-11-25T05:40:37.000+08:00"
+      },
+      {
+        "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737275.shtml",
+        "publishedAt": "2026-11-25T05:39:21.000+08:00"
+      },
       {
         "title": "直播：神舟二十四号出征太空 “天宫”将迎首位外籍航天员",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737274.shtml",
@@ -33,19 +43,9 @@
         "title": "王毅同英国外交大臣米利班德通电话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737270.shtml",
         "publishedAt": "2026-11-24T23:00:19.000+08:00"
-      },
-      {
-        "title": "“1991年的张大爷”“1988年的张奶奶”刷屏！玩梗之外，别让事实输给流量",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737269.shtml",
-        "publishedAt": "2026-11-24T22:55:28.000+08:00"
-      },
-      {
-        "title": "神舟二十四号载人飞行任务航天员与记者见面",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211565.shtml",
-        "publishedAt": "2026-11-24T22:43:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T05:40:03.035+08:00",
+    "fetchedAt": "2026-11-25T05:50:12.757+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T05:40:07.588+08:00",
+      "fetchedAt": "2026-11-25T05:50:17.330+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T10:40:09.000+08:00"
+          "resetAt": "2026-11-25T10:50:19.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T05:40:07.968+08:00",
+      "fetchedAt": "2026-11-25T05:50:17.687+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T05:40:07.973+08:00",
+      "fetchedAt": "2026-11-25T05:50:17.697+08:00",
       "error": null
     }
   }
