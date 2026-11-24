@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T21:40:09.139+08:00",
+  "updatedAt": "2026-11-24T21:50:07.912+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 6.8,
-    "feelsLikeC": 4.7,
+    "tempC": 6.7,
+    "feelsLikeC": 4.6,
     "humidity": 65,
     "windKph": 0.4,
-    "windDir": "北风",
+    "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T21:40:09.139+08:00",
+    "observedAt": "2026-11-24T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-24T21:50:07.912+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "11月24日新闻夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10737238.shtml",
-        "publishedAt": "2026-11-24T21:27:48.000+08:00"
+        "title": "北京怀柔自贸联动发展区实施方案发布 打造原始创新成果转化示范区",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737233.shtml",
+        "publishedAt": "2026-11-24T21:44:45.000+08:00"
       },
       {
-        "title": "一杯奶茶一束光！唐山这家特殊小店，藏着8名残障青年的甜蜜事业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737237.shtml",
-        "publishedAt": "2026-11-24T21:27:30.000+08:00"
+        "title": "粤港澳三地文艺骨干齐聚广州南沙 共话湾区文化传播使命",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-24/10737247.shtml",
+        "publishedAt": "2026-11-24T21:43:41.000+08:00"
       },
       {
-        "title": "珠肇高铁江机段5标无砟轨道施工转入铺轨阶段",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737223.shtml",
-        "publishedAt": "2026-11-24T21:18:27.000+08:00"
+        "title": "大鹏一日同风起：巴基斯坦航天员酒泉吟古诗赢得掌声",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737228.shtml",
+        "publishedAt": "2026-11-24T21:42:52.000+08:00"
       },
       {
-        "title": "“月明如水浸楼台”落进中学课堂：川剧名家讲唱词里的诗意",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737217.shtml",
-        "publishedAt": "2026-11-24T21:15:37.000+08:00"
+        "title": "西藏“十五五”时期将提升樟木、里孜等口岸通关能力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737249.shtml",
+        "publishedAt": "2026-11-24T21:42:44.000+08:00"
       },
       {
-        "title": "香港推出个人创业培育计划 降低AI创业门槛",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737216.shtml",
-        "publishedAt": "2026-11-24T21:12:07.000+08:00"
+        "title": "上海交大举办系列活动纪念李政道先生诞辰百年",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737232.shtml",
+        "publishedAt": "2026-11-24T21:41:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T21:40:02.842+08:00",
+    "fetchedAt": "2026-11-24T21:50:03.004+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T21:40:07.604+08:00",
+      "fetchedAt": "2026-11-24T21:50:06.722+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T02:40:09.000+08:00"
+          "resetAt": "2026-11-25T02:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T21:40:07.779+08:00",
+      "fetchedAt": "2026-11-24T21:50:06.826+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T21:40:07.788+08:00",
+      "fetchedAt": "2026-11-24T21:50:06.832+08:00",
       "error": null
     }
   }
