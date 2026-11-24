@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T23:00:09.780+08:00",
+  "updatedAt": "2026-11-24T23:10:38.195+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-24T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T23:00:09.780+08:00",
+    "fetchedAt": "2026-11-24T23:10:38.195+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王毅同英国外交大臣米利班德通电话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737270.shtml",
+        "publishedAt": "2026-11-24T23:00:19.000+08:00"
+      },
+      {
+        "title": "“1991年的张大爷”“1988年的张奶奶”刷屏！玩梗之外，别让事实输给流量",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737269.shtml",
+        "publishedAt": "2026-11-24T22:55:28.000+08:00"
+      },
       {
         "title": "神舟二十四号载人飞行任务航天员与记者见面",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211565.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "哈尔滨市宾县：整合冰雪、温泉、民俗优质资源 培育三大特色冰雪体验",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737264.shtml",
         "publishedAt": "2026-11-24T22:04:40.000+08:00"
-      },
-      {
-        "title": "印度阿约提亚至尼泊尔贾纳克布尔新开直达客运列车抵尼",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737211.shtml",
-        "publishedAt": "2026-11-24T22:04:30.000+08:00"
-      },
-      {
-        "title": "韩国30至39岁人群未婚比例升至53.1%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737158.shtml",
-        "publishedAt": "2026-11-24T22:04:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T23:00:03.513+08:00",
+    "fetchedAt": "2026-11-24T23:10:02.936+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T23:00:08.229+08:00",
+      "fetchedAt": "2026-11-24T23:10:36.896+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T04:00:09.000+08:00"
+          "resetAt": "2026-11-25T04:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T23:00:08.534+08:00",
+      "fetchedAt": "2026-11-24T23:10:37.272+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T23:00:08.538+08:00",
+      "fetchedAt": "2026-11-24T23:10:37.276+08:00",
       "error": null
     }
   }
