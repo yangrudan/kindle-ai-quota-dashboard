@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T19:10:08.412+08:00",
+  "updatedAt": "2026-11-24T19:20:17.728+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-24T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T19:10:08.412+08:00",
+    "fetchedAt": "2026-11-24T19:20:17.729+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“攻守有道——吉林省博物院藏古代兵器展”吸引参观者",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10737130.shtml",
+        "publishedAt": "2026-11-24T19:10:24.000+08:00"
+      },
+      {
+        "title": "2026年10月全国查处违反中央八项规定精神问题28934起",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737139.shtml",
+        "publishedAt": "2026-11-24T19:05:46.000+08:00"
+      },
       {
         "title": "河南郑州文庙银杏吸引游人打卡",
         "url": "https://www.chinanews.com.cn/tp/2026/11-24/10737086.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "民航首个“一网统管”数字化转型方案在海南机场试点落地",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737121.shtml",
         "publishedAt": "2026-11-24T18:57:34.000+08:00"
-      },
-      {
-        "title": "西藏迎来“仙女节”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10737064.shtml",
-        "publishedAt": "2026-11-24T18:55:15.000+08:00"
-      },
-      {
-        "title": "守住活态根脉 浙江古村古镇探寻保护与共生之道",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737118.shtml",
-        "publishedAt": "2026-11-24T18:54:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T19:10:03.270+08:00",
+    "fetchedAt": "2026-11-24T19:20:12.183+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T19:10:07.054+08:00",
+      "fetchedAt": "2026-11-24T19:20:16.185+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T19:10:07.372+08:00",
+      "fetchedAt": "2026-11-24T19:20:16.502+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T19:10:07.377+08:00",
+      "fetchedAt": "2026-11-24T19:20:16.509+08:00",
       "error": null
     }
   }
