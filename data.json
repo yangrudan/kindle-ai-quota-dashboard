@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T06:40:18.038+08:00",
+  "updatedAt": "2026-11-25T06:50:08.655+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 2.6,
-    "feelsLikeC": 0.5,
-    "humidity": 92,
-    "windKph": 1.5,
+    "feelsLikeC": 0.4,
+    "humidity": 91,
+    "windKph": 2,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T06:40:18.039+08:00",
+    "observedAt": "2026-11-25T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T06:50:08.655+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月25日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737282.shtml",
+        "publishedAt": "2026-11-25T06:39:16.000+08:00"
+      },
       {
         "title": "美媒：美国中情局及国家情报总监办公室疑遭网络入侵",
         "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737281.shtml",
@@ -38,14 +43,9 @@
         "title": "马来西亚拟加强AI陪伴类应用监管",
         "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737278.shtml",
         "publishedAt": "2026-11-25T06:21:35.000+08:00"
-      },
-      {
-        "title": "普京：乌方袭击俄能源设施必招致俄方回应",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737277.shtml",
-        "publishedAt": "2026-11-25T06:17:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T06:40:12.367+08:00",
+    "fetchedAt": "2026-11-25T06:50:02.731+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T06:40:16.453+08:00",
+      "fetchedAt": "2026-11-25T06:50:07.410+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T11:40:17.000+08:00"
+          "resetAt": "2026-11-25T11:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T06:40:16.731+08:00",
+      "fetchedAt": "2026-11-25T06:50:07.666+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T06:40:16.741+08:00",
+      "fetchedAt": "2026-11-25T06:50:07.672+08:00",
       "error": null
     }
   }
