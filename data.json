@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:00:09.176+08:00",
+  "updatedAt": "2026-11-24T20:10:09.192+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-24T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T20:00:09.176+08:00",
+    "fetchedAt": "2026-11-24T20:10:09.192+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年黑龙江省外语导游培训班开班",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737151.shtml",
-        "publishedAt": "2026-11-24T19:50:50.000+08:00"
+        "title": "腾冲科学家论坛推动澜湄科技人文交流合作向机制共建升级",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737173.shtml",
+        "publishedAt": "2026-11-24T20:06:35.000+08:00"
       },
       {
-        "title": "七位艺术家的200余件（套）西藏题材作品展出 填补雪域记忆",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737161.shtml",
-        "publishedAt": "2026-11-24T19:50:26.000+08:00"
+        "title": "山区养老有“巧方” 湖南溆浦织密分散供养特困老人“守护网”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737174.shtml",
+        "publishedAt": "2026-11-24T20:06:09.000+08:00"
       },
       {
-        "title": "从“无”到“精” 腾冲科学家论坛五年聚才引智逾千项",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737162.shtml",
-        "publishedAt": "2026-11-24T19:49:20.000+08:00"
+        "title": "因地制宜推广三明医改经验 四川以改革探索增进群众就医满意度、便利度",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737169.shtml",
+        "publishedAt": "2026-11-24T20:05:23.000+08:00"
       },
       {
-        "title": "“一场会面引发调查”？美国会民主党人着手调查万斯",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737164.shtml",
-        "publishedAt": "2026-11-24T19:49:16.000+08:00"
+        "title": "兰花奖外宾走进晋中“读古今”：看见传统与现代协同共生",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737171.shtml",
+        "publishedAt": "2026-11-24T20:05:13.000+08:00"
       },
       {
-        "title": "重庆办国际旅行商大会东盟专场活动深化文旅合作",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-24/10737153.shtml",
-        "publishedAt": "2026-11-24T19:48:28.000+08:00"
+        "title": "粤港澳大湾区世界级港口群建设加速",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-24/10737170.shtml",
+        "publishedAt": "2026-11-24T20:03:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T20:00:03.160+08:00",
+    "fetchedAt": "2026-11-24T20:10:03.163+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T20:00:07.809+08:00",
+      "fetchedAt": "2026-11-24T20:10:07.880+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T01:00:09.000+08:00"
+          "resetAt": "2026-11-25T01:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T20:00:08.124+08:00",
+      "fetchedAt": "2026-11-24T20:10:08.096+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T20:00:08.127+08:00",
+      "fetchedAt": "2026-11-24T20:10:08.103+08:00",
       "error": null
     }
   }
