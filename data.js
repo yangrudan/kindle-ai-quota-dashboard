@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T21:10:18.061+08:00",
+  "updatedAt": "2026-11-24T21:20:37.959+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 6.9,
     "feelsLikeC": 4.7,
     "humidity": 65,
-    "windKph": 1.3,
+    "windKph": 0.8,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T21:10:18.061+08:00",
+    "observedAt": "2026-11-24T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-24T21:20:37.960+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香港推出个人创业培育计划 降低AI创业门槛",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737216.shtml",
+        "publishedAt": "2026-11-24T21:12:07.000+08:00"
+      },
+      {
+        "title": "田秉毅任国家羽毛球队主教练",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10737225.shtml",
+        "publishedAt": "2026-11-24T21:08:01.000+08:00"
+      },
       {
         "title": "逛完博物馆、听完木卡姆，土耳其媒体人走访新疆多地，亲口戳穿西方谎言丨真相",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737220.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "即将三度到访“天宫” 航天员汤洪波的初心与远方",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737218.shtml",
         "publishedAt": "2026-11-24T20:53:14.000+08:00"
-      },
-      {
-        "title": "汇智聚力暖心惠民 浙江民建助“同心共富”工程落地生根",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737214.shtml",
-        "publishedAt": "2026-11-24T20:52:20.000+08:00"
-      },
-      {
-        "title": "从杏花村到陆港大门：山西汾阳“十五五”不止“一瓶酒”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737215.shtml",
-        "publishedAt": "2026-11-24T20:48:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T21:10:12.215+08:00",
+    "fetchedAt": "2026-11-24T21:20:02.840+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T21:10:16.802+08:00",
+      "fetchedAt": "2026-11-24T21:20:36.700+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T02:10:18.000+08:00"
+          "resetAt": "2026-11-25T02:20:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T21:10:17.039+08:00",
+      "fetchedAt": "2026-11-24T21:20:36.950+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T21:10:17.048+08:00",
+      "fetchedAt": "2026-11-24T21:20:36.955+08:00",
       "error": null
     }
   }
