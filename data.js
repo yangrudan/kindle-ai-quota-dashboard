@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T07:30:08.970+08:00",
+  "updatedAt": "2026-11-25T07:40:09.058+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-25T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T07:30:08.970+08:00",
+    "fetchedAt": "2026-11-25T07:40:09.058+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-25/1211569.shtml",
+        "publishedAt": "2026-11-25T07:31:09.000+08:00"
+      },
+      {
+        "title": "不只抽烟！这些日常生活习惯，正在悄悄伤害你的肺",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-25/10737287.shtml",
+        "publishedAt": "2026-11-25T07:28:59.000+08:00"
+      },
       {
         "title": "人才缺口超百万！新职业来了",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737286.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美媒：黄仁勋向英伟达全体员工致歉 称正接受心理治疗",
         "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737284.shtml",
         "publishedAt": "2026-11-25T07:01:37.000+08:00"
-      },
-      {
-        "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737283.shtml",
-        "publishedAt": "2026-11-25T06:52:53.000+08:00"
-      },
-      {
-        "title": "11月25日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737282.shtml",
-        "publishedAt": "2026-11-25T06:39:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T07:30:04.008+08:00",
+    "fetchedAt": "2026-11-25T07:40:02.923+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T07:30:07.601+08:00",
+      "fetchedAt": "2026-11-25T07:40:07.214+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T12:30:08.000+08:00"
+          "resetAt": "2026-11-25T12:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T07:30:07.925+08:00",
+      "fetchedAt": "2026-11-25T07:40:07.596+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T07:30:07.934+08:00",
+      "fetchedAt": "2026-11-25T07:40:07.599+08:00",
       "error": null
     }
   }
