@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T08:50:08.820+08:00",
+  "updatedAt": "2026-11-24T09:00:11.517+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.9,
-    "feelsLikeC": 6.2,
-    "humidity": 58,
-    "windKph": 12.7,
-    "windDir": "西北风",
+    "tempC": 10.2,
+    "feelsLikeC": 6.4,
+    "humidity": 55,
+    "windKph": 13.4,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-24T08:50:08.820+08:00",
+    "observedAt": "2026-11-24T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-24T09:00:11.517+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "大学课堂评价需要什么样的标尺？——从高校课堂“抬头率”说起",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-24/10736755.shtml",
+        "publishedAt": "2026-11-24T08:55:11.000+08:00"
+      },
+      {
+        "title": "莲子落处，诗教仍在发生——纪念叶嘉莹先生逝世两周年",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736751.shtml",
+        "publishedAt": "2026-11-24T08:52:07.000+08:00"
+      },
       {
         "title": "设置大量繁杂题目和性格测试 过度求职测评太“烧心”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736753.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "非洲公共卫生国际会议在埃塞举行 聚焦卫生融资等议题",
         "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736741.shtml",
         "publishedAt": "2026-11-24T08:27:05.000+08:00"
-      },
-      {
-        "title": "巴西下调2026年经济增长预期至1.9%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736739.shtml",
-        "publishedAt": "2026-11-24T08:26:57.000+08:00"
-      },
-      {
-        "title": "德总理默茨会见北约秘书长吕特 重点讨论乌克兰问题",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736738.shtml",
-        "publishedAt": "2026-11-24T08:25:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T08:50:02.917+08:00",
+    "fetchedAt": "2026-11-24T09:00:04.543+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T08:50:07.363+08:00",
+      "fetchedAt": "2026-11-24T09:00:09.466+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T13:50:08.000+08:00"
+          "resetAt": "2026-11-24T14:00:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T08:50:07.672+08:00",
+      "fetchedAt": "2026-11-24T09:00:09.797+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T08:50:07.678+08:00",
+      "fetchedAt": "2026-11-24T09:00:09.809+08:00",
       "error": null
     }
   }
