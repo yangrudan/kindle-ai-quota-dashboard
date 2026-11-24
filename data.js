@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T13:20:18.557+08:00",
+  "updatedAt": "2026-11-24T13:30:08.506+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.7,
-    "feelsLikeC": 7.7,
-    "humidity": 32,
-    "windKph": 16.6,
+    "tempC": 12.6,
+    "feelsLikeC": 7.6,
+    "humidity": 31,
+    "windKph": 16.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T13:20:18.558+08:00",
+    "observedAt": "2026-11-24T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-24T13:30:08.506+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "养老服务金融“变阵” 接住更多人养老需求",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736877.shtml",
+        "publishedAt": "2026-11-24T13:21:07.000+08:00"
+      },
       {
         "title": "陕西子洲一天然气井发生着火事故致2人死亡",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736888.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2031年和2035年女足世界杯承办地公布",
         "url": "https://www.chinanews.com.cn/ty/2026/11-24/10736882.shtml",
         "publishedAt": "2026-11-24T12:34:01.000+08:00"
-      },
-      {
-        "title": "金与正谴责瑞士将朝鲜一个夏令营列入制裁名单：令人吃惊的卑鄙行径",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736883.shtml",
-        "publishedAt": "2026-11-24T12:32:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T13:20:12.425+08:00",
+    "fetchedAt": "2026-11-24T13:30:03.249+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T13:20:16.552+08:00",
+      "fetchedAt": "2026-11-24T13:30:07.203+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T13:20:16.804+08:00",
+      "fetchedAt": "2026-11-24T13:30:07.422+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T13:20:16.809+08:00",
+      "fetchedAt": "2026-11-24T13:30:07.427+08:00",
       "error": null
     }
   }
