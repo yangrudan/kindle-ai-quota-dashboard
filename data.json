@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:40:09.543+08:00",
+  "updatedAt": "2026-11-24T09:50:18.317+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-24T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T09:40:09.544+08:00",
+    "fetchedAt": "2026-11-24T09:50:18.317+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "11月24日人民币对美元中间价报6.7111 上调9个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736774.shtml",
+        "publishedAt": "2026-11-24T09:40:11.000+08:00"
+      },
+      {
+        "title": "丁薛祥会见新加坡国务资政李显龙",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736772.shtml",
+        "publishedAt": "2026-11-24T09:38:17.000+08:00"
+      },
+      {
+        "title": "巴基斯坦航天员齐尚·阿里将与张志远、黎家盈搭乘神舟二十三号飞船返回地球",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736781.shtml",
+        "publishedAt": "2026-11-24T09:35:47.000+08:00"
+      },
+      {
+        "title": "【和合共生】习言道｜习近平在深圳的这四个比喻意涵深远",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736756.shtml",
+        "publishedAt": "2026-11-24T09:33:15.000+08:00"
+      },
+      {
         "title": "用新质生产力打造医疗外交新模式——中国医疗方案深化中埃合作",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736754.shtml",
         "publishedAt": "2026-11-24T09:31:17.000+08:00"
-      },
-      {
-        "title": "官方：航天员黎家盈在空间科学研究等方面很好完成了各项任务",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736776.shtml",
-        "publishedAt": "2026-11-24T09:31:13.000+08:00"
-      },
-      {
-        "title": "巴基斯坦航天员穆罕默德·齐尚·阿里将以载荷专家身份执行短期飞行任务",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736775.shtml",
-        "publishedAt": "2026-11-24T09:28:03.000+08:00"
-      },
-      {
-        "title": "汤洪波即将成为首位三次到访“天宫”的航天员",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736773.shtml",
-        "publishedAt": "2026-11-24T09:25:43.000+08:00"
-      },
-      {
-        "title": "冷空气影响持续 四川云南西藏等地有雨雪天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736770.shtml",
-        "publishedAt": "2026-11-24T09:24:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T09:40:02.990+08:00",
+    "fetchedAt": "2026-11-24T09:50:13.016+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T09:40:07.906+08:00",
+      "fetchedAt": "2026-11-24T09:50:16.999+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
+          "usedPct": 28,
           "resetAt": "2026-11-24T14:24:40.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T09:40:08.153+08:00",
+      "fetchedAt": "2026-11-24T09:50:17.184+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T09:40:08.157+08:00",
+      "fetchedAt": "2026-11-24T09:50:17.194+08:00",
       "error": null
     }
   }
