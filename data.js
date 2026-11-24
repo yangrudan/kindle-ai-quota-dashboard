@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T17:30:08.210+08:00",
+  "updatedAt": "2026-11-24T17:40:20.548+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "杭州",
     "observedAt": "2026-11-24T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T17:30:08.210+08:00",
+    "fetchedAt": "2026-11-24T17:40:20.548+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国篮协职业联赛升降级办法迎重要进展",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10737073.shtml",
+        "publishedAt": "2026-11-24T17:29:53.000+08:00"
+      },
+      {
+        "title": "弘扬经方、光大中华 光华经方学院在医圣故里南阳正式启航",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737072.shtml",
+        "publishedAt": "2026-11-24T17:28:53.000+08:00"
+      },
+      {
+        "title": "台湾省全国人大代表赴广东调研",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737067.shtml",
+        "publishedAt": "2026-11-24T17:28:45.000+08:00"
+      },
       {
         "title": "山西晋中榆次“十五五”锚定“融入城市群、做强主城区”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737065.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "广西崇左借力民族传统体育 搭建各民族“三交”新平台",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737066.shtml",
         "publishedAt": "2026-11-24T17:26:23.000+08:00"
-      },
-      {
-        "title": "雪季开启，今年新疆“雪假”有何创新？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737062.shtml",
-        "publishedAt": "2026-11-24T17:25:31.000+08:00"
-      },
-      {
-        "title": "广东力争到2030年全省高价值发明专利拥有量达58万件",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737063.shtml",
-        "publishedAt": "2026-11-24T17:25:15.000+08:00"
-      },
-      {
-        "title": "4000亿级城市迎来4F级机场：呼和浩特新枢纽的长期账本",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737061.shtml",
-        "publishedAt": "2026-11-24T17:24:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T17:30:03.170+08:00",
+    "fetchedAt": "2026-11-24T17:40:12.423+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T17:30:06.996+08:00",
+      "fetchedAt": "2026-11-24T17:40:16.988+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 57,
           "resetAt": "2026-11-24T19:32:57.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 69,
+          "usedPct": 72,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T17:30:07.239+08:00",
+      "fetchedAt": "2026-11-24T17:40:18.650+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T17:30:07.243+08:00",
+      "fetchedAt": "2026-11-24T17:40:18.655+08:00",
       "error": null
     }
   }
