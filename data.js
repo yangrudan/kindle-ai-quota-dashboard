@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T10:20:38.830+08:00",
+  "updatedAt": "2026-11-24T10:30:11.216+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.4,
-    "feelsLikeC": 7.4,
-    "humidity": 47,
-    "windKph": 13.5,
+    "tempC": 11.7,
+    "feelsLikeC": 7.7,
+    "humidity": 46,
+    "windKph": 13.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-24T10:20:38.830+08:00",
+    "observedAt": "2026-11-24T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-24T10:30:11.216+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从APEC到中国乡野：十国青年眼中的现代化“微观样本”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736822.shtml",
+        "publishedAt": "2026-11-24T10:19:54.000+08:00"
+      },
+      {
+        "title": "产业规模快速扩容 无人配送车驶入规模化路口",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736819.shtml",
+        "publishedAt": "2026-11-24T10:18:34.000+08:00"
+      },
+      {
+        "title": "关注一块防滑垫 查清一笔民生账",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736818.shtml",
+        "publishedAt": "2026-11-24T10:17:52.000+08:00"
+      },
       {
         "title": "未来十天冷空气活动频繁 大部地区降水偏少",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736806.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "炉火里的温暖——青甘藏地震灾区恢复重建见闻",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736812.shtml",
         "publishedAt": "2026-11-24T10:12:25.000+08:00"
-      },
-      {
-        "title": "AI面试官上岗：标准化程度高 求职迎来新挑战",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736801.shtml",
-        "publishedAt": "2026-11-24T10:11:51.000+08:00"
-      },
-      {
-        "title": "为何总有人刻意“看空”中国经济？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736809.shtml",
-        "publishedAt": "2026-11-24T10:09:33.000+08:00"
-      },
-      {
-        "title": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736804.shtml",
-        "publishedAt": "2026-11-24T10:08:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T10:20:03.311+08:00",
+    "fetchedAt": "2026-11-24T10:30:04.044+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T10:20:37.460+08:00",
+      "fetchedAt": "2026-11-24T10:30:09.561+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 30,
+          "usedPct": 32,
           "resetAt": "2026-11-24T14:24:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 59,
+          "usedPct": 60,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T10:20:37.685+08:00",
+      "fetchedAt": "2026-11-24T10:30:09.835+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T10:20:37.688+08:00",
+      "fetchedAt": "2026-11-24T10:30:09.844+08:00",
       "error": null
     }
   }
