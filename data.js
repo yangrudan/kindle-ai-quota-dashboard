@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T10:30:11.216+08:00",
+  "updatedAt": "2026-11-24T10:40:07.979+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-24T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T10:30:11.216+08:00",
+    "fetchedAt": "2026-11-24T10:40:07.979+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从APEC到中国乡野：十国青年眼中的现代化“微观样本”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736822.shtml",
-        "publishedAt": "2026-11-24T10:19:54.000+08:00"
+        "title": "跨国车企正在重新认识中国市场：CEO们一句话点破真相",
+        "url": "https://www.chinanews.com.cn/gsztc/2026/11-24/10736815.shtml",
+        "publishedAt": "2026-11-24T10:30:32.000+08:00"
       },
       {
-        "title": "产业规模快速扩容 无人配送车驶入规模化路口",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736819.shtml",
-        "publishedAt": "2026-11-24T10:18:34.000+08:00"
+        "title": "河南省南阳市政府原党组成员、副市长邓俊峰被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736823.shtml",
+        "publishedAt": "2026-11-24T10:30:28.000+08:00"
       },
       {
-        "title": "关注一块防滑垫 查清一笔民生账",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736818.shtml",
-        "publishedAt": "2026-11-24T10:17:52.000+08:00"
+        "title": "中国驻津巴布韦使馆通报：两名中国公民遭抢劫致伤案件被侦破",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-24/10736821.shtml",
+        "publishedAt": "2026-11-24T10:29:32.000+08:00"
       },
       {
-        "title": "未来十天冷空气活动频繁 大部地区降水偏少",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736806.shtml",
-        "publishedAt": "2026-11-24T10:12:43.000+08:00"
+        "title": "为了明年少些“毛毛虫” 北京大学生冬季忙挖蛹",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-24/10736825.shtml",
+        "publishedAt": "2026-11-24T10:28:16.000+08:00"
       },
       {
-        "title": "炉火里的温暖——青甘藏地震灾区恢复重建见闻",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736812.shtml",
-        "publishedAt": "2026-11-24T10:12:25.000+08:00"
+        "title": "丁薛祥访问新加坡并主持中新双边合作机制会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736810.shtml",
+        "publishedAt": "2026-11-24T10:28:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T10:30:04.044+08:00",
+    "fetchedAt": "2026-11-24T10:40:02.782+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T10:30:09.561+08:00",
+      "fetchedAt": "2026-11-24T10:40:06.643+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T10:30:09.835+08:00",
+      "fetchedAt": "2026-11-24T10:40:06.915+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T10:30:09.844+08:00",
+      "fetchedAt": "2026-11-24T10:40:06.924+08:00",
       "error": null
     }
   }
