@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T12:20:08.862+08:00",
+  "updatedAt": "2026-11-24T12:30:37.958+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 12.7,
-    "feelsLikeC": 8.1,
-    "humidity": 35,
-    "windKph": 16.2,
+    "feelsLikeC": 8,
+    "humidity": 34,
+    "windKph": 16.4,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-24T12:20:08.862+08:00",
+    "observedAt": "2026-11-24T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-24T12:30:37.959+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "武毅谈中外航天员联合飞行：文化有差异，但探索飞天的梦想一致",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736879.shtml",
+        "publishedAt": "2026-11-24T12:21:38.000+08:00"
+      },
       {
         "title": "巴基斯坦航天员齐尚·阿里秀中文：欲穷千里目，更上一层楼",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736876.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "多连发外链：神二十四载人飞行任务新闻发布会",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10736873.shtml",
         "publishedAt": "2026-11-24T11:38:20.000+08:00"
-      },
-      {
-        "title": "U17世界杯：中国队2:2战平摩洛哥",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10736849.shtml",
-        "publishedAt": "2026-11-24T11:29:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T12:20:03.205+08:00",
+    "fetchedAt": "2026-11-24T12:30:02.900+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T12:20:07.060+08:00",
+      "fetchedAt": "2026-11-24T12:30:36.524+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T12:20:07.634+08:00",
+      "fetchedAt": "2026-11-24T12:30:36.889+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T12:20:07.646+08:00",
+      "fetchedAt": "2026-11-24T12:30:36.899+08:00",
       "error": null
     }
   }
