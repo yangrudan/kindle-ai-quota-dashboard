@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T10:10:38.477+08:00",
+  "updatedAt": "2026-11-24T10:20:38.830+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.2,
-    "feelsLikeC": 7.2,
-    "humidity": 48,
+    "tempC": 11.4,
+    "feelsLikeC": 7.4,
+    "humidity": 47,
     "windKph": 13.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T10:10:38.478+08:00",
+    "observedAt": "2026-11-24T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-24T10:20:38.830+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "德国巴登-符腾堡州一公寓内发现5人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736780.shtml",
-        "publishedAt": "2026-11-24T10:06:31.000+08:00"
+        "title": "未来十天冷空气活动频繁 大部地区降水偏少",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736806.shtml",
+        "publishedAt": "2026-11-24T10:12:43.000+08:00"
       },
       {
-        "title": "哥伦比亚一警察指挥部遭无人机袭击已致3名平民受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736779.shtml",
-        "publishedAt": "2026-11-24T10:06:25.000+08:00"
+        "title": "炉火里的温暖——青甘藏地震灾区恢复重建见闻",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736812.shtml",
+        "publishedAt": "2026-11-24T10:12:25.000+08:00"
       },
       {
-        "title": "一名美国登山者在尼泊尔梅拉峰高营地死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736777.shtml",
-        "publishedAt": "2026-11-24T10:05:21.000+08:00"
+        "title": "AI面试官上岗：标准化程度高 求职迎来新挑战",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736801.shtml",
+        "publishedAt": "2026-11-24T10:11:51.000+08:00"
       },
       {
-        "title": "甘肃检察机关依法对方红卫涉嫌受贿案提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736803.shtml",
-        "publishedAt": "2026-11-24T10:01:23.000+08:00"
+        "title": "为何总有人刻意“看空”中国经济？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736809.shtml",
+        "publishedAt": "2026-11-24T10:09:33.000+08:00"
       },
       {
-        "title": "航天员朱杨柱执行一年期在轨驻留试验任务",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736799.shtml",
-        "publishedAt": "2026-11-24T09:58:10.000+08:00"
+        "title": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736804.shtml",
+        "publishedAt": "2026-11-24T10:08:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T10:10:02.560+08:00",
+    "fetchedAt": "2026-11-24T10:20:03.311+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T10:10:36.810+08:00",
+      "fetchedAt": "2026-11-24T10:20:37.460+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T10:10:36.883+08:00",
+      "fetchedAt": "2026-11-24T10:20:37.685+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T10:10:36.891+08:00",
+      "fetchedAt": "2026-11-24T10:20:37.688+08:00",
       "error": null
     }
   }
