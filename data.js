@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T20:20:07.958+08:00",
+  "updatedAt": "2026-11-24T20:30:39.732+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 6.7,
-    "feelsLikeC": 4,
-    "humidity": 65,
-    "windKph": 4.8,
+    "tempC": 6.6,
+    "feelsLikeC": 3.8,
+    "humidity": 66,
+    "windKph": 4.7,
     "windDir": "东北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-24T20:20:07.958+08:00",
+    "observedAt": "2026-11-24T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-24T20:30:39.733+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中柬“金龙—2026”联合演习筹备工作稳步推进",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211548.shtml",
+        "publishedAt": "2026-11-24T20:17:21.000+08:00"
+      },
       {
         "title": "一枚航天冰箱贴延伸电影《登月》的文化长尾",
         "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737172.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "因地制宜推广三明医改经验 四川以改革探索增进群众就医满意度、便利度",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737169.shtml",
         "publishedAt": "2026-11-24T20:05:23.000+08:00"
-      },
-      {
-        "title": "兰花奖外宾走进晋中“读古今”：看见传统与现代协同共生",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737171.shtml",
-        "publishedAt": "2026-11-24T20:05:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T20:20:02.490+08:00",
+    "fetchedAt": "2026-11-24T20:30:04.373+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T20:20:06.740+08:00",
+      "fetchedAt": "2026-11-24T20:30:38.556+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T01:20:07.000+08:00"
+          "resetAt": "2026-11-25T01:30:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T20:20:07.023+08:00",
+      "fetchedAt": "2026-11-24T20:30:38.774+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T20:20:07.028+08:00",
+      "fetchedAt": "2026-11-24T20:30:38.782+08:00",
       "error": null
     }
   }
