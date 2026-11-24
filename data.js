@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T09:10:07.441+08:00",
+  "updatedAt": "2026-11-24T09:20:08.819+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.2,
-    "feelsLikeC": 6.4,
-    "humidity": 55,
-    "windKph": 13.4,
+    "tempC": 10.5,
+    "feelsLikeC": 6.5,
+    "humidity": 53,
+    "windKph": 13.6,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T09:10:07.441+08:00",
+    "observedAt": "2026-11-24T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-24T09:20:08.820+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "航天员朱杨柱执行一年期在轨驻留试验任务",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736766.shtml",
+        "publishedAt": "2026-11-24T09:15:14.000+08:00"
+      },
+      {
+        "title": "巴基斯坦航天员穆罕默德·齐尚·阿里将成为首位到访中国“天宫”的外籍航天员",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736764.shtml",
+        "publishedAt": "2026-11-24T09:14:22.000+08:00"
+      },
+      {
+        "title": "中国载人航天工程首位外籍航天员 主要承担任务有这些",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736760.shtml",
+        "publishedAt": "2026-11-24T09:12:30.000+08:00"
+      },
+      {
+        "title": "神舟二十四号乘组阵容公布：汤洪波、武毅和巴基斯坦航天员穆罕默德·齐尚·阿里",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736761.shtml",
+        "publishedAt": "2026-11-24T09:11:34.000+08:00"
+      },
+      {
         "title": "神舟二十四号载人飞船瞄准11月25日08时18分发射",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736757.shtml",
         "publishedAt": "2026-11-24T09:06:38.000+08:00"
-      },
-      {
-        "title": "莲实有心应不死：薪火不绝的诗教之路",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736750.shtml",
-        "publishedAt": "2026-11-24T08:57:15.000+08:00"
-      },
-      {
-        "title": "大学课堂评价需要什么样的标尺？——从高校课堂“抬头率”说起",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-24/10736755.shtml",
-        "publishedAt": "2026-11-24T08:55:11.000+08:00"
-      },
-      {
-        "title": "莲子落处，诗教仍在发生——纪念叶嘉莹先生逝世两周年",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736751.shtml",
-        "publishedAt": "2026-11-24T08:52:07.000+08:00"
-      },
-      {
-        "title": "设置大量繁杂题目和性格测试 过度求职测评太“烧心”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736753.shtml",
-        "publishedAt": "2026-11-24T08:41:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T09:10:02.597+08:00",
+    "fetchedAt": "2026-11-24T09:20:03.425+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T09:10:06.122+08:00",
+      "fetchedAt": "2026-11-24T09:20:07.199+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T14:10:07.000+08:00"
+          "resetAt": "2026-11-24T14:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T09:10:06.388+08:00",
+      "fetchedAt": "2026-11-24T09:20:07.500+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T09:10:06.392+08:00",
+      "fetchedAt": "2026-11-24T09:20:07.509+08:00",
       "error": null
     }
   }
