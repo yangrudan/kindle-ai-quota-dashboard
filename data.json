@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T06:30:38.799+08:00",
+  "updatedAt": "2026-11-25T06:40:18.038+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-25T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T06:30:38.799+08:00",
+    "fetchedAt": "2026-11-25T06:40:18.039+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美媒：美国中情局及国家情报总监办公室疑遭网络入侵",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737281.shtml",
+        "publishedAt": "2026-11-25T06:35:44.000+08:00"
+      },
       {
         "title": "英国2026年夏季高温致死人数创新高",
         "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737280.shtml",
@@ -38,14 +43,9 @@
         "title": "普京：乌方袭击俄能源设施必招致俄方回应",
         "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737277.shtml",
         "publishedAt": "2026-11-25T06:17:29.000+08:00"
-      },
-      {
-        "title": "神舟二十四号航天员汤洪波、武毅、穆罕默德·齐尚·阿里领命出征",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737276.shtml",
-        "publishedAt": "2026-11-25T05:40:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T06:30:03.026+08:00",
+    "fetchedAt": "2026-11-25T06:40:12.367+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T06:30:37.344+08:00",
+      "fetchedAt": "2026-11-25T06:40:16.453+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T11:30:38.000+08:00"
+          "resetAt": "2026-11-25T11:40:17.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T06:30:37.765+08:00",
+      "fetchedAt": "2026-11-25T06:40:16.731+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T06:30:37.769+08:00",
+      "fetchedAt": "2026-11-25T06:40:16.741+08:00",
       "error": null
     }
   }
