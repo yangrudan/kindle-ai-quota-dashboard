@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T11:30:08.763+08:00",
+  "updatedAt": "2026-11-24T11:40:17.586+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-24T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T11:30:08.763+08:00",
+    "fetchedAt": "2026-11-24T11:40:17.586+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "U17世界杯：中国队2:2战平摩洛哥",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10736849.shtml",
+        "publishedAt": "2026-11-24T11:29:43.000+08:00"
+      },
+      {
+        "title": "助力中国与东盟多领域合作 这场论坛在重庆举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-24/10736857.shtml",
+        "publishedAt": "2026-11-24T11:29:05.000+08:00"
+      },
+      {
+        "title": "朝鲜考虑关闭瑞士驻平壤外交办事处",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736850.shtml",
+        "publishedAt": "2026-11-24T11:29:03.000+08:00"
+      },
+      {
+        "title": "从“要我安全”到“我要安全” 山东一线员工争当安全“哨兵”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736855.shtml",
+        "publishedAt": "2026-11-24T11:28:15.000+08:00"
+      },
+      {
         "title": "国际最新研发出用植物生产抗癌药紫杉醇的新方式",
         "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736829.shtml",
         "publishedAt": "2026-11-24T11:19:15.000+08:00"
-      },
-      {
-        "title": "一集接一集，微短剧为何容易“上头”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736854.shtml",
-        "publishedAt": "2026-11-24T11:12:12.000+08:00"
-      },
-      {
-        "title": "神舟二十四号乘组简历公布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736853.shtml",
-        "publishedAt": "2026-11-24T11:09:04.000+08:00"
-      },
-      {
-        "title": "英国《金融时报》：中国为全球应对气候变化作出重要贡献",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736851.shtml",
-        "publishedAt": "2026-11-24T11:06:10.000+08:00"
-      },
-      {
-        "title": "2026世界市长对话·乌鲁木齐活动在新疆启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736848.shtml",
-        "publishedAt": "2026-11-24T11:04:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T11:30:02.894+08:00",
+    "fetchedAt": "2026-11-24T11:40:12.117+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T11:30:07.495+08:00",
+      "fetchedAt": "2026-11-24T11:40:15.937+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T11:30:07.671+08:00",
+      "fetchedAt": "2026-11-24T11:40:16.169+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-24T11:30:07.680+08:00",
+      "fetchedAt": "2026-11-24T11:40:16.177+08:00",
       "error": null
     }
   }
