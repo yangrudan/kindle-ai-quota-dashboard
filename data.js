@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T09:50:18.317+08:00",
+  "updatedAt": "2026-11-24T10:00:09.254+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 10.7,
-    "feelsLikeC": 6.7,
-    "humidity": 51,
-    "windKph": 13.7,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 11.2,
+    "feelsLikeC": 7.2,
+    "humidity": 48,
+    "windKph": 13.5,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-24T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T09:50:18.317+08:00",
+    "observedAt": "2026-11-24T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-24T10:00:09.254+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "11月24日人民币对美元中间价报6.7111 上调9个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736774.shtml",
-        "publishedAt": "2026-11-24T09:40:11.000+08:00"
+        "title": "揽月着陆器首次飞行任务按计划有序推进",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736797.shtml",
+        "publishedAt": "2026-11-24T09:54:56.000+08:00"
       },
       {
-        "title": "丁薛祥会见新加坡国务资政李显龙",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736772.shtml",
-        "publishedAt": "2026-11-24T09:38:17.000+08:00"
+        "title": "国家统计局：11月中旬流通领域重要生产资料11种产品价格上涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736791.shtml",
+        "publishedAt": "2026-11-24T09:52:24.000+08:00"
       },
       {
-        "title": "巴基斯坦航天员齐尚·阿里将与张志远、黎家盈搭乘神舟二十三号飞船返回地球",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736781.shtml",
-        "publishedAt": "2026-11-24T09:35:47.000+08:00"
+        "title": "74.8%，内需贡献率怎么看（经济新方位·八大重点任务看落实）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736795.shtml",
+        "publishedAt": "2026-11-24T09:52:08.000+08:00"
       },
       {
-        "title": "【和合共生】习言道｜习近平在深圳的这四个比喻意涵深远",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736756.shtml",
-        "publishedAt": "2026-11-24T09:33:15.000+08:00"
+        "title": "神舟二十四号乘组阵容公布：汤洪波、武毅和巴基斯坦航天员穆罕默德·齐尚·阿里",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211500.shtml",
+        "publishedAt": "2026-11-24T09:51:54.000+08:00"
       },
       {
-        "title": "用新质生产力打造医疗外交新模式——中国医疗方案深化中埃合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736754.shtml",
-        "publishedAt": "2026-11-24T09:31:17.000+08:00"
+        "title": "中国空间站首迎外籍航天员 将开展4个中巴合作科学项目",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736793.shtml",
+        "publishedAt": "2026-11-24T09:50:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T09:50:13.016+08:00",
+    "fetchedAt": "2026-11-24T10:00:03.419+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-24T09:50:16.999+08:00",
+      "fetchedAt": "2026-11-24T10:00:07.879+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 28,
+          "usedPct": 29,
           "resetAt": "2026-11-24T14:24:40.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T09:50:17.184+08:00",
+      "fetchedAt": "2026-11-24T10:00:07.969+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 6.84,
       "currency": "CNY",
       "detail": "余额 ¥6.84",
-      "fetchedAt": "2026-11-24T09:50:17.194+08:00",
+      "fetchedAt": "2026-11-24T10:00:07.972+08:00",
       "error": null
     }
   }
