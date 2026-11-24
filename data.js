@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T06:20:38.769+08:00",
+  "updatedAt": "2026-11-25T06:30:38.799+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 2.7,
-    "feelsLikeC": 0.6,
+    "tempC": 2.6,
+    "feelsLikeC": 0.5,
     "humidity": 92,
-    "windKph": 1,
-    "windDir": "西风",
+    "windKph": 1.5,
+    "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T06:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T06:20:38.769+08:00",
+    "observedAt": "2026-11-25T06:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T06:30:38.799+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "英国2026年夏季高温致死人数创新高",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737280.shtml",
+        "publishedAt": "2026-11-25T06:24:07.000+08:00"
+      },
+      {
+        "title": "俄“进步MS-36”货运飞船发射升空前往国际空间站",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737279.shtml",
+        "publishedAt": "2026-11-25T06:23:35.000+08:00"
+      },
+      {
+        "title": "马来西亚拟加强AI陪伴类应用监管",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737278.shtml",
+        "publishedAt": "2026-11-25T06:21:35.000+08:00"
+      },
+      {
+        "title": "普京：乌方袭击俄能源设施必招致俄方回应",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737277.shtml",
+        "publishedAt": "2026-11-25T06:17:29.000+08:00"
+      },
+      {
         "title": "神舟二十四号航天员汤洪波、武毅、穆罕默德·齐尚·阿里领命出征",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737276.shtml",
         "publishedAt": "2026-11-25T05:40:37.000+08:00"
-      },
-      {
-        "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737275.shtml",
-        "publishedAt": "2026-11-25T05:39:21.000+08:00"
-      },
-      {
-        "title": "直播：神舟二十四号出征太空 “天宫”将迎首位外籍航天员",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737274.shtml",
-        "publishedAt": "2026-11-25T05:03:55.000+08:00"
-      },
-      {
-        "title": "从“流量依赖”到“内容回归”：AI给影视行业上了一课",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737271.shtml",
-        "publishedAt": "2026-11-25T00:04:03.000+08:00"
-      },
-      {
-        "title": "王毅同英国外交大臣米利班德通电话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737270.shtml",
-        "publishedAt": "2026-11-24T23:00:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T06:20:03.101+08:00",
+    "fetchedAt": "2026-11-25T06:30:03.026+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T06:20:36.656+08:00",
+      "fetchedAt": "2026-11-25T06:30:37.344+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T11:20:38.000+08:00"
+          "resetAt": "2026-11-25T11:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T06:20:36.988+08:00",
+      "fetchedAt": "2026-11-25T06:30:37.765+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T06:20:36.991+08:00",
+      "fetchedAt": "2026-11-25T06:30:37.769+08:00",
       "error": null
     }
   }
