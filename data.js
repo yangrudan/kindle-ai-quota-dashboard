@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T23:20:09.488+08:00",
+  "updatedAt": "2026-11-25T23:30:08.299+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 4.3,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T23:20:09.488+08:00",
+    "observedAt": "2026-11-25T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T23:30:08.299+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "各地全力推进冬修水利",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737849.shtml",
+        "publishedAt": "2026-11-25T23:22:02.000+08:00"
+      },
       {
         "title": "李家超：冀香港中总助力内地企业拼船出海",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737847.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "孙中山先生赠予的山茶花里，藏着百年家国情",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737839.shtml",
         "publishedAt": "2026-11-25T22:05:26.000+08:00"
-      },
-      {
-        "title": "中方呼吁申办《海洋生物多样性协定》秘书处相关国家友好合作、合理竞争",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737835.shtml",
-        "publishedAt": "2026-11-25T22:03:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T23:20:02.472+08:00",
+    "fetchedAt": "2026-11-25T23:30:02.872+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T23:20:07.604+08:00",
+      "fetchedAt": "2026-11-25T23:30:06.663+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T04:20:08.000+08:00"
+          "resetAt": "2026-11-26T04:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T23:20:07.927+08:00",
+      "fetchedAt": "2026-11-25T23:30:06.972+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T23:20:07.932+08:00",
+      "fetchedAt": "2026-11-25T23:30:06.982+08:00",
       "error": null
     }
   }
