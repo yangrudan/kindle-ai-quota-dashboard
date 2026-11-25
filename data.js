@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T13:20:47.620+08:00",
+  "updatedAt": "2026-11-25T13:30:08.194+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.8,
-    "feelsLikeC": 9.8,
-    "humidity": 42,
-    "windKph": 5.6,
+    "tempC": 13.1,
+    "feelsLikeC": 10.1,
+    "humidity": 41,
+    "windKph": 6.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T13:20:47.620+08:00",
+    "observedAt": "2026-11-25T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T13:30:08.194+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从定制化训练到中文学习，巴基斯坦航天员的中国“飞天课”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737476.shtml",
+        "publishedAt": "2026-11-25T13:22:56.000+08:00"
+      },
       {
         "title": "中美贸易理事会项下农业工作组首次会议在京举行",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737474.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "台媒关注张凌赫田曦薇网络直播 国台办回应",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737469.shtml",
         "publishedAt": "2026-11-25T12:37:06.000+08:00"
-      },
-      {
-        "title": "花10万“免试拿硕士学位”？法官判定：合同无效",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737465.shtml",
-        "publishedAt": "2026-11-25T12:30:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T13:20:12.618+08:00",
+    "fetchedAt": "2026-11-25T13:30:02.939+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T13:20:46.178+08:00",
+      "fetchedAt": "2026-11-25T13:30:06.853+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T13:20:46.519+08:00",
+      "fetchedAt": "2026-11-25T13:30:07.148+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T13:20:46.529+08:00",
+      "fetchedAt": "2026-11-25T13:30:07.157+08:00",
       "error": null
     }
   }
