@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T15:30:18.565+08:00",
+  "updatedAt": "2026-11-25T15:40:08.271+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.9,
+    "tempC": 12.8,
     "feelsLikeC": 9.9,
-    "humidity": 43,
-    "windKph": 6.9,
+    "humidity": 45,
+    "windKph": 6.2,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T15:30:18.565+08:00",
+    "observedAt": "2026-11-25T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T15:40:08.271+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中巴航天员共赴“天宫” 外交部：中国载人航天工程国际合作新的里程碑",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737551.shtml",
-        "publishedAt": "2026-11-25T15:24:35.000+08:00"
+        "title": "工业和信息化部脑机接口标委会工作组成立",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737557.shtml",
+        "publishedAt": "2026-11-25T15:35:33.000+08:00"
       },
       {
-        "title": "国家发改委：三峡水运新通道工程已完成投资超110亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737542.shtml",
-        "publishedAt": "2026-11-25T15:12:10.000+08:00"
+        "title": "一纸汇票如何讲给世界听？中外嘉宾平遥共话“信义传薪”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737554.shtml",
+        "publishedAt": "2026-11-25T15:34:51.000+08:00"
       },
       {
-        "title": "A股收评：超4900只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737546.shtml",
-        "publishedAt": "2026-11-25T15:10:22.000+08:00"
+        "title": "“兰之约·话文明”全球对话行山西收官",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737553.shtml",
+        "publishedAt": "2026-11-25T15:34:43.000+08:00"
       },
       {
-        "title": "明星艺人航班信息是怎么流出的？典型案件起底来了",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737540.shtml",
-        "publishedAt": "2026-11-25T15:07:26.000+08:00"
+        "title": "江西出台“十五五”防震减灾规划 建空天地一体化地震监测网",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737547.shtml",
+        "publishedAt": "2026-11-25T15:33:35.000+08:00"
       },
       {
-        "title": "11月25日“农产品批发价格200指数”比昨天上升0.15个点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737534.shtml",
-        "publishedAt": "2026-11-25T15:07:20.000+08:00"
+        "title": "与时间赛跑，甘肃地震预警的“黄金几秒”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737545.shtml",
+        "publishedAt": "2026-11-25T15:33:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T15:30:12.472+08:00",
+    "fetchedAt": "2026-11-25T15:40:02.846+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T15:30:17.036+08:00",
+      "fetchedAt": "2026-11-25T15:40:06.864+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T15:30:17.325+08:00",
+      "fetchedAt": "2026-11-25T15:40:07.317+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T15:30:17.335+08:00",
+      "fetchedAt": "2026-11-25T15:40:07.320+08:00",
       "error": null
     }
   }
