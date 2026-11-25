@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T15:20:37.089+08:00",
+  "updatedAt": "2026-11-25T15:30:18.565+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-25T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T15:20:37.089+08:00",
+    "fetchedAt": "2026-11-25T15:30:18.565+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中巴航天员共赴“天宫” 外交部：中国载人航天工程国际合作新的里程碑",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737551.shtml",
+        "publishedAt": "2026-11-25T15:24:35.000+08:00"
+      },
       {
         "title": "国家发改委：三峡水运新通道工程已完成投资超110亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737542.shtml",
@@ -38,14 +43,9 @@
         "title": "11月25日“农产品批发价格200指数”比昨天上升0.15个点",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737534.shtml",
         "publishedAt": "2026-11-25T15:07:20.000+08:00"
-      },
-      {
-        "title": "三山四先生——闽都四家书画展（第三回）福州启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737511.shtml",
-        "publishedAt": "2026-11-25T15:04:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T15:20:02.239+08:00",
+    "fetchedAt": "2026-11-25T15:30:12.472+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T15:20:35.863+08:00",
+      "fetchedAt": "2026-11-25T15:30:17.036+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 16,
+          "usedPct": 18,
           "resetAt": "2026-11-25T19:47:09.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T15:20:36.158+08:00",
+      "fetchedAt": "2026-11-25T15:30:17.325+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T15:20:36.161+08:00",
+      "fetchedAt": "2026-11-25T15:30:17.335+08:00",
       "error": null
     }
   }
