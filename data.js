@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T23:10:08.195+08:00",
+  "updatedAt": "2026-11-25T23:20:09.488+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 8.7,
-    "feelsLikeC": 6.6,
+    "tempC": 8.8,
+    "feelsLikeC": 6.7,
     "humidity": 72,
-    "windKph": 4.5,
+    "windKph": 4.3,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T23:10:08.195+08:00",
+    "observedAt": "2026-11-25T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T23:20:09.488+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李家超：冀香港中总助力内地企业拼船出海",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737847.shtml",
+        "publishedAt": "2026-11-25T23:13:54.000+08:00"
+      },
       {
         "title": "中外旅行商携手开发内蒙古冰雪旅游市场",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737841.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中方呼吁申办《海洋生物多样性协定》秘书处相关国家友好合作、合理竞争",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737835.shtml",
         "publishedAt": "2026-11-25T22:03:32.000+08:00"
-      },
-      {
-        "title": "浙西山地间，油茶产业“长出新枝”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737838.shtml",
-        "publishedAt": "2026-11-25T22:02:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T23:10:02.790+08:00",
+    "fetchedAt": "2026-11-25T23:20:02.472+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T23:10:06.552+08:00",
+      "fetchedAt": "2026-11-25T23:20:07.604+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T04:10:08.000+08:00"
+          "resetAt": "2026-11-26T04:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T23:10:06.926+08:00",
+      "fetchedAt": "2026-11-25T23:20:07.927+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T23:10:06.936+08:00",
+      "fetchedAt": "2026-11-25T23:20:07.932+08:00",
       "error": null
     }
   }
