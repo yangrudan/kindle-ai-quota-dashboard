@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T20:10:09.139+08:00",
+  "updatedAt": "2026-11-25T20:20:08.959+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 8.8,
+    "tempC": 8.7,
     "feelsLikeC": 6.3,
-    "humidity": 65,
+    "humidity": 66,
     "windKph": 4.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T20:10:09.139+08:00",
+    "observedAt": "2026-11-25T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T20:20:08.960+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“海派与20世纪中国画的现代转型”展览亮相广东",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737734.shtml",
-        "publishedAt": "2026-11-25T20:03:50.000+08:00"
+        "title": "书香河南第五届全民阅读大会在漯河开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737732.shtml",
+        "publishedAt": "2026-11-25T20:08:38.000+08:00"
       },
       {
-        "title": "2026“思想亚洲”论坛在新加坡举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-25/10737750.shtml",
-        "publishedAt": "2026-11-25T20:03:26.000+08:00"
+        "title": "自然博物类百科全书《自然的形状：博物世界万花筒》在京首发",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737755.shtml",
+        "publishedAt": "2026-11-25T20:07:58.000+08:00"
       },
       {
-        "title": "发挥老企业文化底蕴优势 燕山石化党群工作“燕品牌”建设",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737751.shtml",
-        "publishedAt": "2026-11-25T20:03:18.000+08:00"
+        "title": "燕山石化：奋力书写“二次创业”高分答卷",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737752.shtml",
+        "publishedAt": "2026-11-25T20:06:58.000+08:00"
       },
       {
-        "title": "中国首单国际航行船舶生物甲烷加注业务落地山东青岛",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737742.shtml",
-        "publishedAt": "2026-11-25T20:02:56.000+08:00"
+        "title": "脑机接口技术应用提速 四川亮出多款创新产品",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737753.shtml",
+        "publishedAt": "2026-11-25T20:06:06.000+08:00"
       },
       {
-        "title": "国际可再生能源署：中国是推动全球能源转型进入新发展阶段的重要力量",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737741.shtml",
-        "publishedAt": "2026-11-25T20:02:42.000+08:00"
+        "title": "多元化市场持续拓展 吉林外贸跑出增长加速度",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-25/10737743.shtml",
+        "publishedAt": "2026-11-25T20:06:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T20:10:03.603+08:00",
+    "fetchedAt": "2026-11-25T20:20:03.357+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T20:10:07.468+08:00",
+      "fetchedAt": "2026-11-25T20:20:07.791+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T01:10:08.000+08:00"
+          "resetAt": "2026-11-26T01:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T20:10:07.809+08:00",
+      "fetchedAt": "2026-11-25T20:20:08.082+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T20:10:07.813+08:00",
+      "fetchedAt": "2026-11-25T20:20:08.091+08:00",
       "error": null
     }
   }
