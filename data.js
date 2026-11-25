@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T18:20:08.703+08:00",
+  "updatedAt": "2026-11-25T18:30:07.998+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 10.1,
-    "feelsLikeC": 7.2,
+    "tempC": 10,
+    "feelsLikeC": 7.1,
     "humidity": 56,
-    "windKph": 6.5,
+    "windKph": 6.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T18:20:08.703+08:00",
+    "observedAt": "2026-11-25T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T18:30:07.998+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "以学聚力 以智赋能——第四届学习型松原2026年度演讲分享会举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737647.shtml",
-        "publishedAt": "2026-11-25T18:07:33.000+08:00"
+        "title": "冷空气持续影响 广东最低气温降至10.3℃",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737690.shtml",
+        "publishedAt": "2026-11-25T18:18:56.000+08:00"
       },
       {
-        "title": "青岛啤酒旗下推出多款烈酒 “青岛牌”羊年生肖威士忌亮相",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737665.shtml",
-        "publishedAt": "2026-11-25T18:06:31.000+08:00"
+        "title": "“援”定天山：河南援疆力量助“柳羊羊”出天山 成致富“带头羊”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737689.shtml",
+        "publishedAt": "2026-11-25T18:18:00.000+08:00"
       },
       {
-        "title": "学习弘扬张謇企业家精神 深化辽苏合作共建——抚顺市工商联新任执常委赴苏专题培训",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737644.shtml",
-        "publishedAt": "2026-11-25T18:05:07.000+08:00"
+        "title": "一鼎一壶间 非洲留学生在河南博物院“读”懂青铜中国",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737678.shtml",
+        "publishedAt": "2026-11-25T18:16:08.000+08:00"
       },
       {
-        "title": "宜丰县召开统战系统学习贯彻党的二十届五中全会精神座谈会",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737642.shtml",
-        "publishedAt": "2026-11-25T18:02:25.000+08:00"
+        "title": "粉丝邀张凌赫、田曦薇“早点来台湾” 国台办：双向奔赴最生动体现",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737674.shtml",
+        "publishedAt": "2026-11-25T18:15:32.000+08:00"
       },
       {
-        "title": "安徽池州通报4岁男童走失：已无生命体征",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737675.shtml",
-        "publishedAt": "2026-11-25T17:56:57.000+08:00"
+        "title": "（乡村行·看振兴）广西柳江“一棚双收”：葡萄架下彩椒香 立体套种助增收",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737671.shtml",
+        "publishedAt": "2026-11-25T18:15:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T18:20:03.269+08:00",
+    "fetchedAt": "2026-11-25T18:30:02.599+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T18:20:07.385+08:00",
+      "fetchedAt": "2026-11-25T18:30:06.335+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T18:20:07.685+08:00",
+      "fetchedAt": "2026-11-25T18:30:06.591+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T18:20:07.694+08:00",
+      "fetchedAt": "2026-11-25T18:30:06.600+08:00",
       "error": null
     }
   }
