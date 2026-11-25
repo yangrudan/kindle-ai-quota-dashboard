@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T08:20:08.889+08:00",
+  "updatedAt": "2026-11-25T08:30:08.184+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 6,
-    "feelsLikeC": 3.7,
-    "humidity": 77,
-    "windKph": 3.1,
-    "windDir": "南风",
+    "tempC": 6.6,
+    "feelsLikeC": 4.6,
+    "humidity": 75,
+    "windKph": 1.5,
+    "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T08:20:08.889+08:00",
+    "observedAt": "2026-11-25T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T08:30:08.185+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“超级月亮”现身天宇",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-25/1211571.shtml",
+        "publishedAt": "2026-11-25T08:24:16.000+08:00"
+      },
+      {
+        "title": "搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737300.shtml",
+        "publishedAt": "2026-11-25T08:23:26.000+08:00"
+      },
+      {
+        "title": "全国大部天气晴好",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737293.shtml",
+        "publishedAt": "2026-11-25T08:21:50.000+08:00"
+      },
       {
         "title": "网警查处两起不履行网络安全、数据安全保护义务案",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737294.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "买盲盒先办会员，此风不可长",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737292.shtml",
         "publishedAt": "2026-11-25T07:56:52.000+08:00"
-      },
-      {
-        "title": "“大脑”请回话",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737291.shtml",
-        "publishedAt": "2026-11-25T07:47:16.000+08:00"
-      },
-      {
-        "title": "顶尖AI学院，用“古法教学”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737290.shtml",
-        "publishedAt": "2026-11-25T07:43:18.000+08:00"
-      },
-      {
-        "title": "投资金条为何受热捧",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737289.shtml",
-        "publishedAt": "2026-11-25T07:37:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T08:20:03.273+08:00",
+    "fetchedAt": "2026-11-25T08:30:03.116+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T08:20:07.098+08:00",
+      "fetchedAt": "2026-11-25T08:30:06.843+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T13:20:08.000+08:00"
+          "resetAt": "2026-11-25T13:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T08:20:07.450+08:00",
+      "fetchedAt": "2026-11-25T08:30:07.110+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T08:20:07.453+08:00",
+      "fetchedAt": "2026-11-25T08:30:07.119+08:00",
       "error": null
     }
   }
