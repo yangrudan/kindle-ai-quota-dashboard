@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T20:50:08.193+08:00",
+  "updatedAt": "2026-11-25T21:00:38.476+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 9,
-    "feelsLikeC": 6.7,
-    "humidity": 67,
-    "windKph": 4.6,
+    "feelsLikeC": 6.8,
+    "humidity": 68,
+    "windKph": 4.4,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-25T20:50:08.194+08:00",
+    "observedAt": "2026-11-25T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-25T21:00:38.476+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆市政协把“冠军故事”送进校园 让学子对话“委员榜样”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737785.shtml",
-        "publishedAt": "2026-11-25T20:45:12.000+08:00"
+        "title": "浙江杭州：古韵落廊桥 国乐赋新美",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737784.shtml",
+        "publishedAt": "2026-11-25T20:53:38.000+08:00"
       },
       {
-        "title": "中国杂交水稻在尼泊尔试种成功",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737739.shtml",
-        "publishedAt": "2026-11-25T20:41:02.000+08:00"
+        "title": "不惧千度烈焰 消防侦察狗在苏州完成实战演练",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737783.shtml",
+        "publishedAt": "2026-11-25T20:52:22.000+08:00"
       },
       {
-        "title": "一朵素馨花，“开”在了中国空间站",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737780.shtml",
-        "publishedAt": "2026-11-25T20:39:50.000+08:00"
+        "title": "美媒：特朗普政府考虑将伊朗高层列为打击目标",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737789.shtml",
+        "publishedAt": "2026-11-25T20:52:20.000+08:00"
       },
       {
-        "title": "哈萨克斯坦警方今年前10个月打掉40余个犯罪团伙",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737661.shtml",
-        "publishedAt": "2026-11-25T20:39:40.000+08:00"
+        "title": "广东中山：孙中山故居纪念馆游人如织",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737782.shtml",
+        "publishedAt": "2026-11-25T20:51:16.000+08:00"
       },
       {
-        "title": "新加坡高校学者：亚洲智慧可为全球治理提供参照",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737653.shtml",
-        "publishedAt": "2026-11-25T20:39:00.000+08:00"
+        "title": "走进“赣南最高围屋”——江西龙南燕翼围",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737766.shtml",
+        "publishedAt": "2026-11-25T20:49:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T20:50:03.071+08:00",
+    "fetchedAt": "2026-11-25T21:00:03.256+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T20:50:06.707+08:00",
+      "fetchedAt": "2026-11-25T21:00:37.191+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T01:50:08.000+08:00"
+          "resetAt": "2026-11-26T02:00:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T20:50:06.958+08:00",
+      "fetchedAt": "2026-11-25T21:00:37.436+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T20:50:06.968+08:00",
+      "fetchedAt": "2026-11-25T21:00:37.446+08:00",
       "error": null
     }
   }
