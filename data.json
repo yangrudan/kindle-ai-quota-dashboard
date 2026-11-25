@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T16:10:09.382+08:00",
+  "updatedAt": "2026-11-25T16:20:09.104+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.3,
-    "feelsLikeC": 9.7,
-    "humidity": 49,
-    "windKph": 5.3,
+    "tempC": 12,
+    "feelsLikeC": 9.4,
+    "humidity": 50,
+    "windKph": 5.4,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T16:10:09.382+08:00",
+    "observedAt": "2026-11-25T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T16:20:09.104+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "伪造身份多线布设婚恋骗局 男子因犯诈骗罪获刑",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737580.shtml",
-        "publishedAt": "2026-11-25T16:02:39.000+08:00"
+        "title": "中国—东盟自贸区即将升级 将带来哪些新机遇？",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-25/10737586.shtml",
+        "publishedAt": "2026-11-25T16:15:49.000+08:00"
       },
       {
-        "title": "中方谈中巴航天员共赴“天宫”：中国载人航天工程国际合作新的里程碑",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737564.shtml",
-        "publishedAt": "2026-11-25T16:00:41.000+08:00"
+        "title": "“名义车主”远程解锁开走车辆获刑三年半",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737585.shtml",
+        "publishedAt": "2026-11-25T16:15:29.000+08:00"
       },
       {
-        "title": "探访铁路货车的“心脏”手术：40分钟完成139个零件精准复位",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737556.shtml",
-        "publishedAt": "2026-11-25T15:55:46.000+08:00"
+        "title": "广东网络餐饮治理观察：近50万商户背后的食安攻坚",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737569.shtml",
+        "publishedAt": "2026-11-25T16:13:23.000+08:00"
       },
       {
-        "title": "佛具店老板以“消灾解难”为名销售佛像诈骗近13万元",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737574.shtml",
-        "publishedAt": "2026-11-25T15:54:42.000+08:00"
+        "title": "当说唱遇上国风：本土腔调为潮流音乐寻文化根脉",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737576.shtml",
+        "publishedAt": "2026-11-25T16:12:33.000+08:00"
       },
       {
-        "title": "中方：各国在发展同太平洋岛国关系时，有关合作不应针对第三方",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737575.shtml",
-        "publishedAt": "2026-11-25T15:52:42.000+08:00"
+        "title": "从“接处警提速”到“码上监督” 山西公安“十五五”执法规范化再升级",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737577.shtml",
+        "publishedAt": "2026-11-25T16:11:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T16:10:02.641+08:00",
+    "fetchedAt": "2026-11-25T16:20:02.873+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T16:10:07.788+08:00",
+      "fetchedAt": "2026-11-25T16:20:07.531+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T16:10:08.041+08:00",
+      "fetchedAt": "2026-11-25T16:20:07.857+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T16:10:08.047+08:00",
+      "fetchedAt": "2026-11-25T16:20:07.863+08:00",
       "error": null
     }
   }
