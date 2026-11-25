@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T09:40:08.527+08:00",
+  "updatedAt": "2026-11-25T09:50:08.885+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.2,
-    "feelsLikeC": 7,
-    "humidity": 61,
-    "windKph": 2.6,
+    "tempC": 9.8,
+    "feelsLikeC": 7.4,
+    "humidity": 57,
+    "windKph": 3.4,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T09:40:08.528+08:00",
+    "observedAt": "2026-11-25T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T09:50:08.885+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国军方盯上车企流水线改造军用无人机，底特律巨头顾虑重重",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737337.shtml",
+        "publishedAt": "2026-11-25T09:42:08.000+08:00"
+      },
+      {
+        "title": "“重返”办案现场 浙江检察英模讲述公平正义背后的坚守",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737333.shtml",
+        "publishedAt": "2026-11-25T09:41:08.000+08:00"
+      },
+      {
+        "title": "【这个城市有点潮】辽宁锦州：话里带着“问号”，生活里都是热闹",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-25/1211588.shtml",
+        "publishedAt": "2026-11-25T09:37:45.000+08:00"
+      },
       {
         "title": "直播海报：神舟二十四号载人飞船发射取得圆满成功",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737332.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "纪录片《未见之身》在香港首映 讲述中医药智慧与价值",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737331.shtml",
         "publishedAt": "2026-11-25T09:31:40.000+08:00"
-      },
-      {
-        "title": "赏冰雪、泡温泉、品美食 哈尔滨市松北区推出三大特色主题游玩线路",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737329.shtml",
-        "publishedAt": "2026-11-25T09:31:18.000+08:00"
-      },
-      {
-        "title": "马来西亚青年企业家赴南宁“取经” 冀深化人工智能合作",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-25/10737326.shtml",
-        "publishedAt": "2026-11-25T09:30:49.000+08:00"
-      },
-      {
-        "title": "在地扎根，短剧出海掀起全球热度",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737324.shtml",
-        "publishedAt": "2026-11-25T09:20:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T09:40:03.035+08:00",
+    "fetchedAt": "2026-11-25T09:50:02.576+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T09:40:07.363+08:00",
+      "fetchedAt": "2026-11-25T09:50:07.449+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T14:40:08.000+08:00"
+          "resetAt": "2026-11-25T14:45:53.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T09:40:07.585+08:00",
+      "fetchedAt": "2026-11-25T09:50:07.700+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T09:40:07.588+08:00",
+      "fetchedAt": "2026-11-25T09:50:07.704+08:00",
       "error": null
     }
   }
