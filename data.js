@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T10:40:08.018+08:00",
+  "updatedAt": "2026-11-25T10:50:37.539+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.1,
-    "feelsLikeC": 8.6,
-    "humidity": 50,
-    "windKph": 4.9,
-    "windDir": "东南风",
+    "tempC": 11.4,
+    "feelsLikeC": 8.9,
+    "humidity": 48,
+    "windKph": 5.2,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T10:40:08.019+08:00",
+    "observedAt": "2026-11-25T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T10:50:37.540+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "贵州省纪委监委原一级巡视员饶瑜珠被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737370.shtml",
+        "publishedAt": "2026-11-25T10:43:53.000+08:00"
+      },
+      {
+        "title": "国台办：搞“台独”分裂没有市场更没有出路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737366.shtml",
+        "publishedAt": "2026-11-25T10:41:15.000+08:00"
+      },
+      {
+        "title": "他们为北京城立一部流动的物候志",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737369.shtml",
+        "publishedAt": "2026-11-25T10:39:53.000+08:00"
+      },
+      {
         "title": "探访红色娘子军纪念园：战地琼花生生不息红色娘子军故事焕发时代活力",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737368.shtml",
         "publishedAt": "2026-11-25T10:30:51.000+08:00"
       },
       {
-        "title": "国台办：搞“台独”分裂没有市场更没有出路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737365.shtml",
-        "publishedAt": "2026-11-25T10:28:01.000+08:00"
-      },
-      {
         "title": "早已是第二大进口国了，中国还能买什么",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737364.shtml",
         "publishedAt": "2026-11-25T10:26:59.000+08:00"
-      },
-      {
-        "title": "治理精度从哪儿来",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-25/10737362.shtml",
-        "publishedAt": "2026-11-25T10:24:42.000+08:00"
-      },
-      {
-        "title": "“正常高值”更名“血压升高”，这一变化警示了谁",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-25/10737356.shtml",
-        "publishedAt": "2026-11-25T10:23:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T10:40:02.679+08:00",
+    "fetchedAt": "2026-11-25T10:50:02.520+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T10:40:06.828+08:00",
+      "fetchedAt": "2026-11-25T10:50:35.949+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 3,
           "resetAt": "2026-11-25T14:45:53.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T10:40:07.055+08:00",
+      "fetchedAt": "2026-11-25T10:50:36.192+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T10:40:07.058+08:00",
+      "fetchedAt": "2026-11-25T10:50:36.197+08:00",
       "error": null
     }
   }
