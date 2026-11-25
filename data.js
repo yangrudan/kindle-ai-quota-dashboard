@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T18:40:08.708+08:00",
+  "updatedAt": "2026-11-25T18:50:08.039+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 10,
-    "feelsLikeC": 7.1,
-    "humidity": 56,
+    "tempC": 9.8,
+    "feelsLikeC": 6.9,
+    "humidity": 57,
     "windKph": 6.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T18:40:08.708+08:00",
+    "observedAt": "2026-11-25T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T18:50:08.040+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江西龙南：赣南脐橙丰收时 果园飘香采摘忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737672.shtml",
-        "publishedAt": "2026-11-25T18:32:03.000+08:00"
+        "title": "2026数字低空大会举办 聚焦基础设施全链路能力建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737677.shtml",
+        "publishedAt": "2026-11-25T18:43:19.000+08:00"
       },
       {
-        "title": "大风蓝色预警：新疆青海等8省区部分地区阵风可达7至9级",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737700.shtml",
-        "publishedAt": "2026-11-25T18:31:33.000+08:00"
+        "title": "2026年“光明行”项目在贝宁启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737698.shtml",
+        "publishedAt": "2026-11-25T18:43:15.000+08:00"
       },
       {
-        "title": "从 “卖产品” 到 “定规则”：深圳民企出海闯关记",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737679.shtml",
-        "publishedAt": "2026-11-25T18:27:47.000+08:00"
+        "title": "丁薛祥会见荷兰外交大臣贝伦德森",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737707.shtml",
+        "publishedAt": "2026-11-25T18:40:33.000+08:00"
       },
       {
-        "title": "《深圳传》面世 解码经济特区开放基因",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737686.shtml",
-        "publishedAt": "2026-11-25T18:26:41.000+08:00"
+        "title": "“援”定天山：齐鲁文化“大巴扎”南疆叙同心",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737688.shtml",
+        "publishedAt": "2026-11-25T18:39:59.000+08:00"
       },
       {
-        "title": "北京市第二十二届全民终身学习活动周开幕 分享AI赋能典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737659.shtml",
-        "publishedAt": "2026-11-25T18:26:11.000+08:00"
+        "title": "第十六届中国航展首批境外参展物资顺利通关抵达展馆",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737695.shtml",
+        "publishedAt": "2026-11-25T18:39:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T18:40:02.913+08:00",
+    "fetchedAt": "2026-11-25T18:50:02.308+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T18:40:07.339+08:00",
+      "fetchedAt": "2026-11-25T18:50:06.696+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T18:40:07.553+08:00",
+      "fetchedAt": "2026-11-25T18:50:06.916+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T18:40:07.563+08:00",
+      "fetchedAt": "2026-11-25T18:50:06.920+08:00",
       "error": null
     }
   }
