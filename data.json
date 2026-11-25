@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T11:10:18.889+08:00",
+  "updatedAt": "2026-11-25T11:20:08.924+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.7,
-    "feelsLikeC": 9.1,
-    "humidity": 46,
-    "windKph": 5.5,
-    "windDir": "东南风",
+    "tempC": 12,
+    "feelsLikeC": 9.2,
+    "humidity": 45,
+    "windKph": 5.6,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T11:10:18.889+08:00",
+    "observedAt": "2026-11-25T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T11:20:08.924+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "越来越多台胞台商走进深圳、认识深圳、扎根深圳 国台办：真诚欢迎",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737390.shtml",
-        "publishedAt": "2026-11-25T11:04:31.000+08:00"
+        "title": "98所高校119部好戏 江苏大学生艺术展演“向美而行 逐梦未来”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737392.shtml",
+        "publishedAt": "2026-11-25T11:12:29.000+08:00"
       },
       {
-        "title": "借房地产唱衰中国经济，错在哪",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-25/10737401.shtml",
-        "publishedAt": "2026-11-25T11:04:07.000+08:00"
+        "title": "按吨计价→按克拉售卖 河南柘城“磨”出硬实力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737412.shtml",
+        "publishedAt": "2026-11-25T11:11:35.000+08:00"
       },
       {
-        "title": "国台办点赞声生不息天涯共此时",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737397.shtml",
-        "publishedAt": "2026-11-25T11:03:04.000+08:00"
+        "title": "国台办：任何图谋“脱钩断链”的政治操弄都徒劳无功",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737402.shtml",
+        "publishedAt": "2026-11-25T11:10:55.000+08:00"
       },
       {
-        "title": "一名经济犯罪嫌疑人从俄罗斯被引渡回国",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737396.shtml",
-        "publishedAt": "2026-11-25T11:02:24.000+08:00"
+        "title": "红星照耀中国｜战旗为什么这样红",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737410.shtml",
+        "publishedAt": "2026-11-25T11:09:03.000+08:00"
       },
       {
-        "title": "国台办回应日首相回避涉台错误言论",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737394.shtml",
-        "publishedAt": "2026-11-25T11:02:04.000+08:00"
+        "title": "呼吸道疾病进入高发季 儿童什么时候需要就医",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-25/10737407.shtml",
+        "publishedAt": "2026-11-25T11:06:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T11:10:12.953+08:00",
+    "fetchedAt": "2026-11-25T11:20:02.730+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T11:10:17.070+08:00",
+      "fetchedAt": "2026-11-25T11:20:06.536+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T11:10:17.328+08:00",
+      "fetchedAt": "2026-11-25T11:20:06.766+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T11:10:17.334+08:00",
+      "fetchedAt": "2026-11-25T11:20:06.774+08:00",
       "error": null
     }
   }
