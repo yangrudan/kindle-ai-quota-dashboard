@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T20:00:08.539+08:00",
+  "updatedAt": "2026-11-25T20:10:09.139+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-25T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T20:00:08.539+08:00",
+    "fetchedAt": "2026-11-25T20:10:09.139+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从村播助农到AI文保 重庆探索“科技+志愿服务”体系化路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737723.shtml",
-        "publishedAt": "2026-11-25T19:52:53.000+08:00"
+        "title": "“海派与20世纪中国画的现代转型”展览亮相广东",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737734.shtml",
+        "publishedAt": "2026-11-25T20:03:50.000+08:00"
       },
       {
-        "title": "严寒中练“秒级响应” 黑龙江消防实战化训练守护北疆冬季安全",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737722.shtml",
-        "publishedAt": "2026-11-25T19:52:39.000+08:00"
+        "title": "2026“思想亚洲”论坛在新加坡举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-25/10737750.shtml",
+        "publishedAt": "2026-11-25T20:03:26.000+08:00"
       },
       {
-        "title": "丁薛祥会见荷兰外交大臣贝伦德森",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737748.shtml",
-        "publishedAt": "2026-11-25T19:43:39.000+08:00"
+        "title": "发挥老企业文化底蕴优势 燕山石化党群工作“燕品牌”建设",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737751.shtml",
+        "publishedAt": "2026-11-25T20:03:18.000+08:00"
       },
       {
-        "title": "2026年宁夏已储备养老服务等各类项目150余个",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737721.shtml",
-        "publishedAt": "2026-11-25T19:21:48.000+08:00"
+        "title": "中国首单国际航行船舶生物甲烷加注业务落地山东青岛",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737742.shtml",
+        "publishedAt": "2026-11-25T20:02:56.000+08:00"
       },
       {
-        "title": "青藏铁路通车20年 一位铁路人的第一声广播与她的第二故乡",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737719.shtml",
-        "publishedAt": "2026-11-25T19:21:46.000+08:00"
+        "title": "国际可再生能源署：中国是推动全球能源转型进入新发展阶段的重要力量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737741.shtml",
+        "publishedAt": "2026-11-25T20:02:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T20:00:03.171+08:00",
+    "fetchedAt": "2026-11-25T20:10:03.603+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T20:00:07.002+08:00",
+      "fetchedAt": "2026-11-25T20:10:07.468+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T01:00:08.000+08:00"
+          "resetAt": "2026-11-26T01:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T20:00:07.443+08:00",
+      "fetchedAt": "2026-11-25T20:10:07.809+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T20:00:07.452+08:00",
+      "fetchedAt": "2026-11-25T20:10:07.813+08:00",
       "error": null
     }
   }
