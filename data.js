@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T13:00:48.117+08:00",
+  "updatedAt": "2026-11-25T13:10:17.923+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-25T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T13:00:48.118+08:00",
+    "fetchedAt": "2026-11-25T13:10:17.923+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "开窗通风仍中毒，两人深夜送医！近期千万警惕",
+        "url": "https://www.chinanews.com.cn/life/2026/11-25/10737471.shtml",
+        "publishedAt": "2026-11-25T13:00:01.000+08:00"
+      },
       {
         "title": "台媒关注张凌赫田曦薇网络直播 国台办回应",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737469.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "国台办回应特朗普表示美国不支持“台独”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737459.shtml",
         "publishedAt": "2026-11-25T12:12:12.000+08:00"
-      },
-      {
-        "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737456.shtml",
-        "publishedAt": "2026-11-25T12:04:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T13:00:12.815+08:00",
+    "fetchedAt": "2026-11-25T13:10:12.446+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T13:00:46.514+08:00",
+      "fetchedAt": "2026-11-25T13:10:16.026+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T13:00:46.867+08:00",
+      "fetchedAt": "2026-11-25T13:10:16.323+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T13:00:46.875+08:00",
+      "fetchedAt": "2026-11-25T13:10:16.328+08:00",
       "error": null
     }
   }
