@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:30:07.998+08:00",
+  "updatedAt": "2026-11-25T18:40:08.708+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-25T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T18:30:07.998+08:00",
+    "fetchedAt": "2026-11-25T18:40:08.708+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "冷空气持续影响 广东最低气温降至10.3℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737690.shtml",
-        "publishedAt": "2026-11-25T18:18:56.000+08:00"
+        "title": "江西龙南：赣南脐橙丰收时 果园飘香采摘忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737672.shtml",
+        "publishedAt": "2026-11-25T18:32:03.000+08:00"
       },
       {
-        "title": "“援”定天山：河南援疆力量助“柳羊羊”出天山 成致富“带头羊”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737689.shtml",
-        "publishedAt": "2026-11-25T18:18:00.000+08:00"
+        "title": "大风蓝色预警：新疆青海等8省区部分地区阵风可达7至9级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737700.shtml",
+        "publishedAt": "2026-11-25T18:31:33.000+08:00"
       },
       {
-        "title": "一鼎一壶间 非洲留学生在河南博物院“读”懂青铜中国",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737678.shtml",
-        "publishedAt": "2026-11-25T18:16:08.000+08:00"
+        "title": "从 “卖产品” 到 “定规则”：深圳民企出海闯关记",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737679.shtml",
+        "publishedAt": "2026-11-25T18:27:47.000+08:00"
       },
       {
-        "title": "粉丝邀张凌赫、田曦薇“早点来台湾” 国台办：双向奔赴最生动体现",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737674.shtml",
-        "publishedAt": "2026-11-25T18:15:32.000+08:00"
+        "title": "《深圳传》面世 解码经济特区开放基因",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737686.shtml",
+        "publishedAt": "2026-11-25T18:26:41.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）广西柳江“一棚双收”：葡萄架下彩椒香 立体套种助增收",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737671.shtml",
-        "publishedAt": "2026-11-25T18:15:26.000+08:00"
+        "title": "北京市第二十二届全民终身学习活动周开幕 分享AI赋能典型案例",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737659.shtml",
+        "publishedAt": "2026-11-25T18:26:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T18:30:02.599+08:00",
+    "fetchedAt": "2026-11-25T18:40:02.913+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T18:30:06.335+08:00",
+      "fetchedAt": "2026-11-25T18:40:07.339+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T18:30:06.591+08:00",
+      "fetchedAt": "2026-11-25T18:40:07.553+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T18:30:06.600+08:00",
+      "fetchedAt": "2026-11-25T18:40:07.563+08:00",
       "error": null
     }
   }
