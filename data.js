@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T10:00:39.299+08:00",
+  "updatedAt": "2026-11-25T10:10:18.132+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-25T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T10:00:39.299+08:00",
+    "fetchedAt": "2026-11-25T10:10:18.132+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737328.shtml",
-        "publishedAt": "2026-11-25T09:53:19.000+08:00"
+        "title": "广东高院：以严格公正司法实质化解行政争议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737340.shtml",
+        "publishedAt": "2026-11-25T10:04:03.000+08:00"
       },
       {
-        "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737323.shtml",
-        "publishedAt": "2026-11-25T09:47:20.000+08:00"
+        "title": "11月25日人民币对美元中间价报6.7088 上调23个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737322.shtml",
+        "publishedAt": "2026-11-25T10:03:47.000+08:00"
       },
       {
-        "title": "推动依法治国和依规治党有机统一（权威访谈·学习贯彻党的二十届五中全会精神）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737321.shtml",
-        "publishedAt": "2026-11-25T09:44:40.000+08:00"
+        "title": "中新健康 | 快停下撕嘴皮的手，小心诱发慢性唇炎！",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-25/10737343.shtml",
+        "publishedAt": "2026-11-25T10:02:23.000+08:00"
       },
       {
-        "title": "A股开盘：超4600只个股飘绿，三大指数集体低开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737338.shtml",
-        "publishedAt": "2026-11-25T09:44:26.000+08:00"
+        "title": "日媒：日本政府或删除武器出口文件中“无核三原则”相关表述",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737346.shtml",
+        "publishedAt": "2026-11-25T10:02:09.000+08:00"
       },
       {
-        "title": "美国军方盯上车企流水线改造军用无人机，底特律巨头顾虑重重",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737337.shtml",
-        "publishedAt": "2026-11-25T09:42:08.000+08:00"
+        "title": "公共空间不是“流量秀场” 无序直播该管管了",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737344.shtml",
+        "publishedAt": "2026-11-25T10:01:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T10:00:02.802+08:00",
+    "fetchedAt": "2026-11-25T10:10:11.968+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T10:00:38.093+08:00",
+      "fetchedAt": "2026-11-25T10:10:16.519+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T10:00:38.366+08:00",
+      "fetchedAt": "2026-11-25T10:10:16.738+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T10:00:38.369+08:00",
+      "fetchedAt": "2026-11-25T10:10:16.744+08:00",
       "error": null
     }
   }
