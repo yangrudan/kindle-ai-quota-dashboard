@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T21:30:08.510+08:00",
+  "updatedAt": "2026-11-25T21:40:08.381+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-25T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T21:30:08.510+08:00",
+    "fetchedAt": "2026-11-25T21:40:08.381+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "浙江“科学咖啡馆”推动具身智能走向真实场景",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737796.shtml",
-        "publishedAt": "2026-11-25T21:22:08.000+08:00"
+        "title": "小鹏人形机器人IRON预计2027年1月进入硬件量产阶段",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737811.shtml",
+        "publishedAt": "2026-11-25T21:32:35.000+08:00"
       },
       {
-        "title": "量子技术“慧眼”智能体在杭州发布 冀降低早期项目识别门槛",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737795.shtml",
-        "publishedAt": "2026-11-25T21:20:56.000+08:00"
+        "title": "港理大举办福建文化周活动 冀深化闽港人文交流",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737804.shtml",
+        "publishedAt": "2026-11-25T21:30:59.000+08:00"
       },
       {
-        "title": "向“深”向“新” 两项全国创新大赛总决赛在杭启幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737794.shtml",
-        "publishedAt": "2026-11-25T21:16:40.000+08:00"
+        "title": "广东发布综合运输服务发展“十五五”规划",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737805.shtml",
+        "publishedAt": "2026-11-25T21:30:14.000+08:00"
       },
       {
-        "title": "20余名缅甸华裔昆明扬帆 “侨”见彩云南",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737793.shtml",
-        "publishedAt": "2026-11-25T21:14:12.000+08:00"
+        "title": "美军开始在日本冲绳常态部署新型战斗机",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737815.shtml",
+        "publishedAt": "2026-11-25T21:28:02.000+08:00"
       },
       {
-        "title": "中国足球“保守得最好的秘密”，藏在一个17岁高中生身上",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-25/10737800.shtml",
-        "publishedAt": "2026-11-25T21:13:14.000+08:00"
+        "title": "澳门保安司司长谈2027年施政重点：以高水平安全护航高质量发展",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737803.shtml",
+        "publishedAt": "2026-11-25T21:28:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T21:30:03.435+08:00",
+    "fetchedAt": "2026-11-25T21:40:02.813+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T21:30:07.183+08:00",
+      "fetchedAt": "2026-11-25T21:40:06.895+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T02:30:08.000+08:00"
+          "resetAt": "2026-11-26T02:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T21:30:07.470+08:00",
+      "fetchedAt": "2026-11-25T21:40:07.187+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T21:30:07.479+08:00",
+      "fetchedAt": "2026-11-25T21:40:07.191+08:00",
       "error": null
     }
   }
