@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T22:20:07.933+08:00",
+  "updatedAt": "2026-11-25T22:30:08.452+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 8.6,
     "feelsLikeC": 6.5,
-    "humidity": 72,
-    "windKph": 4.3,
+    "humidity": 73,
+    "windKph": 4.5,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T22:20:07.934+08:00",
+    "observedAt": "2026-11-25T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T22:30:08.452+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中外旅行商携手开发内蒙古冰雪旅游市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737841.shtml",
+        "publishedAt": "2026-11-25T22:14:37.000+08:00"
+      },
+      {
+        "title": "海内外客商齐聚哈尔滨共拓入境文旅合作通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737840.shtml",
+        "publishedAt": "2026-11-25T22:13:53.000+08:00"
+      },
       {
         "title": "孙中山先生赠予的山茶花里，藏着百年家国情",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737839.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "浙西山地间，油茶产业“长出新枝”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737838.shtml",
         "publishedAt": "2026-11-25T22:02:24.000+08:00"
-      },
-      {
-        "title": "醒木一拍二十载 杭州运河畔书场以IP共创续文脉",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737837.shtml",
-        "publishedAt": "2026-11-25T22:01:24.000+08:00"
-      },
-      {
-        "title": "浙江镇海：百年老渡口变身市民文艺新舞台",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737836.shtml",
-        "publishedAt": "2026-11-25T22:00:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T22:20:02.585+08:00",
+    "fetchedAt": "2026-11-25T22:30:03.087+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T22:20:06.360+08:00",
+      "fetchedAt": "2026-11-25T22:30:06.826+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T03:20:07.000+08:00"
+          "resetAt": "2026-11-26T03:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T22:20:06.684+08:00",
+      "fetchedAt": "2026-11-25T22:30:07.136+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T22:20:06.694+08:00",
+      "fetchedAt": "2026-11-25T22:30:07.145+08:00",
       "error": null
     }
   }
