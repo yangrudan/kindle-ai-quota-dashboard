@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T10:20:08.822+08:00",
+  "updatedAt": "2026-11-25T10:30:07.513+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 10.7,
-    "feelsLikeC": 8.2,
-    "humidity": 52,
-    "windKph": 4.4,
-    "windDir": "南风",
+    "tempC": 11.1,
+    "feelsLikeC": 8.6,
+    "humidity": 50,
+    "windKph": 4.9,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T10:20:08.822+08:00",
+    "observedAt": "2026-11-25T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T10:30:07.513+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全球媒体聚焦丨“这次任务是载人航天惠及全球更多群体的新一步”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737352.shtml",
-        "publishedAt": "2026-11-25T10:07:43.000+08:00"
+        "title": "“正常高值”更名“血压升高”，这一变化警示了谁",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-25/10737356.shtml",
+        "publishedAt": "2026-11-25T10:23:08.000+08:00"
       },
       {
-        "title": "红星照耀中国｜“老园区”长出新动能",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737350.shtml",
-        "publishedAt": "2026-11-25T10:06:41.000+08:00"
+        "title": "金观平：递稳跨年政策衔接“交接棒”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737361.shtml",
+        "publishedAt": "2026-11-25T10:23:04.000+08:00"
       },
       {
-        "title": "11月25日央行开展6170亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737327.shtml",
-        "publishedAt": "2026-11-25T10:06:19.000+08:00"
+        "title": "以门票减法撬动消费加法，推动文旅产业深度转型",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737351.shtml",
+        "publishedAt": "2026-11-25T10:22:48.000+08:00"
       },
       {
-        "title": "日政府起用阴谋论网红宣扬安保政策引质疑",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737349.shtml",
-        "publishedAt": "2026-11-25T10:05:59.000+08:00"
+        "title": "普速旅客列车和旅游列车车次变更11月25日实施",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737355.shtml",
+        "publishedAt": "2026-11-25T10:21:54.000+08:00"
       },
       {
-        "title": "广东高院：以严格公正司法实质化解行政争议",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737340.shtml",
-        "publishedAt": "2026-11-25T10:04:03.000+08:00"
+        "title": "读懂六尺巷，在互谅互让中涵养社会新风",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-25/10737360.shtml",
+        "publishedAt": "2026-11-25T10:21:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T10:20:02.392+08:00",
+    "fetchedAt": "2026-11-25T10:30:02.558+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T10:20:06.964+08:00",
+      "fetchedAt": "2026-11-25T10:30:06.325+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T10:20:07.227+08:00",
+      "fetchedAt": "2026-11-25T10:30:06.549+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T10:20:07.230+08:00",
+      "fetchedAt": "2026-11-25T10:30:06.557+08:00",
       "error": null
     }
   }
