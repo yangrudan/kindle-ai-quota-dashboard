@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T06:50:07.866+08:00",
+  "updatedAt": "2026-11-26T07:00:38.934+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.1,
-    "feelsLikeC": 5.6,
+    "tempC": 8.3,
+    "feelsLikeC": 5.8,
     "humidity": 78,
-    "windKph": 7.5,
+    "windKph": 7.8,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T06:50:07.866+08:00",
+    "observedAt": "2026-11-26T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T07:00:38.934+08:00",
     "error": null
   },
   "news": {
@@ -20,12 +20,17 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "从囤商品到囤服务 小小购物车装着消费大趋势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737860.shtml",
+        "publishedAt": "2026-11-26T06:55:24.000+08:00"
+      },
+      {
         "title": "乌官员称乌俄大规模换俘将分阶段实施",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737859.shtml",
         "publishedAt": "2026-11-26T06:46:43.000+08:00"
       },
       {
-        "title": "起底三起境外间谍网络勾连窃密案件 国家安全机关提示",
+        "title": "境外间谍利用网恋、招聘刺探重要情报 国家安全部披露案件细节",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737858.shtml",
         "publishedAt": "2026-11-26T06:28:12.000+08:00"
       },
@@ -38,14 +43,9 @@
         "title": "德国下调三季度经济增速至0.1%",
         "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737848.shtml",
         "publishedAt": "2026-11-25T23:27:15.000+08:00"
-      },
-      {
-        "title": "见证历史！神舟二十四号载人飞行任务全记录",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737851.shtml",
-        "publishedAt": "2026-11-25T23:26:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T06:50:02.949+08:00",
+    "fetchedAt": "2026-11-26T07:00:03.120+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T06:50:06.365+08:00",
+      "fetchedAt": "2026-11-26T07:00:37.600+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T11:50:07.000+08:00"
+          "resetAt": "2026-11-26T12:00:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T06:50:06.657+08:00",
+      "fetchedAt": "2026-11-26T07:00:37.954+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T06:50:06.666+08:00",
+      "fetchedAt": "2026-11-26T07:00:37.963+08:00",
       "error": null
     }
   }
