@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T18:50:08.039+08:00",
+  "updatedAt": "2026-11-25T19:00:09.163+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 9.8,
-    "feelsLikeC": 6.9,
-    "humidity": 57,
-    "windKph": 6.8,
+    "tempC": 9.6,
+    "feelsLikeC": 6.8,
+    "humidity": 58,
+    "windKph": 6.7,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-25T18:50:08.040+08:00",
+    "observedAt": "2026-11-25T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-25T19:00:09.163+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026数字低空大会举办 聚焦基础设施全链路能力建设",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737677.shtml",
-        "publishedAt": "2026-11-25T18:43:19.000+08:00"
+        "title": "新疆艺术学院“石榴花开·艺润天山”专场亮相国家大剧院",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737705.shtml",
+        "publishedAt": "2026-11-25T18:52:48.000+08:00"
       },
       {
-        "title": "2026年“光明行”项目在贝宁启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737698.shtml",
-        "publishedAt": "2026-11-25T18:43:15.000+08:00"
+        "title": "中国驻日本大使馆举办“四大全球倡议的世界意义”研讨会",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-25/10737710.shtml",
+        "publishedAt": "2026-11-25T18:52:42.000+08:00"
       },
       {
-        "title": "丁薛祥会见荷兰外交大臣贝伦德森",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737707.shtml",
-        "publishedAt": "2026-11-25T18:40:33.000+08:00"
+        "title": "机器人奔赴实景考场 沈阳具身智能产业加速突围",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737703.shtml",
+        "publishedAt": "2026-11-25T18:51:00.000+08:00"
       },
       {
-        "title": "“援”定天山：齐鲁文化“大巴扎”南疆叙同心",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737688.shtml",
-        "publishedAt": "2026-11-25T18:39:59.000+08:00"
+        "title": "2026国际标准化青年之星大赛决赛举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737694.shtml",
+        "publishedAt": "2026-11-25T18:50:56.000+08:00"
       },
       {
-        "title": "第十六届中国航展首批境外参展物资顺利通关抵达展馆",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737695.shtml",
-        "publishedAt": "2026-11-25T18:39:55.000+08:00"
+        "title": "厦门聚焦科技创新产业升级推进服务业扩能提质",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737702.shtml",
+        "publishedAt": "2026-11-25T18:47:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T18:50:02.308+08:00",
+    "fetchedAt": "2026-11-25T19:00:03.133+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T18:50:06.696+08:00",
+      "fetchedAt": "2026-11-25T19:00:07.702+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T18:50:06.916+08:00",
+      "fetchedAt": "2026-11-25T19:00:08.047+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T18:50:06.920+08:00",
+      "fetchedAt": "2026-11-25T19:00:08.055+08:00",
       "error": null
     }
   }
