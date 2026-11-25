@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T11:00:10.307+08:00",
+  "updatedAt": "2026-11-25T11:10:18.889+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-25T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T11:00:10.308+08:00",
+    "fetchedAt": "2026-11-25T11:10:18.889+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国台办谈大陆文化新三样火爆台湾",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737383.shtml",
-        "publishedAt": "2026-11-25T10:54:10.000+08:00"
+        "title": "越来越多台胞台商走进深圳、认识深圳、扎根深圳 国台办：真诚欢迎",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737390.shtml",
+        "publishedAt": "2026-11-25T11:04:31.000+08:00"
       },
       {
-        "title": "“小三通”客运量创纪录 国台办：台湾同胞期盼两岸便利往来的民心民意不可阻挡",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737377.shtml",
-        "publishedAt": "2026-11-25T10:54:02.000+08:00"
+        "title": "借房地产唱衰中国经济，错在哪",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-25/10737401.shtml",
+        "publishedAt": "2026-11-25T11:04:07.000+08:00"
       },
       {
-        "title": "国台办回应深圳APEC期间多国领导人表示恪守一中",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737380.shtml",
-        "publishedAt": "2026-11-25T10:51:40.000+08:00"
+        "title": "国台办点赞声生不息天涯共此时",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737397.shtml",
+        "publishedAt": "2026-11-25T11:03:04.000+08:00"
       },
       {
-        "title": "国台办哀悼武之璋先生逝世",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737371.shtml",
-        "publishedAt": "2026-11-25T10:51:12.000+08:00"
+        "title": "一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737396.shtml",
+        "publishedAt": "2026-11-25T11:02:24.000+08:00"
       },
       {
-        "title": "国台办：APEC会议成为台湾同胞读懂大陆的生动舞台",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737374.shtml",
-        "publishedAt": "2026-11-25T10:50:04.000+08:00"
+        "title": "国台办回应日首相回避涉台错误言论",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737394.shtml",
+        "publishedAt": "2026-11-25T11:02:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T11:00:03.690+08:00",
+    "fetchedAt": "2026-11-25T11:10:12.953+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T11:00:08.967+08:00",
+      "fetchedAt": "2026-11-25T11:10:17.070+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 34,
+          "usedPct": 43,
           "resetAt": "2026-11-25T14:45:53.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 77,
+          "usedPct": 79,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T11:00:09.222+08:00",
+      "fetchedAt": "2026-11-25T11:10:17.328+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T11:00:09.231+08:00",
+      "fetchedAt": "2026-11-25T11:10:17.334+08:00",
       "error": null
     }
   }
