@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T19:20:38.750+08:00",
+  "updatedAt": "2026-11-25T19:30:08.678+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 9.4,
-    "feelsLikeC": 6.7,
-    "humidity": 60,
-    "windKph": 6.4,
+    "tempC": 9.2,
+    "feelsLikeC": 6.5,
+    "humidity": 62,
+    "windKph": 5.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T19:20:38.750+08:00",
+    "observedAt": "2026-11-25T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T19:30:08.678+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026香港国际中医药大会开幕 AI问诊助力中医“港通全球”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737714.shtml",
-        "publishedAt": "2026-11-25T19:16:19.000+08:00"
+        "title": "2026年宁夏已储备养老服务等各类项目150余个",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737721.shtml",
+        "publishedAt": "2026-11-25T19:21:48.000+08:00"
       },
       {
-        "title": "中国将牵头制定全球首个油气生产物联网国际标准",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737713.shtml",
-        "publishedAt": "2026-11-25T19:12:19.000+08:00"
+        "title": "青藏铁路通车20年 一位铁路人的第一声广播与她的第二故乡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737719.shtml",
+        "publishedAt": "2026-11-25T19:21:46.000+08:00"
       },
       {
-        "title": "广州南沙邮轮文化周落幕 大湾区邮轮经济释放消费潜力",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737711.shtml",
-        "publishedAt": "2026-11-25T19:09:27.000+08:00"
+        "title": "平均海拔超5100米 西藏最大风电基地项目首批机组并网发电",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737720.shtml",
+        "publishedAt": "2026-11-25T19:20:27.000+08:00"
       },
       {
-        "title": "粤语戏曲相声进校园系列活动在广州荔湾启动",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737709.shtml",
-        "publishedAt": "2026-11-25T19:09:17.000+08:00"
+        "title": "上海浦东发布数智赋能十大样本 加快前沿技术落地制造一线",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737712.shtml",
+        "publishedAt": "2026-11-25T19:19:43.000+08:00"
       },
       {
-        "title": "重庆市文化旅游委原党委委员朱茂被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737726.shtml",
-        "publishedAt": "2026-11-25T19:09:01.000+08:00"
+        "title": "68岁秦岭“小慢车”焕新 一站一停总关情",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737715.shtml",
+        "publishedAt": "2026-11-25T19:19:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T19:20:03.015+08:00",
+    "fetchedAt": "2026-11-25T19:30:03.149+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T19:20:37.335+08:00",
+      "fetchedAt": "2026-11-25T19:30:06.934+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T19:20:37.709+08:00",
+      "fetchedAt": "2026-11-25T19:30:07.193+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T19:20:37.714+08:00",
+      "fetchedAt": "2026-11-25T19:30:07.200+08:00",
       "error": null
     }
   }
