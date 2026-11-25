@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T08:30:08.184+08:00",
+  "updatedAt": "2026-11-25T08:40:18.718+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-25T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T08:30:08.185+08:00",
+    "fetchedAt": "2026-11-25T08:40:18.718+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“超级月亮”现身天宇",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-25/1211571.shtml",
-        "publishedAt": "2026-11-25T08:24:16.000+08:00"
+        "title": "特朗普“赦免”2026年感恩节火鸡“自由”“羽翼”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737299.shtml",
+        "publishedAt": "2026-11-25T08:31:28.000+08:00"
       },
       {
-        "title": "搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737300.shtml",
-        "publishedAt": "2026-11-25T08:23:26.000+08:00"
+        "title": "欧盟“点名”5个成员国存在经济失衡风险",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737298.shtml",
+        "publishedAt": "2026-11-25T08:30:20.000+08:00"
       },
       {
-        "title": "全国大部天气晴好",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737293.shtml",
-        "publishedAt": "2026-11-25T08:21:50.000+08:00"
+        "title": "美国11月消费者信心指数升至近两年来最高值",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737297.shtml",
+        "publishedAt": "2026-11-25T08:30:16.000+08:00"
       },
       {
-        "title": "网警查处两起不履行网络安全、数据安全保护义务案",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737294.shtml",
-        "publishedAt": "2026-11-25T08:05:05.000+08:00"
+        "title": "一次例行维护，何以导致航班停飞？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737304.shtml",
+        "publishedAt": "2026-11-25T08:29:30.000+08:00"
       },
       {
-        "title": "买盲盒先办会员，此风不可长",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737292.shtml",
-        "publishedAt": "2026-11-25T07:56:52.000+08:00"
+        "title": "两名男子涉嫌侵入英国威廉王子夫妇乡间别墅行窃被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737296.shtml",
+        "publishedAt": "2026-11-25T08:28:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T08:30:03.116+08:00",
+    "fetchedAt": "2026-11-25T08:40:12.931+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T08:30:06.843+08:00",
+      "fetchedAt": "2026-11-25T08:40:17.150+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T13:30:08.000+08:00"
+          "resetAt": "2026-11-25T13:40:18.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T08:30:07.110+08:00",
+      "fetchedAt": "2026-11-25T08:40:17.490+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T08:30:07.119+08:00",
+      "fetchedAt": "2026-11-25T08:40:17.499+08:00",
       "error": null
     }
   }
