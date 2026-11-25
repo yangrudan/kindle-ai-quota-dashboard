@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T21:00:38.476+08:00",
+  "updatedAt": "2026-11-25T21:10:39.018+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-25T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T21:00:38.476+08:00",
+    "fetchedAt": "2026-11-25T21:10:39.018+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "财政部等五部门印发《常态化帮扶资金绩效评价办法》",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737799.shtml",
+        "publishedAt": "2026-11-25T21:06:07.000+08:00"
+      },
+      {
+        "title": "浙江多地最低气温创下半年新低 阴冷收尾将升温至“20℃+”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737790.shtml",
+        "publishedAt": "2026-11-25T21:04:47.000+08:00"
+      },
       {
         "title": "浙江杭州：古韵落廊桥 国乐赋新美",
         "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737784.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美媒：特朗普政府考虑将伊朗高层列为打击目标",
         "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737789.shtml",
         "publishedAt": "2026-11-25T20:52:20.000+08:00"
-      },
-      {
-        "title": "广东中山：孙中山故居纪念馆游人如织",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737782.shtml",
-        "publishedAt": "2026-11-25T20:51:16.000+08:00"
-      },
-      {
-        "title": "走进“赣南最高围屋”——江西龙南燕翼围",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737766.shtml",
-        "publishedAt": "2026-11-25T20:49:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T21:00:03.256+08:00",
+    "fetchedAt": "2026-11-25T21:10:03.543+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T21:00:37.191+08:00",
+      "fetchedAt": "2026-11-25T21:10:37.757+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T02:00:38.000+08:00"
+          "resetAt": "2026-11-26T02:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T21:00:37.436+08:00",
+      "fetchedAt": "2026-11-25T21:10:38.031+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T21:00:37.446+08:00",
+      "fetchedAt": "2026-11-25T21:10:38.041+08:00",
       "error": null
     }
   }
