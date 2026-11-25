@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T20:40:08.924+08:00",
+  "updatedAt": "2026-11-25T20:50:08.193+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 9,
     "feelsLikeC": 6.7,
     "humidity": 67,
-    "windKph": 4.7,
+    "windKph": 4.6,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T20:40:08.924+08:00",
+    "observedAt": "2026-11-25T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T20:50:08.194+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海南高质量发展“第三极”的新图景：探路开放、航运扩容、产业向新",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737777.shtml",
-        "publishedAt": "2026-11-25T20:35:07.000+08:00"
+        "title": "重庆市政协把“冠军故事”送进校园 让学子对话“委员榜样”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737785.shtml",
+        "publishedAt": "2026-11-25T20:45:12.000+08:00"
       },
       {
-        "title": "广西发现新物种大明山冬青",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737775.shtml",
-        "publishedAt": "2026-11-25T20:32:25.000+08:00"
+        "title": "中国杂交水稻在尼泊尔试种成功",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737739.shtml",
+        "publishedAt": "2026-11-25T20:41:02.000+08:00"
       },
       {
-        "title": "外媒：特朗普长子小唐纳德·特朗普遭调查",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737781.shtml",
-        "publishedAt": "2026-11-25T20:32:01.000+08:00"
+        "title": "一朵素馨花，“开”在了中国空间站",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737780.shtml",
+        "publishedAt": "2026-11-25T20:39:50.000+08:00"
       },
       {
-        "title": "王青峰任陕西省副省长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737778.shtml",
-        "publishedAt": "2026-11-25T20:32:01.000+08:00"
+        "title": "哈萨克斯坦警方今年前10个月打掉40余个犯罪团伙",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737661.shtml",
+        "publishedAt": "2026-11-25T20:39:40.000+08:00"
       },
       {
-        "title": "杭州发布颠覆性技术及OPC创新应用场景清单",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737774.shtml",
-        "publishedAt": "2026-11-25T20:31:07.000+08:00"
+        "title": "新加坡高校学者：亚洲智慧可为全球治理提供参照",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737653.shtml",
+        "publishedAt": "2026-11-25T20:39:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T20:40:03.243+08:00",
+    "fetchedAt": "2026-11-25T20:50:03.071+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T20:40:07.364+08:00",
+      "fetchedAt": "2026-11-25T20:50:06.707+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T01:40:08.000+08:00"
+          "resetAt": "2026-11-26T01:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T20:40:07.906+08:00",
+      "fetchedAt": "2026-11-25T20:50:06.958+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T20:40:07.915+08:00",
+      "fetchedAt": "2026-11-25T20:50:06.968+08:00",
       "error": null
     }
   }
