@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T07:00:38.934+08:00",
+  "updatedAt": "2026-11-26T07:10:09.143+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-26T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T07:00:38.934+08:00",
+    "fetchedAt": "2026-11-26T07:10:09.143+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "以军证实：打死一名哈马斯内部安全机构负责人",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737861.shtml",
+        "publishedAt": "2026-11-26T06:59:52.000+08:00"
+      },
       {
         "title": "从囤商品到囤服务 小小购物车装着消费大趋势",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737860.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国岭南首次发现丹尼索瓦人和10.1万年前未知古人类",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737857.shtml",
         "publishedAt": "2026-11-26T00:10:50.000+08:00"
-      },
-      {
-        "title": "德国下调三季度经济增速至0.1%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737848.shtml",
-        "publishedAt": "2026-11-25T23:27:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T07:00:03.120+08:00",
+    "fetchedAt": "2026-11-26T07:10:02.755+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T07:00:37.600+08:00",
+      "fetchedAt": "2026-11-26T07:10:06.959+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T12:00:38.000+08:00"
+          "resetAt": "2026-11-26T12:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T07:00:37.954+08:00",
+      "fetchedAt": "2026-11-26T07:10:07.226+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T07:00:37.963+08:00",
+      "fetchedAt": "2026-11-26T07:10:07.230+08:00",
       "error": null
     }
   }
