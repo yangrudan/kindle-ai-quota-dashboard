@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T11:40:09.044+08:00",
+  "updatedAt": "2026-11-25T11:50:08.528+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.2,
-    "feelsLikeC": 9.3,
-    "humidity": 44,
-    "windKph": 5.8,
+    "tempC": 12.4,
+    "feelsLikeC": 9.4,
+    "humidity": 43,
+    "windKph": 6,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T11:40:09.044+08:00",
+    "observedAt": "2026-11-25T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T11:50:08.528+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "司法部和联合国毒罪办在北京联合举办刑事法律援助全球会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737431.shtml",
+        "publishedAt": "2026-11-25T11:36:20.000+08:00"
+      },
       {
         "title": "楼上安家楼下务工 湖南新田乡村车间拓宽乡亲增收路",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737430.shtml",
@@ -38,14 +43,9 @@
         "title": "60余名越南青年赴广西开启“红色研学之旅”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737434.shtml",
         "publishedAt": "2026-11-25T11:32:30.000+08:00"
-      },
-      {
-        "title": "黑龙江北大荒集团：一张数字全息图可2小时完成主粮作物长势监测",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737437.shtml",
-        "publishedAt": "2026-11-25T11:32:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T11:40:02.531+08:00",
+    "fetchedAt": "2026-11-25T11:50:03.077+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T11:40:07.452+08:00",
+      "fetchedAt": "2026-11-25T11:50:06.954+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 51,
+          "usedPct": 52,
           "resetAt": "2026-11-25T14:45:53.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T11:40:07.673+08:00",
+      "fetchedAt": "2026-11-25T11:50:07.304+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T11:40:07.684+08:00",
+      "fetchedAt": "2026-11-25T11:50:07.309+08:00",
       "error": null
     }
   }
