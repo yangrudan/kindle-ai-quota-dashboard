@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T15:10:11.566+08:00",
+  "updatedAt": "2026-11-25T15:20:37.089+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13,
+    "tempC": 12.9,
     "feelsLikeC": 9.9,
-    "humidity": 42,
-    "windKph": 7.3,
+    "humidity": 43,
+    "windKph": 6.9,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T15:10:11.566+08:00",
+    "observedAt": "2026-11-25T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T15:20:37.089+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "看江苏睢宁“企业之家”助力县域营商生态之变",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737529.shtml",
-        "publishedAt": "2026-11-25T15:03:43.000+08:00"
+        "title": "国家发改委：三峡水运新通道工程已完成投资超110亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737542.shtml",
+        "publishedAt": "2026-11-25T15:12:10.000+08:00"
       },
       {
-        "title": "液体动力托举首次中外航天员太空同行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737533.shtml",
-        "publishedAt": "2026-11-25T15:03:41.000+08:00"
+        "title": "A股收评：超4900只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737546.shtml",
+        "publishedAt": "2026-11-25T15:10:22.000+08:00"
       },
       {
-        "title": "聚焦消费新场景 双汇携多款新品参展2026湖北农博会",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737530.shtml",
-        "publishedAt": "2026-11-25T15:03:05.000+08:00"
+        "title": "明星艺人航班信息是怎么流出的？典型案件起底来了",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737540.shtml",
+        "publishedAt": "2026-11-25T15:07:26.000+08:00"
       },
       {
-        "title": "跨越山海践初心，保险赋能兴边疆 中国太保产险“三心”服务绘就上海援疆新篇章",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737531.shtml",
-        "publishedAt": "2026-11-25T15:01:45.000+08:00"
+        "title": "11月25日“农产品批发价格200指数”比昨天上升0.15个点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737534.shtml",
+        "publishedAt": "2026-11-25T15:07:20.000+08:00"
       },
       {
-        "title": "从酒泉到西安：母校师生见证武毅奔赴星海",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737537.shtml",
-        "publishedAt": "2026-11-25T14:59:09.000+08:00"
+        "title": "三山四先生——闽都四家书画展（第三回）福州启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737511.shtml",
+        "publishedAt": "2026-11-25T15:04:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T15:10:03.977+08:00",
+    "fetchedAt": "2026-11-25T15:20:02.239+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T15:10:09.921+08:00",
+      "fetchedAt": "2026-11-25T15:20:35.863+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
+          "usedPct": 16,
           "resetAt": "2026-11-25T19:47:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 83,
+          "usedPct": 84,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T15:10:10.206+08:00",
+      "fetchedAt": "2026-11-25T15:20:36.158+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T15:10:10.216+08:00",
+      "fetchedAt": "2026-11-25T15:20:36.161+08:00",
       "error": null
     }
   }
