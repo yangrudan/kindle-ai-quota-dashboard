@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T09:00:17.582+08:00",
+  "updatedAt": "2026-11-25T09:10:38.073+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 6.6,
-    "feelsLikeC": 4.6,
-    "humidity": 75,
+    "tempC": 8.1,
+    "feelsLikeC": 6.2,
+    "humidity": 69,
     "windKph": 1.5,
-    "windDir": "西南风",
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T09:00:17.582+08:00",
+    "observedAt": "2026-11-25T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-25T09:10:38.073+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《全民国防教育“十五五”规划》印发",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737316.shtml",
+        "publishedAt": "2026-11-25T09:02:34.000+08:00"
+      },
+      {
+        "title": "化妆品监管改革持续落地 “美妆消费”解锁哪些新机会",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737315.shtml",
+        "publishedAt": "2026-11-25T09:00:50.000+08:00"
+      },
       {
         "title": "神舟二十四号载人飞船发射取得圆满成功",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-25/1211577.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "撞碎在城市幻觉里的翅膀：一场关于防鸟撞的社会接力",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737312.shtml",
         "publishedAt": "2026-11-25T08:48:57.000+08:00"
-      },
-      {
-        "title": "中国空间站将首次开展4项中巴国际合作科学实验",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737311.shtml",
-        "publishedAt": "2026-11-25T08:47:55.000+08:00"
-      },
-      {
-        "title": "神舟飞船首次搭载外籍航天员",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737309.shtml",
-        "publishedAt": "2026-11-25T08:45:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T09:00:12.109+08:00",
+    "fetchedAt": "2026-11-25T09:10:02.921+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T09:00:15.986+08:00",
+      "fetchedAt": "2026-11-25T09:10:36.790+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T14:00:17.000+08:00"
+          "resetAt": "2026-11-25T14:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T09:00:16.234+08:00",
+      "fetchedAt": "2026-11-25T09:10:37.034+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T09:00:16.237+08:00",
+      "fetchedAt": "2026-11-25T09:10:37.041+08:00",
       "error": null
     }
   }
