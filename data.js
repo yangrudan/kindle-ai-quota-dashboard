@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T14:10:47.482+08:00",
+  "updatedAt": "2026-11-25T14:20:07.848+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 13.2,
     "feelsLikeC": 10,
     "humidity": 40,
-    "windKph": 7.2,
+    "windKph": 7.6,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T14:10:47.483+08:00",
+    "observedAt": "2026-11-25T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T14:20:07.848+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "河南博物院珍贵文物吸引中外游客",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737503.shtml",
+        "publishedAt": "2026-11-25T14:08:46.000+08:00"
+      },
+      {
+        "title": "从“一张弯板”到“全链智造” 广西容县激活林业产业发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737499.shtml",
+        "publishedAt": "2026-11-25T14:06:52.000+08:00"
+      },
       {
         "title": "大学开设“过日子课”火出圈 评论指其丰富劳动教育内涵",
         "url": "https://www.chinanews.com.cn/edu/2026/11-25/10737501.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "沙特主导联军袭击也门荷台达港 胡塞武装威胁沙特红海沿岸港口",
         "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737475.shtml",
         "publishedAt": "2026-11-25T13:56:34.000+08:00"
-      },
-      {
-        "title": "中国驻伊朗大使馆提醒在伊中国公民防范治安事件",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-25/10737497.shtml",
-        "publishedAt": "2026-11-25T13:53:10.000+08:00"
-      },
-      {
-        "title": "劳动者权益保障写入检察公益诉讼法，意味着什么？",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737495.shtml",
-        "publishedAt": "2026-11-25T13:50:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T14:10:12.579+08:00",
+    "fetchedAt": "2026-11-25T14:20:02.920+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T14:10:46.169+08:00",
+      "fetchedAt": "2026-11-25T14:20:06.615+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T14:10:46.462+08:00",
+      "fetchedAt": "2026-11-25T14:20:06.901+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T14:10:46.471+08:00",
+      "fetchedAt": "2026-11-25T14:20:06.906+08:00",
       "error": null
     }
   }
