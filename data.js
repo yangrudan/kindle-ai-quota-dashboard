@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T20:20:08.959+08:00",
+  "updatedAt": "2026-11-25T20:30:38.409+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 8.7,
-    "feelsLikeC": 6.3,
-    "humidity": 66,
-    "windKph": 4.8,
-    "windDir": "东南风",
+    "tempC": 9,
+    "feelsLikeC": 6.7,
+    "humidity": 67,
+    "windKph": 4.7,
+    "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T20:20:08.960+08:00",
+    "observedAt": "2026-11-25T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T20:30:38.409+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "书香河南第五届全民阅读大会在漯河开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737732.shtml",
-        "publishedAt": "2026-11-25T20:08:38.000+08:00"
+        "title": "四川省广安市政府原党组成员、副市长、市公安局原党委书记、局长邓文国严重违纪违法被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737771.shtml",
+        "publishedAt": "2026-11-25T20:25:03.000+08:00"
       },
       {
-        "title": "自然博物类百科全书《自然的形状：博物世界万花筒》在京首发",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737755.shtml",
-        "publishedAt": "2026-11-25T20:07:58.000+08:00"
+        "title": "重庆出台新规强化农民工工资支付保障",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737772.shtml",
+        "publishedAt": "2026-11-25T20:24:47.000+08:00"
       },
       {
-        "title": "燕山石化：奋力书写“二次创业”高分答卷",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737752.shtml",
-        "publishedAt": "2026-11-25T20:06:58.000+08:00"
+        "title": "2026中国饭店业高质量大会在三亚开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737768.shtml",
+        "publishedAt": "2026-11-25T20:23:09.000+08:00"
       },
       {
-        "title": "脑机接口技术应用提速 四川亮出多款创新产品",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737753.shtml",
-        "publishedAt": "2026-11-25T20:06:06.000+08:00"
+        "title": "家谱载家风 《钱学森家谱》在杭州上城发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737769.shtml",
+        "publishedAt": "2026-11-25T20:22:31.000+08:00"
       },
       {
-        "title": "多元化市场持续拓展 吉林外贸跑出增长加速度",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-25/10737743.shtml",
-        "publishedAt": "2026-11-25T20:06:02.000+08:00"
+        "title": "四川先进材料产业持续壮大 今年上半年营收超3838亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737767.shtml",
+        "publishedAt": "2026-11-25T20:21:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T20:20:03.357+08:00",
+    "fetchedAt": "2026-11-25T20:30:02.816+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T20:20:07.791+08:00",
+      "fetchedAt": "2026-11-25T20:30:36.836+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T01:20:08.000+08:00"
+          "resetAt": "2026-11-26T01:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T20:20:08.082+08:00",
+      "fetchedAt": "2026-11-25T20:30:37.083+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T20:20:08.091+08:00",
+      "fetchedAt": "2026-11-25T20:30:37.091+08:00",
       "error": null
     }
   }
