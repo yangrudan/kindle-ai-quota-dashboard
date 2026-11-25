@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T19:50:09.205+08:00",
+  "updatedAt": "2026-11-25T20:00:08.539+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 8.9,
-    "feelsLikeC": 6.4,
-    "humidity": 63,
-    "windKph": 5.2,
+    "tempC": 8.8,
+    "feelsLikeC": 6.3,
+    "humidity": 65,
+    "windKph": 4.8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-25T19:50:09.205+08:00",
+    "observedAt": "2026-11-25T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-25T20:00:08.539+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从村播助农到AI文保 重庆探索“科技+志愿服务”体系化路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737723.shtml",
+        "publishedAt": "2026-11-25T19:52:53.000+08:00"
+      },
+      {
+        "title": "严寒中练“秒级响应” 黑龙江消防实战化训练守护北疆冬季安全",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737722.shtml",
+        "publishedAt": "2026-11-25T19:52:39.000+08:00"
+      },
       {
         "title": "丁薛祥会见荷兰外交大臣贝伦德森",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737748.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "青藏铁路通车20年 一位铁路人的第一声广播与她的第二故乡",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737719.shtml",
         "publishedAt": "2026-11-25T19:21:46.000+08:00"
-      },
-      {
-        "title": "平均海拔超5100米 西藏最大风电基地项目首批机组并网发电",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737720.shtml",
-        "publishedAt": "2026-11-25T19:20:27.000+08:00"
-      },
-      {
-        "title": "上海浦东发布数智赋能十大样本 加快前沿技术落地制造一线",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737712.shtml",
-        "publishedAt": "2026-11-25T19:19:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T19:50:03.076+08:00",
+    "fetchedAt": "2026-11-25T20:00:03.171+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T19:50:07.841+08:00",
+      "fetchedAt": "2026-11-25T20:00:07.002+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T00:50:09.000+08:00"
+          "resetAt": "2026-11-26T01:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T19:50:08.093+08:00",
+      "fetchedAt": "2026-11-25T20:00:07.443+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T19:50:08.103+08:00",
+      "fetchedAt": "2026-11-25T20:00:07.452+08:00",
       "error": null
     }
   }
