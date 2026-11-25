@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T20:30:38.409+08:00",
+  "updatedAt": "2026-11-25T20:40:08.924+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-25T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T20:30:38.409+08:00",
+    "fetchedAt": "2026-11-25T20:40:08.924+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "四川省广安市政府原党组成员、副市长、市公安局原党委书记、局长邓文国严重违纪违法被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737771.shtml",
-        "publishedAt": "2026-11-25T20:25:03.000+08:00"
+        "title": "海南高质量发展“第三极”的新图景：探路开放、航运扩容、产业向新",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737777.shtml",
+        "publishedAt": "2026-11-25T20:35:07.000+08:00"
       },
       {
-        "title": "重庆出台新规强化农民工工资支付保障",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737772.shtml",
-        "publishedAt": "2026-11-25T20:24:47.000+08:00"
+        "title": "广西发现新物种大明山冬青",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737775.shtml",
+        "publishedAt": "2026-11-25T20:32:25.000+08:00"
       },
       {
-        "title": "2026中国饭店业高质量大会在三亚开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737768.shtml",
-        "publishedAt": "2026-11-25T20:23:09.000+08:00"
+        "title": "外媒：特朗普长子小唐纳德·特朗普遭调查",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737781.shtml",
+        "publishedAt": "2026-11-25T20:32:01.000+08:00"
       },
       {
-        "title": "家谱载家风 《钱学森家谱》在杭州上城发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737769.shtml",
-        "publishedAt": "2026-11-25T20:22:31.000+08:00"
+        "title": "王青峰任陕西省副省长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737778.shtml",
+        "publishedAt": "2026-11-25T20:32:01.000+08:00"
       },
       {
-        "title": "四川先进材料产业持续壮大 今年上半年营收超3838亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737767.shtml",
-        "publishedAt": "2026-11-25T20:21:25.000+08:00"
+        "title": "杭州发布颠覆性技术及OPC创新应用场景清单",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737774.shtml",
+        "publishedAt": "2026-11-25T20:31:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T20:30:02.816+08:00",
+    "fetchedAt": "2026-11-25T20:40:03.243+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T20:30:36.836+08:00",
+      "fetchedAt": "2026-11-25T20:40:07.364+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T01:30:38.000+08:00"
+          "resetAt": "2026-11-26T01:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T20:30:37.083+08:00",
+      "fetchedAt": "2026-11-25T20:40:07.906+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T20:30:37.091+08:00",
+      "fetchedAt": "2026-11-25T20:40:07.915+08:00",
       "error": null
     }
   }
