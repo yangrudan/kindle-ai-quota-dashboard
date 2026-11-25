@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T22:10:09.303+08:00",
+  "updatedAt": "2026-11-25T22:20:07.933+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 8.6,
     "feelsLikeC": 6.5,
     "humidity": 72,
-    "windKph": 4.4,
+    "windKph": 4.3,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T22:10:09.303+08:00",
+    "observedAt": "2026-11-25T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T22:20:07.934+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "孙中山先生赠予的山茶花里，藏着百年家国情",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737839.shtml",
+        "publishedAt": "2026-11-25T22:05:26.000+08:00"
+      },
       {
         "title": "中方呼吁申办《海洋生物多样性协定》秘书处相关国家友好合作、合理竞争",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737835.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "浙江镇海：百年老渡口变身市民文艺新舞台",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737836.shtml",
         "publishedAt": "2026-11-25T22:00:00.000+08:00"
-      },
-      {
-        "title": "英国能源限价2027年将大幅上调",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737822.shtml",
-        "publishedAt": "2026-11-25T21:55:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T22:10:03.493+08:00",
+    "fetchedAt": "2026-11-25T22:20:02.585+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T22:10:07.739+08:00",
+      "fetchedAt": "2026-11-25T22:20:06.360+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T03:10:09.000+08:00"
+          "resetAt": "2026-11-26T03:20:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T22:10:08.037+08:00",
+      "fetchedAt": "2026-11-25T22:20:06.684+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T22:10:08.046+08:00",
+      "fetchedAt": "2026-11-25T22:20:06.694+08:00",
       "error": null
     }
   }
