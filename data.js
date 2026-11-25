@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T10:10:18.132+08:00",
+  "updatedAt": "2026-11-25T10:20:08.822+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 10.2,
-    "feelsLikeC": 7.7,
-    "humidity": 54,
-    "windKph": 4,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 10.7,
+    "feelsLikeC": 8.2,
+    "humidity": 52,
+    "windKph": 4.4,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T10:10:18.132+08:00",
+    "observedAt": "2026-11-25T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T10:20:08.822+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "全球媒体聚焦丨“这次任务是载人航天惠及全球更多群体的新一步”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737352.shtml",
+        "publishedAt": "2026-11-25T10:07:43.000+08:00"
+      },
+      {
+        "title": "红星照耀中国｜“老园区”长出新动能",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737350.shtml",
+        "publishedAt": "2026-11-25T10:06:41.000+08:00"
+      },
+      {
+        "title": "11月25日央行开展6170亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737327.shtml",
+        "publishedAt": "2026-11-25T10:06:19.000+08:00"
+      },
+      {
+        "title": "日政府起用阴谋论网红宣扬安保政策引质疑",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737349.shtml",
+        "publishedAt": "2026-11-25T10:05:59.000+08:00"
+      },
+      {
         "title": "广东高院：以严格公正司法实质化解行政争议",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737340.shtml",
         "publishedAt": "2026-11-25T10:04:03.000+08:00"
-      },
-      {
-        "title": "11月25日人民币对美元中间价报6.7088 上调23个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737322.shtml",
-        "publishedAt": "2026-11-25T10:03:47.000+08:00"
-      },
-      {
-        "title": "中新健康 | 快停下撕嘴皮的手，小心诱发慢性唇炎！",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-25/10737343.shtml",
-        "publishedAt": "2026-11-25T10:02:23.000+08:00"
-      },
-      {
-        "title": "日媒：日本政府或删除武器出口文件中“无核三原则”相关表述",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737346.shtml",
-        "publishedAt": "2026-11-25T10:02:09.000+08:00"
-      },
-      {
-        "title": "公共空间不是“流量秀场” 无序直播该管管了",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737344.shtml",
-        "publishedAt": "2026-11-25T10:01:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T10:10:11.968+08:00",
+    "fetchedAt": "2026-11-25T10:20:02.392+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T10:10:16.519+08:00",
+      "fetchedAt": "2026-11-25T10:20:06.964+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T10:10:16.738+08:00",
+      "fetchedAt": "2026-11-25T10:20:07.227+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T10:10:16.744+08:00",
+      "fetchedAt": "2026-11-25T10:20:07.230+08:00",
       "error": null
     }
   }
