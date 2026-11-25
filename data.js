@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T14:40:07.819+08:00",
+  "updatedAt": "2026-11-25T14:50:37.073+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.1,
-    "feelsLikeC": 9.8,
+    "tempC": 13,
+    "feelsLikeC": 9.7,
     "humidity": 41,
-    "windKph": 7.9,
+    "windKph": 8,
     "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T14:40:07.819+08:00",
+    "observedAt": "2026-11-25T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T14:50:37.074+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "朱光耀：中国与东盟不是“谁帮谁”，而是共同发展",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-25/10737518.shtml",
-        "publishedAt": "2026-11-25T14:30:30.000+08:00"
+        "title": "阿尔山邀中外滑雪爱好者赴中国北疆追“雪”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737525.shtml",
+        "publishedAt": "2026-11-25T14:42:04.000+08:00"
       },
       {
-        "title": "新鲜零食店排起长队，零食的“新鲜感”从哪儿来？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737521.shtml",
-        "publishedAt": "2026-11-25T14:30:16.000+08:00"
+        "title": "中外航天员实现首次“太空握手” 神二十四乘组顺利进驻“天宫”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737524.shtml",
+        "publishedAt": "2026-11-25T14:38:26.000+08:00"
       },
       {
-        "title": "四川推进“一老一小”食品安全整治 养老机构隐患整改率达99.5%",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737517.shtml",
-        "publishedAt": "2026-11-25T14:29:02.000+08:00"
+        "title": "直播：中外航天员“太空握手”",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-25/10737523.shtml",
+        "publishedAt": "2026-11-25T14:38:18.000+08:00"
       },
       {
-        "title": "斯诺克英锦赛资格赛：丁俊晖赢下“德比战”晋级“审判轮”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-25/10737510.shtml",
-        "publishedAt": "2026-11-25T14:27:48.000+08:00"
+        "title": "“京沪神车”1462次谢幕 曾是铁路线上定员最大列车之一",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737522.shtml",
+        "publishedAt": "2026-11-25T14:35:22.000+08:00"
       },
       {
-        "title": "新疆铁路普速列车新车次启用",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737507.shtml",
-        "publishedAt": "2026-11-25T14:25:05.000+08:00"
+        "title": "长江源头国际重要湿地首现白额雁",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737520.shtml",
+        "publishedAt": "2026-11-25T14:31:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T14:40:02.414+08:00",
+    "fetchedAt": "2026-11-25T14:50:02.447+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T14:40:06.616+08:00",
+      "fetchedAt": "2026-11-25T14:50:35.797+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 61,
-          "resetAt": "2026-11-25T14:45:53.000+08:00"
+          "usedPct": 7,
+          "resetAt": "2026-11-25T19:47:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 81,
+          "usedPct": 82,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T14:40:06.910+08:00",
+      "fetchedAt": "2026-11-25T14:50:36.084+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T14:40:06.919+08:00",
+      "fetchedAt": "2026-11-25T14:50:36.094+08:00",
       "error": null
     }
   }
