@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:00:08.742+08:00",
+  "updatedAt": "2026-11-25T18:10:09.095+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "杭州",
     "observedAt": "2026-11-25T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T18:00:08.742+08:00",
+    "fetchedAt": "2026-11-25T18:10:09.095+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "宜丰县召开统战系统学习贯彻党的二十届五中全会精神座谈会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737642.shtml",
+        "publishedAt": "2026-11-25T18:02:25.000+08:00"
+      },
+      {
+        "title": "安徽池州通报4岁男童走失：已无生命体征",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737675.shtml",
+        "publishedAt": "2026-11-25T17:56:57.000+08:00"
+      },
+      {
+        "title": "10月空气质量状况公布 全国PM2.5平均浓度值同比持平",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737673.shtml",
+        "publishedAt": "2026-11-25T17:54:47.000+08:00"
+      },
+      {
+        "title": "汽车之家出席高德地图车生态盛典 解码购车转化新路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737662.shtml",
+        "publishedAt": "2026-11-25T17:52:11.000+08:00"
+      },
+      {
         "title": "（乡村行·看振兴）山西襄垣：母牛繁育“犇”出乡村振兴新路径",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737656.shtml",
         "publishedAt": "2026-11-25T17:50:37.000+08:00"
-      },
-      {
-        "title": "前十月锂电池出口大增137% 常州对非洲贸易增三成",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737655.shtml",
-        "publishedAt": "2026-11-25T17:50:33.000+08:00"
-      },
-      {
-        "title": "大陆“文化新三样”火爆台湾 国台办：底色是中华文化",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737654.shtml",
-        "publishedAt": "2026-11-25T17:49:38.000+08:00"
-      },
-      {
-        "title": "从“深海之鲲”到“展翅之鹏” 一枚APEC会标里的深圳表达",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737641.shtml",
-        "publishedAt": "2026-11-25T17:48:24.000+08:00"
-      },
-      {
-        "title": "国台办：日方应在台湾问题上尽快纠正错误言行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737652.shtml",
-        "publishedAt": "2026-11-25T17:47:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T18:00:02.800+08:00",
+    "fetchedAt": "2026-11-25T18:10:02.816+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T18:00:07.358+08:00",
+      "fetchedAt": "2026-11-25T18:10:07.219+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T18:00:07.690+08:00",
+      "fetchedAt": "2026-11-25T18:10:07.522+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T18:00:07.699+08:00",
+      "fetchedAt": "2026-11-25T18:10:07.531+08:00",
       "error": null
     }
   }
