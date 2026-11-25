@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T22:00:09.572+08:00",
+  "updatedAt": "2026-11-25T22:10:09.303+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-25T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T22:00:09.572+08:00",
+    "fetchedAt": "2026-11-25T22:10:09.303+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一碗凉茶喻广府家事：电影《二十四味》在广州推介",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737831.shtml",
-        "publishedAt": "2026-11-25T21:53:12.000+08:00"
+        "title": "中方呼吁申办《海洋生物多样性协定》秘书处相关国家友好合作、合理竞争",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737835.shtml",
+        "publishedAt": "2026-11-25T22:03:32.000+08:00"
       },
       {
-        "title": "香港对航运有关活动及实物大宗商品交易提供税务宽减",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737830.shtml",
-        "publishedAt": "2026-11-25T21:52:40.000+08:00"
+        "title": "浙西山地间，油茶产业“长出新枝”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737838.shtml",
+        "publishedAt": "2026-11-25T22:02:24.000+08:00"
       },
       {
-        "title": "谷爱凌训练受伤肩膀脱臼：参加云顶世界杯站可能性较小",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-25/10737834.shtml",
-        "publishedAt": "2026-11-25T21:52:16.000+08:00"
+        "title": "醒木一拍二十载 杭州运河畔书场以IP共创续文脉",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737837.shtml",
+        "publishedAt": "2026-11-25T22:01:24.000+08:00"
       },
       {
-        "title": "香港续签2027年“村超”全国赛 绿茵牵动黔港两地续情谊",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737827.shtml",
-        "publishedAt": "2026-11-25T21:51:32.000+08:00"
+        "title": "浙江镇海：百年老渡口变身市民文艺新舞台",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737836.shtml",
+        "publishedAt": "2026-11-25T22:00:00.000+08:00"
       },
       {
-        "title": "王毅同荷兰外交大臣贝伦德森会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737829.shtml",
-        "publishedAt": "2026-11-25T21:49:56.000+08:00"
+        "title": "英国能源限价2027年将大幅上调",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737822.shtml",
+        "publishedAt": "2026-11-25T21:55:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T22:00:03.192+08:00",
+    "fetchedAt": "2026-11-25T22:10:03.493+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T22:00:08.189+08:00",
+      "fetchedAt": "2026-11-25T22:10:07.739+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T03:00:09.000+08:00"
+          "resetAt": "2026-11-26T03:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T22:00:08.515+08:00",
+      "fetchedAt": "2026-11-25T22:10:08.037+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T22:00:08.520+08:00",
+      "fetchedAt": "2026-11-25T22:10:08.046+08:00",
       "error": null
     }
   }
