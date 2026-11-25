@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T10:50:37.539+08:00",
+  "updatedAt": "2026-11-25T11:00:10.307+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.4,
-    "feelsLikeC": 8.9,
-    "humidity": 48,
-    "windKph": 5.2,
-    "windDir": "南风",
+    "tempC": 11.7,
+    "feelsLikeC": 9.1,
+    "humidity": 46,
+    "windKph": 5.5,
+    "windDir": "东南风",
     "place": "杭州",
-    "observedAt": "2026-11-25T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-25T10:50:37.540+08:00",
+    "observedAt": "2026-11-25T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-25T11:00:10.308+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "贵州省纪委监委原一级巡视员饶瑜珠被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737370.shtml",
-        "publishedAt": "2026-11-25T10:43:53.000+08:00"
+        "title": "国台办谈大陆文化新三样火爆台湾",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737383.shtml",
+        "publishedAt": "2026-11-25T10:54:10.000+08:00"
       },
       {
-        "title": "国台办：搞“台独”分裂没有市场更没有出路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737366.shtml",
-        "publishedAt": "2026-11-25T10:41:15.000+08:00"
+        "title": "“小三通”客运量创纪录 国台办：台湾同胞期盼两岸便利往来的民心民意不可阻挡",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737377.shtml",
+        "publishedAt": "2026-11-25T10:54:02.000+08:00"
       },
       {
-        "title": "他们为北京城立一部流动的物候志",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737369.shtml",
-        "publishedAt": "2026-11-25T10:39:53.000+08:00"
+        "title": "国台办回应深圳APEC期间多国领导人表示恪守一中",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737380.shtml",
+        "publishedAt": "2026-11-25T10:51:40.000+08:00"
       },
       {
-        "title": "探访红色娘子军纪念园：战地琼花生生不息红色娘子军故事焕发时代活力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737368.shtml",
-        "publishedAt": "2026-11-25T10:30:51.000+08:00"
+        "title": "国台办哀悼武之璋先生逝世",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737371.shtml",
+        "publishedAt": "2026-11-25T10:51:12.000+08:00"
       },
       {
-        "title": "早已是第二大进口国了，中国还能买什么",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737364.shtml",
-        "publishedAt": "2026-11-25T10:26:59.000+08:00"
+        "title": "国台办：APEC会议成为台湾同胞读懂大陆的生动舞台",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737374.shtml",
+        "publishedAt": "2026-11-25T10:50:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T10:50:02.520+08:00",
+    "fetchedAt": "2026-11-25T11:00:03.690+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-25T10:50:35.949+08:00",
+      "fetchedAt": "2026-11-25T11:00:08.967+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 34,
           "resetAt": "2026-11-25T14:45:53.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 72,
+          "usedPct": 77,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T10:50:36.192+08:00",
+      "fetchedAt": "2026-11-25T11:00:09.222+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-25T10:50:36.197+08:00",
+      "fetchedAt": "2026-11-25T11:00:09.231+08:00",
       "error": null
     }
   }
