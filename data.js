@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T07:10:09.143+08:00",
+  "updatedAt": "2026-11-26T07:20:08.298+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.3,
-    "feelsLikeC": 5.8,
+    "tempC": 8.6,
+    "feelsLikeC": 6.2,
     "humidity": 78,
-    "windKph": 7.8,
+    "windKph": 7.9,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T07:10:09.143+08:00",
+    "observedAt": "2026-11-26T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T07:20:08.298+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月26日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-26/10737863.shtml",
+        "publishedAt": "2026-11-26T07:06:46.000+08:00"
+      },
+      {
+        "title": "“中国购”火了，有哪些“供货地”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737862.shtml",
+        "publishedAt": "2026-11-26T07:05:48.000+08:00"
+      },
       {
         "title": "以军证实：打死一名哈马斯内部安全机构负责人",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737861.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "乌官员称乌俄大规模换俘将分阶段实施",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737859.shtml",
         "publishedAt": "2026-11-26T06:46:43.000+08:00"
-      },
-      {
-        "title": "境外间谍利用网恋、招聘刺探重要情报 国家安全部披露案件细节",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737858.shtml",
-        "publishedAt": "2026-11-26T06:28:12.000+08:00"
-      },
-      {
-        "title": "中国岭南首次发现丹尼索瓦人和10.1万年前未知古人类",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737857.shtml",
-        "publishedAt": "2026-11-26T00:10:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T07:10:02.755+08:00",
+    "fetchedAt": "2026-11-26T07:20:02.405+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T07:10:06.959+08:00",
+      "fetchedAt": "2026-11-26T07:20:06.878+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T12:10:09.000+08:00"
+          "resetAt": "2026-11-26T12:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T07:10:07.226+08:00",
+      "fetchedAt": "2026-11-26T07:20:07.118+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T07:10:07.230+08:00",
+      "fetchedAt": "2026-11-26T07:20:07.126+08:00",
       "error": null
     }
   }
