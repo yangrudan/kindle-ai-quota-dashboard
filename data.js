@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T21:00:07.748+08:00",
+  "updatedAt": "2026-11-26T21:10:08.929+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-26T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T21:00:07.749+08:00",
+    "fetchedAt": "2026-11-26T21:10:08.929+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "创意微视频｜鹏程万里",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738390.shtml",
-        "publishedAt": "2026-11-26T20:51:05.000+08:00"
+        "title": "山东泰安：初冬泰山普照寺彩叶斑斓",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738399.shtml",
+        "publishedAt": "2026-11-26T21:02:52.000+08:00"
       },
       {
-        "title": "我“潍”和平发声系列活动在潍坊举行 征集集中营故事线索",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738371.shtml",
-        "publishedAt": "2026-11-26T20:46:37.000+08:00"
+        "title": "“物华天宝 金玉锦绣——清宫御用珍品特展”在长春开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738398.shtml",
+        "publishedAt": "2026-11-26T21:01:54.000+08:00"
       },
       {
-        "title": "“援”定天山：黄冈中学办到新疆 升学率连涨",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738376.shtml",
-        "publishedAt": "2026-11-26T20:46:29.000+08:00"
+        "title": "点“石”成新 老家底孕育新动能——“中国发展论坛·2026”侧记",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738377.shtml",
+        "publishedAt": "2026-11-26T21:01:21.000+08:00"
       },
       {
-        "title": "与青年师生共话长征精神 《伟大的长征》主创走进中国人民大学",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738378.shtml",
-        "publishedAt": "2026-11-26T20:45:19.000+08:00"
+        "title": "聚焦规模化量产与产业生态共建：2026增材制造大会在泸州开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738374.shtml",
+        "publishedAt": "2026-11-26T21:01:01.000+08:00"
       },
       {
-        "title": "西藏墨脱县将开展2026年“冬游墨脱·奔赴暖阳”系列文旅活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738375.shtml",
-        "publishedAt": "2026-11-26T20:45:11.000+08:00"
+        "title": "“Becoming Chinese”火爆全球，发起博主走访重庆：终于知道中国人为啥活得这么快乐！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738406.shtml",
+        "publishedAt": "2026-11-26T20:59:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T21:00:02.544+08:00",
+    "fetchedAt": "2026-11-26T21:10:03.235+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T21:00:06.349+08:00",
+      "fetchedAt": "2026-11-26T21:10:07.681+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T02:00:07.000+08:00"
+          "resetAt": "2026-11-27T02:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T21:00:06.561+08:00",
+      "fetchedAt": "2026-11-26T21:10:07.921+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T21:00:06.570+08:00",
+      "fetchedAt": "2026-11-26T21:10:07.932+08:00",
       "error": null
     }
   }
