@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T07:40:38.617+08:00",
+  "updatedAt": "2026-11-27T07:50:07.567+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.1,
-    "feelsLikeC": 7.2,
-    "humidity": 85,
+    "tempC": 9.6,
+    "feelsLikeC": 7.8,
+    "humidity": 84,
     "windKph": 6.7,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-27T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T07:40:38.618+08:00",
+    "observedAt": "2026-11-27T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T07:50:07.567+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“开塞露是面霜平替”引热议 医生紧急提醒",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738485.shtml",
+        "publishedAt": "2026-11-27T07:35:26.000+08:00"
+      },
+      {
+        "title": "@外卖骑手，网购电动车车灯改装有风险",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738484.shtml",
+        "publishedAt": "2026-11-27T07:33:46.000+08:00"
+      },
+      {
+        "title": "想运动却迈不开腿怎么办 校园体育如何“圈粉”年轻人",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738483.shtml",
+        "publishedAt": "2026-11-27T07:31:04.000+08:00"
+      },
       {
         "title": "科威特称伊朗袭击该国致两名意大利人身亡，伊朗否认",
         "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738482.shtml",
@@ -28,24 +43,9 @@
         "title": "“开”出百亿级大市场！义乌仿真花热销全球",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738481.shtml",
         "publishedAt": "2026-11-27T07:23:30.000+08:00"
-      },
-      {
-        "title": "未来五年，我国服务贸易将迎来哪些新机遇？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738480.shtml",
-        "publishedAt": "2026-11-27T07:06:51.000+08:00"
-      },
-      {
-        "title": "11月27日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-27/10738479.shtml",
-        "publishedAt": "2026-11-27T07:03:38.000+08:00"
-      },
-      {
-        "title": "特朗普：与普京会谈中，已敦促其尽快与乌克兰达成协议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738478.shtml",
-        "publishedAt": "2026-11-27T07:02:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T07:40:03.226+08:00",
+    "fetchedAt": "2026-11-27T07:50:02.415+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T07:40:37.088+08:00",
+      "fetchedAt": "2026-11-27T07:50:06.138+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T12:40:38.000+08:00"
+          "resetAt": "2026-11-27T12:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T07:40:37.389+08:00",
+      "fetchedAt": "2026-11-27T07:50:06.419+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T07:40:37.398+08:00",
+      "fetchedAt": "2026-11-27T07:50:06.428+08:00",
       "error": null
     }
   }
