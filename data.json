@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T08:40:08.173+08:00",
+  "updatedAt": "2026-11-26T08:50:08.264+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.2,
-    "feelsLikeC": 9.2,
-    "humidity": 72,
-    "windKph": 7,
+    "tempC": 11.8,
+    "feelsLikeC": 9.9,
+    "humidity": 69,
+    "windKph": 6.9,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T08:40:08.174+08:00",
+    "observedAt": "2026-11-26T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T08:50:08.264+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "近200名儿童因其死亡！肯尼亚邪教头目又添新罪，200年刑期恐将叠加，主犯竟面带微笑",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737891.shtml",
+        "publishedAt": "2026-11-26T08:36:27.000+08:00"
+      },
       {
         "title": "小心这几个信号 可能是胰腺出了问题",
         "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737885.shtml",
@@ -38,14 +43,9 @@
         "title": "美国第三季度经济增长率上修至4.3% 好于市场预期",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737875.shtml",
         "publishedAt": "2026-11-26T08:21:00.000+08:00"
-      },
-      {
-        "title": "南非法院撤销总统拉马福萨“农场门”弹劾调查报告",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737874.shtml",
-        "publishedAt": "2026-11-26T08:20:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T08:40:02.789+08:00",
+    "fetchedAt": "2026-11-26T08:50:02.844+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T08:40:06.997+08:00",
+      "fetchedAt": "2026-11-26T08:50:06.715+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T13:40:08.000+08:00"
+          "resetAt": "2026-11-26T13:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T08:40:07.289+08:00",
+      "fetchedAt": "2026-11-26T08:50:07.002+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T08:40:07.294+08:00",
+      "fetchedAt": "2026-11-26T08:50:07.011+08:00",
       "error": null
     }
   }
