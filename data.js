@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T15:50:09.015+08:00",
+  "updatedAt": "2026-11-26T16:00:08.971+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18,
-    "feelsLikeC": 16.4,
-    "humidity": 48,
-    "windKph": 5.2,
+    "tempC": 17.8,
+    "feelsLikeC": 16.1,
+    "humidity": 51,
+    "windKph": 7,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T15:50:09.015+08:00",
+    "observedAt": "2026-11-26T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T16:00:08.971+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "贵阳：观山湖云雾缥缈 绘就生态画卷",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-26/1211723.shtml",
-        "publishedAt": "2026-11-26T15:43:14.000+08:00"
+        "title": "歼-20A、运-20B将首次亮相中国航展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738133.shtml",
+        "publishedAt": "2026-11-26T15:58:23.000+08:00"
       },
       {
-        "title": "四川修改乡村振兴促进条例 “常态化防止返贫致贫”入法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738110.shtml",
-        "publishedAt": "2026-11-26T15:43:02.000+08:00"
+        "title": "海内外学者热议跨文化视域下美术与设计传承创新",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738126.shtml",
+        "publishedAt": "2026-11-26T15:56:03.000+08:00"
       },
       {
-        "title": "雪场陆续开板 新手滑雪该如何挑选装备？",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738118.shtml",
-        "publishedAt": "2026-11-26T15:41:42.000+08:00"
+        "title": "国防部回应菲澳防务合作协议：将继续采取必要措施 有力应对侵权挑衅行径",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738131.shtml",
+        "publishedAt": "2026-11-26T15:55:27.000+08:00"
       },
       {
-        "title": "空军33型主战装备参加中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738115.shtml",
-        "publishedAt": "2026-11-26T15:37:42.000+08:00"
+        "title": "国防部回应台湾地区计划采购无人艇",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738130.shtml",
+        "publishedAt": "2026-11-26T15:53:27.000+08:00"
       },
       {
-        "title": "河谷荒滩长出“果蔬工厂”——北京援藏10年接力探索高原设施农业",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738114.shtml",
-        "publishedAt": "2026-11-26T15:36:08.000+08:00"
+        "title": "感冒药成了青少年“猎奇药”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738127.shtml",
+        "publishedAt": "2026-11-26T15:50:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T15:50:02.568+08:00",
+    "fetchedAt": "2026-11-26T16:00:02.969+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T15:50:07.229+08:00",
+      "fetchedAt": "2026-11-26T16:00:07.161+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 24,
+          "usedPct": 35,
           "resetAt": "2026-11-26T19:55:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 1,
+          "usedPct": 3,
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T15:50:07.526+08:00",
+      "fetchedAt": "2026-11-26T16:00:07.696+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T15:50:07.535+08:00",
+      "fetchedAt": "2026-11-26T16:00:07.700+08:00",
       "error": null
     }
   }
