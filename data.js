@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T14:30:08.549+08:00",
+  "updatedAt": "2026-11-26T14:40:08.603+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-26T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T14:30:08.549+08:00",
+    "fetchedAt": "2026-11-26T14:40:08.603+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南红河州前三季度进出口额同比增长7.5％",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738050.shtml",
-        "publishedAt": "2026-11-26T14:25:18.000+08:00"
+        "title": "福建漳州核电4号机组内穹顶吊装就位",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738060.shtml",
+        "publishedAt": "2026-11-26T14:35:55.000+08:00"
       },
       {
-        "title": "水果成为云南西双版纳关累港口岸第一大进口品类",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738048.shtml",
-        "publishedAt": "2026-11-26T14:22:26.000+08:00"
+        "title": "四川1至10月货物进出口9207.4亿元 中欧班列（成渝）累计开行超3万列",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738058.shtml",
+        "publishedAt": "2026-11-26T14:35:25.000+08:00"
       },
       {
-        "title": "青藏铁路通车20年 白玛的故乡与远方",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738047.shtml",
-        "publishedAt": "2026-11-26T14:19:06.000+08:00"
+        "title": "中国-东盟自贸区3.0版推动区域经贸合作提质升级",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738059.shtml",
+        "publishedAt": "2026-11-26T14:34:34.000+08:00"
       },
       {
-        "title": "（长征胜利90周年）鏖战独树镇：长征路上的突围与新生",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738046.shtml",
-        "publishedAt": "2026-11-26T14:18:42.000+08:00"
+        "title": "全球首个藏文搜索引擎上线十年 日均访问量130万次",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738055.shtml",
+        "publishedAt": "2026-11-26T14:34:16.000+08:00"
       },
       {
-        "title": "黑龙江发布大雪预报 局地有暴雪伴风吹雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738041.shtml",
-        "publishedAt": "2026-11-26T14:17:54.000+08:00"
+        "title": "中泰投资贸易法律合规交流会（广州场）",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738057.shtml",
+        "publishedAt": "2026-11-26T14:34:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T14:30:02.908+08:00",
+    "fetchedAt": "2026-11-26T14:40:03.082+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T14:30:07.255+08:00",
+      "fetchedAt": "2026-11-26T14:40:07.260+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 53,
+          "usedPct": 62,
           "resetAt": "2026-11-26T14:54:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 93,
+          "usedPct": 94,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T14:30:07.539+08:00",
+      "fetchedAt": "2026-11-26T14:40:07.632+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T14:30:07.542+08:00",
+      "fetchedAt": "2026-11-26T14:40:07.641+08:00",
       "error": null
     }
   }
