@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T14:50:09.127+08:00",
+  "updatedAt": "2026-11-26T15:00:07.384+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.7,
+    "tempC": 18.6,
     "feelsLikeC": 16.2,
     "humidity": 41,
-    "windKph": 8.9,
+    "windKph": 8.4,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T14:50:09.127+08:00",
+    "observedAt": "2026-11-26T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T15:00:07.384+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "爱泼斯坦的死亡谜团",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738072.shtml",
-        "publishedAt": "2026-11-26T14:44:51.000+08:00"
+        "title": "四川通过两部地方性法规 守护古蜀文明与千年蜀道",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738076.shtml",
+        "publishedAt": "2026-11-26T14:50:59.000+08:00"
       },
       {
-        "title": "东西问·知味东方丨特朗普念念不忘的“中国菜”到底是啥？深圳APEC欢迎宴会“一饭封神”，真是“盖了帽儿”",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-26/10738049.shtml",
-        "publishedAt": "2026-11-26T14:42:07.000+08:00"
+        "title": "边海联动，崇左口岸“生金”",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738078.shtml",
+        "publishedAt": "2026-11-26T14:50:47.000+08:00"
       },
       {
-        "title": "（财经天下）美国通胀超预期 加息“箭在弦上”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738062.shtml",
-        "publishedAt": "2026-11-26T14:39:43.000+08:00"
+        "title": "扶摇计划困境儿童原创艺术展展出 新增多家儿童福利机构作品",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738074.shtml",
+        "publishedAt": "2026-11-26T14:50:23.000+08:00"
       },
       {
-        "title": "福建漳州核电4号机组内穹顶吊装就位",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738060.shtml",
-        "publishedAt": "2026-11-26T14:35:55.000+08:00"
+        "title": "广西崇左边海联动 借平陆运河重塑向海产业新格局",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738073.shtml",
+        "publishedAt": "2026-11-26T14:49:01.000+08:00"
       },
       {
-        "title": "四川1至10月货物进出口9207.4亿元 中欧班列（成渝）累计开行超3万列",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738058.shtml",
-        "publishedAt": "2026-11-26T14:35:25.000+08:00"
+        "title": "上海统战一周要闻（2026.11.16-11.22）",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738070.shtml",
+        "publishedAt": "2026-11-26T14:48:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T14:50:03.025+08:00",
+    "fetchedAt": "2026-11-26T15:00:02.450+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T14:50:07.304+08:00",
+      "fetchedAt": "2026-11-26T15:00:06.002+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 70,
-          "resetAt": "2026-11-26T14:54:56.000+08:00"
+          "usedPct": 8,
+          "resetAt": "2026-11-26T19:55:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 96,
+          "usedPct": 98,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T14:50:07.703+08:00",
+      "fetchedAt": "2026-11-26T15:00:06.355+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T14:50:07.711+08:00",
+      "fetchedAt": "2026-11-26T15:00:06.364+08:00",
       "error": null
     }
   }
