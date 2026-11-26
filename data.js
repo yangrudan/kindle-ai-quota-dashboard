@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T20:20:08.982+08:00",
+  "updatedAt": "2026-11-26T20:30:08.186+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 11.5,
-    "feelsLikeC": 10.1,
-    "humidity": 75,
-    "windKph": 4.6,
+    "feelsLikeC": 10,
+    "humidity": 74,
+    "windKph": 5.5,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T20:20:08.982+08:00",
+    "observedAt": "2026-11-26T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T20:30:08.187+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《三江源国家公园建设白皮书》发布 为高寒地区保护提供参考",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738361.shtml",
-        "publishedAt": "2026-11-26T20:11:25.000+08:00"
+        "title": "广东惠州加快古城保护更新 总投资约40亿元",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738372.shtml",
+        "publishedAt": "2026-11-26T20:25:34.000+08:00"
       },
       {
-        "title": "丽香铁路开通运营三年发送旅客1100余万人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738343.shtml",
-        "publishedAt": "2026-11-26T20:10:47.000+08:00"
+        "title": "蔗香悠悠三百年 江西余江一根甘蔗熬出畲乡共富甜",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738373.shtml",
+        "publishedAt": "2026-11-26T20:25:28.000+08:00"
       },
       {
-        "title": "河南“十五五”打造更高水平“中原粮仓”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738345.shtml",
-        "publishedAt": "2026-11-26T20:01:16.000+08:00"
+        "title": "中国税务部门提升纳税人缴费人合规遵从度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738366.shtml",
+        "publishedAt": "2026-11-26T20:23:27.000+08:00"
       },
       {
-        "title": "哈萨克斯坦阿拉木图一民宅起火致5人遇难",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738312.shtml",
-        "publishedAt": "2026-11-26T20:00:44.000+08:00"
+        "title": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738385.shtml",
+        "publishedAt": "2026-11-26T20:20:47.000+08:00"
       },
       {
-        "title": "广州跨境电商进出口规模十年增长近14倍",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738342.shtml",
-        "publishedAt": "2026-11-26T20:00:36.000+08:00"
+        "title": "中国空军33型60余件装备将参加第十六届中国航展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738364.shtml",
+        "publishedAt": "2026-11-26T20:19:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T20:20:03.326+08:00",
+    "fetchedAt": "2026-11-26T20:30:03.165+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T20:20:07.566+08:00",
+      "fetchedAt": "2026-11-26T20:30:06.724+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T01:20:08.000+08:00"
+          "resetAt": "2026-11-27T01:30:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T20:20:07.790+08:00",
+      "fetchedAt": "2026-11-26T20:30:06.954+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T20:20:07.799+08:00",
+      "fetchedAt": "2026-11-26T20:30:06.963+08:00",
       "error": null
     }
   }
