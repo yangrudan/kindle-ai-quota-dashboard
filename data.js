@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T13:40:09.203+08:00",
+  "updatedAt": "2026-11-26T13:50:08.646+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.5,
-    "feelsLikeC": 15.8,
+    "tempC": 18.6,
+    "feelsLikeC": 16,
     "humidity": 41,
-    "windKph": 10,
+    "windKph": 9.9,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T13:40:09.203+08:00",
+    "observedAt": "2026-11-26T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T13:50:08.646+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "幼童头部血流不止 的哥交警合力打通生命通道",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738028.shtml",
+        "publishedAt": "2026-11-26T13:43:42.000+08:00"
+      },
+      {
+        "title": "黑龙江哈尔滨：数字手段管好“里子面子”为城市治理提速",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738024.shtml",
+        "publishedAt": "2026-11-26T13:39:19.000+08:00"
+      },
       {
         "title": "有饮料可以不标生产日期？市场监管总局回应",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738021.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中葡西国际科创大赛线下路演阶段收官 助力海外科创项目开拓中国市场",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-26/10738022.shtml",
         "publishedAt": "2026-11-26T13:35:23.000+08:00"
-      },
-      {
-        "title": "“中国羽绒之乡”广东吴川羽绒羽毛首次出口巴尔干半岛",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738016.shtml",
-        "publishedAt": "2026-11-26T13:33:43.000+08:00"
-      },
-      {
-        "title": "四十载接力护黑土 民盟智力赋能海伦耕地保护",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738018.shtml",
-        "publishedAt": "2026-11-26T13:33:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T13:40:02.616+08:00",
+    "fetchedAt": "2026-11-26T13:50:03.349+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:07.529+08:00",
+      "fetchedAt": "2026-11-26T13:50:07.343+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 21,
           "resetAt": "2026-11-26T14:54:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 87,
+          "usedPct": 88,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:07.924+08:00",
+      "fetchedAt": "2026-11-26T13:50:07.676+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T13:40:07.933+08:00",
+      "fetchedAt": "2026-11-26T13:50:07.685+08:00",
       "error": null
     }
   }
