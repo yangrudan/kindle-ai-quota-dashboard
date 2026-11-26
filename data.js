@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T09:10:08.789+08:00",
+  "updatedAt": "2026-11-26T09:20:11.915+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.3,
-    "feelsLikeC": 10,
-    "humidity": 62,
-    "windKph": 7.9,
+    "tempC": 12.9,
+    "feelsLikeC": 10.4,
+    "humidity": 60,
+    "windKph": 8.6,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T09:10:08.789+08:00",
+    "observedAt": "2026-11-26T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T09:20:11.915+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "长期炎症伤血管、增加患癌风险！身体有没有炎症，看这4点就知道",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737900.shtml",
+        "publishedAt": "2026-11-26T09:13:13.000+08:00"
+      },
+      {
+        "title": "“次抛衣”悄然走红 低价服装同样受强制性国标约束",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737898.shtml",
+        "publishedAt": "2026-11-26T09:10:59.000+08:00"
+      },
       {
         "title": "国际冰雪赛事，接连选择中国",
         "url": "https://www.chinanews.com.cn/ty/2026/11-26/10737893.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中新健康｜“父亲抽烟17岁女儿患肺癌”冲上热搜，医生提醒",
         "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737888.shtml",
         "publishedAt": "2026-11-26T08:46:52.000+08:00"
-      },
-      {
-        "title": "近200名儿童因其死亡！肯尼亚邪教头目又添新罪，200年刑期恐将叠加，主犯竟面带微笑",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737891.shtml",
-        "publishedAt": "2026-11-26T08:36:27.000+08:00"
-      },
-      {
-        "title": "小心这几个信号 可能是胰腺出了问题",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737885.shtml",
-        "publishedAt": "2026-11-26T08:24:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T09:10:03.393+08:00",
+    "fetchedAt": "2026-11-26T09:20:02.681+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T09:10:07.113+08:00",
+      "fetchedAt": "2026-11-26T09:20:06.410+08:00",
       "error": null
     },
     "codex": {
@@ -79,7 +79,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-26T09:10:07.405+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-26T09:20:06.761+08:00"
     },
     "mimo": {
       "ok": true,
@@ -97,7 +99,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T09:10:07.415+08:00",
+      "fetchedAt": "2026-11-26T09:20:06.766+08:00",
       "error": null
     }
   }
