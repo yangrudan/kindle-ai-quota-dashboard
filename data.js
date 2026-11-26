@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T22:00:09.889+08:00",
+  "updatedAt": "2026-11-26T22:10:39.271+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-26T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T22:00:09.889+08:00",
+    "fetchedAt": "2026-11-26T22:10:39.271+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西恭城千年月柿俏销海内外",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738452.shtml",
-        "publishedAt": "2026-11-26T21:56:48.000+08:00"
+        "title": "报告指今年中国3D打印产业规模料达约860亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738463.shtml",
+        "publishedAt": "2026-11-26T22:04:19.000+08:00"
       },
       {
-        "title": "冷空气持续发威 广东最低气温跌破10℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738450.shtml",
-        "publishedAt": "2026-11-26T21:56:42.000+08:00"
+        "title": "北京获批医用手术机器人注册证数量居全国首位",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738462.shtml",
+        "publishedAt": "2026-11-26T22:02:09.000+08:00"
       },
       {
-        "title": "北京支持创新医药发展 医企合作持续深化",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738448.shtml",
-        "publishedAt": "2026-11-26T21:56:06.000+08:00"
+        "title": "多人违规携无人机进京被查处 北京警方发布重要提示",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738464.shtml",
+        "publishedAt": "2026-11-26T22:02:01.000+08:00"
       },
       {
-        "title": "京津冀首个卫星AIT共享中心投运 雄安可“共享”造星",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738458.shtml",
-        "publishedAt": "2026-11-26T21:54:36.000+08:00"
+        "title": "黑龙江三部地方性法规明年起陆续施行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738461.shtml",
+        "publishedAt": "2026-11-26T21:59:57.000+08:00"
       },
       {
-        "title": "马来西亚诈骗受害者人均损失首次位列亚洲前七",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738451.shtml",
-        "publishedAt": "2026-11-26T21:52:36.000+08:00"
+        "title": "黑龙江省工商联十二届八次常委会议召开",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738459.shtml",
+        "publishedAt": "2026-11-26T21:59:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T22:00:02.909+08:00",
+    "fetchedAt": "2026-11-26T22:10:03.346+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T22:00:07.957+08:00",
+      "fetchedAt": "2026-11-26T22:10:37.806+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T03:00:09.000+08:00"
+          "resetAt": "2026-11-27T03:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T22:00:08.427+08:00",
+      "fetchedAt": "2026-11-26T22:10:38.084+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T22:00:08.436+08:00",
+      "fetchedAt": "2026-11-26T22:10:38.093+08:00",
       "error": null
     }
   }
