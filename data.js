@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T11:10:38.538+08:00",
+  "updatedAt": "2026-11-26T11:20:48.737+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-26T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T11:10:38.538+08:00",
+    "fetchedAt": "2026-11-26T11:20:48.737+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "专家学者在渝对儿童青少年身心健康问题展开探讨",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737980.shtml",
-        "publishedAt": "2026-11-26T11:06:03.000+08:00"
+        "title": "巴西决定驻阿根廷大使不再返任",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737984.shtml",
+        "publishedAt": "2026-11-26T11:14:50.000+08:00"
       },
       {
-        "title": "引诱教唆欺骗运动员使用兴奋剂，这些情形可入刑",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737976.shtml",
-        "publishedAt": "2026-11-26T11:03:13.000+08:00"
+        "title": "广西120名高中华裔留学生获中国华教基金会助学金",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-26/10737983.shtml",
+        "publishedAt": "2026-11-26T11:14:36.000+08:00"
       },
       {
-        "title": "金正恩视察朝鲜核物质生产及核武器研究部门",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737979.shtml",
-        "publishedAt": "2026-11-26T11:02:25.000+08:00"
+        "title": "1-10月全国电力市场交易电量同比增长18.3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737981.shtml",
+        "publishedAt": "2026-11-26T11:14:30.000+08:00"
       },
       {
-        "title": "埃及一油车起火波及27辆车致31人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737962.shtml",
-        "publishedAt": "2026-11-26T10:49:00.000+08:00"
+        "title": "阿根廷“中国时间”项目启动 中阿、渝阿开展广电视听交流合作",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10737982.shtml",
+        "publishedAt": "2026-11-26T11:13:24.000+08:00"
       },
       {
-        "title": "巴西回应美国拟加征新关税：不可接受，不会屈服",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737961.shtml",
-        "publishedAt": "2026-11-26T10:48:24.000+08:00"
+        "title": "山东省聊城市政府党组成员、副市长孙荣军被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737977.shtml",
+        "publishedAt": "2026-11-26T11:13:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T11:10:02.669+08:00",
+    "fetchedAt": "2026-11-26T11:20:12.547+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T11:10:36.703+08:00",
+      "fetchedAt": "2026-11-26T11:20:46.842+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 13,
           "resetAt": "2026-11-26T14:54:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 86,
+          "usedPct": 87,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T11:10:36.973+08:00",
+      "fetchedAt": "2026-11-26T11:20:47.293+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T11:10:36.983+08:00",
+      "fetchedAt": "2026-11-26T11:20:47.303+08:00",
       "error": null
     }
   }
