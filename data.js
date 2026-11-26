@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T09:00:09.402+08:00",
+  "updatedAt": "2026-11-26T09:10:08.789+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-26T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T09:00:09.402+08:00",
+    "fetchedAt": "2026-11-26T09:10:08.789+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国际冰雪赛事，接连选择中国",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10737893.shtml",
+        "publishedAt": "2026-11-26T09:00:48.000+08:00"
+      },
+      {
+        "title": "今年“三北”工程建设任务已完成过九成",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737892.shtml",
+        "publishedAt": "2026-11-26T08:57:20.000+08:00"
+      },
       {
         "title": "中新健康｜“父亲抽烟17岁女儿患肺癌”冲上热搜，医生提醒",
         "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737888.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "小心这几个信号 可能是胰腺出了问题",
         "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737885.shtml",
         "publishedAt": "2026-11-26T08:24:08.000+08:00"
-      },
-      {
-        "title": "美国陆军引爆近5吨含铅爆炸物 白色烟柱直冲天空",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737878.shtml",
-        "publishedAt": "2026-11-26T08:22:42.000+08:00"
-      },
-      {
-        "title": "英国首相府网红拍摄事件引发政坛争议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737877.shtml",
-        "publishedAt": "2026-11-26T08:21:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T09:00:03.371+08:00",
+    "fetchedAt": "2026-11-26T09:10:03.393+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T09:00:07.417+08:00",
+      "fetchedAt": "2026-11-26T09:10:07.113+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T14:00:09.000+08:00"
+          "resetAt": "2026-11-26T14:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T09:00:08.426+08:00",
+      "fetchedAt": "2026-11-26T09:10:07.405+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T09:00:08.433+08:00",
+      "fetchedAt": "2026-11-26T09:10:07.415+08:00",
       "error": null
     }
   }
