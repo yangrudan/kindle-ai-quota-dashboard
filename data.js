@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T11:00:39.644+08:00",
+  "updatedAt": "2026-11-26T11:10:38.538+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-26T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T11:00:39.644+08:00",
+    "fetchedAt": "2026-11-26T11:10:38.538+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "专家学者在渝对儿童青少年身心健康问题展开探讨",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737980.shtml",
+        "publishedAt": "2026-11-26T11:06:03.000+08:00"
+      },
+      {
+        "title": "引诱教唆欺骗运动员使用兴奋剂，这些情形可入刑",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737976.shtml",
+        "publishedAt": "2026-11-26T11:03:13.000+08:00"
+      },
+      {
+        "title": "金正恩视察朝鲜核物质生产及核武器研究部门",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737979.shtml",
+        "publishedAt": "2026-11-26T11:02:25.000+08:00"
+      },
       {
         "title": "埃及一油车起火波及27辆车致31人死亡",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737962.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "巴西回应美国拟加征新关税：不可接受，不会屈服",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737961.shtml",
         "publishedAt": "2026-11-26T10:48:24.000+08:00"
-      },
-      {
-        "title": "2025年德国进口烟花爆竹产品中98%来自中国",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737930.shtml",
-        "publishedAt": "2026-11-26T10:47:50.000+08:00"
-      },
-      {
-        "title": "欧盟对15家俄罗斯实体实施贸易制裁",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737929.shtml",
-        "publishedAt": "2026-11-26T10:47:22.000+08:00"
-      },
-      {
-        "title": "“三北”工程将按照14个重点分区 推行差异化治理",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737975.shtml",
-        "publishedAt": "2026-11-26T10:44:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T11:00:03.353+08:00",
+    "fetchedAt": "2026-11-26T11:10:02.669+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T11:00:37.297+08:00",
+      "fetchedAt": "2026-11-26T11:10:36.703+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 8,
           "resetAt": "2026-11-26T14:54:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 85,
+          "usedPct": 86,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T11:00:37.636+08:00",
+      "fetchedAt": "2026-11-26T11:10:36.973+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T11:00:37.647+08:00",
+      "fetchedAt": "2026-11-26T11:10:36.983+08:00",
       "error": null
     }
   }
