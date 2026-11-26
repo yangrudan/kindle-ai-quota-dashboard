@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T20:00:08.421+08:00",
+  "updatedAt": "2026-11-26T20:10:37.846+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-26T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T20:00:08.421+08:00",
+    "fetchedAt": "2026-11-26T20:10:37.847+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南开放由“通”到“畅”，一字之变见决心",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738359.shtml",
-        "publishedAt": "2026-11-26T19:54:54.000+08:00"
+        "title": "河南“十五五”打造更高水平“中原粮仓”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738345.shtml",
+        "publishedAt": "2026-11-26T20:01:16.000+08:00"
       },
       {
-        "title": "前10月河源签发输APEC其他经济体原产地证书金额近10亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738336.shtml",
-        "publishedAt": "2026-11-26T19:52:48.000+08:00"
+        "title": "哈萨克斯坦阿拉木图一民宅起火致5人遇难",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738312.shtml",
+        "publishedAt": "2026-11-26T20:00:44.000+08:00"
       },
       {
-        "title": "中国成功发射遥感四十九号01组卫星",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738335.shtml",
-        "publishedAt": "2026-11-26T19:52:42.000+08:00"
+        "title": "广州跨境电商进出口规模十年增长近14倍",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738342.shtml",
+        "publishedAt": "2026-11-26T20:00:36.000+08:00"
       },
       {
-        "title": "《北京市微短剧产业发展报告》发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738333.shtml",
-        "publishedAt": "2026-11-26T19:51:08.000+08:00"
+        "title": "神二十四乘组已进入工作状态！“天宫”最新画面公布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738363.shtml",
+        "publishedAt": "2026-11-26T19:59:10.000+08:00"
       },
       {
-        "title": "小农户参与探索气候适应型农业 两年建17个示范点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738332.shtml",
-        "publishedAt": "2026-11-26T19:49:00.000+08:00"
+        "title": "香港10月商品整体出口货值同比上升65.6%",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-26/10738338.shtml",
+        "publishedAt": "2026-11-26T19:57:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T20:00:02.757+08:00",
+    "fetchedAt": "2026-11-26T20:10:02.719+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T20:00:07.018+08:00",
+      "fetchedAt": "2026-11-26T20:10:36.303+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T01:00:08.000+08:00"
+          "resetAt": "2026-11-27T01:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T20:00:07.252+08:00",
+      "fetchedAt": "2026-11-26T20:10:36.601+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T20:00:07.260+08:00",
+      "fetchedAt": "2026-11-26T20:10:36.611+08:00",
       "error": null
     }
   }
