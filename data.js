@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T19:10:08.431+08:00",
+  "updatedAt": "2026-11-26T19:20:08.654+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.7,
-    "feelsLikeC": 11.2,
-    "humidity": 69,
-    "windKph": 5,
+    "tempC": 12.4,
+    "feelsLikeC": 11,
+    "humidity": 71,
+    "windKph": 4.9,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T19:10:08.431+08:00",
+    "observedAt": "2026-11-26T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T19:20:08.654+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东近千家企业角逐双创大赛 展南粤蓬勃科技活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738303.shtml",
-        "publishedAt": "2026-11-26T19:03:03.000+08:00"
+        "title": "成都新规获批：不得向未成年人提供虚拟亲密关系服务",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738314.shtml",
+        "publishedAt": "2026-11-26T19:16:14.000+08:00"
       },
       {
-        "title": "世界棒球12强赛资格赛广东中山开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738283.shtml",
-        "publishedAt": "2026-11-26T19:01:47.000+08:00"
+        "title": "“雪飞天”第五次迎来滑雪大跳台世界杯 130余名选手参赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738313.shtml",
+        "publishedAt": "2026-11-26T19:13:52.000+08:00"
       },
       {
-        "title": "探访雄安智慧农业科技园",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738250.shtml",
-        "publishedAt": "2026-11-26T19:00:43.000+08:00"
+        "title": "规范二氧化碳培养箱、压力波治疗仪计量 两项国家计量技术规范将实施",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738317.shtml",
+        "publishedAt": "2026-11-26T19:13:04.000+08:00"
       },
       {
-        "title": "哈尔滨音乐长廊网红大雪人正式开启造雪 整体高度将创新高",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738301.shtml",
-        "publishedAt": "2026-11-26T19:00:03.000+08:00"
+        "title": "中上协：截至10月底境内股票市场共有上市公司5583家",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738316.shtml",
+        "publishedAt": "2026-11-26T19:10:25.000+08:00"
       },
       {
-        "title": "呼和浩特盛乐国际机场正式投运",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738246.shtml",
-        "publishedAt": "2026-11-26T18:59:33.000+08:00"
+        "title": "湖南以“村播”为桥牵起农文旅振兴新纽带",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738308.shtml",
+        "publishedAt": "2026-11-26T19:09:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T19:10:03.141+08:00",
+    "fetchedAt": "2026-11-26T19:20:02.937+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T19:10:06.963+08:00",
+      "fetchedAt": "2026-11-26T19:20:07.391+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T19:10:07.212+08:00",
+      "fetchedAt": "2026-11-26T19:20:07.698+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T19:10:07.215+08:00",
+      "fetchedAt": "2026-11-26T19:20:07.707+08:00",
       "error": null
     }
   }
