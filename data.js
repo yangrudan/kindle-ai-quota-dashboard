@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T16:10:08.001+08:00",
+  "updatedAt": "2026-11-26T16:20:08.892+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.8,
-    "feelsLikeC": 16.1,
-    "humidity": 51,
-    "windKph": 7,
+    "tempC": 17.3,
+    "feelsLikeC": 15.6,
+    "humidity": 53,
+    "windKph": 6.8,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T16:10:08.002+08:00",
+    "observedAt": "2026-11-26T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T16:20:08.892+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“十五五”时期我国将全面提升粮食安全保障能力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738143.shtml",
-        "publishedAt": "2026-11-26T16:09:06.000+08:00"
+        "title": "中经评论：呵护“一老一小”，托起万家幸福",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-26/10738152.shtml",
+        "publishedAt": "2026-11-26T16:14:20.000+08:00"
       },
       {
-        "title": "“购物开箱”，打开认知中国新视角",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738142.shtml",
-        "publishedAt": "2026-11-26T16:07:02.000+08:00"
+        "title": "热“雪”沸腾聚人气 “冰雪+”玩法上“新”引爆冰雪消费热潮",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738151.shtml",
+        "publishedAt": "2026-11-26T16:12:26.000+08:00"
       },
       {
-        "title": "美国批准马斯克旗下公司部署百万卫星 建太空数据中心",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738140.shtml",
-        "publishedAt": "2026-11-26T16:06:01.000+08:00"
+        "title": "没签合同“工伤”还须赔吗",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-26/10738132.shtml",
+        "publishedAt": "2026-11-26T16:11:34.000+08:00"
       },
       {
-        "title": "中文（莱）将共同举办东盟防长扩大会维和实兵演习",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738116.shtml",
-        "publishedAt": "2026-11-26T16:05:19.000+08:00"
+        "title": "AI参与人才招聘，边界在哪里？",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-26/10738129.shtml",
+        "publishedAt": "2026-11-26T16:11:22.000+08:00"
       },
       {
-        "title": "【百万庄小课堂】孩子感冒后为何突然走路跛行？警惕滑膜炎",
-        "url": "http://www.chinanews.com.cn/shipin/cns/2026/11-26/news1076049.shtml",
-        "publishedAt": "2026-11-26T16:03:48.000+08:00"
+        "title": "中国国防部长访问意大利、英国深化战略互信",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738128.shtml",
+        "publishedAt": "2026-11-26T16:10:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T16:10:02.751+08:00",
+    "fetchedAt": "2026-11-26T16:20:02.992+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T16:10:06.087+08:00",
+      "fetchedAt": "2026-11-26T16:20:07.112+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T16:10:06.381+08:00",
+      "fetchedAt": "2026-11-26T16:20:07.510+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T16:10:06.390+08:00",
+      "fetchedAt": "2026-11-26T16:20:07.520+08:00",
       "error": null
     }
   }
