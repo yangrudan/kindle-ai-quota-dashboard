@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T16:50:07.740+08:00",
+  "updatedAt": "2026-11-26T17:00:08.943+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.9,
-    "feelsLikeC": 14.2,
-    "humidity": 57,
-    "windKph": 6.7,
+    "tempC": 15.3,
+    "feelsLikeC": 13.6,
+    "humidity": 58,
+    "windKph": 6.6,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T16:50:07.741+08:00",
+    "observedAt": "2026-11-26T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T17:00:08.943+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "商务部：望美中推动对等降税安排尽快落地实施",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738193.shtml",
+        "publishedAt": "2026-11-26T16:51:06.000+08:00"
+      },
       {
         "title": "解绑账号被要求手持身份证拍照 法院：缺乏法律依据",
         "url": "https://www.chinanews.com.cn/fz/2026/11-26/10738192.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "第十六届深港澳当代水墨画作品交流展开幕",
         "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738191.shtml",
         "publishedAt": "2026-11-26T16:45:46.000+08:00"
-      },
-      {
-        "title": "辽阳市民营经济人士气排球友谊赛举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738187.shtml",
-        "publishedAt": "2026-11-26T16:45:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T16:50:02.520+08:00",
+    "fetchedAt": "2026-11-26T17:00:02.792+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T16:50:06.283+08:00",
+      "fetchedAt": "2026-11-26T17:00:07.419+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T16:50:06.602+08:00",
+      "fetchedAt": "2026-11-26T17:00:07.901+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T16:50:06.611+08:00",
+      "fetchedAt": "2026-11-26T17:00:07.910+08:00",
       "error": null
     }
   }
