@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T14:20:37.936+08:00",
+  "updatedAt": "2026-11-26T14:30:08.549+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 18.7,
-    "feelsLikeC": 16.1,
+    "feelsLikeC": 16.2,
     "humidity": 41,
-    "windKph": 9.5,
+    "windKph": 9.2,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T14:20:37.936+08:00",
+    "observedAt": "2026-11-26T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T14:30:08.549+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（乡村行·看振兴）陕西洋县荒坡“生金” 朱鹮之乡绘就乡村丰收图景",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738040.shtml",
-        "publishedAt": "2026-11-26T14:14:51.000+08:00"
+        "title": "云南红河州前三季度进出口额同比增长7.5％",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738050.shtml",
+        "publishedAt": "2026-11-26T14:25:18.000+08:00"
       },
       {
-        "title": "全球交易规模最大的绿电大市场北京开市",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738037.shtml",
-        "publishedAt": "2026-11-26T14:12:55.000+08:00"
+        "title": "水果成为云南西双版纳关累港口岸第一大进口品类",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738048.shtml",
+        "publishedAt": "2026-11-26T14:22:26.000+08:00"
       },
       {
-        "title": "诺贝尔物理学奖获得者丁肇中：我非常想念南京",
-        "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-26/news1076033.shtml",
-        "publishedAt": "2026-11-26T14:02:50.000+08:00"
+        "title": "青藏铁路通车20年 白玛的故乡与远方",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738047.shtml",
+        "publishedAt": "2026-11-26T14:19:06.000+08:00"
       },
       {
-        "title": "鲁苏原油精品航线协同监管显效 长江扬州段原油吞吐量同比增长31.66%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738033.shtml",
-        "publishedAt": "2026-11-26T13:56:22.000+08:00"
+        "title": "（长征胜利90周年）鏖战独树镇：长征路上的突围与新生",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738046.shtml",
+        "publishedAt": "2026-11-26T14:18:42.000+08:00"
       },
       {
-        "title": "2026装备制造业发展大会将于12月3日至6日在苏州举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738031.shtml",
-        "publishedAt": "2026-11-26T13:55:54.000+08:00"
+        "title": "黑龙江发布大雪预报 局地有暴雪伴风吹雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738041.shtml",
+        "publishedAt": "2026-11-26T14:17:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T14:20:03.033+08:00",
+    "fetchedAt": "2026-11-26T14:30:02.908+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T14:20:36.369+08:00",
+      "fetchedAt": "2026-11-26T14:30:07.255+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 45,
+          "usedPct": 53,
           "resetAt": "2026-11-26T14:54:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 92,
+          "usedPct": 93,
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T14:20:36.666+08:00",
+      "fetchedAt": "2026-11-26T14:30:07.539+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T14:20:36.673+08:00",
+      "fetchedAt": "2026-11-26T14:30:07.542+08:00",
       "error": null
     }
   }
