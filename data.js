@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T20:50:38.075+08:00",
+  "updatedAt": "2026-11-26T21:00:07.748+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.4,
-    "feelsLikeC": 9.9,
-    "humidity": 75,
+    "tempC": 11.3,
+    "feelsLikeC": 9.7,
+    "humidity": 76,
     "windKph": 5.5,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T20:50:38.075+08:00",
+    "observedAt": "2026-11-26T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T21:00:07.749+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "英国净移民人数降至近三十年低位",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738379.shtml",
-        "publishedAt": "2026-11-26T20:42:44.000+08:00"
+        "title": "创意微视频｜鹏程万里",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738390.shtml",
+        "publishedAt": "2026-11-26T20:51:05.000+08:00"
       },
       {
-        "title": "百事集团投资3.1亿元启动山东生产基地二期项目 持续加码中国市场 以数智化升级赋能食品制造高质量发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738391.shtml",
-        "publishedAt": "2026-11-26T20:41:06.000+08:00"
+        "title": "我“潍”和平发声系列活动在潍坊举行 征集集中营故事线索",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738371.shtml",
+        "publishedAt": "2026-11-26T20:46:37.000+08:00"
       },
       {
-        "title": "再见，白塔；你好，盛乐！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738393.shtml",
-        "publishedAt": "2026-11-26T20:39:22.000+08:00"
+        "title": "“援”定天山：黄冈中学办到新疆 升学率连涨",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738376.shtml",
+        "publishedAt": "2026-11-26T20:46:29.000+08:00"
       },
       {
-        "title": "广东惠州加快古城保护更新 总投资约40亿元",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738372.shtml",
-        "publishedAt": "2026-11-26T20:25:34.000+08:00"
+        "title": "与青年师生共话长征精神 《伟大的长征》主创走进中国人民大学",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738378.shtml",
+        "publishedAt": "2026-11-26T20:45:19.000+08:00"
       },
       {
-        "title": "蔗香悠悠三百年 江西余江一根甘蔗熬出畲乡共富甜",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738373.shtml",
-        "publishedAt": "2026-11-26T20:25:28.000+08:00"
+        "title": "西藏墨脱县将开展2026年“冬游墨脱·奔赴暖阳”系列文旅活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738375.shtml",
+        "publishedAt": "2026-11-26T20:45:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T20:50:02.400+08:00",
+    "fetchedAt": "2026-11-26T21:00:02.544+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T20:50:36.472+08:00",
+      "fetchedAt": "2026-11-26T21:00:06.349+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T01:50:37.000+08:00"
+          "resetAt": "2026-11-27T02:00:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T20:50:36.765+08:00",
+      "fetchedAt": "2026-11-26T21:00:06.561+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T20:50:36.774+08:00",
+      "fetchedAt": "2026-11-26T21:00:06.570+08:00",
       "error": null
     }
   }
