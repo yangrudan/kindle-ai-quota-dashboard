@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T07:30:08.091+08:00",
+  "updatedAt": "2026-11-27T07:40:38.617+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-27T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T07:30:08.091+08:00",
+    "fetchedAt": "2026-11-27T07:40:38.618+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "科威特称伊朗袭击该国致两名意大利人身亡，伊朗否认",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738482.shtml",
+        "publishedAt": "2026-11-27T07:25:02.000+08:00"
+      },
+      {
+        "title": "“开”出百亿级大市场！义乌仿真花热销全球",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738481.shtml",
+        "publishedAt": "2026-11-27T07:23:30.000+08:00"
+      },
       {
         "title": "未来五年，我国服务贸易将迎来哪些新机遇？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738480.shtml",
@@ -33,19 +43,9 @@
         "title": "特朗普：与普京会谈中，已敦促其尽快与乌克兰达成协议",
         "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738478.shtml",
         "publishedAt": "2026-11-27T07:02:40.000+08:00"
-      },
-      {
-        "title": "男篮世预赛：中国队两分憾负沙特阿拉伯队",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738477.shtml",
-        "publishedAt": "2026-11-27T07:00:18.000+08:00"
-      },
-      {
-        "title": "巴西副总统：美国对巴西加征新关税完全不合理",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738476.shtml",
-        "publishedAt": "2026-11-27T06:57:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T07:30:02.583+08:00",
+    "fetchedAt": "2026-11-27T07:40:03.226+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T07:30:06.757+08:00",
+      "fetchedAt": "2026-11-27T07:40:37.088+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T12:30:08.000+08:00"
+          "resetAt": "2026-11-27T12:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T07:30:07.008+08:00",
+      "fetchedAt": "2026-11-27T07:40:37.389+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T07:30:07.017+08:00",
+      "fetchedAt": "2026-11-27T07:40:37.398+08:00",
       "error": null
     }
   }
