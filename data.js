@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T19:20:08.654+08:00",
+  "updatedAt": "2026-11-26T19:30:10.428+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.4,
-    "feelsLikeC": 11,
-    "humidity": 71,
-    "windKph": 4.9,
+    "tempC": 12.2,
+    "feelsLikeC": 10.7,
+    "humidity": 72,
+    "windKph": 4.8,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T19:20:08.654+08:00",
+    "observedAt": "2026-11-26T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T19:30:10.428+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "塞尔维亚总统选举将于12月27日举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738322.shtml",
+        "publishedAt": "2026-11-26T19:23:54.000+08:00"
+      },
+      {
+        "title": "国家能源局四川监管办公室原党组成员、一级调研员张毅接受纪律审查和监察调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738310.shtml",
+        "publishedAt": "2026-11-26T19:22:24.000+08:00"
+      },
+      {
+        "title": "四川省达州市商务局原党组书记、局长熊长虹严重违纪违法被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738309.shtml",
+        "publishedAt": "2026-11-26T19:21:50.000+08:00"
+      },
+      {
+        "title": "中国成品油价迎“两连跌”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738311.shtml",
+        "publishedAt": "2026-11-26T19:20:18.000+08:00"
+      },
+      {
         "title": "成都新规获批：不得向未成年人提供虚拟亲密关系服务",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738314.shtml",
         "publishedAt": "2026-11-26T19:16:14.000+08:00"
-      },
-      {
-        "title": "“雪飞天”第五次迎来滑雪大跳台世界杯 130余名选手参赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738313.shtml",
-        "publishedAt": "2026-11-26T19:13:52.000+08:00"
-      },
-      {
-        "title": "规范二氧化碳培养箱、压力波治疗仪计量 两项国家计量技术规范将实施",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738317.shtml",
-        "publishedAt": "2026-11-26T19:13:04.000+08:00"
-      },
-      {
-        "title": "中上协：截至10月底境内股票市场共有上市公司5583家",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738316.shtml",
-        "publishedAt": "2026-11-26T19:10:25.000+08:00"
-      },
-      {
-        "title": "湖南以“村播”为桥牵起农文旅振兴新纽带",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738308.shtml",
-        "publishedAt": "2026-11-26T19:09:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T19:20:02.937+08:00",
+    "fetchedAt": "2026-11-26T19:30:03.348+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T19:20:07.391+08:00",
+      "fetchedAt": "2026-11-26T19:30:08.777+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T19:20:07.698+08:00",
+      "fetchedAt": "2026-11-26T19:30:09.098+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T19:20:07.707+08:00",
+      "fetchedAt": "2026-11-26T19:30:09.107+08:00",
       "error": null
     }
   }
