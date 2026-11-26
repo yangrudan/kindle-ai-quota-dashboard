@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T09:30:11.627+08:00",
+  "updatedAt": "2026-11-26T09:40:09.391+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-26T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T09:30:11.627+08:00",
+    "fetchedAt": "2026-11-26T09:40:09.391+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "警惕自使用不当 来看使用自热锅的“正确姿势”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737908.shtml",
-        "publishedAt": "2026-11-26T09:19:27.000+08:00"
+        "title": "11月26日人民币对美元中间价报6.7096 下调8个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737909.shtml",
+        "publishedAt": "2026-11-26T09:34:06.000+08:00"
       },
       {
-        "title": "“纸质短剧”绝不能成为监管的漏网之鱼",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10737895.shtml",
-        "publishedAt": "2026-11-26T09:15:09.000+08:00"
+        "title": "民革沈阳市委会以“融”破题 让中共二十届五中全会精神在履职一线落地生根",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737914.shtml",
+        "publishedAt": "2026-11-26T09:33:36.000+08:00"
       },
       {
-        "title": "长期炎症伤血管、增加患癌风险！身体有没有炎症，看这4点就知道",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737900.shtml",
-        "publishedAt": "2026-11-26T09:13:13.000+08:00"
+        "title": "国家医保局：“连续用药管理”功能上线 用药更安心",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737907.shtml",
+        "publishedAt": "2026-11-26T09:32:42.000+08:00"
       },
       {
-        "title": "“次抛衣”悄然走红 低价服装同样受强制性国标约束",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737898.shtml",
-        "publishedAt": "2026-11-26T09:10:59.000+08:00"
+        "title": "取证难、界定难，AI融脸该守住怎样的边界？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737917.shtml",
+        "publishedAt": "2026-11-26T09:31:54.000+08:00"
       },
       {
-        "title": "国际冰雪赛事，接连选择中国",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10737893.shtml",
-        "publishedAt": "2026-11-26T09:00:48.000+08:00"
+        "title": "美国艾奥瓦州引爆近5吨含铅爆炸物 引发健康风险担忧",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737886.shtml",
+        "publishedAt": "2026-11-26T09:30:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T09:30:06.061+08:00",
+    "fetchedAt": "2026-11-26T09:40:03.245+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T09:30:09.897+08:00",
+      "fetchedAt": "2026-11-26T09:40:08.004+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T14:30:11.000+08:00"
+          "resetAt": "2026-11-26T14:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T09:30:10.181+08:00",
+      "fetchedAt": "2026-11-26T09:40:08.272+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T09:30:10.184+08:00",
+      "fetchedAt": "2026-11-26T09:40:08.284+08:00",
       "error": null
     }
   }
