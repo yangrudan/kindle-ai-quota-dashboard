@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T10:00:38.035+08:00",
+  "updatedAt": "2026-11-26T10:10:09.005+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-26T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T10:00:38.035+08:00",
+    "fetchedAt": "2026-11-26T10:10:09.005+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "大连市党外知识分子联谊会科技创新专委会成立大会暨科创研学活动举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737938.shtml",
-        "publishedAt": "2026-11-26T09:54:51.000+08:00"
+        "title": "埃及吉萨省车祸引发火灾 烧毁27辆车致31人死亡",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-26/1211694.shtml",
+        "publishedAt": "2026-11-26T10:04:14.000+08:00"
       },
       {
-        "title": "治罪与治理并重 陕西法院织密醉驾防控网",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737935.shtml",
-        "publishedAt": "2026-11-26T09:53:23.000+08:00"
+        "title": "刑事诉讼法第四次修改：把“管住权力、保障权利”落到实处",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-26/10737949.shtml",
+        "publishedAt": "2026-11-26T10:03:36.000+08:00"
       },
       {
-        "title": "走进武康大楼、盯上“一米花园”，“同心荟”专家给衡复风貌区“抠”绿化细节",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737932.shtml",
-        "publishedAt": "2026-11-26T09:51:47.000+08:00"
+        "title": "供给提质、就近可及 托起“一老一小”稳稳的幸福",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737951.shtml",
+        "publishedAt": "2026-11-26T10:03:32.000+08:00"
       },
       {
-        "title": "2027中缅瑞丽—木姐跨国半程马拉松报名启动 将恢复境外赛道",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10737927.shtml",
-        "publishedAt": "2026-11-26T09:50:05.000+08:00"
+        "title": "依法严惩各类兴奋剂犯罪 “两高”联合发布司法解释",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737950.shtml",
+        "publishedAt": "2026-11-26T10:03:10.000+08:00"
       },
       {
-        "title": "陕西立法保护千年蜀道 支持蜀道文化国际交流与文明互鉴",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737926.shtml",
-        "publishedAt": "2026-11-26T09:48:37.000+08:00"
+        "title": "学生课间说方言被认定违纪？四川宜宾通报：责令校方立即废止不当规定",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-26/10737942.shtml",
+        "publishedAt": "2026-11-26T10:00:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T10:00:02.925+08:00",
+    "fetchedAt": "2026-11-26T10:10:03.623+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T10:00:36.767+08:00",
+      "fetchedAt": "2026-11-26T10:10:07.284+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T10:00:37.122+08:00",
+      "fetchedAt": "2026-11-26T10:10:07.612+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T10:00:37.130+08:00",
+      "fetchedAt": "2026-11-26T10:10:07.621+08:00",
       "error": null
     }
   }
