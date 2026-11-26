@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T15:10:38.293+08:00",
+  "updatedAt": "2026-11-26T15:20:38.966+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.6,
-    "feelsLikeC": 16.2,
-    "humidity": 41,
-    "windKph": 8.4,
+    "tempC": 18.5,
+    "feelsLikeC": 16.3,
+    "humidity": 43,
+    "windKph": 7.5,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T15:10:38.293+08:00",
+    "observedAt": "2026-11-26T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T15:20:38.966+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本民众：政府应铭记历史教训 高市正将日本推向危险路口",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738069.shtml",
-        "publishedAt": "2026-11-26T14:53:40.000+08:00"
+        "title": "“越山向海”人车接力中国赛12月11日首次落地苏州",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738093.shtml",
+        "publishedAt": "2026-11-26T15:12:13.000+08:00"
       },
       {
-        "title": "“喀什—第比利斯—达曼”货运航线开通",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738044.shtml",
-        "publishedAt": "2026-11-26T14:53:05.000+08:00"
+        "title": "逾80名中外学者在港探讨旅游文学增进文明互鉴",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-26/10738087.shtml",
+        "publishedAt": "2026-11-26T15:12:07.000+08:00"
       },
       {
-        "title": "斯诺克英锦赛资格赛：中国军团张安达、范争一率先晋级正赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738056.shtml",
-        "publishedAt": "2026-11-26T14:52:13.000+08:00"
+        "title": "商务部：坚决反对美对中国等经济体加征301关税",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738091.shtml",
+        "publishedAt": "2026-11-26T15:10:56.000+08:00"
       },
       {
-        "title": "四川通过两部地方性法规 守护古蜀文明与千年蜀道",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738076.shtml",
-        "publishedAt": "2026-11-26T14:50:59.000+08:00"
+        "title": "晋北黄土山梁上的养猪母子：守家业、帮亲人、奔好日子",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738081.shtml",
+        "publishedAt": "2026-11-26T15:10:30.000+08:00"
       },
       {
-        "title": "边海联动，崇左口岸“生金”",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738078.shtml",
-        "publishedAt": "2026-11-26T14:50:47.000+08:00"
+        "title": "18家重点平台企业已完成算法协商 覆盖新就业形态劳动者逾2500万人",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738085.shtml",
+        "publishedAt": "2026-11-26T15:09:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T15:10:03.175+08:00",
+    "fetchedAt": "2026-11-26T15:20:03.222+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T15:10:36.868+08:00",
+      "fetchedAt": "2026-11-26T15:20:37.390+08:00",
       "error": null
     },
     "codex": {
@@ -74,11 +74,11 @@ window.DASH_DATA = {
         },
         {
           "name": "周",
-          "usedPct": 99,
-          "resetAt": "2026-11-26T15:19:11.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-12-03T15:20:38.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T15:10:37.163+08:00",
+      "fetchedAt": "2026-11-26T15:20:37.741+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T15:10:37.170+08:00",
+      "fetchedAt": "2026-11-26T15:20:37.745+08:00",
       "error": null
     }
   }
