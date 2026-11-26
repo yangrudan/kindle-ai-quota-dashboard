@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T22:50:37.901+08:00",
+  "updatedAt": "2026-11-26T23:00:09.140+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.5,
-    "feelsLikeC": 8.8,
+    "tempC": 10.4,
+    "feelsLikeC": 8.7,
     "humidity": 79,
     "windKph": 6.1,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T22:50:37.901+08:00",
+    "observedAt": "2026-11-26T23:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T23:00:09.141+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "两名意大利公民在伊朗无人机袭击科威特事件中身亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738469.shtml",
+        "publishedAt": "2026-11-26T22:49:39.000+08:00"
+      },
+      {
+        "title": "每秒要走近3米才能在绿灯内过完马路，残疾男子加速通行时被撞身亡……有温度的社会，要容得下等一等的时间！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738468.shtml",
+        "publishedAt": "2026-11-26T22:43:19.000+08:00"
+      },
       {
         "title": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738467.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "报告指今年中国3D打印产业规模料达约860亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738463.shtml",
         "publishedAt": "2026-11-26T22:04:19.000+08:00"
-      },
-      {
-        "title": "北京获批医用手术机器人注册证数量居全国首位",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738462.shtml",
-        "publishedAt": "2026-11-26T22:02:09.000+08:00"
-      },
-      {
-        "title": "多人违规携无人机进京被查处 北京警方发布重要提示",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738464.shtml",
-        "publishedAt": "2026-11-26T22:02:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T22:50:02.598+08:00",
+    "fetchedAt": "2026-11-26T23:00:03.041+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T22:50:36.543+08:00",
+      "fetchedAt": "2026-11-26T23:00:07.689+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T03:50:37.000+08:00"
+          "resetAt": "2026-11-27T04:00:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T22:50:36.830+08:00",
+      "fetchedAt": "2026-11-26T23:00:08.006+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T22:50:36.838+08:00",
+      "fetchedAt": "2026-11-26T23:00:08.013+08:00",
       "error": null
     }
   }
