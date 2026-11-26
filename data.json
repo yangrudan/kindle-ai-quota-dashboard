@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T17:30:40.170+08:00",
+  "updatedAt": "2026-11-26T17:40:08.764+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-26T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T17:30:40.170+08:00",
+    "fetchedAt": "2026-11-26T17:40:08.765+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "辽宁深化数智赋能 建成经营者集中主体数据库",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738225.shtml",
+        "publishedAt": "2026-11-26T17:34:22.000+08:00"
+      },
+      {
+        "title": "隔着玻璃晒太阳补不了维生素D！北方冬季日晒注意这几点",
+        "url": "https://www.chinanews.com.cn/life/2026/11-26/10738234.shtml",
+        "publishedAt": "2026-11-26T17:33:22.000+08:00"
+      },
+      {
+        "title": "钙钛矿光伏技术有望面向空天应用 中国科研团队刷新电池效率",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738224.shtml",
+        "publishedAt": "2026-11-26T17:33:22.000+08:00"
+      },
+      {
+        "title": "第六届沈阳智能网联汽车大会开幕：聪明的车、智慧的路，正开进百姓日常",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738223.shtml",
+        "publishedAt": "2026-11-26T17:29:16.000+08:00"
+      },
+      {
         "title": "萧旭岑批赖清德“台独”主张，重申中国国民党坚定走两岸和平路线",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738221.shtml",
         "publishedAt": "2026-11-26T17:27:34.000+08:00"
-      },
-      {
-        "title": "国际科技创新中心指数2026：北京排名升至全球第二",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738219.shtml",
-        "publishedAt": "2026-11-26T17:27:00.000+08:00"
-      },
-      {
-        "title": "傅东育谈选演员：看重信念感与表现力",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738215.shtml",
-        "publishedAt": "2026-11-26T17:26:10.000+08:00"
-      },
-      {
-        "title": "《两京十五日》中的“明”字，写对了吗？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738213.shtml",
-        "publishedAt": "2026-11-26T17:24:40.000+08:00"
-      },
-      {
-        "title": "《小城良方》带火原著，文学与影视如何双向奔赴",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738214.shtml",
-        "publishedAt": "2026-11-26T17:24:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T17:30:03.876+08:00",
+    "fetchedAt": "2026-11-26T17:40:03.073+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T17:30:38.534+08:00",
+      "fetchedAt": "2026-11-26T17:40:07.479+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T17:30:38.936+08:00",
+      "fetchedAt": "2026-11-26T17:40:07.768+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T17:30:38.940+08:00",
+      "fetchedAt": "2026-11-26T17:40:07.778+08:00",
       "error": null
     }
   }
