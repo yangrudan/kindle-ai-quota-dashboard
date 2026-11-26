@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T13:00:07.650+08:00",
+  "updatedAt": "2026-11-26T13:10:38.607+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-26T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T13:00:07.650+08:00",
+    "fetchedAt": "2026-11-26T13:10:38.608+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "德宏：在503.8公里边境线上构筑民族团结进步的幸福家园",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738010.shtml",
+        "publishedAt": "2026-11-26T12:55:29.000+08:00"
+      },
       {
         "title": "起火20分钟无人报警 山西太原金屋大厦火灾细节披露",
         "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738009.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国提出到2030年建成覆盖完善、性能领先的新一代通信网",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738003.shtml",
         "publishedAt": "2026-11-26T11:52:00.000+08:00"
-      },
-      {
-        "title": "个人养老金四周年交出怎样的成绩单？还有哪些难题需破解？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738004.shtml",
-        "publishedAt": "2026-11-26T11:50:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T13:00:02.738+08:00",
+    "fetchedAt": "2026-11-26T13:10:03.113+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T13:00:06.399+08:00",
+      "fetchedAt": "2026-11-26T13:10:36.949+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T13:00:06.613+08:00",
+      "fetchedAt": "2026-11-26T13:10:37.281+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T13:00:06.621+08:00",
+      "fetchedAt": "2026-11-26T13:10:37.287+08:00",
       "error": null
     }
   }
