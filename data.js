@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T20:40:09.221+08:00",
+  "updatedAt": "2026-11-26T20:50:38.075+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.5,
-    "feelsLikeC": 10,
-    "humidity": 74,
+    "tempC": 11.4,
+    "feelsLikeC": 9.9,
+    "humidity": 75,
     "windKph": 5.5,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T20:40:09.222+08:00",
+    "observedAt": "2026-11-26T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T20:50:38.075+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "英国净移民人数降至近三十年低位",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738379.shtml",
+        "publishedAt": "2026-11-26T20:42:44.000+08:00"
+      },
+      {
+        "title": "百事集团投资3.1亿元启动山东生产基地二期项目 持续加码中国市场 以数智化升级赋能食品制造高质量发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738391.shtml",
+        "publishedAt": "2026-11-26T20:41:06.000+08:00"
+      },
+      {
+        "title": "再见，白塔；你好，盛乐！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738393.shtml",
+        "publishedAt": "2026-11-26T20:39:22.000+08:00"
+      },
       {
         "title": "广东惠州加快古城保护更新 总投资约40亿元",
         "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738372.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "蔗香悠悠三百年 江西余江一根甘蔗熬出畲乡共富甜",
         "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738373.shtml",
         "publishedAt": "2026-11-26T20:25:28.000+08:00"
-      },
-      {
-        "title": "中国税务部门提升纳税人缴费人合规遵从度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738366.shtml",
-        "publishedAt": "2026-11-26T20:23:27.000+08:00"
-      },
-      {
-        "title": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738385.shtml",
-        "publishedAt": "2026-11-26T20:20:47.000+08:00"
-      },
-      {
-        "title": "中国空军33型60余件装备将参加第十六届中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738364.shtml",
-        "publishedAt": "2026-11-26T20:19:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T20:40:03.148+08:00",
+    "fetchedAt": "2026-11-26T20:50:02.400+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T20:40:07.785+08:00",
+      "fetchedAt": "2026-11-26T20:50:36.472+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T01:40:09.000+08:00"
+          "resetAt": "2026-11-27T01:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T20:40:08.026+08:00",
+      "fetchedAt": "2026-11-26T20:50:36.765+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T20:40:08.035+08:00",
+      "fetchedAt": "2026-11-26T20:50:36.774+08:00",
       "error": null
     }
   }
