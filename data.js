@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T18:40:08.940+08:00",
+  "updatedAt": "2026-11-26T18:50:08.845+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.3,
-    "feelsLikeC": 11.8,
-    "humidity": 66,
-    "windKph": 5.4,
+    "tempC": 13,
+    "feelsLikeC": 11.5,
+    "humidity": 68,
+    "windKph": 5.2,
     "windDir": "南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T18:40:08.941+08:00",
+    "observedAt": "2026-11-26T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T18:50:08.845+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "民政部：推进全国殡葬服务热线12353建设",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738296.shtml",
+        "publishedAt": "2026-11-26T18:42:16.000+08:00"
+      },
+      {
+        "title": "以小城烟火铸治愈良方 电视剧《小城良方》研讨会举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738268.shtml",
+        "publishedAt": "2026-11-26T18:37:56.000+08:00"
+      },
       {
         "title": "东风着陆场准备就绪 迎接神舟二十三号飞船“回家”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738292.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "突破千度高温考验 四足消防侦察狗在苏州完成实战演练",
         "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738286.shtml",
         "publishedAt": "2026-11-26T18:32:35.000+08:00"
-      },
-      {
-        "title": "副热带高压出现罕见反季节增强，这些地方短袖或“限时”返场",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738289.shtml",
-        "publishedAt": "2026-11-26T18:31:07.000+08:00"
-      },
-      {
-        "title": "辽宁鞍山宠物经济出海“忙”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738265.shtml",
-        "publishedAt": "2026-11-26T18:30:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T18:40:03.521+08:00",
+    "fetchedAt": "2026-11-26T18:50:02.773+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T18:40:07.593+08:00",
+      "fetchedAt": "2026-11-26T18:50:07.252+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T18:40:07.754+08:00",
+      "fetchedAt": "2026-11-26T18:50:07.406+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T18:40:07.757+08:00",
+      "fetchedAt": "2026-11-26T18:50:07.410+08:00",
       "error": null
     }
   }
