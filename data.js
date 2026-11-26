@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T20:10:37.846+08:00",
+  "updatedAt": "2026-11-26T20:20:08.982+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.7,
-    "feelsLikeC": 10.3,
-    "humidity": 74,
-    "windKph": 4.8,
+    "tempC": 11.5,
+    "feelsLikeC": 10.1,
+    "humidity": 75,
+    "windKph": 4.6,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T20:10:37.847+08:00",
+    "observedAt": "2026-11-26T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T20:20:08.982+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《三江源国家公园建设白皮书》发布 为高寒地区保护提供参考",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738361.shtml",
+        "publishedAt": "2026-11-26T20:11:25.000+08:00"
+      },
+      {
+        "title": "丽香铁路开通运营三年发送旅客1100余万人次",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738343.shtml",
+        "publishedAt": "2026-11-26T20:10:47.000+08:00"
+      },
       {
         "title": "河南“十五五”打造更高水平“中原粮仓”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738345.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "广州跨境电商进出口规模十年增长近14倍",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738342.shtml",
         "publishedAt": "2026-11-26T20:00:36.000+08:00"
-      },
-      {
-        "title": "神二十四乘组已进入工作状态！“天宫”最新画面公布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738363.shtml",
-        "publishedAt": "2026-11-26T19:59:10.000+08:00"
-      },
-      {
-        "title": "香港10月商品整体出口货值同比上升65.6%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-26/10738338.shtml",
-        "publishedAt": "2026-11-26T19:57:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T20:10:02.719+08:00",
+    "fetchedAt": "2026-11-26T20:20:03.326+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T20:10:36.303+08:00",
+      "fetchedAt": "2026-11-26T20:20:07.566+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T01:10:37.000+08:00"
+          "resetAt": "2026-11-27T01:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T20:10:36.601+08:00",
+      "fetchedAt": "2026-11-26T20:20:07.790+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T20:10:36.611+08:00",
+      "fetchedAt": "2026-11-26T20:20:07.799+08:00",
       "error": null
     }
   }
