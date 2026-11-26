@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T06:40:08.515+08:00",
+  "updatedAt": "2026-11-27T06:50:07.407+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.2,
+    "tempC": 8.1,
     "feelsLikeC": 6.2,
     "humidity": 87,
-    "windKph": 6.4,
+    "windKph": 6.6,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-27T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T06:40:08.515+08:00",
+    "observedAt": "2026-11-27T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T06:50:07.408+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738474.shtml",
+        "publishedAt": "2026-11-27T06:37:27.000+08:00"
+      },
       {
         "title": "英国伦敦地铁司机开启冬季罢工",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738473.shtml",
@@ -38,14 +43,9 @@
         "title": "两名意大利公民在伊朗无人机袭击科威特事件中身亡",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738469.shtml",
         "publishedAt": "2026-11-26T22:49:39.000+08:00"
-      },
-      {
-        "title": "每秒要走近3米才能在绿灯内过完马路，残疾男子加速通行时被撞身亡……有温度的社会，要容得下等一等的时间！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738468.shtml",
-        "publishedAt": "2026-11-26T22:43:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T06:40:03.098+08:00",
+    "fetchedAt": "2026-11-27T06:50:02.705+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T06:40:07.028+08:00",
+      "fetchedAt": "2026-11-27T06:50:06.135+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T11:40:08.000+08:00"
+          "resetAt": "2026-11-27T11:50:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T06:40:07.291+08:00",
+      "fetchedAt": "2026-11-27T06:50:06.434+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T06:40:07.300+08:00",
+      "fetchedAt": "2026-11-27T06:50:06.440+08:00",
       "error": null
     }
   }
