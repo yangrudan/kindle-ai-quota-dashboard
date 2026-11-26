@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:30:39.070+08:00",
+  "updatedAt": "2026-11-26T13:40:09.203+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-26T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T13:30:39.070+08:00",
+    "fetchedAt": "2026-11-26T13:40:09.203+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外机故意冲闯我领海线，歼-16飞行员实力驱离！",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738019.shtml",
-        "publishedAt": "2026-11-26T13:28:19.000+08:00"
+        "title": "有饮料可以不标生产日期？市场监管总局回应",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738021.shtml",
+        "publishedAt": "2026-11-26T13:38:09.000+08:00"
       },
       {
-        "title": "肖像侵权不认“似像非像”，AI融脸须守法律红线",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738017.shtml",
-        "publishedAt": "2026-11-26T13:25:41.000+08:00"
+        "title": "给教材划清商业边界 为成长把好内容关",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-26/10738023.shtml",
+        "publishedAt": "2026-11-26T13:37:17.000+08:00"
       },
       {
-        "title": "日本各界反对政府撬动“无核三原则”：和平主义将沦为空谈",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737993.shtml",
-        "publishedAt": "2026-11-26T13:23:25.000+08:00"
+        "title": "中葡西国际科创大赛线下路演阶段收官 助力海外科创项目开拓中国市场",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-26/10738022.shtml",
+        "publishedAt": "2026-11-26T13:35:23.000+08:00"
       },
       {
-        "title": "海南环岛高铁推出“随心行”定期票：25座车站不限次数乘车",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738015.shtml",
-        "publishedAt": "2026-11-26T13:21:45.000+08:00"
+        "title": "“中国羽绒之乡”广东吴川羽绒羽毛首次出口巴尔干半岛",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738016.shtml",
+        "publishedAt": "2026-11-26T13:33:43.000+08:00"
       },
       {
-        "title": "以疫苗处方为抓手提升流感疫苗接种精准度",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10738014.shtml",
-        "publishedAt": "2026-11-26T13:21:39.000+08:00"
+        "title": "四十载接力护黑土 民盟智力赋能海伦耕地保护",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738018.shtml",
+        "publishedAt": "2026-11-26T13:33:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T13:30:03.154+08:00",
+    "fetchedAt": "2026-11-26T13:40:02.616+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T13:30:37.366+08:00",
+      "fetchedAt": "2026-11-26T13:40:07.529+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T13:30:37.646+08:00",
+      "fetchedAt": "2026-11-26T13:40:07.924+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T13:30:37.655+08:00",
+      "fetchedAt": "2026-11-26T13:40:07.933+08:00",
       "error": null
     }
   }
