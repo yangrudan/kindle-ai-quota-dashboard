@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T21:10:08.929+08:00",
+  "updatedAt": "2026-11-26T21:20:08.326+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.3,
-    "feelsLikeC": 9.7,
+    "tempC": 11.2,
+    "feelsLikeC": 9.6,
     "humidity": 76,
-    "windKph": 5.5,
+    "windKph": 5.6,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T21:10:08.929+08:00",
+    "observedAt": "2026-11-26T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T21:20:08.326+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山东泰安：初冬泰山普照寺彩叶斑斓",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738399.shtml",
-        "publishedAt": "2026-11-26T21:02:52.000+08:00"
+        "title": "从城步乡村到国际舞台 湖南苗族姑娘分享联农带农实践",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738411.shtml",
+        "publishedAt": "2026-11-26T21:13:14.000+08:00"
       },
       {
-        "title": "“物华天宝 金玉锦绣——清宫御用珍品特展”在长春开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738398.shtml",
-        "publishedAt": "2026-11-26T21:01:54.000+08:00"
+        "title": "青海冬春文旅惠民 115家A级景区免首道门票",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738407.shtml",
+        "publishedAt": "2026-11-26T21:12:26.000+08:00"
       },
       {
-        "title": "点“石”成新 老家底孕育新动能——“中国发展论坛·2026”侧记",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738377.shtml",
-        "publishedAt": "2026-11-26T21:01:21.000+08:00"
+        "title": "副热带高压强度1979年来同期最强 浙江近期最高气温冲击25℃",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738412.shtml",
+        "publishedAt": "2026-11-26T21:11:50.000+08:00"
       },
       {
-        "title": "聚焦规模化量产与产业生态共建：2026增材制造大会在泸州开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738374.shtml",
-        "publishedAt": "2026-11-26T21:01:01.000+08:00"
+        "title": "上海将促进专利产业化与国际化落地",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738404.shtml",
+        "publishedAt": "2026-11-26T21:08:44.000+08:00"
       },
       {
-        "title": "“Becoming Chinese”火爆全球，发起博主走访重庆：终于知道中国人为啥活得这么快乐！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738406.shtml",
-        "publishedAt": "2026-11-26T20:59:33.000+08:00"
+        "title": "粤港澳大湾区首批用水器具水效标准亮相鹏城",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738408.shtml",
+        "publishedAt": "2026-11-26T21:07:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T21:10:03.235+08:00",
+    "fetchedAt": "2026-11-26T21:20:02.326+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T21:10:07.681+08:00",
+      "fetchedAt": "2026-11-26T21:20:06.485+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T02:10:08.000+08:00"
+          "resetAt": "2026-11-27T02:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T21:10:07.921+08:00",
+      "fetchedAt": "2026-11-26T21:20:06.759+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T21:10:07.932+08:00",
+      "fetchedAt": "2026-11-26T21:20:06.768+08:00",
       "error": null
     }
   }
