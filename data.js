@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T10:20:08.746+08:00",
+  "updatedAt": "2026-11-26T10:30:11.315+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.9,
-    "feelsLikeC": 12.1,
-    "humidity": 53,
-    "windKph": 11.1,
+    "tempC": 15.3,
+    "feelsLikeC": 12.5,
+    "humidity": 51,
+    "windKph": 11.4,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T10:20:08.746+08:00",
+    "observedAt": "2026-11-26T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T10:30:11.315+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家卫生健康委办公厅关于进一步优化健康体检服务的通知",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737963.shtml",
+        "publishedAt": "2026-11-26T10:18:17.000+08:00"
+      },
+      {
+        "title": "“两高”发布《关于办理妨害兴奋剂管理等刑事案件适用法律若干问题的解释》",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737958.shtml",
+        "publishedAt": "2026-11-26T10:18:01.000+08:00"
+      },
+      {
+        "title": "巴基斯坦航天员穆罕默德·齐尚·阿里：他的飞天梦 连着中巴友谊",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737959.shtml",
+        "publishedAt": "2026-11-26T10:17:11.000+08:00"
+      },
       {
         "title": "陈克龙任江西省人民政府副省长",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737957.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "贵州省纪委监委派驻省住房城乡建设厅纪检监察组原副厅长级专职纪检监察员郑梦英被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737953.shtml",
         "publishedAt": "2026-11-26T10:08:12.000+08:00"
-      },
-      {
-        "title": "2026自然指数：中国科研城市首次包揽全球前三 北京连续十年居首",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737954.shtml",
-        "publishedAt": "2026-11-26T10:07:32.000+08:00"
-      },
-      {
-        "title": "西部计划原创音乐剧《向西》在重庆首演",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10737933.shtml",
-        "publishedAt": "2026-11-26T10:07:06.000+08:00"
-      },
-      {
-        "title": "商务部等8部门关于印发《服务贸易发展“十五五”规划》的通知",
-        "url": "https://www.chinanews.com.cn/${mypath}/2026/11-26/10737955.shtml",
-        "publishedAt": "2026-11-26T10:06:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T10:20:02.867+08:00",
+    "fetchedAt": "2026-11-26T10:30:04.339+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T10:20:07.161+08:00",
+      "fetchedAt": "2026-11-26T10:30:09.412+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-26T15:19:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T10:20:07.693+08:00",
+      "fetchedAt": "2026-11-26T10:30:09.700+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T10:20:07.698+08:00",
+      "fetchedAt": "2026-11-26T10:30:09.708+08:00",
       "error": null
     }
   }
