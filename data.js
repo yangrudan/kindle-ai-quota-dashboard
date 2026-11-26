@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T07:00:38.757+08:00",
+  "updatedAt": "2026-11-27T07:10:07.159+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-27T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T07:00:38.757+08:00",
+    "fetchedAt": "2026-11-27T07:10:07.159+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "11月27日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-27/10738479.shtml",
+        "publishedAt": "2026-11-27T07:03:38.000+08:00"
+      },
+      {
+        "title": "特朗普：与普京会谈中，已敦促其尽快与乌克兰达成协议",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738478.shtml",
+        "publishedAt": "2026-11-27T07:02:40.000+08:00"
+      },
+      {
+        "title": "男篮世预赛：中国队两分憾负沙特阿拉伯队",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738477.shtml",
+        "publishedAt": "2026-11-27T07:00:18.000+08:00"
+      },
+      {
+        "title": "巴西副总统：美国对巴西加征新关税完全不合理",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738476.shtml",
+        "publishedAt": "2026-11-27T06:57:06.000+08:00"
+      },
+      {
         "title": "为科威特军方维护雷达天线 两名意大利人遇袭身亡",
         "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738475.shtml",
         "publishedAt": "2026-11-27T06:53:30.000+08:00"
-      },
-      {
-        "title": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738474.shtml",
-        "publishedAt": "2026-11-27T06:37:27.000+08:00"
-      },
-      {
-        "title": "英国伦敦地铁司机开启冬季罢工",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738473.shtml",
-        "publishedAt": "2026-11-26T23:34:08.000+08:00"
-      },
-      {
-        "title": "英国斥资80亿英镑提升核潜艇战备水平",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738472.shtml",
-        "publishedAt": "2026-11-26T23:32:14.000+08:00"
-      },
-      {
-        "title": "世预赛惜败沙特男篮后，中国男篮容错率越来越小",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738471.shtml",
-        "publishedAt": "2026-11-26T23:30:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T07:00:03.036+08:00",
+    "fetchedAt": "2026-11-27T07:10:02.290+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T07:00:37.357+08:00",
+      "fetchedAt": "2026-11-27T07:10:05.965+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T12:00:38.000+08:00"
+          "resetAt": "2026-11-27T12:10:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T07:00:37.604+08:00",
+      "fetchedAt": "2026-11-27T07:10:06.259+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T07:00:37.612+08:00",
+      "fetchedAt": "2026-11-27T07:10:06.265+08:00",
       "error": null
     }
   }
