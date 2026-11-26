@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T15:30:10.037+08:00",
+  "updatedAt": "2026-11-26T15:40:08.086+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "杭州",
     "observedAt": "2026-11-26T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T15:30:10.037+08:00",
+    "fetchedAt": "2026-11-26T15:40:08.086+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全总：工会职工争议调解服务平台上线后已受理案件1080件",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738097.shtml",
-        "publishedAt": "2026-11-26T15:21:19.000+08:00"
+        "title": "文化“两创”赋能 山东济宁儒韵文脉向新而行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738103.shtml",
+        "publishedAt": "2026-11-26T15:30:42.000+08:00"
       },
       {
-        "title": "外交部：双方应维护中美经贸关系稳定发展态势",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738102.shtml",
-        "publishedAt": "2026-11-26T15:20:49.000+08:00"
+        "title": "治理仿冒“撞脸药”，让买药更放心用药更安心",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10738065.shtml",
+        "publishedAt": "2026-11-26T15:29:03.000+08:00"
       },
       {
-        "title": "中方就日本船只非法侵闯钓鱼岛领海向日方提出严正交涉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738101.shtml",
-        "publishedAt": "2026-11-26T15:19:43.000+08:00"
+        "title": "A股收评：超3600只个股飘绿，沪指、创业板指收涨，深指收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738107.shtml",
+        "publishedAt": "2026-11-26T15:28:07.000+08:00"
       },
       {
-        "title": "做活开放“棋眼” 广西加快成为面向东盟开放合作超级枢纽",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738096.shtml",
-        "publishedAt": "2026-11-26T15:18:27.000+08:00"
+        "title": "中方：当前日遗化武销毁进程严重滞后根本原因在于日方固守错误史观",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738106.shtml",
+        "publishedAt": "2026-11-26T15:28:01.000+08:00"
       },
       {
-        "title": "外交部：日方应还中国人民以净土",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738100.shtml",
-        "publishedAt": "2026-11-26T15:17:55.000+08:00"
+        "title": "外交部：中方反对以“产能过剩”为借口进行政治操弄",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738105.shtml",
+        "publishedAt": "2026-11-26T15:25:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T15:30:03.621+08:00",
+    "fetchedAt": "2026-11-26T15:40:02.534+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T15:30:08.293+08:00",
+      "fetchedAt": "2026-11-26T15:40:06.882+08:00",
       "error": null
     },
     "codex": {
@@ -75,10 +75,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-12-03T15:30:09.000+08:00"
+          "resetAt": "2026-12-03T15:40:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T15:30:08.722+08:00",
+      "fetchedAt": "2026-11-26T15:40:07.181+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T15:30:08.731+08:00",
+      "fetchedAt": "2026-11-26T15:40:07.190+08:00",
       "error": null
     }
   }
