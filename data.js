@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T23:30:07.893+08:00",
+  "updatedAt": "2026-11-26T23:40:08.262+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-26T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T23:30:07.893+08:00",
+    "fetchedAt": "2026-11-26T23:40:08.263+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "英国伦敦地铁司机开启冬季罢工",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738473.shtml",
+        "publishedAt": "2026-11-26T23:34:08.000+08:00"
+      },
+      {
+        "title": "英国斥资80亿英镑提升核潜艇战备水平",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738472.shtml",
+        "publishedAt": "2026-11-26T23:32:14.000+08:00"
+      },
+      {
+        "title": "世预赛惜败沙特男篮后，中国男篮容错率越来越小",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738471.shtml",
+        "publishedAt": "2026-11-26T23:30:05.000+08:00"
+      },
       {
         "title": "两名意大利公民在伊朗无人机袭击科威特事件中身亡",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738469.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "每秒要走近3米才能在绿灯内过完马路，残疾男子加速通行时被撞身亡……有温度的社会，要容得下等一等的时间！",
         "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738468.shtml",
         "publishedAt": "2026-11-26T22:43:19.000+08:00"
-      },
-      {
-        "title": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738467.shtml",
-        "publishedAt": "2026-11-26T22:37:09.000+08:00"
-      },
-      {
-        "title": "李强会见亚洲开发银行行长神田真人",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-26/1211746.shtml",
-        "publishedAt": "2026-11-26T22:15:24.000+08:00"
-      },
-      {
-        "title": "报告指今年中国3D打印产业规模料达约860亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738463.shtml",
-        "publishedAt": "2026-11-26T22:04:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T23:30:02.870+08:00",
+    "fetchedAt": "2026-11-26T23:40:02.872+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T23:30:06.465+08:00",
+      "fetchedAt": "2026-11-26T23:40:06.686+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T04:30:07.000+08:00"
+          "resetAt": "2026-11-27T04:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T23:30:06.868+08:00",
+      "fetchedAt": "2026-11-26T23:40:06.919+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T23:30:06.875+08:00",
+      "fetchedAt": "2026-11-26T23:40:06.922+08:00",
       "error": null
     }
   }
