@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T19:50:37.611+08:00",
+  "updatedAt": "2026-11-26T20:00:08.421+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.9,
-    "feelsLikeC": 10.5,
-    "humidity": 73,
+    "tempC": 11.7,
+    "feelsLikeC": 10.3,
+    "humidity": 74,
     "windKph": 4.8,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-26T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T19:50:37.611+08:00",
+    "observedAt": "2026-11-26T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T20:00:08.421+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新疆多地沙生植物迎丰收 治沙与增收两相宜",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738325.shtml",
-        "publishedAt": "2026-11-26T19:45:33.000+08:00"
+        "title": "云南开放由“通”到“畅”，一字之变见决心",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738359.shtml",
+        "publishedAt": "2026-11-26T19:54:54.000+08:00"
       },
       {
-        "title": "福建省森林防灭火应急救援综合演练在漳州长泰举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738324.shtml",
-        "publishedAt": "2026-11-26T19:45:07.000+08:00"
+        "title": "前10月河源签发输APEC其他经济体原产地证书金额近10亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738336.shtml",
+        "publishedAt": "2026-11-26T19:52:48.000+08:00"
       },
       {
-        "title": "首票进境冰鲜水产品通关 海南自贸港空港口岸开放功能进阶",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738323.shtml",
-        "publishedAt": "2026-11-26T19:45:01.000+08:00"
+        "title": "中国成功发射遥感四十九号01组卫星",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738335.shtml",
+        "publishedAt": "2026-11-26T19:52:42.000+08:00"
       },
       {
-        "title": "首趟中蒙俄国际旅客列车整装出境",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-26/1211738.shtml",
-        "publishedAt": "2026-11-26T19:44:54.000+08:00"
+        "title": "《北京市微短剧产业发展报告》发布",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738333.shtml",
+        "publishedAt": "2026-11-26T19:51:08.000+08:00"
       },
       {
-        "title": "第四届全国大学生职业规划大赛西藏自治区区赛开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738321.shtml",
-        "publishedAt": "2026-11-26T19:44:43.000+08:00"
+        "title": "小农户参与探索气候适应型农业 两年建17个示范点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738332.shtml",
+        "publishedAt": "2026-11-26T19:49:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T19:50:02.309+08:00",
+    "fetchedAt": "2026-11-26T20:00:02.757+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-26T19:50:36.139+08:00",
+      "fetchedAt": "2026-11-26T20:00:07.018+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 37,
-          "resetAt": "2026-11-26T19:55:40.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-27T01:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T19:50:36.365+08:00",
+      "fetchedAt": "2026-11-26T20:00:07.252+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-26T19:50:36.369+08:00",
+      "fetchedAt": "2026-11-26T20:00:07.260+08:00",
       "error": null
     }
   }
