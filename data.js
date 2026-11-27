@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T10:10:37.834+08:00",
+  "updatedAt": "2026-11-27T10:20:08.773+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.4,
-    "feelsLikeC": 15.3,
-    "humidity": 61,
-    "windKph": 4.8,
+    "tempC": 17,
+    "feelsLikeC": 16,
+    "humidity": 59,
+    "windKph": 4.6,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-27T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T10:10:37.835+08:00",
+    "observedAt": "2026-11-27T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T10:20:08.773+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "述评：一本书，如何真正抵达需要它的人？",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738573.shtml",
-        "publishedAt": "2026-11-27T10:06:18.000+08:00"
+        "title": "三亚推进从传统旅游城市向世界级度假创业城市转型",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738571.shtml",
+        "publishedAt": "2026-11-27T10:09:33.000+08:00"
       },
       {
-        "title": "民盟吉林省委会赴梅河口市开展优化营商环境专项民主监督工作调研",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738567.shtml",
-        "publishedAt": "2026-11-27T10:06:00.000+08:00"
+        "title": "云南，加油干！奋力建设新时代“七彩云南”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738575.shtml",
+        "publishedAt": "2026-11-27T10:09:19.000+08:00"
       },
       {
-        "title": "U17世界杯：中国队8:0大胜斐济队 队史第三次晋级淘汰赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738566.shtml",
-        "publishedAt": "2026-11-27T10:05:38.000+08:00"
+        "title": "给校园App瘦身，要把选择权还给师生",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-27/10738558.shtml",
+        "publishedAt": "2026-11-27T10:07:58.000+08:00"
       },
       {
-        "title": "中国专家率先用AI解析“最毒乳腺癌”边界生态 探寻转移复发“密码”",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738568.shtml",
-        "publishedAt": "2026-11-27T10:05:08.000+08:00"
+        "title": "黑龙江大庆：以数据为新引擎 打造资源型城市数字化转型样板",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738574.shtml",
+        "publishedAt": "2026-11-27T10:07:48.000+08:00"
       },
       {
-        "title": "大连市庄河市开展暖阳助学活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738557.shtml",
-        "publishedAt": "2026-11-27T09:58:28.000+08:00"
+        "title": "工信部：前10个月电信业务收入累计完成1.43万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738570.shtml",
+        "publishedAt": "2026-11-27T10:06:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T10:10:02.771+08:00",
+    "fetchedAt": "2026-11-27T10:20:03.191+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T10:10:36.549+08:00",
+      "fetchedAt": "2026-11-27T10:20:07.073+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T10:10:36.849+08:00",
+      "fetchedAt": "2026-11-27T10:20:07.367+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T10:10:36.858+08:00",
+      "fetchedAt": "2026-11-27T10:20:07.378+08:00",
       "error": null
     }
   }
