@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T08:00:38.395+08:00",
+  "updatedAt": "2026-11-27T08:10:08.366+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-27T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T08:00:38.396+08:00",
+    "fetchedAt": "2026-11-27T08:10:08.366+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2027丁未（羊）年贵金属纪念币今日发行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738491.shtml",
+        "publishedAt": "2026-11-27T07:58:03.000+08:00"
+      },
+      {
+        "title": "别把“豆包”当医生",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738490.shtml",
+        "publishedAt": "2026-11-27T07:54:31.000+08:00"
+      },
       {
         "title": "U17男足世界杯中国队8-0大胜斐济队 成功晋级32强淘汰赛",
         "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738489.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "泽连斯基任命乌武装部队支援部队新任司令",
         "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738487.shtml",
         "publishedAt": "2026-11-27T07:41:39.000+08:00"
-      },
-      {
-        "title": "秋假为秋冬旅游市场注入新活力 亲子错峰游成为新需求",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738486.shtml",
-        "publishedAt": "2026-11-27T07:40:46.000+08:00"
-      },
-      {
-        "title": "“开塞露是面霜平替”引热议 医生紧急提醒",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738485.shtml",
-        "publishedAt": "2026-11-27T07:35:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T08:00:03.270+08:00",
+    "fetchedAt": "2026-11-27T08:10:03.189+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T08:00:36.912+08:00",
+      "fetchedAt": "2026-11-27T08:10:06.915+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T13:00:38.000+08:00"
+          "resetAt": "2026-11-27T13:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T08:00:37.243+08:00",
+      "fetchedAt": "2026-11-27T08:10:07.237+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T08:00:37.251+08:00",
+      "fetchedAt": "2026-11-27T08:10:07.246+08:00",
       "error": null
     }
   }
