@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T12:00:08.850+08:00",
+  "updatedAt": "2026-11-27T12:10:10.263+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-27T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T12:00:08.850+08:00",
+    "fetchedAt": "2026-11-27T12:10:10.263+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“滑雪场里的火车站”迎冰雪列车 京津冀游客夕发朝至亚布力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738636.shtml",
+        "publishedAt": "2026-11-27T12:03:45.000+08:00"
+      },
+      {
+        "title": "中国交响乐团建团70周年港澳巡演在北京启动",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211785.shtml",
+        "publishedAt": "2026-11-27T12:01:56.000+08:00"
+      },
+      {
+        "title": "广昆坛百高速改扩建工程多工序同步推进 畅通“西进东融”通道",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738631.shtml",
+        "publishedAt": "2026-11-27T12:00:37.000+08:00"
+      },
       {
         "title": "黑龙江哈尔滨：寒地算力蓄势腾飞 东北智算新引擎",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738635.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "2027年“金砖国家地理学家日”活动将在中国举行 北京举办全球主场",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738634.shtml",
         "publishedAt": "2026-11-27T11:54:58.000+08:00"
-      },
-      {
-        "title": "陕西谋划“十五五”县域发展 2030年培育30个县域特色产业集群",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738633.shtml",
-        "publishedAt": "2026-11-27T11:49:44.000+08:00"
-      },
-      {
-        "title": "一颗简阳柠檬的远行：从四川果园到海外餐桌",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-27/10738632.shtml",
-        "publishedAt": "2026-11-27T11:49:38.000+08:00"
-      },
-      {
-        "title": "追短剧“上头” 大脑真的会变笨吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738644.shtml",
-        "publishedAt": "2026-11-27T11:48:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T12:00:03.022+08:00",
+    "fetchedAt": "2026-11-27T12:10:04.120+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T12:00:07.085+08:00",
+      "fetchedAt": "2026-11-27T12:10:08.838+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T12:00:07.364+08:00",
+      "fetchedAt": "2026-11-27T12:10:09.102+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T12:00:07.372+08:00",
+      "fetchedAt": "2026-11-27T12:10:09.112+08:00",
       "error": null
     }
   }
