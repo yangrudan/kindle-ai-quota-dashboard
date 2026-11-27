@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T11:20:10.609+08:00",
+  "updatedAt": "2026-11-27T11:30:07.831+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.8,
-    "feelsLikeC": 18.2,
-    "humidity": 50,
-    "windKph": 3.7,
+    "tempC": 19.2,
+    "feelsLikeC": 18.6,
+    "humidity": 48,
+    "windKph": 3.6,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-27T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T11:20:10.609+08:00",
+    "observedAt": "2026-11-27T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T11:30:07.831+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新版九年级教材有多处错误？全国教育辟谣平台：网传均为盗版，正版尚未出版",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738619.shtml",
-        "publishedAt": "2026-11-27T11:17:50.000+08:00"
+        "title": "海外媒体记者和网络博主感知重庆秋韵",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-27/10738624.shtml",
+        "publishedAt": "2026-11-27T11:28:11.000+08:00"
       },
       {
-        "title": "北大探索“师生共创”：学生当CEO，跨越成果转化“死亡谷”",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-27/10738617.shtml",
-        "publishedAt": "2026-11-27T11:16:56.000+08:00"
+        "title": "美国大幅上修GDP至4.3%，特朗普“炮轰”商务部",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738625.shtml",
+        "publishedAt": "2026-11-27T11:25:55.000+08:00"
       },
       {
-        "title": "“纸质短剧”入侵校园 重生、逆袭剧情如何印上纸面？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738616.shtml",
-        "publishedAt": "2026-11-27T11:04:37.000+08:00"
+        "title": "综艺“换人” 为何踏入观众情感雷区",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738623.shtml",
+        "publishedAt": "2026-11-27T11:23:21.000+08:00"
       },
       {
-        "title": "U17国足回应世界杯出线，万项因罚失点球致歉",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738614.shtml",
-        "publishedAt": "2026-11-27T11:00:01.000+08:00"
+        "title": "生态环境部：规范地方生态环境标准 补齐短板推动区域协同治污",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738622.shtml",
+        "publishedAt": "2026-11-27T11:22:00.000+08:00"
       },
       {
-        "title": "从囤商品到囤服务 购物车之变折射高质量发展脉动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738610.shtml",
-        "publishedAt": "2026-11-27T10:59:21.000+08:00"
+        "title": "两项自行车国家标准将实施",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738620.shtml",
+        "publishedAt": "2026-11-27T11:20:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T11:20:03.212+08:00",
+    "fetchedAt": "2026-11-27T11:30:02.564+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T11:20:08.598+08:00",
+      "fetchedAt": "2026-11-27T11:30:06.442+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 6,
           "resetAt": "2026-11-27T14:49:46.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T11:20:09.174+08:00",
+      "fetchedAt": "2026-11-27T11:30:06.810+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T11:20:09.182+08:00",
+      "fetchedAt": "2026-11-27T11:30:06.817+08:00",
       "error": null
     }
   }
