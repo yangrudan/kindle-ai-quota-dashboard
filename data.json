@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T09:30:13.586+08:00",
+  "updatedAt": "2026-11-27T09:40:15.349+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-27T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T09:30:13.586+08:00",
+    "fetchedAt": "2026-11-27T09:40:15.349+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "11月27日人民币对美元中间价报6.7075 上调21个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738519.shtml",
-        "publishedAt": "2026-11-27T09:23:22.000+08:00"
+        "title": "2026年1—10月份全国规模以上工业企业利润增长16.0%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738531.shtml",
+        "publishedAt": "2026-11-27T09:32:41.000+08:00"
       },
       {
-        "title": "冷空气影响持续 内蒙古华北等地风力较大",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738512.shtml",
-        "publishedAt": "2026-11-27T09:14:28.000+08:00"
+        "title": "A股开盘：超3300只个股飘红，三大指数集体高开",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738530.shtml",
+        "publishedAt": "2026-11-27T09:31:44.000+08:00"
       },
       {
-        "title": "新加坡城市风光吸引游客",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211747.shtml",
-        "publishedAt": "2026-11-27T09:12:59.000+08:00"
+        "title": "11月27日央行开展7940亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738525.shtml",
+        "publishedAt": "2026-11-27T09:31:20.000+08:00"
       },
       {
-        "title": "超6000亿元就位 回购增持再贷款如何构建资本市场“缓冲垫”？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738514.shtml",
-        "publishedAt": "2026-11-27T09:11:45.000+08:00"
+        "title": "深圳“全妆”迎APEC背后 大量景观花木可回收复用",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738524.shtml",
+        "publishedAt": "2026-11-27T09:28:54.000+08:00"
       },
       {
-        "title": "识别脑卒中，慢了可不行",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738509.shtml",
-        "publishedAt": "2026-11-27T09:03:57.000+08:00"
+        "title": "智能语音操作烦琐 人工客服“躲猫猫” 热线问题该如何解决？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738526.shtml",
+        "publishedAt": "2026-11-27T09:24:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T09:30:03.164+08:00",
+    "fetchedAt": "2026-11-27T09:40:03.393+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T09:30:09.766+08:00",
+      "fetchedAt": "2026-11-27T09:40:13.625+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T14:30:11.000+08:00"
+          "resetAt": "2026-11-27T14:40:15.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T09:30:10.042+08:00",
+      "fetchedAt": "2026-11-27T09:40:13.907+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T09:30:10.046+08:00",
+      "fetchedAt": "2026-11-27T09:40:13.916+08:00",
       "error": null
     }
   }
