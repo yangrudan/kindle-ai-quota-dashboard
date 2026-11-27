@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T10:00:08.876+08:00",
+  "updatedAt": "2026-11-27T10:10:37.834+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-27T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T10:00:08.876+08:00",
+    "fetchedAt": "2026-11-27T10:10:37.835+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "黑龙江呼玛县：北疆边境暖夕阳 盘活集体资产办好农村养老",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738555.shtml",
-        "publishedAt": "2026-11-27T09:56:04.000+08:00"
+        "title": "述评：一本书，如何真正抵达需要它的人？",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738573.shtml",
+        "publishedAt": "2026-11-27T10:06:18.000+08:00"
       },
       {
-        "title": "从一颗传感器到整条产业链 高交会解码AI落地深圳答案",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738551.shtml",
-        "publishedAt": "2026-11-27T09:56:00.000+08:00"
+        "title": "民盟吉林省委会赴梅河口市开展优化营商环境专项民主监督工作调研",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738567.shtml",
+        "publishedAt": "2026-11-27T10:06:00.000+08:00"
       },
       {
-        "title": "“光影相约：洛迦诺80年——瑞中电影对话”开幕活动在京举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738553.shtml",
-        "publishedAt": "2026-11-27T09:55:34.000+08:00"
+        "title": "U17世界杯：中国队8:0大胜斐济队 队史第三次晋级淘汰赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738566.shtml",
+        "publishedAt": "2026-11-27T10:05:38.000+08:00"
       },
       {
-        "title": "暖心放归！3只东方白鹳翱翔河北唐山沿海湿地",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738554.shtml",
-        "publishedAt": "2026-11-27T09:55:30.000+08:00"
+        "title": "中国专家率先用AI解析“最毒乳腺癌”边界生态 探寻转移复发“密码”",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738568.shtml",
+        "publishedAt": "2026-11-27T10:05:08.000+08:00"
       },
       {
-        "title": "大连市中山区举办2026年统一战线专题培训班",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738547.shtml",
-        "publishedAt": "2026-11-27T09:54:48.000+08:00"
+        "title": "大连市庄河市开展暖阳助学活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738557.shtml",
+        "publishedAt": "2026-11-27T09:58:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T10:00:03.128+08:00",
+    "fetchedAt": "2026-11-27T10:10:02.771+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T10:00:07.022+08:00",
+      "fetchedAt": "2026-11-27T10:10:36.549+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 1,
           "resetAt": "2026-11-27T14:49:46.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T10:00:07.314+08:00",
+      "fetchedAt": "2026-11-27T10:10:36.849+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T10:00:07.321+08:00",
+      "fetchedAt": "2026-11-27T10:10:36.858+08:00",
       "error": null
     }
   }
