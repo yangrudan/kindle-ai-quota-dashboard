@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T22:00:12.066+08:00",
+  "updatedAt": "2026-11-27T22:10:37.742+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-27T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T22:00:12.066+08:00",
+    "fetchedAt": "2026-11-27T22:10:37.742+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "共探营养健康新路径 2026营养科学与健康促进前沿论坛在长沙举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739081.shtml",
-        "publishedAt": "2026-11-27T21:54:27.000+08:00"
+        "title": "从在轨测试到开放服务 北京太空算力“朋友圈”扩容",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739083.shtml",
+        "publishedAt": "2026-11-27T21:57:53.000+08:00"
       },
       {
-        "title": "港股上行 恒生科技指数领跑大市",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739070.shtml",
-        "publishedAt": "2026-11-27T21:54:13.000+08:00"
+        "title": "聚焦“人工智能+能源” 2026兴隆湖能源电力创新发展大会在蓉举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739072.shtml",
+        "publishedAt": "2026-11-27T21:57:23.000+08:00"
       },
       {
-        "title": "获评“京琅琊”名家人才，导演刘家成：未来十年将深耕北京故事",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739067.shtml",
-        "publishedAt": "2026-11-27T21:54:03.000+08:00"
+        "title": "中国驻马来西亚使馆举办“读懂中国之治——中国共产党二十届五中全会精神专题座谈会”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739073.shtml",
+        "publishedAt": "2026-11-27T21:56:47.000+08:00"
       },
       {
-        "title": "中国国家税务总局公布新修订的《税务行政复议规则》",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739071.shtml",
-        "publishedAt": "2026-11-27T21:53:57.000+08:00"
+        "title": "E法同行 向上向海｜在上海，遇见网络法治的N种打开方式",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739069.shtml",
+        "publishedAt": "2026-11-27T21:56:39.000+08:00"
       },
       {
-        "title": "一接一递温暖菜农路 张家界公交以善意托举城市温度",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739082.shtml",
-        "publishedAt": "2026-11-27T21:53:29.000+08:00"
+        "title": "新能源装机容量十年翻两番 “一带一路”绿色能源合作跑出加速度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739074.shtml",
+        "publishedAt": "2026-11-27T21:55:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T22:00:04.415+08:00",
+    "fetchedAt": "2026-11-27T22:10:02.501+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T22:00:08.387+08:00",
+      "fetchedAt": "2026-11-27T22:10:36.136+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T03:00:11.000+08:00"
+          "resetAt": "2026-11-28T03:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T22:00:08.660+08:00",
+      "fetchedAt": "2026-11-27T22:10:36.515+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T22:00:08.669+08:00",
+      "fetchedAt": "2026-11-27T22:10:36.524+08:00",
       "error": null
     }
   }
