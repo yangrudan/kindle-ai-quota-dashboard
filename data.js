@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T11:00:08.732+08:00",
+  "updatedAt": "2026-11-27T11:10:07.978+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-27T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T11:00:08.732+08:00",
+    "fetchedAt": "2026-11-27T11:10:07.979+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "多方统筹协同联动，严打野生动植物非法交易",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738604.shtml",
-        "publishedAt": "2026-11-27T10:44:44.000+08:00"
+        "title": "从囤商品到囤服务 购物车之变折射高质量发展脉动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738610.shtml",
+        "publishedAt": "2026-11-27T10:59:21.000+08:00"
       },
       {
-        "title": "评论：织密反兴奋剂法网，守护体育纯净天空",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738596.shtml",
-        "publishedAt": "2026-11-27T10:44:18.000+08:00"
+        "title": "AI“入侵”KTV,卡拉不再OK?",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738615.shtml",
+        "publishedAt": "2026-11-27T10:59:17.000+08:00"
       },
       {
-        "title": "信息无障碍国家标准修订发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738594.shtml",
-        "publishedAt": "2026-11-27T10:40:30.000+08:00"
+        "title": "伊朗否认袭击科威特致两意大利人死亡 提议三国联合调查",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738565.shtml",
+        "publishedAt": "2026-11-27T10:58:19.000+08:00"
       },
       {
-        "title": "国家数据局就《关于完善数据规则 赋能人工智能创新发展的若干意见》公开征求意见",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738591.shtml",
-        "publishedAt": "2026-11-27T10:38:12.000+08:00"
+        "title": "中俄历史学者共商二战史联合研究",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738563.shtml",
+        "publishedAt": "2026-11-27T10:57:37.000+08:00"
       },
       {
-        "title": "我国加速推进“人工智能+制造”专项行动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738600.shtml",
-        "publishedAt": "2026-11-27T10:37:22.000+08:00"
+        "title": "2026年尼泊尔中小学生“四大赛”颁奖典礼暨第八期尼泊尔旅游人才中文班结业典礼举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738562.shtml",
+        "publishedAt": "2026-11-27T10:56:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T11:00:02.432+08:00",
+    "fetchedAt": "2026-11-27T11:10:03.050+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T11:00:06.791+08:00",
+      "fetchedAt": "2026-11-27T11:10:06.808+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T11:00:07.130+08:00",
+      "fetchedAt": "2026-11-27T11:10:07.018+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T11:00:07.139+08:00",
+      "fetchedAt": "2026-11-27T11:10:07.027+08:00",
       "error": null
     }
   }
