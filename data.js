@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T08:50:08.267+08:00",
+  "updatedAt": "2026-11-27T09:00:38.872+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.8,
-    "feelsLikeC": 11.6,
-    "humidity": 75,
-    "windKph": 5,
+    "tempC": 13.5,
+    "feelsLikeC": 12.5,
+    "humidity": 72,
+    "windKph": 4.5,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-27T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T08:50:08.267+08:00",
+    "observedAt": "2026-11-27T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T09:00:38.873+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "北方短暂降温后快速反弹 中东部罕见暖意陆续上线",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738506.shtml",
+        "publishedAt": "2026-11-27T08:56:31.000+08:00"
+      },
+      {
+        "title": "三线齐发 长三角高铁营业里程突破8500公里",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738505.shtml",
+        "publishedAt": "2026-11-27T08:50:30.000+08:00"
+      },
       {
         "title": "校园体育如何“圈粉”年轻人",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738504.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "餐厨废油何以冲上云霄？每天“吃”掉千吨“地沟油”，产出清洁绿色航空燃料",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738502.shtml",
         "publishedAt": "2026-11-27T08:40:04.000+08:00"
-      },
-      {
-        "title": "青年调查：交朋友，受访者最看重三观契合志同道合",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738501.shtml",
-        "publishedAt": "2026-11-27T08:30:39.000+08:00"
-      },
-      {
-        "title": "身体出现这些变化 警惕肺功能受损",
-        "url": "https://www.chinanews.com.cn/life/2026/11-27/10738500.shtml",
-        "publishedAt": "2026-11-27T08:29:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T08:50:02.862+08:00",
+    "fetchedAt": "2026-11-27T09:00:03.253+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T08:50:06.996+08:00",
+      "fetchedAt": "2026-11-27T09:00:37.322+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T13:50:08.000+08:00"
+          "resetAt": "2026-11-27T14:00:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T08:50:07.268+08:00",
+      "fetchedAt": "2026-11-27T09:00:37.648+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T08:50:07.272+08:00",
+      "fetchedAt": "2026-11-27T09:00:37.654+08:00",
       "error": null
     }
   }
