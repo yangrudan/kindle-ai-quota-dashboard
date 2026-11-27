@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T23:30:08.503+08:00",
+  "updatedAt": "2026-11-27T23:40:38.710+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-27T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T23:30:08.504+08:00",
+    "fetchedAt": "2026-11-27T23:40:38.710+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "东西问｜普京与特朗普都爱中国菜：美食，是亚太相知最好的语言",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-27/10739092.shtml",
+        "publishedAt": "2026-11-27T23:29:12.000+08:00"
+      },
       {
         "title": "信长星当选中共江苏省委书记",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739090.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "咕嘟咕嘟！河北人的味觉DNA里，一定刻着一锅大锅菜！",
         "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739086.shtml",
         "publishedAt": "2026-11-27T22:30:39.000+08:00"
-      },
-      {
-        "title": "从在轨测试到开放服务 北京太空算力“朋友圈”扩容",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739083.shtml",
-        "publishedAt": "2026-11-27T21:57:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T23:30:02.776+08:00",
+    "fetchedAt": "2026-11-27T23:40:03.508+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T23:30:06.972+08:00",
+      "fetchedAt": "2026-11-27T23:40:37.056+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T04:30:08.000+08:00"
+          "resetAt": "2026-11-28T04:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T23:30:07.252+08:00",
+      "fetchedAt": "2026-11-27T23:40:37.433+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T23:30:07.261+08:00",
+      "fetchedAt": "2026-11-27T23:40:37.437+08:00",
       "error": null
     }
   }
