@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T08:20:08.963+08:00",
+  "updatedAt": "2026-11-27T08:30:10.860+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11,
-    "feelsLikeC": 9.5,
-    "humidity": 80,
-    "windKph": 5.8,
+    "tempC": 11.7,
+    "feelsLikeC": 10.5,
+    "humidity": 78,
+    "windKph": 4.8,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-27T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T08:20:08.963+08:00",
+    "observedAt": "2026-11-27T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T08:30:10.860+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "西班牙央行前行长德科斯预计将出任下一任欧洲央行行长",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738499.shtml",
+        "publishedAt": "2026-11-27T08:27:21.000+08:00"
+      },
+      {
+        "title": "避开三大误区，饭后走对才养身",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738498.shtml",
+        "publishedAt": "2026-11-27T08:23:39.000+08:00"
+      },
+      {
+        "title": "冷空气将继续影响中东部地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738496.shtml",
+        "publishedAt": "2026-11-27T08:19:23.000+08:00"
+      },
+      {
+        "title": "从非洲南部到南美高原，中国能源方案跨越山海走向世界",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738497.shtml",
+        "publishedAt": "2026-11-27T08:19:05.000+08:00"
+      },
+      {
         "title": "特朗普批准美国佛州重大灾害声明",
         "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738495.shtml",
         "publishedAt": "2026-11-27T08:11:50.000+08:00"
-      },
-      {
-        "title": "微信聊天截图能当证据吗",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738494.shtml",
-        "publishedAt": "2026-11-27T08:03:34.000+08:00"
-      },
-      {
-        "title": "首个农耕文明领域大模型“天稷”发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738492.shtml",
-        "publishedAt": "2026-11-27T07:58:27.000+08:00"
-      },
-      {
-        "title": "2027丁未（羊）年贵金属纪念币今日发行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738491.shtml",
-        "publishedAt": "2026-11-27T07:58:03.000+08:00"
-      },
-      {
-        "title": "别把“豆包”当医生",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738490.shtml",
-        "publishedAt": "2026-11-27T07:54:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T08:20:03.289+08:00",
+    "fetchedAt": "2026-11-27T08:30:05.578+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T08:20:07.421+08:00",
+      "fetchedAt": "2026-11-27T08:30:09.608+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T13:20:08.000+08:00"
+          "resetAt": "2026-11-27T13:30:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T08:20:07.727+08:00",
+      "fetchedAt": "2026-11-27T08:30:09.957+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T08:20:07.731+08:00",
+      "fetchedAt": "2026-11-27T08:30:09.966+08:00",
       "error": null
     }
   }
