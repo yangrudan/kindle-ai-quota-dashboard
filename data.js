@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T10:40:09.199+08:00",
+  "updatedAt": "2026-11-27T10:50:07.700+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.5,
-    "feelsLikeC": 16.6,
-    "humidity": 57,
-    "windKph": 4.4,
+    "tempC": 18,
+    "feelsLikeC": 17.2,
+    "humidity": 55,
+    "windKph": 4,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-27T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T10:40:09.199+08:00",
+    "observedAt": "2026-11-27T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T10:50:07.700+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "应急管理部公布一批安全生产培训考试领域典型案例，严查违法违规行为",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738584.shtml",
-        "publishedAt": "2026-11-27T10:22:49.000+08:00"
+        "title": "多方统筹协同联动，严打野生动植物非法交易",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738604.shtml",
+        "publishedAt": "2026-11-27T10:44:44.000+08:00"
       },
       {
-        "title": "丰城市举党外科级干部专题培训班",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738582.shtml",
-        "publishedAt": "2026-11-27T10:22:35.000+08:00"
+        "title": "评论：织密反兴奋剂法网，守护体育纯净天空",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738596.shtml",
+        "publishedAt": "2026-11-27T10:44:18.000+08:00"
       },
       {
-        "title": "首次亮相、重磅集结！中国航展硬核装备提前揭秘",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738587.shtml",
-        "publishedAt": "2026-11-27T10:21:31.000+08:00"
+        "title": "信息无障碍国家标准修订发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738594.shtml",
+        "publishedAt": "2026-11-27T10:40:30.000+08:00"
       },
       {
-        "title": "三亚推进从传统旅游城市向世界级度假创业城市转型",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738571.shtml",
-        "publishedAt": "2026-11-27T10:09:33.000+08:00"
+        "title": "国家数据局就《关于完善数据规则 赋能人工智能创新发展的若干意见》公开征求意见",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738591.shtml",
+        "publishedAt": "2026-11-27T10:38:12.000+08:00"
       },
       {
-        "title": "云南，加油干！奋力建设新时代“七彩云南”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738575.shtml",
-        "publishedAt": "2026-11-27T10:09:19.000+08:00"
+        "title": "我国加速推进“人工智能+制造”专项行动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738600.shtml",
+        "publishedAt": "2026-11-27T10:37:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T10:40:03.140+08:00",
+    "fetchedAt": "2026-11-27T10:50:02.891+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T10:40:07.572+08:00",
+      "fetchedAt": "2026-11-27T10:50:06.506+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T10:40:07.864+08:00",
+      "fetchedAt": "2026-11-27T10:50:06.765+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T10:40:07.870+08:00",
+      "fetchedAt": "2026-11-27T10:50:06.768+08:00",
       "error": null
     }
   }
