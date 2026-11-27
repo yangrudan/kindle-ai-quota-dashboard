@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T13:30:37.420+08:00",
+  "updatedAt": "2026-11-27T13:40:39.221+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.7,
+    "tempC": 20.8,
     "feelsLikeC": 19.4,
     "humidity": 41,
-    "windKph": 4,
+    "windKph": 4.4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-27T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T13:30:37.421+08:00",
+    "observedAt": "2026-11-27T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T13:40:39.221+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "年轻人选城市，什么最重要",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738668.shtml",
-        "publishedAt": "2026-11-27T13:21:31.000+08:00"
+        "title": "五部门联合打击生态环境监测机构弄虚作假",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738673.shtml",
+        "publishedAt": "2026-11-27T13:37:36.000+08:00"
       },
       {
-        "title": "中国驻日本大使馆再次提醒中国公民注意防范地震等自然灾害",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-27/10738667.shtml",
-        "publishedAt": "2026-11-27T13:19:23.000+08:00"
+        "title": "粤菜：岭南味道端上国宴",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738674.shtml",
+        "publishedAt": "2026-11-27T13:36:04.000+08:00"
       },
       {
-        "title": "两岸民众“串门”热：“小三通”攻略走红，旺盛需求呼唤松绑运力",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738666.shtml",
-        "publishedAt": "2026-11-27T13:16:01.000+08:00"
+        "title": "《生态质量评价标准（试行）》将于今年12月1日起实施",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738672.shtml",
+        "publishedAt": "2026-11-27T13:32:44.000+08:00"
       },
       {
-        "title": "跨越山海侨聚宜春——八国侨团宜春考察纪行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738665.shtml",
-        "publishedAt": "2026-11-27T13:15:53.000+08:00"
+        "title": "生态环境部公布第五批美丽河湖优秀案例名单",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738669.shtml",
+        "publishedAt": "2026-11-27T13:28:15.000+08:00"
       },
       {
-        "title": "伊朗外长回应两名意大利人在科威特身亡：疑点重重",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738661.shtml",
-        "publishedAt": "2026-11-27T13:13:28.000+08:00"
+        "title": "美国西海岸遭遇天文大潮 巨浪冲击面临洪涝风险",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211790.shtml",
+        "publishedAt": "2026-11-27T13:24:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T13:30:02.480+08:00",
+    "fetchedAt": "2026-11-27T13:40:03.202+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T13:30:36.001+08:00",
+      "fetchedAt": "2026-11-27T13:40:36.867+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T13:30:36.164+08:00",
+      "fetchedAt": "2026-11-27T13:40:37.057+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T13:30:36.171+08:00",
+      "fetchedAt": "2026-11-27T13:40:37.065+08:00",
       "error": null
     }
   }
