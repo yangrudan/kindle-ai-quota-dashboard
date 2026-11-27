@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T09:40:15.349+08:00",
+  "updatedAt": "2026-11-27T09:50:09.592+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15,
-    "feelsLikeC": 14,
-    "humidity": 67,
-    "windKph": 4.5,
+    "tempC": 15.7,
+    "feelsLikeC": 14.7,
+    "humidity": 64,
+    "windKph": 4.8,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-27T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T09:40:15.349+08:00",
+    "observedAt": "2026-11-27T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T09:50:09.593+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年1—10月份全国规模以上工业企业利润增长16.0%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738531.shtml",
-        "publishedAt": "2026-11-27T09:32:41.000+08:00"
+        "title": "广西恭城月柿丰收 游客络绎不绝",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10738511.shtml",
+        "publishedAt": "2026-11-27T09:44:15.000+08:00"
       },
       {
-        "title": "A股开盘：超3300只个股飘红，三大指数集体高开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738530.shtml",
-        "publishedAt": "2026-11-27T09:31:44.000+08:00"
+        "title": "前10个月福建省民营企业进出口规模超1万亿元",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-27/10738542.shtml",
+        "publishedAt": "2026-11-27T09:43:03.000+08:00"
       },
       {
-        "title": "11月27日央行开展7940亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738525.shtml",
-        "publishedAt": "2026-11-27T09:31:20.000+08:00"
+        "title": "“算命秤”定吉凶？信就上当",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738541.shtml",
+        "publishedAt": "2026-11-27T09:42:55.000+08:00"
       },
       {
-        "title": "深圳“全妆”迎APEC背后 大量景观花木可回收复用",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738524.shtml",
-        "publishedAt": "2026-11-27T09:28:54.000+08:00"
+        "title": "野外迷路如何找“北”？户外出行前这3点务必牢记",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738538.shtml",
+        "publishedAt": "2026-11-27T09:39:01.000+08:00"
       },
       {
-        "title": "智能语音操作烦琐 人工客服“躲猫猫” 热线问题该如何解决？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738526.shtml",
-        "publishedAt": "2026-11-27T09:24:56.000+08:00"
+        "title": "李在明批准五名部长级官员人选人事听证提案",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738528.shtml",
+        "publishedAt": "2026-11-27T09:36:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T09:40:03.393+08:00",
+    "fetchedAt": "2026-11-27T09:50:02.781+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T09:40:13.625+08:00",
+      "fetchedAt": "2026-11-27T09:50:08.053+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T14:40:15.000+08:00"
+          "resetAt": "2026-11-27T14:49:46.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T09:40:13.907+08:00",
+      "fetchedAt": "2026-11-27T09:50:08.342+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T09:40:13.916+08:00",
+      "fetchedAt": "2026-11-27T09:50:08.347+08:00",
       "error": null
     }
   }
