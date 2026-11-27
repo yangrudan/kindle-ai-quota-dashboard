@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T15:20:10.331+08:00",
+  "updatedAt": "2026-11-27T15:30:08.506+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.8,
-    "feelsLikeC": 18.9,
-    "humidity": 43,
-    "windKph": 8.1,
+    "tempC": 20.5,
+    "feelsLikeC": 18.6,
+    "humidity": 44,
+    "windKph": 9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T15:20:10.331+08:00",
+    "observedAt": "2026-11-27T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T15:30:08.507+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "GDP上修，特朗普“上火”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738738.shtml",
+        "publishedAt": "2026-11-27T15:18:37.000+08:00"
+      },
       {
         "title": "A股大爆发 全市场超5300只个股上涨",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738736.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "6地取经、7次座谈、10场对接、22次入企——辽宁抚顺市工商联粤苏沪之行收获满满",
         "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738726.shtml",
         "publishedAt": "2026-11-27T15:13:51.000+08:00"
-      },
-      {
-        "title": "中储粮集团新疆分公司副总经理王建接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738731.shtml",
-        "publishedAt": "2026-11-27T15:12:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T15:20:03.092+08:00",
+    "fetchedAt": "2026-11-27T15:30:02.908+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T15:20:08.170+08:00",
+      "fetchedAt": "2026-11-27T15:30:06.679+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 10,
           "resetAt": "2026-11-27T20:11:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T15:20:08.403+08:00",
+      "fetchedAt": "2026-11-27T15:30:06.960+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T15:20:08.406+08:00",
+      "fetchedAt": "2026-11-27T15:30:06.970+08:00",
       "error": null
     }
   }
