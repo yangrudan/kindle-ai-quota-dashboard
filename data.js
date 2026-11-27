@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T18:40:38.600+08:00",
+  "updatedAt": "2026-11-27T18:50:07.779+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.3,
-    "feelsLikeC": 12.7,
+    "tempC": 15,
+    "feelsLikeC": 12.4,
     "humidity": 60,
-    "windKph": 13.2,
+    "windKph": 13.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T18:40:38.600+08:00",
+    "observedAt": "2026-11-27T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T18:50:07.779+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "泰国文促会携手高校开展教育领域合作",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738910.shtml",
-        "publishedAt": "2026-11-27T18:34:26.000+08:00"
+        "title": "《人民币存贷款利率管理规定》发布 2027年3月21日起施行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738929.shtml",
+        "publishedAt": "2026-11-27T18:45:02.000+08:00"
       },
       {
-        "title": "大风蓝色预警：甘肃内蒙古等6省区部分地区阵风可达7至8级",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738917.shtml",
-        "publishedAt": "2026-11-27T18:28:05.000+08:00"
+        "title": "特朗普：黄仁勋重返英伟达是件“好事”，他本人也很高兴回归",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738926.shtml",
+        "publishedAt": "2026-11-27T18:43:44.000+08:00"
       },
       {
-        "title": "大范围回暖将席卷南北方 大城市升温日历看哪里会暖到破纪录",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738914.shtml",
-        "publishedAt": "2026-11-27T18:23:17.000+08:00"
+        "title": "中国证监会严肃查处两起编造传播证券市场误导性信息案件",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738924.shtml",
+        "publishedAt": "2026-11-27T18:43:36.000+08:00"
       },
       {
-        "title": "《全民数字素养与技能调查报告（2026年）》发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738908.shtml",
-        "publishedAt": "2026-11-27T18:21:01.000+08:00"
+        "title": "鲁澳基层结对共建 携手共探基层治理新路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738916.shtml",
+        "publishedAt": "2026-11-27T18:42:14.000+08:00"
       },
       {
-        "title": "中国建设银行青岛市分行原行长郝子建被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738911.shtml",
-        "publishedAt": "2026-11-27T18:19:29.000+08:00"
+        "title": "回应行业之变 “她”力量如何引领企业发展？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738915.shtml",
+        "publishedAt": "2026-11-27T18:41:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T18:40:02.811+08:00",
+    "fetchedAt": "2026-11-27T18:50:02.528+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T18:40:37.195+08:00",
+      "fetchedAt": "2026-11-27T18:50:06.568+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T18:40:37.414+08:00",
+      "fetchedAt": "2026-11-27T18:50:06.887+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T18:40:37.421+08:00",
+      "fetchedAt": "2026-11-27T18:50:06.894+08:00",
       "error": null
     }
   }
