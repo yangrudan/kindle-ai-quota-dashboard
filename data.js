@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T09:20:08.155+08:00",
+  "updatedAt": "2026-11-27T09:30:13.586+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.3,
-    "feelsLikeC": 13.3,
-    "humidity": 70,
+    "tempC": 15,
+    "feelsLikeC": 14,
+    "humidity": 67,
     "windKph": 4.5,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-27T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T09:20:08.156+08:00",
+    "observedAt": "2026-11-27T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T09:30:13.586+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月27日人民币对美元中间价报6.7075 上调21个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738519.shtml",
+        "publishedAt": "2026-11-27T09:23:22.000+08:00"
+      },
       {
         "title": "冷空气影响持续 内蒙古华北等地风力较大",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738512.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "识别脑卒中，慢了可不行",
         "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738509.shtml",
         "publishedAt": "2026-11-27T09:03:57.000+08:00"
-      },
-      {
-        "title": "2名意籍工程师遇袭身亡，中东冲突波及到了普通欧洲民众",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738507.shtml",
-        "publishedAt": "2026-11-27T08:59:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T09:20:02.828+08:00",
+    "fetchedAt": "2026-11-27T09:30:03.164+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T09:20:06.652+08:00",
+      "fetchedAt": "2026-11-27T09:30:09.766+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T14:20:08.000+08:00"
+          "resetAt": "2026-11-27T14:30:11.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T09:20:06.921+08:00",
+      "fetchedAt": "2026-11-27T09:30:10.042+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T09:20:06.925+08:00",
+      "fetchedAt": "2026-11-27T09:30:10.046+08:00",
       "error": null
     }
   }
