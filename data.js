@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T22:30:45.190+08:00",
+  "updatedAt": "2026-11-27T22:40:10.016+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-27T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T22:30:45.190+08:00",
+    "fetchedAt": "2026-11-27T22:40:10.017+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "咕嘟咕嘟！河北人的味觉DNA里，一定刻着一锅大锅菜！",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739086.shtml",
+        "publishedAt": "2026-11-27T22:30:39.000+08:00"
+      },
       {
         "title": "从在轨测试到开放服务 北京太空算力“朋友圈”扩容",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739083.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "E法同行 向上向海｜在上海，遇见网络法治的N种打开方式",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739069.shtml",
         "publishedAt": "2026-11-27T21:56:39.000+08:00"
-      },
-      {
-        "title": "新能源装机容量十年翻两番 “一带一路”绿色能源合作跑出加速度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739074.shtml",
-        "publishedAt": "2026-11-27T21:55:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T22:30:03.063+08:00",
+    "fetchedAt": "2026-11-27T22:40:03.535+08:00",
     "error": null
   },
   "sources": {
@@ -57,12 +57,11 @@ window.DASH_DATA = {
           "name": "月度 AIC",
           "usedPct": 100,
           "resetAt": "2026-12-01T08:00:00.000+08:00",
-          "detailText": "基础额度已用尽 · 超额 5 / 100 AIC"
+          "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-18T12:51:49.135+08:00",
-      "error": "云端查询失败：spawnSync gh ETIMEDOUT",
-      "stale": true
+      "fetchedAt": "2026-11-27T22:40:08.445+08:00",
+      "error": null
     },
     "codex": {
       "ok": true,
@@ -71,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T03:20:39.000+08:00"
+          "resetAt": "2026-11-28T03:40:09.000+08:00"
         },
         {
           "name": "周",
@@ -79,10 +78,8 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T22:20:38.638+08:00",
-      "error": "Codex app-server 查询超时",
-      "stale": true,
-      "lastAttemptAt": "2026-11-27T22:30:25.178+08:00"
+      "fetchedAt": "2026-11-27T22:40:08.783+08:00",
+      "error": null
     },
     "mimo": {
       "ok": true,
@@ -100,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T22:30:25.186+08:00",
+      "fetchedAt": "2026-11-27T22:40:08.792+08:00",
       "error": null
     }
   }
