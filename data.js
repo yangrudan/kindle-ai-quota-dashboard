@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T20:00:38.588+08:00",
+  "updatedAt": "2026-11-27T20:10:08.794+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-27T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T20:00:38.588+08:00",
+    "fetchedAt": "2026-11-27T20:10:08.794+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东西问丨张铁山：从“语族”“民族”看清泛突厥主义的错误叙事",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-27/10738965.shtml",
-        "publishedAt": "2026-11-27T19:54:36.000+08:00"
+        "title": "美金融基建科技企业在香港设立首个亚太策略平台",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738994.shtml",
+        "publishedAt": "2026-11-27T20:05:05.000+08:00"
       },
       {
-        "title": "数字艺术沉浸体验展亮相深圳 探索疗愈文旅新生态",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738970.shtml",
-        "publishedAt": "2026-11-27T19:54:22.000+08:00"
+        "title": "2026广州国际音响唱片展启幕 大批“发烧友”前来逛展",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738989.shtml",
+        "publishedAt": "2026-11-27T20:02:23.000+08:00"
       },
       {
-        "title": "香港廉署连任国际反贪局联合会主席",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738969.shtml",
-        "publishedAt": "2026-11-27T19:50:56.000+08:00"
+        "title": "中国海警依法驱离日非法进入中国钓鱼岛领海船只",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738992.shtml",
+        "publishedAt": "2026-11-27T20:01:36.000+08:00"
       },
       {
-        "title": "中越海警2026年第二次北部湾联合巡逻圆满结束",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738961.shtml",
-        "publishedAt": "2026-11-27T19:47:54.000+08:00"
+        "title": "上交所调整上证50、上证180等多个指数样本",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738978.shtml",
+        "publishedAt": "2026-11-27T20:00:18.000+08:00"
       },
       {
-        "title": "证监会严肃查处两起编造传播证券市场误导性信息案件",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738960.shtml",
-        "publishedAt": "2026-11-27T19:46:32.000+08:00"
+        "title": "国内自主国际会计网络总部在广州揭牌",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738990.shtml",
+        "publishedAt": "2026-11-27T20:00:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T20:00:02.754+08:00",
+    "fetchedAt": "2026-11-27T20:10:03.108+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T20:00:36.896+08:00",
+      "fetchedAt": "2026-11-27T20:10:07.482+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T20:00:37.235+08:00",
+      "fetchedAt": "2026-11-27T20:10:07.758+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T20:00:37.242+08:00",
+      "fetchedAt": "2026-11-27T20:10:07.767+08:00",
       "error": null
     }
   }
