@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T19:30:09.680+08:00",
+  "updatedAt": "2026-11-27T19:40:38.466+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-27T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T19:30:09.680+08:00",
+    "fetchedAt": "2026-11-27T19:40:38.466+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738966.shtml",
+        "publishedAt": "2026-11-27T19:27:05.000+08:00"
+      },
       {
         "title": "中国证监会传达学习贯彻国务院常务会议精神",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738964.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“全国青少年身心健康试点区”揭牌 专家建言提供精准“指南针”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738940.shtml",
         "publishedAt": "2026-11-27T19:19:48.000+08:00"
-      },
-      {
-        "title": "伊朗海军司令称夺回两艘被美军劫持的油轮",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738962.shtml",
-        "publishedAt": "2026-11-27T19:18:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T19:30:03.714+08:00",
+    "fetchedAt": "2026-11-27T19:40:02.962+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T19:30:08.306+08:00",
+      "fetchedAt": "2026-11-27T19:40:36.893+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T19:30:08.538+08:00",
+      "fetchedAt": "2026-11-27T19:40:37.172+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T19:30:08.546+08:00",
+      "fetchedAt": "2026-11-27T19:40:37.176+08:00",
       "error": null
     }
   }
