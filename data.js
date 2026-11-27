@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T20:20:09.398+08:00",
+  "updatedAt": "2026-11-27T20:30:08.248+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.9,
+    "tempC": 13.8,
     "feelsLikeC": 11.2,
     "humidity": 62,
-    "windKph": 12.4,
+    "windKph": 12.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T20:20:09.398+08:00",
+    "observedAt": "2026-11-27T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T20:30:08.249+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "加拿大近30万民众联名请愿要求驱逐美国大使",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738967.shtml",
+        "publishedAt": "2026-11-27T20:24:18.000+08:00"
+      },
       {
         "title": "偷渡出境搞“裸聊”敲诈 恶势力集团首要分子获刑20年",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738985.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广西首支职业女篮队伍将出征中国女子篮球联赛",
         "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738984.shtml",
         "publishedAt": "2026-11-27T20:12:15.000+08:00"
-      },
-      {
-        "title": "“书香阅世界·大使话往来”主题读书分享会在深圳举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738983.shtml",
-        "publishedAt": "2026-11-27T20:11:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T20:20:03.495+08:00",
+    "fetchedAt": "2026-11-27T20:30:02.867+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T20:20:07.567+08:00",
+      "fetchedAt": "2026-11-27T20:30:06.830+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T01:20:09.000+08:00"
+          "resetAt": "2026-11-28T01:30:07.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T20:20:07.907+08:00",
+      "fetchedAt": "2026-11-27T20:30:07.133+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T20:20:07.916+08:00",
+      "fetchedAt": "2026-11-27T20:30:07.142+08:00",
       "error": null
     }
   }
