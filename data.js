@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T21:20:09.366+08:00",
+  "updatedAt": "2026-11-27T21:30:14.738+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.1,
-    "feelsLikeC": 10.8,
-    "humidity": 64,
-    "windKph": 9.8,
+    "tempC": 12.7,
+    "feelsLikeC": 10.5,
+    "humidity": 66,
+    "windKph": 8.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T21:20:09.366+08:00",
+    "observedAt": "2026-11-27T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T21:30:14.739+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国证监会：持续完善资本市场稳市机制",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739057.shtml",
-        "publishedAt": "2026-11-27T21:12:34.000+08:00"
+        "title": "纪念刘江诞辰百年 五百余件展品再现一代印人风采",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739052.shtml",
+        "publishedAt": "2026-11-27T21:23:03.000+08:00"
       },
       {
-        "title": "东盟官员：中国发展为东盟带来新机遇",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-27/10739054.shtml",
-        "publishedAt": "2026-11-27T21:11:38.000+08:00"
+        "title": "瞄准新一代智能制造 浙江推动算力普惠“数”尽其用",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739053.shtml",
+        "publishedAt": "2026-11-27T21:22:09.000+08:00"
       },
       {
-        "title": "广州仲裁委员会境外服务网络延伸至澳新",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739021.shtml",
-        "publishedAt": "2026-11-27T21:11:10.000+08:00"
+        "title": "第七届海峡两岸（福州）职工创新创业创造大赛主题日活动在福州举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739041.shtml",
+        "publishedAt": "2026-11-27T21:21:21.000+08:00"
       },
       {
-        "title": "前十月中国南方五省区全社会用电量同比增6.8%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739020.shtml",
-        "publishedAt": "2026-11-27T21:09:38.000+08:00"
+        "title": "2026粤港澳大湾区海洋运动会在惠州开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739025.shtml",
+        "publishedAt": "2026-11-27T21:20:33.000+08:00"
       },
       {
-        "title": "徐兰高铁郑徐段将常态化按时速350公里高标运行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739019.shtml",
-        "publishedAt": "2026-11-27T21:08:12.000+08:00"
+        "title": "两省三校师生以舞台为课堂 共促中华民族大团结",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739024.shtml",
+        "publishedAt": "2026-11-27T21:18:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T21:20:04.225+08:00",
+    "fetchedAt": "2026-11-27T21:30:03.462+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T21:20:08.084+08:00",
+      "fetchedAt": "2026-11-27T21:30:13.251+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T02:20:09.000+08:00"
+          "resetAt": "2026-11-28T02:30:14.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T21:20:08.393+08:00",
+      "fetchedAt": "2026-11-27T21:30:13.510+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T21:20:08.402+08:00",
+      "fetchedAt": "2026-11-27T21:30:13.519+08:00",
       "error": null
     }
   }
