@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T15:50:08.134+08:00",
+  "updatedAt": "2026-11-27T16:00:08.311+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.1,
-    "feelsLikeC": 18.2,
-    "humidity": 46,
-    "windKph": 9.8,
+    "tempC": 19.7,
+    "feelsLikeC": 17.7,
+    "humidity": 48,
+    "windKph": 10.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T15:50:08.134+08:00",
+    "observedAt": "2026-11-27T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T16:00:08.311+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "直-20T等中国陆军多款现役主战装备将亮相第十六届中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738749.shtml",
-        "publishedAt": "2026-11-27T15:45:13.000+08:00"
+        "title": "黑龙江前10个月货物贸易进出口总值2830.1亿元 同比增长9.7%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738754.shtml",
+        "publishedAt": "2026-11-27T15:48:51.000+08:00"
       },
       {
-        "title": "最高人民法院发布人民法院治理欠薪典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738746.shtml",
-        "publishedAt": "2026-11-27T15:45:11.000+08:00"
+        "title": "进一步放大党建统领整体效能 重庆从三方面作出部署",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738758.shtml",
+        "publishedAt": "2026-11-27T15:48:19.000+08:00"
       },
       {
-        "title": "安徽三条高铁同日开通 五个县告别不通高铁历史",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738747.shtml",
-        "publishedAt": "2026-11-27T15:45:09.000+08:00"
+        "title": "高交会观察：中国机器人出海记",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738751.shtml",
+        "publishedAt": "2026-11-27T15:47:31.000+08:00"
       },
       {
-        "title": "践行汽车强国战略：奕境X9靠全栈原生融合站稳高端赛道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738745.shtml",
-        "publishedAt": "2026-11-27T15:44:35.000+08:00"
+        "title": "2026粤港澳大湾区文投会累计意向签约金额约86亿元",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738755.shtml",
+        "publishedAt": "2026-11-27T15:46:25.000+08:00"
       },
       {
-        "title": "“老博会”观察：养老机器人集中亮相 科技赋能“银发经济”新生态",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738756.shtml",
-        "publishedAt": "2026-11-27T15:43:55.000+08:00"
+        "title": "2026海口马拉松12月开跑 2万跑友驰骋滨海赛道",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738752.shtml",
+        "publishedAt": "2026-11-27T15:46:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T15:50:03.057+08:00",
+    "fetchedAt": "2026-11-27T16:00:02.552+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T15:50:06.790+08:00",
+      "fetchedAt": "2026-11-27T16:00:06.629+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 19,
           "resetAt": "2026-11-27T20:11:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T15:50:07.108+08:00",
+      "fetchedAt": "2026-11-27T16:00:07.070+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T15:50:07.117+08:00",
+      "fetchedAt": "2026-11-27T16:00:07.073+08:00",
       "error": null
     }
   }
