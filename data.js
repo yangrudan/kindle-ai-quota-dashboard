@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T16:40:08.294+08:00",
+  "updatedAt": "2026-11-27T16:50:09.060+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.5,
-    "feelsLikeC": 16.4,
-    "humidity": 51,
-    "windKph": 11,
+    "tempC": 17.8,
+    "feelsLikeC": 15.6,
+    "humidity": 53,
+    "windKph": 11.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T16:40:08.294+08:00",
+    "observedAt": "2026-11-27T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T16:50:09.060+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "市场监管总局集中约谈15家电动自行车企业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738812.shtml",
-        "publishedAt": "2026-11-27T16:31:59.000+08:00"
+        "title": "店员被要求全程口播、无客也需喊话？茶颜悦色回应",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738825.shtml",
+        "publishedAt": "2026-11-27T16:47:50.000+08:00"
       },
       {
-        "title": "第七届悉尼茶博会开幕 中国茶文化吸引当地民众",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211818.shtml",
-        "publishedAt": "2026-11-27T16:29:43.000+08:00"
+        "title": "当他们有了“新职务”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738824.shtml",
+        "publishedAt": "2026-11-27T16:47:46.000+08:00"
       },
       {
-        "title": "北京首次举办游戏年会 集中启动三项重点产业项目",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738800.shtml",
-        "publishedAt": "2026-11-27T16:27:39.000+08:00"
+        "title": "菌草，岛国农业的新希望",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738829.shtml",
+        "publishedAt": "2026-11-27T16:46:40.000+08:00"
       },
       {
-        "title": "中国航空器拥有者及驾驶员协会理事长张峰接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738798.shtml",
-        "publishedAt": "2026-11-27T16:26:39.000+08:00"
+        "title": "第二十八届高交会：机器人足球赛受关注",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10738816.shtml",
+        "publishedAt": "2026-11-27T16:45:52.000+08:00"
       },
       {
-        "title": "海南陵水：高标准描绘“两个城市”新蓝图",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738799.shtml",
-        "publishedAt": "2026-11-27T16:26:11.000+08:00"
+        "title": "拉美媒体积极报道中国航天国际合作成果",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738828.shtml",
+        "publishedAt": "2026-11-27T16:44:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T16:40:02.824+08:00",
+    "fetchedAt": "2026-11-27T16:50:03.105+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T16:40:07.098+08:00",
+      "fetchedAt": "2026-11-27T16:50:07.191+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 40,
           "resetAt": "2026-11-27T20:11:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 10,
+          "usedPct": 11,
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T16:40:07.370+08:00",
+      "fetchedAt": "2026-11-27T16:50:07.554+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T16:40:07.378+08:00",
+      "fetchedAt": "2026-11-27T16:50:07.557+08:00",
       "error": null
     }
   }
