@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T14:40:37.871+08:00",
+  "updatedAt": "2026-11-27T14:50:08.803+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 21.1,
-    "feelsLikeC": 19.3,
+    "feelsLikeC": 19.2,
     "humidity": 41,
-    "windKph": 7.1,
+    "windKph": 7.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T14:40:37.871+08:00",
+    "observedAt": "2026-11-27T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T14:50:08.804+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "不法分子如何批量盗取学历信息？黑灰产链条曝光",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738691.shtml",
+        "publishedAt": "2026-11-27T14:35:19.000+08:00"
+      },
       {
         "title": "小仙炖以品类创新拉动产业链升级｜一碗鲜炖燕窝背后，中国消费创新的亚太溢出效应",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738690.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国驻阿联酋使领馆再次提醒在阿中国公民注意交通安全",
         "url": "https://www.chinanews.com.cn/hr/2026/11-27/10738689.shtml",
         "publishedAt": "2026-11-27T14:22:50.000+08:00"
-      },
-      {
-        "title": "广西防城港双墩渔港丰收 金鲳鱼抢鲜上市",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10738681.shtml",
-        "publishedAt": "2026-11-27T14:16:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T14:40:02.600+08:00",
+    "fetchedAt": "2026-11-27T14:50:02.939+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T14:40:36.242+08:00",
+      "fetchedAt": "2026-11-27T14:50:07.059+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 13,
-          "resetAt": "2026-11-27T14:49:46.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-27T19:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T14:40:36.470+08:00",
+      "fetchedAt": "2026-11-27T14:50:07.292+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T14:40:36.479+08:00",
+      "fetchedAt": "2026-11-27T14:50:07.301+08:00",
       "error": null
     }
   }
