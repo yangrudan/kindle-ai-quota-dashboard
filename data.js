@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T16:00:08.311+08:00",
+  "updatedAt": "2026-11-27T16:10:07.850+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-27T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T16:00:08.311+08:00",
+    "fetchedAt": "2026-11-27T16:10:07.850+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "黑龙江前10个月货物贸易进出口总值2830.1亿元 同比增长9.7%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738754.shtml",
-        "publishedAt": "2026-11-27T15:48:51.000+08:00"
+        "title": "广州足球公园球场索承网格钢屋盖创新技术成功实施",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738765.shtml",
+        "publishedAt": "2026-11-27T16:05:32.000+08:00"
       },
       {
-        "title": "进一步放大党建统领整体效能 重庆从三方面作出部署",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738758.shtml",
-        "publishedAt": "2026-11-27T15:48:19.000+08:00"
+        "title": "郑卢“空中丝路”论坛首次增邀东盟等地区政商代表",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738776.shtml",
+        "publishedAt": "2026-11-27T16:03:36.000+08:00"
       },
       {
-        "title": "高交会观察：中国机器人出海记",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738751.shtml",
-        "publishedAt": "2026-11-27T15:47:31.000+08:00"
+        "title": "西藏本地货运红十字支援服务队成立 助力物资运输应急保障",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738766.shtml",
+        "publishedAt": "2026-11-27T15:59:01.000+08:00"
       },
       {
-        "title": "2026粤港澳大湾区文投会累计意向签约金额约86亿元",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738755.shtml",
-        "publishedAt": "2026-11-27T15:46:25.000+08:00"
+        "title": "赫章县同心青少年成长中心落成启用仪式举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738777.shtml",
+        "publishedAt": "2026-11-27T15:58:57.000+08:00"
       },
       {
-        "title": "2026海口马拉松12月开跑 2万跑友驰骋滨海赛道",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738752.shtml",
-        "publishedAt": "2026-11-27T15:46:21.000+08:00"
+        "title": "浙江宁波“空中120”扩容 立体医疗救援能力再升级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738767.shtml",
+        "publishedAt": "2026-11-27T15:58:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T16:00:02.552+08:00",
+    "fetchedAt": "2026-11-27T16:10:02.690+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T16:00:06.629+08:00",
+      "fetchedAt": "2026-11-27T16:10:06.359+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 19,
+          "usedPct": 21,
           "resetAt": "2026-11-27T20:11:23.000+08:00"
         },
         {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T16:00:07.070+08:00",
+      "fetchedAt": "2026-11-27T16:10:06.715+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T16:00:07.073+08:00",
+      "fetchedAt": "2026-11-27T16:10:06.720+08:00",
       "error": null
     }
   }
