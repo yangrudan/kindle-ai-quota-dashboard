@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T08:10:08.366+08:00",
+  "updatedAt": "2026-11-27T08:20:08.963+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.3,
-    "feelsLikeC": 8.6,
-    "humidity": 82,
-    "windKph": 6.4,
+    "tempC": 11,
+    "feelsLikeC": 9.5,
+    "humidity": 80,
+    "windKph": 5.8,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-27T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T08:10:08.366+08:00",
+    "observedAt": "2026-11-27T08:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T08:20:08.963+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普批准美国佛州重大灾害声明",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738495.shtml",
+        "publishedAt": "2026-11-27T08:11:50.000+08:00"
+      },
+      {
+        "title": "微信聊天截图能当证据吗",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738494.shtml",
+        "publishedAt": "2026-11-27T08:03:34.000+08:00"
+      },
+      {
+        "title": "首个农耕文明领域大模型“天稷”发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738492.shtml",
+        "publishedAt": "2026-11-27T07:58:27.000+08:00"
+      },
       {
         "title": "2027丁未（羊）年贵金属纪念币今日发行",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738491.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "别把“豆包”当医生",
         "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738490.shtml",
         "publishedAt": "2026-11-27T07:54:31.000+08:00"
-      },
-      {
-        "title": "U17男足世界杯中国队8-0大胜斐济队 成功晋级32强淘汰赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738489.shtml",
-        "publishedAt": "2026-11-27T07:51:09.000+08:00"
-      },
-      {
-        "title": "主打潜江小龙虾、岳阳烧烤、柳州螺蛳粉 “风味”学院 对味产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738488.shtml",
-        "publishedAt": "2026-11-27T07:45:19.000+08:00"
-      },
-      {
-        "title": "泽连斯基任命乌武装部队支援部队新任司令",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738487.shtml",
-        "publishedAt": "2026-11-27T07:41:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T08:10:03.189+08:00",
+    "fetchedAt": "2026-11-27T08:20:03.289+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T08:10:06.915+08:00",
+      "fetchedAt": "2026-11-27T08:20:07.421+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T13:10:08.000+08:00"
+          "resetAt": "2026-11-27T13:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T08:10:07.237+08:00",
+      "fetchedAt": "2026-11-27T08:20:07.727+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T08:10:07.246+08:00",
+      "fetchedAt": "2026-11-27T08:20:07.731+08:00",
       "error": null
     }
   }
