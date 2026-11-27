@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T21:40:08.550+08:00",
+  "updatedAt": "2026-11-27T21:50:38.299+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.7,
-    "feelsLikeC": 10.5,
-    "humidity": 66,
-    "windKph": 8.6,
-    "windDir": "西北风",
+    "tempC": 12.3,
+    "feelsLikeC": 10.2,
+    "humidity": 68,
+    "windKph": 7.8,
+    "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-27T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T21:40:08.550+08:00",
+    "observedAt": "2026-11-27T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T21:50:38.299+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "哈萨克斯坦70名大学生运动员将赴长春参加大冬会",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739031.shtml",
-        "publishedAt": "2026-11-27T21:33:03.000+08:00"
+        "title": "“九州攸同——周秦汉唐文物特展”在广西南宁启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739042.shtml",
+        "publishedAt": "2026-11-27T21:44:02.000+08:00"
       },
       {
-        "title": "中方学者：亚太作为合作高地的基本面没有变",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739030.shtml",
-        "publishedAt": "2026-11-27T21:31:31.000+08:00"
+        "title": "中国有望建成全球首个核聚变能源工程供热示范堆先导堆型",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739040.shtml",
+        "publishedAt": "2026-11-27T21:41:06.000+08:00"
       },
       {
-        "title": "11月27日新闻夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-27/10739062.shtml",
-        "publishedAt": "2026-11-27T21:29:25.000+08:00"
+        "title": "2026—2027赛季国际滑联短道速滑世巡赛上海站开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739038.shtml",
+        "publishedAt": "2026-11-27T21:40:18.000+08:00"
       },
       {
-        "title": "我国成功发射遥感五十号04星",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739061.shtml",
-        "publishedAt": "2026-11-27T21:29:11.000+08:00"
+        "title": "中国成功发射遥感五十号04星",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211859.shtml",
+        "publishedAt": "2026-11-27T21:38:40.000+08:00"
       },
       {
-        "title": "浙江将推进6G创新发展部省协同试点 筑牢产业数智化底座",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739051.shtml",
-        "publishedAt": "2026-11-27T21:24:49.000+08:00"
+        "title": "中山：做好“侨”文章 让项目蓝图在生产线上“跑起来”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-27/10739035.shtml",
+        "publishedAt": "2026-11-27T21:38:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T21:40:02.683+08:00",
+    "fetchedAt": "2026-11-27T21:50:02.356+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T21:40:07.039+08:00",
+      "fetchedAt": "2026-11-27T21:50:35.842+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T02:40:08.000+08:00"
+          "resetAt": "2026-11-28T02:50:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T21:40:07.416+08:00",
+      "fetchedAt": "2026-11-27T21:50:36.117+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T21:40:07.424+08:00",
+      "fetchedAt": "2026-11-27T21:50:36.124+08:00",
       "error": null
     }
   }
