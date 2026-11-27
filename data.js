@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T13:10:39.575+08:00",
+  "updatedAt": "2026-11-27T13:20:38.867+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.5,
+    "tempC": 20.7,
     "feelsLikeC": 19.4,
     "humidity": 41,
-    "windKph": 3.8,
+    "windKph": 4,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-27T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T13:10:39.575+08:00",
+    "observedAt": "2026-11-27T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T13:20:38.867+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "感冒、流感还是肺炎？出现这些症状千万别拖",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738660.shtml",
-        "publishedAt": "2026-11-27T13:02:00.000+08:00"
+        "title": "两岸民众“串门”热：“小三通”攻略走红，旺盛需求呼唤松绑运力",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738666.shtml",
+        "publishedAt": "2026-11-27T13:16:01.000+08:00"
       },
       {
-        "title": "配备星链终端、搭载高爆炸药，乌无人艇在非洲突袭俄战舰",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738656.shtml",
-        "publishedAt": "2026-11-27T13:01:20.000+08:00"
+        "title": "跨越山海侨聚宜春——八国侨团宜春考察纪行",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738665.shtml",
+        "publishedAt": "2026-11-27T13:15:53.000+08:00"
       },
       {
-        "title": "一碗饭背后的牵挂，何以成为治愈良药？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738643.shtml",
-        "publishedAt": "2026-11-27T13:00:48.000+08:00"
+        "title": "伊朗外长回应两名意大利人在科威特身亡：疑点重重",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738661.shtml",
+        "publishedAt": "2026-11-27T13:13:28.000+08:00"
       },
       {
-        "title": "参观万吨大驱、与准航母合影，这份航展特殊攻略请收好",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738655.shtml",
-        "publishedAt": "2026-11-27T13:00:20.000+08:00"
+        "title": "云岭动态第五十期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738663.shtml",
+        "publishedAt": "2026-11-27T13:10:44.000+08:00"
       },
       {
-        "title": "把体育“一阵火”变消费“长久热”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738659.shtml",
-        "publishedAt": "2026-11-27T12:59:16.000+08:00"
+        "title": "39岁男警员在警署一洗手间内死亡，香港警方通报：将安排验尸",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738664.shtml",
+        "publishedAt": "2026-11-27T13:10:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T13:10:03.778+08:00",
+    "fetchedAt": "2026-11-27T13:20:03.241+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T13:10:37.989+08:00",
+      "fetchedAt": "2026-11-27T13:20:37.505+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T13:10:38.506+08:00",
+      "fetchedAt": "2026-11-27T13:20:37.733+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T13:10:38.509+08:00",
+      "fetchedAt": "2026-11-27T13:20:37.742+08:00",
       "error": null
     }
   }
