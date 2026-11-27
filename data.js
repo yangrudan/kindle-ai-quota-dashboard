@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T15:00:09.276+08:00",
+  "updatedAt": "2026-11-27T15:10:37.949+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-27T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T15:00:09.276+08:00",
+    "fetchedAt": "2026-11-27T15:10:37.950+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从手工取样到智能智造 仿真花“开”出亿级大市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738701.shtml",
-        "publishedAt": "2026-11-27T14:49:08.000+08:00"
+        "title": "中国香港墙球代表队祝捷大会在港举办 庆祝于国际赛事连创佳绩",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738710.shtml",
+        "publishedAt": "2026-11-27T15:07:23.000+08:00"
       },
       {
-        "title": "11月27日“农产品批发价格200指数”比昨天上升0.18个点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738693.shtml",
-        "publishedAt": "2026-11-27T14:48:22.000+08:00"
+        "title": "一排奖一答案：奕境X9甫一上市就获多方关注",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738692.shtml",
+        "publishedAt": "2026-11-27T15:06:59.000+08:00"
       },
       {
-        "title": "金价大涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738694.shtml",
-        "publishedAt": "2026-11-27T14:43:53.000+08:00"
+        "title": "2026“创客中国”国际中小企业创新创业大赛在穗举行 香港项目夺冠",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738707.shtml",
+        "publishedAt": "2026-11-27T15:06:21.000+08:00"
       },
       {
-        "title": "不法分子如何批量盗取学历信息？黑灰产链条曝光",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738691.shtml",
-        "publishedAt": "2026-11-27T14:35:19.000+08:00"
+        "title": "河南“入境旅客首站服务中心”在郑州启用",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738706.shtml",
+        "publishedAt": "2026-11-27T15:06:17.000+08:00"
       },
       {
-        "title": "小仙炖以品类创新拉动产业链升级｜一碗鲜炖燕窝背后，中国消费创新的亚太溢出效应",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738690.shtml",
-        "publishedAt": "2026-11-27T14:30:27.000+08:00"
+        "title": "A股收评：全线“爆发日”，超5300只个股飘红",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738730.shtml",
+        "publishedAt": "2026-11-27T15:06:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T15:00:03.240+08:00",
+    "fetchedAt": "2026-11-27T15:10:03.133+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T14:59:39.660+08:00",
+      "fetchedAt": "2026-11-27T15:10:36.447+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T20:00:09.000+08:00"
+          "resetAt": "2026-11-27T20:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T15:00:07.984+08:00",
+      "fetchedAt": "2026-11-27T15:10:36.726+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T15:00:07.988+08:00",
+      "fetchedAt": "2026-11-27T15:10:36.739+08:00",
       "error": null
     }
   }
