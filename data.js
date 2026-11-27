@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T18:20:09.659+08:00",
+  "updatedAt": "2026-11-27T18:30:09.609+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.5,
-    "feelsLikeC": 13,
+    "tempC": 15.3,
+    "feelsLikeC": 12.7,
     "humidity": 60,
-    "windKph": 13,
+    "windKph": 13.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T18:20:09.659+08:00",
+    "observedAt": "2026-11-27T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T18:30:09.609+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "大范围回暖将席卷南北方 大城市升温日历看哪里会暖到破纪录",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738914.shtml",
+        "publishedAt": "2026-11-27T18:23:17.000+08:00"
+      },
+      {
+        "title": "《全民数字素养与技能调查报告（2026年）》发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738908.shtml",
+        "publishedAt": "2026-11-27T18:21:01.000+08:00"
+      },
+      {
+        "title": "中国建设银行青岛市分行原行长郝子建被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738911.shtml",
+        "publishedAt": "2026-11-27T18:19:29.000+08:00"
+      },
+      {
+        "title": "配备雷达、能打导弹、可回传战况，三款外贸战车亮相珠海",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738907.shtml",
+        "publishedAt": "2026-11-27T18:16:49.000+08:00"
+      },
+      {
         "title": "中国工商界呼吁美方撤回拟议加税措施",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738906.shtml",
         "publishedAt": "2026-11-27T18:14:35.000+08:00"
-      },
-      {
-        "title": "A股周五放量大涨 创业板指涨逾11％",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738905.shtml",
-        "publishedAt": "2026-11-27T18:13:39.000+08:00"
-      },
-      {
-        "title": "上海“架桥”推动生物医药创新 呼吁更多耐心资本",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738904.shtml",
-        "publishedAt": "2026-11-27T18:11:33.000+08:00"
-      },
-      {
-        "title": "哈尔滨工程大学深海机器人研究院成立",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738903.shtml",
-        "publishedAt": "2026-11-27T18:10:08.000+08:00"
-      },
-      {
-        "title": "武汉预期到2030年人均寿命达84.2岁",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738902.shtml",
-        "publishedAt": "2026-11-27T18:08:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T18:20:04.135+08:00",
+    "fetchedAt": "2026-11-27T18:30:03.610+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T18:20:08.221+08:00",
+      "fetchedAt": "2026-11-27T18:30:08.270+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T18:20:08.436+08:00",
+      "fetchedAt": "2026-11-27T18:30:08.482+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T18:20:08.444+08:00",
+      "fetchedAt": "2026-11-27T18:30:08.489+08:00",
       "error": null
     }
   }
