@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T16:50:09.060+08:00",
+  "updatedAt": "2026-11-27T17:00:08.857+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.8,
-    "feelsLikeC": 15.6,
-    "humidity": 53,
-    "windKph": 11.2,
+    "tempC": 17.2,
+    "feelsLikeC": 15,
+    "humidity": 55,
+    "windKph": 11.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T16:50:09.060+08:00",
+    "observedAt": "2026-11-27T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T17:00:08.857+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "店员被要求全程口播、无客也需喊话？茶颜悦色回应",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738825.shtml",
-        "publishedAt": "2026-11-27T16:47:50.000+08:00"
+        "title": "国常会通稿首提“国家队”，A股迎稳市强信号",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738834.shtml",
+        "publishedAt": "2026-11-27T16:56:14.000+08:00"
       },
       {
-        "title": "当他们有了“新职务”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738824.shtml",
-        "publishedAt": "2026-11-27T16:47:46.000+08:00"
+        "title": "市场监管总局集中约谈15家电动自行车企业",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738819.shtml",
+        "publishedAt": "2026-11-27T16:51:44.000+08:00"
       },
       {
-        "title": "菌草，岛国农业的新希望",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738829.shtml",
-        "publishedAt": "2026-11-27T16:46:40.000+08:00"
+        "title": "鼓吹“产能过剩论”，解不开全球经济失衡症结",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738836.shtml",
+        "publishedAt": "2026-11-27T16:49:44.000+08:00"
       },
       {
-        "title": "第二十八届高交会：机器人足球赛受关注",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10738816.shtml",
-        "publishedAt": "2026-11-27T16:45:52.000+08:00"
+        "title": "“援”定天山：广交会对接喀交会 双向出海",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738827.shtml",
+        "publishedAt": "2026-11-27T16:48:56.000+08:00"
       },
       {
-        "title": "拉美媒体积极报道中国航天国际合作成果",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738828.shtml",
-        "publishedAt": "2026-11-27T16:44:16.000+08:00"
+        "title": "民进2026年社会服务主题年工作总结会议在京召开",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738826.shtml",
+        "publishedAt": "2026-11-27T16:48:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T16:50:03.105+08:00",
+    "fetchedAt": "2026-11-27T17:00:03.070+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T16:50:07.191+08:00",
+      "fetchedAt": "2026-11-27T17:00:07.412+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 40,
+          "usedPct": 47,
           "resetAt": "2026-11-27T20:11:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 11,
+          "usedPct": 12,
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T16:50:07.554+08:00",
+      "fetchedAt": "2026-11-27T17:00:07.701+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T16:50:07.557+08:00",
+      "fetchedAt": "2026-11-27T17:00:07.710+08:00",
       "error": null
     }
   }
