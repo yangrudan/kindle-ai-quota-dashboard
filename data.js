@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T13:00:08.762+08:00",
+  "updatedAt": "2026-11-27T13:10:39.575+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-27T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T13:00:08.762+08:00",
+    "fetchedAt": "2026-11-27T13:10:39.575+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "生态环境部：今年50个河湖入选第五批美丽河湖优秀案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738654.shtml",
-        "publishedAt": "2026-11-27T12:49:07.000+08:00"
+        "title": "感冒、流感还是肺炎？出现这些症状千万别拖",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738660.shtml",
+        "publishedAt": "2026-11-27T13:02:00.000+08:00"
       },
       {
-        "title": "《网络视听领域版权保护行业自律公约》发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738649.shtml",
-        "publishedAt": "2026-11-27T12:47:23.000+08:00"
+        "title": "配备星链终端、搭载高爆炸药，乌无人艇在非洲突袭俄战舰",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738656.shtml",
+        "publishedAt": "2026-11-27T13:01:20.000+08:00"
       },
       {
-        "title": "李强主持召开国务院常务会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738652.shtml",
-        "publishedAt": "2026-11-27T12:31:00.000+08:00"
+        "title": "一碗饭背后的牵挂，何以成为治愈良药？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738643.shtml",
+        "publishedAt": "2026-11-27T13:00:48.000+08:00"
       },
       {
-        "title": "全国95所高校队伍在重庆比拼AI应用能力",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-27/10738640.shtml",
-        "publishedAt": "2026-11-27T12:28:04.000+08:00"
+        "title": "参观万吨大驱、与准航母合影，这份航展特殊攻略请收好",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738655.shtml",
+        "publishedAt": "2026-11-27T13:00:20.000+08:00"
       },
       {
-        "title": "安徽三条高铁齐开 5个县告别不通高铁历史",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738650.shtml",
-        "publishedAt": "2026-11-27T12:27:18.000+08:00"
+        "title": "把体育“一阵火”变消费“长久热”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738659.shtml",
+        "publishedAt": "2026-11-27T12:59:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T13:00:02.675+08:00",
+    "fetchedAt": "2026-11-27T13:10:03.778+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T13:00:07.069+08:00",
+      "fetchedAt": "2026-11-27T13:10:37.989+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T13:00:07.428+08:00",
+      "fetchedAt": "2026-11-27T13:10:38.506+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T13:00:07.437+08:00",
+      "fetchedAt": "2026-11-27T13:10:38.509+08:00",
       "error": null
     }
   }
