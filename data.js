@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T17:40:07.954+08:00",
+  "updatedAt": "2026-11-27T17:50:39.800+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.4,
-    "feelsLikeC": 14.1,
-    "humidity": 57,
-    "windKph": 12,
+    "tempC": 16.1,
+    "feelsLikeC": 13.8,
+    "humidity": 58,
+    "windKph": 12.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T17:40:07.955+08:00",
+    "observedAt": "2026-11-27T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T17:50:39.800+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "安徽省民政厅原党组成员、巡视员王佛生接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738880.shtml",
-        "publishedAt": "2026-11-27T17:33:30.000+08:00"
+        "title": "泸州：深耕基层统战 铸牢同心根基",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738885.shtml",
+        "publishedAt": "2026-11-27T17:44:29.000+08:00"
       },
       {
-        "title": "广东省珠海市人大常委会原副主任邓群芳接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738878.shtml",
-        "publishedAt": "2026-11-27T17:32:54.000+08:00"
+        "title": "“粤创未来”FUN享会在南沙举行 港澳青年组团“取经”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738887.shtml",
+        "publishedAt": "2026-11-27T17:44:09.000+08:00"
       },
       {
-        "title": "杨典短篇小说集《颠倒》新书交流会在京举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738865.shtml",
-        "publishedAt": "2026-11-27T17:32:48.000+08:00"
+        "title": "2026火炬论坛在安徽芜湖开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738891.shtml",
+        "publishedAt": "2026-11-27T17:43:33.000+08:00"
       },
       {
-        "title": "浙江大学金融研究院上市公司研究中心原主任包纯田接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738875.shtml",
-        "publishedAt": "2026-11-27T17:31:52.000+08:00"
+        "title": "2026年奥林匹克博物馆联盟全会在北京举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738888.shtml",
+        "publishedAt": "2026-11-27T17:42:53.000+08:00"
       },
       {
-        "title": "“中国洋浦港”船籍港集聚效应持续释放",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738864.shtml",
-        "publishedAt": "2026-11-27T17:31:50.000+08:00"
+        "title": "全球首个海洋通用基座大模型“沧穹 CEORION”发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738889.shtml",
+        "publishedAt": "2026-11-27T17:42:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T17:40:02.594+08:00",
+    "fetchedAt": "2026-11-27T17:50:03.974+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T17:40:06.683+08:00",
+      "fetchedAt": "2026-11-27T17:50:38.051+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T17:40:06.900+08:00",
+      "fetchedAt": "2026-11-27T17:50:38.357+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T17:40:06.909+08:00",
+      "fetchedAt": "2026-11-27T17:50:38.366+08:00",
       "error": null
     }
   }
