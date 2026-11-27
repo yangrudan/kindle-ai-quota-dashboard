@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T11:40:39.214+08:00",
+  "updatedAt": "2026-11-27T11:50:08.644+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.2,
-    "feelsLikeC": 18.6,
-    "humidity": 48,
+    "tempC": 19.5,
+    "feelsLikeC": 18.9,
+    "humidity": 47,
     "windKph": 3.6,
     "windDir": "西南风",
     "place": "杭州",
-    "observedAt": "2026-11-27T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T11:40:39.214+08:00",
+    "observedAt": "2026-11-27T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T11:50:08.644+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从“不被打扰”的藏羚羊，看西藏生物多样性保护成效丨真相",
+        "url": "https://www.chinanews.com.cn/chuangyi/2026/11-27/10738629.shtml",
+        "publishedAt": "2026-11-27T11:43:06.000+08:00"
+      },
+      {
+        "title": "A股午评：大科技“奇迹日”，超4600只个股上涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738642.shtml",
+        "publishedAt": "2026-11-27T11:42:50.000+08:00"
+      },
+      {
+        "title": "泰国曼谷一炼油厂发生爆炸 现场浓烟滚滚造成至少7人受伤",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211781.shtml",
+        "publishedAt": "2026-11-27T11:42:18.000+08:00"
+      },
       {
         "title": "AI二创 正在重写IP规则",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738628.shtml",
@@ -28,24 +43,9 @@
         "title": "从跋涉山路到守护“天路”：西藏嘎玛旺扎的铁路人生",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738627.shtml",
         "publishedAt": "2026-11-27T11:29:53.000+08:00"
-      },
-      {
-        "title": "宿舍“条件差”引关注 三只松鼠致歉整改",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738626.shtml",
-        "publishedAt": "2026-11-27T11:28:43.000+08:00"
-      },
-      {
-        "title": "海外媒体记者和网络博主感知重庆秋韵",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-27/10738624.shtml",
-        "publishedAt": "2026-11-27T11:28:11.000+08:00"
-      },
-      {
-        "title": "美国大幅上修GDP至4.3%，特朗普“炮轰”商务部",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738625.shtml",
-        "publishedAt": "2026-11-27T11:25:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T11:40:03.168+08:00",
+    "fetchedAt": "2026-11-27T11:50:02.830+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T11:40:37.126+08:00",
+      "fetchedAt": "2026-11-27T11:50:07.213+08:00",
       "error": null
     },
     "codex": {
@@ -69,7 +69,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 10,
           "resetAt": "2026-11-27T14:49:46.000+08:00"
         },
         {
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T11:40:37.357+08:00",
+      "fetchedAt": "2026-11-27T11:50:07.468+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T11:40:37.361+08:00",
+      "fetchedAt": "2026-11-27T11:50:07.475+08:00",
       "error": null
     }
   }
