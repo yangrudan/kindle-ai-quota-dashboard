@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T17:10:09.197+08:00",
+  "updatedAt": "2026-11-27T17:20:09.026+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.2,
-    "feelsLikeC": 15,
-    "humidity": 55,
-    "windKph": 11.4,
+    "tempC": 16.8,
+    "feelsLikeC": 14.5,
+    "humidity": 56,
+    "windKph": 11.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T17:10:09.197+08:00",
+    "observedAt": "2026-11-27T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T17:20:09.026+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026未来能源大会在北京召开 共探变局下能源绿色发展路径",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738848.shtml",
-        "publishedAt": "2026-11-27T17:03:35.000+08:00"
+        "title": "（经济观察）国务院常务会议“把脉”资本市场 释放三大关键信号",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738857.shtml",
+        "publishedAt": "2026-11-27T17:08:35.000+08:00"
       },
       {
-        "title": "宁夏援贝宁“光明行”医疗队历经4小时保住患者眼球",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738846.shtml",
-        "publishedAt": "2026-11-27T17:02:45.000+08:00"
+        "title": "残疾人、老年人代表当“验收员” 江西立法推进无障碍环境建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738854.shtml",
+        "publishedAt": "2026-11-27T17:07:43.000+08:00"
       },
       {
-        "title": "民革宜春市委会赴靖安县开展优化营商环境民主监督调研",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738847.shtml",
-        "publishedAt": "2026-11-27T17:02:41.000+08:00"
+        "title": "黄埔海关启用“一单两报” 粤港跨境贸易便利化再上新台阶",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738850.shtml",
+        "publishedAt": "2026-11-27T17:06:57.000+08:00"
       },
       {
-        "title": "重庆市社会各界纪念“11·27”烈士殉难77周年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738842.shtml",
-        "publishedAt": "2026-11-27T17:01:49.000+08:00"
+        "title": "第二十四届广州国际汽车展览会开展",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10738852.shtml",
+        "publishedAt": "2026-11-27T17:05:43.000+08:00"
       },
       {
-        "title": "非法收受财物5.87亿余元 蓝天立一审被判死缓",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738856.shtml",
-        "publishedAt": "2026-11-27T17:01:33.000+08:00"
+        "title": "重庆亮实招、硬招推进作风建设常态化、长效化",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738851.shtml",
+        "publishedAt": "2026-11-27T17:05:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T17:10:02.793+08:00",
+    "fetchedAt": "2026-11-27T17:20:03.235+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T17:10:07.144+08:00",
+      "fetchedAt": "2026-11-27T17:20:07.613+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T17:10:07.458+08:00",
+      "fetchedAt": "2026-11-27T17:20:08.017+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T17:10:07.468+08:00",
+      "fetchedAt": "2026-11-27T17:20:08.025+08:00",
       "error": null
     }
   }
