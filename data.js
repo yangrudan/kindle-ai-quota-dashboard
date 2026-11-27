@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T14:00:38.580+08:00",
+  "updatedAt": "2026-11-27T14:10:09.167+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-27T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T14:00:38.580+08:00",
+    "fetchedAt": "2026-11-27T14:10:09.167+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月中国规上工业企业利润同比增速加快至20.1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738676.shtml",
+        "publishedAt": "2026-11-27T13:58:51.000+08:00"
+      },
+      {
+        "title": "斯诺克英锦赛资格赛收官：丁俊晖逆转晋级 中国9人跻身正赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738679.shtml",
+        "publishedAt": "2026-11-27T13:57:47.000+08:00"
+      },
       {
         "title": "驾照过期算不算无证驾驶？新司法解释分情形划定边界",
         "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738678.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "生态环境部：移动源污染减排阶段性成效明显 实现“三个下降”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738675.shtml",
         "publishedAt": "2026-11-27T13:45:54.000+08:00"
-      },
-      {
-        "title": "五部门联合打击生态环境监测机构弄虚作假",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738673.shtml",
-        "publishedAt": "2026-11-27T13:37:36.000+08:00"
-      },
-      {
-        "title": "粤菜：岭南味道端上国宴",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738674.shtml",
-        "publishedAt": "2026-11-27T13:36:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T14:00:02.636+08:00",
+    "fetchedAt": "2026-11-27T14:10:03.077+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T14:00:36.451+08:00",
+      "fetchedAt": "2026-11-27T14:10:07.788+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T14:00:36.700+08:00",
+      "fetchedAt": "2026-11-27T14:10:08.180+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T14:00:36.710+08:00",
+      "fetchedAt": "2026-11-27T14:10:08.184+08:00",
       "error": null
     }
   }
