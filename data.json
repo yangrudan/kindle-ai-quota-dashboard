@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T20:10:08.794+08:00",
+  "updatedAt": "2026-11-27T20:20:09.398+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14,
-    "feelsLikeC": 11.3,
+    "tempC": 13.9,
+    "feelsLikeC": 11.2,
     "humidity": 62,
-    "windKph": 12.6,
+    "windKph": 12.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T20:10:08.794+08:00",
+    "observedAt": "2026-11-27T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T20:20:09.398+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美金融基建科技企业在香港设立首个亚太策略平台",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738994.shtml",
-        "publishedAt": "2026-11-27T20:05:05.000+08:00"
+        "title": "偷渡出境搞“裸聊”敲诈 恶势力集团首要分子获刑20年",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738985.shtml",
+        "publishedAt": "2026-11-27T20:14:13.000+08:00"
       },
       {
-        "title": "2026广州国际音响唱片展启幕 大批“发烧友”前来逛展",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738989.shtml",
-        "publishedAt": "2026-11-27T20:02:23.000+08:00"
+        "title": "日媒：涉嫌非法侵入住宅，一名驻日美军人员被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738996.shtml",
+        "publishedAt": "2026-11-27T20:13:39.000+08:00"
       },
       {
-        "title": "中国海警依法驱离日非法进入中国钓鱼岛领海船只",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738992.shtml",
-        "publishedAt": "2026-11-27T20:01:36.000+08:00"
+        "title": "汕头举行无人驾驶产业场景对接大会 推动智慧运力规模化建设",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738986.shtml",
+        "publishedAt": "2026-11-27T20:12:47.000+08:00"
       },
       {
-        "title": "上交所调整上证50、上证180等多个指数样本",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738978.shtml",
-        "publishedAt": "2026-11-27T20:00:18.000+08:00"
+        "title": "广西首支职业女篮队伍将出征中国女子篮球联赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738984.shtml",
+        "publishedAt": "2026-11-27T20:12:15.000+08:00"
       },
       {
-        "title": "国内自主国际会计网络总部在广州揭牌",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738990.shtml",
-        "publishedAt": "2026-11-27T20:00:02.000+08:00"
+        "title": "“书香阅世界·大使话往来”主题读书分享会在深圳举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738983.shtml",
+        "publishedAt": "2026-11-27T20:11:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T20:10:03.108+08:00",
+    "fetchedAt": "2026-11-27T20:20:03.495+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T20:10:07.482+08:00",
+      "fetchedAt": "2026-11-27T20:20:07.567+08:00",
       "error": null
     },
     "codex": {
@@ -69,8 +69,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 48,
-          "resetAt": "2026-11-27T20:11:23.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-28T01:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T20:10:07.758+08:00",
+      "fetchedAt": "2026-11-27T20:20:07.907+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T20:10:07.767+08:00",
+      "fetchedAt": "2026-11-27T20:20:07.916+08:00",
       "error": null
     }
   }
