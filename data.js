@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T18:50:07.779+08:00",
+  "updatedAt": "2026-11-27T19:00:13.668+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15,
-    "feelsLikeC": 12.4,
-    "humidity": 60,
+    "tempC": 14.8,
+    "feelsLikeC": 12.1,
+    "humidity": 61,
     "windKph": 13.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-27T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T18:50:07.779+08:00",
+    "observedAt": "2026-11-27T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T19:00:13.668+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《人民币存贷款利率管理规定》发布 2027年3月21日起施行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738929.shtml",
-        "publishedAt": "2026-11-27T18:45:02.000+08:00"
+        "title": "央行：将着手研究第三方平台等相关配套安排 保障大额存单转让有序开展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738948.shtml",
+        "publishedAt": "2026-11-27T18:55:59.000+08:00"
       },
       {
-        "title": "特朗普：黄仁勋重返英伟达是件“好事”，他本人也很高兴回归",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738926.shtml",
-        "publishedAt": "2026-11-27T18:43:44.000+08:00"
+        "title": "广西壮族自治区政府原主席蓝天立一审被判死缓",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738930.shtml",
+        "publishedAt": "2026-11-27T18:55:43.000+08:00"
       },
       {
-        "title": "中国证监会严肃查处两起编造传播证券市场误导性信息案件",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738924.shtml",
-        "publishedAt": "2026-11-27T18:43:36.000+08:00"
+        "title": "咖喱鹰嘴豆、黄油鸡，“天宫”餐桌“上新”国际味道",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738928.shtml",
+        "publishedAt": "2026-11-27T18:54:37.000+08:00"
       },
       {
-        "title": "鲁澳基层结对共建 携手共探基层治理新路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738916.shtml",
-        "publishedAt": "2026-11-27T18:42:14.000+08:00"
+        "title": "俄艺术家赴朝访问演出 金正恩到场观看并祝贺演出成功",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738947.shtml",
+        "publishedAt": "2026-11-27T18:54:17.000+08:00"
       },
       {
-        "title": "回应行业之变 “她”力量如何引领企业发展？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738915.shtml",
-        "publishedAt": "2026-11-27T18:41:28.000+08:00"
+        "title": "央行发布人民币存贷款利率管理新规：不再对罚息利率区间进行具体规定",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738946.shtml",
+        "publishedAt": "2026-11-27T18:53:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T18:50:02.528+08:00",
+    "fetchedAt": "2026-11-27T19:00:02.565+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T18:50:06.568+08:00",
+      "fetchedAt": "2026-11-27T19:00:11.695+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T18:50:06.887+08:00",
+      "fetchedAt": "2026-11-27T19:00:12.000+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-27T18:50:06.894+08:00",
+      "fetchedAt": "2026-11-27T19:00:12.009+08:00",
       "error": null
     }
   }
