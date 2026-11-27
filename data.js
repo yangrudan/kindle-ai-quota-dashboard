@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T12:30:09.427+08:00",
+  "updatedAt": "2026-11-27T12:40:09.151+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "杭州",
     "observedAt": "2026-11-27T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T12:30:09.427+08:00",
+    "fetchedAt": "2026-11-27T12:40:09.151+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "李强主持召开国务院常务会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738652.shtml",
+        "publishedAt": "2026-11-27T12:31:00.000+08:00"
+      },
+      {
+        "title": "全国95所高校队伍在重庆比拼AI应用能力",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-27/10738640.shtml",
+        "publishedAt": "2026-11-27T12:28:04.000+08:00"
+      },
+      {
+        "title": "安徽三条高铁齐开 5个县告别不通高铁历史",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738650.shtml",
+        "publishedAt": "2026-11-27T12:27:18.000+08:00"
+      },
+      {
+        "title": "专访前联合国官员：中国能源转型经验可为发展中国家提供借鉴，南南合作潜力巨大｜新闻会客厅",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738608.shtml",
+        "publishedAt": "2026-11-27T12:27:10.000+08:00"
+      },
+      {
         "title": "世界首台380吨级高速动平衡试验系统完成交付",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738639.shtml",
         "publishedAt": "2026-11-27T12:24:56.000+08:00"
-      },
-      {
-        "title": "COP31观察员、挪威国际核查公司负责人：别忘记中国在环保领域做了很多，期待学习更多｜新闻会客厅",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738609.shtml",
-        "publishedAt": "2026-11-27T12:23:56.000+08:00"
-      },
-      {
-        "title": "国务院任免国家工作人员",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738648.shtml",
-        "publishedAt": "2026-11-27T12:16:25.000+08:00"
-      },
-      {
-        "title": "西渝高铁康渝段陕西境内“四电”工程建设拉开帷幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738637.shtml",
-        "publishedAt": "2026-11-27T12:15:11.000+08:00"
-      },
-      {
-        "title": "广东广宁：百万亩竹海如何长成百亿产业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738638.shtml",
-        "publishedAt": "2026-11-27T12:15:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T12:30:03.340+08:00",
+    "fetchedAt": "2026-11-27T12:40:02.803+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-27T12:30:08.078+08:00",
+      "fetchedAt": "2026-11-27T12:40:07.405+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T12:30:08.353+08:00",
+      "fetchedAt": "2026-11-27T12:40:07.718+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.55,
       "currency": "CNY",
       "detail": "余额 ¥5.55",
-      "fetchedAt": "2026-11-27T12:30:08.362+08:00",
+      "fetchedAt": "2026-11-27T12:40:07.723+08:00",
       "error": null
     }
   }
