@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T11:00:38.213+08:00",
+  "updatedAt": "2026-11-28T11:10:08.630+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-28T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T11:00:38.214+08:00",
+    "fetchedAt": "2026-11-28T11:10:08.631+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739149.shtml",
+        "publishedAt": "2026-11-28T11:04:28.000+08:00"
+      },
       {
         "title": "废旧X光片能炼银？千万别试！不仅危险，还可能违法",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739158.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "舞剧《天工开物》在海南省歌舞剧院上演",
         "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739150.shtml",
         "publishedAt": "2026-11-28T10:50:21.000+08:00"
-      },
-      {
-        "title": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739154.shtml",
-        "publishedAt": "2026-11-28T10:50:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T11:00:02.532+08:00",
+    "fetchedAt": "2026-11-28T11:10:03.504+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T11:00:36.547+08:00",
+      "fetchedAt": "2026-11-28T11:10:07.146+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T11:00:36.934+08:00",
+      "fetchedAt": "2026-11-28T11:10:07.428+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T11:00:36.937+08:00",
+      "fetchedAt": "2026-11-28T11:10:07.432+08:00",
       "error": null
     }
   }
