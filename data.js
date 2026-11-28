@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T09:30:38.453+08:00",
+  "updatedAt": "2026-11-28T09:40:08.704+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "杭州",
     "observedAt": "2026-11-28T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T09:30:38.453+08:00",
+    "fetchedAt": "2026-11-28T09:40:08.704+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《习近平的文化情缘》在斯里兰卡主流媒体播出",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739111.shtml",
-        "publishedAt": "2026-11-28T09:12:04.000+08:00"
+        "title": "外媒关注中国空间站首次迎来外国航天员：中国航天国际合作迈出新步伐",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739121.shtml",
+        "publishedAt": "2026-11-28T09:34:13.000+08:00"
       },
       {
-        "title": "冷空气继续影响东部海区 新疆将有大范围降雪天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739102.shtml",
-        "publishedAt": "2026-11-28T08:55:21.000+08:00"
+        "title": "中国代表团出席《禁化武公约》第31届缔约国大会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739116.shtml",
+        "publishedAt": "2026-11-28T09:33:59.000+08:00"
       },
       {
-        "title": "北京永定河故道沉船发掘始末：当时发生了什么？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739110.shtml",
-        "publishedAt": "2026-11-28T08:53:21.000+08:00"
+        "title": "浙江嘉兴“三件冬衣”搭上出海新通道 拓宽共富之路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739114.shtml",
+        "publishedAt": "2026-11-28T09:32:11.000+08:00"
       },
       {
-        "title": "三星堆金面具正在变脆，如何保护",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739106.shtml",
-        "publishedAt": "2026-11-28T08:49:23.000+08:00"
+        "title": "这场“双向奔赴”，又添新意",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-28/10739119.shtml",
+        "publishedAt": "2026-11-28T09:30:53.000+08:00"
       },
       {
-        "title": "普京出席新型核潜艇升旗仪式：将继续发展完善海军力量",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739105.shtml",
-        "publishedAt": "2026-11-28T08:45:08.000+08:00"
+        "title": "“案藏联韵——楹联档案文化展”在杭开展",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739115.shtml",
+        "publishedAt": "2026-11-28T09:30:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T09:30:03.205+08:00",
+    "fetchedAt": "2026-11-28T09:40:03.308+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T09:30:36.939+08:00",
+      "fetchedAt": "2026-11-28T09:40:07.390+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T09:30:37.210+08:00",
+      "fetchedAt": "2026-11-28T09:40:07.686+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T09:30:37.219+08:00",
+      "fetchedAt": "2026-11-28T09:40:07.694+08:00",
       "error": null
     }
   }
