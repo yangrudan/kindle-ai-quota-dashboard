@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T08:20:37.439+08:00",
+  "updatedAt": "2026-11-28T08:30:13.289+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.4,
-    "feelsLikeC": 8.2,
-    "humidity": 71,
-    "windKph": 7.1,
+    "tempC": 11.3,
+    "feelsLikeC": 9.2,
+    "humidity": 69,
+    "windKph": 6.5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-28T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-28T08:20:37.440+08:00",
+    "observedAt": "2026-11-28T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-28T08:30:13.289+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "每人每月补助5000元 澳门居民珠海养老服务落地",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-28/10739100.shtml",
+        "publishedAt": "2026-11-28T08:26:31.000+08:00"
+      },
       {
         "title": "11月28日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-28/10739099.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "美官员称美国空军云计算平台遭黑客入侵",
         "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739096.shtml",
         "publishedAt": "2026-11-28T06:44:34.000+08:00"
-      },
-      {
-        "title": "多国商界人士和投资者汇聚金边探索柬埔寨合作发展机遇",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739095.shtml",
-        "publishedAt": "2026-11-28T06:41:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T08:20:02.606+08:00",
+    "fetchedAt": "2026-11-28T08:30:03.233+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T08:20:36.122+08:00",
+      "fetchedAt": "2026-11-28T08:30:11.915+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-28T13:20:37.000+08:00"
+          "usedPct": 4,
+          "resetAt": "2026-11-28T13:21:36.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 13,
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T08:20:36.426+08:00",
+      "fetchedAt": "2026-11-28T08:30:12.229+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T08:20:36.430+08:00",
+      "fetchedAt": "2026-11-28T08:30:12.238+08:00",
       "error": null
     }
   }
