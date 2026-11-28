@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T20:50:08.719+08:00",
+  "updatedAt": "2026-11-28T21:00:09.463+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.3,
-    "feelsLikeC": 6.8,
-    "humidity": 60,
-    "windKph": 4.5,
+    "tempC": 9.1,
+    "feelsLikeC": 6.6,
+    "humidity": 61,
+    "windKph": 4.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T20:50:08.720+08:00",
+    "observedAt": "2026-11-28T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T21:00:09.463+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "专家学者湖北枝江共探乡村阅读提质新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739393.shtml",
-        "publishedAt": "2026-11-28T20:42:23.000+08:00"
+        "title": "2026南迦巴瓦文化艺术交流月“幸福舞台·活力林芝”村 T·乡村服饰风情秀专场举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739405.shtml",
+        "publishedAt": "2026-11-28T20:53:36.000+08:00"
       },
       {
-        "title": "红气球挑战赛在京举行 400余名大学生和志愿者“快乐学急救”",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-28/10739391.shtml",
-        "publishedAt": "2026-11-28T20:40:59.000+08:00"
+        "title": "2026世界湾区帆船赛在深圳鸣笛启航",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739375.shtml",
+        "publishedAt": "2026-11-28T20:52:42.000+08:00"
       },
       {
-        "title": "一天走过八千年：海外留学生在河南漯河开启“文化闯关”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739390.shtml",
-        "publishedAt": "2026-11-28T20:40:53.000+08:00"
+        "title": "文明探源新进展！专家解码“何以岭南”｜文化中国行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739410.shtml",
+        "publishedAt": "2026-11-28T20:52:40.000+08:00"
       },
       {
-        "title": "近500名全国骑行爱好者“骑”聚广州增城",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739388.shtml",
-        "publishedAt": "2026-11-28T20:38:21.000+08:00"
+        "title": "作家刘震云：文学的底色一定是哲学",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739403.shtml",
+        "publishedAt": "2026-11-28T20:52:36.000+08:00"
       },
       {
-        "title": "咖啡香里藏善意 重庆一社区招募“微光合伙人”探索公益新模式",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739386.shtml",
-        "publishedAt": "2026-11-28T20:38:15.000+08:00"
+        "title": "陈鲁豫新书《岩中花述·当后来发生》全国首发活动在渝举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739373.shtml",
+        "publishedAt": "2026-11-28T20:51:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T20:50:03.049+08:00",
+    "fetchedAt": "2026-11-28T21:00:03.815+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T20:50:07.280+08:00",
+      "fetchedAt": "2026-11-28T21:00:08.017+08:00",
       "error": null
     },
     "codex": {
@@ -69,16 +69,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 4,
           "resetAt": "2026-11-29T01:47:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 13,
+          "usedPct": 14,
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T20:50:07.462+08:00",
+      "fetchedAt": "2026-11-28T21:00:08.189+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T20:50:07.472+08:00",
+      "fetchedAt": "2026-11-28T21:00:08.193+08:00",
       "error": null
     }
   }
