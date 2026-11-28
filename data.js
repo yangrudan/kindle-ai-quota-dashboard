@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T23:50:08.775+08:00",
+  "updatedAt": "2026-11-29T00:00:10.480+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.6,
-    "feelsLikeC": 5.7,
+    "tempC": 7.5,
+    "feelsLikeC": 5.6,
     "humidity": 68,
-    "windKph": 0.6,
+    "windKph": 0.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T23:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T23:50:08.775+08:00",
+    "observedAt": "2026-11-29T00:00:00.000+08:00",
+    "fetchedAt": "2026-11-29T00:00:10.481+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国队晋级2027年世界棒球12强赛正赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739464.shtml",
+        "publishedAt": "2026-11-28T23:47:03.000+08:00"
+      },
       {
         "title": "水利部：强化防范应对极端性水旱灾害",
         "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739463.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2027澳网亚太区外卡赛收官 施晗斩获女单正赛外卡",
         "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739453.shtml",
         "publishedAt": "2026-11-28T22:17:14.000+08:00"
-      },
-      {
-        "title": "福州海丝文旅合作再拓新圈",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739454.shtml",
-        "publishedAt": "2026-11-28T22:17:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T23:50:02.543+08:00",
+    "fetchedAt": "2026-11-29T00:00:03.464+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T23:50:07.494+08:00",
+      "fetchedAt": "2026-11-29T00:00:08.946+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T23:50:07.734+08:00",
+      "fetchedAt": "2026-11-29T00:00:09.189+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T23:50:07.741+08:00",
+      "fetchedAt": "2026-11-29T00:00:09.198+08:00",
       "error": null
     }
   }
