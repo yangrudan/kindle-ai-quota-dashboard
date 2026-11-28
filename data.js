@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T12:00:08.011+08:00",
+  "updatedAt": "2026-11-28T12:10:08.720+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-28T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T12:00:08.011+08:00",
+    "fetchedAt": "2026-11-28T12:10:08.720+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "吉林“滑雪医生”备战大冬会训练忙",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739171.shtml",
+        "publishedAt": "2026-11-28T12:05:51.000+08:00"
+      },
+      {
+        "title": "10分钟邂逅1400年：中外青年小商桥 “搭桥” 记",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739169.shtml",
+        "publishedAt": "2026-11-28T12:05:05.000+08:00"
+      },
       {
         "title": "理响津门 城暖万家｜一辆汽车背后的天津答卷",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739168.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "天津地铁8号线 开通运营",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739165.shtml",
         "publishedAt": "2026-11-28T11:49:00.000+08:00"
-      },
-      {
-        "title": "全国殡葬服务热线“12353”在重庆率先启用",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739159.shtml",
-        "publishedAt": "2026-11-28T11:47:00.000+08:00"
-      },
-      {
-        "title": "指数报告指出，长三角41城休闲化整体向好 优质供给成关键",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739164.shtml",
-        "publishedAt": "2026-11-28T11:45:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T12:00:02.925+08:00",
+    "fetchedAt": "2026-11-28T12:10:03.571+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T12:00:06.702+08:00",
+      "fetchedAt": "2026-11-28T12:10:07.324+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T12:00:07.017+08:00",
+      "fetchedAt": "2026-11-28T12:10:07.590+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T12:00:07.027+08:00",
+      "fetchedAt": "2026-11-28T12:10:07.593+08:00",
       "error": null
     }
   }
