@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T16:20:38.103+08:00",
+  "updatedAt": "2026-11-28T16:30:38.717+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.6,
-    "feelsLikeC": 11.6,
-    "humidity": 37,
-    "windKph": 13.5,
-    "windDir": "西北风",
+    "tempC": 15,
+    "feelsLikeC": 11.1,
+    "humidity": 38,
+    "windKph": 13.2,
+    "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-28T16:20:38.103+08:00",
+    "observedAt": "2026-11-28T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-28T16:30:38.717+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中国与东盟共探运动促进健康新路径",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-28/10739264.shtml",
+        "publishedAt": "2026-11-28T16:22:09.000+08:00"
+      },
+      {
+        "title": "（走进中国乡村）河北景县打造“橡塑产业大脑” 数字化赋能产业集群升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739263.shtml",
+        "publishedAt": "2026-11-28T16:17:21.000+08:00"
+      },
+      {
+        "title": "广电总局通报网络视听节目不良传播行为治理典型案例",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739257.shtml",
+        "publishedAt": "2026-11-28T16:16:23.000+08:00"
+      },
+      {
+        "title": "专家学者汕头共议海外华侨华人中华文化传承与传播",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-28/10739261.shtml",
+        "publishedAt": "2026-11-28T16:15:27.000+08:00"
+      },
+      {
         "title": "第十届中央文献翻译与研究研讨会在天津外国语大学开幕",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739249.shtml",
         "publishedAt": "2026-11-28T15:59:04.000+08:00"
-      },
-      {
-        "title": "浙川东西部协作主题研讨会在杭州举行 谋划“十五五”新蓝图",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739246.shtml",
-        "publishedAt": "2026-11-28T15:56:28.000+08:00"
-      },
-      {
-        "title": "聚焦精品古装剧出海 《嫁金钗》研讨会举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739248.shtml",
-        "publishedAt": "2026-11-28T15:51:38.000+08:00"
-      },
-      {
-        "title": "浙江桐乡：毛衫小镇竞速“出海元年”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739247.shtml",
-        "publishedAt": "2026-11-28T15:51:30.000+08:00"
-      },
-      {
-        "title": "一只等了90年的碗丨“史诗长征” · 广东篇",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739253.shtml",
-        "publishedAt": "2026-11-28T15:49:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T16:20:03.197+08:00",
+    "fetchedAt": "2026-11-28T16:30:03.235+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T16:20:36.597+08:00",
+      "fetchedAt": "2026-11-28T16:30:37.274+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T21:20:38.000+08:00"
+          "resetAt": "2026-11-28T21:30:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T16:20:36.863+08:00",
+      "fetchedAt": "2026-11-28T16:30:37.583+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T16:20:36.873+08:00",
+      "fetchedAt": "2026-11-28T16:30:37.592+08:00",
       "error": null
     }
   }
