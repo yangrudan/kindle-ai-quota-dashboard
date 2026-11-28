@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T15:00:09.463+08:00",
+  "updatedAt": "2026-11-28T15:10:08.144+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-28T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T15:00:09.464+08:00",
+    "fetchedAt": "2026-11-28T15:10:08.145+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "城尾乡头，搬不走的好产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739220.shtml",
+        "publishedAt": "2026-11-28T15:04:41.000+08:00"
+      },
+      {
+        "title": "京津沪渝创新人才培养年会在天津举行",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739214.shtml",
+        "publishedAt": "2026-11-28T14:59:05.000+08:00"
+      },
+      {
+        "title": "冬菜上市“蔬”写乡村新“途”景 科技支撑成为蔬菜产业提质增效“新引擎”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739219.shtml",
+        "publishedAt": "2026-11-28T14:57:59.000+08:00"
+      },
       {
         "title": "金观平：中国AI发展决不是“少数人的盛宴”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739218.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "2026中柬友好关系研讨会在柬埔寨金边举行",
         "url": "https://www.chinanews.com.cn/hr/2026/11-28/10739217.shtml",
         "publishedAt": "2026-11-28T14:53:50.000+08:00"
-      },
-      {
-        "title": "天宫初体验：48小时，齐尚·阿里经历了什么？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739216.shtml",
-        "publishedAt": "2026-11-28T14:47:52.000+08:00"
-      },
-      {
-        "title": "主流媒体湾区行暨第四届新闻短视频业务研讨会举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739215.shtml",
-        "publishedAt": "2026-11-28T14:46:48.000+08:00"
-      },
-      {
-        "title": "国内首次！青海发现南方猛犸象完整头骨化石",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739213.shtml",
-        "publishedAt": "2026-11-28T14:29:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T15:00:03.378+08:00",
+    "fetchedAt": "2026-11-28T15:10:02.914+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T15:00:08.012+08:00",
+      "fetchedAt": "2026-11-28T15:10:06.771+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T20:00:09.000+08:00"
+          "resetAt": "2026-11-28T20:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T15:00:08.451+08:00",
+      "fetchedAt": "2026-11-28T15:10:07.017+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T15:00:08.461+08:00",
+      "fetchedAt": "2026-11-28T15:10:07.022+08:00",
       "error": null
     }
   }
