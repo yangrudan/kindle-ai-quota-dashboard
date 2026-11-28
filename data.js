@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T14:10:10.155+08:00",
+  "updatedAt": "2026-11-28T14:20:44.160+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.6,
+    "tempC": 17.5,
     "feelsLikeC": 12.9,
     "humidity": 30,
-    "windKph": 17.3,
+    "windKph": 16.7,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T14:10:10.155+08:00",
+    "observedAt": "2026-11-28T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T14:20:44.160+08:00",
     "error": null
   },
   "news": {
@@ -21,8 +21,8 @@ window.DASH_DATA = {
     "items": [
       {
         "title": "巴基斯坦总理和国防军司令兼陆军参谋长同正在中国空间站执行任务的巴方航天员天地通话",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739210.shtml",
-        "publishedAt": "2026-11-28T13:56:39.000+08:00"
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739211.shtml",
+        "publishedAt": "2026-11-28T14:06:22.000+08:00"
       },
       {
         "title": "定位难、叫车难、停车难 无障碍出租车如何真正无障碍",
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-28T12:58:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T14:10:04.955+08:00",
+    "fetchedAt": "2026-11-28T14:20:03.330+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T14:10:08.850+08:00",
+      "fetchedAt": "2026-11-28T14:20:42.429+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T19:10:10.000+08:00"
+          "resetAt": "2026-11-28T19:20:44.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T14:10:09.162+08:00",
+      "fetchedAt": "2026-11-28T14:20:43.029+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T14:10:09.166+08:00",
+      "fetchedAt": "2026-11-28T14:20:43.036+08:00",
       "error": null
     }
   }
