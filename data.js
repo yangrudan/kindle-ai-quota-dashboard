@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T22:40:10.293+08:00",
+  "updatedAt": "2026-11-28T22:50:08.678+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.1,
+    "tempC": 8,
     "feelsLikeC": 5.8,
     "humidity": 65,
-    "windKph": 2.8,
+    "windKph": 2.2,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T22:40:10.293+08:00",
+    "observedAt": "2026-11-28T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T22:50:08.678+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "水利部：强化防范应对极端性水旱灾害",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739463.shtml",
+        "publishedAt": "2026-11-28T22:34:43.000+08:00"
+      },
       {
         "title": "香港举行2026年度勋衔颁授典礼 3人获颁大紫荆勋章",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-28/10739451.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "福州海丝文旅合作再拓新圈",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739454.shtml",
         "publishedAt": "2026-11-28T22:17:08.000+08:00"
-      },
-      {
-        "title": "从“临居”到“邻居”：“旅居云南”有了新内涵",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739450.shtml",
-        "publishedAt": "2026-11-28T22:05:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T22:40:04.348+08:00",
+    "fetchedAt": "2026-11-28T22:50:02.670+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T22:40:09.021+08:00",
+      "fetchedAt": "2026-11-28T22:50:07.217+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T22:40:09.288+08:00",
+      "fetchedAt": "2026-11-28T22:50:07.485+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T22:40:09.297+08:00",
+      "fetchedAt": "2026-11-28T22:50:07.493+08:00",
       "error": null
     }
   }
