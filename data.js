@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T12:40:38.083+08:00",
+  "updatedAt": "2026-11-28T12:50:09.369+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.1,
+    "tempC": 17.2,
     "feelsLikeC": 12.4,
-    "humidity": 33,
-    "windKph": 20.6,
+    "humidity": 32,
+    "windKph": 20.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T12:40:38.083+08:00",
+    "observedAt": "2026-11-28T12:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T12:50:09.369+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（走进中国乡村）从“黑石号”到新消费 湖南铜官窑千年窑火焕新生",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739176.shtml",
-        "publishedAt": "2026-11-28T12:35:59.000+08:00"
+        "title": "广西浦北陈皮产业溯源平台启用",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739192.shtml",
+        "publishedAt": "2026-11-28T12:46:53.000+08:00"
       },
       {
-        "title": "推动温室气体回收再利用 “河南方案”登上国际舞台",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739174.shtml",
-        "publishedAt": "2026-11-28T12:11:00.000+08:00"
+        "title": "厦门湖里多维度发力推动消费市场提质扩容",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739191.shtml",
+        "publishedAt": "2026-11-28T12:46:19.000+08:00"
       },
       {
-        "title": "黄金配置为何仍要看“周期”？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739170.shtml",
-        "publishedAt": "2026-11-28T12:10:23.000+08:00"
+        "title": "四川部署全面从严治党26项任务 将探索建立群众诉求“一站式”办理平台",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739190.shtml",
+        "publishedAt": "2026-11-28T12:45:35.000+08:00"
       },
       {
-        "title": "2026“创业之星”Next Star总决赛收官 国际项目占比超四成",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739172.shtml",
-        "publishedAt": "2026-11-28T12:08:11.000+08:00"
+        "title": "《考古学报》创刊90周年 考古学期刊建设国际研讨会在北京举办",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739181.shtml",
+        "publishedAt": "2026-11-28T12:45:13.000+08:00"
       },
       {
-        "title": "吉林“滑雪医生”备战大冬会训练忙",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739171.shtml",
-        "publishedAt": "2026-11-28T12:05:51.000+08:00"
+        "title": "第十届“丝路杯”泰东北高校中国语言文化大赛在孔敬大学举行",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-28/10739188.shtml",
+        "publishedAt": "2026-11-28T12:45:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T12:40:02.501+08:00",
+    "fetchedAt": "2026-11-28T12:50:04.138+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T12:40:36.463+08:00",
+      "fetchedAt": "2026-11-28T12:50:07.971+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T12:40:36.743+08:00",
+      "fetchedAt": "2026-11-28T12:50:08.177+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T12:40:36.752+08:00",
+      "fetchedAt": "2026-11-28T12:50:08.180+08:00",
       "error": null
     }
   }
