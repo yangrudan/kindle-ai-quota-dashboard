@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T11:40:07.925+08:00",
+  "updatedAt": "2026-11-28T11:50:09.939+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 17,
     "feelsLikeC": 12.3,
-    "humidity": 32,
-    "windKph": 19.9,
+    "humidity": 33,
+    "windKph": 20.2,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T11:40:07.925+08:00",
+    "observedAt": "2026-11-28T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T11:50:09.939+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "聚焦场馆协作与资源共享等方向 现代科技馆体系联合行动交流研讨",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739161.shtml",
+        "publishedAt": "2026-11-28T11:44:48.000+08:00"
+      },
+      {
+        "title": "中国水协科技委2026年度年会暨技术交流会在深圳举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739163.shtml",
+        "publishedAt": "2026-11-28T11:44:24.000+08:00"
+      },
+      {
+        "title": "江苏优质网络主播培育成果展演在扬州举行 发布网络直播行业自律倡议书",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739162.shtml",
+        "publishedAt": "2026-11-28T11:44:18.000+08:00"
+      },
+      {
+        "title": "人民论坛网评 | “快落地”也要有“慢商量”",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-28/10739160.shtml",
+        "publishedAt": "2026-11-28T11:36:00.000+08:00"
+      },
+      {
         "title": "菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰",
         "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739149.shtml",
         "publishedAt": "2026-11-28T11:04:28.000+08:00"
-      },
-      {
-        "title": "废旧X光片能炼银？千万别试！不仅危险，还可能违法",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739158.shtml",
-        "publishedAt": "2026-11-28T10:53:29.000+08:00"
-      },
-      {
-        "title": "社科大刘晓春：未成年用网精细化治理应分阶段实施，强化用户提示和引导",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739142.shtml",
-        "publishedAt": "2026-11-28T10:51:23.000+08:00"
-      },
-      {
-        "title": "歼-35A飞抵珠海 将首次真机进馆展出",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml",
-        "publishedAt": "2026-11-28T10:51:13.000+08:00"
-      },
-      {
-        "title": "舞剧《天工开物》在海南省歌舞剧院上演",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739150.shtml",
-        "publishedAt": "2026-11-28T10:50:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T11:40:02.924+08:00",
+    "fetchedAt": "2026-11-28T11:50:03.773+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T11:40:06.754+08:00",
+      "fetchedAt": "2026-11-28T11:50:08.389+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T11:40:07.017+08:00",
+      "fetchedAt": "2026-11-28T11:50:08.657+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T11:40:07.026+08:00",
+      "fetchedAt": "2026-11-28T11:50:08.666+08:00",
       "error": null
     }
   }
