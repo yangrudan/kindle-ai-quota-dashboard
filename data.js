@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T17:40:38.430+08:00",
+  "updatedAt": "2026-11-28T17:50:38.430+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.4,
-    "feelsLikeC": 9.5,
+    "tempC": 13.1,
+    "feelsLikeC": 9.2,
     "humidity": 41,
-    "windKph": 12.2,
+    "windKph": 12.1,
     "windDir": "北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T17:40:38.430+08:00",
+    "observedAt": "2026-11-28T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T17:50:38.430+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "3名航天员将携“神秘礼物”返回地球",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739307.shtml",
+        "publishedAt": "2026-11-28T17:40:09.000+08:00"
+      },
       {
         "title": "东西问·兰花奖丨勒克莱齐奥：中国这片土地，我只揭开了小小一角",
         "url": "https://www.chinanews.com.cn/dxw/2026/11-28/10739305.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "俄罗斯电影艺术交流周在福州启幕 三项合作签约",
         "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739292.shtml",
         "publishedAt": "2026-11-28T17:08:40.000+08:00"
-      },
-      {
-        "title": "全球“高手”共争锋 2026上海中心高塔竞速挑战赛开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739290.shtml",
-        "publishedAt": "2026-11-28T17:08:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T17:40:03.240+08:00",
+    "fetchedAt": "2026-11-28T17:50:03.260+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T17:40:36.711+08:00",
+      "fetchedAt": "2026-11-28T17:50:37.112+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T22:40:38.000+08:00"
+          "resetAt": "2026-11-28T22:50:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T17:40:37.047+08:00",
+      "fetchedAt": "2026-11-28T17:50:37.368+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T17:40:37.056+08:00",
+      "fetchedAt": "2026-11-28T17:50:37.377+08:00",
       "error": null
     }
   }
