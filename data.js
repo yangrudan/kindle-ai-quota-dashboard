@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T13:40:38.944+08:00",
+  "updatedAt": "2026-11-28T13:50:08.914+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.5,
-    "feelsLikeC": 12.6,
-    "humidity": 31,
-    "windKph": 18.8,
+    "tempC": 17.6,
+    "feelsLikeC": 12.8,
+    "humidity": 30,
+    "windKph": 17.9,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T13:40:38.944+08:00",
+    "observedAt": "2026-11-28T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T13:50:08.915+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "定位难、叫车难、停车难 无障碍出租车如何真正无障碍",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739209.shtml",
+        "publishedAt": "2026-11-28T13:42:16.000+08:00"
+      },
       {
         "title": "兰州大学：“交费包过”“不用上课”等为虚假宣传 保留追责权利",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739208.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "地上收订单，天上等2028，特斯拉“飞车”秀给谁看？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739201.shtml",
         "publishedAt": "2026-11-28T12:55:32.000+08:00"
-      },
-      {
-        "title": "黑龙江出现大范围降雪 局地现冻雨和大雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739206.shtml",
-        "publishedAt": "2026-11-28T12:53:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T13:40:03.147+08:00",
+    "fetchedAt": "2026-11-28T13:50:03.282+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T13:40:37.328+08:00",
+      "fetchedAt": "2026-11-28T13:50:07.599+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T18:40:38.000+08:00"
+          "resetAt": "2026-11-28T18:50:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T13:40:37.569+08:00",
+      "fetchedAt": "2026-11-28T13:50:07.858+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T13:40:37.573+08:00",
+      "fetchedAt": "2026-11-28T13:50:07.861+08:00",
       "error": null
     }
   }
