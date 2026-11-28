@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-29T00:00:10.480+08:00",
+  "updatedAt": "2026-11-29T00:10:38.163+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-29T00:00:00.000+08:00",
-    "fetchedAt": "2026-11-29T00:00:10.481+08:00",
+    "fetchedAt": "2026-11-29T00:10:38.163+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "英国海上贸易行动办公室：武装人员已离开也门近海被劫持货船",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739465.shtml",
+        "publishedAt": "2026-11-28T23:58:22.000+08:00"
+      },
       {
         "title": "中国队晋级2027年世界棒球12强赛正赛",
         "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739464.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "国际乒联成都混团世界杯签表出炉",
         "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739452.shtml",
         "publishedAt": "2026-11-28T22:17:36.000+08:00"
-      },
-      {
-        "title": "2027澳网亚太区外卡赛收官 施晗斩获女单正赛外卡",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739453.shtml",
-        "publishedAt": "2026-11-28T22:17:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-29T00:00:03.464+08:00",
+    "fetchedAt": "2026-11-29T00:10:02.533+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-29T00:00:08.946+08:00",
+      "fetchedAt": "2026-11-29T00:10:36.850+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-29T00:00:09.189+08:00",
+      "fetchedAt": "2026-11-29T00:10:37.160+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-29T00:00:09.198+08:00",
+      "fetchedAt": "2026-11-29T00:10:37.169+08:00",
       "error": null
     }
   }
