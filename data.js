@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T19:50:39.619+08:00",
+  "updatedAt": "2026-11-28T20:00:37.882+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.1,
-    "feelsLikeC": 7.4,
-    "humidity": 55,
-    "windKph": 5.5,
+    "tempC": 9.8,
+    "feelsLikeC": 7.2,
+    "humidity": 57,
+    "windKph": 5.1,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T19:50:39.619+08:00",
+    "observedAt": "2026-11-28T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T20:00:37.883+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年成都国际乒联混合团体世界杯抽签结果出炉",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739357.shtml",
+        "publishedAt": "2026-11-28T19:44:48.000+08:00"
+      },
+      {
+        "title": "黑龙江伊春日月峡滑雪场迎开板首滑",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739353.shtml",
+        "publishedAt": "2026-11-28T19:43:26.000+08:00"
+      },
       {
         "title": "海南三亚：中外摩托艇选手海上竞速争锋",
         "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739350.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026中关村量子大会举办 发布多项重大成果与应用场景",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739354.shtml",
         "publishedAt": "2026-11-28T19:28:41.000+08:00"
-      },
-      {
-        "title": "安徽太和板面“煮”出200亿元产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739355.shtml",
-        "publishedAt": "2026-11-28T19:28:35.000+08:00"
-      },
-      {
-        "title": "养老院住进年轻人：服务时长换租金 老少相伴两相暖",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739358.shtml",
-        "publishedAt": "2026-11-28T19:28:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T19:50:04.256+08:00",
+    "fetchedAt": "2026-11-28T20:00:02.771+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T19:50:38.008+08:00",
+      "fetchedAt": "2026-11-28T20:00:36.464+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-29T00:50:39.000+08:00"
+          "resetAt": "2026-11-29T01:00:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T19:50:38.335+08:00",
+      "fetchedAt": "2026-11-28T20:00:36.871+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T19:50:38.344+08:00",
+      "fetchedAt": "2026-11-28T20:00:36.877+08:00",
       "error": null
     }
   }
