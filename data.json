@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T09:10:07.489+08:00",
+  "updatedAt": "2026-11-28T09:20:08.671+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.3,
-    "feelsLikeC": 11.5,
-    "humidity": 61,
-    "windKph": 5.4,
+    "tempC": 14.1,
+    "feelsLikeC": 12.2,
+    "humidity": 56,
+    "windKph": 5,
     "windDir": "西风",
     "place": "杭州",
-    "observedAt": "2026-11-28T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T09:10:07.489+08:00",
+    "observedAt": "2026-11-28T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T09:20:08.671+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《习近平的文化情缘》在斯里兰卡主流媒体播出",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739111.shtml",
+        "publishedAt": "2026-11-28T09:12:04.000+08:00"
+      },
       {
         "title": "冷空气继续影响东部海区 新疆将有大范围降雪天气",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739102.shtml",
@@ -38,14 +43,9 @@
         "title": "普京出席新型核潜艇升旗仪式：将继续发展完善海军力量",
         "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739105.shtml",
         "publishedAt": "2026-11-28T08:45:08.000+08:00"
-      },
-      {
-        "title": "人类基因组序列草图发表25年 这本“天书”有什么奥妙",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739104.shtml",
-        "publishedAt": "2026-11-28T08:45:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T09:10:02.573+08:00",
+    "fetchedAt": "2026-11-28T09:20:03.286+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T09:10:06.112+08:00",
+      "fetchedAt": "2026-11-28T09:20:07.280+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T09:10:06.464+08:00",
+      "fetchedAt": "2026-11-28T09:20:07.664+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T09:10:06.475+08:00",
+      "fetchedAt": "2026-11-28T09:20:07.672+08:00",
       "error": null
     }
   }
