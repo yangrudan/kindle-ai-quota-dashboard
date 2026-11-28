@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T14:30:10.295+08:00",
+  "updatedAt": "2026-11-28T14:40:38.653+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-28T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T14:30:10.295+08:00",
+    "fetchedAt": "2026-11-28T14:40:38.654+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国内首次！青海发现南方猛犸象完整头骨化石",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739213.shtml",
+        "publishedAt": "2026-11-28T14:29:11.000+08:00"
+      },
       {
         "title": "冬季5种应季花果，吃法对了能治病、更养人！",
         "url": "https://www.chinanews.com.cn/life/2026/11-28/10739212.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "兰州大学：“交费包过”“不用上课”等为虚假宣传 保留追责权利",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739208.shtml",
         "publishedAt": "2026-11-28T13:13:07.000+08:00"
-      },
-      {
-        "title": "习言道｜乡村振兴“好样子”！石椅羌寨生活越过越红火",
-        "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-28/news1076214.shtml",
-        "publishedAt": "2026-11-28T13:03:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T14:30:02.758+08:00",
+    "fetchedAt": "2026-11-28T14:40:02.536+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T14:30:08.740+08:00",
+      "fetchedAt": "2026-11-28T14:40:36.859+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T19:30:10.000+08:00"
+          "resetAt": "2026-11-28T19:40:38.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T14:30:09.090+08:00",
+      "fetchedAt": "2026-11-28T14:40:37.430+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T14:30:09.095+08:00",
+      "fetchedAt": "2026-11-28T14:40:37.438+08:00",
       "error": null
     }
   }
