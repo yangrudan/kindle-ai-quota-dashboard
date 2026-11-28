@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T19:30:08.976+08:00",
+  "updatedAt": "2026-11-28T19:40:10.965+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-28T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T19:30:08.977+08:00",
+    "fetchedAt": "2026-11-28T19:40:10.965+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中巴航天合作三十六载铺就共赴星河之路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739348.shtml",
-        "publishedAt": "2026-11-28T19:19:31.000+08:00"
+        "title": "第十六届中国航展首架俄罗斯展团包机顺利抵达珠海",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739356.shtml",
+        "publishedAt": "2026-11-28T19:29:41.000+08:00"
       },
       {
-        "title": "海内外专家在广州共探生命科学开放融合创新之路",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739347.shtml",
-        "publishedAt": "2026-11-28T19:18:13.000+08:00"
+        "title": "2026中关村量子大会举办 发布多项重大成果与应用场景",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739354.shtml",
+        "publishedAt": "2026-11-28T19:28:41.000+08:00"
       },
       {
-        "title": "2026福州国际友城文化周启动",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739324.shtml",
-        "publishedAt": "2026-11-28T19:15:10.000+08:00"
+        "title": "安徽太和板面“煮”出200亿元产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739355.shtml",
+        "publishedAt": "2026-11-28T19:28:35.000+08:00"
       },
       {
-        "title": "东西问·知味东方｜几道潮粤菜，让普京回国前把心仪味道打包带上飞机",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-28/10739343.shtml",
-        "publishedAt": "2026-11-28T19:10:28.000+08:00"
+        "title": "养老院住进年轻人：服务时长换租金 老少相伴两相暖",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739358.shtml",
+        "publishedAt": "2026-11-28T19:28:21.000+08:00"
       },
       {
-        "title": "第四届嵊州村越落幕 吸引1800余名海内外越剧爱好者参与",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739340.shtml",
-        "publishedAt": "2026-11-28T18:58:28.000+08:00"
+        "title": "下周有的地方还能到30℃？全国多地气温将迎来大回暖",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739359.shtml",
+        "publishedAt": "2026-11-28T19:27:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T19:30:03.336+08:00",
+    "fetchedAt": "2026-11-28T19:40:04.970+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T19:30:07.689+08:00",
+      "fetchedAt": "2026-11-28T19:40:09.335+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-29T00:30:08.000+08:00"
+          "resetAt": "2026-11-29T00:40:10.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T19:30:07.955+08:00",
+      "fetchedAt": "2026-11-28T19:40:09.594+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T19:30:07.964+08:00",
+      "fetchedAt": "2026-11-28T19:40:09.605+08:00",
       "error": null
     }
   }
