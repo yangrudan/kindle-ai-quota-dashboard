@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T20:30:08.915+08:00",
+  "updatedAt": "2026-11-28T20:40:08.485+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.3,
-    "feelsLikeC": 6.8,
-    "humidity": 59,
-    "windKph": 4.7,
-    "windDir": "西北风",
+    "tempC": 9.6,
+    "feelsLikeC": 7.1,
+    "humidity": 60,
+    "windKph": 4.4,
+    "windDir": "北风",
     "place": "杭州",
     "observedAt": "2026-11-28T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T20:30:08.915+08:00",
+    "fetchedAt": "2026-11-28T20:40:08.485+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "宁夏同心农特产品“走出去”系列活动收官 累计意向签约2.7亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739384.shtml",
+        "publishedAt": "2026-11-28T20:33:27.000+08:00"
+      },
+      {
+        "title": "数学“算法大脑”加速赋能智慧交通 第五届数学促进经济社会发展论坛在渝举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739382.shtml",
+        "publishedAt": "2026-11-28T20:30:47.000+08:00"
+      },
+      {
+        "title": "“火力全开”保供应 “电”亮万家灯火",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739383.shtml",
+        "publishedAt": "2026-11-28T20:29:00.000+08:00"
+      },
+      {
+        "title": "2026贺岁档拉开大幕 “跟着电影游中国”海外放映启航",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739381.shtml",
+        "publishedAt": "2026-11-28T20:26:26.000+08:00"
+      },
+      {
         "title": "从“包袱”到抢手资源 退役风机“拆”出新生",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739379.shtml",
         "publishedAt": "2026-11-28T20:23:28.000+08:00"
-      },
-      {
-        "title": "短道速滑世界巡回赛上海站：中国选手张子夏夺得男子500米决赛铜牌",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739374.shtml",
-        "publishedAt": "2026-11-28T20:18:46.000+08:00"
-      },
-      {
-        "title": "台湾建筑师团队驻村“陪护”福建古村新生",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739371.shtml",
-        "publishedAt": "2026-11-28T20:13:42.000+08:00"
-      },
-      {
-        "title": "海内外专家学者北京论舞蹈促文明互鉴",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739369.shtml",
-        "publishedAt": "2026-11-28T20:12:23.000+08:00"
-      },
-      {
-        "title": "冰雪旅游全域升温燃动冬日文旅 “冷资源”释放“热活力”催生“热消费”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739376.shtml",
-        "publishedAt": "2026-11-28T20:11:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T20:30:03.386+08:00",
+    "fetchedAt": "2026-11-28T20:40:03.232+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T20:30:07.598+08:00",
+      "fetchedAt": "2026-11-28T20:40:07.198+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-29T01:30:08.000+08:00"
+          "resetAt": "2026-11-29T01:40:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T20:30:07.864+08:00",
+      "fetchedAt": "2026-11-28T20:40:07.394+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T20:30:07.871+08:00",
+      "fetchedAt": "2026-11-28T20:40:07.403+08:00",
       "error": null
     }
   }
