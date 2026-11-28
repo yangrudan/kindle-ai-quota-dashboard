@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T19:10:38.060+08:00",
+  "updatedAt": "2026-11-28T19:20:09.041+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.3,
-    "feelsLikeC": 8.2,
-    "humidity": 48,
-    "windKph": 7.4,
+    "tempC": 10.9,
+    "feelsLikeC": 8,
+    "humidity": 51,
+    "windKph": 6.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T19:10:38.060+08:00",
+    "observedAt": "2026-11-28T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T19:20:09.041+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026福州国际友城文化周启动",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739324.shtml",
+        "publishedAt": "2026-11-28T19:15:10.000+08:00"
+      },
+      {
+        "title": "东西问·知味东方｜几道潮粤菜，让普京回国前把心仪味道打包带上飞机",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-28/10739343.shtml",
+        "publishedAt": "2026-11-28T19:10:28.000+08:00"
+      },
       {
         "title": "第四届嵊州村越落幕 吸引1800余名海内外越剧爱好者参与",
         "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739340.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "原创音乐剧《北庭·望长安》西安上演",
         "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739341.shtml",
         "publishedAt": "2026-11-28T18:56:39.000+08:00"
-      },
-      {
-        "title": "辽宁非遗首次走进东北大学 精准对接艺术教学实践",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739339.shtml",
-        "publishedAt": "2026-11-28T18:54:21.000+08:00"
-      },
-      {
-        "title": "历时近8个月 广东哲学社会科学县域发展调研“交卷”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739342.shtml",
-        "publishedAt": "2026-11-28T18:53:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T19:10:02.740+08:00",
+    "fetchedAt": "2026-11-28T19:20:02.460+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T19:10:36.638+08:00",
+      "fetchedAt": "2026-11-28T19:20:07.311+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-29T00:10:37.000+08:00"
+          "resetAt": "2026-11-29T00:20:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T19:10:36.931+08:00",
+      "fetchedAt": "2026-11-28T19:20:07.613+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T19:10:36.940+08:00",
+      "fetchedAt": "2026-11-28T19:20:07.620+08:00",
       "error": null
     }
   }
