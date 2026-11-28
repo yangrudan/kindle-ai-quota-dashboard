@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T12:30:40.566+08:00",
+  "updatedAt": "2026-11-28T12:40:38.083+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-28T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T12:30:40.566+08:00",
+    "fetchedAt": "2026-11-28T12:40:38.083+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（走进中国乡村）从“黑石号”到新消费 湖南铜官窑千年窑火焕新生",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739176.shtml",
+        "publishedAt": "2026-11-28T12:35:59.000+08:00"
+      },
       {
         "title": "推动温室气体回收再利用 “河南方案”登上国际舞台",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739174.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "吉林“滑雪医生”备战大冬会训练忙",
         "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739171.shtml",
         "publishedAt": "2026-11-28T12:05:51.000+08:00"
-      },
-      {
-        "title": "10分钟邂逅1400年：中外青年小商桥 “搭桥” 记",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739169.shtml",
-        "publishedAt": "2026-11-28T12:05:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T12:30:04.718+08:00",
+    "fetchedAt": "2026-11-28T12:40:02.501+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T12:30:39.063+08:00",
+      "fetchedAt": "2026-11-28T12:40:36.463+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T12:30:39.451+08:00",
+      "fetchedAt": "2026-11-28T12:40:36.743+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T12:30:39.459+08:00",
+      "fetchedAt": "2026-11-28T12:40:36.752+08:00",
       "error": null
     }
   }
