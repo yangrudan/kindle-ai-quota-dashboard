@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T16:00:09.150+08:00",
+  "updatedAt": "2026-11-28T16:10:09.332+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-28T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T16:00:09.150+08:00",
+    "fetchedAt": "2026-11-28T16:10:09.332+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第十届中央文献翻译与研究研讨会在天津外国语大学开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739249.shtml",
+        "publishedAt": "2026-11-28T15:59:04.000+08:00"
+      },
+      {
+        "title": "浙川东西部协作主题研讨会在杭州举行 谋划“十五五”新蓝图",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739246.shtml",
+        "publishedAt": "2026-11-28T15:56:28.000+08:00"
+      },
       {
         "title": "聚焦精品古装剧出海 《嫁金钗》研讨会举办",
         "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739248.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "一只等了90年的碗丨“史诗长征” · 广东篇",
         "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739253.shtml",
         "publishedAt": "2026-11-28T15:49:05.000+08:00"
-      },
-      {
-        "title": "2026福州国际友城文化周启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739240.shtml",
-        "publishedAt": "2026-11-28T15:45:05.000+08:00"
-      },
-      {
-        "title": "小城“智”变：浙江县域如何长出“AI森林”？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739245.shtml",
-        "publishedAt": "2026-11-28T15:44:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T16:00:03.531+08:00",
+    "fetchedAt": "2026-11-28T16:10:03.333+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T16:00:07.679+08:00",
+      "fetchedAt": "2026-11-28T16:10:07.593+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T21:00:08.000+08:00"
+          "resetAt": "2026-11-28T21:10:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T16:00:08.052+08:00",
+      "fetchedAt": "2026-11-28T16:10:07.942+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T16:00:08.061+08:00",
+      "fetchedAt": "2026-11-28T16:10:07.952+08:00",
       "error": null
     }
   }
