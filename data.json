@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T10:50:08.695+08:00",
+  "updatedAt": "2026-11-28T11:00:38.213+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.9,
-    "feelsLikeC": 12.9,
-    "humidity": 33,
-    "windKph": 14.9,
+    "tempC": 17,
+    "feelsLikeC": 12.6,
+    "humidity": 32,
+    "windKph": 17.6,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T10:50:08.695+08:00",
+    "observedAt": "2026-11-28T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T11:00:38.214+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "稳中有进、持续向优 今年前10个月物流业总收入12.3万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739153.shtml",
-        "publishedAt": "2026-11-28T10:42:59.000+08:00"
+        "title": "废旧X光片能炼银？千万别试！不仅危险，还可能违法",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739158.shtml",
+        "publishedAt": "2026-11-28T10:53:29.000+08:00"
       },
       {
-        "title": "亚太数智赋能创新发展合作平台启动建设",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739151.shtml",
-        "publishedAt": "2026-11-28T10:39:39.000+08:00"
+        "title": "社科大刘晓春：未成年用网精细化治理应分阶段实施，强化用户提示和引导",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739142.shtml",
+        "publishedAt": "2026-11-28T10:51:23.000+08:00"
       },
       {
-        "title": "晶采观察丨需求升级、供给创新 三重变化勾勒消费市场新图景",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739152.shtml",
-        "publishedAt": "2026-11-28T10:36:38.000+08:00"
+        "title": "歼-35A飞抵珠海 将首次真机进馆展出",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml",
+        "publishedAt": "2026-11-28T10:51:13.000+08:00"
       },
       {
-        "title": "新规落地！把电视“第一屏”还给直播",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739148.shtml",
-        "publishedAt": "2026-11-28T10:36:02.000+08:00"
+        "title": "舞剧《天工开物》在海南省歌舞剧院上演",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739150.shtml",
+        "publishedAt": "2026-11-28T10:50:21.000+08:00"
       },
       {
-        "title": "曾在“爱优腾”中排第一的爱奇艺，被1美元绊住了",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739138.shtml",
-        "publishedAt": "2026-11-28T10:30:06.000+08:00"
+        "title": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739154.shtml",
+        "publishedAt": "2026-11-28T10:50:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T10:50:02.827+08:00",
+    "fetchedAt": "2026-11-28T11:00:02.532+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T10:50:07.220+08:00",
+      "fetchedAt": "2026-11-28T11:00:36.547+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T10:50:07.570+08:00",
+      "fetchedAt": "2026-11-28T11:00:36.934+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T10:50:07.579+08:00",
+      "fetchedAt": "2026-11-28T11:00:36.937+08:00",
       "error": null
     }
   }
