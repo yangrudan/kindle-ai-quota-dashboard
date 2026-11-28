@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T18:50:10.164+08:00",
+  "updatedAt": "2026-11-28T19:00:39.826+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.7,
-    "feelsLikeC": 8.4,
-    "humidity": 47,
-    "windKph": 8.5,
+    "tempC": 11.3,
+    "feelsLikeC": 8.2,
+    "humidity": 48,
+    "windKph": 7.4,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T18:50:10.165+08:00",
+    "observedAt": "2026-11-28T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T19:00:39.826+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新疆和田核桃远销海外 特色林果产业助农增收",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739332.shtml",
-        "publishedAt": "2026-11-28T18:44:33.000+08:00"
+        "title": "辽宁非遗首次走进东北大学 精准对接艺术教学实践",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739339.shtml",
+        "publishedAt": "2026-11-28T18:54:21.000+08:00"
       },
       {
-        "title": "多款飞机飞抵第十六届中国国际航空航天博览会",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739328.shtml",
-        "publishedAt": "2026-11-28T18:42:41.000+08:00"
+        "title": "历时近8个月 广东哲学社会科学县域发展调研“交卷”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739342.shtml",
+        "publishedAt": "2026-11-28T18:53:53.000+08:00"
       },
       {
-        "title": "新疆普氏野马再添野外放归“新家”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739330.shtml",
-        "publishedAt": "2026-11-28T18:39:59.000+08:00"
+        "title": "300余名青少年齐聚庐山西海展开匹克球竞技",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739335.shtml",
+        "publishedAt": "2026-11-28T18:52:41.000+08:00"
       },
       {
-        "title": "广西“三碗米粉”飘香湾区 引导游客寻味打卡",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-28/10739331.shtml",
-        "publishedAt": "2026-11-28T18:38:59.000+08:00"
+        "title": "创新传播方式 2026京剧文化季探索戏曲多样化表达",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739337.shtml",
+        "publishedAt": "2026-11-28T18:52:35.000+08:00"
       },
       {
-        "title": "全国500余家单位长春揽才 教育就业市场呈现新趋势",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739326.shtml",
-        "publishedAt": "2026-11-28T18:38:10.000+08:00"
+        "title": "中国女子篮球运动员迪拉娜退役：广东早已是我第二个故乡",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739336.shtml",
+        "publishedAt": "2026-11-28T18:51:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T18:50:04.137+08:00",
+    "fetchedAt": "2026-11-28T19:00:04.480+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T18:50:08.510+08:00",
+      "fetchedAt": "2026-11-28T19:00:38.512+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T23:50:09.000+08:00"
+          "resetAt": "2026-11-29T00:00:39.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T18:50:08.763+08:00",
+      "fetchedAt": "2026-11-28T19:00:38.803+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T18:50:08.772+08:00",
+      "fetchedAt": "2026-11-28T19:00:38.807+08:00",
       "error": null
     }
   }
