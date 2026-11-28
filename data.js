@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T19:00:39.826+08:00",
+  "updatedAt": "2026-11-28T19:10:38.060+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "杭州",
     "observedAt": "2026-11-28T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T19:00:39.826+08:00",
+    "fetchedAt": "2026-11-28T19:10:38.060+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第四届嵊州村越落幕 吸引1800余名海内外越剧爱好者参与",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739340.shtml",
+        "publishedAt": "2026-11-28T18:58:28.000+08:00"
+      },
+      {
+        "title": "广西汽车城办汽车摄影展 见证制造变“智造”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739338.shtml",
+        "publishedAt": "2026-11-28T18:57:44.000+08:00"
+      },
+      {
+        "title": "原创音乐剧《北庭·望长安》西安上演",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739341.shtml",
+        "publishedAt": "2026-11-28T18:56:39.000+08:00"
+      },
       {
         "title": "辽宁非遗首次走进东北大学 精准对接艺术教学实践",
         "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739339.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "历时近8个月 广东哲学社会科学县域发展调研“交卷”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739342.shtml",
         "publishedAt": "2026-11-28T18:53:53.000+08:00"
-      },
-      {
-        "title": "300余名青少年齐聚庐山西海展开匹克球竞技",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739335.shtml",
-        "publishedAt": "2026-11-28T18:52:41.000+08:00"
-      },
-      {
-        "title": "创新传播方式 2026京剧文化季探索戏曲多样化表达",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739337.shtml",
-        "publishedAt": "2026-11-28T18:52:35.000+08:00"
-      },
-      {
-        "title": "中国女子篮球运动员迪拉娜退役：广东早已是我第二个故乡",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739336.shtml",
-        "publishedAt": "2026-11-28T18:51:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T19:00:04.480+08:00",
+    "fetchedAt": "2026-11-28T19:10:02.740+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T19:00:38.512+08:00",
+      "fetchedAt": "2026-11-28T19:10:36.638+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-29T00:00:39.000+08:00"
+          "resetAt": "2026-11-29T00:10:37.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T19:00:38.803+08:00",
+      "fetchedAt": "2026-11-28T19:10:36.931+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T19:00:38.807+08:00",
+      "fetchedAt": "2026-11-28T19:10:36.940+08:00",
       "error": null
     }
   }
