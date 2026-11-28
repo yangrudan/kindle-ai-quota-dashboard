@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T15:50:38.864+08:00",
+  "updatedAt": "2026-11-28T16:00:09.150+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.5,
-    "feelsLikeC": 12.4,
-    "humidity": 34,
-    "windKph": 14.1,
+    "tempC": 16.1,
+    "feelsLikeC": 12.1,
+    "humidity": 35,
+    "windKph": 13.8,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T15:50:38.864+08:00",
+    "observedAt": "2026-11-28T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T16:00:09.150+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "聚焦精品古装剧出海 《嫁金钗》研讨会举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739248.shtml",
+        "publishedAt": "2026-11-28T15:51:38.000+08:00"
+      },
+      {
+        "title": "浙江桐乡：毛衫小镇竞速“出海元年”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739247.shtml",
+        "publishedAt": "2026-11-28T15:51:30.000+08:00"
+      },
+      {
+        "title": "一只等了90年的碗丨“史诗长征” · 广东篇",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739253.shtml",
+        "publishedAt": "2026-11-28T15:49:05.000+08:00"
+      },
       {
         "title": "2026福州国际友城文化周启动",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739240.shtml",
@@ -28,24 +43,9 @@
         "title": "小城“智”变：浙江县域如何长出“AI森林”？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739245.shtml",
         "publishedAt": "2026-11-28T15:44:53.000+08:00"
-      },
-      {
-        "title": "高交会观察：人工智能扎根实体产业一线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739243.shtml",
-        "publishedAt": "2026-11-28T15:41:21.000+08:00"
-      },
-      {
-        "title": "海丝国际文化旅游节非遗体验与展演活动在福州启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739242.shtml",
-        "publishedAt": "2026-11-28T15:41:01.000+08:00"
-      },
-      {
-        "title": "八旬向东渠建设者当讲解员：讲好“江南红旗渠”故事",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-28/10739237.shtml",
-        "publishedAt": "2026-11-28T15:40:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T15:50:03.302+08:00",
+    "fetchedAt": "2026-11-28T16:00:03.531+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T15:50:37.441+08:00",
+      "fetchedAt": "2026-11-28T16:00:07.679+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T20:50:38.000+08:00"
+          "resetAt": "2026-11-28T21:00:08.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T15:50:37.680+08:00",
+      "fetchedAt": "2026-11-28T16:00:08.052+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T15:50:37.689+08:00",
+      "fetchedAt": "2026-11-28T16:00:08.061+08:00",
       "error": null
     }
   }
