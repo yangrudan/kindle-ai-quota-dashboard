@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T15:10:08.144+08:00",
+  "updatedAt": "2026-11-28T15:20:09.492+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.2,
-    "feelsLikeC": 12.8,
-    "humidity": 31,
-    "windKph": 15.4,
+    "tempC": 17,
+    "feelsLikeC": 12.7,
+    "humidity": 32,
+    "windKph": 15,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T15:10:08.145+08:00",
+    "observedAt": "2026-11-28T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T15:20:09.492+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "【赓续长征精神 奋进复兴征程】走好新的长征路 加快建设美丽新宁夏",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739221.shtml",
+        "publishedAt": "2026-11-28T15:09:55.000+08:00"
+      },
       {
         "title": "城尾乡头，搬不走的好产业",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739220.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "金观平：中国AI发展决不是“少数人的盛宴”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739218.shtml",
         "publishedAt": "2026-11-28T14:53:58.000+08:00"
-      },
-      {
-        "title": "2026中柬友好关系研讨会在柬埔寨金边举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-28/10739217.shtml",
-        "publishedAt": "2026-11-28T14:53:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T15:10:02.914+08:00",
+    "fetchedAt": "2026-11-28T15:20:03.418+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T15:10:06.771+08:00",
+      "fetchedAt": "2026-11-28T15:20:08.279+08:00",
       "error": null
     },
     "codex": {
@@ -70,7 +70,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T20:10:08.000+08:00"
+          "resetAt": "2026-11-28T20:20:09.000+08:00"
         },
         {
           "name": "周",
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T15:10:07.017+08:00",
+      "fetchedAt": "2026-11-28T15:20:08.460+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T15:10:07.022+08:00",
+      "fetchedAt": "2026-11-28T15:20:08.469+08:00",
       "error": null
     }
   }
