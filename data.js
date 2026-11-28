@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T21:10:07.546+08:00",
+  "updatedAt": "2026-11-28T21:20:10.167+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.1,
-    "feelsLikeC": 6.6,
+    "tempC": 8.9,
+    "feelsLikeC": 6.4,
     "humidity": 61,
-    "windKph": 4.4,
+    "windKph": 4.3,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T21:10:07.546+08:00",
+    "observedAt": "2026-11-28T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T21:20:10.167+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "阿富汗东部一学校附近发生爆炸致10死110伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739414.shtml",
-        "publishedAt": "2026-11-28T21:02:38.000+08:00"
+        "title": "“丝路传韵”海丝艺术展在福州闽江之心启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739426.shtml",
+        "publishedAt": "2026-11-28T21:14:11.000+08:00"
       },
       {
-        "title": "（走进中国乡村）湖南千年宁乡栀子“链”出富民产业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739412.shtml",
-        "publishedAt": "2026-11-28T21:01:40.000+08:00"
+        "title": "期待巴中科研合作结出更多硕果——访巴西科学院院长纳德尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739424.shtml",
+        "publishedAt": "2026-11-28T21:09:49.000+08:00"
       },
       {
-        "title": "短道速滑世界巡回赛上海站：中国队获得女子3000米接力赛铜牌",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739404.shtml",
-        "publishedAt": "2026-11-28T21:01:04.000+08:00"
+        "title": "福建首条直飞非洲客运航线在厦门开通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739416.shtml",
+        "publishedAt": "2026-11-28T21:07:53.000+08:00"
       },
       {
-        "title": "【好评中国】中安时评 | 服务贸易乘风起，擦亮中国新名片",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-28/10739417.shtml",
-        "publishedAt": "2026-11-28T21:00:36.000+08:00"
+        "title": "全球媒体聚焦 | 非媒：COP31遇挫 中国的领导作用日显重要",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739422.shtml",
+        "publishedAt": "2026-11-28T21:07:10.000+08:00"
       },
       {
-        "title": "四川成都：“珠玑玉佩的时光叙事”特展吸引参观者",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739392.shtml",
-        "publishedAt": "2026-11-28T21:00:32.000+08:00"
+        "title": "短道速滑世巡赛上海站：中国队收获两枚铜牌",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739415.shtml",
+        "publishedAt": "2026-11-28T21:05:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T21:10:02.452+08:00",
+    "fetchedAt": "2026-11-28T21:20:04.017+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T21:10:06.194+08:00",
+      "fetchedAt": "2026-11-28T21:20:08.688+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T21:10:06.362+08:00",
+      "fetchedAt": "2026-11-28T21:20:08.942+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T21:10:06.371+08:00",
+      "fetchedAt": "2026-11-28T21:20:08.951+08:00",
       "error": null
     }
   }
