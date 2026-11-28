@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T11:50:09.939+08:00",
+  "updatedAt": "2026-11-28T12:00:08.011+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 17,
     "feelsLikeC": 12.3,
     "humidity": 33,
-    "windKph": 20.2,
+    "windKph": 20.5,
     "windDir": "西北风",
     "place": "杭州",
-    "observedAt": "2026-11-28T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T11:50:09.939+08:00",
+    "observedAt": "2026-11-28T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T12:00:08.011+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "聚焦场馆协作与资源共享等方向 现代科技馆体系联合行动交流研讨",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739161.shtml",
-        "publishedAt": "2026-11-28T11:44:48.000+08:00"
+        "title": "理响津门 城暖万家｜一辆汽车背后的天津答卷",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739168.shtml",
+        "publishedAt": "2026-11-28T11:54:15.000+08:00"
       },
       {
-        "title": "中国水协科技委2026年度年会暨技术交流会在深圳举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739163.shtml",
-        "publishedAt": "2026-11-28T11:44:24.000+08:00"
+        "title": "商家出餐晚了 配送超时由谁担责？算法协商回应骑手关切→",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739167.shtml",
+        "publishedAt": "2026-11-28T11:52:00.000+08:00"
       },
       {
-        "title": "江苏优质网络主播培育成果展演在扬州举行 发布网络直播行业自律倡议书",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739162.shtml",
-        "publishedAt": "2026-11-28T11:44:18.000+08:00"
+        "title": "天津地铁8号线 开通运营",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739165.shtml",
+        "publishedAt": "2026-11-28T11:49:00.000+08:00"
       },
       {
-        "title": "人民论坛网评 | “快落地”也要有“慢商量”",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-28/10739160.shtml",
-        "publishedAt": "2026-11-28T11:36:00.000+08:00"
+        "title": "全国殡葬服务热线“12353”在重庆率先启用",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739159.shtml",
+        "publishedAt": "2026-11-28T11:47:00.000+08:00"
       },
       {
-        "title": "菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739149.shtml",
-        "publishedAt": "2026-11-28T11:04:28.000+08:00"
+        "title": "指数报告指出，长三角41城休闲化整体向好 优质供给成关键",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739164.shtml",
+        "publishedAt": "2026-11-28T11:45:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T11:50:03.773+08:00",
+    "fetchedAt": "2026-11-28T12:00:02.925+08:00",
     "error": null
   },
   "sources": {
@@ -60,7 +60,7 @@ window.DASH_DATA = {
           "detailText": "基础额度已用尽 · 超额 15 / 100 AIC"
         }
       ],
-      "fetchedAt": "2026-11-28T11:50:08.389+08:00",
+      "fetchedAt": "2026-11-28T12:00:06.702+08:00",
       "error": null
     },
     "codex": {
@@ -78,7 +78,7 @@ window.DASH_DATA = {
           "resetAt": "2026-12-03T15:45:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T11:50:08.657+08:00",
+      "fetchedAt": "2026-11-28T12:00:07.017+08:00",
       "error": null
     },
     "mimo": {
@@ -97,7 +97,7 @@ window.DASH_DATA = {
       "balance": 5.46,
       "currency": "CNY",
       "detail": "余额 ¥5.46",
-      "fetchedAt": "2026-11-28T11:50:08.666+08:00",
+      "fetchedAt": "2026-11-28T12:00:07.027+08:00",
       "error": null
     }
   }
